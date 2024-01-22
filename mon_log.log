@@ -386,3 +386,32 @@ Saving to: ‘kegg/aav.txt’
 
 2024-01-22 14:24:52 (239 KB/s) - ‘kegg/aav.txt’ saved [356874]
 
+--2024-01-22 16:13:41--  https://rest.kegg.jp/list/dia
+Resolving rest.kegg.jp (rest.kegg.jp)... 133.103.200.27
+Connecting to rest.kegg.jp (rest.kegg.jp)|133.103.200.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: ‘kegg/dia.txt’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  159K
+   100K .......... .......... .......... .......... .......... 66.4M
+   150K .......... .......... .......... .......... ..........  159K
+   200K .......... .......... .......... .......... ..........  317K
+   250K .......... ....                                        62.4M=1.3s
+
+2024-01-22 16:13:43 (209 KB/s) - ‘kegg/dia.txt’ saved [270480]
+
+extract_organism_sequence.sh: 15: echo: echo: I/O error
+extract_organism_sequence.sh: 15: echo: echo: I/O error
+extract_organism_sequence.sh: 14: echo: echo: I/O error
+extract_organism_sequence.sh: 15: echo: echo: I/O error
+extract_organism_sequence.sh: 14: echo: echo: I/O error
+extract_organism_sequence.sh: 15: echo: echo: I/O error
+extract_organism_sequence.sh: 14: echo: echo: I/O error
+extract_organism_sequence.sh: 15: echo: echo: I/O error
+extract_organism_sequence.sh: 14: echo: echo: I/O error
+extract_organism_sequence.sh: 15: echo: echo: I/O error
+extract_organism_sequence.sh: 14: echo: echo: I/O error
+extract_organism_sequence.sh: 15: echo: echo: I/O error
+extract_organism_sequence.sh: 14: echo: echo: 
