@@ -1,0 +1,671 @@
+icp:BAH83489.1	CDS	pAst:340..1245	repA; plasmid replication initiation protein
+icp:BAH83490.1	CDS	pAst:1278..1964	parA; plasmid stabilization protein
+icp:BAH83491.1	CDS	pAst:2040..2792	map; methionine aminopeptidase
+icp:BAH83492.1	CDS	pAst:2833..4071	astC; succinylornithine transaminase
+icp:BAH83493.1	CDS	pAst:4074..5120	astA; arginine succinyltransferase5
+icp:BAH83494.1	CDS	pAst:5080..6537	astD; succinylglutamic semialdehyde dehydrogenase
+icp:BAH83495.1	CDS	pAst:6564..7916	astB; succinylarginine dihydrolase
+icp:BAH83496.1	CDS	pAst:complement(7943..9139)	thermophilic glucose-6-phosphate isomerase
+icp:ICMP_001	CDS	579..2468	gidA; glucose-inhibited division protein A
+icp:ICMP_002	CDS	2864..3682	atpB; F0F1 ATP synthase subunit A
+icp:ICMP_003	CDS	3705..3950	atpE; F0F1 ATP synthase subunit C
+icp:ICMP_004	CDS	4004..4474	atpF; F0F1 ATP synthase subunit B
+icp:ICMP_005	CDS	4489..5022	atpH; F0F1 ATP synthase subunit delta
+icp:ICMP_006	CDS	5040..6581	atpA; F0F1 ATP synthase subunit alpha
+icp:ICMP_007	CDS	6631..7488	atpG; F0F1 ATP synthase subunit gamma
+icp:ICMP_008	CDS	7517..8923	atpD; F0F1 ATP synthase subunit beta
+icp:ICMP_009	CDS	8889..9362	atpC; F0F1 ATP synthase subunit epsilon
+icp:ICMP_010	CDS	complement(9664..11037)	trmE; tRNA modification GTPase
+icp:ICMP_011	CDS	complement(11115..12737)	yidC; inner membrane protein translocase component
+icp:ICMP_012	CDS	complement(12737..13000)	yidD; hypothetical protein
+icp:ICMP_013	CDS	complement(12964..13323)	rnpA; ribonuclease P
+icp:ICMP_014	CDS	complement(13329..13478)	rpmH; 50S ribosomal protein L34
+icp:ICMP_015	CDS	13785..15197	dnaA; chromosomal replication initiation protein
+icp:ICMP_016	CDS	15178..16302	dnaN; DNA polymerase III subunit beta
+icp:ICMP_017	CDS	16483..18900	gyrB; DNA gyrase subunit B
+icp:ICMP_018	CDS	19038..19703	dnaT; primosomal protein I
+icp:ICMP_019	CDS	19703..20443	dnaC; DNA biosynthesis protein
+icp:ICMP_020	CDS	20553..21521	glyQ; glycyl-tRNA synthetase subunit alpha
+icp:ICMP_021	CDS	21445..23538	glyS; glycyl-tRNA synthetase subunit beta
+icp:ICMP_022	CDS	23604..24413	fdhD; formate dehydrogenase accessory protein
+icp:ICMP_023	CDS	24495..25109	sodA; superoxide dismutase(Mn)
+icp:ICMP_024	CDS	complement(25167..26330)	argE; acetylornithine deacetylase
+icp:ICMP_025	CDS	26436..27440	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+icp:ICMP_026	CDS	27456..28235	argB; acetylglutamate kinase
+icp:ICMP_027	CDS	28266..29483	argG; argininosuccinate synthase
+icp:ICMP_028	CDS	29524..30909	argH; argininosuccinate lyase
+icp:ICMP_029	rRNA	31999..33540	rrs; 16S ribosomal RNA
+icp:ICMP_030	tRNA	33603..33679	trnI; tRNA-Ile
+icp:ICMP_031	tRNA	33683..33758	trnA; tRNA-Ala
+icp:ICMP_032	rRNA	33882..36785	rrl; 23S ribosomal RNA
+icp:ICMP_033	rRNA	36861..36983	rrf; 5S ribosomal RNA
+icp:ICMP_034	tRNA	37035..37114	trnD; tRNA-Asp
+icp:ICMP_035	tRNA	37128..37206	trnW; tRNA-Trp
+icp:ICMP_036	CDS	38821..40671	ilvD; dihydroxy-acid dehydratase
+icp:ICMP_037	CDS	40677..42209	ilvA; threonine dehydratase
+icp:ICMP_038	CDS	43026..44501	ilvC; ketol-acid reductoisomerase
+icp:ICMP_039	CDS	45191..46006	sgaU; L-xylulose 5-phosphate 3-epimerase like protein
+icp:ICMP_040	CDS	46163..48232	prlC; oligopeptidase A
+icp:ICMP_041	CDS	48213..48959	yhiQ; predicted SAM-dependent methyltransferase
+icp:ICMP_042	CDS	49279..50151	accD; acetyl-CoA carboxylase subunit beta
+icp:ICMP_043	CDS	50144..51403	folC; bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+icp:ICMP_044	CDS	51505..51972	cvpA; membrane protein required for colicin V production
+icp:ICMP_045	CDS	52107..52670	ubiX; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+icp:ICMP_046	CDS	complement(52654..54816)	pta; phosphate acetyltransferase
+icp:ICMP_047	CDS	complement(54830..56053)	ackA; acetate kinase
+icp:ICMP_048	CDS	56598..57014	nuoA; NADH:ubiquinone oxidoreductase chain A
+icp:ICMP_049	CDS	57011..57688	nuoB; NADH:ubiquinone oxidoreductase chain B
+icp:ICMP_050	CDS	57768..59573	nuoC; NADH:ubiquinone oxidoreductase chain C,D
+icp:ICMP_051	CDS	59576..60091	nuoE; NADH:ubiquinone oxidoreductase chain E
+icp:ICMP_052	CDS	60088..61374	nuoF; NADH:ubiquinone oxidoreductase chain F
+icp:ICMP_053	CDS	61545..64265	nuoG; NADH:ubiquinone oxidoreductase chain G
+icp:ICMP_054	CDS	64253..65218	nuoH; NADH:ubiquinone oxidoreductase chain H
+icp:ICMP_055	CDS	65228..65770	nuoI; NADH:ubiquinone oxidoreductase chain I
+icp:ICMP_056	CDS	65782..66282	nuoJ; NADH:ubiquinone oxidoreductase chain J
+icp:ICMP_057	CDS	66323..66625	nuoK; NADH:ubiquinone oxidoreductase chain K
+icp:ICMP_058	CDS	66622..68475	nuoL; NADH:ubiquinone oxidoreductase chain L
+icp:ICMP_059	CDS	68522..70084	nuoM; NADH:ubiquinone oxidoreductase chain M
+icp:ICMP_060	CDS	70102..71571	nuoN; NADH:ubiquinone oxidoreductase chain N
+icp:ICMP_061	CDS	71657..71986	elaB; hypothetical protein
+icp:ICMP_062	CDS	complement(72156..72416)	yfaE; predicted 2Fe-2S cluster-containing protein
+icp:ICMP_063	CDS	complement(72419..73552)	nrdB; ribonucleotide-diphosphate reductase beta subunit
+icp:ICMP_064	CDS	complement(73606..75894)	nrdA; ribonucleotide-diphosphate reductase alpha subunit
+icp:ICMP_065	CDS	76215..78782	gyrA; DNA gyrase subunit A
+icp:ICMP_066	CDS	79475..80770	serS; seryl-tRNA synthetase
+icp:ICMP_067	CDS	81085..81645	phospholipid N-methyltransferase
+icp:ICMP_068	CDS	complement(81726..82532)	suhB; inositol monophosphatase
+icp:ICMP_069	CDS	82961..84103	iscS; cysteine desulfurase
+icp:ICMP_070	CDS	84193..84636	ndk; nucleoside diphosphate kinase
+icp:ICMP_071	CDS	84700..85863	yfgB; predicted enzyme
+icp:ICMP_072	CDS	86867..88147	hisS; histidyl-tRNA synthetase
+icp:ICMP_073	CDS	88163..88792	yfgM; hypothetical protein
+icp:ICMP_074	CDS	88793..90052	yfgL; hypothetical protein
+icp:ICMP_075	CDS	90127..91548	der; GTP-binding protein EngA
+icp:ICMP_076	CDS	91682..93157	guaB; inositol-5-monophosphate dehydrogenase
+icp:ICMP_077	CDS	93190..94770	guaA; bifunctional GMP synthase/glutamine amidotransferase protein
+icp:ICMP_078	CDS	complement(94879..95358)	bcp; thioredoxin-dependent thiol peroxidase
+icp:ICMP_079	CDS	95752..96633	dapA; dihydrodipicolinate synthase
+icp:ICMP_080	CDS	96647..97333	nlpB; lipoprotein
+icp:ICMP_081	CDS	complement(97518..98645)	dapE; succinyl-diaminopimelate desuccinylase
+icp:ICMP_082	CDS	100208..100783	ydjM; predicted inner membrane protein regulated by LexA
+icp:ICMP_083	CDS	101325..102092	fabI; enoyl-(acyl carrier protein) reductase
+icp:ICMP_084	CDS	102268..104217	rnb; exoribonuclease II
+icp:ICMP_085	CDS	complement(104282..105001)	pyrF; orotidine 5'-phosphate decarboxylase
+icp:ICMP_086	CDS	complement(105130..105867)	pgpB; phosphatidylglycerophosphatase B
+icp:ICMP_087	CDS	106033..106626	ribA; GTP cyclohydrolase II protein
+icp:ICMP_088	CDS	complement(106639..109329)	acnA; aconitate hydratase
+icp:ICMP_089	CDS	complement(109361..110335)	cysB; DNA-binding transcriptional dual regulator
+icp:ICMP_090	CDS	complement(111150..112151)	sohB; predicted inner membrane peptidase
+icp:ICMP_091	CDS	112522..114087	trpE; anthranilate synthase component I
+icp:ICMP_092	CDS	114047..114676	trpD_1; bifunctional indole-3-glycerol-phosphate synthase/anthranilate phosphoribosyltransferase
+icp:ICMP_093	CDS	114680..115678	trpD_2; bifunctional indole-3-glycerol-phosphate synthase/anthranilate phosphoribosyltransferase
+icp:ICMP_094	CDS	115680..117086	trpC; bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+icp:ICMP_095	CDS	117088..118293	trpB; tryptophan synthase subunit beta
+icp:ICMP_096	CDS	118277..119089	trpA; tryptophan synthase subunit alpha
+icp:ICMP_097	CDS	complement(119784..120593)	truA; tRNA pseudouridine synthase A
+icp:ICMP_098	CDS	complement(120721..121860)	pdxB; erythronate-4-phosphate dehydrogenase
+icp:ICMP_099	CDS	complement(121930..123159)	fabB; 3-oxoacyl-(acyl carrier protein) synthase
+icp:ICMP_100	CDS	complement(123273..124361)	aroC; chorismate synthase
+icp:ICMP_101	CDS	complement(124423..125343)	prmB; N5-glutamine methyltransferase
+icp:ICMP_102	tRNA	125626..125700	trnR; tRNA-Arg
+icp:ICMP_103	CDS	125884..126393	yclD; hypothetical protein
+icp:ICMP_104	CDS	complement(126397..127872)	ubiD; 3-octaprenyl-4-hydroxybenzoate decarboxylase
+icp:ICMP_105	CDS	complement(128136..129101)	glk; glucokinase
+icp:ICMP_106	tRNA	complement(130908..130985)	trnA; tRNA-Ala
+icp:ICMP_107	CDS	complement(131057..132478)	gltX; glutamyl-tRNA synthetase
+icp:ICMP_108	tRNA	132734..132812	trnV; tRNA-Val
+icp:ICMP_109	tRNA	132816..132894	trnK; tRNA-Lys
+icp:ICMP_110	CDS	133071..134036	yfeH; predicted inner membrane protein
+icp:ICMP_111	CDS	complement(134039..136090)	ligA; NAD-dependent DNA ligase LigA
+icp:ICMP_112	CDS	136290..137240	cysK; cysteine synthase A
+icp:ICMP_113	CDS	137457..137990	ppa; inorganic pyrophosphatase
+icp:ICMP_114	CDS	complement(138104..138871)	bioH; carboxylesterase of pimeloyl-CoA synthesis
+icp:ICMP_115	CDS	138986..139567	gntY; predicted gluconate transport associated protein
+icp:ICMP_116	CDS	complement(139623..140417)	thyA; thymidylate synthase
+icp:ICMP_117	CDS	complement(140414..141280)	lgt; prolipoprotein diacylglyceryl transferase
+icp:ICMP_118	CDS	141676..142362	mutH; DNA mismatch repair protein
+icp:ICMP_119	CDS	142407..143129	ygdQ; predicted inner membrane protein
+icp:ICMP_120	CDS	143207..145786	mutS; DNA mismatch repair protein
+icp:ICMP_121	CDS	complement(145858..146796)	rpoS; RNA polymerase sigma factor
+icp:ICMP_122	CDS	complement(148448..148723)	ftsB; cell divison protein FtsB
+icp:ICMP_123	CDS	complement(148861..149460)	cysC; adenylylsulfate kinase
+icp:ICMP_124	CDS	complement(149457..150893)	cysN; sulfate adenylyltransferase subunit 1
+icp:ICMP_125	CDS	complement(150906..151814)	cysD; sulfate adenylyltransferase subunit 2
+icp:ICMP_126	CDS	complement(151859..153232)	cysG; fused siroheme synthase 1,3-dimethyluroporphyriongen III dehydrogenase and siroheme ferrochelatase/uroporphyrinogen methyltransferase
+icp:ICMP_127	CDS	complement(153365..154096)	cysH; phosphoadenosine phosphosulfate reductase
+icp:ICMP_128	CDS	complement(154113..155825)	cysI; sulfite reductase beta subunit
+icp:ICMP_129	CDS	complement(155825..157621)	cysJ; sulfite reductase alpha subunit
+icp:ICMP_130	CDS	complement(158002..159300)	eno; phosphopyruvate hydratase
+icp:ICMP_131	CDS	complement(159348..160988)	pyrG; CTP synthetase
+icp:ICMP_132	tRNA	161826..161905	trnM; tRNA-Met
+icp:ICMP_133	CDS	161966..163351	argA; N-acetylglutamate synthase
+icp:ICMP_134	CDS	complement(163356..165182)	recD; RecBCD complex alpha chain
+icp:ICMP_135	CDS	complement(165175..168720)	recB; RecBCD complex beta subunit
+icp:ICMP_136	CDS	complement(168741..172013)	recC; RecBCD complex gamma chain
+icp:ICMP_137	CDS	complement(172131..173243)	asd; aspartate-semialdehyde dehydrogenase
+icp:ICMP_138	CDS	173448..174038	yhgN; predicted antibiotic transporter
+icp:ICMP_139	CDS	complement(174111..174977)	rpoH; RNA polymerase sigma factor
+icp:ICMP_140	CDS	complement(175250..176182)	ftsY; fused signal recognition particle receptor
+icp:ICMP_141	CDS	176278..176862	yhhF; predicted methyltransferase
+icp:ICMP_142	CDS	complement(176943..177194)	yhhP; cell developmental protein SirA
+icp:ICMP_143	CDS	complement(177277..178344)	ygfZ; putative global regulator
+icp:ICMP_144	CDS	178356..178613	ygfY; TFIIB like protein
+icp:ICMP_145	CDS	complement(178633..178779)	hypothetical protein
+icp:ICMP_146	CDS	178745..178912	hypothetical protein
+icp:ICMP_147	CDS	179605..180483	prfB; peptide chain release factor 2
+icp:ICMP_148	CDS	180660..182168	lysS; lysine tRNA synthetase
+icp:ICMP_149	CDS	182344..183615	lysA; diaminopimelate decarboxylase
+icp:ICMP_150	CDS	184435..185052	ygfA; predicted ligase
+icp:ICMP_151	CDS	complement(185103..185762)	rpiA; ribose-5-phosphate isomerase A
+icp:ICMP_152	CDS	complement(185960..187039)	fbaA; fructose-bisphosphate aldolase
+icp:ICMP_153	CDS	complement(187125..188291)	pgk; phosphoglycerate kinase
+icp:ICMP_154	CDS	complement(188841..190832)	tktA; transketolase
+icp:ICMP_155	CDS	complement(191112..192167)	obgE; GTPase
+icp:ICMP_156	CDS	complement(192207..192467)	rpmA; 50S ribosomal protein L27
+icp:ICMP_157	CDS	complement(192495..192824)	rplU; 50S ribosomal protein L21
+icp:ICMP_158	CDS	complement(192846..194114)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+icp:ICMP_159	CDS	complement(194160..194411)	yrbA; predicted DNA-binding transcriptional regulator
+icp:ICMP_160	CDS	complement(195020..195475)	sspB; ClpXP protease specificity-enhancing factor
+icp:ICMP_161	CDS	complement(195591..195986)	rpsI; 30S ribosomal protein S9
+icp:ICMP_162	CDS	complement(196005..196433)	rplM; 50S ribosomal protein L13
+icp:ICMP_163	CDS	complement(196612..197742)	yhcM; hypothetical protein
+icp:ICMP_164	CDS	complement(197873..198850)	poxA; hypothetical protein
+icp:ICMP_165	CDS	complement(198992..199561)	efp; elongation factor P
+icp:ICMP_166	CDS	199555..200607	yjeK; lysine 2,3-aminomutase
+icp:ICMP_167	CDS	complement(200723..202369)	groL; chaperonin GroEL
+icp:ICMP_168	CDS	complement(202410..202742)	groS; co-chaperonin GroES
+icp:ICMP_169	CDS	complement(203045..203824)	cysQ; PAPS (adenosine 3'-phosphate 5'-phosphosulfate) 3'(2'),5'-bisphosphate nucleotidase
+icp:ICMP_170	CDS	complement(203910..204359)	rplI; 50S ribosomal protein L9
+icp:ICMP_171	CDS	complement(204392..204634)	rpsR; 30S ribosomal protein S18
+icp:ICMP_172	CDS	complement(204872..205240)	rpsF; 30S ribosomal protein S6
+icp:ICMP_173	CDS	complement(205439..206203)	rlmB; 23S rRNA (Gm2251)-methyltransferase
+icp:ICMP_174	CDS	complement(206194..208473)	rnr; exoribonuclease R
+icp:ICMP_175	CDS	complement(208671..209963)	purA; adenylosuccinate synthetase
+icp:ICMP_176	CDS	complement(210228..211508)	hflX; predicted GTPase
+icp:ICMP_177	CDS	complement(211561..212517)	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+icp:ICMP_178	CDS	complement(212504..214273)	mutL; DNA mismatch repair protein
+icp:ICMP_179	CDS	complement(214371..215822)	amiB; N-acetylmuramoyl-l-alanine amidase II
+icp:ICMP_180	CDS	complement(215985..217487)	yjeF; predicted carbohydrate kinase
+icp:ICMP_181	tRNA	complement(217674..217752)	trnG; tRNA-Gly
+icp:ICMP_182	CDS	complement(217847..218380)	orn; oligoribonuclease
+icp:ICMP_183	CDS	218893..222132	yjeP; predicted mechanosensitive channel
+icp:ICMP_184	CDS	complement(222727..223674)	mdh; malate dehydrogenase
+icp:ICMP_185	CDS	complement(223832..225295)	tldD; predicted peptidase
+icp:ICMP_186	CDS	complement(225423..225806)	mreD; cell wall structural complex MreBCD
+icp:ICMP_187	CDS	complement(225942..226835)	mreC; cell wall structural complex MreBCD
+icp:ICMP_188	CDS	complement(226928..227971)	mreB; cell wall structural complex MreBCD
+icp:ICMP_189	CDS	228688..229137	aroD; 3-dehydroquinate dehydratase
+icp:ICMP_190	CDS	229153..229581	accB; acetyl-CoA carboxylase
+icp:ICMP_191	CDS	229578..230930	accC; acetyl-CoA carboxylase
+icp:ICMP_192	CDS	233428..235164	proS; prolyl-tRNA synthetase
+icp:ICMP_193	CDS	complement(235179..236498)	tilS; tRNA(Ile)-lysidine synthetase
+icp:ICMP_194	CDS	complement(236591..237556)	accA; acetyl-CoA carboxylase subunit alpha
+icp:ICMP_195	CDS	complement(237574..241050)	dnaE; DNA polymerase III subunit alpha
+icp:ICMP_196	CDS	complement(241107..241727)	rnhB; ribonuclease HII
+icp:ICMP_197	CDS	complement(241765..242028)	fabZ; (3R)-hydroxymyristoyl ACP dehydratase
+icp:ICMP_198	CDS	complement(242025..242213)	fabZ; (3R)-hydroxymyristoyl ACP dehydratase
+icp:ICMP_199	CDS	complement(242398..244614)	yaeT; hypothetical protein
+icp:ICMP_200	CDS	complement(244646..246007)	yaeL; zinc metallopeptidase
+icp:ICMP_201	CDS	complement(246762..247532)	ispU; undecaprenyl pyrophosphate synthase
+icp:ICMP_202	CDS	complement(248254..248811)	frr; ribosome releasing factor
+icp:ICMP_203	CDS	complement(248915..249628)	pyrH; uridylate kinase
+icp:ICMP_204	CDS	complement(249786..250583)	tsf; elongation factor Ts
+icp:ICMP_205	CDS	complement(250672..251382)	rpsB; 30S ribosomal protein S2
+icp:ICMP_206	CDS	251823..252680	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+icp:ICMP_207	CDS	252759..253475	pfs; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+icp:ICMP_208	CDS	complement(253516..253872)	yadR; hypothetical protein
+icp:ICMP_209	CDS	254192..254650	dksA; DnaK suppressor protein
+icp:ICMP_210	CDS	255051..256379	pcnB; poly(A) polymerase I
+icp:ICMP_211	CDS	256379..256864	folK; 2-amino-4-hydroxy-6-hydroxymethyldihyropteridine pyrophosphokinase
+icp:ICMP_212	CDS	256940..257731	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+icp:ICMP_213	CDS	257751..258599	panC; pantoate-beta-alanine ligase
+icp:ICMP_214	CDS	258801..259613	xthA; exonuclease III
+icp:ICMP_215	CDS	259679..260872	hypothetical protein
+icp:ICMP_216	CDS	complement(261321..262091)	yadH; predicted transporter subunit
+icp:ICMP_217	CDS	complement(262088..263011)	yadG; predicted transporter subunit
+icp:ICMP_218	CDS	complement(263099..263635)	hpt; hypoxanthine-guanine phosphoribosyltransferase
+icp:ICMP_219	CDS	264421..266196	sppA; protease IV
+icp:ICMP_220	CDS	266412..267422	gapA; glyceraldehyde-3-phosphate dehydrogenase
+icp:ICMP_221	CDS	267608..268300	minC; septum formation inhibitor
+icp:ICMP_222	CDS	268337..269149	minD; embrane ATPase
+icp:ICMP_223	CDS	269156..269407	minE; cell division topological specificity factor MinE
+icp:ICMP_224	CDS	complement(269495..270175)	yeaZ; predicted peptidase
+icp:ICMP_225	CDS	270336..271688	pabB; para-aminobenzoate synthase component I
+icp:ICMP_226	CDS	complement(271716..272633)	htpX; heat shock protein HtpX
+icp:ICMP_227	CDS	complement(272976..274442)	zwf; glucose-6-phosphate 1-dehydrogenase
+icp:ICMP_228	CDS	complement(277530..278540)	ruvB; Holliday junction DNA helicase B
+icp:ICMP_229	CDS	complement(278503..279117)	ruvA; Holliday junction DNA helicase motor protein
+icp:ICMP_230	tRNA	complement(279295..279371)	trnR; tRNA-Arg
+icp:ICMP_231	CDS	279532..280395	folD; bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase
+icp:ICMP_232	CDS	complement(280516..281889)	cysS; cysteinyl-tRNA synthetase
+icp:ICMP_233	CDS	282976..283605	ychE; predicted inner membrane protein
+icp:ICMP_234	CDS	complement(283680..285155)	cls; cardiolipin synthetase
+icp:ICMP_235	CDS	285446..286606	tgt; queuine tRNA-ribosyltransferase
+icp:ICMP_236	CDS	286931..288778	secD; protein export protein SecD
+icp:ICMP_237	CDS	288723..289754	secF; protein export protein SecF
+icp:ICMP_238	CDS	289941..291056	ribD; fused diaminohydroxyphosphoribosylaminopyrimidin e deaminase and 5-amino-6-(5-phosphoribosylamino) uracil reductase
+icp:ICMP_239	CDS	291106..291570	ribE; riboflavin synthase subunit beta
+icp:ICMP_240	CDS	291594..292013	nusB; transcription antitermination protein NusB
+icp:ICMP_241	CDS	292361..293794	phr; deoxyribodipyrimidine photolyas
+icp:ICMP_242	CDS	complement(293872..295053)	tsgA; hypothetical protein
+icp:ICMP_243	CDS	295241..295810	pabA; para-aminobenzoate synthase component II
+icp:ICMP_244	CDS	296076..296456	yheN; hypothetical protein tusD
+icp:ICMP_245	CDS	296453..296812	yheM; hypothetical protein tusC
+icp:ICMP_246	CDS	296823..297110	yheL; predicted intracellular sulfur oxidation protein tusB
+icp:ICMP_247	CDS	297224..297598	rpsL; 30S ribosomal protein S12
+icp:ICMP_248	CDS	297660..298130	rpsG; 30S ribosomal protein S7
+icp:ICMP_249	CDS	298210..300315	fusA; elongation factor EF-2
+icp:ICMP_250	CDS	300352..301551	tufB; protein chain elongation factor EF-Tu
+icp:ICMP_251	CDS	301770..302093	rpsJ; 30S ribosomal protein S10
+icp:ICMP_252	CDS	302113..302754	rplC; 50S ribosomal protein L3
+icp:ICMP_253	CDS	302764..303369	rplD; 50S ribosomal protein L4
+icp:ICMP_254	CDS	303366..303674	rplW; 50S ribosomal protein L23
+icp:ICMP_255	CDS	303667..304512	rplB; 50S ribosomal protein L2
+icp:ICMP_256	CDS	304532..304810	rpsS; 30S ribosomal protein S19
+icp:ICMP_257	CDS	304826..305158	rplV; 50S ribosomal protein L22
+icp:ICMP_258	CDS	305155..305889	rpsC; 30S ribosomal protein S3
+icp:ICMP_259	CDS	305889..306299	rplP; 50S ribosomal protein L16
+icp:ICMP_260	CDS	306299..306538	rpmC; 50S ribosomal protein L29
+icp:ICMP_261	CDS	306543..306749	rpsQ; 30S ribosomal protein S17
+icp:ICMP_262	CDS	306821..307195	rplN; 50S ribosomal protein L14
+icp:ICMP_263	CDS	307192..307536	rplX; 50S ribosomal protein L24
+icp:ICMP_264	CDS	307538..308077	rplE; 50S ribosomal protein L5
+icp:ICMP_265	CDS	308092..308397	rpsN; 30S ribosomal protein S14
+icp:ICMP_266	CDS	308420..308818	rpsH; 30S ribosomal protein S8
+icp:ICMP_267	CDS	308803..309372	rplF; 50S ribosomal protein L6
+icp:ICMP_268	CDS	309332..309730	rplR; 50S ribosomal protein L18
+icp:ICMP_269	CDS	309744..310256	rpsE; 30S ribosomal protein S5
+icp:ICMP_270	CDS	310240..310428	rpmD; 50S ribosomal protein L30
+icp:ICMP_271	CDS	310431..310865	rplO; 50S ribosomal protein L15
+icp:ICMP_272	CDS	310875..312176	secY; protein translocase subunit SecY
+icp:ICMP_273	CDS	312215..312331	rpmJ; 50S ribosomal protein L36
+icp:ICMP_274	CDS	312440..312796	rpsM; 30S ribosomal protein S13
+icp:ICMP_275	CDS	312810..313199	rpsK; 30S ribosomal protein S11
+icp:ICMP_276	CDS	313241..313861	rpsD; 30S ribosomal protein S4
+icp:ICMP_277	CDS	313892..314875	rpoA; DNA-directed RNA polymerase subunit alpha
+icp:ICMP_278	CDS	314924..315292	rplQ; 50S ribosomal protein L17
+icp:ICMP_279	CDS	complement(315369..316316)	fmt; methionyl-tRNA formyltransferase
+icp:ICMP_280	CDS	complement(316359..316862)	def; peptide deformylase
+icp:ICMP_281	CDS	317527..318381	aroE; dehydroshikimate reductase
+icp:ICMP_282	rRNA	318636..320184	rrs; 16S ribosomal RNA
+icp:ICMP_283	rRNA	320431..323334	rrl; 23S ribosomal RNA
+icp:ICMP_284	rRNA	323410..323532	rrf; 5S ribosomal RNA
+icp:ICMP_285	CDS	323702..324178	greA; transcription elongation factor GreA
+icp:ICMP_286	CDS	324213..324848	rrmJ; 23S rRNA methyltransferase
+icp:ICMP_287	CDS	324938..326776	ftsH; protease
+icp:ICMP_288	CDS	326785..327672	folP; 7,8-dihydropteroate synthase
+icp:ICMP_289	CDS	328748..329038	secG; protein-export membrane protein
+icp:ICMP_290	tRNA	329081..329169	trnL; tRNA-Leu
+icp:ICMP_291	CDS	329406..330923	nusA; transcription elongation factor NusA
+icp:ICMP_292	CDS	330920..333571	infB; translation initiation factor IF-2
+icp:ICMP_293	CDS	333639..334046	rbfA; ribosome-binding factor A
+icp:ICMP_294	CDS	334043..334993	truB; tRNA pseudouridine synthase B
+icp:ICMP_295	CDS	335124..335420	rpsO; 30S ribosomal protein S15
+icp:ICMP_296	CDS	335647..337770	pnp; polynucleotide phosphorylase/polyadenylase
+icp:ICMP_297	CDS	338129..339817	deaD; ATP-dependent RNA helicase
+icp:ICMP_298	CDS	complement(339907..342786)	valS; valyl-tRNA synthetase
+icp:ICMP_299	CDS	complement(343094..344596)	pepA; leucyl aminopeptidase
+icp:ICMP_300	CDS	344777..345781	argI; ornithine carbamoyltransferase 1
+icp:ICMP_301	CDS	345984..346913	pyrB; aspartate carbamoyltransferase catalytic subunit
+icp:ICMP_302	CDS	346935..347420	pyrI; aspartate carbamoyltransferase regulatory subunit
+icp:ICMP_303	CDS	347421..347831	yjgF; ketoacid-binding protein
+icp:ICMP_304	tRNA	347988..348075	trnL; tRNA-Leu
+icp:ICMP_305	CDS	348281..348724	rimI; ribosomal-protein-alanine N-acetyltransferase
+icp:ICMP_306	CDS	348828..350204	radA; predicted repair protein
+icp:ICMP_307	CDS	350977..353427	thrA; bifunctional aspartokinase I/homeserine dehydrogenase I
+icp:ICMP_308	CDS	353445..354374	thrB; homoserine kinase
+icp:ICMP_309	CDS	354378..355664	thrC; threonine synthase
+icp:ICMP_310	CDS	355788..356756	talB; transaldolase B
+icp:ICMP_311	CDS	356825..357385	mog; molybdenum cofactor biosynthesis protein
+icp:ICMP_312	CDS	357628..359529	dnaK; molecular chaperone DnaK
+icp:ICMP_313	CDS	359640..360758	dnaJ; chaperone Hsp40
+icp:ICMP_314	CDS	complement(360883..361212)	rpsT; 30S ribosomal protein S20
+icp:ICMP_315	CDS	361866..364682	ileS; isoleucyl-tRNA synthetase
+icp:ICMP_316	CDS	364682..365173	lspA; signal peptidase II
+icp:ICMP_317	CDS	365475..366290	dapB; dihydrodipicolinate reductase
+icp:ICMP_318	CDS	366373..367605	carA; carbamoyl-phosphate synthase small subunit
+icp:ICMP_319	CDS	367605..370844	carB; carbamoyl-phosphate synthase large subunit
+icp:ICMP_320	CDS	370868..371371	folA; dihydrofolate reductase
+icp:ICMP_321	CDS	complement(371338..372192)	apaH; diadenosinetetraphosphatase
+icp:ICMP_322	CDS	complement(372315..373163)	ksgA; dimethyladenosine transferase
+icp:ICMP_323	CDS	complement(373153..374148)	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+icp:ICMP_324	CDS	complement(374455..374955)	lrp; DNA-binding transcriptional dual regulator
+icp:ICMP_325	CDS	375307..376290	trxB; thioredoxin reductase
+icp:ICMP_326	CDS	376546..376767	infA; translation initiation factor IF-1
+icp:ICMP_327	CDS	377102..377212	hypothetical protein
+icp:ICMP_328	CDS	complement(378037..378954)	rimK; ribosomal protein S6 modification protein
+icp:ICMP_329	CDS	complement(379027..380385)	dacC; D-alanyl-D-alanine carboxypeptidase
+icp:ICMP_330	CDS	380465..381688	moeA; molybdopterin biosynthesis protein
+icp:ICMP_331	CDS	381692..382456	moeB; molybdopterin biosynthesis protein MoeB
+icp:ICMP_332	CDS	complement(382562..382762)	hns; hypothetical protein
+icp:ICMP_333	CDS	382768..382872	hypothetical protein
+icp:ICMP_334	CDS	complement(383287..383472)	hypothetical protein
+icp:ICMP_335	CDS	complement(383649..384299)	adk; adenylate kinase
+icp:ICMP_336	CDS	complement(384422..386296)	htpG; heat shock protein 90
+icp:ICMP_337	CDS	complement(386496..386822)	ybaB; hypothetical protein
+icp:ICMP_338	CDS	complement(386857..388740)	dnaX; DNA polymerase III subunits gamma and tau
+icp:ICMP_339	CDS	complement(388809..389387)	apt; adenine phosphoribosyltransferase
+icp:ICMP_340	ncRNA	complement(389762..389878)	ffs; 4.5S sRNA
+icp:ICMP_341	CDS	complement(390143..391990)	ppiD; peptidyl-prolyl cis-trans isomerase
+icp:ICMP_342	CDS	complement(392160..394541)	lon; DNA-binding ATP-dependent protease La
+icp:ICMP_343	CDS	complement(394648..395919)	clpX; ATP-dependent protease ATP-binding subunit
+icp:ICMP_344	CDS	complement(396056..396640)	clpP; ATP-dependent Clp protease proteolytic subunit
+icp:ICMP_345	CDS	complement(396772..398094)	tig; trigger factor
+icp:ICMP_346	CDS	complement(398183..398575)	bolA; regulator of penicillin binding proteins and beta lactamase transcription
+icp:ICMP_347	CDS	398946..399827	cyoA; cytochrome o ubiquinol oxidase subunit II
+icp:ICMP_348	CDS	399899..401884	cyoB; cytochrome o ubiquinol oxidase subunit I
+icp:ICMP_349	CDS	401884..402495	cyoC; cytochrome o ubiquinol oxidase subunit III
+icp:ICMP_350	CDS	402450..402818	cyoD; cytochrome o ubiquinol oxidase subunit IV
+icp:ICMP_351	CDS	402834..403688	cyoE; protoheme IX farnesyltransferase
+icp:ICMP_352	CDS	403789..405168	yajR; predicted transporter MFS family
+icp:ICMP_353	CDS	406305..408182	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+icp:ICMP_354	CDS	complement(408875..409351)	ibpA; heat shock chaperone
+icp:ICMP_355	CDS	409586..411025	sbcB; exonuclease I
+icp:ICMP_356	CDS	complement(411033..412214)	icd; isocitrate dehydrogenase
+icp:ICMP_357	CDS	412361..413449	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+icp:ICMP_358	CDS	413513..414925	purB; adenylosuccinate lyase
+icp:ICMP_359	CDS	415053..416168	potA; putrescine/spermidine ABC transporter ATPase protein
+icp:ICMP_360	CDS	416152..417018	potB; spermidine/putrescine ABC transporter membrane protein
+icp:ICMP_361	CDS	417023..417802	potC; spermidine/putrescine ABC transporter membrane protein
+icp:ICMP_362	CDS	417812..418855	potD; spermidine/putrescine ABC transporter periplasmic substrate-binding protein
+icp:ICMP_363	CDS	419128..422544	mfd; transcription-repair coupling factor
+icp:ICMP_364	CDS	complement(422563..422931)	hinT; purine nucleoside phosphoramidase
+icp:ICMP_365	CDS	complement(422994..423776)	ycfH; predicted metallodependent hydrolase
+icp:ICMP_366	CDS	complement(423795..424811)	holB; DNA polymerase III subunit delta'
+icp:ICMP_367	CDS	complement(424787..425422)	tmk; thymidylate kinase
+icp:ICMP_368	CDS	complement(425598..426401)	pabC; 4-amino-4-deoxychorismate lyase
+icp:ICMP_369	CDS	complement(426602..426985)	acpP; acyl carrier protein
+icp:ICMP_370	CDS	complement(426973..427704)	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+icp:ICMP_371	CDS	complement(427715..428668)	fabD; acyl carrier protein S-malonyltransferase
+icp:ICMP_372	CDS	complement(429559..429729)	rpmF; 50S ribosomal protein L32
+icp:ICMP_373	CDS	complement(429875..430828)	rluC; 23S rRNA pseudouridylate synthase
+icp:ICMP_374	CDS	431136..432554	rne; fused ribonucleaseE: endoribonuclease/RNA-binding protein/RNA degradosome binding protein
+icp:ICMP_375	CDS	434455..435480	pyrC; dihydroorotase
+icp:ICMP_376	CDS	complement(435664..436632)	yceA; hypothetical protein
+icp:ICMP_377	CDS	complement(436918..437202)	ihfB; integration host factor subunit beta
+icp:ICMP_378	CDS	complement(437259..438890)	rpsA; 30S ribosomal protein S1
+icp:ICMP_379	CDS	complement(438994..439761)	cmk; cytidylate kinase
+icp:ICMP_380	CDS	complement(439789..441126)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+icp:ICMP_381	CDS	complement(441172..442257)	serC; phosphoserine aminotransferase
+icp:ICMP_382	CDS	complement(442544..443797)	glyA; serine hydroxymethyltransferase
+icp:ICMP_383	CDS	complement(444026..444565)	tadA; tRNA-specific adenosine deaminase
+icp:ICMP_384	CDS	complement(444782..446194)	lpd; dihydrolipoamide dehydrogenase
+icp:ICMP_385	CDS	complement(446297..447856)	aceF; dihydrolipoamide acetyltransferase
+icp:ICMP_386	CDS	complement(447853..450519)	aceE; pyruvate dehydrogenase subunit E1
+icp:ICMP_387	CDS	450787..451440	coaE; dephospho-CoA kinase
+icp:ICMP_388	CDS	complement(451471..451620)	yacG; zinc-finger protein
+icp:ICMP_389	CDS	complement(451743..454271)	secA; translocase
+icp:ICMP_390	CDS	complement(454629..455768)	ftsZ; cell division protein FtsZ
+icp:ICMP_391	CDS	complement(455821..457074)	ftsA; cell division protein
+icp:ICMP_392	CDS	complement(457109..457816)	ftsQ; membrane anchored protein
+icp:ICMP_393	CDS	complement(457852..458781)	ddlB; D-alanylalanine synthetase
+icp:ICMP_394	CDS	complement(458785..460245)	murC; UDP-N-acetylmuramate--L-alanine ligase
+icp:ICMP_395	CDS	complement(460295..461362)	murG; N-acetylglucosaminyl transferase
+icp:ICMP_396	CDS	complement(461362..462609)	ftsW; integral membrane protein
+icp:ICMP_397	CDS	complement(462576..463892)	murD; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+icp:ICMP_398	CDS	complement(463895..464968)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+icp:ICMP_399	CDS	complement(464949..466322)	murF; UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase
+icp:ICMP_400	CDS	complement(466319..467803)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+icp:ICMP_401	CDS	complement(467824..469488)	ftsI; transpeptidase
+icp:ICMP_402	CDS	complement(469466..469816)	ftsL; membrane bound cell division protein at septum containing leucine zipper motif
+icp:ICMP_403	CDS	complement(469817..470797)	mraW; S-adenosyl-methyltransferase
+icp:ICMP_404	CDS	complement(470817..471314)	ilvH; acetolactate synthase small subunit
+icp:ICMP_405	CDS	complement(471311..473035)	ilvI; acetolactate synthase III large subunit
+icp:ICMP_406	CDS	473511..475073	leuA; 2-isopropylmalate synthase
+icp:ICMP_407	CDS	475081..476172	leuB; 3-isopropylmalate dehydrogenase
+icp:ICMP_408	CDS	476144..477577	leuC; isopropylmalate isomerase large subunit
+icp:ICMP_409	CDS	477540..478187	leuD; isopropylmalate isomerase small subunit
+icp:ICMP_410	CDS	complement(478209..479039)	mhpC; 2-hydroxy-6-ketonona-2,4-dienedioic acid hydrolase
+icp:ICMP_411	CDS	479457..481385	thrS; threonyl-tRNA synthetase
+icp:ICMP_412	CDS	481389..481928	infC; translation initiation factor IF-3
+icp:ICMP_413	CDS	482020..482232	rpmI; 50S ribosomal protein L35
+icp:ICMP_414	CDS	482287..482646	rplT; 50S ribosomal protein L20
+icp:ICMP_415	CDS	482829..483812	pheS; phenylalanyl-tRNA synthetase alpha subunit
+icp:ICMP_416	CDS	483825..486212	pheT; phenylalanyl-tRNA synthetase beta subunit
+icp:ICMP_417	CDS	486217..486531	ihfA; integration host factor subunit alpha
+icp:ICMP_418	CDS	complement(486632..487723)	ychF; translation-associated GTPase
+icp:ICMP_419	CDS	complement(487799..488380)	pth; peptidyl-tRNA hydrolase
+icp:ICMP_420	CDS	complement(488474..489421)	prsA; ribose-phosphate pyrophosphokinase
+icp:ICMP_421	CDS	complement(489919..490011)	hypothetical protein
+icp:ICMP_422	CDS	complement(490081..490275)	hypothetical protein
+icp:ICMP_423	CDS	490427..491530	prfA; peptide chain release factor 1
+icp:ICMP_424	CDS	491527..492351	prmC; N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+icp:ICMP_425	CDS	492430..493365	yghA; oxidoreductase
+icp:ICMP_426	CDS	complement(493449..494447)	astE; succinylglutamate desuccinylase
+icp:ICMP_427	CDS	complement(494568..496028)	yebQ; predicted transporter
+icp:ICMP_428	CDS	complement(496209..497645)	fumC; fumarate hydratase
+icp:ICMP_429	CDS	497740..498324	rsxA; integral membrane protein of SoxR-reducing complex
+icp:ICMP_430	CDS	498325..498864	rsxB; member of SoxR-reducing complex
+icp:ICMP_431	CDS	498892..500487	rsxC; member of SoxR-reducing complex
+icp:ICMP_432	CDS	500507..501520	rsxD; member of SoxR-reducing complex
+icp:ICMP_433	CDS	501521..501691	hypothetical protein
+icp:ICMP_434	CDS	501707..502381	rsxE; integral membrane protein of SoxR-reducing complex
+icp:ICMP_435	CDS	502559..503002	nth; DNA glycosylase and apyrimidinic (AP) lyase
+icp:ICMP_436	CDS	503128..504603	tppB; putative tripeptide transporter permease
+icp:ICMP_437	CDS	complement(504750..506012)	tyrS; tyrosyl-tRNA synthetase
+icp:ICMP_438	CDS	507044..507718	rnt; ribonuclease T
+icp:ICMP_439	CDS	complement(507753..508091)	ydhD; hypothetical protein
+icp:ICMP_440	CDS	complement(508334..508942)	ribC; riboflavin synthase subunit alpha
+icp:ICMP_441	tRNA	509120..509195	trnV; tRNA-Val
+icp:ICMP_442	CDS	509327..510736	pykF; pyruvate kinase
+icp:ICMP_443	CDS	complement(510731..511168)	sufE; cysteine desufuration protein SufE
+icp:ICMP_444	CDS	complement(511182..512432)	sufS; selenocysteine lyase
+icp:ICMP_445	CDS	complement(512404..513690)	sufD; component of SufBCD complex
+icp:ICMP_446	CDS	complement(513665..514411)	sufC; cysteine desulfurase ATPase component
+icp:ICMP_447	CDS	complement(514451..515938)	sufB; component of SufBCD complex
+icp:ICMP_448	CDS	complement(515945..516277)	sufA; iron-sulfur cluster assembly scaffold protein
+icp:ICMP_449	CDS	complement(517424..517807)	acpS; 4'-phosphopantetheinyl transferase
+icp:ICMP_450	CDS	complement(517807..518607)	pdxJ; pyridoxal phosphate biosynthetic protein
+icp:ICMP_451	CDS	complement(518669..519577)	era; GTP-binding protein Era
+icp:ICMP_452	CDS	complement(519574..520254)	rnc; ribonuclease III
+icp:ICMP_453	CDS	complement(520358..521293)	lepB; leader peptidase
+icp:ICMP_454	CDS	complement(521303..523102)	lepA; GTP-binding protein LepA
+icp:ICMP_455	CDS	523223..523930	ung; uracil-DNA glycosylase
+icp:ICMP_456	CDS	complement(523988..524677)	grpE; heat shock protein
+icp:ICMP_457	CDS	524791..525687	yfjB; inorganic polyphosphate/ATP-NAD kinase
+icp:ICMP_458	CDS	complement(525921..526193)	yfjF; hypothetical protein
+icp:ICMP_459	CDS	526283..526765	smpB; SsrA-binding protein
+icp:ICMP_460	tmRNA	526811..527180	ssrA; ssrA
+icp:ICMP_461	CDS	528043..528792	yba2; hypothetical protein
+icp:ICMP_462	CDS	529309..530208	hisG; ATP phosphoribosyltransferase
+icp:ICMP_463	CDS	530210..531508	hisD; histidinol dehydrogenase
+icp:ICMP_464	CDS	531518..532588	hisC; histidinol-phosphate aminotransferase
+icp:ICMP_465	CDS	532557..533663	hisB; imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+icp:ICMP_466	CDS	533663..534253	hisH; imidazole glycerol phosphate synthase subunit HisH
+icp:ICMP_467	CDS	534253..534990	hisA; N-(5'-phospho-L-ribosyl-formimino)-5-amino-1-(5'-phosphoribosyl)-4-imidazolecarboxamide isomerase
+icp:ICMP_468	CDS	534972..535748	hisF; imidazole glycerol phosphate synthase subunit HisF
+icp:ICMP_469	CDS	535742..536365	hisI; bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+icp:ICMP_470	CDS	complement(536442..537848)	gnd; 6-phosphogluconate dehydrogenase
+icp:ICMP_471	CDS	complement(538545..539132)	dcd; deoxycytidine triphosphate deaminase
+icp:ICMP_472	CDS	complement(539262..539972)	ybhL; predicted inner membrane protein
+icp:ICMP_473	CDS	complement(540195..540659)	moaE; molybdopterin synthase large subunit
+icp:ICMP_474	CDS	complement(540661..540906)	moaD; molybdopterin synthase small subunit
+icp:ICMP_475	CDS	complement(541134..541820)	bioD; dethiobiotin synthetase
+icp:ICMP_476	CDS	complement(541817..542599)	bioC; predicted methltransferase
+icp:ICMP_477	CDS	complement(542556..543710)	bioF; 8-amino-7-oxononanoate synthase
+icp:ICMP_478	CDS	complement(543707..544747)	bioB; biotin synthase
+icp:ICMP_479	CDS	544823..546112	bioA; adenosylmethionine--8-amino-7-oxononanoate transaminase
+icp:ICMP_480	CDS	complement(546127..547140)	ybhE; 6-phosphogluconolactonase
+icp:ICMP_481	CDS	547325..548032	gpmA; phosphoglyceromutase
+icp:ICMP_482	CDS	complement(548585..549454)	sucD; succinyl-CoA synthetase subunit alpha
+icp:ICMP_483	CDS	complement(549438..550607)	sucC; succinyl-CoA synthetase subunit beta
+icp:ICMP_484	CDS	complement(550661..551839)	sucB; dihydrolipoamide acetyltransferase
+icp:ICMP_485	CDS	complement(551860..554607)	sucA; alpha-ketoglutarate decarboxylase
+icp:ICMP_486	CDS	complement(554724..555521)	sdhB; succinate dehydrogenase FeS subunit
+icp:ICMP_487	CDS	complement(555460..557238)	sdhA; succinate dehydrogenase flavoprotein subunit
+icp:ICMP_488	CDS	complement(557231..557578)	sdhD; succinate dehydrogenase cytochrome b556 small membrane subunit
+icp:ICMP_489	CDS	complement(557572..557958)	sdhC; succinate dehydrogenase cytochrome b556 large membrane subunit
+icp:ICMP_490	CDS	558301..559587	gltA; citrate synthase
+icp:ICMP_491	CDS	complement(559606..560355)	ybgI; conserved metal-binding protein
+icp:ICMP_492	CDS	complement(561327..561431)	hypothetical protein
+icp:ICMP_493	CDS	562233..562763	fldA; flavodoxin 1
+icp:ICMP_494	CDS	complement(562769..564436)	glnS; glutaminyl-tRNA synthetase
+icp:ICMP_495	tRNA	565128..565207	trnM; tRNA-Met
+icp:ICMP_496	tRNA	565220..565304	trnL; tRNA-Leu
+icp:ICMP_497	tRNA	565307..565384	trnQ; tRNA-Gln
+icp:ICMP_498	tRNA	565483..565557	trnQ; tRNA-Gln
+icp:ICMP_499	CDS	complement(565595..565708)	hypothetical protein
+icp:ICMP_500	CDS	565745..567079	miaB; isopentenyl-adenosine A37 tRNA methylthiolase
+icp:ICMP_501	CDS	567227..568222	ybeZ; predicted protein with nucleoside triphosphate hydrolase domain
+icp:ICMP_502	CDS	568262..568744	ybeY; hypothetical protein
+icp:ICMP_503	CDS	569991..572588	leuS; leucyl-tRNA synthetase
+icp:ICMP_504	CDS	572689..573714	holA; DNA polymerase III subunit delta
+icp:ICMP_505	CDS	573868..574008	hypothetical protein
+icp:ICMP_506	CDS	574315..576069	mrdA; transpeptidase
+icp:ICMP_507	CDS	576132..577211	mrdB; cell wall shape-determining protein
+icp:ICMP_508	CDS	577360..577998	lipB; lipoyltransferase
+icp:ICMP_509	CDS	578102..579070	lipA; lipoyl synthase
+icp:ICMP_510	CDS	complement(579134..579352)	cspE; cold shock protein E
+icp:ICMP_511	CDS	complement(579542..580804)	allC; N-carbamoyl-L-amino acid amidohydrolase
+icp:ICMP_512	CDS	complement(580797..582041)	aminotransferase class V
+icp:ICMP_513	CDS	582209..583879	ggt; gamma-glutamyltranspeptidase periplasmic precursor
+icp:ICMP_514	CDS	583863..584048	hypothetical protein
+icp:ICMP_515	CDS	584060..585472	amidase
+icp:ICMP_516	CDS	complement(585489..586430)	Polysaccharide deacetylase xylanase
+icp:ICMP_517	CDS	complement(586448..587200)	asp/glu racemase
+icp:ICMP_518	CDS	complement(587182..587907)	dnaQ; DNA polymerase III subunit epsilon
+icp:ICMP_519	CDS	587930..588424	rnhA; ribonuclease H
+icp:ICMP_520	CDS	588653..589408	gloB; predicted hydroxyacylglutathione hydrolase
+icp:ICMP_521	CDS	589508..591106	purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+icp:ICMP_522	CDS	complement(591169..591441)	hupA; HU DNA-binding transcriptional regulator alpha subunit
+icp:ICMP_523	CDS	complement(591519..592622)	hemE; uroporphyrinogen decarboxylase
+icp:ICMP_524	CDS	complement(592679..596926)	rpoC; DNA-directed RNA polymerase subunit beta'
+icp:ICMP_525	CDS	complement(597030..601073)	rpoB; DNA-directed RNA polymerase subunit beta
+icp:ICMP_526	CDS	complement(601337..601720)	rplL; 50S ribosomal protein L7/L12
+icp:ICMP_527	CDS	complement(601747..602250)	rplJ; 50S ribosomal protein L10
+icp:ICMP_528	CDS	complement(602519..603229)	rplA; 50S ribosomal protein L1
+icp:ICMP_529	CDS	complement(603226..603654)	rplK; 50S ribosomal protein L11
+icp:ICMP_530	CDS	complement(603712..604260)	nusG; transcription antitermination protein
+icp:ICMP_531	CDS	complement(604275..604658)	secE; translocase
+icp:ICMP_532	CDS	complement(604856..606040)	tufB; protein chain elongation factor EF-Tu
+icp:ICMP_533	tRNA	complement(606064..606142)	trnT; tRNA-Thr
+icp:ICMP_534	tRNA	complement(606145..606222)	trnG; tRNA-Gly
+icp:ICMP_535	tRNA	complement(606362..606449)	trnY; tRNA-Tyr
+icp:ICMP_536	tRNA	complement(606447..606525)	trnT; tRNA-Thr
+icp:ICMP_537	CDS	complement(606827..607810)	birA; biotin--protein ligase
+icp:ICMP_538	CDS	complement(607785..608831)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+icp:ICMP_539	CDS	complement(609211..611382)	clpB; protein disaggregation chaperone
+icp:ICMP_540	CDS	complement(611781..612434)	rluD; 23S rRNA pseudouridine synthase
+icp:ICMP_541	CDS	complement(612542..612745)	rluD; 23S rRNA pseudouridine synthase
+icp:ICMP_542	CDS	612725..613606	yfiO; predicted lipoprotein
+icp:ICMP_543	CDS	614052..615125	pheA; fused chorismate mutase P/prephenate dehydratase
+icp:ICMP_544	CDS	complement(615130..616245)	tyrA; fused chorismate mutase T/prephenate dehydrogenase
+icp:ICMP_545	CDS	complement(616273..617334)	aroF; 3-deoxy-D-arabino-heptulosonate-7-phosphate synthase
+icp:ICMP_546	CDS	complement(617606..617956)	rplS; 50S ribosomal protein L19
+icp:ICMP_547	CDS	complement(617975..618748)	trmD; tRNA (guanine-N(1)-)-methyltransferase
+icp:ICMP_548	CDS	complement(618764..619300)	rimM; 16S rRNA-processing protein
+icp:ICMP_549	CDS	complement(619300..619548)	rpsP; 30S ribosomal protein S16
+icp:ICMP_550	CDS	complement(619596..620948)	ffh; signal recognition particle component
+icp:ICMP_551	CDS	complement(622195..622701)	luxS; S-ribosylhomocysteinase
+icp:ICMP_552	CDS	complement(622766..624343)	gshA; glutamate--cysteine ligase
+icp:ICMP_553	tRNA	complement(624563..624642)	trnR; tRNA-Arg
+icp:ICMP_554	tRNA	complement(624651..624745)	trnS; tRNA-Ser
+icp:ICMP_555	CDS	complement(624906..625091)	csrA; carbon storage regulator
+icp:ICMP_556	CDS	complement(625215..627842)	alaS; alanyl-tRNA synthetase
+icp:ICMP_557	CDS	complement(628014..629084)	recA; recombinase A
+icp:ICMP_558	CDS	629649..630800	metK; S-adenosylmethionine synthetase
+icp:ICMP_559	CDS	630926..632389	galP; D-galactose (H+ symport)transporter
+icp:ICMP_560	CDS	632751..633701	gshB; glutathione synthetase
+icp:ICMP_561	CDS	633738..634343	yqgE; hypothetical protein
+icp:ICMP_562	CDS	634343..634759	yqgF; Holliday junction resolvase-like protein
+icp:ICMP_563	CDS	634855..635547	yggS; predicted enzyme
+icp:ICMP_564	CDS	635903..637048	yggW; coproporphyrinogen III oxidase
+icp:ICMP_565	CDS	complement(637088..637795)	yggH; tRNA(m7G46)-methyltransferase
+icp:ICMP_566	CDS	637979..638224	yggX; hypothetical protein
+icp:ICMP_567	CDS	complement(638457..639176)	deoD; purine nucleoside phosphorylase
+icp:ICMP_568	CDS	complement(639230..640456)	deoB; phosphopentomutase
+icp:ICMP_569	CDS	641482..642672	metC; cystathionine beta-lyase
+icp:ICMP_570	CDS	complement(643476..644123)	ribB; 3,4-dihydroxy-2-butanone 4-phosphate synthase
+icp:ICMP_571	CDS	644274..645515	cca; fused tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase and phosphatase
+icp:ICMP_572	CDS	complement(645567..645914)	folB; bifunctional dihydroneopterin aldolase/dihydroneopterin triphosphate 2'-epimerase
+icp:ICMP_573	CDS	complement(646027..647052)	ygjD; O-sialoglycoprotein endopeptidase
+icp:ICMP_574	CDS	647214..647429	rpsU; 30S ribosomal protein S21
+icp:ICMP_575	CDS	647550..649301	dnaG; DNA primase
+icp:ICMP_576	CDS	649480..651339	rpoD; RNA polymerase sigma factor
+icp:ICMP_577	CDS	651492..652832	pmbA; predicted peptidase
+icp:ICMP_578	CDS	652903..653778	yraL; predicted methyltransferase
+icp:ICMP_579	ncRNA	653847..654185	rnpB; ribonuleaseP
+icp:ICMP_580	CDS	complement(654165..654470)	yqjK; hypothetial protein
+icp:ICMP_581	CDS	complement(654487..654876)	yqjE; conserved inner membrane protein
+icp:ICMP_582	CDS	complement(654880..655185)	yqjD; hypothetical protein
+icp:ICMP_583	tRNA	complement(655289..655364)	trnM; tRNA-Met
+icp:ICMP_584	CDS	complement(655462..657762)	ydeP; predicted oxidoreductase
+icp:ICMP_585	tRNA	complement(657833..657909)	trnP; tRNA-Pro
+icp:ICMP_586	CDS	complement(658109..658393)	rplY; 50S ribosomal protein L25
+icp:ICMP_587	tRNA	complement(658491..658579)	trnL; tRNA-Leu
+icp:ICMP_588	tRNA	complement(658592..658665)	trnC; tRNA-Cys
+icp:ICMP_589	tRNA	complement(659173..659260)	trnS; tRNA-Ser
+icp:ICMP_590	CDS	659430..659753	yccK; predicted sulfite reductase subunit
+icp:ICMP_591	CDS	659916..660083	ycaR; hypothetical protein
+icp:ICMP_592	CDS	661292..661921	ycbL; predicted metal-binding enzyme
+icp:ICMP_593	CDS	complement(661930..663120)	aspC; aspartate aminotransferase
+icp:ICMP_594	CDS	complement(664056..665456)	asnS; asparaginyl-tRNA synthetase
+icp:ICMP_595	CDS	666126..667136	pyrD; dihydroorotate dehydrogenase
+icp:ICMP_596	CDS	complement(667397..667744)	yccV; DNA-binding protein
+icp:ICMP_597	CDS	669322..671061	ycbZ; predicted peptidase
+icp:ICMP_598	CDS	complement(672102..672980)	metF; 5,10-methylenetetrahydrofolate reductase
+icp:ICMP_599	CDS	complement(673111..674298)	metB; cystathionine gamma-synthase
+icp:ICMP_600	CDS	complement(674385..674606)	rpmE; 50S ribosomal subunit protein L31
+icp:ICMP_601	CDS	674749..676929	priA; primosome assembly protein PriA
+icp:ICMP_602	CDS	677457..677969	ftsN; essential cell division protein
+icp:ICMP_603	CDS	678122..678646	hslV; ATP-dependent protease peptidase subunit
+icp:ICMP_604	CDS	678664..679998	hslU; ATP-dependent protease ATP-binding subunit
+icp:ICMP_605	CDS	complement(680075..681772)	sfcA; malate dehydrogenase
+icp:ICMP_606	CDS	complement(681997..683658)	metG; methionyl-tRNA synthetase
+icp:ICMP_607	CDS	683851..684432	ahpC; alkyl hydroperoxide reductase C22 subunit
+icp:ICMP_608	tRNA	complement(684477..684555)	trnN; tRNA-Asn
+icp:ICMP_609	tRNA	complement(686179..686269)	trnS; tRNA-Ser
+icp:ICMP_610	CDS	complement(686376..688106)	argS; arginyl-tRNA synthetase
+icp:ICMP_611	CDS	689214..690968	aspS; aspartyl-tRNA synthetase
+icp:ICMP_612	CDS	691022..691501	ruvC; Holliday junction resolvase
+icp:ICMP_613	CDS	complement(691554..692117)	yohD; conserved inner membrane protein
+icp:ICMP_614	CDS	complement(692538..692966)	fxsA; inner membrane protein
+icp:ICMP_615	CDS	693187..694617	aspA; aspartate ammonia-lyase
+icp:ICMP_616	CDS	695207..695548	cutA; copper binding protein
+icp:ICMP_617	tRNA	695680..695758	trnF; tRNA-Phe
+icp:ICMP_618	CDS	complement(695769..697430)	yjcE; predicted cation/proton antiporter
+icp:ICMP_619	CDS	complement(699133..699648)	ssb; single-strand DNA-binding protein
+icp:ICMP_620	CDS	complement(700338..701744)	dnaB; replicative DNA helicase
+icp:ICMP_621	CDS	702124..703773	pgi; glucose-6-phosphate isomerase
+icp:ICMP_622	CDS	complement(703827..704762)	metA; homoserine O-succinyltransferase
+icp:ICMP_623	CDS	complement(705055..705786)	tatC; TatABCE protein translocation system subunit
+icp:ICMP_624	CDS	complement(705969..706193)	tatB; sec-independent translocase
+icp:ICMP_625	CDS	complement(706245..706421)	tatA; twin argininte translocase protein A
+icp:ICMP_626	CDS	complement(706554..708824)	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+icp:ICMP_627	CDS	complement(709145..709945)	yigL; predicted hydrolase Glucosamine 6-phosphatase
+icp:ICMP_628	CDS	complement(710117..711085)	corA; magnesium/nickel/cobalt transporter
+icp:ICMP_629	CDS	complement(711433..713421)	uvrD; DNA-dependent ATPase I and helicase II
+icp:ICMP_630	CDS	complement(713363..714220)	dapF; diaminopimelate epimerase
+icp:ICMP_631	CDS	714407..715354	hemC; porphobilinogen deaminase
+icp:ICMP_632	CDS	715355..716110	hemD; uroporphyrinogen-III synthetase
+icp:ICMP_633	tRNA	complement(716117..716193)	trnP; tRNA-Pro
+icp:ICMP_634	tRNA	complement(716215..716306)	trnL; tRNA-Leu
+icp:ICMP_635	tRNA	complement(716316..716394)	trnH; tRNA-His
+icp:ICMP_636	tRNA	complement(716405..716481)	trnR; tRNA-Arg
+icp:ICMP_637	CDS	complement(716621..717907)	rho; transcription termination factor Rho
+icp:ICMP_638	CDS	complement(718247..718639)	trxA; thioredoxin
+icp:ICMP_639	CDS	719163..719756	aroK; shikimate kinase I
+icp:ICMP_640	CDS	719786..720904	aroB; 3-dehydroquinate synthase
+icp:ICMP_641	CDS	721381..722046	rpe; ribulose-phosphate 3-epimerase
+icp:ICMP_642	CDS	722119..723117	trpS; tryptophanyl-tRNA synthetase
+icp:ICMP_643	CDS	723260..724009	fpr; flavodoxin-NADP reductase
+icp:ICMP_644	CDS	724142..724909	tpiA; triosephosphate isomerase
+icp:ICMP_645	CDS	complement(724906..725952)	pfkA; 6-phosphofructokinase
+icp:ICMP_646	CDS	complement(725983..726735)	cysE; serine acetyltransferase
+icp:ICMP_647	CDS	complement(727995..728267)	grxC; glutaredoxin 3
+icp:ICMP_648	CDS	complement(728992..729801)	mutM; formamidopyrimidine-DNA glycosylase
+icp:ICMP_649	CDS	complement(729835..730002)	rpmG; 50S ribosomal protein L33
+icp:ICMP_650	CDS	complement(730021..730263)	rpmB; 50S ribosomal protein L28
+icp:ICMP_651	CDS	730377..730832	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+icp:ICMP_652	CDS	complement(730858..731502)	pyrE; orotate phosphoribosyltransferase
+icp:ICMP_653	CDS	731757..732620	yicC; hypothetical protein
+icp:ICMP_654	CDS	732811..733440	gmk; guanylate kinase
+icp:ICMP_655	CDS	733482..733712	rpoZ; DNA-directed RNA polymerase subunit omega
+icp:ICMP_656	CDS	complement(734218..736053)	bipA; GTP-binding protein
+icp:ICMP_657	CDS	736173..736802	yihA; GTP-binding protein
+icp:ICMP_658	CDS	complement(736833..738695)	polA; DNA polymerase I
+icp:ICMP_659	CDS	complement(738670..739560)	polA; DNA polymerase I
+icp:ICMP_660	CDS	740109..740690	mobA; molybdopterin-guanine dinucleotide biosynthesis protein A
+icp:ICMP_661	rRNA	complement(740694..740816)	rrf; 5S ribosomal RNA
+icp:ICMP_662	rRNA	complement(740892..743795)	rrl; 23S ribosomal RNA
+icp:ICMP_663	rRNA	complement(744042..745590)	rrs; 16S ribosomal RNA

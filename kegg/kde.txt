@@ -1,0 +1,795 @@
+kde:CDSE_0206	CDS	1..1431	chromosomal replication initiator protein dnaA
+kde:CDSE_0207	CDS	1434..2549	DNA polymerase III subunit beta
+kde:CDSE_0208	CDS	2610..5069	DNA gyrase subunit B
+kde:CDSE_0209	CDS	complement(5082..5903)	nicotinamidase-like amidase
+kde:CDSE_0210	CDS	complement(5913..8378)	DNA topoisomerase III
+kde:CDSE_0211	CDS	8753..9943	acetylornithine/N-succinyldiaminopimelate aminotransferase
+kde:CDSE_0213	CDS	complement(9962..10603)	thiol:disulfide interchange protein DsbA
+kde:CDSE_0214	CDS	complement(10813..12510)	arginyl-tRNA synthetase
+kde:CDSE_0215	CDS	complement(12658..14334)	2-isopropylmalate synthase
+kde:CDSE_0216	CDS	complement(14583..14951)	hypothetical protein
+kde:CDSE_0217	CDS	complement(14957..16567)	peptide chain release factor RF-3
+kde:CDSE_1009	tRNA	complement(16792..16867)	tRNA-Asn
+kde:CDSE_1037	tRNA	complement(16952..17027)	tRNA-Thr
+kde:CDSE_0219	CDS	complement(17070..17432)	stringent starvation protein B
+kde:CDSE_0220	CDS	complement(17443..18054)	stringent starvation protein A
+kde:CDSE_0221	CDS	complement(18094..18852)	hypothetical protein
+kde:CDSE_0222	CDS	complement(19024..19374)	Hit-like protein involved in cell-cycle regulation
+kde:CDSE_0223	CDS	complement(19382..19738)	phosphoribosyl-ATP pyrophosphohydrolase
+kde:CDSE_0224	CDS	complement(19735..20175)	phosphoribosyl-AMP cyclohydrolase
+kde:CDSE_0225	CDS	complement(20181..20963)	cyclase HisF
+kde:CDSE_0226	CDS	complement(20965..21705)	phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide isomerase HisA
+kde:CDSE_0227	CDS	complement(21765..22436)	glutamine amidotransferase
+kde:CDSE_0228	CDS	complement(22461..23048)	imidazoleglycerol-phosphate dehydratase
+kde:CDSE_0229	CDS	complement(23060..24151)	histidinol-phosphate aminotransferase
+kde:CDSE_0230	CDS	complement(24145..25464)	histidinol dehydrogenase
+kde:CDSE_0231	CDS	complement(25507..26172)	ATP phosphoribosyltransferase
+kde:CDSE_0232	CDS	complement(26169..27443)	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+kde:CDSE_0233	CDS	complement(27493..28293)	antibiotic transport system permease protein
+kde:CDSE_0234	CDS	complement(28319..29104)	ABC-2 type transporter ATP-binding protein
+kde:CDSE_0235	CDS	complement(29148..29771)	putative toluene tolerance protein
+kde:CDSE_0236	CDS	complement(29803..30552)	lipoprotein
+kde:CDSE_0238	CDS	complement(30557..31072)	ABC transport system substrate-binding protein
+kde:CDSE_0240	CDS	complement(31087..31860)	ABC transport system permease protein
+kde:CDSE_0241	CDS	complement(31863..32675)	ABC transport system ATP-binding protein
+kde:CDSE_0242	CDS	32940..33839	RNA polymerase sigma-32 factor
+kde:CDSE_0245	CDS	33914..36421	CPA1 family monovalent cation:H+ antiporter
+kde:CDSE_0246	CDS	complement(36390..37223)	NUDIX hydrolase
+kde:CDSE_0248	CDS	37368..38756	bifunctional protein GlmU
+kde:CDSE_0249	CDS	38934..40811	isomerizing glucosamine--fructose-6-phosphate aminotransferase
+kde:CDSE_0250	CDS	complement(40865..41656)	indole-3-glycerol phosphate synthase
+kde:CDSE_0251	CDS	complement(41653..42684)	anthranilate phosphoribosyltransferase
+kde:CDSE_0252	CDS	complement(42695..43264)	anthranilate synthase component II
+kde:CDSE_0253	CDS	complement(43278..44801)	anthranilate synthase component I
+kde:CDSE_0254	CDS	complement(45010..45699)	phosphoglycolate phosphatase
+kde:CDSE_0255	CDS	complement(45708..46412)	ribulose-phosphate 3-epimerase
+kde:CDSE_0256	CDS	46601..47788	membrane-bound lytic murein transglycosylase A
+kde:CDSE_0257	CDS	complement(47964..48317)	dihydroneopterin aldolase
+kde:CDSE_0258	CDS	complement(48328..50118)	peptidase M61
+kde:CDSE_0260	CDS	50187..50558	ATP synthase I-like protein
+kde:CDSE_0261	CDS	50609..51490	F-type H+-transporting ATPase subunit a
+kde:CDSE_0262	CDS	51545..51784	F-type H+-transporting ATPase subunit c
+kde:CDSE_0263	CDS	51867..52307	F-type H+-transporting ATPase subunit b
+kde:CDSE_0264	CDS	52323..52868	F-type H+-transporting ATPase subunit delta
+kde:CDSE_0265	CDS	52902..54443	F-type H+-transporting ATPase subunit alpha
+kde:CDSE_0266	CDS	54469..55404	F-type H+-transporting ATPase subunit gamma
+kde:CDSE_0267	CDS	55435..56841	F-type H+-transporting ATPase subunit beta
+kde:CDSE_0268	CDS	56854..57282	F-type H+-transporting ATPase subunit epsilon
+kde:CDSE_0269	CDS	57307..58371	uroporphyrinogen decarboxylase
+kde:CDSE_0270	CDS	58668..60758	superfamily II primosomal protein N'
+kde:CDSE_0271	CDS	complement(60755..61612)	putative sugar kinase
+kde:CDSE_1005	tRNA	61667..61741	tRNA-Arg
+kde:CDSE_0272	CDS	complement(61770..63353)	glutamate--cysteine ligase
+kde:CDSE_0274	CDS	63831..64721	hypothetical protein
+kde:CDSE_0275	CDS	complement(64819..65655)	phosphomethylpyrimidine kinase
+kde:CDSE_0276	CDS	complement(65664..66461)	thiamine biosynthesis ThiG
+kde:CDSE_0277	CDS	66627..67238	dephospho-CoA kinase
+kde:CDSE_0278	CDS	67301..68050	hypothetical protein
+kde:CDSE_0279	CDS	complement(68052..69020)	7,8-dihydro-8-oxoguanine triphosphatase
+kde:CDSE_0280	CDS	complement(69010..69882)	AAA+ superfamily ATPase
+kde:CDSE_0282	CDS	complement(69897..71123)	glutamate N-acetyltransferase/amino-acid N-acetyltransferase
+kde:CDSE_1030	tRNA	complement(71323..71398)	tRNA-Phe
+kde:CDSE_0283	CDS	71560..72816	glutamyl-tRNA reductase
+kde:CDSE_0284	CDS	72853..73929	peptide chain release factor RF-1
+kde:CDSE_0285	CDS	73940..74758	methyltransferase
+kde:CDSE_0286	CDS	74790..75122	monothiol glutaredoxin
+kde:CDSE_0287	CDS	complement(75240..75872)	carbonic anhydrase
+kde:CDSE_0288	CDS	complement(76019..78844)	phosphoenolpyruvate carboxylase
+kde:CDSE_0289	CDS	78987..79691	queuosine biosynthesis protein QueC
+kde:CDSE_0291	CDS	79765..81624	dihydroxy-acid dehydratase
+kde:CDSE_0292	CDS	81699..82772	PurR regulon permease
+kde:CDSE_1024	tRNA	complement(82799..82883)	tRNA-Leu
+kde:CDSE_0293	CDS	83037..84944	molecular chaperone HtpG
+kde:CDSE_0294	CDS	85037..86422	signal recognition particle subunit SRP54
+kde:CDSE_0295	CDS	complement(86435..86635)	thiamine biosynthesis ThiS
+kde:CDSE_0297	CDS	complement(86665..87645)	threonine dehydratase
+kde:CDSE_0298	CDS	complement(87707..89761)	methionyl-tRNA synthetase
+kde:CDSE_0299	CDS	89963..91045	chromosome partitioning ATP-binding protein
+kde:CDSE_0300	CDS	91059..92951	surface antigen
+kde:CDSE_0302	CDS	92948..96412	conserved hypothetical protein of the DUF490 family
+kde:CDSE_0303	CDS	96527..97090	dCTP deaminase
+kde:CDSE_0304	CDS	97150..99402	arginine decarboxylase
+kde:CDSE_0305	CDS	complement(99381..99908)	dihydrofolate reductase
+kde:CDSE_0306	CDS	complement(99917..100711)	thymidylate synthase
+kde:CDSE_0307	CDS	complement(101031..102365)	phosphomannomutase
+kde:CDSE_0308	CDS	102493..103920	FAD/FMN-containing dehydrogenase
+kde:CDSE_0309	CDS	complement(103917..104744)	formamidopyrimidine-DNA glycosylase
+kde:CDSE_0311	CDS	104835..105407	outer membrane lipoprotein LolB
+kde:CDSE_0313	CDS	105609..105740	hypothetical protein
+kde:CDSE_1012	tRNA	105940..106016	tRNA-Gln
+kde:CDSE_0315	CDS	106093..107022	ribose-phosphate pyrophosphokinase
+kde:CDSE_0316	CDS	107114..107725	large subunit ribosomal protein L25
+kde:CDSE_0317	CDS	107759..108364	PTH1 family peptidyl-tRNA hydrolase
+kde:CDSE_0319	CDS	108381..109124	hypothetical protein
+kde:CDSE_0320	CDS	109146..110234	putative GTPase, translation factor
+kde:CDSE_0321	CDS	complement(110224..110718)	pantetheine-phosphate adenylyltransferase
+kde:CDSE_0322	CDS	complement(110835..112502)	chaperonin GroEL
+kde:CDSE_0323	CDS	complement(112565..112852)	chaperonin GroES
+kde:CDSE_1025	tRNA	113052..113127	tRNA-Lys
+kde:CDSE_0324	CDS	113299..115644	LPS-assembly protein
+kde:CDSE_0325	CDS	115644..116990	peptidyl-prolyl cis-trans isomerase SurA
+kde:CDSE_0326	CDS	117023..117805	dimethyladenosine transferase
+kde:CDSE_0327	CDS	complement(117828..119249)	magnesium transporter
+kde:CDSE_0328	CDS	complement(119253..119657)	acyl-CoA thioesterase YciA
+kde:CDSE_0329	CDS	complement(119750..120625)	myo-inositol-1(or 4)-monophosphatase
+kde:CDSE_1026	tRNA	120902..120977	tRNA-Lys
+kde:CDSE_0331	CDS	complement(120991..121860)	hypothetical protein
+kde:CDSE_1010	tRNA	complement(121876..121952)	tRNA-Asp
+kde:CDSE_1013	tRNA	complement(121968..122043)	tRNA-Glu
+kde:CDSE_1002	tRNA	complement(122054..122129)	tRNA-Ala
+kde:CDSE_0332	CDS	complement(122236..123090)	magnesium and cobalt transporter
+kde:CDSE_0333	CDS	complement(123174..123671)	putative metal-dependent hydrolase
+kde:CDSE_0334	CDS	complement(123655..124629)	PhoH-like phosphate starvation-inducible protein
+kde:CDSE_0336	CDS	complement(124637..125992)	bifunctional tRNA thiolation and methylation protein
+kde:CDSE_0337	CDS	complement(126006..126941)	preprotein translocase subunit SecF
+kde:CDSE_0338	CDS	complement(127034..128866)	preprotein translocase subunit SecD
+kde:CDSE_0339	CDS	complement(128899..129243)	preprotein translocase subunit YajC
+kde:CDSE_0340	CDS	complement(129313..130443)	queuine tRNA-ribosyltransferase
+kde:CDSE_0341	CDS	complement(130485..131546)	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+kde:CDSE_0345	CDS	complement(131858..132598)	ribosomal RNA small subunit methyltransferase E
+kde:CDSE_0346	CDS	132804..134846	transketolase
+kde:CDSE_0347	CDS	134859..135869	glyceraldehyde 3-phosphate dehydrogenase
+kde:CDSE_0348	CDS	135962..137158	phosphoglycerate kinase
+kde:CDSE_0350	CDS	complement(137155..138639)	PiT family inorganic phosphate transporter
+kde:CDSE_0351	CDS	139037..140089	class II fructose-bisphosphate aldolase
+kde:CDSE_0352	CDS	140127..141005	phosphoribosylaminoimidazole-succinocarboxamide synthase
+kde:CDSE_0353	CDS	141038..141538	5-(carboxyamino)imidazole ribonucleotide mutase
+kde:CDSE_0354	CDS	141584..142780	5-(carboxyamino)imidazole ribonucleotide synthase
+kde:CDSE_0356	CDS	142807..143814	translation factor
+kde:CDSE_0357	CDS	143832..144758	integrase/recombinase XerD
+kde:CDSE_1008	tRNA	complement(144811..144885)	tRNA-Arg
+kde:CDSE_0358	CDS	144993..147641	RecB family exonuclease
+kde:CDSE_0359	CDS	147654..151028	ATP-dependent exoDNAse (exonuclease V) beta subunit
+kde:CDSE_0361	CDS	151262..152911	DNA polymerase III subunit gamma/tau
+kde:CDSE_0362	CDS	152961..153284	conserved hypothetical protein of the DUF149 family
+kde:CDSE_0363	CDS	153322..153936	recombination protein RecR
+kde:CDSE_0364	CDS	complement(153987..154937)	transaldolase
+kde:CDSE_0366	CDS	155082..156233	carbamoyl-phosphate synthase small subunit
+kde:CDSE_0367	CDS	156244..159486	carbamoyl-phosphate synthase large subunit
+kde:CDSE_0368	CDS	159641..160117	transcription elongation factor GreA
+kde:CDSE_0369	CDS	complement(160219..160500)	putative RNA-binding protein containing KH domain
+kde:CDSE_0370	CDS	160521..161174	ribosomal RNA large subunit methyltransferase E
+kde:CDSE_0372	CDS	161335..163182	cell division protease FtsH
+kde:CDSE_0373	CDS	163215..164057	dihydropteroate synthase
+kde:CDSE_0374	CDS	164062..165399	phosphoglucosamine mutase
+kde:CDSE_0375	CDS	165483..167561	polyphosphate kinase
+kde:CDSE_1031	tRNA	167626..167702	tRNA-Pro
+kde:CDSE_0376	CDS	complement(167707..168243)	dTDP-4-dehydrorhamnose 3,5-epimerase
+kde:CDSE_0377	CDS	complement(168233..169144)	dTDP-4-dehydrorhamnose reductase
+kde:CDSE_0378	CDS	complement(169149..170162)	dTDP-glucose 4,6-dehydratase
+kde:CDSE_1006	tRNA	170338..170414	tRNA-Arg
+kde:CDSE_1016	tRNA	170536..170611	tRNA-His
+kde:CDSE_0379	CDS	170775..171671	dihydrodipicolinate synthase
+kde:CDSE_0381	CDS	complement(171710..174352)	DNA mismatch repair protein MutS
+kde:CDSE_0382	CDS	complement(174431..174988)	putative flavoprotein
+kde:CDSE_0383	CDS	175085..175909	small-conductance mechanosensitive channel
+kde:CDSE_0384	CDS	complement(175906..176688)	tRNA/rRNA methyltransferase
+kde:CDSE_0385	CDS	176812..177579	myo-inositol-1(or 4)-monophosphatase
+kde:CDSE_0387	CDS	177667..179232	tellurium resistance membrane protein TerC
+kde:CDSE_0389	CDS	179249..180070	undecaprenyl-diphosphatase
+kde:CDSE_0390	CDS	complement(180085..180837)	UDP-2,3-diacylglucosamine hydrolase
+kde:CDSE_0391	CDS	complement(180830..181333)	peptidyl-prolyl cis-trans isomerase B
+kde:CDSE_0392	CDS	181865..183313	cysteinyl-tRNA synthetase
+kde:CDSE_0394	CDS	183343..183966	DNA-3-methyladenine glycosylase II
+kde:CDSE_0395	CDS	183994..184956	acetyl-CoA carboxylase carboxyl transferase subunit alpha
+kde:CDSE_0396	CDS	184973..185980	tRNA(Ile)-lysidine synthase
+kde:CDSE_0397	CDS	186108..187382	aspartate kinase
+kde:CDSE_1032	tRNA	187391..187482	tRNA-Ser
+kde:CDSE_1007	tRNA	187617..187694	tRNA-Arg
+kde:CDSE_0399	CDS	complement(187811..188284)	hypothetical protein
+kde:CDSE_0400	CDS	complement(188329..188886)	elongation factor EF-P
+kde:CDSE_0401	CDS	complement(188977..190095)	conserved hypothetical protein of the DUF2331 family
+kde:CDSE_0900	rRNA	190450..191971	16S small subunit ribosomal RNA
+kde:CDSE_1017	tRNA	192104..192180	tRNA-Ile
+kde:CDSE_1000	tRNA	192209..192284	tRNA-Ala
+kde:CDSE_0901	rRNA	192518..195397	23S large subunit ribosomal RNA
+kde:CDSE_0902	rRNA	195538..195655	5S ribosomal RNA
+kde:CDSE_0402	CDS	complement(195708..196760)	DNA polymerase III, delta subunit
+kde:CDSE_0403	CDS	complement(196792..197340)	putative lipoprotein
+kde:CDSE_0404	CDS	complement(197333..200020)	leucyl-tRNA synthetase
+kde:CDSE_0405	CDS	complement(200251..200418)	large subunit ribosomal protein L33
+kde:CDSE_0406	CDS	complement(200444..200680)	large subunit ribosomal protein L28
+kde:CDSE_0407	CDS	201068..201943	membrane fusion protein
+kde:CDSE_0408	CDS	202066..202254	hypothetical protein
+kde:CDSE_0410	CDS	202286..202537	hypothetical protein
+kde:CDSE_0411	CDS	202813..203547	pyridoxine 5-phosphate synthase
+kde:CDSE_0412	CDS	203550..203987	holo-[acyl-carrier protein] synthase
+kde:CDSE_0413	CDS	203999..205825	excinuclease ABC subunit C uvrC
+kde:CDSE_0414	CDS	205875..206450	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+kde:CDSE_0415	CDS	206549..207808	arabinose efflux permease
+kde:CDSE_0416	CDS	complement(207839..208666)	7-cyano-7-deazaguanine reductase
+kde:CDSE_0417	CDS	208851..210086	CPA1 family monovalent cation:H+ antiporter
+kde:CDSE_0418	CDS	210135..211184	membrane-bound lytic murein transglycosylase B
+kde:CDSE_0419	CDS	complement(211215..211931)	anaerobic CRP/FNR family transcriptional regulator
+kde:CDSE_0420	CDS	212226..214823	ATP-dependent Clp protease ATP-binding subunit ClpB
+kde:CDSE_0422	CDS	complement(214876..215733)	phytoene synthase
+kde:CDSE_0423	CDS	215823..217196	DNA repair protein RadA/Sms
+kde:CDSE_0424	CDS	complement(217243..218247)	TRAP-type C4-dicarboxylate transporter, periplasmic component
+kde:CDSE_0426	CDS	219010..220341	DNA recombination protein RmuC
+kde:CDSE_0427	CDS	220380..221051	ribose 5-phosphate isomerase A
+kde:CDSE_0428	CDS	complement(221076..221348)	hypothetical protein
+kde:CDSE_0430	CDS	complement(221351..222727)	amino-acid N-acetyltransferase
+kde:CDSE_0431	CDS	222951..226418	DNA polymerase III subunit alpha
+kde:CDSE_0432	CDS	226778..228544	subfamily B ATP-binding cassette MsbA
+kde:CDSE_0433	CDS	complement(228545..230020)	ribonuclease G
+kde:CDSE_0903	rRNA	230398..231919	16S small subunit ribosomal RNA
+kde:CDSE_1018	tRNA	232052..232128	tRNA-Ile
+kde:CDSE_1003	tRNA	232157..232232	tRNA-Ala
+kde:CDSE_0904	rRNA	232466..235345	23S large subunit ribosomal RNA
+kde:CDSE_0905	rRNA	235486..235603	5S ribosomal RNA
+kde:CDSE_0435	CDS	complement(235672..236136)	SPOUT methyltransferase superfamily protein
+kde:CDSE_0434	CDS	complement(236149..236487)	conserved hypothetical protein of the DUF143 family
+kde:CDSE_0436	CDS	complement(236510..237103)	nicotinate-nucleotide adenylyltransferase
+kde:CDSE_0437	CDS	complement(237094..237996)	coproporphyrinogen III oxidase CPOX
+kde:CDSE_0438	CDS	complement(238037..239302)	phosphoribosylamine--glycine ligase
+kde:CDSE_0439	CDS	complement(239407..240141)	hypothetical protein
+kde:CDSE_1027	tRNA	240434..240510	tRNA-Met
+kde:CDSE_0440	CDS	240700..241971	aspartate carbamoyltransferase catalytic subunit
+kde:CDSE_0441	CDS	242092..243159	recombination protein RecA
+kde:CDSE_0442	CDS	243197..243637	regulatory protein
+kde:CDSE_0443	CDS	243884..245044	succinyl-CoA synthetase beta subunit
+kde:CDSE_0445	CDS	245066..245947	succinyl-CoA synthetase alpha subunit
+kde:CDSE_0446	CDS	246159..247085	hydroxymethylbilane synthase hemC
+kde:CDSE_0447	CDS	247121..247915	uroporphyrinogen-III synthase hemD
+kde:CDSE_0448	CDS	247987..248943	uroporphyrin-III C-methyltransferase
+kde:CDSE_0449	CDS	248957..250360	HemY protein
+kde:CDSE_0450	CDS	250388..250921	inorganic pyrophosphatase
+kde:CDSE_0452	CDS	complement(250924..251682)	hypothetical protein
+kde:CDSE_0453	CDS	251855..252862	tRNA-dihydrouridine synthase A
+kde:CDSE_0454	CDS	252980..254050	chorismate synthase
+kde:CDSE_0455	CDS	254126..255529	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit
+kde:CDSE_0456	CDS	255541..256182	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit
+kde:CDSE_0457	CDS	256225..257310	3-isopropylmalate dehydrogenase
+kde:CDSE_0458	CDS	257352..258479	aspartate-semialdehyde dehydrogenase
+kde:CDSE_0460	CDS	258553..259353	tRNA pseudouridine synthase A
+kde:CDSE_0461	CDS	259386..260063	phosphoribosylanthranilate isomerase
+kde:CDSE_1041	tRNA	260134..260210	tRNA-Val
+kde:CDSE_0462	CDS	260434..262365	threonyl-tRNA synthetase
+kde:CDSE_0463	CDS	262397..262921	translation initiation factor IF-3
+kde:CDSE_0464	CDS	263003..263968	glutathione synthase
+kde:CDSE_0465	CDS	264025..264276	phosphocarrier protein
+kde:CDSE_0467	CDS	complement(264287..264796)	dUTP pyrophosphatase
+kde:CDSE_0468	CDS	complement(264827..266020)	phosphopantothenoylcysteine decarboxylase
+kde:CDSE_0469	CDS	complement(266070..266570)	signal peptidase II
+kde:CDSE_0470	CDS	complement(266574..269438)	isoleucyl-tRNA synthetase
+kde:CDSE_0471	CDS	complement(269428..270378)	riboflavin kinase/FMN adenylyltransferase
+kde:CDSE_0472	CDS	270447..271121	phosphoribosylglycinamide formyltransferase
+kde:CDSE_0473	CDS	271340..272530	stearoyl-CoA desaturase (delta-9 desaturase)
+kde:CDSE_0474	CDS	272527..274764	DNA helicase II/ATP-dependent DNA helicase PcrA
+kde:CDSE_0475	CDS	complement(274769..275665)	putative adenine-specific DNA-methyltransferase
+kde:CDSE_0476	CDS	complement(275682..276821)	succinyl-diaminopimelate desuccinylase
+kde:CDSE_0478	CDS	complement(276821..277642)	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+kde:CDSE_0480	CDS	complement(277666..278865)	acetylornithine/N-succinyldiaminopimelate aminotransferase
+kde:CDSE_1020	tRNA	278906..278990	tRNA-Leu
+kde:CDSE_0481	CDS	279418..279654	CspA family beta-ribbon cold shock protein
+kde:CDSE_0482	CDS	279913..281223	trigger factor
+kde:CDSE_0483	CDS	281220..281867	ATP-dependent Clp, protease subunit
+kde:CDSE_0484	CDS	281945..283222	ATP-dependent Clp protease ATP-binding subunit ClpX
+kde:CDSE_0485	CDS	283365..285785	ATP-dependent Lon protease
+kde:CDSE_0486	CDS	complement(285855..287060)	aromatic-amino-acid transaminase
+kde:CDSE_0487	CDS	287136..289154	excinuclease ABC subunit B uvrB
+kde:CDSE_0488	CDS	289173..289664	protein-tyrosine phosphatase
+kde:CDSE_0489	CDS	289759..290259	Rrf2 family transcriptional regulator, iron-sulfur cluster assembly
+kde:CDSE_0490	CDS	290299..291495	cysteine desulfurase
+kde:CDSE_0491	CDS	291516..291908	nitrogen fixation protein NifU
+kde:CDSE_0492	CDS	291924..292241	iron-sulfur cluster assembly protein
+kde:CDSE_0493	CDS	292244..292762	molecular chaperone HscB
+kde:CDSE_0494	CDS	292785..294617	molecular chaperone HscA
+kde:CDSE_0495	CDS	294632..294967	ferredoxin, 2Fe-2S
+kde:CDSE_0496	CDS	complement(295005..296525)	class II lysyl-tRNA synthetase
+kde:CDSE_0497	CDS	complement(296605..297708)	peptide chain release factor RF-2
+kde:CDSE_0498	CDS	complement(297730..298200)	Yqey-like protein
+kde:CDSE_0499	CDS	298342..298974	organic radical activating enzyme
+kde:CDSE_0500	CDS	298971..299417	6-pyruvoyl tetrahydrobiopterin synthase
+kde:CDSE_0502	CDS	299442..299906	cytosine/adenosine deaminase
+kde:CDSE_0503	CDS	299952..300533	hypothetical protein
+kde:CDSE_0504	CDS	complement(300559..300873)	thioredoxin domain-containing protein
+kde:CDSE_0505	CDS	301040..302083	O-sialoglycoprotein endopeptidase
+kde:CDSE_0506	CDS	complement(302086..302712)	glycerol-3-phosphate acyltransferase PlsY
+kde:CDSE_0507	CDS	302781..303539	5'-nucleotidase
+kde:CDSE_0508	CDS	303663..304382	lipoprotein NlpD
+kde:CDSE_0509	CDS	304379..305158	3'-5' exonuclease
+kde:CDSE_0510	CDS	305230..306543	TrmA family RNA methyltransferase
+kde:CDSE_0512	CDS	306573..308507	peptidyl-prolyl cis-trans isomerase D
+kde:CDSE_0513	CDS	complement(308494..309069)	N6-adenine-specific methylase
+kde:CDSE_0514	CDS	309068..310099	fused signal recognition particle receptor
+kde:CDSE_0515	CDS	310177..311298	3,4-dihydroxy 2-butanone 4-phosphate synthase
+kde:CDSE_0516	CDS	311346..311807	riboflavin synthase beta chain
+kde:CDSE_0517	CDS	311840..312289	N-utilization substance protein B
+kde:CDSE_0518	CDS	312332..313288	thiamine-monophosphate kinase
+kde:CDSE_0520	CDS	313317..313817	phosphatidylglycerophosphatase A
+kde:CDSE_0521	CDS	complement(313810..314652)	orotidine-5'-phosphate decarboxylase
+kde:CDSE_0523	CDS	complement(314688..316946)	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+kde:CDSE_0525	CDS	complement(317000..317203)	DNA-directed RNA polymerase subunit omega
+kde:CDSE_0526	CDS	complement(317230..317877)	guanylate kinase
+kde:CDSE_0527	CDS	318102..319610	AMP nucleosidase
+kde:CDSE_1001	tRNA	complement(319617..319692)	tRNA-Ala
+kde:CDSE_0528	CDS	complement(319732..320511)	exodeoxyribonuclease III
+kde:CDSE_0529	CDS	complement(320605..320865)	small subunit ribosomal protein S20
+kde:CDSE_0530	CDS	complement(321034..322617)	virulence factor
+kde:CDSE_0531	CDS	complement(322698..323354)	adenylate kinase
+kde:CDSE_0533	CDS	complement(323375..323992)	hypothetical protein
+kde:CDSE_0534	CDS	complement(324320..325363)	tetraacyldisaccharide 4'-kinase
+kde:CDSE_0536	CDS	325710..327071	exodeoxyribonuclease VII large subunit
+kde:CDSE_0537	CDS	327115..327690	Fe-Mn family superoxide dismutase
+kde:CDSE_0538	CDS	complement(327877..328122)	CspA family beta-ribbon cold shock protein
+kde:CDSE_0539	CDS	328691..328879	large subunit ribosomal protein L35
+kde:CDSE_0540	CDS	328904..329257	large subunit ribosomal protein L20
+kde:CDSE_0541	CDS	329308..330348	phenylalanyl-tRNA synthetase alpha chain
+kde:CDSE_0542	CDS	330364..332787	phenylalanyl-tRNA synthetase beta chain
+kde:CDSE_0543	CDS	332816..333106	integration host factor subunit alpha
+kde:CDSE_0544	CDS	333166..333549	putative transcriptional regulator
+kde:CDSE_0545	CDS	333805..334026	hypothetical protein
+kde:CDSE_0546	CDS	complement(334242..335096)	methylenetetrahydrofolate dehydrogenase (NADP+)
+kde:CDSE_0547	CDS	335363..338074	pyruvate dehydrogenase E1 component
+kde:CDSE_0548	CDS	338086..339435	pyruvate dehydrogenase E2 component
+kde:CDSE_0549	CDS	339445..341148	dihydrolipoamide dehydrogenase
+kde:CDSE_0550	CDS	341197..342372	small-conductance mechanosensitive channel
+kde:CDSE_0552	CDS	342416..344041	glutamine-hydrolysing NAD+ synthase
+kde:CDSE_0553	CDS	complement(344038..345756)	single-stranded-DNA-specific exonuclease
+kde:CDSE_0554	CDS	complement(345735..346670)	hypothetical protein
+kde:CDSE_0555	CDS	346779..348047	lipoprotein-releasing system permease protein
+kde:CDSE_0556	CDS	348037..348723	lipoprotein-releasing system ATP-binding protein
+kde:CDSE_0557	CDS	348856..349695	putative PHP family metal-dependent phosphoesterase
+kde:CDSE_0558	CDS	349852..353820	phosphoribosylformylglycinamidine synthase
+kde:CDSE_0559	CDS	complement(353878..354780)	YicC-like stress-induced protein
+kde:CDSE_0562	CDS	354868..355587	ribonuclease PH
+kde:CDSE_0563	CDS	355618..356907	dihydrofolate synthase/folylpolyglutamate synthase
+kde:CDSE_0564	CDS	357358..357849	membrane protein required for colicin V production
+kde:CDSE_0565	CDS	357870..359327	amidophosphoribosyltransferase
+kde:CDSE_0566	CDS	complement(359403..359882)	disulfide bond formation protein DsbB
+kde:CDSE_0567	CDS	complement(359953..360621)	multiple antibiotic resistance protein
+kde:CDSE_0568	CDS	complement(360955..361758)	methionyl aminopeptidase
+kde:CDSE_0569	CDS	362103..362840	small subunit ribosomal protein S2
+kde:CDSE_0570	CDS	362867..363751	elongation factor EF-Ts
+kde:CDSE_0571	CDS	363816..364532	uridylate kinase
+kde:CDSE_0572	CDS	364545..365105	ribosome recycling factor
+kde:CDSE_0573	CDS	365145..365885	undecaprenyl diphosphate synthase
+kde:CDSE_0575	CDS	365885..366727	phosphatidate cytidylyltransferase
+kde:CDSE_0576	CDS	367256..369583	outer membrane protein
+kde:CDSE_0577	CDS	369628..370158	outer membrane protein
+kde:CDSE_0579	CDS	370151..371260	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+kde:CDSE_0580	CDS	371322..371774	3R-hydroxymyristoyl ACP dehydrase
+kde:CDSE_0581	CDS	371775..372572	UDP-N-acetylglucosamine acyltransferase
+kde:CDSE_0582	CDS	372572..373762	lipid-A-disaccharide synthase
+kde:CDSE_0583	CDS	373795..374376	ribonuclease HII
+kde:CDSE_0584	CDS	complement(374430..375266)	PEP synthetase regulatory protein
+kde:CDSE_0585	CDS	375433..377796	pyruvate, water dikinase
+kde:CDSE_0586	CDS	complement(377850..378308)	SsrA-binding protein
+kde:CDSE_0587	CDS	378557..378853	hypothetical protein
+kde:CDSE_0588	CDS	378877..379569	hypothetical protein
+kde:CDSE_0590	CDS	complement(379583..380542)	GcvT-like aminomethyltransferase
+kde:CDSE_0591	CDS	380571..381608	aminodeoxychorismate lyase
+kde:CDSE_0593	CDS	381614..382234	dTMP kinase
+kde:CDSE_0594	CDS	382231..383247	DNA polymerase III subunit delta'
+kde:CDSE_0595	CDS	383253..384047	TatD DNase family protein
+kde:CDSE_0596	CDS	complement(384044..384823)	lipoate-protein ligase A
+kde:CDSE_0598	CDS	complement(384826..385104)	hypothetical protein
+kde:CDSE_0599	CDS	complement(385198..386787)	glutamine-hydrolysing GMP synthase
+kde:CDSE_0600	CDS	complement(386806..388275)	IMP dehydrogenase
+kde:CDSE_0601	CDS	complement(388417..388629)	hypothetical protein
+kde:CDSE_0603	CDS	complement(388652..390715)	carbon starvation protein
+kde:CDSE_0604	CDS	391230..392105	phosphatidylserine decarboxylase
+kde:CDSE_0605	CDS	392132..393196	Zn-dependent 6-hydroxyhexanoate dehydrogenase
+kde:CDSE_0606	CDS	complement(393209..395260)	ATP-dependent DNA helicase RecG
+kde:CDSE_0608	CDS	complement(395348..395734)	TdcF protein
+kde:CDSE_0609	CDS	complement(395769..396545)	ferredoxin--NADP+ reductase
+kde:CDSE_0610	CDS	complement(396585..397805)	oxygen-independent coproporphyrinogen III oxidase hemN
+kde:CDSE_0611	CDS	complement(397814..398437)	nucleoside-triphosphatase
+kde:CDSE_0612	CDS	398662..399597	ornithine carbamoyltransferase
+kde:CDSE_1042	tRNA	complement(399670..399745)	tRNA-Val
+kde:CDSE_0613	CDS	complement(399838..400110)	DNA-binding protein HU-beta
+kde:CDSE_0614	CDS	complement(400295..401041)	TrmH family RNA methyltransferase
+kde:CDSE_0615	CDS	complement(401144..403330)	ribonuclease R
+kde:CDSE_1021	tRNA	403430..403516	tRNA-Leu
+kde:CDSE_1028	tRNA	403646..403722	tRNA-Met
+kde:CDSE_0618	CDS	complement(403753..405129)	adenylosuccinate lyase
+kde:CDSE_0619	CDS	complement(405196..406290)	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+kde:CDSE_0620	CDS	complement(406392..407465)	3-deoxy-7-phosphoheptulonate synthase
+kde:CDSE_0621	CDS	complement(407605..409065)	TldD protein
+kde:CDSE_0622	CDS	409330..412092	aminopeptidase N
+kde:CDSE_0624	CDS	412103..413110	fructose-1,6-bisphosphatase I
+kde:CDSE_0625	CDS	complement(413154..414464)	homoserine dehydrogenase
+kde:CDSE_0627	CDS	414669..415067	conserved hypothetical protein of the DUF498 family
+kde:CDSE_0628	CDS	415082..415555	peroxiredoxin Q/BCP
+kde:CDSE_0630	CDS	415561..416568	4-hydroxythreonine-4-phosphate dehydrogenase
+kde:CDSE_0631	CDS	complement(416571..417941)	replicative DNA helicase
+kde:CDSE_0632	CDS	complement(418149..418601)	large subunit ribosomal protein L9
+kde:CDSE_0633	CDS	complement(418616..418888)	small subunit ribosomal protein S18
+kde:CDSE_0634	CDS	complement(418958..419254)	primosomal replication protein N
+kde:CDSE_0635	CDS	complement(419274..419645)	small subunit ribosomal protein S6
+kde:CDSE_0636	CDS	complement(419796..420614)	GTP cyclohydrolase
+kde:CDSE_0637	CDS	complement(420682..422547)	1-deoxy-D-xylulose-5-phosphate synthase
+kde:CDSE_0638	CDS	complement(422609..422824)	exonuclease VII small subunit
+kde:CDSE_1029	tRNA	complement(423126..423204)	tRNA-Met
+kde:CDSE_0639	CDS	complement(423250..425496)	DNA-directed RNA polymerase sigma subunit RpoD
+kde:CDSE_0641	CDS	complement(425637..427463)	DNA primase
+kde:CDSE_0642	CDS	complement(427476..427688)	small subunit ribosomal protein S21
+kde:CDSE_0644	CDS	complement(427966..429261)	adenylosuccinate synthase
+kde:CDSE_0645	CDS	complement(429340..430503)	ATP phosphoribosyltransferase regulatory subunit
+kde:CDSE_0646	CDS	complement(430548..431420)	membrane protease subunit HflC
+kde:CDSE_0647	CDS	complement(431438..432712)	HflK protein
+kde:CDSE_0650	CDS	complement(432690..433799)	GTP-binding protein HflX
+kde:CDSE_0651	CDS	complement(433882..434118)	host factor-I protein
+kde:CDSE_0652	CDS	complement(434430..435764)	GTP-binding protein
+kde:CDSE_0653	CDS	complement(435792..436931)	quinoprotein
+kde:CDSE_0654	CDS	complement(436985..437530)	hypothetical protein
+kde:CDSE_0655	CDS	complement(437546..438844)	histidyl-tRNA synthetase
+kde:CDSE_0657	CDS	complement(439316..440431)	ribosomal RNA large subunit methyltransferase N
+kde:CDSE_0659	CDS	complement(440456..440884)	nucleoside-diphosphate kinase
+kde:CDSE_0660	CDS	441154..444039	valyl-tRNA synthetase
+kde:CDSE_0662	CDS	complement(444081..444851)	tRNA (guanine-N1-)-methyltransferase
+kde:CDSE_0663	CDS	complement(444851..445468)	16S rRNA processing protein RimM
+kde:CDSE_0664	CDS	complement(445458..445715)	small subunit ribosomal protein S16
+kde:CDSE_0665	CDS	complement(445802..446062)	putative redox protein, regulator of disulfide bond formation
+kde:CDSE_0666	CDS	complement(446071..448701)	alanyl-tRNA synthetase
+kde:CDSE_0667	CDS	complement(448771..450033)	D-amino-acid dehydrogenase
+kde:CDSE_0668	CDS	complement(450099..451124)	CDP-4-dehydro-6-deoxyglucose reductase
+kde:CDSE_0670	CDS	451771..453027	transcription termination factor Rho
+kde:CDSE_0671	CDS	453071..453775	conserved hypothetical protein of the DUF208 family
+kde:CDSE_0673	CDS	complement(453723..454541)	putative divalent heavy-metal cation transporter
+kde:CDSE_0674	CDS	complement(454562..457261)	DNA polymerase I
+kde:CDSE_0675	CDS	complement(457303..459117)	GTP-binding protein
+kde:CDSE_0676	CDS	complement(459114..459848)	tRNA pseudouridine synthase B
+kde:CDSE_0677	CDS	complement(459887..460252)	ribosome-binding factor A
+kde:CDSE_0678	CDS	complement(460271..463117)	translation initiation factor IF-2
+kde:CDSE_0679	CDS	complement(463202..464674)	N utilization substance protein A
+kde:CDSE_0680	CDS	complement(464671..465192)	hypothetical protein
+kde:CDSE_0682	CDS	complement(465375..466901)	ribosomal large subunit pseudouridine synthase B
+kde:CDSE_1036	tRNA	467278..467353	tRNA-Thr
+kde:CDSE_0683	CDS	467669..467929	large subunit ribosomal protein L31
+kde:CDSE_0685	CDS	468343..469722	MATE family multidrug resistance protein
+kde:CDSE_0686	CDS	complement(469725..470285)	oligoribonuclease
+kde:CDSE_0687	CDS	470409..471320	ribosome biogenesis GTPase
+kde:CDSE_0688	CDS	complement(471328..471699)	large subunit ribosomal protein L19
+kde:CDSE_0690	CDS	complement(471845..472780)	electron transfer flavoprotein alpha subunit
+kde:CDSE_0691	CDS	complement(472777..473526)	electron transfer flavoprotein beta subunit
+kde:CDSE_0692	CDS	complement(473555..474484)	deacetylase
+kde:CDSE_0695	CDS	complement(474903..475187)	integration host factor subunit beta
+kde:CDSE_0696	CDS	complement(475193..476905)	small subunit ribosomal protein S1
+kde:CDSE_0697	CDS	complement(476999..477670)	cytidylate kinase
+kde:CDSE_0698	CDS	complement(477702..479033)	3-phosphoshikimate 1-carboxyvinyltransferase
+kde:CDSE_0699	CDS	complement(479039..479929)	prephenate dehydrogenase
+kde:CDSE_0700	CDS	complement(479939..481060)	histidinol-phosphate aminotransferase
+kde:CDSE_0701	CDS	complement(481068..482153)	prephenate dehydratase
+kde:CDSE_0702	CDS	complement(482146..483273)	phosphoserine aminotransferase
+kde:CDSE_0704	CDS	complement(483279..485876)	DNA gyrase subunit A
+kde:CDSE_0705	CDS	486233..486778	OOP family OmpA-OmpF porin
+kde:CDSE_0706	CDS	complement(487426..488346)	ribosomal large subunit pseudouridine synthase D
+kde:CDSE_0707	CDS	488436..489173	lipoprotein
+kde:CDSE_0709	CDS	complement(489302..490555)	tryptophanyl-tRNA synthetase
+kde:CDSE_0710	CDS	complement(490667..492091)	dihydrolipoamide dehydrogenase
+kde:CDSE_0712	CDS	complement(492223..493422)	2-oxoglutarate dehydrogenase E2 component
+kde:CDSE_0714	CDS	complement(493466..496339)	2-oxoglutarate dehydrogenase E1 component
+kde:CDSE_0715	CDS	496841..499126	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)
+kde:CDSE_0716	CDS	499249..499674	putative protoporphyrinogen oxidase hemJ
+kde:CDSE_0717	CDS	499707..500930	N6-adenine-specific DNA methylase
+kde:CDSE_0718	CDS	complement(500969..502255)	enolase
+kde:CDSE_0720	CDS	complement(502457..504094)	CTP synthase
+kde:CDSE_0721	CDS	504340..505992	electron-transferring-flavoprotein dehydrogenase
+kde:CDSE_0722	CDS	complement(506030..508012)	acetyl-CoA synthetase
+kde:CDSE_0723	CDS	complement(508080..508484)	glycolate and propanediol utilization protein
+kde:CDSE_0725	CDS	508676..509200	cell wall-associated hydrolase
+kde:CDSE_0727	CDS	complement(509264..510313)	lipopolysaccharide export system permease protein
+kde:CDSE_0728	CDS	510314..511876	leucyl aminopeptidase
+kde:CDSE_0730	CDS	511866..512315	DNA polymerase III subunit chi
+kde:CDSE_0732	CDS	512412..513122	integral membrane protein
+kde:CDSE_0733	CDS	complement(513160..513765)	DNA repair protein RecO
+kde:CDSE_0734	CDS	complement(513758..514648)	GTP-binding protein Era
+kde:CDSE_0735	CDS	complement(514670..515362)	ribonuclease III
+kde:CDSE_0736	CDS	complement(515368..516216)	signal peptidase I
+kde:CDSE_0737	CDS	complement(516223..518016)	GTP-binding protein LepA
+kde:CDSE_0738	CDS	complement(518083..519537)	trypsin-like serine protease
+kde:CDSE_0739	CDS	complement(519600..520829)	3-oxoacyl-[acyl-carrier-protein] synthase II
+kde:CDSE_0740	CDS	complement(520942..521178)	acyl carrier protein
+kde:CDSE_0741	CDS	complement(521330..522067)	3-oxoacyl-[acyl-carrier protein] reductase
+kde:CDSE_0742	CDS	complement(522083..523015)	[acyl-carrier-protein] S-malonyltransferase
+kde:CDSE_0743	CDS	complement(523056..524039)	3-oxoacyl-[acyl-carrier-protein] synthase III
+kde:CDSE_0744	CDS	complement(524071..525096)	glycerol-3-phosphate acyltransferase PlsX
+kde:CDSE_0746	CDS	complement(525120..525302)	large subunit ribosomal protein L32
+kde:CDSE_0748	CDS	525554..526144	septum formation protein
+kde:CDSE_0749	CDS	526152..526865	putative methyltransferase
+kde:CDSE_0750	CDS	complement(526884..527864)	ribosomal large subunit pseudouridine synthase C
+kde:CDSE_0751	CDS	528307..530946	ribonuclease E
+kde:CDSE_0752	CDS	complement(531013..531873)	acetyl-CoA carboxylase carboxyl transferase subunit beta
+kde:CDSE_0755	CDS	complement(531910..532749)	tryptophan synthase alpha chain
+kde:CDSE_0756	CDS	complement(532761..533960)	tryptophan synthase beta chain
+kde:CDSE_0757	CDS	complement(534085..536289)	GTP pyrophosphokinase
+kde:CDSE_0758	CDS	complement(536363..537538)	nicotinate phosphoribosyltransferase
+kde:CDSE_0760	CDS	537674..537997	ferredoxin
+kde:CDSE_0761	CDS	538017..538805	ferredoxin--NADP+ reductase
+kde:CDSE_0762	CDS	538819..539451	electron transport complex protein RnfB
+kde:CDSE_0763	CDS	539456..540094	endonuclease III
+kde:CDSE_0764	CDS	540133..540699	intracellular septation protein
+kde:CDSE_0766	CDS	540706..540981	BolA protein
+kde:CDSE_0767	CDS	541007..541783	peptidyl-prolyl cis-trans isomerase C
+kde:CDSE_0768	CDS	complement(541836..543977)	DNA ligase (NAD+)
+kde:CDSE_0769	CDS	complement(543931..544878)	membrane protein
+kde:CDSE_0772	CDS	545219..546508	lysophospholipid transporter LplT
+kde:CDSE_0773	CDS	complement(546519..547265)	DNA polymerase bacteriophage-type
+kde:CDSE_0774	CDS	complement(547268..548530)	metal-dependent protease, putative molecular chaperone
+kde:CDSE_0775	CDS	548717..549265	peroxiredoxin (alkyl hydroperoxide reductase subunit C)
+kde:CDSE_0777	CDS	549774..553214	superfamily II transcription-repair coupling factor
+kde:CDSE_0778	CDS	complement(553222..554697)	NADH dehydrogenase I subunit N
+kde:CDSE_0779	CDS	complement(554699..556186)	NADH dehydrogenase I subunit M
+kde:CDSE_0780	CDS	complement(556192..558210)	NADH dehydrogenase I subunit L
+kde:CDSE_0782	CDS	complement(558224..558529)	NADH dehydrogenase I subunit K
+kde:CDSE_0783	CDS	complement(558529..559167)	NADH dehydrogenase I subunit J
+kde:CDSE_0784	CDS	complement(559186..559674)	NADH dehydrogenase I subunit I
+kde:CDSE_0785	CDS	complement(559697..560752)	NADH dehydrogenase I subunit H
+kde:CDSE_0786	CDS	complement(560767..563121)	NADH dehydrogenase I subunit G
+kde:CDSE_0787	CDS	complement(563131..564498)	NADH dehydrogenase I subunit F
+kde:CDSE_0788	CDS	complement(564502..564993)	NADH dehydrogenase I subunit E
+kde:CDSE_0789	CDS	complement(565048..566304)	NADH dehydrogenase I subunit D
+kde:CDSE_0790	CDS	complement(566319..566933)	NADH dehydrogenase I subunit C
+kde:CDSE_0791	CDS	complement(566990..567466)	NADH dehydrogenase I subunit B
+kde:CDSE_0792	CDS	complement(567509..567868)	NADH dehydrogenase I subunit A
+kde:CDSE_0793	CDS	complement(568068..569252)	porin
+kde:CDSE_1023	tRNA	complement(569687..569773)	tRNA-Leu
+kde:CDSE_0796	CDS	complement(569874..570212)	preprotein translocase subunit SecG
+kde:CDSE_0797	CDS	complement(570230..570979)	triosephosphate isomerase TIM
+kde:CDSE_0798	CDS	complement(571030..572007)	NADPH2:quinone reductase
+kde:CDSE_1034	tRNA	complement(572172..572259)	tRNA-Ser
+kde:CDSE_1022	tRNA	572415..572499	tRNA-Leu
+kde:CDSE_0799	CDS	complement(572516..574615)	polyribonucleotide nucleotidyltransferase
+kde:CDSE_0800	CDS	complement(574711..574980)	small subunit ribosomal protein S15
+kde:CDSE_0802	CDS	complement(575104..575859)	phosphatidylserine synthase
+kde:CDSE_0803	CDS	complement(576010..577026)	ketol-acid reductoisomerase
+kde:CDSE_0804	CDS	complement(577099..577590)	acetolactate synthase I/III small subunit
+kde:CDSE_0805	CDS	complement(577601..579319)	acetolactate synthase I/II/III large subunit
+kde:CDSE_0807	CDS	complement(579735..580511)	conserved hypothetical protein of the DUF328 family
+kde:CDSE_1033	tRNA	580650..580740	tRNA-Ser
+kde:CDSE_0808	CDS	complement(580758..582098)	seryl-tRNA synthetase
+kde:CDSE_0809	CDS	complement(582143..583450)	recombination factor protein RarA
+kde:CDSE_0810	CDS	complement(583469..584017)	outer membrane lipoprotein carrier protein
+kde:CDSE_0811	CDS	complement(584070..586619)	S-DNA-T family DNA segregation ATPase FtsK/SpoIIIE
+kde:CDSE_0812	CDS	586665..587621	thioredoxin reductase (NADPH)
+kde:CDSE_0813	CDS	587614..588141	hypothetical protein
+kde:CDSE_0814	CDS	588142..588471	multidrug efflux protein
+kde:CDSE_0816	CDS	complement(588529..589965)	arginine:ornithine antiporter
+kde:CDSE_0818	CDS	590296..590727	conserved hypothetical protein of the DUF1841 family
+kde:CDSE_0819	CDS	complement(590739..591869)	molecular chaperone DnaJ
+kde:CDSE_0820	CDS	complement(591945..593864)	molecular chaperone DnaK
+kde:CDSE_0821	CDS	complement(593977..594555)	molecular chaperone GrpE
+kde:CDSE_0823	CDS	complement(594602..595663)	ferrochelatase
+kde:CDSE_0825	CDS	595911..596813	NAD+ kinase
+kde:CDSE_0826	CDS	596820..598469	DNA repair protein RecN
+kde:CDSE_0827	CDS	598531..598923	small protein A
+kde:CDSE_0829	CDS	598968..599771	dihydrodipicolinate reductase
+kde:CDSE_0830	CDS	complement(599785..600789)	UDP-N-acetylmuramate dehydrogenase
+kde:CDSE_1014	tRNA	601007..601082	tRNA-Gly
+kde:CDSE_1011	tRNA	601115..601188	tRNA-Cys
+kde:CDSE_0831	CDS	601273..602322	dihydroorotate oxidase
+kde:CDSE_0832	CDS	602346..602717	Thiol-disulfide isomerase
+kde:CDSE_0833	CDS	complement(602727..604103)	ATP-dependent RNA helicase RhlE
+kde:CDSE_0834	CDS	604321..604506	putative zinc-finger domain protein
+kde:CDSE_0835	CDS	604790..605647	UTP--glucose-1-phosphate uridylyltransferase
+kde:CDSE_0836	CDS	605676..607025	X-Pro aminopeptidase
+kde:CDSE_0837	CDS	607160..607402	Fis family transcriptional regulator, factor for inversion
+kde:CDSE_0838	CDS	607428..609023	phosphoribosylaminoimidazolecarboxamide formyltransferase
+kde:CDSE_0839	CDS	609028..609576	crossover junction endodeoxyribonuclease RuvC
+kde:CDSE_0840	CDS	609634..610209	holliday junction DNA helicase RuvA
+kde:CDSE_0842	CDS	610273..611334	holliday junction DNA helicase RuvB
+kde:CDSE_0843	CDS	611458..613224	glutaminyl-tRNA synthetase
+kde:CDSE_0844	CDS	613229..613924	septum site-determining protein MinC
+kde:CDSE_0846	CDS	614181..614957	septum site-determining protein MinD
+kde:CDSE_0847	CDS	614961..615215	cell division topological specificity factor
+kde:CDSE_0848	CDS	complement(615286..616932)	sulfate-transporting ATPase
+kde:CDSE_0849	CDS	complement(617143..617271)	hypothetical protein
+kde:CDSE_0851	CDS	617432..622858	dual-domain excinuclease ABC subunit A uvrA
+kde:CDSE_0852	CDS	complement(622864..623676)	family 1 dinucleotide-utilizing molybdopterin and thiamine biosynthesis protein
+kde:CDSE_0853	CDS	623840..624481	pyridoxamine 5'-phosphate oxidase
+kde:CDSE_0854	CDS	624502..624999	DIM6/NTAB family flavoprotein oxygenase
+kde:CDSE_0855	CDS	625051..625554	putative ATPase or kinase
+kde:CDSE_0856	CDS	625515..626843	N-acetylmuramoyl-L-alanine amidase
+kde:CDSE_0857	CDS	626872..628602	DNA mismatch repair protein MutL
+kde:CDSE_0858	CDS	628610..629581	tRNA dimethylallyltransferase
+kde:CDSE_0860	CDS	complement(629597..630646)	phosphoribosylformylglycinamidine cyclo-ligase
+kde:CDSE_0861	CDS	630873..631559	DnaA regulatory inactivator Hda
+kde:CDSE_0862	CDS	631563..632261	phosphoserine phosphatase
+kde:CDSE_0864	CDS	632261..633553	poly(A) polymerase
+kde:CDSE_0865	CDS	633596..634078	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+kde:CDSE_0867	CDS	634146..635033	glycyl-tRNA synthetase alpha chain
+kde:CDSE_0868	CDS	635058..637196	glycyl-tRNA synthetase beta subunit
+kde:CDSE_0869	CDS	637318..638040	1-acyl-sn-glycerol-3-phosphate acyltransferase
+kde:CDSE_0871	CDS	complement(638060..640705)	preprotein translocase subunit SecA
+kde:CDSE_0872	CDS	640886..641365	hypothetical protein
+kde:CDSE_0873	CDS	complement(641406..642284)	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+kde:CDSE_0874	CDS	complement(642323..643465)	cell division protein FtsZ
+kde:CDSE_0875	CDS	complement(643612..644541)	D-alanine-D-alanine ligase
+kde:CDSE_0876	CDS	complement(644538..645947)	UDP-N-acetylmuramate--alanine ligase
+kde:CDSE_0877	CDS	complement(645950..647023)	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase MurG
+kde:CDSE_0878	CDS	complement(647082..648569)	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+kde:CDSE_0879	CDS	complement(648566..649687)	phospho-N-acetylmuramoyl-pentapeptide-transferase
+kde:CDSE_0880	CDS	complement(649698..652511)	bifunctional UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase/UDP-N-acetylmuramyl pentapeptide synthase MurE/MurF
+kde:CDSE_0881	CDS	complement(652554..653537)	S-adenosyl-methyltransferase
+kde:CDSE_0884	CDS	654109..655896	ATPase component of ABC transporter
+kde:CDSE_0885	CDS	complement(656098..657189)	dihydroorotase
+kde:CDSE_0886	CDS	complement(657213..657485)	putative membrane protein
+kde:CDSE_0908	rRNA	complement(657753..657870)	5S ribosomal RNA
+kde:CDSE_0907	rRNA	complement(658012..660891)	23S large subunit ribosomal RNA
+kde:CDSE_1004	tRNA	complement(661125..661200)	tRNA-Ala
+kde:CDSE_1019	tRNA	complement(661229..661305)	tRNA-Ile
+kde:CDSE_0906	rRNA	complement(661438..662959)	16S small subunit ribosomal RNA
+kde:CDSE_0001	CDS	663381..664085	phosphatidylglycerol:prolipoprotein diacylglycerol transferase
+kde:CDSE_0002	CDS	complement(664087..664389)	cell division protein ZapA
+kde:CDSE_0003	CDS	complement(664376..664843)	hypothetical protein
+kde:CDSE_0004	CDS	complement(664902..665372)	putative (di)nucleoside polyphosphate hydrolase
+kde:CDSE_0005	CDS	665449..667176	prolyl-tRNA synthetase
+kde:CDSE_0006	CDS	667238..667882	biopolymer transport protein
+kde:CDSE_0007	CDS	668090..668590	colicin import membrane protein
+kde:CDSE_0009	CDS	668580..669896	TolB protein
+kde:CDSE_0010	CDS	669958..670383	peptidoglycan-associated lipoprotein
+kde:CDSE_0011	CDS	670409..671029	hypothetical protein
+kde:CDSE_0013	CDS	671052..671852	putative hydrolase or acyltransferase of the alpha/beta hydrolase superfamily
+kde:CDSE_0014	CDS	672412..673626	ESS family glutamate:Na+ symporter
+kde:CDSE_0015	CDS	673626..675182	TRAP-type uncharacterized transporter, periplasmic component
+kde:CDSE_0016	CDS	complement(675240..675950)	DNA polymerase III subunit epsilon
+kde:CDSE_0017	CDS	complement(675977..676444)	ribonuclease HI
+kde:CDSE_0018	CDS	676623..677468	hydroxyacylglutathione hydrolase
+kde:CDSE_0019	CDS	677458..678714	membrane-bound lytic murein transglycosylase D
+kde:CDSE_0021	CDS	678731..679507	enoyl-[acyl-carrier protein] reductase I
+kde:CDSE_0022	CDS	679605..681452	subfamily B ATP-binding cassette
+kde:CDSE_1035	tRNA	complement(681468..681558)	tRNA-Ser
+kde:CDSE_0024	CDS	complement(681602..682243)	riboflavin synthase alpha chain
+kde:CDSE_0026	CDS	complement(682273..683376)	diaminohydroxyphosphoribosylaminopyrimidine deaminase
+kde:CDSE_0027	CDS	complement(683450..683896)	transcriptional repressor NrdR
+kde:CDSE_0028	CDS	complement(683997..685244)	glycine hydroxymethyltransferase
+kde:CDSE_0029	CDS	complement(685393..686619)	tyrosyl-tRNA synthetase
+kde:CDSE_0031	CDS	686859..688199	metalloendopeptidase
+kde:CDSE_0032	CDS	complement(688196..688555)	Fe-S cluster assembly scaffold protein
+kde:CDSE_0033	CDS	complement(688616..689677)	N-acetyl-gamma-glutamyl-phosphate reductase
+kde:CDSE_0034	CDS	complement(689790..690182)	small subunit ribosomal protein S9
+kde:CDSE_0035	CDS	complement(690179..690622)	large subunit ribosomal protein L13
+kde:CDSE_0036	CDS	complement(690790..692157)	PmbA protein
+kde:CDSE_0037	CDS	692361..693011	phospholipase/carboxylesterase
+kde:CDSE_0038	CDS	complement(693000..695459)	hypothetical protein
+kde:CDSE_0039	CDS	695576..696976	glutamyl-tRNA synthetase
+kde:CDSE_0041	CDS	697260..700139	ribonucleoside-diphosphate reductase alpha chain
+kde:CDSE_0042	CDS	700171..701238	ribonucleoside-diphosphate reductase beta chain
+kde:CDSE_0043	CDS	complement(701305..702204)	ribosomal protein L11 methyltransferase
+kde:CDSE_0044	CDS	complement(702227..703573)	acetyl-CoA carboxylase, biotin carboxylase subunit
+kde:CDSE_0045	CDS	complement(703584..704012)	acetyl-CoA carboxylase biotin carboxyl carrier protein
+kde:CDSE_0046	CDS	complement(704055..704489)	3-dehydroquinate dehydratase II
+kde:CDSE_0047	CDS	704848..706767	exoribonuclease II
+kde:CDSE_0049	CDS	706819..707685	shikimate dehydrogenase
+kde:CDSE_0051	CDS	707745..708869	lipopolysaccharide export system permease protein
+kde:CDSE_0052	CDS	708917..709750	bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+kde:CDSE_0053	CDS	complement(709755..710162)	putative holliday junction resolvase
+kde:CDSE_0054	CDS	complement(710205..710369)	rubredoxin
+kde:CDSE_0055	CDS	710527..711192	thiamine-phosphate pyrophosphorylase
+kde:CDSE_0056	CDS	711185..712462	glutamate-1-semialdehyde 2,1-aminomutase
+kde:CDSE_0057	CDS	complement(712476..713333)	pantoate--beta-alanine ligase
+kde:CDSE_0058	CDS	complement(713395..713595)	conserved hypothetical protein of the DUF3460 family
+kde:CDSE_0059	CDS	713773..713916	hypothetical protein
+kde:CDSE_0060	CDS	714135..714449	large subunit ribosomal protein L21
+kde:CDSE_0061	CDS	714497..714754	large subunit ribosomal protein L27
+kde:CDSE_0063	CDS	714869..715906	GTP-binding protein
+kde:CDSE_0064	CDS	complement(715907..716668)	family 2 dinucleotide-utilizing molybdopterin and thiamine biosynthesis protein
+kde:CDSE_0065	CDS	complement(716709..718037)	carboxyl-terminal processing protease
+kde:CDSE_0066	CDS	complement(718115..718858)	phosphoglycerate mutase
+kde:CDSE_0067	CDS	718988..719413	rhodanese-like sulfurtransferase
+kde:CDSE_0068	CDS	719459..719881	preprotein translocase subunit SecB
+kde:CDSE_0069	CDS	719874..720932	glycerol-3-phosphate dehydrogenase (NAD(P)+)
+kde:CDSE_0070	CDS	complement(720954..721424)	TrmH family, group 2 RNA methyltransferase
+kde:CDSE_0071	CDS	721526..722422	biotin synthesis protein BioC
+kde:CDSE_0073	CDS	complement(722428..723120)	CheY-like receiver, AAA-type ATPase, and DNA-binding domain-containing response regulator
+kde:CDSE_0074	CDS	complement(723458..724777)	ribosomal RNA small subunit methyltransferase B
+kde:CDSE_0075	CDS	complement(724923..725885)	methionyl-tRNA formyltransferase
+kde:CDSE_0076	CDS	complement(725903..726406)	N-formylmethionyl-tRNA deformylase
+kde:CDSE_0077	CDS	726540..727241	putative TIM-barrel fold enzyme
+kde:CDSE_0079	CDS	727367..728875	threonine dehydratase
+kde:CDSE_0080	CDS	complement(728930..730612)	cytochrome bd biosynthesis ABC-type transporter, ATPase and permease
+kde:CDSE_0081	CDS	complement(730609..732348)	subfamily B ATP-binding cassette
+kde:CDSE_0084	CDS	complement(732477..733631)	cytochrome bd-I oxidase subunit II
+kde:CDSE_0085	CDS	complement(733664..735229)	cytochrome D ubiquinol oxidase subunit 1
+kde:CDSE_0087	CDS	736013..736297	hypothetical protein
+kde:CDSE_0088	CDS	736308..736817	lipopolysaccharide transport periplasmic protein LptA
+kde:CDSE_0089	CDS	736891..737673	lipopolysaccharide export system ATP-binding protein
+kde:CDSE_0090	CDS	738019..738477	PTS system, nitrogen regulatory IIA component
+kde:CDSE_0091	CDS	738501..739433	HPr kinase/phosphorylase
+kde:CDSE_0092	CDS	complement(739490..739981)	methylated-DNA-[protein]-cysteine S-methyltransferase
+kde:CDSE_0093	CDS	complement(739983..740924)	methyltransferase
+kde:CDSE_0094	CDS	741027..741653	putative periplasmic or secreted lipoprotein
+kde:CDSE_0095	CDS	741859..742761	acetylglutamate kinase
+kde:CDSE_0097	CDS	742931..744421	Di- and tricarboxylate transporter
+kde:CDSE_0098	CDS	744431..745480	L-lactate dehydrogenase
+kde:CDSE_0099	CDS	complement(745513..746664)	rod shape determining protein RodA
+kde:CDSE_0100	CDS	complement(746686..748539)	penicillin-binding protein 2
+kde:CDSE_0101	CDS	complement(748546..749100)	rod shape-determining protein MreD
+kde:CDSE_0102	CDS	complement(749108..749950)	rod shape-determining protein MreC
+kde:CDSE_0103	CDS	complement(749991..751034)	rod shape-determining protein MreB
+kde:CDSE_0104	CDS	751213..751527	aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit C
+kde:CDSE_0105	CDS	751524..753050	aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A
+kde:CDSE_0106	CDS	753059..754501	aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B
+kde:CDSE_0107	CDS	complement(754521..755186)	orotate phosphoribosyltransferase
+kde:CDSE_0108	CDS	755305..756093	exodeoxyribonuclease III
+kde:CDSE_0109	CDS	756257..756895	lysine efflux permease
+kde:CDSE_0110	CDS	756895..757665	uracil-DNA glycosylase
+kde:CDSE_0112	CDS	757908..759350	superfamily II DNA and RNA helicase
+kde:CDSE_0114	CDS	759371..760561	hypothetical protein
+kde:CDSE_0115	CDS	complement(760550..761641)	CCA-adding tRNA nucleotidyltransferase
+kde:CDSE_0116	CDS	761734..762384	5-formyltetrahydrofolate cyclo-ligase
+kde:CDSE_0117	CDS	complement(762478..762693)	Fe-S protein
+kde:CDSE_0118	CDS	complement(762709..763869)	S-adenosylmethionine synthetase
+kde:CDSE_0119	CDS	764052..764888	lipid A biosynthesis lauroyl acyltransferase htrB
+kde:CDSE_0120	CDS	765110..766006	diaminopimelate epimerase
+kde:CDSE_0122	CDS	766049..767032	integrase/recombinase XerC
+kde:CDSE_0124	CDS	767193..768212	G3E family GTPase
+kde:CDSE_0125	CDS	768279..768740	DnaK suppressor protein
+kde:CDSE_0126	CDS	768871..769404	ATP-dependent HslUV protease, peptidase subunit HslV
+kde:CDSE_0127	CDS	769458..770792	ATP-dependent HslUV protease ATP-binding subunit HslU
+kde:CDSE_0128	CDS	complement(770867..771136)	conserved hypothetical protein of the DUF493 family
+kde:CDSE_0129	CDS	complement(771155..772390)	penicillin-binding D-alanyl-D-alanine carboxypeptidase
+kde:CDSE_0130	CDS	complement(772501..773148)	putative hydrolase of the alpha/beta superfamily
+kde:CDSE_0132	CDS	773398..774234	BirA family transcriptional regulator, biotin operon repressor
+kde:CDSE_0133	CDS	774218..775021	type III pantothenate kinase
+kde:CDSE_0134	CDS	complement(775266..777053)	aspartyl-tRNA synthetase
+kde:CDSE_0135	CDS	complement(777097..777690)	hypothetical protein
+kde:CDSE_0136	CDS	complement(777715..777963)	FmdB family regulatory protein
+kde:CDSE_0137	CDS	778454..779659	MocR family (DNA-binding HTH and aminotransferase domains) transcriptional regulator
+kde:CDSE_0138	CDS	complement(780093..780902)	3-methyl-2-oxobutanoate hydroxymethyltransferase
+kde:CDSE_0139	CDS	complement(780960..781436)	single-strand DNA-binding protein
+kde:CDSE_0141	CDS	781558..784350	excinuclease ABC subunit A uvrA
+kde:CDSE_0142	CDS	complement(784371..785504)	dGTPase
+kde:CDSE_0143	CDS	complement(785512..786588)	3-dehydroquinate synthase
+kde:CDSE_0145	CDS	complement(786598..787218)	shikimate kinase
+kde:CDSE_0146	CDS	787340..789658	penicillin-binding protein 1A
+kde:CDSE_0147	CDS	complement(789614..789943)	CyaY protein
+kde:CDSE_0148	CDS	790046..790186	hypothetical protein
+kde:CDSE_0149	CDS	790255..791511	diaminopimelate decarboxylase
+kde:CDSE_0150	CDS	791585..792205	GTP-binding protein engB
+kde:CDSE_0152	CDS	792202..793224	porphobilinogen synthase AlaD
+kde:CDSE_0153	CDS	complement(793293..793673)	large subunit ribosomal protein L17
+kde:CDSE_0154	CDS	complement(793728..794717)	DNA-directed RNA polymerase subunit alpha
+kde:CDSE_0155	CDS	complement(794815..795438)	small subunit ribosomal protein S4
+kde:CDSE_0156	CDS	complement(795459..795860)	small subunit ribosomal protein S11
+kde:CDSE_0158	CDS	complement(795879..796244)	small subunit ribosomal protein S13
+kde:CDSE_0159	CDS	complement(796449..796667)	translation initiation factor IF-1
+kde:CDSE_0160	CDS	complement(796709..798016)	preprotein translocase subunit SecY
+kde:CDSE_0161	CDS	complement(798028..798468)	large subunit ribosomal protein L15
+kde:CDSE_0162	CDS	complement(798478..798663)	ribosomal protein L30
+kde:CDSE_0163	CDS	complement(798669..799190)	small subunit ribosomal protein S5
+kde:CDSE_0164	CDS	complement(799203..799568)	large subunit ribosomal protein L18
+kde:CDSE_0165	CDS	complement(799593..800126)	large subunit ribosomal protein L6
+kde:CDSE_0166	CDS	complement(800139..800534)	small subunit ribosomal protein S8
+kde:CDSE_0167	CDS	complement(800545..800850)	small subunit ribosomal protein S14
+kde:CDSE_0168	CDS	complement(800864..801403)	large subunit ribosomal protein L5
+kde:CDSE_0169	CDS	complement(801418..801744)	large subunit ribosomal protein L24
+kde:CDSE_0171	CDS	complement(801754..802122)	large subunit ribosomal protein L14
+kde:CDSE_0172	gene	complement(802152..802304)	pseudogene
+kde:CDSE_0173	CDS	complement(802386..802667)	small subunit ribosomal protein S17
+kde:CDSE_0174	CDS	complement(802660..802863)	large subunit ribosomal protein L29
+kde:CDSE_0175	CDS	complement(802876..803295)	large subunit ribosomal protein L16
+kde:CDSE_0176	CDS	complement(803298..804095)	small subunit ribosomal protein S3
+kde:CDSE_0177	CDS	complement(804107..804436)	large subunit ribosomal protein L22
+kde:CDSE_0178	CDS	complement(804440..804715)	small subunit ribosomal protein S19
+kde:CDSE_0179	CDS	complement(804728..805555)	large subunit ribosomal protein L2
+kde:CDSE_0180	CDS	complement(805555..805851)	large subunit ribosomal protein L23
+kde:CDSE_0181	CDS	complement(805848..806465)	large subunit ribosomal protein L4
+kde:CDSE_0182	CDS	complement(806468..807169)	large subunit ribosomal protein L3
+kde:CDSE_0183	CDS	complement(807314..807625)	small subunit ribosomal protein S10
+kde:CDSE_0170	CDS	complement(807683..808873)	elongation factor Tu
+kde:CDSE_0184	CDS	complement(808960..811062)	elongation factor EF-G
+kde:CDSE_0185	CDS	complement(811072..811542)	small subunit ribosomal protein S7
+kde:CDSE_0186	CDS	complement(811665..812042)	small subunit ribosomal protein S12
+kde:CDSE_0187	CDS	complement(812240..816427)	DNA-directed RNA polymerase subunit beta'
+kde:CDSE_0188	CDS	complement(816427..820536)	DNA-directed RNA polymerase subunit beta
+kde:CDSE_0190	CDS	complement(820681..821052)	large subunit ribosomal protein L7/L12
+kde:CDSE_0191	CDS	complement(821119..821646)	large subunit ribosomal protein L10
+kde:CDSE_0192	CDS	complement(821870..822562)	large subunit ribosomal protein L1
+kde:CDSE_0193	CDS	complement(822565..822996)	large subunit ribosomal protein L11
+kde:CDSE_0194	CDS	complement(823055..823588)	transcriptional antiterminator NusG
+kde:CDSE_0195	CDS	complement(823609..823974)	preprotein translocase subunit SecE
+kde:CDSE_1039	tRNA	complement(824013..824088)	tRNA-Trp
+kde:CDSE_0196	CDS	complement(824171..825361)	elongation factor Tu
+kde:CDSE_1038	tRNA	complement(825412..825486)	tRNA-Thr
+kde:CDSE_1015	tRNA	complement(825491..825564)	tRNA-Gly
+kde:CDSE_1040	tRNA	complement(825579..825665)	tRNA-Tyr
+kde:CDSE_0198	CDS	complement(825887..826561)	glucose inhibited division protein B
+kde:CDSE_0199	CDS	complement(826558..828462)	glucose inhibited division protein A
+kde:CDSE_0200	CDS	complement(828990..830330)	tRNA modification GTPase
+kde:CDSE_0203	CDS	complement(830387..831985)	preprotein translocase subunit YidC
+kde:CDSE_0204	CDS	complement(832028..832252)	conserved hypothetical protein of the DUF37 family
+kde:CDSE_0205	CDS	complement(832237..832635)	ribonuclease P protein component
+kde:CDSE_0201	CDS	complement(832660..832794)	ribosomal protein L34
