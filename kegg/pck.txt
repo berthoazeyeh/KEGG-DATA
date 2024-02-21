@@ -1,0 +1,863 @@
+pck:BMSBPS_p0001	CDS	pBMSBPS1:complement(1..1023)	astE; succinylglutamate desuccinylase astE
+pck:BMSBPS_p0002	CDS	pBMSBPS1:complement(1034..2377)	astB; succinylarginine dihydrolase astB
+pck:BMSBPS_p0003	CDS	pBMSBPS1:complement(2401..3867)	astD; Succinylglutamic semialdehyde dehydrogenase astD
+pck:BMSBPS_p0004	CDS	pBMSBPS1:complement(3872..4900)	astA; arginine N-succinyltransferase astA
+pck:BMSBPS_p0005	CDS	pBMSBPS1:complement(4918..6126)	astC; succinylornithine transaminase atsC
+pck:BMSBPS_p0006	CDS	pBMSBPS1:6530..7804	gdhA; glutamate dehydrogenase gdhA
+pck:BMSBPS_p0007	CDS	pBMSBPS1:complement(8461..9504)	repFIB; replication protein A repFIB
+pck:BMSBPS_p0008	CDS	pBMSBPS1:complement(11123..11623)	ibpB; small heat shock protein ibpB
+pck:BMSBPS_p0009	CDS	pBMSBPS1:12143..13681	ubiD; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiD
+pck:BMSBPS_p0010	CDS	pBMSBPS2:complement(1..864)	repA; repA
+pck:BMSBPS_p0011	CDS	pBMSBPS2:2396..3355	putative dehydrogenase
+pck:BMSBPS_p0012	CDS	pBMSBPS2:3373..4572	putative PLP-dependent enzyme
+pck:BMSBPS_p0013	CDS	pBMSBPS2:4569..4997	mutT; putative DNA mismatch repair protein MutT, NUDIX family
+pck:BMSBPS_p0014	CDS	pBMSBPS2:5052..5843	suhB; inositol monophosphatase SuhB
+pck:BMSBPS_p0015	CDS	pBMSBPS3:complement(11..1009)	repA; replication protein RepA
+pck:BMSBPS_p0016	CDS	pBMSBPS3:complement(2292..3272)	thiF; thiazole biosynthesis protein ThiF
+pck:BMSBPS_p0017	CDS	pBMSBPS3:complement(3291..4055)	thiG; thiazole synthase ThiG
+pck:BMSBPS_p0018	CDS	pBMSBPS3:complement(4056..4253)	thiS; thiamine biosynthesis protein ThiS
+pck:BMSBPS_p0019	CDS	pBMSBPS3:complement(4237..5181)	thiO; glycine oxidase ThiO
+pck:BMSBPS_p0020	CDS	pBMSBPS3:6972..8168	oxdC; oxalate decarboxylase oxdC
+pck:BMSBPS_p0021	CDS	pBMSBPS3:11754..11921	putative stress-induced protein
+pck:BMSBPS_p0022	CDS	pBMSBPS3:12229..12744	yciE; YciE
+pck:BMSBPS_p0023	CDS	pBMSBPS3:13633..14415	map; methionine aminopeptidase Map
+pck:BMSBPS_p0024	CDS	pBMSBPS3:complement(14889..15284)	putative bacterial OB fold (BOF) periplasmic protein
+pck:BMSBPS_p0025	CDS	pBMSBPS3:complement(15773..16429)	putative ABC transporter substrate-binding protein
+pck:BMSBPS_p0026	CDS	pBMSBPS4:complement(1..897)	repA; replication protein RepA
+pck:BMSBPS_p0027	CDS	pBMSBPS4:complement(1900..2451)	putative phosphoglycerate mutase
+pck:BMSBPS_p0028	CDS	pBMSBPS4:complement(3049..3360)	hypothetical protein
+pck:BMSBPS_p0029	CDS	pBMSBPS4:complement(3438..3875)	hypothetical protein
+pck:BMSBPS_p0030	CDS	pBMSBPS4:complement(3885..4640)	hypothetical protein
+pck:BMSBPS_p0031	CDS	pBMSBPS4:complement(6318..6851)	putative endonuclease protein
+pck:BMSBPS_0001	CDS	1..1488	transcription elongation protein NusA
+pck:BMSBPS_0002	CDS	1503..4157	translation initiation factor IF-2
+pck:BMSBPS_0003	CDS	4192..4611	ribosome-binding factor A RbfA
+pck:BMSBPS_0004	CDS	4608..5438	tRNA pseudouridine synthase B
+pck:BMSBPS_0006	CDS	5691..5960	30S ribosomal protein S15
+pck:BMSBPS_0007	CDS	6178..8328	polyribonucleotide nucleotidyltransferase Pnp
+pck:BMSBPS_0008	CDS	8870..10642	cold-shock DEAD box protein A DeaD
+pck:BMSBPS_0009	CDS	10941..11372	hypothetical protein
+pck:BMSBPS_0010	CDS	complement(11627..12013)	endoribonuclease
+pck:BMSBPS_0011	CDS	complement(12094..12558)	aspartate carbamoyltransferase regulatory chain PyrI
+pck:BMSBPS_0012	CDS	complement(12567..13502)	aspartate carbamoyltransferase catalytic chain PyrB
+pck:BMSBPS_0013	CDS	complement(13624..14640)	ornithine carbamoyltransferase
+pck:BMSBPS_0014	CDS	15147..16091	cysteine synthase A
+pck:BMSBPS_0015	CDS	16535..16792	phosphocarrier protein HPr
+pck:BMSBPS_0016	CDS	16942..18702	phosphoenolpyruvate-protein phosphotransferase PtsI
+pck:BMSBPS_0017	CDS	18712..19215	PTS system glucose-specific transporter subunit IIA
+pck:BMSBPS_0018	CDS	complement(19383..20459)	sulfate_thiosulfate import ATP-binding protein CysA
+pck:BMSBPS_0019	CDS	complement(20481..21323)	sulfate transport system permease CysW
+pck:BMSBPS_0020	CDS	complement(21323..22153)	sulfate ABC transporter permease
+pck:BMSBPS_0021	CDS	complement(22153..23172)	thiosulfate-binding protein precursor CysP
+pck:BMSBPS_0022	CDS	24774..25901	succinyl-diaminopimelate desuccinylase
+pck:BMSBPS_0023	CDS	complement(27179..27895)	lipoprotein 34 precursor NlpB
+pck:BMSBPS_0024	CDS	complement(27910..28788)	dihydrodipicolinate synthase DapA
+pck:BMSBPS_0025	gene	31187..33271	polyphosphate kinase, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0026	CDS	complement(33511..35091)	GMP synthase glutamine-hydrolyzing GuaA
+pck:BMSBPS_0027	CDS	complement(35161..36627)	Inosine-5-monophosphate dehydrogenase GuaB
+pck:BMSBPS_0028	CDS	complement(37067..38590)	GTP-binding protein EngA
+pck:BMSBPS_0029	CDS	complement(38699..39907)	lipoprotein YfgL precursor
+pck:BMSBPS_0030	CDS	complement(40074..41357)	histidyl-tRNA synthetase
+pck:BMSBPS_0031	CDS	complement(41488..42597)	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+pck:BMSBPS_0032	CDS	complement(43049..43630)	HTH-type transcriptional regulator YfgA
+pck:BMSBPS_0033	CDS	complement(44031..45149)	radical SAM Cfr family YfgB
+pck:BMSBPS_0034	CDS	complement(45332..45781)	nucleoside diphosphate kinase
+pck:BMSBPS_0035	CDS	complement(46434..47594)	cysteine desulfurase IscS
+pck:BMSBPS_0036	CDS	complement(48898..49890)	hypothetical protein
+pck:BMSBPS_0037	CDS	complement(50354..51607)	serine hydroxymethyltransferase 1 GlyA1
+pck:BMSBPS_0038	CDS	complement(54719..55192)	cytosine_adenosine deaminase
+pck:BMSBPS_0039	CDS	complement(55596..55976)	holo-ACP synthase
+pck:BMSBPS_0040	CDS	complement(55976..56707)	pyridoxal phosphate biosynthetic protein PdxJ
+pck:BMSBPS_0041	CDS	complement(57163..58089)	GTP-binding protein Era
+pck:BMSBPS_0042	CDS	complement(58147..58845)	ribonuclease III Rnc
+pck:BMSBPS_0043	CDS	complement(59014..59934)	signal peptidase I LepB
+pck:BMSBPS_0044	CDS	complement(59945..61744)	GTP-binding protein LepA
+pck:BMSBPS_0045	CDS	63983..65581	L-aspartate oxidase NadB
+pck:BMSBPS_0046	CDS	65858..66535	uracil-DNA glycosylase
+pck:BMSBPS_0047	CDS	complement(66587..67192)	heat shock protein
+pck:BMSBPS_0048	CDS	67316..68194	inorganic polyphosphate_ATP-NAD kinase PpnK
+pck:BMSBPS_0049	CDS	69504..69854	lipoprotein
+pck:BMSBPS_0050	CDS	complement(69875..70189)	hypothetical protein
+pck:BMSBPS_0051	CDS	70566..71048	SsrA-binding protein SmpB
+pck:BMSBPS_0052	gene	71095..71462	conserved hypothetical protein, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0053	CDS	72486..73841	CDP-diacylglycerol--serine O-phosphatidyltransferase
+pck:BMSBPS_0054	CDS	73972..74541	molybdopterin-guanine dinucleotide biosynthesis protein A MobA
+pck:BMSBPS_0055	tRNA	74789..74861	tRNA-Ala
+pck:BMSBPS_0056	tRNA	74924..75000	tRNA-Ile
+pck:BMSBPS_0057	CDS	complement(75118..75699)	D,D-heptose 1,7-bisphosphate phosphatase
+pck:BMSBPS_0058	CDS	76319..78046	Prolyl-tRNA synthetase ProS
+pck:BMSBPS_0059	CDS	complement(78117..79481)	tRNA(Ile)-lysidine synthase TilS
+pck:BMSBPS_0060	CDS	complement(82023..82982)	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+pck:BMSBPS_0061	CDS	complement(82994..86473)	DNA polymerase III alpha subunit DnaE
+pck:BMSBPS_0062	CDS	complement(86537..87142)	ribonuclease HII RnhB
+pck:BMSBPS_0063	CDS	complement(87135..88289)	lipid-A-disaccharide synthase
+pck:BMSBPS_0064	CDS	complement(88293..89081)	acyl-acyl-carrier-protein --UDP-N-acetylglucosamine O-acyltransferase LpxA
+pck:BMSBPS_0065	CDS	complement(89085..89540)	(3R)-hydroxymyristoyl-ACP dehydratase
+pck:BMSBPS_0066	CDS	complement(89727..90752)	UDP-3-O-3-hydroxymyristoyl glucosamine N-acyltransferase LpxD
+pck:BMSBPS_0067	CDS	complement(90756..91253)	periplasmic chaperone
+pck:BMSBPS_0068	CDS	complement(91313..93730)	outer membrane protein assembly factor YaeT precursor
+pck:BMSBPS_0069	CDS	complement(93770..95122)	protease EcfE
+pck:BMSBPS_0070	CDS	complement(95134..95982)	CDP-diglyceride synthetase
+pck:BMSBPS_0071	CDS	complement(96030..96770)	UDP pyrophosphate synthase
+pck:BMSBPS_0072	CDS	complement(96938..98134)	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+pck:BMSBPS_0073	CDS	complement(98283..98840)	ribosome recycling factor
+pck:BMSBPS_0074	CDS	complement(98969..99694)	uridylate kinase PyrH
+pck:BMSBPS_0075	CDS	complement(99864..100709)	translation elongation factor Ts
+pck:BMSBPS_0076	CDS	complement(100869..101570)	30S ribosomal protein S2
+pck:BMSBPS_0077	CDS	103578..104402	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase DapD
+pck:BMSBPS_0078	CDS	complement(105271..105618)	HesB_YadR_YfhF family protein YadR
+pck:BMSBPS_0079	CDS	complement(106240..108579)	penicillin-binding protein 1B MrcB
+pck:BMSBPS_0080	CDS	109800..110255	DnaK suppressor protein
+pck:BMSBPS_0081	CDS	110684..112027	poly(A) polymerase
+pck:BMSBPS_0082	CDS	112027..112512	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+pck:BMSBPS_0083	CDS	112588..113385	3-methyl-2-oxobutanoate hydroxymethyltransferase
+pck:BMSBPS_0084	CDS	113403..114263	pantoate-beta-alanine ligase PanC
+pck:BMSBPS_0085	CDS	complement(114728..115498)	inner membrane transport permease YadH
+pck:BMSBPS_0086	CDS	complement(115503..116423)	ABC-type multidrug transport system ATPase component YadG
+pck:BMSBPS_0087	CDS	complement(116661..117200)	hypoxanthine phosphoribosyltransferase
+pck:BMSBPS_0088	CDS	complement(117882..119303)	dihydrolipoyl dehydrogenase LpdA
+pck:BMSBPS_0089	CDS	complement(119499..120752)	dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex AceF
+pck:BMSBPS_0090	CDS	complement(120771..123437)	pyruvate dehydrogenase E1 component AceE
+pck:BMSBPS_0091	CDS	124444..125805	aromatic amino acid transport protein AroP
+pck:BMSBPS_0092	CDS	126278..127168	nicotinate-nucleotide pyrophosphorylase carboxylating NadC
+pck:BMSBPS_0093	CDS	127681..128286	dephospho-CoA kinase CoaE
+pck:BMSBPS_0094	CDS	128297..129040	hypothetical protein
+pck:BMSBPS_0095	CDS	complement(129475..132132)	preprotein translocase subunit SecA
+pck:BMSBPS_0096	CDS	complement(132501..133418)	UDP-3-O-3-hydroxymyristoyl N-acetylglucosamine deacetylase LpxC
+pck:BMSBPS_0097	CDS	complement(133522..134682)	cell division protein FtsZ
+pck:BMSBPS_0098	CDS	complement(134761..136017)	cell division protein FtsA
+pck:BMSBPS_0099	CDS	complement(136055..136894)	cell division protein FtsQ
+pck:BMSBPS_0100	CDS	complement(137348..138829)	UDP-N-acetylmuramate--L-alanine ligase MurC
+pck:BMSBPS_0101	CDS	complement(138898..139956)	UDP-N-acetylglucosamine-N-acetylmuramyl(pentapeptide) pyrophosphoryl-undecaprenol Nacetylglucosamine transferase
+pck:BMSBPS_0102	CDS	complement(139953..141167)	cell division protein FtsW FtsW
+pck:BMSBPS_0103	CDS	complement(141167..142492)	UDP-N-acetylmuramoylalanine--D-glutamate ligase MurD
+pck:BMSBPS_0104	CDS	complement(142494..143576)	phospho-N-acetylmuramoyl-pentapeptide-transferase MraY
+pck:BMSBPS_0105	CDS	complement(143570..144931)	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase MurF
+pck:BMSBPS_0106	CDS	complement(144933..146417)	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+pck:BMSBPS_0107	CDS	complement(146429..148168)	peptidoglycan synthetase FtsI
+pck:BMSBPS_0108	CDS	complement(148181..148513)	cell division protein
+pck:BMSBPS_0109	CDS	complement(148510..149451)	S-adenosyl-methyltransferase MraW
+pck:BMSBPS_0110	CDS	complement(150128..150607)	acetolactate synthase isozyme III small subunit IlvH
+pck:BMSBPS_0111	CDS	complement(150610..152340)	acetolactate synthase isozyme III large subunit IlvI
+pck:BMSBPS_0112	CDS	152928..154484	2-isopropylmalate synthase
+pck:BMSBPS_0113	CDS	154500..155591	3-isopropylmalate dehydrogenase
+pck:BMSBPS_0114	CDS	155598..156998	3-isopropylmalate dehydratase large subunit
+pck:BMSBPS_0115	CDS	157010..157618	3-isopropylmalate dehydratase, small subunit
+pck:BMSBPS_0116	CDS	158590..160977	organic solvent tolerance protein precursor Lmp
+pck:BMSBPS_0117	CDS	161024..162310	chaperone SurA precursor
+pck:BMSBPS_0118	CDS	162300..163295	4-hydroxythreonine-4-phosphate dehydrogenase
+pck:BMSBPS_0119	CDS	163285..164112	dimethyladenosine transferase
+pck:BMSBPS_0120	CDS	164340..165152	Bis(5-nucleosyl)-tetraphosphatase ApaH
+pck:BMSBPS_0121	CDS	complement(165253..165750)	dihydrofolate reductase FolA
+pck:BMSBPS_0122	CDS	complement(165808..169041)	carbamoyl-phosphate synthase large subunit
+pck:BMSBPS_0123	CDS	complement(169055..170212)	carbamoyl-phosphate synthase, small subunit
+pck:BMSBPS_0124	CDS	complement(170517..171326)	dihydrodipicolinate reductase
+pck:BMSBPS_0125	CDS	complement(171493..172443)	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+pck:BMSBPS_0126	CDS	complement(172650..173141)	lipoprotein signal peptidase
+pck:BMSBPS_0127	CDS	complement(173141..175960)	isoleucyl-tRNA synthetase IleS
+pck:BMSBPS_0128	CDS	complement(175981..176919)	bifunctional riboflavin kinase_FMN adenylyltransferase
+pck:BMSBPS_0129	CDS	177198..177461	30S ribosomal subunit protein S20 RpsT
+pck:BMSBPS_0130	CDS	complement(177805..178941)	chaperone protein DnaJ
+pck:BMSBPS_0131	CDS	complement(179051..180961)	chaperone protein
+pck:BMSBPS_0132	CDS	complement(181509..182081)	molybdopterin biosynthesis protein Mog
+pck:BMSBPS_0133	CDS	complement(182214..183185)	transaldolase B TalB
+pck:BMSBPS_0134	CDS	complement(183338..184621)	threonine synthase ThrC
+pck:BMSBPS_0135	CDS	complement(184625..185554)	homoserine kinase ThrB
+pck:BMSBPS_0136	CDS	complement(185560..188028)	bifunctional aspartokinase_homoserine dehydrogenase I
+pck:BMSBPS_0137	CDS	complement(189056..189532)	protein CreA
+pck:BMSBPS_0138	CDS	complement(190962..191285)	trp operon repressor TrpR
+pck:BMSBPS_0139	gene	194099..195262	urea carboxylase, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0140	CDS	complement(197813..198697)	phosphoserine phosphatase SerB
+pck:BMSBPS_0141	CDS	complement(199634..200038)	DNA polymerase III psi subunit HolD
+pck:BMSBPS_0142	tRNA	201301..201382	tRNA-Leu
+pck:BMSBPS_0143	CDS	complement(201824..202903)	inner membrane protein YjgQ
+pck:BMSBPS_0144	CDS	complement(202896..204014)	permease
+pck:BMSBPS_0145	CDS	204316..205884	cytosol aminopeptidase
+pck:BMSBPS_0146	CDS	205969..206415	DNA polymerase III chi subunit HolC
+pck:BMSBPS_0147	CDS	206441..209299	valyl-tRNA synthetase ValS
+pck:BMSBPS_0148	CDS	complement(209810..211228)	glutamyl-tRNA synthetase
+pck:BMSBPS_0149	tRNA	211452..211524	tRNA-Val
+pck:BMSBPS_0150	CDS	212207..213175	cytochrome oxidase YfeH
+pck:BMSBPS_0151	CDS	complement(213349..215103)	NAD-dependent DNA ligase LigA
+pck:BMSBPS_0152	tRNA	216325..216398	tRNA-Ala
+pck:BMSBPS_0153	CDS	216921..218165	manganese transport protein MntH
+pck:BMSBPS_0154	CDS	218738..219706	glucokinase
+pck:BMSBPS_0155	tRNA	220633..220704	tRNA-Arg
+pck:BMSBPS_0156	CDS	221650..222417	lipoprotein VacJ precursor
+pck:BMSBPS_0157	CDS	223075..223599	phosphohistidine phosphatase
+pck:BMSBPS_0158	CDS	223740..224672	methyltransferase
+pck:BMSBPS_0159	CDS	224720..225826	chorismate synthase AroC
+pck:BMSBPS_0160	CDS	226340..227560	3-oxoacyl-acyl-carrier-protein synthase I FabB
+pck:BMSBPS_0161	CDS	228063..229205	erythronate-4-phosphate dehydrogenase PdxB
+pck:BMSBPS_0162	CDS	229439..230248	tRNA pseudouridine synthase A TruA
+pck:BMSBPS_0163	CDS	230714..231586	acetyl-coenzyme A carboxylase carboxyl transferase subunit beta AccD
+pck:BMSBPS_0164	CDS	231696..232979	bifunctional folylpolyglutamate synthase_ dihydrofolate synthase
+pck:BMSBPS_0165	CDS	233758..234303	colicin V production protein
+pck:BMSBPS_0166	CDS	235652..236221	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+pck:BMSBPS_0167	CDS	237313..237723	NADH-quinone oxidoreductase chain A NuoA
+pck:BMSBPS_0168	CDS	237791..238474	NADH-quinone oxidoreductase chain B NuoB
+pck:BMSBPS_0169	CDS	238577..240379	NADH-quinone oxidoreductase chain C_D NuoC
+pck:BMSBPS_0170	CDS	240383..240898	NADH dehydrogenase I subunit E
+pck:BMSBPS_0171	CDS	240895..242229	NADH-quinone oxidoreductase chain F Nuof
+pck:BMSBPS_0172	CDS	242339..245065	NADH-quinone oxidoreductase chain G NuoG
+pck:BMSBPS_0173	CDS	245062..246030	NADH-quinone oxidoreductase chain H NuoH
+pck:BMSBPS_0174	CDS	246052..246594	NADH-quinone oxidoreductase chain I NuoI
+pck:BMSBPS_0175	CDS	246605..247153	NADH-quinone oxidoreductase chain J NuoJ
+pck:BMSBPS_0176	CDS	247150..247452	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K)
+pck:BMSBPS_0177	CDS	247449..249293	NADH-quinone oxidoreductase chain L NuoL
+pck:BMSBPS_0178	CDS	249479..251017	NADH dehydrogenase I subunit M
+pck:BMSBPS_0179	CDS	251004..252464	NADH-quinone oxidoreductase chain N NuoN
+pck:BMSBPS_0180	CDS	253013..253330	protein ElaB
+pck:BMSBPS_0181	CDS	complement(253457..254587)	ribonucleoside-diphosphate reductase 1 beta subunit NrdB
+pck:BMSBPS_0182	CDS	complement(254671..256956)	ribonucleoside-diphosphate reductase 1 alpha subunit NrdA
+pck:BMSBPS_0183	CDS	258050..260662	DNA gyrase subunit A GyrA
+pck:BMSBPS_0184	CDS	261476..262600	outer membrane protein C precursor OmpC
+pck:BMSBPS_0185	CDS	262933..263958	thiamine biosynthesis lipoprotein ApbE
+pck:BMSBPS_0186	CDS	264135..264980	endonuclease IV Nfo
+pck:BMSBPS_0187	CDS	266189..266476	50S ribosomal protein L25
+pck:BMSBPS_0188	tRNA	266842..266917	tRNA-Pro
+pck:BMSBPS_0189	CDS	267189..267854	GTP cyclohydrolase I FolE
+pck:BMSBPS_0190	CDS	complement(268096..269751)	methionyl-tRNA synthetase MetG
+pck:BMSBPS_0191	CDS	270315..270878	alkyl hydroperoxide reductase subunit C AhpC
+pck:BMSBPS_0192	CDS	complement(271103..271699)	deoxycytidine triphosphate deaminase Dcd
+pck:BMSBPS_0193	CDS	complement(272264..273226)	oxidoreductase YajO
+pck:BMSBPS_0194	tRNA	274076..274151	tRNA-Asn
+pck:BMSBPS_0195	CDS	complement(274414..275097)	phosphomethylpyrimidine kinase ThiD
+pck:BMSBPS_0196	CDS	278112..279530	6-phosphogluconate dehydrogenase, decarboxylating Gnd
+pck:BMSBPS_0197	CDS	complement(279651..280283)	bifunctional phosphoribosyl-AMP cyclohydrolase_phosphoribosyl-ATP pyrophosphatase
+pck:BMSBPS_0198	CDS	complement(280277..281053)	Imidazole glycerol phosphate synthase subunit HisF
+pck:BMSBPS_0199	CDS	complement(281035..281772)	1-(5-phosphoribosyl)-5-(5-phosphoribosylamino)methylideneamino imidazole-4-carboxamide isomerase
+pck:BMSBPS_0200	CDS	complement(281772..282362)	Imidazole glycerol phosphate synthase subunit HisH HisH
+pck:BMSBPS_0201	CDS	complement(282362..283432)	histidine biosynthesis bifunctional protein HisB
+pck:BMSBPS_0202	CDS	complement(283444..284505)	histidinol-phosphate aminotransferase HisC
+pck:BMSBPS_0203	CDS	complement(284508..285797)	histidinol dehydrogenase HisD
+pck:BMSBPS_0204	CDS	complement(285815..286714)	ATP phosphoribosyltransferase HisG
+pck:BMSBPS_0205	CDS	289807..290127	hypothetical protein
+pck:BMSBPS_0207	CDS	290878..291519	putative transcriptional regulator
+pck:BMSBPS_0209	CDS	complement(291635..295600)	bifunctional PutA protein PutA
+pck:BMSBPS_0210	CDS	296100..297602	sodium_proline symporter PutP
+pck:BMSBPS_0211	tRNA	299852..299940	tRNA-Ser
+pck:BMSBPS_0212	CDS	complement(300014..301105)	GTP-dependent nucleic acid-binding protein
+pck:BMSBPS_0213	CDS	complement(301222..301803)	peptidyl-tRNA hydrolase Pth
+pck:BMSBPS_0214	CDS	complement(302205..303152)	ribose-phosphate pyrophosphokinase Prs
+pck:BMSBPS_0215	CDS	complement(303257..304141)	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+pck:BMSBPS_0216	CDS	complement(304138..304776)	outer-membrane lipoprotein LolB precursor
+pck:BMSBPS_0217	CDS	306184..307266	peptide chain release factor 1 PrfA
+pck:BMSBPS_0218	CDS	307269..308099	protein methyltransferase HemK
+pck:BMSBPS_0219	CDS	308706..309560	2-dehydro-3-deoxyphosphooctonate aldolase
+pck:BMSBPS_0220	CDS	complement(309703..311436)	arginyl-tRNA synthetase ArgS
+pck:BMSBPS_0221	CDS	complement(312147..313118)	methyltransferase YecP
+pck:BMSBPS_0222	CDS	complement(313115..313843)	protein YecO
+pck:BMSBPS_0223	CDS	315005..316762	aspartyl-tRNA synthetase AspS
+pck:BMSBPS_0224	CDS	317795..318262	endodeoxyribonuclease RuvC
+pck:BMSBPS_0225	CDS	318434..319057	holliday junction DNA helicase
+pck:BMSBPS_0226	CDS	319066..320085	Holliday junction DNA helicase
+pck:BMSBPS_0227	CDS	323000..323986	lipid A biosynthesis MsbB
+pck:BMSBPS_0228	CDS	326348..327823	glucose-6-phosphate 1-dehydrogenase
+pck:BMSBPS_0229	CDS	329423..330115	ProP effector protein
+pck:BMSBPS_0230	CDS	330769..331665	protease HtpX HtpX
+pck:BMSBPS_0231	gene	complement(331845..332629)	pseudogene
+pck:BMSBPS_0232	gene	complement(332657..333545)	pseudogene
+pck:BMSBPS_0233	gene	complement(333367..334362)	pseudogene
+pck:BMSBPS_0234	CDS	334854..336161	integral membrane protein YoaE/TerC
+pck:BMSBPS_0235	CDS	complement(336397..337764)	para-aminobenzoate synthase component I PabB
+pck:BMSBPS_0236	CDS	338286..339029	peptidase YeaZ
+pck:BMSBPS_0237	CDS	complement(339431..339703)	cell division topological specificity factor
+pck:BMSBPS_0238	CDS	complement(339707..340519)	septum site-determining protein MinD
+pck:BMSBPS_0239	CDS	complement(340568..341266)	septum site-determining protein MinC
+pck:BMSBPS_0240	CDS	complement(343200..344927)	cell volume regulation protein A CvrA
+pck:BMSBPS_0241	CDS	complement(346982..347980)	glyceraldehyde-3-phosphate dehydrogenase
+pck:BMSBPS_0242	CDS	349607..350518	UTP--glucose-1-phosphate uridylyltransferase GalU
+pck:BMSBPS_0243	CDS	350534..351901	UDP-glucose 6-dehydrogenase Udg
+pck:BMSBPS_0244	CDS	351898..352905	DTDP-glucose 4 6-dehydratase RfbB
+pck:BMSBPS_0245	CDS	complement(353239..354687)	cardiolipin synthetase Cls
+pck:BMSBPS_0246	CDS	complement(355032..355565)	intracellular septation protein IspZ
+pck:BMSBPS_0247	CDS	complement(355623..356372)	hypothetical protein
+pck:BMSBPS_0248	CDS	complement(356832..357656)	tryptophan synthase alpha subunit, TrpA
+pck:BMSBPS_0249	CDS	complement(357656..358852)	tryptophan synthase subunit beta TrpB
+pck:BMSBPS_0250	CDS	complement(358916..360292)	tryptophan biosynthesis protein trpCF
+pck:BMSBPS_0251	CDS	complement(360295..361299)	anthranilate synthase component II TrpD
+pck:BMSBPS_0252	CDS	complement(361314..361895)	glutamine amidotransferase of anthranilate synthase or aminodeoxychorismate synthase
+pck:BMSBPS_0253	CDS	complement(361895..363454)	anthranilate synthase component I TrpE
+pck:BMSBPS_0254	CDS	364742..365785	protease SohB
+pck:BMSBPS_0255	CDS	366145..368739	DNA topoisomerase I TopA
+pck:BMSBPS_0256	CDS	368909..369883	O-acetyl-L-serine binding protein CysB
+pck:BMSBPS_0257	CDS	370248..372923	aconitate hydratase 1 AcnA
+pck:BMSBPS_0258	CDS	complement(372941..373531)	GTP cyclohydrolase-2 ribA
+pck:BMSBPS_0259	CDS	373748..374476	phosphatidylglycerophosphatase B PgpB
+pck:BMSBPS_0260	CDS	375089..375796	orotidine 5-phosphate decarboxylase PyrF
+pck:BMSBPS_0261	CDS	complement(375968..377917)	exoribonuclease II Rnb
+pck:BMSBPS_0262	CDS	complement(378019..380340)	protein YdeP
+pck:BMSBPS_0263	CDS	complement(380775..381560)	enoyl-acyl-carrier-protein reductase NADH FabI
+pck:BMSBPS_0264	CDS	complement(385714..386973)	arabinose efflux permease family protein
+pck:BMSBPS_0265	CDS	complement(388759..390159)	fumarate hydratase class II FumC
+pck:BMSBPS_0266	CDS	complement(391027..391653)	DNA-(apurinic or apyrimidinic site) lyase
+pck:BMSBPS_0267	CDS	complement(391663..392322)	electron transport protein RnfE
+pck:BMSBPS_0268	CDS	complement(392327..392950)	electron transport complex protein RnfG
+pck:BMSBPS_0269	CDS	complement(392947..394017)	electron transport complex protein RnfD
+pck:BMSBPS_0270	CDS	complement(394018..395604)	electron transporter RnfC
+pck:BMSBPS_0271	CDS	complement(395610..396185)	electron transport complex protein RnfB
+pck:BMSBPS_0272	CDS	complement(396187..396768)	electron transport complex protein RnfA
+pck:BMSBPS_0273	CDS	complement(397297..398571)	tyrosyl-tRNA synthetase TyrS
+pck:BMSBPS_0274	CDS	complement(398623..399279)	pyridoxamine 5-phosphate oxidase PdxH
+pck:BMSBPS_0275	CDS	399675..400349	RNAse T
+pck:BMSBPS_0276	CDS	complement(400388..400720)	monothiol glutaredoxin YdhD
+pck:BMSBPS_0277	CDS	complement(402190..402816)	riboflavin synthase alpha chain ribE
+pck:BMSBPS_0278	CDS	402982..404361	multidrug resistance protein MdtK
+pck:BMSBPS_0279	tRNA	404483..404558	tRNA-Val
+pck:BMSBPS_0280	CDS	404810..406222	pyruvate kinase I PykF
+pck:BMSBPS_0281	CDS	406383..406592	murein lipoprotein
+pck:BMSBPS_0282	CDS	complement(406872..407291)	cysteine desulfuration protein SufE
+pck:BMSBPS_0283	CDS	complement(407309..408535)	cysteine desulfurase SufS
+pck:BMSBPS_0284	CDS	complement(408532..409812)	permease component of ABC-type transport system involved in Fe-S cluster assembly SufD
+pck:BMSBPS_0285	CDS	complement(409787..410533)	ATP-dependent transporter SufC
+pck:BMSBPS_0286	CDS	complement(410575..412032)	permease component of ABC-type transport system involved in Fe-S cluster assembly SufB
+pck:BMSBPS_0287	CDS	complement(412088..412462)	hypothetical protein
+pck:BMSBPS_0288	CDS	complement(412890..415952)	glycolate oxidase subunit GlcD YdiJ
+pck:BMSBPS_0289	CDS	416162..417259	membrane protein
+pck:BMSBPS_0290	CDS	complement(417344..417649)	integration host factor alphasubunit IhfA
+pck:BMSBPS_0291	CDS	complement(417654..420047)	phenylalanyl-tRNA synthetase beta chain PheT
+pck:BMSBPS_0292	CDS	complement(420064..421047)	phenylalanyl-tRNA synthetase, alpha subunit
+pck:BMSBPS_0293	CDS	complement(421364..421720)	50S ribosomal protein L20
+pck:BMSBPS_0294	CDS	complement(421831..422031)	50S ribosomal protein L35 RpmI
+pck:BMSBPS_0295	CDS	complement(422151..422582)	translation initiation factor IF-3
+pck:BMSBPS_0296	CDS	complement(422697..424619)	Threonyl-tRNA synthetase ThrS
+pck:BMSBPS_0297	CDS	425238..426065	NH(3)-dependent NAD(+) synthetase NadE
+pck:BMSBPS_0298	CDS	426802..428493	periplasmic trehalase precursor TreA
+pck:BMSBPS_0299	CDS	complement(428820..430073)	isocitrate dehydrogenase NADP Lcd
+pck:BMSBPS_0300	CDS	430818..431930	tRNA 5-methylaminomethyl-2thiouridylate-methyltransferase TrmU
+pck:BMSBPS_0301	CDS	432089..433459	purB; adenylosuccinate lyase PurB
+pck:BMSBPS_0302	CDS	434548..435660	spermidine_putrescine ABC transporter ATP-binding subunit
+pck:BMSBPS_0303	CDS	435644..436507	ABC-type spermidine_putrescine transport system,permease component I
+pck:BMSBPS_0304	CDS	436504..437286	ABC-type spermidine_putrescine transport system,permease component II
+pck:BMSBPS_0305	CDS	437290..438333	spermidine_putrescine-binding periplasmic protein
+pck:BMSBPS_0306	CDS	complement(438653..439195)	NAD-dependent deacetylase protein NpdA
+pck:BMSBPS_0307	CDS	complement(439361..440620)	lipoprotein releasing system transmembrane protein
+pck:BMSBPS_0308	CDS	complement(440645..441331)	lipoprotein releasing system, ATP-binding protein
+pck:BMSBPS_0309	CDS	complement(441324..442535)	lipoprotein-releasing system transmembrane protein LolC
+pck:BMSBPS_0310	CDS	442954..446403	transcription-repair coupling factor Mfd
+pck:BMSBPS_0311	CDS	complement(446570..447115)	lipoprotein YcfM
+pck:BMSBPS_0312	CDS	complement(447270..447614)	HIT family hydrolase, diadenosine tetraphosphatehydrolase
+pck:BMSBPS_0313	CDS	complement(447866..448657)	putative deoxyribonuclease YcfH
+pck:BMSBPS_0314	CDS	complement(448677..449666)	DNA polymerase III delta subunit HolB
+pck:BMSBPS_0315	CDS	complement(449663..450298)	thymidylate kinase Tmk
+pck:BMSBPS_0316	CDS	complement(451192..452028)	aminodeoxychorismate Lyase PabC
+pck:BMSBPS_0317	CDS	complement(452390..452629)	acyl carrier protein
+pck:BMSBPS_0318	CDS	complement(452799..453533)	3-oxoacyl-ACP reductase
+pck:BMSBPS_0319	CDS	complement(453533..454477)	malonyl CoA-acyl carrier protein transacylase
+pck:BMSBPS_0320	CDS	complement(454494..455447)	3-oxoacyl-acyl-carrier-protein synthase III FabH
+pck:BMSBPS_0321	CDS	complement(455449..456504)	fatty acid_phospholipid synthesis protein PlsX
+pck:BMSBPS_0322	CDS	complement(456523..456693)	50S ribosomal protein L32
+pck:BMSBPS_0323	CDS	complement(457414..458385)	ribosomal large subunit pseudouridine synthase CRluC
+pck:BMSBPS_0324	CDS	459000..462086	ribonuclease E Rne
+pck:BMSBPS_0326	CDS	complement(462358..463896)	virulence factor MviN
+pck:BMSBPS_0327	CDS	464577..465617	pyrimidine biosynthesis dihydroorotase PyrC
+pck:BMSBPS_0328	CDS	466407..466661	cytoplasmic protein YceP
+pck:BMSBPS_0329	CDS	complement(466871..467818)	rhodanese-like protein
+pck:BMSBPS_0330	tRNA	468223..468308	tRNA-Leu
+pck:BMSBPS_0331	tRNA	468325..468397	tRNA-Cys
+pck:BMSBPS_0332	tRNA	468428..468500	tRNA-Gly
+pck:BMSBPS_0333	CDS	complement(468737..469348)	CDP-diacylglycerol--glycerol-3phosphate 3-phosphatidyltransferase PgsA
+pck:BMSBPS_0334	CDS	complement(469386..471236)	UvrABC system protein C
+pck:BMSBPS_0335	CDS	472121..472345	hypothetical protein
+pck:BMSBPS_0336	tRNA	473500..473587	tRNA-Ser
+pck:BMSBPS_0337	CDS	473949..474599	membrane protein
+pck:BMSBPS_0338	CDS	474679..475008	sulfite reductase YccK
+pck:BMSBPS_0339	CDS	475292..475609	inner membrane protein YccV
+pck:BMSBPS_0340	CDS	477077..478150	outer membrane protein A precursor OmpA
+pck:BMSBPS_0341	CDS	478469..480217	putative protease La YcbZ
+pck:BMSBPS_0342	CDS	480292..480810	3-hydroxydecanoyl-acyl-carrierprotein dehydratase FabA
+pck:BMSBPS_0343	CDS	481699..482334	metallo-beta-lactamase family protein YcbL
+pck:BMSBPS_0344	CDS	complement(482393..483583)	aspartate aminotransferase AspC
+pck:BMSBPS_0345	CDS	complement(483797..485194)	asparaginyl-tRNA synthetase
+pck:BMSBPS_0346	CDS	485814..486824	dihydroorotate dehydrogenase PyrD
+pck:BMSBPS_0347	CDS	complement(486906..487145)	iron-sulfur protein YcbX
+pck:BMSBPS_0348	CDS	complement(487359..488114)	3-deoxy-manno-octulosonate cytidylyltransferase
+pck:BMSBPS_0349	CDS	complement(488402..489418)	tetraacyldisaccharide 4-kinase LpxK
+pck:BMSBPS_0350	CDS	complement(489418..491169)	lipid A export ATPbinding_permease protein MsbA
+pck:BMSBPS_0351	CDS	complement(491751..492035)	integration host factor betasubunit IhfB
+pck:BMSBPS_0352	CDS	complement(492129..493808)	30S ribosomal protein S1
+pck:BMSBPS_0353	CDS	complement(493933..494613)	cytidylate kinase
+pck:BMSBPS_0354	CDS	complement(494771..496057)	3-phosphoshikimater 1carboxyvinyltransferase AroA
+pck:BMSBPS_0355	CDS	complement(496139..497224)	phosphoserine aminotransferase
+pck:BMSBPS_0356	CDS	complement(497574..498863)	seryl-tRNA synthetase
+pck:BMSBPS_0357	CDS	complement(499316..499951)	outer-membrane lipoprotein carrier protein precursor LolA
+pck:BMSBPS_0358	CDS	complement(500229..503033)	DNA translocase FtsK
+pck:BMSBPS_0359	CDS	complement(503167..503664)	leucine-responsive AsnC family transcriptional regulator
+pck:BMSBPS_0360	CDS	504140..505108	thioredoxin reductase TrxB
+pck:BMSBPS_0361	CDS	505819..506037	bacterial translation initiation factor 1 (bIF-1)
+pck:BMSBPS_0362	CDS	complement(506143..508383)	ATP-dependent Clp protease ATPbinding subunit ClpA
+pck:BMSBPS_0363	CDS	509097..510332	molybdopterin biosynthesis protein MoeA
+pck:BMSBPS_0364	CDS	510337..511083	molybdopterin biosynthesis protein MoeB
+pck:BMSBPS_0365	CDS	complement(511782..512183)	DNA-binding protein H-NS Hns
+pck:BMSBPS_0366	CDS	complement(514626..515081)	transcriptional regulator MntR
+pck:BMSBPS_0367	CDS	complement(515565..516083)	outer membrane protein X precursor OmpX
+pck:BMSBPS_0368	CDS	complement(517976..518944)	anthranilate phosphoribosyltransferase YbiB
+pck:BMSBPS_0369	CDS	complement(519462..520052)	inner membrane protein YohC
+pck:BMSBPS_0370	CDS	520211..520786	inner membrane protein YohD
+pck:BMSBPS_0371	CDS	complement(521151..521537)	inner membrane protein YbhQ
+pck:BMSBPS_0372	CDS	complement(522078..522533)	molybdopterin-converting factor subunit 2 MoaE
+pck:BMSBPS_0373	CDS	complement(522536..522781)	molybdopterin mpt converting factor subunit 1
+pck:BMSBPS_0374	CDS	complement(524310..526331)	UvrABC system protein B UvrB
+pck:BMSBPS_0375	CDS	529450..529926	hypothetical protein
+pck:BMSBPS_0376	CDS	complement(529939..530946)	6-phosphogluconolactonase
+pck:BMSBPS_0377	CDS	531076..531780	phosphoglyceromutase GpmA
+pck:BMSBPS_0378	CDS	complement(532062..533108)	quinolinate synthetase A NadA
+pck:BMSBPS_0379	tRNA	533804..533877	tRNA-Lys
+pck:BMSBPS_0380	gene	complement(534042..534858)	tol-pal system protein YbgF, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0381	CDS	complement(539046..539936)	succinyl-CoA synthetase alpha chain SucD
+pck:BMSBPS_0382	CDS	complement(539936..541108)	succinyl-CoA synthetase beta chain SucC
+pck:BMSBPS_0383	CDS	complement(541181..542419)	dihydrolipoyllysine-residue succinyltransferase component of 2oxoglutarate dehydrogenase complex SucB
+pck:BMSBPS_0384	CDS	complement(542435..545245)	2-oxoglutarate dehydrogenase E1 component SucA
+pck:BMSBPS_0385	CDS	complement(545466..546185)	succinate dehydrogenase ironsulfur protein SdhB
+pck:BMSBPS_0386	CDS	complement(546204..547985)	succinate dehydrogenase flavoprotein subunit SdhA
+pck:BMSBPS_0387	CDS	complement(547973..548323)	succinate dehydrogenase hydrophobic membrane anchor protein SdhD
+pck:BMSBPS_0388	CDS	complement(548317..548694)	succinate dehydrogenase subunit C
+pck:BMSBPS_0389	CDS	549334..550620	citrate synthase GltA
+pck:BMSBPS_0390	CDS	complement(551083..551826)	hypothetical protein
+pck:BMSBPS_0391	CDS	complement(552957..554600)	phosphoglucomutase Pgm
+pck:BMSBPS_0392	CDS	555492..556001	flavodoxin
+pck:BMSBPS_0393	CDS	complement(556261..557922)	glutaminyl-tRNA synthetase
+pck:BMSBPS_0394	CDS	560104..561771	asparagine synthetase B glutamine-hydrolyzing AsnB
+pck:BMSBPS_0395	tRNA	561947..562023	tRNA-Met
+pck:BMSBPS_0396	tRNA	562031..562116	tRNA-Leu
+pck:BMSBPS_0397	tRNA	562162..562236	tRNA-Gln
+pck:BMSBPS_0398	tRNA	562323..562396	tRNA-Gln
+pck:BMSBPS_0399	CDS	563000..564367	adenosine tRNA methylthiotransferase YleA
+pck:BMSBPS_0400	CDS	564846..565307	hypothetical protein
+pck:BMSBPS_0401	CDS	565495..567039	apolipoprotein N-acyltransferase Lnt
+pck:BMSBPS_0402	CDS	567614..570208	leucyl-tRNA synthetase
+pck:BMSBPS_0403	CDS	570224..570742	rare lipoprotein B precursor RlpB
+pck:BMSBPS_0404	CDS	570844..571875	DNA polymerase III delta subunit HolA
+pck:BMSBPS_0405	CDS	571868..572524	nicotinate-nucleotide adenylyltransferase NadD
+pck:BMSBPS_0406	CDS	573167..575026	penicillin-binding protein 2 MrdA
+pck:BMSBPS_0407	CDS	575106..576221	Rod shape-determining protein RodA
+pck:BMSBPS_0408	CDS	576628..577845	penicillin-binding protein 5 precursor DacA
+pck:BMSBPS_0409	CDS	578151..578801	lipoyltransferase
+pck:BMSBPS_0410	CDS	578922..579887	lipoyl synthase LipA
+pck:BMSBPS_0412	CDS	complement(580055..580264)	cold shock-like protein CspE
+pck:BMSBPS_0413	tRNA	581124..581197	tRNA-Arg
+pck:BMSBPS_0414	CDS	581675..582538	5,10-methylene-tetrahydrofolate dehydrogenase_methenyl tetrahydrofolate cyclohydrolase
+pck:BMSBPS_0415	CDS	complement(582688..584094)	cysteinyl-tRNA synthetase
+pck:BMSBPS_0416	CDS	584924..585640	UDP-2,3-diacylglucosamine hydrolase LpxH
+pck:BMSBPS_0417	CDS	complement(587075..587725)	adenylate kinase Adk
+pck:BMSBPS_0418	CDS	complement(588140..590020)	heat shock protein HtpG
+pck:BMSBPS_0419	CDS	complement(591029..592951)	DNA polymerase III tau subunit DnaX
+pck:BMSBPS_0420	ncRNA	594468..594562	Bacterial small signal recognition particle RNA
+pck:BMSBPS_0421	CDS	complement(594608..594949)	putative biofilm regulator/cytoplasmic protein YbaJ
+pck:BMSBPS_0422	CDS	596136..596861	protein YbaX
+pck:BMSBPS_0423	CDS	complement(597120..599456)	ATP-dependent protease Lon
+pck:BMSBPS_0424	CDS	complement(599639..600925)	ATP-dependent Clp protease ATPbinding subunit ClpX
+pck:BMSBPS_0425	CDS	complement(601074..601697)	ATP-dependent Clp protease proteolytic subunit ClpP
+pck:BMSBPS_0426	CDS	complement(602019..603350)	trigger factor Tig
+pck:BMSBPS_0427	CDS	605646..606503	cytochrome c oxidase subunit II CyoA
+pck:BMSBPS_0428	CDS	606580..608562	ubiquinol oxidase polypeptide I CyoB
+pck:BMSBPS_0429	CDS	608562..609158	cytochrome o ubiquinol oxidase subunit III CyoC
+pck:BMSBPS_0430	CDS	609155..609484	cytochrome o ubiquinol oxidase protein CyoD
+pck:BMSBPS_0431	CDS	609498..610391	protoheme IX farnesyltransferase CyoE
+pck:BMSBPS_0432	CDS	610505..611881	inner membrane transport protein YajR
+pck:BMSBPS_0433	CDS	complement(612389..612880)	hypothetical protein
+pck:BMSBPS_0434	CDS	613712..615007	branched-chain amino acid transport system II carrier protein BrnQ
+pck:BMSBPS_0435	CDS	615367..616434	S-adenosylmethionine:tRNA ribosyltransferase-isomerase QueA
+pck:BMSBPS_0436	CDS	616520..617662	queuine tRNA-ribosyltransferase
+pck:BMSBPS_0437	CDS	617688..618020	hypothetical protein
+pck:BMSBPS_0438	CDS	618043..619899	protein-export membrane protein SecD
+pck:BMSBPS_0439	CDS	619919..620872	protein translocase subunit secF
+pck:BMSBPS_0440	CDS	621237..622340	riboflavin biosynthesis protein ribD
+pck:BMSBPS_0441	CDS	622415..622885	6,7-dimethyl-8-ribityllumazine synthase ribH
+pck:BMSBPS_0442	CDS	623342..624316	thiamine-monophosphate kinase
+pck:BMSBPS_0443	CDS	624309..624812	phosphatidylglycerophosphatase A
+pck:BMSBPS_0444	CDS	complement(624828..626696)	1-deoxy-D-xylulose-5-phosphate synthase
+pck:BMSBPS_0445	CDS	complement(626718..627617)	geranyltranstransferase
+pck:BMSBPS_0446	CDS	complement(628889..629464)	shikimater kinase II AroL
+pck:BMSBPS_0447	CDS	630004..630813	pyrroline-5-carboxylate reductase ProC
+pck:BMSBPS_0448	CDS	complement(631400..631795)	curlin genes transcriptional activatory protein Crl
+pck:BMSBPS_0449	CDS	complement(632829..633410)	phosphoheptose isomerase
+pck:BMSBPS_0450	CDS	complement(633864..635132)	N-carbamoyl-L-amino acid hydrolase AmaB
+pck:BMSBPS_0451	CDS	complement(635117..636364)	purine catabolism protein PucG
+pck:BMSBPS_0452	CDS	637455..639056	gamma-glutamyltranspeptidase precursor Ggt
+pck:BMSBPS_0453	CDS	639069..639254	hypothetical protein
+pck:BMSBPS_0454	CDS	639251..640663	glutamyl-tRNA (Gln) amidotransferase subunit A
+pck:BMSBPS_0455	CDS	640653..641036	hypothetical protein
+pck:BMSBPS_0456	CDS	complement(641096..642013)	polysaccharide deacetylase family protein
+pck:BMSBPS_0457	CDS	complement(642075..642809)	hydantoin racemase HyuE
+pck:BMSBPS_0458	tRNA	643899..643974	tRNA-Asp
+pck:BMSBPS_0459	CDS	complement(644107..644847)	DNA polymerase III epsilon subunit DnaQ
+pck:BMSBPS_0460	CDS	644904..645374	ribonuclease HI RnhA
+pck:BMSBPS_0461	rRNA	complement(645566..645680)	5S ribosomal RNA
+pck:BMSBPS_0462	rRNA	complement(645808..648719)	23S ribosomal RNA
+pck:BMSBPS_0463	rRNA	complement(649091..650624)	16S ribosomal RNA
+pck:BMSBPS_0464	CDS	complement(651311..652036)	Sec-independent protein translocase protein TatC
+pck:BMSBPS_0465	CDS	complement(652055..652600)	sec-independent protein translocase
+pck:BMSBPS_0466	CDS	complement(652612..652860)	Sec-independent protein translocase protein TatA
+pck:BMSBPS_0467	CDS	complement(653903..655330)	putative DNA recombination protein RmuC
+pck:BMSBPS_0468	CDS	complement(655981..658251)	5-methyltetrahydropteroyltriglutamate_homocysteine S-methyltransferase
+pck:BMSBPS_0469	CDS	658475..659380	HTH-type transcriptional regulator MetR
+pck:BMSBPS_0470	gene	complement(659900..660336)	hydrolase YigL, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0471	CDS	complement(661215..662168)	magnesium and cobalt transport protein CorA
+pck:BMSBPS_0472	CDS	complement(662495..664660)	DNA helicase II UvrD
+pck:BMSBPS_0473	CDS	complement(664696..665427)	hydrolase YigB
+pck:BMSBPS_0474	CDS	complement(666408..667259)	diaminopimelate epimerase DapF
+pck:BMSBPS_0475	CDS	669009..669950	porphobilinogen deaminase HemC
+pck:BMSBPS_0476	CDS	669947..670687	uroporphyrinogen-III synthase HemD
+pck:BMSBPS_0477	tRNA	672815..672888	tRNA-Pro
+pck:BMSBPS_0478	tRNA	672923..673007	tRNA-Leu
+pck:BMSBPS_0479	tRNA	673032..673105	tRNA-His
+pck:BMSBPS_0480	tRNA	673184..673259	tRNA-Arg
+pck:BMSBPS_0481	CDS	complement(673540..674799)	transcription termination factor Rho
+pck:BMSBPS_0482	CDS	complement(675168..675500)	thioredoxin 1 TrxA
+pck:BMSBPS_0483	CDS	complement(679429..680421)	dipeptide transport ATP-binding protein DppF
+pck:BMSBPS_0484	CDS	complement(680393..681415)	dipeptide transport ATP-binding protein DppD
+pck:BMSBPS_0485	CDS	complement(681415..682350)	dipeptide transport system permease DppC
+pck:BMSBPS_0486	CDS	complement(682350..683366)	dipeptide ABC transporter permease
+pck:BMSBPS_0487	CDS	complement(683549..685156)	periplasmic dipeptide transport protein DppA
+pck:BMSBPS_0488	CDS	complement(686149..687087)	protein YbjX
+pck:BMSBPS_0489	CDS	complement(687282..687902)	superoxide dismutase Mn SodA
+pck:BMSBPS_0490	CDS	complement(688834..689661)	protein FdhD
+pck:BMSBPS_0491	CDS	complement(690210..692282)	glycyl-tRNA synthetase beta chain GlyS
+pck:BMSBPS_0492	CDS	complement(692292..693203)	glycyl-tRNA synthetase alpha chain GlyQ
+pck:BMSBPS_0493	CDS	complement(693902..694642)	DNA replication protein DnaC
+pck:BMSBPS_0494	CDS	complement(695659..696081)	small heat shock protein IbpA
+pck:BMSBPS_0495	CDS	complement(696478..698886)	DNA gyrase subunit B GyrB
+pck:BMSBPS_0496	CDS	complement(699967..701067)	DNA polymerase III beta subunit DnaN
+pck:BMSBPS_0497	CDS	complement(701073..702485)	chromosomal replication initiator protein DnaA
+pck:BMSBPS_0498	CDS	703058..703204	50S ribosomal protein L34
+pck:BMSBPS_0499	CDS	703209..703568	ribonuclease P protein component RnpA
+pck:BMSBPS_0500	CDS	703532..703789	hypothetical protein
+pck:BMSBPS_0501	CDS	703789..705438	preprotein translocase subunit YidC
+pck:BMSBPS_0502	CDS	705524..706873	tRNA modification GTPase TrmE
+pck:BMSBPS_0503	CDS	complement(707259..709091)	glucosamine--fructose-6-phosphate aminotransferase isomerizing GlmS
+pck:BMSBPS_0504	CDS	complement(709251..710621)	bifunctional GlmU protein GlmU
+pck:BMSBPS_0505	CDS	complement(710792..711205)	ATP synthase subunit epsilon
+pck:BMSBPS_0506	CDS	complement(711202..712614)	ATP synthase beta chain AtpD
+pck:BMSBPS_0507	CDS	complement(712646..713515)	ATP synthase subunit gamma
+pck:BMSBPS_0508	CDS	complement(713552..715093)	ATP synthase alpha chain AtpA
+pck:BMSBPS_0509	CDS	complement(715108..715644)	ATP synthase subunit H
+pck:BMSBPS_0510	CDS	complement(715657..716127)	ATP synthase subunit F
+pck:BMSBPS_0511	CDS	complement(716263..716502)	ATP synthase subunit C
+pck:BMSBPS_0512	CDS	complement(716553..717371)	ATP synthase subunit B
+pck:BMSBPS_0513	CDS	complement(717395..717769)	ATP synthase protein I AtpI
+pck:BMSBPS_0514	CDS	complement(718119..718748)	glucose-inhibited division protein B
+pck:BMSBPS_0515	CDS	complement(718794..720677)	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+pck:BMSBPS_0516	CDS	721716..722753	UDP-N-acetylenolpyruvoylglucosamine reductase MurB
+pck:BMSBPS_0517	CDS	722750..723721	BirA bifunctional protein BirA
+pck:BMSBPS_0518	CDS	complement(723807..724790)	pantothenate kinase CoaA
+pck:BMSBPS_0519	tRNA	725144..725218	tRNA-Thr
+pck:BMSBPS_0520	tRNA	725234..725315	tRNA-Tyr
+pck:BMSBPS_0521	tRNA	725523..725594	tRNA-Gly
+pck:BMSBPS_0522	tRNA	725615..725688	tRNA-Thr
+pck:BMSBPS_0523	CDS	726890..727273	preprotein translocase subunit SecE
+pck:BMSBPS_0524	CDS	727275..727820	transcription antitermination protein
+pck:BMSBPS_0525	CDS	727947..728378	50S ribosomal protein L11
+pck:BMSBPS_0526	CDS	728383..729087	50S ribosomal protein L1
+pck:BMSBPS_0527	CDS	729467..729955	50S ribosomal protein L10
+pck:BMSBPS_0528	CDS	730031..730399	ribosomal protein L7_L12
+pck:BMSBPS_0529	CDS	730742..734770	DNA-directed RNA polymerase beta chain RpoB
+pck:BMSBPS_0530	CDS	734858..739099	DNA-directed RNA polymerase subunit beta
+pck:BMSBPS_0531	CDS	complement(739230..739898)	thiamine-phosphate pyrophosphorylase
+pck:BMSBPS_0532	CDS	complement(739925..741775)	thiamine biosynthesis protein ThiC
+pck:BMSBPS_0533	CDS	complement(742154..742648)	regulator of sigma D Rsd
+pck:BMSBPS_0534	CDS	744815..745087	DNA-binding protein HU-alpha HupA
+pck:BMSBPS_0535	CDS	complement(746717..748309)	bifunctional purine biosynthesis protein PurH PurH
+pck:BMSBPS_0536	tRNA	748829..748904	tRNA-Ile
+pck:BMSBPS_0537	CDS	749681..750319	thiol:disulfide interchange protein DsbA precursor DsbA
+pck:BMSBPS_0538	CDS	750562..751494	DNA Polymerase I, PolA
+pck:BMSBPS_0539	CDS	751571..753370	product
+pck:BMSBPS_0540	CDS	complement(753400..753999)	GTP-binding protein EngB
+pck:BMSBPS_0541	CDS	complement(755822..757234)	glutamine synthetase
+pck:BMSBPS_0542	CDS	757624..759441	GTP-binding protein TypA_BipA
+pck:BMSBPS_0543	CDS	complement(761049..763148)	guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase
+pck:BMSBPS_0544	CDS	complement(763164..763430)	DNA-directed RNA polymerase subunit omega
+pck:BMSBPS_0545	CDS	complement(763486..764109)	guanylate kinase Gmk
+pck:BMSBPS_0546	CDS	complement(765078..765683)	membrane protein
+pck:BMSBPS_0547	CDS	complement(766047..766910)	protein YicC
+pck:BMSBPS_0548	CDS	767548..768189	orotate phosphoribosyltransferase PyrE
+pck:BMSBPS_0549	CDS	complement(768460..768921)	deoxyuridine 5-triphosphate nucleotidohydrolase Dut
+pck:BMSBPS_0550	CDS	complement(768890..770119)	coenzyme A biosynthesis bifunctional protein CoaBC
+pck:BMSBPS_0551	CDS	770629..770862	50S ribosomal protein L28
+pck:BMSBPS_0552	CDS	770888..771058	50S ribosomal protein L33
+pck:BMSBPS_0553	CDS	complement(771065..771544)	phosphopantetheine adenylyltransferase CoaD
+pck:BMSBPS_0554	CDS	complement(771556..772323)	lipopolysaccharide core biosynthesis glycosyl transferase KdtX
+pck:BMSBPS_0555	CDS	complement(772327..773616)	3-deoxy-D-manno-octulosonic-acid transferase
+pck:BMSBPS_0556	CDS	complement(773696..774832)	lipopolysaccharide core biosynthesis protein RfaG
+pck:BMSBPS_0557	CDS	complement(775274..776365)	ADP-heptose:LPS heptosyltransferase
+pck:BMSBPS_0558	CDS	complement(776372..777343)	lipopolysaccharide heptosyltransferase-1
+pck:BMSBPS_0559	CDS	complement(777349..778395)	ADP-heptose--LPS heptosyltransferase II RfaF
+pck:BMSBPS_0560	CDS	complement(778410..779342)	ADP-L-glycero-D-manno-heptose-6-epimerase HldD
+pck:BMSBPS_0561	CDS	complement(779978..781201)	Glycosyltransferase
+pck:BMSBPS_0562	CDS	782601..783035	hypothetical protein
+pck:BMSBPS_0563	CDS	783347..783793	protein-export protein SecB
+pck:BMSBPS_0564	CDS	783824..784831	glycerol-3-phosphate dehydrogenase NAD(P)+ GpsA
+pck:BMSBPS_0565	CDS	784905..785720	serine acetyltransferase CysE
+pck:BMSBPS_0566	CDS	complement(786265..786969)	transcriptional regulatory protein CpxR
+pck:BMSBPS_0567	CDS	788360..789322	6-phosphofructokinase
+pck:BMSBPS_0568	CDS	complement(789920..790699)	triosephosphate isomerase TpiA
+pck:BMSBPS_0569	CDS	complement(791125..791871)	ferredoxin-NADP reductase Fpr
+pck:BMSBPS_0570	CDS	complement(792682..794019)	ATP-dependent Hsl protease ATP-binding subunit HslU
+pck:BMSBPS_0571	CDS	complement(794031..794561)	ATP-dependent protease
+pck:BMSBPS_0572	gene	complement(794662..795445)	cell division protein FtsN, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0573	gene	complement(796336..798570)	replication restart DNA helicase Pri, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0574	CDS	798818..799030	50S ribosomal subunit L31 RpmE
+pck:BMSBPS_0575	CDS	799469..800629	cystathionine gamma-synthase
+pck:BMSBPS_0576	CDS	801964..802869	5,10-methylenetetrahydrofolate reductase
+pck:BMSBPS_0577	CDS	complement(805826..806983)	acetylornithine deacetylase
+pck:BMSBPS_0578	CDS	807128..808132	N-acetyl-gamma-glutamyl-phosphate reductase ArgC
+pck:BMSBPS_0579	CDS	808152..808931	acetylglutamate kinase ArgB
+pck:BMSBPS_0580	CDS	808949..810163	argininosuccinate synthase ArgG
+pck:BMSBPS_0581	CDS	810225..811622	argininosuccinate lyase ArgH
+pck:BMSBPS_0582	CDS	812217..813035	glutamate racemase
+pck:BMSBPS_0583	CDS	813426..814355	homoserine O-succinyltransferase MetA
+pck:BMSBPS_0584	CDS	complement(814590..816236)	glucose-6-phosphate isomerase
+pck:BMSBPS_0585	CDS	816931..818283	lysine-sensitive aspartokinase III LysC
+pck:BMSBPS_0586	CDS	complement(818548..819141)	hypothetical protein
+pck:BMSBPS_0587	CDS	819347..820459	aspartate-semialdehyde dehydrogenase Asd
+pck:BMSBPS_0588	CDS	complement(820739..821398)	inner membrane protein YhhQ
+pck:BMSBPS_0589	CDS	821594..821845	protein SirA
+pck:BMSBPS_0590	CDS	complement(822323..822916)	16S rRNA m(2)G-966 methyltransferase
+pck:BMSBPS_0591	CDS	823387..824340	cell division protein
+pck:BMSBPS_0592	CDS	825113..825970	RNA polymerase sigma-32 factor RpoH
+pck:BMSBPS_0593	CDS	complement(826238..828667)	glycerol-3-phosphate acyltransferase
+pck:BMSBPS_0594	CDS	829064..829678	LexA repressor LexA
+pck:BMSBPS_0595	CDS	830791..831825	tRNA-dihydrouridine synthase A
+pck:BMSBPS_0596	CDS	832742..834148	replicative DNA helicase DnaB
+pck:BMSBPS_0597	CDS	834845..835459	hypothetical protein
+pck:BMSBPS_0598	CDS	836341..838332	transketolase 1 TktA
+pck:BMSBPS_0599	CDS	839602..840774	phosphoglycerate kinase
+pck:BMSBPS_0600	CDS	840864..841943	fructose-bisphosphate aldolase class II FbaA
+pck:BMSBPS_0601	CDS	842723..843385	ribose-5-phosphate isomerase A RpiA
+pck:BMSBPS_0602	CDS	843690..844931	D-3-phosphoglycerate dehydrogenase
+pck:BMSBPS_0603	CDS	complement(844957..845550)	5-formyltetrahydrofolate cyclo-ligase YgfA
+pck:BMSBPS_0604	CDS	complement(845605..845934)	cytoplasmic protein YgfE
+pck:BMSBPS_0605	CDS	846694..848016	Xaa-Pro aminopeptidase PepP
+pck:BMSBPS_0606	CDS	complement(848136..849119)	protein YgfZ
+pck:BMSBPS_0607	CDS	849360..849626	cytoplasmic protein YgfY
+pck:BMSBPS_0608	CDS	850014..851762	single-stranded-DNA-specific exonuclease RecJ
+pck:BMSBPS_0609	CDS	852022..853065	peptide chain release factor 2
+pck:BMSBPS_0610	CDS	853071..854591	lysyl-tRNA synthetase (class II)
+pck:BMSBPS_0611	CDS	855265..856539	diaminopimelate decarboxylase
+pck:BMSBPS_0612	CDS	complement(856776..857459)	DNA mismatch repair protein MutH
+pck:BMSBPS_0613	CDS	857793..858284	RNA pyrophosphohydrolase
+pck:BMSBPS_0614	CDS	858337..860583	phosphoenolpyruvate-protein phosphotransferase PtsP
+pck:BMSBPS_0615	CDS	860638..861534	prolipoprotein diacylglyceryl transferase Lgt
+pck:BMSBPS_0616	CDS	861552..862346	thymidylate synthase ThyA
+pck:BMSBPS_0617	CDS	862866..866258	exodeoxyribonuclease V gamma chain RecC
+pck:BMSBPS_0618	CDS	868274..871822	exonuclease V subunit beta
+pck:BMSBPS_0619	CDS	871819..873672	exodeoxyribonuclease V alpha chain RecD
+pck:BMSBPS_0620	CDS	complement(873682..875010)	amino-acid acetyltransferase
+pck:BMSBPS_0621	tRNA	875570..875646	tRNA-Met
+pck:BMSBPS_0622	CDS	complement(876890..877738)	NADPH-dependent 7-cyano-7-deazaguanine reductase
+pck:BMSBPS_0623	CDS	complement(878140..878655)	ssDNA-binding protein
+pck:BMSBPS_0624	CDS	878923..881760	UvrABC system protein A UvrA
+pck:BMSBPS_0625	CDS	882676..884640	GTP pyrophosphokinase RelA
+pck:BMSBPS_0626	CDS	885537..887165	CTP synthetase
+pck:BMSBPS_0627	CDS	887261..888565	enolase
+pck:BMSBPS_0628	CDS	888660..889331	organic radical Activating YgcF
+pck:BMSBPS_0629	CDS	complement(889769..890128)	6-pyruvoyl tetrahydrobiopterin synthase
+pck:BMSBPS_0630	CDS	890414..892228	sulfite reductase NADPH flavoprotein alpha-component CysJ
+pck:BMSBPS_0631	CDS	892228..893940	sulfite reductase NADPH hemoprotein beta-component CysI
+pck:BMSBPS_0632	CDS	893949..894683	phosphoadenosine phosphosulfate reductase
+pck:BMSBPS_0633	CDS	894953..896371	siroheme synthase
+pck:BMSBPS_0634	CDS	896436..897344	sulfate adenylyltransferase subunit 2
+pck:BMSBPS_0635	CDS	897355..898782	sulfate adenylyltransferase subunit 1 CysN
+pck:BMSBPS_0636	CDS	898782..899387	adenylyl-sulfate kinase CysC
+pck:BMSBPS_0637	CDS	899655..899906	septum formation initiator
+pck:BMSBPS_0638	CDS	899963..900661	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+pck:BMSBPS_0639	CDS	900672..901157	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+pck:BMSBPS_0640	CDS	901687..902733	lipoprotein NlpD
+pck:BMSBPS_0641	CDS	902766..903758	RNA polymerase sigma subunit RpoS (sigma-38)
+pck:BMSBPS_0642	CDS	complement(903840..906404)	DNA mismatch repair protein MutS
+pck:BMSBPS_0643	CDS	907046..907546	hypothetical protein
+pck:BMSBPS_0644	CDS	907656..908726	protein RecA
+pck:BMSBPS_0645	CDS	909139..911775	alanyl-tRNA synthetase AlaS
+pck:BMSBPS_0646	CDS	911991..912176	carbon storage regulator
+pck:BMSBPS_0647	tRNA	912379..912468	tRNA-Ser
+pck:BMSBPS_0648	tRNA	912484..912558	tRNA-Arg
+pck:BMSBPS_0649	CDS	913374..914942	glutamate-cysteine ligase GshA
+pck:BMSBPS_0650	CDS	916293..917654	signal recognition particle protein Ffh
+pck:BMSBPS_0651	CDS	917783..918049	30S ribosomal protein S16
+pck:BMSBPS_0652	CDS	918052..918597	16S rRNA processing protein RimM
+pck:BMSBPS_0653	CDS	918639..919382	tRNA (guanine-N1)-methyltransferase TrmD
+pck:BMSBPS_0654	CDS	919487..919834	50S ribosomal protein L19
+pck:BMSBPS_0655	CDS	920418..921512	phospho-2-dehydro-3-deoxyheptonate aldolase, Tyrsensitive Arof
+pck:BMSBPS_0656	CDS	921506..922624	chorismate mutase-T and prephenate dehydratase, TyrA
+pck:BMSBPS_0657	CDS	complement(922670..923827)	chorismate mutase-P and prephenate dehydratase, PheA
+pck:BMSBPS_0658	CDS	complement(924566..925312)	hypothetical protein
+pck:BMSBPS_0659	CDS	925459..926433	ribosomal large subunit pseudouridine synthase D
+pck:BMSBPS_0660	CDS	926972..929542	chaperone ClpB
+pck:BMSBPS_0661	rRNA	929945..931478	16S ribosomal RNA
+pck:BMSBPS_0662	tRNA	931581..931655	tRNA-Glu
+pck:BMSBPS_0663	rRNA	931850..934761	23S ribosomal RNA
+pck:BMSBPS_0664	tRNA	934907..934981	tRNA-Trp
+pck:BMSBPS_0665	CDS	936808..938667	dihydroxy-acid dehydratase IlvD
+pck:BMSBPS_0666	CDS	938667..940211	threonine dehydratase biosynthetic IlvA
+pck:BMSBPS_0667	CDS	941026..942501	ketol-acid reductoisomerase IlvC
+pck:BMSBPS_0668	CDS	complement(942698..943558)	inner membrane protein YhjD
+pck:BMSBPS_0669	CDS	944166..945794	phosphoenolpyruvate carboxykinase ATP PckA
+pck:BMSBPS_0670	CDS	complement(947389..948165)	carboxylesterase BioH
+pck:BMSBPS_0671	CDS	948444..949022	thioredoxin-like protein YhgI
+pck:BMSBPS_0672	CDS	951815..953410	low-affinity inorganic phosphate transporter 1 PitA
+pck:BMSBPS_0673	CDS	complement(953478..954233)	hypothetical protein
+pck:BMSBPS_0674	CDS	complement(954249..956285)	oligopeptidase A PrlC
+pck:BMSBPS_0675	CDS	complement(956727..957638)	ribonuclease Z Rnz
+pck:BMSBPS_0676	CDS	complement(958181..958996)	sugar isomerase
+pck:BMSBPS_0677	CDS	962109..962633	shikimate kinase
+pck:BMSBPS_0678	CDS	962666..963760	3-dehydroquinate synthase AroB
+pck:BMSBPS_0679	CDS	964345..965157	DNA adenine methylase Dam
+pck:BMSBPS_0680	CDS	965214..965903	ribulose-phosphate 3-epimerase Rpe
+pck:BMSBPS_0681	CDS	966210..967214	tryptophanyl-tRNA synthetase TrpS
+pck:BMSBPS_0682	CDS	complement(967456..968640)	protein TsgA
+pck:BMSBPS_0683	CDS	969180..969758	para-aminobenzoate synthase glutamine amidotransferase component II PabA
+pck:BMSBPS_0684	CDS	complement(969861..970493)	catabolite gene activator Crp
+pck:BMSBPS_0685	CDS	972623..973270	taurine dioxygenase
+pck:BMSBPS_0686	CDS	974451..975233	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+pck:BMSBPS_0687	CDS	975623..976009	DsrE_DsrF-like sulfur reduction protein
+pck:BMSBPS_0688	CDS	976009..976371	DsrE_DsrF-like sulfur reduction protein
+pck:BMSBPS_0689	CDS	976386..976673	DsrH-like sulfur reduction protein
+pck:BMSBPS_0690	CDS	976818..977192	30S ribosomal protein S12
+pck:BMSBPS_0691	CDS	977270..977740	30S ribosomal protein S7
+pck:BMSBPS_0692	CDS	977834..979948	translation elongation factor EF-G
+pck:BMSBPS_0693	CDS	980021..981205	domain III of elongation factor (EF) TufA
+pck:BMSBPS_0694	CDS	981803..982114	SSU ribosomal protein S10P
+pck:BMSBPS_0696	CDS	982149..982778	50S ribosomal protein L3
+pck:BMSBPS_0697	CDS	982787..983392	50S ribosomal protein L4
+pck:BMSBPS_0698	CDS	983389..983691	50S ribosomal protein L23
+pck:BMSBPS_0699	CDS	983709..984530	50S ribosomal protein L2
+pck:BMSBPS_0700	CDS	984550..984828	30S ribosomal protein S19
+pck:BMSBPS_0701	CDS	984842..985174	50S ribosomal protein L22 RplV
+pck:BMSBPS_0702	CDS	985194..985892	30S ribosomal protein S3
+pck:BMSBPS_0703	CDS	985905..986315	ribosomal protein L16
+pck:BMSBPS_0704	CDS	986315..986512	LSU ribosomal protein L29P
+pck:BMSBPS_0705	CDS	986509..986763	30S ribosomal subunit protein S17 RpsQ
+pck:BMSBPS_0706	CDS	986921..987292	50S ribosomal protein L14
+pck:BMSBPS_0707	CDS	987304..987618	50S ribosomal protein L24
+pck:BMSBPS_0708	CDS	987633..988172	50S ribosomal protein L5
+pck:BMSBPS_0709	CDS	988187..988492	30S ribosomal protein S14
+pck:BMSBPS_0710	CDS	988523..988915	30S ribosomal protein S8
+pck:BMSBPS_0711	CDS	988928..989461	50S ribosomal protein L6
+pck:BMSBPS_0712	CDS	989474..989830	50S ribosomal protein L18
+pck:BMSBPS_0713	CDS	989843..990343	30S ribosomal protein S5
+pck:BMSBPS_0714	CDS	990350..990529	LSU ribosomal protein L30P
+pck:BMSBPS_0715	CDS	990533..990967	50S ribosomal protein L15
+pck:BMSBPS_0716	CDS	990975..992306	preprotein translocase subunit SecY
+pck:BMSBPS_0717	CDS	992342..992458	50s ribosomal protein L36 RpmJ
+pck:BMSBPS_0718	CDS	992621..992977	30S ribosomal protein S13
+pck:BMSBPS_0720	CDS	992991..993380	30S ribosomal protein S11
+pck:BMSBPS_0721	CDS	993411..994031	30S ribosomal protein S4
+pck:BMSBPS_0722	CDS	994057..995046	DNA-directed RNA polymerase alpha chain RpoA
+pck:BMSBPS_0723	CDS	995089..995457	50S ribosomal protein L17
+pck:BMSBPS_0724	CDS	complement(995649..996611)	methionyl-tRNA formyltransferase
+pck:BMSBPS_0725	CDS	complement(996624..997157)	peptide deformylase Def
+pck:BMSBPS_0726	CDS	997966..998541	protein yrdC YrdC
+pck:BMSBPS_0727	CDS	998545..999378	shikimate dehydrogenase
+pck:BMSBPS_0728	rRNA	1000067..1001600	16S ribosomal RNA
+pck:BMSBPS_0729	tRNA	1001700..1001774	tRNA-Glu
+pck:BMSBPS_0730	rRNA	1001963..1004923	23S ribosomal RNA
+pck:BMSBPS_0731	rRNA	1005001..1005115	5S ribosomal RNA
+pck:BMSBPS_0732	CDS	complement(1005901..1007241)	biotin carboxylase
+pck:BMSBPS_0733	CDS	complement(1007254..1007712)	biotin carboxyl carrier protein of acetyl-CoA carboxylase
+pck:BMSBPS_0734	CDS	complement(1007733..1008188)	3-dehydroquinate dehydratase
+pck:BMSBPS_0735	CDS	1009475..1010518	cell shape determining protein, MreB_Mrl family
+pck:BMSBPS_0736	CDS	1010571..1011434	rod-shape determining protein MreC
+pck:BMSBPS_0737	CDS	1011543..1012031	rod shape-determining protein MreD
+pck:BMSBPS_0738	CDS	1012478..1013926	protein TldD
+pck:BMSBPS_0739	CDS	1014198..1015133	p-hydroxybenzoic acid efflux pump subunit
+pck:BMSBPS_0740	CDS	1015150..1017093	p-hydroxybenzoic acid efflux pump subunit AaeB
+pck:BMSBPS_0741	CDS	1018151..1019086	malate dehydrogenase
+pck:BMSBPS_0742	CDS	complement(1019113..1022457)	MscS mechanosensitive ion channel YjeP
+pck:BMSBPS_0743	CDS	complement(1022480..1023373)	phosphatidylserine decarboxylase
+pck:BMSBPS_0744	CDS	1024025..1024573	oligoribonuclease Orn
+pck:BMSBPS_0745	CDS	1025159..1026700	sugar kinase YjeF
+pck:BMSBPS_0746	CDS	1026697..1027173	hypothetical protein
+pck:BMSBPS_0747	CDS	1027173..1028447	N-acetylmuramoyl-L-alanine amidase AmiB
+pck:BMSBPS_0748	CDS	1028693..1030501	DNA mismatch repair protein MutL
+pck:BMSBPS_0749	CDS	1030494..1031444	tRNA delta(2)-isopentenylpyrophosphate transferase MiaA
+pck:BMSBPS_0750	CDS	1031551..1031820	protein Hfq
+pck:BMSBPS_0751	CDS	1031970..1033253	GTP-binding protein hflX
+pck:BMSBPS_0752	CDS	1033332..1034579	protein HflK
+pck:BMSBPS_0753	CDS	1034583..1035566	protein HflC
+pck:BMSBPS_0754	CDS	1035792..1037090	adenylosuccinate synthetase PurA
+pck:BMSBPS_0755	CDS	1037700..1040003	ribonuclease R
+pck:BMSBPS_0756	CDS	1040239..1040763	23S rRNA Gm-2251 2-O-methyltransferase
+pck:BMSBPS_0757	CDS	1041358..1041756	30S ribosomal protein S6
+pck:BMSBPS_0758	CDS	1042084..1042311	SSU ribosomal protein S18P
+pck:BMSBPS_0759	CDS	1042349..1042798	50S ribosomal protein L9
+pck:BMSBPS_0760	CDS	1043251..1043997	cysQ protein
+pck:BMSBPS_0761	CDS	1045046..1046503	outer membrane protein YtfM
+pck:BMSBPS_0762	CDS	1046500..1050294	periplasmic protein YtfN
+pck:BMSBPS_0763	CDS	complement(1050569..1051096)	inorganic pyrophosphatase Ppa
+pck:BMSBPS_0764	CDS	complement(1051204..1051653)	hypothetical protein
+pck:BMSBPS_0765	CDS	1052560..1053900	protein PmbA
+pck:BMSBPS_0766	CDS	1056468..1057337	tetrapyrrole methylase family protein YraL
+pck:BMSBPS_0767	ncRNA	1057363..1057749	Bacterial RNase P class A
+pck:BMSBPS_0768	CDS	complement(1058011..1058292)	inner membrane protein YqjK
+pck:BMSBPS_0769	CDS	complement(1058289..1058687)	membrane protein
+pck:BMSBPS_0770	CDS	complement(1058690..1058941)	inner membrane protein YqjD
+pck:BMSBPS_0771	CDS	complement(1059741..1060850)	D-alanine--D-alanine ligase A DdlA
+pck:BMSBPS_0772	tRNA	1061256..1061329	tRNA-Met
+pck:BMSBPS_0773	CDS	complement(1061971..1063809)	RNA polymerase sigma factor RpoD
+pck:BMSBPS_0774	CDS	complement(1064157..1065896)	DNA primase DnaG
+pck:BMSBPS_0775	CDS	complement(1066025..1066240)	SSU ribosomal protein S21P
+pck:BMSBPS_0776	CDS	1066540..1067565	o-sialoglycoprotein endopeptidase Gcp
+pck:BMSBPS_0777	CDS	1067812..1068162	dihydroneopterin aldolase FolB
+pck:BMSBPS_0778	CDS	complement(1068487..1069713)	multifunctional CCA-adding tRNA nucleotidyltransferase_2-nucleotidase_2,3-cyclic phosphodiesterase_phosphatase
+pck:BMSBPS_0779	CDS	1070554..1071993	bifunctional protein HldE
+pck:BMSBPS_0780	CDS	1072509..1073144	3,4-dihydroxy-2-butanone 4-phosphate synthase
+pck:BMSBPS_0781	CDS	1073368..1074006	ADP-ribose pyrophosphatase NudF
+pck:BMSBPS_0782	CDS	1074698..1075498	1-acyl-sn-glycerol-3-phosphate acyltransferase
+pck:BMSBPS_0783	CDS	complement(1076811..1077995)	cystathionine beta-lyase MetC
+pck:BMSBPS_0784	gene	1078924..1079778	agmatinase, coding region is interrupted by internal stop codons
+pck:BMSBPS_0785	CDS	1081643..1083061	D-serine_D-alanine_glycine transporter
+pck:BMSBPS_0786	CDS	1085720..1086943	protein SbmA
+pck:BMSBPS_0787	CDS	complement(1087649..1088143)	ferritin-1 FtnA
+pck:BMSBPS_0788	CDS	1089003..1090595	peptide chain release factor 3 PrfC
+pck:BMSBPS_0789	CDS	1091030..1091476	putative Holliday junction resolvase YqgF
+pck:BMSBPS_0790	CDS	1091811..1092509	hypothetical protein
+pck:BMSBPS_0792	CDS	1093451..1094581	oxygen-independent coproporphyrinogen III oxidaselike protein YggW
+pck:BMSBPS_0793	CDS	complement(1094775..1095503)	tRNA (guanine-N(7)-)-methyltransferase TrmB
+pck:BMSBPS_0794	CDS	1095654..1096718	A_G-specific adenine glycosylase
+pck:BMSBPS_0795	CDS	1096752..1097000	Fe(2+) trafficking protein YggX
+pck:BMSBPS_0796	gene	1097566..1098103	membrane bound lytic murein transglosylase C, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0797	CDS	1100832..1102064	phosphopentomutase DeoB
+pck:BMSBPS_0798	CDS	1102080..1102799	purine nucleoside phosphorylase DeoD
+pck:BMSBPS_0799	CDS	1103734..1103904	hypothetical protein
+pck:BMSBPS_0800	CDS	complement(1104261..1105211)	glutathione synthetase GshB
+pck:BMSBPS_0801	CDS	complement(1105939..1107333)	galactose-proton symporter GalP
+pck:BMSBPS_0802	CDS	complement(1107777..1108928)	S-adenosylmethionine synthetase MetK
+pck:BMSBPS_0803	gene	1109732..1111602	arginine decarboxylase SpeA, coding region is interrupted by internal stop codons and frameshifts
+pck:BMSBPS_0804	tRNA	1112016..1112091	tRNA-Phe
+pck:BMSBPS_0805	CDS	complement(1112821..1114122)	anaerobic C4-dicarboxylate transporter DcuA
+pck:BMSBPS_0806	CDS	1115218..1115508	molecular chaperone GroES
+pck:BMSBPS_0807	CDS	1115555..1117204	60 kDa chaperonin GroL
+pck:BMSBPS_0808	CDS	complement(1117472..1118506)	lysine 2 3-aminomutase YjeK
+pck:BMSBPS_0809	CDS	1118562..1119134	elongation factor P Efp
+pck:BMSBPS_0810	CDS	1119361..1120350	putative lysyl-tRNA synthetase PoxA
+pck:BMSBPS_0811	CDS	complement(1120772..1122148)	degP
+pck:BMSBPS_0812	CDS	complement(1122256..1122654)	putative cytochrome d ubiquinol oxidase subunit III YhcB
+pck:BMSBPS_0813	CDS	1122842..1123975	ATPase YhcM
+pck:BMSBPS_0814	CDS	1124213..1124641	50S ribosomal protein L13
+pck:BMSBPS_0815	CDS	1124657..1125049	30S ribosomal protein S9
+pck:BMSBPS_0816	CDS	complement(1126514..1126786)	phosphocarrier protein
+pck:BMSBPS_0817	CDS	complement(1126789..1127637)	P-loop ATPase
+pck:BMSBPS_0818	CDS	complement(1127692..1128177)	nitrogen regulatory protein PtsN
+pck:BMSBPS_0819	CDS	complement(1130129..1130854)	ABC-type (unclassified) transport system, ATPasecomponent
+pck:BMSBPS_0820	CDS	complement(1130860..1131402)	protein YhbN precursor
+pck:BMSBPS_0821	CDS	complement(1131350..1131967)	exported protein YrbK
+pck:BMSBPS_0822	CDS	complement(1132217..1133197)	arabinose 5-phosphate isomerase KdsD
+pck:BMSBPS_0823	CDS	1134487..1135314	ABC transporter YrbF
+pck:BMSBPS_0824	CDS	1135311..1136096	inner membrane protein YrbE
+pck:BMSBPS_0825	CDS	1136098..1136586	hypothetical protein
+pck:BMSBPS_0826	CDS	1136663..1137295	protein YrbC precursor
+pck:BMSBPS_0827	CDS	1137298..1137591	hypothetical protein
+pck:BMSBPS_0828	CDS	1137714..1137980	protein YrbA
+pck:BMSBPS_0829	CDS	1138025..1139287	UDP-N-acetylglucosamine 1-carboxyvinyltransferase MurA
+pck:BMSBPS_0830	CDS	1139878..1140210	50S ribosomal protein L21
+pck:BMSBPS_0831	CDS	1140210..1140467	50S ribosomal protein L27
+pck:BMSBPS_0832	CDS	1140714..1141736	GTPase CgtA/YhbZ
+pck:BMSBPS_0833	CDS	1143234..1143710	transcription elongation factor GreA
+pck:BMSBPS_0834	CDS	1144239..1144886	23S rRNA Um-2552 2-O-methyltransferase
+pck:BMSBPS_0835	CDS	1145031..1146947	ftsH; cell division protein
+pck:BMSBPS_0836	CDS	1146956..1147792	folP; dihydropteroate synthase FolP
+pck:BMSBPS_0837	CDS	1147798..1149135	phosphoglucosamine mutase
+pck:BMSBPS_0838	CDS	1149337..1149672	protein-export membrane protein SecG
+pck:BMSBPS_0839	tRNA	1149709..1149793	tRNA-Leu
+pck:BMSBPS_0840	CDS	1150150..1150602	hypothetical protein
