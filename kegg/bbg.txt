@@ -1,0 +1,615 @@
+bbg:BGIGA_p001	CDS	pBGIBA:763..1155	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+bbg:BGIGA_p002	CDS	pBGIBA:complement(1160..1636)	hypothetical protein
+bbg:BGIGA_p003	CDS	pBGIBA:complement(1643..2023)	hypothetical protein
+bbg:BGIGA_p004	CDS	pBGIBA:complement(2054..3127)	nrdF; ribonucleotide-diphosphate reductase beta subunit
+bbg:BGIGA_001	CDS	1..1254	nusA; transcription elongation factor NusA
+bbg:BGIGA_002	CDS	1296..3923	infB; translation initiation factor IF-2
+bbg:BGIGA_003	CDS	3923..5635	aspS; aspartate-tRNA ligase
+bbg:BGIGA_004	CDS	complement(5621..6118)	ppa; inorganic diphosphatase
+bbg:BGIGA_005	CDS	complement(6121..7311)	sucB; 2-oxoglutarate dehydrogenase, E2 component
+bbg:BGIGA_006	CDS	7409..8953	yjeF; Putative kinase, ribokinase-like superfamily
+bbg:BGIGA_007	CDS	complement(8960..10609)	lnt; apolipoprotein N-acyltransferase
+bbg:BGIGA_008	tmRNA	complement(10643..11043)	Tag peptide (at 101) Tag sequence: ggc-gaa-aaa-gaa-tac-gct-ttt-gct-gct-taa Tag peptide: Gly-Glu-Lys-Glu-Tyr-Ala-Phe-Ala-Ala-Stop Tag peptide: GEKEYAFAA*:
+bbg:BGIGA_009	CDS	complement(11090..12337)	rodA; rod-shape determining protein RodA
+bbg:BGIGA_010	CDS	complement(12321..14228)	mrdA; penicillin-binding protein 2
+bbg:BGIGA_011	CDS	complement(14225..14737)	hypothetical protein
+bbg:BGIGA_012	CDS	complement(14737..15570)	mreC; rod shape-determining protein MreC
+bbg:BGIGA_013	CDS	complement(15582..16622)	mreB; rod shape-determining protein MreB
+bbg:BGIGA_014	CDS	16720..17217	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+bbg:BGIGA_015	CDS	17249..19414	hypothetical protein
+bbg:BGIGA_016	CDS	19421..19804	endoribonuclease, L-PSP family (translation initiation inhibitor)
+bbg:BGIGA_017	CDS	19835..21478	hypothetical protein
+bbg:BGIGA_018	CDS	21495..22682	argD; bifunctional acetylornithine transaminase/N-succinyldiaminopimelate aminotransferase
+bbg:BGIGA_019	CDS	22698..23465	truA; tRNA pseudouridine synthase A
+bbg:BGIGA_020	CDS	23446..25197	msbA; ABC transporter, ATP-binding and permease
+bbg:BGIGA_021	CDS	complement(25194..26456)	ppiC; peptidyl-prolyl cis-trans isomerase precursor
+bbg:BGIGA_022	CDS	26522..27262	lptB; ABC transporter, ATP-binding protein
+bbg:BGIGA_023	CDS	27259..27891	thiamine diphosphokinase
+bbg:BGIGA_024	CDS	complement(27896..28813)	mdh; malate dehydrogenase, NAD-dependent
+bbg:BGIGA_025	CDS	28873..31752	gcvP; glycine dehydrogenase (decarboxylating)
+bbg:BGIGA_026	CDS	complement(31768..32799)	glycoprotease family protein
+bbg:BGIGA_027	CDS	32824..36687	hypothetical protein
+bbg:BGIGA_028	CDS	36909..37451	asnC; AsnC family transcriptional regulator
+bbg:BGIGA_029	CDS	37555..39588	transmembrane HD family protein
+bbg:BGIGA_030	tRNA	39669..39756	tRNA-Ser-1; tRNA-Ser
+bbg:BGIGA_031	tRNA	39774..39848	tRNA-Pro-1; tRNA-Pro
+bbg:BGIGA_032	tRNA	39851..39924	tRNA-Arg-1; tRNA-Arg
+bbg:BGIGA_033	CDS	complement(39922..40596)	clpP; ATP-dependent Clp protease, proteolytic subunit 2
+bbg:BGIGA_034	CDS	40714..42174	wzxC; polysaccharide biosynthesis protein
+bbg:BGIGA_035	CDS	42184..42564	dut; dUTP diphosphatase
+bbg:BGIGA_036	CDS	42574..43590	rffH; UTP-glucose-1-phosphate uridylyltransferase
+bbg:BGIGA_037	CDS	43632..43835	tatB; Sec-independent protein translocase
+bbg:BGIGA_038	CDS	43914..45011	mltD; membrane-bound lytic murein transglycosylase
+bbg:BGIGA_039	CDS	45072..46058	recA; recombinase A
+bbg:BGIGA_040	CDS	46055..46825	phnP; metallo-beta-lactamase domain protein
+bbg:BGIGA_041	CDS	46864..50025	ccmC; cytochrome c assembly protein
+bbg:BGIGA_042	CDS	50069..50836	hypothetical protein
+bbg:BGIGA_043	CDS	50851..53538	alaS; alanine-tRNA ligase
+bbg:BGIGA_044	CDS	53558..56323	sucA; 2-oxoglutarate dehydrogenase (succinyl-transferring), E1 component
+bbg:BGIGA_045	CDS	56362..57582	sucB; 2-oxoglutarate dehydrogenase, E2 component, dihydrolipoyllysine-residue succinyltransferase
+bbg:BGIGA_046	CDS	57622..58782	hypothetical protein
+bbg:BGIGA_047	CDS	complement(58779..59339)	hypothetical protein
+bbg:BGIGA_048	CDS	complement(59352..60023)	phospholipase/carboxylesterase
+bbg:BGIGA_049	CDS	complement(60033..60713)	lolD; lipoprotein releasing system ATP-binding protein
+bbg:BGIGA_050	CDS	60810..62015	sucC; succinyl-CoA ligase (ADP-forming) subunit beta
+bbg:BGIGA_051	CDS	62030..63520	dnaX; DNA polymerase III subunit gamma/tau
+bbg:BGIGA_052	CDS	63520..65622	clpA; ATP-dependent Clp protease, ATP-binding subunit
+bbg:BGIGA_053	CDS	65619..66263	nth; endonuclease III
+bbg:BGIGA_054	CDS	complement(66260..66619)	hypothetical protein
+bbg:BGIGA_055	CDS	complement(66632..67573)	SPFH domain/band 7 family protein
+bbg:BGIGA_056	CDS	complement(67584..67898)	hypothetical protein
+bbg:BGIGA_057	CDS	complement(67904..69370)	peptidase M16 family domain-containing protein
+bbg:BGIGA_058	CDS	complement(69336..70721)	peptidase M16 family domain-containing protein
+bbg:BGIGA_059	CDS	70846..72183	cytochrome c
+bbg:BGIGA_060	CDS	72201..75173	nrfC; molybdopterin oxidoreductase iron-sulfur binding subunit
+bbg:BGIGA_061	CDS	75182..76561	nrfD; molybdopterin oxidoreductase membrane subunit
+bbg:BGIGA_062	CDS	76558..77091	hypothetical protein
+bbg:BGIGA_063	CDS	77108..77704	hypothetical protein
+bbg:BGIGA_064	CDS	77708..78910	hypothetical protein
+bbg:BGIGA_065	CDS	complement(78956..79642)	ktrA; K+ uptake transporter, KtrA subunit
+bbg:BGIGA_066	CDS	complement(79663..81411)	ktrB; K+ uptake transporter subunit KtrB
+bbg:BGIGA_067	CDS	complement(81614..82270)	peptidase M22, glycoprotease
+bbg:BGIGA_068	CDS	82321..83115	nadE; NAD+ synthase
+bbg:BGIGA_069	CDS	83190..83864	folE; GTP cyclohydrolase I
+bbg:BGIGA_070	CDS	83874..85367	cysS; cysteine-tRNA ligase
+bbg:BGIGA_071	CDS	complement(85337..86497)	metBC; cystathionine gamma-synthase/cystathionine beta-lyase
+bbg:BGIGA_072	CDS	86669..87736	atpB; ATP synthase F0 subunit a
+bbg:BGIGA_073	CDS	87749..87976	atpE; ATP synthase F0 subunit c
+bbg:BGIGA_074	CDS	87982..88488	atpF; ATP synthase F0 subunit b
+bbg:BGIGA_075	CDS	88495..89031	atpH; ATP synthase F1 subunit delta
+bbg:BGIGA_076	CDS	89054..90634	atpA; ATP synthase F1 subunit alpha
+bbg:BGIGA_077	CDS	90643..91503	atpG; ATP synthase F1 subunit gamma
+bbg:BGIGA_078	CDS	91575..92570	trpS; tryptophan-tRNA ligase
+bbg:BGIGA_079	CDS	92680..93255	grpE; chaperone GrpE
+bbg:BGIGA_080	CDS	93274..94395	dnaJ; chaperone DnaJ
+bbg:BGIGA_081	CDS	94509..95735	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+bbg:BGIGA_082	CDS	96047..97732	ilvD; dihydroxy-acid dehydratase
+bbg:BGIGA_083	CDS	97742..99442	ilvB; acetolactate synthase large subunit
+bbg:BGIGA_084	CDS	99471..99776	ilvH; acetolactate synthase small subunit
+bbg:BGIGA_085	CDS	99797..100849	ilvC; ketol-acid reductoisomerase
+bbg:BGIGA_086	CDS	100884..102149	ilvA; threonine ammonia-lyase
+bbg:BGIGA_087	tRNA	complement(102160..102247)	tRNA-Leu-1; tRNA-Leu
+bbg:BGIGA_088	CDS	102371..103081	dapB; dihydrodipicolinate reductase
+bbg:BGIGA_089	CDS	103090..104559	lepB; signal peptidase I
+bbg:BGIGA_090	CDS	complement(104553..105257)	transmembrane rhomboid family protein
+bbg:BGIGA_091	CDS	complement(105261..106985)	mutL; DNA mismatch repair protein MutL
+bbg:BGIGA_092	CDS	complement(106982..107476)	ribE; bifunctional riboflavin synthase subunit beta
+bbg:BGIGA_093	CDS	complement(107483..108094)	TPR domain-containing protein
+bbg:BGIGA_094	CDS	complement(108133..109476)	gldE; gliding motility protein
+bbg:BGIGA_095	CDS	complement(109566..110618)	mutY; A/G-specific adenine glycosylase
+bbg:BGIGA_096	CDS	110701..110994	hupA; DNA-binding protein HU
+bbg:BGIGA_097	CDS	111176..112693	cafA; ribonuclease G
+bbg:BGIGA_098	tRNA	112718..112803	tRNA-Leu-2; tRNA-Leu
+bbg:BGIGA_099	CDS	complement(112801..114051)	gltA; citrate synthase
+bbg:BGIGA_100	CDS	complement(114099..115034)	hypothetical protein
+bbg:BGIGA_101	CDS	complement(115044..115904)	fabD; malonyl CoA-acyl carrier protein transacylase
+bbg:BGIGA_102	CDS	115949..116716	tatD; TatD-related desoxyribonuclease
+bbg:BGIGA_103	CDS	complement(116734..118119)	fumC; fumarate hydratase, class II
+bbg:BGIGA_104	CDS	118303..118611	septum formation initiator-related protein
+bbg:BGIGA_105	CDS	complement(118608..120482)	gidA; glucose-inhibited division protein A
+bbg:BGIGA_106	CDS	complement(120489..120908)	hypothetical protein
+bbg:BGIGA_107	CDS	120948..121658	pgsA; CDP-diacylglycerol--serine O-phosphatidyltransferase
+bbg:BGIGA_108	CDS	121663..122430	dnaQ; DNA polymerase III subunit epsilon
+bbg:BGIGA_109	CDS	complement(122435..124306)	htpG; chaperone HtpG
+bbg:BGIGA_110	CDS	complement(124391..125350)	ftsY; cell division protein FtsY
+bbg:BGIGA_111	CDS	complement(125350..125526)	hypothetical protein
+bbg:BGIGA_112	CDS	complement(125526..125708)	rpmG; 50S ribosomal protein L33
+bbg:BGIGA_113	CDS	complement(125710..125937)	rpmB; 50S ribosomal protein L28
+bbg:BGIGA_114	CDS	126002..126715	hypothetical protein
+bbg:BGIGA_115	tRNA	127034..127117	tRNA-Ser-2; tRNA-Ser
+bbg:BGIGA_116	CDS	complement(127124..128290)	rmuC; RmuC family protein
+bbg:BGIGA_117	tRNA	complement(128300..128372)	tRNA-Met-1; tRNA-Met
+bbg:BGIGA_118	CDS	complement(128429..130006)	rho; transcription termination factor Rho
+bbg:BGIGA_119	CDS	130180..130590	hypothetical protein
+bbg:BGIGA_120	CDS	130640..131713	prfA; peptide chain release factor 1
+bbg:BGIGA_121	CDS	complement(131734..133077)	accC; acetyl-CoA carboxylase, biotin carboxyl carrier protein
+bbg:BGIGA_122	CDS	complement(133083..133568)	accB; biotin carboxyl carrier protein of acetyl-CoA carboxylase
+bbg:BGIGA_123	CDS	133865..135334	proS; proline-tRNA ligase
+bbg:BGIGA_124	CDS	complement(135321..136274)	pyrD; dihydroorotate dehydrogenase
+bbg:BGIGA_125	CDS	136343..137710	pyrF; orotate phosphoribosyltransferase
+bbg:BGIGA_126	CDS	137860..138435	marC; MarC family integral membrane protein
+bbg:BGIGA_127	CDS	complement(138793..139788)	fbp; fructose-1,6-bisphosphatase
+bbg:BGIGA_128	CDS	139897..140655	plsC; 1-acylglycerol-3-phosphate O-acyltransferase
+bbg:BGIGA_129	CDS	140646..141152	rnhA; ribonuclease HI
+bbg:BGIGA_130	CDS	complement(141140..141946)	spoU; (guanosine-2'-O-)-methyltransferase
+bbg:BGIGA_131	CDS	141964..142380	comEB; dCMP deaminase
+bbg:BGIGA_132	tRNA	142386..142468	tRNA-Leu-3; tRNA-Leu
+bbg:BGIGA_133	CDS	complement(142478..144184)	ureC; urease subunit alpha
+bbg:BGIGA_134	CDS	complement(144181..144810)	ureAB; urease subunit beta/gamma
+bbg:BGIGA_135	CDS	145110..147557	thrA; bifunctional aspartokinase/homoserine dehydrogenase
+bbg:BGIGA_136	CDS	147563..148516	thrB; homoserine kinase
+bbg:BGIGA_137	CDS	148532..149854	thrC; threonine synthase
+bbg:BGIGA_138	CDS	complement(149862..150656)	thyA; thymidylate synthase
+bbg:BGIGA_139	CDS	150712..151650	prsA; ribose-phosphate diphosphokinase
+bbg:BGIGA_140	CDS	151647..152243	rplY; 50S ribosomal protein L25
+bbg:BGIGA_141	CDS	152266..152697	tadA; cytidine/deoxycytidylate deaminase
+bbg:BGIGA_142	CDS	complement(152707..153366)	dedA; putative membrane-associated protein
+bbg:BGIGA_143	CDS	153645..154712	aroB; 3-dehydroquinate synthase
+bbg:BGIGA_144	CDS	154763..157204	gyrA; DNA gyrase subunit A
+bbg:BGIGA_145	CDS	complement(157221..159350)	prc; protease
+bbg:BGIGA_146	CDS	159411..160220	surE; acid phosphatase, stationary phase survival protein
+bbg:BGIGA_147	CDS	160231..161196	ruvB; Holliday junction DNA helicase RuvB
+bbg:BGIGA_148	CDS	161263..162558	purA; adenylosuccinate synthase
+bbg:BGIGA_149	CDS	162576..164012	purB; adenylosuccinate lyase
+bbg:BGIGA_150	CDS	164021..167698	purL; phosphoribosylformylglycinamidine synthase
+bbg:BGIGA_151	CDS	167716..168210	purE; phosphoribosylaminoimidazole carboxylase catalytic subunit
+bbg:BGIGA_152	CDS	168207..168929	purC; phosphoribosylaminoimidazolesuccinocarboxamide synthase
+bbg:BGIGA_153	CDS	168939..170408	purF; amidophosphoribosyltransferase
+bbg:BGIGA_154	CDS	170405..171397	purM; phosphoribosylformylglycinamidine cyclo-ligase
+bbg:BGIGA_155	CDS	171409..171987	purN; phosphoribosylglycinamide formyltransferase
+bbg:BGIGA_156	CDS	172062..173591	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase
+bbg:BGIGA_157	CDS	173455..174831	purD; phosphoribosylamine-glycine ligase
+bbg:BGIGA_158	CDS	174837..176387	guaA; bifunctional GMP synthase/glutamine amidotransferase
+bbg:BGIGA_159	CDS	complement(176393..177232)	accD; acetyl-CoA carboxylase subunit beta
+bbg:BGIGA_160	CDS	complement(177242..178312)	fbaA; fructose-bisphosphate aldolase
+bbg:BGIGA_161	CDS	178419..181013	uvrD; ATP-dependent DNA helicase
+bbg:BGIGA_162	CDS	complement(181015..181869)	lipA; lipoyl synthase
+bbg:BGIGA_163	CDS	181943..183064	hypothetical protein
+bbg:BGIGA_164	CDS	183067..183858	hypothetical protein
+bbg:BGIGA_165	CDS	183862..184416	thioredoxin family protein
+bbg:BGIGA_166	CDS	complement(184400..185422)	phosphoesterase domain-containing protein
+bbg:BGIGA_167	CDS	complement(185428..186846)	cca; tRNA nucleotidyltransferase
+bbg:BGIGA_168	CDS	complement(186859..187437)	rimN; Sua5/YciO/YrdC/YwlC family protein
+bbg:BGIGA_169	CDS	complement(187438..188265)	dapD; 2, 3, 4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+bbg:BGIGA_170	CDS	188350..188784	ruvX; Holliday junction resolvase-like protein
+bbg:BGIGA_171	CDS	188796..189332	def; peptide deformylase
+bbg:BGIGA_172	CDS	complement(189320..189670)	rpIT; 50S ribosomal protein L20
+bbg:BGIGA_173	CDS	complement(189677..189865)	rpmI; 50S ribosomal protein L35
+bbg:BGIGA_174	CDS	complement(189876..190451)	infC; translation initiation factor IF-3
+bbg:BGIGA_175	CDS	complement(190464..191738)	thrS; threonine--tRNA ligase
+bbg:BGIGA_176	CDS	complement(191764..192516)	glpF; glycerol diffusion channel
+bbg:BGIGA_177	CDS	complement(192540..194042)	glpK; glycerol kinase
+bbg:BGIGA_178	CDS	complement(194061..195674)	glpA; glycerol-3-phosphate dehydrogenase
+bbg:BGIGA_179	CDS	complement(195785..197137)	ffh; signal recognition particle protein
+bbg:BGIGA_180	CDS	complement(197156..198916)	argS; arginine-tRNA ligase
+bbg:BGIGA_181	CDS	complement(198932..199993)	ilvE; branched-chain amino acid transaminase
+bbg:BGIGA_182	CDS	complement(200061..202535)	sucA; bifunctional transketolase/2-oxoacid (pyruvate/branched-chain alpha-keto acid) dehydrogenase E1 component
+bbg:BGIGA_183	CDS	202589..203038	ndk; nucleoside-diphosphate kinase
+bbg:BGIGA_184	CDS	203057..203659	hypothetical protein
+bbg:BGIGA_185	CDS	203737..204480	hypothetical protein
+bbg:BGIGA_186	CDS	complement(204490..207153)	valS; valine-tRNA ligase
+bbg:BGIGA_187	CDS	207187..207684	folA; dihydrofolate reductase
+bbg:BGIGA_188	CDS	complement(207685..208314)	hypothetical protein
+bbg:BGIGA_189	CDS	208483..209208	hypothetical protein
+bbg:BGIGA_190	CDS	209300..210283	pdhB; pyruvate dehydrogenase E1 component subunit beta
+bbg:BGIGA_191	CDS	complement(210289..211251)	metF; 5,10-methylenetetrahydrofolate reductase
+bbg:BGIGA_192	CDS	complement(211265..212527)	serS; serine-tRNA ligase
+bbg:BGIGA_193	CDS	212558..213379	ksgA; dimethyladenosine transferase
+bbg:BGIGA_194	CDS	213376..214239	folD; bifunctional methylenetetrahydrofolate dehydrogenase (NADP+)/methenyltetrahydrofolate cyclohydrolase
+bbg:BGIGA_195	CDS	214260..214871	radical SAM domain-containing protein
+bbg:BGIGA_196	CDS	complement(214868..215455)	hisI; bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase
+bbg:BGIGA_197	CDS	complement(215472..216239)	hisF; imidazole glycerol phosphate synthase, cyclase subunit
+bbg:BGIGA_198	CDS	complement(216242..216985)	hisA; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase
+bbg:BGIGA_199	CDS	complement(216990..217586)	hisH; imidazole glycerol phosphate synthase subunit HisH
+bbg:BGIGA_200	CDS	complement(217602..218765)	hisB; bifunctional imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+bbg:BGIGA_201	CDS	complement(218773..219876)	hisC; histidinol-phosphate transaminase
+bbg:BGIGA_202	CDS	complement(219878..221173)	hisD; histidinol dehydrogenase
+bbg:BGIGA_203	CDS	complement(221184..222041)	hisG; ATP phosphoribosyltransferase
+bbg:BGIGA_204	CDS	222221..222985	exoA; exodeoxyribonuclease
+bbg:BGIGA_205	tRNA	complement(222999..223071)	tRNA-Lys-1; tRNA-Lys
+bbg:BGIGA_206	CDS	223145..223672	aroK; shikimate kinase
+bbg:BGIGA_207	CDS	223669..225015	tilS; PP-loop family protein
+bbg:BGIGA_208	CDS	225096..226160	serC; phosphoserine transaminase
+bbg:BGIGA_209	CDS	226163..226831	yggS; alanine racemase domain-containing protein
+bbg:BGIGA_210	CDS	complement(226824..227591)	trpA; tryptophan synthase subunit alpha
+bbg:BGIGA_211	CDS	complement(227584..228777)	trpB; bifunctional phosphoribosylanthranilate isomerase/tryptophan synthase subunit beta
+bbg:BGIGA_212	CDS	complement(228774..229400)	trpF; bifunctional phosphoribosylanthranilate isomerase/tryptophan synthase subunit beta
+bbg:BGIGA_213	CDS	complement(229453..230250)	trpC; indole-3-glycerol-phosphate synthase
+bbg:BGIGA_214	CDS	complement(230247..231245)	trpD; anthranilate phosphoribosyltransferase
+bbg:BGIGA_215	CDS	complement(231242..231826)	trpG; anthranilate synthase component II
+bbg:BGIGA_216	CDS	complement(231833..233245)	trpE; anthranilate synthase component I
+bbg:BGIGA_217	CDS	233488..235443	hypothetical protein
+bbg:BGIGA_218	CDS	235485..236159	hemagglutinin
+bbg:BGIGA_219	CDS	236172..236570	gcvH; glycine cleavage system H protein
+bbg:BGIGA_220	CDS	236597..238873	cooI; E1-E2 family cation transport ATPase
+bbg:BGIGA_221	CDS	239019..241205	ccoNO; cbb3-type cytochrome c oxidase subunit I + II
+bbg:BGIGA_222	CDS	241424..242332	ccoP; cbb3-type cytochrome c oxidase ccoP subunit III
+bbg:BGIGA_223	CDS	242381..242863	ccoH; cytochrome cbb3 oxidase maturation protein CcoH
+bbg:BGIGA_224	CDS	242870..245143	maeB; bifunctional malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)/phosphate acetyltransferase
+bbg:BGIGA_225	CDS	complement(245140..245946)	murI; glutamate racemase
+bbg:BGIGA_226	CDS	complement(246166..246408)	rpsT; 30S ribosomal protein S20
+bbg:BGIGA_227	tRNA	complement(246421..246492)	tRNA-Glu-1; tRNA-Glu
+bbg:BGIGA_228	CDS	246711..247199	spr; NLP/P60 family protein
+bbg:BGIGA_229	CDS	complement(247187..248443)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+bbg:BGIGA_230	CDS	complement(248448..248735)	nucleoside-triphosphate diphosphatase
+bbg:BGIGA_231	CDS	complement(248781..249743)	dxs; transketolase C-terminal subunit
+bbg:BGIGA_232	CDS	complement(249754..250614)	tkt; transketolase N-terminal subunit
+bbg:BGIGA_233	CDS	250694..251143	smpB; SsrA-binding protein
+bbg:BGIGA_234	CDS	251195..252433	ompA; OmpA/MotB domain-containing protein
+bbg:BGIGA_235	CDS	complement(252451..253263)	tatC; Sec-independent protein translocase TatC
+bbg:BGIGA_236	CDS	253344..254339	GTP-binding protein
+bbg:BGIGA_237	CDS	complement(254329..255405)	frvX; peptidase M42 family protein
+bbg:BGIGA_238	CDS	complement(255421..256218)	dapF; diaminopimelate epimerase
+bbg:BGIGA_239	CDS	256319..257827	degQ; serine protease
+bbg:BGIGA_240	CDS	complement(257824..258909)	YjgP/YjgQ family permease
+bbg:BGIGA_241	CDS	complement(258911..260035)	tgt; tRNA-guanine transglycosylase (queuine tRNA-ribosyltransferase)
+bbg:BGIGA_242	CDS	260107..261006	mraW; S-adenosyl-methyltransferase MraW
+bbg:BGIGA_243	CDS	261011..261352	hypothetical protein
+bbg:BGIGA_244	CDS	261352..263325	ftsI; penicillin-binding protein
+bbg:BGIGA_245	CDS	263322..264791	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+bbg:BGIGA_246	CDS	264800..266008	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+bbg:BGIGA_247	CDS	266016..267380	murD; UDP-N-acetylmuramoyl-L-alanine-D-glutamateligase
+bbg:BGIGA_248	CDS	267367..268572	ftsW; rod-shape determining protein RodA
+bbg:BGIGA_249	CDS	268562..269677	murG; undecaprenyldiphospho-muramoylpentapeptidebeta-N-acetylglucosaminyltransferase
+bbg:BGIGA_250	CDS	269674..271083	murC; UDP-N-acetylmuramate-L-alanine ligase
+bbg:BGIGA_251	CDS	271073..271801	ftsQ; cell division protein ftsQ
+bbg:BGIGA_252	CDS	271806..273164	ftsA; cell division protein ftsA
+bbg:BGIGA_253	CDS	273176..274546	ftsZ; cell division protein ftsZ
+bbg:BGIGA_254	CDS	274546..275955	hisS; histidine-tRNA ligase
+bbg:BGIGA_255	CDS	complement(275934..276581)	pnuC; nicotinamide mononucleotide transporter
+bbg:BGIGA_256	CDS	complement(276578..277207)	acpT; 4'-phosphopantetheinyl transferase superfamilyprotein
+bbg:BGIGA_257	CDS	277261..278271	mrp; Mrp/Nbp35 family ATP-binding protein
+bbg:BGIGA_258	CDS	complement(278290..279096)	xapA; purine nucleoside phosphorylase
+bbg:BGIGA_259	CDS	complement(279184..280218)	murB; UDP-N-acetylmuramate dehydrogenase
+bbg:BGIGA_260	CDS	280313..280576	hypothetical protein
+bbg:BGIGA_261	CDS	280604..280933	hypothetical protein
+bbg:BGIGA_262	CDS	280939..281700	rlmB; tRNA/rRNA methyltransferase
+bbg:BGIGA_263	CDS	complement(281684..282667)	pheS; phenylalanine-tRNA ligase subunit alpha
+bbg:BGIGA_264	CDS	complement(282673..283035)	hypothetical protein
+bbg:BGIGA_265	CDS	283058..283576	hypothetical protein
+bbg:BGIGA_266	CDS	283566..284564	luxE; acyl protein synthetase
+bbg:BGIGA_267	CDS	complement(284597..286885)	phosphate sodium symporter
+bbg:BGIGA_268	CDS	complement(286996..287598)	ruvA; Holliday junction DNA helicase RuvA
+bbg:BGIGA_269	CDS	complement(287636..288967)	engA; GTP-binding protein EngA
+bbg:BGIGA_270	CDS	289062..289745	trmD; tRNA (guanine-N1-)-methyltransferase
+bbg:BGIGA_271	CDS	complement(289724..291094)	argH; argininosuccinate lyase
+bbg:BGIGA_272	CDS	291172..293091	gyrB; DNA gyrase subunit B
+bbg:BGIGA_273	CDS	293115..293915	bacA; undecaprenyl-diphosphatase
+bbg:BGIGA_274	CDS	complement(294137..294475)	rpsP; 30S ribosomal protein S16
+bbg:BGIGA_275	tRNA	294600..294670	tRNA-Gln-1; tRNA-Gln
+bbg:BGIGA_276	CDS	294701..296092	gltP; glutamate/aspartate:proton symporter
+bbg:BGIGA_277	CDS	296113..297174	mvaD; diphosphomevalonate decarboxylase
+bbg:BGIGA_278	tRNA	297183..297259	tRNA-His-1; tRNA-His
+bbg:BGIGA_279	CDS	complement(297285..298472)	aspC; aspartate transaminase
+bbg:BGIGA_280	CDS	298563..299183	gidB; glucose-inhibited division protein B
+bbg:BGIGA_281	CDS	299197..300162	hypothetical protein
+bbg:BGIGA_282	CDS	complement(300164..301669)	lysS; lysine-tRNA ligase
+bbg:BGIGA_283	CDS	301766..302485	lipB; lipoate-protein ligase
+bbg:BGIGA_284	CDS	complement(302482..303804)	miaB; MiaB family tRNA modification enzyme:2-methylthioadenine synthetase
+bbg:BGIGA_285	CDS	complement(303837..304463)	ahpC; alkyl hydroperoxide reductase subunit C
+bbg:BGIGA_286	CDS	complement(304531..306369)	dnaG; DNA primase
+bbg:BGIGA_287	CDS	complement(306386..307039)	rpe; ribulose-phosphate 3-epimerase
+bbg:BGIGA_288	CDS	complement(307078..307878)	fabI; enoyl-[acyl-carrier-protein] reductase (NADH)
+bbg:BGIGA_289	CDS	complement(307896..309161)	metK; methionine adenosyltransferase
+bbg:BGIGA_290	CDS	complement(309185..310264)	aroG; bifunctional phospho-2-dehydro-3-deoxyheptonatealdolase/chorismate mutase
+bbg:BGIGA_291	CDS	complement(310274..311122)	tyrA; prephenate dehydrogenase
+bbg:BGIGA_292	CDS	complement(311119..312264)	tyrB; transaminase
+bbg:BGIGA_293	CDS	complement(312269..313105)	pheA; prephenate dehydratase
+bbg:BGIGA_294	CDS	313302..314636	mntH; Mn2+/Fe2+ transporter, NRAMP family
+bbg:BGIGA_295	CDS	complement(314625..315080)	rplI; 50S ribosomal protein L9
+bbg:BGIGA_296	CDS	complement(315082..315390)	rpsR; 30S ribosomal protein S18
+bbg:BGIGA_297	CDS	complement(315399..315743)	rpsF; 30S ribosomal protein S6
+bbg:BGIGA_298	CDS	complement(315803..317311)	gltX; glutamate-tRNA ligase
+bbg:BGIGA_299	CDS	complement(317346..318737)	trmE; tRNA modification GTPase TrmE
+bbg:BGIGA_300	CDS	318801..319700	prmB; methyltransferase small domain protein
+bbg:BGIGA_301	CDS	319721..321715	ligA; DNA ligase
+bbg:BGIGA_302	CDS	321865..324267	lon; ATP-dependent protease La
+bbg:BGIGA_303	CDS	324271..325512	lysA; diaminopimelate decarboxylase
+bbg:BGIGA_304	tRNA	325521..325608	tRNA-Ser-3; tRNA-Ser
+bbg:BGIGA_305	CDS	complement(325637..327319)	metG; methionine-tRNA ligase
+bbg:BGIGA_306	CDS	327362..328264	polA; DNA polymerase I
+bbg:BGIGA_307	CDS	complement(328267..328677)	nadD; nicotinate-nucleotide adenylyltransferase
+bbg:BGIGA_308	CDS	329586..331430	ftsK; cell division protein
+bbg:BGIGA_309	CDS	331449..332624	YjgP/YjgQ family permease
+bbg:BGIGA_310	CDS	332635..333288	ribBA; bifunctional 3,4 dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II
+bbg:BGIGA_311	tRNA	complement(333267..333343)	tRNA-Asp-1; tRNA-Asp
+bbg:BGIGA_312	CDS	complement(333349..333672)	trxA; thioredoxin
+bbg:BGIGA_313	CDS	complement(333717..334799)	argE; bifunctional peptidase/acetylornithine deacetylase
+bbg:BGIGA_314	CDS	complement(334790..335572)	argB; acetylglutamate kinase
+bbg:BGIGA_315	CDS	complement(335569..336525)	argF; ornithine carbamoyltransferase
+bbg:BGIGA_316	CDS	complement(336540..339764)	carB; carbamoyl phosphate synthase large subunit
+bbg:BGIGA_317	CDS	complement(339788..340876)	carA; carbamoyl phosphate synthase small subunit
+bbg:BGIGA_318	CDS	complement(340866..342017)	argD; acetylornithine transaminase
+bbg:BGIGA_319	CDS	complement(342020..342994)	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+bbg:BGIGA_320	CDS	complement(342987..344747)	argA; bifunctional argininosuccinate synthase/acetyltransferase activity of N-acetylglutamate synthase
+bbg:BGIGA_321	CDS	complement(344900..349201)	dnaE; DNA polymerase III subunit alpha
+bbg:BGIGA_322	CDS	349374..351185	rpsA; 30S ribosomal protein S1
+bbg:BGIGA_323	CDS	351196..352908	nrdA; ribonucleoside-diphosphate reductase subunit alpha
+bbg:BGIGA_324	rRNA	352923..353029	rrfA; 5S ribosomal RNA
+bbg:BGIGA_325	rRNA	353087..355991	rrlA; 23S ribosomal RNA
+bbg:BGIGA_326	CDS	353231..353629	Cell wall-associated hydrolase
+bbg:BGIGA_327	tRNA	complement(356042..356115)	tRNA-Ala-1; tRNA-Ala
+bbg:BGIGA_328	tRNA	complement(356120..356193)	tRNA-Ile-1; tRNA-Ile
+bbg:BGIGA_329	rRNA	356311..357835	rrsA; 16S ribosomal RNA
+bbg:BGIGA_330	CDS	358026..359069	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+bbg:BGIGA_331	CDS	359092..360072	ispB; polyprenyl synthetase
+bbg:BGIGA_332	CDS	360251..362191	topA; DNA topoisomerase I
+bbg:BGIGA_333	CDS	complement(362222..362665)	hypothetical protein
+bbg:BGIGA_334	CDS	362888..363559	methyltransferase
+bbg:BGIGA_335	CDS	complement(363569..364561)	asd; aspartate-semialdehyde dehydrogenase
+bbg:BGIGA_336	CDS	364595..365209	gmk; guanylate kinase
+bbg:BGIGA_337	tRNA	complement(365273..365346)	tRNA-Asn-1; tRNA-Asn
+bbg:BGIGA_338	CDS	complement(365324..365779)	rpiB; ribose 5-phosphate isomerase B
+bbg:BGIGA_339	CDS	365898..367106	pgk; phosphoglycerate kinase
+bbg:BGIGA_340	CDS	367170..367787	sodA; superoxide dismutase
+bbg:BGIGA_341	CDS	367800..368153	folB; dihydroneopterin aldolase
+bbg:BGIGA_342	tRNA	368161..368231	tRNA-Cys-1; tRNA-Cys
+bbg:BGIGA_343	CDS	368317..369066	hemD; uroporphyrinogen-III synthase
+bbg:BGIGA_344	CDS	369066..369794	hypothetical protein
+bbg:BGIGA_345	CDS	complement(369798..371648)	glmS; glutamine-fructose-6-phosphate transaminase (isomerizing)
+bbg:BGIGA_346	CDS	complement(371679..372497)	glgA; glycogen synthase-related protein
+bbg:BGIGA_347	CDS	372666..374606	rnr; ribonuclease R
+bbg:BGIGA_348	CDS	complement(374625..375095)	coaD; pantetheine-phosphate adenylyltransferase
+bbg:BGIGA_349	CDS	375173..376213	PSP1 domain-containing protein
+bbg:BGIGA_350	CDS	376249..378546	mrcA; penicillin-binding protein 1A
+bbg:BGIGA_351	CDS	378543..379508	serA; D-3-phosphoglycerate dehydrogenase
+bbg:BGIGA_352	CDS	complement(379524..381197)	cysJ; sulfite reductase [NADPH] flavoprotein alpha-component (SIR-FP)
+bbg:BGIGA_353	CDS	complement(381366..382283)	cysK; cysteine synthase A
+bbg:BGIGA_354	CDS	complement(382293..383117)	cysE; serine O-acetyltransferase
+bbg:BGIGA_355	CDS	383375..384640	icd; isocitrate dehydrogenase (NADP+)
+bbg:BGIGA_356	CDS	complement(384644..385687)	menE; O-succinylbenzoate-CoA ligase
+bbg:BGIGA_357	CDS	complement(385700..386800)	menC; chloromuconate cycloisomerase
+bbg:BGIGA_358	CDS	complement(386801..387490)	metallo-beta-lactamase domain protein
+bbg:BGIGA_359	CDS	complement(387494..388399)	menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+bbg:BGIGA_360	CDS	complement(388396..389220)	menB; naphthoate synthase
+bbg:BGIGA_361	CDS	389286..389696	hypothetical protein
+bbg:BGIGA_362	CDS	complement(389670..390941)	Na+/H+ antiporter
+bbg:BGIGA_363	CDS	complement(390980..392278)	eno; enolase
+bbg:BGIGA_364	CDS	complement(392265..392726)	rplQ; 50S ribosomal protein L17
+bbg:BGIGA_365	CDS	complement(392749..393747)	rpoA; DNA-directed RNA polymerase subunit alpha
+bbg:BGIGA_366	CDS	complement(393775..394383)	rpsD; 30S ribosomal protein S4
+bbg:BGIGA_367	CDS	complement(394436..394828)	rpsK; 30S ribosomal protein S11
+bbg:BGIGA_368	CDS	complement(394832..395212)	rpsM; 30S ribosomal protein S13
+bbg:BGIGA_369	CDS	complement(395221..395337)	rpmJ; 50S ribosomal protein L36
+bbg:BGIGA_370	CDS	complement(395356..395571)	infA; translation initiation factor IF-1
+bbg:BGIGA_371	CDS	complement(395618..397000)	secY; preprotein translocase subunit SecY
+bbg:BGIGA_372	CDS	complement(397011..397493)	rplO; 50S ribosomal protein L15
+bbg:BGIGA_373	CDS	complement(397486..397995)	rpsE; 30S ribosomal protein S5
+bbg:BGIGA_374	CDS	complement(398004..398330)	rplR; 50S ribosomal protein L18
+bbg:BGIGA_375	CDS	complement(398342..398890)	rplF; 50S ribosomal protein L6
+bbg:BGIGA_376	CDS	complement(398918..399307)	rpsH; 30S ribosomal protein S8
+bbg:BGIGA_377	CDS	complement(399324..399593)	rpsN; 30S ribosomal protein S14
+bbg:BGIGA_378	CDS	complement(399595..400146)	rplE; 50S ribosomal protein L5
+bbg:BGIGA_379	CDS	complement(400149..400385)	rplX; 50S ribosomal protein L24
+bbg:BGIGA_380	CDS	complement(400382..400753)	rplN; 50S ribosomal protein L14
+bbg:BGIGA_381	CDS	complement(400753..401037)	rpsQ; 30S ribosomal protein S17
+bbg:BGIGA_382	CDS	complement(401021..401233)	rhlE; 50S ribosomal protein L29
+bbg:BGIGA_383	CDS	complement(401230..401778)	rplP; 50S ribosomal protein L16
+bbg:BGIGA_384	CDS	complement(401687..402391)	rpsC; 30S ribosomal protein S3
+bbg:BGIGA_385	CDS	complement(402408..402770)	rplV; 50S ribosomal protein L22
+bbg:BGIGA_386	CDS	complement(402773..403054)	rpsS; 30S ribosomal protein S19
+bbg:BGIGA_387	CDS	complement(403069..403893)	rplB; 50S ribosomal protein L2
+bbg:BGIGA_388	CDS	complement(403893..404183)	rplW; 50S ribosomal protein L23
+bbg:BGIGA_389	CDS	complement(404194..404823)	rplD; 50S ribosomal protein L4
+bbg:BGIGA_390	CDS	complement(404814..405446)	rplC; 50S ribosomal protein L3
+bbg:BGIGA_391	CDS	complement(405452..405757)	rpsJ; 30S ribosomal protein S10
+bbg:BGIGA_392	CDS	complement(405760..407859)	fusA; translation elongation factor G
+bbg:BGIGA_393	CDS	complement(407877..408353)	rpsG; 30S ribosomal protein S7
+bbg:BGIGA_394	CDS	complement(408361..408738)	rpsL; 30S ribosomal protein S12
+bbg:BGIGA_395	CDS	complement(408808..409629)	map; methionyl aminopeptidase
+bbg:BGIGA_396	CDS	complement(409658..411190)	gpmM; phosphoglycerate mutase
+bbg:BGIGA_397	CDS	complement(411204..412019)	tsf; translation elongation factor EF-Ts
+bbg:BGIGA_398	CDS	complement(412016..412741)	rpsB; 30S ribosomal protein S2
+bbg:BGIGA_399	CDS	complement(412749..413126)	rpsI; 30S ribosomal protein S9
+bbg:BGIGA_400	CDS	complement(413123..413575)	rplM; 50S ribosomal protein L13
+bbg:BGIGA_401	CDS	413757..415658	dnaK; chaperone DnaK
+bbg:BGIGA_402	CDS	complement(415683..416348)	psd; phosphatidylserine decarboxylase
+bbg:BGIGA_403	CDS	complement(416400..417236)	cdsA; phosphatidate cytidylyltransferase
+bbg:BGIGA_404	CDS	complement(417249..419186)	hflB; AAA-metalloprotease FtsH
+bbg:BGIGA_405	CDS	complement(419225..419554)	hypothetical protein
+bbg:BGIGA_406	CDS	419658..420422	birA; biotin/lipoate A/B protein ligase
+bbg:BGIGA_407	CDS	complement(420485..422203)	yidC; inner membrane protein translocase component YidC
+bbg:BGIGA_408	CDS	complement(422193..423821)	pyrG; CTP synthase
+bbg:BGIGA_409	CDS	424129..425352	clpX; ATP-dependent protease ATP-binding subunit
+bbg:BGIGA_410	CDS	complement(425355..426347)	obgE; GTP-binding protein
+bbg:BGIGA_411	CDS	complement(426357..426935)	adk; adenylate kinase
+bbg:BGIGA_412	CDS	complement(427094..428494)	lpdA; dihydrolipoyl dehydrogenase
+bbg:BGIGA_413	CDS	428653..429315	fsaA; translaldolase
+bbg:BGIGA_414	CDS	complement(429316..429636)	hypothetical protein
+bbg:BGIGA_415	CDS	complement(430035..430544)	ftnA; ferroxidase
+bbg:BGIGA_416	CDS	complement(430556..431443)	dapA; dihydrodipicolinate synthase
+bbg:BGIGA_417	CDS	complement(431546..431818)	yfkA; RNA-binding protein
+bbg:BGIGA_418	CDS	432005..433177	pncB; nicotinate phosphoribosyltransferase
+bbg:BGIGA_419	CDS	433226..434560	miaB; MiaB family tRNA modification enzyme: 2-methylthioadenine synthetase
+bbg:BGIGA_420	CDS	434570..435820	fhlA; transcriptional regulator, sigma-54-related protein
+bbg:BGIGA_421	CDS	435810..436304	hypothetical protein
+bbg:BGIGA_422	CDS	436365..436619	secG; preprotein translocase subunit
+bbg:BGIGA_423	CDS	436722..437000	groES; chaperone GroES
+bbg:BGIGA_424	CDS	437047..438690	groEL; chaperone GroEL
+bbg:BGIGA_425	CDS	complement(438760..439269)	kdsC; hydrolase
+bbg:BGIGA_426	CDS	complement(439379..439774)	hypothetical protein
+bbg:BGIGA_427	CDS	complement(439850..441586)	mdlA; ABC transporter, ATP-binding and permease
+bbg:BGIGA_428	CDS	441689..442621	nusB; transcription antitermination factor NusB
+bbg:BGIGA_429	CDS	442645..442986	yajC; preprotein translocase subunit YajC
+bbg:BGIGA_430	CDS	442964..443593	coaE; dephospho-CoA kinase
+bbg:BGIGA_431	CDS	443601..443708	hypothetical protein
+bbg:BGIGA_432	CDS	complement(443710..444417)	hypothetical protein
+bbg:BGIGA_433	CDS	444503..445801	ndh; NADH dehydrogenase (quinone)
+bbg:BGIGA_434	CDS	complement(445794..446852)	entC; isochorismate synthase
+bbg:BGIGA_435	CDS	complement(446836..447291)	hypothetical protein
+bbg:BGIGA_436	CDS	447352..447894	idi; isopentenyl-diphosphate delta-isomerase
+bbg:BGIGA_437	CDS	447891..448304	sscR; 6-pyruvoyltetrahydropterin synthase
+bbg:BGIGA_438	CDS	448288..449394	gcvT; glycine cleavage system aminomethyltransferase T
+bbg:BGIGA_439	CDS	449546..450793	mdtK; Multi Antimicrobial Extrusion (MATE) family efflux pump
+bbg:BGIGA_440	CDS	450873..452516	deaD; ATP-dependent RNA helicase
+bbg:BGIGA_441	CDS	452530..453624	aroC; chorismate synthase
+bbg:BGIGA_442	CDS	453621..454559	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+bbg:BGIGA_443	tRNA	complement(454519..454594)	tRNA-Val-1; tRNA-Val
+bbg:BGIGA_444	CDS	complement(454610..455878)	folC; bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+bbg:BGIGA_445	CDS	455948..457651	glnS; glutamine-tRNA ligase
+bbg:BGIGA_446	CDS	complement(457667..461917)	rpoC; DNA-directed RNA polymerase subunit beta'
+bbg:BGIGA_447	CDS	complement(461942..465769)	rpoB; DNA-directed RNA polymerase subunit beta
+bbg:BGIGA_448	CDS	complement(465794..466165)	rplL; 50S ribosomal protein L7+L12
+bbg:BGIGA_449	CDS	complement(466212..466763)	rplJ; putative 50S ribosomal protein L10
+bbg:BGIGA_450	CDS	complement(466760..467455)	rplA; 50S ribosomal protein L1
+bbg:BGIGA_451	CDS	complement(467478..467918)	rpIK; 50S ribosomal protein L11
+bbg:BGIGA_452	CDS	complement(467926..468480)	nusG; transcription antitermination protein NusG
+bbg:BGIGA_453	CDS	complement(468477..468662)	secE; preprotein translocase subunit SecE
+bbg:BGIGA_454	tRNA	complement(468687..468759)	tRNA-Trp-1; tRNA-Trp
+bbg:BGIGA_455	CDS	complement(468790..469977)	tuf; translation elongation factor Tu
+bbg:BGIGA_456	tRNA	complement(470011..470082)	tRNA-Thr-1; tRNA-Thr
+bbg:BGIGA_457	tRNA	complement(470135..470207)	tRNA-Gly-1; tRNA-Gly
+bbg:BGIGA_458	tRNA	complement(470212..470295)	tRNA-Tyr-1; tRNA-Tyr
+bbg:BGIGA_459	tRNA	complement(470299..470372)	tRNA-Thr-2; tRNA-Thr
+bbg:BGIGA_460	CDS	complement(470468..470989)	lspA; signal peptidase II
+bbg:BGIGA_461	CDS	complement(471135..471533)	dksA; DnaK suppressor protein
+bbg:BGIGA_462	CDS	complement(471530..474997)	ileS; isoleucine-tRNA ligase
+bbg:BGIGA_463	CDS	475064..477637	mutS; DNA mismatch repair protein MutS
+bbg:BGIGA_464	tRNA	477674..477746	tRNA-Gly-2; tRNA-Gly
+bbg:BGIGA_465	tRNA	477759..477843	tRNA-Leu-4; tRNA-Leu
+bbg:BGIGA_466	CDS	complement(477847..479316)	guaB; inosine-5'-monophosphate dehydrogenase
+bbg:BGIGA_467	CDS	479516..479800	hypothetical protein
+bbg:BGIGA_468	CDS	complement(479853..480197)	rplS; 50S ribosomal protein L19
+bbg:BGIGA_469	CDS	complement(480204..481592)	manB; phosphoglucomutase/phosphomannomutase
+bbg:BGIGA_470	CDS	complement(481659..482876)	lipoprotein releasing system transmembrane protein
+bbg:BGIGA_471	CDS	complement(482895..484484)	dnaB; replicative DNA helicase
+bbg:BGIGA_472	CDS	complement(484502..485458)	accA; acetyl-CoA carboxylase subunit alpha
+bbg:BGIGA_473	CDS	complement(485486..486253)	sdhB; succinate dehydrogenase iron-sulfur subunit
+bbg:BGIGA_474	CDS	complement(486268..488286)	sdhA; succinate dehydrogenase flavoprotein subunit
+bbg:BGIGA_475	CDS	complement(488300..488896)	sdhC; succinate dehydrogenase cytochrome b subunit
+bbg:BGIGA_476	CDS	complement(489009..490169)	iscS; cysteine desulfurase
+bbg:BGIGA_477	CDS	490392..491963	phosphodiesterase
+bbg:BGIGA_478	CDS	491976..492950	dys1; putative deoxyhypusine synthase
+bbg:BGIGA_479	CDS	492993..494417	lpdA; dihydrolipoyl dehydrogenase
+bbg:BGIGA_480	CDS	complement(494430..495104)	ung; uracil-DNA glycosylase
+bbg:BGIGA_481	CDS	complement(495117..495446)	fdx1; 4Fe-4S ferredoxin iron-sulfur binding protein
+bbg:BGIGA_482	CDS	495462..496505	serC; phosphoserine transaminase
+bbg:BGIGA_483	CDS	complement(496494..497525)	ribD; bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase
+bbg:BGIGA_484	CDS	complement(497535..498314)	aroE; shikimate dehydrogenase
+bbg:BGIGA_485	CDS	complement(498342..498539)	rpsU; 30S ribosomal protein S21
+bbg:BGIGA_486	tRNA	complement(498570..498647)	tRNA-Val-2; tRNA-Val
+bbg:BGIGA_487	CDS	498697..500781	recG; ATP-dependent DNA helicase RecG
+bbg:BGIGA_488	CDS	500790..502916	uvrD; ATP-dependent DNA helicase
+bbg:BGIGA_489	CDS	502926..503933	fieF; cation diffusion facilitator family transporter
+bbg:BGIGA_490	CDS	503943..504539	hypothetical protein
+bbg:BGIGA_491	CDS	504553..505869	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+bbg:BGIGA_492	CDS	506165..506647	greA; transcription elongation factor GreA
+bbg:BGIGA_493	CDS	506640..507050	hinT; Hit-family protein
+bbg:BGIGA_494	CDS	complement(507058..507834)	yigI; pantothenate kinase/putatative Baf family transcriptional activator
+bbg:BGIGA_495	CDS	507918..508712	alpha/beta fold hydrolase
+bbg:BGIGA_496	CDS	508766..509362	ygfA; 5-formyltetrahydrofolate cyclo-ligase
+bbg:BGIGA_497	CDS	complement(509312..510646)	rseP; M50 family membrane-associated zinc metalloprotease precursor
+bbg:BGIGA_498	CDS	510709..510930	feoA; ferrous iron transport protein A
+bbg:BGIGA_499	CDS	510946..512967	feoB; ferrous iron transport protein B
+bbg:BGIGA_500	CDS	complement(513106..514092)	ddlA; D-Alanine-D-alanine ligase
+bbg:BGIGA_501	CDS	514131..515018	hypothetical protein
+bbg:BGIGA_502	CDS	515019..516023	rluD; ribosomal large subunit pseudouridine synthase D
+bbg:BGIGA_503	CDS	complement(516024..517457)	mgtE; Mg2+ transporter
+bbg:BGIGA_504	CDS	517474..520263	leuS; leucine-tRNA ligase
+bbg:BGIGA_505	CDS	520431..521861	gdhA; glutamate dehydrogenase (NADP+)
+bbg:BGIGA_506	CDS	521901..522617	pyrH; UMP kinase
+bbg:BGIGA_507	CDS	522622..523176	frr; ribosome recycling factor
+bbg:BGIGA_508	CDS	523178..524587	asnS; asparagine-tRNA ligase
+bbg:BGIGA_509	CDS	524593..526029	rpoN; RNA polymerase sigma-54 factor
+bbg:BGIGA_510	CDS	complement(526024..527382)	sad; succinate-semialdehyde dehydrogenase
+bbg:BGIGA_511	CDS	complement(527395..527838)	sufE; putative SufE Fe/S-cluster-related protein
+bbg:BGIGA_512	CDS	complement(527879..530155)	metE; 5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase
+bbg:BGIGA_513	CDS	complement(530257..531447)	putative sugar phosphate nucleotidyl transferase
+bbg:BGIGA_514	CDS	complement(531454..531708)	rpmE2; 50S ribosomal protein L31
+bbg:BGIGA_515	CDS	complement(531677..532813)	fabH; beta-ketoacyl-acyl-carrier-protein synthase III
+bbg:BGIGA_516	CDS	532925..533683	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+bbg:BGIGA_517	CDS	533704..535224	putative auxin-regulated protein
+bbg:BGIGA_518	CDS	535255..535518	rpsO; 30S ribosomal protein S15
+bbg:BGIGA_519	CDS	535625..537784	pnp; polyribonucleotide nucleotidyltransferase
+bbg:BGIGA_520	CDS	537781..538644	rpoD; RNA polymerase sigma-70 factor
+bbg:BGIGA_521	tRNA	complement(538653..538727)	tRNA-Arg-2; tRNA-Arg
+bbg:BGIGA_522	CDS	complement(538757..539515)	tpiA; triose-phosphate isomerase
+bbg:BGIGA_523	CDS	complement(539565..540056)	hypothetical protein
+bbg:BGIGA_524	CDS	540101..540934	folP; dihydropteroate synthase
+bbg:BGIGA_525	CDS	540957..541748	transmembrane protein
+bbg:BGIGA_526	CDS	541757..543061	murF; UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+bbg:BGIGA_527	CDS	543154..544158	acoA; pyruvate dehydrogenase E1 component subunit alpha
+bbg:BGIGA_528	CDS	544177..545316	aceF; dihydrolipoamide acyltransferase E2 component
+bbg:BGIGA_529	CDS	complement(545308..546018)	integral membrane protein TerC family
+bbg:BGIGA_530	CDS	complement(546030..547847)	msbA; lipid A export ATP-binding/permease protein MsbA
+bbg:BGIGA_531	CDS	547961..550690	secDF; bifunctional preprotein translocase subunit SecD/SecF
+bbg:BGIGA_532	CDS	550687..550953	tatA; Sec-independent-protein-translocase TatA/E
+bbg:BGIGA_533	CDS	complement(550962..553085)	ppiD; peptidylprolyl isomerase
+bbg:BGIGA_534	CDS	complement(553087..554352)	transmembrane CBS domain transporter
+bbg:BGIGA_535	CDS	complement(554354..554824)	hypothetical protein
+bbg:BGIGA_536	tRNA	554932..555004	tRNA-Phe-1; tRNA-Phe
+bbg:BGIGA_537	CDS	complement(555018..555524)	ompH; cationic outer membrane protein OmpH
+bbg:BGIGA_538	CDS	complement(555547..558078)	yaeT; outer membrane protein
+bbg:BGIGA_539	CDS	complement(558091..558822)	ispU; undecaprenyl diphosphate synthase
+bbg:BGIGA_540	CDS	complement(558883..559779)	ppnK; NAD+ kinase
+bbg:BGIGA_541	CDS	559903..560817	mvaK; mevalonate kinase
+bbg:BGIGA_542	CDS	560834..561568	rluB; pseudouridylate synthase (ribosomal large subunit pseudouridine synthase B)
+bbg:BGIGA_543	CDS	561546..561971	aroD; 3-dehydroquinate dehydratase
+bbg:BGIGA_544	CDS	complement(561938..562573)	engB; GTP-binding protein
+bbg:BGIGA_545	CDS	complement(562548..563336)	mhpC; 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid hydrolase
+bbg:BGIGA_546	CDS	complement(563351..564082)	rnc; ribonuclease III
+bbg:BGIGA_547	CDS	complement(564072..565331)	fabF; beta-ketoacyl-acyl-carrier-protein synthase II
+bbg:BGIGA_548	CDS	complement(565366..565638)	acpP; acyl carrier protein
+bbg:BGIGA_549	CDS	565727..567316	pck; phosphoenolpyruvate carboxykinase (ATP)
+bbg:BGIGA_550	CDS	complement(567331..567930)	ribC; riboflavin synthase subunit alpha
+bbg:BGIGA_551	CDS	567970..569010	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+bbg:BGIGA_552	CDS	complement(569005..569244)	atpC; ATP synthase F1 subunit epsilon
+bbg:BGIGA_553	CDS	complement(569267..570787)	atpD; ATP synthase F1 subunit beta
+bbg:BGIGA_554	CDS	570861..571802	ribF; bifunctional riboflavin kinase/FAD synthetase
+bbg:BGIGA_555	CDS	571783..574404	hypothetical protein
+bbg:BGIGA_556	CDS	complement(574398..575456)	leuB; 3-isopropylmalate dehydrogenase
+bbg:BGIGA_557	CDS	complement(575453..576052)	leuD; 3-isopropylmalate dehydratase small subunit
+bbg:BGIGA_558	CDS	complement(576027..577427)	leuC; 3-isopropylmalate dehydratase large subunit
+bbg:BGIGA_559	CDS	complement(577430..578632)	leuA; 2-isopropylmalate synthase
+bbg:BGIGA_560	CDS	578777..580339	hypothetical protein
+bbg:BGIGA_561	CDS	complement(580351..580725)	hypothetical protein
+bbg:BGIGA_562	CDS	580769..582049	tyrS; tyrosine-tRNA ligase
+bbg:BGIGA_563	gene	complement(582052..582938)	era; pseudogene
+bbg:BGIGA_564	CDS	complement(582953..585577)	clpB; chaperone ClpB
+bbg:BGIGA_565	CDS	585682..586779	prfB; peptide chain release factor 2
+bbg:BGIGA_566	CDS	586788..588179	speA; arginine decarboxylase
+bbg:BGIGA_567	CDS	588176..589054	speB; arginase
+bbg:BGIGA_568	CDS	589061..589756	cmk; cytidylate kinase
+bbg:BGIGA_569	CDS	589753..590487	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+bbg:BGIGA_570	CDS	590495..592174	menD; bifunctional 2-oxoglutarate decarboxylase/2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+bbg:BGIGA_571	CDS	complement(592163..592684)	SanA-like protein
+bbg:BGIGA_572	CDS	complement(592756..596052)	secA; preprotein translocase subunit SecA
+bbg:BGIGA_573	CDS	complement(596088..596321)	hypothetical protein
+bbg:BGIGA_574	CDS	596453..597421	fmt; methionyl-tRNA formyltransferase
+bbg:BGIGA_575	CDS	597523..597789	hupB; DNA-binding protein HU-beta
+bbg:BGIGA_576	CDS	complement(597845..598492)	pdxH; polyphosphate kinase
+bbg:BGIGA_577	tRNA	598591..598664	tRNA-Met-2; tRNA-Met
+bbg:BGIGA_578	CDS	598698..599837	dnaN; DNA polymerase III subunit beta
+bbg:BGIGA_579	CDS	599834..601915	pheT; phenylalanine-tRNA ligase subunit beta
+bbg:BGIGA_580	CDS	complement(601898..603331)	glyS; glycine-tRNA ligase
+bbg:BGIGA_581	CDS	complement(603337..604287)	trxB; thioredoxin-disulfide reductase
+bbg:BGIGA_582	CDS	604362..604796	hypothetical protein
+bbg:BGIGA_583	CDS	complement(604813..605817)	gapA; glyceraldehyde 3-phosphate dehydrogenase
+bbg:BGIGA_584	CDS	complement(605844..607694)	lepA; GTP-binding protein
+bbg:BGIGA_585	tRNA	complement(607670..607742)	tRNA-Arg-3; tRNA-Arg
+bbg:BGIGA_586	CDS	complement(607747..608337)	pth; aminoacyl-tRNA hydrolase
+bbg:BGIGA_587	CDS	complement(608334..609218)	sucD; succinyl-CoA ligase (ADP-forming) subunit alpha
+bbg:BGIGA_588	CDS	complement(609228..609836)	efp; elongation factor P
+bbg:BGIGA_589	CDS	complement(609823..611169)	bifunctional UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase/(3R)-hydroxymyristoyl-ACP dehydratase
+bbg:BGIGA_590	CDS	611481..611630	rpmH; 50S ribosomal protein L34
+bbg:BGIGA_591	CDS	complement(611633..612802)	M14 family carboxypeptidase
+bbg:BGIGA_592	CDS	612960..613757	sagE; CAAX amino terminal protease
+bbg:BGIGA_593	CDS	613809..614729	rnz; ribonuclease Z
+bbg:BGIGA_594	CDS	complement(614720..615913)	lolE; lipoprotein releasing system transmembrane protein
+bbg:BGIGA_595	CDS	complement(615917..616237)	nfsA; ribosome-binding factor A
+bbg:BGIGA_596	tRNA	616319..616392	tRNA-Met-3; tRNA-Met
+bbg:BGIGA_597	tRNA	complement(616404..616481)	tRNA-Arg-4; tRNA-Arg
+bbg:BGIGA_598	CDS	complement(616472..616735)	rpmA; 50S ribosomal protein L27
+bbg:BGIGA_599	CDS	complement(616737..617069)	rplU; 50S ribosomal protein L21
+bbg:BGIGA_600	CDS	complement(617077..618315)	sufS; cysteine desulfurase
+bbg:BGIGA_601	CDS	complement(618321..619613)	sufD; FeS assembly protein
+bbg:BGIGA_602	CDS	complement(619636..620382)	sufC; FeS assembly ATPase SufC
+bbg:BGIGA_603	CDS	complement(620424..621866)	sufB; cysteine desulfurase activator complex subunit
+bbg:BGIGA_604	CDS	complement(621867..622196)	sufA; scaffold protein for iron-sulfur cluster assembly
+bbg:BGIGA_605	CDS	complement(622263..622790)	hypothetical protein
+bbg:BGIGA_606	CDS	complement(622787..623668)	lgt; prolipoprotein diacylglyceryl transferase
+bbg:BGIGA_607	CDS	complement(623682..623900)	hypothetical protein
+bbg:BGIGA_608	CDS	complement(623909..626188)	acnA; aconitate hydratase
+bbg:BGIGA_609	CDS	complement(626220..626996)	alpha/beta fold family hydrolase
+bbg:BGIGA_610	CDS	complement(626980..627720)	pdxJ; pyridoxal phosphate biosynthetic protein
+bbg:BGIGA_611	CDS	complement(627714..628997)	mscS; MscS Mechanosensitive ion channel

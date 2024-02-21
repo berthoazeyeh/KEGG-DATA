@@ -1,0 +1,404 @@
+baj:BCTU_001	CDS	1..1938	gidA; glucose inhibited division protein A
+baj:BCTU_002	CDS	complement(2090..4495)	gyrB; DNA gyrase subunit B
+baj:BCTU_003	CDS	complement(4626..5732)	dnaN; DNA polymerase III, beta subunit
+baj:BCTU_004	CDS	complement(5763..7112)	dnaA; chromosomal replication initiator protein
+baj:BCTU_005	CDS	7489..7623	rpmH; 50S ribosomal protein L34
+baj:BCTU_006	CDS	7656..7991	rnpA; protein component of ribonuclease P
+baj:BCTU_007	CDS	8081..9721	yidC; putative inner membrane protein translocase component
+baj:BCTU_008	CDS	9809..11173	thdF; GTP-binding protein
+baj:BCTU_009	tRNA	complement(11227..11299)	trnF; tRNA-Phe
+baj:BCTU_010	CDS	11598..11891	groES; chaperone Hsp10
+baj:BCTU_011	CDS	12055..13713	groEL; chaperone Hsp60
+baj:BCTU_012	CDS	13938..14444	efp; elongation factor P
+baj:BCTU_013	CDS	complement(14491..15189)	dnaC; DNA replication protein
+baj:BCTU_014	CDS	complement(15641..16123)	yhhF; putative methyltransferase
+baj:BCTU_015	CDS	16530..17225	ftsY; signal recognition particle receptor
+baj:BCTU_016	CDS	17467..18342	rpoH; RNA polymerase sigma-32 factor
+baj:BCTU_017	CDS	18795..20903	metE; 5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase
+baj:BCTU_018	CDS	complement(21243..25505)	rpoC; DNA-directed RNA polymerase subunit beta
+baj:BCTU_019	CDS	complement(25547..29578)	rpoB; DNA-directed RNA polymerase subunit beta
+baj:BCTU_020	CDS	complement(29780..30148)	rplL; 50S ribosomal protein L12
+baj:BCTU_021	CDS	complement(30189..30689)	rplJ; 50S ribosomal protein L10
+baj:BCTU_022	CDS	complement(30886..31575)	rplA; 50S ribosomal protein L1
+baj:BCTU_023	CDS	complement(31579..32010)	rplK; 50S ribosomal protein L11
+baj:BCTU_024	CDS	complement(32112..32654)	nusG; transcription antitermination protein
+baj:BCTU_025	CDS	complement(32660..33058)	secE; preprotein translocase subunit SecE
+baj:BCTU_026	tRNA	complement(33267..33340)	trnT; tRNA-Thr
+baj:BCTU_027	tRNA	complement(33376..33447)	trnG; tRNA-Gly
+baj:BCTU_028	tRNA	complement(33477..33558)	trnY; tRNA-Tyr
+baj:BCTU_029	tRNA	complement(33561..33633)	trnT; tRNA-Thr
+baj:BCTU_030	CDS	34442..35194	metF; 5,10-methylenetetrahydrofolate reductase
+baj:BCTU_031	CDS	36232..37506	argG; argininosuccinate synthase
+baj:BCTU_032	CDS	37535..38866	argH; argininosuccinate lyase
+baj:BCTU_033	CDS	complement(39308..41152)	rpoD; RNA polymerase sigma-70 factor
+baj:BCTU_034	CDS	complement(41311..43053)	dnaG; DNA primase
+baj:BCTU_035	CDS	complement(43153..43368)	rpsU; 30S ribosomal protein S21
+baj:BCTU_036	CDS	43562..44482	gcp; putative O-sialoglycoprotein endopeptidase
+baj:BCTU_037	CDS	44728..46023	cca; tRNA nucleotidyltransferase
+baj:BCTU_038	CDS	46708..48756	lig; DNA ligase
+baj:BCTU_039	tRNA	complement(48761..48833)	trnK; tRNA-Lys
+baj:BCTU_040	tRNA	complement(48871..48943)	trnV; tRNA-Val
+baj:BCTU_041	CDS	49079..50500	gltX; glutamyl-tRNA synthetase
+baj:BCTU_042	CDS	51157..52830	fliF; flagellar basal-body MS-ring and collar protein
+baj:BCTU_043	CDS	52841..53764	fliG; flagellar motor switch protein
+baj:BCTU_044	CDS	53826..54509	fliH; soluble component of the flagellar export system
+baj:BCTU_045	CDS	54509..55876	fliI; flagellum-specific ATP synthase
+baj:BCTU_046	CDS	55972..56361	fliJ; soluble component of the flagellar export system
+baj:BCTU_047	CDS	56541..57905	fliM; flagellar motor switch protein, C-ring protein
+baj:BCTU_048	CDS	57982..58254	fliO; type III protein export, membrane component
+baj:BCTU_049	CDS	58335..59075	fliP; type III protein export, membrane component
+baj:BCTU_050	CDS	59160..59435	fliQ; type III protein export, membrane component
+baj:BCTU_051	CDS	59432..60205	fliR; type III protein export, membrane component
+baj:BCTU_052	CDS	complement(60341..60508)	rpmG; 50S ribosomal protein L33
+baj:BCTU_053	CDS	complement(60495..60746)	rpmB; 50S ribosomal protein L28
+baj:BCTU_054	CDS	complement(60840..61373)	ppa; inorganic pyrophosphatase
+baj:BCTU_055	CDS	61925..62881	pmbA; Putative modulator of DNA gyrase
+baj:BCTU_056	gene	complement(63356..64274)	yraL; pseudogene
+baj:BCTU_057	CDS	64557..65780	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I
+baj:BCTU_058	CDS	65864..66853	talA; transaldolase A
+baj:BCTU_059	CDS	66889..68889	tktB; transketolase
+baj:BCTU_060	CDS	68989..70122	dapE; succinyl-diaminopimelate desuccinylase
+baj:BCTU_061	CDS	complement(70387..71130)	dapA; dihydrodipicolinate synthase
+baj:BCTU_062	CDS	complement(71468..72547)	aroc; chorismate synthase
+baj:BCTU_063	CDS	72813..73391	yfcn; putative phage-like protein
+baj:BCTU_064	CDS	73725..74630	hisG; histidinol-phosphatase/imidazoleglycerol-phosphate dehydratase
+baj:BCTU_065	CDS	74639..75943	hisD; histidinol dehydrogenase
+baj:BCTU_066	CDS	75965..77032	hisC; histidinol-phosphate aminotransferase
+baj:BCTU_067	CDS	77037..77996	hisB; imidazole glycerol-phosphate dehydratase
+baj:BCTU_068	CDS	78099..78689	hisH; imidazole glycerol-phosphate synthase
+baj:BCTU_069	CDS	78693..79427	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+baj:BCTU_070	CDS	79409..80200	hisF; imidazole glycerol-phosphate synthase
+baj:BCTU_071	CDS	80179..80793	hisI; phosphoribosyl-AMP cyclohydrolase / phosphoribosyl-ATP pyrophosphohydrolase
+baj:BCTU_072	CDS	80943..82352	gnd; 6-phosphogluconate dehydrogenase
+baj:BCTU_073	CDS	82450..83910	metG; methionyl-tRNA synthetase
+baj:BCTU_074	CDS	complement(84225..85412)	mesJ; tRNA(Ile)-lysidine synthetase
+baj:BCTU_075	tRNA	complement(85462..85535)	trnV; tRNA-Val
+baj:BCTU_076	CDS	85700..86335	nth; endonuclease III
+baj:BCTU_077	CDS	86445..87731	tyrS; tyrosyl-tRNA synthetase
+baj:BCTU_078	CDS	complement(87751..88122)	sufA; Fe-S assembly scaffold protein
+baj:BCTU_079	CDS	89042..90040	aroH; phospho-2-dehydro-3-deoxyheptonate aldolase
+baj:BCTU_080	CDS	90305..92242	thrS; threonyl-tRNA synthetase
+baj:BCTU_081	CDS	92315..92785	infc; initiation factor IF-3
+baj:BCTU_082	CDS	92857..93054	rpmI; 50S ribosomal protein L35
+baj:BCTU_083	CDS	93114..93476	rplt; 50S ribosomal protein L20
+baj:BCTU_084	CDS	93601..94608	pheS; phenylalanyl-tRNA synthetase, alpha subunit
+baj:BCTU_085	CDS	94624..97020	phet; phenylalanyl-tRNA synthetase, beta subunit
+baj:BCTU_086	CDS	97025..97333	himA; integration host factor alpha subunit
+baj:BCTU_087	CDS	complement(97401..99554)	glyS; glycyl-tRNA synthetase, beta subunit
+baj:BCTU_088	CDS	complement(99594..100469)	glyQ; glycyl-tRNA synthetase, alpha subunit
+baj:BCTU_089	CDS	100654..101517	nfo; endonuclease IV with intrinsic 3'-5' exonuclease activity
+baj:BCTU_090	CDS	101637..101936	rplY; 50S ribosomal protein L25
+baj:BCTU_091	CDS	complement(102306..102977)	yabl; hypothetical protein
+baj:BCTU_092	CDS	103570..104403	ksgA; dimethyladenosine transferase
+baj:BCTU_093	CDS	104491..105144	apaH; diadenosine tetraphosphatase
+baj:BCTU_094	CDS	complement(105429..108500)	carB; carbamoyl-phosphate synthase large chain
+baj:BCTU_095	CDS	complement(108589..109812)	carA; carbamoyl-phosphate synthase small chain
+baj:BCTU_096	CDS	complement(109841..110683)	dapB; dihydrodipicolinate reductase
+baj:BCTU_097	CDS	complement(110950..113811)	ileS; isoleucyl-tRNA synthetase
+baj:BCTU_098	CDS	114225..114509	rpsT; 30S ribosomal protein S20
+baj:BCTU_099	CDS	complement(114610..115752)	dnaJ; chaperone Hsp40
+baj:BCTU_100	CDS	complement(115774..117777)	dnaK; chaperone Hsp70
+baj:BCTU_101	CDS	118158..118535	nuoA; NADH dehydrogenase I chain A
+baj:BCTU_102	CDS	118861..119277	nuoB; NADH dehydrogenase I chain B
+baj:BCTU_103	CDS	119444..121204	nuocD; NADH dehydrogenase I chain C; chain D
+baj:BCTU_104	CDS	121309..121716	nuoE; NADH dehydrogenase I chain E
+baj:BCTU_105	CDS	121719..123035	nuoF; NADH dehydrogenase I chain F
+baj:BCTU_106	CDS	123211..125910	nuoG; NADH dehydrogenase I chain G
+baj:BCTU_107	CDS	125910..126890	nuoH; NADH dehydrogenase I chain H
+baj:BCTU_108	CDS	126903..127448	nuoI; NADH dehydrogenase I chain I
+baj:BCTU_109	CDS	127463..127990	nuoJ; NADH dehydrogenase I chain J
+baj:BCTU_110	CDS	127991..128296	nuoK; NADH dehydrogenase I chain K
+baj:BCTU_111	CDS	128293..130122	nuoL; NADH dehydrogenase I chain L
+baj:BCTU_112	CDS	130317..131777	nuoM; NADH dehydrogenase I chain M
+baj:BCTU_113	CDS	132012..133259	nuoN; NADH dehydrogenase I chain N
+baj:BCTU_114	CDS	complement(133503..134447)	prsA; phosphoribosylpyrophosphate synthase
+baj:BCTU_115	CDS	134820..135896	prfA; peptide chain release factor 1
+baj:BCTU_116	CDS	135917..136750	hemK; N5-glutamine methyltransferase, release factors activity modulator
+baj:BCTU_117	CDS	137191..137751	ychA; hypothetical protein
+baj:BCTU_118	CDS	137949..139151	ackA; acetate kinase
+baj:BCTU_119	CDS	139372..140358	pta; phosphate acetyltransferase
+baj:BCTU_120	CDS	complement(140564..143035)	gyrA; DNA gyrase, subunit A
+baj:BCTU_121	CDS	complement(143283..143885)	ahpc; alkyl hydroperoxide reductase
+baj:BCTU_122	CDS	144059..144739	ung; uracil-DNA glycosylase
+baj:BCTU_123	tmRNA	145706..146091	ssrA; ssrA
+baj:BCTU_124	CDS	146300..146668	ydhD; hypothetical protein
+baj:BCTU_125	CDS	complement(146700..147374)	rnt; exoribonuclease T
+baj:BCTU_126	CDS	147564..148145	pth; peptidyl-tRNA hydrolase
+baj:BCTU_127	CDS	148208..149299	ychF; GTP-binding protein
+baj:BCTU_128	CDS	complement(149393..150682)	thrc; threonine synthase
+baj:BCTU_129	CDS	complement(150669..151619)	thrB; homoserine kinase
+baj:BCTU_130	CDS	complement(151638..154094)	thrA; aspartokinase I / homoserine dehydrogenase I
+baj:BCTU_131	gene	complement(154748..155791)	pcnB; pseudogene
+baj:BCTU_132	CDS	complement(156215..156682)	dksA; dnaK suppressor protein
+baj:BCTU_133	CDS	157005..157799	truA; pseudouridylate synthase I
+baj:BCTU_134	CDS	158095..160587	secA; preprotein translocase subunit (ATPase)
+baj:BCTU_135	CDS	161128..163767	aceE; pyruvate dehydrogenase E1 component
+baj:BCTU_136	CDS	163797..165050	aceF; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase)
+baj:BCTU_137	CDS	165141..166556	lpdA; pyruvate and 2-oxoglutarate dehydrogenase E3 component (dihydrolipoamide dehydrogenase)
+baj:BCTU_138	CDS	complement(167103..167441)	yadr; hypothetical protein, hesB/yadR/yfhF family
+baj:BCTU_139	CDS	complement(167731..168852)	ftsZ; cytoskeletal cell division protein
+baj:BCTU_140	CDS	complement(168911..169690)	ftsA; ATP-binding cell division protein
+baj:BCTU_141	CDS	complement(171549..172469)	yabc; S-adenosyl-dependent methyl transferase
+baj:BCTU_142	CDS	complement(172584..173096)	ilvH; acetolactate synthase III, small subunit
+baj:BCTU_143	CDS	complement(173218..174942)	ilvI; acetolactate synthase III, large subunit
+baj:BCTU_144	CDS	complement(175154..175942)	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+baj:BCTU_145	CDS	complement(176118..176909)	map; methionine aminopeptidase
+baj:BCTU_146	CDS	177339..178055	rpsB; 30S ribosomal protein S2
+baj:BCTU_147	CDS	178176..178982	tsf; elongation factor Ts
+baj:BCTU_148	CDS	179740..180183	frr; ribosome recycling factor
+baj:BCTU_149	CDS	180710..183139	yaeT; outer membrane protein precursor
+baj:BCTU_150	CDS	183196..183636	fabZ; (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+baj:BCTU_151	CDS	183813..187337	dnaE; DNA polymerase III, alpha subunit
+baj:BCTU_152	CDS	complement(187381..188958)	proS; prolyl-tRNA synthetase
+baj:BCTU_153	CDS	189444..190565	flhB; type III protein export, membrane component
+baj:BCTU_154	CDS	190662..192539	flhA; type III protein export, membrane component
+baj:BCTU_155	CDS	complement(192801..194426)	argS; arginyl-tRNA synthetase
+baj:BCTU_156	rRNA	194858..196309	rrsA; 16S ribosomal RNA
+baj:BCTU_157	tRNA	196423..196496	trnI; tRNA-Ile
+baj:BCTU_158	tRNA	196535..196607	trnA; tRNA-Ala
+baj:BCTU_159	CDS	complement(196835..197377)	gloB; probable hydroxyacylglutathione hydrolase
+baj:BCTU_160	CDS	complement(197450..197905)	rnhA; ribonuclease H
+baj:BCTU_161	CDS	197965..198675	dnaQ; DNA polymerase III, epsilon subunit
+baj:BCTU_162	tRNA	198732..198805	trnD; tRNA-Asp
+baj:BCTU_163	CDS	198944..199546	grpE1; Hsp 24 nucleotide exchange factor
+baj:BCTU_164	CDS	199664..200137	smpB; tmRNA-binding protein
+baj:BCTU_165	CDS	200198..200671	tadA; tRNA-specific adenosine deaminase
+baj:BCTU_166	CDS	complement(200692..201072)	acpS; holo-[acyl-carrier protein] synthase
+baj:BCTU_167	CDS	complement(201117..201959)	era; GTP-binding protein
+baj:BCTU_168	CDS	complement(201965..202645)	rnc; ribonuclease III
+baj:BCTU_169	CDS	complement(202745..203653)	lepB; signal peptidase I
+baj:BCTU_170	CDS	complement(203674..205461)	lepA; GTP-binding elongation factor
+baj:BCTU_171	CDS	205807..206922	trmU; tRNA (5-methylaminomethyl-2-thiouridylate) methyltransferase
+baj:BCTU_172	CDS	207067..207843	fabI; NADH-dependent enoyl-ACP reductase
+baj:BCTU_173	CDS	207997..209943	rnb; exoribonuclease II
+baj:BCTU_174	CDS	210064..210735	ychE; putative channel protein
+baj:BCTU_175	CDS	210809..211444	lipB; lipoate-protein ligase B
+baj:BCTU_176	CDS	211511..212308	lipA; lipoic acid synthetase (FeS enzyme)
+baj:BCTU_177	CDS	complement(212731..214596)	sppA; protease IV, a signal peptide peptidase
+baj:BCTU_178	CDS	complement(214997..215407)	yciA; Putative acyl-CoA thioester hydrolase
+baj:BCTU_179	CDS	complement(215594..216346)	ycic; hypothetical protein
+baj:BCTU_180	CDS	complement(216744..217349)	trpA; tryptophan synthase alpha chain
+baj:BCTU_181	CDS	complement(217333..218535)	trpB; tryptophan synthase beta chain
+baj:BCTU_182	CDS	complement(218559..219935)	trpc; indole-3-glycerol phosphate synthase (IGPS) / N-(5'-phospho-ribosyl)anthranilate isomerase (PRAI)
+baj:BCTU_183	CDS	complement(219935..220948)	trpD; anthranilate synthase component II
+baj:BCTU_184	CDS	221224..222108	yedA; putative transmembrane protein
+baj:BCTU_185	CDS	222108..222842	yciL; ribosomal large subunit pseudouridine synthase B
+baj:BCTU_186	CDS	complement(223091..223726)	suhB; inositol monophosphatase
+baj:BCTU_187	CDS	224078..225169	yfgB; putative pyruvate formate lyase activating enzyme
+baj:BCTU_188	CDS	225485..226600	hisS; histidyl-tRNA synthetase
+baj:BCTU_189	CDS	226660..227823	glyA; glycine hydroxymethyltransferase
+baj:BCTU_190	CDS	complement(228647..230707)	mfd; transcription-repair coupling factor
+baj:BCTU_191	CDS	231287..232285	gapA; glyceraldehyde 3-phosphate dehydrogenase
+baj:BCTU_192	CDS	complement(232414..232860)	fldA; flavodoxin
+baj:BCTU_193	CDS	233503..233925	ybgI; putative hydrolase oxidase
+baj:BCTU_194	CDS	234365..237190	sucA; 2-oxoglutarate dehydrogenase E1 component
+baj:BCTU_195	CDS	237206..238393	sucB; 2-oxoglutarate dehydrogenase E2 component
+baj:BCTU_196	CDS	238694..239389	gpmA; phosphoglycerate mutase
+baj:BCTU_197	CDS	239588..240550	pfkA; 6-phosphofructokinase
+baj:BCTU_198	CDS	complement(240730..241494)	tpiA; triose phosphate isomerase
+baj:BCTU_199	CDS	complement(241621..241908)	himD; integration host factor beta subunit
+baj:BCTU_200	CDS	complement(241991..243601)	rpsA; 30S ribosomal protein S1
+baj:BCTU_201	CDS	complement(244214..245545)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+baj:BCTU_202	CDS	complement(245579..246664)	serC; phosphoserine aminotransferase
+baj:BCTU_203	CDS	complement(246785..248092)	serS; seryl-tRNA synthetase
+baj:BCTU_204	CDS	248613..249575	trxB; thioredoxin reductase
+baj:BCTU_205	CDS	249650..249865	infA; initiation factor IF-1
+baj:BCTU_206	CDS	249941..251665	aspS; aspartyl-tRNA synthetase
+baj:BCTU_207	CDS	251771..252484	yebC; hypothetical protein
+baj:BCTU_208	CDS	complement(252836..254218)	pykA; pyruvate kinase
+baj:BCTU_209	CDS	255117..256007	htpX; heat shock protein, peptidase family M48
+baj:BCTU_210	CDS	257175..257894	yeaZ; putative glycoprotein endopeptidase
+baj:BCTU_211	CDS	complement(257928..258179)	minE; cell division topological specificity factor
+baj:BCTU_212	CDS	complement(258183..258995)	minD; septum site-determining protein
+baj:BCTU_213	CDS	complement(259026..259736)	minc; cell division inhibitor
+baj:BCTU_214	CDS	259945..260976	rsmc; 16S RNA G1207 methylase
+baj:BCTU_215	tRNA	complement(260994..261078)	trnL; tRNA-Leu
+baj:BCTU_216	tRNA	complement(261110..261180)	trnC; tRNA-Cys
+baj:BCTU_217	tRNA	complement(261214..261298)	trnS; tRNA-Ser
+baj:BCTU_218	CDS	complement(261751..262377)	ompA; outer membrane protein A precursor
+baj:BCTU_219	CDS	complement(262678..264228)	mviN; virulence factor MviN-like protein
+baj:BCTU_220	CDS	265090..265479	flgB; flagellar basal-body rod protein
+baj:BCTU_221	CDS	265485..265910	flgC; flagellar basal-body rod protein
+baj:BCTU_222	CDS	266142..266906	flgF; flagellar basal-body rod protein
+baj:BCTU_223	CDS	266940..267728	flgG; flagellar basal-body rod protein
+baj:BCTU_224	CDS	267763..268428	flgH; flagellar L-ring protein precursor
+baj:BCTU_225	CDS	268511..269278	flgI; flagellar P-ring protein precursor
+baj:BCTU_226	CDS	269859..270821	rluC; ribosomal large subunit pseudouridine synthase C
+baj:BCTU_227	CDS	270913..271083	rpmF; 50S ribosomal protein L32
+baj:BCTU_228	CDS	271269..272195	fabD; malonyl CoA-acyl carrier protein transacylase
+baj:BCTU_229	CDS	272192..272929	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+baj:BCTU_230	CDS	273005..273241	acpP; acyl carrier protein
+baj:BCTU_231	CDS	273395..274390	holB; DNA polymerase III, delta subunit
+baj:BCTU_232	CDS	274408..275175	ycfH; putative deoxyribonuclease
+baj:BCTU_233	CDS	275231..275587	ycfF; hypothetical protein
+baj:BCTU_234	CDS	complement(276095..277465)	asnS; asparaginyl-tRNA synthetase
+baj:BCTU_235	gene	277837..279496	uup; pseudogene
+baj:BCTU_236	CDS	complement(279808..280740)	yceA; hypothetical protein
+baj:BCTU_237	CDS	complement(280811..283684)	valS; valyl-tRNA synthetase
+baj:BCTU_238	CDS	complement(283775..285286)	pepA; aminopeptidase A
+baj:BCTU_239	CDS	285555..286559	argF; ornithine carbamoyltransferase chain F
+baj:BCTU_240	CDS	286647..287033	yhar; hypothetical protein
+baj:BCTU_241	CDS	complement(287065..288876)	deaD; ATP-dependent RNA helicase
+baj:BCTU_242	CDS	complement(289177..291261)	pnp; polyribonucleotide nucleotidyltransferase
+baj:BCTU_243	CDS	complement(291498..291764)	rpsO; 30S ribosomal protein S15
+baj:BCTU_244	CDS	complement(291843..292772)	truB; tRNA pseudouridine 55 synthetase
+baj:BCTU_245	CDS	complement(292819..293172)	rbfA; ribosome-binding factor A
+baj:BCTU_246	CDS	complement(293235..295196)	infB; initiation factor IF-2
+baj:BCTU_247	CDS	complement(295772..297271)	nusA; transcription elongation factor
+baj:BCTU_248	tRNA	complement(297562..297649)	trnL; tRNA-Leu
+baj:BCTU_249	CDS	complement(298299..300110)	hflB; ATP-dependent protease
+baj:BCTU_250	CDS	complement(300237..300791)	ftsJ; ribosomal methytransferase
+baj:BCTU_251	CDS	complement(301031..301492)	greA; transcription elongation factor
+baj:BCTU_252	CDS	301981..302181	yrba; putative transcriptional regulator
+baj:BCTU_253	CDS	303012..303326	rpmA; 50S ribosomal protein L21
+baj:BCTU_254	CDS	303339..303563	rplU; 50S ribosomal protein L27
+baj:BCTU_255	CDS	303690..304646	yhbZ; GTP-binding protein
+baj:BCTU_256	CDS	complement(304903..305298)	rpsI; 30S ribosomal protein S9
+baj:BCTU_257	CDS	complement(305329..305757)	rplM; 50S ribosomal protein L13
+baj:BCTU_258	CDS	306046..307206	pheA; chorismate mutase
+baj:BCTU_259	CDS	307356..308696	ffh; protein component of signal recognition particle (SRP)
+baj:BCTU_260	CDS	308797..309051	rpsP; 30S ribosomal protein S16
+baj:BCTU_261	CDS	309056..309568	rimM; 16S rRNA-processing protein
+baj:BCTU_262	CDS	309594..310310	trmD; tRNA (guanine-N1)-methyltransferase
+baj:BCTU_263	CDS	310345..310692	rplS; 50S ribosomal protein L19
+baj:BCTU_264	CDS	complement(310791..312245)	tldD; predicted Zn-dependent protease
+baj:BCTU_265	CDS	312632..313078	aroQ; 3-dehydroquinate dehydratase
+baj:BCTU_266	CDS	complement(313584..314549)	rluD; ribosomal large subunit pseudouridine synthase D
+baj:BCTU_267	CDS	314746..317388	alaS; alanyl-tRNA synthetase
+baj:BCTU_268	CDS	317528..317710	csrA; carbon storage regulator
+baj:BCTU_269	tRNA	317965..318051	trnS; tRNA-Ser
+baj:BCTU_270	tRNA	318117..318190	trnR; tRNA-Arg
+baj:BCTU_271	CDS	318292..319053	yggJ; 16S rRNA methyltransferase
+baj:BCTU_272	CDS	complement(319091..319384)	zapA; cell division protein
+baj:BCTU_273	CDS	complement(319439..320101)	rpiA; ribose 5-phosphate isomerase
+baj:BCTU_274	tRNA	complement(320348..320419)	trnQ; tRNA-Gln
+baj:BCTU_275	tRNA	complement(320474..320555)	trnL; tRNA-Leu
+baj:BCTU_276	tRNA	complement(320630..320703)	trnM; tRNA-Met
+baj:BCTU_277	CDS	320930..322591	glnS; glutaminyl-tRNA synthetase
+baj:BCTU_278	CDS	322764..324083	eno; enolase
+baj:BCTU_279	CDS	324355..326952	polA; 5'-3' exonuclease domain of DNA polymerase I
+baj:BCTU_280	CDS	complement(326873..327643)	engB; putative GTPase, involved in coordination of cell cycle
+baj:BCTU_281	CDS	327846..329663	typA; GTP-binding elongation factor family protein
+baj:BCTU_282	CDS	complement(329976..330944)	ygfZ; folate-binding protein
+baj:BCTU_283	CDS	331229..332323	prfB; peptide chain release factor RF-2
+baj:BCTU_284	CDS	332335..333888	lysS; lysyl-tRNA synthetase
+baj:BCTU_285	CDS	333981..335228	lysA; diaminopimelate decarboxylase
+baj:BCTU_286	CDS	335416..336762	miaB; bifunctional enzyme involved in thiolation and methylation of tRNA
+baj:BCTU_287	CDS	336847..337173	ybeY; conserved hypothetical protein, Predicted metal-dependent hydrolase
+baj:BCTU_288	CDS	337437..339998	leuS; leucyl-tRNA synthetase
+baj:BCTU_289	gene	340106..341101	holA; pseudogene
+baj:BCTU_290	CDS	341299..341538	sirA; two-component response regulator
+baj:BCTU_291	CDS	complement(341582..342697)	asd; aspartate-semialdehyde dehydrogenase
+baj:BCTU_292	CDS	343098..343700	yhgn; putative integral membrane protein
+baj:BCTU_293	CDS	343756..344910	pgk; phosphoglycerate kinase
+baj:BCTU_294	CDS	344983..346065	fba; fructose-1,6-bisphosphate aldolase
+baj:BCTU_295	CDS	346250..346909	yggB; component of the MscS (small mechanosensitive ion channel)
+baj:BCTU_296	CDS	347409..350309	recC; exodeoxyribonuclease V, gamma chain
+baj:BCTU_297	gene	350329..353856	recB; pseudogene
+baj:BCTU_298	gene	353852..355698	recD; pseudogene
+baj:BCTU_299	tRNA	complement(355856..355929)	trnM; tRNA-Met
+baj:BCTU_300	CDS	356142..356570	nusB; transcription antitermination protein
+baj:BCTU_301	CDS	356964..357275	yccK; putative sulfite reductase subunit protein
+baj:BCTU_302	CDS	complement(357277..358197)	cyoE; protoheme IX farnesyltransferase
+baj:BCTU_303	CDS	complement(358543..359166)	cyoC; cytochrome o ubiquinol oxidase subunit III
+baj:BCTU_304	CDS	complement(359169..361151)	cyoB; cytochrome o ubiquinol oxidase subunit I
+baj:BCTU_305	CDS	complement(361206..362075)	cyoA; cytochrome o ubiquinol oxidase subunit II
+baj:BCTU_306	CDS	362397..362720	bolA; transcriptional activator of morphogenic pathway
+baj:BCTU_307	CDS	363226..363747	clpP; ATP-dependent Clp protease proteolytic subunit
+baj:BCTU_308	CDS	363913..365151	clpX; ATP-dependent protease ATP-binding subunit ClpX
+baj:BCTU_309	CDS	365296..367656	lon; ATP-dependent protease LA
+baj:BCTU_310	gene	367806..369682	ppiD; pseudogene
+baj:BCTU_311	CDS	369986..371077	dnaX; DNA polymerase III gamma and tau subunits
+baj:BCTU_312	CDS	371335..371559	ybaB; hypothetical protein
+baj:BCTU_313	CDS	371724..373601	htpG; heat shock protein 90
+baj:BCTU_314	CDS	373673..374320	adk; adenylate kinase
+baj:BCTU_315	tRNA	complement(374336..374409)	trnR; tRNA-Arg
+baj:BCTU_316	CDS	374592..375458	folD; 5,10-methylene-tetrahydrofolate dehydrogenase
+baj:BCTU_317	CDS	complement(375466..376893)	cysS; cysteinyl-tRNA synthetase
+baj:BCTU_318	CDS	377300..377551	yebD; hypothetical protein
+baj:BCTU_319	CDS	complement(377630..377839)	cspE; cold shock protein CspE
+baj:BCTU_320	rRNA	complement(378031..378147)	rrfA; 5S ribosomal RNA
+baj:BCTU_321	rRNA	378181..381105	rrlA; 23S ribosomal RNA
+baj:BCTU_322	tRNA	complement(381238..381309)	trnE; tRNA-Glu
+baj:BCTU_323	gene	complement(381454..381908)	aroE; pseudogene
+baj:BCTU_324	CDS	382485..382820	def; polypeptide deformylase
+baj:BCTU_325	CDS	383222..383902	fmt; methionyl-tRNA formyltransferase
+baj:BCTU_326	CDS	complement(384026..384388)	rplQ; 50S ribosomal protein L17
+baj:BCTU_327	CDS	complement(384441..385430)	rpoA; RNA polymerase, alpha subunit
+baj:BCTU_328	CDS	complement(385461..386081)	rpsD; 30S ribosomal protein S4
+baj:BCTU_329	CDS	complement(386111..386524)	rpsK; 30S ribosomal protein S11
+baj:BCTU_330	CDS	complement(386521..386886)	rpsM; 30S ribosomal protein S13
+baj:BCTU_331	CDS	complement(387009..387125)	rpmJ; 50S ribosomal protein L36
+baj:BCTU_332	CDS	complement(387155..388447)	secY; preprotein translocase subunit SecY
+baj:BCTU_333	CDS	complement(388496..388930)	rplO; 50S ribosomal protein L15
+baj:BCTU_334	CDS	complement(388921..389115)	rpmD; 50S ribosomal subunit protein L30
+baj:BCTU_335	CDS	complement(389131..389631)	rpsE; 30S ribosomal protein S5
+baj:BCTU_336	CDS	complement(389651..390019)	rplR; 50S ribosomal protein L18
+baj:BCTU_337	CDS	complement(390021..390563)	rplF; 50S ribosomal protein L6
+baj:BCTU_338	CDS	complement(390589..390981)	rpsH; 30S ribosomal protein S8
+baj:BCTU_339	CDS	complement(391030..391335)	rpsN; 30S ribosomal protein S14
+baj:BCTU_340	CDS	complement(391375..391956)	rplE; 50S ribosomal protein L5
+baj:BCTU_341	CDS	complement(392005..392253)	rplX; 50S ribosomal protein L24
+baj:BCTU_342	CDS	392232..392639	rplN; 50S ribosomal protein L14
+baj:BCTU_343	CDS	complement(392757..393008)	rpsQ; 30S ribosomal protein S17
+baj:BCTU_344	CDS	complement(393005..393196)	rpmC; 50S ribosomal protein L29
+baj:BCTU_345	CDS	complement(393200..393610)	rplP; 50S ribosomal protein L16
+baj:BCTU_346	CDS	complement(393639..394328)	rpsC; 30S ribosomal protein S3
+baj:BCTU_347	CDS	complement(394331..394681)	rplV; 50S ribosomal protein L22
+baj:BCTU_348	CDS	complement(394710..394988)	rpsS; 30S ribosomal protein S19
+baj:BCTU_349	CDS	complement(394972..395823)	rplB; 50S ribosomal protein L2
+baj:BCTU_350	CDS	complement(395837..396139)	rplW; 50S ribosomal protein L23
+baj:BCTU_351	CDS	complement(396136..396741)	rplD; 50S ribosomal protein L4
+baj:BCTU_352	CDS	complement(396755..397390)	rplc; 50S ribosomal protein L3
+baj:BCTU_353	CDS	complement(397441..397752)	rpsJ; 30S ribosomal protein S10
+baj:BCTU_354	CDS	complement(398048..399232)	tufB; elongation factor EF-Tu
+baj:BCTU_355	CDS	complement(399286..401397)	fusA; elongation factor G
+baj:BCTU_356	CDS	complement(401506..401976)	rpsG; 30S ribosomal protein S7
+baj:BCTU_357	CDS	complement(402000..402374)	rpsL; 30S ribosomal protein S12
+baj:BCTU_358	CDS	complement(402465..402752)	yheL; sulfur transfer complex subunit TusB
+baj:BCTU_359	CDS	complement(402758..403117)	yheM; sulfur transfer complex subunit TusC
+baj:BCTU_360	CDS	complement(403138..403524)	yheN; sulfur transfer complex subunit TusD
+baj:BCTU_361	CDS	complement(403998..404894)	trpS; tryptophanyl-tRNA synthetase
+baj:BCTU_362	CDS	complement(405086..405754)	rpe; ribulose-phosphate 3-epimerase
+baj:BCTU_363	CDS	complement(405861..406973)	aroB; 3-dehydroquinate synthase
+baj:BCTU_364	CDS	complement(407007..407519)	aroK; shikimate kinase I
+baj:BCTU_365	tRNA	407836..407922	trnS; tRNA-Ser
+baj:BCTU_366	CDS	complement(407987..408568)	yhgI; iron-sulfur cluster scaffold protein
+baj:BCTU_367	CDS	408701..409471	bioH; carboxylesterase
+baj:BCTU_368	CDS	complement(409566..410102)	ssb; single-strand DNA-binding protein
+baj:BCTU_369	CDS	410435..411415	dusA; tRNA-dihydrouridine synthase A
+baj:BCTU_370	CDS	411559..412953	dnaB; replicative DNA helicase
+baj:BCTU_371	CDS	complement(413813..414478)	yggH; hypothetical protein
+baj:BCTU_372	CDS	414464..415684	mutY; A/G-specific adenine glycosylase
+baj:BCTU_373	gene	complement(416070..417505)	sbcB; pseudogene
+baj:BCTU_374	tRNA	complement(417558..417630)	trnN; tRNA-Asn
+baj:BCTU_375	tRNA	417826..417898	trnM; tRNA-Met
+baj:BCTU_376	CDS	complement(417929..418351)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+baj:BCTU_377	CDS	complement(418449..418904)	rplI; 50S ribosomal protein L9
+baj:BCTU_378	CDS	complement(418979..419206)	rpsR; 30S ribosomal protein S18
+baj:BCTU_379	CDS	complement(419329..419679)	rpsF; 30S ribosomal protein S6
+baj:BCTU_380	CDS	complement(419932..420906)	miaA; delta(2)-isopentenylpyrophosphate tRNA-adenosine transferase
+baj:BCTU_381	CDS	421722..422225	orn; oligoribonuclease
+baj:BCTU_382	tRNA	422303..422375	trnG; tRNA-Gly
+baj:BCTU_383	CDS	complement(422657..422863)	rpmE; 50S ribosomal protein L31
+baj:BCTU_384	CDS	423141..423671	hslV; ATP-dependent protease peptidase subunit
+baj:BCTU_385	CDS	423685..425022	hslU; ATP-dependent protease ATP-binding subunit HslU
+baj:BCTU_386	CDS	425686..426426	fpr; ferredoxin--NADP reductase
+baj:BCTU_387	gene	complement(426548..427807)	yba; pseudogene
+baj:BCTU_388	CDS	complement(428434..429279)	dapF; diaminopimelate epimerase
+baj:BCTU_389	tRNA	complement(429547..429620)	trnP; tRNA-Pro
+baj:BCTU_390	tRNA	complement(429693..429765)	trnH; tRNA-His
+baj:BCTU_391	tRNA	complement(429796..429869)	trnR; tRNA-Arg
+baj:BCTU_392	CDS	complement(430114..431373)	rho; transcription termination factor
+baj:BCTU_393	CDS	complement(431600..431944)	trxA; thioredoxin
+baj:BCTU_394	CDS	complement(432049..434088)	rep; ATP-dependent DNA helicase
+baj:BCTU_395	CDS	complement(434114..435580)	ilvC; ketol-acid reductoisomerase
+baj:BCTU_396	CDS	complement(435680..437533)	ilvD; dihydroxy-acid dehydratase
+baj:BCTU_397	tRNA	complement(437821..437894)	trnW; tRNA-Trp
+baj:BCTU_398	CDS	438176..439360	iscS; cysteine desulfurase
+baj:BCTU_399	CDS	439408..439773	iscU; putative Fe-S assembly protein
+baj:BCTU_400	CDS	439929..440426	hscB; chaperone protein HscB
+baj:BCTU_401	CDS	440436..441956	hscA; heat shock protein HscA
+baj:BCTU_402	CDS	442072..442413	fdx; ferredoxin
+baj:BCTU_403	CDS	complement(442426..443823)	engA; GTP-binding protein
+baj:BCTU_404	CDS	complement(443873..444358)	yfgM; hypothetical protein

@@ -1,0 +1,591 @@
+buh:BUAMB_pTrp001	CDS	pTrp:465..2042	trpE; anthranilate synthase component I
+buh:BUAMB_pTrp002	CDS	pTrp:2045..2662	trpG; anthranilate synthase component II
+buh:BUAMB_pTrp003	gene	pTrp:4180..4641	trpE2; pseudogene
+buh:BUAMB_pTrp004	gene	pTrp:4644..4808	trpG2; pseudogene
+buh:BUAMB_pLeu001	CDS	pLeu:complement(315..1166)	repA1; replication-associated protein RepA1
+buh:BUAMB_pLeu002	CDS	pLeu:1414..1917	yqhA; hypothetical protein
+buh:BUAMB_pLeu003	CDS	pLeu:2064..2807	repA2; replication-associated protein RepA2
+buh:BUAMB_pLeu004	CDS	pLeu:2948..4498	leuA; 2-isopropylmalate synthase
+buh:BUAMB_pLeu005	CDS	pLeu:4546..5637	leuB; 3-isopropylmalate dehydrogenase
+buh:BUAMB_pLeu006	CDS	pLeu:5639..7057	leuC; isopropylmalate isomerase large subunit
+buh:BUAMB_pLeu007	CDS	pLeu:7060..7689	leuD; isopropylmalate isomerase small subunit
+buh:BUAMB_001	CDS	201..2084	mnmG; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+buh:BUAMB_002	CDS	2281..3105	atpB; F0F1 ATP synthase subunit A
+buh:BUAMB_003	CDS	3143..3382	atpE; F0F1 ATP synthase subunit C
+buh:BUAMB_004	CDS	3524..4033	atpF; F0F1 ATP synthase subunit B
+buh:BUAMB_005	CDS	4008..4541	atpH; F0F1 ATP synthase subunit delta
+buh:BUAMB_006	CDS	4553..6094	atpA; F0F1 ATP synthase subunit alpha
+buh:BUAMB_007	CDS	6127..6999	atpG; F0F1 ATP synthase subunit gamma
+buh:BUAMB_008	CDS	7029..8426	atpD; F0F1 ATP synthase subunit beta
+buh:BUAMB_009	CDS	8453..8869	atpC; F0F1 ATP synthase subunit epsilon
+buh:BUAMB_010	CDS	complement(8934..11342)	gyrB; DNA gyrase subunit B
+buh:BUAMB_011	CDS	complement(11392..12498)	dnaN; DNA polymerase III beta chain
+buh:BUAMB_012	CDS	complement(12503..13867)	dnaA; chromosomal replication initiation protein
+buh:BUAMB_013	CDS	14319..14462	rpmH; 50S ribosomal protein L34
+buh:BUAMB_014	CDS	14478..14822	rnpA; ribonuclease P protein component
+buh:BUAMB_015	CDS	15012..16625	yidC; 60 kDa inner-membrane protein
+buh:BUAMB_016	CDS	16680..18041	mnmE; tRNA modification GTPase TrmE
+buh:BUAMB_017	tRNA	complement(18078..18150)	tRNA-Phe
+buh:BUAMB_018	CDS	18419..18709	groES; co-chaperonin GroES
+buh:BUAMB_019	CDS	18765..20411	groEL; chaperonin GroEL
+buh:BUAMB_020	CDS	20585..21148	efp; elongation factor P
+buh:BUAMB_021	CDS	complement(21155..21895)	dnaC; DNA replication protein DnaC
+buh:BUAMB_022	CDS	complement(21896..22393)	dnaT; primosomal protein DnaI
+buh:BUAMB_023	CDS	complement(22476..23048)	rsmD; 16S rRNA m2G966 methyltransferase
+buh:BUAMB_024	CDS	23188..24282	ftsY; cell division protein FtsY
+buh:BUAMB_025	CDS	24419..25273	rpoH; RNA polymerase factor sigma-32
+buh:BUAMB_026	CDS	complement(25400..27229)	glmS; glucosamine--fructose-6-phosphate aminotransferase
+buh:BUAMB_027	CDS	complement(27305..28681)	glmU; UDP-N-acetylglucosamine pyrophosphorylase
+buh:BUAMB_028	CDS	28867..29670	yigL; sugar phosphatase
+buh:BUAMB_029	CDS	30604..32886	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+buh:BUAMB_030	CDS	complement(33009..34586)	purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+buh:BUAMB_031	CDS	complement(34770..35042)	hupA; DNA-binding protein HU-alpha
+buh:BUAMB_032	CDS	complement(35655..39875)	rpoC; DNA-directed RNA polymerase subunit beta'
+buh:BUAMB_033	CDS	complement(39949..43974)	rpoB; DNA-directed RNA polymerase subunit beta
+buh:BUAMB_034	CDS	complement(44192..44560)	rplL; 50S ribosomal protein L7/L12
+buh:BUAMB_035	CDS	complement(44626..45123)	rplJ; 50S ribosomal protein L10
+buh:BUAMB_036	CDS	complement(45394..46089)	rplA; 50S ribosomal protein L1
+buh:BUAMB_037	CDS	complement(46091..46519)	rplK; 50S ribosomal protein L11
+buh:BUAMB_038	CDS	complement(46559..47098)	nusG; transcription antitermination protein NusG
+buh:BUAMB_039	CDS	complement(47105..47488)	secE; preprotein translocase subunit SecE
+buh:BUAMB_040	tRNA	complement(47717..47789)	tRNA-Thr
+buh:BUAMB_041	tRNA	complement(47816..47887)	tRNA-Gly
+buh:BUAMB_042	tRNA	complement(47913..47994)	tRNA-Tyr
+buh:BUAMB_043	tRNA	complement(48033..48105)	tRNA-Thr
+buh:BUAMB_044	CDS	complement(48233..49294)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+buh:BUAMB_045	CDS	49395..50273	metF; 5,10-methylenetetrahydrofolate reductase
+buh:BUAMB_046	CDS	51582..52793	argG; argininosuccinate synthase
+buh:BUAMB_047	CDS	52866..54245	argH; argininosuccinate lyase
+buh:BUAMB_048	CDS	54361..54801	yibN; putative rhodanese-related sulfurtransferase
+buh:BUAMB_049	CDS	54914..55357	secB; preprotein translocase subunit SecB
+buh:BUAMB_050	CDS	55444..56268	cysE; serine acetyltransferase
+buh:BUAMB_051	CDS	complement(56370..58196)	rpoD; RNA polymerase sigma factor RpoD
+buh:BUAMB_052	CDS	complement(58343..60076)	dnaG; DNA primase
+buh:BUAMB_053	CDS	complement(60152..60367)	rpsU; 30S ribosomal protein S21
+buh:BUAMB_054	CDS	60556..61566	ygjD; putative DNA-binding/iron metalloprotein/AP endonuclease
+buh:BUAMB_055	CDS	complement(61547..62191)	ribB; 3,4-dihydroxy-2-butanone 4-phosphate synthase
+buh:BUAMB_056	CDS	complement(62464..63417)	rfaE; kinase
+buh:BUAMB_057	CDS	63655..64914	cca; tRNA CCA-pyrophosphorylase
+buh:BUAMB_058	CDS	complement(64916..65713)	bacA; bacitracin resistance protein
+buh:BUAMB_059	CDS	complement(65819..66322)	crr; glucose-specific PTS system component
+buh:BUAMB_060	CDS	complement(66330..68051)	ptsI; phosphoenolpyruvate-protein phosphotransferase
+buh:BUAMB_061	CDS	complement(68199..68456)	ptsH; phosphocarrier protein HPr
+buh:BUAMB_062	CDS	complement(68620..69564)	cysK; cysteine synthase A
+buh:BUAMB_063	CDS	69731..71767	lig; DNA ligase (NAD+)
+buh:BUAMB_064	tRNA	complement(71779..71851)	tRNA-Lys
+buh:BUAMB_065	tRNA	complement(71916..71991)	tRNA-Val
+buh:BUAMB_066	CDS	72203..73606	gltX; glutamyl-tRNA synthetase
+buh:BUAMB_067	tRNA	73758..73830	tRNA-Ala
+buh:BUAMB_068	CDS	complement(73915..74223)	fliE; flagellar hook-basal body complex protein FliE
+buh:BUAMB_069	CDS	74457..76103	fliF; flagellar MS-ring protein
+buh:BUAMB_070	CDS	76100..77095	fliG; flagellar motor switch protein FliG
+buh:BUAMB_071	CDS	77088..77738	fliH; flagellar assembly protein FliH
+buh:BUAMB_072	CDS	77738..79099	fliI; flagellum-specific ATP synthase
+buh:BUAMB_073	CDS	79196..79627	fliJ; flagellar FliJ protein
+buh:BUAMB_074	CDS	79581..80768	fliK; flagellar hook-length control protein
+buh:BUAMB_075	CDS	80884..81813	fliM; flagellar motor switch protein FliM
+buh:BUAMB_076	CDS	81824..82213	fliN; flagellar motor switch protein FliN
+buh:BUAMB_077	CDS	82225..83379	fliP; type III secretion system protein
+buh:BUAMB_078	CDS	83443..83712	fliQ; flagellar biosynthetic protein FliQ
+buh:BUAMB_079	CDS	83712..84488	fliR; flagellar biosynthetic protein FliR
+buh:BUAMB_080	CDS	complement(84563..84730)	rpmG; 50S ribosomal protein L33
+buh:BUAMB_081	CDS	complement(84734..84967)	rpmB; 50S ribosomal protein L28
+buh:BUAMB_082	CDS	85181..88117	ytfN; conserved protein
+buh:BUAMB_083	CDS	complement(88141..88677)	ppa; inorganic pyrophosphatase
+buh:BUAMB_084	CDS	88858..90198	pmbA; PmbA protein
+buh:BUAMB_085	ncRNA	complement(90282..90603)	ribonuclease P RNA component
+buh:BUAMB_086	CDS	complement(90669..91529)	rsmI; 16S rRNA 2'-O-ribose C1402 methyltransferase
+buh:BUAMB_087	CDS	91667..92887	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I
+buh:BUAMB_088	CDS	93101..94051	talA; transaldolase B
+buh:BUAMB_089	CDS	94096..96093	tktB; transketolase
+buh:BUAMB_090	CDS	96201..97328	dapE; succinyl-diaminopimelate desuccinylase
+buh:BUAMB_091	CDS	complement(97709..98593)	dapA; dihydrodipicolinate synthase
+buh:BUAMB_092	CDS	complement(99065..100129)	aroC; chorismate synthase
+buh:BUAMB_093	CDS	100396..100932	yfcN; conserved protein
+buh:BUAMB_094	CDS	101221..102120	hisG; ATP phosphoribosyltransferase
+buh:BUAMB_095	CDS	102130..103443	hisD; histidinol dehydrogenase
+buh:BUAMB_096	CDS	103433..104539	hisC; histidinol-phosphate aminotransferase
+buh:BUAMB_097	CDS	104529..105590	hisB; imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+buh:BUAMB_098	CDS	105590..106180	hisH; imidazole glycerol phosphate synthase subunit HisH
+buh:BUAMB_099	CDS	106185..106925	hisA; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+buh:BUAMB_100	CDS	106904..107680	hisF; imidazole glycerol phosphate synthase subunit HisF
+buh:BUAMB_101	CDS	107674..108294	hisI; bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+buh:BUAMB_102	CDS	108461..109867	gnd; 6-phosphogluconate dehydrogenase
+buh:BUAMB_103	CDS	110072..110653	dcd; deoxycytidine triphosphate deaminase
+buh:BUAMB_104	CDS	110764..112407	metG; methionyl-tRNA synthetase
+buh:BUAMB_105	CDS	complement(112435..113754)	tilS; cell cycle protein MesJ
+buh:BUAMB_106	tRNA	complement(113787..113860)	tRNA-Val
+buh:BUAMB_107	CDS	113998..114612	ribC; riboflavin synthase subunit alpha
+buh:BUAMB_108	CDS	115027..115653	nth; endonuclease III
+buh:BUAMB_109	CDS	115674..117848	priA; primosomal protein N'
+buh:BUAMB_110	CDS	117940..119208	tyrS; tyrosyl-tRNA synthetase
+buh:BUAMB_111	CDS	complement(119187..119606)	sufA; Fe-S cluster assembly, scaffold protein
+buh:BUAMB_112	CDS	119833..120912	ydiK; putative inner membrane protein
+buh:BUAMB_113	CDS	121264..122310	aroH; phospho-2-dehydro-3-deoxyheptonate aldolase
+buh:BUAMB_114	CDS	122498..124426	thrS; threonyl-tRNA synthetase
+buh:BUAMB_115	CDS	124430..124969	infC; translation initiation factor IF-3
+buh:BUAMB_116	CDS	125020..125217	rpmI; 50S ribosomal protein L35
+buh:BUAMB_117	CDS	125259..125615	rplT; 50S ribosomal protein L20
+buh:BUAMB_118	CDS	125813..126805	pheS; phenylalanyl-tRNA synthetase subunit alpha
+buh:BUAMB_119	CDS	126815..129208	pheT; phenylalanyl-tRNA synthetase subunit beta
+buh:BUAMB_120	CDS	129215..129523	ihfA; integration host factor subunit alpha
+buh:BUAMB_121	CDS	130510..131631	tgt; queuine tRNA-ribosyltransferase
+buh:BUAMB_122	CDS	131636..131971	yajC; hypothetical protein
+buh:BUAMB_123	CDS	complement(131993..134065)	glyS; glycyl-tRNA synthetase beta chain
+buh:BUAMB_124	CDS	complement(134040..134978)	glyQ; glycyl-tRNA synthetase subunit alpha
+buh:BUAMB_125	CDS	135598..136440	nfo; endonuclease IV
+buh:BUAMB_126	CDS	136490..136780	rplY; 50S ribosomal protein L25
+buh:BUAMB_127	CDS	complement(136867..137634)	yabI; conserved inner membrane protein
+buh:BUAMB_128	CDS	137832..139121	surA; survival protein SurA precursor
+buh:BUAMB_129	CDS	139177..139998	rsmA; dimethyladenosine transferase
+buh:BUAMB_130	CDS	140057..140878	apaH; diadenosine tetraphosphatase
+buh:BUAMB_131	CDS	complement(140897..141403)	folA; dihydrofolate reductase
+buh:BUAMB_132	CDS	complement(141489..144728)	carB; carbamoyl phosphate synthase large subunit
+buh:BUAMB_133	CDS	complement(144746..145906)	carA; carbamoyl phosphate synthase small subunit
+buh:BUAMB_134	CDS	complement(146023..146832)	dapB; dihydrodipicolinate reductase
+buh:BUAMB_135	CDS	complement(146846..147796)	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+buh:BUAMB_136	CDS	complement(147867..148349)	lspA; lipoprotein signal peptidase
+buh:BUAMB_137	CDS	complement(148346..151168)	ileS; isoleucyl-tRNA synthetase
+buh:BUAMB_138	gene	complement(151181..152113)	ribF; pseudogene
+buh:BUAMB_139	CDS	152287..152550	rpsT; 30S ribosomal protein S20
+buh:BUAMB_140	CDS	complement(152610..153746)	dnaJ; DnaJ protein
+buh:BUAMB_141	CDS	complement(153861..155774)	dnaK; molecular chaperone DnaK
+buh:BUAMB_142	CDS	156060..156437	nuoA; NADH dehydrogenase I chain A
+buh:BUAMB_143	CDS	156491..157162	nuoB; NADH dehydrogenase subunit B
+buh:BUAMB_144	CDS	157283..159085	nuoCD; bifunctional NADH:ubiquinone oxidoreductase subunit C/D
+buh:BUAMB_145	CDS	159117..159596	nuoE; NADH dehydrogenase subunit E
+buh:BUAMB_146	CDS	159593..160942	nuoF; NADH dehydrogenase I chain F
+buh:BUAMB_147	CDS	161012..163744	nuoG; NADH dehydrogenase subunit G
+buh:BUAMB_148	CDS	163741..164709	nuoH; NADH dehydrogenase subunit H
+buh:BUAMB_149	CDS	164732..165274	nuoI; NADH dehydrogenase subunit I
+buh:BUAMB_150	CDS	165285..165794	nuoJ; NADH dehydrogenase I chain J
+buh:BUAMB_151	CDS	165825..166127	nuoK; NADH dehydrogenase I chain K
+buh:BUAMB_152	CDS	166124..167968	nuoL; NADH dehydrogenase I chain L
+buh:BUAMB_153	CDS	168066..169556	nuoM; NADH dehydrogenase I chain M
+buh:BUAMB_154	CDS	169592..171049	nuoN; NADH dehydrogenase I chain N
+buh:BUAMB_155	CDS	171235..172461	folC; dihydrofolate synthase
+buh:BUAMB_156	CDS	172509..172958	cvpA; colicin V production protein
+buh:BUAMB_157	CDS	complement(173030..173977)	prs; ribose-phosphate pyrophosphokinase
+buh:BUAMB_158	CDS	complement(174081..174950)	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+buh:BUAMB_159	CDS	175168..176253	prfA; peptide chain release factor 1
+buh:BUAMB_160	CDS	176250..177080	prmC; HemK protein
+buh:BUAMB_161	CDS	177225..178034	ychA; putative transcriptional regulator
+buh:BUAMB_162	CDS	complement(178042..178845)	nadE; NAD synthetase
+buh:BUAMB_163	CDS	178902..180119	ackA; acetate kinase
+buh:BUAMB_164	CDS	180172..182307	pta; phosphate acetyltransferase
+buh:BUAMB_165	CDS	complement(182317..182580)	yfaE; 2Fe-2S cluster-containing protein involved in diferric-tyrosyl radical cofactor maintenance
+buh:BUAMB_166	CDS	complement(182584..183714)	nrdB; ribonucleotide-diphosphate reductase subunit beta
+buh:BUAMB_167	CDS	complement(183757..186042)	nrdA; ribonucleotide-diphosphate reductase subunit alpha
+buh:BUAMB_168	CDS	complement(186125..188635)	gyrA; DNA gyrase subunit A
+buh:BUAMB_169	CDS	188877..189629	yba2; hypothetical protein
+buh:BUAMB_170	CDS	complement(189730..190323)	ahpC; alkyl hydroperoxide reductase
+buh:BUAMB_171	CDS	190501..191100	ung; uracil-DNA glycosylase
+buh:BUAMB_172	CDS	complement(191175..191714)	grpE; heat shock protein GrpE2
+buh:BUAMB_173	CDS	191828..192706	nadK; inorganic polyphosphate/ATP-NAD kinase
+buh:BUAMB_174	tmRNA	complement(192767..193136)	ssrA
+buh:BUAMB_175	CDS	193265..193600	grxD; glutaredoxin 4
+buh:BUAMB_176	CDS	complement(193721..194365)	rnt; ribonuclease T
+buh:BUAMB_177	CDS	194577..195188	sodA; superoxide dismutase
+buh:BUAMB_178	CDS	195371..195904	pth; peptidyl-tRNA hydrolase
+buh:BUAMB_179	CDS	195942..197030	ychF; GTP-dependent nucleic acid-binding protein EngD
+buh:BUAMB_180	CDS	complement(197109..198398)	thrC; threonine synthase
+buh:BUAMB_181	CDS	complement(198403..199332)	thrB; homoserine kinase
+buh:BUAMB_182	CDS	complement(199353..201803)	thrA; bifunctional aspartokinase I/homoserine dehydrogenase I
+buh:BUAMB_183	CDS	202314..202844	hpt; hypoxanthine phosphoribosyltransferase
+buh:BUAMB_184	CDS	complement(203332..203787)	dksA; DnaK suppressor protein
+buh:BUAMB_185	CDS	204098..204895	truA; tRNA pseudouridine synthase A
+buh:BUAMB_186	CDS	205036..207264	mrcB; penicillin-binding protein 1b
+buh:BUAMB_187	CDS	207408..210032	secA; preprotein translocase subunit SecA
+buh:BUAMB_188	CDS	complement(210297..210944)	coaE; dephospho-CoA kinase
+buh:BUAMB_189	CDS	211003..212055	guaC; guanosine 5'-monophosphate oxidoreductase
+buh:BUAMB_190	CDS	212189..214855	aceE; pyruvate dehydrogenase subunit E1
+buh:BUAMB_191	CDS	214870..216051	aceF; branched-chain alpha-keto acid dehydrogenase subunit E2
+buh:BUAMB_192	CDS	216111..217517	lpdA; dihydrolipoamide dehydrogenase
+buh:BUAMB_193	CDS	complement(218396..219091)	mtn; 5'-methylthioadenosine nucleosidase
+buh:BUAMB_194	CDS	complement(219164..219508)	erpA; iron-sulfur cluster insertion protein ErpA
+buh:BUAMB_195	CDS	complement(219718..220869)	ftsZ; cell division protein FtsZ
+buh:BUAMB_196	CDS	complement(220924..222180)	ftsA; cell division protein FtsA
+buh:BUAMB_197	CDS	complement(222278..223207)	ddl; D-alanine--D-alanine ligase
+buh:BUAMB_198	CDS	complement(223204..224658)	murC; UDP-N-acetylmuramate-alanine ligase
+buh:BUAMB_199	CDS	complement(224655..225719)	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+buh:BUAMB_200	CDS	complement(225716..226909)	ftsW; cell division protein FtsW
+buh:BUAMB_201	CDS	complement(226909..228228)	murD; UDP-N-acetylmuramoylalanine-D-glutamate ligase
+buh:BUAMB_202	CDS	complement(228228..229295)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+buh:BUAMB_203	gene	complement(229289..230655)	murF; pseudogene
+buh:BUAMB_204	CDS	complement(230652..232145)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase
+buh:BUAMB_205	CDS	complement(232168..233892)	ftsI; cell division protein FtsI
+buh:BUAMB_206	CDS	complement(233939..234190)	ftsL; cell division protein
+buh:BUAMB_207	CDS	complement(234171..235100)	rsmH; 16S rRNA m4C1402 methyltransferase
+buh:BUAMB_208	CDS	complement(235347..235826)	ilvH; acetolactate synthase small subunit
+buh:BUAMB_209	CDS	complement(235830..237545)	ilvI; acetolactate synthase large subunit
+buh:BUAMB_210	CDS	238447..239889	degP; serine endoprotease
+buh:BUAMB_211	CDS	complement(239926..240750)	dapD; 2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+buh:BUAMB_212	CDS	complement(240818..241612)	map; methionine aminopeptidase
+buh:BUAMB_213	CDS	241858..242571	rpsB; 30S ribosomal protein S2
+buh:BUAMB_214	CDS	242659..243468	tsf; elongation factor Ts
+buh:BUAMB_215	CDS	243516..244250	pyrH; uridylate kinase
+buh:BUAMB_216	CDS	244338..244895	frr; ribosome recycling factor
+buh:BUAMB_217	CDS	244966..246165	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+buh:BUAMB_218	CDS	246233..246973	ispU; undecaprenyl pyrophosphate synthetase
+buh:BUAMB_219	CDS	247155..249608	bamA; outer membrane associated protein
+buh:BUAMB_220	CDS	249717..250166	fabZ; 3-hydroxy-acyl-[acyl-carrier-protein] dehydratase
+buh:BUAMB_221	CDS	250191..253694	dnaE; DNA polymerase III alpha chain
+buh:BUAMB_222	CDS	complement(253722..255443)	proS; prolyl-tRNA synthetase
+buh:BUAMB_223	CDS	255698..256846	flhB; flagellar biosynthesis protein FlhB
+buh:BUAMB_224	CDS	256839..258929	flhA; flagellar biosynthesis protein FlhA
+buh:BUAMB_225	CDS	complement(259059..260789)	argS; arginyl-tRNA synthetase
+buh:BUAMB_226	rRNA	261221..262766	16S ribosomal RNA
+buh:BUAMB_227	tRNA	262821..262897	tRNA-Ile
+buh:BUAMB_228	tRNA	262914..262986	tRNA-Ala
+buh:BUAMB_229	CDS	complement(262978..263742)	gloB; hydroxyacylglutathione hydrolase
+buh:BUAMB_230	CDS	complement(263793..264263)	rnhA; ribonuclease H
+buh:BUAMB_231	CDS	264321..265037	dnaQ; DNA polymerase III epsilon chain
+buh:BUAMB_232	tRNA	265112..265185	tRNA-Asp
+buh:BUAMB_233	CDS	265238..265822	lpcA; phosphoheptose isomerase
+buh:BUAMB_234	CDS	265916..266383	gpt; xanthine-guanine phosphoribosyltransferase
+buh:BUAMB_235	CDS	266497..267147	grpE1; heat shock protein GrpE1
+buh:BUAMB_236	CDS	267332..267811	smpB; SsrA-binding protein
+buh:BUAMB_237	CDS	267853..268287	tadA; tRNA-specific adenosine deaminase monomer
+buh:BUAMB_238	CDS	complement(268305..268685)	acpS; holo-[acyl-carrier protein] synthase
+buh:BUAMB_239	CDS	complement(268792..269634)	era; GTP-binding protein Era
+buh:BUAMB_240	CDS	complement(269631..270311)	rnc; ribonuclease III
+buh:BUAMB_241	CDS	complement(270428..271375)	lepB; signal peptidase I
+buh:BUAMB_242	CDS	complement(271391..273184)	lepA; GTP-binding protein LepA
+buh:BUAMB_243	CDS	273382..274494	mnmA; tRNA-specific 2-thiouridylase MnmA
+buh:BUAMB_244	gene	274527..275155	hflD; pseudogene
+buh:BUAMB_245	CDS	275184..276557	purB; adenylosuccinate lyase
+buh:BUAMB_246	CDS	276642..277235	emtA; membrane-bound lytic murein transglycosylase E
+buh:BUAMB_247	CDS	277330..278106	fabI; enoyl-[acyl-carrier-protein] reductase (NADH)
+buh:BUAMB_248	CDS	278285..280222	rnb; exoribonuclease II
+buh:BUAMB_249	CDS	280306..280953	ychE; putative inner membrane protein
+buh:BUAMB_250	CDS	280990..281658	lipB; lipoyltransferase
+buh:BUAMB_251	CDS	281731..282687	lipA; lipoyl synthase
+buh:BUAMB_252	CDS	282807..283520	pyrF; orotidine 5'-phosphate decarboxylase
+buh:BUAMB_253	CDS	283578..284162	ribA; GTP cyclohydrolase II
+buh:BUAMB_254	CDS	complement(284590..286050)	cls; cardiolipin synthetase
+buh:BUAMB_255	CDS	complement(286343..286750)	yciA; acyl-CoA thioesterase
+buh:BUAMB_256	CDS	complement(286785..287318)	yciB; intracellular septation protein A
+buh:BUAMB_257	CDS	complement(287346..288092)	yciC; putative inner membrane protein
+buh:BUAMB_258	CDS	complement(288195..289004)	trpA; tryptophan synthase subunit alpha
+buh:BUAMB_259	CDS	complement(288979..290190)	trpB; tryptophan synthase subunit beta
+buh:BUAMB_260	CDS	complement(290226..291599)	trpC; bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+buh:BUAMB_261	CDS	complement(291580..292608)	trpD; anthranilate phosphoribosyltransferase
+buh:BUAMB_262	CDS	292840..293724	yedA; putative membrane transport protein
+buh:BUAMB_263	CDS	293735..294484	rluB; 23S rRNA pseudouridine 2605 synthase
+buh:BUAMB_264	CDS	294569..295567	sohB; putative periplasmic protease
+buh:BUAMB_265	CDS	295669..298257	topA; DNA topoisomerase I
+buh:BUAMB_266	CDS	complement(298310..299101)	suhB; extragenic suppressor protein SuhB
+buh:BUAMB_267	CDS	299306..300391	rlmN; 23S rRNA m2A2503 methyltransferase
+buh:BUAMB_268	CDS	300447..301574	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+buh:BUAMB_269	CDS	301589..302863	hisS; histidyl-tRNA synthetase
+buh:BUAMB_270	CDS	302900..304150	glyA; serine hydroxymethyltransferase
+buh:BUAMB_271	CDS	complement(304203..304877)	bioD; dethiobiotin synthetase
+buh:BUAMB_272	CDS	complement(305219..306250)	bioB; biotin synthetase
+buh:BUAMB_273	CDS	306330..307616	bioA; adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+buh:BUAMB_274	CDS	complement(307625..308629)	pgl; 6-phosphogluconolactonase
+buh:BUAMB_275	CDS	complement(308738..311176)	mfd; transcription-repair coupling factor
+buh:BUAMB_276	CDS	311679..312875	lolC; membrane component of lipoprotein export ABC transporter
+buh:BUAMB_277	CDS	312868..313554	lolD; ABC transporter ATP-binding protein of lipoprotein export ABC transporter
+buh:BUAMB_278	gene	313570..314801	lolE; pseudogene
+buh:BUAMB_279	CDS	314844..315848	gapA; glyceraldehyde 3-phosphate dehydrogenase A
+buh:BUAMB_280	CDS	complement(316188..316697)	fldA; flavodoxin FldA
+buh:BUAMB_281	CDS	317093..318532	phr; deoxyribodipyrimidine photolyase
+buh:BUAMB_282	CDS	318538..319281	ybgI; conserved metal-binding protein
+buh:BUAMB_283	CDS	319408..322137	sucA; 2-oxoglutarate dehydrogenase E1 component
+buh:BUAMB_284	CDS	322153..323337	sucB; 2-oxoglutarate dehydrogenase E2 component
+buh:BUAMB_285	CDS	323439..324134	gpmA; phosphoglycerate mutase
+buh:BUAMB_286	CDS	324347..325309	pfkA; 6-phosphofructokinase
+buh:BUAMB_287	CDS	325388..326176	glpF; glycerol uptake facilitator protein
+buh:BUAMB_288	CDS	complement(326133..326945)	tpiA; triosephosphate isomerase
+buh:BUAMB_289	CDS	complement(327056..327340)	ihfB; integration host factor subunit beta
+buh:BUAMB_290	CDS	complement(327431..329110)	rpsA; 30S ribosomal protein S1
+buh:BUAMB_291	CDS	complement(329599..330882)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+buh:BUAMB_292	CDS	complement(330950..332035)	serC; phosphoserine aminotransferase
+buh:BUAMB_293	CDS	complement(332074..333357)	serS; seryl-tRNA synthetase
+buh:BUAMB_294	CDS	333690..334649	trxB; thioredoxin reductase
+buh:BUAMB_295	CDS	334748..334966	infA; translation initiation factor IF-1
+buh:BUAMB_296	CDS	335124..336887	aspS; aspartyl-tRNA synthetase
+buh:BUAMB_297	CDS	complement(336918..337706)	znuB; high-affinity zinc uptake system membrane protein ZnuB
+buh:BUAMB_298	CDS	complement(337736..338452)	znuC; high-affinity zinc uptake system ATP-binding protein ZnuC
+buh:BUAMB_299	CDS	complement(338939..340381)	pykA; pyruvate kinase
+buh:BUAMB_300	CDS	340676..342154	zwf; glucose-6-phosphate 1-dehydrogenase
+buh:BUAMB_301	CDS	342322..343200	htpX; heat shock protein HtpX
+buh:BUAMB_302	CDS	343560..343769	cspC; cold shock-like protein CspC
+buh:BUAMB_303	CDS	344010..345578	yoaE; putative inner membrane protein
+buh:BUAMB_304	gene	345660..346326	yeaZ; pseudogene
+buh:BUAMB_305	CDS	complement(346472..346723)	minE; cell division topological specificity factor MinE
+buh:BUAMB_306	CDS	complement(346728..347540)	minD; septum site-determining protein MinD
+buh:BUAMB_307	CDS	complement(347567..348283)	minC; cell division inhibitor MinC
+buh:BUAMB_308	CDS	348553..349575	rsmC; 16S rRNA m2G1207 methyltransferas
+buh:BUAMB_309	tRNA	complement(349593..349677)	tRNA-Leu
+buh:BUAMB_310	tRNA	complement(349689..349762)	tRNA-Cys
+buh:BUAMB_311	tRNA	349889..349973	tRNA-Ser
+buh:BUAMB_312	CDS	complement(350067..351134)	ompA; outer membrane protein A precursor
+buh:BUAMB_313	CDS	complement(351267..352799)	murJ; virulence factor MviN-like protein
+buh:BUAMB_314	CDS	complement(353077..353487)	flgN; flagella synthesis protein FlgN
+buh:BUAMB_315	CDS	complement(353577..354260)	flgA; flagella basal-body P-ring formation protein FlgA precursor
+buh:BUAMB_316	CDS	354532..354939	flgB; flagellar basal-body rod protein FlgB
+buh:BUAMB_317	CDS	354948..355358	flgC; flagellar basal-body rod protein FlgC
+buh:BUAMB_318	CDS	355369..356058	flgD; basal-body rod modification protein FlgD
+buh:BUAMB_319	CDS	356100..357314	flgE; flagellar hook protein FlgE
+buh:BUAMB_320	CDS	357341..358084	flgF; flagellar basal body rod protein FlgF
+buh:BUAMB_321	CDS	358107..358889	flgG; flagellar basal body rod protein FlgG
+buh:BUAMB_322	CDS	358974..359693	flgH; flagellar basal body L-ring protein
+buh:BUAMB_323	CDS	359827..360990	flgI; flagellar basal body P-ring protein
+buh:BUAMB_324	CDS	360990..361304	flgJ; flagellar protein FlgJ
+buh:BUAMB_325	CDS	361335..362969	flgK; flagellar hook-associated protein 1
+buh:BUAMB_326	CDS	complement(363078..365903)	rne; ribonuclease E
+buh:BUAMB_327	CDS	366179..367123	rluC; ribosomal large subunit pseudouridine synthase C
+buh:BUAMB_328	CDS	367200..367364	rpmF; 50S ribosomal protein L32
+buh:BUAMB_329	gene	367561..368504	fabD; pseudogene
+buh:BUAMB_330	CDS	368507..369241	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+buh:BUAMB_331	CDS	369322..369564	acpP; acyl carrier protein
+buh:BUAMB_332	CDS	369670..370308	tmk; thymidylate kinase
+buh:BUAMB_333	CDS	370382..371278	holB; DNA polymerase III delta' subunit
+buh:BUAMB_334	CDS	371316..372113	ycfH; putative metallodependent hydrolase
+buh:BUAMB_335	CDS	372165..373598	ptsG; glucose-specific PTS system IIBC components
+buh:BUAMB_336	CDS	373618..373962	hinT; purine nucleoside phosphoramidase
+buh:BUAMB_337	CDS	374019..374540	ycfM; outer membrane lipoprotein - activator of PBP1B activity
+buh:BUAMB_338	CDS	complement(374831..375994)	ompF; OmpF-like porin
+buh:BUAMB_339	CDS	complement(376172..377572)	asnC; asparaginyl-tRNA synthetase
+buh:BUAMB_340	CDS	complement(377796..378992)	pncB; nicotinate phosphoribosyltransferase
+buh:BUAMB_341	CDS	380158..382272	rlmL; 23S rRNA m(2)G2445 methyltransferase
+buh:BUAMB_342	CDS	382294..384087	uup; ABC transporter ATP-binding protein Uup
+buh:BUAMB_343	CDS	complement(384141..385085)	yceA; conserved protein
+buh:BUAMB_344	CDS	complement(385141..387993)	valS; valyl-tRNA synthetase
+buh:BUAMB_345	CDS	complement(388097..389605)	pepA; leucyl aminopeptidase
+buh:BUAMB_346	CDS	389863..390879	argF; ornithine carbamoyltransferase subunit I
+buh:BUAMB_347	CDS	391649..392035	tdcF; putative L-PSP (mRNA) endoribonuclease
+buh:BUAMB_348	CDS	complement(392088..393896)	deaD; ATP-dependent RNA helicase DeaD
+buh:BUAMB_349	CDS	complement(394301..396391)	pnp; polynucleotide phosphorylase/polyadenylase
+buh:BUAMB_350	CDS	complement(396537..396806)	rpsO; 30S ribosomal protein S15
+buh:BUAMB_351	CDS	complement(396914..397852)	truB; tRNA pseudouridine 55 synthase
+buh:BUAMB_352	CDS	complement(397892..398251)	rbfA; ribosome-binding factor A
+buh:BUAMB_353	CDS	complement(398285..400840)	infB; translation initiation factor IF-2
+buh:BUAMB_354	CDS	complement(400857..402344)	nusA; transcription elongation factor NusA
+buh:BUAMB_355	tRNA	complement(402677..402759)	tRNA-Leu
+buh:BUAMB_356	CDS	complement(402798..403127)	secG; preprotein translocase subunit SecG
+buh:BUAMB_357	CDS	complement(403411..404745)	glmM; MrsA protein
+buh:BUAMB_358	CDS	complement(404917..406755)	ftsH; cell division protein FtsH
+buh:BUAMB_359	CDS	complement(406824..407444)	rlmE; cell division protein FtsJ
+buh:BUAMB_360	CDS	complement(407534..408013)	greA; transcription elongation factor GreA
+buh:BUAMB_361	CDS	408473..408715	yrbA; putative DNA-binding transcriptional regulator
+buh:BUAMB_362	CDS	408769..410019	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+buh:BUAMB_363	CDS	410072..410410	rplU; 50S ribosomal protein L21
+buh:BUAMB_364	CDS	410400..410654	rpmA; 50S ribosomal protein L27
+buh:BUAMB_365	CDS	410802..411806	obgE; GTPase ObgE
+buh:BUAMB_366	CDS	complement(411871..412263)	rpsI; 30S ribosomal protein S9
+buh:BUAMB_367	CDS	complement(412281..412712)	rplM; 50S ribosomal protein L13
+buh:BUAMB_368	CDS	412958..414103	pheA; chorismate mutase
+buh:BUAMB_369	CDS	414218..415579	ffh; signal recognition particle protein
+buh:BUAMB_370	CDS	415666..415923	rpsP; 30S ribosomal protein S16
+buh:BUAMB_371	CDS	415932..416447	rimM; 16S rRNA-processing protein RimM
+buh:BUAMB_372	CDS	416462..417235	trmD; tRNA (guanine-N1)-methyltransferase
+buh:BUAMB_373	CDS	417265..417612	rplS; 50S ribosomal protein L19
+buh:BUAMB_374	CDS	complement(417697..419148)	tldD; TldD protein
+buh:BUAMB_375	CDS	419296..419772	aroD; 3-dehydroquinate dehydratase
+buh:BUAMB_376	CDS	complement(419833..420129)	fis; factor-for-inversion stimulation protein
+buh:BUAMB_377	CDS	complement(420258..421196)	rluD; ribosomal large subunit pseudouridine synthase D
+buh:BUAMB_378	CDS	421325..422068	bamD; part of large protein complex involved in outer membrane protein biogenesis
+buh:BUAMB_379	CDS	422186..424819	alaS; alanyl-tRNA synthetase
+buh:BUAMB_380	CDS	424991..425176	csrA; carbon storage regulator
+buh:BUAMB_381	tRNA	425324..425412	tRNA-Ser
+buh:BUAMB_382	tRNA	425470..425543	tRNA-Arg
+buh:BUAMB_383	CDS	425633..427189	gshA; glutamate-cysteine ligase
+buh:BUAMB_384	gene	complement(427380..428390)	metK; pseudogene
+buh:BUAMB_385	CDS	428692..429390	endA; endonuclease I
+buh:BUAMB_386	CDS	429387..430130	rsmE; 16S ribosomal RNA methyltransferase RsmE
+buh:BUAMB_387	CDS	complement(430181..430858)	rpiA; ribose-5-phosphate isomerase A
+buh:BUAMB_388	tRNA	complement(431092..431163)	tRNA-Gln
+buh:BUAMB_389	tRNA	complement(431219..431300)	tRNA-Leu
+buh:BUAMB_390	tRNA	complement(431313..431389)	tRNA-Met
+buh:BUAMB_391	CDS	431468..433147	glnS; glutaminyl-tRNA synthetase
+buh:BUAMB_392	CDS	433344..435014	pyrG; CTP synthetase
+buh:BUAMB_393	CDS	434999..436303	eno; phosphopyruvate hydratase
+buh:BUAMB_394	CDS	complement(436521..437477)	nlpD; lipoprotein NlpD precursor
+buh:BUAMB_395	CDS	complement(437556..438023)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+buh:BUAMB_396	CDS	complement(438037..438750)	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+buh:BUAMB_397	gene	complement(438841..439039)	ftsB; pseudogene
+buh:BUAMB_398	CDS	complement(439062..439676)	cysC; adenylylsulfate kinase
+buh:BUAMB_399	CDS	complement(439695..441101)	cysN; sulfate adenylate transferase subunit 1
+buh:BUAMB_400	CDS	complement(441127..442035)	cysD; sulfate adenylyltransferase subunit 2
+buh:BUAMB_401	CDS	complement(442082..443467)	cysG; ferrochelatase
+buh:BUAMB_402	CDS	complement(443659..444393)	cysH; phosphoadenosine phosphosulfate reductase
+buh:BUAMB_403	CDS	complement(444409..446118)	cysI; sulfite reductase subunit beta
+buh:BUAMB_404	CDS	complement(446118..447923)	cysJ; sulfite reductase (NADPH) flavoprotein alpha-component
+buh:BUAMB_405	CDS	449166..449795	dsbA; thiol:disulfide interchange protein DsbA precursor
+buh:BUAMB_406	CDS	449806..450675	polA; DNA polymerase I
+buh:BUAMB_407	CDS	complement(450745..451353)	yihA; ribosome biogenesis GTP-binding protein YsxC
+buh:BUAMB_408	CDS	451585..453414	typA; GTP-binding protein BipA
+buh:BUAMB_409	CDS	complement(453515..454138)	gmk; guanylate kinase
+buh:BUAMB_410	CDS	complement(454232..455191)	ygfZ; folate-binding protein
+buh:BUAMB_411	CDS	455387..456445	prfB; peptide chain release factor 2
+buh:BUAMB_412	CDS	456463..457977	lysS; lysyl-tRNA synthetase
+buh:BUAMB_413	CDS	458047..459288	lysA; diaminopimelate decarboxylase
+buh:BUAMB_414	CDS	459301..460158	lgt; prolipoprotein diacylglyceryl transferase
+buh:BUAMB_415	CDS	460172..460966	thyA; thymidylate synthase
+buh:BUAMB_416	CDS	461029..462348	miaB; isopentenyl-adenosine A37 tRNA methylthiolase
+buh:BUAMB_417	CDS	462369..462821	ybeY; conserved protein involved in translation
+buh:BUAMB_418	CDS	462916..463803	ybeX; putative ion transport protein
+buh:BUAMB_419	CDS	463847..466435	leuS; leucyl-tRNA synthetase
+buh:BUAMB_420	CDS	466437..467435	holA; DNA polymerase III delta subunit
+buh:BUAMB_421	CDS	467460..468092	nadD; nicotinate-mononucleotide adenylyltransferase
+buh:BUAMB_422	CDS	468147..468377	sirA; sulfur transfer protein SirA
+buh:BUAMB_423	CDS	complement(468519..469634)	asd; aspartate-semialdehyde dehydrogenase
+buh:BUAMB_424	CDS	469945..470538	yhgN; putative dITP- and XTP- hydrolase
+buh:BUAMB_425	CDS	470622..471800	pgk; phosphoglycerate kinase
+buh:BUAMB_426	CDS	471809..472885	fba; fructose-bisphosphate aldolase
+buh:BUAMB_427	CDS	473036..473881	mscS; mechanosensitive channel
+buh:BUAMB_428	CDS	473941..477150	recC; exodeoxyribonuclease V 125 kDa polypeptide
+buh:BUAMB_429	CDS	477155..480652	recB; exodeoxyribonuclease V 135 kDa polypeptide
+buh:BUAMB_430	CDS	480656..482464	recD; exodeoxyribonuclease V 67 kDa polypeptide
+buh:BUAMB_431	tRNA	complement(483036..483112)	tRNA-Met
+buh:BUAMB_432	CDS	483218..484300	mltA; murein transglycosylase A
+buh:BUAMB_433	CDS	484344..484820	ribE; 6,7-dimethyl-8-ribityllumazine synthase
+buh:BUAMB_434	gene	484870..485836	thiL; pseudogene
+buh:BUAMB_435	CDS	485873..486316	ribD1; riboflavin deaminase
+buh:BUAMB_436	CDS	486335..486985	ribD2; riboflavin reductase
+buh:BUAMB_437	CDS	487019..487450	nusB; transcription antitermination protein NusB
+buh:BUAMB_438	CDS	complement(487487..489313)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+buh:BUAMB_439	gene	complement(489326..490200)	ispA; pseudogene
+buh:BUAMB_440	CDS	complement(490283..491371)	yajR; MFS transporter
+buh:BUAMB_441	CDS	491508..491843	yccK; sulfur transfer protein
+buh:BUAMB_442	CDS	complement(491870..492745)	cyoE; protoheme IX farnesyltransferase
+buh:BUAMB_443	CDS	complement(492747..493088)	cyoD; cytochrome O ubiquinol oxidase subunit IV
+buh:BUAMB_444	CDS	complement(493088..493708)	cyoC; cytochrome O ubiquinol oxidase subunit III
+buh:BUAMB_445	CDS	complement(493705..495696)	cyoB; cytochrome O ubiquinol oxidase subunit I
+buh:BUAMB_446	CDS	complement(495681..496628)	cyoA; cytochrome O ubiquinol oxidase subunit II
+buh:BUAMB_447	gene	496859..497154	bolA; pseudogene
+buh:BUAMB_448	CDS	497276..498604	tig; trigger factor
+buh:BUAMB_449	CDS	498703..499317	clpP; ATP-dependent Clp protease proteolytic subunit
+buh:BUAMB_450	CDS	499413..500699	clpX; ATP-dependent protease ATP-binding subunit ClpX
+buh:BUAMB_451	CDS	500889..503237	lon; ATP-dependent protease LA
+buh:BUAMB_452	CDS	503355..505232	ppiD; peptidyl-prolyl cis-trans isomerase D
+buh:BUAMB_453	CDS	505722..507470	mdlA; multidrug resistance-like ATP-binding protein Mdl
+buh:BUAMB_454	CDS	507478..509238	mdlB; multidrug resistance-like ATP-binding protein MdlB
+buh:BUAMB_455	ncRNA	509241..509339	4.5S RNA component of the signal recognition particle
+buh:BUAMB_456	CDS	509554..510648	dnaX; DNA polymerase III subunits gamma and tau
+buh:BUAMB_457	CDS	511076..511426	ybaB; conserved DNA-binding protein
+buh:BUAMB_458	CDS	511545..513419	htpG; heat shock protein 90
+buh:BUAMB_459	CDS	513501..514145	adk; adenylate kinase
+buh:BUAMB_460	tRNA	complement(514158..514231)	tRNA-Arg
+buh:BUAMB_461	CDS	514377..515234	folD; methenyltetrahydrofolate cyclohydrolase
+buh:BUAMB_462	CDS	complement(515243..516628)	cysS; cysteinyl-tRNA synthetase
+buh:BUAMB_463	CDS	516837..517103	ybeD; conserved protein
+buh:BUAMB_464	CDS	complement(517231..517440)	cspE; cold shock protein CspE
+buh:BUAMB_465	rRNA	complement(517628..517743)	5S ribosomal RNA
+buh:BUAMB_466	rRNA	complement(517856..520775)	23S ribosomal RNA
+buh:BUAMB_467	tRNA	complement(520934..521006)	tRNA-Glu
+buh:BUAMB_468	CDS	complement(521133..521984)	aroE; shikimate 5-dehydrogenase
+buh:BUAMB_469	CDS	complement(521977..522549)	rimN; protein involved in synthesis of threonylcarbamoyladenosine-modified tRNA
+buh:BUAMB_470	CDS	complement(522603..523076)	smg; Smg protein
+buh:BUAMB_471	CDS	523313..523834	def; peptide deformylase
+buh:BUAMB_472	CDS	523840..524784	fmt; methionyl-tRNA formyltransferase
+buh:BUAMB_473	CDS	complement(524873..525268)	rplQ; 50S ribosomal protein L17
+buh:BUAMB_474	CDS	complement(525315..526304)	rpoA; DNA-directed RNA polymerase subunit alpha
+buh:BUAMB_475	CDS	complement(526346..526966)	rpsD; 30S ribosomal protein S4
+buh:BUAMB_476	CDS	complement(527001..527396)	rpsK; 30S ribosomal protein S11
+buh:BUAMB_477	CDS	complement(527415..527771)	rpsM; 30S ribosomal protein S13
+buh:BUAMB_478	CDS	complement(527857..527973)	rpmJ; 50S ribosomal protein L36
+buh:BUAMB_479	CDS	complement(527991..529310)	secY; preprotein translocase subunit SecY
+buh:BUAMB_480	CDS	complement(529321..529755)	rplO; 50S ribosomal protein L15
+buh:BUAMB_481	CDS	complement(529761..529940)	rpmD; 50S ribosomal protein L30
+buh:BUAMB_482	CDS	complement(529951..530454)	rpsE; 30S ribosomal protein S5
+buh:BUAMB_483	CDS	complement(530469..530837)	rplR; 50S ribosomal protein L18
+buh:BUAMB_484	CDS	complement(530839..531375)	rplF; 50S ribosomal protein L6
+buh:BUAMB_485	CDS	complement(531387..531779)	rpsH; 30S ribosomal protein S8
+buh:BUAMB_486	CDS	complement(531813..532118)	rpsN; 30S ribosomal protein S14
+buh:BUAMB_487	CDS	complement(532135..532674)	rplE; 50S ribosomal protein L5
+buh:BUAMB_488	CDS	complement(532692..533003)	rplX; 50S ribosomal protein L24
+buh:BUAMB_489	CDS	complement(533037..533405)	rplN; 50S ribosomal protein L14
+buh:BUAMB_490	CDS	complement(533523..533774)	rpsQ; 30S ribosomal protein S17
+buh:BUAMB_491	CDS	complement(533774..533971)	rpmC; 50S ribosomal protein L29
+buh:BUAMB_492	CDS	complement(533971..534381)	rplP; 50S ribosomal protein L16
+buh:BUAMB_493	CDS	complement(534402..535103)	rpsC; 30S ribosomal protein S3
+buh:BUAMB_494	CDS	complement(535122..535454)	rplV; 50S ribosomal protein L22
+buh:BUAMB_495	CDS	complement(535455..535757)	rpsS; 30S ribosomal protein S19
+buh:BUAMB_496	CDS	complement(535777..536598)	rplB; 50S ribosomal protein L2
+buh:BUAMB_497	CDS	complement(536614..536916)	rplW; 50S ribosomal protein L23
+buh:BUAMB_498	CDS	complement(536913..537518)	rplD; 50S ribosomal protein L4
+buh:BUAMB_499	CDS	complement(537536..538165)	rplC; 50S ribosomal protein L3
+buh:BUAMB_500	CDS	complement(538200..538511)	rpsJ; 30S ribosomal protein S10
+buh:BUAMB_501	CDS	complement(538819..540003)	tufA; elongation factor Tu
+buh:BUAMB_502	CDS	complement(540058..542166)	fusA; elongation factor G
+buh:BUAMB_503	CDS	complement(542273..542743)	rpsG; 30S ribosomal protein S7
+buh:BUAMB_504	CDS	complement(542809..543183)	rpsL; 30S ribosomal protein S12
+buh:BUAMB_505	CDS	complement(543310..543597)	yheL; sulfur transfer complex subunit TusB
+buh:BUAMB_506	CDS	complement(543613..543972)	yheM; sulfur relay protein TusC
+buh:BUAMB_507	CDS	complement(543992..544378)	yheN; sulfur transfer complex subunit TusD
+buh:BUAMB_508	CDS	complement(544458..545219)	fkpA; FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor
+buh:BUAMB_509	CDS	546538..547704	tsgA; MFS transporter
+buh:BUAMB_510	CDS	complement(547799..548821)	trpS; tryptophanyl-tRNA synthetase
+buh:BUAMB_511	CDS	complement(548848..549534)	rpe; ribulose-phosphate 3-epimerase
+buh:BUAMB_512	CDS	complement(550046..551128)	aroB; 3-dehydroquinate synthase
+buh:BUAMB_513	CDS	complement(551168..551692)	aroK; shikimate kinase I
+buh:BUAMB_514	tRNA	552007..552091	tRNA-Ser
+buh:BUAMB_515	CDS	complement(552105..552809)	deoD; purine nucleoside phosphorylase
+buh:BUAMB_516	CDS	complement(552855..554078)	deoB; phosphopentomutase
+buh:BUAMB_517	CDS	complement(554139..555731)	prfC; peptide chain release factor 3
+buh:BUAMB_518	CDS	complement(555889..556467)	nfuA; iron-sulfur cluster scaffold protein
+buh:BUAMB_519	CDS	556576..557349	bioH; carboxylesterase
+buh:BUAMB_520	CDS	complement(557412..557927)	ssb; single-strand binding protein
+buh:BUAMB_521	CDS	558400..559797	dnaB; replicative DNA helicase
+buh:BUAMB_522	CDS	560046..561008	gshB; glutathione synthetase
+buh:BUAMB_523	CDS	561019..561438	yqgF; putative Holliday junction resolvase
+buh:BUAMB_524	CDS	561748..562878	yggW; putative oxidoreductase
+buh:BUAMB_525	CDS	complement(562903..563619)	trmI; tRNA (m7G46) methyltransferase
+buh:BUAMB_526	CDS	563737..564789	mutY; A/G-specific adenine glycosylase
+buh:BUAMB_527	CDS	564809..565048	yggX; protein that protects iron-sulfur proteins against oxidative damage
+buh:BUAMB_528	CDS	565134..565922	murI; glutamate racemase
+buh:BUAMB_529	gene	complement(565909..567355)	sbcB; pseudogene
+buh:BUAMB_530	CDS	567407..567715	yeeX; conserved protein
+buh:BUAMB_531	tRNA	complement(567728..567803)	tRNA-Asn
+buh:BUAMB_532	tRNA	567943..568015	tRNA-Met
+buh:BUAMB_533	CDS	568138..568779	pyrE; orotate phosphoribosyltransferase
+buh:BUAMB_534	CDS	complement(568791..569246)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+buh:BUAMB_535	CDS	complement(569299..570048)	cysQ; CysQ protein
+buh:BUAMB_536	CDS	complement(570098..570550)	rplI; 50S ribosomal protein L9
+buh:BUAMB_537	CDS	complement(570596..570823)	rpsR; 30S ribosomal protein S18
+buh:BUAMB_538	CDS	complement(570873..571256)	rpsF; 30S ribosomal protein S6
+buh:BUAMB_539	CDS	complement(571418..573616)	rnr; VacB protein
+buh:BUAMB_540	CDS	complement(573693..575003)	purA; adenylosuccinate synthetase
+buh:BUAMB_541	CDS	complement(575059..575988)	hflC; FtsH protease regulator HflC
+buh:BUAMB_542	CDS	complement(575981..577225)	hflK; HflK protein
+buh:BUAMB_543	CDS	complement(577364..578305)	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+buh:BUAMB_544	CDS	complement(579277..580437)	mtlD; mannitol-1-phosphate 5-dehydrogenase
+buh:BUAMB_545	CDS	complement(580510..582387)	mtlA; PTS system mannitol-specific IIABC component
+buh:BUAMB_546	CDS	complement(582551..584200)	pgi; glucose-6-phosphate isomerase
+buh:BUAMB_547	CDS	584501..585052	orn; oligoribonuclease
+buh:BUAMB_548	tRNA	585091..585166	tRNA-Gly
+buh:BUAMB_549	CDS	585434..586120	amiB; N-acetylmuramoyl-L-alanine amidase precursor
+buh:BUAMB_550	CDS	complement(586233..586433)	rpmE; 50S ribosomal protein L31
+buh:BUAMB_551	CDS	587045..587599	hslV; ATP-dependent protease peptidase subunit
+buh:BUAMB_552	CDS	587587..588918	hslU; ATP-dependent protease ATP-binding subunit HslU
+buh:BUAMB_553	CDS	589146..589628	ibpA; 16 kDa heat shock protein A
+buh:BUAMB_554	CDS	589739..590500	fpr; ferredoxin-NADP reductase
+buh:BUAMB_555	CDS	complement(590514..591491)	poxA; lysyl-tRNA synthetase
+buh:BUAMB_556	CDS	591540..592037	coaD; phosphopantetheine adenylyltransferase
+buh:BUAMB_557	CDS	complement(592121..593230)	yba3; hypothetical protein
+buh:BUAMB_558	CDS	593741..594484	yhiQ; putative SAM-dependent methyltransferase
+buh:BUAMB_559	CDS	complement(594560..596011)	pitA; low-affinity inorganic phosphate transporter
+buh:BUAMB_560	CDS	complement(596095..597312)	ynfM; MFS transporter
+buh:BUAMB_561	CDS	complement(597344..598192)	dapF; diaminopimelate epimerase
+buh:BUAMB_562	CDS	598342..598674	cyaY; CyaY protein
+buh:BUAMB_563	CDS	598843..599787	hemC; porphobilinogen deaminase
+buh:BUAMB_564	gene	599784..600540	hemD; pseudogene
+buh:BUAMB_565	tRNA	complement(600547..600623)	tRNA-Pro
+buh:BUAMB_566	tRNA	complement(600637..600712)	tRNA-His
+buh:BUAMB_567	tRNA	complement(600741..600814)	tRNA-Arg
+buh:BUAMB_568	CDS	complement(600972..602231)	rho; transcription termination factor Rho
+buh:BUAMB_569	CDS	complement(602352..602693)	trxA; thioredoxin
+buh:BUAMB_570	CDS	complement(602839..604851)	rep; ATP-dependent DNA helicase Rep
+buh:BUAMB_571	CDS	complement(604916..606388)	ilvC; ketol-acid reductoisomerase
+buh:BUAMB_572	CDS	complement(606424..608277)	ilvD; dihydroxy-acid dehydratase
+buh:BUAMB_573	tRNA	complement(608524..608596)	tRNA-Trp
+buh:BUAMB_574	CDS	608765..609979	iscS; cysteine desulfurase
+buh:BUAMB_575	CDS	610007..610393	iscU; scaffold protein
+buh:BUAMB_576	CDS	610475..610996	hscB; chaperone protein HscB
+buh:BUAMB_577	CDS	611006..612835	hscA; heat shock protein HscA
+buh:BUAMB_578	CDS	612836..613174	fdx; ferredoxin 2fe-2s
+buh:BUAMB_579	CDS	complement(613171..614523)	der; GTP-binding protein EngA
+buh:BUAMB_580	CDS	complement(614602..615189)	yfgM; conserved protein

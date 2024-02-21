@@ -1,0 +1,625 @@
+bak:BAKON_pTrp001	CDS	pTrp:1..1566	trpE; anthranilate synthase large subunit
+bak:BAKON_pTrp002	CDS	pTrp:1569..2162	trpG; anthranilate synthase small subunit
+bak:BAKON_pTrp003	CDS	pTrp:2202..2993	repAC1; putative replication initiation protein
+bak:BAKON_pLeu001	CDS	pLeu:complement(328..1179)	repA1; replication-associated protein RepA1
+bak:BAKON_pLeu002	CDS	pLeu:1488..1991	hypothetical protein BUpL02
+bak:BAKON_pLeu003	CDS	pLeu:2138..2884	repA2; replication-associated protein RepA2
+bak:BAKON_pLeu004	CDS	pLeu:3024..4583	leuA; 2-isopropylmalate synthase
+bak:BAKON_pLeu005	CDS	pLeu:4646..5737	leuB; 3-isopropylmalate dehydrogenase
+bak:BAKON_pLeu006	CDS	pLeu:5743..7167	leuC; isopropylmalate isomerase large subunit
+bak:BAKON_pLeu007	CDS	pLeu:7161..7784	leuD; isopropylmalate isomerase small subunit
+bak:BAKON_001	CDS	192..2078	mnmG; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+bak:BAKON_002	CDS	2274..3098	atpB; F0F1 ATP synthase subunit A
+bak:BAKON_003	CDS	3135..3374	atpE; F0F1 ATP synthase subunit C
+bak:BAKON_004	CDS	3506..3991	atpF; F0F1 ATP synthase subunit B
+bak:BAKON_005	CDS	3991..4524	atpH; F0F1 ATP synthase subunit delta
+bak:BAKON_006	CDS	4539..6077	atpA; F0F1 ATP synthase subunit alpha
+bak:BAKON_007	CDS	6112..6984	atpG; F0F1 ATP synthase subunit gamma
+bak:BAKON_008	CDS	7009..8406	atpD; F0F1 ATP synthase subunit beta
+bak:BAKON_009	CDS	8432..8848	atpC; F0F1 ATP synthase subunit epsilon
+bak:BAKON_010	CDS	complement(8922..11333)	gyrB; DNA gyrase subunit B
+bak:BAKON_011	CDS	complement(11415..12518)	dnaN; DNA polymerase III beta chain
+bak:BAKON_012	CDS	complement(12523..13887)	dnaA; chromosomal replication initiation protein
+bak:BAKON_013	CDS	14341..14484	rpmH; 50S ribosomal protein L34
+bak:BAKON_014	CDS	14499..14846	rnpA; ribonuclease P protein component
+bak:BAKON_015	CDS	15040..16650	yidC; 60 kDa inner-membrane protein
+bak:BAKON_016	CDS	16735..18096	mnmE; tRNA modification GTPase TrmE
+bak:BAKON_017	tRNA	complement(18121..18193)	tRNA-Phe
+bak:BAKON_018	CDS	18461..18751	groES; co-chaperonin GroES
+bak:BAKON_019	CDS	18800..20446	groEL; chaperonin GroEL
+bak:BAKON_020	CDS	20996..21565	efp; elongation factor P
+bak:BAKON_021	CDS	complement(21586..22326)	dnaC; DNA replication protein DnaC
+bak:BAKON_022	CDS	complement(22326..22820)	dnaT; primosomal protein DnaI
+bak:BAKON_023	CDS	complement(22915..23487)	rsmD; 16S rRNA m2G966 methyltransferase
+bak:BAKON_024	CDS	23624..24763	ftsY; cell division protein FtsY
+bak:BAKON_025	CDS	24919..25773	rpoH; RNA polymerase factor sigma-32
+bak:BAKON_026	CDS	complement(25915..27741)	glmS; glucosamine--fructose-6-phosphate aminotransferase
+bak:BAKON_027	CDS	complement(27814..29190)	glmU; UDP-N-acetylglucosamine pyrophosphorylase
+bak:BAKON_028	CDS	29359..30153	yigL; sugar phosphatase
+bak:BAKON_029	CDS	complement(30192..31103)	metR; transcriptional dual regulator
+bak:BAKON_030	CDS	31246..33522	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+bak:BAKON_031	CDS	complement(33645..35213)	purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+bak:BAKON_032	CDS	complement(35357..35629)	hupA; DNA-binding protein HU-alpha
+bak:BAKON_033	CDS	complement(36312..40535)	rpoC; DNA-directed RNA polymerase subunit beta'
+bak:BAKON_034	CDS	complement(40590..44618)	rpoB; DNA-directed RNA polymerase subunit beta
+bak:BAKON_035	CDS	complement(44837..45205)	rplL; 50S ribosomal protein L7/L12
+bak:BAKON_036	CDS	complement(45272..45769)	rplJ; 50S ribosomal protein L10
+bak:BAKON_037	CDS	complement(46022..46717)	rplA; 50S ribosomal protein L1
+bak:BAKON_038	CDS	complement(46720..47148)	rplK; 50S ribosomal protein L11
+bak:BAKON_039	CDS	complement(47189..47734)	nusG; transcription antitermination protein NusG
+bak:BAKON_040	CDS	complement(47737..48120)	secE; preprotein translocase subunit SecE
+bak:BAKON_041	tRNA	complement(48422..48494)	tRNA-Thr
+bak:BAKON_042	tRNA	complement(48508..48579)	tRNA-Gly
+bak:BAKON_043	tRNA	complement(48606..48687)	tRNA-Tyr
+bak:BAKON_044	tRNA	complement(48703..48775)	tRNA-Thr
+bak:BAKON_045	CDS	complement(48924..49982)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+bak:BAKON_046	CDS	50101..50979	metF; 5,10-methylenetetrahydrofolate reductase
+bak:BAKON_047	CDS	complement(50990..52135)	argE; acetylornithine deacetylase
+bak:BAKON_048	CDS	52299..53303	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+bak:BAKON_049	CDS	53321..54097	argB; acetylglutamate kinase
+bak:BAKON_050	CDS	54126..55337	argG; argininosuccinate synthase
+bak:BAKON_051	CDS	55404..56783	argH; argininosuccinate lyase
+bak:BAKON_052	CDS	56881..57315	yibN; putative rhodanese-related sulfurtransferase
+bak:BAKON_053	CDS	57411..57851	secB; preprotein translocase subunit SecB
+bak:BAKON_054	CDS	57939..58763	cysE; serine acetyltransferase
+bak:BAKON_055	CDS	complement(58867..60705)	rpoD; RNA polymerase sigma factor RpoD
+bak:BAKON_056	CDS	complement(60872..62605)	dnaG; DNA primase
+bak:BAKON_057	CDS	complement(62684..62899)	rpsU; 30S ribosomal protein S21
+bak:BAKON_058	CDS	63131..64141	ygjD; putative DNA-binding/iron metalloprotein/AP endonuclease
+bak:BAKON_059	CDS	complement(64119..64766)	ribB; 3,4-dihydroxy-2-butanone 4-phosphate synthase
+bak:BAKON_060	CDS	complement(65055..66002)	rfaE; kinase
+bak:BAKON_061	CDS	66227..67471	cca; tRNA CCA-pyrophosphorylase
+bak:BAKON_062	CDS	complement(67499..68296)	bacA; bacitracin resistance protein
+bak:BAKON_063	CDS	complement(68379..68882)	crr; glucose-specific PTS system component
+bak:BAKON_064	CDS	complement(68933..70648)	ptsI; phosphoenolpyruvate-protein phosphotransferase
+bak:BAKON_065	CDS	complement(70799..71056)	ptsH; phosphocarrier protein HPr
+bak:BAKON_066	CDS	complement(71111..72058)	cysK; cysteine synthase A
+bak:BAKON_067	CDS	72312..74333	lig; DNA ligase (NAD+)
+bak:BAKON_068	tRNA	complement(74350..74422)	tRNA-Lys
+bak:BAKON_069	tRNA	complement(74454..74529)	tRNA-Val
+bak:BAKON_070	CDS	74733..76136	gltX; glutamyl-tRNA synthetase
+bak:BAKON_071	tRNA	76276..76348	tRNA-Ala
+bak:BAKON_072	CDS	complement(76485..76793)	fliE; flagellar hook-basal body complex protein FliE
+bak:BAKON_073	CDS	77055..78722	fliF; flagellar MS-ring protein
+bak:BAKON_074	CDS	78719..79714	fliG; flagellar motor switch protein FliG
+bak:BAKON_075	CDS	79707..80369	fliH; flagellar assembly protein FliH
+bak:BAKON_076	CDS	80369..81730	fliI; flagellum-specific ATP synthase
+bak:BAKON_077	CDS	81760..82203	fliJ; flagellar FliJ protein
+bak:BAKON_078	CDS	82206..83378	fliK; flagellar hook-length control protein
+bak:BAKON_079	CDS	83487..84422	fliM; flagellar motor switch protein FliM
+bak:BAKON_080	CDS	84439..84840	fliN; flagellar motor switch protein FliN
+bak:BAKON_081	CDS	84852..85991	fliP; type III secretion system protein
+bak:BAKON_082	CDS	86063..86332	fliQ; flagellar biosynthetic protein FliQ
+bak:BAKON_083	CDS	86332..87108	fliR; flagellar biosynthetic protein FliR
+bak:BAKON_084	CDS	complement(87272..87439)	rpmG; 50S ribosomal protein L33
+bak:BAKON_085	CDS	complement(87444..87677)	rpmB; 50S ribosomal protein L28
+bak:BAKON_086	CDS	87927..90836	ytfN; conserved protein
+bak:BAKON_087	CDS	complement(90874..91407)	ppa; inorganic pyrophosphatase
+bak:BAKON_088	CDS	91604..92944	pmbA; PmbA protein
+bak:BAKON_089	ncRNA	complement(93023..93342)	ribonuclease P RNA component
+bak:BAKON_090	CDS	complement(93407..94267)	rsmI; 16S rRNA 2'-O-ribose C1402 methyltransferase
+bak:BAKON_091	CDS	94390..95601	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I
+bak:BAKON_092	CDS	95876..96826	talA; transaldolase B
+bak:BAKON_093	CDS	96882..98879	tktB; transketolase
+bak:BAKON_094	CDS	98985..100112	dapE; succinyl-diaminopimelate desuccinylase
+bak:BAKON_095	CDS	complement(100481..101365)	dapA; dihydrodipicolinate synthase
+bak:BAKON_096	CDS	complement(102015..103079)	aroC; chorismate synthase
+bak:BAKON_097	CDS	103362..103928	yfcN; conserved protein
+bak:BAKON_098	CDS	104348..105247	hisG; ATP phosphoribosyltransferase
+bak:BAKON_099	CDS	105256..106563	hisD; histidinol dehydrogenase
+bak:BAKON_100	CDS	106560..107666	hisC; histidinol-phosphate aminotransferase
+bak:BAKON_101	CDS	107656..108717	hisB; imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+bak:BAKON_102	CDS	108717..109307	hisH; imidazole glycerol phosphate synthase subunit HisH
+bak:BAKON_103	CDS	109312..110052	hisA; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+bak:BAKON_104	CDS	110031..110807	hisF; imidazole glycerol phosphate synthase subunit HisF
+bak:BAKON_105	CDS	110801..111409	hisI; bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein
+bak:BAKON_106	CDS	111794..113200	gnd; 6-phosphogluconate dehydrogenase
+bak:BAKON_107	CDS	113380..113961	dcd; deoxycytidine triphosphate deaminase
+bak:BAKON_108	CDS	114115..115758	metG; methionyl-tRNA synthetase
+bak:BAKON_109	CDS	complement(115811..117133)	tilS; cell cycle protein MesJ
+bak:BAKON_110	tRNA	complement(117166..117239)	tRNA-Val
+bak:BAKON_111	CDS	117402..118025	ribC; riboflavin synthase subunit alpha
+bak:BAKON_112	CDS	118130..118711	rsxA; integral membrane protein of SoxR-reducing complex
+bak:BAKON_113	CDS	118714..119214	rsxB; member of SoxR-reducing complex
+bak:BAKON_114	CDS	119365..120837	rsxC; member of SoxR-reducing complex
+bak:BAKON_115	CDS	120885..121946	rsxD; integral membrane protein of SoxR-reducing complex
+bak:BAKON_116	CDS	122131..122574	rsxG; member of SoxR-reducing complex
+bak:BAKON_117	CDS	122564..123262	rsxE; integral membrane protein of SoxR-reducing complex
+bak:BAKON_118	CDS	123259..123885	nth; endonuclease III
+bak:BAKON_119	gene	123908..126087	priA; pseudogene
+bak:BAKON_120	CDS	126216..127484	tyrS; tyrosyl-tRNA synthetase
+bak:BAKON_121	CDS	complement(127492..127875)	sufA; Fe-S cluster assembly, scaffold protein
+bak:BAKON_122	CDS	128109..129191	ydiK; putative inner membrane protein
+bak:BAKON_123	CDS	129557..130603	aroH; phospho-2-dehydro-3-deoxyheptonate aldolase
+bak:BAKON_124	CDS	130797..132725	thrS; threonyl-tRNA synthetase
+bak:BAKON_125	CDS	132729..133268	infC; translation initiation factor IF-3
+bak:BAKON_126	CDS	133357..133554	rpmI; 50S ribosomal protein L35
+bak:BAKON_127	CDS	133597..133953	rplT; 50S ribosomal protein L20
+bak:BAKON_128	CDS	134147..135136	pheS; phenylalanyl-tRNA synthetase subunit alpha
+bak:BAKON_129	CDS	135146..137533	pheT; phenylalanyl-tRNA synthetase subunit beta
+bak:BAKON_130	CDS	137538..137846	ihfA; integration host factor subunit alpha
+bak:BAKON_131	gene	137886..138731	queA; pseudogene
+bak:BAKON_132	CDS	138799..139911	tgt; queuine tRNA-ribosyltransferase
+bak:BAKON_133	CDS	139936..140271	yajC; hypothetical protein
+bak:BAKON_134	CDS	complement(140351..142399)	glyS; glycyl-tRNA synthetase beta chain
+bak:BAKON_135	CDS	complement(142374..143312)	glyQ; glycyl-tRNA synthetase subunit alpha
+bak:BAKON_136	CDS	143974..144840	nfo; endonuclease IV
+bak:BAKON_137	CDS	144854..145138	rplY; 50S ribosomal protein L25
+bak:BAKON_138	CDS	complement(145199..145972)	yabI; conserved inner membrane protein
+bak:BAKON_139	CDS	146186..147478	surA; survival protein SurA precursor
+bak:BAKON_140	CDS	147528..148352	rsmA; dimethyladenosine transferase
+bak:BAKON_141	CDS	148397..149212	apaH; diadenosine tetraphosphatase
+bak:BAKON_142	CDS	complement(149247..149729)	folA; dihydrofolate reductase
+bak:BAKON_143	CDS	complement(149809..153048)	carB; carbamoyl phosphate synthase large subunit
+bak:BAKON_144	CDS	complement(153076..154227)	carA; carbamoyl phosphate synthase small subunit
+bak:BAKON_145	CDS	complement(154438..155247)	dapB; dihydrodipicolinate reductase
+bak:BAKON_146	CDS	complement(155240..156211)	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+bak:BAKON_147	CDS	complement(156278..156754)	lspA; lipoprotein signal peptidase
+bak:BAKON_148	CDS	complement(156754..159576)	ileS; isoleucyl-tRNA synthetase
+bak:BAKON_149	CDS	complement(159598..160533)	ribF; FMN adenylyltransferase
+bak:BAKON_150	CDS	160729..160998	rpsT; 30S ribosomal protein S20
+bak:BAKON_151	CDS	complement(161048..162181)	dnaJ; DnaJ protein
+bak:BAKON_152	CDS	complement(162294..164207)	dnaK; molecular chaperone DnaK
+bak:BAKON_153	CDS	164558..164944	nuoA; NADH dehydrogenase I chain A
+bak:BAKON_154	CDS	164995..165669	nuoB; NADH dehydrogenase subunit B
+bak:BAKON_155	CDS	165767..167569	nuoCD; bifunctional NADH:ubiquinone oxidoreductase subunit C/D
+bak:BAKON_156	CDS	167592..168080	nuoE; NADH dehydrogenase subunit E
+bak:BAKON_157	CDS	168077..169408	nuoF; NADH dehydrogenase I chain F
+bak:BAKON_158	CDS	169490..172222	nuoG; NADH dehydrogenase subunit G
+bak:BAKON_159	CDS	172219..173196	nuoH; NADH dehydrogenase subunit H
+bak:BAKON_160	CDS	173212..173754	nuoI; NADH dehydrogenase subunit I
+bak:BAKON_161	CDS	173765..174274	nuoJ; NADH dehydrogenase I chain J
+bak:BAKON_162	CDS	174305..174607	nuoK; NADH dehydrogenase I chain K
+bak:BAKON_163	CDS	174604..176454	nuoL; NADH dehydrogenase I chain L
+bak:BAKON_164	CDS	176545..178047	nuoM; NADH dehydrogenase I chain M
+bak:BAKON_165	CDS	178068..179528	nuoN; NADH dehydrogenase I chain N
+bak:BAKON_166	gene	179561..180448	alx; pseudogene
+bak:BAKON_167	CDS	180494..181735	folC; dihydrofolate synthase
+bak:BAKON_168	gene	181759..182225	cvpA; pseudogene
+bak:BAKON_169	CDS	complement(182300..183247)	prs; ribose-phosphate pyrophosphokinase
+bak:BAKON_170	gene	complement(183348..184222)	ispE; pseudogene
+bak:BAKON_171	CDS	184456..185541	prfA; peptide chain release factor 1
+bak:BAKON_172	CDS	185538..186365	prmC; HemK protein
+bak:BAKON_173	CDS	186534..187343	ychA; putative transcriptional regulator
+bak:BAKON_174	CDS	complement(187351..188157)	nadE; NAD synthetase
+bak:BAKON_175	CDS	188241..189458	ackA; acetate kinase
+bak:BAKON_176	CDS	189503..191623	pta; phosphate acetyltransferase
+bak:BAKON_177	CDS	complement(191650..191913)	yfaE; 2Fe-2S cluster-containing protein involved in diferric-tyrosyl radical cofactor maintenance
+bak:BAKON_178	CDS	complement(191915..193045)	nrdB; ribonucleotide-diphosphate reductase subunit beta
+bak:BAKON_179	CDS	complement(193108..195393)	nrdA; ribonucleotide-diphosphate reductase subunit alpha
+bak:BAKON_180	CDS	complement(195478..197979)	gyrA; DNA gyrase subunit A
+bak:BAKON_181	CDS	198244..198969	yba2; hypothetical protein
+bak:BAKON_182	CDS	complement(199078..199671)	ahpC; alkyl hydroperoxide reductase
+bak:BAKON_183	CDS	199765..200406	ung; uracil-DNA glycosylase
+bak:BAKON_184	CDS	complement(200483..201049)	grpE; heat shock protein GrpE2
+bak:BAKON_185	CDS	201167..202045	nadK; inorganic polyphosphate/ATP-NAD kinase
+bak:BAKON_186	CDS	202139..202447	smpA; small protein A
+bak:BAKON_187	tmRNA	complement(202484..202848)	ssrA
+bak:BAKON_188	CDS	202980..203306	grxD; glutaredoxin 4
+bak:BAKON_189	CDS	complement(203462..204121)	rnt; ribonuclease T
+bak:BAKON_190	CDS	204341..204952	sodA; superoxide dismutase
+bak:BAKON_191	CDS	205102..205635	pth; peptidyl-tRNA hydrolase
+bak:BAKON_192	CDS	205676..206764	ychF; GTP-dependent nucleic acid-binding protein EngD
+bak:BAKON_193	CDS	complement(206828..208117)	thrC; threonine synthase
+bak:BAKON_194	CDS	complement(208121..209050)	thrB; homoserine kinase
+bak:BAKON_195	CDS	complement(209068..211518)	thrA; bifunctional aspartokinase I/homoserine dehydrogenase I
+bak:BAKON_196	CDS	212205..212741	hpt; hypoxanthine phosphoribosyltransferase
+bak:BAKON_197	CDS	complement(212761..213618)	panC; pantoate--beta-alanine ligase
+bak:BAKON_198	CDS	complement(213635..214426)	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+bak:BAKON_199	CDS	complement(214549..214998)	dksA; DnaK suppressor protein
+bak:BAKON_200	CDS	215304..216104	truA; tRNA pseudouridine synthase A
+bak:BAKON_201	CDS	216206..218467	mrcB; penicillin-binding protein 1b
+bak:BAKON_202	CDS	218535..221159	secA; preprotein translocase subunit SecA
+bak:BAKON_203	CDS	221214..221600	mutT; mutator MutT protein
+bak:BAKON_204	CDS	complement(221673..222326)	coaE; dephospho-CoA kinase
+bak:BAKON_205	CDS	222382..223431	guaC; guanosine 5'-monophosphate oxidoreductase
+bak:BAKON_206	CDS	223664..226327	aceE; pyruvate dehydrogenase subunit E1
+bak:BAKON_207	CDS	226342..227550	aceF; branched-chain alpha-keto acid dehydrogenase subunit E2
+bak:BAKON_208	CDS	227612..229033	lpdA; dihydrolipoamide dehydrogenase
+bak:BAKON_209	CDS	complement(229169..229969)	speD; S-adenosylmethionine decarboxylase
+bak:BAKON_210	CDS	complement(229997..230857)	speE; spermidine synthase
+bak:BAKON_211	CDS	complement(231126..231824)	mtn; 5'-methylthioadenosine nucleosidase
+bak:BAKON_212	CDS	complement(231891..232235)	erpA; iron-sulfur cluster insertion protein ErpA
+bak:BAKON_213	CDS	complement(232472..233626)	ftsZ; cell division protein FtsZ
+bak:BAKON_214	CDS	complement(233684..234940)	ftsA; cell division protein FtsA
+bak:BAKON_215	CDS	complement(235134..236066)	ddl; D-alanine--D-alanine ligase
+bak:BAKON_216	CDS	complement(236071..237516)	murC; UDP-N-acetylmuramate-alanine ligase
+bak:BAKON_217	CDS	complement(237558..238622)	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+bak:BAKON_218	CDS	complement(238619..239818)	ftsW; cell division protein FtsW
+bak:BAKON_219	CDS	complement(239815..241134)	murD; UDP-N-acetylmuramoylalanine-D-glutamate ligase
+bak:BAKON_220	CDS	complement(241134..242204)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+bak:BAKON_221	gene	complement(242198..243564)	murF; pseudogene
+bak:BAKON_222	CDS	complement(243561..245054)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase
+bak:BAKON_223	CDS	complement(245070..246827)	ftsI; cell division protein FtsI
+bak:BAKON_224	CDS	complement(246855..247058)	ftsL; cell division protein
+bak:BAKON_225	CDS	complement(247060..247998)	rsmH; 16S rRNA m4C1402 methyltransferase
+bak:BAKON_226	CDS	complement(248229..248705)	ilvH; acetolactate synthase small subunit
+bak:BAKON_227	CDS	complement(248709..250424)	ilvI; acetolactate synthase large subunit
+bak:BAKON_228	gene	complement(250724..251777)	apbE; pseudogene
+bak:BAKON_229	CDS	252075..253511	degP; serine endoprotease
+bak:BAKON_230	CDS	complement(253556..254380)	dapD; 2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+bak:BAKON_231	CDS	complement(254451..255245)	map; methionine aminopeptidase
+bak:BAKON_232	CDS	255510..256244	rpsB; 30S ribosomal protein S2
+bak:BAKON_233	CDS	256319..257128	tsf; elongation factor Ts
+bak:BAKON_234	CDS	257180..257908	pyrH; uridylate kinase
+bak:BAKON_235	CDS	257987..258544	frr; ribosome recycling factor
+bak:BAKON_236	CDS	258639..259835	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+bak:BAKON_237	CDS	259929..260678	ispU; undecaprenyl pyrophosphate synthetase
+bak:BAKON_238	CDS	260887..263289	bamA; outer membrane associated protein
+bak:BAKON_239	CDS	263453..263908	fabZ; (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+bak:BAKON_240	CDS	263943..267428	dnaE; DNA polymerase III alpha chain
+bak:BAKON_241	CDS	complement(267608..269326)	proS; prolyl-tRNA synthetase
+bak:BAKON_242	CDS	269624..270775	flhB; flagellar biosynthesis protein FlhB
+bak:BAKON_243	CDS	270768..272855	flhA; flagellar biosynthesis protein FlhA
+bak:BAKON_244	CDS	complement(272989..274719)	argS; arginyl-tRNA synthetase
+bak:BAKON_245	rRNA	275145..276683	16S ribosomal RNA
+bak:BAKON_246	tRNA	276739..276815	tRNA-Ile
+bak:BAKON_247	tRNA	276828..276900	tRNA-Ala
+bak:BAKON_248	CDS	complement(276892..277647)	gloB; hydroxyacylglutathione hydrolase
+bak:BAKON_249	CDS	complement(277694..278164)	rnhA; RNase HI
+bak:BAKON_250	CDS	278221..278940	dnaQ; DNA polymerase III epsilon chain
+bak:BAKON_251	tRNA	279012..279085	tRNA-Asp
+bak:BAKON_252	CDS	279144..279725	lpcA; phosphoheptose isomerase
+bak:BAKON_253	CDS	279831..280307	gpt; xanthine-guanine phosphoribosyltransferase
+bak:BAKON_254	CDS	280385..280969	grpE1; heat shock protein GrpE1
+bak:BAKON_255	CDS	complement(281002..281298)	yfjF; hypothetical protein
+bak:BAKON_256	CDS	281388..281876	smpB; SsrA-binding protein
+bak:BAKON_257	CDS	281885..282346	tadA; tRNA-specific adenosine deaminase monomer
+bak:BAKON_258	CDS	complement(282372..282752)	acpS; holo-[acyl-carrier protein] synthase
+bak:BAKON_259	CDS	complement(282880..283731)	era; GTP-binding protein Era
+bak:BAKON_260	CDS	complement(283728..284408)	rnc; ribonuclease III
+bak:BAKON_261	CDS	complement(284544..285488)	lepB; signal peptidase I
+bak:BAKON_262	CDS	complement(285504..287336)	lepA; GTP-binding protein LepA
+bak:BAKON_263	CDS	287528..288640	mnmA; tRNA-specific 2-thiouridylase MnmA
+bak:BAKON_264	CDS	288670..289305	hflD; lysogenization regulator
+bak:BAKON_265	CDS	289344..290714	purB; adenylosuccinate lyase
+bak:BAKON_266	CDS	290805..291395	emtA; membrane-bound lytic murein transglycosylase E
+bak:BAKON_267	CDS	291478..292260	fabI; enoyl-[acyl-carrier-protein] reductase (NADH)
+bak:BAKON_268	CDS	292460..294400	rnb; exoribonuclease II
+bak:BAKON_269	CDS	294463..295110	ychE; putative inner membrane protein
+bak:BAKON_270	CDS	295148..295783	lipB; lipoyltransferase
+bak:BAKON_271	CDS	295910..296863	lipA; lipoyl synthase
+bak:BAKON_272	CDS	296957..297697	pyrF; orotidine 5'-phosphate decarboxylase
+bak:BAKON_273	CDS	297754..298338	ribA; GTP cyclohydrolase II
+bak:BAKON_274	gene	complement(298440..298831)	hns; pseudogene
+bak:BAKON_275	CDS	complement(299079..300539)	cls; cardiolipin synthetase
+bak:BAKON_276	CDS	complement(300875..301282)	yciA; acyl-CoA thioesterase
+bak:BAKON_277	CDS	complement(301320..301853)	yciB; intracellular septation protein A
+bak:BAKON_278	CDS	complement(301882..302625)	yciC; putative inner membrane protein
+bak:BAKON_279	CDS	complement(302733..303542)	trpA; tryptophan synthase subunit alpha
+bak:BAKON_280	CDS	complement(303517..304725)	trpB; tryptophan synthase subunit beta
+bak:BAKON_281	CDS	complement(304765..306126)	trpC; bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+bak:BAKON_282	CDS	complement(306107..307135)	trpD; anthranilate phosphoribosyltransferase
+bak:BAKON_283	CDS	307367..308266	yedA; putative membrane transport protein
+bak:BAKON_284	CDS	308296..309036	rluB; 23S rRNA pseudouridine 2605 synthase
+bak:BAKON_285	CDS	309126..310163	sohB; putative periplasmic protease
+bak:BAKON_286	CDS	310249..312834	topA; DNA topoisomerase I
+bak:BAKON_287	CDS	complement(312864..313661)	suhB; extragenic suppressor protein SuhB
+bak:BAKON_288	CDS	313894..314985	rlmN; 23S rRNA m2A2503 methyltransferase
+bak:BAKON_289	CDS	315034..316146	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+bak:BAKON_290	CDS	316189..317463	hisS; histidyl-tRNA synthetase
+bak:BAKON_291	CDS	317533..318786	glyA; serine hydroxymethyltransferase
+bak:BAKON_292	CDS	complement(318876..319550)	bioD; dethiobiotin synthetase
+bak:BAKON_293	CDS	complement(319916..320947)	bioB; biotin synthetase
+bak:BAKON_294	CDS	321025..322329	bioA; adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+bak:BAKON_295	CDS	complement(322310..323314)	pgl; 6-phosphogluconolactonase
+bak:BAKON_296	CDS	complement(323395..325833)	mfd; transcription-repair coupling factor
+bak:BAKON_297	CDS	326384..327583	lolC; membrane component of lipoprotein export ABC transporter
+bak:BAKON_298	CDS	327576..328256	lolD; ABC transporter ATP-binding protein of lipoprotein export ABC transporter
+bak:BAKON_299	CDS	328280..329515	lolE; membrane component of lipoprotein export ABC transporter
+bak:BAKON_300	CDS	329626..330624	gapA; glyceraldehyde 3-phosphate dehydrogenase A
+bak:BAKON_301	CDS	complement(331294..331803)	fldA; flavodoxin FldA
+bak:BAKON_302	CDS	332290..333717	phr; deoxyribodipyrimidine photolyase
+bak:BAKON_303	CDS	333738..334481	ybgI; conserved metal-binding protein
+bak:BAKON_304	CDS	334579..337290	sucA; 2-oxoglutarate dehydrogenase E1 component
+bak:BAKON_305	CDS	337294..338496	sucB; 2-oxoglutarate dehydrogenase E2 component
+bak:BAKON_306	CDS	338666..339361	gpmA; phosphoglycerate mutase
+bak:BAKON_307	CDS	339563..340525	pfkA; 6-phosphofructokinase
+bak:BAKON_308	CDS	340593..341384	glpF; glycerol uptake facilitator protein
+bak:BAKON_309	CDS	complement(341394..342158)	tpiA; triosephosphate isomerase
+bak:BAKON_310	CDS	complement(342268..342552)	ihfB; integration host factor subunit beta
+bak:BAKON_311	CDS	complement(342644..344320)	rpsA; 30S ribosomal protein S1
+bak:BAKON_312	CDS	complement(344449..345105)	cmk; cytidylate kinase
+bak:BAKON_313	CDS	complement(345160..346443)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+bak:BAKON_314	CDS	complement(346506..347591)	serC; phosphoserine aminotransferase
+bak:BAKON_315	CDS	complement(347630..348913)	serS; seryl-tRNA synthetase
+bak:BAKON_316	CDS	349223..350182	trxB; thioredoxin reductase
+bak:BAKON_317	CDS	350287..350505	infA; translation initiation factor IF-1
+bak:BAKON_318	CDS	350676..352442	aspS; aspartyl-tRNA synthetase
+bak:BAKON_319	CDS	complement(352456..353244)	znuB; high-affinity zinc uptake system membrane protein ZnuB
+bak:BAKON_320	CDS	complement(353277..353993)	znuC; high-affinity zinc uptake system ATP-binding protein ZnuC
+bak:BAKON_321	CDS	complement(354985..356427)	pykA; pyruvate kinase
+bak:BAKON_322	CDS	356722..358197	zwf; glucose-6-phosphate 1-dehydrogenase
+bak:BAKON_323	CDS	358381..359259	htpX; heat shock protein HtpX
+bak:BAKON_324	CDS	359601..359810	cspC; cold shock-like protein CspC
+bak:BAKON_325	CDS	360063..361643	yoaE; putative inner membrane protein
+bak:BAKON_326	CDS	361709..362371	yeaZ; protease specific for YgjD
+bak:BAKON_327	CDS	complement(362525..362776)	minE; cell division topological specificity factor MinE
+bak:BAKON_328	CDS	complement(362779..363591)	minD; septum site-determining protein MinD
+bak:BAKON_329	CDS	complement(363618..364328)	minC; cell division inhibitor MinC
+bak:BAKON_330	gene	364588..365603	rsmC; pseudogene
+bak:BAKON_331	tRNA	complement(365621..365707)	tRNA-Leu
+bak:BAKON_332	tRNA	complement(365719..365792)	tRNA-Cys
+bak:BAKON_333	tRNA	365955..366039	tRNA-Ser
+bak:BAKON_334	CDS	complement(366133..367179)	ompA; outer membrane protein A precursor
+bak:BAKON_335	CDS	complement(367320..368858)	murJ; virulence factor MviN-like protein
+bak:BAKON_336	CDS	369112..370167	pyrC; dihydroorotase
+bak:BAKON_337	CDS	complement(370176..370586)	flgN; flagella synthesis protein FlgN
+bak:BAKON_338	CDS	complement(370681..371361)	flgA; flagella basal-body P-ring formation protein FlgA precursor
+bak:BAKON_339	CDS	371600..372010	flgB; flagellar basal-body rod protein FlgB
+bak:BAKON_340	CDS	372019..372429	flgC; flagellar basal-body rod protein FlgC
+bak:BAKON_341	CDS	372440..373141	flgD; basal-body rod modification protein FlgD
+bak:BAKON_342	CDS	373183..374406	flgE; flagellar hook protein FlgE
+bak:BAKON_343	CDS	374433..375188	flgF; flagellar basal body rod protein FlgF
+bak:BAKON_344	CDS	375209..375991	flgG; flagellar basal body rod protein FlgG
+bak:BAKON_345	CDS	376068..376784	flgH; flagellar basal body L-ring protein
+bak:BAKON_346	CDS	377005..378114	flgI; flagellar basal body P-ring protein
+bak:BAKON_347	CDS	378114..378413	flgJ; flagellar protein FlgJ
+bak:BAKON_348	CDS	378509..380140	flgK; flagellar hook-associated protein 1
+bak:BAKON_349	CDS	complement(380260..382965)	rne; ribonuclease E
+bak:BAKON_350	CDS	383218..384162	rluC; ribosomal large subunit pseudouridine synthase C
+bak:BAKON_351	CDS	384244..384408	rpmF; 50S ribosomal protein L32
+bak:BAKON_352	gene	384779..385728	fabD; pseudogene
+bak:BAKON_353	CDS	385721..386455	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+bak:BAKON_354	CDS	386512..386757	acpP; acyl carrier protein
+bak:BAKON_355	CDS	386864..387502	tmk; thymidylate kinase
+bak:BAKON_356	CDS	387499..388488	holB; DNA polymerase III delta' subunit
+bak:BAKON_357	CDS	388512..389306	ycfH; putative metallodependent hydrolase
+bak:BAKON_358	CDS	389404..390843	ptsG; glucose-specific PTS system IIBC components
+bak:BAKON_359	CDS	390846..391190	hinT; purine nucleoside phosphoramidase
+bak:BAKON_360	gene	391252..391743	ycfM; pseudogene
+bak:BAKON_361	CDS	complement(392076..393218)	ompF; OmpF-like porin
+bak:BAKON_362	CDS	complement(393352..394752)	asnC; asparaginyl-tRNA synthetase
+bak:BAKON_363	CDS	complement(394866..396065)	pncB; nicotinate phosphoribosyltransferase
+bak:BAKON_365	CDS	396471..397334	pyrD; dihydroorotate dehydrogenase 2
+bak:BAKON_366	CDS	397497..399602	rlmL; 23S rRNA m(2)G2445 methyltransferase
+bak:BAKON_367	CDS	399623..401404	uup; ABC transporter ATP-binding protein Uup
+bak:BAKON_368	CDS	complement(401467..402414)	yceA; conserved protein
+bak:BAKON_369	CDS	complement(402475..405342)	valS; valyl-tRNA synthetase
+bak:BAKON_370	CDS	complement(405436..406944)	pepA; leucyl aminopeptidase
+bak:BAKON_371	CDS	407204..408220	argF; ornithine carbamoyltransferase subunit I
+bak:BAKON_372	CDS	408339..409274	pyrB; aspartate carbamoyltransferase catalytic subunit
+bak:BAKON_373	CDS	409279..409743	pyrI; aspartate carbamoyltransferase regulatory subunit
+bak:BAKON_374	CDS	409789..410175	tdcF; putative L-PSP (mRNA) endoribonuclease
+bak:BAKON_375	CDS	complement(410261..412063)	deaD; ATP-dependent RNA helicase DeaD
+bak:BAKON_376	CDS	complement(412438..414561)	pnp; polynucleotide phosphorylase/polyadenylase
+bak:BAKON_377	CDS	complement(414750..415019)	rpsO; 30S ribosomal protein S15
+bak:BAKON_378	CDS	complement(415123..416061)	truB; tRNA pseudouridine 55 synthase
+bak:BAKON_379	CDS	complement(416102..416461)	rbfA; ribosome-binding factor A
+bak:BAKON_380	CDS	complement(416508..419144)	infB; translation initiation factor IF-2
+bak:BAKON_381	CDS	complement(419161..420651)	nusA; transcription elongation factor NusA
+bak:BAKON_382	tRNA	complement(420997..421079)	tRNA-Leu
+bak:BAKON_383	CDS	complement(421127..421456)	secG; preprotein translocase subunit SecG
+bak:BAKON_384	CDS	complement(421718..423052)	glmM; MrsA protein
+bak:BAKON_385	CDS	complement(423279..425114)	ftsH; cell division protein FtsH
+bak:BAKON_386	CDS	complement(425180..425800)	rlmE; cell division protein FtsJ
+bak:BAKON_387	CDS	complement(425875..426354)	greA; transcription elongation factor GreA
+bak:BAKON_388	CDS	426884..427132	yrbA; putative DNA-binding transcriptional regulator
+bak:BAKON_389	gene	427155..428410	murA; pseudogene
+bak:BAKON_390	CDS	428459..428785	rplU; 50S ribosomal protein L21
+bak:BAKON_391	CDS	428790..429044	rpmA; 50S ribosomal protein L27
+bak:BAKON_392	CDS	429199..430203	obgE; GTPase ObgE
+bak:BAKON_393	CDS	complement(430271..430663)	rpsI; 30S ribosomal protein S9
+bak:BAKON_394	CDS	complement(430685..431113)	rplM; 50S ribosomal protein L13
+bak:BAKON_395	CDS	431368..432525	pheA; chorismate mutase
+bak:BAKON_396	CDS	432719..434074	ffh; signal recognition particle protein
+bak:BAKON_397	CDS	434203..434460	rpsP; 30S ribosomal protein S16
+bak:BAKON_398	CDS	434454..434984	rimM; 16S rRNA-processing protein RimM
+bak:BAKON_399	CDS	434999..435709	trmD; tRNA (guanine-N1)-methyltransferase
+bak:BAKON_400	CDS	435805..436152	rplS; 50S ribosomal protein L19
+bak:BAKON_401	CDS	complement(436236..437687)	tldD; TldD protein
+bak:BAKON_402	CDS	437813..438265	aroD; 3-dehydroquinate dehydratase
+bak:BAKON_403	CDS	complement(438410..438706)	fis; factor-for-inversion stimulation protein
+bak:BAKON_404	CDS	complement(438871..439809)	rluD; ribosomal large subunit pseudouridine synthase D
+bak:BAKON_405	CDS	439952..440695	bamD; part of large protein complex involved in outer membrane protein biogenesis
+bak:BAKON_406	CDS	440867..443503	alaS; alanyl-tRNA synthetase
+bak:BAKON_407	CDS	443687..443872	csrA; carbon storage regulator
+bak:BAKON_408	tRNA	444030..444121	tRNA-Ser
+bak:BAKON_409	tRNA	444140..444213	tRNA-Arg
+bak:BAKON_410	CDS	444329..445885	gshA; glutamate-cysteine ligase
+bak:BAKON_411	CDS	complement(446020..447159)	metK; S-adenosylmethionine synthetase
+bak:BAKON_412	gene	447414..448164	endA; pseudogene
+bak:BAKON_413	CDS	448177..448920	rsmE; 16S ribosomal RNA methyltransferase RsmE
+bak:BAKON_414	CDS	complement(448978..449646)	rpiA; ribose-5-phosphate isomerase A
+bak:BAKON_415	tRNA	complement(449838..449912)	tRNA-Gln
+bak:BAKON_416	tRNA	complement(450006..450087)	tRNA-Leu
+bak:BAKON_417	tRNA	complement(450105..450181)	tRNA-Met
+bak:BAKON_418	CDS	450282..451982	glnS; glutaminyl-tRNA synthetase
+bak:BAKON_419	CDS	452159..453799	pyrG; CTP synthetase
+bak:BAKON_420	CDS	453819..455141	eno; phosphopyruvate hydratase
+bak:BAKON_421	CDS	complement(455557..456564)	nlpD; lipoprotein NlpD precursor
+bak:BAKON_422	CDS	complement(456653..457138)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+bak:BAKON_423	CDS	complement(457162..457869)	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+bak:BAKON_424	CDS	complement(457902..458141)	ftsB; essential cell division protein
+bak:BAKON_425	CDS	complement(458204..458824)	cysC; adenylylsulfate kinase
+bak:BAKON_426	CDS	complement(458826..460247)	cysN; sulfate adenylate transferase subunit 1
+bak:BAKON_427	CDS	complement(460266..461174)	cysD; sulfate adenylyltransferase subunit 2
+bak:BAKON_428	CDS	complement(461184..462605)	cysG; ferrochelatase
+bak:BAKON_429	CDS	complement(462940..463674)	cysH; phosphoadenosine phosphosulfate reductase
+bak:BAKON_430	CDS	complement(463690..465399)	cysI; sulfite reductase subunit beta
+bak:BAKON_431	CDS	complement(465399..467204)	cysJ; sulfite reductase (NADPH) flavoprotein alpha-component
+bak:BAKON_432	CDS	complement(467372..469783)	mutS; DNA mismatch repair protein MutS
+bak:BAKON_433	CDS	469952..470581	dsbA; thiol:disulfide interchange protein DsbA precursor
+bak:BAKON_434	CDS	470611..471477	polA; DNA polymerase I
+bak:BAKON_435	CDS	complement(471530..472147)	yihA; ribosome biogenesis GTP-binding protein YsxC
+bak:BAKON_436	CDS	472368..474197	typA; GTP-binding protein BipA
+bak:BAKON_437	CDS	complement(474317..474940)	gmk; guanylate kinase
+bak:BAKON_438	CDS	complement(475037..475996)	ygfZ; folate-binding protein
+bak:BAKON_439	CDS	476272..477261	prfB; peptide chain release factor 2
+bak:BAKON_440	CDS	477271..478791	lysS; lysyl-tRNA synthetase
+bak:BAKON_441	CDS	478852..480099	lysA; diaminopimelate decarboxylase
+bak:BAKON_442	CDS	480131..480976	lgt; prolipoprotein diacylglyceryl transferase
+bak:BAKON_443	CDS	480990..481784	thyA; thymidylate synthase
+bak:BAKON_444	CDS	481844..483169	miaB; isopentenyl-adenosine A37 tRNA methylthiolase
+bak:BAKON_445	CDS	483324..483656	ybeY; conserved protein involved in translation
+bak:BAKON_446	CDS	483737..484609	ybeX; putative ion transport protein
+bak:BAKON_447	CDS	484682..487255	leuS; leucyl-tRNA synthetase
+bak:BAKON_448	CDS	487280..488275	holA; DNA polymerase III delta subunit
+bak:BAKON_449	CDS	488300..488944	nadD; nicotinate-mononucleotide adenylyltransferase
+bak:BAKON_450	CDS	489019..489252	sirA; sulfur transfer protein SirA
+bak:BAKON_451	CDS	complement(489396..490508)	asd; aspartate-semialdehyde dehydrogenase
+bak:BAKON_452	CDS	490812..491405	yhgN; putative dITP- and XTP- hydrolase
+bak:BAKON_453	CDS	491518..492681	pgk; phosphoglycerate kinase
+bak:BAKON_454	CDS	492707..493783	fba; fructose-bisphosphate aldolase
+bak:BAKON_455	CDS	493927..494778	mscS; mechanosensitive channel
+bak:BAKON_456	gene	494830..498047	recC; pseudogene
+bak:BAKON_457	CDS	498049..501570	recB; exodeoxyribonuclease V 135 kDa polypeptide
+bak:BAKON_458	CDS	501577..503373	recD; exodeoxyribonuclease V 67 kDa polypeptide
+bak:BAKON_459	CDS	complement(503421..504749)	argA; N-acetylglutamate synthase
+bak:BAKON_460	tRNA	complement(504900..504976)	tRNA-Met
+bak:BAKON_461	CDS	505085..506155	mltA; murein transglycosylase A
+bak:BAKON_462	CDS	506189..506665	ribE; 6,7-dimethyl-8-ribityllumazine synthase
+bak:BAKON_463	CDS	506715..507686	thiL; thiamin-monophosphate kinase
+bak:BAKON_464	CDS	507725..508168	ribD1; riboflavin deaminase
+bak:BAKON_465	CDS	508211..508828	ribD2; riboflavin reductase
+bak:BAKON_466	CDS	508869..509300	nusB; transcription antitermination protein NusB
+bak:BAKON_467	CDS	complement(509355..511181)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+bak:BAKON_468	CDS	complement(511239..512087)	ispA; geranyltranstransferase
+bak:BAKON_469	CDS	complement(512191..513336)	yajR; MFS transporter
+bak:BAKON_470	CDS	513410..513754	yccK; sulfur transfer protein
+bak:BAKON_471	CDS	complement(513764..514621)	cyoE; protoheme IX farnesyltransferase
+bak:BAKON_472	CDS	complement(514648..514965)	cyoD; cytochrome O ubiquinol oxidase subunit IV
+bak:BAKON_473	CDS	complement(514965..515582)	cyoC; cytochrome O ubiquinol oxidase subunit III
+bak:BAKON_474	CDS	complement(515579..517567)	cyoB; cytochrome O ubiquinol oxidase subunit I
+bak:BAKON_475	CDS	complement(517572..518492)	cyoA; cytochrome O ubiquinol oxidase subunit II
+bak:BAKON_476	CDS	518745..519050	bolA; BolA protein
+bak:BAKON_477	CDS	519263..520582	tig; trigger factor
+bak:BAKON_478	CDS	520715..521329	clpP; ATP-dependent Clp protease proteolytic subunit
+bak:BAKON_479	CDS	521427..522713	clpX; ATP-dependent protease ATP-binding subunit ClpX
+bak:BAKON_480	CDS	522898..525255	lon; ATP-dependent protease LA
+bak:BAKON_481	CDS	525362..527230	ppiD; peptidyl-prolyl cis-trans isomerase D
+bak:BAKON_482	gene	complement(527614..527685)	queC; pseudogene
+bak:BAKON_483	CDS	527987..529732	mdlA; multidrug resistance-like ATP-binding protein Mdl
+bak:BAKON_484	CDS	529756..531498	mdlB; multidrug resistance-like ATP-binding protein MdlB
+bak:BAKON_485	ncRNA	531501..531599	4.5S RNA component of the signal recognition particle
+bak:BAKON_486	CDS	531797..532909	dnaX; DNA polymerase III subunits gamma and tau
+bak:BAKON_487	CDS	533553..533882	ybaB; conserved DNA-binding protein
+bak:BAKON_488	CDS	534045..535922	htpG; heat shock protein 90
+bak:BAKON_489	CDS	535992..536639	adk; adenylate kinase
+bak:BAKON_490	tRNA	complement(536644..536717)	tRNA-Arg
+bak:BAKON_491	CDS	536876..537733	folD; methenyltetrahydrofolate cyclohydrolase
+bak:BAKON_492	CDS	complement(537730..539124)	cysS; cysteinyl-tRNA synthetase
+bak:BAKON_493	CDS	539375..539638	ybeD; conserved protein
+bak:BAKON_494	CDS	complement(539750..539959)	cspE; cold shock protein CspE
+bak:BAKON_495	rRNA	complement(540257..540369)	5S ribosomal RNA
+bak:BAKON_496	rRNA	complement(540476..543392)	23S ribosomal RNA
+bak:BAKON_497	tRNA	complement(543551..543623)	tRNA-Glu
+bak:BAKON_498	CDS	complement(543761..544582)	aroE; shikimate 5-dehydrogenase
+bak:BAKON_499	CDS	complement(544575..545147)	rimN; protein involved in synthesis of threonylcarbamoyladenosine-modified tRNA
+bak:BAKON_500	CDS	complement(545204..545677)	smg; Smg protein
+bak:BAKON_501	CDS	545917..546432	def; peptide deformylase
+bak:BAKON_502	CDS	546435..547379	fmt; methionyl-tRNA formyltransferase
+bak:BAKON_503	CDS	complement(547501..547893)	rplQ; 50S ribosomal protein L17
+bak:BAKON_504	CDS	complement(547940..548929)	rpoA; DNA-directed RNA polymerase subunit alpha
+bak:BAKON_505	CDS	complement(548958..549578)	rpsD; 30S ribosomal protein S4
+bak:BAKON_506	CDS	complement(549604..549999)	rpsK; 30S ribosomal protein S11
+bak:BAKON_507	CDS	complement(550017..550373)	rpsM; 30S ribosomal protein S13
+bak:BAKON_508	CDS	complement(550448..550564)	rpmJ; 50S ribosomal protein L36
+bak:BAKON_509	CDS	complement(550597..551910)	secY; preprotein translocase subunit SecY
+bak:BAKON_510	CDS	complement(551921..552355)	rplO; 50S ribosomal protein L15
+bak:BAKON_511	CDS	complement(552360..552539)	rpmD; 50S ribosomal protein L30
+bak:BAKON_512	CDS	complement(552550..553053)	rpsE; 30S ribosomal protein S5
+bak:BAKON_513	CDS	complement(553069..553437)	rplR; 50S ribosomal protein L18
+bak:BAKON_514	CDS	complement(553439..553975)	rplF; 50S ribosomal protein L6
+bak:BAKON_515	CDS	complement(553993..554385)	rpsH; 30S ribosomal protein S8
+bak:BAKON_516	CDS	complement(554417..554722)	rpsN; 30S ribosomal protein S14
+bak:BAKON_517	CDS	complement(554738..555277)	rplE; 50S ribosomal protein L5
+bak:BAKON_518	CDS	complement(555292..555606)	rplX; 50S ribosomal protein L24
+bak:BAKON_519	CDS	complement(555632..556000)	rplN; 50S ribosomal protein L14
+bak:BAKON_520	CDS	complement(556129..556380)	rpsQ; 30S ribosomal protein S17
+bak:BAKON_521	CDS	complement(556380..556577)	rpmC; 50S ribosomal protein L29
+bak:BAKON_522	CDS	complement(556577..556987)	rplP; 50S ribosomal protein L16
+bak:BAKON_523	CDS	complement(557008..557709)	rpsC; 30S ribosomal protein S3
+bak:BAKON_524	CDS	complement(557728..558060)	rplV; 50S ribosomal protein L22
+bak:BAKON_525	CDS	complement(558090..558368)	rpsS; 30S ribosomal protein S19
+bak:BAKON_526	CDS	complement(558388..559209)	rplB; 50S ribosomal protein L2
+bak:BAKON_527	CDS	complement(559225..559527)	rplW; 50S ribosomal protein L23
+bak:BAKON_528	CDS	complement(559524..560129)	rplD; 50S ribosomal protein L4
+bak:BAKON_529	CDS	complement(560150..560779)	rplC; 50S ribosomal protein L3
+bak:BAKON_530	CDS	complement(560810..561121)	rpsJ; 30S ribosomal protein S10
+bak:BAKON_531	CDS	complement(561434..562618)	tufA; elongation factor Tu
+bak:BAKON_532	CDS	complement(562685..564793)	fusA; elongation factor G
+bak:BAKON_533	CDS	complement(564908..565378)	rpsG; 30S ribosomal protein S7
+bak:BAKON_534	CDS	complement(565421..565795)	rpsL; 30S ribosomal protein S12
+bak:BAKON_535	CDS	complement(565921..566208)	yheL; sulfur transfer complex subunit TusB
+bak:BAKON_536	CDS	complement(566220..566579)	yheM; sulfur relay protein TusC
+bak:BAKON_537	CDS	complement(566598..566984)	yheN; sulfur transfer complex subunit TusD
+bak:BAKON_538	CDS	complement(567067..567834)	fkpA; FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor
+bak:BAKON_539	CDS	complement(568113..569330)	argD; bifunctional N-succinyldiaminopimelate-aminotransferase/acetylornithine transaminase protein
+bak:BAKON_540	CDS	569652..570818	tsgA; MFS transporter
+bak:BAKON_541	CDS	complement(570883..571902)	trpS; tryptophanyl-tRNA synthetase
+bak:BAKON_542	CDS	complement(571923..572609)	rpe; ribulose-phosphate 3-epimerase
+bak:BAKON_543	gene	complement(572713..573447)	dam; pseudogene
+bak:BAKON_544	CDS	complement(573669..574760)	aroB; 3-dehydroquinate synthase
+bak:BAKON_545	CDS	complement(574778..575299)	aroK; shikimate kinase I
+bak:BAKON_546	tRNA	575728..575812	tRNA-Ser
+bak:BAKON_547	CDS	complement(575865..576569)	deoD; purine nucleoside phosphorylase
+bak:BAKON_548	CDS	complement(576613..577836)	deoB; phosphopentomutase
+bak:BAKON_549	CDS	complement(577889..579472)	prfC; peptide chain release factor 3
+bak:BAKON_550	CDS	579741..580757	ansA; asparaginase I
+bak:BAKON_551	CDS	complement(580781..581359)	nfuA; iron-sulfur cluster scaffold protein
+bak:BAKON_552	gene	581503..581899	bioH; pseudogene
+bak:BAKON_553	CDS	complement(582257..582772)	ssb; single-strand binding protein
+bak:BAKON_554	CDS	583335..584732	dnaB; replicative DNA helicase
+bak:BAKON_555	CDS	585031..585999	gshB; glutathione synthetase
+bak:BAKON_556	CDS	586013..586423	yqgF; putative Holliday junction resolvase
+bak:BAKON_557	CDS	586491..587144	yggS; putative enzyme
+bak:BAKON_558	CDS	587189..588319	yggW; putative oxidoreductase
+bak:BAKON_559	CDS	complement(588330..589049)	trmI; tRNA (m7G46) methyltransferase
+bak:BAKON_560	CDS	589164..590216	mutY; A/G-specific adenine glycosylase
+bak:BAKON_561	CDS	590236..590469	yggX; protein that protects iron-sulfur proteins against oxidative damage
+bak:BAKON_562	CDS	590548..591336	murI; glutamate racemase
+bak:BAKON_563	CDS	complement(591323..592768)	sbcB; exonuclease I
+bak:BAKON_564	CDS	592850..593158	yeeX; conserved protein
+bak:BAKON_565	tRNA	complement(593170..593242)	tRNA-Asn
+bak:BAKON_566	tRNA	593376..593451	tRNA-Met
+bak:BAKON_567	CDS	593580..594221	pyrE; orotate phosphoribosyltransferase
+bak:BAKON_568	CDS	complement(594231..594686)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+bak:BAKON_569	CDS	complement(594733..595479)	cysQ; CysQ protein
+bak:BAKON_570	CDS	complement(595524..595976)	rplI; 50S ribosomal protein L9
+bak:BAKON_571	CDS	complement(596019..596246)	rpsR; 30S ribosomal protein S18
+bak:BAKON_572	CDS	complement(596370..596711)	rpsF; 30S ribosomal protein S6
+bak:BAKON_573	CDS	complement(596871..599069)	rnr; VacB protein
+bak:BAKON_574	CDS	complement(599211..600506)	purA; adenylosuccinate synthetase
+bak:BAKON_575	CDS	complement(600557..601657)	hflC; FtsH protease regulator HflC
+bak:BAKON_576	CDS	complement(601660..602880)	hflK; HflK protein
+bak:BAKON_577	CDS	complement(603039..603986)	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+bak:BAKON_578	CDS	complement(603983..605734)	mutL; DNA mismatch repair protein MutL
+bak:BAKON_579	CDS	complement(605771..606928)	mtlD; mannitol-1-phosphate 5-dehydrogenase
+bak:BAKON_580	CDS	complement(606973..608871)	mtlA; PTS system mannitol-specific IIABC component
+bak:BAKON_581	CDS	complement(609062..610714)	pgi; glucose-6-phosphate isomerase
+bak:BAKON_582	CDS	610928..611476	orn; oligoribonuclease
+bak:BAKON_583	tRNA	611575..611647	tRNA-Gly
+bak:BAKON_584	CDS	611926..612627	amiB; N-acetylmuramoyl-L-alanine amidase precursor
+bak:BAKON_585	CDS	complement(612714..612932)	rpmE; 50S ribosomal protein L31
+bak:BAKON_586	CDS	613403..613933	hslV; ATP-dependent protease peptidase subunit
+bak:BAKON_587	CDS	613946..615277	hslU; ATP-dependent protease ATP-binding subunit HslU
+bak:BAKON_588	CDS	615490..615972	ibpA; 16 kDa heat shock protein A
+bak:BAKON_589	CDS	616050..616808	fpr; ferredoxin-NADP reductase
+bak:BAKON_590	CDS	complement(616828..617802)	poxA; lysyl-tRNA synthetase
+bak:BAKON_591	CDS	617873..618370	coaD; phosphopantetheine adenylyltransferase
+bak:BAKON_592	CDS	complement(618456..619559)	yba3; hypothetical protein
+bak:BAKON_593	CDS	complement(619538..619915)	yba4; hypothetical protein
+bak:BAKON_594	CDS	620074..620814	yhiQ; putative SAM-dependent methyltransferase
+bak:BAKON_595	CDS	complement(620893..622329)	pitA; low-affinity inorganic phosphate transporter
+bak:BAKON_596	CDS	complement(622492..623709)	ynfM; MFS transporter
+bak:BAKON_597	CDS	complement(623743..624597)	dapF; diaminopimelate epimerase
+bak:BAKON_598	CDS	624737..625087	cyaY; CyaY protein
+bak:BAKON_599	CDS	625213..626169	hemC; porphobilinogen deaminase
+bak:BAKON_600	gene	626166..626923	hemD; pseudogene
+bak:BAKON_601	tRNA	complement(626929..627005)	tRNA-Pro
+bak:BAKON_602	tRNA	complement(627036..627111)	tRNA-His
+bak:BAKON_603	tRNA	complement(627142..627215)	tRNA-Arg
+bak:BAKON_604	CDS	complement(627385..628644)	rho; transcription termination factor Rho
+bak:BAKON_605	CDS	complement(628773..629099)	trxA; thioredoxin
+bak:BAKON_606	CDS	complement(629211..631226)	rep; ATP-dependent DNA helicase Rep
+bak:BAKON_607	CDS	complement(631268..632740)	ilvC; ketol-acid reductoisomerase
+bak:BAKON_608	CDS	complement(632773..634626)	ilvD; dihydroxy-acid dehydratase
+bak:BAKON_609	tRNA	complement(634860..634936)	tRNA-Trp
+bak:BAKON_610	CDS	635104..636318	iscS; cysteine desulfurase
+bak:BAKON_611	CDS	636347..636733	iscU; scaffold protein
+bak:BAKON_612	CDS	636820..637338	hscB; chaperone protein HscB
+bak:BAKON_613	CDS	637355..639187	hscA; heat shock protein HscA
+bak:BAKON_614	CDS	639184..639522	fdx; ferredoxin 2fe-2s
+bak:BAKON_615	CDS	complement(639519..640871)	der; GTP-binding protein EngA
+bak:BAKON_616	CDS	complement(640973..641548)	yfgM; conserved protein

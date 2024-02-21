@@ -1,0 +1,599 @@
+bap:BUAP5A_001	CDS	197..2083	gidA; glucose-inhibited division protein A
+bap:BUAP5A_002	CDS	2278..3102	atpB; ATP synthase subunit A
+bap:BUAP5A_003	CDS	3139..3378	atpE; ATP synthase subunit C
+bap:BUAP5A_004	CDS	3497..3982	atpF; ATP synthase B chain
+bap:BUAP5A_005	CDS	3982..4515	atpH; ATP synthase delta chain
+bap:BUAP5A_006	CDS	4530..6068	atpA; ATP synthase subunit A
+bap:BUAP5A_007	CDS	6101..6973	atpG; ATP synthase gamma chain
+bap:BUAP5A_008	CDS	6997..8394	atpD; ATP synthase subunit B
+bap:BUAP5A_009	CDS	8421..8837	atpC; ATP synthase epsilon chain
+bap:BUAP5A_010	CDS	complement(8911..11322)	gyrB; DNA gyrase subunit B
+bap:BUAP5A_011	CDS	complement(11449..12549)	dnaN; DNA polymerase III beta chain
+bap:BUAP5A_012	CDS	complement(12554..13918)	dnaA; chromosomal replication initiator protein DnaA
+bap:BUAP5A_013	CDS	14369..14512	rpmH; 50S ribosomal protein L34
+bap:BUAP5A_014	gene	14525..14871	rnpA; pseudogene
+bap:BUAP5A_015	CDS	15010..16608	yidC; 60 kDa inner-membrane protein
+bap:BUAP5A_016	CDS	16647..18008	thdF; tRNA modification GTPase
+bap:BUAP5A_017	tRNA	complement(18027..18099)	tRNA-Phe
+bap:BUAP5A_018	CDS	18375..18665	groES; co-chaperonin GroES
+bap:BUAP5A_019	CDS	18714..20360	groEL; 60 kDa chaperonin
+bap:BUAP5A_020	CDS	20985..21596	efp; elongation factor P
+bap:BUAP5A_021	CDS	complement(21614..22354)	dnaC; DNA replication protein DnaC
+bap:BUAP5A_022	CDS	complement(22354..22848)	dnaT; primosomal protein I
+bap:BUAP5A_023	CDS	complement(22945..23520)	rsmD; 16S rRNA m2G966 methyltransferase (YhhF)
+bap:BUAP5A_024	CDS	23651..24787	ftsY; cell division protein FtsY
+bap:BUAP5A_025	CDS	24950..25804	rpoH; RNA polymerase sigma factor
+bap:BUAP5A_026	CDS	complement(25945..27774)	glmS; D-fructose-6-phosphate amidotransferase
+bap:BUAP5A_027	CDS	complement(27844..29223)	glmU; UDP-N-acetylglucosamine pyrophosphorylase
+bap:BUAP5A_028	CDS	29403..30221	yigL; sugar phosphatase
+bap:BUAP5A_029	CDS	31192..33468	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+bap:BUAP5A_030	CDS	complement(33591..35168)	purH; IMP cyclohydrolase
+bap:BUAP5A_031	CDS	complement(35309..35587)	hupA; DNA-binding protein hu-alpha
+bap:BUAP5A_032	CDS	complement(36321..40544)	rpoC; DNA-directed RNA polymerase beta' subunit
+bap:BUAP5A_033	CDS	complement(40622..44650)	rpoB; DNA-directed RNA polymerase beta chain
+bap:BUAP5A_034	CDS	complement(44870..45238)	rplL; 50S ribosomal protein L7/L12
+bap:BUAP5A_035	CDS	complement(45305..45802)	rplJ; 50S ribosomal protein L10
+bap:BUAP5A_036	CDS	complement(46068..46763)	rplA; 50S ribosomal protein L1
+bap:BUAP5A_037	CDS	complement(46766..47194)	rplK; 50S ribosomal protein L11
+bap:BUAP5A_038	CDS	complement(47242..47787)	nusG; transcription antitermination protein NusG
+bap:BUAP5A_039	CDS	complement(47790..48173)	secE; preprotein translocase SecE subunit
+bap:BUAP5A_040	tRNA	complement(48485..48557)	tRNA-Thr
+bap:BUAP5A_041	tRNA	complement(48573..48644)	tRNA-Gly
+bap:BUAP5A_042	tRNA	complement(48667..48751)	tRNA-Tyr
+bap:BUAP5A_043	tRNA	complement(48767..48839)	tRNA-Thr
+bap:BUAP5A_044	CDS	complement(48978..50048)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+bap:BUAP5A_045	CDS	50164..51042	metF; 5,10-methylenetetrahydrofolate reductase
+bap:BUAP5A_046	CDS	complement(51054..52199)	argE; acetylornithine deacetylase
+bap:BUAP5A_047	CDS	52360..53364	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+bap:BUAP5A_048	CDS	53385..54158	argB; acetylglutamate kinase
+bap:BUAP5A_049	CDS	54188..55399	argG; argininosuccinate synthase
+bap:BUAP5A_050	CDS	55471..56850	argH; argininosuccinate lyase
+bap:BUAP5A_051	CDS	56932..57366	yibN; predicted rhodanese-related sulfurtransferase (YibN)
+bap:BUAP5A_052	CDS	57474..57902	secB; protein-export protein SecB
+bap:BUAP5A_053	CDS	58004..58828	cysE; serine acetyltransferase
+bap:BUAP5A_054	CDS	complement(58935..60773)	rpoD; RNA polymerase sigma factor
+bap:BUAP5A_055	CDS	complement(60941..62674)	dnaG; DNA primase
+bap:BUAP5A_056	CDS	complement(62755..62970)	rpsU; 30S ribosomal protein S21
+bap:BUAP5A_057	CDS	63204..64214	ygjD; O-sialoglycoprotein endopeptidase
+bap:BUAP5A_058	CDS	complement(64192..64839)	ribB; 3,4-dihydroxy-2-butanone 4-phosphate synthase
+bap:BUAP5A_059	CDS	complement(65112..66059)	yb3052; kinase
+bap:BUAP5A_060	CDS	66273..67517	cca; tRNA nucleotidyltransferase
+bap:BUAP5A_061	CDS	complement(67543..68340)	bacA; bacitracin resistance protein
+bap:BUAP5A_062	CDS	complement(68426..68911)	crr; glucose-specific PTS system enzyme IIA component
+bap:BUAP5A_063	CDS	complement(68961..70676)	ptsI; phosphoenolpyruvate-protein phosphotransferase
+bap:BUAP5A_064	CDS	complement(70825..71082)	ptsH; phosphocarrier protein HPr
+bap:BUAP5A_065	CDS	complement(71232..72179)	cysK; cysteine synthase A
+bap:BUAP5A_066	CDS	72434..74461	lig; DNA ligase (NAD+)
+bap:BUAP5A_067	tRNA	complement(74473..74545)	tRNA-Lys
+bap:BUAP5A_068	tRNA	complement(74574..74646)	tRNA-Val
+bap:BUAP5A_069	CDS	74773..76176	gltX; glutamyl-tRNA synthetase
+bap:BUAP5A_070	tRNA	76350..76425	tRNA-Ala
+bap:BUAP5A_071	CDS	complement(76516..76812)	fliE; flagellar hook-basal body complex protein FliE
+bap:BUAP5A_072	CDS	77076..78713	fliF; flagellar M-ring protein
+bap:BUAP5A_073	CDS	78710..79705	fliG; flagellar motor switch protein FliG
+bap:BUAP5A_074	CDS	79698..80360	fliH; flagellar assembly protein FliH
+bap:BUAP5A_075	CDS	80318..81721	fliI; flagellum-specific ATP synthase
+bap:BUAP5A_076	CDS	81745..82188	fliJ; flagellar FliJ protein
+bap:BUAP5A_078	CDS	82197..83333	fliK; flagellar hook-length control protein
+bap:BUAP5A_079	CDS	83394..84341	fliM; flagellar motor switch protein FliM
+bap:BUAP5A_080	CDS	84334..84735	fliN; flagellar motor switch protein FliN
+bap:BUAP5A_081	CDS	84747..85886	fliP; flagellar biosynthetic protein FliP
+bap:BUAP5A_082	CDS	85958..86227	fliQ; flagellar biosynthetic protein FliQ
+bap:BUAP5A_083	CDS	86227..87003	fliR; flagellar biosynthetic protein FliR
+bap:BUAP5A_084	CDS	complement(87156..87323)	rpmG; 50S ribosomal protein L33
+bap:BUAP5A_085	CDS	complement(87334..87561)	rpmB; 50S ribosomal protein L28
+bap:BUAP5A_086	CDS	87907..90819	ytfN; hypothetical protein
+bap:BUAP5A_087	CDS	complement(90835..91383)	ppa; inorganic pyrophosphatase
+bap:BUAP5A_088	CDS	91577..92917	pmbA; PmbA protein
+bap:BUAP5A_089	ncRNA	complement(92992..93315)	rnpB; ribonuclease P RNA component
+bap:BUAP5A_090	CDS	94382..95602	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I
+bap:BUAP5A_091	CDS	95842..96792	talA; transaldolase
+bap:BUAP5A_092	CDS	96847..98844	tktB; transketolase
+bap:BUAP5A_093	CDS	98949..100076	dapE; succinyl-diaminopimelate desuccinylase
+bap:BUAP5A_094	CDS	complement(100466..101350)	dapA; dihydrodipicolinate synthase
+bap:BUAP5A_095	CDS	complement(101926..102990)	aroC; chorismate synthase
+bap:BUAP5A_096	CDS	103285..103845	yb2331; hypothetical protein
+bap:BUAP5A_097	CDS	104170..105069	hisG; ATP phosphoribosyltransferase
+bap:BUAP5A_098	CDS	105078..106385	hisD; histidinol-dehydrogenase
+bap:BUAP5A_099	CDS	106382..107488	hisC; histidinol-phosphate aminotransferase
+bap:BUAP5A_100	CDS	107478..108539	hisB; imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+bap:BUAP5A_101	CDS	108539..109129	hisH; amidotransferase hisH
+bap:BUAP5A_102	CDS	109134..109874	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+bap:BUAP5A_103	CDS	109853..110629	hisF; imidazole glycerol phosphate synthase subunit HisF
+bap:BUAP5A_104	CDS	110623..111270	hisI; phosphoribosyl-AMP cyclohydrolase
+bap:BUAP5A_105	CDS	111629..113035	gnd; 6-phosphogluconate dehydrogenase
+bap:BUAP5A_106	CDS	113198..113818	dcd; deoxycytidine triphosphate deaminase
+bap:BUAP5A_107	CDS	113966..115609	metG; methionyl-tRNA synthetase
+bap:BUAP5A_108	CDS	complement(115657..116979)	mesJ; cell cycle protein MesJ
+bap:BUAP5A_109	tRNA	complement(117008..117081)	tRNA-Val
+bap:BUAP5A_110	CDS	117205..117831	ribE; riboflavin synthase subunit alpha
+bap:BUAP5A_111	CDS	117868..118449	rnfA; hypothetical protein
+bap:BUAP5A_112	CDS	118452..118955	rnfB; ferredoxin II
+bap:BUAP5A_113	CDS	119118..120539	rnfC; membrane protein
+bap:BUAP5A_114	CDS	120587..121630	ydgO; hypothetical protein
+bap:BUAP5A_115	CDS	121779..122273	rnfG; nitrogen fixation protein
+bap:BUAP5A_116	CDS	122248..122931	ydgQ; NADH-ubiquinone oxidoreductase
+bap:BUAP5A_117	CDS	122942..123574	nth; endonuclease III
+bap:BUAP5A_118	CDS	123597..125777	priA; primosomal protein N'
+bap:BUAP5A_119	CDS	125937..127205	tyrS; tyrosyl-tRNA synthetase
+bap:BUAP5A_120	CDS	complement(127213..127605)	ydiC; integral membrane protein of SoxR-reducing complex
+bap:BUAP5A_121	CDS	127829..128911	yb1688; hypothetical protein
+bap:BUAP5A_122	CDS	129263..130309	aroH; 3-deoxy-7-phosphoheptulonate synthase
+bap:BUAP5A_123	CDS	130477..132405	thrS; threonyl-tRNA synthetase
+bap:BUAP5A_124	CDS	132409..132948	infC; translation initiation factor IF-3
+bap:BUAP5A_125	CDS	133035..133232	rpmI; 50S ribosomal protein L35
+bap:BUAP5A_126	CDS	133275..133631	rplT; 50S ribosomal protein L20
+bap:BUAP5A_127	CDS	133826..134815	pheS; phenylalanyl-tRNA synthetase alpha chain
+bap:BUAP5A_128	CDS	134825..137212	pheT; phenylalanyl-tRNA synthetase beta chain
+bap:BUAP5A_129	CDS	137217..137525	himA; integration host factor alpha-subunit
+bap:BUAP5A_130	CDS	137567..138640	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+bap:BUAP5A_131	CDS	138681..139793	tgt; queuine tRNA-ribosyltransferase
+bap:BUAP5A_132	CDS	139818..140153	yajC; subunit of SecD-SecF-Yajc-YidC secretion complex
+bap:BUAP5A_133	CDS	complement(140205..142277)	glyS; glycyl-tRNA synthetase beta chain
+bap:BUAP5A_134	CDS	complement(142252..143190)	glyQ; glycyl-tRNA synthetase alpha subunit
+bap:BUAP5A_135	CDS	143886..144731	nfo; endonuclease IV
+bap:BUAP5A_136	CDS	144766..145053	rplY; 50S ribosomal protein L25
+bap:BUAP5A_137	CDS	complement(145123..145893)	yabI; conserved inner membrane protein (YabI)
+bap:BUAP5A_138	CDS	146080..147372	surA; survival protein SurA precursor
+bap:BUAP5A_139	CDS	147426..148247	ksgA; dimethyladenosine transferase
+bap:BUAP5A_140	CDS	148292..149116	apaH; bis(5'-nucleosyl)-tetraphosphatase
+bap:BUAP5A_141	CDS	complement(149143..149628)	folA; dihydrofolate reductase
+bap:BUAP5A_142	CDS	complement(149718..152957)	carB; carbamoyl-phosphate synthase large chain
+bap:BUAP5A_143	CDS	complement(152971..154134)	carA; carbamoyl-phosphate synthase small subunit
+bap:BUAP5A_144	CDS	complement(154344..155153)	dapB; dihydrodipicolinate reductase
+bap:BUAP5A_145	CDS	complement(155157..156116)	lytB; LytB protein
+bap:BUAP5A_146	CDS	complement(156181..156663)	lspA; lipoprotein signal peptidase
+bap:BUAP5A_147	CDS	complement(156663..159485)	ileS; isoleucyl-tRNA synthetase
+bap:BUAP5A_148	CDS	complement(159502..160443)	ribF; FMN adenylyltransferase
+bap:BUAP5A_149	CDS	160658..160927	rpsT; 30S ribosomal protein S20
+bap:BUAP5A_150	CDS	complement(160977..162110)	dnaJ; DnaJ protein
+bap:BUAP5A_151	CDS	complement(162223..164136)	dnaK; DnaK protein
+bap:BUAP5A_152	CDS	164472..164876	nuoA; NADH dehydrogenase I chain A
+bap:BUAP5A_153	CDS	164910..165584	nuoB; NADH dehydrogenase beta subunit
+bap:BUAP5A_154	CDS	165675..167477	nuoCD; NADH dehydrogenase I chain C/D
+bap:BUAP5A_155	CDS	167500..167988	nuoE; ATP synthase subunit E
+bap:BUAP5A_156	CDS	167985..169319	nuoF; NADH dehydrogenase I chain F
+bap:BUAP5A_157	CDS	169413..172133	nuoG; NADH dehydrogenase gamma subunit
+bap:BUAP5A_158	CDS	172145..173113	nuoH; NADH dehydrogenase subunit H
+bap:BUAP5A_159	CDS	173138..173680	nuoI; NADH dehydrogenase subunit I
+bap:BUAP5A_160	CDS	173690..174202	nuoJ; NADH dehydrogenase I chain J
+bap:BUAP5A_161	CDS	174233..174535	nuoK; NADH dehydrogenase I chain K
+bap:BUAP5A_162	CDS	174532..176376	nuoL; NADH dehydrogenase I chain L
+bap:BUAP5A_163	CDS	176473..177990	nuoM; NADH dehydrogenase I chain M
+bap:BUAP5A_164	CDS	178048..179457	nuoN; NADH dehydrogenase I chain N
+bap:BUAP5A_165	CDS	180582..181817	folC; dihydrofolate synthase
+bap:BUAP5A_166	CDS	complement(182396..183343)	prsA; ribose-phosphate pyrophosphokinase
+bap:BUAP5A_167	CDS	complement(183463..184347)	ychB; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+bap:BUAP5A_168	CDS	184555..185640	prfA; peptide chain release factor 1
+bap:BUAP5A_169	CDS	185637..186470	hemK; HemK protein
+bap:BUAP5A_170	CDS	186630..187439	ychA; hypothetical protein
+bap:BUAP5A_171	CDS	complement(187447..188253)	nadE; NAD(+) synthetase
+bap:BUAP5A_172	CDS	188337..189554	ackA; acetate kinase
+bap:BUAP5A_173	CDS	189599..191725	pta; phosphate acetyltransferase
+bap:BUAP5A_174	CDS	complement(191757..192020)	yfaE; 2Fe-2S cluster-containing protein involved in diferric-tyrosyl radical cofactor maintenance (YfaE)
+bap:BUAP5A_175	CDS	complement(192023..193153)	nrdB; ribonucleotide-diphosphate reductase beta subunit
+bap:BUAP5A_176	CDS	complement(193221..195506)	nrdA; ribonucleotide-diphosphate reductase alpha subunit
+bap:BUAP5A_177	CDS	complement(195579..198071)	gyrA; DNA gyrase subunit A
+bap:BUAP5A_178	CDS	198338..199054	yba2; hypothetical protein
+bap:BUAP5A_179	CDS	complement(199176..199769)	ahpC; alkyl hydroperoxide reductase
+bap:BUAP5A_180	gene	199847..200507	ung; pseudogene
+bap:BUAP5A_181	CDS	complement(200583..201149)	grpE; heat shock protein GrpE2
+bap:BUAP5A_182	CDS	201266..202144	yfjB; NAD kinase monomer (YfjB)
+bap:BUAP5A_183	CDS	202277..202585	smpA; small protein A
+bap:BUAP5A_184	tmRNA	complement(202624..202991)	BUAP5A_184
+bap:BUAP5A_601	CDS	203122..203448	grxD; glutaredoxin 4 (YdhD)
+bap:BUAP5A_185	CDS	complement(203592..204257)	rnt; ribonuclease T
+bap:BUAP5A_186	CDS	204477..205088	sodA; superoxide dismutase
+bap:BUAP5A_187	CDS	205276..205809	pth; peptidyl-tRNA hydrolase
+bap:BUAP5A_188	CDS	205850..206938	ychF; GTP-binding protein
+bap:BUAP5A_189	CDS	complement(207014..208303)	thrC; threonine synthase
+bap:BUAP5A_190	CDS	complement(208310..209239)	thrB; homoserine kinase
+bap:BUAP5A_191	CDS	complement(209260..211710)	thrA; bifunctional aspartokinase I/homeserine dehydrogenase I
+bap:BUAP5A_192	CDS	212369..212905	hpt; hypoxanthine phosphoribosyltransferase
+bap:BUAP5A_193	CDS	complement(212913..213770)	panC; pantoate-beta-alanine ligase
+bap:BUAP5A_194	CDS	complement(213785..214576)	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+bap:BUAP5A_195	CDS	complement(214692..215147)	dksA; DnaK suppressor protein
+bap:BUAP5A_196	CDS	215404..216204	truA; pseudouridylate synthase I
+bap:BUAP5A_197	CDS	216276..218558	mrcB; penicillin-binding protein 1b
+bap:BUAP5A_198	CDS	218788..221415	secA; translocase
+bap:BUAP5A_199	CDS	221491..221865	mutT; mutator MutT protein
+bap:BUAP5A_200	CDS	complement(221848..222501)	yacE; dephospho-CoA kinase
+bap:BUAP5A_201	CDS	222557..223606	guaC; guanosine 5'-monophosphate oxidoreductase
+bap:BUAP5A_202	CDS	223834..226497	aceE; pyruvate dehydrogenase E1 component
+bap:BUAP5A_203	CDS	226501..227718	aceF; dihydrolipoamide acetyltransferase
+bap:BUAP5A_204	CDS	227762..229183	lpdA; dihydrolipoamide dehydrogenase
+bap:BUAP5A_205	CDS	complement(229356..230153)	speD; S-adenosylmethionine decarboxylase proenzyme
+bap:BUAP5A_206	CDS	complement(230172..231032)	speE; spermidine synthase
+bap:BUAP5A_207	CDS	complement(231308..232006)	pfs; 5'-methylthioadenosine nucleosidase
+bap:BUAP5A_208	CDS	complement(232070..232414)	yadR; essential respiratory protein A (YadR)
+bap:BUAP5A_209	CDS	complement(232648..233802)	ftsZ; cell division protein FtsZ
+bap:BUAP5A_210	CDS	complement(233860..235116)	ftsA; cell division protein FtsA
+bap:BUAP5A_211	CDS	complement(236231..237685)	murC; UDP-N-acetylmuramate-alanine ligase
+bap:BUAP5A_212	CDS	complement(237728..238792)	murG; UDP-N-acetylglucosamine-N-acetylmuramyl transferase
+bap:BUAP5A_213	CDS	complement(238789..239988)	ftsW; cell division protein FtsW
+bap:BUAP5A_214	CDS	complement(239985..241307)	murD; UDP-N-acetylmuramoylalanine-D-glutamate ligase
+bap:BUAP5A_215	CDS	complement(241307..242380)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+bap:BUAP5A_216	CDS	complement(242364..243740)	murF; UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanyl ligase
+bap:BUAP5A_217	CDS	complement(243737..245233)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase
+bap:BUAP5A_218	CDS	complement(245234..246973)	ftsI; cell division protein FtsI
+bap:BUAP5A_219	CDS	complement(join(247038..247118,247118..247291))	ftsL; cell division protein
+bap:BUAP5A_220	CDS	complement(247294..248232)	yabC; hypothetical protein
+bap:BUAP5A_221	CDS	complement(248354..248830)	ilvH; acetolactate synthase small subunit
+bap:BUAP5A_222	CDS	complement(248835..250550)	ilvI; acetolactate synthase large subunit
+bap:BUAP5A_223	CDS	252168..253604	htrA; protease Do precursor
+bap:BUAP5A_224	CDS	complement(253648..254472)	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+bap:BUAP5A_225	CDS	complement(254533..255327)	map; methionine aminopeptidase
+bap:BUAP5A_226	CDS	255590..256324	rpsB; 30S ribosomal protein S2
+bap:BUAP5A_227	CDS	256401..257207	tsf; elongation factor Ts
+bap:BUAP5A_228	CDS	257258..257986	pyrH; uridylate kinase
+bap:BUAP5A_229	CDS	258066..258623	frr; ribosome recycling factor
+bap:BUAP5A_230	CDS	258706..259902	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+bap:BUAP5A_231	CDS	259995..260750	uppS; undecaprenyl pyrophosphate synthetase
+bap:BUAP5A_232	CDS	260984..263386	yaeT; YaeT
+bap:BUAP5A_233	CDS	263513..263968	fabZ; (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+bap:BUAP5A_234	CDS	264005..267490	dnaE; DNA polymerase III alpha chain
+bap:BUAP5A_235	CDS	complement(267618..269336)	proS; prolyl-tRNA synthetase
+bap:BUAP5A_236	CDS	269677..270828	flhB; flagellar biosynthetic protein FlhB
+bap:BUAP5A_237	CDS	270821..272911	flhA; flagellar biosynthetic protein FlhA
+bap:BUAP5A_238	CDS	complement(273035..274759)	argS; arginyl-tRNA synthetase
+bap:BUAP5A_239	rRNA	275192..276731	16S ribosomal RNA
+bap:BUAP5A_240	tRNA	276785..276861	tRNA-Ile
+bap:BUAP5A_241	tRNA	276876..276948	tRNA-Ala
+bap:BUAP5A_242	CDS	complement(276943..277698)	gloB; probable hydroxyacylglutathione hydrolase
+bap:BUAP5A_243	CDS	278261..278974	dnaQ; DNA polymerase III epsilon chain
+bap:BUAP5A_244	tRNA	279043..279116	tRNA-Asp
+bap:BUAP5A_245	CDS	279200..279781	lpcA; phosphoheptose isomerase
+bap:BUAP5A_246	CDS	279888..280364	gpt; xanthine phosphoribosyltransferase
+bap:BUAP5A_247	CDS	280466..281050	grpE1; heat shock protein GrpE1
+bap:BUAP5A_248	CDS	complement(281129..281428)	yfjF; hypothetical protein
+bap:BUAP5A_249	CDS	281522..282010	smpB; SsrA-binding protein
+bap:BUAP5A_250	CDS	282019..282504	yfhC; hypothetical protein YfhC
+bap:BUAP5A_251	CDS	complement(282505..282885)	acpS; holo-[acyl-carrier protein] synthase
+bap:BUAP5A_252	CDS	complement(283011..283862)	era; GTP-binding protein Era
+bap:BUAP5A_253	CDS	complement(283859..284539)	rnc; ribonuclease III
+bap:BUAP5A_254	CDS	complement(284670..285614)	lepB; signal peptidase I
+bap:BUAP5A_255	CDS	complement(285630..287462)	lepA; GTP-binding protein LepA
+bap:BUAP5A_256	CDS	287658..288764	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+bap:BUAP5A_257	CDS	288800..289435	ycfC; predicted lysogenization regulator (YcfC)
+bap:BUAP5A_258	CDS	289474..290844	purB; adenylosuccinate lyase
+bap:BUAP5A_259	CDS	290868..291533	mltE; membrane-bound lytic murein transglycosylase E
+bap:BUAP5A_260	CDS	291647..292429	fabI; enoyl-[acyl-carrier-protein] reductase (NADH)
+bap:BUAP5A_261	CDS	292616..294565	rnb; exoribonuclease II
+bap:BUAP5A_262	CDS	294673..295320	ychE; hypothetical protein
+bap:BUAP5A_263	CDS	295358..295993	lipB; lipoate-protein ligase B
+bap:BUAP5A_264	CDS	296113..297084	lipA; lipoyl synthase
+bap:BUAP5A_265	CDS	297189..297899	pyrF; orotidine 5'-phosphate decarboxylase
+bap:BUAP5A_266	CDS	297947..298531	ribA; GTP cyclohydrolase II protein
+bap:BUAP5A_267	CDS	complement(298635..299042)	hns; DNA-binding protein H-ns
+bap:BUAP5A_268	CDS	complement(299388..300848)	cls; cardiolipin synthetase
+bap:BUAP5A_269	CDS	complement(301229..301636)	yciA; acyl-CoA thioesterase (YciA)
+bap:BUAP5A_270	CDS	complement(301673..302206)	yciB; predicted inner membrane protein (YciB)
+bap:BUAP5A_271	CDS	complement(302234..302977)	yciC; predicted inner membrane protein (YciC)
+bap:BUAP5A_272	CDS	complement(303082..303891)	trpA; tryptophan synthase alpha chain
+bap:BUAP5A_273	gene	complement(303910..305077)	trpB; pseudogene
+bap:BUAP5A_274	CDS	complement(305115..306476)	trpC; bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+bap:BUAP5A_275	CDS	complement(306457..307485)	trpD; anthranilate phosphoribosyltransferase
+bap:BUAP5A_276	CDS	307720..308643	yedA; hypothetical protein
+bap:BUAP5A_277	CDS	308672..309424	yciL; 23S rRNA pseudouridine synthase (YciL)
+bap:BUAP5A_278	CDS	309499..310509	sohB; possible protease SohB
+bap:BUAP5A_279	CDS	310595..313180	topA; DNA topoisomerase I
+bap:BUAP5A_280	CDS	complement(313232..314032)	suhB; extragenic suppressor protein SuhB
+bap:BUAP5A_281	CDS	314279..315370	yfgB; 23S rRNA m2A2503 methyltransferase (YfgB)
+bap:BUAP5A_282	CDS	315421..316527	gcpE; GcpE protein
+bap:BUAP5A_283	CDS	316553..317824	hisS; histidyl-tRNA synthetase
+bap:BUAP5A_284	CDS	317884..319137	glyA; serine hydroxymethyltransferase
+bap:BUAP5A_285	CDS	complement(319225..319899)	bioD; dethiobiotin synthetase
+bap:BUAP5A_286	CDS	complement(320263..321294)	bioB; biotin synthetase
+bap:BUAP5A_287	CDS	321373..322659	bioA; adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+bap:BUAP5A_288	CDS	complement(322668..323672)	ybhE; 6-phosphogluconolactonase (YbhE)
+bap:BUAP5A_289	CDS	complement(323796..326234)	mfd; transcription-repair coupling factor
+bap:BUAP5A_290	CDS	326707..327906	lolC; LolCDE ABC lipoprotein transporter (YcfU)
+bap:BUAP5A_291	CDS	327899..328585	lolD; LolCDE ABC lipoprotein transporter (YcfV)
+bap:BUAP5A_292	CDS	329910..330920	gapA; glyceraldehyde 3-phosphate dehydrogenase A
+bap:BUAP5A_293	CDS	complement(331530..332045)	fldA; flavodoxin
+bap:BUAP5A_294	CDS	332252..333703	phrB; deoxyribodipyrimidine photolyase
+bap:BUAP5A_295	CDS	333700..334443	ybgI; conserved metal-binding protein (YbgI)
+bap:BUAP5A_296	CDS	334568..337297	sucA; 2-oxoglutarate dehydrogenase E1 component
+bap:BUAP5A_297	CDS	337313..338575	sucB; 2-oxoglutarate dehydrogenase E2 component
+bap:BUAP5A_298	CDS	338673..339368	gpmA; phosphoglycerate mutase
+bap:BUAP5A_299	CDS	339552..340514	pfkA; 6-phosphofructokinase
+bap:BUAP5A_300	CDS	340580..341371	glpF; glycerol uptake facilitator protein
+bap:BUAP5A_301	CDS	complement(341380..342147)	tpiA; triosephosphate isomerase
+bap:BUAP5A_302	CDS	complement(342246..342530)	himD; integration host factor beta-subunit
+bap:BUAP5A_303	CDS	complement(342626..344302)	rpsA; 30S ribosomal protein S1
+bap:BUAP5A_304	CDS	complement(345141..346424)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+bap:BUAP5A_305	CDS	complement(346492..347577)	serC; phosphoserine aminotransferase
+bap:BUAP5A_306	CDS	complement(347616..348899)	serS; seryl-tRNA synthetase
+bap:BUAP5A_307	CDS	349248..350207	trxB; thioredoxin reductase
+bap:BUAP5A_308	CDS	350314..350532	infA; translation initiation factor IF-1
+bap:BUAP5A_309	CDS	350702..352462	aspS; aspartyl-tRNA synthetase
+bap:BUAP5A_310	CDS	complement(352473..353261)	znuB; high-affinity zinc uptake system membrane protein ZnuB
+bap:BUAP5A_311	CDS	complement(353319..354035)	znuC; high-affinity zinc uptake system ATP-binding protein ZnuC
+bap:BUAP5A_312	CDS	complement(355353..356795)	pykA; pyruvate kinase
+bap:BUAP5A_313	CDS	357079..358554	zwf; glucose-6-phosphate 1-dehydrogenase
+bap:BUAP5A_314	CDS	358739..359617	htpX; heat shock protein HtpX
+bap:BUAP5A_315	CDS	359966..360175	cspC; cold shock-like protein CspC
+bap:BUAP5A_316	CDS	360478..362043	yoaE; predicted inner membrane protein (YoaE)
+bap:BUAP5A_317	CDS	362073..362738	yeaZ; hypothetical protein
+bap:BUAP5A_318	CDS	complement(362884..363135)	minE; cell division topological specificity factor MinE
+bap:BUAP5A_319	CDS	complement(363139..363951)	minD; septum site-determining protein MinD
+bap:BUAP5A_320	CDS	complement(363978..364691)	minC; cell division inhibitor MinC
+bap:BUAP5A_321	CDS	365092..365934	yjjT; 16S rRNA m(2)G 1207 methyltransferase
+bap:BUAP5A_322	tRNA	complement(365953..366036)	tRNA-Leu
+bap:BUAP5A_323	tRNA	complement(366048..366121)	tRNA-Cys
+bap:BUAP5A_325	tRNA	366293..366377	tRNA-Ser
+bap:BUAP5A_326	CDS	complement(366486..367535)	ompA; outer membrane protein A precursor
+bap:BUAP5A_327	CDS	complement(367691..369226)	mviN; virulence factor MviN-like protein
+bap:BUAP5A_328	CDS	369500..370552	pyrC; dihydroorotase
+bap:BUAP5A_329	CDS	complement(370572..370979)	flgN; flagella synthesis protein FlgN
+bap:BUAP5A_330	CDS	complement(371052..371732)	flgA; flagella basal-body P-ring formation protein FlgA precursor
+bap:BUAP5A_331	gene	372068..372416	flgB; pseudogene
+bap:BUAP5A_332	CDS	372425..372835	flgC; flagellar basal-body rod protein FlgC
+bap:BUAP5A_333	CDS	372847..373557	flgD; basal-body rod modification protein FlgD
+bap:BUAP5A_334	CDS	373598..374824	flgE; flagellar hook protein FlgE
+bap:BUAP5A_335	CDS	374851..375609	flgF; flagellar basal-body rod protein FlgF
+bap:BUAP5A_336	CDS	375627..376409	flgG; flagellar basal-body rod protein FlgG
+bap:BUAP5A_337	CDS	376493..377209	flgH; flagellar L-ring protein precursor
+bap:BUAP5A_338	CDS	377390..378547	flgI; flagellar P-ring protein precursor
+bap:BUAP5A_339	CDS	378547..378846	flgJ; flagellar protein FlgJ
+bap:BUAP5A_340	CDS	378947..380578	flgK; flagellar hook-associated protein 1
+bap:BUAP5A_341	CDS	complement(380743..383451)	rne; ribonuclease E
+bap:BUAP5A_342	CDS	383786..384730	rluC; ribosomal large subunit pseudouridine synthase C
+bap:BUAP5A_343	CDS	384776..384940	rpmF; 50S ribosomal protein L32
+bap:BUAP5A_344	CDS	386307..387041	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+bap:BUAP5A_345	CDS	387118..387360	acpP; acyl carrier protein
+bap:BUAP5A_346	CDS	387431..388069	tmk; thymidylate kinase
+bap:BUAP5A_347	CDS	388066..389046	holB; DNA polymerase III delta' subunit
+bap:BUAP5A_348	CDS	389080..389874	ycfH; predicted metallodependent hydrolase (YcfH)
+bap:BUAP5A_349	CDS	389970..391403	ptsG; PTS system glucose-specific IIBC component
+bap:BUAP5A_350	CDS	391423..391767	hinT; purine nucleoside phosphoramidase (YcfF)
+bap:BUAP5A_351	CDS	391844..392353	ycfM; predicted outer membrane lipoprotein (YcfM)
+bap:BUAP5A_352	CDS	complement(392602..393750)	ompF; OmpF-like porin
+bap:BUAP5A_353	CDS	complement(393890..395290)	asnS; asparaginyl-tRNA synthetase
+bap:BUAP5A_354	CDS	complement(395438..396637)	pncB; nicotinate phosphoribosyltransferase
+bap:BUAP5A_355	CDS	397059..397922	pyrD; dihydroorotate dehydrogenase
+bap:BUAP5A_356	CDS	398098..400203	ycbY; 23S rRNA m2G2445 methyltransferase (YcbY)
+bap:BUAP5A_357	CDS	400223..402013	uup; ABC transporter ATP-binding protein Uup
+bap:BUAP5A_358	CDS	complement(402017..402991)	yceA; hypothetical protein
+bap:BUAP5A_359	CDS	complement(403048..405915)	valS; valyl-tRNA synthetase
+bap:BUAP5A_360	CDS	complement(405992..407491)	pepA; aminopeptidase A/I
+bap:BUAP5A_361	CDS	407751..408767	argF; ornithine carbamoyltransferase chain F
+bap:BUAP5A_362	CDS	408886..409818	pyrB; aspartate carbamoyltransferase catalytic chain
+bap:BUAP5A_363	CDS	409826..410290	pyrI; aspartate carbamoyltransferase regulatory chain
+bap:BUAP5A_364	CDS	410336..410722	tdcF; predicted L-PSP (mRNA) endoribonuclease (YhaR)
+bap:BUAP5A_365	CDS	complement(410809..412614)	deaD; ATP-dependent RNA helicase DeaD
+bap:BUAP5A_366	CDS	complement(412995..415118)	pnp; polyribonucleotide nucleotidyltransferase
+bap:BUAP5A_367	CDS	complement(415320..415589)	rpsO; 30S ribosomal protein S15
+bap:BUAP5A_368	CDS	complement(415694..416632)	truB; tRNA pseudouridine 55 synthase
+bap:BUAP5A_369	CDS	complement(416670..417032)	rbfA; ribosome-binding factor A
+bap:BUAP5A_370	CDS	complement(417078..419672)	infB; translation initiation factor IF-2
+bap:BUAP5A_371	CDS	complement(419690..421180)	nusA; transcription elongation factor NusA
+bap:BUAP5A_372	tRNA	complement(421519..421604)	tRNA-Leu
+bap:BUAP5A_373	CDS	complement(421653..421982)	secG; protein-export membrane protein SecG
+bap:BUAP5A_374	CDS	complement(422245..423579)	mrsA; MrsA protein
+bap:BUAP5A_375	CDS	complement(423799..425634)	hflB; cell division protein FtsH
+bap:BUAP5A_376	gene	complement(425700..426319)	ftsJ; pseudogene
+bap:BUAP5A_377	CDS	complement(426393..426872)	greA; transcription elongation factor GreA
+bap:BUAP5A_378	CDS	427396..427638	yrbA; hypothetical protein
+bap:BUAP5A_379	CDS	427700..428950	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+bap:BUAP5A_380	CDS	429089..429415	rplU; 50S ribosomal protein L21
+bap:BUAP5A_381	CDS	429420..429674	rpmA; 50S ribosomal protein L27
+bap:BUAP5A_382	CDS	429826..430830	yhbZ; hypothetical 43.3 kDa GTP-binding protein
+bap:BUAP5A_383	CDS	complement(430898..431290)	rpsI; 30S ribosomal protein S9
+bap:BUAP5A_384	CDS	complement(431311..431739)	rplM; 50S ribosomal protein L13
+bap:BUAP5A_385	CDS	431991..433148	pheA; chorismate mutase
+bap:BUAP5A_386	CDS	433330..434685	ffh; signal recognition particle protein
+bap:BUAP5A_387	CDS	434794..435033	rpsP; 30S ribosomal protein S16
+bap:BUAP5A_388	CDS	435035..435565	rimM; 16S rRNA processing protein RimM
+bap:BUAP5A_389	CDS	435580..436293	trmD; tRNA (guanine-N1)-methyltransferase
+bap:BUAP5A_390	CDS	436392..436739	rplS; 50S ribosomal protein L19
+bap:BUAP5A_391	CDS	complement(436823..438274)	tldD; TldD protein
+bap:BUAP5A_392	CDS	438432..438884	aroD; 3-dehydroquinate dehydratase
+bap:BUAP5A_393	CDS	complement(439076..439372)	fis; factor-for-inversion stimulation protein
+bap:BUAP5A_394	CDS	complement(439541..440479)	rluD; ribosomal large subunit pseudouridine synthase D
+bap:BUAP5A_395	CDS	440644..441384	yfiO; hypothetical 27.8 kDa lipoprotein
+bap:BUAP5A_396	CDS	441550..444186	alaS; alanyl-tRNA synthetase
+bap:BUAP5A_397	CDS	444381..444554	csrA; carbon storage regulator
+bap:BUAP5A_398	tRNA	444710..444801	tRNA-Ser
+bap:BUAP5A_399	tRNA	444819..444892	tRNA-Arg
+bap:BUAP5A_400	CDS	445012..446568	gshA; glutamate-cysteine ligase
+bap:BUAP5A_401	CDS	complement(446715..447851)	metK; S-adenosylmethionine synthetase
+bap:BUAP5A_402	CDS	448086..448838	endA; endonuclease I
+bap:BUAP5A_403	CDS	448810..449571	rsmE; 16S rRNA m3U1498 methyltransferase (YggJ)
+bap:BUAP5A_404	CDS	complement(449645..450316)	rpiA; ribose-5-phosphate isomerase A
+bap:BUAP5A_405	tRNA	complement(450500..450574)	tRNA-Gln
+bap:BUAP5A_406	tRNA	complement(450668..450749)	tRNA-Leu
+bap:BUAP5A_407	tRNA	complement(450761..450837)	tRNA-Met
+bap:BUAP5A_408	CDS	450943..452658	glnS; glutaminyl-tRNA synthetase
+bap:BUAP5A_409	CDS	452832..454469	pyrG; CTP synthetase
+bap:BUAP5A_410	CDS	454499..455803	eno; enolase
+bap:BUAP5A_411	CDS	complement(455959..456963)	nlpD; lipoprotein NlpD precursor
+bap:BUAP5A_412	CDS	complement(457053..457538)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase monomer (YgbB)
+bap:BUAP5A_413	CDS	complement(457554..458267)	ygbP; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+bap:BUAP5A_414	CDS	complement(458350..458565)	ftsB; essential cell division protein FtsB (YgbQ)
+bap:BUAP5A_415	CDS	complement(458623..459243)	cysC; adenylylsulfate kinase
+bap:BUAP5A_416	CDS	complement(459244..460665)	cysN; sulfate adenylate transferase subunit 1
+bap:BUAP5A_417	CDS	complement(460684..461592)	cysD; sulfate adenylyltransferase subunit 2
+bap:BUAP5A_418	CDS	complement(461602..463023)	cysG; ferrochelatase
+bap:BUAP5A_419	CDS	complement(463362..464096)	cysH; phosphoadenosine phosphosulfate reductase
+bap:BUAP5A_420	CDS	complement(464112..465821)	cysI; sulfite reductase (NADPH) hemoprotein beta-component
+bap:BUAP5A_421	CDS	complement(465821..467626)	cysJ; sulfite reductase (NADPH) flavoprotein alpha-component
+bap:BUAP5A_422	CDS	complement(467817..470225)	mutS; DNA mismatch repair protein
+bap:BUAP5A_423	CDS	470382..471020	dsbA; thiol:disulfide interchange protein DsbA precursor
+bap:BUAP5A_424	CDS	471141..472001	polA; DNA polymerase I
+bap:BUAP5A_425	CDS	complement(472064..472681)	yihA; hypothetical GTP-binding protein
+bap:BUAP5A_426	CDS	472932..474755	typA; GTP-binding protein BipA
+bap:BUAP5A_427	CDS	complement(474878..475501)	gmk; guanylate kinase
+bap:BUAP5A_428	CDS	complement(475601..476560)	ygfZ; folate-binding protein (YgfZ)
+bap:BUAP5A_429	CDS	476779..477828	prfB; peptide chain release factor 2
+bap:BUAP5A_430	CDS	477838..479358	lysS; lysyl-tRNA synthetase
+bap:BUAP5A_431	CDS	479424..480671	lysA; diaminopimelate decarboxylase
+bap:BUAP5A_432	CDS	480737..481582	lgt; prolipoprotein diacylglyceryl transferase
+bap:BUAP5A_433	CDS	481596..482390	thyA; thymidylate synthase
+bap:BUAP5A_434	CDS	482458..483777	miaB; isopentenyl-adenosine A37 tRNA methylthiolase MiaB (YleA)
+bap:BUAP5A_435	CDS	483931..484266	ybeY; hypothetical protein
+bap:BUAP5A_436	CDS	484347..485222	ybeX; hypothetical protein
+bap:BUAP5A_437	CDS	485326..487905	leuS; leucyl-tRNA synthetase
+bap:BUAP5A_438	CDS	487945..488940	holA; DNA polymerase III delta subunit
+bap:BUAP5A_439	CDS	488963..489607	nadD; nicotinate-mononucleotide adenylyltransferase (YbeN)
+bap:BUAP5A_440	CDS	489668..489898	sirA; sulfur transfer protein (YhhP)
+bap:BUAP5A_441	CDS	complement(490045..491160)	asd; aspartate-semialdehyde dehydrogenase
+bap:BUAP5A_442	CDS	491456..492046	yhgN; hypothetical protein
+bap:BUAP5A_443	CDS	492159..493331	pgk; phosphoglycerate kinase
+bap:BUAP5A_444	CDS	493347..494423	fba; fructose-bisphosphate aldolase
+bap:BUAP5A_445	CDS	494559..495404	yggB; mechanosensitive channel MscS
+bap:BUAP5A_446	CDS	495463..498687	recC; exodeoxyribonuclease V 125 kDa polypeptide
+bap:BUAP5A_447	CDS	498692..502216	recB; exodeoxyribonuclease V 135 kDa polypeptide
+bap:BUAP5A_448	CDS	502222..504030	recD; exodeoxyribonuclease V 67 kDa polypeptide
+bap:BUAP5A_449	CDS	complement(504069..505397)	argA; N-acetylglutamate synthase
+bap:BUAP5A_450	tRNA	complement(505576..505652)	tRNA-Met
+bap:BUAP5A_451	CDS	505764..506843	mltA; membrane-bound lytic murein transglycosylase A precursor
+bap:BUAP5A_452	CDS	506882..507364	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+bap:BUAP5A_453	CDS	507394..508365	thiL; thiamin-monophosphate kinase
+bap:BUAP5A_454	CDS	508421..508846	ribD1; riboflavin deaminase
+bap:BUAP5A_455	CDS	508889..509512	ribD2; riboflavin reductase
+bap:BUAP5A_456	CDS	509549..509980	nusB; transcription antitermination protein NusB
+bap:BUAP5A_457	CDS	complement(510035..511861)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+bap:BUAP5A_458	CDS	complement(511919..512767)	ispA; geranyltranstransferase
+bap:BUAP5A_459	CDS	complement(512819..513991)	yajR; hypothetical protein
+bap:BUAP5A_460	CDS	514065..514409	yccK; hypothetical protein
+bap:BUAP5A_461	CDS	complement(514430..515287)	cyoE; protoheme IX farnesyltransferase
+bap:BUAP5A_462	CDS	complement(515315..515632)	cyoD; cytochrome O ubiquinol oxidase subunit IV
+bap:BUAP5A_463	CDS	complement(515632..516249)	cyoC; cytochrome O ubiquinol oxidase subunit III
+bap:BUAP5A_464	CDS	complement(516246..518234)	cyoB; cytochrome O ubiquinol oxidase subunit I
+bap:BUAP5A_465	CDS	complement(518239..519129)	cyoA; cytochrome O ubiquinol oxidase subunit II
+bap:BUAP5A_466	CDS	519428..519742	bolA; BolA protein
+bap:BUAP5A_467	CDS	519877..521205	tig; trigger factor
+bap:BUAP5A_468	CDS	521340..521966	clpP; ATP-dependent Clp protease proteolytic subunit
+bap:BUAP5A_469	CDS	522065..523354	clpX; ATP-dependent protease ATP-binding subunit
+bap:BUAP5A_470	CDS	523546..525879	lon; ATP-dependent protease LA
+bap:BUAP5A_471	CDS	526021..527892	ppiD; peptidyl-prolyl cis-trans isomerase D
+bap:BUAP5A_472	CDS	528859..530628	mdl; multidrug resistance-like ATP-binding protein Mdl
+bap:BUAP5A_473	CDS	530600..532372	mdlB; multidrug resistance-like ATP-binding protein MdlB
+bap:BUAP5A_474	CDS	532667..533752	dnaX; DNA polymerase III subunits gamma and tau
+bap:BUAP5A_475	CDS	534072..534401	ybaB; hypothetical protein
+bap:BUAP5A_476	CDS	534547..536421	htpG; heat shock protein 90
+bap:BUAP5A_477	CDS	536494..537141	adk; adenylate kinase
+bap:BUAP5A_478	tRNA	complement(537144..537217)	tRNA-Arg
+bap:BUAP5A_479	CDS	537372..538229	folD; methenyltetrahydrofolate cyclohydrolase
+bap:BUAP5A_480	CDS	complement(538226..539620)	cysS; cysteinyl-tRNA synthetase
+bap:BUAP5A_481	CDS	539881..540144	ybeD; hypothetical protein
+bap:BUAP5A_482	CDS	complement(540251..540460)	cspE; cold shock protein E
+bap:BUAP5A_483	rRNA	complement(540748..540862)	5S ribosomal RNA
+bap:BUAP5A_484	rRNA	complement(540975..543887)	23S ribosomal RNA
+bap:BUAP5A_485	tRNA	complement(544049..544121)	tRNA-Glu
+bap:BUAP5A_486	CDS	complement(544274..545095)	aroE; shikimate 5-dehydrogenase
+bap:BUAP5A_487	CDS	complement(545088..545615)	rimN; dsRNA-binding protein, putative ribosome maturation factor (YrdC)
+bap:BUAP5A_488	CDS	complement(545713..546186)	smg; Smg protein
+bap:BUAP5A_489	CDS	546430..546951	def; polypeptide deformylase
+bap:BUAP5A_490	CDS	546959..547903	fmt; methionyl-tRNA formyltransferase
+bap:BUAP5A_491	CDS	complement(548031..548423)	rplQ; 50S ribosomal protein L17
+bap:BUAP5A_492	CDS	complement(548468..549457)	rpoA; DNA-directed RNA polymerase alpha subunit
+bap:BUAP5A_493	CDS	complement(549486..550106)	rpsD; 30S ribosomal protein S4
+bap:BUAP5A_494	CDS	complement(550132..550527)	rpsK; 30S ribosomal protein S11
+bap:BUAP5A_495	CDS	complement(550545..550901)	rpsM; 30S ribosomal protein S13
+bap:BUAP5A_496	CDS	complement(550995..551111)	rpmJ; 50S ribosomal protein L36
+bap:BUAP5A_497	CDS	complement(551137..552450)	secY; preprotein translocase SecY
+bap:BUAP5A_498	CDS	complement(552461..552895)	rplO; 50S ribosomal protein L15
+bap:BUAP5A_499	CDS	complement(552900..553079)	rpmD; 50S ribosomal protein L30
+bap:BUAP5A_500	CDS	complement(553089..553592)	rpsE; 30S ribosomal protein S5
+bap:BUAP5A_501	CDS	complement(553608..553976)	rplR; 50S ribosomal protein L18
+bap:BUAP5A_502	CDS	complement(553978..554535)	rplF; 50S ribosomal protein L6
+bap:BUAP5A_503	CDS	complement(554525..554917)	rpsH; 30S ribosomal protein S8
+bap:BUAP5A_504	CDS	complement(554946..555251)	rpsN; 30S ribosomal protein S14
+bap:BUAP5A_505	CDS	complement(555269..555808)	rplE; 50S ribosomal protein L5
+bap:BUAP5A_506	CDS	complement(555823..556137)	rplX; 50S ribosomal protein L24
+bap:BUAP5A_507	CDS	complement(556163..556531)	rplN; 50S ribosomal protein L14
+bap:BUAP5A_508	CDS	complement(556645..556896)	rpsQ; 30S ribosomal protein S17
+bap:BUAP5A_509	CDS	complement(556896..557093)	rpmC; 50S ribosomal protein L29
+bap:BUAP5A_510	CDS	complement(557093..557503)	rplP; 50S ribosomal protein L16
+bap:BUAP5A_511	CDS	complement(557524..558225)	rpsC; 30S ribosomal protein S3
+bap:BUAP5A_512	CDS	complement(558244..558576)	rplV; 50S ribosomal protein L22
+bap:BUAP5A_513	CDS	complement(558612..558890)	rpsS; 30S ribosomal protein S19
+bap:BUAP5A_514	CDS	complement(558910..559731)	rplB; 50S ribosomal protein L2
+bap:BUAP5A_515	CDS	complement(559746..560048)	rplW; 50S ribosomal protein L23
+bap:BUAP5A_516	CDS	complement(560045..560650)	rplD; 50S ribosomal protein L4
+bap:BUAP5A_517	CDS	complement(560668..561297)	rplC; 50S ribosomal protein L3
+bap:BUAP5A_518	CDS	complement(561328..561639)	rpsJ; 30S ribosomal protein S10
+bap:BUAP5A_519	CDS	complement(561970..563154)	tufB; elongation factor EF-Tu
+bap:BUAP5A_520	CDS	complement(563222..565330)	fusA; elongation factor G
+bap:BUAP5A_521	CDS	complement(565445..565915)	rpsG; 30S ribosomal protein S7
+bap:BUAP5A_522	CDS	complement(565957..566331)	rpsL; 30S ribosomal protein S12
+bap:BUAP5A_523	CDS	complement(566465..566752)	yheL; hypothetical protein
+bap:BUAP5A_524	CDS	complement(566764..567123)	yheM; hypothetical protein
+bap:BUAP5A_525	CDS	complement(567142..567528)	yheN; hypothetical protein
+bap:BUAP5A_526	CDS	complement(567611..568336)	fkpA; FKBP-type peptidyl-prolyl cis-trans isomerase FkpA precursor
+bap:BUAP5A_527	CDS	complement(568798..570024)	argD; bifunctional N-succinyldiaminopimelate-aminotransferase/acetylornithine transaminase protein
+bap:BUAP5A_528	CDS	570341..571507	yhfC; YhfC MFS transporter
+bap:BUAP5A_529	CDS	complement(571569..572576)	trpS; tryptophanyl-tRNA synthetase
+bap:BUAP5A_530	CDS	complement(572599..573285)	rpe; ribulose-phosphate 3-epimerase
+bap:BUAP5A_531	CDS	complement(574168..575259)	aroB; 3-dehydroquinate synthase
+bap:BUAP5A_532	CDS	complement(575277..575798)	aroK; shikimate kinase I
+bap:BUAP5A_533	tRNA	576297..576381	tRNA-Ser
+bap:BUAP5A_534	CDS	complement(576401..577105)	deoD; purine nucleoside phosphorylase
+bap:BUAP5A_535	CDS	complement(577149..578372)	deoB; phosphopentomutase
+bap:BUAP5A_536	CDS	complement(578432..580012)	prfC; peptide chain release factor 3
+bap:BUAP5A_537	CDS	complement(581124..581702)	nfuA; iron-sulfur cluster scaffold protein (YhgI)
+bap:BUAP5A_538	CDS	complement(582315..582830)	ssb; single-strand binding protein
+bap:BUAP5A_539	CDS	583500..584897	dnaB; replicative DNA helicase
+bap:BUAP5A_540	CDS	585144..586106	gshB; glutathione synthetase
+bap:BUAP5A_541	CDS	586117..586524	yqgF; predicted Holliday junction resolvase (YqgF)
+bap:BUAP5A_542	CDS	586642..587244	yggS; hypothetical protein
+bap:BUAP5A_543	CDS	587287..588417	yggW; predicted oxidoreductase (YggW)
+bap:BUAP5A_544	CDS	complement(588424..589143)	yggH; hypothetical protein
+bap:BUAP5A_545	CDS	589241..590293	mutY; A/G-specific adenine glycosylase
+bap:BUAP5A_546	CDS	590265..590546	yggX; protein that protects iron-sulfur proteins against oxidative damage (YggX)
+bap:BUAP5A_547	CDS	590640..591428	murI; glutamate racemase
+bap:BUAP5A_548	gene	complement(591619..592861)	sbcB; pseudogene
+bap:BUAP5A_549	CDS	592941..593249	yeeX; hypothetical protein
+bap:BUAP5A_550	tRNA	complement(593256..593328)	tRNA-Asn
+bap:BUAP5A_551	tRNA	593462..593534	tRNA-Met
+bap:BUAP5A_552	CDS	593630..594271	pyrE; orotate phosphoribosyltransferase
+bap:BUAP5A_553	CDS	complement(594283..594747)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+bap:BUAP5A_554	CDS	complement(594791..595588)	cysQ; CysQ protein
+bap:BUAP5A_555	CDS	complement(595575..596027)	rplI; 50S ribosomal protein L9
+bap:BUAP5A_556	CDS	complement(596076..596303)	rpsR; 30S ribosomal protein S18
+bap:BUAP5A_557	CDS	complement(596429..596770)	rpsF; 30S ribosomal protein S6
+bap:BUAP5A_558	CDS	complement(596936..599173)	vacB; VacB protein
+bap:BUAP5A_559	CDS	complement(599261..600562)	purA; adenylosuccinate synthetase
+bap:BUAP5A_560	CDS	complement(600612..601544)	hflC; HflC protein
+bap:BUAP5A_561	CDS	complement(601547..602767)	hflK; HflK protein
+bap:BUAP5A_562	CDS	complement(602924..603832)	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+bap:BUAP5A_563	CDS	complement(603870..605624)	mutL; DNA mismatch repair protein MutL
+bap:BUAP5A_564	CDS	complement(605724..606881)	mtlD; mannitol-1-phosphate 5-dehydrogenase
+bap:BUAP5A_565	CDS	complement(606923..608821)	mtlA; PTS system mannitol-specific IIABC component
+bap:BUAP5A_566	CDS	complement(608995..610644)	pgi; glucose-6-phosphate isomerase
+bap:BUAP5A_567	CDS	610958..611512	orn; oligoribonuclease
+bap:BUAP5A_568	tRNA	611598..611673	tRNA-Gly
+bap:BUAP5A_569	CDS	611965..612678	amiB; N-acetylmuramoyl-L-alanine amidase precursor
+bap:BUAP5A_570	CDS	complement(612785..613003)	rpmE; 50S ribosomal protein L31
+bap:BUAP5A_571	CDS	613609..614121	hslV; ATP-dependent protease peptidase subunit
+bap:BUAP5A_572	CDS	614134..615465	hslU; ATP-dependent protease ATP-binding subunit
+bap:BUAP5A_573	CDS	615672..616145	ibpA; 16 kDa heat shock protein A
+bap:BUAP5A_574	CDS	616222..616980	fpr; ferredoxin-NADP reductase
+bap:BUAP5A_575	CDS	complement(616998..617972)	yjeA; lysyl-tRNA synthetase
+bap:BUAP5A_576	CDS	618043..618540	kdtB; lipopolysaccharide core biosynthesis protein kDatB
+bap:BUAP5A_577	CDS	complement(618627..619730)	yba3; hypothetical protein
+bap:BUAP5A_578	CDS	complement(619723..620061)	yba4; hypothetical protein
+bap:BUAP5A_579	CDS	620217..620957	yhiQ; predicted SAM-dependent methyltransferase (YhiQ)
+bap:BUAP5A_580	CDS	complement(621040..622512)	pitA; low-affinity inorganic phosphate transporter
+bap:BUAP5A_581	gene	complement(622663..623896)	ynfM; pseudogene
+bap:BUAP5A_582	CDS	complement(623931..624785)	dapF; diaminopimelate epimerase
+bap:BUAP5A_583	CDS	624974..625324	cyaY; CyaY protein
+bap:BUAP5A_584	CDS	625453..626397	hemC; porphobilinogen deaminase
+bap:BUAP5A_585	tRNA	complement(627155..627231)	tRNA-Pro
+bap:BUAP5A_586	tRNA	complement(627268..627343)	tRNA-His
+bap:BUAP5A_587	tRNA	complement(627373..627446)	tRNA-Arg
+bap:BUAP5A_588	CDS	complement(627635..628894)	rho; transcription termination factor Rho
+bap:BUAP5A_589	CDS	complement(629024..629350)	trxA; thioredoxin
+bap:BUAP5A_590	CDS	complement(629552..631489)	rep; ATP-dependent DNA helicase Rep
+bap:BUAP5A_591	CDS	complement(631559..633031)	ilvC; ketol-acid reductoisomerase
+bap:BUAP5A_592	CDS	complement(633079..634932)	ilvD; dihydroxy-acid dehydratase
+bap:BUAP5A_593	tRNA	complement(635173..635248)	tRNA-Trp
+bap:BUAP5A_594	CDS	635421..636635	mitF; membrane-bound lytic murein transglycosylase F (YfhD)
+bap:BUAP5A_595	CDS	636666..637049	iscU; Hsc20 co-chaperone that acts with Hsc66 in IscU iron-sulfur cluster
+bap:BUAP5A_596	CDS	637144..637668	hscB; chaperone protein HscB
+bap:BUAP5A_597	CDS	637680..639515	hscA; heat shock protein HscA
+bap:BUAP5A_598	CDS	639515..639850	fdx; ferredoxin 2fe-2s
+bap:BUAP5A_599	CDS	complement(639847..641208)	yfgK; 50S ribosomal subunit stability factor (YfgK)
+bap:BUAP5A_600	CDS	complement(641301..641882)	yfgM; hypothetical protein

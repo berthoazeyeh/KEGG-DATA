@@ -1,0 +1,634 @@
+bed:BTURN675_001	CDS	1..1914	mnmG; tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+bed:BTURN675_002	CDS	2045..2860	atpB; ATP synthase subunit a
+bed:BTURN675_003	CDS	2966..3211	atpE; ATP synthase subunit c
+bed:BTURN675_004	CDS	3316..3822	atpF; ATP synthase subunit b
+bed:BTURN675_005	CDS	3823..4368	atpH; ATP synthase subunit delta
+bed:BTURN675_006	CDS	4387..5928	atpA; ATP synthase subunit alpha
+bed:BTURN675_007	CDS	6030..6905	atpG; ATP synthase gamma chain
+bed:BTURN675_008	CDS	6944..8329	atpD; ATP synthase subunit beta
+bed:BTURN675_009	CDS	8441..8854	atpC; ATP synthase epsilon chain
+bed:BTURN675_010	CDS	8945..10336	glmU; Bifunctional protein GlmU
+bed:BTURN675_011	CDS	complement(10365..11822)	mnmE; tRNA modification GTPase MnmE
+bed:BTURN675_012	CDS	complement(11928..13595)	yidC; Membrane protein insertase YidC
+bed:BTURN675_013	CDS	complement(13665..13877)	yidD; putative membrane protein insertion efficiency factor
+bed:BTURN675_014	CDS	complement(13762..14220)	rnpA; ribonuclease P protein component
+bed:BTURN675_015	CDS	complement(14300..14449)	rpmH; 50S ribosomal protein L34
+bed:BTURN675_016	CDS	15133..16530	dnaA; chromosomal replication initiator protein DnaA
+bed:BTURN675_017	CDS	16536..17651	dnaN; DNA polymerase III subunit beta
+bed:BTURN675_018	CDS	17784..20213	gyrB; DNA gyrase subunit B
+bed:BTURN675_019	CDS	20831..21244	ibpB; small heat shock protein ibpB
+bed:BTURN675_020	CDS	complement(21402..22412)	putative transmembrane protein
+bed:BTURN675_021	CDS	22984..23901	glyQ; Glycine-tRNA ligase alpha subunit
+bed:BTURN675_022	CDS	23915..25912	glyS; Glycine-tRNA ligase beta subunit
+bed:BTURN675_023	CDS	complement(26003..26629)	sodA; superoxide dismutase [Mn]
+bed:BTURN675_024	CDS	27066..29108	prlC; oligopeptidase A
+bed:BTURN675_025	CDS	complement(29252..30883)	pit; Low-affinity inorganic phosphate transporter 1
+bed:BTURN675_026	CDS	31524..32411	ubiA; 4-hydroxybenzoate octaprenyltransferase
+bed:BTURN675_027	CDS	complement(32444..32899)	zur; Zinc uptake regulation protein
+bed:BTURN675_028	CDS	33532..34923	dnaB; replicative DNA helicase
+bed:BTURN675_029	CDS	35363..35854	ssb; single-stranded DNA-binding protein
+bed:BTURN675_030	CDS	36324..37970	yjcE; putative Na(+)/H(+) exchanger yjcE
+bed:BTURN675_031	CDS	38767..40101	gltP; Proton glutamate symport protein
+bed:BTURN675_032	CDS	complement(40251..40646)	tdcF; Putative reactive intermediate deaminase TdcF
+bed:BTURN675_033	CDS	complement(40764..41801)	argI; Ornithine carbamoyltransferase
+bed:BTURN675_034	CDS	complement(41933..44785)	valS; valine-tRNA ligase
+bed:BTURN675_035	CDS	complement(44903..46453)	pepA; cytosol aminopeptidase
+bed:BTURN675_036	CDS	46842..47957	lptF; Lipopolysaccharide export system permease protein lptF
+bed:BTURN675_037	CDS	join(47963..48919,48919..49044)	lptG; Lipopolysaccharide export system permease protein LptG
+bed:BTURN675_038	tRNA	49407..49491	tRNA-Leu
+bed:BTURN675_039	CDS	49787..50431	ABC transporter protein
+bed:BTURN675_040	CDS	50566..51417	ABC transport system, permease component
+bed:BTURN675_041	CDS	complement(51613..52338)	lptB; Lipopolysaccharide export system ATP-binding protein LptB
+bed:BTURN675_042	CDS	complement(52349..52921)	lptA; Lipopolysaccharide export system protein lptA
+bed:BTURN675_043	CDS	53363..53620	yrbA; putative DNA-binding transcriptional regulator
+bed:BTURN675_044	CDS	53664..54926	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+bed:BTURN675_045	CDS	complement(55016..56392)	degQ; Periplasmic pH-dependent serine endoprotease DegQ
+bed:BTURN675_046	CDS	57494..57940	rplM; 50S ribosomal protein L13
+bed:BTURN675_047	CDS	57994..58395	rpsI; 30S ribosomal protein S9
+bed:BTURN675_048	CDS	complement(58513..59103)	yraP; Uncharacterized protein yraP
+bed:BTURN675_049	CDS	59477..60325	rsmI; Ribosomal RNA small subunit methyltransferase I
+bed:BTURN675_050	ncRNA	60398..60814	rnpB; RNAseP_bact_a
+bed:BTURN675_051	CDS	61091..61753	yqjA; inner membrane protein YqjA
+bed:BTURN675_052	tRNA	complement(61826..61900)	tRNA-Met
+bed:BTURN675_053	CDS	complement(61953..63809)	rpoD; RNA polymerase sigma factor rpoD
+bed:BTURN675_054	CDS	complement(64202..65956)	dnaG; DNA primase
+bed:BTURN675_055	CDS	complement(66186..66401)	rpsU; 30S ribosomal protein S21
+bed:BTURN675_056	CDS	66642..67649	gcp; putative tRNA threonylcarbamoyladenosine biosynthesis protein Gcp
+bed:BTURN675_057	CDS	complement(67727..68329)	plsY; putative glycerol-3-phosphate acyltransferase
+bed:BTURN675_058	CDS	68844..69203	folB; dihydroneopterin aldolase
+bed:BTURN675_059	CDS	69333..70160	uppP; Undecaprenyl-diphosphatase
+bed:BTURN675_060	CDS	complement(70189..71418)	cca; Multifunctional CCA protein
+bed:BTURN675_061	CDS	72013..73452	hldE; bifunctional protein hldE
+bed:BTURN675_062	CDS	74594..75325	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+bed:BTURN675_063	CDS	complement(75478..76662)	metC; Cystathionine beta-lyase metC
+bed:BTURN675_064	tRNA	complement(77186..77258)	tRNA-Phe
+bed:BTURN675_065	CDS	complement(77745..78113)	cutA; divalent-cation tolerance protein CutA
+bed:BTURN675_066	CDS	78811..79104	groS; 10 kDa chaperonin
+bed:BTURN675_067	CDS	79175..80818	groL; 60 kDa chaperonin
+bed:BTURN675_068	CDS	80996..81580	efp; Elongation factor P
+bed:BTURN675_069	CDS	complement(81638..85006)	yjeP; putative MscS family protein YjeP
+bed:BTURN675_070	CDS	complement(85027..85932)	psd; Phosphatidylserine decarboxylase proenzyme
+bed:BTURN675_071	CDS	86449..86994	orn; Oligoribonuclease
+bed:BTURN675_072	tRNA	87166..87237	tRNA-Gly
+bed:BTURN675_073	CDS	87403..87891	yjeE; putative ATPase
+bed:BTURN675_074	CDS	87885..89249	amiB; N-acetylmuramoyl-L-alanine amidase AmiB
+bed:BTURN675_075	CDS	89567..90535	miaA; tRNA dimethylallyltransferase
+bed:BTURN675_076	CDS	91097..92380	hflK; Modulator of FtsH protease HflK
+bed:BTURN675_077	CDS	92384..93412	hflC; Modulator of FtsH protease HflC
+bed:BTURN675_078	CDS	93568..94887	purA; Adenylosuccinate synthetase
+bed:BTURN675_079	CDS	95480..96223	rlmB; 23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+bed:BTURN675_080	CDS	96634..97023	rpsF; 30S ribosomal protein S6
+bed:BTURN675_081	CDS	97288..97512	rpsR; 30S ribosomal protein S18
+bed:BTURN675_082	CDS	97570..98022	rplI; 50S ribosomal protein L9
+bed:BTURN675_083	CDS	98200..98955	cysQ; 3'(2'),5'-bisphosphate nucleotidase CysQ
+bed:BTURN675_084	CDS	99201..100982	ytfM; Uncharacterized protein ytfM
+bed:BTURN675_085	CDS	100979..104806	ytfN; Uncharacterized protein ytfN
+bed:BTURN675_086	CDS	complement(104873..105403)	ppa; inorganic pyrophosphatase
+bed:BTURN675_087	CDS	complement(105971..106939)	ispB; octaprenyl-diphosphate synthase
+bed:BTURN675_088	CDS	107272..107586	rplU; 50S ribosomal protein L21
+bed:BTURN675_089	CDS	107662..107919	rpmA; 50S ribosomal protein L27
+bed:BTURN675_090	CDS	108269..109300	obgE; GTPase ObgE/CgtA
+bed:BTURN675_091	CDS	110272..110748	greA; Transcription elongation factor greA
+bed:BTURN675_092	CDS	111261..111899	rlmE; Ribosomal RNA large subunit methyltransferase E
+bed:BTURN675_093	CDS	111950..113872	ftsH; ATP-dependent zinc metalloprotease FtsH
+bed:BTURN675_094	CDS	113956..114819	folP; dihydropteroate synthase
+bed:BTURN675_095	CDS	114806..116167	glmM; phosphoglucosamine mutase
+bed:BTURN675_096	CDS	116267..116611	secG; Protein-export membrane protein SecG
+bed:BTURN675_097	tRNA	116761..116844	tRNA-Leu
+bed:BTURN675_098	tRNA	116932..117008	tRNA-Met
+bed:BTURN675_099	CDS	117528..118823	nusA; Transcription elongation protein nusA
+bed:BTURN675_100	CDS	119118..121817	infB; translation initiation factor IF-2
+bed:BTURN675_101	CDS	121924..122283	rbfA; Ribosome-binding factor A
+bed:BTURN675_102	CDS	122403..123329	truB; tRNA pseudouridine synthase B
+bed:BTURN675_103	CDS	123553..123828	rpsO; 30S ribosomal protein S15
+bed:BTURN675_104	CDS	124060..126141	pnp; Polyribonucleotide nucleotidyltransferase
+bed:BTURN675_105	CDS	126249..127964	deaD; Cold-shock DEAD box protein A
+bed:BTURN675_106	CDS	129207..131681	thrA; Bifunctional aspartokinase/homoserine dehydrogenase 1
+bed:BTURN675_107	CDS	131678..132610	thrB; homoserine kinase
+bed:BTURN675_108	CDS	132615..133931	thrC; threonine synthase
+bed:BTURN675_109	CDS	134289..136205	dnaK; chaperone protein DnaK
+bed:BTURN675_110	CDS	136311..137438	dnaJ; chaperone protein DnaJ
+bed:BTURN675_111	CDS	complement(137444..137707)	rpsT; 30S ribosomal protein S20
+bed:BTURN675_112	CDS	137924..138859	ribF; Riboflavin biosynthesis protein ribF
+bed:BTURN675_113	CDS	138913..141750	ileS; Isoleucine--tRNA ligase
+bed:BTURN675_114	CDS	141759..142238	lspA; Lipoprotein signal peptidase
+bed:BTURN675_115	CDS	143030..143854	dapB; Dihydrodipicolinate reductase
+bed:BTURN675_116	CDS	143980..145116	carA; Carbamoyl-phosphate synthase small chain
+bed:BTURN675_117	CDS	145141..148380	carB; Carbamoyl-phosphate synthase large chain
+bed:BTURN675_118	CDS	148553..149083	folA; Dihydrofolate reductase
+bed:BTURN675_119	CDS	complement(149156..149995)	apaH; Bis(5'-nucleosyl)-tetraphosphatase [symmetrical]
+bed:BTURN675_120	CDS	complement(150164..150979)	rsmA; Ribosomal RNA small subunit methyltransferase A
+bed:BTURN675_121	CDS	complement(150960..151970)	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+bed:BTURN675_122	CDS	complement(151963..153270)	surA; chaperone surA
+bed:BTURN675_123	CDS	complement(153463..155847)	lptD; LPS-assembly protein lptD
+bed:BTURN675_124	CDS	complement(156229..156843)	leuD; 3-isopropylmalate dehydratase small subunit
+bed:BTURN675_125	CDS	complement(156869..158269)	leuC; 3-isopropylmalate dehydratase large subunit
+bed:BTURN675_126	CDS	complement(158286..159374)	leuB; 3-isopropylmalate dehydrogenase
+bed:BTURN675_127	CDS	complement(159382..160953)	leuA; 2-isopropylmalate synthase
+bed:BTURN675_128	CDS	161711..162694	rsmH; Ribosomal RNA small subunit methyltransferase H
+bed:BTURN675_129	CDS	162694..163023	ftsL; cell division protein FtsL
+bed:BTURN675_130	CDS	163069..164820	ftsI; peptidoglycan synthase FtsI
+bed:BTURN675_131	CDS	164824..166320	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+bed:BTURN675_132	CDS	166317..167684	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+bed:BTURN675_133	CDS	167674..168759	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+bed:BTURN675_134	CDS	168763..170097	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+bed:BTURN675_135	CDS	170090..171295	ftsW; Lipid II flippase FtsW
+bed:BTURN675_136	CDS	171292..172371	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+bed:BTURN675_137	CDS	172439..173893	murC; UDP-N-acetylmuramate--L-alanine ligase
+bed:BTURN675_138	CDS	174005..174751	ftsQ; Cell division protein FtsQ
+bed:BTURN675_139	CDS	174801..176063	ftsA; cell division protein FtsA
+bed:BTURN675_140	CDS	176163..177353	ftsZ; cell division protein FtsZ
+bed:BTURN675_141	CDS	177500..178417	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+bed:BTURN675_142	CDS	178886..181588	secA; Protein translocase subunit SecA
+bed:BTURN675_143	CDS	181965..182423	dksA; DnaK suppressor protein
+bed:BTURN675_144	CDS	183027..183533	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+bed:BTURN675_145	CDS	complement(183546..186113)	acnB; aconitate hydratase 2
+bed:BTURN675_146	CDS	complement(186389..187831)	lpdA; dihydrolipoyl dehydrogenase
+bed:BTURN675_147	CDS	complement(188053..189333)	aceF; Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+bed:BTURN675_148	CDS	complement(189365..192049)	aceE; Pyruvate dehydrogenase E1 component
+bed:BTURN675_149	CDS	193297..195570	mrcB; penicillin-binding protein 1B
+bed:BTURN675_150	CDS	196250..196597	erpA; iron-sulfur cluster insertion protein erpA
+bed:BTURN675_151	CDS	197308..198996	pyrG; CTP synthase
+bed:BTURN675_152	CDS	199128..200423	eno; Enolase
+bed:BTURN675_153	CDS	200829..202691	cysJ; sulfite reductase [NADPH] flavoprotein alpha-component
+bed:BTURN675_154	CDS	202691..204391	cysI; sulfite reductase (NADPH) hemoprotein beta-component
+bed:BTURN675_155	CDS	204417..205151	cysH; Phosphoadenosine phosphosulfate reductase
+bed:BTURN675_156	CDS	205705..207156	cysG; siroheme synthase
+bed:BTURN675_157	CDS	207168..208082	cysD; Sulfate adenylyltransferase subunit 2
+bed:BTURN675_158	CDS	208103..209545	cysN; Sulfate adenylyltransferase subunit 1
+bed:BTURN675_159	CDS	209532..210161	cysC; adenylyl-sulfate kinase
+bed:BTURN675_160	CDS	210287..210580	ftsB; Cell division protein FtsB
+bed:BTURN675_161	CDS	210936..212030	nlpD; Murein hydrolase activator NlpD
+bed:BTURN675_162	CDS	complement(212204..214717)	mutS; DNA mismatch repair protein MutS
+bed:BTURN675_163	CDS	215686..218349	alaS; alanine-tRNA ligase
+bed:BTURN675_164	CDS	218435..218620	csrA; Carbon storage regulator
+bed:BTURN675_165	tRNA	218773..218862	tRNA-Ser
+bed:BTURN675_166	tRNA	218888..218961	tRNA-Arg
+bed:BTURN675_167	CDS	219151..220518	ffh; signal recognition particle protein
+bed:BTURN675_168	CDS	220651..220914	rpsP; 30S ribosomal protein S16
+bed:BTURN675_169	CDS	220993..221568	rimM; Ribosome maturation factor RimM
+bed:BTURN675_170	CDS	221603..222379	trmD; tRNA (guanine-N(1)-)-methyltransferase
+bed:BTURN675_171	CDS	222471..222821	rplS; 50S ribosomal protein L19
+bed:BTURN675_172	CDS	223238..224305	aroF; Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+bed:BTURN675_173	CDS	224322..225443	tyrA; T-protein
+bed:BTURN675_174	CDS	complement(225604..226461)	pheA; P-protein
+bed:BTURN675_175	CDS	complement(226873..227601)	bamD; Outer membrane protein assembly factor BamD
+bed:BTURN675_176	CDS	227804..228778	rluD; Ribosomal large subunit pseudouridine synthase D
+bed:BTURN675_177	CDS	228860..231436	clpB; Chaperone protein ClpB
+bed:BTURN675_178	CDS	231656..232720	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+bed:BTURN675_179	CDS	232837..233646	birA; Bifunctional protein BirA
+bed:BTURN675_180	tRNA	233798..233869	tRNA-Thr
+bed:BTURN675_181	tRNA	233891..233973	tRNA-Tyr
+bed:BTURN675_182	tRNA	234050..234121	tRNA-Gly
+bed:BTURN675_183	tRNA	234140..234212	tRNA-Thr
+bed:BTURN675_184	CDS	234295..234759	bfr; bacterioferritin
+bed:BTURN675_185	CDS	235030..235341	rpsJ; 30S ribosomal protein S10
+bed:BTURN675_186	CDS	235398..236033	rplC; 50S ribosomal protein L3
+bed:BTURN675_187	CDS	236075..236686	rplD; 50S ribosomal protein L4
+bed:BTURN675_188	CDS	236686..236997	rplW; 50S ribosomal protein L23
+bed:BTURN675_189	CDS	237075..237902	rplB; 50S ribosomal protein L2
+bed:BTURN675_190	CDS	237919..238197	rpsS; 30S ribosomal protein S19
+bed:BTURN675_191	CDS	238258..238605	rplV; 50S ribosomal protein L22
+bed:BTURN675_192	CDS	238670..239374	rpsC; 30S ribosomal protein S3
+bed:BTURN675_193	CDS	239415..239828	rplP; 50S ribosomal protein L16
+bed:BTURN675_194	CDS	239825..240049	rpmC; 50S ribosomal protein L29
+bed:BTURN675_195	CDS	240061..240312	rpsQ; 30S ribosomal protein S17
+bed:BTURN675_196	CDS	240401..240772	rplN; 50S ribosomal protein L14
+bed:BTURN675_197	CDS	240805..241119	rplX; 50S ribosomal protein L24
+bed:BTURN675_198	CDS	241156..241695	rplE; 50S ribosomal protein L5
+bed:BTURN675_199	CDS	241768..242073	rpsN; 30S ribosomal protein S14
+bed:BTURN675_200	CDS	242096..242497	rpsH; 30S ribosomal protein S8
+bed:BTURN675_201	CDS	242555..243094	rplF; 50S ribosomal protein L6
+bed:BTURN675_202	CDS	243143..243496	rplR; 50S ribosomal protein L18
+bed:BTURN675_203	CDS	243567..244082	rpsE; 30S ribosomal protein S5
+bed:BTURN675_204	CDS	244139..244573	rplO; 50S ribosomal protein L15
+bed:BTURN675_205	CDS	244581..245909	secY; Protein translocase subunit SecY
+bed:BTURN675_206	CDS	245997..246113	rpmJ; 50S ribosomal protein L36
+bed:BTURN675_207	CDS	246253..246609	rpsM; 30S ribosomal protein S13
+bed:BTURN675_208	CDS	246638..247033	rpsK; 30S ribosomal protein S11
+bed:BTURN675_209	CDS	247160..247780	rpsD; 30S ribosomal protein S4
+bed:BTURN675_210	CDS	247821..248831	rpoA; DNA-directed RNA polymerase subunit alpha
+bed:BTURN675_211	CDS	248906..249325	rplQ; 50S ribosomal protein L17
+bed:BTURN675_212	CDS	complement(249389..250345)	fmt; Methionyl-tRNA formyltransferase
+bed:BTURN675_213	CDS	complement(250401..250874)	def; peptide deformylase
+bed:BTURN675_214	CDS	251172..251720	rimN; tRNA threonylcarbamoyladenosine biosynthesis protein RimN
+bed:BTURN675_215	CDS	251765..252598	aroE; shikimate dehydrogenase
+bed:BTURN675_216	rRNA	252777..252891	rrf; 5S ribosomal RNA
+bed:BTURN675_217	CDS	complement(253000..253749)	gloB; Hydroxyacylglutathione hydrolase
+bed:BTURN675_218	CDS	complement(253904..254377)	rnhA; Ribonuclease HI
+bed:BTURN675_219	CDS	254442..255239	dnaQ; DNA polymerase III subunit epsilon
+bed:BTURN675_220	CDS	255600..256220	gmhA; phosphoheptose isomerase
+bed:BTURN675_221	tRNA	256413..256485	tRNA-Thr
+bed:BTURN675_222	CDS	complement(256533..257135)	ahpC; Alkyl hydroperoxide reductase subunit C
+bed:BTURN675_223	CDS	257580..258692	tgt; Queuine tRNA-ribosyltransferase
+bed:BTURN675_224	CDS	258748..259080	yajC; UPF0092 membrane protein yajC
+bed:BTURN675_225	CDS	259994..260419	nusB; N utilization substance protein B
+bed:BTURN675_226	CDS	260580..261065	pgpA; Phosphatidylglycerophosphatase A
+bed:BTURN675_227	CDS	complement(261148..263028)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+bed:BTURN675_228	CDS	263334..264797	thiI; tRNA sulfurtransferase
+bed:BTURN675_229	CDS	complement(264967..266154)	yajR; inner membrane transport protein YajR
+bed:BTURN675_230	CDS	complement(266320..267201)	cyoE; Protoheme IX farnesyltransferase
+bed:BTURN675_231	CDS	complement(267212..267535)	cyoD; cytochrome o ubiquinol oxidase protein
+bed:BTURN675_232	CDS	complement(267532..268098)	cyoC; Cytochrome o ubiquinol oxidase subunit 3
+bed:BTURN675_233	CDS	complement(268139..270115)	cyoB; Ubiquinol oxidase subunit 1
+bed:BTURN675_234	CDS	complement(270356..271234)	cyoA; Ubiquinol oxidase subunit 2
+bed:BTURN675_235	CDS	271674..272291	clpP; ATP-dependent Clp protease proteolytic subunit
+bed:BTURN675_236	CDS	272463..273734	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX
+bed:BTURN675_237	CDS	complement(273853..274086)	yggX; putative Fe(2+)-trafficking protein
+bed:BTURN675_238	CDS	complement(274128..275186)	mutY; A/G-specific adenine glycosylase
+bed:BTURN675_239	CDS	complement(275293..275988)	yggS; UPF0001 protein yggS
+bed:BTURN675_240	CDS	complement(276259..276678)	yqgF; putative Holliday junction resolvase
+bed:BTURN675_241	CDS	complement(276679..277245)	yqgE; UPF0301 protein yqgE
+bed:BTURN675_242	CDS	complement(277725..278885)	metK; S-adenosylmethionine synthase
+bed:BTURN675_243	CDS	279165..280085	speB; Agmatinase
+bed:BTURN675_244	CDS	280383..281549	pgk; Phosphoglycerate kinase
+bed:BTURN675_245	CDS	281675..282757	fbaA; Fructose-bisphosphate aldolase class 2
+bed:BTURN675_246	CDS	283124..283792	rpiA; Ribose-5-phosphate isomerase A
+bed:BTURN675_247	CDS	complement(283837..284451)	ygfA; Uncharacterized protein ygfA
+bed:BTURN675_248	CDS	complement(284568..284897)	zapA; Cell division protein ZapA
+bed:BTURN675_249	CDS	285569..286729	ubiH; 2-octaprenyl-6-methoxyphenol hydroxylase
+bed:BTURN675_250	CDS	286766..288001	visC; protein visC
+bed:BTURN675_251	CDS	complement(288188..289168)	ygfZ; tRNA-modifying protein ygfZ
+bed:BTURN675_252	CDS	289607..290605	prfB; peptide chain release factor 2
+bed:BTURN675_253	CDS	290625..292178	lysS; Lysine--tRNA ligase
+bed:BTURN675_254	CDS	292600..293889	lysA; Diaminopimelate decarboxylase
+bed:BTURN675_255	CDS	294328..295212	lgt; Prolipoprotein diacylglyceryl transferase
+bed:BTURN675_256	CDS	295479..298931	recC; Exodeoxyribonuclease V gamma chain
+bed:BTURN675_257	CDS	299300..301636	lon; Lon protease
+bed:BTURN675_258	CDS	301768..302040	hupB; DNA-binding protein HU-beta
+bed:BTURN675_259	CDS	complement(302116..303456)	pmbA; Protein pmbA
+bed:BTURN675_260	CDS	complement(303619..305103)	tldD; Protein tldD
+bed:BTURN675_261	CDS	complement(305392..305892)	mreD; Rod shape-determining protein mreD
+bed:BTURN675_262	CDS	complement(306045..306932)	mreC; Rod shape-determining protein mreC
+bed:BTURN675_263	CDS	complement(307066..308109)	mreB; Rod shape-determining protein MreB
+bed:BTURN675_264	CDS	308790..309242	aroQ; 3-dehydroquinate dehydratase
+bed:BTURN675_265	CDS	309269..309742	accB; Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+bed:BTURN675_266	CDS	309758..311131	accC; Biotin carboxylase
+bed:BTURN675_267	CDS	complement(311290..311859)	gmhB; D,D-heptose 1,7-bisphosphate phosphatase
+bed:BTURN675_268	CDS	312217..313947	proS; proline--tRNA ligase
+bed:BTURN675_269	CDS	complement(314134..315633)	tilS; tRNA(Ile)-lysidine synthase
+bed:BTURN675_270	CDS	complement(315800..316759)	accA; Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+bed:BTURN675_271	CDS	complement(317025..320264)	dnaE; DNA polymerase III subunit alpha
+bed:BTURN675_272	CDS	complement(320558..321727)	lpxB; Lipid-A-disaccharide synthase
+bed:BTURN675_273	CDS	complement(321731..322519)	lpxA; Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+bed:BTURN675_274	CDS	complement(322512..322979)	fabZ; (3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase
+bed:BTURN675_275	CDS	complement(323097..324125)	lpxD; UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+bed:BTURN675_276	CDS	complement(324131..324619)	skp; Chaperone protein skp
+bed:BTURN675_277	CDS	complement(324732..327194)	bamA; Outer membrane protein assembly factor BamA
+bed:BTURN675_278	CDS	complement(327301..328677)	rseP; Regulator of sigma E protease
+bed:BTURN675_279	CDS	complement(328731..329573)	cdsA; phosphatidate cytidylyltransferase
+bed:BTURN675_280	CDS	complement(329612..330355)	ispU; Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+bed:BTURN675_281	CDS	complement(331591..332160)	frr; Ribosome-recycling factor
+bed:BTURN675_282	CDS	complement(332224..332967)	pyrH; Uridylate kinase
+bed:BTURN675_283	CDS	complement(333205..334026)	tsf; Elongation factor Ts
+bed:BTURN675_284	CDS	complement(334136..334831)	rpsB; 30S ribosomal protein S2
+bed:BTURN675_285	CDS	335170..335931	map; methionine aminopeptidase
+bed:BTURN675_286	CDS	336126..336989	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+bed:BTURN675_287	CDS	join(337380..338411,338411..340975)	recB; Exodeoxyribonuclease V beta chain
+bed:BTURN675_288	CDS	341197..343131	recD; Exodeoxyribonuclease V alpha chain
+bed:BTURN675_289	ncRNA	343351..343438	ffs; bacterial signal recognition particle RNA
+bed:BTURN675_290	CDS	complement(343608..343811)	hha; Hemolysin expression-modulating protein Hha
+bed:BTURN675_291	CDS	344429..344983	apt; adenine phosphoribosyltransferase
+bed:BTURN675_292	CDS	345093..346307	dnaX; DNA polymerase III subunit tau
+bed:BTURN675_293	CDS	346673..347335	adk; Adenylate kinase
+bed:BTURN675_294	CDS	347554..349779	icd; Isocitrate dehydrogenase [NADP]
+bed:BTURN675_295	CDS	complement(349843..350562)	lpxH; UDP-2,3-diacylglucosamine hydrolase
+bed:BTURN675_296	CDS	350834..352264	cysS; Cysteine--tRNA ligase
+bed:BTURN675_297	CDS	complement(352425..353285)	folD; bifunctional protein FolD
+bed:BTURN675_298	tRNA	353474..353547	tRNA-Arg
+bed:BTURN675_299	CDS	353993..354967	ytfF; inner membrane protein ytfF
+bed:BTURN675_300	CDS	355127..355864	hypothetical protein
+bed:BTURN675_301	CDS	complement(356116..357222)	mrdB; Rod shape-determining protein RodA
+bed:BTURN675_302	CDS	complement(357310..359160)	mrdA; Penicillin-binding protein 2
+bed:BTURN675_303	CDS	complement(359518..360564)	holA; DNA polymerase III subunit delta
+bed:BTURN675_304	CDS	complement(360619..361134)	lptE; LPS-assembly lipoprotein lptE
+bed:BTURN675_305	CDS	complement(361168..363756)	leuS; leucine--tRNA ligase
+bed:BTURN675_306	CDS	complement(364203..365735)	lnt; Apolipoprotein N-acyltransferase
+bed:BTURN675_307	CDS	complement(365728..366636)	corC; Magnesium and cobalt efflux protein CorC
+bed:BTURN675_308	CDS	complement(join(366740..366997,366997..367185))	ybeY; putative rRNA maturation factor YbeY
+bed:BTURN675_309	CDS	367528..368712	ubiF; 2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+bed:BTURN675_310	tRNA	complement(368881..368953)	tRNA-Gln
+bed:BTURN675_311	tRNA	complement(368971..369055)	tRNA-Leu
+bed:BTURN675_312	tRNA	complement(369081..369154)	tRNA-Met
+bed:BTURN675_313	CDS	complement(369296..370444)	nagA; N-acetylglucosamine-6-phosphate deacetylase
+bed:BTURN675_314	CDS	complement(370492..371292)	nagB; Glucosamine-6-phosphate deaminase
+bed:BTURN675_315	CDS	371438..373111	glnS; Glutamine--tRNA ligase
+bed:BTURN675_316	CDS	complement(373328..373849)	fldA; Flavodoxin-1
+bed:BTURN675_317	CDS	complement(join(374056..374334,374334..374819))	ybfF; Esterase ybfF
+bed:BTURN675_318	CDS	375118..376773	pgm; phosphoglucomutase
+bed:BTURN675_319	CDS	complement(376938..378254)	gltA; Citrate synthase
+bed:BTURN675_320	CDS	378925..379317	sdhC; Succinate dehydrogenase cytochrome b556 subunit
+bed:BTURN675_321	CDS	379302..379658	sdhD; Succinate dehydrogenase hydrophobic membrane anchor subunit
+bed:BTURN675_322	CDS	379667..381442	sdhA; Succinate dehydrogenase flavoprotein subunit
+bed:BTURN675_323	CDS	381470..382204	sdhB; Succinate dehydrogenase iron-sulfur subunit
+bed:BTURN675_324	CDS	382425..385274	sucA; 2-oxoglutarate dehydrogenase E1 component
+bed:BTURN675_325	CDS	385296..386540	sucB; Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+bed:BTURN675_326	CDS	386695..387867	sucC; Succinyl-CoA ligase [ADP-forming] subunit beta
+bed:BTURN675_327	CDS	387880..388770	sucD; Succinyl-CoA ligase [ADP-forming] subunit alpha
+bed:BTURN675_328	CDS	388807..389481	tolQ; Protein tolQ
+bed:BTURN675_329	CDS	389523..389963	tolR; Protein tolR
+bed:BTURN675_330	CDS	390014..391003	tolA; protein TolA
+bed:BTURN675_331	CDS	391094..392398	tolB; Protein TolB
+bed:BTURN675_332	CDS	392436..392954	pal; peptidoglycan-associated lipoprotein
+bed:BTURN675_333	CDS	392980..393747	ybgF; Uncharacterized protein YbgF
+bed:BTURN675_334	CDS	complement(393915..394631)	gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+bed:BTURN675_335	CDS	394882..395895	pgl; 6-phosphogluconolactonase
+bed:BTURN675_336	CDS	396032..396742	ybhL; inner membrane protein YbhL
+bed:BTURN675_337	CDS	complement(397018..398133)	engD; GTP-dependent nucleic acid-binding protein engD
+bed:BTURN675_338	CDS	complement(join(398213..398305,398305..398787))	pth; peptidyl-tRNA hydrolase
+bed:BTURN675_339	CDS	complement(398883..399821)	prs; ribose-phosphate pyrophosphokinase
+bed:BTURN675_340	CDS	complement(400160..400795)	lolB; Outer-membrane lipoprotein LolB
+bed:BTURN675_341	CDS	complement(400899..401921)	lplA; lipoate-protein ligase A
+bed:BTURN675_342	CDS	complement(401983..404406)	pheT; Phenylalanine--tRNA ligase beta subunit
+bed:BTURN675_343	CDS	complement(404422..405417)	pheS; Phenylalanine--tRNA ligase alpha subunit
+bed:BTURN675_344	CDS	complement(405599..405949)	rplT; 50S ribosomal protein L20
+bed:BTURN675_345	CDS	complement(406045..406242)	rpmI; 50S ribosomal protein L35
+bed:BTURN675_346	CDS	complement(406301..406837)	infC; Translation initiation factor IF-3
+bed:BTURN675_347	CDS	complement(406850..408058)	thrS; Threonine--tRNA ligase
+bed:BTURN675_348	CDS	complement(408584..409444)	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase
+bed:BTURN675_349	CDS	complement(409631..410467)	prmC; Release factor glutamine methyltransferase
+bed:BTURN675_350	CDS	complement(410489..411544)	prfA; Peptide chain release factor 1
+bed:BTURN675_351	CDS	411855..412253	sufA; Protein SufA
+bed:BTURN675_352	CDS	412343..413809	sufB; FeS cluster assembly protein sufB
+bed:BTURN675_353	CDS	413913..414650	sufC; putative ATP-dependent transporter SufC
+bed:BTURN675_354	CDS	414634..415959	sufD; FeS cluster assembly protein sufD
+bed:BTURN675_355	CDS	415928..417175	sufS; Cysteine desulfurase
+bed:BTURN675_356	CDS	417186..417635	sufE; Cysteine desulfuration protein sufE
+bed:BTURN675_357	CDS	complement(417726..417962)	lpp; Major outer membrane lipoprotein Lpp
+bed:BTURN675_358	tRNA	complement(418096..418169)	tRNA-Val
+bed:BTURN675_359	CDS	419229..419588	grxD; Glutaredoxin-4
+bed:BTURN675_360	CDS	420545..420976	slyA; Transcriptional regulator slyA
+bed:BTURN675_361	CDS	421207..421863	pdxH; Pyridoxine/pyridoxamine 5'-phosphate oxidase
+bed:BTURN675_362	CDS	421970..423253	tyrS; Tyrosine--tRNA ligase
+bed:BTURN675_363	CDS	complement(423323..423961)	nth; endonuclease III
+bed:BTURN675_364	CDS	complement(424117..425520)	fumC; Fumarate hydratase class II
+bed:BTURN675_365	CDS	425664..427604	hypothetical protein
+bed:BTURN675_366	CDS	complement(427672..428268)	ubiX; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+bed:BTURN675_367	CDS	complement(428362..429129)	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+bed:BTURN675_368	CDS	complement(429126..429311)	ycaR; UPF0434 protein
+bed:BTURN675_369	CDS	complement(429421..430443)	lpxK; Tetraacyldisaccharide 4'-kinase
+bed:BTURN675_370	CDS	complement(430443..432191)	msbA; Lipid A export ATP-binding/permease protein MsbA
+bed:BTURN675_371	CDS	complement(432302..433990)	rpsA; 30S ribosomal protein S1
+bed:BTURN675_372	CDS	complement(434942..436246)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+bed:BTURN675_373	CDS	complement(436517..437608)	serC; Phosphoserine aminotransferase
+bed:BTURN675_374	CDS	complement(437970..439289)	serS; Serine--tRNA ligase
+bed:BTURN675_375	CDS	complement(439580..440200)	lolA; Outer-membrane lipoprotein carrier protein
+bed:BTURN675_376	CDS	complement(440384..442588)	ftsK; DNA translocase FtsK
+bed:BTURN675_377	CDS	443045..444001	trxB; Thioredoxin reductase
+bed:BTURN675_378	CDS	444289..444507	infA; translation initiation factor IF-1
+bed:BTURN675_379	CDS	445964..446653	yqeI; Uncharacterized protein yqeI
+bed:BTURN675_380	CDS	447182..447556	hinT; HIT-like protein hinT
+bed:BTURN675_381	CDS	join(447699..447710,447710..448282)	lpoB; Penicillin-binding protein activator LpoB
+bed:BTURN675_382	CDS	448301..449509	lolC; Lipoprotein-releasing system transmembrane protein LolC
+bed:BTURN675_383	CDS	449502..450182	lolD; Lipoprotein-releasing system ATP-binding protein LolD
+bed:BTURN675_384	CDS	450209..451453	lolE; Lipoprotein-releasing system transmembrane protein LolE
+bed:BTURN675_385	CDS	complement(451609..452991)	purB; Adenylosuccinate lyase
+bed:BTURN675_386	CDS	complement(453069..454190)	mnmA; tRNA-specific 2-thiouridylase MnmA
+bed:BTURN675_387	CDS	455180..455827	emtA; Endo-type membrane-bound lytic murein transglycosylase A
+bed:BTURN675_388	CDS	complement(455978..456772)	ycfH; putative deoxyribonuclease YcfH
+bed:BTURN675_389	CDS	complement(456792..457793)	holB; DNA polymerase III subunit delta'
+bed:BTURN675_390	CDS	complement(457815..458459)	tmk; Thymidylate kinase
+bed:BTURN675_391	CDS	complement(458662..459477)	pabC; Aminodeoxychorismate lyase
+bed:BTURN675_392	CDS	complement(459625..459873)	acpP; acyl carrier protein
+bed:BTURN675_393	CDS	complement(460066..460800)	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+bed:BTURN675_394	CDS	complement(460818..461756)	fabD; Malonyl CoA-acyl carrier protein transacylase
+bed:BTURN675_395	CDS	complement(461778..462731)	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase 3
+bed:BTURN675_396	CDS	complement(462768..463811)	plsX; Phosphate acyltransferase
+bed:BTURN675_397	CDS	complement(463830..464018)	rpmF; 50S ribosomal protein L32
+bed:BTURN675_398	CDS	complement(464355..465311)	rluC; Ribosomal large subunit pseudouridine synthase C
+bed:BTURN675_399	CDS	465736..467508	rne; Ribonuclease E
+bed:BTURN675_400	CDS	468133..469062	htrB; Lipid A biosynthesis lauroyl acyltransferase
+bed:BTURN675_401	CDS	join(469185..469619,469619..470119)	ybiS; putative L,D-transpeptidase YbiS
+bed:BTURN675_402	tRNA	complement(470217..470299)	tRNA-Leu
+bed:BTURN675_403	tRNA	complement(470309..470379)	tRNA-Cys
+bed:BTURN675_404	CDS	complement(470640..471215)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+bed:BTURN675_405	tRNA	471594..471666	tRNA-Lys
+bed:BTURN675_406	tRNA	complement(471961..472047)	tRNA-Ser
+bed:BTURN675_407	CDS	472376..472705	tusE; Sulfurtransferase TusE
+bed:BTURN675_408	CDS	473001..473333	hspQ; Heat shock protein HspQ
+bed:BTURN675_409	CDS	473555..474199	ompA; Outer membrane protein A
+bed:BTURN675_410	CDS	474769..475287	fabA; 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+bed:BTURN675_411	CDS	475680..477083	asnS; Asparagine--tRNA ligase
+bed:BTURN675_412	CDS	477882..479069	aspC; Aspartate aminotransferase
+bed:BTURN675_413	CDS	complement(479062..479697)	ycbL; Uncharacterized protein ycbL
+bed:BTURN675_414	CDS	complement(479861..480625)	fabI; Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+bed:BTURN675_415	CDS	complement(481585..484176)	topA; DNA topoisomerase 1
+bed:BTURN675_416	CDS	484968..486554	trpE; anthranilate synthase component I
+bed:BTURN675_417	CDS	486547..487131	trpG; glutamine amidotransferase
+bed:BTURN675_418	CDS	487147..488160	trpD; anthranilate phosphoribosyltransferase
+bed:BTURN675_419	CDS	488162..489535	trpC; tryptophan biosynthesis protein trpCF
+bed:BTURN675_420	CDS	489598..490803	trpB; Tryptophan synthase beta chain
+bed:BTURN675_421	CDS	490804..491628	trpA; Tryptophan synthase alpha chain
+bed:BTURN675_422	CDS	493292..494773	cls; cardiolipin synthase
+bed:BTURN675_423	CDS	complement(495405..496031)	tdk; thymidine kinase
+bed:BTURN675_424	CDS	496512..496919	hns; DNA-binding protein H-NS
+bed:BTURN675_425	CDS	complement(497307..498356)	topB; DNA topoisomerase 3
+bed:BTURN675_426	CDS	complement(498373..499722)	ugd; UDP-glucose 6-dehydrogenase
+bed:BTURN675_427	CDS	complement(499818..500717)	galU; UTP--glucose-1-phosphate uridylyltransferase
+bed:BTURN675_428	CDS	501097..501906	xthA; exodeoxyribonuclease III
+bed:BTURN675_429	CDS	502121..503986	sppA; Protease 4
+bed:BTURN675_430	CDS	504370..505365	gapA; Glyceraldehyde-3-phosphate dehydrogenase A
+bed:BTURN675_431	CDS	505617..506150	dsbB; Disulfide bond formation protein B
+bed:BTURN675_432	CDS	506371..507075	minC; septum site-determining protein MinC
+bed:BTURN675_433	CDS	507119..507934	minD; septum site-determining protein MinD
+bed:BTURN675_434	CDS	507939..508202	minE; cell division topological specificity factor
+bed:BTURN675_435	CDS	complement(508341..509021)	yeaZ; tRNA threonylcarbamoyladenosine biosynthesis protein
+bed:BTURN675_436	CDS	509501..510895	pabB; Para-aminobenzoate synthase component 1
+bed:BTURN675_437	CDS	complement(511025..512587)	yoaE; putative transmembrane protein
+bed:BTURN675_438	CDS	512929..513885	manX; PTS system mannose-specific EIIAB component
+bed:BTURN675_439	CDS	514094..514906	manY; Mannose permease IIC component
+bed:BTURN675_440	CDS	514940..515791	manZ; Mannose permease IID component
+bed:BTURN675_441	CDS	complement(515992..516201)	cspC; Cold shock-like protein CspC
+bed:BTURN675_442	CDS	complement(516738..517667)	htpX; protease HtpX
+bed:BTURN675_443	CDS	complement(517927..519417)	zwf; Glucose-6-phosphate 1-dehydrogenase
+bed:BTURN675_444	CDS	519884..521344	pykA; Pyruvate kinase II
+bed:BTURN675_445	CDS	complement(521724..523091)	yebA; putative metalloprotease
+bed:BTURN675_446	CDS	complement(523192..523953)	yebC; putative transcriptional regulator
+bed:BTURN675_447	CDS	complement(524244..525986)	aspS; aspartate-tRNA ligase
+bed:BTURN675_448	CDS	526247..527983	argS; arginine-tRNA ligase
+bed:BTURN675_449	CDS	528579..529760	mdtH; multidrug resistance protein mdtH
+bed:BTURN675_450	tRNA	530110..530201	tRNA-Ser
+bed:BTURN675_451	tRNA	complement(530397..530484)	tRNA-Ser
+bed:BTURN675_452	tRNA	530615..530687	tRNA-Asn
+bed:BTURN675_453	CDS	complement(530788..531759)	gutQ; Arabinose 5-phosphate isomerase GutQ
+bed:BTURN675_454	CDS	complement(532177..532503)	yeeX; UPF0265 protein
+bed:BTURN675_455	CDS	532959..534434	sbcB; Exodeoxyribonuclease I
+bed:BTURN675_456	CDS	534878..535777	hisG; ATP phosphoribosyltransferase
+bed:BTURN675_457	CDS	535783..537099	hisD; histidinol dehydrogenase
+bed:BTURN675_458	CDS	537089..538174	hisC; Histidinol-phosphate aminotransferase
+bed:BTURN675_459	CDS	538187..539275	hisB; histidine biosynthesis bifunctional protein hisB
+bed:BTURN675_460	CDS	539275..539868	hisH; Imidazole glycerol phosphate synthase subunit HisH
+bed:BTURN675_461	CDS	539872..540612	hisA; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+bed:BTURN675_462	CDS	540594..541370	hisF; imidazole glycerol phosphate synthase subunit hisF
+bed:BTURN675_463	CDS	541413..541994	hisI; histidine biosynthesis bifunctional protein HisIE
+bed:BTURN675_464	CDS	complement(542168..543577)	gnd; 6-phosphogluconate dehydrogenase
+bed:BTURN675_465	CDS	544103..545746	metG; Methionine-tRNA ligase
+bed:BTURN675_466	CDS	complement(546180..546824)	folE; GTP cyclohydrolase 1
+bed:BTURN675_467	CDS	547292..547582	rplY; 50S ribosomal protein L25
+bed:BTURN675_468	CDS	complement(547843..548940)	ddlA; D-alanine-D-alanine ligase A
+bed:BTURN675_469	CDS	complement(549310..550437)	ompC; outer membrane protein C
+bed:BTURN675_470	CDS	complement(551081..553618)	gyrA; DNA gyrase subunit A
+bed:BTURN675_471	CDS	553979..554692	ubiG; 3-demethylubiquinone-9 3-methyltransferase
+bed:BTURN675_472	CDS	555038..557326	nrdA; Ribonucleoside-diphosphate reductase 1 subunit alpha
+bed:BTURN675_473	CDS	557421..558551	nrdB; ribonucleoside-diphosphate reductase 1 subunit beta
+bed:BTURN675_474	CDS	558646..558924	yfaE; ferredoxin-like protein
+bed:BTURN675_475	CDS	complement(559003..560553)	nuoN; NADH-quinone oxidoreductase subunit N
+bed:BTURN675_476	CDS	complement(560585..562129)	nuoM; NADH-quinone oxidoreductase subunit M
+bed:BTURN675_477	CDS	complement(562244..564124)	nuoL; NADH-quinone oxidoreductase subunit L
+bed:BTURN675_478	CDS	complement(564121..564423)	nuoK; NADH-quinone oxidoreductase subunit K
+bed:BTURN675_479	CDS	complement(564447..564989)	nuoJ; NADH-quinone oxidoreductase subunit J
+bed:BTURN675_480	CDS	complement(565073..565624)	nuoI; NADH-quinone oxidoreductase subunit I
+bed:BTURN675_481	CDS	complement(565644..566624)	nuoH; NADH-quinone oxidoreductase subunit H
+bed:BTURN675_482	CDS	complement(566624..569380)	nuoG; NADH-quinone oxidoreductase subunit G
+bed:BTURN675_483	CDS	complement(569566..570861)	nuoF; NADH-quinone oxidoreductase subunit F
+bed:BTURN675_484	CDS	complement(570858..571403)	nuoE; NADH-quinone oxidoreductase subunit E
+bed:BTURN675_485	CDS	complement(571408..573168)	nuoC; NADH-quinone oxidoreductase subunit C/D
+bed:BTURN675_486	CDS	complement(573353..574018)	nuoB; NADH-quinone oxidoreductase subunit B
+bed:BTURN675_487	CDS	complement(574232..574618)	nuoA; NADH-quinone oxidoreductase subunit A
+bed:BTURN675_488	CDS	complement(574999..575385)	hypothetical protein
+bed:BTURN675_489	CDS	complement(575686..576933)	folC; Bifunctional protein folC
+bed:BTURN675_490	CDS	complement(577080..577946)	accD; Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+bed:BTURN675_491	CDS	complement(578045..578836)	truA; tRNA pseudouridine synthase A
+bed:BTURN675_492	CDS	complement(579235..580365)	pdxB; erythronate-4-phosphate dehydrogenase
+bed:BTURN675_493	CDS	complement(580823..582040)	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I
+bed:BTURN675_494	CDS	582360..583277	prmB; 50S ribosomal protein L3 glutamine methyltransferase
+bed:BTURN675_495	CDS	583465..584544	aroC; chorismate synthase
+bed:BTURN675_496	tRNA	584580..584651	tRNA-Arg
+bed:BTURN675_497	CDS	complement(584664..585869)	mntH; Manganese transport protein MntH
+bed:BTURN675_498	CDS	586267..587457	nupC; Nucleoside permease nupC
+bed:BTURN675_499	tRNA	complement(587533..587606)	tRNA-Ala
+bed:BTURN675_500	CDS	complement(587710..589131)	gltX; glutamate-tRNA ligase
+bed:BTURN675_501	tRNA	589325..589397	tRNA-Val
+bed:BTURN675_502	tRNA	589418..589490	tRNA-Lys
+bed:BTURN675_503	CDS	complement(589655..591454)	ligA; DNA ligase
+bed:BTURN675_504	CDS	592314..593282	cysK; cysteine synthase A
+bed:BTURN675_505	CDS	593629..593886	ptsH; Phosphocarrier protein HPr
+bed:BTURN675_506	CDS	593952..595679	ptsI; Phosphoenolpyruvate-protein phosphotransferase
+bed:BTURN675_507	CDS	complement(595822..596895)	cysA; Sulfate/thiosulfate import ATP-binding protein CysA
+bed:BTURN675_508	CDS	complement(596934..597773)	cysW; Sulfate transport system permease protein CysW
+bed:BTURN675_509	CDS	complement(597774..598604)	cysU; Sulfate transport system permease protein CysT
+bed:BTURN675_510	CDS	complement(598605..599639)	cysP; thiosulfate-binding protein
+bed:BTURN675_511	CDS	600925..601884	talA; transaldolase A
+bed:BTURN675_512	CDS	601908..603908	tktA; transketolase 1
+bed:BTURN675_513	CDS	604127..605254	dapE; succinyl-diaminopimelate desuccinylase
+bed:BTURN675_514	gene	complement(605343..605603)	pseudogene
+bed:BTURN675_515	CDS	complement(605660..606544)	dapA; dihydrodipicolinate synthase
+bed:BTURN675_516	CDS	complement(607485..608111)	upp; uracil phosphoribosyltransferase
+bed:BTURN675_517	CDS	complement(608464..609078)	ureG; urease accessory protein UreG
+bed:BTURN675_518	CDS	complement(609188..609898)	ureF; urease accessory protein ureF
+bed:BTURN675_519	CDS	complement(610291..612000)	ureC; urease subunit alpha
+bed:BTURN675_520	CDS	complement(611997..612314)	ureB; urease subunit beta
+bed:BTURN675_521	CDS	complement(612341..612643)	ureA; urease subunit gamma
+bed:BTURN675_522	CDS	complement(612680..613519)	ureD; urease accessory protein ureD
+bed:BTURN675_523	CDS	complement(614163..615794)	guaA; GMP synthase [glutamine-hydrolyzing]
+bed:BTURN675_524	CDS	complement(615893..617356)	guaB; inosine-5'-monophosphate dehydrogenase
+bed:BTURN675_525	CDS	617751..619328	mqo; Malate:quinone oxidoreductase
+bed:BTURN675_526	CDS	complement(619601..620980)	der; GTPase Der
+bed:BTURN675_527	CDS	complement(621068..622297)	bamB; Outer membrane protein assembly factor BamB
+bed:BTURN675_528	CDS	complement(622539..623846)	hisS; histidine-tRNA ligase
+bed:BTURN675_529	CDS	complement(625076..626056)	rodZ; cytoskeleton protein rodZ
+bed:BTURN675_530	CDS	complement(626246..627355)	rlmN; Ribosomal RNA large subunit methyltransferase N
+bed:BTURN675_531	CDS	complement(627557..627994)	ndk; nucleoside diphosphate kinase
+bed:BTURN675_532	CDS	complement(628188..629351)	iscS; cysteine desulfurase
+bed:BTURN675_533	CDS	629836..630624	suhB; inositol-1-monophosphatase
+bed:BTURN675_534	CDS	complement(631008..632261)	glyA; serine hydroxymethyltransferase
+bed:BTURN675_535	CDS	complement(633014..633493)	tadA; tRNA-specific adenosine deaminase
+bed:BTURN675_536	CDS	complement(633701..634078)	acpS; holo-[acyl-carrier-protein] synthase
+bed:BTURN675_537	CDS	complement(634085..634810)	pdxJ; pyridoxine 5'-phosphate synthase
+bed:BTURN675_538	CDS	complement(635044..635730)	rnc; ribonuclease 3
+bed:BTURN675_539	CDS	complement(635785..636804)	lepB; signal peptidase I
+bed:BTURN675_540	CDS	complement(636843..638636)	lepA; elongation factor 4
+bed:BTURN675_541	CDS	638858..639532	ung; uracil-DNA glycosylase
+bed:BTURN675_542	CDS	complement(639860..640459)	grpE; protein grpE
+bed:BTURN675_543	CDS	641338..641670	smpA; small protein A
+bed:BTURN675_544	CDS	complement(641726..642178)	ratA; Ribosome association toxin RatA
+bed:BTURN675_545	CDS	642326..642769	smpB; ssrA-binding protein
+bed:BTURN675_546	tmRNA	642823..643266	tmRNA; tmRNA
+bed:BTURN675_547	CDS	643587..643916	qacE; quaternary ammonium compound-resistance protein qacE
+bed:BTURN675_548	CDS	643962..644534	speG; spermidine N1-acetyltransferase
+bed:BTURN675_549	CDS	644545..645939	pssA; CDP-diacylglycerol-serine O-phosphatidyltransferase
+bed:BTURN675_550	rRNA	complement(646044..649005)	rrl; 23S ribosomal RNA
+bed:BTURN675_551	tRNA	complement(649147..649219)	tRNA-Glu
+bed:BTURN675_552	rRNA	complement(649301..650865)	rrs; 16S ribosomal RNA
+bed:BTURN675_553	CDS	651304..652947	purH; Bifunctional purine biosynthesis protein PurH
+bed:BTURN675_554	CDS	complement(653105..653377)	hupA; DNA-binding protein HU-alpha
+bed:BTURN675_555	CDS	complement(653733..658010)	rpoC; DNA-directed RNA polymerase subunit beta'
+bed:BTURN675_556	CDS	complement(658136..662158)	rpoB; DNA-directed RNA polymerase subunit beta
+bed:BTURN675_557	CDS	complement(662448..662819)	rplL; 50S ribosomal protein L7/L12
+bed:BTURN675_558	CDS	complement(662973..663479)	rplJ; 50S ribosomal protein L10
+bed:BTURN675_559	CDS	complement(663743..664438)	rplA; 50S ribosomal protein L1
+bed:BTURN675_560	CDS	complement(664448..664879)	rplK; 50S ribosomal protein L11
+bed:BTURN675_561	CDS	complement(664978..665526)	nusG; transcription antitermination protein NusG
+bed:BTURN675_562	CDS	complement(665532..665948)	secE; preprotein translocase subunit SecE
+bed:BTURN675_563	CDS	complement(666049..667233)	tuf; elongation factor Tu
+bed:BTURN675_564	CDS	complement(667299..669404)	fusA; elongation factor G
+bed:BTURN675_565	CDS	complement(669579..670061)	rpsG; 30S ribosomal protein S7
+bed:BTURN675_566	CDS	complement(670424..670798)	rpsL; 30S ribosomal protein S12
+bed:BTURN675_567	CDS	complement(672737..673321)	pabA; para-aminobenzoate synthase glutamine amidotransferase component II
+bed:BTURN675_568	CDS	complement(673721..674734)	trpS; tryptophan-tRNA ligase
+bed:BTURN675_569	CDS	complement(675058..675720)	rpe; ribulose-phosphate 3-epimerase
+bed:BTURN675_570	CDS	complement(676078..677178)	aroB; 3-dehydroquinate synthase
+bed:BTURN675_571	CDS	complement(677222..677746)	aroK; shikimate kinase 1
+bed:BTURN675_572	CDS	679082..679666	nfuA; fe/S biogenesis protein nfuA
+bed:BTURN675_573	CDS	complement(679773..680885)	asd; aspartate-semialdehyde dehydrogenase
+bed:BTURN675_574	CDS	681120..681713	yhgN; inner membrane protein
+bed:BTURN675_575	CDS	complement(682213..683019)	yigL; putative hydrolase
+bed:BTURN675_576	CDS	complement(683509..684456)	corA; Magnesium transport protein CorA
+bed:BTURN675_577	CDS	complement(685649..686371)	yigB; flavin mononucleotide phosphatase YigB
+bed:BTURN675_578	CDS	complement(686626..687483)	dapF; diaminopimelate epimerase
+bed:BTURN675_579	CDS	688465..689388	hemC; porphobilinogen deaminase
+bed:BTURN675_580	CDS	689418..690173	hemD; uroporphyrinogen-III synthase
+bed:BTURN675_581	tRNA	complement(690337..690410)	tRNA-Pro
+bed:BTURN675_582	tRNA	complement(690469..690555)	tRNA-Leu
+bed:BTURN675_583	tRNA	complement(690607..690681)	tRNA-His
+bed:BTURN675_584	tRNA	complement(690735..690808)	tRNA-Arg
+bed:BTURN675_585	CDS	complement(690998..692257)	rho; transcription termination factor Rho
+bed:BTURN675_586	CDS	complement(692654..692989)	trxA; thioredoxin-1
+bed:BTURN675_587	CDS	complement(693076..694551)	ilvC; ketol-acid reductoisomerase
+bed:BTURN675_588	CDS	complement(694891..696462)	ilvA; L-threonine dehydratase biosynthetic IlvA
+bed:BTURN675_589	CDS	complement(696480..698327)	ilvD; dihydroxy-acid dehydratase
+bed:BTURN675_590	CDS	complement(698459..699403)	ilvE; branched-chain amino acid aminotransferase
+bed:BTURN675_591	CDS	complement(699432..699701)	ilvM; Acetolactate synthase isozyme 2 small subunit
+bed:BTURN675_592	CDS	complement(699715..701376)	ilvG; Acetolactate synthase isozyme 2 large subunit
+bed:BTURN675_593	tRNA	complement(702470..702543)	tRNA-Trp
+bed:BTURN675_594	tRNA	complement(702550..702626)	tRNA-Asp
+bed:BTURN675_595	tRNA	complement(702699..702771)	tRNA-Ala
+bed:BTURN675_596	CDS	complement(702925..703785)	murI; glutamate racemase
+bed:BTURN675_597	CDS	complement(704047..704946)	metF; 5,10-methylenetetrahydrofolate reductase
+bed:BTURN675_598	CDS	complement(705664..706833)	metB; Cystathionine gamma-synthase
+bed:BTURN675_599	CDS	complement(707199..707411)	rpmE; 50S ribosomal protein L31
+bed:BTURN675_600	CDS	708547..709293	fpr; ferredoxin-NADP reductase
+bed:BTURN675_601	CDS	709585..710382	tpiA; triosephosphate isomerase
+bed:BTURN675_602	CDS	complement(710510..711520)	pfkA; 6-phosphofructokinase isozyme 1
+bed:BTURN675_603	CDS	complement(711963..712715)	cysE; serine acetyltransferase
+bed:BTURN675_604	CDS	complement(712810..713808)	gpsA; glycerol-3-phosphate dehydrogenase [NAD(P)+]
+bed:BTURN675_605	CDS	complement(714132..714401)	grxC; glutaredoxin 3
+bed:BTURN675_606	CDS	complement(714481..714918)	yibN; rhodanese domain protein
+bed:BTURN675_607	CDS	715133..716080	hldD; ADP-L-glycero-D-manno-heptose-6-epimerase
+bed:BTURN675_608	CDS	716292..717347	rfaF; ADP-heptose--LPS heptosyltransferase 2
+bed:BTURN675_609	CDS	717349..718332	rfaC; lipopolysaccharide heptosyltransferase I
+bed:BTURN675_610	CDS	718597..719739	putative glycosyltransferase
+bed:BTURN675_611	CDS	719858..721189	waaA; 3-deoxy-D-manno-octulosonic-acid transferase
+bed:BTURN675_612	CDS	721179..721979	lipopolysaccharide core biosynthesis glycosyltransferase
+bed:BTURN675_613	CDS	complement(722143..722304)	rpmG; 50S ribosomal protein L33
+bed:BTURN675_614	CDS	complement(722376..722618)	rpmB; 50S ribosomal protein L28
+bed:BTURN675_615	CDS	723260..723721	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+bed:BTURN675_616	CDS	723950..724822	yicC; UPF0701 protein yicC
+bed:BTURN675_617	CDS	725643..726068	MarR family transcription regulator protein
+bed:BTURN675_618	CDS	726395..727021	gmk; guanylate kinase
+bed:BTURN675_619	CDS	727557..728972	glnA; glutamine synthetase
+bed:BTURN675_620	CDS	729274..729915	engB; putative GTP-binding protein EngB
+bed:BTURN675_621	CDS	complement(730226..731122)	polA; DNA polymerase I
+bed:BTURN675_622	CDS	complement(731434..732060)	dsbA; thiol:disulfide interchange protein DsbA
+bed:BTURN675_623	CDS	complement(732089..733567)	ubiD; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+bed:BTURN675_624	CDS	complement(733784..735421)	ubiB; putative ubiquinone biosynthesis protein UbiB
+bed:BTURN675_625	CDS	complement(735840..736586)	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase ubiE
+bed:BTURN675_626	CDS	complement(736774..738276)	rmuC; DNA recombination protein rmuC
+bed:BTURN675_627	CDS	complement(738333..739130)	udp; uridine phosphorylase
+bed:BTURN675_628	CDS	complement(739415..741739)	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+bed:BTURN675_629	CDS	complement(742167..743027)	rpoH; RNA polymerase sigma-32 factor
+bed:BTURN675_630	CDS	complement(743607..744536)	ftsY; Signal recognition particle receptor FtsY
+bed:BTURN675_631	CDS	744736..745356	rsmD; Ribosomal RNA small subunit methyltransferase D
+bed:BTURN675_632	CDS	complement(745643..747313)	pgi; glucose-6-phosphate isomerase
+bed:BTURN675_633	CDS	complement(747835..748767)	metA; homoserine O-succinyltransferase
+bed:BTURN675_634	tRNA	complement(748800..748873)	tRNA-Ile

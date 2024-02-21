@@ -1,0 +1,593 @@
+bmm:MADAR_p001	CDS	pMADAR_001:787..1167	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+bmm:MADAR_p002	CDS	pMADAR_001:complement(1170..1628)	conserved hypothetical protein
+bmm:MADAR_p003	CDS	pMADAR_001:complement(1621..2037)	conserved hypothetical protein
+bmm:MADAR_p004	CDS	pMADAR_001:complement(2018..3088)	nrdF; ribonucleotide-diphosphate reductase beta subunit
+bmm:MADAR_001	CDS	1..1245	nusA; transcription elongation factor NusA
+bmm:MADAR_002	CDS	1289..3868	infB; translation initiation factor IF-2
+bmm:MADAR_003	CDS	3870..5588	aspS; aspartyl-tRNA synthetase
+bmm:MADAR_004	CDS	complement(5583..6071)	ppa; inorganic diphosphatase
+bmm:MADAR_005	CDS	complement(6068..7195)	sucB; 2-oxoglutarate dehydrogenase, E2 component
+bmm:MADAR_006	CDS	7255..8793	yjeF; Putative kinase, ribokinase-like superfamily
+bmm:MADAR_007	CDS	complement(8798..10444)	lnt; apolipoprotein N-acyltransferase
+bmm:MADAR_008	tmRNA	complement(10457..10867)	ssrA; transfer-messenger RNA
+bmm:MADAR_009	CDS	complement(10959..12203)	mrdB; cell cycle protein
+bmm:MADAR_010	CDS	complement(12187..14097)	mrdA; putative penicillin-binding protein 2
+bmm:MADAR_011	CDS	complement(14094..14603)	hypothetical protein
+bmm:MADAR_012	CDS	complement(14603..15433)	mreC; putative rod shape-determining protein MreC
+bmm:MADAR_013	CDS	complement(15440..16477)	mreB; putative rod shape-determining protein MreB
+bmm:MADAR_014	CDS	16538..17062	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine
+bmm:MADAR_015	CDS	17101..18657	hypothetical protein
+bmm:MADAR_016	CDS	18699..20378	hypothetical protein
+bmm:MADAR_017	CDS	20359..21555	argD; acetylornithine aminotransferase
+bmm:MADAR_018	CDS	21587..22336	truA; putative tRNA pseudouridine synthase A
+bmm:MADAR_019	CDS	22333..24069	msbA; ABC transporter, ATP-binding and permease protein
+bmm:MADAR_020	CDS	24308..25024	ABC transporter, ATP-binding protein
+bmm:MADAR_021	CDS	25021..25650	thiamine pyrophosphokinase
+bmm:MADAR_022	CDS	complement(25669..26196)	asnS; asparaginyl-tRNA synthetase
+bmm:MADAR_023	CDS	complement(26211..27143)	mdh; malate dehydrogenase, NAD-dependent
+bmm:MADAR_024	CDS	27231..30119	gcvP; glycine cleavage system protein P
+bmm:MADAR_025	CDS	complement(30116..31150)	putative glycoprotease
+bmm:MADAR_026	CDS	31337..33340	putative membrane-associated HD superfamily hydrolase
+bmm:MADAR_027	tRNA	33394..33483	trnS; tRNA-Ser
+bmm:MADAR_028	tRNA	33484..33558	trnP; tRNA-Pro
+bmm:MADAR_029	tRNA	33565..33638	trnR; tRNA-Arg
+bmm:MADAR_030	CDS	complement(33641..34315)	clpP; ATP-dependent Clp protease proteolytic subunit 2
+bmm:MADAR_031	CDS	complement(34422..35420)	rffH; glucose-1-phosphate uridylyltransferase
+bmm:MADAR_032	CDS	complement(35456..35839)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+bmm:MADAR_033	CDS	complement(35853..37331)	wzxC; polysaccharide biosynthesis protein
+bmm:MADAR_034	CDS	37427..37612	putative Sec-independent protein translocase
+bmm:MADAR_035	CDS	37721..38743	mltD; putative membrane-bound lytic murein transglycosylase
+bmm:MADAR_036	CDS	38748..39773	recA; recA protein
+bmm:MADAR_037	CDS	39783..40544	phnP; metal-dependent hydrolase
+bmm:MADAR_038	CDS	40621..43770	ccmC; Cytochrome c assembly protein
+bmm:MADAR_039	CDS	43773..44531	hypothetical protein
+bmm:MADAR_040	CDS	44538..47216	alaS; alanyl-tRNA synthetase
+bmm:MADAR_041	CDS	47262..49988	sucA; 2-oxoglutarate dehydrogenase, E1 component
+bmm:MADAR_042	CDS	50003..51169	sucB; 2-oxoglutarate dehydrogenase, E2 component
+bmm:MADAR_043	CDS	complement(51176..51727)	membrane protein
+bmm:MADAR_044	CDS	complement(51742..52434)	phospholipase/carboxylesterase family protein
+bmm:MADAR_045	CDS	52533..53720	sucC; succinyl-CoA synthetase, beta subunit
+bmm:MADAR_046	CDS	53713..55158	dnaX; DNA polymerase III holoenzyme, tau and gamma
+bmm:MADAR_047	CDS	55211..57304	clpB; ATP-dependent Clp protease, ATP-binding subunit
+bmm:MADAR_048	CDS	complement(57485..57826)	hypothetical protein
+bmm:MADAR_049	CDS	complement(57833..58780)	membrane protease protein family protein
+bmm:MADAR_050	CDS	complement(58795..59115)	hypothetical protein
+bmm:MADAR_051	CDS	complement(59124..60506)	M16 family peptidase
+bmm:MADAR_052	CDS	complement(60561..61862)	putative peptidase
+bmm:MADAR_053	CDS	61966..62916	argF; ornithine carbamoyltransferase
+bmm:MADAR_054	CDS	62913..63704	argB; acetylglutamate kinase
+bmm:MADAR_055	CDS	63695..64777	acetylornithine deacetylase/succinyl-diaminopimelate desuccinylase
+bmm:MADAR_056	CDS	64821..65147	trxA; thioredoxin
+bmm:MADAR_057	tRNA	65165..65241	trnD; tRNA-Asp
+bmm:MADAR_058	CDS	complement(65252..65935)	ribB; 3,4-dihydroxy-2-butanone 4-phosphate synthase
+bmm:MADAR_059	CDS	complement(65916..67178)	putative YjgP/YjgQ family permease
+bmm:MADAR_060	CDS	complement(67175..68980)	ftsK; DNA translocase
+bmm:MADAR_061	gene	69059..69675	pseudogene
+bmm:MADAR_062	CDS	complement(69679..70581)	polA; DNA polymerase I
+bmm:MADAR_063	CDS	70645..72351	metG; methionyl-tRNA synthetase
+bmm:MADAR_064	tRNA	complement(72390..72474)	trnS; tRNA-Ser
+bmm:MADAR_065	CDS	complement(72500..74902)	lon; ATP-dependent protease
+bmm:MADAR_066	CDS	complement(75039..77057)	ligA; DNA ligase
+bmm:MADAR_067	CDS	complement(77063..77953)	prmB; putative protoporphyrinogen oxidase
+bmm:MADAR_068	CDS	77996..79393	trmE; tRNA modification GTPase
+bmm:MADAR_069	CDS	79402..80913	gltX; glutamyl-tRNA synthetase
+bmm:MADAR_070	CDS	80961..81314	rpsF; 30S ribosomal protein S6
+bmm:MADAR_071	CDS	81295..81603	rpsR; ribosomal protein S18
+bmm:MADAR_072	CDS	81607..82056	rplI; 50S ribosomal protein L9
+bmm:MADAR_073	CDS	complement(82030..83385)	mntH; Mn2+/Fe2+ transporter, NRAMP family
+bmm:MADAR_074	CDS	83546..84388	pheA; prephenate dehydratase
+bmm:MADAR_075	CDS	84388..85542	tyrB; aspartate/tyrosine/aromatic aminotransferase
+bmm:MADAR_076	CDS	85539..86387	tyrA; prephenate dehydrogenase
+bmm:MADAR_077	CDS	86398..87486	phospho-2-dehydro-3-deoxyheptonate aldolase (aroG)/chorismate mutase (pheA)
+bmm:MADAR_078	CDS	87502..88755	metK; S-adenosylmethionine synthetase
+bmm:MADAR_079	CDS	88789..89592	fabI; enoyl-[acyl-carrier-protein] reductase (NADH)
+bmm:MADAR_080	CDS	89610..90266	rpe; ribulose-phosphate 3-epimerase
+bmm:MADAR_081	CDS	90288..92105	dnaG; DNA primase
+bmm:MADAR_082	CDS	92177..92803	ahpC; alkyl hydroperoxide reductase, subunit C
+bmm:MADAR_083	CDS	92814..94139	miaB; putative 2-methylthioadenine synthetase
+bmm:MADAR_084	CDS	complement(94123..94827)	lipB; lipoate-protein ligase B
+bmm:MADAR_085	CDS	94932..96434	lysS; lysine-tRNA ligase
+bmm:MADAR_086	CDS	complement(96437..97420)	codA; cytosine deaminase
+bmm:MADAR_087	CDS	complement(97402..98028)	gidB; glucose-inhibited division protein B
+bmm:MADAR_088	CDS	98080..99270	aspC; aspartate aminotransferase
+bmm:MADAR_089	tRNA	complement(99276..99352)	trnH; tRNA-His
+bmm:MADAR_090	gene	complement(99392..100458)	pseudogene
+bmm:MADAR_091	CDS	complement(100493..101890)	gltP; glutamate/aspartate:proton symporter
+bmm:MADAR_092	tRNA	complement(101943..102016)	trnQ; tRNA-Gln
+bmm:MADAR_093	CDS	102065..102463	rpsP; ribosomal protein S16
+bmm:MADAR_094	CDS	complement(102478..103329)	bacA; undecaprenyl-diphosphatase
+bmm:MADAR_095	CDS	complement(103365..105296)	gyrB; DNA gyrase subunit B
+bmm:MADAR_096	CDS	complement(105407..106036)	trmD; tRNA (guanine-N-(1)-)-methyltransferase
+bmm:MADAR_097	CDS	106109..107416	engA; GTP-binding protein EngA
+bmm:MADAR_098	CDS	107430..108029	ruvA; Holliday junction DNA helicase motor protein
+bmm:MADAR_099	CDS	108150..110483	phosphate sodium symporter
+bmm:MADAR_100	CDS	complement(110480..111475)	luxE; LuxE family acyl-protein synthetase/acyl-CoA reductase-like protein
+bmm:MADAR_101	CDS	complement(111465..111977)	hypothetical protein
+bmm:MADAR_102	CDS	112007..112354	hypothetical protein
+bmm:MADAR_103	CDS	112378..113376	pheS; phenylalanyl-tRNA synthetase alpha subunit
+bmm:MADAR_104	gene	complement(113398..114158)	pseudogene
+bmm:MADAR_105	CDS	complement(114167..114484)	hypothetical protein
+bmm:MADAR_106	CDS	complement(114499..114768)	hypothetical protein
+bmm:MADAR_107	CDS	114869..115891	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+bmm:MADAR_108	CDS	115957..116820	pnp; purine nucleoside phosphorylase
+bmm:MADAR_109	CDS	complement(116763..117809)	mrp; Mrp/Nbp35 family ATP-binding protein
+bmm:MADAR_110	CDS	117938..118525	acpT; putative phosphopantetheinyl transferase
+bmm:MADAR_111	CDS	118527..119132	pnuC; Nicotinamide mononucleotide transporter PnuC
+bmm:MADAR_112	CDS	complement(119129..120544)	hisS; histidyl-tRNA synthetase
+bmm:MADAR_113	CDS	complement(120554..121930)	ftsZ; cell division protein FtsZ
+bmm:MADAR_114	CDS	complement(121939..123309)	ftsA; cell division protein FtsA
+bmm:MADAR_115	CDS	complement(123314..124039)	ftsQ; cell division protein FtsQ
+bmm:MADAR_116	CDS	complement(124044..125441)	murC; UDP-N-acetylmuramate--L-alanine ligase
+bmm:MADAR_117	CDS	complement(125438..126550)	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+bmm:MADAR_118	CDS	complement(126543..127730)	ftsW; rod shape-determining protein rodA
+bmm:MADAR_119	CDS	complement(127702..129084)	murD; putative UDP-N-acetylmuramoylalanine--D-glutamate ligase
+bmm:MADAR_120	CDS	complement(129088..130266)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+bmm:MADAR_121	CDS	complement(130274..131752)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+bmm:MADAR_122	CDS	complement(131749..133734)	ftsI; FtsI-like transpeptidase/penicillin-binding protein
+bmm:MADAR_123	CDS	complement(133760..134080)	hypothetical protein
+bmm:MADAR_124	CDS	complement(134084..134986)	rsmH; 16S rRNA m(4)C1402 methyltransferase, SAM-dependent
+bmm:MADAR_125	CDS	135095..136222	tgt; queuine tRNA-ribosyltransferase
+bmm:MADAR_126	CDS	136224..137324	hypothetical protein
+bmm:MADAR_127	CDS	complement(137330..138835)	degQ; serine protease DegQ
+bmm:MADAR_128	CDS	138956..139738	dapF; diaminopimelate epimerase
+bmm:MADAR_129	CDS	139744..140844	frvX; M42 family peptidase
+bmm:MADAR_130	CDS	complement(140834..141862)	putative ATP/GTP-binding protein
+bmm:MADAR_131	CDS	141918..142700	tatC; Sec-independent protein translocase protein TatC, putative
+bmm:MADAR_132	CDS	complement(142706..143899)	ompA; outer membrane protein
+bmm:MADAR_133	CDS	complement(143948..144376)	smpB; SsrA-binding protein
+bmm:MADAR_134	CDS	144432..145307	tktB; Transketolase B
+bmm:MADAR_135	CDS	145310..146284	dxs; DXP synthase
+bmm:MADAR_136	CDS	146287..146616	nucleoside-triphosphate diphosphatase
+bmm:MADAR_137	CDS	146618..147871	aroA; 5-enolpyruvyl shikimate-3-phosphate synthase
+bmm:MADAR_138	CDS	complement(147859..148380)	hypothetical protein
+bmm:MADAR_139	tRNA	148567..148638	trnE; tRNA-Glu
+bmm:MADAR_140	CDS	148654..148896	rpsT; 30S ribosomal protein S20
+bmm:MADAR_141	CDS	148962..149804	murI; glutamate racemase
+bmm:MADAR_142	CDS	complement(149791..151095)	maeB; Malic enzyme, NADP-dependent
+bmm:MADAR_143	CDS	complement(151133..151585)	ccoH; cytochrome cbb3 oxidase maturation protein CcoH
+bmm:MADAR_144	CDS	complement(151591..152469)	ccoP; ccoP cytochrome c oxidase, cbb3-type, subunit III
+bmm:MADAR_145	CDS	complement(152473..152652)	ccoQ; ccoQ cytochrome c oxidase, cbb3-type, subunit IV
+bmm:MADAR_146	CDS	complement(152657..154843)	ccoN/ccoO cytochrome c oxidase, cbb3-type, subunit I and II
+bmm:MADAR_147	CDS	complement(154844..154996)	ccoS; cytochrome cbb3 oxidase maturation protein CcoS
+bmm:MADAR_148	CDS	complement(155020..157248)	ccoI; cytochrome cbb3 oxidase maturation protein CcoI
+bmm:MADAR_149	CDS	complement(157268..157675)	gcvH; glycine cleavage system protein H
+bmm:MADAR_150	CDS	complement(157703..158293)	hemagglutinin
+bmm:MADAR_151	CDS	complement(158416..159069)	yggS; Pyridoxal 5'-phosphate binding protein
+bmm:MADAR_152	CDS	complement(159072..160136)	serC; phosphoserine aminotransferase
+bmm:MADAR_153	CDS	complement(160203..161528)	tilS; putative tRNA(Ile)-lysidine synthetase
+bmm:MADAR_154	CDS	complement(161531..162046)	aroK; shikimate kinase
+bmm:MADAR_155	tRNA	162078..162150	trnK; tRNA-Lys
+bmm:MADAR_156	CDS	complement(162168..162932)	xthA; exodeoxyribonuclease III
+bmm:MADAR_157	CDS	163069..163926	hisG; ATP phosphoribosyltransferase
+bmm:MADAR_158	CDS	163940..165232	hisD; histidinol dehydrogenase
+bmm:MADAR_159	CDS	165237..166325	hisC; histidinol-phosphate aminotransferase
+bmm:MADAR_160	CDS	166322..167461	hisB; imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+bmm:MADAR_161	CDS	167480..168070	hisH; imidazole glycerol phosphate synthase subunit HisH
+bmm:MADAR_162	CDS	168089..168817	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide
+bmm:MADAR_163	CDS	168825..169607	hisF; imidazole glycerol phosphate synthase subunit hisF
+bmm:MADAR_164	CDS	169594..170199	hisI; bifunctional imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+bmm:MADAR_165	CDS	complement(170196..170807)	hypothetical protein
+bmm:MADAR_166	CDS	complement(170804..171688)	folD; putative methenyltetrahydrofolate cyclohydrolase
+bmm:MADAR_167	CDS	complement(171685..172464)	rsmA; 16S rRNA dimethyladenosine transferase, SAM-dependent
+bmm:MADAR_168	CDS	172505..173773	serS; serine-tRNA synthetase
+bmm:MADAR_169	CDS	173784..174743	metF; 5,10-methylenetetrahydrofolate reductase
+bmm:MADAR_170	CDS	complement(174740..175720)	pdhB; pyruvate dehydrogenase E1 component beta subunit
+bmm:MADAR_171	CDS	complement(175782..176381)	hypothetical protein
+bmm:MADAR_172	CDS	176527..177135	hypothetical protein
+bmm:MADAR_173	CDS	complement(177136..177627)	folA; dihydrofolate reductase
+bmm:MADAR_174	CDS	177661..180285	valS; valyl-tRNA synthetase
+bmm:MADAR_175	CDS	complement(180291..181049)	hypothetical protein
+bmm:MADAR_176	CDS	complement(181060..181659)	hypothetical protein
+bmm:MADAR_177	CDS	complement(181697..182131)	ndk; Nucleoside-diphosphate kinase
+bmm:MADAR_178	CDS	182185..184650	sucA; 2-oxoglutarate dehydrogenase E1 component
+bmm:MADAR_179	CDS	184701..185762	ilvE; branched-chain amino acid aminotransferase
+bmm:MADAR_180	CDS	185762..187510	argS; arginyl-tRNA synthetase
+bmm:MADAR_181	CDS	187526..188878	ffh; signal recognition particle protein
+bmm:MADAR_182	CDS	188960..190540	glpA; glycerol-3-phosphate dehydrogenase
+bmm:MADAR_183	CDS	190563..192053	glpK; glycerol kinase
+bmm:MADAR_184	CDS	192061..192783	glpF; putative glycerol diffusion channel
+bmm:MADAR_185	CDS	192855..194057	thrS; threonyl-tRNA synthetase
+bmm:MADAR_186	CDS	194191..194652	infC; translation initiation factor IF-3
+bmm:MADAR_187	CDS	194654..194842	rpmI; ribosomal protein L35
+bmm:MADAR_188	CDS	194844..195191	rplT; 50S ribosomal protein L20
+bmm:MADAR_189	gene	complement(195176..195706)	pseudogene
+bmm:MADAR_190	CDS	complement(195710..196135)	Holliday junction resolvase-like protein
+bmm:MADAR_191	CDS	196186..197001	dapD; 2, 3, 4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+bmm:MADAR_192	CDS	197004..197582	rimN; Sua5/YciO/YrdC/YwlC family protein
+bmm:MADAR_193	CDS	197588..199015	cca; tRNA nucleotidyltransferase
+bmm:MADAR_194	CDS	199018..200031	phosphoesterase domain-containing protein
+bmm:MADAR_195	CDS	complement(200015..200578)	Thioredoxin
+bmm:MADAR_196	CDS	complement(200597..201388)	hypothetical protein
+bmm:MADAR_197	CDS	complement(201397..202500)	hypothetical protein
+bmm:MADAR_198	CDS	202605..203459	lipA; lipoyl synthase
+bmm:MADAR_199	CDS	complement(203473..206118)	putative helicase
+bmm:MADAR_200	CDS	206181..207248	fbaA; fructose 1,6-bisphosphate aldolase
+bmm:MADAR_201	CDS	207248..208087	accD; acetyl-CoA carboxylase, beta subunit
+bmm:MADAR_202	CDS	complement(208094..209650)	guaA; bifunctional GMP synthase/glutamine amidotransferase protein
+bmm:MADAR_203	CDS	complement(209613..210848)	purD; Phosphoribosylamine--glycine ligase
+bmm:MADAR_204	CDS	complement(210853..212373)	purH; phosphoribosylaminoimidazole carboxamide formyltransferase/IMP cyclohydrolase
+bmm:MADAR_205	CDS	complement(212393..212965)	purN; phosphoribosylglycinamide formyltransferase
+bmm:MADAR_206	CDS	complement(212972..213961)	purM; phosphoribosylaminoimidazole synthetase
+bmm:MADAR_207	CDS	complement(213997..215409)	purF; amidophosphoribosyltransferase
+bmm:MADAR_208	CDS	complement(215472..216206)	purC; Phosphoribosylamidoimidazole-succinocarboxamide synthase
+bmm:MADAR_209	CDS	complement(216209..216682)	purE; phosphoribosylaminoimidazole carboxylase catalytic subunit
+bmm:MADAR_210	CDS	complement(216697..220431)	purL; phosphoribosylformylglycinamidine synthase
+bmm:MADAR_211	CDS	complement(220452..221888)	purB; Adenylosuccinate lyase
+bmm:MADAR_212	CDS	complement(221912..223216)	purA; adenylosuccinate synthetase
+bmm:MADAR_213	CDS	complement(223275..224243)	ruvB; Holliday junction DNA helicase RuvB
+bmm:MADAR_214	CDS	complement(224200..225063)	surE; acid phosphatase, survival protein
+bmm:MADAR_215	CDS	225093..227225	prc; putative periplasmic tail-specific proteinase
+bmm:MADAR_216	CDS	complement(227231..229681)	gyrA; DNA gyrase A subunit
+bmm:MADAR_217	CDS	complement(229731..230777)	aroB; 3-dehydroquinate synthase
+bmm:MADAR_218	CDS	231030..231683	dedA; putative membrane-associated protein
+bmm:MADAR_219	CDS	complement(231690..232121)	tadA; A34-tRNA adenosine deaminase
+bmm:MADAR_220	CDS	complement(232125..232730)	rplY; putative ribosomal L25p family stress protein
+bmm:MADAR_221	CDS	complement(232730..233665)	prsA; ribose-phosphate pyrophosphokinase
+bmm:MADAR_222	CDS	233701..234498	thyA; thymidylate synthase
+bmm:MADAR_223	CDS	complement(234550..237009)	thrA; aspartokinase/homoserine dehydrogenase
+bmm:MADAR_224	CDS	237191..237820	ureA; bifunctional urease gamma/beta subunit
+bmm:MADAR_225	CDS	237817..239523	ureC; urease, alpha subunit
+bmm:MADAR_226	tRNA	complement(239529..239611)	trnL; tRNA-Leu
+bmm:MADAR_227	CDS	complement(239594..240028)	dCMP deaminase
+bmm:MADAR_228	CDS	240043..240834	spoU; (guanosine-2'-O-)-methyltransferase
+bmm:MADAR_229	CDS	complement(240831..241331)	rnhA; ribonuclease HI
+bmm:MADAR_230	CDS	complement(241335..242093)	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+bmm:MADAR_231	CDS	242215..243207	fbp; fructose-1,6-bisphosphatase
+bmm:MADAR_232	CDS	complement(243581..244129)	marC; MarC family integral membrane protein
+bmm:MADAR_233	CDS	complement(244245..245639)	pyrF; bifunctional orotate phosphoribosyltransferase/orotidine 5'-phosphate decarboxylase
+bmm:MADAR_234	CDS	245706..246647	pyrD; dihydroorotate dehydrogenase 1A
+bmm:MADAR_235	CDS	complement(246644..248107)	proS; prolyl-tRNA synthetase
+bmm:MADAR_236	CDS	248185..248361	rpmF; 50S ribosomal protein L32
+bmm:MADAR_237	CDS	248386..248865	accB; biotin carboxyl carrier protein of acetyl-CoA carboxylase
+bmm:MADAR_238	CDS	248869..250221	accC; acetyl-CoA carboxylase, biotin carboxylase
+bmm:MADAR_239	CDS	complement(250203..251315)	prfA; peptide chain release factor 1
+bmm:MADAR_240	CDS	complement(251326..251709)	hypothetical protein
+bmm:MADAR_241	CDS	251799..253289	rho; transcription termination factor Rho
+bmm:MADAR_242	tRNA	253336..253408	trnM; tRNA-Met
+bmm:MADAR_243	CDS	253437..254603	hypothetical protein
+bmm:MADAR_244	tRNA	complement(254605..254692)	trnS; tRNA-Ser
+bmm:MADAR_245	ncRNA	254714..254953	rnpB; RNase P RNA
+bmm:MADAR_246	CDS	complement(254986..255699)	hypothetical protein
+bmm:MADAR_247	CDS	255775..256014	rpmB; 50S ribosomal protein L28
+bmm:MADAR_248	CDS	255995..256177	rpmG; 50S ribosomal protein L33
+bmm:MADAR_249	CDS	256174..256320	hypothetical protein
+bmm:MADAR_250	CDS	256346..257272	ftsY; signal recognition particle-docking protein FtsY
+bmm:MADAR_251	CDS	257350..259188	htpG; heat shock protein 90
+bmm:MADAR_252	CDS	complement(259189..259959)	exoX; putative DNA polymerase III epsilon chain
+bmm:MADAR_253	CDS	complement(259979..260656)	pssA; CDP-diacylglycerol--serine O-phosphatidyltransferase
+bmm:MADAR_254	CDS	260727..261149	hypothetical protein
+bmm:MADAR_255	CDS	261157..263028	gidA; glucose-inhibited division protein A
+bmm:MADAR_256	CDS	complement(263025..263303)	uridine kinase
+bmm:MADAR_257	CDS	263497..264879	fumC; fumarate hydratase
+bmm:MADAR_258	CDS	complement(264883..265656)	tatD; Sec-independent protein translocase protein TatD
+bmm:MADAR_259	CDS	265689..266546	fabD; malonyl CoA-acyl carrier protein transacylase
+bmm:MADAR_260	CDS	266536..267495	hypothetical protein
+bmm:MADAR_261	CDS	267540..268796	gltA; citrate synthase
+bmm:MADAR_262	tRNA	complement(268805..268890)	trnL; tRNA-Leu
+bmm:MADAR_263	CDS	complement(268900..270432)	rng; ribonuclease G
+bmm:MADAR_264	CDS	complement(270585..270917)	DNA-binding protein HU
+bmm:MADAR_265	CDS	271006..272046	mutY; A/G-specific adenine glycosylase
+bmm:MADAR_266	CDS	272101..273411	putative transmembrane CorC/HlyC family transporter
+bmm:MADAR_267	CDS	273429..274070	TPR domain-containing protein
+bmm:MADAR_268	CDS	274083..274541	ribE; riboflavin synthase subunit beta
+bmm:MADAR_269	CDS	274553..276292	mutL; putative DNA mismatch repair protein
+bmm:MADAR_270	CDS	276293..276991	rhomboid family protein
+bmm:MADAR_271	CDS	complement(276988..278481)	signal peptidase I
+bmm:MADAR_272	CDS	complement(278483..279187)	dapB; dihydrodipicolinate reductase
+bmm:MADAR_273	tRNA	279301..279389	trnL; tRNA-Leu
+bmm:MADAR_274	CDS	complement(279399..280583)	trmU; tRNA(5-methylaminomethyl-2-thiouridylate)-methyltransferase
+bmm:MADAR_275	CDS	complement(280598..281719)	dnaJ; chaperone DnaJ
+bmm:MADAR_276	CDS	complement(281731..282273)	grpE; chaperone GrpE
+bmm:MADAR_277	CDS	complement(282352..283338)	trpS; tryptophan--tRNA ligase
+bmm:MADAR_278	CDS	complement(283345..284202)	atpG; ATP synthase F1, gamma subunit
+bmm:MADAR_279	CDS	complement(284211..285797)	atpA; ATP synthase F1 subunit alpha
+bmm:MADAR_280	CDS	complement(285806..286345)	atpH; ATP synthase F1, delta subunit
+bmm:MADAR_281	CDS	complement(286345..286845)	atpF; ATP synthase subunit B
+bmm:MADAR_282	CDS	complement(286854..287081)	atpE; ATP synthase F0 subunit c
+bmm:MADAR_283	CDS	complement(287101..288123)	atpB; ATP synthase A subunit
+bmm:MADAR_284	CDS	complement(288180..289637)	cysS; cysteinyl-tRNA synthetase
+bmm:MADAR_285	CDS	complement(289650..290300)	folE; GTP cyclohydrolase I
+bmm:MADAR_286	CDS	complement(290403..291197)	nadE; NH(3)-dependent NAD synthetase
+bmm:MADAR_287	CDS	291239..291877	peptidase M22, glycoprotease
+bmm:MADAR_288	CDS	291894..292829	hemC; porphobilinogen deaminase
+bmm:MADAR_289	CDS	292826..294589	ktrB; K+ uptake transporter subunit KtrB
+bmm:MADAR_290	CDS	294600..295298	ktrA; K+ uptake transporter subunit KtrA
+bmm:MADAR_291	CDS	295306..295980	hemD; uroporphyrinogen-III synthase
+bmm:MADAR_292	CDS	complement(295989..297263)	hypothetical protein
+bmm:MADAR_293	CDS	complement(297266..297838)	hypothetical protein
+bmm:MADAR_294	CDS	complement(297845..298393)	hypothetical protein
+bmm:MADAR_295	CDS	complement(298386..299756)	nrfD; molybdopterin oxidoreductase membrane subunit
+bmm:MADAR_296	CDS	complement(299761..302697)	nrfC; molybdopterin oxidoreductase, iron-sulfur binding subunit
+bmm:MADAR_297	CDS	complement(302736..304058)	cytochrome c
+bmm:MADAR_298	CDS	complement(304045..307263)	carB; carbamoyl-phosphate synthase large subunit
+bmm:MADAR_299	CDS	complement(307265..308359)	carA; carbamoyl phosphate synthase small subunit
+bmm:MADAR_300	CDS	complement(308364..309500)	argD; acetylornithine aminotransferase
+bmm:MADAR_301	CDS	complement(309513..310487)	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+bmm:MADAR_302	CDS	complement(310487..312232)	argininosuccinate synthase(argG)/acetyltransferase activity of N-acetylglutamate synthase (argA)
+bmm:MADAR_303	CDS	complement(312301..316599)	polc; bifunctional DNA polymerase III, alpha subunit (dnaE)/DNA polymerase III, epsilon subunit (dnaQ) fusion protein
+bmm:MADAR_304	CDS	316723..318525	rpsA; 30S ribosomal protein S1
+bmm:MADAR_305	CDS	318545..320293	nrdA; ribonucleoside-diphosphate reductase subunit alpha
+bmm:MADAR_306	rRNA	complement(320245..320354)	rrfA; 5S ribosomal RNA
+bmm:MADAR_307	rRNA	complement(320392..323258)	rrlA; 23S ribosomal RNA
+bmm:MADAR_308	CDS	320518..320976	cell wall-associated hydrolase
+bmm:MADAR_309	CDS	322723..323082	hypothetical protein
+bmm:MADAR_310	tRNA	complement(323313..323386)	trnA; tRNA-Ala
+bmm:MADAR_311	tRNA	complement(323397..323473)	trnI; tRNA-Ile
+bmm:MADAR_312	rRNA	complement(323599..325039)	rrsA; 16S ribosomal RNA
+bmm:MADAR_313	CDS	325267..326310	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+bmm:MADAR_314	CDS	326330..327310	ispB; polyprenyl synthetase
+bmm:MADAR_315	CDS	327310..329403	topA; putative DNA topoisomerase I
+bmm:MADAR_316	CDS	complement(329404..329826)	hypothetical protein
+bmm:MADAR_317	CDS	329908..330582	putative methyltransferase
+bmm:MADAR_318	CDS	complement(330587..331582)	asd; aspartate-semialdehyde dehydrogenase
+bmm:MADAR_319	CDS	331658..332209	gmk; guanylate kinase
+bmm:MADAR_320	tRNA	complement(332201..332274)	trnP; tRNA-Pro
+bmm:MADAR_321	tRNA	complement(332283..332356)	trnN; tRNA-Asn
+bmm:MADAR_322	CDS	complement(332361..332795)	rpiB; ribose 5-phosphate isomerase B
+bmm:MADAR_323	CDS	332803..334089	pgk; phosphoglycerate kinase
+bmm:MADAR_324	CDS	334148..334771	sodA; superoxide dismutase, iron/manganese-dependent
+bmm:MADAR_325	CDS	334774..335121	folB; putative dihydroneopterin aldolase
+bmm:MADAR_326	tRNA	335122..335192	trnC; tRNA-Cys
+bmm:MADAR_327	CDS	complement(335199..337046)	glmS; glucosamine--fructose-6-phosphate aminotransferase
+bmm:MADAR_328	CDS	complement(337064..337882)	glgA; glycogen synthase-related protein
+bmm:MADAR_329	CDS	338041..339981	rnr; ribonuclease R
+bmm:MADAR_330	CDS	complement(339997..340461)	coaD; phosphopantetheine adenylyltransferase
+bmm:MADAR_331	CDS	340549..341601	PSP1 domain-containing protein
+bmm:MADAR_332	CDS	341639..343912	mrcA; penicillin-binding protein 1A
+bmm:MADAR_333	CDS	343921..344868	serA; phosphoglycerate dehydrogenase
+bmm:MADAR_334	CDS	complement(344880..346331)	hypothetical protein
+bmm:MADAR_335	CDS	complement(346341..348017)	cysI; sulfite reductase (NADPH) hemoprotein subunit beta
+bmm:MADAR_336	CDS	complement(348048..349715)	cysJ; sulfite reductase
+bmm:MADAR_337	CDS	complement(349735..350553)	cysG; siroheme synthase
+bmm:MADAR_338	CDS	complement(350568..351488)	cysK; cysteine synthase A
+bmm:MADAR_339	CDS	complement(351497..352330)	cysE; putative serine O-acetyltransferase
+bmm:MADAR_340	CDS	complement(352349..353605)	cysN; sulfate adenylyltransferase subunit 1
+bmm:MADAR_341	CDS	complement(353620..354528)	cysD; sulfate adenylyltransferase subunit 2
+bmm:MADAR_342	CDS	complement(354566..355303)	cysH; phosphoadenosine phosphosulfate reductase
+bmm:MADAR_343	CDS	355453..356712	icd; isocitrate dehydrogenase (NADP+)
+bmm:MADAR_344	CDS	complement(356668..357792)	menE; putative O-succinylbenzoate--CoA ligase
+bmm:MADAR_345	CDS	complement(357768..358838)	menC; O-succinylbenzoate synthase
+bmm:MADAR_346	CDS	complement(358807..359547)	beta-lactamase domain-containing protein
+bmm:MADAR_347	CDS	complement(359550..360458)	menA; 1,4-Dihydroxy-2-naphthoic acid (DHNA)-octaprenyltransferase
+bmm:MADAR_348	CDS	complement(360455..361279)	menB; 1,4-Dihydroxy-2-naphthoyl-CoA (DHNA-CoA) synthase
+bmm:MADAR_349	CDS	361351..361761	hypothetical protein
+bmm:MADAR_350	CDS	complement(361735..363012)	putative Na+/H+ antiporter
+bmm:MADAR_351	CDS	complement(363071..364357)	eno; enolase
+bmm:MADAR_352	CDS	complement(364357..364779)	rplQ; putative 50S ribosomal protein L17
+bmm:MADAR_353	CDS	complement(364796..365785)	rpoA; DNA-directed RNA polymerase subunit alpha
+bmm:MADAR_354	CDS	complement(365795..366400)	rpsD; 30S ribosomal protein S4
+bmm:MADAR_355	CDS	complement(366419..366802)	rpsK; 30S ribosomal protein S11
+bmm:MADAR_356	CDS	complement(366804..367184)	rpsM; 30S ribosomal protein S13
+bmm:MADAR_357	CDS	complement(367207..367323)	rpmJ; ribosomal protein L36
+bmm:MADAR_358	CDS	complement(367325..367540)	infA; translation initiation factor IF-1
+bmm:MADAR_359	CDS	complement(367579..368982)	secY; preprotein translocase subunit SecY
+bmm:MADAR_360	CDS	complement(368975..369439)	rplO; putative 50S ribosomal protein L15
+bmm:MADAR_361	CDS	complement(369454..369933)	rpsE; 30S ribosomal protein S5
+bmm:MADAR_362	CDS	complement(369946..370272)	rplR; 50S ribosomal protein L18
+bmm:MADAR_363	CDS	complement(370288..370836)	rplF; 50S ribosomal protein L6
+bmm:MADAR_364	CDS	complement(370842..371225)	rpsH; 30S ribosomal protein S8
+bmm:MADAR_365	CDS	complement(371240..371509)	rpsN; 30S ribosomal protein S14
+bmm:MADAR_366	CDS	complement(371510..372064)	rplE; 50S ribosomal protein L5
+bmm:MADAR_367	CDS	complement(372045..372278)	rplX; 50S ribosomal protein L24
+bmm:MADAR_368	CDS	complement(372291..372662)	rplN; 50S ribosomal protein L14
+bmm:MADAR_369	CDS	complement(372668..372958)	rpsQ; 30S ribosomal protein S17
+bmm:MADAR_370	CDS	complement(372955..373152)	rhlE; 50S ribosomal protein L29
+bmm:MADAR_371	CDS	complement(373160..373561)	rplP; 50S ribosomal protein L16
+bmm:MADAR_372	CDS	complement(373567..374271)	rpsC; 30S ribosomal protein S3
+bmm:MADAR_373	CDS	complement(374285..374659)	rplV; 50S ribosomal protein L22
+bmm:MADAR_374	CDS	complement(374664..374948)	rpsS; 30S ribosomal protein S19
+bmm:MADAR_375	CDS	complement(374961..375785)	rplB; 50S ribosomal protein L2
+bmm:MADAR_376	CDS	complement(375793..376074)	rplW; 50S ribosomal protein L23
+bmm:MADAR_377	CDS	complement(376087..376716)	rplD; 50S ribosomal protein L4
+bmm:MADAR_378	CDS	complement(376707..377342)	rplC; 50S ribosomal protein L3
+bmm:MADAR_379	CDS	complement(377352..377657)	rpsJ; 30S ribosomal protein S10
+bmm:MADAR_380	CDS	complement(377662..379785)	fusA; translation elongation factor G
+bmm:MADAR_381	CDS	complement(379796..380272)	rpsG; 30S ribosomal protein S7
+bmm:MADAR_382	CDS	complement(380269..380673)	rpsL; 30S ribosomal protein S12
+bmm:MADAR_383	CDS	complement(380724..381545)	map; methionine aminopeptidase
+bmm:MADAR_384	CDS	complement(381538..383109)	pgm; phosphoglyceromutase
+bmm:MADAR_385	CDS	complement(383114..383923)	tsf; elongation factor Ts
+bmm:MADAR_386	CDS	complement(383920..384618)	rpsB; 30S ribosomal protein S2
+bmm:MADAR_387	CDS	complement(384623..384997)	rpsI; 30S ribosomal protein S9
+bmm:MADAR_388	CDS	complement(385003..385437)	rplM; 50S ribosomal protein L13
+bmm:MADAR_389	CDS	385560..387497	dnaK; dnaK protein
+bmm:MADAR_390	CDS	complement(387517..388170)	psd; phosphatidylserine decarboxylase
+bmm:MADAR_391	CDS	complement(388167..388973)	cdsA; phosphatidate cytidylyltransferase
+bmm:MADAR_392	CDS	complement(388983..390941)	ftsH; AAA-metalloprotease FtsH
+bmm:MADAR_393	CDS	391308..391970	birA; biotin-(acetyl-CoA carboxylase) ligase
+bmm:MADAR_394	CDS	complement(391967..393733)	yidC; putative inner membrane protein translocase component YidC
+bmm:MADAR_395	CDS	complement(393730..395367)	pyrG; CTP synthetase
+bmm:MADAR_396	ncRNA	complement(395469..395572)	ffs; signal recognition particle RNA
+bmm:MADAR_397	CDS	complement(395578..396561)	obgE; DNA-binding GTPase involved in cell partioning
+bmm:MADAR_398	CDS	complement(396576..397157)	adk; adenylate kinase
+bmm:MADAR_399	CDS	complement(397208..398647)	lpd; dihydrolipoamide dehydrogenase
+bmm:MADAR_400	CDS	398676..399341	fsaB; transaldolase
+bmm:MADAR_401	CDS	complement(399328..399639)	hypothetical protein
+bmm:MADAR_402	CDS	complement(399636..400265)	hypothetical protein
+bmm:MADAR_403	CDS	complement(400262..400774)	ftnA; Ferritin, major cytoplasmic iron storage protein
+bmm:MADAR_404	CDS	complement(400783..401670)	dapA; dihydrodipicolinate synthase
+bmm:MADAR_405	CDS	complement(401718..401987)	ykfA; RNP-1 RNA-binding protein
+bmm:MADAR_406	CDS	402103..403332	pncB; nicotinate phosphoribosyltransferase
+bmm:MADAR_407	CDS	403397..404755	miaB; RNA modification protein
+bmm:MADAR_408	CDS	404765..406048	ntrC; transcriptional regulator, sigma-54-related protein
+bmm:MADAR_409	CDS	406064..406303	secG; preprotein translocase subunit
+bmm:MADAR_410	CDS	406418..406696	groES; chaperone GroES
+bmm:MADAR_411	CDS	406736..408376	groL; 60 kDa chaperonin GroEL
+bmm:MADAR_412	CDS	complement(408437..408916)	putative hydrolase
+bmm:MADAR_413	CDS	complement(408994..409377)	hypothetical protein
+bmm:MADAR_414	CDS	complement(409469..411190)	mdlA; ABC transporter, ATP-binding protein
+bmm:MADAR_415	CDS	411271..412194	nusB; antitermination protein NusB
+bmm:MADAR_416	CDS	412242..412574	yajC; preprotein translocase, YajC subunit
+bmm:MADAR_417	CDS	412571..413173	coaE; putative dephospho-CoA kinase
+bmm:MADAR_418	CDS	413157..413300	coaE; putative dephospho-CoA kinase
+bmm:MADAR_419	CDS	complement(413255..413944)	hypothetical protein
+bmm:MADAR_420	CDS	414012..415313	ndh; putative type II NADH dehydrogenase
+bmm:MADAR_421	CDS	complement(415295..416371)	entC; isochorismate synthase entC
+bmm:MADAR_422	CDS	complement(416373..416801)	hypothetical protein
+bmm:MADAR_423	CDS	416933..417472	idi; putative isopentenyl-diphosphate delta-isomerase
+bmm:MADAR_424	CDS	417479..417889	sscR; 6-pyruvoyl tetrahydrobiopterin synthase
+bmm:MADAR_425	CDS	417879..418997	gcvT; aminomethyltransferase
+bmm:MADAR_426	CDS	419053..420387	matE; Multi Antimicrobial Extrusion (MATE) family efflux pump
+bmm:MADAR_427	CDS	420440..422098	recQ; ATP-dependent RNA helicase
+bmm:MADAR_428	CDS	422105..423193	aroC; chorismate synthase
+bmm:MADAR_429	CDS	423190..424119	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+bmm:MADAR_430	tRNA	complement(424079..424154)	trnV; tRNA-Val
+bmm:MADAR_431	CDS	complement(424145..425419)	folC; putative folylpolyglutamate synthase
+bmm:MADAR_432	CDS	425636..427180	glnS; glutaminyl-tRNA synthetase
+bmm:MADAR_433	CDS	complement(427166..431404)	rpoC; DNA-directed RNA polymerase beta' subunit
+bmm:MADAR_434	CDS	complement(431427..435242)	rpoB; DNA-directed RNA polymerase beta subunit
+bmm:MADAR_435	CDS	complement(435293..435673)	rplL; 50S ribosomal protein L7+L12
+bmm:MADAR_436	CDS	complement(435675..436223)	rplJ; putative 50S ribosomal protein L10
+bmm:MADAR_437	CDS	complement(436220..436933)	rplA; 50S ribosomal protein L1
+bmm:MADAR_438	CDS	complement(436942..437373)	rplK; Ribosomal protein L11
+bmm:MADAR_439	CDS	complement(437373..437930)	nusG; transcription termination/antitermination factor NusG
+bmm:MADAR_440	CDS	complement(437941..438126)	hypothetical protein
+bmm:MADAR_441	tRNA	complement(438134..438209)	trnW; tRNA-Trp
+bmm:MADAR_442	CDS	complement(438221..439411)	tuf; translation elongation factor Tu
+bmm:MADAR_443	tRNA	complement(439436..439507)	trnT; tRNA-Thr
+bmm:MADAR_444	tRNA	complement(439514..439590)	trnG; tRNA-Gly
+bmm:MADAR_445	tRNA	complement(439600..439683)	trnY; tRNA-Tyr
+bmm:MADAR_446	tRNA	complement(439696..439769)	trnT; tRNA-Thr
+bmm:MADAR_447	CDS	complement(439864..440379)	lspA; putative signal peptidase
+bmm:MADAR_448	CDS	complement(440564..444004)	ileS; isoleucyl-tRNA synthetase
+bmm:MADAR_449	CDS	444099..446651	mutS; putative DNA mismatch repair protein MutS
+bmm:MADAR_450	tRNA	446664..446736	trnG; tRNA-Gly
+bmm:MADAR_451	tRNA	446746..446832	trnL; tRNA-Leu
+bmm:MADAR_452	CDS	complement(446837..448303)	guaB; Inosine-5'-monophosphate dehydrogenase
+bmm:MADAR_453	CDS	448506..448769	hypothetical protein
+bmm:MADAR_454	CDS	complement(448817..449161)	rplS; 50S ribosomal protein L19
+bmm:MADAR_455	CDS	complement(449163..450557)	phosphoglucomutase/phosphomannomutase
+bmm:MADAR_456	CDS	complement(450665..452188)	dnaB; replicative DNA helicase
+bmm:MADAR_457	CDS	complement(452240..453196)	accA; acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+bmm:MADAR_458	CDS	complement(453215..453967)	sdhB; succinate dehydrogenase/fumarate reductase, iron-sulfur protein
+bmm:MADAR_459	CDS	complement(453984..456014)	sdhA; succinate dehydrogenase flavoprotein subunit
+bmm:MADAR_460	CDS	complement(456016..456615)	sdhC; succinate dehydrogenase subunit C/fumarate reductase
+bmm:MADAR_461	CDS	complement(456702..457859)	iscS; cysteine desulfurase
+bmm:MADAR_462	CDS	457987..459558	phosphodiesterase
+bmm:MADAR_463	CDS	459572..460537	putative deoxyhypusine synthase
+bmm:MADAR_464	CDS	460570..461994	lpdA; dihydrolipoamide dehydrogenase
+bmm:MADAR_465	CDS	complement(462246..463271)	potassium transporter peripheral membrane component
+bmm:MADAR_466	CDS	complement(463286..463627)	4Fe-4S ferredoxin, iron-sulfur binding protein
+bmm:MADAR_467	CDS	463660..464715	phosphoserine aminotransferase
+bmm:MADAR_468	gene	complement(464712..465721)	pseudogene
+bmm:MADAR_469	CDS	complement(465762..466520)	aroE; shikimate 5-dehydrogenase
+bmm:MADAR_470	CDS	complement(466533..466730)	rpsU; 30S ribosomal protein S21
+bmm:MADAR_471	tRNA	complement(466747..466821)	trnV; tRNA-Val
+bmm:MADAR_472	CDS	466889..468961	recG; ATP-dependent DNA helicase
+bmm:MADAR_473	CDS	468976..471108	uvrD; putative helicase
+bmm:MADAR_474	CDS	471136..472173	fieF; cation diffusion facilitator family transporter
+bmm:MADAR_475	CDS	472163..472720	hypothetical protein
+bmm:MADAR_476	CDS	472727..474031	murA; UDP-N-acetylglucosamine-1-carboxyvinyltransferase
+bmm:MADAR_477	CDS	complement(474017..474481)	lpxP; thermonuclease family protein
+bmm:MADAR_478	CDS	474562..475044	greA; transcription elongation factor GreA
+bmm:MADAR_479	CDS	475037..475444	hinT; HIT family protein
+bmm:MADAR_480	CDS	complement(475449..476213)	yigI; pantothenate kinase
+bmm:MADAR_481	CDS	476286..477092	hydrolase protein of the alpha/beta superfamily
+bmm:MADAR_482	gene	477089..477651	pseudogene
+bmm:MADAR_483	CDS	complement(477659..478993)	rseP; membrane-associated zinc metalloprotease
+bmm:MADAR_484	CDS	479099..479326	feoA; ferrous iron transport protein A
+bmm:MADAR_485	CDS	479340..481403	feoB; ferrous iron transport protein B
+bmm:MADAR_486	CDS	complement(481526..482515)	ddl; D-alanyl-alanine synthetase A
+bmm:MADAR_487	CDS	482590..483432	hypothetical protein
+bmm:MADAR_488	CDS	483437..484444	rluD; ribosomal large subunit pseudouridine synthase D
+bmm:MADAR_489	CDS	complement(484436..485797)	mgtE; putative Mg2+ transporter
+bmm:MADAR_490	CDS	485896..488730	leuS; leucyl-tRNA synthetase
+bmm:MADAR_491	CDS	488792..490219	gdhA; glutamate dehydrogenase
+bmm:MADAR_492	CDS	490245..490958	pyrH; uridylate kinase
+bmm:MADAR_493	CDS	490966..491514	frr; ribosome recycling factor
+bmm:MADAR_494	CDS	491533..492963	asnS; asparaginyl-tRNA synthetase
+bmm:MADAR_495	CDS	492967..494457	rpoN; RNA polymerase factor sigma-54
+bmm:MADAR_496	CDS	complement(494452..495819)	sad; succinate-semialdehyde dehydrogenase
+bmm:MADAR_497	CDS	complement(495834..496298)	sufE; putative SufE Fe/S-cluster-related protein
+bmm:MADAR_498	CDS	complement(496321..498615)	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine
+bmm:MADAR_499	CDS	complement(498687..499886)	putative sugar phosphate nucleotidyl transferase
+bmm:MADAR_500	CDS	complement(499905..500162)	rpmE; 50S ribosomal protein L31
+bmm:MADAR_501	CDS	complement(500155..501264)	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III
+bmm:MADAR_502	gene	501329..502059	pseudogene
+bmm:MADAR_503	CDS	502074..503579	putative auxin-regulated protein
+bmm:MADAR_504	CDS	503588..503857	rpsO; putative 30S ribosomal protein S15
+bmm:MADAR_505	CDS	503906..506050	pnp; polynucleotide phosphorylase/polyadenylase
+bmm:MADAR_506	CDS	506063..506926	rpoD; RNA polymerase sigma-70 factor
+bmm:MADAR_507	tRNA	complement(506934..507007)	trnR; tRNA-Arg
+bmm:MADAR_508	CDS	complement(507018..507770)	tpiA; triose-phosphate isomerase
+bmm:MADAR_509	CDS	complement(507805..508290)	hypothetical protein
+bmm:MADAR_510	CDS	508332..509162	folP; dihydropteroate synthase
+bmm:MADAR_511	CDS	509177..509962	putative transmembrane protein
+bmm:MADAR_512	CDS	509974..511272	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+bmm:MADAR_513	CDS	511326..512330	acoA; pyruvate dehydrogenase E1 component, alpha subunit
+bmm:MADAR_514	CDS	512376..513503	aceF; dihydrolipoamide acyltransferase E2 component
+bmm:MADAR_515	CDS	complement(513495..514211)	integral membrane protein TerC family
+bmm:MADAR_516	CDS	complement(514218..516059)	msbA; lipid A export ATP-binding/permease protein MsbA
+bmm:MADAR_517	gene	516278..517550	pseudogene
+bmm:MADAR_518	CDS	517550..517792	tatA; putative Sec-independent-protein-translocase protein TatA/E
+bmm:MADAR_519	CDS	complement(517789..519915)	ppiD; peptidylprolyl cis-trans isomerase
+bmm:MADAR_520	CDS	complement(519916..521181)	putative transmembrane CBS domain transporter
+bmm:MADAR_521	CDS	complement(521192..521677)	hypothetical protein
+bmm:MADAR_522	tRNA	521747..521822	trnF; tRNA-Phe
+bmm:MADAR_523	CDS	complement(521823..522335)	hypothetical protein
+bmm:MADAR_524	CDS	complement(522372..524747)	yaeT; outer membrane protein
+bmm:MADAR_525	CDS	complement(524731..525453)	uppS; undecaprenyl diphosphate synthase
+bmm:MADAR_526	CDS	complement(525505..526389)	ppnK; inorganic polyphosphate/ATP-NAD kinase
+bmm:MADAR_527	gene	526496..527418	pseudogene
+bmm:MADAR_528	CDS	527430..528164	hypothetical protein
+bmm:MADAR_529	CDS	528133..528567	aroD; 3-dehydroquinate dehydratase
+bmm:MADAR_530	CDS	complement(528534..529148)	ysxC; ribosome biogenesis GTP-binding protein YsxC
+bmm:MADAR_531	CDS	complement(529123..529887)	alpha/beta fold family hydrolase
+bmm:MADAR_532	CDS	complement(529884..530645)	rnc; ribonuclease III
+bmm:MADAR_533	CDS	complement(530635..531894)	fabF; putative 3-oxoacyl-(acyl-carrier-protein) synthase
+bmm:MADAR_534	CDS	complement(531911..532165)	acpP; acyl carrier protein
+bmm:MADAR_535	CDS	532255..533829	pck; phosphoenolpyruvate carboxykinase
+bmm:MADAR_536	CDS	complement(533836..534429)	ribC; riboflavin synthase subunit alpha
+bmm:MADAR_537	CDS	534460..535503	pdxA; 4-hydroxythreonin-phosphate dehydrogenase
+bmm:MADAR_538	CDS	complement(535498..535731)	atpC; F0F1 ATP synthase subunit epsilon
+bmm:MADAR_539	CDS	complement(535747..537258)	atpD; ATP synthase F1 subunit beta
+bmm:MADAR_540	CDS	537349..538305	ribF; riboflavin biosynthesis protein
+bmm:MADAR_541	CDS	538302..541016	hypothetical protein
+bmm:MADAR_542	CDS	541421..542716	tyrS; putative tyrosyl-tRNA synthetase 1
+bmm:MADAR_543	CDS	complement(542741..545335)	clpB; putative heat shock ClpB protein
+bmm:MADAR_544	CDS	545469..546560	prfB; peptide chain release factor 2
+bmm:MADAR_545	CDS	546593..548038	speA; arginine decarboxylase
+bmm:MADAR_546	CDS	548053..548904	speB; agmatinase
+bmm:MADAR_547	CDS	548908..549609	cmk; cytidylate kinase
+bmm:MADAR_548	CDS	549606..550340	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+bmm:MADAR_549	CDS	550351..552036	menD; 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylic acid synthase/2-oxoglutarate decarboxylase
+bmm:MADAR_550	CDS	complement(552025..552474)	hypothetical protein
+bmm:MADAR_551	CDS	complement(552644..555931)	secA; preprotein translocase subunit
+bmm:MADAR_552	CDS	complement(555955..556188)	hypothetical protein
+bmm:MADAR_553	CDS	556339..557283	fmt; Methionyl-tRNA formyltransferase
+bmm:MADAR_554	CDS	557361..557627	hupB; histone-like DNA-binding protein HU-beta
+bmm:MADAR_555	CDS	complement(557648..558298)	pdxH; pyridoxamine 5'-phosphate oxidase
+bmm:MADAR_556	tRNA	558393..558466	trnM; tRNA-Met
+bmm:MADAR_557	CDS	558494..559639	dnaN; DNA polymerase III, beta subunit
+bmm:MADAR_558	CDS	559648..561729	pheT; phenylalanyl-tRNA synthetase beta subunit
+bmm:MADAR_559	CDS	complement(561724..563172)	glyS; glycyl-tRNA synthetase
+bmm:MADAR_560	CDS	complement(563207..564151)	trxB; thioredoxin reductase
+bmm:MADAR_561	CDS	564243..564689	hypothetical protein
+bmm:MADAR_562	CDS	complement(564677..565693)	gapA; glyceraldehyde 3-phosphate dehydrogenase
+bmm:MADAR_563	CDS	complement(565725..567524)	lepA; GTP-binding protein LepA
+bmm:MADAR_564	tRNA	complement(567546..567618)	trnR; tRNA-Arg
+bmm:MADAR_565	CDS	complement(567618..568187)	pth; peptidyl-tRNA hydrolase
+bmm:MADAR_566	CDS	complement(568205..569122)	sucD; succinyl-CoA ligase (ADP-forming) subunit alpha
+bmm:MADAR_567	CDS	complement(569164..570474)	bifunctional UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase(lpxC)/(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase(fabZ)
+bmm:MADAR_568	CDS	570603..570977	hypothetical protein
+bmm:MADAR_569	CDS	570952..571101	rpmH; 50S ribosomal protein L34
+bmm:MADAR_570	CDS	complement(571091..572242)	M14 family peptidase
+bmm:MADAR_571	CDS	572408..573202	hypothetical protein
+bmm:MADAR_572	CDS	573222..574148	rbn; ribonuclease Z
+bmm:MADAR_573	CDS	complement(574165..574461)	nfsA; ribosome-binding factor A
+bmm:MADAR_574	tRNA	complement(574523..574596)	trnM; tRNA-Met
+bmm:MADAR_575	tRNA	complement(574602..574675)	trnR; tRNA-Arg
+bmm:MADAR_576	CDS	complement(574676..574939)	rpmA; 50S ribosomal protein L27
+bmm:MADAR_577	CDS	complement(574947..575276)	rplU; 50S ribosomal protein L21
+bmm:MADAR_578	CDS	complement(575283..576524)	sufS; cysteine desulfurase
+bmm:MADAR_579	CDS	complement(576528..577820)	sufD; SufBCD Fe-S assembly scaffold, FADH2-dependent
+bmm:MADAR_580	CDS	complement(577833..578600)	sufC; SufBCD Fe-S assembly scaffold, FADH2-dependent
+bmm:MADAR_581	CDS	complement(578633..580129)	sufB; SufBCD Fe-S assembly scaffold, FADH2-dependent
+bmm:MADAR_582	CDS	complement(580086..580415)	sufA; Scaffold protein for iron-sulfur cluster assembly
+bmm:MADAR_583	CDS	complement(580451..580972)	secreted protein containing DUF192
+bmm:MADAR_584	CDS	complement(580969..581838)	lgt; prolipoprotein diacylglyceryl transferase
+bmm:MADAR_585	CDS	complement(581853..582068)	hypothetical protein
+bmm:MADAR_586	CDS	complement(582065..584314)	acnA; aconitate hydratase
+bmm:MADAR_587	CDS	complement(584380..585162)	alpha/beta superfamily hydrolase
+bmm:MADAR_588	CDS	complement(585159..585887)	pdxJ; pyridoxal phosphate biosynthetic protein
+bmm:MADAR_589	CDS	complement(585881..587125)	mscS; MscS Mechanosensitive ion channel
