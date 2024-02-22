@@ -1,0 +1,1389 @@
+pub:SAR11_0001	CDS	complement(516..1529)	ilvC; ketol-acid reductoisomerase
+pub:SAR11_0002	CDS	complement(1556..2104)	ilvH; acetolactate synthase small subunit
+pub:SAR11_0003	CDS	complement(2105..3871)	ilvB; acetolactate synthase large subunit (ALS III)
+pub:SAR11_0004	CDS	complement(3891..4832)	miaA; tRNA isopentenyltransferase
+pub:SAR11_0005	CDS	complement(4835..6247)	htrA; probable periplasmic serine protease DO-like precursor
+pub:SAR11_0006	CDS	complement(6249..6434)	possible ubiquitin binding protein
+pub:SAR11_0007	CDS	complement(6444..7310)	hflC; probable integral membrane proteinase
+pub:SAR11_0008	CDS	complement(7310..8410)	hflK; probable integral membrane proteinase
+pub:SAR11_0009	CDS	8411..9286	mrp; probable ATPase
+pub:SAR11_0010	CDS	complement(9267..10301)	thyX; thymidylate synthase-complementing family protein (Pfam)
+pub:SAR11_0011	CDS	complement(10519..10890)	conserved hypothetical protein
+pub:SAR11_0012	CDS	10957..12345	fumC; Fumarate hydratase class II (Fumarase C)
+pub:SAR11_0013	CDS	complement(12333..13784)	hypothetical protein
+pub:SAR11_0014	CDS	13829..15865	uvrD; DNA helicase II
+pub:SAR11_0015	CDS	15862..17556	pepP; Xaa-Pro aminopeptidase
+pub:SAR11_0016	CDS	complement(17539..19569)	ligA; DNA ligase
+pub:SAR11_0017	CDS	complement(19571..20419)	comL; putative competence lipoprotein ComL
+pub:SAR11_0018	CDS	complement(20458..21378)	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (UDP-3-O-acyl-GlcNAc deacetylase)
+pub:SAR11_0019	CDS	complement(21444..22553)	ftsA; cell division protein FtsA
+pub:SAR11_0020	CDS	complement(22553..23230)	ftsQ; cell division protein FtsQ
+pub:SAR11_0021	CDS	complement(23211..24125)	ddlB; D-alanine--D-alanine ligase B
+pub:SAR11_0022	CDS	complement(24127..25035)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+pub:SAR11_0023	CDS	complement(25035..26429)	murC; UDP-N-acetylmuramate--L-alanine ligase
+pub:SAR11_0024	CDS	complement(26419..27489)	murG; UDP-N-acetylglucosamine
+pub:SAR11_0025	CDS	complement(27490..28614)	ftsW; cell division protein FtsW
+pub:SAR11_0026	CDS	complement(28611..29906)	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+pub:SAR11_0027	CDS	complement(29906..30991)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+pub:SAR11_0028	CDS	complement(30981..33827)	murEF; UDP-N-acetylmuramoylalanyl-D-glutamate
+pub:SAR11_0029	CDS	complement(33835..35511)	ftsI; cell division protein FtsI
+pub:SAR11_0030	CDS	complement(35504..35812)	ftsL; cell division protein FtsL
+pub:SAR11_0031	CDS	complement(35809..36819)	mraW; S-adenosyl-methyltransferase
+pub:SAR11_0032	CDS	complement(36838..38325)	ftsZ; cell division protein FtsZ
+pub:SAR11_0033	CDS	complement(38328..38795)	mraZ; Cell division protein MraZ
+pub:SAR11_0034	CDS	complement(39448..40191)	ybjR; probable N-acetylmuramoyl-L-alanine amidase
+pub:SAR11_0035	CDS	40261..41046	vacJ; lipoprotein precursor
+pub:SAR11_0036	CDS	41060..41653	yrbC; hypothetical protein
+pub:SAR11_tRNA_r_31	tRNA	41674..41750	tRNA-Met
+pub:SAR11_tRNA_r_30	tRNA	41817..41891	tRNA-Val
+pub:SAR11_0037	CDS	complement(41900..43687)	rpoD; RNA polymerase sigma factor
+pub:SAR11_0038	CDS	complement(43790..45565)	dnaG; DNA primase
+pub:SAR11_0039	CDS	complement(45565..46026)	yqeY; YqeY-like protein
+pub:SAR11_0040	CDS	46155..47351	carA; Carbamoyl-phosphate synthase small chain
+pub:SAR11_0041	CDS	47329..50553	carB; Carbamoyl-phosphate synthase large chain
+pub:SAR11_0042	CDS	complement(50650..52728)	Putative secretory autotransporter
+pub:SAR11_0043	CDS	complement(52886..53026)	Unknown protein
+pub:SAR11_0044	CDS	53177..55348	Outer membrane autotransporter
+pub:SAR11_0045	CDS	55348..55692	Unknown protein
+pub:SAR11_0046	CDS	complement(55701..57719)	Outer membrane autotransporter
+pub:SAR11_0047	CDS	58036..59004	probable transcription regulatory protein
+pub:SAR11_0048	CDS	complement(58997..59845)	Sodium Bile symporter family protein
+pub:SAR11_0049	CDS	complement(60069..62204)	Ammonium transporter family protein
+pub:SAR11_0050	CDS	complement(62323..64560)	Ammonium transporter family protein
+pub:SAR11_0051	CDS	complement(64574..64903)	copZ; probable heavy metal transport/detoxification protein
+pub:SAR11_0052	CDS	complement(65036..65326)	Unknown protein
+pub:SAR11_0053	CDS	complement(65399..65836)	pulG; Putative pseudo-pilin PulG
+pub:SAR11_0054	CDS	complement(65846..66331)	pilA; Pilin (bacterial filament)
+pub:SAR11_0055	CDS	66490..66774	Sulfate transporter/antisigma-factor antagonist STAS
+pub:SAR11_0056	CDS	66771..67070	spoIIA; Sulfate transporter/antisigma-factor antagonist STAS
+pub:SAR11_0057	CDS	67078..67512	rsbW; Anti-sigma regulatory factor (Ser/Thr protein kinase)
+pub:SAR11_0058	CDS	complement(67509..68741)	pilC; Type II Secretion System PilC
+pub:SAR11_0059	CDS	complement(68744..70495)	pilB; Type II Secretion System PilB
+pub:SAR11_0060	CDS	complement(70495..72051)	pilQ; Type II Secretion PilQ
+pub:SAR11_0061	CDS	complement(72054..72560)	pilP; type 4 fimbrial biogenesis protein PilP
+pub:SAR11_0062	CDS	complement(72547..73224)	pilO; type 4 fimbrial biogenesis protein PilO
+pub:SAR11_0063	CDS	complement(73227..75770)	pilMN; Type II Secretion
+pub:SAR11_0064	CDS	complement(77115..78461)	rsbU; Sigma factor sigB regulation protein
+pub:SAR11_0065	CDS	78561..79325	pild; Type II Secretion PilD
+pub:SAR11_0067	CDS	79386..80105	fimc; possible membrane-bound pili assembly protein Fimc
+pub:SAR11_0068	CDS	complement(80345..84916)	pilY1; Type II Secretion PilY1
+pub:SAR11_0069	CDS	complement(85064..85588)	possible pilX-type protein
+pub:SAR11_0070	CDS	complement(85664..86368)	type IV pilus assembly protein PilW
+pub:SAR11_0071	CDS	complement(86437..87291)	type IV pilin secretion protein
+pub:SAR11_0072	CDS	complement(87366..88016)	Putative pilV-like pilin protein
+pub:SAR11_0073	CDS	complement(88021..88746)	possible pilin protein similar to PilU
+pub:SAR11_0074	CDS	complement(88721..89734)	pilT; Type II Secretion PilT
+pub:SAR11_0075	CDS	complement(89886..90548)	Unknown protein
+pub:SAR11_0076	CDS	complement(90548..91492)	Predicted nucleoside-diphosphate-sugar epimerase
+pub:SAR11_0077	CDS	91514..92458	trxB; thioredoxin reductase
+pub:SAR11_0078	CDS	92500..93519	possible NAD dependent epimerase/dehydratase protein
+pub:SAR11_0079	CDS	complement(93511..93960)	ytoQ; hypothetical protein ytoQ
+pub:SAR11_0080	CDS	complement(93960..95159)	aatA; aspartate transaminase
+pub:SAR11_0081	CDS	95195..97366	uvrB; excinuclease ABC chain B
+pub:SAR11_0082	CDS	97348..98100	probable short-chain dehydrogenase
+pub:SAR11_0083	CDS	98097..98522	folB; dihydroneopterin aldolase
+pub:SAR11_0084	CDS	98509..100344	uvrC; excinuclease ABC chain C
+pub:SAR11_0085	CDS	100347..100931	pgsA; CDP-diacylglycerol
+pub:SAR11_0086	CDS	complement(100928..101809)	ilvE; branched-chain amino acid aminotransferase
+pub:SAR11_0087	CDS	101880..102317	petP; transcriptional regulator
+pub:SAR11_0088	CDS	102310..102987	petR; two-component system
+pub:SAR11_0089	CDS	102968..104287	envZ; osmolarity sensor protein envZ
+pub:SAR11_0090	CDS	complement(104265..104519)	Unknown protein
+pub:SAR11_0091	CDS	104566..105336	lgt; prolipoprotein diacylglyceryl transferase
+pub:SAR11_0092	CDS	105326..106369	cdfA; possible cyclopropane-fatty-acyl-phospholipid synthase
+pub:SAR11_0093	CDS	106800..107135	Uncharacterized ACR
+pub:SAR11_0094	CDS	107142..108074	prsA; Ribose-phosphate pyrophosphokinase
+pub:SAR11_0095	CDS	108119..108805	rplY; ribosomal 5S rRNA E-loop binding protein Ctc/L25/TL5
+pub:SAR11_0096	CDS	108851..109411	pth; Peptidyl-tRNA hydrolase
+pub:SAR11_0097	CDS	109411..110484	Predicted GTPase
+pub:SAR11_0098	CDS	complement(110461..111240)	fbcH; ubiquinol-cytochrome-c reductase
+pub:SAR11_0099	CDS	complement(111245..112504)	petB; ubiquinol-cytochrome-c reductase
+pub:SAR11_0100	CDS	complement(112514..113023)	petA; cytochrome b6-f complex iron-sulfur subunit
+pub:SAR11_0101	CDS	113110..113571	spoU; rRNA Methylase
+pub:SAR11_0102	CDS	113571..114398	hemF; Coproporphyrinogen III oxidase
+pub:SAR11_0103	CDS	114400..114876	greA; Transcription elongation factor
+pub:SAR11_0104	CDS	complement(114873..116147)	pcnB; Poly(A) Polymerase (PAP)
+pub:SAR11_tRNA_r_29	tRNA	116151..116224	tRNA-Gln
+pub:SAR11_0105	CDS	complement(116257..117102)	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+pub:SAR11_0106	CDS	complement(117106..118791)	tetratricopeptide repeat (tpr) family protein
+pub:SAR11_0107	CDS	118803..119534	probable DNA-directed DNA polymerase
+pub:SAR11_0108	CDS	119534..120094	rnhB; Ribonuclease HII (RNase HII)
+pub:SAR11_0109	CDS	120216..121286	babIM; site-specific DNA methyltransferase
+pub:SAR11_0110	CDS	complement(121283..122434)	nah; salicylate 1-monooxygenase
+pub:SAR11_0111	CDS	complement(122434..123414)	mutY; A/G-specific adenine glycosylase
+pub:SAR11_0112	CDS	123415..123903	Unknown protein
+pub:SAR11_0113	CDS	123975..124490	DsbA-like protein
+pub:SAR11_0114	CDS	124499..127072	smc; chromosome segregation protein SMC family
+pub:SAR11_0115	CDS	127081..127356	possible transmembrane protein
+pub:SAR11_0116	CDS	127369..128103	atpB; H+-transporting two-sector ATPase (subunit A)
+pub:SAR11_0117	CDS	128123..128350	atpE; H+-transporting two-sector ATPase (subunit C)
+pub:SAR11_0118	CDS	128407..128946	H+-transporting two-sector ATPase (subunit b')
+pub:SAR11_0119	CDS	128936..129433	atpF; H+-transporting two-sector ATPase (subunit b)
+pub:SAR11_0120	CDS	129473..130930	crtI; phytoene dehydrogenase
+pub:SAR11_0121	CDS	130930..131781	crtB; Phytoene synthase
+pub:SAR11_0122	CDS	131813..132844	crtY; lycopene cyclase
+pub:SAR11_0123	CDS	132834..133772	possible transmembrane protein
+pub:SAR11_0124	CDS	133762..134706	lytB; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+pub:SAR11_0125	CDS	134707..135675	thrB; Homoserine kinase
+pub:SAR11_0126	CDS	135675..136100	rnhA; Ribonuclease H (RNase H)
+pub:SAR11_0127	CDS	complement(136092..136577)	pmpA; peroxisomal membrane protein a (pmp20)
+pub:SAR11_0128	CDS	complement(136574..137953)	thrC; Threonine synthase
+pub:SAR11_0129	CDS	complement(137954..138607)	surf1; surfeit locus protein 1
+pub:SAR11_0130	CDS	complement(138618..139406)	coxC; cytochrome-c oxidase
+pub:SAR11_0131	CDS	complement(139409..139945)	ctaG; Cytochrome c oxidase assembly protein CtaG/Cox11
+pub:SAR11_0132	CDS	complement(139945..140070)	possible serine protease inhibitor sgti
+pub:SAR11_0133	CDS	complement(140067..140933)	ctaB; cytochrome c oxidase assembly factor
+pub:SAR11_0134	CDS	complement(141011..142645)	cox1; cytochrome-c oxidase
+pub:SAR11_0135	CDS	complement(142648..143463)	coxB; probable cytochrome c oxidase polypeptide II (Cytochrome aa3 subunit 2)
+pub:SAR11_0136	CDS	complement(143525..144226)	conserved hypothetical protein
+pub:SAR11_0137	CDS	144244..144906	dhlB; (S)-2-haloacid dehalogenase
+pub:SAR11_0138	CDS	complement(144899..145258)	Transcriptional regulator
+pub:SAR11_0139	CDS	145353..145589	putative glutamate synthetas
+pub:SAR11_0140	CDS	145619..145999	DoxD-like family protein
+pub:SAR11_0141	CDS	146096..147634	Ferredoxin-dependent glutamate synthase peptide
+pub:SAR11_0142	CDS	147644..148483	pirin
+pub:SAR11_0143	CDS	148483..149457	qor; Quinone oxidoreductase
+pub:SAR11_0144	CDS	complement(149454..149858)	conserved hypothetical protein
+pub:SAR11_0145	CDS	149911..150774	ubiA; 4-hydroxybenzoate octaprenyltransferase
+pub:SAR11_0147	CDS	150774..152513	ABC transporter ATP-binding protein
+pub:SAR11_0148	CDS	152513..153775	kdtA; 3-deoxy-D-manno-octulosonic-acid transferase
+pub:SAR11_0149	CDS	153756..154700	lpxK; tetraacyldisaccharide 4'-kinase
+pub:SAR11_0151	CDS	154687..155547	htrB; lipid A biosynthesis lauroyl acyltransferase
+pub:SAR11_0152	CDS	complement(155552..155740)	Unknown protein
+pub:SAR11_0153	CDS	155762..157027	purD; Phosphoribosylamine--glycine ligase
+pub:SAR11_0154	CDS	157024..157590	N6-adenine-specific methylase
+pub:SAR11_0155	CDS	complement(157582..158724)	pgi; probable glucose-6-phosphate isomerase
+pub:SAR11_0156	CDS	complement(158728..159066)	Unknown protein
+pub:SAR11_0157	CDS	complement(159167..159667)	lspA; Lipoprotein signal peptidase
+pub:SAR11_0158	CDS	complement(159680..162397)	ileS; Isoleucyl-tRNA synthetase
+pub:SAR11_0159	CDS	complement(162399..163316)	ribF; Riboflavin biosynthesis protein
+pub:SAR11_0160	CDS	complement(163320..164138)	haloacid dehalogenase-like hydrolase
+pub:SAR11_0161	CDS	164262..164552	groES; 10 kDa chaperonin
+pub:SAR11_0162	CDS	164576..166240	groEL; 60 kDa chaperonin
+pub:SAR11_0163	CDS	166322..166435	Unknown protein
+pub:SAR11_0164	CDS	complement(166432..168180)	rlhE; probable ATP-dependent RNA helicase
+pub:SAR11_0165	CDS	168376..170202	typA; GTP-binding protein
+pub:SAR11_0166	CDS	complement(170199..170846)	membrane protein
+pub:SAR11_0167	CDS	170900..171580	Unknown protein
+pub:SAR11_0168	CDS	complement(171583..172554)	amine oxidase
+pub:SAR11_0169	CDS	complement(172551..173870)	pmbA; protein for maturation of antibiotic MccB17
+pub:SAR11_0170	CDS	complement(173876..175288)	tldD; protein that suppresses inhibitory activity of CsrA
+pub:SAR11_0171	CDS	175399..175761	possible Rhodanese-related sulfurtransferase
+pub:SAR11_0172	CDS	175765..176112	Unknown protein
+pub:SAR11_0173	CDS	176158..176700	possible 2-hydroxy-6-oxo-2,4-heptadienoate hydrolase
+pub:SAR11_0174	CDS	complement(176702..177877)	Unknown protein
+pub:SAR11_0175	CDS	complement(177954..178838)	dapA-like protein
+pub:SAR11_0176	CDS	178883..179818	gmdA; GDP-mannose 4,6-dehydratase
+pub:SAR11_0177	CDS	179815..180753	Glycosyltransferase family 9 (heptosyltransferase)
+pub:SAR11_0178	CDS	complement(180750..181256)	Heat shock protein
+pub:SAR11_0180	CDS	181274..183349	ptrB; oligopeptidase B
+pub:SAR11_0181	CDS	183448..183894	ibpA; heat shock protein a
+pub:SAR11_0182	CDS	complement(183941..184246)	Unknown protein
+pub:SAR11_0183	CDS	184378..185688	Xanthine/uracil/vitamin C permease family protein
+pub:SAR11_0184	CDS	complement(185722..186258)	probable phosphoribosyltransferase
+pub:SAR11_0185	CDS	186287..186583	conserved hypothetical protein
+pub:SAR11_0186	CDS	complement(186570..187142)	tag; DNA-3-methyladenine glycosylase I
+pub:SAR11_0187	CDS	complement(187198..188082)	drug/metabolite transporter (dmt superfamily)
+pub:SAR11_0188	CDS	188118..188561	msrB; Peptide methionine sulfoxide reductase
+pub:SAR11_0189	CDS	188563..189375	sseA; probable thiosulfate sulfurtransferase
+pub:SAR11_0190	CDS	189379..190248	yhil; HlyD family-related protein
+pub:SAR11_0191	CDS	190248..193370	AcrB/AcrD/AcrF family protein (Acriflavin resistance)
+pub:SAR11_0192	CDS	complement(193367..193966)	soluble lytic murein transglycosylase
+pub:SAR11_1720	CDS	complement(193953..194342)	unknown membrane protein
+pub:SAR11_0193	CDS	194401..195117	gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+pub:SAR11_0194	CDS	complement(195106..195795)	nucleotidyltransferase family protein
+pub:SAR11_0195	CDS	complement(195792..196757)	Phosphotransferase enzyme family protein
+pub:SAR11_0196	CDS	complement(196761..197219)	possible cell division control protein 6
+pub:SAR11_0197	CDS	complement(197203..198489)	ahcY; Adenosylhomocysteinase
+pub:SAR11_0198	CDS	complement(198533..200071)	chvG; two-component sensor histidine kinase
+pub:SAR11_0199	CDS	complement(200071..200778)	chvI; two-component system response regulator
+pub:SAR11_0200	CDS	complement(200829..203603)	polA; DNA polymerase I
+pub:SAR11_0201	CDS	203654..204583	YadG-like ABC transporter protein
+pub:SAR11_0202	CDS	204616..205167	probable biotin synthase
+pub:SAR11_0203	CDS	complement(205160..205723)	Response regulator consisting of a CheY-like receiver domain and a Fis-type HTH domain
+pub:SAR11_0204	CDS	205872..207050	speC; Lysine/ornithine decarboxylase
+pub:SAR11_0205	CDS	207050..208093	dys2; Deoxyhypusine synthase-like protein
+pub:SAR11_0206	CDS	208096..208971	speB1; arginase
+pub:SAR11_0207	CDS	complement(208968..209522)	yhhQ; Uncharacterized ACR
+pub:SAR11_0208	CDS	complement(209522..209845)	rpmB; 50S ribosomal protein L28
+pub:SAR11_0209	CDS	complement(209899..210951)	pyrD; Dihydroorotate dehydrogenase
+pub:SAR11_0210	CDS	complement(210951..212528)	lysS; lysine-tRNA ligase
+pub:SAR11_0211	CDS	212604..214049	trkH; potassium uptake protein
+pub:SAR11_0213	CDS	214052..215428	ampG; muropeptide permease
+pub:SAR11_0214	CDS	215418..216164	multi-domain protein
+pub:SAR11_0215	CDS	complement(216161..217057)	tyrA; prephenate dehydrogenase
+pub:SAR11_0216	CDS	complement(217060..218142)	hisC; Histidinol-phosphate aminotransferase
+pub:SAR11_0217	CDS	218334..219452	metX; Homoserine O-acetyltransferase
+pub:SAR11_0218	CDS	219455..220051	metW; methionine biosynthesis protein
+pub:SAR11_0219	CDS	220052..220771	gloB; Hydroxyacylglutathione hydrolase cytoplasmic
+pub:SAR11_0220	CDS	220837..221241	rplU; 50S ribosomal protein L21
+pub:SAR11_0221	CDS	221254..221508	rpmA; 50S ribosomal protein L27
+pub:SAR11_0222	CDS	221539..222522	cgtA; GTP-binding protein
+pub:SAR11_0223	CDS	222512..223618	proB; Glutamate 5-kinase
+pub:SAR11_0224	CDS	223620..224870	proA; Gamma-glutamyl phosphate reductase
+pub:SAR11_0225	CDS	224851..225393	ybeN; probable nicotinate-nucleotide adenylyltransferase
+pub:SAR11_0226	CDS	225411..225761	ybeB; iojap-related protein
+pub:SAR11_0227	CDS	225758..226897	ctpA; tail-specific proteinase
+pub:SAR11_0228	CDS	226898..227374	nudH; probable (di)nucleoside polyphosphate hydrolase
+pub:SAR11_0229	CDS	complement(227367..227759)	atpC; ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit)
+pub:SAR11_0230	CDS	complement(227759..229177)	atpD; F1-ATP Synthase Beta Chain
+pub:SAR11_0231	CDS	complement(229180..230055)	atpG; H+-transporting two-sector ATPase (F0F1-type ATP synthase) gamma chain
+pub:SAR11_0232	CDS	complement(230059..231594)	atpA; H+-transporting two-sector ATPase (F0F1-type ATP synthase) alpha chain
+pub:SAR11_0233	CDS	complement(231595..232152)	atpH; H+-transporting two-sector ATPase (F0F1-type ATP synthase) delta chain
+pub:SAR11_0234	CDS	complement(232263..234218)	priA; probable primosomal protein N
+pub:SAR11_0235	CDS	complement(234241..235641)	pdhD; Dihydrolipoyl dehydrogenase
+pub:SAR11_0236	CDS	complement(235642..236919)	sucB; 2-oxoglutarate dehydrogenase complex E2 component
+pub:SAR11_0237	CDS	complement(236922..239825)	sucA; 2-oxoglutarate dehydrogenase E1 component
+pub:SAR11_0238	CDS	complement(239860..240735)	sucD; Succinyl-CoA synthetase alpha chain (SCS-alpha)
+pub:SAR11_0239	CDS	complement(240737..241897)	sucC; Succinyl-CoA synthetase beta chain (SCS-beta)
+pub:SAR11_0240	CDS	complement(241897..242859)	mdh; Malate dehydrogenase
+pub:SAR11_0241	CDS	complement(242868..244361)	mmsA; Methylmalonate-semialdehyde dehydrogenase [acylating] (MMSDH)
+pub:SAR11_0242	CDS	complement(244386..245159)	sdhB; Succinate dehydrogenase iron-sulfur protein
+pub:SAR11_0243	CDS	complement(245159..246931)	sdhA; succinate dehydrogenase
+pub:SAR11_0244	CDS	complement(246931..247257)	possible membrane portion of succinate dehydrogenase
+pub:SAR11_1721	CDS	complement(247259..247642)	sdhC; Succinate dehydrogenase cytochrome b
+pub:SAR11_0245	CDS	complement(247635..248636)	asd; aspartate-semialdehyde dehydrogenase
+pub:SAR11_0246	CDS	complement(248657..249766)	GcvT-like Aminomethyltransferase protein
+pub:SAR11_0247	CDS	complement(249763..250539)	mhpC; hydrolase
+pub:SAR11_0248	CDS	complement(250536..252164)	fadD; Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II
+pub:SAR11_0249	CDS	complement(252166..253929)	mmgC; acyl-CoA dehydrogenase
+pub:SAR11_0250	CDS	complement(253956..255062)	leuB; 3-isopropylmalate dehydrogenase
+pub:SAR11_0251	CDS	complement(255049..255660)	leuD; 3-isopropylmalate dehydratase
+pub:SAR11_0252	CDS	complement(255662..257065)	leuC; 3-isopropylmalate dehydratase large subunit
+pub:SAR11_0253	CDS	complement(257077..257571)	rplS; 50S ribosomal protein L19
+pub:SAR11_0254	CDS	complement(257588..258274)	trmD; tRNA (Guanine-N(1)-)-methyltransferase
+pub:SAR11_0255	CDS	complement(258283..258816)	rpsP; 30S ribosomal protein S16
+pub:SAR11_0256	CDS	complement(258831..260189)	ffh; signal recognition particle protein
+pub:SAR11_0257	CDS	260349..261173	dapF; Diaminopimelate epimerase (DAP epimerase)
+pub:SAR11_0258	CDS	261173..262090	ftsY; cell division particle
+pub:SAR11_0259	CDS	complement(262083..262646)	Unknown protein
+pub:SAR11_0260	CDS	complement(262705..263598)	Transporter
+pub:SAR11_0262	CDS	complement(263611..263790)	possible transmembrane protein
+pub:SAR11_0263	CDS	complement(263780..265117)	amidase
+pub:SAR11_0264	CDS	complement(265128..266489)	mannitol transporter
+pub:SAR11_0265	CDS	complement(266479..267063)	mannitol transporter
+pub:SAR11_0266	CDS	complement(267155..268312)	TRAP dicarboxylate transporter - DctP subunit (mannitol/chloroaromatic compounds)
+pub:SAR11_0267	CDS	complement(268433..269506)	msmX; ABC sugar transporter
+pub:SAR11_0268	CDS	complement(269499..270578)	msmX2; ABC sugar transporter
+pub:SAR11_0269	CDS	complement(270578..271426)	ycjP; putative ABC transport protein
+pub:SAR11_0270	CDS	complement(271429..272289)	Binding-protein-dependent transport systems inner membrane component
+pub:SAR11_0271	CDS	complement(272358..273893)	putative ABC transporter solute-binding protein
+pub:SAR11_0272	CDS	complement(273915..274772)	adhP; alcohol dehydrogenase (Zn containing) (adh-5)
+pub:SAR11_0273	CDS	275137..276219	stc; transcriptional regulator
+pub:SAR11_0274	CDS	complement(276222..277439)	major facilitator superfamily transporter
+pub:SAR11_0275	CDS	complement(277460..278413)	probable dehydrogenase
+pub:SAR11_0276	CDS	complement(278416..279711)	glcF; (S)-2-hydroxy-acid oxidase
+pub:SAR11_0277	CDS	complement(279711..280979)	glcE; (S)-2-hydroxy-acid oxidase
+pub:SAR11_0278	CDS	complement(280945..282441)	glcD; (S)-2-hydroxy-acid oxidase
+pub:SAR11_0279	CDS	complement(282447..283610)	aspC; probable aspartate transaminase
+pub:SAR11_0280	CDS	complement(283684..284835)	ildD; l-lactate dehydrogenase
+pub:SAR11_0281	CDS	complement(284844..285353)	Unknown protein
+pub:SAR11_0282	CDS	complement(285354..285734)	Uncharacterized protein involved in biosynthesis of c-type cytochromes
+pub:SAR11_0283	CDS	complement(285731..286252)	ccmG; Cytochrome C biogenesis protein ccmG
+pub:SAR11_0284	CDS	complement(286249..288126)	ccmF; Cytochrome c-type biogenesis protein
+pub:SAR11_0285	CDS	complement(288128..288547)	ccmE; Cytochrome c-type biogenesis protein
+pub:SAR11_0286	CDS	complement(288558..288785)	ccmD; Heme exporter protein D
+pub:SAR11_0287	CDS	complement(288782..289492)	ccmC; heme exporter protein
+pub:SAR11_0288	CDS	complement(289675..289995)	ccmB; conserved hypothetical protein
+pub:SAR11_0289	CDS	290074..290625	yciB; intracellular septation protein A
+pub:SAR11_0290	CDS	290618..290962	conserved hypothetical protein
+pub:SAR11_0291	CDS	complement(290968..291666)	ybhL; integral membrane protein
+pub:SAR11_0292	CDS	291790..292827	tas; probable aldo/keto reductase-family protein tas
+pub:SAR11_0293	CDS	292818..293324	conserved hypothetical protein
+pub:SAR11_0294	CDS	293329..294516	argG; Argininosuccinate synthase (Citrulline--aspartate ligase)
+pub:SAR11_0295	CDS	294521..295138	frnE; Predicted dithiol-disulfide isomerase involved in polyketide biosynthesis
+pub:SAR11_0296	CDS	295195..295653	possible transmembrane protein
+pub:SAR11_0297	CDS	295653..296033	Phosphate-starvation-inducible E
+pub:SAR11_0298	CDS	296040..297182	DNA photolyase-like protein
+pub:SAR11_0299	CDS	complement(297179..297400)	possible transmembrane protein
+pub:SAR11_0300	CDS	complement(297397..298116)	Glutamine amidotransferase class-I
+pub:SAR11_0301	CDS	complement(298160..298768)	marC; marC family protein
+pub:SAR11_0302	CDS	complement(298810..299223)	yqaA; putative transmembrane protein
+pub:SAR11_0303	CDS	complement(299342..300832)	deoxyribodipyrimidine photolyase-related protein
+pub:SAR11_0304	CDS	300899..301570	short chain dehydrogenase
+pub:SAR11_0305	CDS	301545..302636	yliI; glucose dehydrogenase (pyrroloquinoline-quinone) precursor
+pub:SAR11_0306	CDS	complement(302639..303691)	hypothetical protein SC5C7.08 SC5C7.08
+pub:SAR11_0307	CDS	complement(303706..304551)	folD; methylenetetrahydrofolate dehydrogenase
+pub:SAR11_1722	CDS	complement(304560..304850)	Family of unknown function YGGT
+pub:SAR11_0308	CDS	complement(304847..305932)	Mechanosensitive ion channel
+pub:SAR11_0309	CDS	complement(305935..306633)	hemD; Uroporphyrinogen III synthase HEM4
+pub:SAR11_0310	CDS	complement(306635..307558)	hemC; hydroxymethylbilane synthase
+pub:SAR11_0311	CDS	307618..308691	ygjD; O-sialoglycoprotein endopeptidase
+pub:SAR11_0312	CDS	308772..309617	potential Sulfotransferase domain
+pub:SAR11_0313	CDS	309643..310056	Uncharacterized conserved protein
+pub:SAR11_0314	CDS	310070..312115	acsA; acetyl-CoA synthase
+pub:SAR11_0315	CDS	complement(312112..312735)	potential esterase
+pub:SAR11_1723	CDS	312873..313133	Protein of unknown function (DUF997)
+pub:SAR11_0316	CDS	313133..314941	yjcG; Na+/solute symporter (Ssf family)
+pub:SAR11_1724	CDS	315020..315376	YGGT family
+pub:SAR11_0317	CDS	315405..316064	rpe; Ribulose-phosphate 3-epimerase
+pub:SAR11_0318	CDS	316069..317679	Conserved hypothetical protein
+pub:SAR11_0319	CDS	317679..319214	purH; Bifunctional purine biosynthesis protein
+pub:SAR11_0321	CDS	complement(319204..319548)	phhB; Putative pterin-4-alpha-carbinolamine dehydratase
+pub:SAR11_tRNA_r_28	tRNA	319571..319645	tRNA-Gly
+pub:SAR11_0322	CDS	319743..320384	Uncharacterized protein
+pub:SAR11_0323	CDS	complement(320387..321520)	ubiH; Putative ubiquinone biosynthesis monooxgenase COQ6
+pub:SAR11_0324	CDS	321546..323636	ftsK; cell division protein
+pub:SAR11_0325	CDS	323636..324190	Outer membrane lipoprotein carrier protein
+pub:SAR11_0326	CDS	complement(324191..324694)	putative acetyltransferase
+pub:SAR11_0327	CDS	complement(324691..325056)	Histidine triad (HIT) protein
+pub:SAR11_0328	CDS	complement(325056..325361)	hisE; phosphoribosyl-ATP diphosphatase with Escherichia coli pyrophosphohydrolase MazG domain
+pub:SAR11_0329	CDS	complement(325364..326119)	hisF; Imidazole glycerol phosphate synthase subunit of hisF
+pub:SAR11_0330	CDS	complement(326112..326831)	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+pub:SAR11_0331	CDS	complement(326834..327460)	hisH; Imidazole glycerol phosphate synthase subunit of hisH
+pub:SAR11_0332	CDS	complement(327466..328056)	hisB; imidazoleglycerol-phosphate dehydratase
+pub:SAR11_0333	CDS	328148..328663	hslV; ATP-dependent protease
+pub:SAR11_0334	CDS	328663..330030	hslU; ATP-dependent protease
+pub:SAR11_0335	CDS	complement(330020..330541)	probable Smr (Small MutS Related) protein
+pub:SAR11_0336	CDS	complement(330542..331135)	Putative translocase transmembrane protein with Tim44 Pfam domain
+pub:SAR11_0337	CDS	331194..331616	fxsA; Cytoplasmic membrane protein
+pub:SAR11_0338	CDS	331600..332022	secB; Bacterial protein export chaperone
+pub:SAR11_0339	CDS	complement(332015..332686)	dnaQ; DNA polymerase III
+pub:SAR11_0340	CDS	complement(332688..333257)	coaE; Dephospho-CoA kinase
+pub:SAR11_0341	CDS	complement(333254..334051)	aroE; shikimate 5-dehydrogenase
+pub:SAR11_0342	CDS	complement(334048..334635)	orfE; Maf-like protein
+pub:SAR11_0343	CDS	complement(334628..335452)	Conserved hypothetical protein
+pub:SAR11_0344	CDS	335797..336738	hemE; uroporphyrinogen decarboxylase
+pub:SAR11_0346	CDS	336739..337773	hemH; probable ferrochelatase
+pub:SAR11_0347	CDS	337766..338200	possible cytochrome functioning/assembly related protein
+pub:SAR11_0348	CDS	338267..339535	rho; transcription termination factor rho
+pub:SAR11_0349	CDS	339853..341526	Predicted O-linked N-acetylglucosamine transferase
+pub:SAR11_0350	CDS	341586..342917	trmE; tRNA modification GTPase
+pub:SAR11_0351	CDS	343083..344954	gidA; glucose inhibited division protein A
+pub:SAR11_0352	CDS	344954..345595	gidB; Glucose inhibited division protein
+pub:SAR11_0353	CDS	345604..346398	ParA family ATPase for plasmid partitioning and other plasmid related functions
+pub:SAR11_0354	CDS	346398..347246	parB; chromosome partitioning protein
+pub:SAR11_0355	CDS	complement(347236..348231)	holA; DNA-directed DNA polymerase III
+pub:SAR11_0356	CDS	complement(348228..348692)	conserved hypothetical protein
+pub:SAR11_0357	CDS	complement(348696..351230)	leuS; Leucyl-tRNA synthetase
+pub:SAR11_0358	CDS	complement(351261..351818)	hypothetical protein
+pub:SAR11_0359	CDS	352028..353017	putative porin
+pub:SAR11_0360	CDS	complement(353054..353596)	Thiamine monophosphate synthase
+pub:SAR11_0361	CDS	353591..354241	yggS; hypothetical protein
+pub:SAR11_0362	CDS	complement(354238..354726)	conserved hypothetical protein
+pub:SAR11_0363	CDS	354747..355328	Bipartite response regulator
+pub:SAR11_0364	CDS	complement(355334..356263)	frk; fructokinase
+pub:SAR11_0365	CDS	complement(356265..356918)	nth; probable endonuclease III
+pub:SAR11_0366	CDS	complement(356918..357694)	dapB; Dihydrodipicolinate reductase
+pub:SAR11_0367	CDS	complement(357731..358861)	Chaperone protein
+pub:SAR11_0368	CDS	complement(358894..360837)	dnaK; Chaperone protein
+pub:SAR11_0369	CDS	complement(360900..361352)	grpE; GrpE protein (HSP-70 cofactor)
+pub:SAR11_0370	CDS	361572..362174	HAM1-like protein
+pub:SAR11_0371	CDS	complement(362158..363309)	possible transmembrane receptor
+pub:SAR11_0372	CDS	363342..364205	possible methylase or methyltransferase
+pub:SAR11_0374	CDS	364195..364788	Putative phospholipid-binding domain
+pub:SAR11_0375	CDS	complement(364785..366854)	maeB; probable NADP-dependent malic enzyme
+pub:SAR11_0376	CDS	367124..368650	mviN; Virulence factor MVIN-like
+pub:SAR11_0377	CDS	368652..369653	trpS; Tryptophanyl-tRNA synthetase
+pub:SAR11_0378	CDS	369707..370249	NifU-like domain protein
+pub:SAR11_0379	CDS	370252..371367	bax; Bax protein (hydrolyses peptidoglycan)
+pub:SAR11_0380	CDS	complement(371364..372284)	cda1; polysaccharide deacetylase
+pub:SAR11_0381	CDS	372370..372756	hypothetical protein
+pub:SAR11_0382	CDS	372766..373176	fur; Ferric uptake regulation protein
+pub:SAR11_0383	CDS	373181..374521	miaB; tRNA-i(6)A37 modification enzyme
+pub:SAR11_0384	CDS	374524..375525	phoH; PhoH-like protein
+pub:SAR11_0385	CDS	375518..375979	Conserved hypothetical protein
+pub:SAR11_0386	CDS	375981..377525	lnt; apolipoprotein N-acyltransferase (copper homeostasis protein)
+pub:SAR11_0387	CDS	377518..378687	metK; methionine adenosyltransferase
+pub:SAR11_0388	CDS	378786..380339	nusA; transcription termination factor
+pub:SAR11_0389	CDS	380350..382554	infB; bacterial protein translation initiation factor 2 (IF-2)
+pub:SAR11_0390	CDS	382554..382922	rbfA; Ribosome-binding factor A
+pub:SAR11_0391	CDS	382936..383184	ribosomal protein S15
+pub:SAR11_0392	CDS	383206..385278	pnp; polyribonucleotide nucleotidyltransferase
+pub:SAR11_0393	CDS	385353..386048	Putative SAM-dependent methyltransferase
+pub:SAR11_0394	CDS	complement(386111..386503)	Novel protein with potential Cupin domain
+pub:SAR11_0395	CDS	complement(386597..387373)	fabI; enoyl-[acyl-carrier-protein] reductase (NADH2)
+pub:SAR11_0396	CDS	complement(387383..388594)	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase
+pub:SAR11_0397	CDS	complement(388594..389094)	fabA; 3-hydroxydecanoyl-(acyl-carrier-protein) dehydratase
+pub:SAR11_0398	CDS	389168..389596	Ferric uptake regulator (fur) family
+pub:SAR11_0399	CDS	389701..390117	rbr; Rubrerythrin
+pub:SAR11_0400	CDS	390175..391506	glpC; Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+pub:SAR11_0401	CDS	391509..392102	Conserved hypothetical protein
+pub:SAR11_0402	CDS	complement(392095..392544)	Conserved hypothetical protein
+pub:SAR11_0403	CDS	complement(392541..393296)	moeB; molybdopterin biosynthesis protein
+pub:SAR11_0404	CDS	complement(393293..393646)	dut; Deoxyuridine 5'-triphosphate nucleotidohydrolase
+pub:SAR11_0405	CDS	complement(393737..394942)	dfp; phosphopantothenoylcysteine decarboxylase
+pub:SAR11_0406	CDS	complement(394951..396318)	aarF; ubiquinone biosynthesis protein
+pub:SAR11_0407	CDS	complement(396519..397223)	ubiE; Ubiquinone/menaquinone biosynthesis methyltransferase
+pub:SAR11_0408	CDS	397259..398122	mutM; Formamidopyrimidine-DNA glycosylase
+pub:SAR11_0409	CDS	398173..398433	rpsT; ribosomal protein S20
+pub:SAR11_0410	CDS	398915..400249	dnaA; Chromosomal replication initiator protein
+pub:SAR11_0411	CDS	400461..401351	dnaN; DNA polymerase III
+pub:SAR11_0412	CDS	complement(401348..402049)	plsC; probable 1-acyl-sn-glycerol-3-phosphate acyltransferase
+pub:SAR11_0413	CDS	complement(402062..403276)	lysA; Diaminopimelate decarboxylase
+pub:SAR11_0414	CDS	complement(403276..403392)	Unknown protein
+pub:SAR11_0415	CDS	complement(403394..404782)	argH; Argininosuccinate lyase
+pub:SAR11_0416	CDS	404807..405322	tlpA; thiol:disulfide interchange protein
+pub:SAR11_1725	CDS	405365..405535	unknown
+pub:SAR11_0417	CDS	405618..406229	similarity to serine esterase
+pub:SAR11_0418	CDS	406281..406847	mcrA; 5-methylcytosine-specific restriction enzyme A
+pub:SAR11_0419	CDS	complement(406848..407381)	coq7; Coq7 family protein
+pub:SAR11_0420	CDS	complement(407365..407865)	dsbB; Disulfide bond formation protein
+pub:SAR11_0421	CDS	complement(407852..408448)	dedA; DedA family protein
+pub:SAR11_tRNA_f_0	tRNA	408517..408601	tRNA-Leu
+pub:SAR11_0422	CDS	408798..410315	faa1; Putative long-chain-fatty-acid--CoA ligase (Long-chain acyl-CoA synthetase)
+pub:SAR11_0423	CDS	complement(410672..411571)	carD; hypothetical protein
+pub:SAR11_0424	CDS	complement(411528..411854)	fdxA; ferredoxin
+pub:SAR11_0425	CDS	complement(411851..412276)	conserved hypothetical protein
+pub:SAR11_0426	CDS	complement(412276..414756)	suv3; ATP-dependent helicase
+pub:SAR11_0427	CDS	complement(414886..415407)	Thioesterase superfamily protein
+pub:SAR11_tRNA_r_27	tRNA	415434..415510	tRNA-Arg
+pub:SAR11_0428	CDS	415586..416773	thlA; Acetyl-CoA acetyltransferase
+pub:SAR11_0429	CDS	416904..419942	aceE; pyruvate dehydrogenase (lipoamide) e1 component
+pub:SAR11_0430	CDS	419944..421215	aceF; dihydrolipoamide S-acetyltransferase
+pub:SAR11_0431	CDS	421222..422109	ydeD; Transporter
+pub:SAR11_0432	CDS	complement(422106..422876)	bacA; bacitracin resistance protein (putative undecaprenol kinase)
+pub:SAR11_0433	CDS	423061..424500	gltD; glutamate synthase (NADPH) beta chain
+pub:SAR11_0434	CDS	424500..429005	gltB; glutamate synthase large subunit
+pub:SAR11_0435	CDS	429007..429882	nucleoside-diphosphate-sugar epimerases
+pub:SAR11_0436	CDS	complement(429853..430506)	alpha/beta hydrolase fold protein
+pub:SAR11_0437	CDS	430651..431805	capM; glycosyl transferase
+pub:SAR11_0438	CDS	431806..433722	thrS; Threonyl-tRNA synthetase
+pub:SAR11_0439	CDS	433723..434268	infC; translation initiation factor IF-3
+pub:SAR11_0440	CDS	434322..434528	rpmI; 50S ribosomal protein L35
+pub:SAR11_0441	CDS	434530..434886	rplT; 50S ribosomal protein L20
+pub:SAR11_0442	CDS	434930..435997	pheS; phenylalanyl-tRNA synthetase alpha chain
+pub:SAR11_0443	CDS	435994..438402	pheT; phenylalanine-tRNA ligase
+pub:SAR11_0444	CDS	438405..440213	lepA; GTP-Binding protein lepA
+pub:SAR11_tRNA_f_1	tRNA	440216..440305	tRNA-Ser
+pub:SAR11_0445	CDS	complement(440311..441081)	possible Methyltransferase FkbM
+pub:SAR11_0446	CDS	441234..443291	gyrB; DNA topoisomerase (ATP-hydrolyzing) chain B (DNA gyrase B)
+pub:SAR11_0447	CDS	443294..444574	regB; Sensor histidine kinase (two component sensor)
+pub:SAR11_0448	CDS	complement(444571..446379)	cobT; Cobalamin biosynthesis protein CobT
+pub:SAR11_0449	CDS	complement(446380..447354)	cobS; Cobalamin biosynthesis protein CobS
+pub:SAR11_0450	CDS	complement(447344..447871)	molecular chaperone
+pub:SAR11_0451	CDS	447870..448157	BolA-like protein
+pub:SAR11_0452	CDS	complement(448146..449252)	aroB; 3-dehydroquinate synthase
+pub:SAR11_0453	CDS	complement(449239..449751)	aroK; shikimate kinase
+pub:SAR11_0454	CDS	449810..449986	Unknown protein
+pub:SAR11_0455	CDS	450066..451721	hypothetical transmembrane protein
+pub:SAR11_0456	CDS	451748..452266	def; peptide deformylase
+pub:SAR11_0457	CDS	452267..453199	fmt; Methionyl-tRNA formyltransferase
+pub:SAR11_0458	CDS	453192..453932	truA; tRNA pseudouridine synthase A
+pub:SAR11_0459	CDS	complement(453922..454401)	set1; Nuclear protein SET
+pub:SAR11_0460	CDS	complement(454433..455362)	acuC; histone deacetylase family protein
+pub:SAR11_0461	CDS	complement(455363..455557)	Unknown protein
+pub:SAR11_0462	CDS	complement(455557..456711)	dapE; succinyl-diaminopimelate desuccinylase
+pub:SAR11_0463	CDS	complement(456712..457539)	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+pub:SAR11_0464	CDS	complement(457569..458240)	HAD-superfamily hydrolase
+pub:SAR11_0465	CDS	complement(458237..459103)	argB; Acetylglutamate kinase
+pub:SAR11_0466	CDS	complement(459104..460780)	yidC; 60 kDa inner membrane protein
+pub:SAR11_0467	CDS	complement(460780..461031)	Uncharacterized conserved protein
+pub:SAR11_0468	CDS	complement(461031..461375)	Bacterial ribonuclease P protein
+pub:SAR11_0469	CDS	461643..462362	DedA family protein
+pub:SAR11_tRNA_r_26	tRNA	462365..462438	tRNA-Thr
+pub:SAR11_0470	CDS	462540..462737	unknown protein
+pub:SAR11_0471	CDS	462737..462838	Unknown protein
+pub:SAR11_0472	CDS	462838..463395	dcd; Deoxycytidine triphosphate deaminase
+pub:SAR11_0473	CDS	463398..464651	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+pub:SAR11_0474	CDS	464651..465046	Unknown protein
+pub:SAR11_0475	CDS	465046..466332	hisD; Histidinol dehydrogenase
+pub:SAR11_0476	CDS	466335..466550	infA; translation initiation factor if-1
+pub:SAR11_tRNA_f_2	tRNA	466556..466631	tRNA-Phe
+pub:SAR11_0477	CDS	466720..466932	cspE; cold shock protein
+pub:SAR11_tRNA_f_3	tRNA	467168..467242	tRNA-His
+pub:SAR11_0478	CDS	467248..468645	hisS; Histidyl-tRNA synthetase
+pub:SAR11_0479	CDS	468623..469675	hisZ; histidine-tRNA ligase
+pub:SAR11_0480	CDS	469675..470364	hisG; ATP phosphoribosyltransferase
+pub:SAR11_0481	CDS	470546..471643	rmuC; DNA recombination protein
+pub:SAR11_0482	CDS	471726..472370	conserved hypothetical protein
+pub:SAR11_0483	CDS	472372..473799	sbcB; Exodeoxyribonuclease I
+pub:SAR11_0484	CDS	473875..474192	trxA; thioredoxin 1
+pub:SAR11_0485	CDS	complement(474189..475457)	folC; FolC bifunctional protein (Folylpolyglutamate synthase/Dihydrofolate synthase)
+pub:SAR11_0486	CDS	complement(475411..476340)	accD; Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+pub:SAR11_0487	CDS	complement(476337..477134)	trpA; Tryptophan synthase alpha chain
+pub:SAR11_0488	CDS	complement(477136..478368)	trpB; Tryptophan synthase beta chain 1
+pub:SAR11_0489	CDS	complement(478358..478987)	trpF; N-(5'-phosphoribosyl)anthranilate isomerase
+pub:SAR11_0490	CDS	complement(478984..479676)	pyrF; Orotidine 5'-phosphate decarboxylase
+pub:SAR11_0491	CDS	complement(479666..479956)	himD; Integration host factor beta-subunit (IHF-beta)
+pub:SAR11_0492	CDS	complement(479960..481690)	rpsA; 30S ribosomal protein S1
+pub:SAR11_0493	CDS	complement(481690..482343)	cmk; Cytidylate kinase
+pub:SAR11_0494	CDS	complement(482340..483527)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+pub:SAR11_0495	CDS	complement(483672..484448)	yhbG; probable sulfate/thiosulfate import ATP-binding protein cysA
+pub:SAR11_0496	CDS	complement(484450..485034)	unknown protein
+pub:SAR11_0497	CDS	complement(485035..486006)	gutQ; Arabinose 5-phosphate isomerase
+pub:SAR11_0498	CDS	complement(486007..486618)	rnd; ribonuclease D
+pub:SAR11_0499	CDS	486635..487603	probable NADH-ubiquinone oxireductase
+pub:SAR11_0500	CDS	complement(487775..488275)	Uncharacterized protein conserved in bacteria
+pub:SAR11_0501	CDS	488408..489211	YadH-like ABC-2-type transport protein
+pub:SAR11_0502	CDS	489215..490381	argD; Acetylornithine aminotransferase
+pub:SAR11_0503	CDS	490384..491313	argF; Ornithine carbamoyltransferase
+pub:SAR11_0504	CDS	complement(491305..491844)	cycM; cytochrome C
+pub:SAR11_0505	CDS	491948..492688	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+pub:SAR11_0506	CDS	492690..493520	pheA; prephenate dehydratase
+pub:SAR11_0507	CDS	493665..495338	dnaX; DNA-directed DNA polymerase gamma/tau subunit
+pub:SAR11_0508	CDS	495342..495659	ybaB; Uncharacterized BCR
+pub:SAR11_0509	CDS	495664..496275	recR; recR-like protein
+pub:SAR11_0510	CDS	complement(496262..498457)	glcB; malate synthase
+pub:SAR11_0511	CDS	498707..499813	accA; acetyl-CoA carboxylase
+pub:SAR11_0512	CDS	complement(499808..502372)	secA; preprotein translocase secA
+pub:SAR11_0513	CDS	502576..503739	argJ; ArgJ family
+pub:SAR11_0514	CDS	503781..504212	hypothetical protein
+pub:SAR11_0515	CDS	complement(504209..504931)	ubiG; probable 3-demethylubiquinone-9 3-O-methyltransferase RP622
+pub:SAR11_0516	CDS	504997..506208	lysC; Aspartate kinase
+pub:SAR11_0517	CDS	506212..507312	gcpE; peptidoglycan acetylation
+pub:SAR11_0518	CDS	507318..508391	prfA; protein release factor Class I (RF-1)
+pub:SAR11_0519	CDS	508393..509235	hemK; HemK
+pub:SAR11_0520	CDS	509250..509726	hypothetical protein
+pub:SAR11_0521	CDS	complement(509729..511027)	yebA; M23/M37 peptidase
+pub:SAR11_16S_rRNA	rRNA	511358..512831	16S ribosomal RNA
+pub:SAR11_tRNA_f_4	tRNA	512931..513007	tRNA-Ile
+pub:SAR11_tRNA_f_5	tRNA	513017..513092	tRNA-Ala
+pub:SAR11_23S_rRNA	rRNA	513101..515997	23S ribosomal RNA
+pub:SAR11_0523	CDS	516442..516975	glucose-6-phosphate isomerase-like protein
+pub:SAR11_0524	CDS	516956..517402	Unknown protein
+pub:SAR11_0525	CDS	517419..518273	NAD dependent epimerase/dehydratase family
+pub:SAR11_0526	CDS	complement(518270..519133)	NAD dependent epimerase/dehydratase family
+pub:SAR11_0527	CDS	complement(519133..520869)	acetolactate synthase II large chain
+pub:SAR11_0528	CDS	520922..521581	smtA; Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT) family
+pub:SAR11_0529	CDS	521587..522627	zinc-containing alcohol dehydrogenase
+pub:SAR11_0530	CDS	522650..523831	cyclopropane-fatty-acyl-phospholipid synthase (CMAS family)
+pub:SAR11_0531	CDS	523831..524610	FabG-like protein
+pub:SAR11_0532	CDS	complement(524613..525977)	FAD oxidase family
+pub:SAR11_0533	CDS	complement(526036..526809)	methyltransferase
+pub:SAR11_0534	CDS	526790..528139	aminotransferase
+pub:SAR11_0535	CDS	complement(528210..529664)	deoxynucleotidase
+pub:SAR11_0536	CDS	complement(529658..530587)	tktC; transketolase family
+pub:SAR11_0537	CDS	complement(530587..531378)	tktN; transketolase
+pub:SAR11_0538	CDS	531418..532356	UDP-glucose 4 epimerase
+pub:SAR11_0539	CDS	532349..533857	rfaE; cytidylyltransferase/carbohydrate (or pyrimidine) kinase
+pub:SAR11_0540	CDS	533858..534580	spsA; spsA-like glycosyl transferase
+pub:SAR11_0541	CDS	534588..535577	rfbB; dTDPglucose 4,6-dehydratase
+pub:SAR11_0542	CDS	complement(535581..537269)	unknown membrane protein
+pub:SAR11_0543	CDS	537246..537701	unknown membrane protein
+pub:SAR11_0544	CDS	537702..538163	unknown membrane protein
+pub:SAR11_0545	CDS	538166..538732	gmhA; phosphoheptose isomerase NMA0340
+pub:SAR11_0546	CDS	complement(538725..539216)	gmhB; D-glycero-D-manno-heptose 1,7 bisphophate phosphatase
+pub:SAR11_0547	CDS	complement(539250..540239)	D amino acid oxidase (DAO) family
+pub:SAR11_0548	CDS	complement(540307..541656)	unknown membrane protein
+pub:SAR11_0549	CDS	complement(541643..542854)	unknown membrane protein
+pub:SAR11_0550	CDS	complement(543013..544125)	rfaG; glycosyl transferase family 28
+pub:SAR11_0551	CDS	complement(544167..545240)	glycosyl transferase family
+pub:SAR11_0552	CDS	545259..546092	lgtF; spsA-like protein
+pub:SAR11_0553	CDS	546079..547206	DegT/DnrJ/EryC1/StrS aminotransferase
+pub:SAR11_0554	CDS	547210..548943	carbamoyltransferase
+pub:SAR11_0555	CDS	548924..549535	CMAS family
+pub:SAR11_0556	CDS	complement(549536..550669)	glycosyl transferase
+pub:SAR11_0557	CDS	550866..551843	glycosyl transferase family
+pub:SAR11_0558	CDS	551827..552528	Cyclopropane-fatty-acyl-phospholipid
+pub:SAR11_0559	CDS	complement(552525..553595)	rfaK; 1,2-N-acetylglucosaminetransferase
+pub:SAR11_0560	CDS	553607..554311	PCMT - protein-L-isoaspartate(D-aspartate) O-methyltransferase
+pub:SAR11_0561	CDS	554312..555052	oxidoreductase family
+pub:SAR11_0563	CDS	complement(555224..555991)	wbyL; glycosyl transferase
+pub:SAR11_1726	CDS	complement(555992..556138)	unknown protein
+pub:SAR11_0564	CDS	complement(556146..556334)	putative reductase
+pub:SAR11_0565	CDS	556386..556751	hypothetical protein
+pub:SAR11_0566	CDS	556732..558045	O-Antigen Polymerase
+pub:SAR11_0567	CDS	complement(558028..559029)	unknown protein
+pub:SAR11_0568	CDS	559270..560484	D-amino acid oxidoreductase family
+pub:SAR11_0569	CDS	560488..561444	galE; UDPglucose 4-epimerase
+pub:SAR11_0570	CDS	561627..562670	gmd; GDPmannose 4,6-dehydratase
+pub:SAR11_0571	CDS	562663..563601	wcaG; GDP-fucose synthetase chain A
+pub:SAR11_0572	CDS	563601..564479	rfaD; ADP-L-glycero-D-mannoheptose-6-epimerase
+pub:SAR11_5S_rRNA	rRNA	564530..564648	5S ribosomal RNA
+pub:SAR11_0573	CDS	564660..564785	rpmJ; ribosomal protein L36
+pub:SAR11_0574	CDS	564911..565999	pntA; Alanine dehydrogenase/PNT
+pub:SAR11_0575	CDS	566004..566312	pntAB; NAD(P) transhydrogenase subunit alpha part 2
+pub:SAR11_0576	CDS	566315..567709	pntB; NAD(p) transhydrogenase subunit beta
+pub:SAR11_0577	CDS	567715..568413	tal; transaldolase
+pub:SAR11_tRNA_r_25	tRNA	568432..568508	tRNA-Met
+pub:SAR11_0578	CDS	complement(568515..568709)	rpsU; 30S ribosomal protein S21
+pub:SAR11_0579	CDS	complement(568765..569328)	hypothetical protein
+pub:SAR11_0580	CDS	complement(569353..569583)	rpmE; probable 50S ribosomal protein L31
+pub:SAR11_0581	CDS	complement(569619..570359)	suhB; extragenic suppressor protein suhB
+pub:SAR11_0582	CDS	complement(570365..570925)	efp; Elongation factor P (EF-P)
+pub:SAR11_0583	CDS	complement(570922..571545)	thiE; thiamine-phosphate pyrophosphorylase
+pub:SAR11_0584	CDS	complement(571532..572542)	fbaB; fructose-bisphosphate aldolase
+pub:SAR11_0585	CDS	complement(572544..573722)	pgk; phosphoglycerate kinase
+pub:SAR11_0586	CDS	complement(573722..574729)	gap; glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+pub:SAR11_0587	CDS	complement(574732..576690)	tktB; Transketolase
+pub:SAR11_0588	CDS	576744..577067	yqgN; 5-formyltetrahydrofolate cyclo-ligase-like protein
+pub:SAR11_0589	CDS	577055..577501	hypothetical protein
+pub:SAR11_0590	CDS	577506..578054	5-formyltetrahydrofolate cyclo-ligase
+pub:SAR11_0591	CDS	578051..578857	Metallo-phosphoesterase:Conserved hypothetical protein
+pub:SAR11_0592	CDS	578863..579588	protein with conserved domain of unknown function DUF28
+pub:SAR11_0593	CDS	579588..580082	ruvC; crossover junction endodeoxyribonuclease
+pub:SAR11_0594	CDS	580136..580810	tolQ; inner membrane protein TolQ
+pub:SAR11_0595	CDS	580812..581228	tolR; tolR protein
+pub:SAR11_0596	CDS	581234..582043	tolA; TolA protein
+pub:SAR11_0597	CDS	582046..583386	tolB; tolB protein
+pub:SAR11_0598	CDS	583474..583953	ompA; OmpA family
+pub:SAR11_0599	CDS	584040..585014	hypothetical protein
+pub:SAR11_0600	CDS	585136..586029	mesJ; cell cycle protein mesj
+pub:SAR11_0601	CDS	586081..587967	ftsH; metalloprotease FtsH
+pub:SAR11_0602	CDS	587974..589026	folP; dihydropteroate synthase-like protein
+pub:SAR11_0603	CDS	589026..590357	mrsA; phosphoglucomutase/phosphomannomutase family protein MrsA
+pub:SAR11_0604	CDS	590359..591171	thiD; phosphomethylpyrimidine kinase
+pub:SAR11_0605	CDS	591171..592463	adsS; adenylosuccinate synthase
+pub:SAR11_0606	CDS	complement(592460..593341)	rpoH; RNA polymerase sigma-32 factor (rpoH) RP303
+pub:SAR11_0607	CDS	complement(593396..594376)	sfhB; pseudouridylate synthase
+pub:SAR11_tRNA_f_6	tRNA	594400..594476	tRNA-Arg
+pub:SAR11_0608	CDS	complement(594493..595425)	Sua5/YciO/YrdC family protein
+pub:SAR11_0609	CDS	595446..595691	Exonuclease VII small subunit
+pub:SAR11_0610	CDS	595774..596553	ispA; geranyltranstransferase
+pub:SAR11_0611	CDS	596553..598466	dxs; 1-D-deoxyxylulose 5-phosphate synthase
+pub:SAR11_0612	CDS	complement(598475..599557)	aroC; chorismate synthase
+pub:SAR11_0613	CDS	599591..600217	pdxH; probable pyridoxamine-phosphate oxidase
+pub:SAR11_0614	CDS	complement(600214..601227)	ispB; octaprenyl-diphosphate synthase
+pub:SAR11_0615	CDS	601340..602146	sohB; Peptidase family S49
+pub:SAR11_0616	CDS	602136..603020	glyQ; Glycyl-tRNA synthetase alpha subunit
+pub:SAR11_0617	CDS	603020..605089	glyRS; Glycyl-tRNA synthetase beta subunit
+pub:SAR11_0618	CDS	605086..607749	ppdk; phosphate dikinase (PPDK)
+pub:SAR11_0619	CDS	complement(607746..608579)	nadC; Quinolinate phosphoribosyl transferase
+pub:SAR11_0620	CDS	complement(608585..609574)	nadA; Quinolinate synthetase A protein
+pub:SAR11_0621	CDS	complement(609626..610513)	GcvT-like Aminomethyltransferase protein
+pub:SAR11_0622	CDS	610557..611861	pyrC2; dihydroorotase
+pub:SAR11_0623	CDS	complement(611858..612190)	qacE; Small Multidrug Resistance protein
+pub:SAR11_0624	CDS	complement(612190..614085)	prpE; hypothetical protein
+pub:SAR11_0625	CDS	614302..615069	bacteriorhodopsin
+pub:SAR11_0626	CDS	615153..615473	fdxB; ferredoxin
+pub:SAR11_0627	CDS	615474..616490	trxB2; thioredoxin-disulfide reductase
+pub:SAR11_0628	CDS	616487..617113	yfcG; probable glutathione S-transferase
+pub:SAR11_0629	CDS	617122..617895	MOSC domain protein
+pub:SAR11_0630	CDS	complement(617929..618240)	dksA; DnaK suppressor protein
+pub:SAR11_0631	CDS	618356..618556	unknown protein
+pub:SAR11_0632	CDS	618580..619872	conserved hypothetical protein
+pub:SAR11_0633	CDS	619869..620741	Glycosyl transferase
+pub:SAR11_0634	CDS	complement(620734..622014)	umuC; umuC
+pub:SAR11_0635	CDS	complement(621992..622387)	mucA; hypothetical protein
+pub:SAR11_0636	CDS	622553..623122	conserved hypothetical protein
+pub:SAR11_0637	CDS	623123..623485	hypothetical protein
+pub:SAR11_0638	CDS	623595..624419	Phosphoribulokinase/Uridine kinase Family Protein
+pub:SAR11_0640	CDS	624419..625717	tolC; Outer membrane protein TolC
+pub:SAR11_0641	CDS	625897..626973	recA; recA protein
+pub:SAR11_0642	CDS	complement(627169..628284)	Trypsin-like serine protease
+pub:SAR11_0643	CDS	628540..631209	alaS; alanine-tRNA ligase
+pub:SAR11_0644	CDS	complement(631202..632416)	icdA; isocitrate dehydrogenase (NADP)
+pub:SAR11_0645	CDS	632494..633141	psd2; phosphatidylserine decarboxylase
+pub:SAR11_0646	CDS	633145..633948	pssA; phosphatidylserine synthase
+pub:SAR11_0647	CDS	633949..634860	Glycosyl transferase family 8
+pub:SAR11_0648	CDS	634861..635472	ftsJ; FtsJ-like methyltransferase
+pub:SAR11_0649	CDS	635510..636586	guaB; IMP dehydrogenase-like protein
+pub:SAR11_0650	CDS	636586..637023	TPR-like
+pub:SAR11_0651	CDS	637013..638578	guaA; GMP synthetase
+pub:SAR11_0652	CDS	638605..639024	gloA; lactoylglutathione lyase
+pub:SAR11_0653	CDS	639028..639801	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+pub:SAR11_0654	CDS	complement(639803..640417)	conserved hypothetical protein
+pub:SAR11_0655	CDS	complement(640515..641771)	braC; probable Leu/Ile/Val-binding protein
+pub:SAR11_0656	CDS	641907..642746	braD; Branched-chain amino acid transport protein
+pub:SAR11_0657	CDS	642749..643759	braE; Branched-chain amino acid transport protein
+pub:SAR11_0658	CDS	643756..644478	LivG-like protein
+pub:SAR11_0659	CDS	644468..645175	braG; probable high-affinity branched-chain amino acid transport ATP-binding protein
+pub:SAR11_0660	CDS	complement(645176..645961)	conserved hypothetical protein
+pub:SAR11_0661	CDS	complement(645966..646457)	conserved hypothetical protein
+pub:SAR11_0662	CDS	complement(646461..647258)	ybgL; LamB/YcsF family
+pub:SAR11_0663	CDS	647262..647948	kipI; Allophanate hydrolase subunit 1
+pub:SAR11_0664	CDS	647941..648894	ybgK; Allophanate hydrolase subunit 2
+pub:SAR11_0665	CDS	648881..649762	Integral membrane protein with domain of unknown function DUF6
+pub:SAR11_0666	CDS	649954..651060	gcvT; glycine cleavage system protein T2
+pub:SAR11_0667	CDS	651057..651437	gcvH; Glycine cleavage H-protein
+pub:SAR11_0668	CDS	651438..654296	gcvP; glycine cleavage system protein P2 gcvP
+pub:SAR11_0669	CDS	654309..655553	Flavin containing amine oxidoreductas
+pub:SAR11_0670	CDS	655546..656313	hypothetical protein
+pub:SAR11_0672	CDS	656313..657491	Cyclopropane-fatty-acyl-phospholipid synthase
+pub:SAR11_0673	CDS	657505..658053	hypothetical protein
+pub:SAR11_0674	CDS	complement(658050..658811)	short chain dehydrogenase
+pub:SAR11_0675	CDS	658833..659300	tspo; TspO/MBR family
+pub:SAR11_0676	CDS	659309..660412	hypothetical protein
+pub:SAR11_0677	CDS	660441..660977	hypothetical protein
+pub:SAR11_0678	CDS	complement(660987..662438)	conserved hypothetical Cytosolic Protein
+pub:SAR11_0679	CDS	complement(662447..665215)	fdhF; formate dehydrogenase Alpha subunit (fdhF-2)
+pub:SAR11_0680	CDS	complement(665215..666744)	fdsB; NAD-dependent formate dehydrogenase beta subunit
+pub:SAR11_0681	CDS	complement(666877..667719)	fdhD; formate dehydrogenase chain D
+pub:SAR11_0682	CDS	complement(667724..668200)	HPP family
+pub:SAR11_0683	CDS	complement(668203..668601)	NifU-like N terminal domain
+pub:SAR11_0684	CDS	668645..669265	mobA; hypothetical protein
+pub:SAR11_0685	CDS	669258..670505	moeA; molybdopterin biosynthesis protein moeA
+pub:SAR11_0686	CDS	670773..671459	Integral membrane protein DUF6
+pub:SAR11_0687	CDS	671465..672682	pepQ; creatinase
+pub:SAR11_0688	CDS	672686..673798	gatM; glycine amidinotransferase
+pub:SAR11_0689	CDS	673801..674853	threonine aldolase
+pub:SAR11_0690	CDS	complement(674846..675040)	unknown
+pub:SAR11_0691	CDS	complement(675167..676099)	hypothetical protein
+pub:SAR11_0692	CDS	complement(676379..676864)	yajQ; hypothetical protein
+pub:SAR11_0693	CDS	676886..677161	slyX; SlyX
+pub:SAR11_0694	CDS	677178..678359	HI0933-like protein
+pub:SAR11_0695	CDS	complement(678384..679706)	ycaD; transporter
+pub:SAR11_0696	CDS	complement(679765..680625)	salY; hypothetical protein
+pub:SAR11_0697	CDS	complement(680622..681551)	gshB; glutathione synthase
+pub:SAR11_0698	CDS	complement(681541..682836)	gsh1; Glutamate-cysteine ligase family 2(GCS2)
+pub:SAR11_0699	CDS	complement(682918..684399)	purF; amidophosphoribosyltransferase
+pub:SAR11_0700	CDS	complement(684353..684898)	cvpA; Colicin V production protein
+pub:SAR11_0701	CDS	complement(684906..687290)	acrB; probable integral membrane protein
+pub:SAR11_0702	CDS	complement(687312..688730)	dnaB; replicative DNA helicase (dnaB)
+pub:SAR11_0703	CDS	complement(688798..689256)	csn1; LSU ribosomal protein L9P
+pub:SAR11_0704	CDS	complement(689257..689535)	rpsR; ribosomal protein S18
+pub:SAR11_0705	CDS	complement(689538..689903)	rpsF; ribosomal protein S6
+pub:SAR11_0706	CDS	689990..690922	fabD; [acyl-carrier-protein] S-malonyltransferase
+pub:SAR11_0707	CDS	690915..691652	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+pub:SAR11_0708	CDS	691701..691940	acpP; Acyl carrier protein (ACP)
+pub:SAR11_0709	CDS	691948..692580	gmk; Guanylate kinase
+pub:SAR11_0710	CDS	complement(692569..693357)	ksgA; Dimethyladenosine transferase
+pub:SAR11_0711	CDS	complement(693358..694320)	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+pub:SAR11_0712	CDS	complement(694313..695230)	hypothetical SurA-like protein
+pub:SAR11_0713	CDS	complement(695237..697681)	ostA; organic solvent tolerance-like protein
+pub:SAR11_0714	CDS	complement(697671..698744)	Predicted permease YjgP/YjgQ family protein
+pub:SAR11_0715	CDS	complement(698741..699877)	Predicted permease YjgP/YjgQ family protein
+pub:SAR11_0716	CDS	699939..701396	pepA; leucyl aminopeptidase
+pub:SAR11_0717	CDS	701389..701799	ndk; Nucleoside diphosphate kinase
+pub:SAR11_0718	CDS	complement(701796..702374)	purN; phosphoribosylglycinamide formyltransferase
+pub:SAR11_0719	CDS	complement(702352..703380)	purM; probable phosphoribosylformylglycinamidine cyclo-ligase
+pub:SAR11_0720	CDS	703605..704471	possible membrane protein
+pub:SAR11_0721	CDS	704468..705130	probable ATPase involved in DNA replication initiation
+pub:SAR11_0722	CDS	705131..706915	aspS; asparaginyl-tRNA synthetase
+pub:SAR11_0723	CDS	complement(706918..707739)	nrdE; ribonucleotide reductase alpha subunit
+pub:SAR11_0724	CDS	707855..708214	NADH-ubiquinone oxidoreductase 17.2 kD subunit of complex I
+pub:SAR11_0725	CDS	708174..708581	conserved hypothetical protein
+pub:SAR11_0726	CDS	complement(708578..709915)	biotin carboxylase
+pub:SAR11_0727	CDS	complement(709915..710340)	accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+pub:SAR11_0728	CDS	complement(710327..710776)	aroQ; 3-dehydroquinate dehydratase
+pub:SAR11_0729	CDS	710793..711011	ThiS family
+pub:SAR11_0730	CDS	711014..711787	thiG; Thiazole biosynthesis protein
+pub:SAR11_0731	CDS	complement(711784..713643)	rne; ribonuclease E/G
+pub:SAR11_0732	CDS	713746..716079	mrcA; penicillin-binding protein 1A
+pub:SAR11_0733	CDS	716320..717174	prfB; bacterial peptide chain release factor 2 (RF-2)
+pub:SAR11_0734	CDS	717174..719366	hypothetical protein
+pub:SAR11_0735	CDS	complement(719363..720592)	tyrS; tyrosyl-tRNA synthetase
+pub:SAR11_0736	CDS	720637..721764	Predicted molecular chaperone distantly related to HSP70-fold metalloproteases
+pub:SAR11_0737	CDS	complement(721767..722423)	alpha/beta hydrolase
+pub:SAR11_0738	CDS	722560..722985	sufA; Transcriptional regulator
+pub:SAR11_0739	CDS	722987..724429	sufB; FeS assembly protein SufB
+pub:SAR11_0740	CDS	724429..725163	sufC; FeS assembly ATPase SufC
+pub:SAR11_0741	CDS	725164..726408	sufD; FeS assembly protein sufD
+pub:SAR11_0742	CDS	726405..727622	csdB; selenocysteine lyase chain A
+pub:SAR11_0743	CDS	727622..728092	sufE; Putative nifU-like protein
+pub:SAR11_0744	CDS	728096..728392	paaD; possible phenylacetic acid degradation protein
+pub:SAR11_0745	CDS	728392..728724	hesB; hesB protein
+pub:SAR11_0746	CDS	728783..728953	Unknown protein
+pub:SAR11_0747	CDS	complement(728960..730366)	glnA; Glutamine synthetase I
+pub:SAR11_0748	CDS	730513..730992	YbaK/prolyl-tRNA synthetase associated region
+pub:SAR11_0749	CDS	730989..731876	ABC transporter
+pub:SAR11_0750	CDS	complement(731869..732777)	mmuM; Homocysteine S-methyltransferase
+pub:SAR11_0751	CDS	complement(732939..733529)	conserved hypothetical protein
+pub:SAR11_0752	CDS	complement(733559..734305)	possible transmembrane protein
+pub:SAR11_0754	CDS	734324..734824	moaB; molybdopterin biosynthesis protein
+pub:SAR11_0755	CDS	complement(734825..735070)	hypothetical protein
+pub:SAR11_0756	CDS	735368..736918	aldA; Acetaldehyde dehydrogenase II (ACDH-II)
+pub:SAR11_0757	CDS	736964..737311	conserved hypothetical protein
+pub:SAR11_0758	CDS	complement(737308..737877)	yedZ; probable membrane protein
+pub:SAR11_0759	CDS	complement(737902..738807)	yedY; Oxidoreductase
+pub:SAR11_0760	CDS	complement(738804..739247)	moaE; molybdopterin biosynthesis protein E chain
+pub:SAR11_0761	CDS	complement(739247..739516)	moaD; probable molybdopterin biosynthesis protein moaD
+pub:SAR11_0762	CDS	complement(739519..740064)	moaC; molybdopterin cofactor synthesis protein
+pub:SAR11_0763	CDS	complement(740065..741057)	moaA; molybdenum cofactor biosynthesis protein A
+pub:SAR11_0764	CDS	741093..741926	possible deoxygenase
+pub:SAR11_0765	CDS	complement(741963..742289)	Unknown protein
+pub:SAR11_0766	CDS	742383..743825	gabD; succinate-semialdehyde dehydrogenase (NAD(P))
+pub:SAR11_0767	CDS	743871..744617	short chain dehydrogenase
+pub:SAR11_0768	CDS	744621..745523	yajF; probable NAGC-like transcription regulator
+pub:SAR11_0769	CDS	745724..746983	probable binding protein component of ABC sugar transporter
+pub:SAR11_0770	CDS	747047..747919	ABC-type sugar transport system
+pub:SAR11_0771	CDS	747909..748811	ABC-type sugar transport system
+pub:SAR11_0772	CDS	748813..749913	malK; sugar ABC transporter
+pub:SAR11_0773	CDS	749914..750675	short chain dehydrogenase
+pub:SAR11_0774	CDS	750690..752465	edd; 6-phosphogluconate dehydratase
+pub:SAR11_0775	CDS	752477..753220	ucpA; oxidoreductase
+pub:SAR11_0776	CDS	753242..754084	hpcE; 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase/5-carboxymethyl-2-oxo-hex-3-ene-1,7-dioate decarboxy
+pub:SAR11_0777	CDS	754086..754967	gnl; gluconolactonase
+pub:SAR11_0778	CDS	755023..755892	gnd; 6-phosphogluconate dehydrogenase
+pub:SAR11_0779	CDS	755889..756734	hpaG; fumarylacetoacetate hydrolase family protein
+pub:SAR11_0780	CDS	756745..759432	ppc; phosphoenolpyruvate carboxylase
+pub:SAR11_0781	CDS	759434..760141	ccdA; probable holocytochrome-c synthase ccdA
+pub:SAR11_0782	CDS	760165..760746	azoR; [acyl-carrier-protein] phosphodiesterase
+pub:SAR11_0783	CDS	760746..761552	inositol monophosphatase family
+pub:SAR11_0784	CDS	761553..762113	conserved hypothetical protein
+pub:SAR11_0785	CDS	762333..762677	conserved hypothetical protein
+pub:SAR11_0786	CDS	complement(763013..763345)	qacH; multidrug resistance protein
+pub:SAR11_0787	CDS	complement(763345..763680)	qacH2; Quaternary ammonium compound-resistance protein qacH
+pub:SAR11_0788	CDS	complement(763730..763939)	possible transmembrane protein
+pub:SAR11_0789	CDS	complement(763955..764959)	cysK; cysteine synthase
+pub:SAR11_0790	CDS	complement(764959..765537)	cysE; serine O-acetyltransferase
+pub:SAR11_0791	CDS	765612..766022	probable ring-cleaving dioxygenase
+pub:SAR11_0792	CDS	766031..766501	Unknown protein
+pub:SAR11_0793	CDS	766600..767475	Unknown protein
+pub:SAR11_0794	CDS	767594..768199	Unknown protein
+pub:SAR11_0795	CDS	768206..769159	Unknown protein
+pub:SAR11_0796	CDS	769202..770683	aldH; aldehyde dehydrogenase (NAD)
+pub:SAR11_0797	CDS	770785..771747	proX; hypothetical protein
+pub:SAR11_0798	CDS	771830..772879	proV; glycine betaine/L-proline transport ATP-binding protein
+pub:SAR11_0799	CDS	772872..774377	proW; Glycine betaine/L-proline transport system permease protein
+pub:SAR11_0800	CDS	774387..774992	yggA; Lysine efflux pump
+pub:SAR11_0801	CDS	complement(774994..776280)	hisD2; histidinol dehydrogenase 2
+pub:SAR11_0802	CDS	complement(776343..777149)	pta; Phosphate acetyltransferase (Phosphotransacetylase)
+pub:SAR11_0803	CDS	777304..778446	ephX1; epoxide hydrolase
+pub:SAR11_0804	CDS	complement(778447..779457)	comC; Malate/L-sulfolactate dehydrogenase multifunction enzyme
+pub:SAR11_0805	CDS	complement(779476..781389)	tauC; probable taurine uptake ABC transporter permease protein
+pub:SAR11_0806	CDS	complement(781391..782188)	tauB; probable taurin uptake ABC transporter ATP-binding protein
+pub:SAR11_0807	CDS	complement(782276..783217)	tauA; taurine transport system periplasmic protein
+pub:SAR11_0808	CDS	783435..784781	bioA; Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+pub:SAR11_0809	CDS	784825..785937	ald; alanine dehydrogenase
+pub:SAR11_0810	CDS	785951..786466	Unknown protein
+pub:SAR11_0811	CDS	786575..788023	sodium:solute transporter family
+pub:SAR11_0812	CDS	788073..789008	yadG; ATP-binding component of ABC transporter
+pub:SAR11_0813	CDS	788998..789765	yadH; permease
+pub:SAR11_0815	CDS	complement(789794..790177)	cynT; Carbonic anhydrase
+pub:SAR11_0816	CDS	790317..791450	membrane-associated zinc metalloprotease
+pub:SAR11_0817	CDS	791591..791866	hupA; non-specific DNA-binding protein HBsu
+pub:SAR11_0818	CDS	792013..793314	amtB; ammonium transporter
+pub:SAR11_0819	CDS	complement(793367..793834)	bcp; bacterioferritin comigratory protein
+pub:SAR11_0820	CDS	complement(793837..794856)	wbbA; putative rhamnosyltransferase
+pub:SAR11_0821	CDS	794910..795293	sulfide dehydrogenase
+pub:SAR11_0822	CDS	complement(795290..795874)	dsbA; 2-hydroxychromene-2-carboxylate isomerase family protein (HCCA Isomerase)
+pub:SAR11_0823	CDS	complement(795867..796340)	Putative integral membrane protein
+pub:SAR11_0824	CDS	796378..796932	recX; Regulatory protein
+pub:SAR11_0825	CDS	complement(796924..797070)	possible transmembrane protein
+pub:SAR11_0826	CDS	complement(797070..797840)	cysQ; cysQ protein
+pub:SAR11_0827	CDS	complement(797837..798043)	Unknown protein
+pub:SAR11_0828	CDS	798049..799164	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+pub:SAR11_0829	CDS	799422..800525	metC; cystathionine beta-lyase
+pub:SAR11_0830	CDS	800522..801742	probable MFS transporter (Major Facilitator Superfamily)
+pub:SAR11_0831	CDS	801746..802909	pabB; para-aminobenzoate synthase component I
+pub:SAR11_0832	CDS	802906..803463	trpG; Anthranilate synthase component II (Glutamine amido-transferase)
+pub:SAR11_0833	CDS	803522..804196	Aminotransferase
+pub:SAR11_0834	CDS	804165..804599	apaG; Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+pub:SAR11_0835	CDS	804704..805498	aprM; adenylylsulfate reductase membrane anchor
+pub:SAR11_0836	CDS	805519..805989	aprB; adenylyl-sulfate reductase chain B
+pub:SAR11_0837	CDS	805989..807848	aprA; adenylyl-sulfate reductase chain A
+pub:SAR11_0838	CDS	807867..808217	Unknown protein
+pub:SAR11_0839	CDS	808285..808419	possible transmembrane protein
+pub:SAR11_0840	CDS	808448..809530	putative transmembrane permease
+pub:SAR11_0841	CDS	complement(809527..810600)	yeiH; putative integral membrane protein
+pub:SAR11_0842	CDS	complement(810619..811785)	garD; probable galactarate dehydratase
+pub:SAR11_0843	CDS	complement(811791..812075)	D-galactarate dehydratase/Altronate
+pub:SAR11_0844	CDS	812187..813971	Thiamine pyrophosphate-requiring enzyme
+pub:SAR11_0845	CDS	814011..815612	smo; steroid monooxygenase
+pub:SAR11_0846	CDS	815628..816377	short chain dehydrogenase
+pub:SAR11_0847	CDS	816382..817686	Glycine/D-amino acid oxidases deaminating
+pub:SAR11_0848	CDS	complement(817687..820215)	Predicted ABC-type transport system protein
+pub:SAR11_0850	CDS	complement(820208..820873)	probable ATP-binding component of ABC transporter
+pub:SAR11_0851	CDS	820872..821486	arylesterase
+pub:SAR11_0852	CDS	821501..822793	Predicted homoserine dehydrogenase
+pub:SAR11_0853	CDS	complement(822790..823941)	X-Pro dipeptidase
+pub:SAR11_0854	CDS	complement(824061..824837)	Fumarylacetoacetate (FAA) hydrolase family protein
+pub:SAR11_0855	CDS	complement(824837..825637)	peptidase
+pub:SAR11_0856	CDS	complement(825622..826380)	short chain dehydrogenase
+pub:SAR11_0857	CDS	complement(826381..826971)	Integral membrane protein TerC family
+pub:SAR11_0858	CDS	complement(826971..828566)	betA; alcohol dehydrogenase (acceptor)
+pub:SAR11_0859	CDS	828655..829401	fbp; peptidylprolyl isomerase
+pub:SAR11_0860	CDS	complement(829409..829825)	probable transcription regulator
+pub:SAR11_0861	CDS	829950..830726	short chain dehydrogenase
+pub:SAR11_0862	CDS	830726..832246	probable aldehyde dehydrogenase
+pub:SAR11_0863	CDS	832239..833165	MmsB-like protein
+pub:SAR11_0864	CDS	833343..834434	hypothetical protein
+pub:SAR11_0865	CDS	834637..835182	TRAP-type mannitol/chloroaromatic compound transport system
+pub:SAR11_0866	CDS	835182..836507	mannitol transporter
+pub:SAR11_0867	CDS	complement(836512..837366)	yyaM; hypothetical transport protein yyaM
+pub:SAR11_0868	CDS	837474..838931	pucI; probable permease for cytosine/purines
+pub:SAR11_0869	CDS	838936..839682	short chain dehydrogenase
+pub:SAR11_0870	CDS	839935..840525	Unknown protein
+pub:SAR11_0871	CDS	complement(840528..840665)	possible transmembrane protein
+pub:SAR11_0872	CDS	840723..841148	ybgC; 4-hydroxybenzoyl-CoA thioesterase family protein
+pub:SAR11_0873	CDS	complement(841141..841815)	ung; uracil-DNA glycosylase
+pub:SAR11_0874	CDS	841818..842369	Phosphoglycerate mutase family
+pub:SAR11_0875	CDS	842388..842525	Unknown protein
+pub:SAR11_0876	CDS	complement(842603..842779)	possible transmembrane protein
+pub:SAR11_0877	CDS	complement(842772..843023)	Unknown Protein
+pub:SAR11_tRNA_f_7	tRNA	843125..843209	tRNA-Leu
+pub:SAR11_0879	CDS	843226..844659	tig; trigger factor
+pub:SAR11_0880	CDS	844691..845302	clpP; ATP-dependent Clp protease proteolytic subunit
+pub:SAR11_0881	CDS	845394..846662	clpX; ATP-dependent clp proteinase regulatory chain X
+pub:SAR11_0882	CDS	846722..849106	lon; ATP-dependent protease La
+pub:SAR11_tRNA_f_8	tRNA	849156..849231	tRNA-Val
+pub:SAR11_tRNA_f_9	tRNA	849245..849321	tRNA-Asp
+pub:SAR11_0883	CDS	849410..849778	nuoA; NADH Dehydrogenase I Chain A
+pub:SAR11_0884	CDS	849790..850311	nuoB; NADH Dehydrogenase I Chain B
+pub:SAR11_0885	CDS	850317..850925	nuoC; NADH Dehydrogenase I Chain C
+pub:SAR11_0886	CDS	850909..852084	nuoD; NADH Dehydrogenase I Chain D
+pub:SAR11_0887	CDS	852084..852692	nuoE; NADH Dehydrogenase I Chain E
+pub:SAR11_0888	CDS	852685..854016	nuoF; NADH Dehydrogenase I Chain F
+pub:SAR11_0889	CDS	854009..856048	nuoG; NADH Dehydrogenase I Chain G
+pub:SAR11_0890	CDS	856052..857050	nuoH; NADH Dehydrogenase I Chain H
+pub:SAR11_0891	CDS	857053..857538	nuoI; NADH Dehydrogenase I Chain I
+pub:SAR11_0892	CDS	857541..858173	nuoJ; NADH Dehydrogenase I Chain J
+pub:SAR11_0893	CDS	858166..858477	nuoK; NADH Dehydrogenase I Chain K
+pub:SAR11_0894	CDS	858479..860392	nuoL; NADH Dehydrogenase I Chain L
+pub:SAR11_0896	CDS	860392..861885	nuoM; NADH Dehydrogenase I Chain M
+pub:SAR11_0897	CDS	861885..863300	nuoN; NADH Dehydrogenase I Chain N
+pub:SAR11_0898	CDS	863300..863863	birA; biotin-protein ligase
+pub:SAR11_0899	CDS	863860..864606	yacB; Bvg accessory factor
+pub:SAR11_0900	CDS	864609..866264	metallo-beta-lactamase family protein
+pub:SAR11_0901	CDS	866265..866510	Conserved hypothetical protein
+pub:SAR11_0902	CDS	866512..867846	proS; proline-tRNA ligase
+pub:SAR11_0903	CDS	867843..869075	ycfU; ABC transporter
+pub:SAR11_0905	CDS	869068..869754	ycfV; ABC transporter ATP-binding protein
+pub:SAR11_0906	CDS	869738..873154	dnaE; DNA polymerase III alpha subunit
+pub:SAR11_0907	CDS	873284..874105	rpsB; probable 30S ribosomal protein S2
+pub:SAR11_0908	CDS	874107..874958	tsf; protein translation elongation factor Ts (EF-Ts)
+pub:SAR11_0909	CDS	874959..875510	rrf; Ribosome recycling factor
+pub:SAR11_0910	CDS	875507..876184	Putative undecaprenyl diphosphate synthase
+pub:SAR11_0911	CDS	876184..876846	cdsA; phosphatidate cytidylyltransferase
+pub:SAR11_0912	CDS	876848..878014	yaeM; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+pub:SAR11_0913	CDS	878022..880259	omp1; outer membrane protein omp1
+pub:SAR11_0914	CDS	880259..880783	ompH; Outer membrane protein (OmpH-like)
+pub:SAR11_0915	CDS	880790..881230	fabZ; (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+pub:SAR11_0916	CDS	881283..882263	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase RP009
+pub:SAR11_0917	CDS	882260..883042	lpxA; acyl-[acyl carrier protein]--UDP-N-acetylglucosamine O-acyltransferase
+pub:SAR11_0918	CDS	883044..883829	Protein of unknown function (DUF1009)
+pub:SAR11_0919	CDS	883826..884962	lpxB; lipid-A-disaccharide synthase (lpxB)
+pub:SAR11_0920	CDS	complement(884939..886339)	gltX; glutamyl-tRNA synthetase
+pub:SAR11_0921	CDS	complement(886362..887039)	lexA; repressor LexA
+pub:SAR11_0922	CDS	complement(887128..887919)	trpC; indole-3-glycerol phosphate synthase/anthranilate isomerase
+pub:SAR11_0923	CDS	complement(887912..888904)	trpD; anthranilate phosphoribosyltransferase
+pub:SAR11_0924	CDS	complement(888901..889476)	trpGD; anthranilate synthase component II
+pub:SAR11_0925	CDS	complement(889476..890930)	trpE; anthranilate synthase component I-like protein
+pub:SAR11_0926	CDS	complement(890930..892351)	hypothetical SurA-like protein
+pub:SAR11_0927	CDS	892423..893148	tpiA; triosephosphate isomerase (tim)
+pub:SAR11_0928	CDS	893154..893453	secG; Preprotein translocase SecG subunit
+pub:SAR11_0929	CDS	893557..895455	hypothetical outer membrane protein
+pub:SAR11_0930	CDS	complement(895457..895702)	possible transmembrane protein
+pub:SAR11_0931	CDS	895470..895697	putative transmembrane protein
+pub:SAR11_0932	CDS	895754..917707	hypothetical protein
+pub:SAR11_0933	CDS	917722..918435	acrA; AcrA-like protein
+pub:SAR11_0934	CDS	918432..919766	AcrB-like protein
+pub:SAR11_0935	CDS	919763..921865	Peptidase M50
+pub:SAR11_0936	CDS	921991..922563	Fimbrial protein pilin
+pub:SAR11_0937	CDS	922651..924267	pyrG; CTP synthase
+pub:SAR11_0938	CDS	924264..925088	kdsA; 2-dehydro-3-deoxy-phosphooctonate aldolase
+pub:SAR11_0939	CDS	925089..926345	eno; Enolase
+pub:SAR11_0940	CDS	926345..926647	divIC; Septum formation initiator
+pub:SAR11_0941	CDS	926637..927563	lipA; lipoic acid synthase
+pub:SAR11_0942	CDS	927563..928000	conserved hypothetical protein
+pub:SAR11_0943	CDS	complement(928018..928509)	cinA; competence/damage-inducible protein CinA
+pub:SAR11_0944	CDS	complement(928476..928979)	pgpA; phosphatidylglycerophosphatase A
+pub:SAR11_0945	CDS	complement(928972..930087)	ispD; IspD/ispF bifunctional enzyme
+pub:SAR11_0946	CDS	930121..931902	ntrY; nitrogen regulation protein ntrY
+pub:SAR11_0948	CDS	931902..933257	ntrX; nitrogen assimilation regulatory protein ntrX
+pub:SAR11_0949	CDS	933258..934649	trkA; potassium uptake protein trka
+pub:SAR11_0950	CDS	934654..936063	TrkH-like cation transport protein
+pub:SAR11_tRNA_f_10	tRNA	936095..936171	tRNA-Arg
+pub:SAR11_0953	CDS	936342..937382	yhdW; ABC transporter
+pub:SAR11_0954	CDS	937448..938593	yhdX; amino acid ABC transporter
+pub:SAR11_0955	CDS	938593..939873	yhdY; Similar to amino-acid ABC transporter permease protein yhdY
+pub:SAR11_0957	CDS	939877..940611	yhdZ; general L-amino acid transport ATP-binding protein
+pub:SAR11_0958	CDS	940786..941157	transcription regulator
+pub:SAR11_0959	CDS	941232..942389	unknown protein
+pub:SAR11_tRNA_r_24	tRNA	942409..942484	tRNA-Asn
+pub:SAR11_tRNA_r_23	tRNA	942537..942610	tRNA-Cys
+pub:SAR11_0960	CDS	942739..945366	valS; valine-tRNA ligase
+pub:SAR11_0961	CDS	945366..947084	ilvD; dihydroxy-acid dehydratase
+pub:SAR11_0962	CDS	947084..948286	manC; mannose-6-phosphate isomerase/mannose-1-phosphate guanylyl transferase
+pub:SAR11_0963	CDS	complement(948344..948565)	unknown protein
+pub:SAR11_0964	CDS	948678..949040	Ferric-uptake regulator
+pub:SAR11_0965	CDS	949040..949438	unknown protein
+pub:SAR11_0966	CDS	949453..950451	yiaK; hypothetical oxidoreductase yiaK
+pub:SAR11_0967	CDS	complement(950443..951219)	xthA; exodeoxyribonuclease III
+pub:SAR11_0968	CDS	complement(951219..951536)	HesB-like domain
+pub:SAR11_0969	CDS	951587..952702	dgtP; dGTPase
+pub:SAR11_0970	CDS	952702..954435	argS; arginine-tRNA ligase
+pub:SAR11_0971	CDS	954435..954698	unknown protein
+pub:SAR11_0972	CDS	954688..955638	glycosyl hydrolase
+pub:SAR11_0973	CDS	955647..956387	scpA; segregation and condensation protein a
+pub:SAR11_0974	CDS	956384..957085	scpB; segregation and condensation protein b
+pub:SAR11_0975	CDS	957128..957328	tatA; Twin-arginine translocation protein TatA/E
+pub:SAR11_0976	CDS	957334..957555	tatB; Twin-arginine translocation protein TatB
+pub:SAR11_0977	CDS	957542..958306	tatC; sec-independent protein translocase protein tatC
+pub:SAR11_0978	CDS	958299..959558	serS; serine-tRNA ligase
+pub:SAR11_0979	CDS	959612..959896	yajC; YajC
+pub:SAR11_0980	CDS	959909..961462	secD; protein-export membrane protein SECD
+pub:SAR11_0981	CDS	961462..962349	secF; preprotein translocase chain secF
+pub:SAR11_0982	CDS	complement(962352..962945)	conserved hypothetical protein
+pub:SAR11_0983	CDS	complement(962973..965852)	uvrA; excinuclease ABC chain A
+pub:SAR11_0984	CDS	965942..966400	ssb; single-strand binding protein (ssb)
+pub:SAR11_0985	CDS	966406..968955	gyrA; DNA gyrase subunit A
+pub:SAR11_0986	CDS	968955..969449	kdtB; pantetheine-phosphate adenylyltransferase
+pub:SAR11_0987	CDS	969517..969996	ppiB; peptidylprolyl isomerase
+pub:SAR11_0988	CDS	970015..971127	tgt; queuine tRNA-ribosyltransferase
+pub:SAR11_0989	CDS	complement(971129..971263)	unknown
+pub:SAR11_tRNA_f_11	tRNA	971328..971403	tRNA-Lys
+pub:SAR11_0991	CDS	complement(971424..972200)	Peptidase family M48
+pub:SAR11_0992	CDS	972375..972989	Protein of unknown function (DUF502)
+pub:SAR11_0993	CDS	complement(972986..975037)	recG; ATP-dependent DNA helicase recG
+pub:SAR11_0994	CDS	975062..975328	Protein of unknown function DUF339
+pub:SAR11_tRNA_r_22	tRNA	975329..975418	tRNA-Ser
+pub:SAR11_0995	CDS	975511..976392	rarD; rarD protein
+pub:SAR11_0996	CDS	976379..977380	mltB; membrane-bound lytic transglycolase-related protein
+pub:SAR11_0997	CDS	977370..978128	unknown
+pub:SAR11_0998	CDS	978121..979272	dacC; serine-type D-Ala-D-Ala carboxypeptidase
+pub:SAR11_0999	CDS	979265..979876	tmk; Thymidylate kinase (dTMP kinase)
+pub:SAR11_1000	CDS	979881..980813	holB; probable DNA polymerase III
+pub:SAR11_1001	CDS	980814..982355	metS; methionyl-tRNA synthetase
+pub:SAR11_1002	CDS	982348..983112	TatD related DNase
+pub:SAR11_1003	CDS	983112..983891	metallo-beta-lactamase family protein
+pub:SAR11_1004	CDS	complement(983880..984392)	bsaA; probable glutathione peroxidase
+pub:SAR11_1005	CDS	complement(984438..985544)	nhaA; Na+/H+ antiporter 1
+pub:SAR11_1006	CDS	complement(985615..986127)	unknown
+pub:SAR11_tRNA_f_12	tRNA	986221..986297	tRNA-Pro
+pub:SAR11_1007	CDS	986302..986583	ndufs4; ETC complex I subunit conserved region
+pub:SAR11_1008	CDS	986586..987578	sbmA; probable ABC-transporter inner membrane protein SbmA
+pub:SAR11_1009	CDS	987578..988525	glpX; glpX-like protein (Fructose-1,6-bisphosphatase related protein)
+pub:SAR11_1010	CDS	988522..990216	recJ; single-stranded-DNA-specific exonuclease RecJ
+pub:SAR11_tRNA_f_13	tRNA	990267..990341	tRNA-Glu
+pub:SAR11_1011	CDS	990347..990598	Excinuclease ABC
+pub:SAR11_1012	CDS	990598..992703	Glycosyl transferases group 1
+pub:SAR11_1013	CDS	992704..993414	yxkH; polysaccharide deacetylase-like protein
+pub:SAR11_1014	CDS	993416..994618	putative pyridoxamine 5-phosphate-dependent dehydrase
+pub:SAR11_1015	CDS	994615..995427	NAD dependent epimerase/dehydratase f
+pub:SAR11_1016	CDS	995434..996108	unknown
+pub:SAR11_1017	CDS	996113..997066	unknown
+pub:SAR11_1018	CDS	complement(997089..997862)	Methyltransferase FkbM
+pub:SAR11_1019	CDS	complement(997872..998828)	xerD; Integrase/recombinase xerD-like protein
+pub:SAR11_1020	CDS	999127..999570	Acetyltransferase
+pub:SAR11_1021	CDS	999542..999829	ada; 6-O-methylguanine DNA methyltransferase
+pub:SAR11_1022	CDS	complement(1000426..1001238)	Permeases of the drug/metabolite transporter (DMT) superfamily
+pub:SAR11_1023	CDS	complement(1001292..1002194)	conserved hypothetical protein
+pub:SAR11_1025	CDS	complement(1002194..1003486)	hom; homoserine dehydrogenase
+pub:SAR11_1026	CDS	complement(1003487..1003711)	unknown
+pub:SAR11_1027	CDS	complement(1003708..1004730)	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+pub:SAR11_1028	CDS	complement(1004766..1005215)	rpsI; ribosomal protein S9
+pub:SAR11_1029	CDS	complement(1005217..1005678)	rplM; ribosomal protein L13
+pub:SAR11_1030	CDS	1005891..1007219	metY; O-acetylhomoserine (thiol)-lyase
+pub:SAR11_1031	CDS	complement(1007212..1008222)	coxW; cytochrome c oxidase assembly protein (isoform 1)
+pub:SAR11_1032	CDS	1008265..1008555	Chorismate mutase II
+pub:SAR11_1033	CDS	complement(1008558..1008749)	rpmG; ribosomal protein L33
+pub:SAR11_1034	CDS	complement(1008751..1009128)	merR; transcription regulator
+pub:SAR11_1035	CDS	complement(1009118..1009426)	himA; Bacterial DNA-binding protein
+pub:SAR11_1036	CDS	complement(1009420..1010421)	plsX; fatty acid/phospholipid synthesis protein PlsX
+pub:SAR11_1037	CDS	complement(1010436..1010618)	rpmF; 50S ribosomal protein L32
+pub:SAR11_1038	CDS	complement(1010626..1011093)	unknown
+pub:SAR11_1039	CDS	1011092..1011556	unknown
+pub:SAR11_1040	CDS	complement(1011564..1013669)	H+ translocating pyrophosphate synthase
+pub:SAR11_1041	CDS	complement(1013756..1014715)	thiL; thiamine-phosphate kinase
+pub:SAR11_1042	CDS	complement(1014708..1015112)	nusB; Antitermination protein NusB
+pub:SAR11_1043	CDS	complement(1015115..1015501)	ribH; riboflavin synthase
+pub:SAR11_1044	CDS	complement(1015501..1016601)	ribA; GTP cyclohydrolase II/3,4-dihydroxy-2-butanone 4-phosphate synthase
+pub:SAR11_1045	CDS	complement(1016588..1017181)	ribB; riboflavin synthase alpha-chain
+pub:SAR11_1046	CDS	complement(1017186..1018241)	ribD; 5-amino-6-(5-phosphoribosylamino)uracil reductase
+pub:SAR11_1047	CDS	complement(1018267..1018725)	ybaD; 4-hydroxybenzoate octaprenyltransferase
+pub:SAR11_1048	CDS	complement(1018725..1020035)	glyA; glycine hydroxymethyltransferase
+pub:SAR11_1049	CDS	complement(1020038..1020463)	rpiB; ribose-5-phosphate isomerase
+pub:SAR11_1050	CDS	complement(1020465..1021106)	unknown
+pub:SAR11_1051	CDS	1021179..1022168	hemB; delta-aminolevulinic acid dehydratase
+pub:SAR11_1052	CDS	complement(1022169..1022849)	recO; Recombination protein O
+pub:SAR11_1053	CDS	complement(1022846..1023514)	rnc; ribonuclease III
+pub:SAR11_1054	CDS	complement(1023514..1024248)	sipF; signal peptidase I
+pub:SAR11_1055	CDS	complement(1024245..1024631)	acpS; Holo-[acyl-carrier protein] synthase (Holo-ACP synthase)
+pub:SAR11_1056	CDS	complement(1024634..1025353)	pdxJ; pyridoxal phosphate biosynthetic protein PdxJ
+pub:SAR11_1057	CDS	complement(1025350..1025937)	pyrE; orotate phosphoribosyltransferase
+pub:SAR11_1058	CDS	complement(1025894..1027639)	GTP pyrophosphokinase
+pub:SAR11_1059	CDS	complement(1027659..1028180)	folK; 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)
+pub:SAR11_1061	CDS	complement(1028146..1028616)	smpB; smpB protein
+pub:SAR11_1062	CDS	complement(1028616..1029497)	dapA; dihydrodipicolinate synthase
+pub:SAR11_1063	CDS	1029539..1031752	slt; putative soluble lytic murein transglycosylase precursor (slt)
+pub:SAR11_tRNA_r_21	tRNA	1031753..1031844	tRNA-Ser
+pub:SAR11_1064	CDS	1031913..1033166	soxB; sarcosine oxidase
+pub:SAR11_1065	CDS	1033166..1033441	soxD; sarcosine oxidase delta chain
+pub:SAR11_1066	CDS	1033446..1036454	soxA; sarcosine oxidase alpha chain
+pub:SAR11_1067	CDS	1036522..1037010	soxG; sarcosine oxidase gamma subunit
+pub:SAR11_1068	CDS	1037047..1037814	pheC; cyclohexadienyl dehydratase
+pub:SAR11_1069	CDS	1037915..1038595	glnP; ABC transporter permease component
+pub:SAR11_1071	CDS	1038595..1038858	GCN5-related N-acetyltransferase
+pub:SAR11_1072	CDS	complement(1038898..1039383)	Staphylococcal nuclease-like protein
+pub:SAR11_1073	CDS	complement(1039346..1040716)	norM; matE efflux family protein
+pub:SAR11_1074	CDS	complement(1040726..1041631)	yceA; rhodanese domain protein
+pub:SAR11_1075	CDS	complement(1041631..1042281)	O-methyltransferase
+pub:SAR11_1076	CDS	complement(1042318..1043796)	gatB; glutamyl-tRNA(gln) amidotransferase chain B
+pub:SAR11_1077	CDS	complement(1043797..1045254)	gatA; glutamyl-tRNA(Gln) amidotransferase subunit A
+pub:SAR11_1078	CDS	complement(1045254..1045541)	gatC; Glu-tRNAGln amidotransferase C subunit
+pub:SAR11_1079	CDS	1045593..1046048	Putative Holliday junction resolvase
+pub:SAR11_1080	CDS	1046091..1047032	pyrB; aspartate carbamoyltransferase
+pub:SAR11_1081	CDS	1047033..1048319	pyrC; dihydroorotase
+pub:SAR11_1082	CDS	1048322..1048897	ygiH; hypothetical protein
+pub:SAR11_1083	CDS	1048935..1051526	topA; DNA topoisomerase I
+pub:SAR11_1084	CDS	1051523..1051825	unknown
+pub:SAR11_1085	CDS	1051828..1052289	Endoribonuclease L-PSP
+pub:SAR11_1086	CDS	complement(1052286..1053584)	ugd; UDPglucose 6-dehydrogenase
+pub:SAR11_1087	CDS	complement(1053581..1054396)	galU; probable UTP-glucose-1-phosphate uridylyltransferase pXO1-94
+pub:SAR11_1088	CDS	1054401..1055243	panC; pantoate-beta-alanine ligase
+pub:SAR11_1089	CDS	complement(1055240..1056613)	mgtE; magnesium transport protein mgtE
+pub:SAR11_1090	CDS	1056675..1057295	rfaL; lipoate-protein ligase B
+pub:SAR11_1091	CDS	complement(1057276..1058190)	rluC; ribosomal large subunit pseudouridine synthase C
+pub:SAR11_1092	CDS	complement(1058215..1058652)	rplQ; ribosomal protein L17
+pub:SAR11_1093	CDS	complement(1058652..1059680)	rpoA; DNA-directed RNA polymerase
+pub:SAR11_1094	CDS	complement(1059684..1060136)	rpsK; ribosomal protein S11
+pub:SAR11_1095	CDS	complement(1060144..1060527)	rpsM; 30S ribosomal protein S13
+pub:SAR11_1096	CDS	complement(1060583..1061224)	adk; adenylate kinase
+pub:SAR11_1097	CDS	complement(1061229..1062509)	secY; Preprotein translocase SECY subunit
+pub:SAR11_1099	CDS	complement(1062520..1062981)	rplO; 50S ribosomal protein L15
+pub:SAR11_1100	CDS	complement(1062981..1063493)	rpsE; ribosomal protein S5
+pub:SAR11_1101	CDS	complement(1063496..1063852)	rplR; ribosomal protein L18
+pub:SAR11_1102	CDS	complement(1063852..1064391)	rplF; ribosomal protein L6
+pub:SAR11_1103	CDS	complement(1064391..1064786)	rpsH; 30S ribosomal protein S8
+pub:SAR11_1104	CDS	complement(1064797..1065102)	rpsN; 30S ribosomal protein S14
+pub:SAR11_1105	CDS	complement(1065105..1065659)	rplE; 50S ribosomal protein L5
+pub:SAR11_1106	CDS	complement(1065659..1065907)	rplX; probable 50S ribosomal protein L24
+pub:SAR11_1107	CDS	complement(1065908..1066276)	rplN; 50S ribosomal protein L14
+pub:SAR11_1108	CDS	complement(1066273..1066509)	rpsQ; ribosomal protein S17
+pub:SAR11_1109	CDS	complement(1066502..1066693)	rpmC; Ribosomal L29 protein
+pub:SAR11_1110	CDS	complement(1066695..1067105)	rplP; 50S ribosomal protein L16
+pub:SAR11_1111	CDS	complement(1067108..1067788)	rpsC; 30S ribosomal protein S3
+pub:SAR11_1112	CDS	complement(1067772..1068170)	rplV; 50S ribosomal protein L22
+pub:SAR11_1113	CDS	complement(1068173..1068466)	rpsS; 30S ribosomal protein S19
+pub:SAR11_1114	CDS	complement(1068466..1069311)	rplB; 50S ribosomal protein L2 rplB
+pub:SAR11_1115	CDS	complement(1069314..1069607)	rplW; ribosomal protein L23
+pub:SAR11_1116	CDS	complement(1069609..1070232)	rplD; ribosomal protein L4
+pub:SAR11_1117	CDS	complement(1070232..1070942)	rplC; 50S ribosomal protein L3
+pub:SAR11_1118	CDS	complement(1070945..1071253)	rpsJ; 30S ribosomal protein S10
+pub:SAR11_1119	CDS	complement(1071259..1073337)	fusA; translation elongation factor EF-G
+pub:SAR11_1120	CDS	complement(1073344..1073814)	rpsG; 30S ribosomal protein S7
+pub:SAR11_1121	CDS	complement(1073817..1074188)	rpsL; 30S ribosomal protein S12
+pub:SAR11_1122	CDS	complement(1074360..1078529)	rpoC; DNA-directed RNA polymerase beta prime chain
+pub:SAR11_1123	CDS	complement(1078532..1082623)	rpoB; DNA-directed RNA polymerase
+pub:SAR11_1124	CDS	complement(1082679..1083044)	rplL; probable 50S ribosomal protein L31
+pub:SAR11_1125	CDS	complement(1083072..1083572)	rplJ; LSU ribosomal protein L10P
+pub:SAR11_1126	CDS	complement(1083578..1084267)	rplA; ribosomal protein L1
+pub:SAR11_1127	CDS	complement(1084267..1084692)	rplK; ribosomal protein L11
+pub:SAR11_1128	CDS	complement(1084692..1085222)	nusG; transcription antitermination protein NusG
+pub:SAR11_1129	CDS	complement(1085222..1085413)	secE; Protein secE/sec61-gamma protein
+pub:SAR11_tRNA_r_20	tRNA	1085433..1085508	tRNA-Trp
+pub:SAR11_1130	CDS	complement(1085516..1086706)	tufB; translation elongation factor EF-Tu
+pub:SAR11_tRNA_r_19	tRNA	1086754..1086827	tRNA-Gly
+pub:SAR11_tRNA_r_18	tRNA	1086874..1086959	tRNA-Tyr
+pub:SAR11_1131	CDS	1087091..1087834	SpoU rRNA Methylase family
+pub:SAR11_tRNA_f_14	tRNA	1087868..1087943	tRNA-Thr
+pub:SAR11_1132	CDS	complement(1087948..1088727)	ppnK; probable inorganic polyphosphate/ATP-NAD kinase (Poly(P)/ATP NAD kinase)
+pub:SAR11_tRNA_r_17	tRNA	1088732..1088816	tRNA-Leu
+pub:SAR11_1133	CDS	complement(1088896..1089297)	conserved hypothetical protein
+pub:SAR11_1134	CDS	complement(1089302..1090051)	hypothetical protein
+pub:SAR11_1135	CDS	1090073..1090771	sfsA; sugar fermentation stimulation protein
+pub:SAR11_1136	CDS	1090764..1091534	map; methionine aminopeptidase
+pub:SAR11_1137	CDS	1091538..1092830	purB; adenylosuccinate lyase
+pub:SAR11_1138	CDS	1092830..1093612	purC; phosphoribosylaminoimidazolesuccinocarboxamide synthase
+pub:SAR11_1139	CDS	1093614..1093856	Phosphoribosylformylglycinamidine (FGAM) synthase
+pub:SAR11_1140	CDS	1093863..1094546	purQ; phosphoribosylformylglycinamidine synthase I
+pub:SAR11_1141	CDS	1094546..1096738	purL; Phosphoribosylformylglycinamidine synthase II (FGAM synthase II)
+pub:SAR11_1142	CDS	1096740..1096970	BolA-like protein
+pub:SAR11_1143	CDS	1096970..1097302	grlA; Glutaredoxin
+pub:SAR11_1144	CDS	complement(1097307..1098497)	cfa; cyclopropane-fatty-acyl-phospholipid synthase
+pub:SAR11_1145	CDS	complement(1098633..1099250)	rpsD; 30S ribosomal protein S4
+pub:SAR11_1146	CDS	complement(1099291..1100004)	SpoU rRNA Methylase family
+pub:SAR11_1147	CDS	complement(1100004..1101605)	2-isopropylmalate synthase
+pub:SAR11_1148	CDS	complement(1101602..1102963)	cysS; cysteinyl-tRNA synthetase
+pub:SAR11_1149	CDS	complement(1103009..1103695)	nadE; NH(3)-dependent NAD+ synthetase NadE
+pub:SAR11_1150	CDS	complement(1103786..1105165)	dhs; 2-dehydro-3-deoxy-phosphoheptonate aldolase
+pub:SAR11_1151	CDS	complement(1105201..1107021)	glmS; glutamine-fructose-6-phosphate transaminase (isomerizing)
+pub:SAR11_1152	CDS	complement(1107023..1107646)	glmU; UDP-N-acetylglucosamine diphosphorylase
+pub:SAR11_1153	CDS	1107717..1108406	gph; phosphoglycolate phosphatase
+pub:SAR11_1154	CDS	1108457..1109959	prpD; 2-methylcitrate dehydratase 2
+pub:SAR11_1155	CDS	1109959..1110855	prpB; hypothetical protein prpB
+pub:SAR11_1156	CDS	1110855..1111979	prpC; citrate (si)-synthase
+pub:SAR11_1157	CDS	complement(1111980..1112606)	probable methyltransferase
+pub:SAR11_1158	CDS	complement(1112611..1113624)	nrdB; ribonucleoside-diphosphate reductase beta chain
+pub:SAR11_1159	CDS	complement(1113630..1115567)	nrdA; ribonucleoside-diphosphate reductase alpha chain
+pub:SAR11_1160	CDS	1115724..1117178	manB; phosphomannomutase
+pub:SAR11_1728	CDS	1117162..1117443	unknown
+pub:SAR11_1161	CDS	complement(1117612..1118571)	sbcC; possible sbcC
+pub:SAR11_1162	CDS	complement(1118568..1119218)	unknown
+pub:SAR11_1163	CDS	complement(1119467..1119844)	unknown
+pub:SAR11_1164	CDS	complement(1119848..1120411)	possible lipoprotein
+pub:SAR11_1165	CDS	1120857..1121216	possible exonuclease
+pub:SAR11_1166	CDS	complement(1121220..1121555)	unknown
+pub:SAR11_1167	CDS	complement(1121545..1122273)	unknown
+pub:SAR11_1168	CDS	complement(1122281..1122634)	unknown
+pub:SAR11_1169	CDS	complement(1122717..1123616)	possible multi-domain protein
+pub:SAR11_1170	CDS	complement(1123935..1124120)	unknown
+pub:SAR11_1171	CDS	complement(1124146..1125489)	ordL; oxidoreductase
+pub:SAR11_1172	CDS	complement(1125607..1126158)	osmC; OsmC-like protein
+pub:SAR11_1173	CDS	complement(1126231..1127292)	bhmT; betaine-homocysteine methyltransferase
+pub:SAR11_1730	CDS	complement(1127554..1127718)	putative membrane protein
+pub:SAR11_1729	CDS	complement(1127719..1127925)	hypothetical protein
+pub:SAR11_1174	CDS	complement(1128011..1128691)	phoB; phosphate regulatory protein
+pub:SAR11_1175	CDS	complement(1128691..1129389)	phoU; phosphate transport regulon regulator PhoU
+pub:SAR11_1176	CDS	complement(1129392..1130159)	pstB; phosphate ABC transporter
+pub:SAR11_1177	CDS	complement(1130159..1131418)	pstA; ABC transporter
+pub:SAR11_1178	CDS	complement(1131411..1132811)	pstC; ABC transporter
+pub:SAR11_1179	CDS	complement(1132929..1133945)	pstS; phosphate ABC transporter
+pub:SAR11_1180	CDS	complement(1134061..1135104)	phoR; phosphate regulon
+pub:SAR11_1181	CDS	1135181..1136146	conserved hypothetical protein
+pub:SAR11_1731	CDS	complement(1136254..1136418)	unknown
+pub:SAR11_1182	CDS	complement(1136415..1136597)	Unknown
+pub:SAR11_1183	CDS	complement(1136605..1136979)	hypothetical protein
+pub:SAR11_1184	CDS	complement(1137048..1137476)	cytC; Cytochrome c
+pub:SAR11_1185	CDS	1137555..1138439	Integral membrane protein DUF6
+pub:SAR11_1186	CDS	complement(1138454..1138990)	conserved hypothetical protein
+pub:SAR11_1187	CDS	complement(1139061..1140461)	gdhA; glutamate dehydrogenase [NAD(P)] precursor
+pub:SAR11_1188	CDS	complement(1140479..1140967)	unknown
+pub:SAR11_1189	CDS	complement(1140964..1141257)	unknown
+pub:SAR11_1190	CDS	complement(1141259..1142869)	sulfate permease family protein
+pub:SAR11_1191	CDS	complement(1143032..1143436)	possible HIT domain
+pub:SAR11_1192	CDS	complement(1143439..1144203)	Domain of unknown function DUF81
+pub:SAR11_1193	CDS	complement(1144265..1145257)	conserved hypothetical protein
+pub:SAR11_1194	CDS	complement(1145280..1145822)	rpoZ; DNA-directed RNA polymerase omega chain (RNAP omega subunit)
+pub:SAR11_1195	CDS	complement(1145866..1147074)	probable membrane permease of unknown function
+pub:SAR11_1196	CDS	1147089..1147955	mmsB; 3-hydroxyisobutyrate dehydrogenase
+pub:SAR11_1197	CDS	1147962..1148561	Flavin Mononucleotide Binding Protein
+pub:SAR11_1198	CDS	complement(1148558..1149070)	bacterial transferase family protein
+pub:SAR11_1199	CDS	1149091..1149645	conserved hypothetical protein
+pub:SAR11_1200	CDS	1149702..1150727	amsK; glycosyl transferase
+pub:SAR11_1201	CDS	complement(1150724..1152226)	tctA; putative tricarboxylic transport TctA
+pub:SAR11_1202	CDS	complement(1152223..1152693)	tctB; putative tricarboxylic transport tctB
+pub:SAR11_1203	CDS	complement(1152723..1153703)	tctC; putative tricarboxylic transport TctC
+pub:SAR11_1204	CDS	1153904..1155001	abrB; possible AbrB protein
+pub:SAR11_1206	CDS	complement(1154993..1155925)	rfaF; heptosyltransferase family protein
+pub:SAR11_1207	CDS	1155958..1156347	conserved hypothetical protein
+pub:SAR11_1208	CDS	complement(1156341..1157015)	oocM; octopine-like transport system permease protein oocM
+pub:SAR11_1209	CDS	complement(1157015..1157707)	occQ; ABC transporter
+pub:SAR11_1210	CDS	complement(1157753..1158604)	occT; ABC transporter
+pub:SAR11_1211	CDS	complement(1158666..1159706)	speE; Spermine/spermidine synthase
+pub:SAR11_1212	CDS	complement(1159819..1160343)	pfs; 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteinenucleosidase
+pub:SAR11_1213	CDS	1160381..1160908	apt; adenine phosphoribosyltransferase
+pub:SAR11_1214	CDS	1160941..1162149	tetratricopeptide repeat family protein
+pub:SAR11_1215	CDS	complement(1162229..1163071)	Sulfotransferase domain
+pub:SAR11_tRNA_r_16	tRNA	1163196..1163277	tRNA-Met
+pub:SAR11_1216	CDS	1163669..1164238	ecpD; Fimbrial protein pilin precursor
+pub:SAR11_1217	CDS	1164385..1164786	glbN; Bacterial-like globin
+pub:SAR11_1218	CDS	1164991..1165692	sigB; probable sigma factor SigB regulation protein
+pub:SAR11_1219	CDS	1165696..1166454	Fimbrial protein pilin
+pub:SAR11_tRNA_r_15	tRNA	1166596..1166672	tRNA-Met
+pub:SAR11_1220	CDS	complement(1166737..1166964)	unknown
+pub:SAR11_1221	CDS	complement(1167006..1169450)	sarcosine dehydrogenase
+pub:SAR11_1222	CDS	complement(1169497..1169940)	cycA; cytochrome c'
+pub:SAR11_1223	CDS	1169944..1170486	Cytochrome b561 family
+pub:SAR11_1225	CDS	complement(1170490..1171194)	conserved hypothetical protein
+pub:SAR11_1226	CDS	complement(1171170..1171739)	methyltransferase
+pub:SAR11_1227	CDS	1171935..1172888	ADP-ribosylglycohydrolase
+pub:SAR11_1228	CDS	1172889..1174208	dinF; DNA-damage inducible protein F
+pub:SAR11_1229	CDS	1174245..1175258	hydroxyacylglutathione hydrolase
+pub:SAR11_1230	CDS	complement(1175268..1175693)	unknown
+pub:SAR11_1231	CDS	complement(1175833..1176201)	Thioredoxin
+pub:SAR11_1232	CDS	complement(1176246..1177139)	conserved hypothetical protein
+pub:SAR11_1233	CDS	complement(1177163..1177438)	Domain of unknown function (DUF931)
+pub:SAR11_1235	CDS	complement(1177480..1178178)	azlC; AzlC protein
+pub:SAR11_1236	CDS	complement(1178198..1179256)	sfuA; iron(III) ABC transporter
+pub:SAR11_1237	CDS	complement(1179261..1180877)	sfuB; iron(III) ABC transporter
+pub:SAR11_1238	CDS	complement(1180952..1181971)	sfuC; probable iron-uptake ABC transport system periplasmic iron-binding protein
+pub:SAR11_1239	CDS	complement(1182072..1182365)	unknown
+pub:SAR11_1240	CDS	complement(1182407..1183681)	aceA; isocitrate lyase
+pub:SAR11_1241	CDS	complement(1183727..1183888)	unknown
+pub:SAR11_1242	CDS	1184000..1185433	probable transcription regulator
+pub:SAR11_1243	CDS	complement(1185434..1186324)	probable transcriptional regulator
+pub:SAR11_1244	CDS	complement(1186325..1187326)	yhdH; zinc-binding alcohol dehydrogenase
+pub:SAR11_1245	CDS	complement(1187347..1187955)	folE; GTP cyclohydrolase I
+pub:SAR11_1246	CDS	1188012..1188500	hisI; phosphoribosyl-AMP cyclohydrolase
+pub:SAR11_1247	CDS	1188501..1188875	hypothetical protein
+pub:SAR11_1248	CDS	complement(1188881..1189852)	Winged helix DNA-binding
+pub:SAR11_1249	CDS	1189957..1190175	unknown
+pub:SAR11_1250	CDS	complement(1190176..1191780)	probable electron transfer flavoprotein-ubiquinone oxidoreductase
+pub:SAR11_1251	CDS	complement(1191819..1192772)	etfA; electron transfer flavoprotein alpha-subunit
+pub:SAR11_1252	CDS	complement(1192772..1193521)	etfB; electron transfer flavoprotein beta-chain
+pub:SAR11_1253	CDS	complement(1193521..1195953)	dimethylglycine dehydrogenase
+pub:SAR11_1254	CDS	complement(1196013..1196492)	unknown
+pub:SAR11_1255	CDS	complement(1196458..1197027)	Putative NADPH-quinone reductase
+pub:SAR11_1256	CDS	1197066..1197263	unknown
+pub:SAR11_1257	CDS	complement(1197221..1197643)	conserved hypothetical protein
+pub:SAR11_1258	CDS	complement(1197640..1198059)	yeeE; conserved hypothetical membrane protein
+pub:SAR11_1259	CDS	complement(1198060..1198497)	met17; unknown CoA binding protein
+pub:SAR11_1260	CDS	complement(1198497..1199282)	ydbS; enoyl-CoA hydratase
+pub:SAR11_1261	CDS	complement(1199266..1199640)	Cytidylyltransferase
+pub:SAR11_1262	CDS	complement(1199640..1200047)	cysC; Adenylylsulfate kinase
+pub:SAR11_1263	CDS	complement(1200049..1201242)	probable dioxygenase alpha chain
+pub:SAR11_1264	CDS	1201343..1202071	metF; methylenetetrahydrofolate reductase
+pub:SAR11_1265	CDS	1202064..1203422	putative aminomethyltransferase protein
+pub:SAR11_1266	CDS	1203572..1204117	Membrane protein of unknown function (DUF1430)
+pub:SAR11_1267	CDS	complement(1204114..1204284)	unknown
+pub:SAR11_1268	CDS	complement(1204277..1204888)	unknown
+pub:SAR11_1269	CDS	complement(1204894..1206546)	conserved hypothetical protein
+pub:SAR11_1270	CDS	complement(1206543..1207514)	dipeptidase
+pub:SAR11_1271	CDS	1207629..1208120	phosphoribosylaminoimidazole carboxylase catalytic chain
+pub:SAR11_1272	CDS	1208130..1209176	purE; phosphoribosylaminoimidazole carboxylase ATPase chain (air carboxylase)
+pub:SAR11_1273	CDS	1209188..1209655	acetyltransferase
+pub:SAR11_1274	CDS	1209774..1209980	cspL; cold shock DNA-binding domain protein
+pub:SAR11_1275	CDS	complement(1210062..1210796)	alpha/beta hydrolase fold
+pub:SAR11_1276	CDS	1210949..1211227	unknown
+pub:SAR11_1277	CDS	1211265..1212011	racX; Aspartate racemase
+pub:SAR11_1278	CDS	1212015..1212455	unknown
+pub:SAR11_1279	CDS	complement(1212445..1212756)	unknown membrane protein
+pub:SAR11_1280	CDS	1212866..1213717	conserved hypothetical protein
+pub:SAR11_1281	CDS	complement(1213722..1214309)	soxG2; Sarcosine oxidase
+pub:SAR11_1282	CDS	complement(1214306..1217302)	soxA2; sarcosine oxidase alpha chain
+pub:SAR11_1283	CDS	complement(1217304..1217570)	soxD2; sarcosine oxidase delta chain
+pub:SAR11_1284	CDS	complement(1217571..1218827)	soxB2; sarcosine oxidase beta subunit
+pub:SAR11_1285	CDS	1218954..1220639	fhs; formate-tetrahydrofolate ligase
+pub:SAR11_1286	CDS	complement(1220643..1221434)	possible Glutamine amidotransferase
+pub:SAR11_1287	CDS	complement(1221431..1222597)	iron-containing alcohol dehydrogenase
+pub:SAR11_1288	CDS	1222669..1224045	ssdH; Aldehyde dehydrogenase family
+pub:SAR11_1289	CDS	1224047..1224802	short chain dehydrogenase
+pub:SAR11_1290	CDS	complement(1224850..1225926)	TRAP-type bacterial extracellular solute-binding protein
+pub:SAR11_1292	CDS	complement(1226064..1227395)	dctM; TrapT family
+pub:SAR11_1293	CDS	complement(1227395..1227904)	dctQ; Tripartite ATP-independent periplasmic
+pub:SAR11_1294	CDS	complement(1227911..1228105)	Uncharacterized protein family UPF015
+pub:SAR11_1295	CDS	complement(1228099..1229127)	gpsA; glycerol-3-phosphate dehydrogenase (NAD)
+pub:SAR11_1296	CDS	1229207..1230538	putative flavin-containing monooxygenase
+pub:SAR11_1297	CDS	complement(1230571..1232724)	opuAB; glycine betaine/L-proline transport system permease
+pub:SAR11_1298	CDS	complement(1232734..1233759)	opuAA; glycine betaine/l-proline transport ATP-binding protein
+pub:SAR11_1299	CDS	complement(1233832..1234380)	unknown membrane protein
+pub:SAR11_1300	CDS	complement(1234392..1234769)	MORN repeat protein
+pub:SAR11_1301	CDS	complement(1234804..1235283)	unknown membrane protein
+pub:SAR11_1302	CDS	complement(1235374..1236318)	opuAC; Substrate-binding region of ABC-type glycine betaine transport system
+pub:SAR11_1303	CDS	1236434..1238761	putative aminomethyltransferase protein
+pub:SAR11_1732	CDS	1238765..1239115	rpl6e; ribosomal protein L6e
+pub:SAR11_1304	CDS	1239215..1240543	putative monomeric sarcosine oxidase
+pub:SAR11_1305	CDS	1240616..1242085	GlnT-like protein
+pub:SAR11_1306	CDS	1242110..1243054	Glutamine amidotransferase-like protein
+pub:SAR11_1307	CDS	1243042..1243896	GXGXG motif-containing protein
+pub:SAR11_1308	CDS	1243896..1245320	glutamate synthase large subunit-like protein
+pub:SAR11_1309	CDS	1245330..1245731	unknown
+pub:SAR11_1310	CDS	1245857..1247257	amt; ammonium transporter
+pub:SAR11_1311	CDS	1247269..1247493	unknown membrane protein
+pub:SAR11_1312	CDS	1247554..1247706	unknown membrane protein
+pub:SAR11_1313	CDS	1247719..1248597	glxB; Glutamine amidotransferase-like protein glxB
+pub:SAR11_1314	CDS	1248601..1249281	glxC; GlxC protein
+pub:SAR11_1315	CDS	1249284..1250600	glxD; glutamate synthase large subunit
+pub:SAR11_1316	CDS	1250644..1251969	glnT; Glutamine synthetase III
+pub:SAR11_1317	CDS	1251973..1253115	ygeX; Pyridoxal-phosphate dependent enzyme
+pub:SAR11_1318	CDS	1253122..1254543	phrB; Deoxyribodipyrimidine photolyase (DNA photolyase) (Photoreactivating enzyme)
+pub:SAR11_1319	CDS	complement(1254540..1254959)	Uncharacterized protein family UPF004
+pub:SAR11_1320	CDS	complement(1254956..1255816)	AFG1-like ATPase
+pub:SAR11_1321	CDS	complement(1256001..1256438)	unknown
+pub:SAR11_1322	CDS	complement(1256441..1257742)	PQQ enzyme repeat family protein
+pub:SAR11_1323	CDS	complement(1257732..1258376)	unknown membrane protein
+pub:SAR11_1324	CDS	complement(1258379..1261048)	acnA; aconitate hydratase
+pub:SAR11_1325	CDS	complement(1261054..1261641)	yfiK; transporter
+pub:SAR11_1326	CDS	complement(1261647..1261988)	csaA; CsaA protein
+pub:SAR11_1327	CDS	1262016..1263206	argE; acetylornithine deacetylase
+pub:SAR11_1328	CDS	complement(1263228..1264664)	Aldehyde dehydrogenase family
+pub:SAR11_1329	CDS	complement(1264679..1265644)	speB; agmatinase
+pub:SAR11_1330	CDS	1265702..1266439	putative lipoprotein
+pub:SAR11_1331	CDS	1266439..1267083	ppiA; peptidylprolyl cis-trans isomerase precursor
+pub:SAR11_1332	CDS	1267165..1268373	unknown
+pub:SAR11_1333	CDS	complement(1268370..1270592)	fadB; 3-hydroxyacyl-CoA dehydrogenase
+pub:SAR11_1334	CDS	complement(1270649..1271503)	potC; spermidine/putrescine transport system permease protein potc
+pub:SAR11_1335	CDS	complement(1271507..1272754)	potB; spermidine/putrescine transport system permease protein potb
+pub:SAR11_1336	CDS	complement(1272839..1273960)	potD; spermidine/putrescine-binding periplasmic protein
+pub:SAR11_1337	CDS	complement(1274095..1275183)	potA; spermidine/putrescine transport ATP-binding protein pota
+pub:SAR11_1338	CDS	complement(1275242..1276408)	y4tM; X-Pro dipeptidase
+pub:SAR11_1339	CDS	complement(1276409..1277155)	Asp/Glu/Hydantoin racemase family
+pub:SAR11_1340	CDS	1277497..1278489	Luciferase-like monooxygenase
+pub:SAR11_1341	CDS	1278489..1279076	Protein of unknown function (DUF1185)
+pub:SAR11_1342	CDS	1279081..1279863	alpha/beta hydrolase fold
+pub:SAR11_1343	CDS	1279864..1281345	dhaS; betaine-aldehyde dehydrogenase
+pub:SAR11_1344	CDS	1281350..1282207	Protein of unknown function DUF6
+pub:SAR11_1346	CDS	1282283..1283467	livJ; hypothetical protein
+pub:SAR11_1347	CDS	complement(1283524..1284285)	hypothetical protein
+pub:SAR11_1348	CDS	complement(1284287..1285450)	unknown membrane protein
+pub:SAR11_1349	CDS	complement(1285527..1286858)	livM; Branched-chain amino acid transport system/permease component
+pub:SAR11_1350	CDS	complement(1286894..1287904)	livH; Branched-chain amino acid transport system/permease component
+pub:SAR11_1351	CDS	complement(1287906..1288613)	livF; ATP-binding protein of branched-chain amino acid ABC transporter
+pub:SAR11_1352	CDS	complement(1288613..1289407)	livG; ATP-binding protein of ABC transporter
+pub:SAR11_1353	CDS	complement(1289413..1290180)	Delta 1-pyrroline-5-carboxylate reductase
+pub:SAR11_1354	CDS	complement(1290213..1291124)	gab; gab protein
+pub:SAR11_1355	CDS	complement(1291124..1291447)	Protein of unknown function (DUF423)
+pub:SAR11_1356	CDS	complement(1291437..1292141)	hypothetical transmembrane protein
+pub:SAR11_1357	CDS	complement(1292141..1292812)	livF2; ATP-binding protein of branched-chain amino acid ABC transporter
+pub:SAR11_1358	CDS	complement(1292926..1293666)	livG2; ATP-binding protein of ABC transporter natA
+pub:SAR11_1359	CDS	complement(1293666..1294694)	livM2; probable high-affinity branched-chain amino acid transport permease protein
+pub:SAR11_1360	CDS	complement(1294718..1295578)	livH2; probable high-affinity branched-chain amino acid transport permease protein
+pub:SAR11_1361	CDS	complement(1295676..1296917)	livJ2; Leu/Ile/Val-binding protein precursor
+pub:SAR11_1362	CDS	complement(1297008..1297622)	rhtB; LysE type translocator
+pub:SAR11_1363	CDS	1297756..1298052	conserved hypothetical protein
+pub:SAR11_1364	CDS	1298056..1298310	Glutaredoxin
+pub:SAR11_1365	CDS	complement(1298312..1298686)	SelR domain
+pub:SAR11_1366	CDS	complement(1298690..1299640)	serA; phosphoglycerate dehydrogenase
+pub:SAR11_1367	CDS	complement(1299633..1300532)	hypothetical transport protein
+pub:SAR11_1368	CDS	complement(1300533..1301774)	dadA; D-amino-acid dehydrogenase small chain
+pub:SAR11_1369	CDS	complement(1301843..1302964)	rodA; rod shape-determining protein rodA
+pub:SAR11_1370	CDS	complement(1302965..1304932)	pbpA; Penicillin binding protein transpeptide
+pub:SAR11_1371	CDS	complement(1304922..1305443)	mreD; rod shape-determining protein MreD
+pub:SAR11_1372	CDS	complement(1305440..1306090)	mreC; rod shape-determining protein MreC
+pub:SAR11_1373	CDS	complement(1306297..1307334)	mreB; rod shape-determining protein MreB
+pub:SAR11_1374	CDS	complement(1307340..1308584)	leuA; 2-isopropylmalate synthase
+pub:SAR11_1375	CDS	1308630..1308719	unknown

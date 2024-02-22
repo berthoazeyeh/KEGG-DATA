@@ -1,0 +1,307 @@
+pld:PalTV_001	CDS	1..1890	dnaK; chaperone protein DnaK
+pld:PalTV_002	CDS	1905..2960	dnaJ; chaperone protein DnaJ
+pld:PalTV_003	CDS	complement(2953..5052)	pnp; polyribonucleotide nucleotidyltransferase
+pld:PalTV_004	CDS	complement(5068..5340)	rpsO; ribosomal protein S15
+pld:PalTV_005	CDS	complement(5382..5723)	rbfA; ribosome-binding factor A
+pld:PalTV_006	CDS	complement(5723..7807)	infB; translation initiation factor IF-2
+pld:PalTV_007	CDS	complement(7830..9089)	nusA; NusA antitermination factor
+pld:PalTV_008	tRNA	complement(9148..9224)	tRNA-Met
+pld:PalTV_009	tRNA	complement(9230..9317)	tRNA-Leu
+pld:PalTV_010	CDS	complement(9506..11320)	ftsH; membrane protease FtsH catalytic subunit
+pld:PalTV_011	CDS	complement(11381..11842)	greA; transcription elongation factor GreA
+pld:PalTV_012	CDS	complement(11869..15096)	carB; carbamoyl-phosphate synthase, large subunit
+pld:PalTV_013	CDS	complement(15116..16204)	carA; carbamoyl-phosphate synthase small subunit
+pld:PalTV_014	CDS	complement(16197..17009)	dapB; dihydrodipicolinate reductase
+pld:PalTV_015	CDS	complement(17059..17640)	YGGT family protein
+pld:PalTV_016	CDS	17704..18897	tyrS; tyrosyl-tRNA synthetase
+pld:PalTV_017	tRNA	18888..18960	tRNA-Ala
+pld:PalTV_018	CDS	complement(18969..20123)	dapE; succinyl-diaminopimelate desuccinylase
+pld:PalTV_019	CDS	complement(20125..21159)	dapD; tetrahydrodipicolinate N-succinyltransferase
+pld:PalTV_020	CDS	complement(21178..21960)	map; methionine aminopeptidase, type I
+pld:PalTV_021	CDS	22058..22717	rpsB; ribosomal protein S2
+pld:PalTV_022	CDS	22740..23525	tsf; translation elongation factor Ts (EF-Ts)
+pld:PalTV_023	CDS	23522..24085	frr; ribosome recycling factor
+pld:PalTV_024	CDS	24090..26903	dnaE; DNA polymerase III, alpha subunit
+pld:PalTV_025	CDS	26912..28165	tilS; tRNA(Ile)-lysidine synthetase
+pld:PalTV_026	CDS	28194..29453	rho; transcription termination factor Rho
+pld:PalTV_027	CDS	29478..30551	aroF; 3-deoxy-D-arabinoheptulosonate-7-phosphate synthase
+pld:PalTV_028	CDS	30568..32838	metE; methionine synthase (B12-independent)
+pld:PalTV_029	CDS	complement(32842..34143)	hslU; ATP-dependent protease HslVU, ATPase subunit
+pld:PalTV_030	CDS	complement(34171..34692)	hslV; HslV component of HslUV peptidase
+pld:PalTV_031	CDS	34801..35004	rpmE; ribosomal protein L31
+pld:PalTV_032	CDS	35004..35537	aroK; shikimate kinase
+pld:PalTV_033	CDS	35524..36615	aroB; 3-dehydroquinate synthase
+pld:PalTV_034	CDS	36636..38264	arabinose efflux permease family protein
+pld:PalTV_035	CDS	complement(38248..39891)	rne; ribonuclease, Rne/Rng family
+pld:PalTV_036	CDS	39970..41088	rluC_rpmF; fused reading frame encoding pseudouridine synthase and ribosomal protein L32
+pld:PalTV_037	CDS	41163..41315	acpP; acyl carrier protein
+pld:PalTV_038	CDS	41316..42308	holB; DNA polymerase III, delta' subunit
+pld:PalTV_039	CDS	42295..43041	trypsin-like serine protease
+pld:PalTV_040	CDS	43078..44721	leuA; isopropylmalate/homocitrate/citramalate synthase
+pld:PalTV_041	CDS	complement(44746..44955)	cold shock protein
+pld:PalTV_042	CDS	45181..46269	aroC; chorismate synthase
+pld:PalTV_043	CDS	46269..47675	leuC; 3-isopropylmalate dehydratase, large subunit
+pld:PalTV_044	CDS	47683..48309	leuD; 3-isopropylmalate dehydratase, small subunit
+pld:PalTV_045	CDS	48352..49437	leuB; 3-isopropylmalate dehydrogenase
+pld:PalTV_046	CDS	49474..50571	asd; aspartate semialdehyde dehydrogenase
+pld:PalTV_047	CDS	50574..51407	truA; pseudouridylate synthase I
+pld:PalTV_048	CDS	51424..52053	trpF; phosphoribosylanthranilate isomerase
+pld:PalTV_049	CDS	52097..52699	lysine efflux permease
+pld:PalTV_050	CDS	52709..53965	serS; seryl-tRNA synthetase
+pld:PalTV_051	tRNA	53967..54053	tRNA-Leu
+pld:PalTV_052	CDS	54061..54411	sulfur relay protein, TusE/DsrC/DsvC family
+pld:PalTV_053	CDS	54423..54986	nfuA; Fe-S biogenesis protein nfuA
+pld:PalTV_054	CDS	54983..55402	sufE; SufE protein probably involved in Fe-S center assembly
+pld:PalTV_055	CDS	complement(55383..55823)	hisI; phosphoribosyl-AMP cyclohydrolase
+pld:PalTV_056	CDS	complement(55820..56794)	sohB; protease sohB
+pld:PalTV_057	CDS	complement(56808..57503)	dnaQ; DNA polymerase III, epsilon subunit
+pld:PalTV_058	CDS	complement(57500..59851)	pheT; phenylalanyl-tRNA synthetase, beta subunit
+pld:PalTV_059	CDS	complement(59859..60848)	pheS; phenylalanyl-tRNA synthetase, alpha subunit
+pld:PalTV_060	CDS	complement(60852..61199)	rplT; LSU ribosomal protein L20P
+pld:PalTV_061	CDS	complement(61225..61416)	rpmI; LSU ribosomal protein L35P
+pld:PalTV_062	CDS	complement(61425..61763)	infC; bacterial translation initiation factor 3 (bIF-3)
+pld:PalTV_063	CDS	62409..64070	proS; prolyl-tRNA synthetase
+pld:PalTV_064	CDS	complement(64075..64881)	era; GTP-binding protein Era
+pld:PalTV_065	CDS	complement(64896..65567)	lepB; signal peptidase I
+pld:PalTV_066	CDS	complement(65567..67384)	lepA; GTP-binding protein LepA
+pld:PalTV_067	CDS	complement(67396..68610)	argD; acetylornithine/succinylornithine aminotransferase
+pld:PalTV_068	CDS	68732..71476	valS; valyl-tRNA synthetase
+pld:PalTV_069	CDS	71532..71726	4Fe-4S binding domain protein
+pld:PalTV_070	CDS	complement(71711..72520)	trpA; tryptophan synthase, alpha chain
+pld:PalTV_071	CDS	complement(72510..73697)	trpB; tryptophan synthase, beta chain
+pld:PalTV_072	CDS	73808..74299	null; metalloprotein, YbeY/UPF0054 family
+pld:PalTV_073	CDS	74296..76872	leuS; leucyl-tRNA synthetase
+pld:PalTV_074	CDS	76974..77810	holA; DNA polymerase III, delta subunit
+pld:PalTV_075	CDS	complement(77807..79210)	lpd; dihydrolipoamide dehydrogenase
+pld:PalTV_076	CDS	complement(79231..80220)	sucB; 2-oxoglutarate dehydrogenase complex dihydrolipoamide succinyltransferase
+pld:PalTV_077	CDS	complement(80391..83027)	sucA; 2-oxoglutarate dehydrogenase, E1 component
+pld:PalTV_078	CDS	complement(83008..84492)	gltX; glutamyl-tRNA synthetase
+pld:PalTV_079	CDS	complement(84485..85762)	DEAD/DEAH box helicase family protein
+pld:PalTV_080	rRNA	complement(85787..85903)	5S ribosomal RNA
+pld:PalTV_081	rRNA	complement(85933..88812)	23S ribosomal RNA
+pld:PalTV_082	tRNA	complement(88839..88911)	tRNA-Ile
+pld:PalTV_083	rRNA	complement(89056..90482)	16S ribosomal RNA
+pld:PalTV_084	CDS	complement(90580..91545)	trpS; tryptophanyl-tRNA synthetase
+pld:PalTV_085	CDS	complement(91542..91685)	rpmG; ribosomal protein L33
+pld:PalTV_086	CDS	complement(91709..91924)	rpmB; ribosomal protein L28
+pld:PalTV_087	CDS	complement(91934..92764)	rpoH; RNA polymerase, sigma 32 subunit, RpoH
+pld:PalTV_088	CDS	92821..93423	rsmD; 16S rRNA m(2)G-966 methyltransferase
+pld:PalTV_089	CDS	complement(93373..94863)	lysS; lysyl-tRNA synthetase (class II)
+pld:PalTV_090	CDS	complement(94864..95730)	prfB; peptide chain release factor 2
+pld:PalTV_091	CDS	complement(95886..97268)	thrC; L-threonine synthase
+pld:PalTV_092	CDS	complement(97310..98557)	homoserine dehydrogenase
+pld:PalTV_093	CDS	complement(98577..98927)	rplS; ribosomal protein L19
+pld:PalTV_094	CDS	complement(98981..99472)	rimM; 16S rRNA processing protein RimM
+pld:PalTV_095	CDS	complement(99481..99729)	rpsP; ribosomal protein S16
+pld:PalTV_096	CDS	complement(99758..100774)	ilvC; ketol-acid reductoisomerase
+pld:PalTV_097	CDS	complement(100958..101437)	ilvH; acetolactate synthase, small subunit
+pld:PalTV_098	CDS	complement(101444..103180)	ilvI; acetolactate synthase, large subunit
+pld:PalTV_099	CDS	103298..103912	marC; multiple antibiotic transporter
+pld:PalTV_100	CDS	complement(103898..106306)	clpB; ATP-dependent chaperone protein ClpB
+pld:PalTV_101	CDS	complement(106303..107241)	rluD; 23S RNA-specific pseudouridylate synthase
+pld:PalTV_102	CDS	complement(107238..107603)	lspA; Lipoprotein signal peptidase
+pld:PalTV_103	CDS	complement(107600..110437)	ileS; Isoleucyl-tRNA synthetase
+pld:PalTV_104	CDS	complement(110448..110708)	rpsT; ribosomal protein S20
+pld:PalTV_105	CDS	complement(110701..111696)	cgtA; Obg family GTPase CgtA
+pld:PalTV_106	CDS	complement(111684..111935)	rpmA; ribosomal protein L27
+pld:PalTV_107	CDS	complement(111940..112269)	rplU; ribosomal protein L21
+pld:PalTV_108	CDS	complement(112294..112692)	ssb; single-stranded DNA-binding protein
+pld:PalTV_109	CDS	complement(112749..113099)	rplQ; ribosomal protein L17
+pld:PalTV_110	CDS	complement(113119..114096)	rpoA; DNA-directed RNA polymerase, alpha subunit
+pld:PalTV_111	CDS	complement(114115..114726)	rpsD; ribosomal protein S4
+pld:PalTV_112	CDS	complement(114747..115133)	rpsK; ribosomal protein S11
+pld:PalTV_113	CDS	complement(115152..115502)	rpsM; ribosomal protein S13
+pld:PalTV_114	CDS	complement(115511..115624)	rpmJ; ribosomal protein L36
+pld:PalTV_115	CDS	complement(115624..116859)	secY; protein translocase subunit secY/sec61 alpha
+pld:PalTV_116	CDS	complement(116859..117287)	rplO; ribosomal protein L15
+pld:PalTV_117	CDS	complement(117334..117837)	rpsE; ribosomal protein S5
+pld:PalTV_118	CDS	complement(117909..118259)	rplR; ribosomal protein L18
+pld:PalTV_119	CDS	complement(118270..118797)	rplF; ribosomal protein L6
+pld:PalTV_120	CDS	complement(118823..119206)	rpsH; ribosomal protein S8
+pld:PalTV_121	CDS	complement(119226..119531)	rpsN; ribosomal protein S14
+pld:PalTV_122	CDS	complement(119547..120038)	rplE; ribosomal protein L5
+pld:PalTV_123	CDS	complement(120035..120337)	rplX; ribosomal protein L24
+pld:PalTV_124	CDS	complement(120356..120727)	rplN; ribosomal protein L14
+pld:PalTV_125	CDS	complement(120745..120999)	rpsQ; ribosomal protein S17
+pld:PalTV_126	CDS	complement(121001..121189)	rpmC; ribosomal protein L29
+pld:PalTV_127	CDS	complement(121192..121605)	rplP; ribosomal protein L16
+pld:PalTV_128	CDS	complement(121592..122299)	rpsC; ribosomal protein S3
+pld:PalTV_129	CDS	complement(122307..122648)	rplV; ribosomal protein L22
+pld:PalTV_130	CDS	complement(122636..122941)	rpsS; ribosomal protein S19
+pld:PalTV_131	CDS	complement(122980..123768)	rplB; ribosomal protein L2
+pld:PalTV_132	CDS	complement(123776..124057)	rplW; ribosomal protein L23
+pld:PalTV_133	CDS	complement(124060..124674)	rplD; ribosomal protein L4
+pld:PalTV_134	CDS	complement(124658..125263)	rplC; ribosomal protein L3
+pld:PalTV_135	CDS	complement(125266..125580)	rpsJ; ribosomal protein S10
+pld:PalTV_136	CDS	complement(125584..126786)	tufA; translation elongation factor Tu
+pld:PalTV_137	CDS	complement(126802..128925)	fusA; translation elongation factor G
+pld:PalTV_138	CDS	complement(128943..129416)	rpsG; ribosomal protein S7
+pld:PalTV_139	CDS	complement(129429..129803)	rpsL; ribosomal protein S12
+pld:PalTV_140	CDS	complement(129865..133995)	rpoC; DNA-directed RNA polymerase, beta' subunit
+pld:PalTV_141	CDS	complement(134037..138101)	rpoB; DNA-directed RNA polymerase, beta subunit
+pld:PalTV_142	CDS	complement(138156..138518)	rplL; ribosomal protein L12
+pld:PalTV_143	CDS	complement(138515..139018)	rplJ; ribosomal protein L10
+pld:PalTV_144	CDS	complement(139053..139487)	rplK; ribosomal protein L11
+pld:PalTV_145	CDS	complement(139492..140016)	nusG; transcription antitermination protein nusG
+pld:PalTV_146	CDS	complement(140042..140377)	secE; preprotein translocase, SecE subunit
+pld:PalTV_147	tRNA	complement(140393..140465)	tRNA-Trp
+pld:PalTV_148	tRNA	complement(140472..140543)	tRNA-Thr
+pld:PalTV_149	tRNA	complement(140551..140621)	tRNA-Gly
+pld:PalTV_150	tRNA	complement(140624..140707)	tRNA-Tyr
+pld:PalTV_151	CDS	complement(140730..141584)	cyoE; protoheme IX farnesyltransferase
+pld:PalTV_152	CDS	complement(141574..141861)	cyoD; cytochrome bo3 quinol oxidase subunit 4
+pld:PalTV_153	CDS	complement(141858..142412)	cyoC; cytochrome bo3 quinol oxidase subunit 3
+pld:PalTV_154	CDS	complement(142405..144381)	cyoB; cytochrome bo3 quinol oxidase subunit 1
+pld:PalTV_155	CDS	complement(144384..145199)	cyoA; cytochrome bo3 quinol oxidase subunit 2
+pld:PalTV_156	CDS	complement(145233..146981)	rpoD; RNA polymerase, sigma 70 subunit, RpoD
+pld:PalTV_157	CDS	complement(147118..147333)	rpsU; ribosomal protein S21
+pld:PalTV_158	CDS	147374..148396	gcp; O-sialoglycoprotein endopeptidase
+pld:PalTV_159	CDS	complement(148388..149155)	ksgA; dimethyladenosine transferase
+pld:PalTV_160	CDS	complement(149155..150513)	dnaB; primary replicative DNA helicase
+pld:PalTV_161	CDS	complement(150497..150946)	rplI; ribosomal protein L9
+pld:PalTV_162	CDS	complement(150964..151185)	rpsR; ribosomal protein S18
+pld:PalTV_163	CDS	complement(151205..151486)	rpsF; ribosomal protein S6
+pld:PalTV_164	tRNA	complement(151510..151583)	tRNA-Asp
+pld:PalTV_165	CDS	complement(151569..152300)	hypothetical protein
+pld:PalTV_166	tRNA	complement(151591..151663)	tRNA-Val
+pld:PalTV_167	CDS	complement(152304..153398)	aceF; pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase component
+pld:PalTV_168	CDS	complement(153410..156025)	aceE; pyruvate dehydrogenase E1 component, homodimeric type
+pld:PalTV_169	CDS	complement(156067..156945)	dapA; dihydrodipicolinate synthase
+pld:PalTV_170	CDS	complement(156942..158039)	dnaX; DNA polymerase III, subunit gamma and tau
+pld:PalTV_171	CDS	complement(158036..158962)	gnd; 6-phosphogluconate dehydrogenase, decarboxylating
+pld:PalTV_172	tRNA	complement(158992..159075)	tRNA-Ser
+pld:PalTV_173	CDS	complement(159086..159859)	ABC-type polysaccharide/polyol phosphate export systems, permease component
+pld:PalTV_174	CDS	complement(159862..160791)	ABC-type multidrug transport system, ATPase component
+pld:PalTV_175	tRNA	complement(160806..160879)	tRNA-Gly
+pld:PalTV_176	tRNA	complement(160891..160963)	tRNA-Glu
+pld:PalTV_177	CDS	161034..161252	infA; translation initiation factor IF-1
+pld:PalTV_178	CDS	161291..162334	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+pld:PalTV_179	CDS	complement(162335..163573)	sufS; cysteine desulfurase-like protein, SufS subfamily
+pld:PalTV_180	CDS	complement(163563..164600)	sufD; ABC-type transport system involved in Fe-S cluster assembly, permease component
+pld:PalTV_181	CDS	complement(164593..165330)	sufC; FeS assembly ATPase SufC
+pld:PalTV_182	CDS	complement(165332..166753)	sufB; Iron-regulated ABC transporter membrane component SufB
+pld:PalTV_183	CDS	complement(166857..168029)	hisZ; ATP phosphoribosyltransferase involved in histidine biosynthesis
+pld:PalTV_184	CDS	complement(168026..168340)	IPP transferase family protein
+pld:PalTV_185	CDS	complement(168416..168970)	miaA; tRNA dimethylallyltransferase
+pld:PalTV_186	CDS	complement(168972..170633)	mutL; DNA mismatch repair protein mutL
+pld:PalTV_187	CDS	complement(170653..170970)	hypothetical protein
+pld:PalTV_188	CDS	complement(170972..172807)	ilvD; dihydroxy-acid dehydratase
+pld:PalTV_189	CDS	complement(172826..175144)	lon; ATP-dependent protease La
+pld:PalTV_190	CDS	175435..176745	hisS; histidyl-tRNA synthetase
+pld:PalTV_191	CDS	176717..178000	engA; small GTP-binding protein domain protein
+pld:PalTV_192	tRNA	complement(178005..178078)	tRNA-Arg
+pld:PalTV_193	tRNA	complement(178092..178180)	tRNA-Ser
+pld:PalTV_194	CDS	complement(178187..179446)	aspartokinase
+pld:PalTV_195	CDS	complement(179448..180749)	alaS; alanyl-tRNA synthetase
+pld:PalTV_196	CDS	180943..183468	mutS; DNA mismatch repair protein MutS
+pld:PalTV_197	CDS	complement(183469..184326)	lipA; lipoate synthase
+pld:PalTV_198	CDS	complement(184323..184880)	lipB; lipoate-protein ligase B
+pld:PalTV_199	tRNA	complement(184983..185071)	tRNA-Ser
+pld:PalTV_200	tRNA	complement(185075..185162)	tRNA-Ser
+pld:PalTV_201	CDS	complement(185170..185592)	hypothetical protein
+pld:PalTV_202	CDS	complement(185589..186071)	ruvC; crossover junction endodeoxyribonuclease RuvC
+pld:PalTV_203	CDS	complement(186073..187764)	aspS; aspartyl-tRNA synthetase
+pld:PalTV_204	CDS	187876..189222	mgtE; Mg2+ transporter MgtE
+pld:PalTV_205	CDS	complement(189223..190632)	cls; phosphatidylserine/phosphatidylglycerophosphate/cardiolipin synthase
+pld:PalTV_206	CDS	complement(190629..191825)	clpX; ATP-dependent protease ATP-binding subunit
+pld:PalTV_207	CDS	complement(191839..192444)	clpP; ATP-dependent Clp protease proteolytic subunit
+pld:PalTV_208	tRNA	complement(192466..192537)	tRNA-His
+pld:PalTV_209	tRNA	complement(192543..192616)	tRNA-Arg
+pld:PalTV_210	tRNA	complement(192620..192693)	tRNA-Pro
+pld:PalTV_211	CDS	complement(192710..194086)	cysS; cysteinyl-tRNA synthetase
+pld:PalTV_212	CDS	complement(194096..195724)	glnS; glutaminyl-tRNA synthetase
+pld:PalTV_213	CDS	complement(195708..196559)	aroE; shikimate 5-dehydrogenase
+pld:PalTV_214	CDS	196574..197023	def; peptide deformylase
+pld:PalTV_215	CDS	197028..197996	glk; glucokinase
+pld:PalTV_216	CDS	complement(198037..199401)	zwf; glucose-6-phosphate 1-dehydrogenase
+pld:PalTV_217	CDS	199484..200866	MFS transporter, sugar porter (SP) family
+pld:PalTV_218	CDS	complement(200868..201701)	metF; 5,10-methylenetetrahydrofolate reductase
+pld:PalTV_219	CDS	201886..203193	Na+/H+ dicarboxylate symporter
+pld:PalTV_220	CDS	203193..203618	aroQ; 3-dehydroquinate dehydratase II
+pld:PalTV_221	CDS	complement(203600..204496)	mraW; S-adenosyl-methyltransferase MraW
+pld:PalTV_222	ncRNA	complement(204557..204821)	Bacterial RNase P class A
+pld:PalTV_223	CDS	complement(204837..205208)	rpsI; ribosomal protein S9
+pld:PalTV_224	CDS	complement(205220..205648)	rplM; ribosomal protein L13
+pld:PalTV_225	CDS	complement(205661..206287)	hisG; ATP phosphoribosyltransferase
+pld:PalTV_226	CDS	206363..206632	hypothetical protein
+pld:PalTV_227	CDS	206640..208067	gatA; glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase, A subunit
+pld:PalTV_228	CDS	208078..209508	gatB; glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase, B subunit
+pld:PalTV_229	CDS	209505..210965	crtI; phytoene desaturase
+pld:PalTV_230	CDS	211210..211815	crtB; phytoene/squalene synthetase
+pld:PalTV_231	CDS	211809..212951	crtY; lycopene cyclase protein
+pld:PalTV_232	CDS	complement(212937..214022)	prfA; peptide chain release factor 1
+pld:PalTV_233	CDS	214126..215055	prs; ribose-phosphate pyrophosphokinase
+pld:PalTV_234	CDS	215079..215648	rplY; ribosomal protein L25
+pld:PalTV_235	tRNA	215653..215726	tRNA-Met
+pld:PalTV_236	tRNA	complement(215733..215805)	tRNA-Asn
+pld:PalTV_237	CDS	complement(215814..216629)	trpC; indole-3-glycerol phosphate synthase
+pld:PalTV_238	CDS	complement(216626..217651)	trpD; anthranilate phosphoribosyltransferase
+pld:PalTV_239	CDS	complement(217653..218171)	trpG; anthranilate synthase, component II
+pld:PalTV_240	CDS	complement(218247..219722)	trpE; anthranilate synthase, component I
+pld:PalTV_241	tRNA	complement(219744..219815)	tRNA-Lys
+pld:PalTV_242	CDS	complement(219854..220483)	upp; uracil phosphoribosyltransferase
+pld:PalTV_243	tRNA	complement(220533..220606)	tRNA-Val
+pld:PalTV_244	CDS	complement(220605..221357)	ATPase involved in chromosome partitioning
+pld:PalTV_245	tRNA	complement(221550..221633)	tRNA-Leu
+pld:PalTV_246	tRNA	complement(221637..221707)	tRNA-Cys
+pld:PalTV_247	tRNA	221764..221836	tRNA-Ala
+pld:PalTV_248	CDS	221857..222174	monothiol glutaredoxin, Grx4 family
+pld:PalTV_249	CDS	222192..223409	argG; argininosuccinate synthase
+pld:PalTV_250	CDS	223490..223780	groES; chaperonin GroES
+pld:PalTV_251	CDS	223819..225444	groEL; chaperonin GroEL
+pld:PalTV_252	CDS	complement(225503..227014)	rpsA; ribosomal protein S1
+pld:PalTV_253	CDS	complement(227139..228359)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+pld:PalTV_254	CDS	complement(228464..229558)	pheA; prephenate dehydratase
+pld:PalTV_255	CDS	complement(229582..232077)	gyrA; DNA gyrase subunit A
+pld:PalTV_256	CDS	complement(232099..234576)	secA; preprotein translocase, SecA subunit
+pld:PalTV_257	tRNA	complement(234590..234663)	tRNA-Arg
+pld:PalTV_258	CDS	complement(234744..235757)	argF; ornithine carbamoyltransferase
+pld:PalTV_259	CDS	complement(235754..236185)	atpC; ATP synthase F1, epsilon subunit
+pld:PalTV_260	CDS	complement(236199..237560)	atpD; ATP synthase F1, beta subunit
+pld:PalTV_261	CDS	complement(237570..238427)	atpG; ATP synthase F1, gamma subunit
+pld:PalTV_262	CDS	complement(238440..239972)	atpA; ATP synthase F1, alpha subunit
+pld:PalTV_263	CDS	complement(239969..240493)	atpH; ATP synthase F1, delta subunit
+pld:PalTV_264	CDS	complement(240490..240960)	atpF; ATP synthase F0, B subunit
+pld:PalTV_265	CDS	complement(240992..241216)	atpE; ATP synthase F0, C subunit
+pld:PalTV_266	CDS	complement(241241..242068)	atpB; ATP synthase F0, A subunit
+pld:PalTV_267	CDS	complement(242080..243879)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme gidA
+pld:PalTV_268	CDS	complement(243884..245236)	trmE; tRNA modification GTPase TrmE
+pld:PalTV_269	CDS	complement(245229..245858)	yidC; membrane protein insertase
+pld:PalTV_270	CDS	complement(245878..246195)	RNase P protein component
+pld:PalTV_271	CDS	complement(246195..246329)	rpmH; ribosomal protein L34
+pld:PalTV_272	CDS	246385..247527	dnaN; DNA polymerase III, beta subunit
+pld:PalTV_273	CDS	247533..249785	gyrB; type IIA topoisomerase (DNA gyrase/topo II, topoisomerase IV), B subunit
+pld:PalTV_274	tRNA	249786..249859	tRNA-Met
+pld:PalTV_275	CDS	complement(249819..251777)	glyS; glycyl-tRNA synthetase beta chain
+pld:PalTV_276	CDS	complement(251774..252634)	glyQ; glycyl-tRNA synthetase alpha chain
+pld:PalTV_277	CDS	252793..254349	ilvA; threonine ammonia-lyase, biosynthetic, long form
+pld:PalTV_278	CDS	254390..255193	flavodoxin reductase family protein
+pld:PalTV_279	CDS	255186..255527	nuoA; NADH:ubiquinone oxidoreductase subunit 3 (chain A)
+pld:PalTV_280	CDS	255569..256183	nuoB; NADH dehydrogenase subunit B
+pld:PalTV_281	CDS	256176..257939	nuoC; NADH dehydrogenase subunit C/D
+pld:PalTV_282	CDS	257957..258451	nuoE; NADH dehydrogenase subunit E
+pld:PalTV_283	CDS	258451..259752	nuoF; NADH dehydrogenase subunit F
+pld:PalTV_284	CDS	259749..262433	nuoG; NADH dehydrogenase subunit G
+pld:PalTV_285	CDS	262490..263371	nuoH; NADH dehydrogenase subunit H
+pld:PalTV_286	CDS	263373..263906	nuoI; NADH dehydrogenase subunit I
+pld:PalTV_287	CDS	263919..264395	nuoJ; NADH dehydrogenase subunit J
+pld:PalTV_288	CDS	264395..264703	nuoK; NADH dehydrogenase subunit K
+pld:PalTV_289	CDS	264700..266595	nuoL; NADH dehydrogenase subunit L
+pld:PalTV_290	CDS	266592..268067	nuoM; NADH dehydrogenase subunit M
+pld:PalTV_291	CDS	268071..269462	nuoN; NADH:ubiquinone oxidoreductase subunit 2 (chain N)
+pld:PalTV_292	CDS	complement(269455..270237)	dapF; diaminopimelate epimerase
+pld:PalTV_293	CDS	complement(270266..271540)	lysA; diaminopimelate decarboxylase
+pld:PalTV_294	CDS	complement(271545..272939)	argH; argininosuccinate lyase
+pld:PalTV_295	tRNA	272980..273052	tRNA-Thr
+pld:PalTV_296	CDS	complement(273062..274075)	putative permease
+pld:PalTV_297	CDS	complement(274094..275035)	thrB; putative homoserine kinase type II (protein kinase fold)
+pld:PalTV_298	CDS	complement(275044..276093)	hisC; histidinol phosphate aminotransferase apoenzyme
+pld:PalTV_299	CDS	complement(276105..276872)	hisF; imidazoleglycerol-phosphate synthase
+pld:PalTV_300	CDS	complement(276881..277606)	hisA; 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino) imidazole-4-carboxamide isomerase
+pld:PalTV_301	CDS	complement(277621..278238)	hisH; imidazole glycerol phosphate synthase, glutamine amidotransferase subunit
+pld:PalTV_302	CDS	complement(278250..278843)	hisB; imidazoleglycerol-phosphate dehydratase
+pld:PalTV_303	tRNA	278900..278972	tRNA-Phe
+pld:PalTV_304	tRNA	278980..279050	tRNA-Gln
+pld:PalTV_305	tRNA	279058..279130	tRNA-Thr
+pld:PalTV_306	CDS	complement(279525..279965)	smpB; tmRNA-binding protein
+pld:PalTV_307	CDS	280059..280607	grpE; molecular chaperone GrpE (heat shock protein)

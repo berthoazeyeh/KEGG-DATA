@@ -1,0 +1,318 @@
+plc:PAD_001	CDS	I:1..1899	dnaK; Chaperone protein DnaK
+plc:PAD_002	CDS	I:1922..2980	dnaJ; Chaperone protein DnaJ
+plc:PAD_003	CDS	I:complement(3011..5140)	pnp; Polyribonucleotide nucleotidyltransferase
+plc:PAD_004	CDS	I:complement(5164..5433)	rpsO; 30S ribosomal protein S15
+plc:PAD_005	CDS	I:complement(5435..5785)	rbfA; Ribosome-binding factor A
+plc:PAD_006	CDS	I:complement(5782..7953)	infB; Translation initiation factor IF-2
+plc:PAD_007	CDS	I:complement(7980..9266)	nusA; Transcription elongation protein NusA
+plc:PAD_008	tRNA	I:complement(9327..9400)	tRNA-Met
+plc:PAD_009	tRNA	I:complement(9424..9508)	tRNA-Leu
+plc:PAD_010	CDS	I:complement(9740..11548)	ftsH; ATP-dependent zinc metalloprotease FtsH
+plc:PAD_011	CDS	I:complement(11576..12061)	greA; Transcript cleavage factor GreA
+plc:PAD_012	CDS	I:complement(12064..15294)	carB; Carbamoyl-phosphate synthase large chain
+plc:PAD_013	CDS	I:complement(15314..16399)	carA; Carbamoyl-phosphate synthase small chain
+plc:PAD_014	CDS	I:complement(16392..17207)	dapB; Dihydrodipicolinate reductase
+plc:PAD_015	CDS	I:complement(17246..17827)	YGGT family protein
+plc:PAD_016	CDS	I:17894..19084	tyrS; Tyrosine--tRNA ligase
+plc:PAD_017	tRNA	I:19074..19148	tRNA-Ala
+plc:PAD_018	CDS	I:complement(19129..20286)	dapE; Succinyl-diaminopimelate desuccinylase
+plc:PAD_019	CDS	I:complement(20289..21323)	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+plc:PAD_020	CDS	I:complement(21333..22115)	map; Methionine aminopeptidase
+plc:PAD_021	CDS	I:22204..22890	rpsB; 30S ribosomal protein S2
+plc:PAD_022	CDS	I:22898..23686	tsf; Elongation factor Ts
+plc:PAD_023	CDS	I:23689..24240	frr; Ribosome recycling factor
+plc:PAD_024	CDS	I:24272..27070	dnaE; DNA polymerase III subunit alpha
+plc:PAD_025	CDS	I:27075..28328	tilS; tRNA(Ile)-lysidine synthase
+plc:PAD_026	CDS	I:28367..29623	rho; Transcription termination factor Rho
+plc:PAD_027	CDS	I:29647..30732	aroF; Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+plc:PAD_028	CDS	I:30754..33033	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+plc:PAD_029	CDS	I:complement(33045..33383)	hisE; Phosphoribosyl-ATP pyrophosphatase
+plc:PAD_030	CDS	I:complement(33396..34700)	hslU; ATP-dependent protease ATPase subunit HslU
+plc:PAD_031	CDS	I:complement(34733..35254)	hslV; ATP-dependent protease subunit HslV
+plc:PAD_032	CDS	I:35353..35565	rpmE; 50S ribosomal protein L31
+plc:PAD_033	CDS	I:35565..36089	aroK; Shikimate kinase
+plc:PAD_034	CDS	I:36076..37170	aroB; 3-dehydroquinate synthase
+plc:PAD_035	CDS	I:37179..38834	Putative transmembrane secretion effector
+plc:PAD_036	CDS	I:complement(38851..40506)	rne; Ribonuclease E
+plc:PAD_037	CDS	I:40600..41538	rluC; Ribosomal large subunit pseudouridine synthase C
+plc:PAD_038	CDS	I:41564..41728	rpmF; 50S ribosomal protein L32
+plc:PAD_039	CDS	I:41750..41986	acpP; Acyl carrier protein
+plc:PAD_040	CDS	I:41979..42977	holB; DNA polymerase III subunit delta'
+plc:PAD_041	CDS	I:42980..44074	mucD; Serine protease MucD
+plc:PAD_042	CDS	I:44093..45763	leuA; 2-isopropylmalate synthase
+plc:PAD_043	CDS	I:complement(45806..46012)	cspB; Cold shock protein CspB
+plc:PAD_044	CDS	I:46246..47334	aroC; Chorismate synthase
+plc:PAD_045	CDS	I:47334..48743	leuC; 3-isopropylmalate dehydratase large subunit
+plc:PAD_046	CDS	I:48754..49380	leuD; 3-isopropylmalate dehydratase small subunit
+plc:PAD_047	CDS	I:49401..50492	leuB; 3-isopropylmalate dehydrogenase
+plc:PAD_048	CDS	I:50514..51605	asd; Aspartate-semialdehyde dehydrogenase
+plc:PAD_049	CDS	I:51614..52447	truA; tRNA pseudouridine synthase A
+plc:PAD_050	CDS	I:52467..53108	trpF; N-(5'-phosphoribosyl)anthranilate isomerase
+plc:PAD_051	CDS	I:53142..53747	argO; Arginine exporter protein ArgO
+plc:PAD_052	CDS	I:53757..55013	serS; Serine--tRNA ligase
+plc:PAD_053	tRNA	I:55023..55108	tRNA-Leu
+plc:PAD_054	CDS	I:55122..55478	tusE; Sulfurtransferase TusE
+plc:PAD_055	CDS	I:55483..56055	nfuA; Fe/S biogenesis protein NfuA
+plc:PAD_056	CDS	I:56052..56474	sufE; Cysteine desulfuration protein SufE
+plc:PAD_057	CDS	I:complement(56455..56838)	hisI; Phosphoribosyl-AMP cyclohydrolase
+plc:PAD_058	CDS	I:complement(56856..57776)	sohB; Putative protease SohB
+plc:PAD_059	CDS	I:complement(57810..58514)	dnaQ; DNA polymerase III subunit epsilon
+plc:PAD_060	CDS	I:complement(58489..60888)	pheT; Phenylalanine--tRNA ligase beta subunit
+plc:PAD_061	CDS	I:complement(60895..61893)	pheS; Phenylalanine--tRNA ligase alpha subunit
+plc:PAD_062	CDS	I:complement(61897..62253)	rplT; 50S ribosomal protein L20
+plc:PAD_063	CDS	I:complement(62276..62467)	rpmI; 50S ribosomal protein L35
+plc:PAD_064	CDS	I:complement(62476..62826)	infC; Translation initiation factor IF-3
+plc:PAD_065	CDS	I:63196..64863	proS; Proline--tRNA ligase
+plc:PAD_066	CDS	I:complement(64875..65687)	era; GTPase Era
+plc:PAD_067	CDS	I:complement(65680..66339)	rnc; Ribonuclease 3
+plc:PAD_068	CDS	I:complement(66419..68221)	lepA; Elongation factor 4
+plc:PAD_069	CDS	I:complement(68230..69444)	argD; Acetylornithine/succinyldiaminopimelate aminotransferase
+plc:PAD_070	CDS	I:69580..72234	valS; Valine--tRNA ligase
+plc:PAD_071	gene	I:72261..72637	ahpC; pseudogene
+plc:PAD_072	CDS	I:72644..72844	fdx; Ferredoxin
+plc:PAD_073	CDS	I:complement(72826..73638)	trpA; Tryptophan synthase alpha chain
+plc:PAD_074	CDS	I:complement(73638..74816)	trpB; Tryptophan synthase beta chain
+plc:PAD_075	CDS	I:74941..75423	ybeY; Putative rRNA maturation factor YbeY
+plc:PAD_076	CDS	I:75444..78038	leuS; Leucine--tRNA ligase
+plc:PAD_077	CDS	I:78035..78988	holA; DNA polymerase III subunit delta
+plc:PAD_078	CDS	I:complement(78972..80390)	lpd; Dihydrolipoyl dehydrogenase
+plc:PAD_079	CDS	I:complement(80406..81368)	sucB; Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+plc:PAD_080	CDS	I:complement(81530..84220)	sucA; 2-oxoglutarate dehydrogenase E1 component
+plc:PAD_081	CDS	I:complement(84211..85674)	gltX; Glutamate--tRNA ligase
+plc:PAD_082	CDS	I:complement(85675..87093)	deaD; Cold-shock DEAD box protein A
+plc:PAD_083	rRNA	I:complement(87117..87231)	rrf; 5S ribosomal RNA
+plc:PAD_084	rRNA	I:complement(87275..90174)	rrl; 23S ribosomal RNA
+plc:PAD_085	tRNA	I:complement(90214..90288)	tRNA-Ile
+plc:PAD_086	rRNA	I:complement(90335..91873)	rrs; 16S ribosomal RNA
+plc:PAD_087	CDS	I:complement(91992..92966)	trpS; Tryptophan--tRNA ligase
+plc:PAD_088	CDS	I:complement(92967..93116)	rpmG; 50S ribosomal protein L33
+plc:PAD_089	CDS	I:complement(93113..93352)	rpmB; 50S ribosomal protein L28
+plc:PAD_090	CDS	I:complement(93362..94216)	rpoH; RNA polymerase sigma factor RpoH
+plc:PAD_091	CDS	I:94315..94899	rsmD; Ribosomal RNA small subunit methyltransferase D
+plc:PAD_092	CDS	I:complement(94870..96357)	lysS; Lysine--tRNA ligase
+plc:PAD_093	CDS	I:complement(96359..97336)	prfB; Peptide chain release factor 2
+plc:PAD_094	CDS	I:complement(97408..98790)	thrC; Threonine synthase
+plc:PAD_095	CDS	I:complement(98822..100102)	hom; Homoserine dehydrogenase
+plc:PAD_096	CDS	I:complement(100120..100476)	rplS; 50S ribosomal protein L19
+plc:PAD_097	CDS	I:complement(100504..100974)	rimM; Ribosome maturation factor RimM
+plc:PAD_098	CDS	I:complement(100995..101231)	rpsP; 30S ribosomal protein S16
+plc:PAD_099	CDS	I:complement(101251..102267)	ilvC; Ketol-acid reductoisomerase
+plc:PAD_100	CDS	I:complement(102292..102777)	ilvH; Acetolactate synthase isozyme 3 small subunit
+plc:PAD_101	CDS	I:complement(102784..104514)	ilvI; Acetolactate synthase isozyme 3 large subunit
+plc:PAD_102	CDS	I:104667..105293	marC; Inner membrane protein MarC
+plc:PAD_103	CDS	I:complement(105276..107156)	clpB; Chaperone protein ClpB
+plc:PAD_104	CDS	I:complement(107181..108107)	rluD; Ribosomal large subunit pseudouridine synthase D
+plc:PAD_105	CDS	I:complement(108114..108521)	lspA; Lipoprotein signal peptidase
+plc:PAD_106	CDS	I:complement(108541..111399)	ileS; Isoleucine--tRNA ligase
+plc:PAD_107	CDS	I:complement(111409..111687)	rpsT; 30S ribosomal protein S20
+plc:PAD_108	CDS	I:complement(111687..112682)	obg; GTPase Obg
+plc:PAD_109	CDS	I:complement(112693..112944)	rpmA; 50S ribosomal protein L27
+plc:PAD_110	CDS	I:complement(112950..113267)	rplU; 50S ribosomal protein L21
+plc:PAD_111	CDS	I:complement(113397..113819)	ssb; Single-stranded DNA-binding protein Ssb
+plc:PAD_112	CDS	I:complement(113889..114239)	rplQ; 50S ribosomal protein L17
+plc:PAD_113	CDS	I:complement(114269..115249)	rpoA; DNA-directed RNA polymerase subunit alpha
+plc:PAD_114	CDS	I:complement(115269..115883)	rpsD; 30S ribosomal protein S4
+plc:PAD_115	CDS	I:complement(115905..116282)	rpsK; 30S ribosomal protein S11
+plc:PAD_116	CDS	I:complement(116307..116669)	rpsM; 30S ribosomal protein S13
+plc:PAD_117	CDS	I:complement(116682..116795)	rpmJ; 50S ribosomal protein L36
+plc:PAD_118	CDS	I:complement(116795..118057)	secY; Protein translocase subunit SecY
+plc:PAD_119	CDS	I:complement(118057..118491)	rplO; 50S ribosomal protein L15
+plc:PAD_120	CDS	I:complement(118494..118673)	rpmD; 50S ribosomal protein L30
+plc:PAD_121	CDS	I:complement(118673..119185)	rpsE; 30S ribosomal protein S5
+plc:PAD_122	CDS	I:complement(119210..119569)	rplR; 50S ribosomal protein L18
+plc:PAD_123	CDS	I:complement(119587..120114)	rplF; 50S ribosomal protein L6
+plc:PAD_124	CDS	I:complement(120144..120527)	rpsH; 30S ribosomal protein S8
+plc:PAD_125	CDS	I:complement(120549..120854)	rpsN; 30S ribosomal protein S14
+plc:PAD_126	CDS	I:complement(120875..121408)	rplE; 50S ribosomal protein L5
+plc:PAD_127	CDS	I:complement(121405..121707)	rplX; 50S ribosomal protein L24
+plc:PAD_128	CDS	I:complement(121726..122097)	rplN; 50S ribosomal protein L14
+plc:PAD_129	CDS	I:complement(122113..122370)	rpsQ; 30S ribosomal protein S17
+plc:PAD_130	CDS	I:complement(122367..122567)	rpmC; 50S ribosomal protein L29
+plc:PAD_131	CDS	I:complement(122571..122984)	rplP; 50S ribosomal protein L16
+plc:PAD_132	CDS	I:complement(122986..123657)	rpsC; 30S ribosomal protein S3
+plc:PAD_133	CDS	I:complement(123674..123997)	rplV; 50S ribosomal protein L22
+plc:PAD_134	CDS	I:complement(124001..124276)	rpsS; 30S ribosomal protein S19
+plc:PAD_135	CDS	I:complement(124278..125099)	rplB; 50S ribosomal protein L2
+plc:PAD_136	CDS	I:complement(125109..125396)	rplW; 50S ribosomal protein L23
+plc:PAD_137	CDS	I:complement(125396..126010)	rplD; 50S ribosomal protein L4
+plc:PAD_138	CDS	I:complement(126007..126636)	rplC; 50S ribosomal protein L3
+plc:PAD_139	CDS	I:complement(126639..126953)	rpsJ; 30S ribosomal protein S10
+plc:PAD_140	CDS	I:complement(126963..128156)	tufA; Elongation factor Tu
+plc:PAD_141	CDS	I:complement(128172..130307)	fusA; Elongation factor G
+plc:PAD_142	CDS	I:complement(130342..130815)	rpsG; 30S ribosomal protein S7
+plc:PAD_143	CDS	I:complement(130819..131190)	rpsL; 30S ribosomal protein S12
+plc:PAD_144	CDS	I:complement(131245..135414)	rpoC; DNA-directed RNA polymerase subunit beta'
+plc:PAD_145	CDS	I:complement(135452..139531)	rpoB; DNA-directed RNA polymerase subunit beta
+plc:PAD_146	CDS	I:complement(139574..139945)	rplL; 50S ribosomal protein L7/L12
+plc:PAD_147	CDS	I:complement(139961..140470)	rplJ; 50S ribosomal protein L10
+plc:PAD_148	CDS	I:complement(140482..141168)	rplA; 50S ribosomal protein L1
+plc:PAD_149	CDS	I:complement(141165..141614)	rplK; 50S ribosomal protein L11
+plc:PAD_150	CDS	I:complement(141651..142187)	nusG; Transcription antitermination protein NusG
+plc:PAD_151	CDS	I:complement(142191..142628)	secE; Preprotein translocase subunit SecE
+plc:PAD_152	tRNA	I:complement(142571..142642)	tRNA-Trp
+plc:PAD_153	tRNA	I:complement(142655..142726)	tRNA-Thr
+plc:PAD_154	tRNA	I:complement(142738..142810)	tRNA-Gly
+plc:PAD_155	tRNA	I:complement(142815..142895)	tRNA-Tyr
+plc:PAD_156	CDS	I:complement(142954..143805)	cyoE; Protoheme IX farnesyltransferase
+plc:PAD_157	CDS	I:complement(143795..144088)	cyoD; Cytochrome o ubiquinol oxidase protein CyoD
+plc:PAD_158	CDS	I:complement(144095..144688)	cyoC; Cytochrome o ubiquinol oxidase subunit 3
+plc:PAD_159	CDS	I:complement(144660..146618)	cyoB; Ubiquinol oxidase subunit 1
+plc:PAD_160	CDS	I:complement(146634..147452)	cyoA; Ubiquinol oxidase subunit 2
+plc:PAD_161	CDS	I:complement(147487..149115)	rpoD; RNA polymerase sigma factor RpoD
+plc:PAD_162	CDS	I:complement(149241..149456)	rpsU; 30S ribosomal protein S21
+plc:PAD_163	CDS	I:149499..150527	tsaD; tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein
+plc:PAD_164	CDS	I:complement(150528..151310)	rsmA; Ribosomal RNA small subunit methyltransferase A
+plc:PAD_165	CDS	I:complement(151312..152676)	dnaB; Replicative DNA helicase
+plc:PAD_166	CDS	I:complement(152670..153104)	rplI; 50S ribosomal protein L9
+plc:PAD_167	CDS	I:complement(153122..153343)	rpsR; 30S ribosomal protein S18
+plc:PAD_168	CDS	I:complement(153356..153643)	rpsF; 30S ribosomal protein S6
+plc:PAD_169	CDS	I:complement(153646..154467)	tsaB; tRNA(ANN) t(6)A37 threonylcarbamoyladenosine modification protein
+plc:PAD_170	tRNA	I:complement(153675..153747)	tRNA-Asp
+plc:PAD_171	tRNA	I:complement(153753..153825)	tRNA-Val
+plc:PAD_172	CDS	I:complement(154484..155635)	aceF; Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+plc:PAD_173	CDS	I:complement(155652..158324)	aceE; Pyruvate dehydrogenase E1 component
+plc:PAD_174	CDS	I:complement(158353..159231)	dapA; Dihydrodipicolinate synthase
+plc:PAD_175	CDS	I:complement(159246..160340)	dnaX; DNA polymerase III subunit gamma
+plc:PAD_176	CDS	I:complement(160362..161291)	gnd; 6-phosphogluconate dehydrogenase, decarboxylating
+plc:PAD_177	tRNA	I:complement(161325..161408)	tRNA-Ser
+plc:PAD_178	CDS	I:complement(161416..162189)	yadH; Inner membrane transport permease YadH
+plc:PAD_179	CDS	I:complement(162207..163130)	yadG; ABC transporter ATP-binding protein YadG
+plc:PAD_180	tRNA	I:complement(163146..163217)	tRNA-Gly
+plc:PAD_181	tRNA	I:complement(163232..163303)	tRNA-Glu
+plc:PAD_182	CDS	I:163408..163626	infA; Translation initiation factor IF-1
+plc:PAD_183	CDS	I:163626..164714	mnmA; tRNA-specific 2-thiouridylase MnmA
+plc:PAD_184	CDS	I:complement(164711..165955)	sufS; Cysteine desulfurase
+plc:PAD_185	CDS	I:complement(165965..167050)	sufD; FeS cluster assembly protein SufD
+plc:PAD_186	CDS	I:complement(167034..167774)	sufC; Probable ATP-dependent transporter SufC
+plc:PAD_187	CDS	I:complement(167788..169215)	sufB; FeS cluster assembly protein SufB
+plc:PAD_188	CDS	I:complement(169407..170588)	hisZ; ATP phosphoribosyltransferase regulatory subunit
+plc:PAD_189	CDS	I:complement(170611..171549)	miaA; tRNA dimethylallyltransferase
+plc:PAD_190	CDS	I:complement(171552..173222)	mutL; DNA mismatch repair protein MutL
+plc:PAD_191	CDS	I:complement(173230..173655)	hypothetical protein
+plc:PAD_192	CDS	I:complement(173627..175480)	ilvD; Dihydroxy-acid dehydratase
+plc:PAD_193	CDS	I:complement(175503..177815)	lon; Lon protease
+plc:PAD_194	CDS	I:complement(177853..179076)	glyA; Serine hydroxymethyltransferase
+plc:PAD_195	CDS	I:179168..180481	hisS; Histidine--tRNA ligase
+plc:PAD_196	CDS	I:180453..181739	der; GTPase Der
+plc:PAD_197	tRNA	I:complement(181740..181816)	tRNA-Arg
+plc:PAD_198	tRNA	I:complement(181830..181919)	tRNA-Ser
+plc:PAD_199	CDS	I:complement(181926..183191)	lysC; Aspartokinase
+plc:PAD_200	CDS	I:complement(183228..184694)	alaXp; Alanyl-tRNA editing protein
+plc:PAD_201	CDS	I:complement(184703..185791)	alaS; Alanine--tRNA ligase
+plc:PAD_202	CDS	I:185972..188389	mutS; DNA mismatch repair protein MutS
+plc:PAD_203	CDS	I:complement(188404..189288)	lipA; Lipoyl synthase
+plc:PAD_204	CDS	I:complement(189285..189941)	lipB; Octanoyltransferase
+plc:PAD_205	tRNA	I:complement(189953..190046)	tRNA-Ser
+plc:PAD_206	tRNA	I:complement(190056..190144)	tRNA-Ser
+plc:PAD_207	CDS	I:complement(190147..190596)	Peptidoglycan-associated lipoprotein
+plc:PAD_208	CDS	I:complement(190586..191086)	ruvC; Crossover junction endodeoxyribonuclease RuvC
+plc:PAD_209	CDS	I:complement(191094..192800)	aspC; aspartate---tRNAAsn ligase
+plc:PAD_210	CDS	I:192925..194271	mgtE; Magnesium transporter MgtE
+plc:PAD_211	CDS	I:complement(194274..195683)	cls; Cardiolipin synthase
+plc:PAD_212	CDS	I:complement(195680..195961)	hupB; DNA-binding protein HU-beta
+plc:PAD_213	CDS	I:complement(195974..197185)	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX
+plc:PAD_214	CDS	I:complement(197205..197810)	clpP; ATP-dependent Clp protease proteolytic subunit ClpP
+plc:PAD_215	tRNA	I:complement(197837..197910)	tRNA-His
+plc:PAD_216	tRNA	I:complement(197921..197994)	tRNA-Arg
+plc:PAD_217	tRNA	I:complement(198014..198087)	tRNA-Pro
+plc:PAD_218	CDS	I:complement(198078..199451)	cysS; Cysteine--tRNA ligase
+plc:PAD_219	CDS	I:complement(199445..201034)	glnS; Glutamine--tRNA ligase
+plc:PAD_220	CDS	I:complement(201040..201876)	aroE; Shikimate dehydrogenase
+plc:PAD_221	CDS	I:201897..202382	def; Peptide deformylase
+plc:PAD_222	CDS	I:202387..203355	glk; Glucokinase
+plc:PAD_223	CDS	I:complement(203333..204691)	zwf; Glucose-6-phosphate 1-dehydrogenase
+plc:PAD_224	CDS	I:204809..206224	galP; Galactose transporter
+plc:PAD_225	CDS	I:complement(206230..207066)	metF; 5,10-methylenetetrahydrofolate reductase
+plc:PAD_226	CDS	I:207188..209215	tktA; Transketolase
+plc:PAD_227	CDS	I:209229..210527	gltP; Proton glutamate symport protein
+plc:PAD_228	CDS	I:210537..210965	aroQ; 3-dehydroquinate dehydratase
+plc:PAD_229	CDS	I:complement(210962..211840)	rsmH; Ribosomal RNA small subunit methyltransferase H
+plc:PAD_230	ncRNA	I:complement(211836..212163)	rnpB; Bacterial RNase P class A, RNA component
+plc:PAD_231	CDS	I:complement(212191..212571)	rpsI; 30S ribosomal protein S9
+plc:PAD_232	CDS	I:complement(212594..213022)	rplM; 50S ribosomal protein L13
+plc:PAD_233	CDS	I:complement(213039..213665)	hisG; ATP phosphoribosyltransferase
+plc:PAD_234	CDS	I:213746..213997	gatC; Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+plc:PAD_235	CDS	I:214002..215426	gatA; Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A
+plc:PAD_236	CDS	I:215439..216881	gatB; Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+plc:PAD_237	CDS	I:216878..218338	crtI; Phytoene dehydrogenase
+plc:PAD_238	CDS	I:218335..219195	crtB; Phytoene synthase
+plc:PAD_239	CDS	I:219189..220322	crtY; Lycopene cyclase
+plc:PAD_240	CDS	I:complement(220311..221405)	prfA; Peptide chain release factor 1
+plc:PAD_241	CDS	I:221483..222430	prs; Ribose-phosphate pyrophosphokinase
+plc:PAD_242	CDS	I:222446..223033	rplY; 50S ribosomal protein L25
+plc:PAD_243	tRNA	I:223046..223119	tRNA-Met
+plc:PAD_244	tRNA	I:complement(223133..223205)	tRNA-Asn
+plc:PAD_245	CDS	I:complement(223240..224049)	trpC; Indole-3-glycerol phosphate synthase
+plc:PAD_246	CDS	I:complement(224042..225070)	trpD; Anthranilate phosphoribosyltransferase
+plc:PAD_247	CDS	I:complement(225072..225650)	trpG; Anthranilate synthase component II
+plc:PAD_248	CDS	I:complement(225666..227144)	trpE; Anthranilate synthase component 1
+plc:PAD_249	tRNA	I:complement(227165..227238)	tRNA-Lys
+plc:PAD_250	CDS	I:complement(227259..227888)	upp; Uracil phosphoribosyltransferase
+plc:PAD_251	tRNA	I:complement(227923..227996)	tRNA-Val
+plc:PAD_252	CDS	I:complement(227961..228725)	ATPase involved in chromosome partitioning
+plc:PAD_253	CDS	I:228794..230482	metG; Methionine--tRNA ligase
+plc:PAD_254	tRNA	I:complement(230394..230478)	tRNA-Leu
+plc:PAD_255	tRNA	I:complement(230481..230552)	tRNA-Cys
+plc:PAD_256	tRNA	I:230604..230675	tRNA-Ala
+plc:PAD_257	CDS	I:230704..231021	grxD; Glutaredoxin-4
+plc:PAD_258	CDS	I:231039..232256	argG; Argininosuccinate synthase
+plc:PAD_259	CDS	I:232347..232640	groES; 10 kDa chaperonin
+plc:PAD_260	CDS	I:232688..234334	groEL; 60 kDa chaperonin
+plc:PAD_261	CDS	I:complement(234381..235895)	rpsA; 30S ribosomal protein S1
+plc:PAD_262	CDS	I:complement(236005..237324)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+plc:PAD_263	CDS	I:complement(237314..238429)	pheA; P-protein
+plc:PAD_264	CDS	I:complement(238460..240979)	gyrA; DNA gyrase subunit A
+plc:PAD_265	CDS	I:complement(240987..243398)	secA; Protein translocase subunit SecA
+plc:PAD_266	tRNA	I:complement(243417..243492)	tRNA-Arg
+plc:PAD_267	CDS	I:complement(243705..244721)	arcB; Ornithine carbamoyltransferase, catabolic
+plc:PAD_268	CDS	I:complement(244736..245158)	atpC; ATP synthase epsilon chain
+plc:PAD_269	CDS	I:complement(245168..246538)	atpD; ATP synthase subunit beta
+plc:PAD_270	CDS	I:complement(246552..247403)	atpG; ATP synthase gamma chain
+plc:PAD_271	CDS	I:complement(247408..248940)	atpA; ATP synthase subunit alpha
+plc:PAD_272	CDS	I:complement(248950..249471)	atpH; ATP synthase subunit delta
+plc:PAD_273	CDS	I:complement(249473..249943)	atpF; ATP synthase subunit b
+plc:PAD_274	CDS	I:complement(249966..250190)	atpE; ATP synthase subunit c
+plc:PAD_275	CDS	I:complement(250192..251046)	atpB; ATP synthase subunit a
+plc:PAD_276	CDS	I:complement(251064..252863)	mnmG; tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+plc:PAD_277	CDS	I:complement(252870..254255)	mnmE; tRNA modification GTPase MnmE
+plc:PAD_278	CDS	I:complement(254234..254878)	yidC; Membrane protein insertase YidC
+plc:PAD_279	CDS	I:complement(254902..255222)	rnpA; Ribonuclease P protein component
+plc:PAD_280	CDS	I:complement(255222..255416)	rpmH; 50S ribosomal protein L34
+plc:PAD_281	CDS	I:255420..256565	dnaN; DNA polymerase III subunit beta
+plc:PAD_282	CDS	I:256577..258838	gyrB; DNA gyrase subunit B
+plc:PAD_283	tRNA	I:258851..258926	tRNA-Ile
+plc:PAD_284	CDS	I:complement(258885..260840)	glyS; Glycine--tRNA ligase beta subunit
+plc:PAD_285	CDS	I:complement(260866..261729)	glyQ; Glycine--tRNA ligase alpha subunit
+plc:PAD_286	CDS	I:261796..263352	ilvA; L-threonine dehydratase biosynthetic IlvA
+plc:PAD_287	CDS	I:263357..263761	yqgF; Putative Holliday junction resolvase
+plc:PAD_288	CDS	I:263780..264592	fpr; Ferredoxin--NADP reductase
+plc:PAD_289	CDS	I:264585..264926	nuoA; NADH ubiquinone oxidoreductase chain A
+plc:PAD_290	CDS	I:264942..265544	nuoB; NADH-quinone oxidoreductase chain B
+plc:PAD_291	CDS	I:265534..267297	nuoC; NADH-quinone oxidoreductase subunit C/D
+plc:PAD_292	CDS	I:267327..267845	nuoE; NADH-quinone oxidoreductase chain E
+plc:PAD_293	CDS	I:267845..269152	nuoF; NADH-quinone oxidoreductase chain F
+plc:PAD_294	CDS	I:269155..271857	nuoG; NADH-quinone oxidoreductase chain G
+plc:PAD_295	CDS	I:271862..272815	nuoH; NADH-quinone oxidoreductase chain H
+plc:PAD_296	CDS	I:272819..273358	nuoI; NADH-quinone oxidoreductase chain I
+plc:PAD_297	CDS	I:273376..273861	nuoJ; NADH-quinone oxidoreductase chain J
+plc:PAD_298	CDS	I:273861..274169	nuoK; NADH-quinone oxidoreductase chain K
+plc:PAD_299	CDS	I:274166..276061	nuoL; NADH-quinone oxidoreductase chain L
+plc:PAD_300	CDS	I:276061..277536	nuoM; NADH-quinone oxidoreductase chain M
+plc:PAD_301	CDS	I:277556..278974	nuoN; NADH-quinone oxidoreductase chain N
+plc:PAD_302	CDS	I:complement(278966..279775)	dapF; Diaminopimelate epimerase
+plc:PAD_303	CDS	I:complement(279759..281054)	lysA; Diaminopimelate decarboxylase
+plc:PAD_304	CDS	I:complement(281063..282457)	argH; Argininosuccinate lyase
+plc:PAD_305	tRNA	I:282498..282570	tRNA-Thr
+plc:PAD_306	CDS	I:complement(282578..283582)	putative permease
+plc:PAD_307	CDS	I:complement(283613..284557)	thrB; Homoserine kinase
+plc:PAD_308	CDS	I:complement(284536..285591)	hisC; Histidinol-phosphate aminotransferase
+plc:PAD_309	CDS	I:complement(285612..286385)	hisF; Imidazole glycerol phosphate synthase subunit HisF
+plc:PAD_310	CDS	I:complement(286393..287121)	hisA; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+plc:PAD_311	CDS	I:complement(287135..287767)	hisH; Imidazole glycerol phosphate synthase subunit HisH
+plc:PAD_312	CDS	I:complement(287781..288404)	hisB; Imidazoleglycerol-phosphate dehydratase
+plc:PAD_313	tRNA	I:288464..288537	tRNA-Phe
+plc:PAD_314	tRNA	I:288552..288624	tRNA-Gln
+plc:PAD_315	tRNA	I:288640..288712	tRNA-Thr
+plc:PAD_316	tmRNA	I:complement(288723..289068)	ssrA; transfer-messenger RNA
+plc:PAD_317	CDS	I:complement(289107..289562)	smpB; SsrA-binding protein
+plc:PAD_318	CDS	I:289663..290163	grpE; Protein GrpE

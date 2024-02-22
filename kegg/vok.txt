@@ -1,0 +1,977 @@
+vok:COSY_0001	CDS	1..1293	dnaA; chromosomal replication initiator protein DnaA
+vok:COSY_0002	CDS	1507..2610	dnaN; DNA polymerase III beta subunit
+vok:COSY_0003	CDS	2711..5128	gyrB; DNA gyrase subunit B GyrB
+vok:COSY_0004	CDS	5149..6027	prkB; phosphoribulokinase
+vok:COSY_0005	CDS	complement(6084..8531)	leuS; leucyl-tRNA synthetase
+vok:COSY_0006	CDS	complement(8528..9505)	pyrD; dihydroorotate dehydrogenase
+vok:COSY_0007	CDS	9545..10195	bioD; dethiobiotin synthase
+vok:COSY_0008	CDS	complement(10184..10522)	sspB; stringent starvation protein B
+vok:COSY_0009	CDS	complement(10519..11154)	sspA; stringent starvation protein A
+vok:COSY_0010	CDS	complement(11193..11879)	petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit
+vok:COSY_0011	CDS	complement(11884..13107)	petB; ubiquinol-cytochrome c reductase cytochrome b subunit
+vok:COSY_0012	CDS	complement(13121..13717)	petA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+vok:COSY_0013	CDS	complement(13826..14131)	hypothetical protein
+vok:COSY_0014	CDS	14184..16877	secA; preprotein translocase SecA subunit
+vok:COSY_0015	CDS	17357..18385	pyrC; dihydroorotase
+vok:COSY_0016	CDS	complement(18778..19680)	ribF; bifunctional riboflavin biosynthesis protein RibF
+vok:COSY_0017	CDS	complement(19999..21054)	metA; homoserine O-succinyltransferase
+vok:COSY_0018	CDS	complement(21054..21890)	conserved hypothetical protein
+vok:COSY_0019	CDS	complement(21918..23105)	aminotransferase
+vok:COSY_0020	CDS	complement(23136..23462)	fkpA; peptidyl-prolyl cis-trans isomerase
+vok:COSY_0021	CDS	complement(23474..24274)	conserved hypothetical protein
+vok:COSY_0022	CDS	complement(24280..25155)	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase
+vok:COSY_0023	CDS	25265..25882	hypothetical protein
+vok:COSY_0024	CDS	complement(25842..27014)	conserved hypothetical protein
+vok:COSY_0025	CDS	complement(26989..28140)	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+vok:COSY_0026	CDS	complement(28137..28937)	cdsA; phosphatidate cytidylyltransferase
+vok:COSY_0027	CDS	complement(28948..29649)	uppS; undecaprenyl diphosphate synthase
+vok:COSY_0028	CDS	29735..30502	hisF; imidazoleglycerol phosphate synthase, cyclase subunit
+vok:COSY_0029	CDS	30571..31107	conserved hypothetical protein
+vok:COSY_0030	CDS	31120..32013	cyoE; protoheme IX farnesyltransferase
+vok:COSY_0031	CDS	32014..32205	conserved hypothetical protein
+vok:COSY_0032	CDS	complement(32314..33288)	cytochrome c oxidase assembly protein
+vok:COSY_0033	CDS	complement(33389..34216)	conserved hypothetical protein
+vok:COSY_0034	CDS	34428..35537	coxB; cytochrome c oxidase subunit II
+vok:COSY_0035	CDS	35563..37164	coxA; cytochrome c oxidase subunit I
+vok:COSY_0036	CDS	37255..37788	cytochrome c oxidase assembly protein
+vok:COSY_0037	CDS	37806..38690	coxC; cytochrome c oxidase subunit III
+vok:COSY_0038	CDS	38756..38983	conserved hypothetical protein
+vok:COSY_0039	CDS	38980..39681	conserved hypothetical protein
+vok:COSY_0040	CDS	39798..41216	ccoN; cbb3-type cytochrome c oxidase subunit I
+vok:COSY_0041	CDS	41231..41962	ccoO; cbb3-type cytochrome c oxidase subunit II
+vok:COSY_0042	CDS	41962..42102	ccoQ; cbb3-type cytochrome c oxidase subunit IV
+vok:COSY_0043	CDS	42121..43023	ccoP; cbb3-type cytochrome c oxidase subunit III
+vok:tRNA-Thr-1	tRNA	43138..43213	tRNA-Thr
+vok:COSY_0044	CDS	complement(43633..44001)	hypothetical protein
+vok:COSY_0045	CDS	complement(44001..44201)	hypothetical protein
+vok:COSY_0046	CDS	complement(44194..46470)	ftsK; cell division protein FtsK
+vok:COSY_0047	CDS	46519..47463	trxB; thioredoxin-disulfide reductase
+vok:tRNA-Phe	tRNA	47513..47588	tRNA-Phe
+vok:COSY_0049	CDS	complement(48071..49033)	pyrB; aspartate carbamoyltransferase catalytic chain
+vok:COSY_0050	CDS	complement(49014..49442)	conserved hypothetical protein
+vok:COSY_0051	CDS	complement(49439..49720)	hypothetical protein
+vok:COSY_0052	CDS	complement(49850..50515)	hypothetical protein
+vok:COSY_0053	CDS	50634..51548	apbE; thiamin biosynthesis lipoprotein ApbE
+vok:COSY_0054	CDS	52239..52631	conserved hypothetical protein
+vok:COSY_0055	CDS	complement(52628..53590)	gshB; glutathione synthetase
+vok:tRNA-Met-1	tRNA	53629..53705	tRNA-Met
+vok:COSY_0057	CDS	53808..54269	conserved hypothetical protein
+vok:COSY_0058	CDS	54310..55785	nusA; transcription termination factor NusA
+vok:COSY_0059	CDS	55839..58286	infB; translation initiation factor IF-2
+vok:COSY_0060	CDS	58301..58645	rbfA; ribosome-binding factor A
+vok:COSY_0061	CDS	58668..59576	truB; tRNA pseudouridine synthase B
+vok:COSY_0062	CDS	59816..61099	purD; phosphoribosylamine-glycine ligase
+vok:COSY_0063	CDS	complement(61656..62363)	conserved hypothetical protein
+vok:COSY_0064	CDS	62682..63512	methyltransferase
+vok:COSY_0065	CDS	complement(63752..64357)	coaE; dephospho-CoA kinase
+vok:tRNA-Met-2	tRNA	64442..64518	tRNA-Met
+vok:COSY_0067	CDS	complement(65198..65623)	nuclease
+vok:COSY_0068	CDS	complement(66489..66692)	hypothetical protein
+vok:COSY_0069	CDS	complement(68273..68479)	hypothetical protein
+vok:COSY_0070	CDS	69410..71395	tktA; transketolase
+vok:COSY_0071	CDS	71501..72496	gapA; glyceraldehyde-3-phosphate dehydrogenase
+vok:COSY_0072	CDS	72944..74122	pgk; 3-phosphoglycerate kinase
+vok:COSY_0073	CDS	74115..75557	pyruvate kinase
+vok:COSY_0074	CDS	75633..76694	fbaA; fructose-bisphosphate aldolase, class II
+vok:COSY_0075	CDS	76761..78626	gidA; glucose inhibited division protein A GidA
+vok:COSY_0076	CDS	78995..79795	hypothetical protein
+vok:COSY_0077	CDS	79802..80572	tatD; Mg-dependent deoxyribonuclease
+vok:COSY_0078	CDS	80569..81480	rluC; ribosomal large subunit pseudouridine synthase C
+vok:COSY_0079	CDS	81477..82346	ubiA; 4-hydroxybenzoate octaprenyltransferase
+vok:COSY_0080	CDS	complement(82865..83680)	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+vok:COSY_0081	CDS	83842..85236	ferredoxin
+vok:COSY_0082	CDS	85236..85715	hypothetical protein
+vok:COSY_0083	CDS	complement(86107..86826)	znuC; zinc ABC transporter ATP-binding protein
+vok:COSY_0084	CDS	86918..89647	polA; DNA polymerase I
+vok:COSY_0085	CDS	90504..92222	argS; arginyl-tRNA synthetase
+vok:COSY_0086	CDS	92219..95389	ATP-dependent DNA helicase
+vok:COSY_0087	CDS	complement(96260..96841)	thiE; thiamine-phosphate pyrophosphorylase
+vok:COSY_0088	CDS	96753..97796	hypothetical protein
+vok:COSY_0089	CDS	98093..99301	sat; ATP sulfurylase
+vok:COSY_0090	CDS	99516..100385	aprM; adenylylsulfate reductase membrane anchor
+vok:COSY_0091	CDS	100417..100896	aprB; adenylylsulfate reductase beta subunit
+vok:COSY_0092	CDS	100896..102779	aprA; adenylylsulfate reductase alpha subunit
+vok:COSY_0093	CDS	102845..103240	conserved hypothetical protein
+vok:COSY_0094	CDS	103246..103752	peptidyl-prolyl cis-trans isomerase
+vok:COSY_0095	CDS	103755..104108	conserved hypothetical protein
+vok:COSY_0096	CDS	complement(104183..106183)	H+ translocating pyrophosphate synthase
+vok:COSY_0097	CDS	complement(106680..107339)	adk; adenylate kinase
+vok:COSY_0098	CDS	complement(107449..108693)	pfkA; 6-phosphofructokinase
+vok:COSY_0099	CDS	complement(108746..109228)	conserved hypothetical protein
+vok:COSY_0100	CDS	complement(109916..111304)	cysS; cysteinyl-tRNA synthetase
+vok:COSY_0101	CDS	111445..112044	ahpC; peroxiredoxin
+vok:COSY_0102	CDS	112092..112262	rubA; rubredoxin
+vok:COSY_0103	CDS	112298..113368	leuB; 3-isopropylmalate dehydrogenase
+vok:COSY_0104	CDS	complement(114386..115339)	conserved hypothetical protein
+vok:COSY_0105	CDS	115792..116337	ADP-ribose diphosphatase
+vok:COSY_0106	CDS	117062..118303	lysA; diaminopimelate decarboxylase
+vok:COSY_0107	CDS	118296..118598	conserved hypothetical protein
+vok:COSY_0108	CDS	118605..119690	lpxB; lipid-A-disaccharide synthase
+vok:COSY_0109	CDS	119641..120504	nadC; nicotinate-nucleotide pyrophosphorylase (carboxylating)
+vok:COSY_0110	CDS	complement(120490..121272)	cysQ; sulfite synthesis pathway protein CysQ
+vok:tRNA-Met-3	tRNA	complement(121650..121726)	tRNA-Met
+vok:COSY_0112	CDS	complement(121734..123545)	rpoD; DNA-directed RNA polymerase sigma-70 factor
+vok:COSY_0113	CDS	complement(123645..124598)	prsA; ribose-phosphate pyrophosphokinase
+vok:tRNA-Gln	tRNA	complement(124668..124742)	tRNA-Gln
+vok:COSY_0115	CDS	complement(124722..125579)	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+vok:COSY_0116	CDS	complement(125572..126117)	orn; oligoribonuclease
+vok:COSY_0117	CDS	complement(126130..127149)	anthranilate phosphoribosyltransferase
+vok:COSY_0118	CDS	complement(127154..128371)	pepP; X-Pro aminopeptidase
+vok:COSY_0119	CDS	128425..129141	conserved hypothetical protein
+vok:COSY_0120	CDS	complement(129127..130185)	hypothetical protein
+vok:COSY_0121	CDS	complement(130460..131287)	proC; pyrroline-5-carboxylate reductase
+vok:COSY_0122	CDS	131282..132031	gph; phosphoglycolate phosphatase
+vok:COSY_0123	CDS	132059..133297	bioA; adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+vok:COSY_0124	CDS	complement(134198..136240)	priA; primosomal protein N'
+vok:COSY_0125	CDS	136268..136705	conserved hypothetical protein
+vok:COSY_0126	CDS	complement(136759..137931)	mesJ; cell cycle protein MesJ
+vok:COSY_0127	CDS	complement(137912..138880)	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha
+vok:COSY_0128	CDS	139149..139346	cbb3-type cytochrome oxidase maturation protein
+vok:COSY_0129	CDS	139384..140061	conserved hypothetical protein
+vok:COSY_0130	CDS	140073..141353	pitA; Na(+):phosphate symporter
+vok:COSY_0131	CDS	141357..141587	conserved hypothetical protein
+vok:COSY_0132	CDS	141728..142996	rhlE; ATP-dependent RNA helicase RhlE
+vok:COSY_0133	CDS	143007..143252	hypothetical protein
+vok:COSY_0134	CDS	complement(144020..145204)	tyrS; tyrosyl-tRNA synthetase
+vok:COSY_0135	CDS	complement(145210..146469)	proA; gamma-glutamyl phosphate reductase
+vok:COSY_0136	CDS	complement(146457..147476)	holA; DNA polymerase III delta subunit
+vok:COSY_0137	CDS	complement(147466..147912)	hypothetical protein
+vok:COSY_0138	CDS	148068..149990	ftsH; cell division protein FtsH
+vok:COSY_0139	CDS	150026..150829	folP; dihydropteroate synthase
+vok:COSY_0140	CDS	150831..152156	glmM; phosphoglucosamine mutase
+vok:COSY_0141	CDS	153232..153975	conserved hypothetical protein
+vok:COSY_0142	CDS	154174..154749	rnfA; electron transport complex protein RnfA
+vok:COSY_0143	CDS	154756..155301	rnfB; electron transport complex protein RnfB
+vok:COSY_0144	CDS	155304..156794	rnfC; electron transport complex protein RnfC
+vok:COSY_0145	CDS	156791..157735	rnfD; electron transport complex protein RnfD
+vok:COSY_0146	CDS	157738..158343	rnfG; electron transport complex protein RnfG
+vok:COSY_0147	CDS	158334..159356	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+vok:COSY_0148	CDS	complement(159806..160576)	hypothetical protein
+vok:COSY_0149	CDS	complement(160573..161442)	sucD; succinyl-CoA synthetase alpha subunit
+vok:COSY_0150	CDS	complement(161439..162599)	sucC; succinyl-CoA synthetase beta subunit
+vok:COSY_0151	CDS	163299..163862	efp; translation elongation factor EF-P
+vok:COSY_0152	CDS	163913..164797	genX; lysyl-tRNA synthetase, class II
+vok:COSY_0153	CDS	164822..166204	conserved hypothetical protein
+vok:COSY_0154	CDS	166998..168209	argG; argininosuccinate synthase
+vok:tRNA-Cys	tRNA	complement(168277..168350)	tRNA-Cys
+vok:tRNA-Gly-1	tRNA	complement(168402..168477)	tRNA-Gly
+vok:COSY_0157	CDS	complement(168538..169116)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+vok:tRNA-Arg-1	tRNA	complement(169152..169228)	tRNA-Arg
+vok:COSY_0159	CDS	complement(169282..170562)	murF; UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+vok:COSY_0160	CDS	complement(171068..172462)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+vok:COSY_0161	CDS	172596..174485	soxB; sulfur oxidation protein SoxB
+vok:COSY_0163	CDS	complement(175535..176515)	polysialic acid capsule expression protein
+vok:COSY_0164	CDS	176960..177334	rpsL; 30S ribosomal protein S12
+vok:COSY_0165	CDS	177367..177834	rpsG; 30S ribosomal protein S7
+vok:COSY_0166	CDS	177859..179961	fusA; translation elongation factor EF-G
+vok:COSY_0167	CDS	179972..181162	tufA; translation elongation factor EF-Tu
+vok:COSY_0168	CDS	181250..181561	rpsJ; 30S ribosomal protein S10
+vok:COSY_0169	CDS	181590..182315	rplC; 50S ribosomal protein L3
+vok:COSY_0170	CDS	182329..182943	rplD; 50S ribosomal protein L4
+vok:COSY_0171	CDS	182940..183230	rplW; 50S ribosomal protein L23
+vok:COSY_0172	CDS	183241..184071	rplB; 50S ribosomal protein L2
+vok:COSY_0173	CDS	184076..184345	rpsS; 30S ribosomal protein S19
+vok:COSY_0174	CDS	184366..184698	rplV; 50S ribosomal protein L22
+vok:COSY_0175	CDS	184706..185398	rpsC; 30S ribosomal protein S3
+vok:COSY_0176	CDS	185415..185825	rplP; 50S ribosomal protein L16
+vok:COSY_0177	CDS	185825..186013	rpmC; 50S ribosomal protein L29
+vok:COSY_0178	CDS	186010..186276	rpsQ; 30S ribosomal protein S17
+vok:COSY_0179	CDS	186305..186673	rplN; 50S ribosomal protein L14
+vok:COSY_0180	CDS	186673..186984	rplX; 50S ribosomal protein L24
+vok:COSY_0181	CDS	187014..187553	rplE; 50S ribosomal protein L5
+vok:COSY_0182	CDS	187559..187864	rpsN; 30S ribosomal protein S14
+vok:COSY_0183	CDS	187876..188271	rpsH; 30S ribosomal protein S8
+vok:COSY_0184	CDS	188287..188832	rplF; 50S ribosomal protein L6
+vok:COSY_0185	CDS	188850..189197	rplR; 50S ribosomal protein L18
+vok:COSY_0186	CDS	189240..189755	rpsE; 30S Ribosomal protein S5
+vok:COSY_0187	CDS	189755..189997	rpmD; 50S ribosomal protein L30
+vok:COSY_0188	CDS	190011..190445	rplO; 50S ribosomal protein L15
+vok:COSY_0189	CDS	190446..191747	secY; preprotein translocase SecY subunit
+vok:COSY_0190	CDS	191762..191875	rpmJ; 50S ribosomal protein L36
+vok:COSY_0191	CDS	192035..192388	rpsM; 30S ribosomal protein S13
+vok:COSY_0192	CDS	192407..192793	rpsK; 30S ribosomal protein S11
+vok:COSY_0193	CDS	192803..193429	rpsD; 30S ribosomal protein S4
+vok:COSY_0194	CDS	193440..194420	rpoA; DNA-directed RNA polymerase alpha subunit
+vok:COSY_0195	CDS	194431..194826	rplQ; 50S ribosomal protein L17
+vok:COSY_0196	CDS	194838..195053	rpsU; 30S ribosomal protein S21
+vok:COSY_0197	CDS	195605..196669	cca; tRNA nucleotidyltransferase (CCA-adding enzyme)
+vok:COSY_0198	CDS	complement(196825..199305)	hypothetical protein
+vok:COSY_0199	CDS	complement(199289..199888)	engB; GTP-binding protein
+vok:COSY_0200	CDS	199963..200253	hypothetical protein
+vok:COSY_0201	CDS	200362..201003	cytochrome c, class I
+vok:COSY_0202	CDS	201131..202420	tig; trigger factor
+vok:COSY_0203	CDS	202425..203021	clpP; ATP-dependent Clp protease proteolytic subunit ClpP
+vok:COSY_0204	CDS	202996..204291	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX
+vok:COSY_0205	CDS	204729..207065	lon; ATP-dependent protease La
+vok:COSY_0206	CDS	complement(207072..207485)	conserved hypothetical protein
+vok:COSY_0207	CDS	208001..209440	pepA; leucyl aminopeptidase
+vok:COSY_0208	CDS	complement(210371..210991)	conserved hypothetical protein
+vok:COSY_0209	CDS	complement(211096..211500)	conserved hypothetical protein
+vok:COSY_0210	CDS	complement(211500..211850)	nitrogen regulatory protein PII
+vok:COSY_0211	CDS	complement(211859..212599)	conserved hypothetical protein
+vok:COSY_0212	CDS	complement(212596..213327)	conserved hypothetical protein
+vok:COSY_0213	CDS	213433..214320	pabC; 4-amino-4-deoxychorismate lyase
+vok:COSY_0214	CDS	214675..215292	tmk; thymidylate kinase
+vok:COSY_0215	CDS	215289..216317	holB; DNA polymerase III delta prime subunit
+vok:COSY_0216	CDS	216332..217618	hemL; glutamate-1-semialdehyde 2,1-aminomutase
+vok:COSY_0217	CDS	217973..218626	HAD-superfamily hydrolase, subfamily IB
+vok:COSY_0218	CDS	complement(218722..219237)	conserved hypothetical protein
+vok:COSY_0219	CDS	complement(219266..219490)	conserved hypothetical protein
+vok:COSY_0220	CDS	complement(220337..220999)	rpiA; ribose 5-phosphate isomerase
+vok:COSY_0221	CDS	221042..221632	xanthosine triphosphate pyrophosphatase
+vok:COSY_0222	CDS	221632..222750	hemN; oxygen-independent coproporphyrinogen III oxidase
+vok:COSY_0223	CDS	223648..224577	argB; acetylglutamate kinase
+vok:COSY_0224	CDS	224564..225421	pyrK; dihydroorotate dehydrogenase electron transfer subunit
+vok:COSY_0225	CDS	225418..226056	conserved hypothetical protein
+vok:COSY_0226	CDS	226236..226721	L-asparaginase
+vok:COSY_0227	CDS	227077..229551	hypothetical protein
+vok:COSY_0228	CDS	229548..230975	tldD; modulator of DNA gyrase, PmbA/TldD family
+vok:COSY_0229	CDS	231072..231428	nuoA; NADH dehydrogenase I chain A
+vok:COSY_0230	CDS	231432..231911	nuoB; NADH dehydrogenase I chain B
+vok:COSY_0231	CDS	231911..232525	nuoC; NADH dehydrogenase I chain C
+vok:COSY_0232	CDS	232527..233780	nuoD; NADH dehydrogenase I chain D
+vok:COSY_0233	CDS	233777..234250	nuoE; NADH dehydrogenase I chain E
+vok:COSY_0234	CDS	234247..235515	nuoF; NADH dehydrogenase I chain F
+vok:COSY_0235	CDS	235520..237781	nuoG; NADH dehydrogenase I chain G
+vok:COSY_0236	CDS	237781..238854	nuoH; NADH dehydrogenase I chain H
+vok:COSY_0237	CDS	238868..239359	nuoI; NADH dehydrogenase I chain I
+vok:COSY_0238	CDS	239369..239980	nuoJ; NADH dehydrogenase I chain J
+vok:COSY_0239	CDS	239981..240286	nuoK; NADH dehydrogenase I chain K
+vok:COSY_0240	CDS	240289..242250	nuoL; NADH dehydrogenase I chain L
+vok:COSY_0241	CDS	242253..243758	nuoM; NADH dehydrogenase I chain M
+vok:COSY_0242	CDS	243769..245223	nuoN; NADH dehydrogenase I chain N
+vok:COSY_0243	CDS	complement(245348..246136)	bioC; biotin biosynthesis protein BioC
+vok:COSY_0244	CDS	complement(246124..247002)	zinc ABC transporter substrate-binding protein
+vok:COSY_0245	CDS	complement(247900..248283)	hypothetical protein
+vok:COSY_0246	CDS	complement(248413..248970)	frr; ribosome recycling factor
+vok:COSY_0247	CDS	complement(248974..249687)	pyrH; uridylate kinase
+vok:COSY_0248	CDS	249770..252586	uvrA; excinuclease ABC subunit A
+vok:COSY_0249	CDS	complement(253046..253657)	purN; phosphoribosylglycinamide formyltransferase
+vok:COSY_0250	CDS	complement(253673..254674)	purM; phosphoribosylformylglycinamidine cyclo-ligase
+vok:COSY_0251	CDS	254728..255294	hypothetical protein
+vok:COSY_0252	CDS	255291..255965	DnaA family protein
+vok:COSY_0253	CDS	complement(255962..256369)	hypothetical protein
+vok:COSY_0254	CDS	256466..257866	cysG; siroheme synthase
+vok:COSY_0255	CDS	complement(257902..258105)	conserved hypothetical protein
+vok:tRNA-Leu-1	tRNA	258203..258287	tRNA-Leu
+vok:COSY_0257	CDS	258304..259113	serB; phosphoserine phosphatase
+vok:COSY_0258	CDS	259120..261027	ccmF; cytochrome c-type biogenesis protein CcmF
+vok:COSY_0259	CDS	261024..262190	conserved hypothetical protein
+vok:COSY_0260	CDS	262195..263325	dapE; succinyl-diaminopimelate desuccinylase
+vok:COSY_0261	CDS	263329..264003	trmD; tRNA (guanine-N1-)-methyltransferase
+vok:COSY_0262	CDS	264163..264501	glnK; nitrogen regulatory protein PII
+vok:COSY_0263	CDS	264491..265786	amtB; ammonium transporter
+vok:COSY_0264	CDS	265930..266790	dapA; dihydrodipicolinate synthase
+vok:COSY_0265	CDS	266793..267926	conserved hypothetical protein
+vok:COSY_0266	CDS	267941..269839	lig; DNA ligase (NAD+)
+vok:COSY_0267	CDS	270118..270465	nitrogen regulatory protein PII
+vok:COSY_0268	CDS	270885..271547	conserved hypothetical protein
+vok:COSY_0269	CDS	271639..272079	conserved hypothetical protein
+vok:COSY_0270	CDS	272076..272663	nasT; response regulator NasT
+vok:COSY_0271	CDS	complement(272682..273503)	tatC; sec-independent protein translocase protein TatC
+vok:COSY_0272	CDS	complement(273503..273784)	conserved hypothetical protein
+vok:COSY_0273	CDS	complement(273788..273997)	hypothetical protein
+vok:COSY_0274	CDS	complement(274015..274332)	hisE; phosphoribosyl-ATP pyrophosphohydrolase
+vok:COSY_0275	CDS	complement(274325..274705)	phosphoribosyl-AMP cyclohydrolase
+vok:COSY_0276	CDS	complement(274829..276160)	gor; glutathione oxidoreductase
+vok:COSY_0277	CDS	complement(277039..277422)	conserved hypothetical protein
+vok:COSY_0278	CDS	complement(277597..278691)	prfB; peptide chain release factor RF-2
+vok:COSY_0279	CDS	complement(278763..279023)	rpsO; 30S ribosomal protein S15
+vok:COSY_0280	CDS	complement(279078..279974)	htrB; lipid A biosynthesis lauroyl acyltransferase
+vok:COSY_0281	CDS	280007..281791	dnaG; DNA primase
+vok:COSY_0282	CDS	complement(282020..282943)	mraW; S-adenosyl-methyltransferase
+vok:COSY_0283	CDS	complement(282933..283358)	conserved hypothetical protein
+vok:COSY_0284	CDS	284122..286359	parC; DNA topoisomerase IV subunit A
+vok:COSY_0285	CDS	286461..286838	ptpS; 6-pyruvoyltetrahydropterin synthase
+vok:COSY_0286	CDS	286835..287629	conserved hypothetical protein
+vok:COSY_0287	CDS	287623..288690	aroG; 3-deoxy-7-phosphoheptulonate synthase
+vok:COSY_0288	CDS	288802..291387	gyrA; DNA gyrase subunit A GyrA
+vok:COSY_0289	CDS	complement(291483..293054)	prfC; peptide chain release factor RF-3
+vok:COSY_0290	CDS	complement(293051..293497)	deoxycytidylate deaminase
+vok:COSY_0291	CDS	complement(293500..294585)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+vok:COSY_0292	CDS	295340..295573	4Fe-4S ferredoxin
+vok:COSY_0293	CDS	complement(295767..296882)	aminotransferase, class V
+vok:COSY_0294	CDS	296934..298364	glcD; glycolate oxidase subunit GlcD
+vok:COSY_0295	CDS	298364..298897	hypothetical protein
+vok:COSY_0296	CDS	298897..300021	glcF; glycolate oxidase iron-sulfur subunit GlcF
+vok:COSY_0298	CDS	300047..301366	rumA; RNA methyltransferase, TrmA family
+vok:COSY_0299	gene	301948..302094	pseudogene
+vok:COSY_0300	CDS	302211..302492	conserved hypothetical protein
+vok:COSY_0301	CDS	complement(302807..304960)	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA
+vok:COSY_0302	CDS	305080..305265	conserved hypothetical protein
+vok:COSY_0303	CDS	305270..306214	kamA; lysine 2,3-aminomutase
+vok:COSY_0304	CDS	complement(306206..306781)	thioredoxin
+vok:COSY_0305	CDS	306794..307141	arsC; arsenate reductase
+vok:COSY_0306	CDS	complement(307171..307830)	gst; glutathione S-transferase
+vok:COSY_0307	CDS	complement(308015..308647)	nadD; nicotinate-nucleotide adenylyltransferase
+vok:COSY_0308	CDS	complement(308651..309373)	conserved hypothetical protein
+vok:tRNA-Ala-1	tRNA	309468..309543	tRNA-Ala
+vok:tRNA-Glu	tRNA	309560..309634	tRNA-Glu
+vok:COSY_0311	CDS	complement(309885..310214)	hypothetical protein
+vok:COSY_0312	CDS	310955..311899	rluD; ribosomal large subunit pseudouridine synthase D
+vok:COSY_0313	CDS	complement(311951..312367)	conserved hypothetical protein
+vok:COSY_0314	CDS	complement(312355..313164)	mutM; formamidopyrimidine-DNA glycosylase
+vok:COSY_0315	CDS	313220..313816	conserved hypothetical protein
+vok:COSY_0316	CDS	314128..315183	hypothetical protein
+vok:COSY_0317	CDS	315362..316033	conserved hypothetical protein
+vok:COSY_0318	CDS	315999..317396	nhaD; Na+:H+ antiporter NhaD
+vok:COSY_0319	CDS	317368..318087	transcriptional activator, Baf family
+vok:COSY_0320	CDS	318119..319315	trpS; tryptophanyl-tRNA synthetase
+vok:COSY_0321	CDS	319318..320043	ribosomal large subunit pseudouridine synthase B
+vok:COSY_0322	CDS	320193..323060	ileS; isoleucyl-tRNA synthetase
+vok:COSY_0323	CDS	323061..324143	aroB; 3-dehydroquinate synthase
+vok:COSY_0324	CDS	324150..324740	conserved hypothetical protein
+vok:COSY_0325	CDS	324743..325030	gatC; glutamyl-tRNA (Gln) amidotransferase subunit C
+vok:COSY_0326	CDS	325032..326474	gatA; glutamyl-tRNA (Gln) amidotransferase subunit A
+vok:COSY_0327	CDS	326476..327906	gatB; glutamyl-tRNA (Gln) amidotransferase subunit B
+vok:COSY_0328	CDS	complement(328729..329358)	conserved hypothetical protein
+vok:COSY_0329	CDS	329393..331075	proS; prolyl-tRNA synthetase
+vok:COSY_0330	CDS	331082..331894	psd; phosphatidylserine decarboxylase
+vok:COSY_0331	CDS	complement(331869..333128)	magnesium/cobalt efflux protein
+vok:COSY_0332	CDS	complement(333165..334451)	eno; enolase
+vok:COSY_0333	CDS	335016..335279	hypothetical protein
+vok:COSY_0334	CDS	complement(335919..338957)	cation/multidrug efflux pump
+vok:COSY_0335	CDS	complement(339045..340847)	bipA; GTP-binding elongation factor family protein
+vok:COSY_0336	CDS	340918..341550	ftsJ; cell division protein methyltransferase FtsJ
+vok:COSY_0337	CDS	341601..342572	ispB; octaprenyl-diphosphate synthase
+vok:COSY_0338	CDS	342577..344637	dinG; ATP-dependent DNA helicase DinG
+vok:COSY_0339	CDS	complement(344647..346095)	trkH; Trk system, membrane component
+vok:COSY_0340	CDS	complement(346108..347481)	trkA; Trk system, NAD-binding component
+vok:COSY_0341	CDS	complement(347488..348063)	two-component response regulator
+vok:COSY_0342	CDS	complement(348076..350238)	two-component sensor histidine kinase
+vok:COSY_0343	CDS	350851..351381	ppa; inorganic pyrophosphatase
+vok:COSY_0344	CDS	351311..351952	methyltransferase
+vok:COSY_0345	CDS	351965..352441	coaD; pantetheine-phosphate adenylyltransferase
+vok:COSY_0346	CDS	352518..354422	dnaK; chaperone protein DnaK
+vok:COSY_0347	CDS	354494..355591	dnaJ; chaperone protein DnaJ
+vok:COSY_0348	CDS	complement(355980..356588)	ruvA; holliday junction DNA helicase RuvA
+vok:COSY_0349	CDS	complement(356579..357193)	leuD; 3-isopropylmalate dehydratase small subunit
+vok:COSY_0350	CDS	complement(357194..358594)	leuC; 3-isopropylmalate dehydratase large subunit
+vok:COSY_0351	CDS	358649..360421	asnB; asparagine synthetase (glutamine-hydrolyzing)
+vok:COSY_0352	CDS	360411..360857	rnhA; ribonuclease H
+vok:COSY_0353	CDS	complement(360984..361415)	oligoketide cyclase/lipid transport protein
+vok:COSY_0354	CDS	361430..361915	smpB; SsrA-binding protein
+vok:COSY_0355	CDS	362435..362860	ndk; nucleoside diphosphate kinase
+vok:COSY_0356	CDS	362910..363980	Fe-S-cluster redox enzyme
+vok:COSY_0357	CDS	363964..364272	hypothetical protein
+vok:COSY_0358	CDS	364269..365345	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+vok:COSY_0359	CDS	complement(365332..365826)	conserved hypothetical protein
+vok:COSY_0360	CDS	complement(365823..367625)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+vok:COSY_0361	CDS	complement(367688..369043)	peptidase, U32 family
+vok:COSY_0362	CDS	369102..369689	conserved hypothetical protein
+vok:COSY_0363	CDS	369759..370088	glutaredoxin-related protein
+vok:COSY_0364	CDS	complement(370160..373984)	purL; phosphoribosylformylglycinamidine synthase
+vok:COSY_0365	CDS	complement(374121..374861)	conserved hypothetical protein
+vok:COSY_0366	CDS	complement(374890..375840)	nadA; quinolinate synthetase complex subunit A
+vok:COSY_0367	CDS	complement(375847..377601)	aspS; aspartyl-tRNA synthetase
+vok:COSY_0368	CDS	complement(377598..378209)	conserved hypothetical protein
+vok:COSY_0369	CDS	complement(378266..379045)	map; methionine aminopeptidase
+vok:COSY_0370	CDS	complement(379036..380064)	conserved hypothetical protein
+vok:COSY_0371	CDS	complement(380205..380813)	conserved hypothetical protein
+vok:tRNA-His	tRNA	complement(381581..381656)	tRNA-His
+vok:tRNA-Arg-2	tRNA	complement(381679..381755)	tRNA-Arg
+vok:tRNA-Pro-1	tRNA	complement(381806..381882)	tRNA-Pro
+vok:COSY_0375	CDS	complement(382510..383181)	dnaQ; DNA polymerase III epsilon subunit
+vok:COSY_0376	CDS	383251..383583	rpoZ; DNA-directed RNA polymerase omega subunit
+vok:COSY_0377	CDS	complement(385459..386118)	hypothetical protein
+vok:COSY_0378	CDS	complement(386160..387146)	hemB; porphobilinogen synthase
+vok:COSY_0379	CDS	387191..389059	thiC; thiamine biosynthesis protein ThiC
+vok:COSY_0380	CDS	complement(389195..390445)	kdtA; 3-deoxy-D-manno-octulosonic-acid transferase
+vok:COSY_0381	CDS	390499..391503	obg; GTP-binding protein, GTP1/Obg family
+vok:COSY_0382	CDS	391500..392270	proB; glutamate 5-kinase
+vok:COSY_0383	CDS	392264..392737	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+vok:COSY_0384	CDS	392734..393516	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+vok:COSY_0385	CDS	393516..394364	panC; pantothenate synthetase
+vok:COSY_0386	CDS	394357..394935	conserved hypothetical protein
+vok:COSY_0387	CDS	394980..395489	conserved hypothetical protein
+vok:COSY_0388	CDS	395489..396418	thiL; thiamin-monophosphate kinase
+vok:COSY_0389	CDS	complement(396455..396865)	dksA; DnaK suppressor protein DksA
+vok:COSY_0390	CDS	396956..397717	HAD-superfamily hydrolase, subfamily IA
+vok:COSY_0391	CDS	397701..398678	threonine dehydratase
+vok:COSY_0392	CDS	399912..401159	icd; isocitrate dehydrogenase
+vok:COSY_0393	CDS	401846..402370	hypothetical protein
+vok:tRNA-Asn	tRNA	402624..402699	tRNA-Asn
+vok:COSY_0395	CDS	403766..405025	conserved hypothetical protein
+vok:COSY_0396	CDS	complement(405069..406247)	aspB; aspartate aminotransferase
+vok:COSY_0397	CDS	406724..407365	organic radical activating enzyme
+vok:COSY_0398	CDS	complement(407366..407890)	hypothetical protein
+vok:COSY_0399	CDS	complement(408137..409234)	aroC; chorismate synthase
+vok:tRNA-Arg-3	tRNA	complement(409726..409802)	tRNA-Arg
+vok:COSY_0401	CDS	410000..410695	pyrF; orotidine-5'-phosphate decarboxylase
+vok:tRNA-Val-1	tRNA	410715..410791	tRNA-Val
+vok:COSY_0403	CDS	411117..412310	monooxygenase
+vok:COSY_0404	CDS	412310..412948	pdxH; pyridoxamine-phosphate oxidase
+vok:COSY_0405	CDS	complement(412937..413740)	aroE; shikimate 5-dehydrogenase
+vok:COSY_0406	CDS	complement(413763..415484)	conserved hypothetical protein
+vok:COSY_0407	CDS	complement(415824..416543)	oxidoreductase
+vok:COSY_0408	CDS	416531..417652	conserved hypothetical protein
+vok:COSY_0409	CDS	417670..418464	bacA; undecaprenol kinase
+vok:COSY_0410	CDS	420095..421006	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+vok:COSY_0411	CDS	421071..422804	ilvI; acetolactate synthase large subunit
+vok:COSY_0412	CDS	422801..423298	ilvH; acetolactate synthase small subunit
+vok:COSY_0413	CDS	423322..424326	ilvC; ketol-acid reductoisomerase
+vok:COSY_0414	CDS	424377..425123	pssA; phosphatidylserine synthase
+vok:COSY_0415	CDS	425300..426835	leuA; 2-isopropylmalate synthase
+vok:COSY_0416	CDS	426832..427251	hypothetical protein
+vok:COSY_0417	CDS	427239..427931	conserved hypothetical protein
+vok:COSY_0418	CDS	complement(427928..428827)	argF; ornithine carbamoyltransferase
+vok:COSY_0419	CDS	complement(428841..429998)	argD; acetylornithine delta-aminotransferase
+vok:COSY_0420	CDS	complement(430066..430269)	hypothetical protein
+vok:COSY_0421	CDS	430426..430734	sigma-54 modulation protein
+vok:COSY_0422	CDS	430781..432112	mgtE; magnesium transporter MgtE
+vok:COSY_0423	CDS	complement(432432..433805)	phosphomannomutase
+vok:COSY_0424	CDS	433862..434230	rseC; sigma-E factor regulatory protein RseC
+vok:COSY_0425	CDS	434291..436942	aceE; pyruvate dehydrogenase complex E1 component
+vok:COSY_0426	CDS	complement(437037..439124)	pnp; polyribonucleotide nucleotidyltransferase
+vok:COSY_0427	CDS	complement(439839..441299)	guaB; IMP dehydrogenase
+vok:COSY_0428	CDS	complement(441299..441958)	conserved hypothetical protein
+vok:COSY_0429	CDS	complement(441955..444702)	valS; valyl-tRNA synthetase
+vok:COSY_0430	CDS	complement(445145..445450)	conserved hypothetical protein
+vok:COSY_0431	CDS	complement(445443..447014)	dnaX; DNA polymerase III tau and gamma subunit
+vok:COSY_0432	CDS	complement(448280..449113)	aminotransferase, class IV
+vok:COSY_0433	CDS	complement(449113..450240)	D-alanyl-D-alanine carboxypeptidase
+vok:COSY_0434	CDS	complement(450774..451913)	rodA; rod shape-determining protein RodA
+vok:COSY_0435	CDS	complement(451910..452308)	conserved hypothetical protein
+vok:COSY_0436	CDS	452355..452804	conserved hypothetical protein
+vok:COSY_0437	CDS	452817..454184	gltX; glutamyl-tRNA synthetase
+vok:COSY_0438	CDS	454200..456719	glnD; [protein-PII] uridylyltransferase
+vok:COSY_0439	CDS	456806..457132	trxA; thioredoxin 1
+vok:COSY_0440	CDS	457248..458510	rho; transcription termination factor Rho
+vok:COSY_0441	CDS	458647..459720	hypothetical protein
+vok:COSY_0442	CDS	459862..460260	folE; GTP cyclohydrolase I
+vok:COSY_0443	CDS	460269..461420	pcnB; poly(A) polymerase
+vok:COSY_0444	CDS	461790..462014	xseB; exodeoxyribonuclease VII small subunit
+vok:COSY_0445	CDS	462064..462918	ispA; geranyltranstransferase
+vok:COSY_0446	CDS	complement(462915..463859)	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III
+vok:COSY_0447	CDS	complement(463852..464871)	plsX; fatty acid/phospholipid synthesis protein PlsX
+vok:COSY_0448	CDS	complement(464877..465074)	rpmF; 50S ribosomal protein L32
+vok:COSY_0449	CDS	complement(465098..465592)	conserved hypothetical protein
+vok:COSY_0450	CDS	complement(465805..466506)	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+vok:COSY_0451	CDS	467297..468049	oxidoreductase
+vok:COSY_0452	CDS	complement(468163..468966)	suhB; myo-inositol-1(or 4)-monophosphatase
+vok:COSY_0453	CDS	468980..469723	RNA methyltransferase, TrmH family
+vok:COSY_0454	CDS	complement(469761..471611)	htpG; heat shock protein HtpG
+vok:COSY_0455	CDS	472193..472729	conserved hypothetical protein
+vok:COSY_0456	CDS	472726..473652	hemF; coproporphyrinogen III oxidase
+vok:COSY_0457	CDS	473642..473866	conserved hypothetical protein
+vok:COSY_0458	CDS	473999..475414	glnA; glutamine synthetase
+vok:COSY_0459	CDS	475512..476480	bioB; biotin synthetase
+vok:COSY_0460	CDS	complement(476443..477465)	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+vok:COSY_0461	CDS	478303..479916	ABC transporter ATP-binding protein
+vok:COSY_0462	CDS	480049..480654	riboflavin synthase alpha chain
+vok:COSY_0463	CDS	480638..481711	ribAB; bifunctional riboflavin biosynthesis protein RibBA
+vok:COSY_0464	CDS	481722..482225	ribH; riboflavin synthase beta chain
+vok:COSY_0465	CDS	482228..482653	nusB; N utilization substance protein B
+vok:COSY_0466	CDS	complement(482789..486469)	metH; 5-methyltetrahydrofolate--homocysteine methyltransferase
+vok:COSY_0467	CDS	486758..487144	hypothetical protein
+vok:COSY_0468	CDS	complement(487208..487705)	ssb; single-strand DNA binding protein
+vok:COSY_0469	CDS	complement(487720..488895)	major facilitator family transporter
+vok:COSY_0470	CDS	complement(488914..489681)	comL; competence lipoprotein ComL
+vok:COSY_0471	CDS	489779..491881	spoT; guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+vok:COSY_0472	CDS	491956..492150	conserved hypothetical protein
+vok:COSY_0473	CDS	492147..493421	tolB; biopolymer transport protein TolB
+vok:COSY_0474	CDS	493433..494002	pal; peptidoglycan-associated lipoprotein
+vok:COSY_0475	CDS	494009..494674	hypothetical protein
+vok:COSY_0476	CDS	494687..495976	conserved hypothetical protein
+vok:COSY_0477	CDS	complement(496092..497723)	nadE; NAD+ synthase (glutamine-hydrolysing)
+vok:COSY_0478	CDS	498452..499435	hemH; ferrochelatase
+vok:COSY_0479	CDS	499543..501819	nrdA; ribonucleoside-diphosphate reductase alpha subunit
+vok:COSY_0480	CDS	501835..502971	nrdB; ribonucleoside-diphosphate reductase beta subunit
+vok:COSY_0481	CDS	502980..503243	hypothetical protein
+vok:COSY_0482	CDS	complement(503429..504097)	conserved hypothetical protein
+vok:COSY_0483	CDS	complement(504370..504951)	rnt; ribonuclease T
+vok:COSY_0484	CDS	complement(504941..505366)	hypothetical protein
+vok:COSY_0485	CDS	505443..507107	ilvD; dihydroxy-acid dehydratase
+vok:COSY_0486	CDS	complement(507173..509290)	vacB; ribonuclease R
+vok:COSY_0487	CDS	complement(509294..510610)	purA; adenylosuccinate synthetase
+vok:COSY_0488	CDS	complement(510637..511587)	hisZ; ATP phosphoribosyltransferase regulatory subunit
+vok:COSY_0489	CDS	complement(511600..512457)	hflC; membrane protease subunit HflC
+vok:COSY_0490	CDS	complement(512457..513626)	hflK; membrane protease subunit HflK
+vok:COSY_0491	CDS	513749..515980	hypothetical protein
+vok:COSY_0492	CDS	515970..516863	hypothetical protein
+vok:COSY_0493	CDS	516864..517607	RNA methyltransferase, TrmH family
+vok:COSY_0494	CDS	complement(517828..519018)	conserved hypothetical protein
+vok:COSY_0495	CDS	complement(519093..520133)	conserved hypothetical protein
+vok:COSY_0496	CDS	520197..520475	conserved hypothetical protein
+vok:COSY_0497	CDS	520482..521096	lipB; lipoate-protein ligase B
+vok:COSY_0498	CDS	521074..522021	lipA; lipoic acid synthetase
+vok:COSY_0499	CDS	complement(522046..525492)	multidrug efflux system
+vok:COSY_0500	CDS	complement(525499..526674)	multidrug efflux system
+vok:COSY_0501	CDS	526875..527873	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+vok:COSY_0502	CDS	527854..528618	ksgA; dimethyladenosine transferase
+vok:COSY_0503	CDS	528602..528973	conserved hypothetical protein
+vok:COSY_0504	CDS	528973..529770	apaH; bis(5'-nucleosyl)-tetraphosphatase
+vok:COSY_0505	CDS	complement(529767..530582)	dapF; diaminopimelate epimerase
+vok:COSY_0506	CDS	532101..533438	membrane-associated Zn-dependent protease
+vok:COSY_0507	CDS	533454..535745	bacterial surface antigen family protein
+vok:COSY_0508	CDS	535784..536782	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+vok:COSY_0509	CDS	536784..537227	fabZ; 3R-hydroxymyristoyl ACP dehydrase
+vok:COSY_0510	CDS	537253..538044	lpxA; UDP-N-acetylglucosamine acyltransferase
+vok:COSY_0511	CDS	538062..539588	mviN; virulence factor MviN
+vok:COSY_0512	CDS	539588..539857	Fe(II) trafficking protein YggX
+vok:COSY_0513	CDS	539850..540461	gmk; guanylate kinase
+vok:COSY_0514	CDS	540511..541344	rpoH; DNA-directed RNA polymerase sigma-32 factor
+vok:COSY_0515	CDS	541411..541698	groES; chaperonin GroES
+vok:COSY_0516	CDS	541711..543354	groEL; chaperonin GroEL
+vok:COSY_0517	CDS	543491..544732	hypothetical protein
+vok:COSY_0518	CDS	544813..546693	parE; topoisomerase IV subunit B
+vok:COSY_0519	CDS	546686..547378	exsB; trans-regulatory protein ExsB
+vok:COSY_0520	CDS	547487..547711	acpP; acyl carrier protein
+vok:COSY_0521	CDS	547790..549031	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase I/II
+vok:COSY_0522	CDS	complement(549089..549301)	hypothetical protein
+vok:COSY_0523	CDS	complement(549294..551228)	prlC; oligopeptidase A
+vok:tRNA-Ser-1	tRNA	complement(551241..551329)	tRNA-Ser
+vok:COSY_0525	CDS	complement(551517..553154)	metG; methionyl-tRNA synthetase
+vok:COSY_0526	CDS	553236..554309	mrp; Mrp-ATPase
+vok:COSY_0527	CDS	complement(554560..554898)	fdx; ferredoxin
+vok:COSY_0528	CDS	complement(554921..556765)	hscA; molecular chaperone HscA
+vok:COSY_0529	CDS	complement(556781..557296)	hscB; molecular chaperone HscB
+vok:COSY_0530	CDS	complement(557309..557632)	iscA; iron-sulfur cluster assembly protein
+vok:COSY_0531	CDS	complement(557639..558016)	iscU; iron-sulfur cofactor synthesis protein
+vok:COSY_0532	CDS	complement(558084..559298)	iscS; cysteine desulfurase
+vok:COSY_0533	CDS	complement(559301..559720)	iscR; Fe-S cluster-containing transcription factor
+vok:COSY_0534	CDS	complement(559803..560501)	cysE; serine O-acetyltransferase
+vok:COSY_0535	CDS	complement(560570..561430)	lipid A biosynthesis lauroyl acyltransferase
+vok:COSY_0536	CDS	complement(561411..562151)	conserved hypothetical protein
+vok:COSY_0537	CDS	complement(562691..564061)	hypothetical protein
+vok:COSY_0538	CDS	complement(564058..564582)	aroK; shikimate kinase I
+vok:COSY_0539	CDS	complement(564784..565713)	ilvE; branched-chain amino acid aminotransferase
+vok:COSY_0540	CDS	complement(565716..566939)	aspartate kinase, monofunctional class
+vok:COSY_0541	CDS	567344..568591	peptidase M48, Ste24p
+vok:COSY_0542	CDS	568654..568908	conserved hypothetical protein
+vok:COSY_0543	CDS	569023..569862	conserved hypothetical protein
+vok:COSY_0544	CDS	complement(570494..570871)	conserved hypothetical protein
+vok:tRNA-Lys	tRNA	complement(571185..571260)	tRNA-Lys
+vok:COSY_0546	CDS	complement(571354..571632)	integration host factor, beta subunit
+vok:COSY_0547	CDS	complement(571665..573344)	rpsA; 30S ribosomal protein S1
+vok:COSY_0548	CDS	complement(573443..574120)	cmk; cytidylate kinase
+vok:COSY_0549	CDS	complement(574394..575884)	lysS; lysyl-tRNA synthetase, class II
+vok:COSY_0550	CDS	complement(576514..576948)	ccmH; cytochrome c-type biogenesis protein CcmH
+vok:COSY_0551	CDS	576987..578603	uup; ABC transporter ATP-binding protein
+vok:COSY_0552	CDS	578739..579359	hypothetical protein
+vok:COSY_0553	CDS	580876..581526	conserved hypothetical protein
+vok:COSY_0554	CDS	581526..582785	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+vok:COSY_0555	CDS	582792..583409	hisG; ATP phosphoribosyltransferase
+vok:COSY_0556	CDS	583406..584701	hisD; histidinol dehydrogenase
+vok:COSY_0557	CDS	complement(584810..586210)	ffh; signal recognition particle, subunit SRP54
+vok:COSY_0558	CDS	586273..587052	cytochrome c assembly family protein
+vok:COSY_0559	CDS	complement(587509..589296)	lepA; GTP-binding protein LepA
+vok:COSY_0560	CDS	589337..589786	peroxiredoxin, AhpC/TSA family
+vok:COSY_0561	CDS	589783..590481	ubiG; 3-demethylubiquinone-9 3-methyltransferase
+vok:COSY_0562	CDS	590517..590822	hypothetical protein
+vok:COSY_0563	CDS	complement(590819..591202)	acpS; holo-[acyl-carrier protein] synthase
+vok:COSY_0564	CDS	complement(591199..591924)	pdxJ; pyridoxine 5-phosphate synthase
+vok:COSY_0565	CDS	complement(592352..593302)	era; GTP-binding protein Era
+vok:COSY_0566	CDS	complement(593263..593928)	rnc; ribonuclease III
+vok:COSY_0567	CDS	593960..594661	conserved hypothetical protein
+vok:COSY_0568	CDS	complement(594979..595773)	thyA; thymidylate synthetase
+vok:COSY_0569	CDS	complement(595770..596555)	lgt; prolipoprotein diacylglyceryl transferase
+vok:tRNA-Arg-4	tRNA	complement(596571..596647)	tRNA-Arg
+vok:COSY_0571	CDS	complement(596667..596978)	transcriptional regulator, ArsR family
+vok:COSY_0572	CDS	complement(596985..597569)	hypothetical protein
+vok:COSY_0573	CDS	597670..599001	carboxyl-terminal protease
+vok:COSY_0574	CDS	complement(599452..600336)	lepB; signal peptidase I
+vok:COSY_0575	CDS	600392..600733	yccK; sulfite reductase
+vok:COSY_0576	CDS	complement(601436..602743)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+vok:COSY_0577	CDS	complement(602748..603602)	prephenate dehydrogenase
+vok:COSY_0578	CDS	complement(603599..603889)	hypothetical protein
+vok:COSY_0579	CDS	complement(603992..605092)	pheA; bifunctional protein PheA
+vok:COSY_0580	CDS	complement(605103..606260)	serA; D-3-phosphoglycerate dehydrogenase
+vok:COSY_0581	CDS	complement(606260..607339)	serC; phosphoserine aminotransferase
+vok:COSY_0582	CDS	609059..609628	hypothetical protein
+vok:COSY_0583	CDS	609635..610228	cobO; cob(I)alamin adenosyltransferase
+vok:COSY_0584	CDS	complement(610250..611509)	glyA; glycine hydroxymethyltransferase
+vok:tRNA-Pro-2	tRNA	complement(612096..612169)	tRNA-Pro
+vok:COSY_0586	CDS	complement(612160..612906)	moeB; molybdopterin biosynthesis protein MoeB
+vok:COSY_0587	CDS	complement(612903..613394)	msrA; peptide methionine sulfoxide reductase MsrA
+vok:COSY_0588	CDS	613810..614277	hypothetical protein
+vok:COSY_0589	CDS	complement(614346..614675)	himA; integration host factor, alpha subunit
+vok:COSY_0590	CDS	complement(614675..617041)	pheT; phenylalanyl-tRNA synthetase beta subunit
+vok:COSY_0591	CDS	complement(617038..618063)	pheS; phenylalanyl-tRNA synthetase alpha subunit
+vok:COSY_0592	CDS	complement(618423..618782)	rplT; 50S ribosomal protein L20
+vok:COSY_0593	CDS	complement(618795..618992)	rpmI; 50S ribosomal protein L35
+vok:COSY_0594	CDS	complement(619047..619496)	infC; translation initiation factor IF-3
+vok:COSY_0595	CDS	complement(619556..621466)	thrS; threonyl-tRNA synthetase
+vok:COSY_0596	CDS	complement(621521..623239)	recJ; single-stranded-DNA-specific exonuclease RecJ
+vok:COSY_0597	CDS	complement(623229..623780)	conserved hypothetical protein
+vok:COSY_0598	CDS	complement(623773..624768)	FAD dependent oxidoreductase
+vok:COSY_0599	CDS	complement(624756..625214)	lspA; lipoprotein signal peptidase
+vok:COSY_0600	CDS	625575..626357	fabI; enoyl-[acyl-carrier protein] reductase (NADH)
+vok:COSY_0601	CDS	complement(626742..628589)	peptidyl-prolyl cis-trans isomerase D
+vok:tRNA-Asp	tRNA	complement(628751..628827)	tRNA-Asp
+vok:tRNA-Val-2	tRNA	complement(628839..628914)	tRNA-Val
+vok:COSY_0604	CDS	complement(628963..629238)	hupB; DNA-binding protein HU-beta
+vok:COSY_0605	CDS	complement(629366..629896)	dsbE; thiol:disulfide interchange protein DsbE
+vok:COSY_0606	CDS	complement(629893..630315)	ccmE; cytochrome c-type biogenesis protein CcmE
+vok:COSY_0607	CDS	complement(630487..631227)	ccmC; heme exporter membrane protein CcmC
+vok:COSY_0608	CDS	complement(631266..631925)	glycoprotease
+vok:COSY_0609	CDS	632487..632828	rpsF; 30S ribosomal protein S6
+vok:COSY_0610	CDS	632828..633082	rpsR; 30S ribosomal protein S18
+vok:COSY_0611	CDS	633092..633544	rplI; 50S ribosomal protein L9
+vok:COSY_0612	CDS	633630..635075	dnaB; replicative DNA helicase
+vok:COSY_0613	CDS	635084..636139	alr; alanine racemase
+vok:COSY_0614	CDS	636136..636837	metallophosphoesterase
+vok:COSY_0615	CDS	637054..637977	5'-nucleotidase
+vok:COSY_0616	CDS	638115..639053	conserved hypothetical protein
+vok:COSY_0617	CDS	complement(639500..639859)	conserved hypothetical protein
+vok:COSY_0618	CDS	640605..641873	hisS; histidyl-tRNA synthetase
+vok:COSY_0619	CDS	641870..642487	conserved hypothetical protein
+vok:COSY_0620	CDS	642494..643891	GTP-binding protein, Era/TrmE family
+vok:COSY_0621	CDS	complement(644613..646250)	pyrG; CTP synthase
+vok:COSY_0622	CDS	646331..648052	msbA; lipid A export ATP-binding/permease protein MsbA
+vok:COSY_0623	CDS	complement(648228..648803)	hypothetical protein
+vok:COSY_0624	CDS	complement(648784..649683)	conserved hypothetical protein
+vok:COSY_0625	CDS	complement(649680..650489)	conserved hypothetical protein
+vok:COSY_0626	CDS	complement(650479..650967)	hypothetical protein
+vok:COSY_0627	CDS	complement(650960..652348)	conserved hypothetical protein
+vok:COSY_0628	CDS	complement(652350..652811)	conserved hypothetical protein
+vok:COSY_0629	CDS	complement(652856..653920)	glycosyltransferase
+vok:COSY_0630	CDS	complement(653917..654213)	dioxygenase ferredoxin subunit
+vok:COSY_0631	CDS	complement(654219..654827)	conserved hypothetical protein
+vok:COSY_0632	CDS	complement(654821..655138)	csp; cold shock protein
+vok:COSY_0633	CDS	655781..656272	thioredoxin
+vok:COSY_0634	CDS	656254..656928	ung; uracil-DNA glycosylase
+vok:COSY_0635	CDS	656928..657965	pdxB; erythronate-4-phosphate dehyrogenase
+vok:COSY_0636	CDS	complement(658536..660236)	bifunctional serine/threonine kinase and phosphatase
+vok:COSY_0637	CDS	complement(660239..661705)	nitrate transporter
+vok:COSY_0638	CDS	complement(661708..664077)	nirB; nitrite reductase (NAD(P)H) large subunit
+vok:COSY_0639	CDS	664377..664826	moaE; molybdenum cofactor biosynthesis protein E
+vok:COSY_0640	CDS	complement(664829..665413)	mobA; molybdopterin-guanine dinucleotide biosynthesis protein A
+vok:COSY_0641	CDS	665492..666763	moeA; molybdopterin biosynthesis protein MoeA
+vok:COSY_0642	CDS	666760..667266	moaC; molybdenum cofactor biosynthesis protein C
+vok:COSY_0643	CDS	667259..668254	moaA; molybdenum cofactor biosynthesis protein A
+vok:COSY_0644	CDS	668273..668509	moaD; molybdenum cofactor biosynthesis protein D
+vok:COSY_0645	CDS	complement(669306..669758)	hypothetical protein
+vok:COSY_0646	CDS	complement(669765..670445)	narI; respiratory nitrate reductase gamma subunit
+vok:COSY_0647	CDS	complement(670461..671117)	narJ; respiratory nitrate reductase delta subunit
+vok:COSY_0648	CDS	complement(671114..672655)	narH; respiratory nitrate reductase beta subunit
+vok:COSY_0649	CDS	complement(672655..676386)	narG; respiratory nitrate reductase alpha subunit
+vok:COSY_0650	CDS	677171..677701	moaB; molybdenum cofactor biosynthesis protein B
+vok:COSY_0651	CDS	complement(678095..680341)	cbbO; Rubisco regulator CbbO
+vok:COSY_0652	CDS	complement(680357..681166)	cbbQ; Rubisco regulator CbbQ
+vok:COSY_0653	CDS	complement(681254..682636)	cbbM; ribulose-bisphosphate carboxylase form II
+vok:COSY_0654	gene	682738..683028	pseudogene
+vok:COSY_0655	CDS	complement(683624..684841)	argJ; bifunctional arginine biosynthesis protein ArgJ
+vok:COSY_0656	CDS	complement(684950..686545)	iron ABC transporter permease
+vok:COSY_0657	CDS	complement(686627..687646)	iron ABC transporter substrate-binding protein
+vok:COSY_0658	CDS	complement(687702..688352)	iron ABC transporter ATP-binding protein
+vok:COSY_0659	CDS	complement(688419..690113)	multicopper oxidase
+vok:COSY_0660	CDS	complement(690174..691082)	conserved hypothetical protein
+vok:COSY_0661	CDS	complement(691066..692031)	hypothetical protein
+vok:COSY_0662	CDS	complement(692038..693405)	conserved hypothetical protein
+vok:COSY_0663	CDS	complement(693383..694693)	conserved hypothetical protein
+vok:COSY_0664	CDS	695502..696641	cation-efflux family protein
+vok:COSY_0665	CDS	696989..697348	thioredoxin
+vok:COSY_0666	CDS	complement(697355..697681)	arsenate reductase
+vok:COSY_0667	CDS	complement(697678..698310)	conserved hypothetical protein
+vok:COSY_0668	CDS	complement(698314..698727)	conserved hypothetical protein
+vok:COSY_0669	CDS	complement(699148..701181)	glyS; glycyl-tRNA synthetase beta subunit
+vok:COSY_0670	CDS	complement(701896..702288)	conserved hypothetical protein
+vok:COSY_0671	CDS	complement(702288..703127)	conserved hypothetical protein
+vok:COSY_0672	CDS	complement(703127..703579)	tolR; biopolymer transport protein TolR
+vok:COSY_0673	CDS	complement(703572..704264)	tolQ; biopolymer transport protein TolQ
+vok:COSY_0674	CDS	complement(704657..705685)	ruvB; holliday junction DNA helicase RuvB
+vok:COSY_0675	CDS	706287..707537	hemA; glutamyl-tRNA reductase
+vok:COSY_0676	CDS	707537..708622	prfA; peptide chain release factor RF-1
+vok:COSY_0677	CDS	complement(709041..709844)	zinc ABC transporter permease
+vok:COSY_0678	CDS	complement(709835..710242)	fur; negative regulator of ferric iron uptake
+vok:COSY_0679	CDS	710308..710805	conserved hypothetical protein
+vok:COSY_0680	CDS	complement(710873..711832)	peptidase S49
+vok:COSY_0681	CDS	711848..712444	ccmA; heme exporter ATP-binding protein CcmA
+vok:COSY_0682	CDS	712441..713106	ccmB; heme exporter membrane protein CcmB
+vok:COSY_0683	CDS	713260..714393	metK; S-adenosylmethionine synthetase
+vok:COSY_0684	CDS	714418..715788	ahcY; S-adenosyl-L-homocysteine hydrolase
+vok:COSY_0685	CDS	715880..716803	glyQ; glycyl-tRNA synthetase alpha subunit
+vok:COSY_0686	CDS	716805..717377	conserved hypothetical protein
+vok:COSY_0687	CDS	717358..717843	hypothetical protein
+vok:COSY_0688	CDS	717997..719325	miaB; tRNA-thiotransferase
+vok:COSY_0689	CDS	complement(719726..720406)	conserved hypothetical protein
+vok:COSY_0690	CDS	complement(720750..721253)	conserved hypothetical protein
+vok:COSY_0691	CDS	722294..723382	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+vok:COSY_0692	CDS	723385..723996	conserved hypothetical protein
+vok:COSY_0693	CDS	724084..724344	rpsT; 30S ribosomal protein S20
+vok:COSY_0694	CDS	724501..724983	conserved hypothetical protein
+vok:COSY_0695	CDS	724988..726388	xseA; exodeoxyribonuclease VII large subunit
+vok:COSY_0696	CDS	727340..727579	hypothetical protein
+vok:COSY_0697	CDS	727955..728683	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+vok:COSY_0698	CDS	728680..729150	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+vok:COSY_0699	CDS	729150..730559	murC; UDP-N-acetylmuramate--alanine ligase
+vok:COSY_0700	CDS	730571..731404	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+vok:COSY_0701	CDS	731401..732282	ddlB; D-alanine-D-alanine ligase B
+vok:COSY_0702	CDS	complement(733472..733780)	bolA; cell division protein BolA
+vok:COSY_0703	CDS	734693..735610	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+vok:COSY_0704	CDS	complement(735779..737077)	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+vok:COSY_0705	CDS	737138..737797	carrier/transport protein
+vok:COSY_0706	CDS	738300..739586	thrA; homoserine dehydrogenase
+vok:COSY_0707	CDS	739597..740661	thrC; threonine synthase
+vok:COSY_0708	CDS	740680..741567	cysK; cysteine synthase B
+vok:COSY_0709	CDS	741564..742847	chloride channel protein
+vok:COSY_0710	CDS	complement(742834..743256)	conserved hypothetical protein
+vok:COSY_0711	CDS	743870..744829	ftsY; cell division transporter substrate-binding protein FtsY
+vok:COSY_0712	CDS	complement(745572..746486)	hemC; porphobilinogen deaminase
+vok:COSY_0713	CDS	746485..746883	hypothetical protein
+vok:COSY_0714	CDS	746962..748404	argH; argininosuccinate lyase
+vok:COSY_0715	CDS	748404..749372	fmt; methionyl-tRNA formyltransferase
+vok:COSY_0716	CDS	749621..752179	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB
+vok:COSY_0717	CDS	752249..752890	rnfE; electron transport complex protein RnfE
+vok:COSY_0718	CDS	753135..753947	hemK; protein methyltransferase HemK
+vok:COSY_0719	CDS	complement(754588..756078)	fumB; fumarate hydratase, class I
+vok:COSY_0720	CDS	756158..757237	mreB; rod shape-determining protein MreB
+vok:COSY_0721	CDS	757274..758068	mreC; rod shape-determining protein MreC
+vok:COSY_0722	CDS	758071..758541	mreD; rod shape-determining protein MreD
+vok:COSY_0723	CDS	758499..760379	mrdA; penicillin-binding protein 2
+vok:COSY_0724	CDS	complement(760686..761798)	tgt; queuine tRNA-ribosyltransferase
+vok:COSY_0725	CDS	complement(761788..763581)	ABC transporter ATP-binding protein
+vok:COSY_0726	CDS	764042..765091	ribD; bifunctional riboflavin biosynthesis protein RibD
+vok:COSY_0727	CDS	765088..766281	dfp; DNA/pantothenate metabolism flavoprotein
+vok:COSY_0728	CDS	complement(766893..770318)	dnaE; DNA polymerase III alpha subunit
+vok:COSY_0729	CDS	complement(770460..770777)	hypothetical protein
+vok:COSY_0730	CDS	complement(770792..771607)	soxA; sulfur oxidation protein SoxA
+vok:COSY_0731	CDS	complement(771635..771937)	soxZ; sulfur oxidation protein SoxZ
+vok:COSY_0732	CDS	complement(771971..772414)	soxY; sulfur oxidation protein SoxY
+vok:COSY_0733	CDS	complement(772425..772772)	soxX; sulfur oxidation protein SoxX
+vok:COSY_0734	CDS	complement(772996..774450)	anthranilate synthase component I
+vok:COSY_0735	CDS	complement(774538..778719)	rpoC; DNA-directed RNA polymerase beta' subunit
+vok:COSY_0736	CDS	complement(778733..782815)	rpoB; DNA-directed RNA polymerase beta subunit
+vok:COSY_0737	CDS	complement(782985..783359)	rplL; 50S ribosomal protein L7/L12
+vok:COSY_0738	CDS	complement(783382..783906)	rplJ; 50S ribosomal protein L10
+vok:COSY_0739	CDS	complement(784107..784802)	rplA; 50S ribosomal protein L1
+vok:COSY_0740	CDS	complement(784807..785235)	rplK; 50S ribosomal protein L11
+vok:COSY_0741	CDS	complement(785326..785859)	nusG; transcription antitermination protein NusG
+vok:COSY_0742	CDS	complement(785870..786241)	secE; preprotein translocase SecE subunit
+vok:tRNA-Trp	tRNA	complement(786258..786333)	tRNA-Trp
+vok:COSY_0744	CDS	complement(786412..787602)	tufB; translation elongation factor EF-Tu
+vok:tRNA-Thr-2	tRNA	complement(787637..787712)	tRNA-Thr
+vok:tRNA-Gly-2	tRNA	complement(787728..787801)	tRNA-Gly
+vok:tRNA-Tyr	tRNA	complement(787821..787905)	tRNA-Tyr
+vok:COSY_0748	CDS	complement(788001..789221)	maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)
+vok:COSY_0749	CDS	complement(789721..790059)	HIT family hydrolase
+vok:COSY_0750	CDS	complement(790563..791690)	sulfide-quinone reductase
+vok:COSY_0751	CDS	791950..792531	nitroreductase family protein
+vok:COSY_0752	CDS	complement(792701..792949)	hypothetical protein
+vok:COSY_0753	CDS	complement(792965..793663)	glyoxalase II
+vok:COSY_0754	CDS	complement(793944..794687)	dapB; dihydrodipicolinate reductase
+vok:COSY_0755	CDS	complement(794837..795670)	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase
+vok:COSY_0756	CDS	795875..796681	indole-3-glycerol phosphate synthase
+vok:COSY_0757	CDS	796678..797091	redox protein regulator OsmC/Ohr family
+vok:tRNA-Ser-2	tRNA	797611..797703	tRNA-Ser
+vok:COSY_0759	CDS	797828..798607	thiG; thiamine biosynthesis ThiG
+vok:COSY_0760	CDS	799156..800253	bioF; 8-amino-7-oxononanoate synthase
+vok:COSY_0761	CDS	800243..800980	bioH; biotin biosynthesis protein BioH
+vok:COSY_0762	CDS	800995..801483	purE; phosphoribosylaminoimidazole carboxylase catalytic subunit
+vok:COSY_0763	CDS	801487..802566	purK; phosphoribosylaminoimidazole carboxylase ATPase subunit
+vok:COSY_0764	CDS	complement(802574..802948)	conserved hypothetical protein
+vok:COSY_0765	CDS	complement(802945..803778)	folD; bifunctional protein FolD
+vok:COSY_0766	CDS	complement(803782..804516)	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+vok:COSY_0767	CDS	complement(804516..804695)	conserved hypothetical protein
+vok:COSY_0768	CDS	complement(804692..805639)	lpxK; tetraacyldisaccharide 4'-kinase
+vok:COSY_0769	CDS	806066..807301	lolE; lipoprotein ABC transporter permease LolE
+vok:COSY_0770	CDS	807294..807968	lolD; lipoprotein ABC transporter ATP-binding protein LolD
+vok:COSY_0771	CDS	complement(808390..808773)	panD; aspartate 1-decarboxylase
+vok:COSY_0772	CDS	complement(808783..809913)	oadB; oxaloacetate decarboxylase, beta subunit
+vok:COSY_0773	CDS	complement(809928..811700)	oadA; oxaloacetate decarboxylase, alpha subunit
+vok:tRNA-Leu-2	tRNA	complement(812023..812107)	tRNA-Leu
+vok:COSY_0775	CDS	complement(812116..812334)	infA; translation initiation factor IF-1
+vok:COSY_0776	CDS	812501..813322	metF; 5,10-methylenetetrahydrofolate reductase
+vok:COSY_0777	CDS	complement(813334..813798)	hypothetical protein
+vok:COSY_0778	CDS	complement(813816..814562)	hemD; uroporphyrinogen-III synthetase
+vok:COSY_0779	CDS	complement(814566..815159)	hypothetical protein
+vok:COSY_0780	CDS	815220..816173	Ca2+:Na+ antiporter
+vok:COSY_0781	CDS	816158..816625	conserved hypothetical protein
+vok:COSY_0782	CDS	complement(817196..817537)	dsrR; intracellular sulfur oxidation protein DsrR
+vok:COSY_0783	CDS	complement(817534..818910)	dsrN; intracellular sulfur oxidation protein DsrN
+vok:COSY_0784	CDS	complement(818938..820140)	dsrP; intracellular sulfur oxidation protein DsrP
+vok:COSY_0785	CDS	complement(820166..820897)	dsrO; intracellular sulfur oxidation protein DsrO
+vok:COSY_0786	CDS	complement(820894..821277)	dsrJ; intracellular sulfur oxidation protein DsrJ
+vok:COSY_0787	CDS	complement(821307..823271)	dsrL; intracellular sulfur oxidation protein DsrL
+vok:COSY_0788	CDS	complement(823327..824892)	dsrK; intracellular sulfur oxidation protein DsrK
+vok:COSY_0789	CDS	complement(824894..825667)	dsrM; intracellular sulfur oxidation protein DsrM
+vok:COSY_0790	CDS	complement(825744..826067)	dsrC; intracellular sulfur oxidation protein DsrC
+vok:COSY_0791	CDS	complement(826094..826390)	dsrH; intracellular sulfur oxidation protein DsrH
+vok:COSY_0792	CDS	complement(826402..826806)	dsrF; intracellular sulfur oxidation protein DsrF
+vok:COSY_0793	CDS	complement(826810..827211)	dsrE; intracellular sulfur oxidation protein DsrE
+vok:COSY_0794	CDS	complement(827224..828297)	dsrB; intracellular sulfur oxidation protein DsrB
+vok:COSY_0795	CDS	complement(828373..829674)	dsrA; intracellular sulfur oxidation protein DsrA
+vok:COSY_0796	CDS	complement(829907..831340)	gltD; glutamate synthase (NADPH) small chain
+vok:COSY_0797	CDS	831491..831844	rplS; 50S ribosomal protein L19
+vok:COSY_0798	CDS	complement(831932..832411)	greA; transcription elongation factor GreA
+vok:COSY_0799	CDS	complement(832414..835620)	carB; carbamoyl-phosphate synthase large subunit
+vok:COSY_0800	CDS	complement(835643..836329)	vacJ; surface lipoprotein VacJ
+vok:COSY_0801	CDS	complement(836326..837447)	carA; carbamoyl-phosphate synthase small subunit
+vok:COSY_0802	CDS	837558..837827	conserved hypothetical protein
+vok:COSY_0803	CDS	837824..838024	thiS; thiamine biosynthesis protein ThiS
+vok:COSY_0804	CDS	complement(838542..839588)	conserved hypothetical protein
+vok:COSY_0805	CDS	839956..840246	intracellular sulfur oxidation protein DsrC
+vok:COSY_0806	CDS	complement(840275..842872)	alaS; alanyl-tRNA synthetase
+vok:COSY_0807	CDS	complement(842921..843535)	translation factor, Sua5/YciO/YrdC/YwlC family
+vok:COSY_0808	CDS	complement(843529..844359)	conserved hypothetical protein
+vok:COSY_0809	CDS	844437..846284	glmS; glucosamine--fructose-6-phosphate aminotransferase (isomerizing)
+vok:COSY_0810	CDS	846290..847528	pgi; glucose-6-phosphate isomerase
+vok:COSY_0811	CDS	847525..848358	galU; UTP--glucose-1-phosphate uridylyltransferase
+vok:COSY_0812	CDS	849069..849797	glycosyltransferase
+vok:COSY_0813	CDS	850417..851157	conserved hypothetical protein
+vok:COSY_0814	CDS	851158..851934	glycosyltransferase, family 25
+vok:COSY_0815	CDS	851947..852984	glycosyltransferase, group 1 family
+vok:COSY_0816	CDS	854027..855688	glnS; glutaminyl-tRNA synthetase
+vok:COSY_0817	CDS	complement(856135..856884)	surE; acid phosphatase
+vok:COSY_0818	CDS	complement(856907..859129)	clpA; ATP-dependent Clp protease ATP-binding subunit ClpA
+vok:COSY_0819	CDS	complement(859346..860428)	permease
+vok:COSY_0820	CDS	860473..862038	guaA; GMP synthase (glutamine-hydrolysing)
+vok:COSY_0821	CDS	862029..862490	conserved hypothetical protein
+vok:COSY_0822	CDS	complement(862508..863254)	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+vok:COSY_0823	CDS	complement(863251..864183)	fabD; [acyl-carrier-protein] S-malonyltransferase
+vok:COSY_0824	CDS	complement(864271..864528)	rpmA; 50S ribosomal protein L27
+vok:COSY_0825	CDS	complement(864540..864851)	rplU; 50S ribosomal protein L21
+vok:COSY_0826	CDS	864977..865462	ppiB; peptidyl-prolyl cis-trans isomerase B
+vok:COSY_0827	CDS	865465..866187	lpxH; UDP-2,3-diacylglucosamine hydrolase
+vok:COSY_0828	CDS	complement(866152..867957)	ribonuclease II family protein
+vok:COSY_0829	CDS	complement(867966..868340)	gcvH; glycine cleavage system H protein
+vok:COSY_0830	CDS	complement(868384..869460)	gcvT; glycine cleavage system aminomethyltransferase
+vok:COSY_0831	CDS	complement(869460..870113)	ispZ; intracellular septation protein
+vok:COSY_0832	CDS	complement(870114..870323)	conserved hypothetical protein
+vok:tRNA-Leu-3	tRNA	870408..870495	tRNA-Leu
+vok:COSY_0834	CDS	870701..871108	endoribonuclease L-PSP family protein
+vok:COSY_0835	CDS	871179..873245	recG; ATP-dependent DNA helicase RecG
+vok:COSY_0836	CDS	873277..873741	ubiC; chorismate--pyruvate lyase
+vok:COSY_0837	CDS	874189..874776	anthranilate synthase component II
+vok:COSY_0838	CDS	874780..875199	rhodanese family protein
+vok:COSY_0839	CDS	875206..875460	grxC; glutaredoxin 3
+vok:COSY_0840	CDS	875457..876440	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+)
+vok:COSY_0841	CDS	876437..876964	cobC; alpha-ribazole phosphatase
+vok:COSY_0842	CDS	complement(877363..877758)	rpsI; 30S ribosomal protein S9
+vok:COSY_0843	CDS	complement(877771..878199)	rplM; 50S ribosomal protein L13
+vok:COSY_0844	CDS	878434..880260	deaD; ATP-dependent RNA helicase DeaD
+vok:COSY_0845	CDS	880954..881157	cspC; cold shock protein
+vok:COSY_0846	CDS	881948..883369	sbcB; exodeoxyribonuclease I
+vok:COSY_0847	CDS	883439..884071	nth; endonuclease III
+vok:COSY_0848	CDS	complement(884510..885127)	hisH; amidotransferase HisH
+vok:COSY_0849	CDS	complement(885134..885712)	imidazoleglycerol-phosphate dehydratase
+vok:COSY_0850	CDS	complement(885727..885867)	hypothetical protein
+vok:COSY_0851	CDS	complement(885942..886964)	asd; aspartate-semialdehyde dehydrogenase
+vok:COSY_0852	CDS	complement(887570..888310)	conserved hypothetical protein
+vok:COSY_0853	CDS	complement(888320..889384)	hisC; histidinol-phosphate aminotransferase
+vok:COSY_0854	CDS	complement(889381..890133)	thiD; bifunctional thiamine biosynthesis ThiD
+vok:COSY_0855	CDS	complement(890126..890743)	dsbA; thiol:disulfide interchange protein DsbA family
+vok:COSY_0856	CDS	complement(890746..891228)	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+vok:COSY_0857	CDS	complement(891221..891574)	folB; dihydroneopterin aldolase
+vok:COSY_0858	CDS	891630..892220	conserved hypothetical protein
+vok:COSY_0859	CDS	892320..893231	ppk; polyphosphate kinase
+vok:COSY_0860	CDS	893228..893482	hypothetical protein
+vok:COSY_0861	CDS	complement(893582..894340)	ABC transporter permease
+vok:COSY_0862	CDS	complement(894340..895257)	ABC transporter ATP-binding protein
+vok:COSY_0863	CDS	895365..896888	aceF; pyruvate dehydrogenase complex E2 component
+vok:COSY_0864	CDS	896881..898287	lpdA; pyruvate dehydrogenase complex E3 component
+vok:COSY_0865	CDS	898299..898952	pcm; protein-L-isoaspartate(D-aspartate) O-methyltransferase
+vok:COSY_0866	CDS	898955..901336	conserved hypothetical protein
+vok:COSY_0867	CDS	901396..902967	nadB; L-aspartate oxidase
+vok:COSY_0868	CDS	902964..903506	def; polypeptide deformylase
+vok:COSY_0869	CDS	904190..905731	purH; bifunctional purine biosynthesis protein PurH
+vok:COSY_0870	CDS	complement(906146..907534)	dbpA; ATP-dependent RNA helicase DbpA
+vok:COSY_0871	CDS	907791..908348	5-formyltetrahydrofolate cyclo-ligase
+vok:COSY_0872	CDS	complement(908710..909891)	UbiH/COQ6 monooxygenase family protein
+vok:COSY_0873	CDS	complement(909891..911210)	pmbA; peptide maturation protein PmbA
+vok:COSY_0874	CDS	complement(911264..911962)	conserved hypothetical protein
+vok:COSY_0875	CDS	complement(911962..912810)	corC; magnesium/cobalt efflux protein
+vok:COSY_0876	CDS	complement(912849..913145)	conserved hypothetical protein
+vok:COSY_0877	CDS	complement(913135..913866)	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+vok:COSY_0878	CDS	complement(915176..916201)	gcp; O-sialoglycoprotein endopeptidase
+vok:COSY_0879	CDS	complement(916239..916961)	ABC transporter ATP-binding protein
+vok:COSY_0880	CDS	complement(917232..917990)	birA; bifunctional biotin biosynthesis protein BirA
+vok:COSY_0881	CDS	918269..919012	truA; tRNA pseudouridine synthase A
+vok:COSY_0882	CDS	919277..921220	sulfur deprivation response regulator
+vok:COSY_0883	CDS	921286..921876	cynT; carbonic anhydrase
+vok:COSY_0884	CDS	complement(921911..922321)	rimM; 16S rRNA processing protein RimM
+vok:COSY_0885	CDS	complement(922472..922762)	rpsP; 30S ribosomal protein S16
+vok:COSY_0886	CDS	complement(922827..924203)	purB; adenylosuccinate lyase
+vok:COSY_0887	CDS	924327..926903	acnB; aconitate hydratase 2
+vok:COSY_0888	CDS	complement(926960..927115)	rpmG; 50S ribosomal protein L33
+vok:COSY_0889	CDS	complement(927112..927360)	rpmB; 50S ribosomal protein L28
+vok:tRNA-Ser-3	tRNA	927485..927574	tRNA-Ser
+vok:COSY_0891	CDS	complement(928066..928689)	pyrE; orotate phosphoribosyltransferase
+vok:COSY_0892	CDS	928715..929485	xthA; exodeoxyribonuclease III
+vok:COSY_0893	CDS	930228..930911	S-adenosylmethionine-dependent methyltransferase
+vok:COSY_0894	CDS	930913..931365	FxsA protein
+vok:COSY_0895	CDS	931353..932567	folC; bifunctional folate biosynthesis protein FolC
+vok:COSY_0896	CDS	932613..933464	conserved hypothetical protein
+vok:COSY_0897	CDS	933475..934992	purF; amidophosphoribosyltransferase
+vok:COSY_0898	CDS	935018..936184	metB; O-succinylhomoserine sulfhydrylase
+vok:COSY_0899	CDS	936213..936722	fabA; 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+vok:COSY_0900	CDS	936722..937936	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I/II
+vok:COSY_0901	CDS	complement(938378..939292)	secF; preprotein translocase SecF subunit
+vok:COSY_0902	CDS	complement(939289..941136)	secD; preprotein translocase SecD subunit
+vok:COSY_0903	CDS	complement(941152..941493)	yajC; preprotein translocase YajC subunit
+vok:COSY_0904	CDS	complement(941515..942804)	serS; seryl-tRNA synthetase
+vok:COSY_0905	CDS	942804..943175	rhodanese family protein
+vok:COSY_0906	CDS	943209..943838	conserved hypothetical protein
+vok:COSY_0907	CDS	943888..944310	trxC; thioredoxin
+vok:5S_rRNA	rRNA	complement(944356..944475)	5S ribosomal RNA
+vok:23S_rRNA	rRNA	complement(944665..947560)	23S ribosomal RNA
+vok:tRNA-Ala-2	tRNA	complement(948022..948097)	tRNA-Ala
+vok:tRNA-Ile	tRNA	complement(948193..948269)	tRNA-Ile
+vok:16S_rRNA	rRNA	complement(948395..949941)	16S ribosomal RNA
+vok:COSY_0913	CDS	complement(950273..950752)	rhodanese family protein
+vok:COSY_0914	CDS	complement(950758..951387)	narL; two-component system, nitrate/nitrite response regulator
+vok:COSY_0915	CDS	complement(951384..952868)	narX; two-component system, nitrate/nitrite sensor histidine kinase
+vok:COSY_0916	CDS	complement(952909..954252)	trmE; tRNA modification GTPase
+vok:COSY_0917	CDS	complement(954252..955814)	gshA; glutamate--cysteine ligase
+vok:COSY_0918	CDS	956171..956785	conserved hypothetical protein
+vok:COSY_0919	CDS	957234..961754	gltB; glutamate synthase (NADPH) large chain
+vok:COSY_0920	CDS	complement(961807..962298)	folA; dihydrofolate reductase
+vok:COSY_0921	CDS	962354..962959	maf; septum formation protein Maf
+vok:COSY_0922	CDS	962962..966399	mfd; transcription-repair coupling factor
+vok:COSY_0923	CDS	complement(966414..967355)	carbohydrate kinase, PfkB family
+vok:COSY_0924	CDS	complement(967424..968350)	lytB; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+vok:COSY_0925	CDS	complement(968347..968754)	FKBP-type peptidyl-prolyl cis-trans isomerase 2
+vok:COSY_0926	CDS	complement(968747..969595)	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta
+vok:COSY_0927	CDS	complement(969615..970412)	trpA; tryptophan synthase alpha chain
+vok:COSY_0928	CDS	complement(970414..971451)	hemE; uroporphyrinogen decarboxylase
+vok:COSY_0929	CDS	complement(971537..971749)	rpmE; 50S ribosomal protein L31
+vok:COSY_0930	CDS	complement(971831..974236)	cation-transporting P-type ATPase
+vok:COSY_0931	CDS	974447..975118	hypothetical protein
+vok:COSY_0932	CDS	975128..976477	glmU; bifunctional peptidoglycan biosynthesis protein GlmU
+vok:COSY_0933	CDS	complement(977043..978248)	trpB; tryptophan synthase beta subunit
+vok:COSY_0934	CDS	complement(978245..978853)	trpF; phosphoribosylanthranilate isomerase
+vok:COSY_0935	CDS	complement(978854..979561)	hypothetical protein
+vok:COSY_0936	CDS	complement(980324..982657)	topA; DNA topoisomerase I
+vok:COSY_0937	CDS	complement(982657..983148)	smg; Smg protein
+vok:COSY_0938	CDS	984186..984326	rpmH; 50S ribosomal protein L34
+vok:COSY_0939	CDS	984336..984677	rnpA; ribonuclease P protein component
+vok:COSY_0940	CDS	984677..984892	conserved hypothetical protein
+vok:COSY_0941	CDS	984912..986537	conserved hypothetical protein
+vok:COSY_0942	CDS	986546..987406	conserved hypothetical protein
+vok:COSY_0943	CDS	987820..988353	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+vok:COSY_0944	CDS	complement(988967..989383)	atpC; F0F1-type ATP synthase epsilon subunit
+vok:COSY_0945	CDS	complement(989384..990763)	atpD; F0F1-type ATP synthase beta subunit
+vok:COSY_0946	CDS	complement(990786..991652)	atpG; F0F1-type ATP synthase gamma subunit
+vok:COSY_0947	CDS	complement(991666..993207)	atpA; F0F1-type ATP synthase alpha subunit
+vok:COSY_0948	CDS	complement(993234..993785)	atpH; F0F1-type ATP synthase delta subunit
+vok:COSY_0949	CDS	complement(993792..994265)	atpF; F0F1-type ATP synthase B subunit
+vok:COSY_0950	CDS	complement(994301..994534)	atpE; F0F1-type ATP synthase C subunit
+vok:COSY_0951	CDS	complement(994562..995416)	atpB; F0F1-type ATP synthase A subunit
+vok:COSY_0952	CDS	complement(995416..995763)	hypothetical protein
+vok:COSY_0953	CDS	995954..997240	sqr; sulfide-quinone reductase
+vok:COSY_0954	CDS	complement(997967..998785)	NAD+ kinase
+vok:COSY_0955	CDS	998909..999484	grpE; molecular chaperone GrpE
+vok:COSY_0956	CDS	1000568..1002799	dsbD; thiol:disulfide interchange protein DsbD
+vok:COSY_0957	CDS	1002888..1003337	aroQ; 3-dehydroquinate dehydratase II
+vok:COSY_0958	CDS	1003338..1003784	accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+vok:COSY_0959	CDS	1003790..1005145	accC; acetyl CoA carboxylase biotin carboxylase subunit
+vok:COSY_0960	CDS	1005142..1006164	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+vok:COSY_0961	CDS	1006174..1006527	conserved hypothetical protein
+vok:COSY_0962	CDS	1006531..1007667	gltA; citrate synthase
+vok:COSY_0963	CDS	1007670..1008410	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase UbiE
+vok:COSY_0964	CDS	1008639..1008968	hypothetical protein
+vok:COSY_0965	CDS	1008944..1010557	ubiB; ubiquinone biosynthesis protein
+vok:COSY_0966	CDS	1010714..1011391	rplY; 50S ribosomal protein L25
+vok:COSY_0967	CDS	1011403..1011984	pth; peptidyl-tRNA hydrolase, PTH1 family
+vok:COSY_0968	CDS	1011997..1013088	GTP-dependent nucleic acid-binding protein EngD
+vok:COSY_0969	CDS	1013131..1014669	gpm; phosphoglycerate mutase
+vok:COSY_0970	CDS	1014700..1015371	rpe; ribulose-phosphate 3-epimerase
+vok:COSY_0971	CDS	1015636..1016421	rpsB; 30S ribosomal protein S2
+vok:COSY_0972	CDS	1016621..1017493	tsf; translation elongation factor EF-Ts
+vok:COSY_0973	CDS	complement(1017960..1018544)	hypothetical protein
+vok:COSY_0974	CDS	complement(1019178..1019588)	hypothetical protein
+vok:tRNA-Leu-4	tRNA	complement(1020279..1020364)	tRNA-Leu
+vok:COSY_0976	CDS	complement(1020382..1020753)	secG; preprotein translocase SecG subunit
+vok:COSY_0977	CDS	complement(1020753..1021499)	tpiA; triosephosphate isomerase
+vok:COSY_0978	CDS	complement(1021569..1022087)	conserved hypothetical protein
