@@ -1,0 +1,1834 @@
+ftu:FTT_0001	CDS	1..1521	dnaA; chromosome replication initiator DnaA
+ftu:FTT_0002	CDS	1558..2661	dnaN; DNA polymerase III subunit beta
+ftu:FTT_0003c	gene	complement(2692..3096)	pseudogene
+ftu:FTT_0004c	CDS	complement(join(3204..3662,3662..3988))	isftu1; transposase
+ftu:FTT_0005	gene	4086..4625	gabD1; pseudogene
+ftu:FTT_0006	CDS	4661..5869	MFS superfamily proline/betaine transporter
+ftu:FTT_0007	CDS	6044..7822	aspS; aspartyl-tRNA synthetase
+ftu:FTT_0008	gene	7959..8252	pseudogene
+ftu:FTT_0009	gene	8350..8822	isftu1; pseudogene
+ftu:FTT_0010	gene	8924..9430	pseudogene
+ftu:FTT_0011	gene	9400..10269	pseudogene
+ftu:FTT_0012	gene	10557..11413	pseudogene
+ftu:FTT_0013c	CDS	complement(11434..12216)	lipoprotein
+ftu:FTT_0014c	CDS	complement(12456..12854)	hypothetical protein
+ftu:FTT_0015	CDS	13182..14480	purB; adenylosuccinate lyase
+ftu:FTT_0016	CDS	14514..15092	hypothetical protein
+ftu:FTT_0017	CDS	15179..16720	hypothetical protein
+ftu:FTT_0018	CDS	16728..17801	secretion protein
+ftu:FTT_0019	CDS	17884..18165	gatC; Glu-tRNAGln amidotransferase C subunit
+ftu:FTT_0020	CDS	18174..19619	gatA; aspartyl/glutamyl-tRNA amidotransferase subunit A
+ftu:FTT_0021	CDS	19622..21043	gatB; aspartyl/glutamyl-tRNA amidotransferase subunit B
+ftu:FTT_0022	CDS	21058..21465	hypothetical protein
+ftu:FTT_0023c	gene	complement(21481..22974)	pseudogene
+ftu:FTT_0025c	CDS	complement(23022..24551)	hypothetical protein
+ftu:FTT_0026c	CDS	complement(24636..25826)	hypothetical protein
+ftu:FTT_0027c	CDS	complement(25842..27095)	lysA1; diaminopimelate decarboxylase
+ftu:FTT_0028c	CDS	complement(27088..28350)	hypothetical protein
+ftu:FTT_0029c	CDS	complement(28357..30276)	hypothetical protein
+ftu:FTT_0030c	CDS	complement(30529..30951)	fur; ferric uptake regulation protein
+ftu:FTT_0031	CDS	31160..31558	nuoA; NADH dehydrogenase I subunit A
+ftu:FTT_0032	CDS	31549..32025	nuoB; NADH dehydrogenase subunit B
+ftu:FTT_0033	CDS	32022..32672	nuoC; NADH dehydrogenase I
+ftu:FTT_0034	CDS	32694..33947	nuoD; NADH dehydrogenase subunit D
+ftu:FTT_0035	CDS	33957..34445	nuoE; NADH dehydrogenase I subunit E
+ftu:FTT_0036	CDS	34452..35726	nuoF; NADH dehydrogenase I subunit F
+ftu:FTT_0037	CDS	35744..38110	nuoG; NADH dehydrogenase subunit G
+ftu:FTT_0038	CDS	38112..39122	nuoH; NADH dehydrogenase I subunit H
+ftu:FTT_0039	CDS	39136..39624	nuoI; NADH dehydrogenase subunit I
+ftu:FTT_0040	CDS	39629..40234	nuoJ; NADH dehydrogenase I subunit J
+ftu:FTT_0041	CDS	40212..40544	nuoK; NADH dehydrogenase I subunit K
+ftu:FTT_0042	CDS	40554..42563	nuoL; NADH dehydrogenase I subunit L
+ftu:FTT_0043	CDS	42589..44178	nuoM; NADH dehydrogenase I subunit M
+ftu:FTT_0044	CDS	44188..45645	nuoN; NADH dehydrogenase I subunit N
+ftu:FTT_0045	CDS	45721..45915	hypothetical protein
+ftu:FTT_0046	gene	45917..47405	pseudogene
+ftu:FTT_0047	CDS	47462..48496	hemE; uroporphyrinogen decarboxylase
+ftu:FTT_t01	tRNA	48571..48644	tRNA-Met
+ftu:FTT_0048	CDS	48716..49174	hypothetical protein
+ftu:FTT_0049	CDS	49192..50661	nusA; transcription elongation factor NusA
+ftu:FTT_0050	CDS	50700..53240	infB; translation initiation factor IF-2
+ftu:FTT_0051	CDS	53243..53674	rbfA; ribosome-binding factor A
+ftu:FTT_0052	CDS	53682..54947	hisS; histidyl-tRNA synthetase
+ftu:FTT_0053	CDS	54954..56252	major facilitator transporter
+ftu:FTT_0054	CDS	56255..57322	ATPase
+ftu:FTT_0055	CDS	57315..58244	rluC; ribosomal large subunit pseudouridine synthase C
+ftu:FTT_0056c	CDS	complement(58246..59550)	major facilitator transporter
+ftu:FTT_0057	CDS	59627..60058	hypothetical protein
+ftu:FTT_0058	CDS	60111..60902	atpB; ATP synthase F0F1 subunit A
+ftu:FTT_0059	CDS	60953..61258	atpE; ATP synthase F0F1 subunit C
+ftu:FTT_0060	CDS	61304..61774	atpF; ATP synthase F0F1 subunit B
+ftu:FTT_0061	CDS	61794..62318	atpH; ATP synthase F0F1 subunit delta
+ftu:FTT_0062	CDS	62337..63878	atpA; ATP synthase F0F1 subunit alpha
+ftu:FTT_0063	CDS	63893..64789	atpG; ATP synthase F0F1 subunit gamma
+ftu:FTT_0064	CDS	64799..66175	atpD; ATP synthase F0F1 subunit beta
+ftu:FTT_0065	CDS	66188..66625	atpC; ATP synthase F0F1 subunit epsilon
+ftu:FTT_0066	CDS	66836..69679	hypothetical protein
+ftu:FTT_0067c	CDS	complement(69696..70025)	glutaredoxin-like protein
+ftu:FTT_0068	CDS	70161..70739	sodB; superoxide dismutase
+ftu:FTT_0069c	CDS	complement(70747..70932)	hypothetical protein
+ftu:FTT_0070c	CDS	complement(70944..72209)	ampG; major facilitator superfamily transporter
+ftu:FTT_0071c	CDS	complement(72298..73572)	gltA; citrate synthase
+ftu:FTT_0072	CDS	73815..74288	sdhC; succinate dehydrogenase cytochrome b556
+ftu:FTT_0073	CDS	74264..74632	sdhD; succinate dehydrogenase hydrophobic membrane anchor protein
+ftu:FTT_0074	CDS	74645..76438	sdhA; succinate dehydrogenase catalytic and NAD/flavoprotein subunit
+ftu:FTT_0075	CDS	76456..77157	sdhB; succinate dehydrogenase iron-sulfur subunit
+ftu:FTT_0076	CDS	77175..80000	sucA; 2-oxoglutarate dehydrogenase subunit E1
+ftu:FTT_0077	CDS	80026..81495	sucB; dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+ftu:FTT_0078	CDS	81535..82062	apt; adenine phosphoribosyltransferase
+ftu:FTT_0079	CDS	82073..83404	glmM; phosphoglucosamine mutase
+ftu:FTT_0080	CDS	83407..84168	tpiA; triosephosphate isomerase
+ftu:FTT_0081	CDS	84156..84509	secG; preprotein translocase subunit SecG
+ftu:FTT_t02	tRNA	84519..84601	tRNA-Leu
+ftu:FTT_0082	gene	84679..85635	pseudogene
+ftu:FTT_0083	CDS	85720..86196	hypothetical protein
+ftu:FTT_0084c	CDS	complement(86193..87335)	hemN; oxygen-independent coproporphyrinogen III oxidase
+ftu:FTT_0085c	CDS	complement(87340..87717)	hypothetical protein
+ftu:FTT_0086	CDS	87787..88665	hypothetical protein
+ftu:FTT_0087	CDS	88770..91583	acnA; aconitate hydratase
+ftu:FTT_0088	CDS	91678..92706	pilT; Type IV pili nucleotide-binding protein
+ftu:FTT_0089c	gene	complement(92773..93771)	pseudogene
+ftu:FTT_0090c	CDS	complement(93768..94214)	hypothetical protein
+ftu:FTT_0091c	CDS	complement(94225..95187)	appB; cytochrome oxidase bd-II subunit II
+ftu:FTT_0092c	gene	complement(95194..96567)	appC; pseudogene
+ftu:FTT_0093	CDS	96803..97684	hypothetical protein
+ftu:FTT_0094c	CDS	complement(97681..99108)	qseC; sensor histidine kinase
+ftu:FTT_0095	CDS	99224..100180	hypothetical protein
+ftu:FTT_0096	CDS	100422..101462	hypothetical protein
+ftu:FTT_0097	CDS	101596..102141	hypothetical protein
+ftu:FTT_0098c	CDS	complement(join(102215..102673,102673..102999))	isftu1; transposase
+ftu:FTT_0099	CDS	103101..103844	isftu2; transposase
+ftu:FTT_0100	gene	103872..104285	pseudogene
+ftu:FTT_0101	CDS	104514..105527	hypothetical protein
+ftu:FTT_0102	gene	106178..107034	pseudogene
+ftu:FTT_0103c	CDS	complement(106972..107553)	hypothetical protein
+ftu:FTT_0104c	CDS	complement(107798..109075)	major facilitator transporter
+ftu:FTT_0105c	CDS	complement(109207..112320)	AcrB/AcrD/AcrF family transporter
+ftu:FTT_0106c	CDS	complement(112320..113693)	RND efflux transporter
+ftu:FTT_0107c	CDS	complement(113706..114197)	dsbB; disulfide bond formation protein
+ftu:FTT_0108c	CDS	complement(114237..115319)	cca; tRNA CCA-pyrophosphorylase
+ftu:FTT_0109	CDS	115424..117253	msbA; lipid A transport protein ABC transporter ATP-binding protein/permease
+ftu:FTT_0110	CDS	117259..118227	lpxK; tetraacyldisaccharide 4'-kinase
+ftu:FTT_0111	CDS	118323..121016	polA; DNA polymerase I
+ftu:FTT_0112	CDS	121036..121812	pantothenate kinase
+ftu:FTT_0113	CDS	121817..123061	deoB; phosphopentomutase
+ftu:FTT_0114	CDS	123024..123785	deoC; 2-deoxyribose-5-phosphate aldolase
+ftu:FTT_0115	CDS	123775..124974	nupC1; nucleoside permease NUP family protein
+ftu:FTT_0116	CDS	124993..126195	nupC1; nucleoside permease NUP family protein
+ftu:FTT_0117	CDS	126208..126837	tmk; thymidylate kinase
+ftu:FTT_0118	CDS	126899..128476	prfC; peptide chain release factor 3
+ftu:FTT_0119	CDS	128551..129867	hypothetical protein
+ftu:FTT_0120	CDS	129864..130895	ftsY; signal recognition particle receptor FtsY
+ftu:FTT_0121	CDS	130986..133208	uvrD; DNA helicase II
+ftu:FTT_0122	gene	133349..134806	oppA; pseudogene
+ftu:FTT_0123	gene	134831..135765	oppB; pseudogene
+ftu:FTT_0124	gene	135753..136626	oppC; pseudogene
+ftu:FTT_0125	CDS	136633..137601	oppD; oligopeptide ABC transporter ATP-binding protein
+ftu:FTT_0126	CDS	137602..138576	oppF; oligopeptide ABC transporter ATP-binding protein
+ftu:FTT_0127c	CDS	complement(138580..139782)	major facilitator transporter
+ftu:FTT_0128	CDS	139916..140497	hypothetical protein
+ftu:FTT_0129	CDS	140641..141909	major facilitator transporter
+ftu:FTT_0130	CDS	141966..143474	glpK; glycerol kinase
+ftu:FTT_0131c	CDS	complement(join(143567..144025,144025..144351))	isftu1; transposase
+ftu:FTT_0132	CDS	144667..146199	glpA; anaerobic glycerol-3-phosphate dehydrogenase
+ftu:FTT_0133	CDS	146209..146973	glpF; glycerol uptake facilitator protein
+ftu:FTT_0134	CDS	146977..147690	hypothetical protein
+ftu:FTT_0135	gene	147668..148165	pseudogene
+ftu:FTT_0136	CDS	148165..149580	helicase
+ftu:FTT_t03	tRNA	149738..149819	tRNA-Tyr
+ftu:FTT_t04	tRNA	149824..149894	tRNA-Gly
+ftu:FTT_t05	tRNA	149926..149998	tRNA-Thr
+ftu:FTT_0137	CDS	150045..151229	tufA; elongation factor Tu
+ftu:FTT_t06	tRNA	151250..151325	tRNA-Trp
+ftu:FTT_0138	CDS	151421..151891	secE; preprotein translocase subunit SecE
+ftu:FTT_0139	CDS	151907..152440	nusG; transcription antitermination protein nusG
+ftu:FTT_0140	CDS	152509..152943	rplK; 50S ribosomal protein L11
+ftu:FTT_0141	CDS	152946..153641	rplA; 50S ribosomal protein L1
+ftu:FTT_0142	CDS	153811..154329	rplJ; 50S ribosomal protein L10
+ftu:FTT_0143	CDS	154392..154769	rplL; 50S ribosomal protein L7/L12
+ftu:FTT_0144	CDS	154923..158999	rpoB; DNA-directed RNA polymerase subunit beta
+ftu:FTT_0145	CDS	159061..163314	rpoC; DNA-directed RNA polymerase subunit beta
+ftu:FTT_0146	CDS	163417..163653	hypothetical protein
+ftu:FTT_0147	CDS	163653..164663	gcp; DNA-binding/iron metalloprotein/AP endonuclease
+ftu:FTT_0148	CDS	164777..165943	fatty acid desaturase
+ftu:FTT_0149c	CDS	complement(166155..167315)	metK; S-adenosylmethionine synthetase
+ftu:FTT_0150	CDS	167609..167857	rpsP; 30S ribosomal protein S16
+ftu:FTT_0151	CDS	167900..168409	rimM; 16S rRNA-processing protein RimM
+ftu:FTT_0152	CDS	168806..169570	trmD; tRNA (guanine-N(1)-)-methyltransferase
+ftu:FTT_0153	CDS	169570..169917	rplS; 50S ribosomal protein L19
+ftu:FTT_0154	CDS	170083..170961	xerD; integrase/recombinase
+ftu:FTT_0155	CDS	171078..171929	oxidoreductase iron/ascorbate family protein
+ftu:FTT_0156	CDS	171934..172518	acid phosphatase
+ftu:FTT_0157c	CDS	complement(172515..173399)	licB-like transmembrane protein
+ftu:FTT_0158c	CDS	complement(173531..174139)	hypothetical protein
+ftu:FTT_0159c	CDS	complement(174216..175037)	hypothetical protein
+ftu:FTT_0160	CDS	175200..175667	nudH; dinucleoside polyphosphate hydrolase
+ftu:FTT_0161c	CDS	complement(175677..176303)	PAP2 family protein
+ftu:FTT_0162	CDS	176377..176901	ampD; N-acetyl-anhydromuranmyl-L-alanine amidase
+ftu:FTT_0163c	CDS	complement(176959..178842)	parE; DNA topoisomerase IV subunit B
+ftu:FTT_0164c	CDS	complement(178932..180113)	eflux protein
+ftu:FTT_0165c	CDS	complement(180113..181483)	lipoprotein
+ftu:FTT_0166c	CDS	complement(181486..182142)	hypothetical protein
+ftu:FTT_0167	CDS	182323..183573	hemA; glutamyl-tRNA reductase
+ftu:FTT_0168	CDS	183574..184659	prfA; peptide chain release factor 1
+ftu:FTT_0169	CDS	184652..185506	HemK protein
+ftu:FTT_0170c	gene	complement(185497..185925)	pseudogene
+ftu:FTT_0171	CDS	join(185991..186317,186317..186775)	isftu1; transposase
+ftu:FTT_0172	gene	186876..187226	pseudogene
+ftu:FTT_0173	gene	187296..188197	pseudogene
+ftu:FTT_0174	CDS	188216..188785	hypothetical protein
+ftu:FTT_0175c	CDS	complement(188779..189561)	ABC transporter ATP-binding protein
+ftu:FTT_0176c	gene	complement(189593..191343)	pseudogene
+ftu:FTT_0177c	CDS	complement(191745..192170)	acetyltransferase
+ftu:FTT_0178c	CDS	complement(192157..193626)	rimK; 30S ribosomal protein S6
+ftu:FTT_0179	gene	193789..195803	pseudogene
+ftu:FTT_0180	CDS	195907..196797	acyltransferase
+ftu:FTT_0181c	CDS	complement(197194..197730)	hypothetical protein
+ftu:FTT_0182c	CDS	complement(197828..198370)	Sua5/YciO/YrdC family protein
+ftu:FTT_0183c	CDS	complement(198487..200157)	rpsA; 30S ribosomal protein S1
+ftu:FTT_0184	CDS	200305..200766	zinc-binding domain-containing protein
+ftu:FTT_0185	CDS	200770..201660	ddlB; D-alanyl-alanine synthetase A
+ftu:FTT_0186	CDS	201657..202340	ftsQ; cell division protein FtsQ
+ftu:FTT_0187	CDS	202442..203704	ftsA; cell division protein FtsA
+ftu:FTT_0188	CDS	203748..204893	ftsZ; cell division protein FtsZ
+ftu:FTT_0189	CDS	204916..205776	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+ftu:FTT_0190c	CDS	complement(205790..207430)	dnaX; DNA polymerase III subunit gamma and tau
+ftu:FTT_0191	CDS	207703..208680	prfB; peptide chain release factor 2
+ftu:FTT_0192	CDS	208813..210543	lysU; lysyl-tRNA synthetase
+ftu:FTT_0193c	CDS	complement(210928..211470)	hypothetical protein
+ftu:FTT_0194c	CDS	complement(211569..212441)	hypothetical protein
+ftu:FTT_0195c	CDS	complement(212450..213991)	L-glutamine synthetase
+ftu:FTT_0196c	CDS	complement(214073..215110)	glnA; glutamine synthetase
+ftu:FTT_0197c	CDS	complement(215230..216207)	holA; DNA polymerase III subunit delta
+ftu:FTT_0198	CDS	216335..216811	blc; outer membrane lipoprotein
+ftu:FTT_0199	gene	216975..218373	pseudogene
+ftu:FTT_0202c	CDS	complement(218947..219690)	isftu2; transposase
+ftu:FTT_0203c	CDS	complement(220941..222488)	purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+ftu:FTT_0204	CDS	222665..223951	purA; adenylosuccinate synthetase
+ftu:FTT_0205	CDS	223955..224488	hpt; hypoxanthine-guanine phosphoribosyltransferase
+ftu:FTT_0206c	gene	complement(224510..225225)	pseudogene
+ftu:FTT_0207c	CDS	complement(225323..226165)	ABC transporter permease
+ftu:FTT_0208c	CDS	complement(226107..226784)	ABC transporter ATP-binding protein
+ftu:FTT_0209c	CDS	complement(226786..227703)	periplasmic solute binding family protein
+ftu:FTT_0210c	gene	complement(227781..228998)	pseudogene
+ftu:FTT_0211c	CDS	complement(229119..229583)	outer membrane lipoprotein
+ftu:FTT_0212c	CDS	complement(229594..230190)	wrbA; trp repressor binding protein
+ftu:FTT_0213	CDS	230197..231384	rbn; tRNA processing ribonuclease BN
+ftu:FTT_0214	gene	231403..231960	pseudogene
+ftu:FTT_0215	CDS	231974..234127	priA; primosomal protein N'
+ftu:FTT_0216	CDS	join(234257..234583,234583..235041)	isftu1; transposase
+ftu:FTT_0217	gene	235142..235378	pseudogene
+ftu:FTT_0218c	gene	complement(235388..235900)	pseudogene
+ftu:FTT_0219c	CDS	complement(235980..236975)	phosphate transport protein
+ftu:FTT_0220c	CDS	complement(236993..237649)	hypothetical protein
+ftu:FTT_0221	CDS	237886..239430	acpA; acid phosphatase
+ftu:FTT_0222c	CDS	complement(239437..240213)	ybgK; hydrolase subunit
+ftu:FTT_0223c	CDS	complement(240255..240953)	ybgL; LamB/YcsF family protein
+ftu:FTT_0224c	gene	complement(240956..241562)	pseudogene
+ftu:FTT_0225c	gene	complement(241608..242639)	pseudogene
+ftu:FTT_0226c	CDS	complement(join(242738..243196,243196..243522))	isftu1; transposase
+ftu:FTT_0227c	CDS	complement(243546..243740)	hypothetical protein
+ftu:FTT_0228c	CDS	complement(243775..244311)	orn; oligoribonuclease
+ftu:FTT_0229c	CDS	complement(244314..244883)	efp; elongation factor P
+ftu:FTT_0230c	CDS	complement(244923..245330)	Type IV pili fiber building block protein
+ftu:FTT_0231c	CDS	complement(245343..246266)	htrB; acyltransferase
+ftu:FTT_0232c	CDS	complement(246327..247226)	ddg; acyltransferase
+ftu:FTT_0233c	CDS	complement(247233..248888)	yidC; inner-membrane protein
+ftu:FTT_0234c	CDS	complement(248897..249169)	hypothetical protein
+ftu:FTT_0235c	CDS	complement(249121..249522)	rnpA; ribonuclease P protein component
+ftu:FTT_0236c	CDS	complement(249464..249598)	rpmH; 50S ribosomal protein L34
+ftu:FTT_0237c	CDS	complement(249690..250148)	hypothetical protein
+ftu:FTT_0238	CDS	250275..251048	aroE1; shikimate 5-dehydrogenase
+ftu:FTT_0239	CDS	251115..252470	murC; UDP-N-acetylmuramate--L-alanine ligase
+ftu:FTT_0240	CDS	252463..253335	tetrapyrrole methyltransferase family protein
+ftu:FTT_0241c	CDS	complement(253346..253816)	hypothetical protein
+ftu:FTT_0242	CDS	254156..254719	hypothetical protein
+ftu:FTT_0243	CDS	254792..255571	hypothetical protein
+ftu:FTT_0244	CDS	255555..258296	DNA/RNA helicase
+ftu:FTT_0245	CDS	258372..259208	usp; universal stress protein
+ftu:FTT_0246c	gene	complement(259287..259502)	pseudogene
+ftu:FTT_0247	CDS	join(259568..259894,259894..260352)	isftu1; transposase
+ftu:FTT_0248	CDS	260522..260893	hypothetical protein
+ftu:FTT_0249	CDS	260994..263237	feoB; ferrous iron transport protein
+ftu:FTT_0250	CDS	264049..266697	ppdK; pyruvate phosphate dikinase
+ftu:FTT_0251	CDS	267097..267984	ilvE; branched-chain amino acid aminotransferase
+ftu:FTT_0252	CDS	267995..269368	leuA; 2-isopropylmalate synthase
+ftu:FTT_0253c	CDS	complement(join(269465..269923,269923..270249))	isftu1; transposase
+ftu:FTT_0254c	gene	complement(270392..271526)	pseudogene
+ftu:FTT_0256c	CDS	complement(272034..273002)	lipopolysaccharide protein
+ftu:FTT_0257	CDS	273191..275047	ribonuclease II family protein
+ftu:FTT_0258	CDS	275378..276046	carboxylesterase/phospholipase family protein
+ftu:FTT_0259	CDS	276043..276945	hemC; porphobilinogen deaminase
+ftu:FTT_0260	CDS	276946..277338	crcB; camphor resistance protein CrcB
+ftu:FTT_0261	CDS	277335..277742	hypothetical protein
+ftu:FTT_0263	gene	277882..278452	pseudogene
+ftu:FTT_0262	CDS	277882..278019	lipoprotein
+ftu:FTT_0264c	CDS	complement(278449..278622)	hypothetical protein
+ftu:FTT_0265	CDS	278751..280550	ABC transporter permease
+ftu:FTT_0266	CDS	280569..281885	ABC transporter ATP-binding protein
+ftu:FTT_0267	CDS	282010..283128	hypothetical protein
+ftu:FTT_0268	CDS	283222..285108	sodium/hydrogen exchanger (antiporter) family protein
+ftu:FTT_0269	CDS	285093..285632	carbonic anhydrase
+ftu:FTT_0270	CDS	285583..286218	lolB; lipoprotein releasing system outer membrane lipoprotein
+ftu:FTT_0271	CDS	286206..287033	ipk; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+ftu:FTT_t07	tRNA	287053..287127	tRNA-Gln
+ftu:FTT_0272	CDS	287222..287542	hypothetical protein
+ftu:FTT_0273	CDS	join(287566..287892,287892..288350)	isftu1; transposase
+ftu:FTT_0275c	gene	complement(288731..289543)	pseudogene
+ftu:FTT_0276c	gene	complement(289614..290349)	pseudogene
+ftu:FTT_0277c	CDS	complement(290427..290525)	hypothetical protein
+ftu:FTT_0278c	CDS	complement(290541..291734)	cydB; cytochrome d terminal oxidase polypeptide subunit II
+ftu:FTT_0279c	CDS	complement(291745..293523)	cydA; cytochrome d terminal oxidase polypeptide subunit I
+ftu:FTT_0280c	CDS	complement(293952..295319)	yajR; major facilitator transporter
+ftu:FTT_0281	CDS	295680..296582	cyoA; cytochrome O ubiquinol oxidase subunit II
+ftu:FTT_0282	CDS	296621..298651	cyoB; cytochrome O ubiquinol oxidase subunit I
+ftu:FTT_0283	CDS	298648..299250	cyoC; cytochrome O ubiquinol oxidase subunit III
+ftu:FTT_0284	CDS	299252..299584	cyoD; cytochrome O ubiquinol oxidase subunit IV
+ftu:FTT_0285	CDS	299615..300463	cyoE; protoheme IX farnesyltransferase
+ftu:FTT_0286c	CDS	complement(300608..301651)	lpxD2; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+ftu:FTT_0287c	CDS	complement(301719..302414)	hypothetical protein
+ftu:FTT_0288c	CDS	complement(302414..303265)	pdxY; pyridoxal kinase
+ftu:FTT_0289c	CDS	complement(303272..303706)	hypothetical protein
+ftu:FTT_0290	CDS	303852..304808	moxR; methanol dehydrogenase regulatory protein
+ftu:FTT_0291	CDS	304821..305732	hypothetical protein
+ftu:FTT_0292	CDS	305722..306198	hypothetical protein
+ftu:FTT_0293	CDS	306177..307196	hypothetical protein
+ftu:FTT_0293a	CDS	307198..308196	hypothetical protein
+ftu:FTT_0294	gene	308187..308999	pseudogene
+ftu:FTT_0295	CDS	308992..310617	hypothetical protein
+ftu:FTT_0296	CDS	310618..311295	pcp; pyrrolidone-carboxylate peptidase
+ftu:FTT_0297	CDS	311303..311785	cytochrome c-type biogenesis protein
+ftu:FTT_0298	CDS	311816..312256	holC; DNA polymerase III subunit chi
+ftu:FTT_0299	CDS	312388..315147	valS; valyl-tRNA synthetase
+ftu:FTT_0300	CDS	315176..316030	hypothetical protein
+ftu:FTT_0301	CDS	316103..316972	hypothetical protein
+ftu:FTT_0302	CDS	317156..317491	hypothetical protein
+ftu:FTT_0303c	CDS	complement(317488..318645)	lldD1; L-lactate dehydrogenase
+ftu:FTT_0304c	CDS	complement(318672..319325)	nfnB; dihydropteridine reductase
+ftu:FTT_0305	CDS	319465..319842	MutT/nudix family protein
+ftu:FTT_0306	CDS	320015..321406	fumC; fumarate hydratase
+ftu:FTT_0307	CDS	321536..322942	gltX; glutamyl-tRNA synthetase
+ftu:FTT_0308	CDS	322933..323910	hypothetical protein
+ftu:FTT_0309c	CDS	complement(323934..324677)	isftu2; transposase
+ftu:FTT_0310	CDS	324973..326427	amino acid permease
+ftu:FTT_t08	tRNA	326622..326697	tRNA-Glu
+ftu:FTT_0311c	CDS	complement(326759..327682)	hypothetical protein
+ftu:FTT_0312c	CDS	complement(327764..328264)	folA; dihydrofolate reductase type I
+ftu:FTT_0313	CDS	328496..329215	rpsB; 30S ribosomal protein S2
+ftu:FTT_0314	CDS	329237..330106	tsf; elongation factor Ts
+ftu:FTT_0315	CDS	330110..330859	pyrH; uridylate kinase
+ftu:FTT_0316	CDS	330888..331445	frr; ribosome recycling factor
+ftu:FTT_0317	CDS	331478..332251	uppS; undecaprenyl pyrophosphate synthase
+ftu:FTT_0318	CDS	332265..333059	cdsA; phosphatidate cytidylyltransferase
+ftu:FTT_0319	CDS	333069..333515	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+ftu:FTT_0320	CDS	333519..334115	pgsA; phosphatidylglycerophosphate synthetase
+ftu:FTT_0321	CDS	334250..334624	rpsL; 30S ribosomal protein S12
+ftu:FTT_0322	CDS	334663..335136	rpsG; 30S ribosomal protein S7
+ftu:FTT_0323	CDS	335151..337265	fusA; elongation factor G
+ftu:FTT_0324	CDS	337286..337603	rpsJ; 30S ribosomal protein S10
+ftu:FTT_0325	CDS	337707..338342	rplC; 50S ribosomal protein L3
+ftu:FTT_0326	CDS	338372..338995	rplD; 50S ribosomal protein L4
+ftu:FTT_0327	CDS	338992..339291	rplW; 50S ribosomal protein L23
+ftu:FTT_0328	CDS	339313..340137	rplB; 50S ribosomal protein L2
+ftu:FTT_0329	CDS	340152..340430	rpsS; 30S ribosomal protein S19
+ftu:FTT_0330	CDS	340446..340781	rplV; 50S ribosomal protein L22
+ftu:FTT_0331	CDS	340796..341464	rpsC; 30S ribosomal protein S3
+ftu:FTT_0332	CDS	341468..341881	rplP; 50S ribosomal protein L16
+ftu:FTT_0333	CDS	341881..342081	rpmC; 50S ribosomal protein L29
+ftu:FTT_0334	CDS	342094..342345	rpsQ; 30S ribosomal protein S17
+ftu:FTT_0335	CDS	342437..342805	rplN; 50S ribosomal protein L14
+ftu:FTT_0336	CDS	342827..343144	rplX; 50S ribosomal protein L24
+ftu:FTT_0337	CDS	343156..343695	rplE; 50S ribosomal protein L5
+ftu:FTT_0338	CDS	343714..344019	rpsN; 30S ribosomal protein S14
+ftu:FTT_0339	CDS	344036..344434	rpsH; 30S ribosomal protein S8
+ftu:FTT_0340	CDS	344453..344989	rplF; 50S ribosomal protein L6
+ftu:FTT_0341	CDS	345012..345365	rplR; 50S ribosomal protein L18
+ftu:FTT_0342	CDS	345393..345893	rpsE; 30S ribosomal protein S5
+ftu:FTT_0343	CDS	345900..346085	rpmD; 50S ribosomal protein L30
+ftu:FTT_0344	CDS	346092..346523	rplO; 50S ribosomal protein L15
+ftu:FTT_0345	CDS	346534..347859	secY; preprotein translocase subunit SecY
+ftu:FTT_0346	CDS	347883..347996	rpmJ; 50S ribosomal protein L36
+ftu:FTT_0347	CDS	348113..348469	rpsM; 30S ribosomal protein S13
+ftu:FTT_0348	CDS	348509..348898	rpsK; 30S ribosomal protein S11
+ftu:FTT_0349	CDS	348920..349540	rpsD; 30S ribosomal protein S4
+ftu:FTT_0350	CDS	349598..350569	rpoA1; DNA-directed RNA polymerase subunit alpha
+ftu:FTT_0351	CDS	350614..351051	rplQ; 50S ribosomal protein L17
+ftu:FTT_0352	CDS	join(351205..351531,351531..351989)	isftu1; transposase
+ftu:FTT_0353c	gene	complement(352087..352548)	isftu2; pseudogene
+ftu:FTT_0354	CDS	352918..353913	hypothetical protein
+ftu:FTT_0355c	CDS	complement(join(354205..354663,354663..354989))	isftu1; transposase
+ftu:FTT_0356	CDS	355151..357037	htpG; heat shock protein 90
+ftu:FTT_0357c	CDS	complement(join(357361..357819,357819..358145))	isftu1; transposase
+ftu:FTT_0358	gene	358209..359356	pseudogene
+ftu:FTT_0359	CDS	359413..359883	hypothetical protein
+ftu:FTT_0360	CDS	360020..360844	short-chain dehydrogenase
+ftu:FTT_0361c	CDS	complement(360866..362215)	amino acid transporter
+ftu:FTT_0362c	CDS	complement(362474..363346)	hypothetical protein
+ftu:FTT_0363	CDS	join(363514..363840,363840..364298)	isftu1; transposase
+ftu:FTT_0364c	CDS	complement(364422..364871)	hypothetical protein
+ftu:FTT_0365	CDS	365352..366083	poxF; phenol hydroxylase
+ftu:FTT_0366	CDS	366205..366420	rpmE; 50S ribosomal protein L31
+ftu:FTT_0367c	CDS	complement(366631..368136)	gshA; glutamate--cysteine ligase
+ftu:FTT_0368c	CDS	complement(368189..369733)	mviN; virulence factor MviN
+ftu:FTT_0369c	CDS	complement(369756..370817)	hypothetical protein
+ftu:FTT_0370c	CDS	complement(370900..371310)	yjeE; nucleotide-binding protein
+ftu:FTT_0371c	CDS	complement(371288..372469)	folC; bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+ftu:FTT_0372c	CDS	complement(372484..373392)	accD; acetyl-CoA carboxylase subunit beta
+ftu:FTT_0373c	CDS	complement(373428..373850)	ndk; nucleoside diphosphate kinase
+ftu:FTT_0374c	CDS	complement(373923..375563)	pyrG; CTP synthetase
+ftu:FTT_0375	gene	375879..377243	pseudogene
+ftu:FTT_0376c	CDS	complement(377481..378539)	hypothetical protein
+ftu:FTT_0377	CDS	join(378906..379235,379235..379690)	isftu1; transposase
+ftu:FTT_0378c	CDS	complement(379982..380977)	hypothetical protein
+ftu:FTT_0379	gene	381347..381820	isftu2; pseudogene
+ftu:FTT_0380c	CDS	complement(382014..383363)	gdh; glutamate dehydrogenase
+ftu:FTT_0381	CDS	383702..384445	isftu2; transposase
+ftu:FTT_0382	CDS	384570..384674	hypothetical protein
+ftu:FTT_0383	CDS	385685..386020	hypothetical protein
+ftu:FTT_0384c	CDS	complement(385993..386844)	psd; phosphatidylserine decarboxylase
+ftu:FTT_0385	CDS	386944..387924	hypothetical protein
+ftu:FTT_0386	CDS	387933..388976	nadM; bifunctional nicotinamide mononucleotide adenylyltransferase/ADP-ribose pyrophosphatase
+ftu:FTT_0387	CDS	388990..390357	glmU; UDP-N-acetylglucosamine pyrophosphorylase/glucosamine-1-phosphate N-acetyltransferase
+ftu:FTT_0388	CDS	390378..392216	glmS; glucosamine--fructose-6-phosphate aminotransferase
+ftu:FTT_0389	CDS	392300..392824	acetyltransferase
+ftu:FTT_0390c	CDS	complement(392817..393014)	rpsU; 30S ribosomal protein S21
+ftu:FTT_0391c	CDS	complement(393014..393217)	cspC; cold shock protein
+ftu:FTT_0392c	CDS	complement(393465..393794)	hypothetical protein
+ftu:FTT_0393	CDS	393921..394691	map; methionine aminopeptidase
+ftu:FTT_0394	CDS	394693..395541	hypothetical protein
+ftu:FTT_0395	CDS	395587..396300	hypothetical protein
+ftu:FTT_0396	CDS	396433..398658	parC; DNA topoisomerase IV subunit A
+ftu:FTT_0397	CDS	398658..399344	mtn; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+ftu:FTT_0398c	CDS	complement(399331..399930)	hypothetical protein
+ftu:FTT_0399c	CDS	complement(399923..401041)	BNR/Asp-box repeat-containing protein
+ftu:FTT_0400	CDS	401240..403216	slt; soluble lytic murein transglycosylase
+ftu:FTT_0401	CDS	403506..404228	hypothetical protein
+ftu:FTT_0402	CDS	404585..408064	dnaE; DNA polymerase III subunit alpha
+ftu:FTT_0403	CDS	408140..408775	def1; peptide deformylase
+ftu:FTT_r01	rRNA	complement(408838..408952)	5S ribosomal RNA
+ftu:FTT_0404	CDS	409479..410741	lolC; lipoprotein releasing system membrane protein
+ftu:FTT_0405	CDS	410734..411429	lolD; lipoprotein releasing system ABC transporter ATP-binding protein
+ftu:FTT_0406	CDS	411546..413687	cadA; lysine decarboxylase, inducable
+ftu:FTT_0407	CDS	413779..414855	gcvT; glycine cleavage system aminomethyltransferase T
+ftu:FTT_0408	CDS	414911..415294	gcvH1; glycine cleavage system H protein
+ftu:FTT_0409	CDS	415358..416725	gcvP1; glycine dehydrogenase subunit 1
+ftu:FTT_0410	CDS	416731..418176	gcvP2; glycine dehydrogenase subunit 2
+ftu:FTT_0411c	CDS	complement(418296..419141)	aroE2; shikimate 5-dehydrogenase
+ftu:FTT_0412c	CDS	complement(419167..422379)	pulB; pullulonase
+ftu:FTT_0413c	CDS	complement(422413..424335)	glgB; glycogen branching protein
+ftu:FTT_0414	CDS	424637..426271	pgm; phosphoglucomutase
+ftu:FTT_0415	gene	426305..427574	glgC; pseudogene
+ftu:FTT_0416	CDS	427587..429056	glgA; glycogen synthase
+ftu:FTT_0417	CDS	429161..431434	malP; maltodextrin phosphorylase
+ftu:FTT_0418	CDS	431478..432941	malA; 4-alpha-glucanotransferase
+ftu:FTT_0419	CDS	433015..433923	glyQ; glycyl-tRNA synthetase subunit alpha
+ftu:FTT_0420	CDS	434134..435573	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+ftu:FTT_0421	gene	435655..436010	pseudogene
+ftu:FTT_0422	CDS	436365..437723	murF; UDP-N--acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanyl ligase
+ftu:FTT_0423	CDS	437732..437911	hypothetical protein
+ftu:FTT_0425c	CDS	complement(438607..439701)	asd; aspartate-semialdehyde dehydrogenase
+ftu:FTT_0426	gene	439764..442212	thrA; pseudogene
+ftu:FTT_0427	gene	442218..442995	thrB; pseudogene
+ftu:FTT_0428	CDS	443011..444297	thrC1; threonine synthase
+ftu:FTT_0429c	gene	complement(444398..444628)	ebgA; pseudogene
+ftu:FTT_0430	CDS	444938..445372	speH; S-adenosylmethionine decarboxylase
+ftu:FTT_0431	CDS	445372..446241	speE; spermidine synthase
+ftu:FTT_0432	CDS	446267..447676	speA; arginine decarboxylase
+ftu:FTT_0433	CDS	447726..447914	hypothetical protein
+ftu:FTT_0434	CDS	447895..448881	hypothetical protein
+ftu:FTT_0435	CDS	448883..449743	carbon-nitrogen hydrolase family protein
+ftu:FTT_0436c	CDS	complement(449760..450476)	lpxH; UDP-2,3-diacylglucosamine hydrolase
+ftu:FTT_0437c	CDS	complement(450466..451092)	pyrE; orotate phosphoribosyltransferase
+ftu:FTT_0438	CDS	451252..452622	mpl; UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+ftu:FTT_0439	CDS	452619..453275	yjfH; 23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+ftu:FTT_0440c	CDS	complement(join(453349..453807,453807..454133))	isftu1; transposase
+ftu:FTT_0441c	gene	complement(454334..454974)	pseudogene
+ftu:FTT_0442c	CDS	complement(455004..456197)	major facilitator transporter
+ftu:FTT_0443	CDS	456469..457512	hypothetical protein
+ftu:FTT_0444	CDS	457583..458821	tet; multidrug transporter
+ftu:FTT_0445	gene	458855..460695	uup; pseudogene
+ftu:FTT_0446	CDS	460752..462194	proton-dependent oligopeptide transport (POT) family protein
+ftu:FTT_0447c	CDS	complement(462338..463678)	hypothetical protein
+ftu:FTT_0448c	CDS	complement(463699..465345)	glnS; glutaminyl-tRNA synthetase
+ftu:FTT_0449	CDS	465490..467082	pckA; phosphoenolpyruvate carboxykinase
+ftu:FTT_0450	CDS	467157..468254	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+ftu:FTT_0451	CDS	468254..469504	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+ftu:FTT_0452	CDS	469514..470719	ftsW; cell division protein FtsW
+ftu:FTT_0453c	CDS	complement(470727..471533)	hypothetical protein
+ftu:FTT_0454	CDS	471632..472588	yfdH; glycosyl transferase family protein
+ftu:FTT_0455c	CDS	complement(472980..474743)	dolichyl-phosphate-mannose-protein mannosyltransferase family protein
+ftu:FTT_0456c	CDS	complement(474835..475128)	hypothetical protein
+ftu:FTT_0457c	CDS	complement(475119..475433)	yccK; anaerobic sulfite reductase subunit
+ftu:FTT_0458	CDS	475519..476151	sspA; stringent starvation protein A
+ftu:FTT_0459	CDS	476163..477182	sohB; periplasmic protease
+ftu:FTT_0460	CDS	477190..478101	holB; DNA polymerase III subunit delta'
+ftu:FTT_0461	CDS	478112..478390	yhbY; RNA-binding protein
+ftu:FTT_0462	CDS	478398..479372	hemB; delta-aminolevulinic acid dehydratase
+ftu:FTT_0463	CDS	479376..479843	yibK; tRNA/rRNA methyltransferase
+ftu:FTT_0464	CDS	479961..481025	ansB; periplasmic L-asparaginase II
+ftu:FTT_0465	gene	481518..481937	FTT_0465
+ftu:FTT_0466c	CDS	complement(481989..483734)	argS; arginyl-tRNA synthetase
+ftu:FTT_0467	CDS	483860..486466	ostA1; organic solvent tolerance protein
+ftu:FTT_0468	CDS	486448..487869	surA; peptidyl-prolyl cis-trans isomerase
+ftu:FTT_0469	CDS	487871..488659	ksgA; dimethyladenosine transferase
+ftu:FTT_0470	CDS	488671..489498	apaH; diadenosine tetraphosphatase
+ftu:FTT_0471	CDS	489502..489939	aroD; 3-dehydroquinate dehydratase
+ftu:FTT_0472	CDS	489944..490417	accB; acetyl-CoA carboxylase, biotin carboxyl carrier protein
+ftu:FTT_0473	CDS	490482..491837	accC; acetyl-CoA carboxylase biotin carboxylase subunit
+ftu:FTT_0474	CDS	491931..492611	hypothetical protein
+ftu:FTT_0475	CDS	492637..493755	msc; mechanosensitive ion channel MscS
+ftu:FTT_0476c	CDS	complement(493760..494683)	poxA; lysyl-tRNA synthetase
+ftu:FTT_0477c	CDS	complement(494680..495462)	birA; transcription repressor BirA
+ftu:FTT_0478c	CDS	complement(495459..497201)	recJ; single-stranded-DNA-specific exonuclease
+ftu:FTT_0479c	CDS	complement(497195..498301)	perM; PerM family protein
+ftu:FTT_0480c	CDS	complement(498403..499812)	xasA; glutamate:gamma-aminobutyric acid antiporter family protein
+ftu:FTT_0481	CDS	499896..501077	potF; putrescine-binding periplasmic protein
+ftu:FTT_0482c	CDS	complement(501330..502145)	lipoprotein
+ftu:FTT_0483c	CDS	complement(502364..503251)	hypothetical protein
+ftu:FTT_0484	CDS	503405..504124	hypothetical protein
+ftu:FTT_0485	CDS	504192..504854	hypothetical protein
+ftu:FTT_0486	CDS	504862..506664	mutL; DNA mismatch repair protein
+ftu:FTT_0487	gene	506848..507690	FTT_0487
+ftu:FTT_0488c	CDS	complement(507762..508895)	major facilitator transporter
+ftu:FTT_0489c	CDS	complement(509037..509987)	trxB; thioredoxin reductase
+ftu:FTT_0490c	CDS	complement(510079..511296)	phospholipase D
+ftu:FTT_0491c	CDS	complement(511339..512013)	gph; phosphoglycolate phosphatase
+ftu:FTT_0492c	CDS	complement(512054..512980)	lysR; LysR family transcriptional regulator
+ftu:FTT_0493	gene	513093..514264	pseudogene
+ftu:FTT_0494c	CDS	complement(514279..515001)	cutC; CutC family protein
+ftu:FTT_0495	CDS	515334..515837	hypothetical protein
+ftu:FTT_0496	CDS	515843..516607	hypothetical protein
+ftu:FTT_0497c	gene	complement(516613..517522)	pseudogene
+ftu:FTT_0498c	gene	complement(517526..518971)	pseudogene
+ftu:FTT_0499	gene	519198..520410	pseudogene
+ftu:FTT_0501c	CDS	complement(520542..521582)	hypothetical protein
+ftu:FTT_0502c	CDS	complement(521966..522391)	hypothetical protein
+ftu:FTT_0503c	CDS	complement(522503..523375)	sucD; succinyl-CoA synthetase subunit alpha
+ftu:FTT_0504c	CDS	complement(523407..524570)	sucC; succinyl-CoA synthetase subunit beta
+ftu:FTT_0505	CDS	524740..526653	hypothetical protein
+ftu:FTT_0506c	CDS	complement(526661..526975)	hypothetical protein
+ftu:FTT_0507	CDS	527634..528401	lipoprotein
+ftu:FTT_0508c	CDS	complement(528408..529391)	dusA; tRNA-dihydrouridine synthase A
+ftu:FTT_0509c	CDS	complement(529425..530225)	hypothetical protein
+ftu:FTT_0510	CDS	530401..532818	gyrB; DNA gyrase subunit B
+ftu:FTT_0511	CDS	532948..533811	pyridoxal biosynthesis lyase PdxS
+ftu:FTT_0512	CDS	533805..534353	glutamine amidotransferase subunit PdxT
+ftu:FTT_0513c	CDS	complement(join(534457..534915,534915..535241))	isftu1; transposase
+ftu:FTT_0514	gene	535309..536435	lldD2; pseudogene
+ftu:FTT_0515	CDS	536458..536634	hypothetical protein
+ftu:FTT_0516	gene	536773..539899	pseudogene
+ftu:FTT_0517	gene	539917..541075	pseudogene
+ftu:FTT_0518	CDS	541312..542157	prmA; 50S ribosomal protein L11 methyltransferase
+ftu:FTT_0519	CDS	542147..543130	Nif3 family protein
+ftu:FTT_0520	gene	543360..545457	pseudogene
+ftu:FTT_0523	CDS	545582..546808	hypothetical protein
+ftu:FTT_0524	CDS	547050..547436	hypothetical protein
+ftu:FTT_0525	CDS	547483..548139	hypothetical protein
+ftu:FTT_0526	CDS	548145..548351	hypothetical protein
+ftu:FTT_0527	gene	548372..549549	pseudogene
+ftu:FTT_0529c	gene	complement(549569..550617)	dinP; pseudogene
+ftu:FTT_0530c	CDS	complement(550624..551226)	DJ-1/PfpI family protein
+ftu:FTT_0531	gene	551337..553231	pseudogene
+ftu:FTT_0532c	CDS	complement(553228..554460)	grxC; bifunctional gluaredoxin/ribonucleoside-diphosphate reductase subunit beta
+ftu:FTT_0533c	CDS	complement(554467..554727)	grxA; glutaredoxin
+ftu:FTT_0534c	CDS	complement(554731..556503)	nrdA; ribonucleotide-diphosphate reductase subunit alpha
+ftu:FTT_0535c	CDS	complement(556707..557666)	mdh; malate dehydrogenase
+ftu:FTT_0536	CDS	557814..558329	hypothetical protein
+ftu:FTT_0537	CDS	558345..558980	ubiquinone biosynthesis protein
+ftu:FTT_0538c	CDS	complement(558989..559558)	lipoprotein
+ftu:FTT_0539c	gene	complement(559636..560379)	pseudogene
+ftu:FTT_0540c	CDS	complement(560383..561873)	hypothetical protein
+ftu:FTT_0541c	CDS	complement(561928..562527)	yqaB; haloacid dehalogenase
+ftu:FTT_0542	gene	562605..563203	pseudogene
+ftu:FTT_0543	CDS	563268..564644	hypothetical protein
+ftu:FTT_0544	CDS	564750..565082	phnA; phosphonoacetate hydrolase
+ftu:FTT_0545	CDS	565088..565303	hypothetical protein
+ftu:FTT_0546	CDS	565307..565918	hypothetical protein
+ftu:FTT_0547	gene	566036..566806	pseudogene
+ftu:FTT_0548	CDS	566858..567550	dnaQ; DNA polymerase III subunit epsilon
+ftu:FTT_0549	CDS	567544..568017	vanY; D-alanyl-D-alanine carboxypeptidase
+ftu:FTT_0550	CDS	567977..569413	hypothetical protein
+ftu:FTT_0551	gene	569774..570833	pseudogene
+ftu:FTT_0552	CDS	570846..572342	aldehyde dehydrogenase
+ftu:FTT_0553	CDS	572347..573126	hypothetical protein
+ftu:FTT_0554	CDS	573210..573482	hypothetical protein
+ftu:FTT_0555	CDS	573496..574227	hypothetical protein
+ftu:FTT_0556c	CDS	complement(574230..575099)	oxyR; oxidative stress transcriptional regulator
+ftu:FTT_0557	CDS	575197..575721	AhpC/TSA family protein
+ftu:FTT_0558	CDS	575724..576335	short chain dehydrogenase
+ftu:FTT_0559c	CDS	complement(576352..577017)	cmk; cytidylate kinase
+ftu:FTT_0560c	CDS	complement(577004..578056)	serC; phosphoserine aminotransferase
+ftu:FTT_0561	CDS	join(578376..578702,578702..579160)	isftu1; transposase
+ftu:FTT_0562	CDS	579542..580663	potG; polyamine transporter ABC transporter ATP-binding protein
+ftu:FTT_0563	CDS	580627..581544	potH; polyamine transporter ABC transporter membrane protein
+ftu:FTT_0564	CDS	581558..582364	potI; polyamine transporter ABC transporter membrane protein
+ftu:FTT_0565c	CDS	complement(582508..583251)	isftu2; transposase
+ftu:FTT_0566	CDS	583397..583663	hypothetical protein
+ftu:FTT_0567c	gene	complement(583792..585251)	pseudogene
+ftu:FTT_0568	CDS	585869..586519	hypothetical protein
+ftu:FTT_0569c	CDS	complement(586508..587530)	hypothetical protein
+ftu:FTT_0570	CDS	587610..588008	hypothetical protein
+ftu:FTT_0571	CDS	588020..588727	hypothetical protein
+ftu:FTT_0572	CDS	588852..590306	proton-dependent oligopeptide transport (POT) family protein
+ftu:FTT_0573	CDS	590357..591454	alr; alanine racemase
+ftu:FTT_0574	gene	591567..593143	pseudogene
+ftu:FTT_0575	CDS	593229..594071	pheA; prephenate dehydratase
+ftu:FTT_0576	CDS	594097..594765	hypothetical protein
+ftu:FTT_0577	CDS	594821..596194	sdaA; L-serine dehydratase 1
+ftu:FTT_0578	CDS	596297..597520	csdB; selenocysteine lyase
+ftu:FTT_0579	CDS	597541..597897	HesB family protein
+ftu:FTT_0580	CDS	597911..598462	hypothetical protein
+ftu:FTT_0581	CDS	598474..598962	coaD; phosphopantetheine adenylyltransferase
+ftu:FTT_0582	CDS	598967..599212	fdx; ferredoxin
+ftu:FTT_0583	CDS	599319..600500	fopA1; outer membrane associated protein
+ftu:FTT_0584	CDS	601162..604533	hypothetical protein
+ftu:FTT_0585	gene	604514..605469	pseudogene
+ftu:FTT_0586	CDS	605902..606480	hypothetical protein
+ftu:FTT_0587c	CDS	complement(606904..607647)	isftu2; transposase
+ftu:FTT_0588	CDS	607810..609087	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+ftu:FTT_0589	CDS	609090..609680	hypothetical protein
+ftu:FTT_0590	CDS	609631..610113	rnhA; ribonuclease H
+ftu:FTT_0591	CDS	610115..611152	ansA; L-asparaginase
+ftu:FTT_0592	CDS	611223..611909	cynT; carbonic anhydrase
+ftu:FTT_0593c	CDS	complement(612196..612801)	hypothetical protein
+ftu:FTT_0594c	CDS	complement(612865..613737)	hypothetical protein
+ftu:FTT_0595c	CDS	complement(613746..613916)	rubA; rubredoxin
+ftu:FTT_0596c	CDS	complement(614003..614620)	hypothetical protein
+ftu:FTT_0597	CDS	614732..616126	hypothetical protein
+ftu:FTT_0598c	CDS	complement(616158..617438)	sodium-dicarboxylate symporter family protein
+ftu:FTT_0599	CDS	617634..618662	SIS domain-containing protein
+ftu:FTT_0600	gene	618687..620092	pseudogene
+ftu:FTT_0601	CDS	620247..620366	hypothetical protein
+ftu:FTT_0602c	CDS	complement(620993..622471)	hypothetical protein
+ftu:FTT_0603	CDS	623031..623210	hypothetical protein
+ftu:FTT_0604	CDS	623728..624162	hypothetical protein
+ftu:FTT_0605c	CDS	complement(624348..624536)	hypothetical protein
+ftu:FTT_0606c	gene	complement(624537..625240)	pseudogene
+ftu:FTT_0607	CDS	625340..626557	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+ftu:FTT_0608	CDS	626572..627150	hypothetical protein
+ftu:FTT_0609	CDS	627301..629094	peptidase M24 family protein
+ftu:FTT_0610	CDS	629192..630256	DNA/RNA endonuclease family protein
+ftu:FTT_0611c	CDS	complement(630247..631110)	beta-lactamase
+ftu:FTT_0612	CDS	631546..632358	hypothetical protein
+ftu:FTT_0613c	CDS	complement(632679..633098)	hypothetical protein
+ftu:FTT_0614c	CDS	complement(633344..634834)	apolipoprotein N-acyltransferase
+ftu:FTT_0615c	CDS	complement(634834..635694)	metal ion transporter protein
+ftu:FTT_0616c	CDS	complement(635666..636172)	hypothetical protein
+ftu:FTT_0617c	CDS	complement(636147..637130)	phoH; phoH-like protein
+ftu:FTT_0618c	CDS	complement(637149..638477)	yleA; (dimethylallyl)adenosine tRNA methylthiotransferase
+ftu:FTT_0619	CDS	638700..639374	o-methyltransferase family protein
+ftu:FTT_0620	CDS	639383..640126	HAD superfamily protein
+ftu:FTT_0621	CDS	640142..640735	tdk; thymidine kinase
+ftu:FTT_0622c	CDS	complement(640778..641242)	hypothetical protein
+ftu:FTT_0623	CDS	641397..642713	tig; trigger factor
+ftu:FTT_0624	CDS	642739..643344	clpP; ATP-dependent Clp protease proteolytic subunit
+ftu:FTT_0625	CDS	643368..644621	clpX; ATP-dependent protease ATP-binding subunit ClpX
+ftu:FTT_0626	CDS	644646..646970	lon; DNA-binding, ATP-dependent protease La
+ftu:FTT_0627	CDS	647057..647329	hupB; histone-like protein HU form B
+ftu:FTT_0628	CDS	647441..648871	hypothetical protein
+ftu:FTT_0629	CDS	648872..649798	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+ftu:FTT_0630	CDS	649909..650238	hfq; host factor I for bacteriophage Q beta replication
+ftu:FTT_0631	CDS	650290..651597	hflX; protease GTP-binding subunit
+ftu:FTT_0632c	CDS	complement(651608..652798)	hypothetical protein
+ftu:FTT_0633	CDS	652970..654037	hflK; hypothetical protein
+ftu:FTT_0634	CDS	654039..654965	hflC; hypothetical protein
+ftu:FTT_0635	CDS	654966..655451	wzb; low molecular weight (LMW) phosphotyrosine protein phosphatase
+ftu:FTT_0636	CDS	655448..656041	engB; ribosome biogenesis GTP-binding protein YsxC
+ftu:FTT_0637	gene	656184..657500	thrC2; pseudogene
+ftu:FTT_0638	CDS	657478..657828	hypothetical protein
+ftu:FTT_0639	CDS	657870..657980	hypothetical protein
+ftu:FTT_0640	CDS	658004..659659	ilvD; dihydroxy-acid dehydratase
+ftu:FTT_0641	gene	659797..661517	ilvB; pseudogene
+ftu:FTT_0642	CDS	661522..661839	ilvH; acetolactate synthase small subunit
+ftu:FTT_0643	gene	661867..662911	ilvC; pseudogene
+ftu:FTT_0644c	CDS	complement(663034..666459)	mfd; transcription-repair coupling factor
+ftu:FTT_0645c	CDS	complement(666504..667190)	hypothetical protein
+ftu:FTT_0646c	CDS	complement(667306..668565)	hypothetical protein
+ftu:FTT_0647c	CDS	complement(668565..668996)	hypothetical protein
+ftu:FTT_0648c	CDS	complement(668993..669631)	nth; endonuclease III
+ftu:FTT_0649c	CDS	complement(669624..670253)	rnfB; (Fe-S)-binding protein
+ftu:FTT_0650c	CDS	complement(670255..670899)	grxB; glutaredoxin
+ftu:FTT_0651	CDS	670961..672529	proton-dependent oligopeptide transport (POT) family protein
+ftu:FTT_0652c	CDS	complement(672532..673029)	ftnA; ferritin
+ftu:FTT_0653	CDS	673236..674219	lipA; lipoyl synthase
+ftu:FTT_0654	CDS	674249..674908	elbB; isoprenoid biosynthesis protein with amidotransferase-like domain
+ftu:FTT_0655	CDS	674924..675670	hypothetical protein
+ftu:FTT_0656	CDS	675746..676282	ruvC; Holliday junction resolvase
+ftu:FTT_0657	gene	676355..677548	pseudogene
+ftu:FTT_0658	CDS	677567..678220	ruvA; Holliday junction DNA helicase RuvA
+ftu:FTT_0659	CDS	678246..679658	DNA recombination protein RmuC family protein
+ftu:FTT_0660	CDS	679707..680294	hypothetical protein
+ftu:FTT_0661c	CDS	complement(680316..680612)	hypothetical protein
+ftu:FTT_0662c	gene	complement(680648..681107)	pseudogene
+ftu:FTT_0663	CDS	681271..682083	hypothetical protein
+ftu:FTT_0664c	CDS	complement(682070..683206)	hdc; histidine decarboxylase
+ftu:FTT_0665c	CDS	complement(683314..683919)	aldolase
+ftu:FTT_0666c	CDS	complement(684010..684591)	methylpurine-DNA glycosylase family protein
+ftu:FTT_0667	CDS	684719..685222	hypothetical protein
+ftu:FTT_0668	CDS	685222..685854	nicotinamide mononucleotide transport (NMT) family protein
+ftu:FTT_0669	CDS	685952..687127	sodium/hydrogen exchanger family protein
+ftu:FTT_0670c	CDS	complement(687460..687924)	hypothetical protein
+ftu:FTT_0671	CDS	688237..689517	major facilitator transporter
+ftu:FTT_0672c	gene	complement(689524..690811)	pseudogene
+ftu:FTT_0673c	CDS	complement(690789..691796)	hypothetical protein
+ftu:FTT_0674	CDS	692007..692975	prsA; ribose-phosphate pyrophosphokinase
+ftu:FTT_0675	CDS	693075..693365	rplY; 50S ribosomal protein L25
+ftu:FTT_0676	CDS	693461..694720	hypothetical protein
+ftu:FTT_0677c	CDS	complement(694925..695701)	hypothetical protein
+ftu:FTT_0678c	CDS	complement(696310..696585)	hypothetical protein
+ftu:FTT_0679c	CDS	complement(696600..697691)	GTP-dependent nucleic acid-binding protein EngD
+ftu:FTT_0680c	CDS	complement(697710..698285)	pth; peptidyl-tRNA hydrolase
+ftu:FTT_0681c	CDS	complement(698278..699162)	blaA; beta-lactamase class A
+ftu:FTT_0682c	CDS	complement(699171..700016)	hypothetical protein
+ftu:FTT_0683c	CDS	complement(700056..700874)	pilD; Type IV pili leader peptidase and methylase
+ftu:FTT_0684c	CDS	complement(700878..702293)	sthA; soluble pyridine nucleotide transhydrogenase
+ftu:FTT_0685c	CDS	complement(702547..703530)	potassium channel protein
+ftu:FTT_0686c	CDS	complement(703610..704914)	proton-dependent oligopeptide transport (POT) family protein
+ftu:FTT_0687c	CDS	complement(705161..706528)	hslU; ATP-dependent protease ATP-binding subunit HslU
+ftu:FTT_0688c	CDS	complement(706536..707087)	hslV; ATP-dependent protease peptidase subunit
+ftu:FTT_0689	CDS	707279..708028	hypothetical protein
+ftu:FTT_0690c	CDS	complement(708031..708933)	lplA; lipoate-protein ligase A
+ftu:FTT_0691	CDS	709046..710236	tyrS; tyrosyl-tRNA synthetase
+ftu:FTT_0692c	CDS	complement(join(710737..711195,711195..711521))	isftu1; transposase
+ftu:FTT_0693c	CDS	complement(711592..712416)	mutM; formamidopyrimidine-DNA glycosylase
+ftu:FTT_0694	CDS	712510..714609	hypothetical protein
+ftu:FTT_0695	CDS	714615..715532	mraW; S-adenosyl-methyltransferase MraW
+ftu:FTT_0696	CDS	715529..715879	hypothetical protein
+ftu:FTT_0697	CDS	715872..717566	ftsI; peptidoglycan synthetase
+ftu:FTT_0698	CDS	717672..717938	rpsO; 30S ribosomal protein S15
+ftu:FTT_0699	CDS	717995..720076	pnp; polynucleotide phosphorylase
+ftu:FTT_0700	CDS	720082..720432	iron-sulfur cluster insertion protein ErpA
+ftu:FTT_0701	CDS	720442..721290	kdsA; 3-deoxy-8-phosphooctulonate synthase
+ftu:FTT_0702	CDS	721301..721966	udk; uridine kinase
+ftu:FTT_0703	CDS	721959..722177	rpoZ; DNA-directed RNA polymerase subunit omega
+ftu:FTT_t09	tRNA	722243..722315	tRNA-Val
+ftu:FTT_0704	CDS	722442..723014	hypothetical protein
+ftu:FTT_0705	CDS	723103..724452	rumA; 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+ftu:FTT_0706	gene	724462..725393	glk2; pseudogene
+ftu:FTT_0707	CDS	725383..726177	nicotinamide mononucleotide transport (NMT) family protein
+ftu:FTT_0708	CDS	726265..727518	major facilitator transporter
+ftu:FTT_0709	CDS	727627..728997	eno; phosphopyruvate hydratase
+ftu:FTT_0710	CDS	729005..729295	ftsB; cell division protein
+ftu:FTT_0711	CDS	729285..729974	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+ftu:FTT_0712c	CDS	complement(729979..731241)	sdaC1; serine transporter
+ftu:FTT_0713c	CDS	complement(731243..732298)	tdh; L-threonine 3-dehydrogenase
+ftu:FTT_0714c	CDS	complement(732321..733517)	kbl; 2-amino-3-ketobutyrate CoA ligase
+ftu:FTT_0715	CDS	734050..736332	chitinase
+ftu:FTT_0716	CDS	736511..737155	upp; uracil phosphoribosyltransferase
+ftu:FTT_0717	gene	737240..738072	purU; pseudogene
+ftu:FTT_0718	CDS	738163..738507	hypothetical protein
+ftu:FTT_0719	CDS	738564..739787	major facilitator transporter
+ftu:FTT_0720c	CDS	complement(739771..741096)	dgt; deoxyguanosinetriphosphate triphosphohydrolase
+ftu:FTT_0721c	CDS	complement(741200..743425)	katG; peroxidase/catalase
+ftu:FTT_0722c	CDS	complement(join(744289..744747,744747..745073))	isftu1; transposase
+ftu:FTT_0723c	CDS	complement(745380..746168)	short-chain dehydrogenase
+ftu:FTT_0724c	gene	complement(746162..747555)	dacB2; pseudogene
+ftu:FTT_0725c	CDS	complement(747571..748887)	glpT; glycerol-3-phosphate transporter
+ftu:FTT_0726c	CDS	complement(748994..750028)	glycerophosphoryl diester phosphodiesterase family protein
+ftu:FTT_0727	gene	750166..751122	pseudogene
+ftu:FTT_0728	CDS	751119..752051	ybhF; ABC transporter ATP-binding protein
+ftu:FTT_0729	CDS	752048..753166	ybhR; ABC transporter permease
+ftu:FTT_0730	CDS	753264..754007	isftu2; transposase
+ftu:FTT_0731c	gene	complement(754067..754693)	pseudogene
+ftu:FTT_0732	CDS	754790..755137	hypothetical protein
+ftu:FTT_0733	CDS	755166..755636	glutathione peroxidase
+ftu:FTT_0734	gene	755678..756844	pseudogene
+ftu:FTT_0735	gene	756841..757911	pseudogene
+ftu:FTT_0736	CDS	757924..758571	hypothetical protein
+ftu:FTT_0737c	CDS	complement(758582..758710)	hypothetical protein
+ftu:FTT_0738	CDS	758878..760422	yjeF; carbohydrate kinase family protein
+ftu:FTT_0739c	CDS	complement(760406..760774)	hslR; heat shock protein 15
+ftu:FTT_0740c	gene	complement(760998..763595)	pseudogene
+ftu:FTT_0742	CDS	763903..765891	lipoprotein
+ftu:FTT_0743	CDS	766572..767387	hypothetical protein
+ftu:FTT_0744c	gene	complement(767486..769172)	pseudogene
+ftu:FTT_0747c	CDS	complement(769162..769947)	hypothetical protein
+ftu:FTT_0748	CDS	770327..771046	hypothetical protein
+ftu:FTT_0749c	CDS	complement(771106..772092)	hypothetical protein
+ftu:FTT_0750	CDS	772298..773284	hypothetical protein
+ftu:FTT_0751c	CDS	complement(773355..773558)	cspA; cold shock protein
+ftu:FTT_0752c	gene	complement(773757..773954)	pseudogene
+ftu:FTT_0753	CDS	774330..774530	rpsU; 30S ribosomal protein S21
+ftu:FTT_0754c	CDS	complement(774588..774767)	hypothetical protein
+ftu:FTT_t10	tRNA	complement(774956..775040)	tRNA-Ser
+ftu:FTT_0755	CDS	775183..775677	hypothetical protein
+ftu:FTT_0756	CDS	775768..776907	cation-efflux family protein
+ftu:FTT_0757	CDS	776924..777787	galU; UTP-glucose-1-phosphate uridylyltransferase
+ftu:FTT_0758	gene	777909..779248	acs; pseudogene
+ftu:FTT_0759	CDS	779260..780177	hypothetical protein
+ftu:FTT_0760c	CDS	complement(780180..780386)	lipoprotein
+ftu:FTT_0761c	CDS	complement(780471..780764)	hypothetical protein
+ftu:FTT_0762c	CDS	complement(780786..781835)	recF; DNA replication and repair protein RecF
+ftu:FTT_0763c	CDS	complement(781839..782585)	yjjV; TatD related DNAse family protein
+ftu:FTT_0764	CDS	782778..784862	glyS; glycyl-tRNA synthetase subunit beta
+ftu:FTT_0765	CDS	join(785002..785328,785328..785786)	isftu1; transposase
+ftu:FTT_0766	CDS	785955..786677	deoD; purine nucleoside phosphorylase
+ftu:FTT_0767c	CDS	complement(786674..787123)	hypothetical protein
+ftu:FTT_0768c	CDS	complement(787127..788155)	hypothetical protein
+ftu:FTT_0769	CDS	788287..791007	secA; preprotein translocase subunit SecA
+ftu:FTT_0770	gene	791117..791683	tag; pseudogene
+ftu:FTT_0771c	gene	complement(791675..792805)	glxK; pseudogene
+ftu:FTT_0772	CDS	793076..793390	rplU; 50S ribosomal protein L21
+ftu:FTT_0773	CDS	793421..793675	rpmA; 50S ribosomal protein L27
+ftu:FTT_0774	CDS	794062..794439	hypothetical protein
+ftu:FTT_0775c	gene	complement(794436..795646)	bcr2; pseudogene
+ftu:FTT_0776c	CDS	complement(795675..796769)	rnd; ribonuclease D
+ftu:FTT_0777	CDS	796878..798716	uvrC; excinuclease ABC subunit C
+ftu:FTT_0778	CDS	798783..799157	hypothetical protein
+ftu:FTT_0779	CDS	join(799235..799561,799561..800019)	isftu1; transposase
+ftu:FTT_0780c	CDS	complement(800295..800564)	hypothetical protein
+ftu:FTT_0781c	CDS	complement(800554..801267)	hypothetical protein
+ftu:FTT_0782	CDS	801553..802335	fabI; enoyl-ACP reductase
+ftu:FTT_0783	CDS	802482..803444	ars; arylsulfatase
+ftu:FTT_0784	CDS	803456..803785	hypothetical protein
+ftu:FTT_0785	CDS	803773..804594	hypothetical protein
+ftu:FTT_0786	CDS	804591..805289	hypothetical protein
+ftu:FTT_0787	CDS	805300..805890	DoxD-like family protein
+ftu:FTT_0788c	CDS	complement(805894..806877)	kdsD; arabinose phosphate isomerase
+ftu:FTT_0789	CDS	807002..807670	rpe; D-ribulose-phosphate 3-epimerase
+ftu:FTT_0790	CDS	807651..809045	sugar transferase
+ftu:FTT_0791	CDS	809038..810057	galE; UDP-glucose 4-epimerase
+ftu:FTT_0792	CDS	810061..811290	glycosyl transferase family protein
+ftu:FTT_0793	CDS	811287..812969	ABC transporter ATP-binding protein/permease
+ftu:FTT_0794	CDS	812983..814269	hypothetical protein
+ftu:FTT_0795	CDS	814208..814891	hypothetical protein
+ftu:FTT_0796	CDS	814895..815656	hypothetical protein
+ftu:FTT_0797	CDS	815665..816624	glycosyl transferase family protein
+ftu:FTT_0798	CDS	816641..817648	glycosyl transferase family protein
+ftu:FTT_0799	CDS	817651..818664	glycosyl transferases group 1 family protein
+ftu:FTT_0800	CDS	818683..819345	haloacid dehalogenase
+ftu:FTT_0801c	CDS	complement(819627..820733)	carbohydrate/purine kinase pfkB family protein
+ftu:FTT_0802	CDS	820936..821754	cphB; cyanophycinase
+ftu:FTT_0803	CDS	821970..822833	ans; asparaginase
+ftu:FTT_t11	tRNA	822892..822967	tRNA-Phe
+ftu:FTT_t12	tRNA	822985..823061	tRNA-Pro
+ftu:FTT_t13	tRNA	823070..823146	tRNA-Arg
+ftu:FTT_t14	tRNA	823174..823246	tRNA-His
+ftu:FTT_t15	tRNA	823256..823338	tRNA-Leu
+ftu:FTT_0804	CDS	823505..824761	major facilitator transporter
+ftu:FTT_0805	CDS	824837..826054	capB; capsule biosynthesis protein CapB
+ftu:FTT_0806	CDS	826079..826543	capC; capsule biosynthesis protein CapC
+ftu:FTT_0807	CDS	826545..827756	hypothetical protein
+ftu:FTT_0808	CDS	827816..829939	spoT; guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+ftu:FTT_0809c	CDS	complement(829947..830549)	recR; recombination protein RecR
+ftu:FTT_0810c	CDS	complement(830549..830887)	ybaB; hypothetical protein
+ftu:FTT_0811c	CDS	complement(830897..832012)	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+ftu:FTT_0812	CDS	832116..832496	gcvH2; glycine cleavage system protein H
+ftu:FTT_0813	CDS	832486..832782	hypothetical protein
+ftu:FTT_0814c	gene	complement(832868..834593)	pseudogene
+ftu:FTT_0817	CDS	835100..837004	thrS; threonyl-tRNA synthetase
+ftu:FTT_0818	CDS	837080..837547	infC; translation initiation factor IF-3
+ftu:FTT_0819	CDS	837590..837787	rpmI; 50S ribosomal protein L35
+ftu:FTT_0820	CDS	837823..838179	rplT; 50S ribosomal protein L20
+ftu:FTT_0821	CDS	838221..838925	hypothetical protein
+ftu:FTT_0822	CDS	join(839217..839543,839543..840001)	isftu1; transposase
+ftu:FTT_0823	CDS	840225..840872	MutT protein
+ftu:FTT_0824	CDS	840890..841243	arsC1; arsenate reductase
+ftu:FTT_0825c	CDS	complement(841267..841602)	hypothetical protein
+ftu:FTT_0826c	CDS	complement(841779..842024)	lipoprotein
+ftu:FTT_0827c	CDS	complement(842102..843415)	hypothetical protein
+ftu:FTT_0828c	gene	complement(843485..845067)	pseudogene
+ftu:FTT_0829c	CDS	complement(845080..846795)	aspartate:alanine antiporter
+ftu:FTT_0830c	gene	complement(846842..847950)	pseudogene
+ftu:FTT_0831c	CDS	complement(847950..849203)	OmpA family protein
+ftu:FTT_0832	CDS	849395..849859	fkpB; FKBP-type peptidylprolyl isomerase
+ftu:FTT_0833	CDS	849840..850796	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+ftu:FTT_0834	CDS	850798..851160	aroQ; chorismate mutase
+ftu:FTT_0835	CDS	851169..851990	CDP-alcohol phosphatidyltransferase
+ftu:FTT_0836c	CDS	complement(851995..852219)	hypothetical protein
+ftu:FTT_0837	CDS	852360..853079	tolQ; TolQ protein
+ftu:FTT_0838	CDS	853089..853535	tolR; TolR protein
+ftu:FTT_0839	CDS	853522..854433	tolA; hypothetical protein
+ftu:FTT_0840	CDS	854433..855752	tolB; TolB protein precursor
+ftu:FTT_0841	CDS	855756..856007	lipoprotein
+ftu:FTT_0842	CDS	856026..856649	peptidoglycan-associated lipoprotein
+ftu:FTT_0843	gene	856738..858074	pseudogene
+ftu:FTT_0844	gene	858177..858899	pseudogene
+ftu:FTT_0845	CDS	858877..859152	hypothetical protein
+ftu:FTT_0846	CDS	859133..860632	deoxyribodipyrimidine photolyase
+ftu:FTT_0847	CDS	860686..862161	hypothetical protein
+ftu:FTT_0848	CDS	862158..862295	hypothetical protein
+ftu:FTT_0849	CDS	862421..863350	bile acid symporter family protein
+ftu:FTT_0850	CDS	863400..864023	hypothetical protein
+ftu:FTT_0851	CDS	864047..864805	hypothetical protein
+ftu:FTT_t16	tRNA	864851..864937	tRNA-Ser
+ftu:FTT_0852	gene	865343..866325	pseudogene
+ftu:FTT_0853	CDS	866499..867737	arsenite permease family protein
+ftu:FTT_0854c	CDS	complement(867716..868138)	hypothetical protein
+ftu:FTT_0855c	CDS	complement(868158..868517)	hypothetical protein
+ftu:FTT_0856c	CDS	complement(868531..869385)	ubiA; 4-hydroxybenzoate octaprenyltransferase
+ftu:FTT_0857c	CDS	complement(869388..869894)	hypothetical protein
+ftu:FTT_0858	CDS	869993..870700	rph; ribonuclease PH
+ftu:FTT_0859c	CDS	complement(870754..871077)	hypothetical protein
+ftu:FTT_0860c	CDS	complement(871182..871433)	hypothetical protein
+ftu:FTT_0861c	CDS	complement(871496..872089)	Type IV pili fiber building block protein
+ftu:FTT_0862c	CDS	complement(872194..873267)	htpX; heat shock protein HtpX
+ftu:FTT_0863c	CDS	complement(873271..873846)	LemA-like protein
+ftu:FTT_0864c	CDS	complement(873894..874790)	LysR family transcriptional regulator
+ftu:FTT_0865	gene	874929..875982	pseudogene
+ftu:FTT_0866c	gene	complement(875990..879016)	pseudogene
+ftu:FTT_0867	CDS	876765..877508	isftu2; transposase
+ftu:FTT_0868c	CDS	complement(879013..879378)	arsenical restistance operon repressor
+ftu:FTT_0869	CDS	879521..880174	hypothetical protein
+ftu:FTT_0870c	CDS	complement(880186..880317)	hypothetical protein
+ftu:FTT_0871	CDS	880494..881492	gpsA; NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+ftu:FTT_0872c	CDS	complement(881493..882029)	hypothetical protein
+ftu:FTT_0873c	CDS	complement(882034..883404)	radA; DNA repair protein RadA
+ftu:FTT_0874c	CDS	complement(883412..884182)	hypothetical protein
+ftu:FTT_0875c	CDS	complement(884179..884778)	hypothetical protein
+ftu:FTT_0876c	CDS	complement(884781..885839)	aroC; chorismate synthase
+ftu:FTT_0877c	CDS	complement(886004..886633)	hypothetical protein
+ftu:FTT_0878c	CDS	complement(886652..887164)	msrB; methionine sulfoxide reductase B
+ftu:FTT_0879	CDS	887325..887882	sodC; superoxide dismuate
+ftu:FTT_0880	gene	887886..888675	pseudogene
+ftu:FTT_0881c	CDS	complement(888650..890044)	amino acid permease
+ftu:FTT_0882	gene	890182..890556	pseudogene
+ftu:FTT_0883	gene	890649..891757	pseudogene
+ftu:FTT_0884c	CDS	complement(891809..892999)	aspC1; aspartate aminotransferase
+ftu:FTT_0885	CDS	893288..894067	cation transporter
+ftu:FTT_0886	CDS	894173..895822	DNA repair protein RecN
+ftu:FTT_0887c	CDS	complement(896394..896768)	hypothetical protein
+ftu:FTT_0888c	CDS	complement(896761..897357)	Type IV pili fiber building block protein
+ftu:FTT_0889c	CDS	complement(898027..898467)	Type IV pili fiber building block protein
+ftu:FTT_0890c	CDS	complement(898598..899005)	Type IV pili fiber building block protein
+ftu:FTT_0891	CDS	899389..900108	hypothetical protein
+ftu:FTT_0892	CDS	900247..901095	folD; bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase
+ftu:FTT_0893	CDS	901329..902372	purM; phosphoribosylaminoimidazole synthetase
+ftu:FTT_0894	CDS	902372..904684	purCD; fusion protein PurC/PurD
+ftu:FTT_0895	CDS	904688..905263	purN; phosphoribosylglycinamide formyltransferase
+ftu:FTT_0896	CDS	905380..905871	purE; 5-(carboxyamino)imidazole ribonucleotide mutase
+ftu:FTT_0897	CDS	905875..906972	purK; 5-(carboxyamino)imidazole ribonucleotide synthase
+ftu:FTT_0898c	CDS	complement(906969..907322)	hypothetical protein
+ftu:FTT_0899c	CDS	complement(907389..909410)	prlC; oligopeptidase A
+ftu:FTT_0900	CDS	909502..909873	hypothetical protein
+ftu:FTT_0901	CDS	909954..910403	lpnA; lipoprotein
+ftu:FTT_0902	CDS	910562..911041	hypothetical protein
+ftu:FTT_0903	CDS	911141..911644	hypothetical protein
+ftu:FTT_0904	CDS	911677..912144	lpnB; lipoprotein
+ftu:FTT_0905	CDS	912217..913659	Type IV pili glycosylation protein
+ftu:FTT_0906c	CDS	complement(913713..916007)	topA; DNA topoisomerase I
+ftu:FTT_0907	CDS	916206..916847	parA; chmomosome partition protein A
+ftu:FTT_0908	CDS	916840..917754	parB; chromosome partition protein B
+ftu:FTT_0909	CDS	917768..918475	glutamine amidotransferase
+ftu:FTT_0910	CDS	918478..919359	hypothetical protein
+ftu:FTT_0911	CDS	919356..919946	hypothetical protein
+ftu:FTT_0912c	CDS	complement(920006..920626)	rrmJ; ribosomal large subunit methyltransferase J
+ftu:FTT_0913	CDS	920784..921251	hypothetical protein
+ftu:FTT_0914c	CDS	complement(921246..921731)	lspA; lipoprotein signal peptidase
+ftu:FTT_0915c	CDS	complement(921718..924525)	ileS; isoleucyl-tRNA synthetase
+ftu:FTT_0916c	CDS	complement(924618..925538)	ribF; riboflavin biosynthesis protein RibF
+ftu:FTT_0917	CDS	925689..927503	maeA; malate dehydrogenase
+ftu:FTT_0918	CDS	927666..929339	hypothetical protein
+ftu:FTT_0919	CDS	929356..930801	hypothetical protein
+ftu:FTT_0920	CDS	join(930936..931262,931262..931720)	isftu1; transposase
+ftu:FTT_0921	gene	932217..932687	pseudogene
+ftu:FTT_t17	tRNA	complement(932688..932761)	tRNA-Val
+ftu:FTT_0922	CDS	932888..933442	fatty acid hydroxylase
+ftu:FTT_0923	CDS	933517..935670	rlmL; 23S rRNA m(2)G2445 methyltransferase
+ftu:FTT_0924	CDS	935772..936170	hypothetical protein
+ftu:FTT_0925	CDS	936175..937116	fmt; methionyl-tRNA formyltransferase
+ftu:FTT_0926	CDS	937120..938094	gshB; glutathione synthetase
+ftu:FTT_0927	CDS	938084..939379	hemL; glutamate-1-semialdehyde aminotransferase
+ftu:FTT_0928c	CDS	complement(939400..941067)	beta-glucosidase
+ftu:FTT_0929c	gene	complement(941131..941910)	pseudogene
+ftu:FTT_0930c	gene	complement(941932..942570)	pseudogene
+ftu:FTT_0931	CDS	942809..944068	major facilitator transporter
+ftu:FTT_0932	CDS	944103..944954	ROK family protein
+ftu:FTT_0933	gene	944977..945937	pseudogene
+ftu:FTT_0934c	CDS	complement(945880..946557)	bioD; dethiobiotin synthetase
+ftu:FTT_0935c	CDS	complement(946561..947298)	bioC; biotin synthesis protein BioC
+ftu:FTT_0936c	CDS	complement(947276..948403)	bioF; 8-amino-7-oxononanoate synthase
+ftu:FTT_0937c	CDS	complement(948397..949338)	bioB; biotin synthase
+ftu:FTT_0938	CDS	949384..950715	bioA; adenosylmethionine--8-amino-7-oxononanoate aminotransferase BioA
+ftu:FTT_0939c	CDS	complement(950825..951769)	add1; adenosine deaminase
+ftu:FTT_0940c	CDS	complement(951917..952417)	hypothetical protein
+ftu:FTT_0941c	CDS	complement(952433..953353)	lipase/esterase
+ftu:FTT_0942c	CDS	complement(953366..954631)	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+ftu:FTT_0943c	CDS	complement(954633..954986)	folB; dihydroneopterin aldolase
+ftu:FTT_0944	CDS	955056..956438	AMP-binding protein
+ftu:FTT_0945	CDS	956431..958194	chorismate binding family protein
+ftu:FTT_0946	CDS	958196..958750	trpG1; anthranilate synthase subunit II
+ftu:FTT_0947c	gene	complement(958751..960008)	pseudogene
+ftu:FTT_0948c	CDS	complement(959971..961035)	aldo/keto reductase
+ftu:FTT_0949c	gene	complement(961128..962551)	pseudogene
+ftu:FTT_0950c	gene	complement(962691..963384)	pseudogene
+ftu:FTT_0951c	CDS	complement(963398..964018)	folE; GTP cyclohydrolase I
+ftu:FTT_0952	CDS	964145..965470	rhlE; ATP-dependent RNA helicase RhlE
+ftu:FTT_0953c	CDS	complement(965467..967008)	proton-dependent oligopeptide transport (POT) family protein
+ftu:FTT_0954c	CDS	complement(967146..967466)	hypothetical protein
+ftu:FTT_0955c	CDS	complement(967477..968838)	gor; glutathione reductase
+ftu:FTT_0956c	CDS	complement(968876..969595)	hypothetical protein
+ftu:FTT_0957c	CDS	complement(969595..970098)	hypothetical protein
+ftu:FTT_0958c	CDS	complement(970101..970808)	short chain dehydrogenase
+ftu:FTT_0959c	CDS	complement(970829..971617)	xthA; exodeoxyribonuclease III
+ftu:FTT_0960	CDS	971901..972884	hypothetical protein
+ftu:FTT_0961	CDS	972892..973482	mdaB; modulator of drug activity B
+ftu:FTT_0962	CDS	973598..974260	ThiJ/PfpI family protein
+ftu:FTT_0963c	CDS	complement(974330..975442)	aroG; phospho-2-dehydro-3-deoxyheptonate aldolase
+ftu:FTT_0964c	CDS	complement(975474..976850)	ffh; signal recognition particle protein, Ffh
+ftu:FTT_0965c	CDS	complement(977194..978099)	hypothetical protein
+ftu:FTT_0966	CDS	978193..978411	infA; translation initiation factor IF-1
+ftu:FTT_0967c	gene	complement(978441..979368)	pseudogene
+ftu:FTT_0968c	CDS	complement(979373..980788)	amino acid antiporter
+ftu:FTT_0969c	CDS	complement(980853..982226)	trkA; potassium transporter peripheral membrane protein
+ftu:FTT_0970	CDS	982379..982789	hypothetical protein
+ftu:FTT_0971	CDS	982796..984241	cysteine desulfurase
+ftu:FTT_0972	CDS	984280..985029	ABC transporter ATP-binding protein
+ftu:FTT_0973	CDS	985033..986187	hypothetical protein
+ftu:FTT_0974	gene	986279..987061	pseudogene
+ftu:FTT_0975	CDS	987156..987845	hypothetical protein
+ftu:FTT_0976	CDS	987849..988175	trxA2; thioredoxin
+ftu:FTT_0977c	CDS	complement(988574..988867)	hypothetical protein
+ftu:FTT_0978c	CDS	complement(988871..989476)	hypothetical protein
+ftu:FTT_0979c	CDS	complement(989530..990897)	amino-acid permease
+ftu:FTT_0980	CDS	991132..992373	hypothetical protein
+ftu:FTT_0981	CDS	992706..993836	hypothetical protein
+ftu:FTT_0982	CDS	993929..994072	hypothetical protein
+ftu:FTT_0983	gene	994056..994359	pseudogene
+ftu:FTT_0984c	CDS	complement(994786..995196)	mutT; Mutator protein
+ftu:FTT_0985	CDS	995235..995819	hypothetical protein
+ftu:FTT_0986	CDS	995821..996231	hypothetical protein
+ftu:FTT_0987	CDS	996324..996521	hypothetical protein
+ftu:FTT_0988	CDS	996644..996832	hypothetical protein
+ftu:FTT_0989	CDS	996926..998821	hypothetical protein
+ftu:FTT_0990	CDS	998929..1001370	leuS; leucyl-tRNA synthetase
+ftu:FTT_0991	CDS	1001378..1001953	lipoprotein
+ftu:FTT_0992	CDS	1002014..1003204	hypothetical protein
+ftu:FTT_0993c	CDS	complement(1003211..1003777)	dcd; deoxycytidine triphosphate deaminase
+ftu:FTT_0994c	CDS	complement(1003789..1004649)	MRP like protein
+ftu:FTT_0995	CDS	1004723..1005955	major facilitator transporter
+ftu:FTT_0996	gene	1006010..1007433	pseudogene
+ftu:FTT_0997	CDS	1007525..1008955	ybhO; cardiolipin synthetase
+ftu:FTT_0998	CDS	1009121..1010110	hypothetical protein
+ftu:FTT_0999c	gene	complement(1010135..1010900)	pseudogene
+ftu:FTT_1000c	CDS	complement(1010878..1012104)	cobS; cobalamin (vitamin B12) synthesis protein/P47K family protein
+ftu:FTT_1001	CDS	1012246..1012677	regulatory protein
+ftu:FTT_1002c	CDS	complement(1012720..1015092)	pheT; phenylalanyl-tRNA synthetase subunit beta
+ftu:FTT_1003c	CDS	complement(1015113..1016126)	pheS; phenylalanyl-tRNA synthetase subunit alpha
+ftu:FTT_1004c	CDS	complement(1016212..1017105)	hypothetical protein
+ftu:FTT_1005c	CDS	complement(1017130..1018605)	yhiP; proton-dependent oligopeptide transporter (POT) family protein
+ftu:FTT_0005a	CDS	complement(1018628..1018813)	ABC transporter ATP-binding protein
+ftu:FTT_1006	CDS	1018849..1020057	hypothetical protein
+ftu:FTT_1007c	gene	complement(1020042..1020989)	pseudogene
+ftu:FTT_1009	CDS	1021117..1021653	hypothetical protein
+ftu:FTT_1010	CDS	1021668..1021871	helix-turn-helix family protein
+ftu:FTT_1011	CDS	1021983..1022171	hypothetical protein
+ftu:FTT_1012	gene	1022350..1023116	pseudogene
+ftu:FTT_1013c	CDS	complement(1023158..1024204)	ruvB; Holliday junction DNA helicase RuvB
+ftu:FTT_1014c	CDS	complement(1024268..1024993)	short chain dehydrogenase family protein
+ftu:FTT_1015	CDS	1025111..1025701	hypothetical protein
+ftu:FTT_1016c	CDS	complement(1025711..1026340)	GDSL-like lipase/acylhydrolase family protein
+ftu:FTT_1017c	CDS	complement(1026362..1026697)	hypothetical protein
+ftu:FTT_1018c	CDS	complement(1026713..1028560)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+ftu:FTT_1019c	CDS	complement(1028642..1030192)	guaA; GMP synthase
+ftu:FTT_1020c	CDS	complement(1030280..1031827)	amino acid permease
+ftu:FTT_1021c	CDS	complement(1031880..1032656)	truA; tRNA pseudouridine synthase A
+ftu:FTT_1022c	CDS	complement(1032659..1034491)	hypothetical protein
+ftu:FTT_1023c	CDS	complement(1034504..1035097)	fumarylacetoacetate hydrolase family protein
+ftu:FTT_1024c	CDS	complement(1035146..1035877)	yhbG; ABC transporter ATP-binding protein
+ftu:FTT_1025c	CDS	complement(1035951..1036784)	hypothetical protein
+ftu:FTT_1026c	CDS	complement(1036771..1037397)	hypothetical protein
+ftu:FTT_1027c	CDS	complement(1037405..1037953)	yrbI; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+ftu:FTT_1028c	CDS	complement(1038044..1038565)	ppa; inorganic pyrophosphatase
+ftu:FTT_1029	CDS	1038722..1040056	dacD; D-alanyl-D-alanine carboxypeptidase
+ftu:FTT_1030	CDS	1040089..1040373	hypothetical protein
+ftu:FTT_1031	CDS	1040383..1041003	lipB; lipoate-protein ligase B
+ftu:FTT_1032	gene	1041511..1042950	pseudogene
+ftu:FTT_1033	gene	1042953..1044962	yihQ; pseudogene
+ftu:FTT_1034c	CDS	complement(1045072..1046334)	ndh; NADH dehydrogenase
+ftu:FTT_1035c	CDS	complement(1046441..1048174)	rpoD; RNA polymerase sigma-70 factor
+ftu:FTT_1036c	CDS	complement(1048194..1050011)	dnaG; DNA primase
+ftu:FTT_1037c	CDS	complement(1050032..1050478)	hypothetical protein
+ftu:FTT_1038c	CDS	complement(1050539..1050736)	rpsU; 30S ribosomal protein S21
+ftu:FTT_1039	CDS	1050992..1052395	dacB1; D-alanyl-D-alanine carboxypeptidase
+ftu:FTT_1040	CDS	1052396..1053007	lipoprotein
+ftu:FTT_1041	CDS	1053023..1053439	hypothetical protein
+ftu:FTT_1042	CDS	1053432..1054235	C32 tRNA thiolase
+ftu:FTT_1043	CDS	1054249..1055061	FKBP-type peptidylprolyl isomerase
+ftu:FTT_1044c	CDS	complement(1055079..1056056)	ispB; octaprenyl-diphosphate synthase
+ftu:FTT_1045c	CDS	complement(1056146..1056577)	hypothetical protein
+ftu:FTT_1046c	CDS	complement(1056658..1057281)	hypothetical protein
+ftu:FTT_1047c	CDS	complement(1057953..1058315)	hypothetical protein
+ftu:FTT_1048c	CDS	complement(1058367..1058933)	hypothetical protein
+ftu:FTT_1049c	gene	complement(1059358..1059915)	cysC; pseudogene
+ftu:FTT_1050c	CDS	complement(1059979..1061391)	cysN; sulfate adenylyltransferase
+ftu:FTT_1051c	CDS	complement(1061830..1061994)	hypothetical protein
+ftu:FTT_1052c	CDS	complement(1062454..1062660)	hypothetical protein
+ftu:FTT_1053c	gene	complement(1063612..1064310)	pseudogene
+ftu:FTT_1054c	CDS	complement(1064388..1064876)	rimI; ribosomal-protein-alanine acetyltransferase
+ftu:FTT_1055c	CDS	complement(1064854..1065279)	hypothetical protein
+ftu:FTT_1056c	CDS	complement(1065279..1066094)	rluB; 23S rRNA pseudouridylate synthase B
+ftu:FTT_1057c	CDS	complement(1066087..1066992)	Type IV pili lipoprotein
+ftu:FTT_1058c	CDS	complement(1066982..1068094)	radical SAM superfamily protein
+ftu:FTT_1059c	CDS	complement(1068125..1069522)	dnaB; replicative DNA helicase
+ftu:FTT_1060c	CDS	complement(1069610..1070065)	rplI; 50S ribosomal protein L9
+ftu:FTT_1061c	CDS	complement(1070084..1070302)	rpsR; 30S ribosomal protein S18
+ftu:FTT_1062c	CDS	complement(1070318..1070653)	rpsF; 30S ribosomal protein S6
+ftu:FTT_1062a	gene	1070768..1071242	pseudogene
+ftu:FTT_1063	CDS	1071331..1072257	hemF; coproporphyrinogen III oxidase
+ftu:FTT_1064	gene	1072282..1073337	pseudogene
+ftu:FTT_1065c	CDS	complement(join(1073411..1073869,1073869..1074195))	isftu1; transposase
+ftu:FTT_1066c	CDS	complement(1074364..1074738)	hypothetical protein
+ftu:FTT_1067c	gene	complement(1074805..1077809)	res; pseudogene
+ftu:FTT_1068c	CDS	complement(1078054..1078632)	hypothetical protein
+ftu:FTT_1069c	CDS	complement(1078721..1079626)	hypothetical protein
+ftu:FTT_1070c	gene	complement(1079642..1082798)	pseudogene
+ftu:FTT_1071c	CDS	complement(1082895..1083401)	hypothetical protein
+ftu:FTT_1072	CDS	1084045..1084674	hypothetical protein
+ftu:FTT_1073c	gene	complement(1084830..1085343)	pseudogene
+ftu:FTT_1074	CDS	join(1085435..1085761,1085761..1086219)	isftu1; transposase
+ftu:FTT_1075	CDS	1087103..1087330	transcriptional regulator
+ftu:FTT_1076	CDS	1087315..1088589	hipA; transcriptional regulator
+ftu:FTT_1077c	gene	complement(1088713..1089892)	pseudogene
+ftu:FTT_1079c	CDS	complement(1089907..1090167)	hypothetical protein
+ftu:FTT_1080c	CDS	complement(1090184..1091062)	hypothetical protein
+ftu:FTT_1081c	CDS	complement(1091062..1091865)	hypothetical protein
+ftu:FTT_1082	CDS	1092091..1092513	hypothetical protein
+ftu:FTT_1083c	CDS	complement(1092529..1092786)	hypothetical protein
+ftu:FTT_1084c	CDS	complement(1092791..1093651)	rdgC; recombination associated protein
+ftu:FTT_1085	CDS	1093833..1094831	hypothetical protein
+ftu:FTT_1086c	CDS	complement(1094962..1095792)	hypothetical protein
+ftu:FTT_1087c	CDS	complement(1095848..1097863)	rep; ATP-dependent DNA helicase
+ftu:FTT_1088c	CDS	complement(1097857..1098603)	hypothetical protein
+ftu:FTT_1089	CDS	1099211..1099732	isochorismatase hydrolase family protein
+ftu:FTT_1090	CDS	1099729..1100406	hypothetical protein
+ftu:FTT_1091	CDS	1100419..1100907	isochorismatase hydrolase family protein
+ftu:FTT_1092c	gene	complement(1100946..1101522)	pseudogene
+ftu:FTT_1093c	CDS	complement(1101545..1102510)	talA; transaldolase B
+ftu:FTT_1094c	CDS	complement(1102644..1104059)	cytosol aminopeptidase
+ftu:FTT_1095c	CDS	complement(1104026..1105408)	hypothetical protein
+ftu:FTT_1096c	CDS	complement(1105416..1108013)	alaS; alanyl-tRNA synthetase
+ftu:FTT_1097	CDS	1108169..1108615	hypothetical protein
+ftu:FTT_1098c	gene	complement(1108612..1110677)	pseudogene
+ftu:FTT_1099c	CDS	complement(1110704..1111039)	hypothetical protein
+ftu:FTT_1100	CDS	1111142..1111477	hypothetical protein
+ftu:FTT_1101	gene	1111480..1112523	yjeS; pseudogene
+ftu:FTT_1102	gene	1112651..1112941	pseudogene
+ftu:FTT_1103	CDS	1112962..1114059	lipoprotein
+ftu:FTT_1104	gene	1114346..1115546	bcr1; pseudogene
+ftu:FTT_1105c	CDS	complement(1115543..1116397)	msrA1; bifunctional methionine sulfoxide reductase B/A protein
+ftu:FTT_1106	CDS	1116526..1117002	tspO; tryptophan-rich sensory protein
+ftu:FTT_1107c	gene	complement(1116995..1118946)	betT; pseudogene
+ftu:FTT_1108	CDS	1119088..1119840	rRNA methyltransferase
+ftu:FTT_1109	CDS	1119934..1120902	choloylglycine hydrolase family protein
+ftu:FTT_1110	CDS	1121067..1121420	hypothetical protein
+ftu:FTT_1111	CDS	1121516..1122259	isftu2; transposase
+ftu:FTT_1112c	CDS	complement(1122307..1123185)	rpoH; RNA polymerase factor sigma-32
+ftu:FTT_1113c	CDS	complement(1123209..1123739)	hypothetical protein
+ftu:FTT_1114c	CDS	complement(1123771..1124715)	secF; preprotein translocase subunit SecF
+ftu:FTT_1115c	CDS	complement(1124734..1126671)	secD; preprotein translocase subunit SecD
+ftu:FTT_1116c	CDS	complement(1126728..1127084)	yajC; preprotein translocase family protein
+ftu:FTT_1117c	CDS	complement(1127638..1128210)	isochorismatase hydrolase family protein
+ftu:FTT_1118c	CDS	complement(1128222..1129097)	hypothetical protein
+ftu:FTT_1119	CDS	1129202..1130077	LysR family transcriptional regulator
+ftu:FTT_1120c	CDS	complement(1130084..1131187)	tgt; queuine tRNA-ribosyltransferase
+ftu:FTT_1121	gene	1131492..1131789	pseudogene
+ftu:FTT_1122c	CDS	complement(1132161..1132631)	lipoprotein
+ftu:FTT_1123	CDS	1133213..1133827	ygiH; hypothetical protein
+ftu:FTT_1124	CDS	1133790..1134866	metN; D-methionine ABC transporter ATP-binding protein
+ftu:FTT_1125	CDS	1134844..1136316	metIQ; D-methionine ABC transporter permease/substrate-binding protein
+ftu:FTT_1126	CDS	1136387..1137598	aromatic amino acid HAAP transporter
+ftu:FTT_1127	CDS	1137664..1138422	rhodanese-like family protein
+ftu:FTT_1128	CDS	1138435..1138914	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+ftu:FTT_1129c	CDS	complement(1138919..1140604)	hypothetical protein
+ftu:FTT_1130c	CDS	complement(1140630..1143452)	cphA; cyanophycin synthetase
+ftu:FTT_1131	CDS	1143576..1144319	molybdopterin-binding protein
+ftu:FTT_1132c	CDS	complement(1144308..1145060)	glpQ; glycerophosphoryl diester phosphodiesterase
+ftu:FTT_1133	CDS	1145219..1146997	pilB; Type IV pili ABC transporter ATP-binding protein
+ftu:FTT_1134	CDS	1147012..1148241	pilC; Type IV pili polytopic inner membrane protein
+ftu:FTT_1135c	gene	complement(1148315..1149467)	pseudogene
+ftu:FTT_1136c	CDS	complement(1149485..1149820)	hypothetical protein
+ftu:FTT_1137c	CDS	complement(1149837..1150097)	hypothetical protein
+ftu:FTT_1138	CDS	1150231..1151232	hemH; ferrochelatase
+ftu:FTT_1139	gene	1151217..1152612	phrB; pseudogene
+ftu:FTT_1140	CDS	1153449..1153646	hypothetical protein
+ftu:FTT_1141	gene	1153701..1154956	pseudogene
+ftu:FTT_1142c	CDS	complement(join(1153900..1154358,1154358..1154684))	isftu1; transposase
+ftu:FTT_1143	CDS	1155021..1155266	hypothetical protein
+ftu:FTT_1144	gene	1155451..1156310	pseudogene
+ftu:FTT_1145	CDS	1156322..1156528	chaB; cation transport regulator
+ftu:FTT_1146c	gene	complement(1156661..1157639)	galM; pseudogene
+ftu:FTT_1147c	CDS	complement(1157636..1158811)	dfp; 4'-phosphopantothenoylcysteine decarboxylase
+ftu:FTT_1148c	CDS	complement(1158824..1160008)	yjhB; major facilitator transporter
+ftu:FTT_1149c	CDS	complement(1160084..1161592)	amino acid transporter family protein
+ftu:FTT_1150c	CDS	complement(1161752..1165825)	putA; bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+ftu:FTT_1151c	CDS	complement(1165833..1166120)	hypothetical protein
+ftu:FTT_1152	CDS	1166334..1166717	hypothetical protein
+ftu:FTT_1153c	CDS	complement(1166784..1167008)	hypothetical protein
+ftu:FTT_1154c	CDS	complement(1167066..1168145)	aroB; 3-dehydroquinate synthase
+ftu:FTT_1155c	CDS	complement(1168142..1168672)	aroK; shikimate kinase I
+ftu:FTT_1156c	CDS	complement(1168798..1170582)	pilQ; Type IV pilin multimeric outer membrane protein
+ftu:FTT_1157c	CDS	complement(1170595..1171185)	Type IV pili lipoprotein
+ftu:FTT_1158c	CDS	complement(1171191..1171787)	Type IV pili glycosylation protein
+ftu:FTT_1159c	CDS	complement(1171781..1172344)	Type IV pili associated protein
+ftu:FTT_1160c	CDS	complement(1172346..1173350)	hypothetical protein
+ftu:FTT_1161	CDS	1173477..1174133	adk; adenylate kinase
+ftu:FTT_1162c	gene	complement(1174692..1177413)	pseudogene
+ftu:FTT_1163c	CDS	complement(1177474..1177890)	hypothetical protein
+ftu:FTT_1164c	CDS	complement(1177905..1178798)	era; GTP-binding protein Era
+ftu:FTT_1165c	CDS	complement(1178912..1180105)	aspC2; aspartate aminotransferase
+ftu:FTT_1166c	CDS	complement(1180115..1180921)	glutamine amidotransferase
+ftu:FTT_1167c	CDS	complement(1180925..1181563)	glycoprotease family protein
+ftu:FTT_1168c	CDS	complement(1181567..1182700)	nagA; N-acetylglucosamine-6-phosphate deacetylase
+ftu:FTT_1169	CDS	1182763..1183635	GTP-binding protein
+ftu:FTT_1170	CDS	1183699..1185447	lipoprotein
+ftu:FTT_1171c	CDS	complement(1185437..1186903)	hsdM; DNA-methyltransferase, type I restriction-modification enzyme subunit M
+ftu:FTT_1172c	CDS	complement(1186890..1187321)	csp; DNA-binding cold shock protein
+ftu:FTT_1173c	gene	complement(1187496..1188574)	hsdS; pseudogene
+ftu:FTT_1174c	CDS	complement(1188833..1189042)	hypothetical protein
+ftu:FTT_1175c	CDS	complement(1189242..1189880)	hypothetical protein
+ftu:FTT_1176c	gene	complement(1189877..1192224)	hsdR1; pseudogene
+ftu:FTT_1177c	gene	complement(1192368..1193919)	pseudogene
+ftu:FTT_1179	CDS	1194339..1196156	bipA; GTP binding translational elongation factor Tu and G family protein
+ftu:FTT_1180	gene	1196328..1197083	pseudogene
+ftu:FTT_1181c	CDS	complement(1197099..1198904)	ggt; gamma-glutamyltranspeptidase
+ftu:FTT_1182c	gene	complement(1198959..1199879)	vacJ; pseudogene
+ftu:FTT_1183c	CDS	complement(1199956..1201161)	lipoprotein
+ftu:FTT_1184c	CDS	complement(1201203..1201508)	hypothetical protein
+ftu:FTT_1185c	CDS	complement(1201508..1201939)	hypothetical protein
+ftu:FTT_1186	CDS	1202014..1202487	smpB; SsrA-binding protein
+ftu:FTT_1187	CDS	1202488..1203243	C32 tRNA thiolase
+ftu:FTT_1188	CDS	1203515..1204150	hypothetical protein
+ftu:FTT_1189c	gene	complement(1204390..1205676)	pseudogene
+ftu:FTT_1190c	CDS	complement(1205946..1207331)	xseA; exodeoxyribonuclease VII large subunit
+ftu:FTT_1191	CDS	1207484..1208644	aminoacylase
+ftu:FTT_1192c	gene	complement(1208694..1209813)	pseudogene
+ftu:FTT_1194c	CDS	complement(1210462..1211388)	lipoprotein
+ftu:FTT_1195c	gene	complement(1211448..1212903)	pseudogene
+ftu:FTT_1196c	CDS	complement(1213063..1214346)	major facilitator transporter
+ftu:FTT_1197c	CDS	complement(1214431..1215228)	murI; glutamate racemase
+ftu:FTT_1198c	CDS	complement(1215228..1216058)	hypothetical protein
+ftu:FTT_1199c	CDS	complement(1216062..1218068)	uvrB; excinuclease ABC subunit B
+ftu:FTT_1200c	CDS	complement(1218070..1219518)	sbcB; exodeoxyribonuclease I
+ftu:FTT_1201c	CDS	complement(1219652..1220374)	short-chain dehydrogenase family oxidoreductase
+ftu:FTT_1202	CDS	1220490..1221389	LysR family transcriptional regulator
+ftu:FTT_1203c	CDS	complement(1221400..1222305)	hypothetical protein
+ftu:FTT_1204c	CDS	complement(1222292..1223374)	hypothetical protein
+ftu:FTT_1205	CDS	1223517..1225400	gidA; tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+ftu:FTT_1206	CDS	1225412..1225804	hypothetical protein
+ftu:FTT_1207	CDS	1225818..1227188	hypothetical protein
+ftu:FTT_1208	CDS	1227190..1227864	rpiA; ribose-5-phosphate isomerase A
+ftu:FTT_1209c	gene	complement(1227915..1229837)	pseudogene
+ftu:FTT_1210c	CDS	complement(join(1229938..1230396,1230396..1230722))	isftu1; transposase
+ftu:FTT_1211c	CDS	complement(1230784..1231176)	hypothetical protein
+ftu:FTT_1212c	CDS	complement(1231176..1231559)	gloA; lactoylglutathione lyase
+ftu:FTT_1213	CDS	1231675..1232388	hypothetical protein
+ftu:FTT_1214c	CDS	complement(1232642..1233433)	haloacid dehalogenase
+ftu:FTT_1215c	CDS	complement(1234068..1235090)	queA; S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+ftu:FTT_1216c	CDS	complement(1235110..1235571)	hypothetical protein
+ftu:FTT_1217c	CDS	complement(1235593..1236828)	visC; monooxygenase family protein
+ftu:FTT_1218c	CDS	complement(1236818..1238029)	ubiH; 2-octaprenyl-6-methoxyphenyl hydroxylase
+ftu:FTT_1219c	CDS	complement(1238038..1238574)	hypothetical protein
+ftu:FTT_1220	CDS	1238975..1239523	5-formyltetrahydrofolate cyclo-ligase
+ftu:FTT_1221	CDS	1239526..1239792	hypothetical protein
+ftu:FTT_1222	CDS	1239799..1240425	dedA2; DedA family protein
+ftu:FTT_1223	CDS	1240481..1241128	dedA1; DedA family protein
+ftu:FTT_1224c	CDS	complement(1241204..1241902)	recO; DNA repair protein RecO
+ftu:FTT_1225c	CDS	complement(1241886..1242215)	hypothetical protein
+ftu:FTT_1226c	CDS	complement(1242208..1243383)	iscS; cysteine desulfurase
+ftu:FTT_1227	CDS	1243633..1246290	rne; ribonuclease E
+ftu:FTT_1228	CDS	1246305..1247111	lgt; prolipoprotein diacylglyceryl transferase
+ftu:FTT_1229	CDS	1247096..1247920	thyA; thymidylate synthase
+ftu:FTT_1230	CDS	1247923..1249167	serA; D-3-phosphoglycerate dehydrogenase
+ftu:FTT_1231	CDS	1249168..1250364	mesJ; PP-loop family protein
+ftu:FTT_1232	CDS	join(1250509..1250835,1250835..1251293)	isftu1; transposase
+ftu:FTT_1233c	CDS	complement(1251367..1252695)	yjdL; proton-dependent oligopeptide transport (POT) family protein
+ftu:FTT_1234	CDS	1252946..1254091	choloylglycine hydrolase family protein
+ftu:FTT_1235c	CDS	complement(1254092..1255156)	lpcC; glycosyl transferase family protein
+ftu:FTT_1236	CDS	1255326..1256414	hypothetical protein
+ftu:FTT_1237	CDS	1256422..1257312	glycosyl transferase family protein
+ftu:FTT_1238c	CDS	complement(1257338..1258669)	hypothetical protein
+ftu:FTT_1239	CDS	1258877..1260148	hypothetical protein
+ftu:FTT_1240c	CDS	complement(1260163..1260711)	hypothetical protein
+ftu:FTT_1241	CDS	1260815..1262068	glyA; serine hydroxymethyltransferase
+ftu:FTT_1242	CDS	1262350..1263612	hypothetical protein
+ftu:FTT_1243c	CDS	complement(1263494..1265347)	mreA; FAD binding family protein
+ftu:FTT_1244c	CDS	complement(1265424..1266248)	yfiO; lipoprotein
+ftu:FTT_1245	CDS	1266337..1267335	rluD; ribosomal large subunit pseudouridine synthase D
+ftu:FTT_1246	CDS	1267277..1268125	hypothetical protein
+ftu:FTT_1247	CDS	1268200..1269300	ABC transporter permease
+ftu:FTT_1248	CDS	1269315..1270076	ABC transporter ATP-binding protein
+ftu:FTT_1249	CDS	1270086..1270811	cell entry (mce) family protein
+ftu:FTT_1250	CDS	1270816..1271514	hypothetical protein
+ftu:FTT_1251c	CDS	complement(1271504..1272190)	hypothetical protein
+ftu:FTT_1252	CDS	1272261..1272989	16S ribosomal RNA methyltransferase RsmE
+ftu:FTT_1253	CDS	1273219..1274706	proton-dependent oligopeptide transport (POT) family protein
+ftu:FTT_1254	CDS	1274814..1276505	fadD1; acyl-CoA synthetase
+ftu:FTT_1255c	CDS	complement(1276493..1277341)	AraC family transcriptional regulator
+ftu:FTT_1256	CDS	1277485..1279014	emrB; major facilitator transporter
+ftu:FTT_1257	CDS	1279036..1280058	emrA1; HlyD family secretion protein
+ftu:FTT_1258	CDS	1280068..1281540	outer membrane efflux protein
+ftu:FTT_1259	CDS	1281669..1282418	nadE; NH(3)-dependent NAD(+) synthetase
+ftu:FTT_1260	CDS	1282522..1282944	hypothetical protein
+ftu:FTT_1261c	gene	complement(1283043..1283614)	pseudogene
+ftu:FTT_1262	CDS	join(1283965..1284291,1284291..1284749)	isftu1; transposase
+ftu:FTT_1263c	CDS	complement(1285041..1286036)	hypothetical protein
+ftu:FTT_1264	gene	1286406..1286891	isftu2; pseudogene
+ftu:FTT_1265c	CDS	complement(join(1286965..1287423,1287423..1287749))	isftu1; transposase
+ftu:FTT_1266c	CDS	complement(1287773..1288486)	yhhW; pirin
+ftu:FTT_1267	CDS	1288586..1289482	LysR family transcriptional regulator
+ftu:FTT_1268c	CDS	complement(1289496..1290620)	dnaJ1; molecular chaperone DnaJ
+ftu:FTT_1269c	CDS	complement(1290709..1292637)	dnaK; molecular chaperone DnaK
+ftu:FTT_1270c	CDS	complement(1292738..1293325)	grpE; heat shock protein GrpE
+ftu:FTT_1271	CDS	1293414..1294580	mltA; membrane-bound lytic murein transglycosylase A (MLT) family protein
+ftu:FTT_1272	CDS	1294573..1295757	hypothetical protein
+ftu:FTT_1273	CDS	1295869..1296324	rplM; 50S ribosomal protein L13
+ftu:FTT_1274	CDS	1296340..1296729	rpsI; 30S ribosomal protein S9
+ftu:FTT_1275	CDS	1296789..1297406	mglA; macrophage growth locus subunit A
+ftu:FTT_1276	CDS	1297408..1297815	mglB; ClpXP protease specificity-enhancing factor
+ftu:FTT_1277c	CDS	complement(1297812..1299083)	sodium-solute symporter family protein
+ftu:FTT_1278c	CDS	complement(1299076..1299639)	rnhB; ribonuclease HII
+ftu:FTT_1279c	CDS	complement(1299641..1300384)	yfhQ; SpoU rRNA methylase family protein
+ftu:FTT_1280c	CDS	complement(1300377..1300832)	ptsN; PEP-dependent sugar PTS system family protein
+ftu:FTT_1281c	CDS	complement(1300869..1301165)	yhbH; sigma-54 modulation protein
+ftu:FTT_1282	CDS	1301284..1301529	hypothetical protein
+ftu:FTT_1283	CDS	1301535..1302887	trmE; tRNA modification GTPase TrmE
+ftu:FTT_1284c	CDS	complement(1302897..1303091)	hypothetical protein
+ftu:FTT_1285c	CDS	complement(1303123..1304013)	LysR family transcriptional regulator
+ftu:FTT_1286	gene	1304148..1305203	pseudogene
+ftu:FTT_1287	CDS	1305421..1306344	cbs; cystathionine beta-synthase
+ftu:FTT_1288	CDS	1306598..1307167	hypothetical protein
+ftu:FTT_r02	rRNA	complement(1307547..1307661)	5S ribosomal RNA
+ftu:FTT_r03	rRNA	complement(1307712..1310573)	23S ribosomal RNA
+ftu:FTT_t18	tRNA	complement(1310648..1310723)	tRNA-Ala
+ftu:FTT_t19	tRNA	complement(1310741..1310814)	tRNA-Ile
+ftu:FTT_r04	rRNA	complement(1310909..1312431)	16S ribosomal RNA
+ftu:FTT_1289	gene	1313034..1313455	pseudogene
+ftu:FTT_t20	tRNA	complement(1313653..1313728)	tRNA-Val
+ftu:FTT_t21	tRNA	complement(1313756..1313847)	tRNA-Ser
+ftu:FTT_1290	CDS	1314025..1316049	metG; methionyl-tRNA synthetase
+ftu:FTT_1291	CDS	1316015..1317289	major facilitator transporter
+ftu:FTT_1292c	CDS	complement(1317286..1317888)	hypothetical protein
+ftu:FTT_1293c	CDS	complement(1317938..1318552)	Sua5_yciO_yrdC family protein
+ftu:FTT_1294	CDS	1318613..1319143	ispZ; intracellular septation protein A family protein
+ftu:FTT_1295c	CDS	complement(1319482..1320498)	glk1; glucose kinase
+ftu:FTT_1296	CDS	1320592..1321344	ubiE; menaquinone biosynthesis methyltransferase
+ftu:FTT_1297	CDS	1321328..1321933	hypothetical protein
+ftu:FTT_1298	CDS	1321926..1323584	ubiB; 2-polyprenylphenol 6-hydroxylase
+ftu:FTT_1299	CDS	1323590..1323928	hitA; histidine triad (HIT) family protein
+ftu:FTT_1300c	CDS	complement(1323945..1324076)	hypothetical protein
+ftu:FTT_1301c	gene	complement(1324443..1325100)	pseudogene
+ftu:FTT_1302	CDS	1325075..1325905	hypothetical protein
+ftu:FTT_1303c	CDS	complement(1325907..1326782)	hypothetical protein
+ftu:FTT_1304c	CDS	complement(1326861..1327709)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+ftu:FTT_1305c	CDS	complement(1327717..1329051)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+ftu:FTT_1306c	CDS	complement(1328990..1330387)	engA; GTP-binding protein EngA
+ftu:FTT_1307c	CDS	complement(1330603..1331139)	hypothetical protein
+ftu:FTT_1308c	CDS	complement(1331184..1331792)	hypothetical protein
+ftu:FTT_1309c	gene	complement(1332221..1332693)	isftu1; pseudogene
+ftu:FTT_1310c	CDS	complement(1332931..1334847)	hflB; ATP-dependent metalloprotease
+ftu:FTT_1311	CDS	1335070..1336476	yieO; major facilitator transporter
+ftu:FTT_1312c	CDS	complement(1336482..1339304)	uvrA; DNA excision repair protein subunit A
+ftu:FTT_1313c	CDS	complement(1339343..1339825)	greA; transcription elongation factor GreA
+ftu:FTT_1314c	CDS	complement(1339859..1340443)	Type IV pili fiber building block protein
+ftu:FTT_1315c	CDS	complement(1340444..1342066)	pgi; glucose-6-phosphate isomerase
+ftu:FTT_1316c	CDS	complement(1342053..1342706)	thiamine pyrophospokinase
+ftu:FTT_1317c	CDS	complement(1342772..1344232)	guaB; inosine-5'-monophosphate dehydrogenase
+ftu:FTT_1318c	CDS	complement(1344333..1345772)	pepA; cytosol aminopeptidase
+ftu:FTT_1319	CDS	1345938..1347020	YjgP/YjgQ family permease
+ftu:FTT_1320	CDS	1347020..1348081	YjgP/YjgQ family permease
+ftu:FTT_1321	CDS	1348089..1349342	peptidase M16 family protein
+ftu:FTT_1322	CDS	1349349..1350572	peptidase M16 family protein
+ftu:FTT_1323	CDS	1350573..1351151	methylase
+ftu:FTT_1324	CDS	1351185..1351835	hypothetical protein
+ftu:FTT_1325c	CDS	complement(1351888..1352499)	miaE; tRNA-(ms(2)io(6)a)-hydroxylase
+ftu:FTT_1326	CDS	1352615..1353418	udp; uridine phosphorylase
+ftu:FTT_1327	CDS	1353439..1353840	cdd; cytidine deaminase
+ftu:FTT_t22	tRNA	complement(1353942..1354017)	tRNA-Lys
+ftu:FTT_1328c	CDS	complement(1354038..1357067)	FAD-binding family protein
+ftu:FTT_1329	CDS	1357287..1358825	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+ftu:FTT_1330	CDS	1358840..1360120	serS; seryl-tRNA synthetase
+ftu:FTT_1331	CDS	1360230..1361129	cscK; fructokinase
+ftu:FTT_1332	CDS	1361207..1362466	polysaccharide biosynthesis protein
+ftu:FTT_1333c	CDS	complement(1362470..1362670)	hypothetical protein
+ftu:FTT_1334c	CDS	complement(1362698..1363207)	hypothetical protein
+ftu:FTT_1335	CDS	1363584..1365365	cydD; cysteine/glutathione ABC transporter permease/ATP-binding protein
+ftu:FTT_1336	CDS	1365362..1367011	cydC; cysteine/glutathione ABC transporter permease/ATP-binding protein
+ftu:FTT_1337c	CDS	complement(1367013..1368263)	dctA; C4-dicarboxylate transport protein
+ftu:FTT_1338c	CDS	complement(1368402..1368782)	translation initiation inhibitor
+ftu:FTT_1339c	CDS	complement(1368782..1370326)	sulfate permease family protein
+ftu:FTT_1340c	CDS	complement(1370445..1371188)	isftu2; transposase
+ftu:FTT_1341	CDS	1371389..1372045	hypothetical protein
+ftu:FTT_1342	CDS	1372159..1373214	hypothetical protein
+ftu:FTT_1343c	CDS	complement(1373509..1374318)	hypothetical protein
+ftu:FTT_r05	rRNA	complement(1374666..1374780)	5S ribosomal RNA
+ftu:FTT_r06	rRNA	complement(1374831..1377692)	23S ribosomal RNA
+ftu:FTT_t23	tRNA	complement(1377767..1377842)	tRNA-Ala
+ftu:FTT_t24	tRNA	complement(1377860..1377933)	tRNA-Ile
+ftu:FTT_r07	rRNA	complement(1378028..1379550)	16S ribosomal RNA
+ftu:FTT_1344	CDS	1379925..1382387	pdpA1; hypothetical protein
+ftu:FTT_1345	CDS	1382392..1385673	pdpB1; hypothetical protein
+ftu:FTT_1346	CDS	1385663..1386040	hypothetical protein
+ftu:FTT_1347	CDS	1386053..1386547	hypothetical protein
+ftu:FTT_1348	CDS	1386552..1388282	hypothetical protein
+ftu:FTT_1349	CDS	1388283..1388804	hypothetical protein
+ftu:FTT_1350	CDS	1388817..1390247	hypothetical protein
+ftu:FTT_1351	CDS	1390260..1390883	hypothetical protein
+ftu:FTT_1352	CDS	1390905..1392056	hypothetical protein
+ftu:FTT_1353	CDS	1392022..1392795	hypothetical protein
+ftu:FTT_1354	CDS	1392835..1396821	pdpC1; hypothetical protein
+ftu:FTT_1355	CDS	1396839..1397414	hypothetical protein
+ftu:FTT_1356c	CDS	complement(1397421..1398626)	iglD1; intracellular growth locus subunit D
+ftu:FTT_1357c	CDS	complement(1398638..1399273)	iglC1; intracellular growth locus subunit C
+ftu:FTT_1358c	CDS	complement(1399284..1400828)	iglB1; intracellular growth locus subunit B
+ftu:FTT_1359c	CDS	complement(1400818..1401408)	iglA1; intracellular growth locus subunit A
+ftu:FTT_1360c	CDS	complement(1401453..1405040)	pdpD1; hypothetical protein
+ftu:FTT_1361c	gene	complement(1405143..1406285)	pseudogene
+ftu:FTT_1362	gene	1406420..1407299	pseudogene
+ftu:FTT_1363c	CDS	complement(join(1407396..1407854,1407854..1408180))	isftu1; transposase
+ftu:FTT_1364	gene	1408560..1410035	treA; pseudogene
+ftu:FTT_1365c	CDS	complement(1410206..1411270)	fbaB; fructose-1,6-bisphosphate aldolase
+ftu:FTT_1366c	CDS	complement(1411283..1412719)	pyk; pyruvate kinase
+ftu:FTT_1367c	CDS	complement(1412735..1413913)	pgk; phosphoglycerate kinase
+ftu:FTT_1368c	CDS	complement(1413932..1414978)	gapA; glyceraldehyde-3-phosphate dehydrogenase
+ftu:FTT_1369c	CDS	complement(1414971..1416962)	tktA; transketolase
+ftu:FTT_1370	CDS	1417102..1417605	hypothetical protein
+ftu:FTT_1371	CDS	1417649..1417831	rpmF; 50S ribosomal protein L32
+ftu:FTT_1372	CDS	1417930..1418976	plsX; glycerol-3-phosphate acyltransferase PlsX
+ftu:FTT_1373	CDS	1419073..1420044	fabH; 3-oxoacyl-ACP synthase
+ftu:FTT_1374	CDS	1420092..1421012	malonyl CoA-ACP transacylase
+ftu:FTT_1375	CDS	1421026..1421769	fabG; 3-oxoacyl-ACP reductase
+ftu:FTT_1376	CDS	1421865..1422149	acpP; acyl carrier protein
+ftu:FTT_1377	CDS	1422229..1423488	fabF; 3-oxoacyl-ACP synthase
+ftu:FTT_1378	gene	1423539..1423733	pseudogene
+ftu:FTT_1379c	CDS	complement(1423843..1424529)	hypothetical protein
+ftu:FTT_1380	gene	1424627..1425846	pseudogene
+ftu:FTT_1381	gene	1425930..1426979	pseudogene
+ftu:FTT_1382	CDS	1427069..1427857	suhB; inositol monophosphatase
+ftu:FTT_1383	CDS	1427857..1429137	sun; 16S rRNA (cytosine(967)-C(5))-methyltransferase
+ftu:FTT_1384c	CDS	complement(1429115..1429606)	acetyltransferase
+ftu:FTT_1385c	CDS	complement(1429699..1429968)	hypothetical protein
+ftu:FTT_1386	CDS	join(1429959..1430285,1430285..1430743)	isftu1; transposase
+ftu:FTT_1387c	CDS	complement(1431189..1433225)	ligN; DNA ligase
+ftu:FTT_1388	CDS	1433533..1434249	hypothetical protein
+ftu:FTT_1389	CDS	1434251..1435045	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+ftu:FTT_1390	CDS	1435032..1435817	panC; pantoate-beta-alanine ligase
+ftu:FTT_1391	CDS	1435811..1436146	panD; aspartate alpha-decarboxylase
+ftu:FTT_1392	CDS	1436150..1436920	pantothenate kinase
+ftu:FTT_1393c	CDS	complement(1436929..1438797)	recD; exodeoxyribonuclease V subunit alpha
+ftu:FTT_1394c	CDS	complement(1438763..1442416)	recB; exodeoxyribonuclease V subunit beta
+ftu:FTT_1395c	CDS	complement(1442488..1443918)	ATP-dependent DNA helicase
+ftu:FTT_1396c	CDS	complement(1444061..1444639)	hypothetical protein
+ftu:FTT_1397c	CDS	complement(1444575..1447814)	recC; exodeoxyribonuclease V subunit gamma
+ftu:FTT_1398c	gene	complement(1447894..1449476)	pseudogene
+ftu:FTT_1399	CDS	1449653..1450522	hypothetical protein
+ftu:FTT_1400c	CDS	complement(1450536..1450922)	hypothetical protein
+ftu:FTT_1401	CDS	1451079..1451744	prophage repressor protein
+ftu:FTT_t25	tRNA	complement(1451947..1452035)	tRNA-Leu
+ftu:FTT_t26	tRNA	complement(1452041..1452114)	tRNA-Cys
+ftu:FTT_t27	tRNA	complement(1452133..1452204)	tRNA-Gly
+ftu:FTT_1402c	CDS	complement(1452316..1453950)	hypothetical protein
+ftu:FTT_1403c	CDS	complement(1453967..1454191)	feoA; ferrous iron transport protein A
+ftu:FTT_1404	CDS	1454300..1455007	cell division protein
+ftu:FTT_1405c	CDS	complement(1455085..1455843)	gloB; hydroxyacylglutathione hydrolase
+ftu:FTT_1406c	CDS	complement(1455857..1457014)	hypothetical protein
+ftu:FTT_1407c	CDS	complement(1457011..1458096)	hypothetical protein
+ftu:FTT_1408c	CDS	complement(1458062..1458811)	hemD; uroporphyrinogen III synthase
+ftu:FTT_1409c	CDS	complement(1458812..1459228)	hypothetical protein
+ftu:FTT_t28	tRNA	1459457..1459529	tRNA-Asn
+ftu:FTT_1410	CDS	1459926..1460471	hypothetical protein
+ftu:FTT_1411	gene	1461697..1462672	pseudogene
+ftu:FTT_1412	CDS	1463060..1464757	proS; prolyl-tRNA synthetase
+ftu:FTT_1413	CDS	1464903..1466033	aminotransferase
+ftu:FTT_1414	CDS	1466033..1466515	hypothetical protein
+ftu:FTT_1415	CDS	1466623..1467525	hypothetical protein
+ftu:FTT_1416c	CDS	complement(1467577..1467990)	lipoprotein
+ftu:FTT_1417	CDS	1468144..1468929	carbon-nitrogen hydrolase
+ftu:FTT_1418c	CDS	complement(1468913..1469338)	nusB; N utilization substance protein B
+ftu:FTT_1419	gene	1469418..1469923	pseudogene
+ftu:FTT_1420	CDS	1469984..1470451	hypothetical protein
+ftu:FTT_1421	CDS	1470670..1471119	hypothetical protein
+ftu:FTT_1422	CDS	1471159..1471779	oxidoreductase
+ftu:FTT_1423c	CDS	complement(1471772..1472521)	hypothetical protein
+ftu:FTT_1424c	CDS	complement(1472523..1473203)	hypothetical protein
+ftu:FTT_1425c	CDS	complement(1473248..1474942)	naoX; NADH oxidase
+ftu:FTT_1426c	CDS	complement(1474964..1475482)	hypothetical protein
+ftu:FTT_1426a	CDS	complement(1475548..1475847)	hypothetical protein
+ftu:FTT_1427	CDS	join(1476022..1476348,1476348..1476806)	isftu1; transposase
+ftu:FTT_1428c	CDS	complement(1476967..1477482)	acetyltransferase
+ftu:FTT_1429c	gene	complement(1477490..1478091)	pseudogene
+ftu:FTT_1430c	gene	complement(1478134..1478592)	pseudogene
+ftu:FTT_1431	CDS	1478662..1479297	rhtC; threonine efflux protein
+ftu:FTT_1432c	CDS	complement(1479294..1480184)	ppnK; inorganic phosphate/ATP-NAD kinase
+ftu:FTT_1433	CDS	1480373..1481317	gtrB; glycosyl transferase family protein
+ftu:FTT_1434c	CDS	complement(1481321..1482100)	yadH; ABC transporter permease
+ftu:FTT_1435c	CDS	complement(1482109..1483032)	yagD; ABC transporter ATP-binding protein
+ftu:FTT_1436	CDS	1483215..1483958	isftu2; transposase
+ftu:FTT_1437c	gene	complement(1484011..1484788)	pseudogene
+ftu:FTT_1438c	gene	complement(1484788..1485111)	pseudogene
+ftu:FTT_1439c	CDS	complement(1485237..1486004)	deoxyribonuclease
+ftu:FTT_1440c	gene	complement(1486090..1487470)	pseudogene
+ftu:FTT_1441	CDS	1487670..1488155	hypothetical protein
+ftu:FTT_t29	tRNA	complement(1488679..1488765)	tRNA-Leu
+ftu:FTT_1442c	CDS	complement(1488773..1489729)	rpoA2; DNA-directed RNA polymerase subunit alpha
+ftu:FTT_1443c	CDS	complement(1489817..1490719)	recombination factor protein RarA
+ftu:FTT_1444c	CDS	complement(1491287..1492222)	ppx; exopolyphosphatase
+ftu:FTT_1445	CDS	1492411..1492734	trxA1; thioredoxin
+ftu:FTT_1446	CDS	1492777..1494039	rho; transcription termination factor Rho
+ftu:FTT_1447c	CDS	complement(1495151..1496635)	manB; phosphomannomutase
+ftu:FTT_1448c	CDS	complement(1496666..1498072)	manC; mannose-1-phosphate guanylyltransferase
+ftu:FTT_1449c	gene	complement(1498410..1498894)	isftu1; pseudogene
+ftu:FTT_1450c	CDS	complement(1499039..1500085)	wbtM; dTDP-D-glucose 4,6-dehydratase
+ftu:FTT_1451c	CDS	complement(1500602..1501486)	wbtL; glucose-1-phosphate thymidylyltransferase
+ftu:FTT_1452c	CDS	complement(1501511..1502371)	wbtK; glycosyltransferase
+ftu:FTT_1453c	CDS	complement(1502364..1503851)	wzx; O-antigen flippase
+ftu:FTT_1454c	CDS	complement(1503856..1504581)	wbtJ; hypothetical protein
+ftu:FTT_1455c	CDS	complement(1504578..1505660)	wbtI; sugar transamine/perosamine synthetase
+ftu:FTT_1456c	CDS	complement(1505653..1507539)	wbtH; asparagine synthase
+ftu:FTT_1457c	CDS	complement(1507539..1508639)	wbtG; glycosyl transferase family protein
+ftu:FTT_1458c	CDS	complement(1508636..1509865)	wzy; membrane protein/O-antigen protein
+ftu:FTT_1459c	CDS	complement(1509882..1510853)	wbtF; NAD dependent epimerase
+ftu:FTT_1460c	CDS	complement(1510853..1512163)	wbtE; UDP-glucose/GDP-mannose dehydrogenase
+ftu:FTT_1461c	CDS	complement(1512181..1513272)	wbtD; galacturonosyl transferase
+ftu:FTT_1462c	CDS	complement(1513262..1514053)	wbtC; UDP-glucose 4-epimerase
+ftu:FTT_1463c	CDS	complement(1514055..1514672)	wbtB; galactosyl transferase
+ftu:FTT_1464c	CDS	complement(1514680..1516416)	wbtA; dTDP-glucose 4,6-dehydratase
+ftu:FTT_1465c	CDS	complement(1516518..1517261)	isftu2; transposase
+ftu:FTT_1466c	gene	complement(1517497..1518347)	add2; pseudogene
+ftu:FTT_1467c	CDS	complement(1518366..1519853)	nadB; L-aspartate oxidase
+ftu:FTT_1468c	CDS	complement(1519856..1520719)	nadC; nicotinate-nucleotide pyrophosphorylase
+ftu:FTT_1469c	CDS	complement(1520728..1521753)	nadA; quinolinate synthetase
+ftu:FTT_1470c	CDS	complement(1521774..1522346)	gmk; guanylate kinase
+ftu:FTT_1471c	CDS	complement(1522463..1524172)	deaD; cold-shock DEAD-box protein A
+ftu:FTT_1472c	CDS	complement(1524237..1524515)	ppiC; peptidyl-prolyl cis-trans isomerase
+ftu:FTT_1473c	CDS	complement(1524610..1526004)	galP2; major facilitator superfamily galactose-proton symporter
+ftu:FTT_1474c	CDS	complement(1526036..1527418)	galP1; major facilitator superfamily galactose-proton symporter
+ftu:FTT_1475	CDS	1527509..1528534	galT; galactose-1-phosphate uridylyltransferase
+ftu:FTT_1476	CDS	1528537..1529685	galK; galactokinase
+ftu:FTT_1477c	CDS	complement(1529682..1530077)	hypothetical protein
+ftu:FTT_1478c	CDS	complement(1530070..1530822)	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+ftu:FTT_1479c	CDS	complement(1530815..1531003)	hypothetical protein
+ftu:FTT_1481c	CDS	complement(join(1531728..1532186,1532186..1532512))	isftu1; transposase
+ftu:FTT_1482	gene	1532644..1532862	pseudogene
+ftu:FTT_1483c	CDS	complement(1532885..1534297)	lpd; dihydrolipoamide dehydrogenase
+ftu:FTT_1484c	CDS	complement(1534311..1536206)	aceF; dihydrolipoamide acetyltransferase
+ftu:FTT_1485c	CDS	complement(1536224..1538905)	aceE; pyruvate dehydrogenase subunit E1
+ftu:FTT_1486c	CDS	complement(1539205..1540341)	hypothetical protein
+ftu:FTT_1487	CDS	1540469..1541083	coaE; dephospho-CoA kinase
+ftu:FTT_t30	tRNA	1541116..1541192	tRNA-Arg
+ftu:FTT_t31	tRNA	1541207..1541278	tRNA-Gly
+ftu:FTT_1488	CDS	1541380..1542384	trpS; tryptophanyl-tRNA synthetase
+ftu:FTT_1489	CDS	1542386..1543111	hypothetical protein
+ftu:FTT_1490	CDS	1543121..1544419	Na+/H+ antiporter
+ftu:FTT_1491c	gene	complement(1544818..1545854)	pseudogene
+ftu:FTT_1493c	CDS	complement(1546344..1546739)	hypothetical protein
+ftu:FTT_1494c	CDS	complement(1546741..1547625)	murQ; N-acetylmuramic acid 6-phosphate etherase
+ftu:FTT_1495c	CDS	complement(1547622..1549586)	hypothetical protein
+ftu:FTT_1496c	CDS	complement(1549595..1550608)	hypothetical protein
+ftu:FTT_1497c	CDS	complement(1550589..1551092)	hypothetical protein
+ftu:FTT_1498c	CDS	complement(1551112..1552059)	accA; acetyl-CoA carboxylase carboxyltransferase subunit alpha
+ftu:FTT_1499	CDS	1552193..1554766	muts; DNA mismatch repair protein MutS
+ftu:FTT_1500	CDS	1554838..1555281	secB2; preprotein translocase subunit SecB
+ftu:FTT_1501	gene	1555475..1556695	pseudogene
+ftu:FTT_1502	CDS	1556722..1557939	aromatic amino acid HAAP transporter
+ftu:FTT_1503	CDS	1557949..1558827	xerC; integrase/recombinase XerC
+ftu:FTT_1504	CDS	1558827..1559552	hypothetical protein
+ftu:FTT_1505c	CDS	complement(1559559..1560173)	hypothetical protein
+ftu:FTT_1506	CDS	1560261..1560839	hypothetical protein
+ftu:FTT_1507	CDS	1560916..1561548	hypothetical protein
+ftu:FTT_1508c	CDS	complement(1561664..1563607)	relA; GTP pyrophosphokinase
+ftu:FTT_1508a	ncRNA	complement(1563630..1563968)	RNase P class A
+ftu:FTT_1509c	CDS	complement(1563976..1564332)	hypothetical protein
+ftu:FTT_1510c	CDS	complement(1564366..1565562)	aromatic amino acid HAAP transporter
+ftu:FTT_1511	CDS	1565753..1566637	hypothetical protein
+ftu:FTT_1512c	CDS	complement(1566627..1567553)	dnaJ2; heat shock protein, hsp40
+ftu:FTT_1513	gene	1567752..1568468	pseudogene
+ftu:FTT_1514c	CDS	complement(1568483..1568854)	hypothetical protein
+ftu:FTT_1515c	CDS	complement(1568862..1569461)	hypothetical protein
+ftu:FTT_1516c	gene	complement(1569461..1570876)	merA; pseudogene
+ftu:FTT_1517c	CDS	complement(1570879..1571598)	hypothetical protein
+ftu:FTT_1518	CDS	1571628..1572200	ogt; methylated-DNA--protein-cysteine methyltransferase
+ftu:FTT_1519	gene	1572292..1572639	pseudogene
+ftu:FTT_1520c	CDS	complement(1572684..1574021)	gabP; glutamate/gamma-aminobutyrate anti-porter
+ftu:FTT_1521c	gene	complement(1574077..1575259)	lysA2; pseudogene
+ftu:FTT_1522c	CDS	complement(1575272..1575862)	hypothetical protein
+ftu:FTT_1523c	CDS	complement(1576231..1576974)	isftu2; transposase
+ftu:FTT_1524c	CDS	complement(1577456..1581724)	hrpA; ATp-dependent helicase
+ftu:FTT_1525c	CDS	complement(1581748..1582635)	hypothetical protein
+ftu:FTT_1526c	CDS	complement(1582649..1584892)	idh; isocitrate dehydrogenase
+ftu:FTT_1527c	CDS	complement(1584896..1585261)	arsC2; arsenate reductase
+ftu:FTT_1528	CDS	1585477..1587165	fadD2; long chain fatty acid CoA ligase
+ftu:FTT_1529	CDS	1587182..1589443	fadE; acyl-CoA dehydrogenase
+ftu:FTT_1530	CDS	1589516..1592212	fadB_acbP; bifunctional 3-hydroxacyl-CoA dehydrogenase/acyl-CoA-binding protein
+ftu:FTT_1531	CDS	1592225..1593412	fadA; acetyl-CoA acetyltransferase
+ftu:FTT_1532	CDS	1593474..1593962	hypothetical protein
+ftu:FTT_1533c	gene	complement(1593958..1595171)	pseudogene
+ftu:FTT_1534c	CDS	complement(1595622..1597037)	nicotinate phosphoribosyltransferase
+ftu:FTT_1535c	gene	complement(1597111..1598051)	pseudogene
+ftu:FTT_1536c	CDS	complement(1598380..1599294)	hypothetical protein
+ftu:FTT_1537c	CDS	complement(1599434..1600828)	hypothetical protein
+ftu:FTT_1538c	CDS	complement(1600834..1601817)	hypothetical protein
+ftu:FTT_1539c	CDS	complement(1601828..1603258)	hypothetical protein
+ftu:FTT_1540c	CDS	complement(1603315..1603923)	hypothetical protein
+ftu:FTT_1542c	CDS	complement(1604618..1605154)	omp26; hypothetical protein
+ftu:FTT_1543	CDS	1605297..1605986	two component response regulator
+ftu:FTT_1544	gene	1605964..1607003	pseudogene
+ftu:FTT_1545	gene	1607083..1608329	pseudogene
+ftu:FTT_1546	gene	1608326..1609097	pseudogene
+ftu:FTT_1547	gene	1609288..1609770	pseudogene
+ftu:FTT_1548	CDS	join(1609794..1610120,1610120..1610578)	isftu1; transposase
+ftu:FTT_1549	CDS	1611289..1611744	hypothetical protein
+ftu:FTT_1550	CDS	1611838..1612380	hypothetical protein
+ftu:FTT_1551	CDS	1612382..1613125	oxidoreductase
+ftu:FTT_1552	CDS	1613139..1613966	ole1; Delta 9 acyl-lipid fatty acid desaturase
+ftu:FTT_1553c	CDS	complement(1613990..1616287)	rnr; ribonuclease R
+ftu:FTT_1554c	CDS	complement(1616280..1617188)	truB; tRNA pseudouridine synthase B
+ftu:FTT_1555c	CDS	complement(1617175..1617867)	rnc; ribonuclease III
+ftu:FTT_1556c	CDS	complement(1617874..1618737)	lepB; signal peptidase I
+ftu:FTT_1557c	CDS	complement(1618742..1619428)	two-component response regulator
+ftu:FTT_1558c	gene	complement(1619879..1620968)	pseudogene
+ftu:FTT_1559c	CDS	complement(1621205..1622029)	proC; pyrroline-5-carboxylate reductase
+ftu:FTT_1560	CDS	1622136..1622714	deoxyribonucleotide triphosphate pyrophosphatase
+ftu:FTT_1561	CDS	1622819..1624114	kdtA; 3-deoxy-D-manno-octulosonic acid transferase
+ftu:FTT_1562	CDS	1624111..1624992	ispA; geranyltranstransferase
+ftu:FTT_1563	CDS	1625040..1625804	pcs; phosphatidylcholine synthase
+ftu:FTT_1564	CDS	1625874..1626683	hypothetical protein
+ftu:FTT_t32	tRNA	1626748..1626824	tRNA-Met
+ftu:FTT_1565c	gene	complement(1627057..1628189)	pseudogene
+ftu:FTT_1566c	gene	complement(1628504..1628800)	pseudogene
+ftu:FTT_1567c	CDS	complement(1628971..1629558)	hypothetical protein
+ftu:FTT_1568c	CDS	complement(1629617..1630759)	lpxB; lipid-A-disaccharide synthase
+ftu:FTT_1569c	CDS	complement(1630759..1631538)	lpxA; acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+ftu:FTT_1570c	CDS	complement(1631541..1632032)	fabZ; (3R)-hydroxymyristoyl-ACP dehydratase
+ftu:FTT_1571c	CDS	complement(1632047..1633060)	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+ftu:FTT_1572c	CDS	complement(1633079..1633582)	ompH; outer membrane protein OmpH
+ftu:FTT_1573c	CDS	complement(1633718..1636096)	hypothetical protein
+ftu:FTT_1574c	CDS	complement(1636102..1637259)	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+ftu:FTT_1575c	CDS	complement(1637265..1639871)	gyrA; DNA gyrase subunit A
+ftu:FTT_1576	CDS	1640130..1640675	hypothetical protein
+ftu:FTT_1577	CDS	1640711..1641796	hypothetical protein
+ftu:FTT_1578c	CDS	complement(1641831..1642493)	ung; uracil-DNA glycosylase
+ftu:FTT_1579c	CDS	complement(1642490..1645363)	Type III restriction enzyme
+ftu:FTT_1580c	CDS	complement(1645600..1646130)	hypothetical protein
+ftu:FTT_1581c	CDS	complement(1646199..1646483)	endonuclease
+ftu:FTT_1582c	gene	complement(1646491..1648143)	pseudogene
+ftu:FTT_1583	gene	1648373..1648765	pseudogene
+ftu:FTT_1584c	CDS	complement(join(1648839..1649297,1649297..1649623))	isftu1; transposase
+ftu:FTT_1585	gene	1649614..1649869	pseudogene
+ftu:FTT_1586c	CDS	complement(1649883..1650164)	hypothetical protein
+ftu:FTT_1587c	CDS	complement(1650177..1651679)	hypothetical protein
+ftu:FTT_1588c	gene	complement(1651812..1652048)	pseudogene
+ftu:FTT_1589c	CDS	complement(1652045..1652788)	hypothetical protein
+ftu:FTT_1590c	CDS	complement(1652791..1653486)	ubiG; 3-demethylubiquinone-9 3-methyltransferase
+ftu:FTT_1591	CDS	1653589..1654728	lipoprotein
+ftu:FTT_1592c	gene	complement(1655830..1656990)	pseudogene
+ftu:FTT_1593c	gene	complement(1657491..1658114)	pseudogene
+ftu:FTT_1594	CDS	1658651..1659643	LysR family transcriptional regulator
+ftu:FTT_1595	gene	1659884..1660610	pseudogene
+ftu:FTT_1597	CDS	1660677..1662134	hypothetical protein
+ftu:FTT_1598	CDS	1662198..1665032	hypothetical protein
+ftu:FTT_1599c	CDS	complement(join(1665129..1665587,1665587..1665913))	isftu1; transposase
+ftu:FTT_1600c	CDS	complement(1666398..1667912)	fumA; fumerate hydratase
+ftu:FTT_1600a	CDS	complement(1668466..1668663)	hypothetical protein
+ftu:FTT_1601c	CDS	complement(1668667..1670706)	recG; ATP-dependent DNA helicase RecG
+ftu:FTT_1602	CDS	1670836..1671180	hypothetical protein
+ftu:FTT_1603	CDS	1671314..1671550	rpmB; 50S ribosomal protein L28
+ftu:FTT_1604	CDS	1671577..1671732	rpmG; 50S ribosomal protein L33
+ftu:FTT_1605	CDS	1671767..1672453	minC; septum site-determining protein MinC
+ftu:FTT_1606	CDS	1672493..1673317	minD; septum site-determining protein MinD
+ftu:FTT_1607	CDS	1673320..1673592	minE; cell division topological specificity factor MinE
+ftu:FTT_1608	CDS	1673606..1674409	ABC transporter ATP-binding protein
+ftu:FTT_1609	CDS	1674413..1675177	ABC transporter permease
+ftu:FTT_1610	CDS	1675177..1675710	hypothetical protein
+ftu:FTT_1611	CDS	1675778..1676446	hypothetical protein
+ftu:FTT_1612	CDS	1676446..1676739	hypothetical protein
+ftu:FTT_1613	CDS	1676756..1676992	BolA-like protein
+ftu:FTT_1615	CDS	join(1678189..1678515,1678515..1678973)	isftu1; transposase
+ftu:FTT_1616	CDS	1679445..1680839	cysS; cysteinyl-tRNA synthetase
+ftu:FTT_1617	CDS	1680843..1681787	hemK; N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+ftu:FTT_1618	gene	1681843..1682784	pseudogene
+ftu:FTT_1619	gene	1682801..1683289	pseudogene
+ftu:FTT_1620	CDS	join(1683438..1683764,1683764..1684222)	isftu1; transposase
+ftu:FTT_1621c	gene	complement(1684319..1685482)	pseudogene
+ftu:FTT_1622c	CDS	complement(1685495..1686415)	hypothetical protein
+ftu:FTT_1623c	gene	complement(1686434..1687104)	pseudogene
+ftu:FTT_1625c	CDS	complement(1687246..1687836)	hypothetical protein
+ftu:FTT_1626c	CDS	complement(1687847..1689253)	hypothetical protein
+ftu:FTT_1627c	CDS	complement(1689250..1690053)	hypothetical protein
+ftu:FTT_1628c	CDS	complement(1690454..1691764)	metal ion transporter
+ftu:FTT_1629c	CDS	complement(1691775..1693454)	hypothetical protein
+ftu:FTT_1630c	CDS	complement(1693525..1694991)	putP; sodium/proline permease
+ftu:FTT_1631c	CDS	complement(1695297..1696283)	glpX; fructose 1,6-bisphosphatase II
+ftu:FTT_1632c	CDS	complement(1696303..1696941)	hypothetical protein
+ftu:FTT_1633c	CDS	complement(1696950..1698404)	amino acid transporter
+ftu:FTT_1634c	CDS	complement(1698652..1699320)	hypothetical protein
+ftu:FTT_1635	CDS	1699442..1701943	ftsK; cell division protein
+ftu:FTT_1636	CDS	1701944..1702561	lolA; lipoprotein releasing system outer membrane lipoproteins carrier
+ftu:FTT_1637c	CDS	complement(1702959..1703162)	hypothetical protein
+ftu:FTT_1638	CDS	1703274..1704728	trkH; potassium uptake protein
+ftu:FTT_1639c	CDS	complement(1704743..1705288)	hypothetical protein
+ftu:FTT_1640c	CDS	complement(1705311..1706012)	hypothetical protein
+ftu:FTT_t33	tRNA	1706190..1706263	tRNA-Met
+ftu:FTT_1641c	gene	complement(1706419..1706997)	hsdR2; pseudogene
+ftu:FTT_1642c	gene	complement(1706937..1707626)	hsdR3; pseudogene
+ftu:FTT_1643	gene	1707692..1708476	isftu1; pseudogene
+ftu:FTT_1644	CDS	1708832..1710256	beta-fructofuranosidase
+ftu:FTT_1645	CDS	1710275..1711507	hypothetical protein
+ftu:FTT_1646	gene	1711749..1712078	dtd; pseudogene
+ftu:FTT_1647c	CDS	complement(1712449..1713195)	pyrD; diyroorotate dehydrogenase
+ftu:FTT_1648c	CDS	complement(1713197..1713841)	pyrF; orotidine 5'-phosphate decarboxylase
+ftu:FTT_1649	gene	1714108..1717491	pseudogene
+ftu:FTT_1650c	CDS	complement(1717533..1718081)	chorismate mutase
+ftu:FTT_1651	CDS	1718233..1718859	hypothetical protein
+ftu:FTT_1652c	CDS	complement(1718860..1719729)	LysR family transcriptional regulator
+ftu:FTT_1653	CDS	1719855..1720262	hypothetical protein
+ftu:FTT_1654	CDS	1720351..1721316	emrA2; HlyD family secretion protein
+ftu:FTT_1655	CDS	1721291..1722355	hypothetical protein
+ftu:FTT_1656c	CDS	complement(1722471..1723022)	hypothetical protein
+ftu:FTT_1657c	gene	complement(1723411..1723689)	pseudogene
+ftu:FTT_1658c	CDS	complement(1723736..1723990)	hypothetical protein
+ftu:FTT_1659	CDS	1724243..1725268	hypothetical protein
+ftu:FTT_1660c	CDS	complement(1725296..1726642)	pyrC; dihydroorotase
+ftu:FTT_1661	CDS	1726774..1727454	tmpT; thiopurine S-methyltransferase
+ftu:FTT_1662c	gene	complement(1727618..1728633)	pseudogene
+ftu:FTT_1663	CDS	1729048..1730214	carA; carbamoyl phosphate synthase small subunit
+ftu:FTT_1664	CDS	1730219..1733503	carB; carbamoyl phosphate synthase large subunit
+ftu:FTT_1665	CDS	1733645..1734565	pyrB; aspartate carbamoyltransferase
+ftu:FTT_1666c	CDS	complement(1734578..1735465)	3-hydroxyisobutyrate dehydrogenase
+ftu:FTT_1667	CDS	1735953..1736189	hypothetical protein
+ftu:FTT_1668	CDS	1736516..1737739	sdaC2; serine transporter
+ftu:FTT_1669	CDS	join(1738723..1739049,1739049..1739507)	isftu1; transposase
+ftu:FTT_1670c	gene	complement(1739584..1740195)	napH; pseudogene
+ftu:FTT_1671	CDS	1740586..1741653	ribD; riboflavin biosynthesis protein ribD
+ftu:FTT_1672	CDS	1741646..1742251	ribB; riboflavin synthase subunit alpha
+ftu:FTT_1673	CDS	1742244..1743455	ribA; 3,4-dihydroxy-2-butanone-4-phosphate synthase
+ftu:FTT_1674	CDS	1743465..1743908	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+ftu:FTT_1675	CDS	1743905..1744429	def2; peptide deformylase
+ftu:FTT_1676	CDS	1744511..1745503	hypothetical protein
+ftu:FTT_1677c	CDS	complement(1745523..1746668)	mnmA; tRNA-specific 2-thiouridylase MnmA
+ftu:FTT_1678c	CDS	complement(1746616..1748400)	lepA; GTP-binding protein LepA
+ftu:FTT_1679	CDS	1748670..1748942	rpsT; 30S ribosomal protein S20
+ftu:FTT_1680c	CDS	complement(1749016..1749372)	olmA; outer membrane lipoprotein
+ftu:FTT_1681c	CDS	complement(1749380..1749976)	lpcA; phosphoheptose isomerase
+ftu:FTT_1682	gene	1750148..1752455	pseudogene
+ftu:FTT_1683c	CDS	complement(1752525..1753676)	major facilitator transporter
+ftu:FTT_1684	CDS	1753773..1754675	transcriptional regulator
+ftu:FTT_1685	gene	1754877..1755763	pseudogene
+ftu:FTT_1686c	CDS	complement(1755756..1756424)	hypothetical protein
+ftu:FTT_1687c	CDS	complement(1756421..1757038)	gidB; 16S rRNA methyltransferase GidB
+ftu:FTT_1688	CDS	1757138..1758343	aromatic amino acid HAAP transporter
+ftu:FTT_1689c	CDS	complement(1758340..1759032)	hypothetical protein
+ftu:FTT_1690	CDS	1759436..1760101	NADH dehydrogenase
+ftu:FTT_1691	CDS	1760372..1760896	hypothetical protein
+ftu:FTT_1692	CDS	join(1760920..1761246,1761246..1761704)	isftu1; transposase
+ftu:FTT_1693c	CDS	complement(1761847..1762611)	hypothetical protein
+ftu:FTT_t34	tRNA	complement(1763167..1763242)	tRNA-Arg
+ftu:FTT_1694c	CDS	complement(1763252..1763686)	hypothetical protein
+ftu:FTT_1695	CDS	1763937..1764224	groES; co-chaperonin GroES
+ftu:FTT_1696	CDS	1764262..1765896	groEL; molecular chaperone GroEL
+ftu:FTT_1697c	CDS	complement(join(1766112..1766570,1766570..1766896))	isftu1; transposase
+ftu:FTT_1698c	CDS	complement(1766954..1767670)	fdh; formate dehydrogenase
+ftu:FTT_r08	rRNA	complement(1768001..1768115)	5S ribosomal RNA
+ftu:FTT_r09	rRNA	complement(1768166..1771027)	23S ribosomal RNA
+ftu:FTT_t35	tRNA	complement(1771102..1771177)	tRNA-Ala
+ftu:FTT_t36	tRNA	complement(1771195..1771268)	tRNA-Ile
+ftu:FTT_r10	rRNA	complement(1771363..1772885)	16S ribosomal RNA
+ftu:FTT_1699	CDS	1773260..1775722	pdpA2; hypothetical protein
+ftu:FTT_1700	CDS	1775727..1779008	pdpB2; hypothetical protein
+ftu:FTT_1701	CDS	1778998..1779375	hypothetical protein
+ftu:FTT_1702	CDS	1779388..1779882	hypothetical protein
+ftu:FTT_1703	CDS	1779887..1781617	hypothetical protein
+ftu:FTT_1704	CDS	1781618..1782139	hypothetical protein
+ftu:FTT_1705	CDS	1782152..1783582	hypothetical protein
+ftu:FTT_1706	CDS	1783595..1784218	hypothetical protein
+ftu:FTT_1707	CDS	1784240..1785391	hypothetical protein
+ftu:FTT_1708	CDS	1785357..1786130	hypothetical protein
+ftu:FTT_1709	CDS	1786170..1790156	pdpC2; hypothetical protein
+ftu:FTT_1710	CDS	1790174..1790749	hypothetical protein
+ftu:FTT_1711c	CDS	complement(1790756..1791961)	iglD2; intracellular growth locus subunit D
+ftu:FTT_1712c	CDS	complement(1791973..1792608)	iglC2; intracellular growth locus subunit C
+ftu:FTT_1713c	CDS	complement(1792619..1794163)	iglB2; intracellular growth locus subunit B
+ftu:FTT_1714c	CDS	complement(1794153..1794743)	iglA2; intracellular growth locus subunit A
+ftu:FTT_1715c	CDS	complement(1794788..1798375)	pdpD2; hypothetical protein
+ftu:FTT_1716c	gene	complement(1798478..1799620)	pseudogene
+ftu:FTT_1717	gene	1799755..1800634	pseudogene
+ftu:FTT_1718c	CDS	complement(join(1800731..1801189,1801189..1801515))	isftu1; transposase
+ftu:FTT_1719c	gene	complement(1801580..1802095)	pseudogene
+ftu:FTT_1720c	CDS	complement(1802073..1805945)	purL; phosphoribosylformylglycinamidine synthase
+ftu:FTT_1721c	CDS	complement(1805945..1807435)	purF; amidophosphoribosyltransferase
+ftu:FTT_1722c	CDS	complement(1807529..1808875)	gad; glutamate decarboxylase
+ftu:FTT_1723c	CDS	complement(1808886..1809530)	hypothetical protein
+ftu:FTT_1724c	CDS	complement(1809536..1811065)	tolC; outer membrane protein TolC
+ftu:FTT_1725c	CDS	complement(1811074..1811694)	pcm; protein-L-isoaspartate O-methyltransferase
+ftu:FTT_1726	CDS	1812014..1813345	yegQ; protease yegQ
+ftu:FTT_1727c	CDS	complement(1813386..1814576)	multidrug resistance protein
+ftu:FTT_1728	CDS	1814742..1816169	nhaD; Na+/H+ antiporter
+ftu:FTT_1729c	gene	complement(1816236..1817748)	abcZ; pseudogene
+ftu:FTT_1730c	CDS	complement(1817820..1819694)	amino acid transporter
+ftu:FTT_1731c	CDS	complement(1819701..1820705)	obgE; GTPase ObgE
+ftu:FTT_1732c	CDS	complement(1820781..1821977)	aromatic amino acid HAAP transporter
+ftu:FTT_1733	gene	1822104..1822559	pseudogene
+ftu:FTT_1734c	gene	complement(1822572..1823216)	fopA2; pseudogene
+ftu:FTT_1735c	gene	complement(1823284..1823954)	kdpE; pseudogene
+ftu:FTT_1736c	CDS	complement(1823996..1826677)	kdpD; two component sensor protein KdpD
+ftu:FTT_1737c	CDS	complement(1826781..1827335)	kdpC; potassium-transporting ATPase subunit C
+ftu:FTT_1738c	CDS	complement(1827352..1829391)	kdpB; potassium-transporting ATPase subunit B
+ftu:FTT_1739c	gene	complement(1829404..1831003)	kdpA; pseudogene
+ftu:FTT_1740c	gene	complement(1831020..1831184)	pseudogene
+ftu:FTT_1741c	gene	complement(1831310..1831750)	pseudogene
+ftu:FTT_1742c	CDS	complement(join(1831850..1832308,1832308..1832634))	isftu1; transposase
+ftu:FTT_1743	gene	1832700..1833197	pseudogene
+ftu:FTT_1744c	CDS	complement(1833371..1835068)	ipdC; indolepyruvate decarboxylase
+ftu:FTT_1745c	gene	complement(1835322..1835525)	pseudogene
+ftu:FTT_1746	CDS	1835599..1836522	peptidase
+ftu:FTT_1747	CDS	1836576..1837151	hypothetical protein
+ftu:FTT_1748	CDS	1837287..1837709	glpe; thiosulfate sulfurtransferase
+ftu:FTT_1749	CDS	1837736..1838185	secB1; preprotein translocase subunit SecB
+ftu:FTT_1750	CDS	1838207..1839286	recA; recombinase A
+ftu:FTT_1751	CDS	1839273..1839725	recX; regulatory protein recX
+ftu:FTT_1752	CDS	1839898..1840374	ssb; single-strand binding protein
+ftu:FTT_1753	CDS	1840480..1841634	tdcD; propionate kinase
+ftu:FTT_1754	CDS	1841644..1843740	pta; phosphate acetyltransferase
+ftu:FTT_1755	gene	1843755..1844671	gabD2; pseudogene
+ftu:FTT_1756c	CDS	complement(join(1844748..1845206,1845206..1845532))	isftu1; transposase
+ftu:FTT_1757c	gene	complement(1845684..1846939)	pseudogene
+ftu:FTT_1758c	CDS	complement(1846969..1847562)	B-type cytochrome
+ftu:FTT_1759c	gene	complement(1847547..1848436)	pseudogene
+ftu:FTT_1760	CDS	1848530..1849681	nhaA; pH-dependent sodium/proton antiporter
+ftu:FTT_1761	CDS	1849746..1850465	hypothetical protein
+ftu:FTT_1762c	CDS	complement(1850471..1851211)	acetyltransferase
+ftu:FTT_1763c	CDS	complement(1851225..1851977)	acetyltransferase
+ftu:FTT_1764c	CDS	complement(1852140..1852463)	ferredoxin
+ftu:FTT_1765	CDS	1852683..1853336	hypothetical protein
+ftu:FTT_1766	CDS	1853414..1854070	O-methyltransferase
+ftu:FTT_1767c	CDS	complement(1854072..1855232)	purT; phosphoribosylglycinamide formyltransferase 2
+ftu:FTT_1768c	CDS	complement(1855286..1857106)	chitinase
+ftu:FTT_1769c	CDS	complement(1857728..1860307)	clpB; ClpB protein
+ftu:FTT_1770	gene	1860527..1861234	pseudogene
+ftu:FTT_1771	CDS	1861326..1861679	hypothetical protein
+ftu:FTT_1772c	CDS	complement(1861734..1862543)	trpA; tryptophan synthase subunit alpha
+ftu:FTT_1773c	CDS	complement(1862543..1863733)	trpB; tryptophan synthase subunit beta
+ftu:FTT_1774c	gene	complement(1863820..1865148)	pseudogene
+ftu:FTT_1775c	CDS	complement(1865149..1866678)	clcA; voltage-gated ClC-type chloride channel clcA
+ftu:FTT_1776c	CDS	complement(1866749..1867147)	hypothetical protein
+ftu:FTT_1777c	CDS	complement(1867150..1867560)	hypothetical protein
+ftu:FTT_1778c	CDS	complement(1867581..1867973)	hypothetical protein
+ftu:FTT_1779	gene	1868146..1868747	pseudogene
+ftu:FTT_1780	CDS	join(1868806..1869132,1869132..1869590)	isftu1; transposase
+ftu:FTT_1781c	CDS	complement(1869829..1870578)	hypothetical protein
+ftu:FTT_1782c	CDS	complement(1870520..1872199)	yjjK; ABC transporter ATP-binding protein
+ftu:FTT_1783	CDS	1872367..1873653	major facilitator transporter
+ftu:FTT_1784c	CDS	complement(1873634..1873942)	hypothetical protein
+ftu:FTT_1785c	CDS	complement(1873954..1874166)	hypothetical protein
+ftu:FTT_1786	gene	1874212..1875190	pseudogene
+ftu:FTT_1787c	CDS	complement(1875200..1875811)	amino acid transporter LysE
+ftu:FTT_1788	gene	1875917..1876833	iciA; pseudogene
+ftu:FTT_1789	CDS	1877112..1877906	hypothetical protein
+ftu:FTT_1790c	gene	complement(1877952..1878251)	pseudogene
+ftu:FTT_1791	CDS	1878315..1878677	hypothetical protein
+ftu:FTT_1792c	gene	complement(1879053..1879736)	pseudogene
+ftu:FTT_1793c	CDS	complement(1879809..1882403)	pepN; aminopeptidase
+ftu:FTT_1794	CDS	1882587..1883015	heat shock protein
+ftu:FTT_1795c	CDS	complement(1883012..1884373)	trpC; bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+ftu:FTT_1796c	CDS	complement(1884464..1884877)	hypothetical protein
+ftu:FTT_1797c	CDS	complement(1884882..1885571)	msrA2; peptide methionine sulfoxide reductase
+ftu:FTT_1798c	CDS	complement(1885655..1886023)	hypothetical protein
+ftu:FTT_1799c	gene	complement(1886019..1886357)	pseudogene
+ftu:FTT_1800c	CDS	complement(1886426..1886878)	hypothetical protein
+ftu:FTT_1801c	CDS	complement(1886940..1887965)	anthranilate phosphoribosyltransferase
+ftu:ST1801a	CDS	complement(1887950..1888528)	anthranilate synthase subunit II
+ftu:FTT_1802c	CDS	complement(1888532..1890076)	trpE; anthranilate synthase subunit I
+ftu:FTT_1803c	CDS	complement(1890085..1890372)	trpR; trp operon repressor
+ftu:FTT_t37	tRNA	complement(1890629..1890705)	tRNA-Asp
+ftu:FTT_t38	tRNA	complement(1890710..1890785)	tRNA-Thr
+ftu:FTT_1804c	CDS	complement(1890846..1892342)	rng; ribonuclease G
