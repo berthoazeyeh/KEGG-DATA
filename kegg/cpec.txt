@@ -1,0 +1,969 @@
+cpec:CPE3_0001	CDS	148..1185	hemB; delta-aminolevulinic acid dehydratase
+cpec:CPE3_0002	CDS	complement(1145..2557)	nqrA; Na(+)-translocating NADH-quinone reductase subunit A
+cpec:CPE3_0003	CDS	complement(2579..3007)	hypothetical protein
+cpec:CPE3_0004	CDS	3121..5274	greA; transcription elongation factor
+cpec:CPE3_0005	tRNA	complement(5276..5348)	tRNA-Ala
+cpec:CPE3_0006	CDS	5421..6620	aromatic amino acid aminotransferase
+cpec:CPE3_0007	CDS	6598..7608	mreC; cell shape-determining protein
+cpec:CPE3_0008	CDS	complement(7568..10684)	recB; exodeoxyribonuclease V, subunit beta
+cpec:CPE3_0009	CDS	complement(10671..13718)	recC; exodeoxyribonuclease V, subunit gamma
+cpec:CPE3_0010	CDS	13717..15414	putative membrane protein
+cpec:CPE3_0011	CDS	complement(15478..16452)	hypothetical protein
+cpec:CPE3_0012	CDS	16665..17291	rpsD; 30S ribosomal protein S4
+cpec:CPE3_0013	CDS	complement(17359..18231)	putative endonuclease IV
+cpec:CPE3_0014	CDS	18297..19934	mviN; MviN
+cpec:CPE3_0015	CDS	20026..21276	hypothetical protein
+cpec:CPE3_0016	CDS	21383..23281	hypothetical protein
+cpec:CPE3_0017	CDS	complement(23430..26057)	hypothetical protein
+cpec:CPE3_0018	CDS	26251..28779	hypothetical protein
+cpec:CPE3_0019	CDS	28872..29048	hypothetical protein
+cpec:CPE3_0020	CDS	complement(29069..29791)	yhbG; putative ABC transporter ATP-binding protein
+cpec:CPE3_0021	CDS	complement(29797..30279)	putative lipoprotein
+cpec:CPE3_0022	CDS	complement(30276..31085)	kdsA; 2-dehydro-3-deoxyphosphooctonate alsolase
+cpec:CPE3_0023	tRNA	31286..31360	tRNA-Arg
+cpec:CPE3_0024	CDS	complement(31418..31654)	hypothetical protein
+cpec:CPE3_0025	CDS	complement(31777..32763)	rluD; ribosomal large chain pseudouridine synthase D
+cpec:CPE3_0026	CDS	complement(32877..33200)	hypothetical protein
+cpec:CPE3_0027	CDS	complement(33203..33493)	hypothetical protein
+cpec:CPE3_0028	CDS	complement(33603..35027)	DNA gyrase/topoisomerase IV, subunit A
+cpec:CPE3_0029	CDS	complement(35030..36835)	DNA topoisomerase IV, subunit B
+cpec:CPE3_0030	CDS	37113..38132	hemA; glutamyl-tRNA reductase
+cpec:CPE3_0031	CDS	38466..38867	putative chaperone protein
+cpec:CPE3_0032	CDS	38888..41341	hypothetical protein
+cpec:CPE3_0033	CDS	41383..41634	hypothetical protein
+cpec:CPE3_0034	CDS	41656..41913	hypothetical protein
+cpec:CPE3_0035	CDS	41932..42381	hypothetical protein
+cpec:CPE3_0036	CDS	42407..43087	hypothetical protein
+cpec:CPE3_0037	CDS	43089..44417	type III secretion ATPase
+cpec:CPE3_0038	CDS	44431..44937	hypothetical protein
+cpec:CPE3_0039	CDS	44942..45805	hypothetical protein
+cpec:CPE3_0040	CDS	45818..46933	type III secretion system protein
+cpec:CPE3_0041	CDS	46946..48439	putative serine/threonine-protein kinase
+cpec:CPE3_0042	CDS	48436..51165	sctC; type III secretion system protein
+cpec:CPE3_0043	tRNA	51318..51390	tRNA-Thr
+cpec:CPE3_0044	CDS	complement(51437..52507)	putative ATP:guanido phosphotransferase
+cpec:CPE3_0045	CDS	complement(52494..53009)	hypothetical protein
+cpec:CPE3_0046	tRNA	complement(53112..53186)	tRNA-Lys
+cpec:CPE3_0047	tRNA	complement(53209..53285)	tRNA-Glu
+cpec:CPE3_0048	CDS	complement(53389..53931)	frr; ribosome recycling factor
+cpec:CPE3_0049	CDS	complement(53915..54658)	pyrH; uridylate kinase
+cpec:CPE3_0050	CDS	complement(54663..55514)	tsf; translation elongation factor Ts
+cpec:CPE3_0051	CDS	complement(55511..56362)	rpsB; 30S ribosomal protein S2
+cpec:CPE3_0052	tRNA	complement(56451..56521)	tRNA-Gly
+cpec:CPE3_0053	CDS	complement(56741..57916)	ompA; major outer membrane protein (MOMP)
+cpec:CPE3_0054	CDS	58392..61637	putative penicillin-binding protein
+cpec:CPE3_0055	CDS	61708..62727	hypothetical protein
+cpec:CPE3_0056	CDS	63008..64462	sufB; FeS assembly protein
+cpec:CPE3_0057	CDS	64470..65234	sufC; FeS assembly ATPase
+cpec:CPE3_0058	CDS	65244..66491	putative ABC transport protein
+cpec:CPE3_0059	CDS	66505..67725	aminotransferase, class V
+cpec:CPE3_0060	CDS	complement(67746..68513)	polysaccharide deacetylase domain protein
+cpec:CPE3_0061	CDS	complement(68654..69328)	hypothetical protein
+cpec:CPE3_0062	CDS	69528..70406	parB; chromosome partitioning protein
+cpec:CPE3_0063	CDS	complement(70510..71499)	dppF; putative peptide ABC transport ATP-binding protein
+cpec:CPE3_0064	CDS	complement(71492..72463)	dppD; putative peptide ABC transport ATP-binding protein
+cpec:CPE3_0065	CDS	72517..73191	hypothetical protein
+cpec:CPE3_0066	CDS	73194..74468	putative phosphate permease
+cpec:CPE3_0067	CDS	74506..75717	pgk; phosphoglycerate kinase
+cpec:CPE3_0068	CDS	75929..77017	hypothetical protein
+cpec:CPE3_0069	CDS	77024..78175	hypothetical protein
+cpec:CPE3_0070	CDS	78277..79404	hypothetical protein
+cpec:CPE3_0071	CDS	79461..80573	RNA methyltransferase
+cpec:CPE3_0072	CDS	complement(80708..81997)	D-alanyl-D-alanine carboxypeptidase
+cpec:CPE3_0073	CDS	82102..82521	hypothetical protein
+cpec:CPE3_0074	CDS	complement(82533..82955)	putative sigma regulatory factor-histidine kinase
+cpec:CPE3_0075	CDS	complement(82942..83532)	hypothetical protein
+cpec:CPE3_0076	CDS	complement(83545..84534)	hypothetical protein
+cpec:CPE3_0077	CDS	84650..85534	hypothetical protein
+cpec:CPE3_0078	CDS	complement(85538..89263)	dnaE; DNA polymerase III subunit alpha
+cpec:CPE3_0079	CDS	complement(89276..90631)	uhpC; sugar phosphate sensor protein UhpC
+cpec:CPE3_0080	CDS	91130..92422	hisS; histidyl-tRNA synthetase
+cpec:CPE3_0081	CDS	92397..94151	aspS; aspartyl-tRNA synthetase
+cpec:CPE3_0082	CDS	94203..94946	mip; Peptidyl-prolyl cis-trans isomerase Mip precursor
+cpec:CPE3_0083	CDS	94943..95401	putative rRNA methylase, SpoU family protein
+cpec:CPE3_0084	CDS	complement(95407..95715)	trxA; thioredoxin
+cpec:CPE3_0085	tRNA	complement(95752..95837)	tRNA-Leu
+cpec:CPE3_0086	CDS	96064..96780	hypothetical protein
+cpec:CPE3_0087	CDS	96759..97196	hypothetical protein
+cpec:CPE3_0088	CDS	97218..97967	dnaQ; DNA polymerase III subunit epsilon
+cpec:CPE3_0089	CDS	98081..98554	cytosolic acyl-CoA thioesterase hydrolase family protein
+cpec:CPE3_0090	CDS	98563..100182	lnt; apolipoprotein N-acyltransferase
+cpec:CPE3_0091	CDS	100212..101060	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+cpec:CPE3_0092	CDS	101073..101531	fabZ; (3R)-hydroxymyristoyl-ACP dehydratase
+cpec:CPE3_0093	CDS	101545..102384	lpxA; acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+cpec:CPE3_0094	CDS	102374..103324	fmt; methionyl-tRNA formyltransferase
+cpec:CPE3_0095	CDS	103426..104355	hypothetical protein
+cpec:CPE3_0096	CDS	104655..105314	rplC; ribosomal protein L3
+cpec:CPE3_0097	CDS	105347..106021	rplD; ribosomal protein L4
+cpec:CPE3_0098	CDS	106036..106374	rplW; 50S ribosomal protein L23
+cpec:CPE3_0099	CDS	106391..107245	rplB; 50S ribosomal protein L2
+cpec:CPE3_0100	CDS	107252..107518	rpsS; 30S ribosomal protein S19
+cpec:CPE3_0101	CDS	107535..107870	rplV; 50S ribosomal protein L22
+cpec:CPE3_0102	CDS	107880..108572	rpsC; 30S ribosomal protein S3
+cpec:CPE3_0103	CDS	108596..109012	rplP; 50S ribosomal protein L16
+cpec:CPE3_0104	CDS	109017..109235	rpmC; 50S ribosomal protein L29
+cpec:CPE3_0105	CDS	109228..109482	rpsQ; 30S ribosomal protein S17
+cpec:CPE3_0106	CDS	109519..109887	rplN; 50S ribosomal protein L14
+cpec:CPE3_0107	CDS	109898..110230	rplX; 50S ribosomal protein L24
+cpec:CPE3_0108	CDS	110232..110774	rplE; 50S ribosomal protein L5
+cpec:CPE3_0109	CDS	110792..111193	rpsH; 30S ribosomal protein S8
+cpec:CPE3_0110	CDS	111223..111774	rplF; 50S ribosomal protein L6
+cpec:CPE3_0111	CDS	111797..112168	rplR; 50S ribosomal protein L18
+cpec:CPE3_0112	CDS	112186..112689	rpsE; 30S ribosomal protein S5
+cpec:CPE3_0113	CDS	112682..113116	rplO; 50S ribosomal protein L15
+cpec:CPE3_0114	CDS	113139..114512	secY; preprotein translocase subunit SecY
+cpec:CPE3_0115	CDS	114568..114936	rpsM; 30S ribosomal protein S13
+cpec:CPE3_0116	CDS	114960..115361	rpsK; 30S ribosomal protein S11
+cpec:CPE3_0117	CDS	115382..116506	rpoA; DNA-directed RNA polymerase, alpha subunit
+cpec:CPE3_0118	CDS	116510..116938	rplQ; 50S ribosomal protein L17
+cpec:CPE3_0119	CDS	116969..117976	gapA; glyceraldehyde-3-phosphate dehydrogenase
+cpec:CPE3_0120	CDS	117991..118827	hypothetical protein
+cpec:CPE3_0121	tRNA	118969..119051	tRNA-Leu
+cpec:CPE3_0122	CDS	119186..119875	hypothetical protein
+cpec:CPE3_0123	CDS	120111..120617	ruvC; crossover junction endodeoxyribonuclease
+cpec:CPE3_0124	CDS	120617..121240	ruvA; Holliday junction DNA helicase
+cpec:CPE3_0125	CDS	121307..121732	ndk; nucleoside diphosphate kinase
+cpec:CPE3_0126	CDS	complement(121746..122459)	lipoate protein ligase-like protein
+cpec:CPE3_0127	CDS	complement(122443..124281)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+cpec:CPE3_0128	CDS	complement(124597..126027)	dnaB; replicative DNA helicase
+cpec:CPE3_0129	tRNA	126268..126355	tRNA-Ser
+cpec:CPE3_0130	CDS	126537..127043	glycerol-3-P phosphatidyltransferase
+cpec:CPE3_0131	CDS	127277..128911	ADP/ATP carrier protein
+cpec:CPE3_0132	CDS	129048..130037	sohB; putative exported protease
+cpec:CPE3_0133	CDS	130056..132692	polA; DNA polymerase I
+cpec:CPE3_0134	CDS	132677..133294	coaE; dephospho-coA kinase
+cpec:CPE3_0135	CDS	133291..134682	rho; transcription termination factor
+cpec:CPE3_0136	CDS	complement(134685..135008)	hypothetical protein
+cpec:CPE3_0137	CDS	135061..135693	pyrE; orotate phosphoribosyltransferase
+cpec:CPE3_0138	CDS	135813..137138	glgC; glucose-1-phosphate adenyltransferase
+cpec:CPE3_0139	CDS	137229..137954	hypothetical protein
+cpec:CPE3_0140	CDS	137951..138505	hypothetical protein
+cpec:CPE3_0141	CDS	138649..139401	putative periplasmic amino acid-binding protein
+cpec:CPE3_0142	CDS	complement(139407..140363)	hemH; ferrochelatase
+cpec:CPE3_0143	CDS	140458..141465	hypothetical protein
+cpec:CPE3_0144	CDS	141528..141848	hypothetical protein
+cpec:CPE3_0145	CDS	142379..144466	oligopeptide ABC transporter
+cpec:CPE3_0146	CDS	144475..145959	oppB; oligopeptide permease
+cpec:CPE3_0147	CDS	145964..147700	oppC; oligopeptide ABC transporter permease protein
+cpec:CPE3_0148	CDS	complement(147697..148221)	ada; putative DNA methyltransferase
+cpec:CPE3_0149	CDS	complement(148234..149202)	hypothetical protein
+cpec:CPE3_0150	CDS	complement(149199..151577)	pheT; phenylalanyl-tRNA synthetase beta chain
+cpec:CPE3_0151	CDS	151679..152755	LysM domain-containing protein
+cpec:CPE3_0152	CDS	complement(152667..152993)	hypothetical protein
+cpec:CPE3_0153	CDS	complement(152974..153762)	hypothetical protein
+cpec:CPE3_0154	tRNA	153880..153962	tRNA-Leu
+cpec:CPE3_0155	CDS	154007..154624	hypothetical protein
+cpec:CPE3_0156	CDS	complement(154577..155317)	recO; DNA repair protein RecO
+cpec:CPE3_0157	CDS	complement(155329..155892)	hypothetical protein
+cpec:CPE3_0158	CDS	complement(155849..156526)	hypothetical protein
+cpec:CPE3_0159	tRNA	complement(156625..156700)	tRNA-Arg
+cpec:CPE3_0160	CDS	complement(156755..157915)	sigma-54 dependent DNA-binding response regulator
+cpec:CPE3_0161	CDS	158075..160975	hypothetical protein
+cpec:CPE3_0162	CDS	complement(160984..162051)	putative 2-component regulatory system-sensor histidine kinase
+cpec:CPE3_0163	CDS	complement(162044..162358)	hypothetical protein
+cpec:CPE3_0164	tRNA	complement(162443..162527)	tRNA-Leu
+cpec:CPE3_0165	CDS	complement(162594..163232)	hypothetical protein
+cpec:CPE3_0166	CDS	163263..163955	hydrolase, haloacid dehalogenase-like family
+cpec:CPE3_0167	CDS	complement(163901..164704)	truA; tRNA pseudouridine synthase A
+cpec:CPE3_0168	CDS	complement(164701..165336)	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+cpec:CPE3_0169	CDS	complement(165329..166294)	putative phosphoesterase
+cpec:CPE3_0170	CDS	complement(166386..166649)	hypothetical protein
+cpec:CPE3_0171	CDS	166948..167982	prfB; peptide chain release factor 2
+cpec:CPE3_0172	CDS	167979..168491	acetyltransferase, GNAT family
+cpec:CPE3_0173	CDS	168536..169051	hypothetical protein
+cpec:CPE3_0174	CDS	169071..169787	hypothetical protein
+cpec:CPE3_0175	CDS	complement(169810..172413)	hypothetical protein
+cpec:CPE3_0176	CDS	172623..173960	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+cpec:CPE3_0177	CDS	complement(173951..175645)	argS; arginyl-tRNA synthetase
+cpec:CPE3_0178	CDS	complement(175649..176296)	1-acyl-sn-glycerol-3-phosphate acyltransferase
+cpec:CPE3_0179	CDS	complement(176293..176943)	cmk; cytidylate kinase
+cpec:CPE3_0180	CDS	complement(176940..177866)	cdsA; phosphatidate cytidylyltransferase
+cpec:CPE3_0181	CDS	complement(177866..178624)	uppS; undecaprenyl diphosphate synthase
+cpec:CPE3_0182	CDS	178984..180075	hypothetical protein
+cpec:CPE3_0183	CDS	180199..184407	secD_secF; bifunctional preprotein translocase subunit SecD/SecF
+cpec:CPE3_0184	CDS	184483..186234	recJ; single-stranded-DNA-specific exonuclease
+cpec:CPE3_0185	CDS	186305..187462	hypothetical protein
+cpec:CPE3_0186	CDS	187615..188721	hypothetical protein
+cpec:CPE3_0187	CDS	189021..189566	hypothetical protein
+cpec:CPE3_0188	CDS	189804..191321	gltX; glutamyl-tRNA synthetase
+cpec:CPE3_0189	CDS	complement(191324..191521)	hypothetical protein
+cpec:CPE3_0190	CDS	191922..192170	cysteine-rich outer membrane lipoprotein
+cpec:CPE3_0191	CDS	192343..194019	cysteine-rich outer membrane protein
+cpec:CPE3_0192	CDS	194218..194781	cysteine-rich outer membrane protein
+cpec:CPE3_0193	CDS	complement(194819..196771)	putative exported protease
+cpec:CPE3_0194	CDS	complement(196895..197185)	hypothetical protein
+cpec:CPE3_0195	CDS	197307..198251	hypothetical protein
+cpec:CPE3_0196	CDS	198448..198819	rpsL; 30S ribosomal protein S12
+cpec:CPE3_0197	CDS	198859..199332	rpsG; 30S ribosomal protein S7
+cpec:CPE3_0198	CDS	199366..201450	fusA; translation elongation factor G
+cpec:CPE3_0199	CDS	201458..201775	rpsJ; 30S ribosomal protein S10
+cpec:CPE3_0200	CDS	201788..202849	putative oxidoreductase
+cpec:CPE3_0201	CDS	complement(202843..203385)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+cpec:CPE3_0202	tRNA	203685..203759	tRNA-Phe
+cpec:CPE3_0203	CDS	203897..204217	rplU; 50S ribosomal protein L21
+cpec:CPE3_0204	CDS	204242..204490	rpmA; 50S ribosomal protein L27
+cpec:CPE3_0205	CDS	204597..205607	obgE; GTP-binding protein
+cpec:CPE3_0206	CDS	complement(205505..206401)	putative transport protein
+cpec:CPE3_0207	CDS	complement(206394..207113)	ABC transporter, ATP-binding protein
+cpec:CPE3_0208	CDS	complement(207110..207937)	solute-binding protein
+cpec:CPE3_0209	tRNA	208096..208183	tRNA-Ser
+cpec:CPE3_0210	CDS	complement(208196..213229)	polymorphic membrane protein
+cpec:CPE3_0211	CDS	complement(213393..216236)	polymoprphic membrane protein
+cpec:CPE3_0212	CDS	complement(216386..216694)	hypothetical protein
+cpec:CPE3_0213	CDS	complement(216710..217051)	hypothetical protein
+cpec:CPE3_0214	CDS	complement(217213..218565)	sodium/alanine symporter family protein
+cpec:CPE3_0215	CDS	complement(218632..219132)	lspA; lipoprotein signal peptidase
+cpec:CPE3_0216	CDS	complement(219138..219512)	dksA; DnaK suppressor
+cpec:CPE3_0217	CDS	complement(219536..219994)	nrdR; transcriptional regulator, NrdR family
+cpec:CPE3_0218	CDS	220186..220779	ribE; riboflavin synthase, alpha subunit
+cpec:CPE3_0219	CDS	220785..221612	putative SAM dependent methyltransferase
+cpec:CPE3_0220	CDS	221600..222400	spoU rRNA methylase family protein
+cpec:CPE3_0221	CDS	222592..223692	lpxK; tetraacyldisaccharide 4'-kinase
+cpec:CPE3_0222	CDS	223689..224933	gltT; putative glutamate symport protein
+cpec:CPE3_0223	CDS	224954..226111	branched-chain alpha-keto acid dehydrogenase subunit
+cpec:CPE3_0224	CDS	226142..227131	hypothetical protein
+cpec:CPE3_0225	CDS	complement(227559..228323)	hypothetical protein
+cpec:CPE3_0226	CDS	complement(228506..229561)	hypothetical protein
+cpec:CPE3_0227	CDS	complement(229653..229937)	hypothetical protein
+cpec:CPE3_0228	CDS	complement(229971..230732)	hemD; uroporphyrinogen-III synthase
+cpec:CPE3_0229	CDS	230806..232290	glyA; serine hydroxymethyltransferase
+cpec:CPE3_0230	CDS	232309..232884	ATP-dependent Clp protease proteolytic subunit
+cpec:CPE3_0231	CDS	232853..233683	dapF; diaminopimelate epimerase
+cpec:CPE3_0232	CDS	233786..234775	hypothetical protein
+cpec:CPE3_0233	CDS	234929..236836	hypothetical protein
+cpec:CPE3_0234	CDS	complement(236833..237537)	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+cpec:CPE3_0235	CDS	complement(237512..238303)	hypothetical protein
+cpec:CPE3_0236	CDS	complement(238276..239394)	hypothetical protein
+cpec:CPE3_0237	CDS	complement(239598..241463)	hypothetical protein
+cpec:CPE3_0238	CDS	complement(241525..241875)	rsbV; sigma regulatory factor
+cpec:CPE3_0239	CDS	complement(241913..243121)	hypothetical protein
+cpec:CPE3_0240	CDS	complement(243123..243596)	hypothetical protein
+cpec:CPE3_0241	CDS	complement(243626..243787)	hypothetical protein
+cpec:CPE3_0242	CDS	complement(243807..243968)	hypothetical protein
+cpec:CPE3_0243	CDS	complement(244079..244741)	hypothetical protein
+cpec:CPE3_0244	CDS	complement(244807..245385)	methylpuring-DNA glycosylase family protein
+cpec:CPE3_0245	CDS	complement(245390..247414)	ribonuclease family protein
+cpec:CPE3_0246	CDS	complement(247555..249540)	dnaK; molecular chaperone
+cpec:CPE3_0247	CDS	complement(249557..250111)	grpE; heat shock protein
+cpec:CPE3_0248	CDS	complement(250108..251271)	hrcA; heat-inducible transcription repressor
+cpec:CPE3_0249	CDS	complement(251366..253099)	proS; prolyl-tRNA synthetase
+cpec:CPE3_0250	CDS	253333..254463	hypothetical protein
+cpec:CPE3_0251	CDS	254740..255657	hypothetical protein
+cpec:CPE3_0252	CDS	255666..255935	hypothetical protein
+cpec:CPE3_0253	CDS	complement(255932..256957)	hypothetical protein
+cpec:CPE3_0254	CDS	complement(256954..258144)	putative aminotransferase
+cpec:CPE3_0255	CDS	258402..259622	hypothetical protein
+cpec:CPE3_0256	CDS	complement(259619..261697)	hypothetical protein
+cpec:CPE3_0257	CDS	261831..262697	hypothetical protein
+cpec:CPE3_0258	CDS	262700..263035	HIT family protein
+cpec:CPE3_0259	CDS	263206..264681	hypothetical protein
+cpec:CPE3_0260	CDS	complement(264697..264993)	hypothetical protein
+cpec:CPE3_0261	CDS	265249..266601	sodium:solute symporter family protein
+cpec:CPE3_0262	CDS	complement(266646..266840)	hypothetical protein
+cpec:CPE3_0263	CDS	complement(266945..267793)	aroG; 3-deoxy-7-phosphoheptulonate synthase
+cpec:CPE3_0264	CDS	complement(267805..270762)	hypothetical protein
+cpec:CPE3_0265	CDS	270902..271660	amino acid ABC transporter, periplasmic amino acid-binding protein
+cpec:CPE3_0266	CDS	271747..272427	hypothetical protein
+cpec:CPE3_0267	CDS	272475..273266	phnP; metal dependent hydrolase
+cpec:CPE3_0268	CDS	273338..274603	GTP binding protein
+cpec:CPE3_0269	CDS	274691..275968	hypothetical protein
+cpec:CPE3_0270	CDS	275968..276960	hypothetical protein
+cpec:CPE3_0271	CDS	276973..279135	glgB; 1,4-alpha-glucan branching enzyme
+cpec:CPE3_0272	CDS	279305..281038	hypothetical protein
+cpec:CPE3_0273	CDS	281176..282702	hypothetical protein
+cpec:CPE3_0274	CDS	282909..284969	hypothetical protein
+cpec:CPE3_0275	CDS	complement(284971..287838)	polymorphic membrane protein
+cpec:CPE3_0276	CDS	complement(287866..290799)	polymorphic membrane protein
+cpec:CPE3_0277	CDS	complement(290898..293909)	polymorphic membrane protein
+cpec:CPE3_0278	CDS	complement(293934..296984)	polymorphic membrane protein
+cpec:CPE3_0279	CDS	complement(297158..298447)	hypothetical protein
+cpec:CPE3_0280	CDS	299375..299827	hypothetical protein
+cpec:CPE3_0281	CDS	complement(299855..302725)	polymorphic membrane protein
+cpec:CPE3_0282	CDS	complement(302770..305229)	polymorphic membrane protein
+cpec:CPE3_0283	CDS	complement(305347..308538)	polymorphic membrane protein
+cpec:CPE3_0284	CDS	complement(308979..311639)	polymorphic membrane protein
+cpec:CPE3_0285	CDS	complement(311723..314536)	polymorphic membrane protein
+cpec:CPE3_0286	CDS	complement(314647..317493)	polymorphic membrane protein
+cpec:CPE3_0287	CDS	complement(317630..322027)	polymorphic membrane protein
+cpec:CPE3_0288	CDS	complement(322207..322488)	hypothetical protein
+cpec:CPE3_0289	CDS	322704..323006	gatC; glutamyl-tRNA amidotransferase, subunit C
+cpec:CPE3_0290	CDS	323020..324480	gatA; glutamyl-tRNA amidotransferase, subunit A
+cpec:CPE3_0291	CDS	324497..325966	gatB; glutamyl-tRNA amidotransferase, subunit B
+cpec:CPE3_0292	CDS	complement(326217..327353)	hypothetical protein
+cpec:CPE3_0293	CDS	complement(327546..328037)	hypothetical protein
+cpec:CPE3_0294	CDS	complement(328135..329085)	hypothetical protein
+cpec:CPE3_0295	CDS	complement(329281..330177)	rnhC; ribonuclease HIII
+cpec:CPE3_0296	CDS	330298..330729	hypothetical protein
+cpec:CPE3_0297	CDS	complement(330777..332072)	hypothetical protein
+cpec:CPE3_0298	CDS	332294..333181	hypothetical protein
+cpec:CPE3_0299	CDS	333327..334250	hypothetical protein
+cpec:CPE3_0300	tRNA	complement(334149..334237)	tRNA-Ser
+cpec:CPE3_0301	CDS	334481..336589	hypothetical protein
+cpec:CPE3_0302	CDS	336700..337779	hypothetical protein
+cpec:CPE3_0303	CDS	337792..338628	ksgA; dimethyladenosine transferase
+cpec:CPE3_0304	CDS	complement(339361..341307)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+cpec:CPE3_0305	CDS	complement(341311..341568)	hypothetical protein
+cpec:CPE3_0306	CDS	complement(341575..341802)	xseB; exodeoxyribonuclease VII, small subunit
+cpec:CPE3_0307	CDS	complement(341806..343470)	xseA; exodeoxyribonuclease VII, large subunit
+cpec:CPE3_0308	CDS	343604..344383	tpiA; triosephosphate isomerase
+cpec:CPE3_0309	CDS	344600..344920	secG; preprotein translocase, SecG subunit
+cpec:CPE3_0310	CDS	345189..345749	def; peptide deformylase
+cpec:CPE3_0311	CDS	complement(345746..347854)	hypothetical protein
+cpec:CPE3_0312	CDS	complement(347864..349567)	hypothetical protein
+cpec:CPE3_0313	CDS	complement(349549..350142)	maf; Maf-like protein
+cpec:CPE3_0314	CDS	complement(350190..351779)	ABC transporter, ATP binding protein
+cpec:CPE3_0315	CDS	complement(351831..352769)	site-specific recombinase, phage integrase family
+cpec:CPE3_0316	CDS	complement(352814..353734)	ribonuclease Z
+cpec:CPE3_0317	CDS	complement(353824..354600)	hypothetical protein
+cpec:CPE3_0318	CDS	complement(354714..357167)	lon; ATP-dependent protease La
+cpec:CPE3_0319	CDS	357573..358217	putative glycoprotease family protein
+cpec:CPE3_0320	CDS	358393..358569	rpsU; 30S ribosomal protein S21
+cpec:CPE3_0321	CDS	358604..359782	dnaJ; chaperone protein
+cpec:CPE3_0322	CDS	359817..361853	2-oxoisovalerate dehydrogenase, E1 component, alpha and beta subunit
+cpec:CPE3_0323	CDS	complement(361863..363017)	hypothetical protein
+cpec:CPE3_0324	CDS	complement(363177..364631)	hypothetical protein
+cpec:CPE3_0325	CDS	364604..365395	hypothetical protein
+cpec:CPE3_0326	CDS	365364..365714	ptsH; phosphocarrier protein HPr
+cpec:CPE3_0327	CDS	365707..367422	ptsI; phosphoenolypyruvate-protein phosphotransferase
+cpec:CPE3_0328	CDS	complement(367419..367709)	hypothetical protein
+cpec:CPE3_0329	CDS	complement(367716..369041)	dnaX; DNA polymerase III, subunits gamma and tau
+cpec:CPE3_0330	CDS	complement(369230..369604)	hypothetical protein
+cpec:CPE3_0331	CDS	complement(369751..370464)	hemC; porphobilinogen deaminase, dipyromethane cofactor binding domain protein
+cpec:CPE3_0332	CDS	complement(370442..371788)	radA; DNA repair protein RadA
+cpec:CPE3_0333	CDS	complement(371772..372467)	rnc; ribonuclease III
+cpec:CPE3_0334	CDS	372582..373052	hypothetical protein
+cpec:CPE3_0335	CDS	373142..374935	phosphoglucomutase/phosphomannomutase family protein
+cpec:CPE3_0336	CDS	375096..375719	superoxide dismutase
+cpec:CPE3_0337	CDS	375798..376724	accD; acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+cpec:CPE3_0338	CDS	376765..377208	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+cpec:CPE3_0339	CDS	377210..377683	PTS fructose-specific enzyme IIBC component
+cpec:CPE3_0340	CDS	377688..378368	ptsN; PTS system IIA protein
+cpec:CPE3_0341	CDS	378467..379525	hypothetical protein
+cpec:CPE3_0342	CDS	379639..381219	hypothetical protein
+cpec:CPE3_0343	CDS	complement(381223..382287)	hypothetical protein
+cpec:CPE3_0344	CDS	complement(382354..382719)	hypothetical protein
+cpec:CPE3_0345	CDS	382941..384026	mnmA; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+cpec:CPE3_0346	CDS	complement(384004..386547)	clpC; ATP-dependent Clp protease, ATP-binding subunit
+cpec:CPE3_0347	CDS	386750..387469	lplA; lipoate protein ligase-like protein
+cpec:CPE3_0348	CDS	387466..388881	phospholipase D family protein
+cpec:CPE3_0349	CDS	389019..391079	hypothetical protein
+cpec:CPE3_0350	CDS	391092..391436	glycine cleavage system protein H
+cpec:CPE3_0351	CDS	391597..391908	hypothetical protein
+cpec:CPE3_0352	CDS	391912..392241	hypothetical protein
+cpec:CPE3_0353	CDS	complement(392236..393030)	nqrE; Na(+)-translocating NADH-quinone reductase subunit E
+cpec:CPE3_0354	CDS	complement(393035..393676)	nqrD; Na(+)-translocating NADH-quinone reductase subunit D
+cpec:CPE3_0355	CDS	complement(393673..394635)	nqrC; Na(+)-translocating NADH-quinone reductase subunit C
+cpec:CPE3_0356	CDS	complement(394639..396150)	nqrB; Na(+)-translocating NADH-quinone reductase subunit B
+cpec:CPE3_0357	CDS	396230..396808	hypothetical protein
+cpec:CPE3_0358	CDS	complement(396774..397373)	hypothetical protein
+cpec:CPE3_0359	CDS	complement(397389..398741)	dnaA; chromosomal replication initiation protein
+cpec:CPE3_0360	CDS	complement(398912..399340)	hypothetical protein
+cpec:CPE3_0361	CDS	complement(399346..399900)	hypothetical protein
+cpec:CPE3_0362	CDS	400062..400952	mraW; S-adenosyl-methyltransferase
+cpec:CPE3_0363	CDS	400949..401236	hypothetical protein
+cpec:CPE3_0364	CDS	401223..403166	penicillin-binding protein
+cpec:CPE3_0365	CDS	403384..404835	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+cpec:CPE3_0366	CDS	404828..405502	N-acetylmuramoyl-L-alanine amidase
+cpec:CPE3_0367	tRNA	complement(405524..405599)	tRNA-Arg
+cpec:CPE3_0368	CDS	405864..406166	himD; histone-like DNA binding protein
+cpec:CPE3_0369	CDS	406293..407477	hypothetical protein
+cpec:CPE3_0370	CDS	407570..408547	accA; acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
+cpec:CPE3_0371	CDS	408510..410420	ABC transporter, ATP-binding protein
+cpec:CPE3_0372	CDS	complement(410437..411117)	hypothetical protein
+cpec:CPE3_0373	CDS	complement(411110..411871)	hypothetical protein
+cpec:CPE3_0374	CDS	complement(411868..412566)	dnaQ_1; DNA polymerase III, subunit epsilon
+cpec:CPE3_0375	CDS	complement(412579..413055)	hypothetical protein
+cpec:CPE3_0376	CDS	complement(413096..413569)	hypothetical protein
+cpec:CPE3_0377	CDS	413830..414717	HAD type hydrolase/phosphatase
+cpec:CPE3_0378	CDS	complement(414707..415603)	enoyl-(acyl carrier protein) reductase
+cpec:CPE3_0379	CDS	415793..417493	hypothetical protein
+cpec:CPE3_0380	CDS	418097..419125	hypothetical protein
+cpec:CPE3_0381	CDS	419490..421283	hypothetical protein
+cpec:CPE3_0382	CDS	complement(421299..422126)	rluC; ribosomal large subunit pseudouridine synthase C
+cpec:CPE3_0383	CDS	422186..423283	putative adenine glycosylase
+cpec:CPE3_0384	CDS	423299..423691	MazG nucleotide pyrophosphohydrolase domain protein
+cpec:CPE3_0385	CDS	complement(423868..424644)	hypothetical protein
+cpec:CPE3_0386	CDS	complement(424661..425332)	hypothetical protein
+cpec:CPE3_0387	CDS	425857..426594	Protein phosphatase 2C family protein
+cpec:CPE3_0388	CDS	426612..427727	aminotransferase class-V family protein
+cpec:CPE3_0389	CDS	complement(427722..428936)	putative transport protein
+cpec:CPE3_0390	CDS	complement(428929..430164)	CBS domain-containing protein
+cpec:CPE3_0391	CDS	complement(430167..430496)	hypothetical protein
+cpec:CPE3_0392	CDS	complement(430506..431078)	dcd; deoxycytidine triphosphate deaminase
+cpec:CPE3_0393	CDS	431310..432302	ruvB; Holliday junction DNA helicase
+cpec:CPE3_0394	CDS	432326..433144	hypothetical protein
+cpec:CPE3_0395	CDS	complement(433137..435119)	glycosyl hydrolase family protein
+cpec:CPE3_0396	CDS	435252..435752	hypothetical protein
+cpec:CPE3_0397	CDS	435882..436376	Single-stranded DNA-binding protein
+cpec:CPE3_0398	CDS	436420..437913	hypothetical protein
+cpec:CPE3_0399	CDS	438052..438624	histone H1-like protein Hc2
+cpec:CPE3_0400	CDS	438780..439718	hypothetical protein
+cpec:CPE3_0401	CDS	439715..440428	SAM-dependent methyltransferase
+cpec:CPE3_0402	CDS	complement(440434..441555)	hemN; oxygen-independent coproporphyrinogen III oxidase, putative
+cpec:CPE3_0403	CDS	complement(441545..441994)	hypothetical protein
+cpec:CPE3_0404	CDS	442139..444853	sucA; 2-oxoglutarate dehydrogenase E1 component
+cpec:CPE3_0405	CDS	444857..445933	sucB; 2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase
+cpec:CPE3_0406	CDS	complement(445942..446676)	hypothetical protein
+cpec:CPE3_0407	CDS	complement(446692..448494)	gcpE; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+cpec:CPE3_0408	CDS	complement(448696..449154)	hypothetical protein
+cpec:CPE3_0409	CDS	complement(449263..450396)	hypothetical protein
+cpec:CPE3_0410	CDS	complement(450441..450734)	hypothetical protein
+cpec:CPE3_0411	CDS	complement(451007..451282)	fer; ferredoxin IV
+cpec:CPE3_0412	tRNA	complement(451317..451395)	tRNA-Pro
+cpec:CPE3_0413	CDS	451499..453295	type III secretion system protein
+cpec:CPE3_0414	CDS	453400..454170	RNA polymerase sigma factor
+cpec:CPE3_0415	CDS	454574..455812	tyrS; tyrosyl-tRNA synthetase
+cpec:CPE3_0416	CDS	455829..457274	gnd; 6-phosphogluconate dehydrogenase, decarboxylating
+cpec:CPE3_0417	CDS	complement(457280..459091)	lepA; GTP-binding protein
+cpec:CPE3_0418	CDS	459313..460614	hypothetical protein
+cpec:CPE3_0419	CDS	460753..462060	hypothetical protein
+cpec:CPE3_0420	CDS	complement(462157..463758)	ADP/ATP carrier protein
+cpec:CPE3_0421	CDS	complement(463910..464416)	hypothetical protein
+cpec:CPE3_0422	CDS	464827..465801	ABC transporter, periplasmic substrate-binding protein, putative
+cpec:CPE3_0423	CDS	465794..466573	ABC transporter, ATP-binding protein
+cpec:CPE3_0424	CDS	466575..467924	ABC transporter, permease protein, putative
+cpec:CPE3_0425	CDS	467927..468880	ABC transporter, permease protein
+cpec:CPE3_0426	CDS	468947..470086	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+cpec:CPE3_0427	CDS	470095..471957	metalloprotease
+cpec:CPE3_0428	CDS	complement(471947..472885)	hypothetical protein
+cpec:CPE3_0429	CDS	complement(473023..474099)	recF; recombination protein F
+cpec:CPE3_0430	CDS	complement(474099..475202)	dnaN; DNA polymerase III, beta subunit
+cpec:CPE3_0431	CDS	475422..475874	smpB; SsrA-binding protein
+cpec:CPE3_0432	CDS	complement(475855..476796)	apbE; thiamine biosynthesis lipoprotein
+cpec:CPE3_0433	CDS	complement(476766..477629)	folD; bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase
+cpec:CPE3_0434	CDS	complement(477620..478132)	hypothetical protein
+cpec:CPE3_0435	CDS	478367..478666	late transcription unit B protein
+cpec:CPE3_0436	CDS	479069..480829	hypothetical protein
+cpec:CPE3_0437	CDS	480838..481338	hypothetical protein
+cpec:CPE3_0438	CDS	complement(481348..482388)	phospholipase D family protein
+cpec:CPE3_0439	CDS	complement(482480..484219)	3-octaprenyl-4-hydroxybenzoate carboxy-lyase family protein
+cpec:CPE3_0440	CDS	complement(484256..484525)	rpmB; 50S ribosomal protein L28
+cpec:CPE3_0441	CDS	complement(484689..486263)	malQ; 4-alpha-glucanotransferase
+cpec:CPE3_0442	CDS	complement(486270..486713)	type III secretion chaperone
+cpec:CPE3_0443	CDS	complement(486717..487907)	type III secretion system protein
+cpec:CPE3_0444	CDS	complement(487937..490069)	type III secretion system protein
+cpec:CPE3_0445	CDS	complement(490069..491148)	type III secretion system protein
+cpec:CPE3_0446	CDS	491429..492523	ychF; putative GTP-binding protein
+cpec:CPE3_0447	CDS	complement(492520..493416)	ribF; riboflavin biosynthesis protein
+cpec:CPE3_0448	CDS	complement(493400..494107)	truB; tRNA pseudouridine synthase B
+cpec:CPE3_0449	CDS	complement(494152..494511)	rbfA; ribosome-binding factor A
+cpec:CPE3_0450	CDS	complement(494522..497158)	infB; translation initiation factor IF-2
+cpec:CPE3_0451	CDS	complement(497115..498422)	nusA; transcription termination factor NusA
+cpec:CPE3_0452	CDS	complement(498491..500233)	rpsA; 30S ribosomal protein S1
+cpec:CPE3_0453	CDS	500403..501338	trxB; thioredoxin-disulfide reductase
+cpec:CPE3_0454	CDS	complement(501330..501698)	acpS; holo-(acyl-carrier-protein) synthase
+cpec:CPE3_0455	CDS	complement(501719..502162)	hypothetical protein
+cpec:CPE3_0456	CDS	502234..503103	lgt; prolipoprotein diacylglyceryl transferase
+cpec:CPE3_0457	CDS	503202..505583	putative inner membrane protein
+cpec:CPE3_0458	CDS	505649..507034	dnaA_1; chromosomal replication initiation protein
+cpec:CPE3_0459	CDS	complement(507041..507442)	hypothetical protein
+cpec:CPE3_0460	CDS	507663..510134	glgP; glycogen phosphorylase
+cpec:CPE3_0461	CDS	complement(510146..511429)	pdhC; pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+cpec:CPE3_0462	CDS	complement(511436..512422)	pdhB; pyruvate dehydrogenase, E1 component, beta subunit
+cpec:CPE3_0463	CDS	complement(512415..513440)	pdhA; pyruvate dehydrogenase, E1 component, alpha subunit
+cpec:CPE3_0464	CDS	513600..514628	hypothetical protein
+cpec:CPE3_0465	CDS	complement(514632..515714)	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+cpec:CPE3_0466	CDS	complement(515736..516251)	putative OmpH-like membrane protein
+cpec:CPE3_0467	CDS	complement(516327..518687)	putative outer membrane protein, OMP85-like protein
+cpec:CPE3_0468	CDS	complement(518867..519475)	recR; recombination protein RecR
+cpec:CPE3_0469	CDS	519595..520590	fabH; 3-oxoacyl-(acyl carrier protein) synthase III
+cpec:CPE3_0470	CDS	520599..521516	fabD; malonyl CoA-acyl carrier protein transacylase
+cpec:CPE3_0471	CDS	521521..522264	fabG; 3-oxoacyl-(acyl-carrier-protein) reductase
+cpec:CPE3_0472	CDS	522377..522616	acpP; acyl carrier protein
+cpec:CPE3_0473	CDS	complement(522709..523143)	cAMP-dependent protein kinase regulatory chain
+cpec:CPE3_0474	CDS	complement(523165..525942)	hypothetical protein
+cpec:CPE3_0475	CDS	complement(526036..526620)	incC; inclusion membrane protein
+cpec:CPE3_0476	CDS	complement(526725..527177)	incB; inclusion membrane protein
+cpec:CPE3_0477	CDS	complement(527272..528744)	sodium symporter-family membrane transport protein
+cpec:CPE3_0478	CDS	complement(528771..529967)	sodium:dicarboxylate symporter family protein
+cpec:CPE3_0479	CDS	530061..531149	hypothetical protein
+cpec:CPE3_0480	CDS	531398..533512	hypothetical protein
+cpec:CPE3_0481	CDS	533539..534951	mgtE; magnesium transporter
+cpec:CPE3_0482	CDS	535138..536544	hypothetical protein
+cpec:CPE3_0483	CDS	complement(536566..537969)	amino acid permease family protein
+cpec:CPE3_0484	CDS	complement(537989..539038)	fructose-bisphosphate aldolase
+cpec:CPE3_0485	CDS	539201..540838	hypothetical protein
+cpec:CPE3_0486	CDS	540949..541977	ABC transporter, ATP-binding component
+cpec:CPE3_0487	CDS	541982..542647	ABC transporter permease
+cpec:CPE3_0488	CDS	542657..543472	lipoprotein, NPLA family
+cpec:CPE3_0489	CDS	543481..543900	hypothetical protein
+cpec:CPE3_0490	CDS	544043..544657	hypothetical protein
+cpec:CPE3_0491	CDS	544778..545116	hypothetical protein
+cpec:CPE3_0492	CDS	545120..547525	gyrB; DNA gyrase, subunit B
+cpec:CPE3_0493	CDS	547540..550029	gyrA; DNA gyrase subunit A
+cpec:CPE3_0494	CDS	550041..550661	tmk; thymidylate kinase
+cpec:CPE3_0495	CDS	550652..551530	dnaX_1; DNA polymerase III subunit delta'
+cpec:CPE3_0496	CDS	complement(551535..552263)	phospholipase/carboxylesterase family protein
+cpec:CPE3_0497	CDS	552468..553340	Sua5 family protein
+cpec:CPE3_0498	CDS	553337..554299	putative dipeptidase
+cpec:CPE3_0499	CDS	complement(554328..554858)	hypothetical protein
+cpec:CPE3_0500	CDS	complement(554942..555922)	hypothetical protein
+cpec:CPE3_0501	CDS	556267..557163	ubiA; 4-hydroxybenzoate polyprenyltransferase
+cpec:CPE3_0502	CDS	557167..557745	ubiD; phenylacrylic acid decarboxylase
+cpec:CPE3_0503	CDS	complement(557749..558642)	hypothetical protein
+cpec:CPE3_0504	tRNA	complement(558665..558740)	tRNA-Asp
+cpec:CPE3_0505	tRNA	complement(558743..558817)	tRNA-Val
+cpec:CPE3_0506	CDS	complement(558912..559745)	surE; stationary phase survival protein SurE
+cpec:CPE3_0507	CDS	complement(559791..560534)	PP-loop type ATPase
+cpec:CPE3_0508	CDS	560661..561158	protein translocase subunit
+cpec:CPE3_0509	tRNA	561221..561295	tRNA-Thr
+cpec:CPE3_0510	tRNA	561305..561389	tRNA-Tyr
+cpec:CPE3_0511	CDS	561535..562371	hypothetical protein
+cpec:CPE3_0512	CDS	562416..563216	hypothetical protein
+cpec:CPE3_0513	CDS	563218..564054	hypothetical protein
+cpec:CPE3_0514	CDS	complement(564075..565460)	putative tRNA modification enzyme
+cpec:CPE3_0515	CDS	565552..565710	rpmG; 50S ribosomal protein L33
+cpec:CPE3_0516	CDS	565765..567270	putative permease
+cpec:CPE3_0517	CDS	567273..567944	ABC transporter, ATP-binding protein
+cpec:CPE3_0518	CDS	568074..568523	rplM; 50S ribosomal protein L13
+cpec:CPE3_0519	CDS	568537..568938	rpsI; 30S ribosomal protein S9
+cpec:CPE3_0520	CDS	complement(568977..569840)	polysaccharide hydrolase-invasin repeat family protein
+cpec:CPE3_0521	CDS	complement(569858..570499)	adk; adenylate kinase
+cpec:CPE3_0522	CDS	570750..571220	hypothetical protein
+cpec:CPE3_0523	CDS	571451..571894	hypothetical protein
+cpec:CPE3_0524	CDS	572290..573441	hypothetical protein
+cpec:CPE3_0525	CDS	complement(573470..574243)	pgl; 6-phosphogluconolactonase
+cpec:CPE3_0526	CDS	complement(574260..575795)	zwf; glucose-6-phosphate 1-dehydrogenase
+cpec:CPE3_0527	CDS	complement(575900..576340)	putative holliday junction resolvase
+cpec:CPE3_0528	CDS	complement(576333..577946)	pyrG; CTP synthetase
+cpec:CPE3_0529	CDS	complement(577922..578686)	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+cpec:CPE3_0530	CDS	578861..579556	hypothetical protein
+cpec:CPE3_0531	CDS	579767..580663	hypothetical protein
+cpec:CPE3_0532	tRNA	580748..580822	tRNA-Ala
+cpec:CPE3_0533	tRNA	580826..580901	tRNA-Ile
+cpec:CPE3_0534	CDS	580929..581630	ABC transporter, ATP-binding protein
+cpec:CPE3_0535	CDS	581660..582331	hypothetical protein
+cpec:CPE3_0536	CDS	complement(582338..583567)	hypothetical protein
+cpec:CPE3_0537	CDS	583746..584459	hypothetical protein
+cpec:CPE3_0538	CDS	584452..584856	dsbB; disulfide bond formation protein, DsbB family protein
+cpec:CPE3_0539	CDS	complement(585027..586145)	tgt; queuine tRNA-ribosyltransferase
+cpec:CPE3_0540	CDS	586353..586835	hypothetical protein
+cpec:CPE3_0541	CDS	complement(586806..587501)	hypothetical protein
+cpec:CPE3_0542	CDS	complement(587743..588786)	hypothetical protein
+cpec:CPE3_0543	CDS	complement(589172..589588)	hypothetical protein
+cpec:CPE3_0544	CDS	complement(589783..590568)	hypothetical protein
+cpec:CPE3_0545	CDS	complement(590840..591241)	hypothetical protein
+cpec:CPE3_0546	CDS	591433..592503	inosine-5'-monophosphate dehydrogenase
+cpec:CPE3_0547	CDS	592524..594065	guaA; GMP synthase
+cpec:CPE3_0548	CDS	594068..595441	adenosine/AMP deaminase superfamily
+cpec:CPE3_0549	CDS	complement(595765..598119)	MAC/perforin domain protein
+cpec:CPE3_0550	CDS	complement(598909..600057)	phospholipase D family protein
+cpec:CPE3_0551	gene	complement(600460..601711)	pseudogene
+cpec:CPE3_0552	CDS	602241..612365	glycosyltransferase, DXD sugar-binding domain-containing protein
+cpec:CPE3_0553	CDS	complement(612437..613627)	phospholipase D family protein
+cpec:CPE3_0554	CDS	complement(614025..615299)	phospholipase D family protein
+cpec:CPE3_0555	CDS	615759..626027	glycosyltransferase, DXD sugar-binding domain-containing protein
+cpec:CPE3_0556	CDS	complement(626056..627411)	phospholipase D family protein
+cpec:CPE3_0557	gene	complement(627556..628726)	pseudogene
+cpec:CPE3_0558	CDS	complement(628755..629666)	hypothetical protein
+cpec:CPE3_0559	CDS	complement(629660..630406)	hypothetical protein
+cpec:CPE3_0560	CDS	complement(630445..631275)	hypothetical protein
+cpec:CPE3_0561	CDS	complement(631753..633108)	accC; acetyl-CoA carboxylase, biotin carboxylase subunit
+cpec:CPE3_0562	CDS	complement(633111..633605)	accB; acetyl-CoA carboxylase, biotin carboxyl carrier protein subunit
+cpec:CPE3_0563	CDS	complement(633627..634184)	elongation factor P
+cpec:CPE3_0564	CDS	complement(634188..634880)	rpe; ribulose-phosphate 3-epimerase
+cpec:CPE3_0565	CDS	635189..636229	incA; inclusion membrane protein A
+cpec:CPE3_0566	CDS	636363..637157	putative methyltransferase
+cpec:CPE3_0567	CDS	637234..638526	ribonuclease BN family protein
+cpec:CPE3_0568	CDS	638523..641933	hypothetical protein
+cpec:CPE3_0569	CDS	642019..643296	hypothetical protein
+cpec:CPE3_0570	CDS	complement(643293..643985)	amino acid ABC transporter, ATP-binding protein
+cpec:CPE3_0571	CDS	complement(643982..644626)	glnP; amino acid ABC transporter, permease protein
+cpec:CPE3_0572	CDS	complement(644670..645113)	argR; arginine repressor
+cpec:CPE3_0573	CDS	645197..646231	o-sialoglycoprotein endopeptidase
+cpec:CPE3_0574	CDS	646177..647766	oligopeptide binding protein
+cpec:CPE3_0575	CDS	647917..649515	oligopeptide binding protein
+cpec:CPE3_0576	CDS	649565..650887	peptide ABC transporter, periplasmic binding protein
+cpec:CPE3_0577	CDS	651121..652740	peptide ABC transporter, periplasmic binding protein
+cpec:CPE3_0578	CDS	652850..653851	peptide ABC transporter, permease protein
+cpec:CPE3_0579	CDS	653888..654742	peptide ABC transporter, permease protein
+cpec:CPE3_0580	CDS	654735..655583	peptide ABC transporter, ATP-binding protein
+cpec:CPE3_0581	CDS	655588..656382	peptide ABC transporter, ATP-binding protein
+cpec:CPE3_0582	CDS	656703..657452	hypothetical protein
+cpec:CPE3_0583	CDS	657496..658908	sodium:sulfate symporter family protein
+cpec:CPE3_0584	CDS	659001..660656	diphosphate--fructose-6-phosphate 1-phosphotransferase
+cpec:CPE3_0585	CDS	660760..661575	dienelactone hydrolase family protein
+cpec:CPE3_0586	CDS	661578..663191	diphosphate-fructose 6-phosphate 1-phosphotransferase
+cpec:CPE3_0587	tRNA	complement(663275..663349)	tRNA-Met
+cpec:CPE3_0588	tRNA	complement(663367..663441)	tRNA-Met
+cpec:CPE3_0589	CDS	complement(663457..664776)	gseA; 3-deoxy-D-manno-octulosonic-acid transferase
+cpec:CPE3_0590	CDS	complement(664776..667238)	leuS; leucyl-tRNA synthetase
+cpec:CPE3_0591	CDS	667461..668405	hypothetical protein
+cpec:CPE3_0592	CDS	668508..670016	hypothetical protein
+cpec:CPE3_0593	CDS	complement(669981..674282)	hypothetical protein
+cpec:CPE3_0594	CDS	complement(674438..676438)	ligA; NAD-dependent DNA ligase
+cpec:CPE3_0595	CDS	complement(676417..678270)	putative serine/threonine protein kinase
+cpec:CPE3_0596	CDS	complement(678444..678947)	hypothetical protein
+cpec:CPE3_0597	CDS	complement(679325..680812)	tetratricopeptide repeat domain-containing protein
+cpec:CPE3_0598	CDS	681110..682240	aminopeptidase
+cpec:CPE3_0599	CDS	complement(682245..684848)	clpB; ATP-dependent Clp protease, subunit B
+cpec:CPE3_0600	CDS	complement(684916..685701)	putative ABC transporter, periplasmic substrate-binding protein
+cpec:CPE3_0601	CDS	complement(685721..686473)	ABC transporter, ATP-binding protein
+cpec:CPE3_0602	CDS	complement(686477..687292)	ABC transporter, permease protein
+cpec:CPE3_0603	CDS	complement(687273..688562)	hemL; glutamate-1-semialdehyde-2,1-aminomutase
+cpec:CPE3_0604	CDS	complement(688646..689215)	hypothetical protein
+cpec:CPE3_0605	CDS	complement(689240..689716)	hypothetical protein
+cpec:CPE3_0606	CDS	complement(689713..690414)	rpiA; ribose-5-phosphate isomerase A
+cpec:CPE3_0607	CDS	690657..691412	hypothetical protein
+cpec:CPE3_0608	CDS	691418..693334	pepF; oligopeptidase F
+cpec:CPE3_0609	CDS	693458..693766	groES; chaperonin, 10kDa
+cpec:CPE3_0610	CDS	693806..695443	chaperonin, 60kDa
+cpec:CPE3_0611	CDS	695580..696350	hypothetical protein
+cpec:CPE3_0612	tRNA	696444..696518	tRNA-Asn
+cpec:CPE3_0613	CDS	696547..697680	hypothetical protein
+cpec:CPE3_0614	CDS	complement(697684..698451)	biotin protein ligase
+cpec:CPE3_0615	CDS	698557..699570	hypothetical protein
+cpec:CPE3_0616	CDS	699671..701896	helicase, RecD/TraA family
+cpec:CPE3_0617	CDS	complement(701966..703612)	metG; methionyl-tRNA synthetase
+cpec:CPE3_0618	CDS	complement(703618..703911)	hypothetical protein
+cpec:CPE3_0619	CDS	complement(703908..704522)	gmk; guanylate kinase
+cpec:CPE3_0620	CDS	complement(704519..705166)	rnhB; ribonuclease HII
+cpec:CPE3_0621	CDS	complement(705227..705595)	rplS; 50S ribosomal protein L19
+cpec:CPE3_0622	CDS	complement(705620..706690)	trmD; tRNA (guanine-N(1)-)-methyltransferase
+cpec:CPE3_0623	CDS	complement(706702..707058)	rpsP; 30S ribosomal protein S16
+cpec:CPE3_0624	CDS	complement(707049..708398)	ffh; signal recognition particle protein
+cpec:CPE3_0625	CDS	complement(708441..709280)	hemK; N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+cpec:CPE3_0626	CDS	complement(709258..710349)	prfA; peptide chain release factor 1
+cpec:CPE3_0627	CDS	complement(710516..710833)	rpmE; 50S ribosomal protein L31
+cpec:CPE3_0628	CDS	710915..711667	hypothetical protein
+cpec:CPE3_0629	CDS	711829..713739	signal peptidase I
+cpec:CPE3_0630	CDS	complement(713702..716902)	ileS; isoleucyl-tRNA synthetase
+cpec:CPE3_0631	CDS	717533..718030	hypothetical protein
+cpec:CPE3_0632	CDS	complement(718043..719335)	phosphate starvation-inducible protein
+cpec:CPE3_0633	CDS	719581..720318	hypothetical protein
+cpec:CPE3_0634	CDS	720472..721698	hypothetical protein
+cpec:CPE3_0635	CDS	complement(721720..722754)	cydB; cytochrome d ubiquinol oxidase, subunit II
+cpec:CPE3_0636	CDS	complement(722770..724113)	cydA; cytochrome D ubiquinol oxidase, subunit I
+cpec:CPE3_0637	CDS	724287..725084	hypothetical protein
+cpec:CPE3_0638	CDS	725084..726337	hypothetical protein
+cpec:CPE3_0639	CDS	726467..726760	hypothetical protein
+cpec:CPE3_0640	CDS	726838..728199	putative lipid A biosynthesis lauroyl acyltransferase
+cpec:CPE3_0641	CDS	complement(728196..729647)	pyk; pyruvate kinase
+cpec:CPE3_0642	CDS	729867..735260	uvrA; excinuclease ABC subunit A
+cpec:CPE3_0643	CDS	complement(735257..738052)	pknD; serine/threonine-protein kinase
+cpec:CPE3_0644	CDS	complement(738069..740891)	valS; valyl-tRNA synthetase
+cpec:CPE3_0645	CDS	complement(740951..741499)	hypothetical protein
+cpec:CPE3_0646	CDS	complement(741399..741824)	atpK; V-type ATP synthase subunit K
+cpec:CPE3_0647	CDS	complement(741920..743866)	atpI; V-type ATP synthase subunit I
+cpec:CPE3_0648	CDS	complement(743857..744483)	atpD; V-type ATP synthase subunit D
+cpec:CPE3_0649	CDS	complement(744468..745784)	atpB; V-type ATP synthase subunit B
+cpec:CPE3_0650	CDS	complement(745789..747564)	atpA; V-type ATP synthase subunit A
+cpec:CPE3_0651	CDS	complement(747558..748358)	hypothetical protein
+cpec:CPE3_0652	CDS	complement(748409..749035)	atpE; V-type ATP synthase subunit E
+cpec:CPE3_0653	CDS	749155..749910	hypothetical protein
+cpec:CPE3_0654	CDS	complement(749907..750293)	hypothetical protein
+cpec:CPE3_0655	CDS	complement(750357..751340)	tal; transaldolase
+cpec:CPE3_0656	CDS	complement(751449..755630)	rpoC; DNA-directed RNA polymerase, beta' subunit
+cpec:CPE3_0657	CDS	complement(755654..759412)	rpoB; DNA-directed RNA polymerase, beta subunit
+cpec:CPE3_0658	CDS	complement(759547..759942)	rplL; 50S ribosomal protein L7/L12
+cpec:CPE3_0659	CDS	complement(759975..760493)	rplJ; 50S ribosomal protein L10
+cpec:CPE3_0660	CDS	complement(760509..761207)	rplA; 50S ribosomal protein L1
+cpec:CPE3_0661	CDS	complement(761235..761660)	rplK; 50S ribosomal protein L11
+cpec:CPE3_0662	CDS	complement(761765..762313)	nusG; transcription termination/antitermination factor
+cpec:CPE3_0663	CDS	complement(762317..762568)	secE; preprotein translocase, SecE subunit
+cpec:CPE3_0664	tRNA	complement(762597..762672)	tRNA-Trp
+cpec:CPE3_0665	CDS	complement(762729..763913)	tuf; translation elongation factor Tu
+cpec:CPE3_0666	tRNA	complement(763960..764031)	tRNA-Thr
+cpec:CPE3_0667	CDS	complement(764107..764328)	infA; translation initiation factor IF-1
+cpec:CPE3_0668	CDS	764567..765589	hypothetical protein
+cpec:CPE3_0669	CDS	765593..766048	hypothetical protein
+cpec:CPE3_0670	tRNA	766105..766178	tRNA-Met
+cpec:CPE3_0671	CDS	complement(766202..767101)	prsA; ribose-phosphate pyrophosphokinase
+cpec:CPE3_0672	CDS	complement(767098..768363)	kynU; kynureninase
+cpec:CPE3_0673	CDS	complement(768378..769145)	trpA; tryptophan synthase, alpha subunit
+cpec:CPE3_0674	CDS	complement(769138..770316)	trpB; tryptophan synthase, beta subunit
+cpec:CPE3_0675	CDS	complement(770313..770936)	trpF; N-(5'-phosphoribosyl)anthranilate isomerase
+cpec:CPE3_0676	CDS	complement(770926..771753)	trpC; indole-3-glycerol phosphate synthase
+cpec:CPE3_0677	CDS	complement(771750..772772)	trpD; anthranilate phosphoribosyltransferase
+cpec:CPE3_0678	CDS	complement(772985..773263)	trpR; trp operon repressor
+cpec:CPE3_0679	CDS	complement(773430..773960)	hypothetical protein
+cpec:CPE3_0680	CDS	complement(774124..776964)	polymorphic membrane protein
+cpec:CPE3_0681	CDS	complement(777157..778128)	hypothetical protein
+cpec:CPE3_0682	CDS	complement(778532..778840)	hypothetical protein
+cpec:CPE3_0683	CDS	complement(778957..779796)	dapA; dihydrodipicolinate synthase
+cpec:CPE3_0684	CDS	complement(779808..781115)	lysC; aspartokinase
+cpec:CPE3_0685	CDS	complement(781096..782100)	asd; aspartate-semialdehyde dehydrogenase
+cpec:CPE3_0686	CDS	complement(782227..782982)	dapB; dihydrodipicolinate reductase
+cpec:CPE3_0687	CDS	783102..783917	short chain dehydrogenase family protein
+cpec:CPE3_0688	CDS	784051..785049	bioB; biotin synthase
+cpec:CPE3_0689	CDS	785028..786173	bioF; 8-amino-7-oxononanoate synthase
+cpec:CPE3_0690	CDS	786155..786811	bioD; dethiobiotin synthetase
+cpec:CPE3_0691	CDS	786748..788022	bioA; adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+cpec:CPE3_0692	CDS	788007..788648	hypothetical protein
+cpec:CPE3_0693	CDS	788719..790044	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+cpec:CPE3_0694	CDS	789980..790510	aroK; shikimate kinase
+cpec:CPE3_0695	CDS	790507..791589	aroC; chorismate synthase
+cpec:CPE3_0696	CDS	791586..792725	aroB; 3-dehydroquinate synthase
+cpec:CPE3_0697	CDS	792697..794139	aroDE; 3-dehydroquinate dehydratase/shikimate 5-dehydrogenase
+cpec:CPE3_0698	CDS	794136..794924	hypothetical protein
+cpec:CPE3_0699	CDS	795022..796389	hypothetical protein
+cpec:CPE3_0700	CDS	796426..797013	hypothetical protein
+cpec:CPE3_0701	CDS	797023..798483	amino acid permease
+cpec:CPE3_0702	CDS	798638..799696	putative oxidoreductase
+cpec:CPE3_0703	CDS	complement(799674..800501)	hypothetical protein
+cpec:CPE3_0704	CDS	complement(800525..801511)	mdhC; malate dehydrogenase
+cpec:CPE3_0705	CDS	complement(802342..803919)	pgi; glucose-6-phosphate isomerase
+cpec:CPE3_0706	CDS	804006..804905	xerD; site-specific tyrosine recombinase
+cpec:CPE3_0707	CDS	complement(804902..805198)	hypothetical protein
+cpec:CPE3_0708	tRNA	complement(805284..805367)	tRNA-Leu
+cpec:CPE3_0709	CDS	805557..806999	hypothetical protein
+cpec:CPE3_0710	CDS	806999..807523	type III secretion chaperone
+cpec:CPE3_0711	CDS	807539..809074	hypothetical protein
+cpec:CPE3_0712	CDS	809099..810592	hypothetical protein
+cpec:CPE3_0713	CDS	complement(810603..811250)	hypothetical protein
+cpec:CPE3_0714	CDS	complement(811294..812223)	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+cpec:CPE3_0715	CDS	complement(812307..814103)	peptidase family, S41 domain-containing protein
+cpec:CPE3_0716	CDS	complement(814188..815453)	Na+/H+ antiporter, putative
+cpec:CPE3_0717	CDS	815670..817379	sulfate transporter family protein
+cpec:CPE3_0718	CDS	complement(817376..818758)	fumC; fumarate hydratase
+cpec:CPE3_0719	CDS	818812..820587	ABC transporter permease
+cpec:CPE3_0720	CDS	complement(820551..821201)	adk_1; adenylate kinase
+cpec:CPE3_0721	CDS	821293..821898	putative membrane protein
+cpec:CPE3_0722	CDS	821913..822533	putative membrane protein
+cpec:CPE3_0723	CDS	822533..823408	map; methionine aminopeptidase
+cpec:CPE3_0724	CDS	complement(823365..824597)	hypothetical protein
+cpec:CPE3_0725	CDS	complement(824624..824899)	hypothetical protein
+cpec:CPE3_0726	CDS	825027..825497	hypothetical protein
+cpec:CPE3_0727	CDS	825514..826035	hypothetical protein
+cpec:CPE3_0728	CDS	826051..826554	hypothetical protein
+cpec:CPE3_0729	CDS	826635..827342	hypothetical protein
+cpec:CPE3_0730	CDS	complement(827339..827566)	hypothetical protein
+cpec:CPE3_0731	CDS	complement(827556..828026)	cytidine/deoxycytidylate deaminase family protein
+cpec:CPE3_0732	CDS	828254..828523	rpsO; 30S ribosomal protein S15
+cpec:CPE3_0733	CDS	828566..830647	pnpA; polyribonucleotide nucleotidyltransferase
+cpec:CPE3_0734	CDS	complement(830706..833453)	ftsH; cell division protein
+cpec:CPE3_0735	CDS	complement(833642..834598)	tRNA(Ile)-lysidine synthetase
+cpec:CPE3_0736	CDS	834714..835787	putative permease
+cpec:CPE3_0737	CDS	835787..836890	putative permease
+cpec:CPE3_0738	CDS	complement(836859..838886)	hypothetical protein
+cpec:CPE3_0739	tRNA	complement(839148..839232)	tRNA-Ser
+cpec:CPE3_0740	CDS	complement(839233..840258)	pheS; phenylalanyl-tRNA synthetase, alpha subunit
+cpec:CPE3_0741	CDS	complement(840277..840645)	rplT; 50S ribosomal protein L20
+cpec:CPE3_0742	CDS	complement(840664..840858)	rpmI; 50S ribosomal protein L35
+cpec:CPE3_0743	CDS	complement(840872..841399)	infC; translation initiation factor IF-3
+cpec:CPE3_0744	CDS	841763..842272	nusB; putative transcription termination-related protein
+cpec:CPE3_0745	CDS	842291..843214	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+cpec:CPE3_0746	CDS	complement(843180..843761)	rRNA methylase
+cpec:CPE3_0747	tRNA	843814..843889	tRNA-Val
+cpec:CPE3_0748	CDS	complement(843879..844553)	trmB; tRNA (guanine-N(7)-)-methyltransferase
+cpec:CPE3_0749	CDS	complement(844680..845720)	nrdB; ribonucleotide-diphosphate reductase, beta subunit
+cpec:CPE3_0750	CDS	complement(845740..848883)	nrdA; ribonucleotide-diphosphate reductase, alpha subunit
+cpec:CPE3_0751	CDS	849261..850067	CDP-alcohol phosphatidyltransferase
+cpec:CPE3_0752	CDS	850064..851305	rmuC; DNA recombination protein
+cpec:CPE3_0753	CDS	complement(851309..854230)	putative metalloprotease
+cpec:CPE3_0754	CDS	854376..855734	putative peptidase
+cpec:CPE3_0755	CDS	complement(855764..857233)	serine protease
+cpec:CPE3_0756	CDS	complement(857407..858282)	sucD; succinyl-CoA synthetase, alpha subunit
+cpec:CPE3_0757	CDS	complement(858290..859453)	sucC; succinyl-CoA synthetase, beta subunit
+cpec:CPE3_0758	CDS	859524..860384	ftsY; signal recognition particle-docking protein
+cpec:CPE3_0759	CDS	complement(860388..861104)	hypothetical protein
+cpec:CPE3_0760	CDS	complement(861164..862351)	tyrP; aromatic amino acid transport protein
+cpec:CPE3_0761	CDS	complement(862421..864253)	glmS; glucosamine--fructose-6-phosphate aminotransferase
+cpec:CPE3_0762	CDS	complement(864261..865637)	glmM; phosphoglucosamine mutase
+cpec:CPE3_0763	CDS	865853..867139	Poly A polymerase
+cpec:CPE3_0764	CDS	867153..868991	lpxB; Lipid-A-disaccharide synthase
+cpec:CPE3_0765	CDS	869058..870548	hypothetical protein
+cpec:CPE3_0766	CDS	870727..871788	hypothetical protein
+cpec:CPE3_0767	CDS	complement(871807..875937)	polymorphic membrane protein
+cpec:CPE3_0768	CDS	complement(876131..877084)	plsX; fatty acid/phospholipid synthesis protein
+cpec:CPE3_0769	CDS	complement(877299..877760)	hypothetical protein
+cpec:CPE3_0770	CDS	878062..879588	putative ribonuclease
+cpec:CPE3_0771	CDS	879596..880591	glycerol-3-phosphate acyltransferase
+cpec:CPE3_0772	CDS	880593..883421	insulinase family protein
+cpec:CPE3_0773	CDS	complement(883414..884766)	hypothetical protein
+cpec:CPE3_0774	CDS	884964..885185	hypothetical protein
+cpec:CPE3_0775	CDS	complement(885195..886055)	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+cpec:CPE3_0776	CDS	complement(886073..886582)	rplI; 50S ribosomal protein L9
+cpec:CPE3_0777	CDS	complement(886605..886853)	rpsR; 30S ribosomal protein S18
+cpec:CPE3_0778	CDS	complement(886872..887210)	rpsF; 30S ribosomal protein S6
+cpec:CPE3_0779	CDS	complement(887293..887850)	pth; peptidyl-tRNA hydrolase
+cpec:CPE3_0780	CDS	complement(887855..888412)	rplY; ribosomal protein L25
+cpec:CPE3_0781	tRNA	complement(888670..888743)	tRNA-Gln
+cpec:CPE3_0782	CDS	888887..890317	glgA; glycogen synthase
+cpec:CPE3_0783	CDS	complement(890296..890916)	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+cpec:CPE3_0784	CDS	891199..894225	glycyl-tRNA synthetase
+cpec:CPE3_0785	CDS	complement(894417..894869)	hypothetical protein
+cpec:CPE3_0786	CDS	complement(895121..895387)	hypothetical protein
+cpec:CPE3_0787	CDS	complement(895489..897288)	dnaG; DNA primase
+cpec:CPE3_0788	CDS	897574..900054	mutS; DNA mismatch repair protein
+cpec:CPE3_0789	CDS	900059..901852	uvrC; excinuclease ABC, subunit C
+cpec:CPE3_0790	CDS	complement(901863..902336)	hypothetical protein
+cpec:CPE3_0791	CDS	902432..902926	hypothetical protein
+cpec:CPE3_0792	CDS	complement(902974..903279)	rpsN; 30S ribosomal protein S14
+cpec:CPE3_0793	CDS	complement(903303..903440)	rpmJ; 50S ribosomal protein L36
+cpec:CPE3_0794	CDS	903825..904244	rnpA; ribonuclease P
+cpec:CPE3_0795	CDS	complement(904186..905232)	hypothetical protein
+cpec:CPE3_0796	CDS	905609..907036	cysS; cysteinyl-tRNA synthetase
+cpec:CPE3_0797	CDS	complement(907033..908598)	lysS; lysyl-tRNA synthetase
+cpec:CPE3_0798	CDS	complement(908727..909236)	hypothetical protein
+cpec:CPE3_0799	CDS	909436..910113	hypothetical protein
+cpec:CPE3_0800	CDS	910062..912305	priA; primosomal protein N'
+cpec:CPE3_0801	CDS	complement(912240..913346)	bioF1; 8-amino-7-oxononanoate synthase
+cpec:CPE3_0802	CDS	complement(913397..915013)	AMP-binding enzyme family protein
+cpec:CPE3_0803	CDS	complement(915030..915791)	acetyltransferase family protein
+cpec:CPE3_0804	CDS	915886..916857	inositol monophosphatase family protein
+cpec:CPE3_0805	CDS	complement(916852..917904)	leucine dehydrogenase
+cpec:CPE3_0806	CDS	918044..918697	ppa; inorganic pyrophosphatase
+cpec:CPE3_0807	CDS	complement(918714..919166)	hydrolase, NUDIX family protein
+cpec:CPE3_0808	CDS	complement(919169..920419)	fabF; 3-oxoacyl-(acyl-carrier-protein) synthase II
+cpec:CPE3_0809	CDS	complement(920436..920795)	hypothetical protein
+cpec:CPE3_0810	gene	complement(920855..921495)	pseudogene
+cpec:CPE3_0811	CDS	complement(921492..923138)	hypothetical protein
+cpec:CPE3_0812	CDS	923219..924274	hypothetical protein
+cpec:CPE3_0813	CDS	complement(924265..925284)	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+cpec:CPE3_0814	CDS	complement(925293..925625)	putative anti sigma factor antagonist
+cpec:CPE3_0815	CDS	925701..926498	hypothetical protein
+cpec:CPE3_0816	CDS	926483..926803	putative divalent cation tolerance protein
+cpec:CPE3_0817	CDS	926908..927303	hypothetical protein
+cpec:CPE3_0818	CDS	complement(927351..929777)	murC; bifunctional D-alanyl-alanine synthetase A/UDP-N-acetylmuramate--alanine ligase
+cpec:CPE3_0819	CDS	complement(929786..930844)	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+cpec:CPE3_0820	CDS	complement(930828..931910)	ftsW; cell division protein FtsW
+cpec:CPE3_0821	CDS	complement(931926..932609)	muramidase
+cpec:CPE3_0822	CDS	complement(932606..933865)	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+cpec:CPE3_0823	CDS	complement(933866..934921)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+cpec:CPE3_0824	CDS	complement(934936..936279)	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+cpec:CPE3_0825	tRNA	936436..936506	tRNA-Cys
+cpec:CPE3_0826	CDS	936581..938083	groEL; chaperonin, 60 kDa
+cpec:CPE3_0827	CDS	938185..939096	calcineurin-like phosphoesterase
+cpec:CPE3_0828	CDS	complement(939091..939315)	hypothetical protein
+cpec:CPE3_0829	CDS	complement(939369..939941)	efp; translation elongation factor P
+cpec:CPE3_0830	CDS	940124..940963	putative AMP nucleosidase
+cpec:CPE3_0831	CDS	complement(940957..942951)	tkt; transketolase
+cpec:CPE3_0832	CDS	943169..945793	alaS; alanyl-tRNA synthetase
+cpec:CPE3_0833	CDS	945763..949026	mfd; transcription-repair coupling factor
+cpec:CPE3_0834	CDS	949034..950026	hemE; uroporphyrinogen decarboxylase
+cpec:CPE3_0835	CDS	950007..951380	hemN_1; oxygen-independent coproporphyrinogen III oxidase
+cpec:CPE3_0836	CDS	951377..952648	hemG; protoporphyrinogen oxidase
+cpec:CPE3_0837	CDS	complement(952645..955053)	hypothetical protein
+cpec:CPE3_0838	CDS	955466..955822	putative histone-like protein
+cpec:CPE3_0839	CDS	955979..957169	ygcA; tRNA (Uracil-5-)-methyltransferase
+cpec:CPE3_0840	CDS	957239..957589	yajC; preprotein translocase, YajC subunit
+cpec:CPE3_0841	CDS	957691..958986	nqrF; NADH:ubiquinone oxidoreductase, Na(+)-translocating, F subunit
+cpec:CPE3_0842	rRNA	complement(959256..959369)	5S ribosomal RNA
+cpec:CPE3_0843	rRNA	complement(959485..962425)	23S ribosomal RNA
+cpec:CPE3_0844	rRNA	complement(962664..964204)	16S ribosomal RNA
+cpec:CPE3_0845	tRNA	964634..964708	tRNA-His
+cpec:CPE3_0846	CDS	964792..967209	ftsK; cell division protein FtsK, putative
+cpec:CPE3_0847	CDS	967218..968006	putative metal dependent hydrolase
+cpec:CPE3_0848	CDS	968006..968662	SET domain-containing protein
+cpec:CPE3_0849	CDS	complement(968664..969116)	hypothetical protein
+cpec:CPE3_0850	CDS	complement(969136..970512)	sodium/alanine symporter family protein
+cpec:CPE3_0851	CDS	complement(970635..971294)	hypothetical protein
+cpec:CPE3_0852	CDS	971543..972910	hypothetical protein
+cpec:CPE3_0853	CDS	complement(972939..973409)	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+cpec:CPE3_0854	CDS	complement(973424..974677)	ribA_ribB; bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+cpec:CPE3_0855	CDS	complement(974754..975872)	ribD; riboflavin biosynthesis protein
+cpec:CPE3_0856	CDS	975909..977183	serS; seryl-tRNA synthetase
+cpec:CPE3_0857	CDS	977266..978006	hypothetical protein
+cpec:CPE3_0858	CDS	978020..979993	cadA; cadmium-translocating P-type ATPase
+cpec:CPE3_0859	CDS	complement(979995..981134)	putative cell shape-determining protein
+cpec:CPE3_0860	CDS	981168..981743	birA; biotin--protein ligase
+cpec:CPE3_0861	CDS	complement(981711..982238)	hypothetical protein
+cpec:CPE3_0862	CDS	complement(982256..982960)	ribosomal large subunit pseudouridine synthase B
+cpec:CPE3_0863	CDS	983113..983799	pgmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+cpec:CPE3_0864	CDS	983754..984908	aminotransferase, class V
+cpec:CPE3_0865	CDS	984905..985732	putative nifU-related protein
+cpec:CPE3_0866	CDS	985818..986834	type III secretion system protein
+cpec:CPE3_0867	CDS	986850..987395	type III secretion system protein
+cpec:CPE3_0868	CDS	987392..988693	type III secretion system ATPase
+cpec:CPE3_0869	CDS	988690..989040	hypothetical protein
+cpec:CPE3_0870	CDS	989071..990456	UTP--glucose-1-phosphate uridylyltransferase
+cpec:CPE3_0871	CDS	990453..991457	gpsA; glycerol-3-phosphate dehydrogenase
+cpec:CPE3_0872	CDS	991572..992603	putative outer membrane protein
+cpec:CPE3_0873	CDS	complement(992600..993769)	hypothetical protein
+cpec:CPE3_0874	CDS	complement(993786..996071)	hypothetical protein
+cpec:CPE3_0875	CDS	complement(996186..997982)	pckA; phosphoenolpyruvate carboxykinase
+cpec:CPE3_0876	CDS	complement(997985..999085)	mreB; rod shape-determining protein
+cpec:CPE3_0877	CDS	complement(999090..1002593)	putative helicase
+cpec:CPE3_0878	tRNA	1002770..1002841	tRNA-Gly
+cpec:CPE3_0879	CDS	1002875..1004200	tig; trigger factor
+cpec:CPE3_0880	CDS	1004372..1004986	clpP; ATP-dependent Clp protease, proteolytic subunit
+cpec:CPE3_0881	CDS	1004996..1006264	clpX; ATP-dependent Clp protease, ATP-binding subunit
+cpec:CPE3_0882	CDS	1006283..1007515	pcnB; poly A polymerase
+cpec:CPE3_0883	CDS	1007636..1009087	engA; GTP-binding protein
+cpec:CPE3_0884	CDS	1009160..1009699	hypothetical protein
+cpec:CPE3_0885	CDS	complement(1009739..1012642)	secA; preprotein translocase, SecA subunit
+cpec:CPE3_0886	CDS	complement(1012803..1014128)	hypothetical protein
+cpec:CPE3_0887	CDS	complement(1014187..1015092)	psdD; phosphatidylserine decarboxylase proenzyme
+cpec:CPE3_0888	CDS	1015245..1016579	trmE; tRNA modification GTPase
+cpec:CPE3_0889	CDS	1016580..1017200	nth; putative enodnuclease III
+cpec:CPE3_0890	CDS	1017336..1018577	brnQ; branched-chain amino acid transport system II carrier protein
+cpec:CPE3_0891	CDS	1018605..1022183	putative helicase
+cpec:CPE3_0892	CDS	complement(1022185..1022652)	hypothetical protein
+cpec:CPE3_0893	CDS	1022896..1024281	lpdA; dihydrolipoamide dehydrogenase
+cpec:CPE3_0894	CDS	1024278..1025192	lipA; lipoyl acid synthase
+cpec:CPE3_0895	CDS	1025364..1026356	type III secretion system protein
+cpec:CPE3_0896	CDS	1026356..1027189	hypothetical protein
+cpec:CPE3_0897	CDS	1027322..1028005	type III secretion system protein
+cpec:CPE3_0898	CDS	1028021..1028938	type III secretion system protein
+cpec:CPE3_0899	CDS	1028950..1029234	type III secretion system protein
+cpec:CPE3_0900	CDS	1029240..1030109	type III secretion system protein
+cpec:CPE3_0901	CDS	complement(1030185..1030649)	hypothetical protein
+cpec:CPE3_0902	CDS	complement(1030737..1031741)	hypothetical protein
+cpec:CPE3_0903	CDS	complement(1031746..1032294)	hypothetical protein
+cpec:CPE3_0904	CDS	complement(1032279..1032713)	hypothetical protein
+cpec:CPE3_0905	CDS	complement(1032744..1033109)	putative outer membrane protein
+cpec:CPE3_0906	CDS	complement(1033133..1034308)	gspF; general secretion pathway protein F
+cpec:CPE3_0907	CDS	complement(1034323..1035813)	gspE; general secretion pathway protein E
+cpec:CPE3_0908	CDS	complement(1035803..1038058)	gspD; general secretion pathway protein D
+cpec:CPE3_0909	CDS	complement(1038055..1039350)	hypothetical protein
+cpec:CPE3_0910	CDS	complement(1039467..1040537)	pepP; putative peptidase
+cpec:CPE3_0911	CDS	complement(1040539..1042266)	mutL; DNA mismatch repair protein
+cpec:CPE3_0912	CDS	1042482..1043210	type III secretion system chaperone
+cpec:CPE3_0913	CDS	1043229..1043588	hypothetical protein
+cpec:CPE3_0914	CDS	1043622..1045064	hypothetical protein
+cpec:CPE3_0915	CDS	1045091..1046407	hypothetical protein
+cpec:CPE3_0916	CDS	complement(1046445..1047350)	hypothetical protein
+cpec:CPE3_0917	CDS	1047558..1049465	thrS; threonyl-tRNA synthetase
+cpec:CPE3_0918	CDS	1049493..1050260	hypothetical protein
+cpec:CPE3_0919	CDS	1050265..1051017	hypothetical protein
+cpec:CPE3_0920	CDS	1051023..1051577	hypothetical protein
+cpec:CPE3_0921	CDS	1051586..1052629	trpS; tryptophanyl-tRNA synthetase
+cpec:CPE3_0922	CDS	1052626..1054590	uvrB; excinuclease ABC, subunit B
+cpec:CPE3_0923	CDS	1054711..1055991	eno; phosphopyruvate hydratase
+cpec:CPE3_0924	CDS	1056083..1057996	putative regulatory protein
+cpec:CPE3_0925	CDS	1057993..1059843	hypothetical protein
+cpec:CPE3_0926	CDS	complement(1059824..1060165)	hypothetical protein
+cpec:CPE3_0927	CDS	1060278..1063166	hypothetical protein
+cpec:CPE3_0928	CDS	complement(1063173..1063952)	sdhB; succinate dehydrogenase subunit
+cpec:CPE3_0929	CDS	complement(1063964..1065841)	sdhA; succinate dehydrogenase, flavoprotein subunit
+cpec:CPE3_0930	CDS	complement(1065841..1066728)	sdhC; succinate dehydrogenase subunit
+cpec:CPE3_0931	CDS	complement(1066815..1067606)	deoxyribonuclease, TatD family
+cpec:CPE3_0932	CDS	complement(1067726..1069885)	hypothetical protein
+cpec:CPE3_0933	CDS	1070014..1070712	putative transport protein
+cpec:CPE3_0934	CDS	1070709..1071113	biopolymer transport protein
+cpec:CPE3_0935	CDS	1071118..1071822	hypothetical protein
+cpec:CPE3_0936	CDS	1071853..1073124	tolB; translocation protein
+cpec:CPE3_0937	CDS	1073134..1073703	ompA family protein
+cpec:CPE3_0938	CDS	1073693..1074292	N-acetylmuramoyl-L-Ala amidase
+cpec:CPE3_0939	CDS	1074389..1074778	hypothetical protein
+cpec:CPE3_0940	CDS	complement(1074775..1075365)	antioxidant, AhpC/Tsa family
+cpec:CPE3_0941	tRNA	complement(1075382..1075454)	tRNA-Arg
+cpec:CPE3_0942	CDS	complement(1075512..1077143)	groEL_1; chaperonin, 60kDa
+cpec:CPE3_0943	CDS	complement(1077227..1078462)	hypothetical protein
+cpec:CPE3_0944	CDS	1078600..1079220	putative deoxyribonucleotide triphosphate pyrophosphatase
+cpec:CPE3_0945	CDS	complement(1079203..1079436)	hypothetical protein
+cpec:CPE3_0946	CDS	complement(1079443..1080156)	ung; uracil-DNA glycosylase
+cpec:CPE3_0947	CDS	1080262..1082175	DNA helicase
+cpec:CPE3_0948	CDS	1082179..1083453	rpoN; RNA polymerase factor sigma-54
+cpec:CPE3_0949	CDS	complement(1083466..1084260)	hypothetical protein
+cpec:CPE3_0950	CDS	1084751..1087318	topA; DNA topoisomerase
+cpec:CPE3_0951	CDS	complement(1087315..1088298)	dihydrouridine synthase family protein
+cpec:CPE3_0952	CDS	complement(1088277..1088573)	hypothetical protein
+cpec:CPE3_0953	CDS	1088672..1090069	hypothetical protein
+cpec:CPE3_0954	CDS	1090066..1090653	hypothetical protein
+cpec:CPE3_0955	CDS	1090644..1091921	hypothetical protein
+cpec:CPE3_0956	CDS	1091939..1092475	5-formyltetrahydrofolate cyclo-ligase
+cpec:CPE3_0957	CDS	1092794..1093840	recA; Recombinase A
+cpec:CPE3_0958	CDS	complement(1093909..1095630)	sigA; RNA polymerase sigma factor, sigma-70 family
+cpec:CPE3_0959	CDS	complement(1095762..1096943)	hypothetical protein
+cpec:CPE3_0960	CDS	1097201..1097491	rpsT; ribosomal protein S20
+cpec:CPE3_0961	CDS	1097523..1098392	hypothetical protein
+cpec:CPE3_0962	CDS	complement(1098400..1099926)	recD; exodeoxyribonuclease V, alpha subunit
+cpec:CPE3_0963	CDS	complement(1099934..1101778)	hypothetical protein
+cpec:CPE3_0964	CDS	1101977..1102648	transcriptional regulator
+cpec:CPE3_0965	CDS	1102733..1103350	glmU; putative glucosamine-1-phosphate N-acetyltransferase
+cpec:CPE3_0966	CDS	1103358..1104239	ispA; geranyl transtransferase
+cpec:CPE3_0967	tRNA	complement(1104247..1104322)	tRNA-Pro
+cpec:CPE3_0968	CDS	complement(1104335..1104589)	hypothetical protein
+cpec:CPE3_0969	CDS	complement(1104661..1106262)	hypothetical protein
