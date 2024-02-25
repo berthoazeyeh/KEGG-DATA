@@ -1,0 +1,2327 @@
+lls:lilo_0001	CDS	1..1368	dnaA; replication initiation protein DnaA
+lls:lilo_0002	CDS	1525..2667	dnaN; DNA polymerase III, beta chain
+lls:lilo_0003	CDS	2773..6072	rexB; subunit B of ATP-dependent exonuclease
+lls:lilo_0004	CDS	6065..9676	rexA; ATP-dependent exonuclease subunit A
+lls:lilo_0005	CDS	9713..9913	hypothetical protein
+lls:lilo_0006	CDS	complement(9923..10480)	yabA; transcription regulator
+lls:lilo_0007	CDS	10762..11877	ychF; translation-associated GTPase
+lls:lilo_0008	CDS	11989..12312	yabB; transcription regulator
+lls:lilo_0009	CDS	13052..14026	hypothetical protein
+lls:lilo_0010	CDS	14314..14784	yabF; hypothetical protein
+lls:lilo_0011	CDS	14802..15368	pth; Pth protein
+lls:lilo_0012	CDS	15369..18854	mfd; transcription-repair coupling factor
+lls:lilo_0013	CDS	19013..19483	yacI; unknown protein
+lls:lilo_0014	CDS	19602..19871	yacB; hypothetical protein
+lls:lilo_0015	CDS	19900..20274	yacC; hypothetical protein
+lls:lilo_0016	CDS	20274..20597	yacD; hypothetical protein
+lls:lilo_0017	CDS	20726..22084	yacG; hypothetical protein
+lls:lilo_0018	CDS	22081..23352	mesJ; cell cycle protein
+lls:lilo_0019	CDS	23537..23884	hpt; hypoxantine-guanine phosphorybosyltransferase
+lls:lilo_0020	CDS	24089..26176	ftsH; cell division protein FtsH
+lls:lilo_t0001	tRNA	26398..26469	tRNA-Glu
+lls:lilo_t0002	tRNA	26475..26564	tRNA-Ser
+lls:lilo_t0003	tRNA	26575..26648	tRNA-Met
+lls:lilo_t0004	tRNA	26653..26725	tRNA-Phe
+lls:lilo_t0005	tRNA	26737..26807	tRNA-Gly
+lls:lilo_t0006	tRNA	26822..26895	tRNA-Ile
+lls:lilo_t0007	tRNA	27020..27093	tRNA-Asn
+lls:lilo_0021	CDS	27243..29066	mtlA; PTS system, mannitol-specific IIBC component
+lls:lilo_0022	CDS	29126..31063	mtlR; transcriptional antiterminator
+lls:lilo_0023	CDS	31111..31542	mtlF; mannitol-specific PTS system IIA component
+lls:lilo_0024	CDS	31680..32837	mtlD; mannitol-1-phosphate 5-dehydrogenase
+lls:lilo_0025	CDS	32921..33196	hypothetical protein
+lls:lilo_0026	gene	33455..33903	yafE; yafE
+lls:lilo_0027	CDS	33980..34222	yafF; unknown protein
+lls:lilo_0028	CDS	complement(34303..35925)	yafB; putative sulphate transporter
+lls:lilo_0029	CDS	36135..36656	yafC; hypothetical protein
+lls:lilo_t0008	tRNA	36898..36970	tRNA-Lys
+lls:lilo_0030	CDS	37101..38297	araT; aromatic amino acid specific aminotransferase
+lls:lilo_0031	CDS	38396..39151	yafD; hypothetical protein
+lls:lilo_0032	CDS	39347..39481	tagB; teichoic acid biosynthesis protein B
+lls:lilo_0033	CDS	complement(39509..40927)	pdhD; lipoamide dehydrogenase component of PDH complex
+lls:lilo_0034	CDS	complement(41121..42725)	pdhC; dihydrolipoamide acetyltransferase component of PDHcomplex
+lls:lilo_0035	CDS	complement(42718..43698)	pdhB; PDH E1 component beta subunit
+lls:lilo_0036	CDS	complement(43701..44825)	pdhA; pyruvate dehydrogenase E1 component, alpha subunit
+lls:lilo_0037	CDS	complement(44914..45981)	lplL; lipoate-protein ligase
+lls:lilo_0038	CDS	complement(46116..46961)	yagA; glycerophosphoryl diester phosphodiesterase
+lls:lilo_0039	CDS	complement(47042..47692)	yagB; hypothetical protein
+lls:lilo_0040	CDS	complement(47809..48834)	trpS; tryptophanyl-tRNA synthetase
+lls:lilo_0041	CDS	49336..49773	osmC; osmotically inducible protein
+lls:lilo_0042	CDS	49935..51248	yagE; amino acid permease
+lls:lilo_0043	gene	51312..51599	yahC; yahC
+lls:lilo_0044	CDS	complement(51701..52696)	plsX; fatty acid/phospholipid synthesis protein
+lls:lilo_0045	CDS	complement(52799..53611)	yahA; hypothetical protein
+lls:lilo_0046	CDS	complement(53738..55375)	yahG; ABC transporter ATP binding protein
+lls:lilo_0047	CDS	complement(56502..57782)	cysD; O-acetylhomoserine (thiol)-lyase
+lls:lilo_0048	CDS	complement(58010..58843)	yahI; short-chain type dehydrogenase
+lls:lilo_0049	CDS	59226..59711	yahB; hypothetical protein
+lls:lilo_0050	CDS	59839..60036	hypothetical protein
+lls:lilo_0051	CDS	60049..60687	yahD; hypothetical protein
+lls:lilo_0052	CDS	60738..61907	yaiA; hypothetical protein
+lls:lilo_0053	CDS	61918..62508	yaiB; hypothetical protein
+lls:lilo_0054	CDS	complement(62588..62737)	rpmGB; 50S ribosomal protein L33
+lls:lilo_0055	CDS	complement(62767..62940)	rpmF; 50S ribosomal protein L32
+lls:lilo_0056	CDS	63304..65085	cadA; cadmium efflux ATPase
+lls:lilo_0057	CDS	complement(65138..65932)	parA; chromosome partitioning protein
+lls:lilo_0058	CDS	complement(65978..67237)	cshA; chromosome segregation helicase
+lls:lilo_0059	CDS	complement(67281..67769)	ybaH; acetyl transferase
+lls:lilo_0060	CDS	67921..68388	ybaA; unknown protein
+lls:lilo_0061	CDS	68418..69971	ybaB; ABC transporter ATP binding protein
+lls:lilo_0062	CDS	70102..70386	ybaC; unknown protein
+lls:lilo_0063	CDS	70424..70912	ybaD; unknown protein
+lls:lilo_0064	CDS	70930..71883	prmA; ribosomal protein L11 methyltransferase
+lls:lilo_0065	CDS	71968..72735	ybaF; hypothetical protein
+lls:lilo_0066	CDS	72764..73720	ybaG; predicted xylanase/chitin deacetilase
+lls:lilo_0067	CDS	73921..76143	relA; GTP pyrophosphokinase
+lls:lilo_0068	CDS	complement(76158..77093)	ybaI; glycosil transferase
+lls:lilo_0069	CDS	77736..78731	ybbB; hypothetical protein
+lls:lilo_0070	CDS	78734..79357	ybbC; hypothetical protein
+lls:lilo_0071	CDS	79496..80905	ctrA; cationic amino acid transporter
+lls:lilo_0072	CDS	81054..81695	ybbE; hypothetical protein
+lls:lilo_0073	CDS	complement(81735..82226)	rmaD; transcription regulator
+lls:lilo_0074	CDS	complement(82261..82905)	acpD; acyl carrier protein phosphodiesterase
+lls:lilo_0075	CDS	83078..85675	secA; preprotein translocase SecA subunit
+lls:lilo_0076	CDS	85805..86842	aroF; phospho-2-dehydro-3-deoxyheptonate aldolase
+lls:lilo_0077	CDS	87093..87359	ptsH; phosphocarrier protein HPr
+lls:lilo_0078	CDS	87362..89089	ptsI; phosphotransferase system, enzyme I
+lls:lilo_0079	CDS	89242..89559	ybcC; unknown protein
+lls:lilo_0080	CDS	complement(89601..89900)	ybcG; hypothetical protein
+lls:lilo_t0009	tRNA	complement(90115..90203)	tRNA-Leu
+lls:lilo_0081	CDS	complement(90288..91223)	ybcH; hypothetical protein
+lls:lilo_0082	CDS	91376..92770	hypothetical protein
+lls:lilo_0083	CDS	92893..93246	sugE; SugE protein
+lls:lilo_0084	CDS	93368..94531	blt; multidrug efflux transporter
+lls:lilo_0085	CDS	94809..95780	ybaI; glycosil transferase
+lls:lilo_0086	CDS	95777..97021	hypothetical protein
+lls:lilo_t0010	tRNA	complement(97180..97266)	tRNA-Ser
+lls:lilo_0087	CDS	97423..98619	argG; argininosuccinate synthase
+lls:lilo_0088	CDS	98650..100029	argH; argininosuccinate lyase
+lls:lilo_0089	CDS	complement(100045..101241)	pmrB; multidrug resistance efflux pump
+lls:lilo_0090	CDS	101437..102012	ybdA; transcription regulator
+lls:lilo_0091	CDS	102149..102517	rnpA; ribonuclease P protein component
+lls:lilo_0092	CDS	102541..103323	ybdC; preprotein translocase subunit YidC
+lls:lilo_0093	CDS	103412..104326	ybdD; putative spoIIIJ-associated protein
+lls:lilo_0094	CDS	104458..104592	rpmH; 50S ribosomal protein L34
+lls:lilo_0095	CDS	104800..105711	ybdE; aldo/keto reductase family enzyme
+lls:lilo_0096	CDS	105780..106037	ybdG; transcription regulator
+lls:lilo_0097	CDS	106230..106460	ybdH; unknown protein
+lls:lilo_0098	CDS	106492..107184	ybdI; hypothetical protein
+lls:lilo_0099	CDS	107226..107831	ybdJ; hypothetical protein
+lls:lilo_0100	CDS	108217..108483	ybeA; hypothetical protein
+lls:lilo_0101	CDS	108483..108914	ybeB; putative Hollyday junction resolvase
+lls:lilo_0102	CDS	109067..109390	ybeC; hypothetical protein
+lls:lilo_0103	CDS	complement(109421..109972)	hypothetical protein
+lls:lilo_0104	CDS	complement(110062..110847)	cbr; carbonyl reductase
+lls:lilo_0105	CDS	complement(110867..111178)	hypothetical protein
+lls:lilo_0106	CDS	complement(111188..111973)	dltE; oxidoreductase
+lls:lilo_0107	CDS	112085..112630	ybeD; transcription regulator
+lls:lilo_0108	CDS	complement(112711..114657)	glgB; GlgB protein
+lls:lilo_0109	CDS	complement(114784..115104)	ybeM; unknown protein
+lls:lilo_0110	CDS	115577..121522	ybeF; hypothetical protein
+lls:lilo_0111	CDS	122936..124069	cell surface protein
+lls:lilo_0112	CDS	124139..124408	hypothetical protein
+lls:lilo_0113	CDS	124482..125195	cell surface protein
+lls:lilo_0114	CDS	125273..128026	hypothetical protein
+lls:lilo_0115	CDS	128145..128477	transcriptional regulator, xre family
+lls:lilo_t0011	tRNA	complement(128666..128738)	tRNA-Thr
+lls:lilo_0116	CDS	complement(128801..129949)	tgt; queuine tRNA-ribosyltransferase
+lls:lilo_0117	CDS	130141..130833	ybfA; hypothetical protein
+lls:lilo_0118	CDS	complement(130893..132074)	ybfD; transporter
+lls:lilo_0119	CDS	complement(132255..132692)	ybfE; hypothetical protein
+lls:lilo_0120	CDS	132827..133618	ybfB; hypothetical protein
+lls:lilo_0121	CDS	133783..133992	ybfC; unknown protein
+lls:lilo_0122	CDS	134004..134243	ybgA; unknown protein
+lls:lilo_0123	CDS	134440..136023	ybgB; unknown protein
+lls:lilo_0124	CDS	136092..137306	aspC; aspartate aminotransferase
+lls:lilo_0125	CDS	137459..138247	codY; transcriptional regulator
+lls:lilo_0126	CDS	138894..139199	gatC; glutamyl-tRNA (Gln) amidotransferase subunit C
+lls:lilo_0127	CDS	139199..140659	gatA; Glu-tRNA amidotransferase subunit A
+lls:lilo_0128	CDS	140663..141265	ybgD; hypothetical protein
+lls:lilo_0129	CDS	141305..142738	gatB; Glu-tRNA amidotransferase subunit B
+lls:lilo_0130	CDS	142959..144458	ybgE; amidase
+lls:lilo_0131	CDS	complement(144539..145879)	dinF; damage-inducible protein
+lls:lilo_0132	CDS	complement(146061..146258)	cspE; cold shock protein E
+lls:lilo_0133	CDS	146376..146909	ybhA; hypothetical protein
+lls:lilo_0134	CDS	146899..147591	ybhB; hypothetical protein
+lls:lilo_0135	CDS	147691..148122	ybhC; unknown protein
+lls:lilo_0136	CDS	148474..149526	ybhD; unknown protein
+lls:lilo_0137	CDS	149859..150953	ybhE; hypothetical protein
+lls:lilo_0138	CDS	151051..152535	celB; cellobiose-specific PTS system IIC component
+lls:lilo_0139	CDS	152660..152866	hypothetical protein
+lls:lilo_0140	CDS	153188..154624	bglS; beta-glucosidase A
+lls:lilo_0141	CDS	154688..155140	dut; deoxyuridine 5'-triphosphate nucleotidhydrolase
+lls:lilo_0142	CDS	155393..156736	ybiB; hypothetical protein
+lls:lilo_0143	CDS	156751..157506	ybiC; hypothetical protein
+lls:lilo_0144	CDS	157700..158797	ybiD; hypothetical protein
+lls:lilo_0145	CDS	159042..159653	ybiE; oxidoreductase
+lls:lilo_0146	CDS	159774..160784	preA; prenyl transferase
+lls:lilo_0147	CDS	161007..161912	ybiG; hypothetical protein
+lls:lilo_0148	CDS	complement(161934..163082)	ybiH; hypothetical protein
+lls:lilo_0149	CDS	complement(163362..163562)	ybiK; unknown protein
+lls:lilo_0150	CDS	complement(163549..165678)	feoB; ferrous ion transport protein B
+lls:lilo_0151	CDS	complement(165780..166238)	feoA; ferrous ion transport protein A
+lls:lilo_0152	CDS	166544..167002	ybjA; putative peptide methionine sulfoxide reductase
+lls:lilo_0153	CDS	complement(167132..168796)	ybjJ; hypothetical protein
+lls:lilo_0154	CDS	complement(168796..169164)	ybjK; hypothetical protein
+lls:lilo_0155	CDS	complement(169437..169631)	rpmB; 50S ribosomal protein L28
+lls:lilo_0156	CDS	169767..170426	ybjB; unknown protein
+lls:lilo_0157	CDS	170618..171487	rmlA; glucose-1-phosphate thymidylyltransferase
+lls:lilo_0158	CDS	171535..171825	ybjD; unknown protein
+lls:lilo_0159	CDS	171876..172487	cpsM; dTDP-4-keto-6-deoxyglucose-3,5-epimerase
+lls:lilo_0160	CDS	172487..172741	ybjF; unknown protein
+lls:lilo_0161	CDS	172783..173835	rmlB; dTDP-glucose 4,6-dehydratase
+lls:lilo_0162	CDS	173851..174255	predicted lactoylglutathione lyase
+lls:lilo_0163	CDS	174312..175211	rmlC; dTDP-L-rhamnose synthase
+lls:lilo_0164	CDS	175327..176553	rgpA; rhamnosyltransferase
+lls:lilo_0165	CDS	176543..177484	rpgB; rhamnosyltransferase
+lls:lilo_0166	CDS	177481..178290	rgpC; polysaccharide ABC transporter permease protein
+lls:lilo_0167	CDS	178304..179497	rgpD; polysaccharide ABC transporter ATP-binding protein
+lls:lilo_0168	CDS	179475..180866	predicted membrane protein
+lls:lilo_0169	CDS	180875..181840	glycosyltransferase
+lls:lilo_0170	CDS	181830..183596	lipopolysaccharide biosynthesis protein
+lls:lilo_0171	CDS	183673..184410	glycosyltransferase
+lls:lilo_0172	CDS	184741..185811	glycosyl transferase
+lls:lilo_0173	CDS	185818..186825	similar to glycosyl transferase
+lls:lilo_0174	CDS	186843..187721	ycbG; LPS biosynthesis protein
+lls:lilo_0175	CDS	188419..189471	ycbD; UDP-glucose 4-epimerase
+lls:lilo_0176	CDS	189874..190938	putative galactofuranose transferase
+lls:lilo_0177	CDS	190938..192068	UDP-galactopyranose mutase
+lls:lilo_0178	CDS	192116..193483	polysaccharide transporter, PST family
+lls:lilo_0179	CDS	193512..195311	possible surface protein
+lls:lilo_0180	CDS	complement(196874..198253)	hypothetical protein
+lls:lilo_0181	CDS	198635..200116	guaB; IMP dehydrogenase
+lls:lilo_0182	CDS	200262..201467	yqeL; GTP-binding protein
+lls:lilo_0183	CDS	201537..202040	NUDIX family hydrolase
+lls:lilo_0184	CDS	202169..203368	hflX; GTP-binding protein HflX
+lls:lilo_0185	CDS	203414..203728	yccF; putative RNA-binding protein containing KH domain
+lls:lilo_0186	CDS	203763..204374	nadD1; nicotinate-nucleotide adenylyltransferase
+lls:lilo_0187	CDS	204367..204957	yccH; hypothetical protein
+lls:lilo_0188	CDS	205003..205428	yccI; hypothetical protein
+lls:lilo_0189	CDS	205618..205953	yccJ; hypothetical protein
+lls:lilo_0190	CDS	206053..206787	yccK; hypothetical protein
+lls:lilo_0191	CDS	206838..208007	yccL; hypothetical protein
+lls:lilo_0192	CDS	208050..208499	ycdA; hypothetical protein
+lls:lilo_0193	CDS	208655..209371	ycdB; hypothetical protein
+lls:lilo_0194	CDS	209437..210078	ycdC; unknown protein
+lls:lilo_0195	CDS	210075..210734	ung; uracil-DNA glycosilase
+lls:lilo_0196	CDS	complement(210707..211636)	putative zinc-binding dehydrogenase
+lls:lilo_0197	CDS	211786..212331	ycdF; transcription regulator
+lls:lilo_0198	CDS	complement(212442..213863)	ycdH; transporter
+lls:lilo_0199	CDS	214092..214454	rmeC; transcription regulator
+lls:lilo_0200	CDS	214540..214716	rpsU; 30S ribosomal protein S21
+lls:lilo_0201	CDS	214824..215636	yceE; hypothetical protein
+lls:lilo_0202	CDS	215827..217023	pgk; phosphoglycerate kinase
+lls:lilo_0203	CDS	217100..218086	dhaK; dihydroxyacetone kinase
+lls:lilo_0204	CDS	complement(218087..218629)	yceG; hypothetical protein
+lls:lilo_0205	CDS	218730..219722	dhaL; dihydroxyacetone kinase
+lls:lilo_0206	CDS	219732..220310	dhaM; dihydroxyacetone kinase
+lls:lilo_0207	CDS	220307..220678	yceJ; hypothetical protein
+lls:lilo_0208	CDS	220688..221404	glpF1; glycerol uptake facilitator
+lls:lilo_0209	CDS	complement(221444..222889)	pepDA; dipeptidase
+lls:lilo_0210	CDS	223016..223762	ycfB; ABC transporter ATP binding protein
+lls:lilo_0211	CDS	223759..224901	ycfC; ABC transporter permease protein
+lls:lilo_0212	CDS	224999..226168	ycfD; hypothetical protein
+lls:lilo_0213	CDS	226359..228281	fbp; fructose-1,6-bisphosphatase
+lls:lilo_t0012	tRNA	complement(228357..228445)	tRNA-Leu
+lls:lilo_0214	CDS	complement(228509..229786)	ycfF; hypothetical protein
+lls:lilo_0215	CDS	229927..230754	ycfG; hypothetical protein
+lls:lilo_0216	CDS	230903..231316	ycfH; hypothetical protein
+lls:lilo_0217	CDS	231487..233322	ycfI; ABC transporter ATP binding protein
+lls:lilo_0218	CDS	233319..235196	ABC transporter ATP binding and permease protein
+lls:lilo_0219	CDS	235292..235945	ycgC; hypothetical protein
+lls:lilo_0220	CDS	complement(235991..237064)	ycgD; oxidoreductase
+lls:lilo_0221	CDS	complement(237348..237824)	ycgE; autoinducer-2 production protein
+lls:lilo_0222	CDS	238038..238502	ycgF; unknown protein
+lls:lilo_0223	CDS	238567..239412	ycgG; oxidoreductase
+lls:lilo_0224	CDS	239554..240090	ycgH; amidase
+lls:lilo_0225	CDS	240194..240757	ycgI; unknown protein
+lls:lilo_0226	CDS	240754..241038	ycgJ; hypothetical protein
+lls:lilo_0227	CDS	complement(241077..242396)	acmA; N-acetylmuramidase
+lls:lilo_0228	CDS	242731..244983	nrdD; anaerobic ribonucleoside-triphosphate reductase
+lls:lilo_0229	CDS	244986..245585	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein
+lls:lilo_0230	CDS	complement(245694..246200)	ychC; hypothetical protein
+lls:lilo_0231	CDS	246491..247759	enoB; 2-phosphoglycerate dehydratase
+lls:lilo_t0013	tRNA	complement(247827..247914)	tRNA-Ser
+lls:lilo_0232	CDS	248058..248891	ychD; ABC transporter ATP-binding protein
+lls:lilo_0233	CDS	249420..250286	ychE; ABC transporter ATP-binding protein
+lls:lilo_0234	CDS	250286..251086	ychF; ABC transporter permease protein
+lls:lilo_0235	CDS	251110..251721	ychG; hypothetical protein
+lls:lilo_0236	CDS	251932..252702	ychH; putative 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+lls:lilo_0237	CDS	252841..253995	yciA; putative N-acetyldiaminopimelate deacetylase
+lls:lilo_0238	CDS	254118..255236	xynD; endo-1,4-beta-xylanase D
+lls:lilo_t0014	tRNA	255378..255451	tRNA-Arg
+lls:lilo_t0015	tRNA	255753..255826	tRNA-Pro
+lls:lilo_0239	CDS	256416..257027	rpsD; 30S ribosomal protein S4
+lls:lilo_0240	CDS	257154..259292	yciC; hypothetical protein
+lls:lilo_0241	CDS	259389..259832	yciD; SprT-like protein
+lls:lilo_0242	CDS	260106..261164	add; adenosine deaminase
+lls:lilo_0243	CDS	complement(261196..261414)	yciF; unknown protein
+lls:lilo_0244	CDS	complement(262070..263752)	yciH; hypothetical protein
+lls:lilo_0245	CDS	complement(263925..264167)	predicted RNA binding protein, contains RRM domain
+lls:lilo_0246	CDS	264278..264382	hypothetical protein
+lls:lilo_0247	CDS	264465..265190	ycjB; hypothetical protein
+lls:lilo_0248	CDS	265144..265713	ycjC; acetyltransferase
+lls:lilo_0249	CDS	265710..266180	ycjD; putative ribosomal-protein-alanine acetyltransferase
+lls:lilo_0250	CDS	266183..267223	gcp; O-sialoglycoprotein endopeptidase
+lls:lilo_0251	CDS	267223..267423	ycjF; unknown protein
+lls:lilo_0252	CDS	complement(267522..269192)	yihD; unknown protein
+lls:lilo_0253	CDS	complement(269202..270533)	ptcC; cellobiose-specific PTS system IIC component
+lls:lilo_0254	CDS	complement(270684..271427)	yecA; transcriptional regulator
+lls:lilo_0255	CDS	271583..272311	glpF1; glycerol uptake facilitator
+lls:lilo_0256	CDS	complement(272439..273227)	ycjH; unknown protein
+lls:lilo_0257	CDS	273527..274576	ycjI; unknown protein
+lls:lilo_0258	CDS	274674..275435	phnC; phosphonate ABC transporter ATP-binding protein
+lls:lilo_0259	CDS	275436..276248	phnB; phosphonate ABC transporter permease protein
+lls:lilo_0260	CDS	276251..277072	phnE; phosphonate ABC transporter permease protein
+lls:lilo_0261	CDS	277078..278637	ycjM; phosphatase
+lls:lilo_0262	CDS	278782..278901	hypothetical protein
+lls:lilo_0263	CDS	278964..279446	tpx; thiol peroxidase
+lls:lilo_0264	CDS	279619..282159	pepN; aminopeptidase N
+lls:lilo_0265	CDS	complement(282198..283406)	napC; multidrug-efflux transporter
+lls:lilo_0266	CDS	complement(283717..284196)	napB; hypothetical protein
+lls:lilo_0267	CDS	complement(284193..285470)	ydaE; cation transporter
+lls:lilo_0268	CDS	285747..286097	ydaF; hypothetical protein
+lls:lilo_0269	CDS	286389..288128	ydaG; ABC transporter ATP binding and permease protein
+lls:lilo_0270	CDS	288132..290126	ydbA; ABC transporter ATP binding and permease protein
+lls:lilo_0271	CDS	290303..291568	murA1; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+lls:lilo_0272	CDS	291614..291832	ydbC; hypothetical protein
+lls:lilo_0273	CDS	complement(291864..292703)	ywdE; transcription regulator
+lls:lilo_0274	CDS	293077..294111	homoserine dehydrogenase
+lls:lilo_0275	CDS	294111..295115	ATPase component of ABC transporter with duplicatedATPase domain
+lls:lilo_0276	CDS	295108..296181	hypothetical protein
+lls:lilo_0277	CDS	296199..297500	Na+-driven multidrug efflux pump
+lls:lilo_0278	CDS	297484..298797	epsJ; UDP-galactopyranose mutase
+lls:lilo_0279	CDS	298905..300617	ABC transporter ATP binding and permease protein
+lls:lilo_0280	CDS	complement(300648..301004)	ydbD; unknown protein
+lls:lilo_0281	CDS	complement(301028..301576)	ydbE; putative biotin biosynthesis protein
+lls:lilo_0282	CDS	complement(301687..302163)	ydbF; transcriptional regulator
+lls:lilo_0283	CDS	complement(302256..302804)	ydbH; hypothetical protein
+lls:lilo_0284	CDS	303532..304392	plpA; outer membrane lipoprotein precursor
+lls:lilo_0285	CDS	304536..305396	plpB; outer membrane lipoprotein precursor
+lls:lilo_0286	CDS	305552..306373	plpC; outer membrane lipoprotein precursor
+lls:lilo_0287	CDS	306392..307252	plpD; outer membrane lipoprotein precursor
+lls:lilo_0288	CDS	307356..308462	ydcB; amino acid ABC transporter ATP binding protein
+lls:lilo_0289	CDS	308462..309157	ydcC; amino acid ABC trasporter permease protein
+lls:lilo_0290	CDS	309205..309753	ydcD; hypothetical protein
+lls:lilo_0291	CDS	309862..311559	ydcE; ABC transporter ATP binding protein
+lls:lilo_0292	CDS	311552..312373	ydcF; ABC transporter permease protein
+lls:lilo_0293	CDS	312536..312829	ydcG; transcription regulator
+lls:lilo_0294	gene	312753..313521	fhuC; fhuC
+lls:lilo_0295	CDS	313525..314475	fhuB; ferrichrome ABC transporter permease protein
+lls:lilo_0296	CDS	314477..315415	fhuG; ferrichrome ABC transporter permease protein
+lls:lilo_0297	CDS	315605..316441	fhuD; ferrichrome ABC transporter substrate binding protein
+lls:lilo_0298	CDS	316503..317408	fhuR; fhu operon transcription regulator
+lls:lilo_0299	CDS	complement(317466..318647)	yddA; transporter
+lls:lilo_0300	CDS	complement(318660..319478)	yddB; oxidoreductase
+lls:lilo_0301	CDS	319656..319967	yddC; hypothetical protein
+lls:lilo_0302	CDS	319993..320385	yddD; hypothetical protein
+lls:lilo_0303	CDS	320562..321263	pmg; phosphoglycerate mutase
+lls:lilo_0304	CDS	321437..322000	ahpC; alkyl hydroperoxide reductase
+lls:lilo_0305	CDS	322047..323594	ahpF; alkyl hydroperoxide reductase
+lls:lilo_0306	CDS	323760..325925	pbp2B; penicillin-binding protein 2B
+lls:lilo_0307	CDS	326064..326660	recM; RecM protein
+lls:lilo_0308	CDS	326741..327826	ddl; D-alanyl-alanine synthetase A
+lls:lilo_0309	CDS	327901..329223	murF; UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+lls:lilo_0310	CDS	329392..331044	optS; oligopeptide ABC transporter substrate binding protein
+lls:lilo_0311	CDS	331333..332988	optA; oligopeptide ABC transporter substrate binding protein
+lls:lilo_0312	CDS	333066..333977	dppB; dipeptide transport system permease protein DppB
+lls:lilo_0313	CDS	333993..335024	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+lls:lilo_0314	CDS	335027..336076	optD; oligopeptide ABC transporter ATP binding protein
+lls:lilo_0315	CDS	336073..337014	optF; oligopeptide ABC transporter ATP binding protein
+lls:lilo_0316	CDS	337243..338814	prfC; peptide chain release factor RF-3
+lls:lilo_0317	CDS	339079..340722	rheA; ATP-dependent RNA helicase
+lls:lilo_0318	CDS	341093..342004	eraL; GTP-binding protein Era
+lls:lilo_0319	CDS	342102..343694	asnB; asparagine synthetase B
+lls:lilo_0320	CDS	343887..344705	mutM; formamidopyrimidine-DNA glycosylase
+lls:lilo_0321	CDS	344978..346021	recA; RecA protein
+lls:lilo_0322	CDS	complement(346034..347407)	ydgB; amino acid permease
+lls:lilo_0323	CDS	complement(347476..348732)	ydgC; amino acid permease
+lls:lilo_0324	CDS	349002..349382	ydgD; hypothetical protein
+lls:lilo_0325	CDS	349357..349683	ydgE; hypothetical protein
+lls:lilo_0326	CDS	349913..350431	ydgG; hypothetical protein
+lls:lilo_0327	CDS	complement(350496..351089)	ydgF; hypothetical protein
+lls:lilo_0328	CDS	351306..352112	hypothetical protein
+lls:lilo_0329	CDS	352301..352960	ydgI; hypothetical protein
+lls:lilo_0330	CDS	352947..353759	ydgJ; probable inorganic polyphosphate/ATP-NAD kinase
+lls:lilo_0331	CDS	353759..354640	rluE; pseudouridine synthase
+lls:lilo_0332	CDS	complement(354683..355513)	ppiA; peptidyl-prolyl cis-trans isomerase
+lls:lilo_0333	CDS	355824..357257	lysQ; lysine specific permease
+lls:lilo_0334	CDS	357372..358184	ydhB; hypothetical protein
+lls:lilo_0335	CDS	358184..359161	ydhC; thiamine biosynthesis lipoprotein
+lls:lilo_0336	CDS	complement(359257..360711)	lysS; lysyl-tRNA synthetase
+lls:lilo_0337	CDS	complement(360940..361758)	rlrG; LysR family transcription regulator
+lls:lilo_0338	CDS	361877..362917	ydhF; predicted membrane protein
+lls:lilo_0339	CDS	complement(363131..364075)	ldhB; L-lactate dehydrogenase
+lls:lilo_0340	CDS	complement(364370..365191)	rlrD; LysR family transcription regulator
+lls:lilo_0341	CDS	365346..366320	ydiA; permease
+lls:lilo_0342	CDS	366588..367808	thiI; thiamine biosynthesis protein ThiI
+lls:lilo_0343	CDS	368022..369440	ydiC; efflux pump antibiotic resistance protein
+lls:lilo_0344	CDS	369586..370191	ydiD; acyl carrier protein phosphodiesterase
+lls:lilo_0345	CDS	370287..370721	ydiE; hypothetical protein
+lls:lilo_0346	CDS	complement(370757..372799)	ydiF; Na+/H+ antiporter
+lls:lilo_0347	CDS	complement(372889..373368)	ydiG; unknown protein
+lls:lilo_0348	CDS	complement(373483..374808)	tyrS; tyrosyl-tRNA synthetase
+lls:lilo_0349	CDS	374887..377292	pbp1B; penicillin-binding protein 1B
+lls:lilo_0350	CDS	complement(377350..378417)	pepA; glutamyl aminopeptidase
+lls:lilo_0351	CDS	378520..378804	ydjB; unknown protein
+lls:lilo_0352	CDS	378846..379163	trxH; thioredoxin H-type
+lls:lilo_0353	CDS	379249..379875	ydjD; hypothetical protein
+lls:lilo_0354	CDS	380037..381377	noxE; NADH oxidase
+lls:lilo_0355	CDS	381466..381855	ssbA; single-strand binding protein
+lls:lilo_0356	CDS	381960..382259	groES; 10 KD chaperonin
+lls:lilo_0357	CDS	382347..383975	groEL; 60 KD chaperonin
+lls:lilo_0358	CDS	complement(384021..384833)	yeaA; hypothetical protein
+lls:lilo_0359	CDS	complement(385003..386445)	kinC; sensor protein kinase
+lls:lilo_0360	CDS	complement(386438..387139)	llrC; two-component system regulator
+lls:lilo_0361	CDS	387317..387952	yeaB; dTMP kinase
+lls:lilo_0362	CDS	388085..388945	holB; DNA polymerase III, delta' subunit
+lls:lilo_0363	CDS	388997..389779	yeaC; hypothetical protein
+lls:lilo_0364	CDS	389772..390098	yeaD; hypothetical protein
+lls:lilo_0365	CDS	390098..390973	yeaE; hypothetical protein
+lls:lilo_0366	CDS	complement(391050..391241)	yeaF; unknown protein
+lls:lilo_0367	CDS	complement(391304..392236)	yeaG; mevalonate kinase
+lls:lilo_0368	CDS	392542..393498	yeaH; diphosphomevalonate decarboxylase
+lls:lilo_0369	CDS	393485..394474	yebA; phosphomevalonate kinase
+lls:lilo_0370	CDS	394528..395571	yebB; isopentenyl-diphosphate delta-isomerase
+lls:lilo_0371	CDS	395729..396349	sodA; superoxide dismutase
+lls:lilo_0372	CDS	396601..398955	cstA; carbon starvation protein
+lls:lilo_0373	CDS	complement(399048..399749)	acyl carrier protein phosphodiesterase
+lls:lilo_0374	CDS	399790..400734	similar to transcription regulator
+lls:lilo_0375	CDS	400881..402221	rheB; ATP-dependent RNA helicase
+lls:lilo_0376	CDS	402225..402809	yebE; hypothetical protein
+lls:lilo_0377	CDS	402965..403711	yebF; transcription regulator
+lls:lilo_0378	CDS	403953..404279	ptcB; cellobiose-specific PTS system IIB component
+lls:lilo_0379	CDS	404364..404714	ptcA; cellobiose-specific PTS system IIA component
+lls:lilo_0380	CDS	404805..405536	yecA; transcription regulator
+lls:lilo_0381	CDS	405828..407165	ptcC; cellobiose-specific PTS system IIC component
+lls:lilo_0382	CDS	407247..408683	bglA; 6-phospho-beta-glucosidase
+lls:lilo_0383	CDS	408969..409250	yecD; unknown protein
+lls:lilo_t0016	tRNA	409409..409479	tRNA-Cys
+lls:lilo_0384	CDS	409613..411577	ligA; DNA ligase
+lls:lilo_0385	CDS	411731..412759	yecE; transcription regulator
+lls:lilo_0386	CDS	412976..414112	msmK; multiple sugar ABC transporter ATP-binding protein
+lls:lilo_0387	CDS	414420..418091	nifJ; pyruvate ferredoxin oxidoreductase
+lls:lilo_0388	CDS	418301..419179	yedA; hypothetical protein
+lls:lilo_0389	CDS	419169..420128	hypothetical protein
+lls:lilo_0390	CDS	420174..421532	femD; phosphoglucomutase
+lls:lilo_0391	CDS	complement(421607..422323)	rgrA; GntR family transcriptional regulator
+lls:lilo_0392	CDS	422434..422919	yedE; PTS system, beta-glucosides-specific IIA component
+lls:lilo_0393	CDS	423017..424621	yedF; beta-glucoside-specific PTS system IIBC component
+lls:lilo_0394	CDS	424689..426998	yeeA; glycosyl hydrolase, putative
+lls:lilo_0395	CDS	427144..427809	pgmB; beta-phosphoglucomutase
+lls:lilo_0396	CDS	complement(427867..428634)	yeeB; sugar hydrolase
+lls:lilo_0397	CDS	428746..429441	yeeC; unknown protein
+lls:lilo_0398	CDS	429631..430095	yeeE; hypothetical protein
+lls:lilo_0399	CDS	430092..430610	yeeF; hypothetical protein
+lls:lilo_0400	CDS	430715..432100	yeeG; transcription regulator
+lls:lilo_t0017	tRNA	432179..432252	tRNA-Arg
+lls:lilo_0401	CDS	432400..433161	truA; tRNA pseudouridine synthase A
+lls:lilo_0402	CDS	433194..433982	thiD2; phosphomethylpyrimidine kinase
+lls:lilo_0403	CDS	434022..434522	yeiE; hypothetical protein
+lls:lilo_0404	CDS	434503..435045	yeiF; hypothetical protein
+lls:lilo_0405	CDS	435046..436182	yeiG; putative aminotransferase
+lls:lilo_0406	CDS	436418..438025	pyrG; CTP synthase
+lls:lilo_0407	CDS	438166..439080	L-2-hydroxyisocaproate/malate/lactate dehydrogenase
+lls:lilo_0408	CDS	complement(439112..439981)	yejC; hypothetical protein
+lls:lilo_0409	CDS	complement(440627..441106)	yejD; unknown protein
+lls:lilo_0410	CDS	complement(441090..441512)	yejE; hypothetical protein
+lls:lilo_0411	CDS	complement(441644..442297)	dukA; deoxyguanosine kinase
+lls:lilo_0412	CDS	442776..445958	dnaE; DNA polymerase III, alpha chain 2
+lls:lilo_0413	CDS	complement(445988..446641)	hly; hemolysin like protein
+lls:lilo_0414	CDS	446813..447679	yejH; hypothetical protein
+lls:lilo_0415	CDS	447672..448532	yejI; hypothetical protein
+lls:lilo_0416	CDS	448529..449740	yejJ; beta-N-acetylhexosaminidase
+lls:lilo_0417	CDS	449750..450406	yfaA; hypothetical protein
+lls:lilo_0418	CDS	450493..450786	hslA; HU-like DNA-binding protein
+lls:lilo_0419	CDS	complement(450878..451375)	yfbM; transcription regulator
+lls:lilo_0420	CDS	451521..452030	ogt; 6-O-methylguanine-DNA methyltransferase
+lls:lilo_0421	CDS	452044..452604	adaA; methylphosphotriester-DNA alkyltransferase
+lls:lilo_0422	CDS	452698..453507	yfcA; ABC transporter ATP binding protein
+lls:lilo_0423	CDS	453504..454229	yfcB; ABC transporter permease protein
+lls:lilo_0424	CDS	454265..454750	yfcC; hypothetical protein
+lls:lilo_0425	CDS	454747..455124	yfcD; unknown protein
+lls:lilo_0426	CDS	455238..456383	nifZ; pyridoxal-phosphate dependent aminotransferase
+lls:lilo_0427	CDS	456490..457368	yfcF; hypothetical protein
+lls:lilo_0428	CDS	complement(457424..459073)	yfcG; peptide-binding protein
+lls:lilo_0429	CDS	complement(459285..460217)	cysM; cysteine synthase
+lls:lilo_0430	CDS	460435..461520	acmD; N-acetylmuramidase
+lls:lilo_0431	CDS	complement(461560..462192)	yfcI; hypothetical protein
+lls:lilo_0432	CDS	complement(462193..464286)	ponA; penicillin-binding protein 1A
+lls:lilo_0433	CDS	complement(464273..464914)	yfdA; putative recombination protein U
+lls:lilo_0434	CDS	464995..465519	yfdB; hypothetical protein
+lls:lilo_0435	CDS	465664..466065	yfdC; hypothetical protein
+lls:lilo_0436	CDS	466157..466438	yfdD; hypothetical protein
+lls:lilo_0437	CDS	466422..467183	yfdE; myo-inositol-1(or 4)-monophosphatase
+lls:lilo_0438	CDS	467274..468557	murA2; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+lls:lilo_0439	CDS	468557..468748	yfdG; unknown protein
+lls:lilo_0440	CDS	468905..470188	tig; trigger factor
+lls:lilo_r0001	rRNA	470599..472146	5S ribosomal RNA
+lls:lilo_t0018	tRNA	472240..472312	tRNA-Ala
+lls:lilo_r0002	rRNA	472421..475351	23S ribosomal RNA
+lls:lilo_r0003	rRNA	475434..475549	16S ribosomal RNA
+lls:lilo_t0019	tRNA	475553..475625	tRNA-Val
+lls:lilo_t0020	tRNA	475655..475727	tRNA-Asp
+lls:lilo_t0021	tRNA	475745..475817	tRNA-Lys
+lls:lilo_t0022	tRNA	475826..475907	tRNA-Leu
+lls:lilo_t0023	tRNA	475920..475992	tRNA-Thr
+lls:lilo_t0024	tRNA	476018..476089	tRNA-Gly
+lls:lilo_t0025	tRNA	476129..476202	tRNA-Arg
+lls:lilo_t0026	tRNA	476208..476281	tRNA-Pro
+lls:lilo_t0027	tRNA	476319..476392	tRNA-Met
+lls:lilo_t0028	tRNA	476405..476478	tRNA-Met
+lls:lilo_t0029	tRNA	476486..476558	tRNA-Phe
+lls:lilo_t0030	tRNA	476569..476639	tRNA-Gly
+lls:lilo_t0031	tRNA	476666..476739	tRNA-Ile
+lls:lilo_t0032	tRNA	476782..476869	tRNA-Ser
+lls:lilo_0441	CDS	477048..478961	dnaG; DNA primase
+lls:lilo_0442	CDS	479038..480381	rpoD; major RNA polymerase sigma factor
+lls:lilo_0443	CDS	480495..481055	yfeA; transcription regulator
+lls:lilo_0444	CDS	481477..482769	glpT; glycerol-3-phosphatase transporter
+lls:lilo_0445	CDS	483053..483391	yffA; unknown protein
+lls:lilo_0446	CDS	483442..485688	clpE; ATP-dependent protease ATP-binding subunit
+lls:lilo_0447	CDS	complement(485848..486360)	yffB; hypothetical protein
+lls:lilo_0448	CDS	486491..487504	gapA; glyceraldehyde 3-phosphate dehydrogenase
+lls:lilo_0449	CDS	complement(487647..488282)	def; polypeptide deformylase
+lls:lilo_0450	CDS	488436..488891	yffD; diadenosine 5',5'''-P1,P4-tetraphosphate hydrolase
+lls:lilo_0451	CDS	488902..490980	uvrB; excinuclease ABC subunit B
+lls:lilo_0452	CDS	491176..491985	gltS; glutamate or arginine ABC transporter substrate binding protein
+lls:lilo_0453	CDS	492000..493118	argE; acetylornithine deacetylase
+lls:lilo_0454	CDS	complement(493186..493641)	fabZ1; hydroxymyristoyl-acyl carrier protein dehydratase
+lls:lilo_0455	CDS	493917..494669	fabI; enoyl-[acyl-carrier protein] reductase (NADH)
+lls:lilo_0456	CDS	complement(495272..496195)	yfgG; preprotein translocase subunit
+lls:lilo_0457	CDS	complement(496409..497167)	yfgH; hypothetical protein
+lls:lilo_0458	CDS	complement(497260..497850)	yfgL; hypothetical membrane protein
+lls:lilo_0459	CDS	complement(497867..498403)	dfpA; phosphopantothenoylcysteine synthase/decarboxylase
+lls:lilo_0460	CDS	complement(498396..499091)	dfpB; hypothetical protein
+lls:lilo_0461	CDS	complement(499237..499422)	xylH; 4-oxalocrotonate tautomerase
+lls:lilo_0462	CDS	499620..501947	yfgQ; cation-transporting ATPase
+lls:lilo_0463	CDS	501960..502403	yfhA; putative acetyltransferase
+lls:lilo_0464	CDS	502510..503535	yfhB; hypothetical protein
+lls:lilo_0465	CDS	503687..504280	yfhC; unknown protein
+lls:lilo_0466	CDS	504460..504960	crtK; carotenoid biosynthetic protein CrtK
+lls:lilo_0467	CDS	505079..505480	yfhF; hypothetical protein
+lls:lilo_0468	CDS	505484..507280	yfhG; hypothetical protein
+lls:lilo_0469	CDS	507277..508050	yfhH; hypothetical protein
+lls:lilo_0470	CDS	508228..508596	yfhJ; unknown protein
+lls:lilo_0471	CDS	508824..509108	yfhK; hypothetical protein
+lls:lilo_0472	CDS	complement(509411..510109)	yfhL; hypothetical protein
+lls:lilo_0473	CDS	complement(510266..510646)	yfiA; hypothetical protein
+lls:lilo_0474	CDS	complement(510606..512072)	umuC; SOS responce UmuC protein
+lls:lilo_0475	CDS	complement(512414..512947)	yfiC; unknown protein
+lls:lilo_0476	CDS	513248..513757	yfiD; unknown protein
+lls:lilo_0477	CDS	complement(513810..514241)	rmaJ; transcription regulator
+lls:lilo_0478	CDS	514342..514755	yfiE; hypothetical protein
+lls:lilo_0479	CDS	515301..515870	yfiG; thymidine kinase
+lls:lilo_0480	CDS	515926..516369	yfiH; unknown protein
+lls:lilo_0481	CDS	516387..517460	prfA; peptide chain release factor RF-1
+lls:lilo_0482	CDS	517460..517987	yfiI; unknown protein
+lls:lilo_0483	CDS	518050..518805	yfiJ; NADPH-flavin oxidoreductase
+lls:lilo_0484	CDS	518911..519723	hemK; protoporphyrinogen oxidase
+lls:lilo_0485	CDS	519757..520221	yfiL; hypothetical protein
+lls:lilo_0486	CDS	520218..521138	yfjA; hypothetical protein
+lls:lilo_0487	CDS	521369..522616	glyA; serine hydroxymethyltransferase
+lls:lilo_0488	CDS	522778..523380	yfjB; transposon-related protein
+lls:lilo_0489	CDS	523498..524604	serC; phosphoserine aminotransferase
+lls:lilo_0490	CDS	524601..525797	serA; D-3-phosphoglycerate dehydrogenase
+lls:lilo_0491	CDS	525821..526471	serB; phosphoserine phosphatase
+lls:lilo_0492	CDS	complement(526576..526869)	yfjC; acylphosphate phosphohydrolase
+lls:lilo_0493	CDS	527169..527927	yfjD; tRNA/rRNA methyltransferase
+lls:lilo_0494	CDS	complement(528363..528806)	yfjE; flavodoxin
+lls:lilo_0495	CDS	complement(528955..530460)	yfjF; membrane-bound transport protein
+lls:lilo_0496	CDS	530675..531301	yfjH; putative transcriptional regulator, TetR family
+lls:lilo_0497	CDS	531621..532439	pepM; mathionine aminopeptidase
+lls:lilo_0498	CDS	532459..533364	ygaB; putative tRNA-processing ribonuclease BN
+lls:lilo_0499	CDS	complement(533457..533903)	ygaC; unknown protein
+lls:lilo_0500	CDS	534050..534772	ygaD; unknown protein
+lls:lilo_0501	CDS	534804..535079	ygaE; unknown protein
+lls:lilo_0502	CDS	535184..535360	ygaF; unknown protein
+lls:lilo_0503	CDS	535464..536393	ptsK; hpr(ser) kinase / phosphatase
+lls:lilo_0504	CDS	536457..537242	lgt; prolipoprotein diacylglycerol transferase
+lls:lilo_0505	CDS	537409..537828	ygaI; hypothetical protein
+lls:lilo_0506	CDS	537858..538421	ygaJ; unknown protein
+lls:lilo_0507	CDS	538554..539972	gnd; 6-phosphogluconate dehydrogenase, decarboxylating
+lls:lilo_0508	CDS	540153..542165	kupA; potassium uptake protein
+lls:lilo_0509	CDS	542390..544405	kupB; potassium uptake protein
+lls:lilo_0510	CDS	complement(544451..544621)	hypothetical protein
+lls:lilo_0511	CDS	544818..545483	ygbB; hypothetical protein
+lls:lilo_0512	CDS	545622..546506	miaA; tRNA isopentenyltransferase
+lls:lilo_0513	CDS	546589..547257	ygbD; unknown protein
+lls:lilo_0514	CDS	547427..548323	ygbE; hypothetical protein
+lls:lilo_t0033	tRNA	548422..548493	tRNA-Arg
+lls:lilo_0515	CDS	548699..548959	ygbF; unknown protein
+lls:lilo_t0034	tRNA	549118..549193	tRNA-Lys
+lls:lilo_0516	CDS	549317..550240	ygbG; ribonuclease Z
+lls:lilo_0517	CDS	550233..550934	ygcA; oxidoreductase
+lls:lilo_0518	CDS	551101..553329	recJ; single-stranded DNA specific exonuclease
+lls:lilo_0519	CDS	553407..553964	apt; adenine phosphoribosyltransferase
+lls:lilo_0520	CDS	554181..554744	rpoE; DNA-directed RNA polymerase delta chain
+lls:lilo_0521	CDS	554884..556533	ygcC; hypothetical protein
+lls:lilo_0522	CDS	556596..557066	greA; transcription elongation factor GreA
+lls:lilo_0523	CDS	557243..557698	ctsR; transctiptional regulator CtsR
+lls:lilo_0524	CDS	557688..560138	clpC; ATP-dependent protease ATP-binding subunit
+lls:lilo_0525	CDS	560273..560830	ygdA; hypothetical protein
+lls:lilo_0526	CDS	561021..562322	enoA; enolase
+lls:lilo_0527	CDS	complement(562437..563108)	ygfA; ABC transporter ATP-binding protein
+lls:lilo_0528	CDS	complement(563111..564184)	ygfB; ABC transporter permease protein
+lls:lilo_0529	CDS	complement(564196..564765)	ygfC; transcription regulator
+lls:lilo_0530	CDS	complement(564951..566474)	fadD; long-chain acyl-CoA synthetase
+lls:lilo_0531	CDS	566666..567583	ygfE; divalent cation transport-related protein
+lls:lilo_0532	CDS	567845..570208	pfl; pyruvate-formate lyase
+lls:lilo_0533	CDS	570340..570999	yggA; dephospho-CoA kinase
+lls:lilo_0534	CDS	571002..572219	pmrA; multidrug resistance efflux pump
+lls:lilo_0535	CDS	572216..572362	rpmGA; 50S ribosomal protein L33
+lls:lilo_0536	CDS	572681..573964	ftsW1; cell division protein FtsW
+lls:lilo_0537	CDS	574070..577483	pycA; pyruvate carboxylase
+lls:lilo_0538	CDS	577608..578933	gltA; citrate synthase
+lls:lilo_0539	CDS	578930..581476	citB; aconitate hydratase
+lls:lilo_0540	CDS	581485..582735	icd; isocitrate dehydrogenase
+lls:lilo_0541	CDS	complement(582801..583400)	clpP; ATP-dependent Clp protease proteolytic subunit
+lls:lilo_0542	CDS	583597..584127	yghB; hypothetical protein
+lls:lilo_0543	CDS	584287..584685	yghC; hypothetical protein
+lls:lilo_0544	CDS	complement(584853..584969)	putative secreted protein
+lls:lilo_0545	CDS	complement(585066..586229)	yghD; hypothetical protein
+lls:lilo_0546	CDS	586572..589328	pacL; cation-transporting ATPase
+lls:lilo_0547	CDS	589812..590843	yghG; unknown protein
+lls:lilo_0548	CDS	590848..592068	icaA; similar to intercellular adhesion protein A
+lls:lilo_0549	CDS	592407..593246	icaB; intercellular adhesion protein IcaB
+lls:lilo_0550	CDS	593218..594714	icaC; collagen adhesin
+lls:lilo_0551	CDS	complement(594792..596162)	brnQ; branched-chain amino acid permease
+lls:lilo_0552	CDS	complement(596400..596717)	ygiG; hypothetical protein
+lls:lilo_0553	CDS	complement(596672..596944)	ygiH; hypothetical protein
+lls:lilo_0554	CDS	complement(597566..598327)	tra904I; transposase of IS904I
+lls:lilo_0555	CDS	complement(598423..598728)	yvjF; transposase
+lls:lilo_0556	CDS	599615..599788	nisA; GTNG_0265 lantibiotic antimicrobial precursor peptinisin Ade
+lls:lilo_0557	CDS	599896..602877	nisB; could encode enzyme catalyzing modification reactions
+lls:lilo_0558	CDS	602888..604690	nisT; nisin transport protein
+lls:lilo_0559	CDS	604683..605927	nisC; could encode enxyme catalyzing modification reactions
+lls:lilo_0560	CDS	complement(604931..605074)	anthionine synthetase N-terminal
+lls:lilo_0561	CDS	605924..606661	nisI; encodes a protein involved in immunity against nisin
+lls:lilo_0562	CDS	606663..608711	nisP; cleave leader peptide/cell wall-associated serine proteasee proteinase
+lls:lilo_0563	CDS	608777..609466	nisR; cytoplasmatic regulatory protein
+lls:lilo_0564	CDS	609459..610802	nisK,baeS; two component system histidine kinase
+lls:lilo_0565	CDS	610901..611578	nisF; ABC transporter ATPase component
+lls:lilo_0566	CDS	611580..612308	nisE; major facilitator superfamily permease
+lls:lilo_0567	CDS	612295..612939	nisG,baeS; two component system histidine kinase
+lls:lilo_0568	CDS	complement(613453..613863)	transposase ISXB
+lls:lilo_0569	CDS	complement(613932..614276)	transposase ISXA
+lls:lilo_0570	CDS	complement(614314..614547)	yuiI; transposase
+lls:lilo_0571	CDS	complement(614637..615593)	scrR; LacI family sucrose operon repressor
+lls:lilo_0572	CDS	complement(615590..617008)	scrB; sucrase-6-phosphate hydrolase (sucrase, invertase)
+lls:lilo_0573	CDS	617188..619140	scrA; sucrose-specific phosphotransferase system, enzymeIIBCA
+lls:lilo_0574	CDS	619153..620025	scrK; fructokinase
+lls:lilo_t0035	tRNA	620991..621064	tRNA-Met
+lls:lilo_0575	CDS	complement(621211..621366)	polysaccharide transporter
+lls:lilo_t0036	tRNA	621446..621519	tRNA-Met
+lls:lilo_0576	CDS	621621..621821	hypothetical protein
+lls:lilo_0577	CDS	621952..622152	cspC; cold shock protein cspC
+lls:lilo_0578	CDS	622430..622630	cspD; cold shock protein CspD
+lls:lilo_0579	CDS	623147..623386	ymgJ; hypothetical protein
+lls:lilo_0580	CDS	623416..623976	ymgI; unknown protein
+lls:lilo_0581	CDS	623986..624174	ymgH; hypothetical protein
+lls:lilo_0582	CDS	624195..624746	ymgG; hypothetical protein
+lls:lilo_0583	CDS	625483..625821	hypothetical protein
+lls:lilo_0584	CDS	625860..626798	ceo; N5-carboxyethyl-ornithine synthase
+lls:lilo_0585	CDS	627245..627676	putative DNA-binding protein, XRE family
+lls:lilo_0586	CDS	complement(628232..628585)	yqbH; transcription regulator
+lls:lilo_0587	CDS	629077..630189	wecB; UDP-N-acetylglucosamine 2-epimerase
+lls:lilo_0588	CDS	630209..631054	hypothetical protein
+lls:lilo_0589	CDS	631200..632516	glycosyl transferase, family 2
+lls:lilo_0590	CDS	632528..633643	putative beta-glucanase precursor
+lls:lilo_0591	CDS	635058..635528	yujC; unknown protein
+lls:lilo_0592	CDS	635655..635927	yujC; unknown protein
+lls:lilo_0593	CDS	635946..636422	yujB; hypothetical protein
+lls:lilo_0594	CDS	complement(636534..637262)	ABC transporter permease protein
+lls:lilo_0595	CDS	complement(637264..638121)	ABC transporter ATP-binding protein
+lls:lilo_0596	CDS	complement(638646..639551)	hypothetical protein
+lls:lilo_0597	CDS	complement(639561..639917)	yqbH; transcription regulator
+lls:lilo_0598	CDS	complement(640152..640322)	membrane-associated serine protease
+lls:lilo_t0037	tRNA	640541..640612	tRNA-Ile
+lls:lilo_0599	CDS	640637..640957	hypothetical protein
+lls:lilo_0600	CDS	641070..642140	usp45; hypothetical protein
+lls:lilo_0601	CDS	642290..642592	ribosomal protein L5
+lls:lilo_0602	CDS	642610..643086	putative nucleolar protein
+lls:lilo_0603	CDS	643090..644772	putative transposon protein
+lls:lilo_0604	CDS	complement(644870..645025)	csd2; cysteine desulfurase
+lls:lilo_0605	CDS	645402..646556	pgm; phosphoglucomutase
+lls:lilo_0606	CDS	646692..647021	addB; ATP-dependent deoxyribonuclease subunit B
+lls:lilo_0607	CDS	647108..647419	hypothetical protein
+lls:lilo_0608	CDS	647551..647811	histidinol-phosphate/aromatic aminotransferase and cobyric acid decarboxylase
+lls:lilo_0609	CDS	648123..648419	hypothetical protein
+lls:lilo_0610	CDS	648416..648838	ABC transporter ATP-binding protein
+lls:lilo_0611	CDS	648934..651342	hypothetical cell surface protein precursor
+lls:lilo_0612	CDS	651596..652909	translation initiation factor 2
+lls:lilo_0613	CDS	652922..653185	yghG; unknown protein
+lls:lilo_0614	CDS	653546..656200	putative conjugative transposon protein
+lls:lilo_0615	CDS	656200..658317	putative metal-dependent phosphohydrolase precursor
+lls:lilo_0616	CDS	658321..659367	isp2; cell wall binding domain protein
+lls:lilo_0617	CDS	659462..659956	hypothetical protein
+lls:lilo_0618	CDS	659982..660473	ardA; Antirestriction protein
+lls:lilo_0619	CDS	660528..660734	xisTn5276; putative Tn5276 excisionase
+lls:lilo_0620	CDS	660775..661956	intTn5276; IntTn5276 protein
+lls:lilo_0621	CDS	662102..662875	ygiI; putative deoxyribonuclease
+lls:lilo_0622	CDS	662913..663446	ygiJ; hypothetical protein
+lls:lilo_0623	CDS	663424..664044	ygiK; hypothetical protein
+lls:lilo_0624	CDS	664155..665039	ksgA; dimethyladenosine transferase
+lls:lilo_0625	CDS	665140..666198	pepP; aminopeptidase P
+lls:lilo_0626	CDS	666330..666887	efp; elongation factor EF-P
+lls:lilo_0627	CDS	666983..667435	ygjB; hypothetical protein
+lls:lilo_0628	CDS	667428..668399	nusB; transcription termination protein NusB
+lls:lilo_0629	CDS	668615..670618	malQ; 4-alpha-glucanotransferase
+lls:lilo_0630	CDS	670719..671861	glgC; glucose-1-phosphate adenylyltransferase
+lls:lilo_0631	CDS	671851..672990	glgD; glucose-1-phosphate adenylyltransferase
+lls:lilo_0632	CDS	673070..674521	glgA; glycogen synthase
+lls:lilo_0633	CDS	674727..677012	glgP; glycogen phosphorylase
+lls:lilo_0634	CDS	677102..678904	apu; amylopullulanase
+lls:lilo_0635	CDS	679130..680623	dtpT; di-/tripeptide transporter
+lls:lilo_0636	CDS	680770..681000	hypothetical protein
+lls:lilo_0637	CDS	681338..682813	cydA; cytochrome bd-I oxidase subunit I
+lls:lilo_0638	CDS	682813..683808	cydB; cytochrome d ubiquinol oxidase subunit II
+lls:lilo_0639	CDS	684164..686026	cydC; cytochrome D ABC transporter ATP binding and permease protein
+lls:lilo_0640	CDS	686026..687747	cydD; cytochrome D ABC transporter ATP binding and permease protein
+lls:lilo_0641	CDS	687909..688022	hypothetical protein
+lls:lilo_0642	CDS	688040..688915	rmaB; transcription regulator
+lls:lilo_0643	CDS	688941..689396	yhbE; putative flavodoxin
+lls:lilo_0644	CDS	689423..690097	yhbF; hypothetical protein
+lls:lilo_0645	CDS	690181..691953	lmrA; multidrug resistance ABC transporter ATP binding and permease protein
+lls:lilo_0646	CDS	complement(691972..692583)	yhbH; predicted integral membrane protein
+lls:lilo_0647	CDS	complement(692654..693298)	apl; alkaline phosphatase
+lls:lilo_0648	CDS	complement(693505..695499)	yhcA; ABC transporter ATP binding and permease protein
+lls:lilo_0649	CDS	complement(695606..695824)	yhcC; hypothetical protein
+lls:lilo_0650	CDS	696034..696696	yhcB; unknown protein
+lls:lilo_0651	CDS	complement(696728..697714)	qor; quinone oxidoreductase
+lls:lilo_0652	CDS	697882..698991	metE2; 5-methyltetrahydropteroyltriglutamate--homocysteinemethyltransferase
+lls:lilo_0653	CDS	699116..699868	yhcG; putative metal-dependent hydrolase
+lls:lilo_0654	CDS	699856..700794	yhcH; hypothetical protein
+lls:lilo_0655	CDS	700795..701262	yhcI; hypothetical protein
+lls:lilo_nc0001	ncRNA	701301..701391	ffs; ffs; SRP RNA; RNA component of signal recognition particle
+lls:lilo_0656	CDS	701413..701937	hypothetical protein
+lls:lilo_0657	CDS	complement(701964..702380)	yhdA; hypothetical protein
+lls:lilo_0658	CDS	complement(702588..702755)	hypothetical protein
+lls:lilo_0659	CDS	complement(702752..703864)	yhdB; O-succinylbenzoate-CoA synthase
+lls:lilo_0660	CDS	complement(703861..705216)	menE; O-succinylbenzoic acid--CoA ligase
+lls:lilo_0661	CDS	complement(705343..706185)	menB; naphthoate synthase
+lls:lilo_0662	CDS	complement(706572..707387)	menX; YtxM-like protein
+lls:lilo_0663	CDS	complement(707377..709071)	menD; 2-oxoglutarate decarboxylase / 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+lls:lilo_0664	CDS	complement(709112..710326)	menF; menaquinone-specific isochorismate synthase
+lls:lilo_0665	CDS	710543..711124	yhdC; acetyl transferase
+lls:lilo_0666	CDS	711131..712411	yheA; hypothetical protein
+lls:lilo_0667	CDS	712430..713353	yheB; phosphoesterase, DHH family protein
+lls:lilo_0668	CDS	complement(713586..714557)	ansB; L-asparaginase
+lls:lilo_0669	CDS	714749..716137	ansB; L-asparaginase
+lls:lilo_0670	CDS	716227..716571	yheE; unknown protein
+lls:lilo_0671	CDS	716632..718143	floL; flotillin-like protein
+lls:lilo_0672	CDS	complement(718181..719533)	thrA; aspartate kinase
+lls:lilo_0673	CDS	719841..720509	yhfA; predicted sugar phosphatase of HAD family
+lls:lilo_0674	CDS	720603..722567	yhfB; signaling protein
+lls:lilo_0675	CDS	722564..723016	rplI; 50S ribosomal protein L9
+lls:lilo_0676	CDS	723022..724389	dnaC; replicative DNA helicase
+lls:lilo_0677	CDS	724584..724841	yhfC; hypothetical protein
+lls:lilo_0678	CDS	724910..725683	yhfD; putative kinase
+lls:lilo_0679	CDS	725804..726457	trmB; tRNA (guanine-N7-)-methyltransferase
+lls:lilo_0680	CDS	726576..727022	yhfF; ATP-cone domain protein
+lls:lilo_0681	CDS	727181..728368	dnaB; replication protein DnaB
+lls:lilo_0682	CDS	728368..729249	dnaI; primosomal protein DnaI
+lls:lilo_0683	CDS	729242..729964	yhgA; oxidoreductase
+lls:lilo_0684	CDS	730072..730587	yhgB; uncharacterized low-complexity protein
+lls:lilo_0685	CDS	730694..732004	yphL; GTP-binding protein
+lls:lilo_0686	CDS	732110..732955	yhgC; transcriptional regulator, rgg family
+lls:lilo_0687	CDS	733152..734288	cell surface protein
+lls:lilo_0688	CDS	735319..738990	yhgD; unknown protein
+lls:lilo_0689	CDS	739099..740943	yhgE; unknown protein
+lls:lilo_0690	CDS	741006..742304	yhhA; sortase, putative
+lls:lilo_0691	CDS	742291..743016	yhhB; unknown protein
+lls:lilo_0692	CDS	complement(743091..743789)	yhhC; putative effector of murein hydrolase
+lls:lilo_0693	CDS	complement(743808..744212)	lrgA; LrgA family protein
+lls:lilo_0694	CDS	744467..744958	yhhE; hypothetical protein
+lls:lilo_0695	CDS	745123..746271	nusA; transcription termination protein NusA
+lls:lilo_0696	CDS	746436..746762	yhhG; hypothetical protein
+lls:lilo_0697	CDS	746765..747070	ylxQ; hypothetical protein
+lls:lilo_0698	CDS	747091..749925	infB; translation initiation factor IF-2
+lls:lilo_0699	CDS	750307..750666	rbfA; ribosome-binding factor A
+lls:lilo_0700	CDS	750845..751792	pmi; mannose-6-phosphate isomerase
+lls:lilo_0701	CDS	752209..752649	rmaG; transcriptional regulator
+lls:lilo_0702	CDS	752649..753626	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III
+lls:lilo_0703	CDS	753793..754014	acpA; acyl carrier protein
+lls:lilo_0704	CDS	754295..755221	fabD; malonyl CoA-acyl carrier protein transacylase
+lls:lilo_0705	CDS	755307..756038	fabG1; 3-oxoacyl-[acyl-carrier protein] reductase
+lls:lilo_0706	CDS	756079..757308	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II
+lls:lilo_0707	CDS	757315..757782	accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+lls:lilo_0708	CDS	757909..758343	fabZ; (3R)-hydroxymyristoyl-(acyl carrier protein) dehydratase
+lls:lilo_0709	CDS	758629..759996	accC; biotin carboxylase
+lls:lilo_0710	CDS	760082..760948	accD; acetyl-CoA carboxylase carboxyl transferase subunitbeta
+lls:lilo_0711	CDS	760941..761735	accA; AccA protein
+lls:lilo_0712	CDS	complement(761773..762819)	LacI family transcriptional regulator
+lls:lilo_0713	CDS	763001..764080	hypothetical protein
+lls:lilo_0714	CDS	764100..765059	hypothetical protein
+lls:lilo_0715	CDS	765090..767477	hypothetical protein
+lls:lilo_0716	CDS	767458..768765	hypothetical protein
+lls:lilo_0717	CDS	768789..769601	hypothetical protein
+lls:lilo_0718	CDS	769715..770857	metB2; cystathionine beta-lyase
+lls:lilo_0719	CDS	771072..771992	cysK; cysteine synthase
+lls:lilo_0720	CDS	772180..772461	yhjA; hypothetical protein
+lls:lilo_0721	CDS	772594..772896	yhjB; putative rhodanese-related sulfurtransferase
+lls:lilo_0722	CDS	772907..773215	yhjC; putative rhodanese-related sulfurtransferase
+lls:lilo_0723	CDS	773212..774855	noxC; NADH oxidase
+lls:lilo_0724	CDS	774879..775136	yhjE; hypothetical protein, nickel resistance determinant
+lls:lilo_0725	CDS	775212..775562	yhjF; arsenate reductase related protein, glutaredoxin family
+lls:lilo_0726	CDS	complement(775731..776474)	rdrA; transcription regulator of sugar metabolism
+lls:lilo_0727	CDS	complement(776569..777132)	yhjG; acetyl transferase
+lls:lilo_0728	CDS	complement(777215..778219)	exoA; exodeoxyribonuclease III
+lls:lilo_0729	CDS	778254..780254	metS; MetS protein
+lls:lilo_0730	CDS	780376..780525	hypothetical protein
+lls:lilo_0731	CDS	780772..781011	yiaA; unknown protein
+lls:lilo_0732	CDS	780989..781759	yiaB; 3-oxoacyl-[acyl-carrier protein] reductase
+lls:lilo_0733	CDS	781028..781759	yiaB; 3-oxoacyl-[acyl-carrier protein] reductase
+lls:lilo_0734	CDS	782232..782672	yiaC; hypothetical protein
+lls:lilo_0735	CDS	782776..783408	yiaD; putative NADH-flavin reductase
+lls:lilo_0736	CDS	783548..784570	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+lls:lilo_0737	CDS	784582..785772	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase
+lls:lilo_0738	CDS	785785..786918	argD; acetylornithine aminotransferase
+lls:lilo_0739	CDS	786915..787766	argB; ArgB protein
+lls:lilo_0740	CDS	787794..788795	argF; ArgF protein
+lls:lilo_0741	CDS	788967..789662	rnc; ribonuclease III
+lls:lilo_0742	CDS	789652..793176	smc; chromosome segregation protein smc
+lls:lilo_0743	CDS	793418..795586	yibC; alkaline phosphatase superfamily protein
+lls:lilo_0744	CDS	795677..796087	yibD; unknown protein
+lls:lilo_0745	CDS	796178..797296	yibE; unknown protein
+lls:lilo_0746	CDS	797293..798054	yibF; predicted multitransmembrane protein
+lls:lilo_0747	CDS	complement(798104..799414)	yibG; amino acid permease
+lls:lilo_0748	CDS	799821..800630	yicB; predicted hydrolase of the HAD superfamily
+lls:lilo_0749	CDS	800640..801191	yicC; hypothetical protein
+lls:lilo_0750	CDS	801257..802636	ftsY; cell division protein FtsY
+lls:lilo_0751	CDS	802812..803786	prsA; ribose-phosphate pyrophosphokinase
+lls:lilo_0752	CDS	803859..804530	yicE; putative regulator
+lls:lilo_0753	CDS	804601..807090	leuS; leucyl-tRNA synthetase
+lls:lilo_0754	CDS	807422..808177	yidA; HTH-type transcriptional regulator
+lls:lilo_0755	CDS	808591..810009	yidB; cellobiose-specific PTS system IIC component
+lls:lilo_0756	CDS	810094..811455	yidC; beta-glucosidase
+lls:lilo_0757	CDS	811706..812509	cpo; non-heme chloride peroxidase
+lls:lilo_0758	CDS	812669..813022	yidE; unknown protein
+lls:lilo_0759	CDS	813162..814421	noxA; NADH dehydrogenase
+lls:lilo_0760	CDS	814565..816568	noxB; NADH dehydrogenase
+lls:lilo_0761	CDS	816682..817353	sdaB; L-serine dehydratase beta subunit
+lls:lilo_0762	CDS	817373..818236	sdaA; L-serine dehydratase alpha subunit
+lls:lilo_0763	CDS	818357..818812	copR; transcription regulator
+lls:lilo_0764	CDS	818828..819028	yieF; mercuric reductase
+lls:lilo_0765	CDS	819214..821376	copA; copper/potassium-transporting ATPase
+lls:lilo_0766	CDS	complement(821564..824215)	yieH; hypothetical protein
+lls:lilo_0767	CDS	complement(824286..825071)	yifA; putative galactose-1-phosphate uridylyltransferase
+lls:lilo_0768	CDS	825323..826477	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+lls:lilo_0769	CDS	826688..827914	rpsA; 30S ribosomal protein S1
+lls:lilo_0770	CDS	828090..829121	hypothetical protein
+lls:lilo_0771	CDS	829244..829912	llrE; DNA-binding response regulator, OmpR family
+lls:lilo_0772	CDS	830058..831209	kinE; signal transduction histidine kinase
+lls:lilo_0773	CDS	831349..832065	udp; uridine phosphorylase
+lls:lilo_0774	CDS	832194..832907	pnuC1; nicotinamide mononucleotide transporter
+lls:lilo_0775	CDS	833002..835008	uvrC; excinuclease ABC subunit C
+lls:lilo_0776	CDS	835171..836334	mutY; A/G-specific adenine glycosylase
+lls:lilo_0777	CDS	836400..837818	pepV; dipeptidase
+lls:lilo_0778	CDS	837921..838280	acpS; holo-[acyl-carrier protein] synthase
+lls:lilo_0779	CDS	838325..839428	dal; alanine racemase
+lls:lilo_0780	CDS	839580..840017	yigC; hypothetical protein
+lls:lilo_0781	CDS	840155..841462	gshR; glutathione reductase
+lls:lilo_0782	CDS	841588..842505	choQ; choline ABC transporter ATP binding protein
+lls:lilo_0783	CDS	842502..844004	choS; choline ABC transporter permease and substrate binding protein
+lls:lilo_0784	CDS	844266..846713	ypiL; hypothetical protein
+lls:lilo_0785	CDS	846720..847313	yihA; unknown protein
+lls:lilo_0786	CDS	847310..847762	yihB; unknown protein
+lls:lilo_0787	CDS	complement(847812..849890)	copB; copper-potassium transporting ATPase B
+lls:lilo_0788	CDS	850092..853346	yihD; unknown protein
+lls:lilo_0789	CDS	853507..854361	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase
+lls:lilo_0790	CDS	854528..855781	xseA; exonuclease VII large subunit
+lls:lilo_0791	CDS	855781..856020	xseB; exonuclease VII small subunit
+lls:lilo_0792	CDS	856169..857326	yihF; glycerate kinase
+lls:lilo_0793	CDS	857384..858265	ispA; geranyltranstransferase
+lls:lilo_0794	CDS	858345..859151	yiiB; hypothetical protein
+lls:lilo_0795	CDS	859148..859594	ahrC; transcription regulator
+lls:lilo_0796	CDS	859742..861409	recN; DNA repair protein RecN
+lls:lilo_0797	CDS	861528..861758	yiiD; unknown protein
+lls:lilo_0798	CDS	862135..862701	yiiE; hypothetical protein
+lls:lilo_0799	CDS	862799..863320	yiiF; transporter
+lls:lilo_0800	CDS	863344..864282	yiiG; hypothetical protein
+lls:lilo_0801	CDS	864502..865455	yiiH; S-adenosyl-methyltransferase
+lls:lilo_0802	CDS	865613..865993	yiiI; hypothetical protein
+lls:lilo_0803	CDS	865990..868281	pbpX; penicillin-binding protein
+lls:lilo_0804	CDS	868346..869335	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+lls:lilo_0805	CDS	869534..869812	yijB; unknown protein
+lls:lilo_0806	CDS	869945..871465	yijC; ABC transporter permease protein
+lls:lilo_0807	CDS	871555..872232	yijD; ABC transporter ATP-binding protein
+lls:lilo_0808	CDS	872390..873265	mleR; malolactic fermentation system transcriptional activator
+lls:lilo_0809	CDS	873505..874179	yijE; hypothetical protein
+lls:lilo_0810	CDS	874290..874667	rplS; 50S ribosomal protein L19
+lls:lilo_0811	CDS	875255..875764	yijF; glutamate synthase (NADPH) small chain
+lls:lilo_0812	CDS	875757..877085	yijG; glycosyl transferase
+lls:lilo_0813	CDS	877311..877847	yijH; unknown protein
+lls:lilo_0814	CDS	878040..878777	pnuC2; nicotinamide mononucleotide transporter
+lls:lilo_0815	CDS	complement(878892..879047)	hypothetical protein
+lls:lilo_0816	CDS	879305..879730	yjaB; hypothetical protein
+lls:lilo_0817	CDS	879852..880199	hslB; HU-like DNA-binding protein
+lls:lilo_0818	CDS	complement(880267..880800)	yjaD; transcription regulator
+lls:lilo_0819	CDS	880964..883363	yjaE; hypothetical protein
+lls:lilo_0820	CDS	883549..883881	yjaF; hypothetical protein
+lls:lilo_0821	CDS	884017..884991	xerD; integrase/recombinase
+lls:lilo_0822	CDS	885439..885540	xerD2; putayive integrase/recombinase
+lls:lilo_0823	CDS	885813..886580	ygdC; unknown protein
+lls:lilo_0824	CDS	887150..887389	ygdD; unknown protein
+lls:lilo_0825	CDS	887426..887587	hypothetical protein
+lls:lilo_0826	CDS	888017..889318	hypothetical protein
+lls:lilo_0827	CDS	889708..890820	transposase
+lls:lilo_0828	CDS	891371..894358	hsdR; type I restriction enzyme R protein
+lls:lilo_0829	CDS	894398..895945	hsdM; type I restriction enzyme M protein
+lls:lilo_0830	CDS	895942..897144	hsdS; type I restriction enzyme, S subunit
+lls:lilo_0831	gene	898857..899118	ygeB; ygeB
+lls:lilo_0832	CDS	899426..899626	ygeC; unknown protein
+lls:lilo_0833	CDS	899892..900662	ygeD; unknown protein
+lls:lilo_0834	CDS	901136..901798	hypothetical protein
+lls:lilo_0835	CDS	902836..904035	ftsW2; cell division protein FtsW
+lls:lilo_0836	CDS	904066..905364	yjaJ; transcription regulator
+lls:lilo_0837	CDS	905462..905731	rpsN2; 30S ribosomal protein S14
+lls:lilo_0838	CDS	905896..906525	yjbB; unknown protein
+lls:lilo_0839	CDS	906522..907520	kinD; sensor protein kinase
+lls:lilo_0840	CDS	907548..908177	llrD; two-component system regulator
+lls:lilo_0841	CDS	908248..909054	yjbC; hypothetical protein
+lls:lilo_0842	CDS	909157..909747	ppiB; peptidyl-prolyl cis-trans isomerase
+lls:lilo_0843	CDS	909749..910180	yjbE; general stress protein GSP13
+lls:lilo_0844	CDS	909975..910184	transporter, drug/metabolite exporter family
+lls:lilo_0845	CDS	910177..910782	yjbF; hypothetical protein
+lls:lilo_0846	CDS	911004..912248	rodA; rod-shape determining protein
+lls:lilo_0847	CDS	912473..913543	butB; 2,3-butanediol dehydrogenase
+lls:lilo_0848	CDS	913573..914334	butA; acetoin reductase
+lls:lilo_0849	CDS	914608..914769	hypothetical protein
+lls:lilo_0850	CDS	914855..916396	yjcA; ABC transporter ATP binding protein
+lls:lilo_0851	CDS	916814..918436	mleS; malolactic enzyme
+lls:lilo_0852	CDS	918451..919728	mleP; malate transporter
+lls:lilo_0853	CDS	920026..920958	yjcD; hypothetical protein
+lls:lilo_0854	CDS	921035..922126	yjcE; unknown protein
+lls:lilo_0855	CDS	922180..922827	yjcF; hypothetical protein
+lls:lilo_0856	CDS	922980..924935	gyrB; DNA gyrase subunit B
+lls:lilo_0857	CDS	925016..925228	hypothetical protein
+lls:lilo_0858	CDS	925442..926179	yjdA; hypothetical protein
+lls:lilo_0859	CDS	926312..926965	yjdB; unknown protein
+lls:lilo_0860	CDS	927113..927577	rmaH; transcription regulator
+lls:lilo_0861	CDS	927570..929114	yjdE; multidrug resistance protein
+lls:lilo_0862	CDS	929114..929833	yjdF; unknown protein
+lls:lilo_0863	CDS	930163..931074	tagL; N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase related protein
+lls:lilo_0864	CDS	931220..932689	tagZ; teichoic acid biosynthesis protein
+lls:lilo_0865	CDS	932746..933189	yjfB; unknown protein
+lls:lilo_0866	CDS	933217..934593	tagH; teichoic acid ABC transporter ATP binding protein
+lls:lilo_0867	CDS	934606..935421	tagG; teichoic acid ABC transporter permease protein
+lls:lilo_0868	CDS	935514..938621	lipopolysaccharide biosynthesis glycosyltransferase
+lls:lilo_0869	CDS	complement(938656..938829)	pi112; prophage pi1 protein 12
+lls:lilo_0869a	CDS	939799..940971	conserved hypothetical protein
+lls:lilo_0869b	CDS	940964..942550	conserved hypothetical protein
+lls:lilo_0869c	CDS	942763..943101	hypothetical protein
+lls:lilo_0870	CDS	943248..943547	yncA; putative acetyltransferase
+lls:lilo_0871	CDS	943569..944174	ATPase associated with chromosome architecture/replication
+lls:lilo_0872	CDS	944295..944813	hypothetical protein
+lls:lilo_0873	CDS	944914..945099	tagD2; glycerol-3-phosphate cytidylyltransferase
+lls:lilo_0874	CDS	945168..945359	tagD2; glycerol-3-phosphate cytidylyltransferase
+lls:lilo_0875	CDS	945511..946701	tagF; teichoic acid biosynthesis protein F
+lls:lilo_0876	CDS	946691..947809	tagB; teichoic acid biosynthesis protein B
+lls:lilo_0877	CDS	947809..948747	yjfE; transcription regulator
+lls:lilo_0878	CDS	948933..950168	deoB; phosphopentomutase
+lls:lilo_0879	CDS	950228..950497	yjfG; unknown protein
+lls:lilo_0880	CDS	950568..951272	deoD; purine-nucleoside phosphorylase
+lls:lilo_0881	CDS	951412..951858	yjfI; hypothetical protein
+lls:lilo_0882	CDS	951916..952266	yjfJ; conserved hypothetical protein
+lls:lilo_0883	CDS	952422..954089	fhs; formyltetrahydrofolate synthetase
+lls:lilo_0884	CDS	954198..954791	yjgB; hypothetical protein
+lls:lilo_0885	CDS	954929..955774	yjgC; amino acid ABC transporter substrate binding protein
+lls:lilo_0886	CDS	955958..956923	yjgD; amino acid ABC transporter permease protein
+lls:lilo_0887	CDS	956935..957687	yjgE; amino acid ABC transporter ATP binding protein
+lls:lilo_0888	CDS	957689..957916	hypothetical protein
+lls:lilo_0889	CDS	958111..959037	trxB1; thioredoxin reductase
+lls:lilo_0890	CDS	959179..959427	secG; protein-export protein SecG
+lls:lilo_0891	CDS	959677..962130	vacB1; ribonuclease
+lls:lilo_0892	CDS	962149..962736	yjgF; hypothetical protein
+lls:lilo_0893	CDS	962820..963878	yjhA; unknown protein
+lls:lilo_0894	CDS	complement(963904..964845)	yjhB; hypothetical protein
+lls:lilo_0895	CDS	964999..965262	yjhC; ACT domain-containing protein
+lls:lilo_0896	CDS	965379..966716	yjhD; conserved hypothetical protein
+lls:lilo_0897	CDS	966756..967295	yjhE; unknown protein
+lls:lilo_0898	CDS	967363..968058	yjhF; phosphoglycerate mutase
+lls:lilo_0899	CDS	968055..968801	dacB; D-alanyl-D-alanine carboxypeptidase
+lls:lilo_0900	CDS	968815..969219	yjhH; unknown protein
+lls:lilo_0901	CDS	969440..970483	hrcA; heat-inducible transcription repressor HrcA
+lls:lilo_0902	CDS	970513..971052	grpE; stress responce protein GrpE
+lls:lilo_0903	CDS	971125..972948	dnaK; DnaK protein
+lls:lilo_0904	CDS	973160..974923	mycA; myosin-crossreactive antigen
+lls:lilo_0905	CDS	974990..976129	yjiB; amino acid aminohydrolase
+lls:lilo_0906	CDS	976250..976951	lacR; lactose transport regulator
+lls:lilo_0907	CDS	977035..977952	lacC; putative 1-phosphofructokinase
+lls:lilo_0908	CDS	977952..979856	fruA; fructose-specific PTS system enzyme IIBC component
+lls:lilo_0909	CDS	979943..981388	clsA; cardiolipin synthase
+lls:lilo_0910	CDS	981468..982355	yjiE; hypothetical protein
+lls:lilo_0911	CDS	982352..983335	yjiF; conserved hypothetical protein
+lls:lilo_0912	CDS	983440..984357	yjjA; hypothetical protein
+lls:lilo_0913	CDS	complement(984401..984958)	yjjB; transcription regulator
+lls:lilo_0914	CDS	985114..985992	yjjC; ABC transporter ATP-binding protein
+lls:lilo_0915	CDS	986003..987625	yjjD; ABC transporter permease protein
+lls:lilo_0916	CDS	987787..988158	yjjE; unknown protein
+lls:lilo_0917	CDS	988301..989095	yjjF; transporter
+lls:lilo_0918	CDS	complement(989120..989572)	yjjG; hypothetical protein
+lls:lilo_0919	CDS	complement(989821..990726)	yjjH; unknown protein
+lls:lilo_0920	CDS	990843..991940	prfB; peptide chain release factor RF-2
+lls:lilo_0921	CDS	992268..992960	ftsE; cell-division ATP-binding protein FtsE
+lls:lilo_0922	CDS	992953..993888	ftsX; cell division protein
+lls:lilo_0923	CDS	complement(993992..994969)	nrdF; ribonucleoside-diphosphate reductase beta chain
+lls:lilo_0924	CDS	complement(995319..997487)	nrdE; ribonucleoside-diphosphate reductase alpha chain
+lls:lilo_0925	CDS	complement(997623..998045)	ndrI; ribonucleotide reductase
+lls:lilo_0926	CDS	complement(998047..998223)	ndrH; glutaredoxin-like protein
+lls:lilo_0927	CDS	complement(998439..999080)	ykaC; hypothetical protein
+lls:lilo_0928	CDS	999355..1001289	parE; topoisomerase IV subunit B
+lls:lilo_0929	CDS	1001493..1002032	ykaEF; hypothetical protein
+lls:lilo_0930	CDS	1002025..1002858	dnaQ; DNA polymerase III, epsilon chain
+lls:lilo_0931	CDS	1002855..1003304	ykbA; ElaA protein
+lls:lilo_0932	CDS	1003580..1006054	parC; topoisomerase IV subunit B
+lls:lilo_0933	CDS	complement(1006080..1006985)	ykbB; unknown protein
+lls:lilo_0934	CDS	1007455..1008543	ribG; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase
+lls:lilo_0935	CDS	1008543..1009193	ribB; riboflavin synthase alpha chain
+lls:lilo_0936	CDS	1009202..1010398	ribA; GTP cyclohydrolase II / 3,4-dihydroxy-2-butanone 4-phosphate synthase
+lls:lilo_0937	CDS	1010426..1010890	ribH; riboflavin synthase beta chain
+lls:lilo_0938	CDS	1010993..1011445	lspA; lipoprotein signal peptidase
+lls:lilo_0939	CDS	1011507..1012412	rluD; pseudouridine synthase
+lls:lilo_0940	CDS	1012560..1013003	ykcE; hypothetical protein
+lls:lilo_0941	CDS	1013143..1014765	ykcF; unknown protein
+lls:lilo_0942	CDS	1014768..1015724	ykcG; hypothetical protein
+lls:lilo_0943	CDS	1015850..1016536	llrE; two-component system regulator
+lls:lilo_0944	CDS	1016556..1017071	ykdA; unknown protein
+lls:lilo_0945	CDS	1017075..1018400	kinE; sensor protein kinase
+lls:lilo_0946	CDS	1018407..1019063	ykdB; hypothetical protein
+lls:lilo_0947	CDS	1019244..1021061	glmS; glucosamine--fructose-6-phosphate aminotransferase
+lls:lilo_0948	CDS	1021192..1021872	radC; DNA repair protein RadC
+lls:lilo_0949	CDS	1022044..1022271	ps356; endolysin
+lls:lilo_0950	CDS	1022380..1022592	lyzozyme M1
+lls:lilo_0951	CDS	1022520..1022939	lyzozyme M1 (1,4-beta-N-acetylmuramidase)
+lls:lilo_0952	CDS	1023583..1023876	hypothetical protein
+lls:lilo_0953	CDS	1023957..1024382	branched-chain amino acid permease
+lls:lilo_0954	CDS	1024660..1024965	Lj965; prophage protein
+lls:lilo_0955	CDS	1025100..1025495	Lj965; prophage protein
+lls:lilo_0956	CDS	1025501..1025758	hypothetical protein
+lls:lilo_0957	CDS	1026096..1026251	hypothetical protein
+lls:lilo_0958	CDS	1026285..1026791	yrgA; unknown protein
+lls:lilo_0959	CDS	1026961..1027077	cytochrome bd ubiquinol oxidase, subunit I
+lls:lilo_0960	CDS	1027128..1027322	Na(+)/H(+) antiporter
+lls:lilo_0961	CDS	complement(1028052..1028702)	redox-sensing transcriptional repressor REX
+lls:lilo_0962	CDS	1028927..1029319	ykhE; hypothetical protein
+lls:lilo_0963	CDS	1029497..1031404	ykhF; ABC transporter ATP binding protein
+lls:lilo_0964	CDS	1031554..1032393	ykhG; unknown protein
+lls:lilo_0965	CDS	1032395..1032760	ykhH; unknown protein
+lls:lilo_0966	gene	complement(1033247..1033572)	ykhJ; ykhJ
+lls:lilo_0967	CDS	1033275..1033460	ykhF; hypothetical protein
+lls:lilo_0968	CDS	1033619..1034491	ykhI; transcription regulator
+lls:lilo_0969	CDS	1034738..1035520	ykhK; unknown protein
+lls:lilo_0970	CDS	1036157..1036786	pyrE; orotate phosphoribosyltransferase
+lls:lilo_0971	CDS	1036887..1038212	pyrC; dihydroorotase
+lls:lilo_0972	CDS	1038718..1040910	surface protein
+lls:lilo_0973	CDS	1041203..1041871	dnaD; DNA replication protein DnaD
+lls:lilo_0974	CDS	1041893..1042549	nth; endonuclease III
+lls:lilo_0975	CDS	1042542..1043234	ykiC; hypothetical protein
+lls:lilo_0976	CDS	1043231..1044004	ykiD; hypothetical protein
+lls:lilo_0977	CDS	complement(1044043..1044408)	ykiE; unknown protein
+lls:lilo_0978	CDS	complement(1044530..1045345)	ykiF; hypothetical protein
+lls:lilo_0979	CDS	complement(1045392..1046711)	ykiG; hypothetical protein
+lls:lilo_0980	CDS	1046922..1047329	ykiH; unknown protein
+lls:lilo_0981	CDS	1047322..1048497	ykiI; unknown protein
+lls:lilo_0982	CDS	1048667..1048981	rplU; 50S ribosomal protein L21
+lls:lilo_0983	CDS	1048984..1049319	ykjA; hypothetical protein
+lls:lilo_0984	CDS	1049321..1049605	rpmA; 50S ribosomal protein L27
+lls:lilo_0985	CDS	1049883..1051415	mntH; putative proton-dependent manganese transporter group C beta
+lls:lilo_0986	CDS	1051517..1052485	phoL; phosphate starvation inducible protein
+lls:lilo_0987	CDS	1052543..1053022	ykjE; hypothetical protein
+lls:lilo_0988	CDS	1053174..1053662	ykjF; hypothetical protein
+lls:lilo_0989	CDS	1053646..1054101	dgkA; diacylglycerol kinase
+lls:lilo_0990	CDS	1054115..1054690	ykjH; hypothetical protein
+lls:lilo_0991	CDS	complement(1054726..1055376)	comFC; competence protein ComFC
+lls:lilo_0992	CDS	complement(1055373..1056695)	comFA; competence protein ComFA
+lls:lilo_0993	CDS	1056752..1057381	ykjI; hypothetical protein
+lls:lilo_0994	CDS	1057515..1058012	ykjJ; hypothetical protein
+lls:lilo_0995	CDS	1058060..1059079	ykjK; hypothetical protein
+lls:lilo_0996	CDS	1059188..1059940	nucA; nucleotidase
+lls:lilo_0997	CDS	1060226..1061179	glyQ; glycyl-tRNA synthetase subunit alpha
+lls:lilo_0998	CDS	1061179..1063200	glyT; glycyl-tRNA synthetase beta chain
+lls:lilo_0999	CDS	1063311..1063553	ylaC; hypothetical protein
+lls:lilo_1000	CDS	1063763..1064974	ylaD; hypothetical protein
+lls:lilo_1001	CDS	complement(1064997..1065584)	ylaE; nicotinate-nucleotide adenylyltransferase
+lls:lilo_1002	CDS	complement(1065715..1065900)	hypothetical protein
+lls:lilo_1003	CDS	1066103..1067596	ylaF; putative nicotinate phosphoribosyltransferase
+lls:lilo_1004	CDS	1067593..1068081	ylaG; hypothetical protein
+lls:lilo_1005	CDS	1068142..1068966	nadE; NAD-synthetase
+lls:lilo_1006	CDS	1069095..1069796	ylbA; ABC transporter ATP-binding protein
+lls:lilo_1007	CDS	1069800..1072481	ylbB; ABC transporter permease protein
+lls:lilo_1008	CDS	complement(1072610..1073395)	cobQ; cobyric acid synthase
+lls:lilo_1009	CDS	complement(1073396..1074772)	ylbD; hypothetical protein
+lls:lilo_1010	CDS	1074883..1075548	aldC; alpha-acetolactate decarboxylase
+lls:lilo_1011	CDS	1075824..1077647	lepA; GTP-binding protein LepA
+lls:lilo_1012	CDS	1077714..1078349	ylbE; oxidoreductase
+lls:lilo_1013	CDS	1078523..1079989	ylcA; amino acid permease
+lls:lilo_1014	CDS	1080215..1082725	gryA; DNA gyrase subunit A
+lls:lilo_1015	CDS	1082809..1083894	apbE; thiamine biosynthesis lipoprotein
+lls:lilo_1016	CDS	1084013..1084759	ylcC; similar to sortase
+lls:lilo_1017	CDS	1084870..1086438	ylcD; unknown protein
+lls:lilo_1018	CDS	1086627..1087871	ylcF; unknown protein
+lls:lilo_1019	CDS	1087993..1090758	ylcG; hypothetical protein
+lls:lilo_1020	CDS	1090745..1091374	yldA; unknown protein
+lls:lilo_1021	CDS	complement(1091319..1092095)	yldB; hypothetical protein
+lls:lilo_1022	CDS	1092252..1094528	pcrA; ATP-dependent helicase PcrA
+lls:lilo_1023	CDS	1094548..1095015	mutX; mutator protein MutT
+lls:lilo_1024	CDS	1095062..1095634	tag; DNA-3-methyladenine glycosidase I
+lls:lilo_1025	CDS	1095712..1096170	yldC; PhnB protein
+lls:lilo_1026	CDS	1096335..1097843	frdC; fumarate reductase flavoprotein subunit
+lls:lilo_1027	CDS	1098014..1098706	yldE; unknown protein
+lls:lilo_1028	CDS	1098847..1099836	truB; tRNA pseudouridine synthase B
+lls:lilo_1029	CDS	1099858..1100769	ribC; riboflavin kinase / FMN adenylyltransferase
+lls:lilo_1030	CDS	1100867..1101838	ldhX; L-lactate dehydrogenase
+lls:lilo_1031	CDS	1101997..1103058	yleB; hypothetical protein
+lls:lilo_1032	CDS	1103051..1103944	yleC; hypothetical protein
+lls:lilo_1033	CDS	1103979..1105931	yleD; sucrose-specific PTS system IIBC component
+lls:lilo_1034	CDS	1105993..1106844	yleF; transcription regulator
+lls:lilo_1035	CDS	1106975..1107733	tpiA; triosephosphate isomerase
+lls:lilo_1036	CDS	1107953..1108924	pacA; penicillin acylase
+lls:lilo_1037	CDS	1108973..1109482	ylfA; unknown protein
+lls:lilo_1038	CDS	1109774..1111111	ylfB; hypothetical protein
+lls:lilo_1039	CDS	1111093..1111620	ylfC; hypothetical protein
+lls:lilo_1040	CDS	1111800..1112939	hemN; oxygen-independent coproporphyrogen III oxidase
+lls:lilo_1041	CDS	1112986..1113801	ylfD; putative autolytic lysozyme
+lls:lilo_1042	CDS	1113904..1114347	dcdA; dCMP deaminase
+lls:lilo_1043	CDS	1114444..1115172	acyl-ACP thioesterase
+lls:lilo_1044	CDS	1115222..1115995	ylfH; N-acetylglucosamine catabolic protein
+lls:lilo_1045	CDS	1116098..1116715	ylfI; unknown protein
+lls:lilo_1046	CDS	1116974..1117963	guaC; GMP reductase
+lls:lilo_1047	CDS	1118235..1118828	xpt; xanthine phosphoribosyltransferase
+lls:lilo_1048	CDS	1118877..1120181	pbuX; xanthine permease
+lls:lilo_1049	CDS	complement(1120210..1120623)	ylgB; unknown protein
+lls:lilo_1050	CDS	complement(1120743..1121261)	ylgC; putative RNA methylase
+lls:lilo_1051	CDS	1121651..1122157	dfrA; dihydropholate reductase
+lls:lilo_1052	CDS	1122154..1122324	hypothetical protein
+lls:lilo_1053	CDS	1122398..1123633	clpX; ATP dependent Clp protease
+lls:lilo_1054	CDS	1123630..1124217	ysxL; GTP-binding protein
+lls:lilo_1055	CDS	1124271..1124621	folB; dihydroneopterin aldolase
+lls:lilo_1056	CDS	1124701..1125750	folE; GTP cyclohydrolase I / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+lls:lilo_1057	CDS	1125747..1126820	folP; dihydropteroate synthase
+lls:lilo_1058	CDS	1126823..1127320	ylgG; hypothetical protein
+lls:lilo_1059	CDS	1127339..1128622	folC; folylpolyglutamate synthase
+lls:lilo_1060	CDS	1128845..1129390	dukB; deoxynucleoside kinase
+lls:lilo_1061	CDS	1129567..1130853	hom; homoserine dehydrogenase
+lls:lilo_1062	CDS	1130858..1131748	thrB; homoserine kinase
+lls:lilo_1063	CDS	1132002..1132601	ylhB; unknown protein
+lls:lilo_1064	CDS	1132644..1133543	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+lls:lilo_1065	CDS	1134195..1135481	potA; spermidine/putrescine ABC transporter ATP-binding protein
+lls:lilo_1066	CDS	1135478..1136266	potB; spermidine/putrescine ABC transporter permease protein
+lls:lilo_1067	CDS	1136376..1137068	potC; spermidine/putrescine ABC transporter permease protein
+lls:lilo_1068	CDS	1137188..1138183	potD; spermidine/putrescine ABC transporter substrate binding protein
+lls:lilo_1069	CDS	1138843..1140570	ATP-dependent exonuclease subunit A
+lls:lilo_1070	CDS	1141077..1143722	sbcC; exonuclease
+lls:lilo_1071	CDS	1144823..1145683	yliA; positive transcription regulator
+lls:lilo_1072	CDS	1145782..1148040	yliB; hypothetical protein
+lls:lilo_1073	CDS	1148412..1149524	yliCD; hypothetical protein
+lls:lilo_1074	CDS	1149547..1149936	yliE; unknown protein
+lls:lilo_1075	CDS	1149899..1150462	yliF; unknown protein
+lls:lilo_1076	CDS	1151102..1151449	yliG; unknown protein
+lls:lilo_1077	CDS	1151916..1153388	clsB; cardiolipin synthase
+lls:lilo_1078	CDS	1153944..1156451	cation-transporting ATPase
+lls:lilo_1079	CDS	complement(1156514..1157110)	yljB; putative N-acylglucosamine-6-phosphate 2-epimerase
+lls:lilo_1080	CDS	1157411..1157656	yljD; unknown protein
+lls:lilo_1081	CDS	1157864..1159234	yljE; putative RNA methyltransferase
+lls:lilo_1082	CDS	1159271..1160878	yljF; hypothetical protein
+lls:lilo_1083	CDS	1160880..1161500	yljG; hypothetical protein
+lls:lilo_1084	CDS	1161566..1162738	yljHI; predicted permease
+lls:lilo_1085	CDS	1162767..1164023	yljJ; hypothetical protein
+lls:lilo_1086	CDS	1164178..1165842	als; acetolactate synthase large subunit
+lls:lilo_1087	CDS	1166064..1166294	histidine kinase
+lls:lilo_1088	CDS	1166496..1169126	two-component sensor kinase YycG
+lls:lilo_1089	CDS	1170163..1171890	similar to potassium-transporting atpaseA chain
+lls:lilo_1090	CDS	1171887..1173965	putative copper-transporting P-type ATPase
+lls:lilo_1091	CDS	1175249..1175596	transcriptional regulator, xre family
+lls:lilo_1092	CDS	1175654..1177198	ymcF; unknown protein
+lls:lilo_1093	CDS	1177297..1179294	vacB2; ribonuclease
+lls:lilo_1094	CDS	1179766..1180836	hisC; histidinol-phosphate aminotransferase
+lls:lilo_1095	CDS	1180836..1181822	hisZ; ATP phosphoribosyltransferase regulatory subunit
+lls:lilo_1096	CDS	1181815..1182441	hisG; ATP phosphoribosyltransferase
+lls:lilo_1097	CDS	1182425..1183720	hisD; histidinol dehydrogenase
+lls:lilo_1098	CDS	1183759..1184562	SAM-dependent methyltransferase
+lls:lilo_1099	CDS	1184559..1185161	hisB; imidazoleglycerol-phosphate dehydratase
+lls:lilo_1100	CDS	1185158..1185946	ymdC; kanamycin kinase
+lls:lilo_1101	CDS	1185985..1186593	hisH; amidotransferase
+lls:lilo_1102	CDS	1186594..1187313	hisA; phosphoribosylformimino-5-aminoimidazole carboxamideribotide isomerase
+lls:lilo_1103	CDS	1187303..1188082	hisF; imidazoleglycerol-phosphate synthase cyclase
+lls:lilo_1104	CDS	1188079..1188717	hisI; phosphoribosyl-AMP cyclohydrolase / phosphoribosyl-ATP pyrophosphohydrolase
+lls:lilo_1105	CDS	1188718..1189527	hisK; histidinol phosphatase
+lls:lilo_1106	CDS	complement(1189541..1190500)	ymdE; conserved hypothetical protein
+lls:lilo_1107	CDS	1190925..1192466	isopropylmalate synthase
+lls:lilo_1108	CDS	1192493..1193515	leuB; 3-isopropylmalate dehydrogenase
+lls:lilo_1109	CDS	1193712..1195094	leuC; 3-isopropylmalate dehydratase large subunit
+lls:lilo_1110	CDS	1195114..1195689	leuD; 3-isopropylmalate dehydratase small subunit
+lls:lilo_1111	CDS	1195703..1196482	ymeB; ABC transporter ATP binding protein
+lls:lilo_1112	CDS	1196604..1198316	ilvD; dihydroxy-acid dehydratase
+lls:lilo_1113	CDS	1198327..1200054	ilvB; acetolactate synthase large subunit
+lls:lilo_1114	CDS	1200047..1200523	ilvN; acetolactate synthase small subunit
+lls:lilo_1115	CDS	1200569..1201591	ilvC; ketol-acid reductoisomerase
+lls:lilo_1116	CDS	1201647..1202897	ilvA; threonine deaminase
+lls:lilo_1117	CDS	1203013..1203723	aldB; alpha-acetolactate decarboxylase
+lls:lilo_1118	CDS	1203764..1204144	aldR; regulatory protein AldR
+lls:lilo_1119	CDS	1204290..1205138	smf; smf protein
+lls:lilo_1120	CDS	1205400..1207532	topA; DNA topoisomerase I
+lls:lilo_1121	CDS	1207604..1208947	gidC; glucose inhibited division protein
+lls:lilo_1122	CDS	complement(1208992..1210062)	ymfD; tyrosine recombinase
+lls:lilo_1123	CDS	complement(1210547..1210834)	hypothetical protein
+lls:lilo_1124	CDS	complement(1210918..1211973)	tyrosine recombinase
+lls:lilo_1125	CDS	1212918..1213412	muramidase
+lls:lilo_1126	CDS	complement(1213604..1214566)	recA; RecA protein
+lls:lilo_1127	CDS	complement(1215033..1216484)	umuC; SOS responce UmuC protein
+lls:lilo_1128	CDS	1216680..1217477	sbcC; exonuclease
+lls:lilo_1129	CDS	complement(1217692..1218144)	hypothetical protein
+lls:lilo_1130	CDS	complement(1218253..1218927)	tra1077G; transposase of IS1077G
+lls:lilo_1131	CDS	complement(1219059..1219634)	ywbC; hypothetical protein
+lls:lilo_1132	CDS	complement(1220040..1220897)	putative acyltransferase, family 3
+lls:lilo_1133	CDS	1221034..1221210	peptidase T
+lls:lilo_1134	CDS	complement(1221366..1222718)	moeB; molybdopterin biosynthesis protein MoeB
+lls:lilo_1135	CDS	complement(1222805..1223005)	integral membrane protein TerC
+lls:lilo_1136	CDS	complement(1223055..1224077)	hypothetical protein
+lls:lilo_1137	CDS	1224272..1224490	kap; kap P-loop domain protein
+lls:lilo_1138	CDS	1224994..1225971	hsdS; type I restriction enzyme, S subunit
+lls:lilo_1139	CDS	1226283..1226987	integrase
+lls:lilo_1140	CDS	complement(1227021..1228322)	hsdS; probable specificity determinant HsdS
+lls:lilo_1141	CDS	complement(1228273..1229856)	hsdM; putative type I site-specific deoxyribonuclease
+lls:lilo_1142	CDS	complement(1229856..1232927)	hsdR; type I restriction-modification system restrictionsubunit
+lls:lilo_1143	CDS	complement(1233472..1235622)	adenine-specific DNA methylase-like protein
+lls:lilo_1144	CDS	complement(1235733..1237013)	parC; topoisomerase IV subunit B
+lls:lilo_1145	CDS	complement(1238052..1239572)	mobA_E1; relaxase
+lls:lilo_1146	CDS	1239863..1240126	metC; cystathionine beta-lyase / cystathionine gamma-lyase
+lls:lilo_1147	CDS	complement(1240248..1241294)	ATPase for DNA repair
+lls:lilo_1148	CDS	complement(1241320..1242783)	ltrC; LtrC protein
+lls:lilo_1149	CDS	complement(1244560..1245753)	hypothetical protein
+lls:lilo_1150	CDS	complement(1245866..1247239)	hypothetical protein
+lls:lilo_1151	CDS	complement(1247510..1248112)	hypothetical protein
+lls:lilo_1152	CDS	complement(1248125..1250734)	hypothetical protein
+lls:lilo_1153	CDS	complement(1250721..1253138)	hypothetical protein
+lls:lilo_1154	CDS	complement(1253225..1253404)	penicillin-binding protein
+lls:lilo_1155	CDS	complement(1253457..1254308)	hypothetical protein
+lls:lilo_1156	CDS	complement(1254849..1256705)	traD; conjugal transfer protein TraD
+lls:lilo_1157	CDS	complement(1256710..1256838)	replicative DNA helicase
+lls:lilo_1158	CDS	complement(1257391..1257594)	hypothetical protein
+lls:lilo_1159	CDS	complement(1257626..1257736)	hypothetical protein
+lls:lilo_1160	CDS	complement(1257797..1262008)	cluA; cell surface antigen I/II precursor
+lls:lilo_1161	CDS	complement(1262220..1263281)	usp45; hypothetical protein
+lls:lilo_1162	CDS	1263330..1263539	lisK; two-component sensor histidine kinase
+lls:lilo_1163	CDS	complement(1263775..1264137)	hypothetical protein
+lls:lilo_1164	CDS	1264463..1264645	tRNA delta(2)-isopentenylpyrophosphate transferase
+lls:lilo_1165	CDS	complement(1264717..1265586)	hypothetical protein
+lls:lilo_1166	CDS	complement(1266265..1267056)	hypothetical protein
+lls:lilo_1167	CDS	complement(1267924..1268676)	tyrosine recombinase
+lls:lilo_1168	CDS	1268978..1269067	subtilisin-like serine protease
+lls:lilo_1169	CDS	complement(1269146..1270060)	saccharopine dehydrogenase related protein
+lls:lilo_1170	CDS	complement(1270061..1270738)	intracellular protease/amidase
+lls:lilo_1171	CDS	1271564..1272547	ymgC; hypothetical protein
+lls:lilo_1172	CDS	1273283..1273399	rlrA; LysR family transcription regulator
+lls:lilo_1173	CDS	1273482..1273736	rlrA; LysR family transcription regulator
+lls:lilo_1174	CDS	1273836..1273997	rlrA; LysR family transcription regulator
+lls:lilo_1175	CDS	complement(1274267..1275196)	ceo; N5-carboxyethyl-ornithine synthase
+lls:lilo_1176	CDS	complement(1275235..1276008)	hypothetical protein
+lls:lilo_1177	CDS	complement(1276310..1276861)	ymgG; hypothetical protein
+lls:lilo_1178	CDS	complement(1276882..1277070)	ymgH; hypothetical protein
+lls:lilo_1179	CDS	complement(1277080..1277574)	ymgI; unknown protein
+lls:lilo_1180	CDS	complement(1277670..1277909)	ymgJ; hypothetical protein
+lls:lilo_1181	CDS	1278401..1279243	ymgK; oxidoreductase
+lls:lilo_1182	CDS	complement(1279715..1280452)	glpF2; glycerol uptake facilitator
+lls:lilo_1183	CDS	complement(1280506..1282335)	glpD; alpha-glycerophosphate oxidase
+lls:lilo_1184	CDS	complement(1282371..1283867)	glpK; glycerol kinase
+lls:lilo_1185	CDS	complement(1284182..1285648)	ymhA; unknown protein
+lls:lilo_1186	CDS	complement(1285918..1286625)	hypothetical protein
+lls:lilo_1187	CDS	complement(1286955..1288904)	Na(+)/H(+) antiporter
+lls:lilo_1188	CDS	complement(1289125..1290027)	ymhC; unknown protein
+lls:lilo_1189	CDS	1290265..1291740	amyL; alpha-amylase
+lls:lilo_1190	CDS	complement(1291800..1292951)	lctO; L-lactate oxidase
+lls:lilo_1191	CDS	complement(1293133..1294155)	aroH; phospho-2-dehydro-3-deoxyheptonate aldolase
+lls:lilo_1192	CDS	complement(1294518..1295369)	metF; 5,10-methylenetetrahydrofolate reductase
+lls:lilo_1193	CDS	complement(1295359..1297632)	metE; 5-methionine synthase
+lls:lilo_1194	CDS	complement(1297786..1298439)	ymiA; metalloregulator
+lls:lilo_1195	CDS	complement(1298534..1301266)	mgtA; cation-transporting P-ATPase
+lls:lilo_1196	CDS	complement(1301750..1303036)	dltD; D-alanine transfer protein DltD
+lls:lilo_1197	CDS	complement(1303026..1303265)	dltC; D-alanyl carrier protein
+lls:lilo_1198	CDS	complement(1303309..1304532)	dltB; peptidoglycan biosynthesis protein
+lls:lilo_1199	CDS	complement(1304532..1306031)	dltA; D-alanine activating enzyme
+lls:lilo_1200	CDS	complement(1306056..1306187)	D-Ala-teichoic acid biosynthesis protein
+lls:lilo_1201	CDS	complement(1306376..1307023)	thiE; thiamin-phosphate pyrophosphorylase
+lls:lilo_1202	CDS	complement(1307013..1307816)	thiD1; phosphomethylpyrimidine kinase
+lls:lilo_1203	CDS	complement(1307830..1308582)	thiM; hydroxyethylthiazole kinase
+lls:lilo_1204	CDS	complement(1308866..1311340)	ymjE; glycosyl transferase
+lls:lilo_1205	CDS	complement(1311330..1312418)	ymjF; UDP-N-acetylglucosamine 2-epimerase
+lls:lilo_1206	CDS	1312932..1313630	ymhG; unknown protein
+lls:lilo_1207	CDS	complement(1314044..1314445)	lcnC; lactococcin A ABC transporter ATP binding and permease protein
+lls:lilo_1208	CDS	complement(1314442..1314966)	response regulator of the LytR/AlgR family
+lls:lilo_1209	CDS	complement(1314992..1315732)	ABC transporter permease protein
+lls:lilo_1209a	CDS	complement(1316401..1317429)	conserved hypothetical protein
+lls:lilo_1209b	CDS	complement(1317371..1318174)	conserved hypothetical protein
+lls:lilo_1209c	CDS	complement(1318187..1319413)	conserved hypothetical protein
+lls:lilo_1209d	CDS	complement(1319410..1320357)	conserved hypothetical protein
+lls:lilo_1209e	CDS	complement(1320809..1321183)	hypothetical protein
+lls:lilo_1210	CDS	1321294..1321671	ps205; transcription repressor
+lls:lilo_1211	CDS	complement(1321988..1322353)	rplL; 50S ribosomal protein L7/L12
+lls:lilo_1212	CDS	complement(1322423..1322938)	rplJ; 50S ribosomal protein L10
+lls:lilo_1213	CDS	complement(1323160..1323348)	ynaA; unknown protein
+lls:lilo_1214	CDS	complement(1323364..1324122)	ynaB; transcription regulator
+lls:lilo_1215	CDS	complement(1324244..1326070)	ynaC; ABC transporter ATP binding and permease protein
+lls:lilo_1216	CDS	complement(1326054..1327871)	ynaD; ABC transporter ATP binding and permease protein
+lls:lilo_1217	CDS	complement(1328028..1329296)	hypothetical protein
+lls:lilo_1218	CDS	complement(1329298..1329888)	hypothetical protein
+lls:lilo_1219	CDS	complement(1330199..1330801)	ynaE; hypothetical protein
+lls:lilo_1220	CDS	complement(1331168..1331941)	rluB; pseudouridylate synthase
+lls:lilo_1221	CDS	complement(1331874..1332440)	ynaG; segregation and condensation protein B
+lls:lilo_1222	CDS	complement(1332433..1333161)	ynaH; segregation and condensation protein A
+lls:lilo_1223	CDS	complement(1333191..1333907)	ynbA; unknown protein
+lls:lilo_1224	CDS	complement(1333885..1334346)	ynbB; hypothetical protein
+lls:lilo_1225	CDS	complement(1334377..1334880)	ynbC; hypothetical protein
+lls:lilo_1226	CDS	complement(1334934..1335539)	ynbD; Ham1 protein
+lls:lilo_1227	CDS	complement(1335540..1336355)	murI; glutamate racemase
+lls:lilo_1228	CDS	complement(1336510..1336749)	ynbE; hypothetical protein
+lls:lilo_1229	CDS	complement(1336901..1338160)	lysA; diaminopimelate decarboxylase
+lls:lilo_1230	CDS	complement(1338276..1339715)	glnD; glutamate synthase (NADPH) small chain
+lls:lilo_1231	CDS	complement(1339715..1344175)	gltB; glutamate synthase (NADPH) large chain
+lls:lilo_1232	CDS	1344344..1344955	yncA; acetyltransferase
+lls:lilo_1233	CDS	complement(1344989..1346011)	bcaT; branched-chain amino acid aminotransferase
+lls:lilo_1234	CDS	1346172..1346918	yncB; hypothetical protein
+lls:lilo_1235	gene	complement(1347030..1348430)	gadB; gadB
+lls:lilo_1236	CDS	complement(1348450..1349964)	gadC; glutamate-gamma-aminobutyrate antiporter
+lls:lilo_1237	CDS	complement(1350105..1350935)	gadR; positive regulator
+lls:lilo_1238	CDS	1351035..1351178	ceo; N5-carboxyethyl-ornithine synthase
+lls:lilo_1239	CDS	complement(1351487..1352272)	rnhB; ribonuclease HII
+lls:lilo_1240	CDS	complement(1352369..1353217)	ylqL; GTP-binding protein
+lls:lilo_1241	CDS	complement(1353440..1353985)	yndA; unknown protein
+lls:lilo_1242	CDS	complement(1354078..1354827)	yndB; unknown protein
+lls:lilo_1243	CDS	1355005..1355766	rdrB; transcription regulator
+lls:lilo_1244	CDS	1355759..1357144	Xaa-Pro aminopeptidase
+lls:lilo_1245	CDS	complement(1357209..1357736)	yndE; unknown protein
+lls:lilo_1246	CDS	complement(1357805..1359982)	yndF; hypothetical protein
+lls:lilo_1247	gene	complement(1360282..1361259)	yndG; yndG
+lls:lilo_1248	CDS	complement(1362098..1362493)	hypothetical secreted protein
+lls:lilo_1249	CDS	complement(1362520..1363827)	hypothetical protein
+lls:lilo_1250	CDS	complement(1364472..1365704)	yldE; unknown protein
+lls:lilo_1251	CDS	complement(1365885..1367879)	aguA; AguA protein
+lls:lilo_1252	CDS	complement(1367908..1368534)	putative polysaccharide deacetylase
+lls:lilo_1253	CDS	complement(1368547..1369680)	endoglucanase Y
+lls:lilo_1254	CDS	complement(1369682..1370524)	hypothetical protein
+lls:lilo_1255	CDS	complement(1370539..1371483)	hypothetical protein
+lls:lilo_1256	CDS	complement(1371551..1372858)	sugar ABC transporter substrate-binding protein
+lls:lilo_1257	CDS	complement(1372885..1374732)	sialic acid-specific 9-O-acetylesterase
+lls:lilo_1258	CDS	complement(1374965..1375975)	hypothetical protein
+lls:lilo_1259	CDS	1376188..1377291	cation transport protein
+lls:lilo_1260	CDS	complement(1377337..1377933)	pgm6; phosphoglycerate mutase
+lls:lilo_1261	CDS	complement(1378135..1378938)	putative hydrolase, haloacid dehalogenase family
+lls:lilo_1262	CDS	complement(1379209..1380015)	putative hydrolase
+lls:lilo_1263	CDS	complement(1380053..1380652)	maa; maltose O-acetyltransferase
+lls:lilo_1264	CDS	complement(1380697..1381098)	putative lactoylglutathione lyase
+lls:lilo_1265	CDS	1381332..1382300	xylR; transcriptional regulator/sugar kinase, xylose operon regulator
+lls:lilo_1266	CDS	complement(1382380..1384026)	ipd; indole-3-pyruvate decarboxylase
+lls:lilo_1267	CDS	1384161..1384631	rmaF; transcription regulator
+lls:lilo_1268	CDS	1384682..1385503	rlrC; LysR family transcription regulator
+lls:lilo_1269	CDS	complement(1385544..1386317)	yneB; unknown protein
+lls:lilo_1270	CDS	complement(1386424..1386621)	yneC; unknown protein
+lls:lilo_1271	CDS	1386845..1387657	yneD; short chain dehydrogenase
+lls:lilo_1272	CDS	1387674..1388648	yneE; transcription regulator
+lls:lilo_1273	CDS	complement(1388684..1389202)	glycosyltransferase related enzyme
+lls:lilo_1274	CDS	complement(1389212..1390315)	phosphotransferase system, fructose-specific IIC component
+lls:lilo_1275	CDS	complement(1390318..1390632)	fusion of IIA, IIB and IIC component of mannitol/fructose-specific phosphotransferase system mannitol/fructose-specific
+lls:lilo_1276	CDS	complement(1390742..1391617)	fructose/tagatose bisphosphate aldolase
+lls:lilo_1277	CDS	complement(1391876..1392016)	hypothetical protein
+lls:lilo_1278	CDS	complement(1392100..1393620)	hypothetical protein
+lls:lilo_1279	CDS	1393851..1394387	yneF; unknown protein
+lls:lilo_1280	CDS	complement(1394443..1394766)	yneG; unknown protein
+lls:lilo_1281	CDS	complement(1394825..1395202)	yneH; hypothetical protein
+lls:lilo_1282	CDS	complement(1395385..1397175)	pabB; para-aminobenzoate synthase component I
+lls:lilo_1283	CDS	complement(1397276..1397857)	pabA; para-aminobenzoate synthetase component II
+lls:lilo_1284	CDS	complement(1398104..1398289)	ocd; ornithine cyclodeaminase, mu-crystallin homolog
+lls:lilo_1285	CDS	complement(1398626..1400308)	hypothetical protein
+lls:lilo_1286	CDS	complement(1400477..1400803)	yqbH; putative transcription regulator
+lls:lilo_1287	CDS	complement(1401682..1402623)	mtsA; manganese ABC transporter substrate binding protein
+lls:lilo_1288	CDS	complement(1402607..1403461)	mtsC; manganese ABC transporter permease protein
+lls:lilo_1289	CDS	complement(1403469..1404182)	mtsB; manganese ABC transporter ATP binding protein
+lls:lilo_1290	CDS	1404455..1404868	ynfC; hypothetical protein
+lls:lilo_1291	CDS	complement(1404975..1409228)	yoiC; unknown protein
+lls:lilo_1292	CDS	complement(1409702..1409929)	ynfD; hypothetical protein
+lls:lilo_1293	CDS	complement(1410057..1413197)	sbcC; ATP-dependent dsDNA exonuclease
+lls:lilo_1294	CDS	complement(1413200..1414372)	sbcD; exonuclease SbcD
+lls:lilo_1295	CDS	complement(1414524..1415462)	panE; ketopantoate reductase
+lls:lilo_1296	CDS	complement(1415662..1416081)	ynfG; hypothetical protein
+lls:lilo_1297	CDS	complement(1416268..1416417)	hypothetical protein
+lls:lilo_1298	CDS	complement(1416759..1420877)	cell wall surface anchor family protein
+lls:lilo_1299	CDS	complement(1421224..1421667)	yngA; unknown protein
+lls:lilo_1300	CDS	1421975..1423597	yngB; fibronectin-binding protein
+lls:lilo_1301	CDS	1423637..1424452	hypothetical protein
+lls:lilo_1302	CDS	1424631..1426151	yngE; sugar ABC transporter ATP binding protein
+lls:lilo_1303	CDS	1426144..1427238	yngF; transport and binding protein, carbohydrates
+lls:lilo_1304	CDS	1427235..1428188	yngG; uncharacterized ABC-type transport system, permeasecomponent
+lls:lilo_1305	CDS	complement(1428308..1429285)	ldh; L-lactate dehydrogenase
+lls:lilo_1306	CDS	complement(1429403..1430911)	pyk; pyruvate kinase
+lls:lilo_1307	CDS	complement(1430999..1432021)	pfk; 6-phosphofructokinase
+lls:lilo_1308	CDS	complement(1432123..1432398)	ynhA; unknown protein
+lls:lilo_1309	CDS	complement(1432407..1433555)	nagA; N-acetylglucosamine-6-phosphate deacetylase
+lls:lilo_1310	CDS	complement(1433728..1434906)	ynhC; hypothetical protein
+lls:lilo_1311	CDS	complement(1435051..1435677)	ynhD; unknown protein
+lls:lilo_1312	CDS	1435870..1436895	gpdA; glycerol-3-phosphate dehydrogenase
+lls:lilo_1313	CDS	1436938..1437879	hasC; UTP-glucose-1-phosphate uridylyltransferase
+lls:lilo_1314	CDS	1437950..1438357	ynhH; unknown protein
+lls:lilo_1315	CDS	1438354..1438884	ynhI; hypothetical protein
+lls:lilo_1316	CDS	1438875..1439834	ispB; heptaprenyl diphosphate synthase component II
+lls:lilo_1317	CDS	1439831..1440547	gidB; glucose-inhibited division protein GidB
+lls:lilo_1318	CDS	complement(1440563..1440841)	hypothetical protein
+lls:lilo_1319	CDS	complement(1440877..1441590)	pyrF; orotidine-phosphate decarboxylase
+lls:lilo_1320	CDS	complement(1441739..1442674)	pydB; dihydroorotate dehydrogenase B
+lls:lilo_1321	CDS	complement(1442747..1443535)	pyrZ; dihydroorotate dehydrogenase electron transfer subunit
+lls:lilo_1322	CDS	complement(1444140..1445504)	yniG; drug-export protein
+lls:lilo_1323	CDS	1445881..1447092	yniH; unknown protein
+lls:lilo_1324	CDS	1447252..1448391	yniI; hypothetical protein
+lls:lilo_1325	CDS	1448388..1449173	yniJ; hypothetical protein
+lls:lilo_1326	CDS	complement(1449203..1449760)	rluC; pseudouridine synthase
+lls:lilo_1327	CDS	complement(1450077..1451240)	ynjCB; hypothetical protein
+lls:lilo_1328	CDS	complement(1451318..1452130)	ynjD; unknown protein
+lls:lilo_1329	CDS	complement(1452143..1452448)	ynjE; unknown protein
+lls:lilo_1330	CDS	complement(1452495..1453499)	ynjF; unknown protein
+lls:lilo_1331	CDS	complement(1453511..1455454)	hypothetical protein
+lls:lilo_1332	CDS	complement(1455494..1456075)	ynjJ; unknown protein
+lls:lilo_1333	CDS	complement(1456273..1459467)	carB; carbamoyl-phosphate synthase large chain
+lls:lilo_1334	CDS	complement(1459779..1460252)	gpo; glutathione peroxidase
+lls:lilo_1335	CDS	1460435..1461064	acmC; N-acetylmuramidase
+lls:lilo_1336	CDS	complement(1461106..1463742)	yoaB; cation-transporting ATPase
+lls:lilo_1337	CDS	complement(1464001..1464726)	yoaD; hypothetical protein
+lls:lilo_1338	CDS	1465169..1465723	yohH; hypothetical protein
+lls:lilo_1339	CDS	1465963..1466664	yoaI; hypothetical protein
+lls:lilo_1340	CDS	complement(1466731..1467084)	hypothetical protein
+lls:lilo_1341	CDS	complement(1467181..1467609)	yobA; hypothetical protein
+lls:lilo_1342	CDS	complement(1467729..1467890)	hypothetical protein
+lls:lilo_1343	CDS	complement(1467920..1468321)	arsC; arsenate reductase
+lls:lilo_1344	CDS	1468430..1468612	yobC; unknown protein
+lls:lilo_t0038	tRNA	complement(1468518..1468607)	tRNA-Ser
+lls:lilo_1345	CDS	complement(1469303..1469521)	membrane protein
+lls:lilo_1346	CDS	1469737..1469817	yfbG; unknown protein
+lls:lilo_1347	CDS	complement(1469857..1470414)	pi301; prophage pi3 protein 1
+lls:lilo_1348	CDS	complement(1470517..1470603)	ABC-type amino acid transport/signal transduction system, periplasmic component/domain
+lls:lilo_1349	CDS	1471095..1471277	ISP1; transposase
+lls:lilo_tm0001	tmRNA	complement(1471594..1471722)	lilo_tm0001
+lls:lilo_1350	CDS	complement(1471860..1472195)	yofM; hypothetical protein
+lls:lilo_1351	CDS	1472380..1473090	llrB; two-component system regulator
+lls:lilo_1352	CDS	1473080..1474633	kinB; sensor protein kinase
+lls:lilo_1353	CDS	1474733..1475173	yogA; hypothetical protein
+lls:lilo_1354	CDS	complement(1475181..1475888)	rgrB; GntR family transcriptional regulator
+lls:lilo_1355	CDS	complement(1476080..1477132)	bmpA; basic membrane protein A
+lls:lilo_1356	CDS	complement(1477391..1477783)	cdd; cytidine deaminase
+lls:lilo_1357	CDS	complement(1477770..1478432)	deoC; deoxyribose-phosphate aldolase
+lls:lilo_1358	CDS	complement(1478445..1478633)	yogE; unknown protein
+lls:lilo_1359	CDS	complement(1478635..1479927)	pdp; pyrimidine-nucleoside phosphorylase
+lls:lilo_1360	CDS	complement(1479958..1480560)	yogG; hypothetical protein
+lls:lilo_1361	CDS	1480748..1481668	coaA; pantothenate kinase
+lls:lilo_1362	CDS	complement(1481739..1482170)	yogI; unknown protein
+lls:lilo_1363	CDS	complement(1482224..1483168)	yogJ; cation transporter
+lls:lilo_1364	CDS	complement(1483463..1483765)	yogL; transcription regulator
+lls:lilo_1365	CDS	complement(1483846..1484388)	yogM; hypothetical protein
+lls:lilo_1366	CDS	complement(1484370..1485689)	ylfB; predicted phosphoadenosine phosphosulfate sulfotransferase
+lls:lilo_1367	CDS	1485964..1486530	yohC; transcription regulator
+lls:lilo_1368	CDS	complement(1486578..1486748)	yohD; unknown protein
+lls:lilo_1369	CDS	complement(1486940..1488661)	busAB; betaine ABC transporter permease and substrate binding protein
+lls:lilo_1370	CDS	complement(1488658..1489884)	busAA; betaine ABC transporter ATP binding protein
+lls:lilo_1371	CDS	complement(1490097..1490717)	busR; GntR family transcription regulator
+lls:lilo_1372	CDS	complement(1490933..1492558)	yohH; lipopolysaccharide biosynthesis protein
+lls:lilo_1373	CDS	complement(1492581..1494101)	yohJ; lipopolysaccharide biosynthesis protein
+lls:lilo_1374	CDS	complement(1494142..1497411)	yoiA; hypothetical protein
+lls:lilo_1375	CDS	complement(1497560..1498507)	yoiB; unknown protein
+lls:lilo_1376	CDS	complement(1498602..1506587)	yoiC; unknown protein
+lls:lilo_1377	CDS	complement(1507034..1508470)	bglH; beta-glucosidase
+lls:lilo_1378	CDS	complement(1508518..1510428)	ptbA; beta-glucoside-specific PTS system IIABC component
+lls:lilo_1379	CDS	complement(1510529..1511380)	beta-glucoside operon antiterminator
+lls:lilo_1380	CDS	complement(1511545..1512306)	trpA; tryptophan synthase alpha chain
+lls:lilo_1381	CDS	complement(1512303..1513511)	trpB; tryptophan synthase beta chain
+lls:lilo_1382	CDS	complement(1513538..1514104)	yojBC; hypothetical protein
+lls:lilo_1383	CDS	complement(1514097..1515152)	trpF; phosphorybosyl-anthranilate isomerase
+lls:lilo_1384	CDS	complement(1515142..1515936)	trpC; indole-3-glycerol phosphate synthase
+lls:lilo_1385	CDS	complement(1515946..1516305)	predicted lactoylglutathione lyase
+lls:lilo_1386	CDS	complement(1516611..1517618)	trpD; anthranilate phosphoribosyltransferase
+lls:lilo_1387	CDS	complement(1517608..1518204)	trpG; anthranilate synthase component II
+lls:lilo_1388	CDS	complement(1518328..1519698)	trpE; anthranilate synthase component I
+lls:lilo_1389	CDS	complement(1520156..1520515)	ypaA; unknown protein
+lls:lilo_1390	CDS	complement(1520530..1521183)	rmaC; transcription regulator
+lls:lilo_1391	CDS	complement(1521712..1522455)	ypaC; hypothetical protein
+lls:lilo_1392	CDS	complement(1522531..1523214)	ypaD; hypothetical protein
+lls:lilo_1393	CDS	complement(1523211..1523900)	ypaE; hypothetical protein
+lls:lilo_1394	CDS	1524017..1524412	fur; ferric uptake regulator
+lls:lilo_1395	CDS	1524559..1524906	ypaG; hypothetical protein
+lls:lilo_1396	CDS	1525100..1525987	ypaH; hypothetical protein
+lls:lilo_1397	CDS	complement(1526028..1526462)	rmeB; transcription regulator
+lls:lilo_1398	CDS	1526491..1527270	ypaI; oxidoreductase, short-chain dehydrogenase/reductasefamily protein
+lls:lilo_1399	CDS	complement(1527375..1529174)	dxsA; 1-deoxyxylulose-5-phosphate synthase
+lls:lilo_1400	CDS	complement(1529423..1529842)	rmaE; transcription regulator
+lls:lilo_1401	CDS	1530025..1530930	ypbB; cationic transporter
+lls:lilo_1402	CDS	1531035..1532414	ypbC; hypothetical protein
+lls:lilo_1403	CDS	complement(1532458..1534203)	ypbD; sugar transport symporter
+lls:lilo_1404	CDS	complement(1534476..1535912)	guaA; GMP synthase
+lls:lilo_1405	CDS	complement(1536226..1537101)	scrK; fructokinase
+lls:lilo_1406	CDS	complement(1537204..1538085)	ypbG; sugar kinase
+lls:lilo_1407	CDS	complement(1538122..1539549)	ypcA; beta-glucosidase
+lls:lilo_1408	CDS	complement(1539579..1540187)	ypcB; unknown protein
+lls:lilo_1409	CDS	complement(1540302..1543073)	ypcCD; endo-beta-N-acetylglucosaminidase
+lls:lilo_1410	CDS	complement(1543095..1544684)	dexB; alpha 1-6-glucosidase
+lls:lilo_1411	CDS	complement(1544677..1545654)	lnbA; lacto-N-biosidase
+lls:lilo_1412	CDS	complement(1545732..1547183)	ypcG; sugar ABC transporter substrate-binding protein
+lls:lilo_1413	CDS	complement(1547286..1548206)	ypcH; sugar ABC transporter permease protein
+lls:lilo_1414	CDS	complement(1548262..1549194)	ypdA; sugar ABC transporter substrate-binding protein
+lls:lilo_1415	CDS	complement(1549191..1551878)	ypdB; sugar hydrolase
+lls:lilo_1416	CDS	complement(1551913..1553208)	ypdC; hypothetical protein
+lls:lilo_1417	CDS	1553447..1554484	rliB; transcription regulator
+lls:lilo_1418	CDS	1554481..1556634	ypdD; sugar hydrolase
+lls:lilo_1419	CDS	complement(1556723..1559191)	ptk; putative phosphoketolase
+lls:lilo_1420	CDS	complement(1559276..1560649)	xylT; D-xylose proton-symporter
+lls:lilo_1421	CDS	complement(1560819..1561493)	hypothetical protein
+lls:lilo_1422	CDS	complement(1561497..1562072)	hypothetical protein
+lls:lilo_1423	CDS	complement(1562089..1562679)	hypothetical protein
+lls:lilo_1424	CDS	complement(1562911..1563534)	xylX; putative acetyltransferase
+lls:lilo_1425	CDS	complement(1563593..1565272)	xynB; beta-1,4-xylosidase
+lls:lilo_1426	CDS	complement(1565297..1566781)	xynT; xyloside transporter
+lls:lilo_1427	CDS	complement(1566836..1567840)	xylM; aldose 1-epimerase
+lls:lilo_1428	CDS	complement(1567843..1569348)	xylB; xylulose kinase
+lls:lilo_1429	CDS	complement(1569415..1570734)	xylA; xylose isomerase
+lls:lilo_1430	CDS	1570839..1571798	xylR; xylose operon regulator
+lls:lilo_1431	CDS	complement(1571943..1572992)	purK; phosphoribosylaminoimidazole carboxylase ATPase subunit
+lls:lilo_1432	CDS	complement(1573100..1573585)	purE; phosphoribosylaminoimidazole carboxylase catalytic subunit
+lls:lilo_1433	CDS	complement(1574380..1575624)	purD; phosphoribosylamine-glycine ligase
+lls:lilo_1434	CDS	1575977..1576603	ypfD; transcription regulator
+lls:lilo_1435	CDS	1576707..1578104	ypfE; transport protein
+lls:lilo_1436	CDS	complement(1578137..1578673)	tetR; putative transcriptional regulator
+lls:lilo_1437	CDS	1578823..1580217	multidrug transport protein
+lls:lilo_1438	CDS	complement(1580286..1580981)	ypfF; hypothetical protein
+lls:lilo_1439	CDS	complement(1581157..1582713)	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase
+lls:lilo_1440	CDS	complement(1582890..1583432)	hprT; hypoxanthine-guanine phosphoribosyltransferase
+lls:lilo_1441	CDS	complement(1583569..1584606)	ypgB; oxidoreductase
+lls:lilo_1442	CDS	1584737..1585267	ypgC; transcription regulator
+lls:lilo_1443	CDS	complement(1585318..1586958)	ypgD; ABC transporter ATP binding and permease protein
+lls:lilo_1444	CDS	complement(1587074..1587622)	purN; phosphoribosylglycinamide formyltransferase
+lls:lilo_1445	CDS	complement(1587651..1588673)	purM; phosphoribosyl-aminoimidazole synthetase
+lls:lilo_1446	CDS	complement(1588788..1591886)	hsdR; type I site-specific deoxyribonuclease, HsdR subunit
+lls:lilo_1447	CDS	complement(1592803..1592985)	hypothetical protein
+lls:lilo_1448	CDS	complement(1593049..1594278)	type I restriction-modification system specificity subunit
+lls:lilo_1449	CDS	complement(1594271..1595767)	secA; preprotein translocase subunit SecA
+lls:lilo_1450	CDS	complement(1595849..1596583)	hypothetical protein
+lls:lilo_1451	CDS	1596679..1596858	pgmB; beta-phosphoglucomutase
+lls:lilo_1452	CDS	1596899..1597060	yraB; hypothetical protein
+lls:lilo_1453	CDS	complement(1597190..1598752)	hsdM; site-specific DNA-methyltransferase (adenine-specific), HsdM subunit
+lls:lilo_1454	CDS	complement(1598865..1601468)	clpB; ClpB protein
+lls:lilo_1455	CDS	complement(1601657..1602463)	putative secreted protein
+lls:lilo_1456	CDS	1602670..1604016	ypgH; unknown protein
+lls:lilo_1457	CDS	complement(1604044..1604667)	yphA; NADH dehydrogenase
+lls:lilo_1458	CDS	complement(1604777..1606240)	purF; phosphoribosylpyrophosphate amidotransferase
+lls:lilo_1459	CDS	complement(1606225..1608444)	purL; phosphoribosylformylglycinamidine synthase II
+lls:lilo_1460	CDS	complement(1608664..1609335)	purQ; phosphoribosylformylglycinamidine synthetase I
+lls:lilo_1461	CDS	complement(1609335..1609598)	yphF; hypothetical protein
+lls:lilo_1462	CDS	complement(1609654..1610364)	purC; phosphoribosylaminoimidazole-succinocarboxamide synthetase
+lls:lilo_1463	CDS	complement(1610508..1610909)	yphH; hypothetical protein
+lls:lilo_1464	CDS	complement(1610925..1611218)	yphI; unknown protein
+lls:lilo_1465	CDS	complement(1611231..1611545)	yphJ; carboxymuconolactone decarboxylase family protein
+lls:lilo_1466	CDS	complement(1611581..1611949)	yphK; unknown protein
+lls:lilo_1467	CDS	complement(1611964..1612716)	ypiA; oxidoreductase
+lls:lilo_1468	CDS	complement(1612940..1614313)	ypiB; transporter
+lls:lilo_1469	CDS	complement(1614310..1614756)	rmaI; transcription regulator
+lls:lilo_1470	CDS	complement(1614862..1615701)	thyA; thymidylate synthase
+lls:lilo_1471	CDS	complement(1615828..1616874)	ypjA; alcohol dehydrogenase
+lls:lilo_1472	CDS	complement(1616986..1617255)	ypjB; hypothetical protein
+lls:lilo_1473	CDS	complement(1617315..1618022)	ypjC; unknown protein
+lls:lilo_1474	CDS	complement(1618139..1619074)	pydA; dihydroorotate dehydrogenase A
+lls:lilo_1475	CDS	1619215..1619766	pmsX; peptide methionine sulfoxide reductase
+lls:lilo_1476	CDS	complement(1619776..1620750)	ypjF; oxidoreductase
+lls:lilo_1477	CDS	complement(1620776..1620958)	hypothetical protein
+lls:lilo_1478	CDS	complement(1620965..1622836)	ypjG; ABC transporter ATP binding protein
+lls:lilo_1479	CDS	complement(1622940..1623899)	cmhR; putative HTH-type transcriptional regulator CmhR
+lls:lilo_1480	CDS	complement(1623997..1625073)	ypjH; oxidoreductase
+lls:lilo_1481	CDS	complement(1625177..1625713)	ypjI; unknown protein
+lls:lilo_1482	CDS	complement(1625828..1627252)	pepDB; dipeptidase
+lls:lilo_1483	CDS	complement(1627368..1628564)	papL; poly(A) polymerase
+lls:lilo_1484	CDS	complement(1628774..1629310)	yqaB; unknown protein
+lls:lilo_1485	CDS	complement(1629359..1630141)	dapB; dihydrodipicolinate reductase
+lls:lilo_1486	CDS	complement(1630242..1631087)	yqaC; hypothetical protein
+lls:lilo_1487	CDS	complement(1631105..1631497)	yqaD; unknown protein
+lls:lilo_1488	CDS	complement(1631623..1632366)	trmD; tRNA methyltransferase
+lls:lilo_1489	CDS	complement(1632371..1632886)	rimM; 16S rRNA-processing protein RimM
+lls:lilo_1490	CDS	complement(1633059..1633886)	yqaG; hypothetical protein
+lls:lilo_1491	CDS	complement(1634027..1634971)	hemH; ferrohelatase
+lls:lilo_1492	CDS	complement(1635233..1635472)	yqbA; unknown protein
+lls:lilo_1493	CDS	complement(1635568..1635840)	rpsP; 30S ribosomal protein S16
+lls:lilo_1494	CDS	complement(1635929..1637161)	mvaA; hydroxymethylglutaryl-CoA reductase
+lls:lilo_1495	CDS	complement(1637242..1638381)	thiL; acetyl coenzyme A acetyltransferase
+lls:lilo_1496	CDS	1638689..1639843	hmcM; hydroxymethylglutaryl-CoA synthase
+lls:lilo_1497	CDS	complement(1639903..1640610)	nagB; glucosamine-6-P isomerase
+lls:lilo_1498	CDS	complement(1640762..1641259)	yqbF; hypothetical protein
+lls:lilo_1499	CDS	complement(1641172..1641729)	yqbF; hypothetical protein
+lls:lilo_1500	CDS	1642025..1643062	queA; S-adenosylmethionine tRNA ribosyltransferase
+lls:lilo_1501	CDS	complement(1643139..1643450)	yqbH; transcription regulator
+lls:lilo_1502	CDS	complement(1643538..1644710)	yqbI; hypothetical protein
+lls:lilo_1503	CDS	complement(1644833..1649782)	yqbK; unknown protein
+lls:lilo_1504	CDS	complement(1649819..1650574)	yqcA; unknown protein
+lls:lilo_1505	CDS	complement(1650612..1651370)	yqcB; unknown protein
+lls:lilo_1506	CDS	complement(1651408..1652199)	cell surface protein
+lls:lilo_1507	CDS	complement(1652228..1653073)	yqcD; unknown protein
+lls:lilo_1508	CDS	complement(1653134..1653379)	hypothetical protein
+lls:lilo_1509	CDS	1654028..1654645	yqcF; unknown protein
+lls:lilo_1510	CDS	complement(1654658..1654828)	yqcG; hypothetical protein
+lls:lilo_1511	CDS	complement(1654856..1656169)	obgL; GTP-binding protein Obg
+lls:lilo_1512	CDS	complement(1656319..1657497)	ftsQ; cell division protein FtsQ
+lls:lilo_1513	CDS	complement(1657498..1658571)	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+lls:lilo_1514	CDS	complement(1658781..1660133)	murD; UDP-N-acetylmuramoylalanine D-glutamate ligase
+lls:lilo_1515	CDS	complement(1660465..1660806)	glnB; nitrogen regulatory protein P-II
+lls:lilo_1516	CDS	complement(1660938..1662179)	amtB; ammonium transporter
+lls:lilo_1517	CDS	complement(1662362..1663837)	kinA; sensor protein kinase
+lls:lilo_1518	CDS	complement(1663846..1664538)	llrA; two-component system regulator
+lls:lilo_1519	CDS	complement(1664694..1665224)	yqdA; unknown protein
+lls:lilo_1520	CDS	complement(1665355..1665600)	rpmE; 50S ribosomal protein L31
+lls:lilo_1521	CDS	complement(1665756..1666220)	yqeA; unknown protein
+lls:lilo_1522	CDS	complement(1666302..1666679)	yqeB; unknown protein
+lls:lilo_1523	CDS	complement(1666891..1667802)	surface antigen
+lls:lilo_1524	CDS	complement(1667915..1668751)	yqeD; hypothetical protein
+lls:lilo_1525	CDS	1669435..1670355	hypothetical protein
+lls:lilo_1526	CDS	complement(1670440..1671513)	carA; carbamoyl-phosphate synthase small chain
+lls:lilo_1527	CDS	complement(1671576..1672508)	pyrB; aspartate carbamoyltransferase catalytic chain
+lls:lilo_1528	CDS	complement(1672692..1673984)	pyrP; uracil permease
+lls:lilo_1529	CDS	complement(1674079..1674600)	pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase
+lls:lilo_1530	CDS	complement(1674861..1675421)	yqeH; unknown protein
+lls:lilo_1531	CDS	1675655..1675954	rarA; transcription regulator
+lls:lilo_1532	CDS	1675944..1676858	yqeI; cation transport protein
+lls:lilo_1533	CDS	complement(1676941..1678182)	proA; glutamate-5-semialdehyde dehydrogenase
+lls:lilo_1534	CDS	complement(1678200..1679012)	proB; glutamate 5-kinase
+lls:lilo_1535	CDS	1679237..1683586	yqbK; unknown protein
+lls:lilo_1536	CDS	1684297..1684431	hypothetical protein
+lls:lilo_1537	CDS	complement(1685016..1685723)	azlC; branched-chain amino acid transport protein AzlC
+lls:lilo_1538	CDS	1685898..1686473	yqfE; hypothetical protein
+lls:lilo_1539	CDS	1686555..1687097	yqfF; spermidine acetyltransferase
+lls:lilo_1540	CDS	complement(1687126..1688682)	ffh; signal recognition particle protein Ffh
+lls:lilo_1541	CDS	complement(1688761..1691940)	yqfG; unknown protein
+lls:lilo_1542	CDS	complement(1691989..1693701)	yqgA; hypothetical protein
+lls:lilo_1543	CDS	1694051..1694722	yqgG; cation transport ATPase
+lls:lilo_1544	CDS	complement(1694762..1695655)	dapA; dihydrodipicolinate synthase
+lls:lilo_1545	CDS	complement(1695999..1696454)	yqgC; hypothetical protein
+lls:lilo_1546	CDS	complement(1696465..1697541)	asd; aspartate-semialdehyde dehydrogenase
+lls:lilo_1547	CDS	complement(1697636..1698499)	yqgE; transporter
+lls:lilo_1548	CDS	complement(1698871..1699125)	yqgF; unknown protein
+lls:lilo_1549	CDS	complement(1699220..1701196)	tkt; transketolase
+lls:lilo_1550	CDS	complement(1701377..1702762)	ulaA; PTS system, unknown pentitol phosphotransferase enzyme IIC component
+lls:lilo_1551	CDS	complement(1703124..1705064)	transcriptional antiterminator, BglG family
+lls:lilo_1552	CDS	complement(1705238..1705879)	kdgA; 2-dehydro-3-deoxyphosphogluconate aldolase / 4-hydroxy-2-oxoglutarate aldolase
+lls:lilo_1553	CDS	complement(1705882..1706832)	kdgK; 2-dehydro-3-deoxygluconokinase
+lls:lilo_1554	CDS	complement(1706829..1708247)	uxaC; glucuronate isomerase
+lls:lilo_1555	CDS	complement(1708244..1709137)	yqhA; hypothetical protein
+lls:lilo_1556	CDS	complement(1709197..1710723)	uxuT; Na-galactoside symporter
+lls:lilo_1557	CDS	complement(1710909..1711985)	uxuA; D-mannonate dehydratase
+lls:lilo_1558	CDS	complement(1712274..1713908)	uxuB; fructuronate reductase
+lls:lilo_1559	CDS	1714076..1714759	kdgR; GntR family transcription regulator
+lls:lilo_1560	CDS	complement(1714805..1716235)	yqiA; multidrug transporter
+lls:lilo_t0039	tRNA	complement(1716487..1716560)	tRNA-Met
+lls:lilo_1561	CDS	complement(1716917..1717117)	cspD; cold shock protein CspD
+lls:lilo_1562	CDS	complement(1718538..1719422)	fibrinogen-binding protein
+lls:lilo_1563	CDS	complement(1719506..1719664)	chain length regulator
+lls:lilo_1564	CDS	complement(1719790..1720194)	arsC; arsenate reductase
+lls:lilo_1565	CDS	complement(1720287..1721627)	ps356; lyzozyme M1 (1,4-beta-N-acetylmuramidase)
+lls:lilo_1566	CDS	complement(1721862..1722083)	pi308; hypothetical protein
+lls:lilo_1567	CDS	complement(1722101..1723174)	ps353; hypothetical protein
+lls:lilo_1568	CDS	complement(1723308..1725845)	ps352; hypothetical protein
+lls:lilo_1569	CDS	complement(1725857..1726222)	ps351; hypothetical protein
+lls:lilo_1570	CDS	complement(1726234..1731024)	ps350; SLT domain protein
+lls:lilo_1571	CDS	complement(1731047..1731418)	hypothetical protein
+lls:lilo_1572	CDS	complement(1731442..1731852)	hypothetical protein
+lls:lilo_1573	CDS	complement(1731926..1732357)	ps347; major tail protein
+lls:lilo_1574	CDS	complement(1732370..1732732)	ps346; hypothetical protein
+lls:lilo_1575	CDS	complement(1732732..1733280)	hypothetical protein
+lls:lilo_1576	CDS	complement(1733264..1733611)	ps344; hypothetical protein
+lls:lilo_1577	CDS	complement(1733592..1733924)	ps343; hypothetical protein
+lls:lilo_1578	CDS	complement(1733945..1735063)	ps342; major head protein
+lls:lilo_1579	CDS	complement(1735075..1735731)	hypothetical protein
+lls:lilo_1580	CDS	complement(1735896..1737002)	NAD+--asparagine ADP-ribosyltransferase
+lls:lilo_1581	CDS	complement(1737007..1737294)	predicted ribosomal protein
+lls:lilo_1582	CDS	complement(1737412..1738920)	hypothetical protein
+lls:lilo_1583	CDS	complement(1738930..1740222)	terminase, large subunit, PBSX family
+lls:lilo_t0040	tRNA	complement(1740724..1740794)	tRNA-Lys
+lls:lilo_1584	CDS	complement(1740944..1741366)	pi131; prophage pi1 protein 31
+lls:lilo_1585	CDS	complement(1741445..1741621)	vanZ; putative teicoplanin resistance protein
+lls:lilo_1586	CDS	1741599..1741862	pi225; prophage pi2 protein 25
+lls:lilo_1587	CDS	complement(1741642..1741848)	hypothetical protein
+lls:lilo_1588	CDS	1742104..1742316	pi225; prophage pi2 protein 25
+lls:lilo_1589	CDS	1742297..1742506	ps431; hypothetical protein
+lls:lilo_1590	CDS	1742319..1742576	hypothetical protein
+lls:lilo_1591	CDS	complement(1742886..1743185)	pi224; prophage pi2 protein 24
+lls:lilo_1592	CDS	complement(1743232..1743621)	repB; putative replication initiator protein
+lls:lilo_1593	CDS	complement(1743618..1744028)	hypothetical protein
+lls:lilo_1594	CDS	complement(1744000..1744314)	putative teichoic acid/polysaccharide export protein
+lls:lilo_1595	CDS	complement(1744190..1744453)	ada; O6-methylguanine-DNA methyltransferase
+lls:lilo_1596	CDS	complement(1744443..1744763)	ps326; hypothetical protein
+lls:lilo_1597	CDS	complement(1745171..1745758)	ps324; hypothetical protein
+lls:lilo_1598	CDS	complement(1745939..1746448)	pi339; prophage pi3 protein 39
+lls:lilo_1599	CDS	complement(1746472..1746888)	pi115; prophage pi1 protein 15
+lls:lilo_1600	CDS	complement(1747136..1748041)	pi113; replisome organizer
+lls:lilo_1601	CDS	complement(1748160..1748732)	ssbB; single-strand binding protein
+lls:lilo_1602	CDS	complement(1748746..1749237)	Lj965; prophage replication protein
+lls:lilo_1603	CDS	complement(1749246..1749641)	ps414; hypothetical protein
+lls:lilo_1604	CDS	complement(1749743..1749979)	hypothetical protein
+lls:lilo_1605	CDS	1750080..1750517	6-phosphogluconolactonase
+lls:lilo_1606	CDS	complement(1750814..1751050)	ps309; hypothetical protein
+lls:lilo_1607	CDS	complement(1751063..1751776)	ps308; hypothetical protein
+lls:lilo_1608	CDS	complement(1751786..1752001)	ps307; hypothetical protein
+lls:lilo_1609	CDS	complement(1752013..1752345)	hypothetical protein
+lls:lilo_1610	CDS	1752397..1752852	alkylphosphonate ABC transporter permease component
+lls:lilo_1611	CDS	1753166..1753690	pi357; cI-like repressor
+lls:lilo_1612	CDS	1753700..1754287	pi358; prophage pi3 protein 58
+lls:lilo_1613	CDS	1754345..1754926	pi359; prophage pi3 protein 59
+lls:lilo_1614	CDS	1755029..1756180	ps301; putative integrase
+lls:lilo_1615	CDS	complement(1756375..1757349)	rbsB; ribose ABC transporter substrate binding protein
+lls:lilo_1616	CDS	complement(1757361..1758302)	rbsC; ribose ABC transporter permease protein
+lls:lilo_1617	CDS	complement(1758305..1759771)	rbsA; ribose ABC transporter ATP binding protein
+lls:lilo_1618	CDS	complement(1759802..1760200)	rbsD; ribose ABC transporter permease protein
+lls:lilo_1619	CDS	complement(1760222..1761166)	rbsK; ribokinase
+lls:lilo_1620	CDS	complement(1761135..1762118)	rbsR; ribose operon repressor
+lls:lilo_1621	CDS	complement(1762252..1763547)	purB; adenylosuccinate lyase
+lls:lilo_1622	CDS	complement(1763745..1764425)	aroD; 3-dehydroquinate dehydratase
+lls:lilo_t0041	tRNA	complement(1764522..1764593)	tRNA-Gln
+lls:lilo_1623	CDS	complement(1764688..1764891)	yqjA; unknown protein
+lls:lilo_1624	CDS	complement(1765135..1765449)	trxA; thioredoxin
+lls:lilo_1625	CDS	complement(1765546..1767876)	mutS; DNA mismatch repair protein
+lls:lilo_1626	CDS	complement(1767921..1768481)	yqjB; hypothetical protein
+lls:lilo_1627	CDS	complement(1768641..1769606)	trxB2; thioredoxin reductase
+lls:lilo_1628	CDS	complement(1769745..1770743)	ccpA; catabolite control protein A
+lls:lilo_1629	CDS	1771009..1772046	pepQ; proline dipeptidase
+lls:lilo_1630	CDS	complement(1772483..1774486)	yqjD; unknown protein
+lls:lilo_1631	CDS	complement(1774634..1775788)	yqjE; hypothetical protein
+lls:lilo_nc0002	ncRNA	complement(1775909..1776251)	RNaseP; Bacterial RNase P class B
+lls:lilo_1632	CDS	complement(1776422..1776808)	yraB; hypothetical protein
+lls:lilo_1633	CDS	complement(1776862..1777866)	yraC; putative DNA polymerase III, delta subunit
+lls:lilo_1634	CDS	complement(1778445..1780742)	ftsK; cell division protein FtsK
+lls:lilo_1635	CDS	1780904..1781689	putative hydrolase
+lls:lilo_1636	CDS	complement(1781736..1782128)	yraF; unknown protein
+lls:lilo_1637	CDS	complement(1782263..1783243)	pta; phosphate acetyltransferase
+lls:lilo_1638	CDS	complement(1783460..1783978)	udk; uridine kinase
+lls:lilo_1639	CDS	1784378..1785358	yrbA; oxidoreductase
+lls:lilo_t0042	tRNA	1785416..1785488	tRNA-Arg
+lls:lilo_1640	CDS	complement(1785625..1786224)	yrbB; hypothetical protein
+lls:lilo_1641	CDS	1786882..1787841	yrbC; hypothetical protein
+lls:lilo_1642	CDS	complement(1787866..1789404)	yrbD; hypothetical protein
+lls:lilo_1643	CDS	complement(1789573..1789809)	yrbE; hypothetical protein
+lls:lilo_1644	CDS	complement(1789828..1790097)	yrbF; unknown protein
+lls:lilo_1645	CDS	complement(1790179..1790493)	yrbH; hypothetical protein
+lls:lilo_1646	CDS	complement(1790511..1790840)	hypothetical protein
+lls:lilo_1647	CDS	complement(1791015..1791848)	yrbI; transcription regulator
+lls:lilo_1648	CDS	complement(1791885..1792625)	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+lls:lilo_1649	CDS	complement(1792723..1795428)	pip; phage infection protein
+lls:lilo_1650	CDS	complement(1795688..1797133)	yrcA; phospho-beta-glucosidase
+lls:lilo_1651	CDS	complement(1797243..1797509)	yrcB; conserved hypothetical protein
+lls:lilo_1652	CDS	complement(1797626..1799368)	dxsB; 1-deoxyxylulose-5-phosphate synthase
+lls:lilo_1653	CDS	complement(1799516..1800778)	kinF; sensor protein kinase
+lls:lilo_1654	CDS	complement(1800980..1801657)	llrF; two-component system regulator
+lls:lilo_1655	CDS	complement(1801826..1802800)	rliA; transcription regulator
+lls:lilo_1656	CDS	complement(1802953..1805208)	mapA; maltosephosphorylase
+lls:lilo_1657	CDS	complement(1805231..1806940)	agl; alpha-glucosidase
+lls:lilo_1658	CDS	complement(1806983..1808557)	amyY; alpha-amylase
+lls:lilo_1659	CDS	complement(1808547..1809194)	maa; galactoside O-acetyltransferase
+lls:lilo_1660	CDS	complement(1809179..1810804)	dexA; oligo-1,6-glucosidase
+lls:lilo_1661	CDS	complement(1811011..1812765)	dexC; neopullulanase
+lls:lilo_1662	CDS	1813133..1814359	malE; maltose ABC transporter substrate binding protein
+lls:lilo_1663	CDS	1814437..1815819	malF; maltose transport system permease protein MalF
+lls:lilo_1664	CDS	1815825..1816691	malG; maltose ABC transporter permease protein
+lls:lilo_1665	CDS	1816851..1817846	yreA; unknown protein
+lls:lilo_1666	CDS	1818170..1818796	yreB; unknown protein
+lls:lilo_1667	CDS	1818798..1819355	yreC; unknown protein
+lls:lilo_1668	CDS	complement(1819388..1819924)	yreD; unknown protein
+lls:lilo_1669	CDS	complement(1820033..1820308)	hypothetical protein
+lls:lilo_1670	CDS	1820525..1821331	yreE; unknown protein
+lls:lilo_1671	CDS	1821396..1821698	yrfA; transcription regulator
+lls:lilo_1672	CDS	1821788..1822963	yrfB; NADH-dependent oxidoreductase
+lls:lilo_1673	CDS	complement(1823273..1824220)	arcC3; carbamate kinase
+lls:lilo_1674	CDS	complement(1824245..1825345)	yrfC; hypothetical protein
+lls:lilo_1675	CDS	complement(1825356..1826717)	yrfD; amino acid antiporter
+lls:lilo_1676	CDS	complement(1826733..1827755)	otcA; ornithine carbamoyltransferase
+lls:lilo_1677	CDS	complement(1827989..1828975)	llrH; two-component system regulator
+lls:lilo_1678	CDS	complement(1829148..1830551)	yrfE; transcription regulator
+lls:lilo_1679	CDS	complement(1830629..1831291)	cmk; cytidine monophosphate kinase
+lls:lilo_1680	CDS	complement(1831374..1831892)	yrgA; unknown protein
+lls:lilo_1681	CDS	1831939..1832142	fer; ferredoxin
+lls:lilo_1682	CDS	1832477..1833400	ptnAB; mannose-specific PTS system component IIAB
+lls:lilo_1683	CDS	1833479..1834291	ptnC; mannose-specific PTS system component IIC
+lls:lilo_1684	CDS	1834310..1835233	ptnD; mannose-specific PTS system component IID
+lls:lilo_1685	CDS	1835376..1835759	yrgE; hypothetical protein
+lls:lilo_1686	CDS	complement(1835784..1836479)	yrgF; hypothetical protein
+lls:lilo_1687	CDS	1836628..1836999	yrgG; hypothetical protein
+lls:lilo_1688	CDS	1837383..1838654	serS; seryl-tRNA synthetase
+lls:lilo_1689	CDS	complement(1838810..1839487)	yycN; hypothetical protein
+lls:lilo_1690	CDS	complement(1839474..1840742)	major facilitator superfamily permease
+lls:lilo_1691	CDS	complement(1840696..1841418)	ABC-2 type transporter
+lls:lilo_1692	CDS	complement(1841411..1842271)	ABC transporter related
+lls:lilo_1693	CDS	complement(1842268..1843263)	ywdD; unknown protein
+lls:lilo_1694	CDS	1844744..1845718	yrgH; hypothetical protein
+lls:lilo_1695	CDS	1845740..1846309	yrgI; hypothetical protein
+lls:lilo_1696	CDS	complement(1846404..1847057)	phoU; phosphate transport system regulator
+lls:lilo_1697	CDS	complement(1847220..1847981)	pstA; phosphate ABC transporter ATP-binding protein
+lls:lilo_1698	CDS	complement(1848147..1848956)	pstB; phosphate ABC transporter ATP-binding protein
+lls:lilo_1699	CDS	complement(1848990..1849883)	pstC; phosphate transport system permease protein
+lls:lilo_1700	CDS	complement(1849883..1850806)	pstD; phosphate ABC transporter permease protein
+lls:lilo_1701	CDS	complement(1850927..1851778)	pstE; phosphate ABC transporter substrate binding protein
+lls:lilo_1702	CDS	complement(1852125..1853021)	pstF; phosphate ABC transporter substrate binding protein
+lls:lilo_1703	CDS	complement(1853299..1853766)	smpB; tmRNA-binding protein SmpB
+lls:lilo_1704	CDS	complement(1853798..1854364)	yrhH; hypothetical protein
+lls:lilo_1705	CDS	complement(1854460..1857078)	alaS; alanyl-tRNA synthetase
+lls:lilo_1706	CDS	complement(1857344..1858243)	pmpA; maturation protein
+lls:lilo_1707	CDS	complement(1858425..1859108)	yriA; hypothetical protein
+lls:lilo_1708	CDS	complement(1859111..1860925)	pepF; oligoendopeptidase F
+lls:lilo_1709	CDS	complement(1860979..1861968)	coiA; competence protein CoiA
+lls:lilo_1710	CDS	complement(1862042..1863142)	yriB; hypothetical protein
+lls:lilo_1711	CDS	complement(1863278..1864126)	yriC; hypothetical protein
+lls:lilo_1712	CDS	complement(1864320..1865741)	yriD; hypothetical protein
+lls:lilo_1713	CDS	1866048..1866884	yrjA; hypothetical protein
+lls:lilo_1714	CDS	1867059..1867835	yrjB; oxidoreductase
+lls:lilo_1715	CDS	1867845..1869317	yrjC; iron-binding oxidase subunit
+lls:lilo_1716	CDS	1869320..1870003	yrjD; hypothetical protein
+lls:lilo_1717	CDS	complement(1870077..1870790)	yrjE; transport permease
+lls:lilo_1718	CDS	complement(1870903..1871817)	yrjF; hypothetical protein
+lls:lilo_1719	CDS	complement(1871974..1872486)	yrjG; hypothetical protein
+lls:lilo_1720	CDS	1872792..1873052	rpsT; 30S ribosomal protein S20
+lls:lilo_1721	CDS	complement(1873145..1875649)	recD; exodeoxyribonuclease V alpha chain
+lls:lilo_1722	CDS	complement(1875646..1876239)	yrjI; phosphoglycerate mutase
+lls:lilo_1723	CDS	complement(1876242..1877081)	pheA; prephenate dehydratase
+lls:lilo_1724	CDS	complement(1877083..1877571)	aroK; shikimate kinase
+lls:lilo_1725	CDS	complement(1877595..1878887)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+lls:lilo_1726	CDS	complement(1879013..1880077)	tyrA; prephenate dehydrogenase
+lls:lilo_1727	CDS	complement(1880080..1880961)	kinG; sensor protein kinase
+lls:lilo_1728	CDS	complement(1880942..1881613)	llrG; two-component system regulator
+lls:lilo_1729	CDS	complement(1881616..1882680)	ysaA; unknown protein
+lls:lilo_1730	CDS	complement(1882861..1884864)	ysaB; ABC transporter permease and substrate binding protein
+lls:lilo_1731	CDS	complement(1884857..1885636)	ysaC; ABC transporter ATP-binding protein
+lls:lilo_1732	CDS	complement(1885825..1886217)	ysaD; hypothetical protein
+lls:lilo_1733	CDS	complement(1886302..1887468)	aroC; chorismate synthase
+lls:lilo_1734	CDS	complement(1887499..1888095)	ysbA; hypothetical protein
+lls:lilo_1735	CDS	complement(1888100..1888699)	ysbB; hypothetical protein
+lls:lilo_1736	CDS	complement(1888810..1889733)	ysbC; unknown protein
+lls:lilo_1737	CDS	complement(1889844..1890914)	aroB; 3-dehydroquinate synthase
+lls:lilo_1738	CDS	complement(1890911..1891771)	aroE; shikimate 5-dehydrogenase
+lls:lilo_1739	CDS	complement(1891939..1892595)	ysbD; hypothetical protein
+lls:lilo_1740	CDS	1892976..1895120	glnP; glutamine ABC transporter permease and substrate binding protein
+lls:lilo_1741	CDS	1895136..1895879	glnQ; glutamine ABC transporter ATP-binding protein
+lls:lilo_1742	CDS	complement(1895955..1897901)	hypothetical protein
+lls:lilo_1743	CDS	complement(1897902..1898561)	yscB; hypothetical protein
+lls:lilo_1744	CDS	complement(1898665..1899090)	atpE; ATP synthase epsilon subunit
+lls:lilo_1745	CDS	complement(1899275..1900639)	atpD; ATP synthase alpha subunit
+lls:lilo_1746	CDS	complement(1900817..1901686)	atpG; ATP synthase gamma subunit
+lls:lilo_1747	CDS	complement(1901702..1903063)	atpA; ATP synthase alpha subunit
+lls:lilo_1748	CDS	complement(1903391..1903918)	atpH; ATP synthase delta subunit
+lls:lilo_1749	CDS	complement(1903920..1904426)	atpF; ATP synthase subunit b
+lls:lilo_1750	CDS	complement(1904441..1905154)	atpB; ATP synthase subunit a
+lls:lilo_1751	CDS	complement(1905199..1905414)	atpE; F0F1-type ATP synthase C subunit
+lls:lilo_1752	CDS	1905230..1905460	yscD; unknown protein
+lls:lilo_1753	CDS	complement(1905599..1906375)	yscE; lipase
+lls:lilo_1754	CDS	complement(1906660..1908870)	comEC; competence protein ComEC
+lls:lilo_1755	CDS	complement(1908851..1909498)	comEA; competence protein ComEA
+lls:lilo_1756	CDS	complement(1909558..1910919)	ysdA; ABC transporter permease protein
+lls:lilo_1757	CDS	complement(1910916..1911848)	ysdB; sodium transport system ATP-binding protein
+lls:lilo_1758	CDS	complement(1911953..1912351)	ysdC; hypothetical protein
+lls:lilo_1759	CDS	complement(1912455..1913018)	bar; acyltransferase
+lls:lilo_1760	CDS	complement(1913191..1914369)	ysdE; cation transporter
+lls:lilo_1761	CDS	complement(1914750..1915406)	tenA; transcriptional regulator TenA
+lls:lilo_1762	CDS	complement(1915442..1915723)	hypothetical protein
+lls:lilo_1763	CDS	complement(1915764..1916744)	birA1; bifunctional protein BirA
+lls:lilo_1764	CDS	complement(1916741..1917310)	yseA; putative biotin biosynthesis protein BioY
+lls:lilo_1765	CDS	1917455..1918696	yseB; hypothetical protein
+lls:lilo_1766	CDS	1918686..1919834	fadA; acetyl-CoA C-acetyltransferase
+lls:lilo_1767	CDS	1919831..1920181	yseC; unknown protein
+lls:lilo_1768	CDS	1920156..1920449	yseD; unknown protein
+lls:lilo_1769	CDS	1920437..1921192	fabG2; 3-oxoacyl-acyl carrier protein reductase
+lls:lilo_1770	CDS	1921215..1922060	yseE; 2-nitropropane deoxygenase
+lls:lilo_1771	CDS	complement(1922201..1923613)	yseF; hypothetical protein
+lls:lilo_1772	CDS	complement(1923847..1924305)	nifU; NifU protein
+lls:lilo_1773	CDS	complement(1924421..1924903)	yseH; unknown protein
+lls:lilo_1774	CDS	complement(1924905..1926122)	yseI; putative aminotransferase
+lls:lilo_1775	CDS	complement(1926122..1927378)	ysfA; hypothetical protein
+lls:lilo_1776	CDS	complement(1927516..1928286)	ysfB; ABC transporter ATP-binding protein
+lls:lilo_1777	CDS	complement(1928462..1929793)	ysfC; polysacharide biosynthesis protein
+lls:lilo_1778	CDS	complement(1929796..1930497)	ysfD; regulatory protein
+lls:lilo_1779	CDS	complement(1930627..1931361)	gltQ; glutamate ABC transporter ATP-binding protein
+lls:lilo_1780	CDS	complement(1931361..1932047)	gltP; glutamate ABC transporter permease protein
+lls:lilo_1781	CDS	complement(1932195..1933103)	ysfG; transcription regulator
+lls:lilo_1782	CDS	complement(1933248..1936883)	rpoC; DNA-directed RNA polymerase beta' chain
+lls:lilo_1783	CDS	complement(1936980..1940417)	rpoB; DNA-directed RNA polymerase beta chain
+lls:lilo_1784	CDS	complement(1940836..1941354)	codZ; transcription regulator
+lls:lilo_1785	CDS	1941669..1942352	ysgA; transcription regulator
+lls:lilo_1786	CDS	1942465..1944348	pepO; neutral endopeptidase
+lls:lilo_1787	CDS	complement(1944402..1944707)	ysgB; hypothetical protein
+lls:lilo_1788	CDS	complement(1944776..1946449)	ysgC; hypothetical protein
+lls:lilo_1789	CDS	1946660..1948111	murE; UDP-MurNac-tripeptide synthetase
+lls:lilo_1790	CDS	complement(1948470..1949531)	adhA; alcohol dehydrogenase
+lls:lilo_1791	CDS	1949688..1951466	recQ; ATP-dependent DNA helicase RecQ
+lls:lilo_1792	CDS	complement(1951502..1953028)	yshA; putative amino acid permease
+lls:lilo_1793	CDS	complement(1953308..1954549)	pepT; peptidase T
+lls:lilo_1794	CDS	complement(1954578..1955375)	yshB; unknown protein
+lls:lilo_1795	CDS	complement(1955375..1956319)	yshC; inorganic pyrophosphatase
+lls:lilo_1796	CDS	complement(1956523..1957317)	pflA; pyruvate-formate lyase activating enzyme
+lls:lilo_1797	CDS	complement(1957535..1958872)	ysiA; transport protein
+lls:lilo_1798	CDS	complement(1958993..1960108)	ysiB; permease
+lls:lilo_t0043	tRNA	complement(1960438..1960522)	tRNA-Leu
+lls:lilo_1799	gene	complement(1960909..1961086)	yfbK; yfbK
+lls:lilo_1800	CDS	1962105..1962476	aldo/keto reductase
+lls:lilo_1801	CDS	complement(1963199..1963633)	universal stress protein UspA related nucleotide-binding protein
+lls:lilo_1802	CDS	complement(1964024..1965505)	hypothetical protein
+lls:lilo_1803	CDS	complement(1965775..1965996)	yfbH; unknown protein
+lls:lilo_1804	CDS	complement(1966146..1966205)	ps304; prophage ps3 protein 4
+lls:lilo_1805	CDS	complement(1966562..1967080)	ps439; hypothetical protein
+lls:lilo_1806	CDS	complement(1967071..1967406)	ps101; prophage ps1 protein 1
+lls:lilo_1807	CDS	complement(1967545..1968165)	ps218; prophage ps2 protein 18
+lls:lilo_1808	CDS	complement(1968184..1969413)	pi322; major head protein precursor
+lls:lilo_1809	CDS	complement(1969590..1970168)	ps216; prophage ps2 protein 16
+lls:lilo_1810	CDS	complement(1970187..1970642)	oxidoreductase
+lls:lilo_1811	CDS	complement(1970903..1972507)	ps215; prophage ps2 protein 15
+lls:lilo_1812	CDS	complement(1972500..1973078)	ps214; prophage ps2 protein 14
+lls:lilo_1813	CDS	complement(1973087..1973356)	hypothetical protein
+lls:lilo_1814	CDS	complement(1973353..1973505)	hypothetical protein
+lls:lilo_1815	CDS	complement(1973502..1973654)	putative metalloendopeptidase, glycoprotease family
+lls:lilo_1816	CDS	complement(1973651..1973872)	ps113; prophage ps1 protein 13
+lls:lilo_1817	CDS	complement(1974208..1974441)	ps436; hypothetical protein
+lls:lilo_1818	CDS	1974547..1975038	transcriptional regulator, xre family
+lls:lilo_1819	CDS	1975123..1976355	ps316; integrase
+lls:lilo_1820	CDS	1976502..1976945	ysiC; hypothetical protein
+lls:lilo_1821	CDS	complement(1976991..1977572)	ysiD; hypothetical protein
+lls:lilo_1822	CDS	complement(1977890..1980712)	uvrA; excinuclease ABC subunit A
+lls:lilo_1823	CDS	complement(1980885..1981523)	ysiE; unknown protein
+lls:lilo_1824	CDS	1981592..1982116	cobC; alpha-ribazole-5'-phosphate phosphatase
+lls:lilo_1825	CDS	1982113..1982427	ysiG; putative endonuclease
+lls:lilo_1826	CDS	complement(1982441..1983790)	ysjA; amino acid permease
+lls:lilo_1827	CDS	complement(1984221..1985138)	ysjB; oxidoreductase
+lls:lilo_1828	CDS	complement(1985170..1985805)	ysjC; hypothetical protein
+lls:lilo_1829	CDS	complement(1985802..1986149)	ysjD; hypothetical protein
+lls:lilo_1830	CDS	complement(1986174..1986629)	ysjE; unknown protein
+lls:lilo_1831	CDS	complement(1986769..1988112)	asnS; asparaginyl-tRNA synthetase
+lls:lilo_1832	CDS	complement(1988160..1988471)	ysjG; unknown protein
+lls:lilo_1833	CDS	complement(1988468..1989649)	aspB; aspartate aminotransferase
+lls:lilo_1834	CDS	complement(1989646..1990089)	ysjH; unknown protein
+lls:lilo_1835	CDS	complement(1990225..1992609)	dinG; ATP-dependent helicase DinG
+lls:lilo_1836	CDS	1992814..1993266	ytaA; hypothetical protein
+lls:lilo_1837	CDS	complement(1993320..1994612)	ytaB; transport and binding protein
+lls:lilo_1838	CDS	complement(1994752..1995753)	pacB; penicillin acylase
+lls:lilo_1839	CDS	complement(1995825..1996571)	ytaD; tyrosine phosphatase
+lls:lilo_1840	CDS	complement(1996775..1998577)	oppA; oligopeptide ABC transporter substrate binding protein
+lls:lilo_1841	CDS	complement(1998683..1999573)	oppC; oligopeptide ABC transporter permease protein
+lls:lilo_1842	CDS	complement(1999577..2000536)	oppB; oligopeptide ABC transporter permease protein
+lls:lilo_1843	CDS	complement(2000517..2001476)	oppF; oligopeptide ABC transporter ATP binding protein
+lls:lilo_1844	CDS	complement(2001473..2002501)	oppD; oligopeptide ABC transporter ATP binding protein
+lls:lilo_1845	CDS	complement(2002715..2003074)	rplT; 50S ribosomal protein L20
+lls:lilo_1846	CDS	complement(2003236..2003436)	rpmI; 50S ribosomal protein L35
+lls:lilo_1847	CDS	complement(2003565..2004059)	infC; translation initiation factor IF-3
+lls:lilo_1848	CDS	2004522..2004650	hypothetical protein
+lls:lilo_1849	CDS	2004669..2005217	ytbA; unknown protein
+lls:lilo_1850	CDS	complement(2005351..2005944)	ytbB; hypothetical protein
+lls:lilo_1851	CDS	complement(2006101..2007978)	gidA; glucose inhibited division protein GidA
+lls:lilo_1852	CDS	complement(2008352..2008942)	ytbC; unknown protein
+lls:lilo_1853	CDS	complement(2009060..2009428)	ytbD; hypothetical protein
+lls:lilo_1854	CDS	complement(2009543..2009944)	ytbE; hypothetical protein
+lls:lilo_1855	CDS	complement(2009937..2011283)	cysS; cysteinyl-tRNA synthetase
+lls:lilo_1856	CDS	complement(2011296..2011889)	ytcA; hypothetical protein
+lls:lilo_1857	CDS	complement(2011903..2012502)	cysE; serine acetyltransferase
+lls:lilo_1858	CDS	complement(2012609..2013379)	ytcB; unknown protein
+lls:lilo_1859	CDS	complement(2013587..2015776)	pnpA; polyribonucleotide nucleotidyltransferase
+lls:lilo_1860	CDS	complement(2016192..2017337)	ytcC; hypothetical protein
+lls:lilo_1861	CDS	2017701..2018666	prsB; ribose-phosphate pyrophosphokinase
+lls:lilo_1862	CDS	complement(2018788..2019219)	ytcD; hypothetical protein
+lls:lilo_1863	CDS	2019613..2020587	nifS; pyridoxal-phosphate dependent aminotransferase NifS
+lls:lilo_1864	CDS	2020611..2020955	ytcE; unknown protein
+lls:lilo_1865	CDS	complement(2021050..2022237)	tuf; elongation factor EF-Tu
+lls:lilo_1866	CDS	2022480..2022662	ytbA; unknown protein
+lls:lilo_1867	CDS	complement(2022895..2025693)	ileS; isoleucyl-tRNA synthetase
+lls:lilo_1868	CDS	complement(2026008..2026940)	ytdB; cell division protein
+lls:lilo_1869	CDS	complement(2026997..2027689)	ytdC; hypothetical protein
+lls:lilo_1870	CDS	complement(2027785..2028060)	ytdD; YggT family protein
+lls:lilo_1871	CDS	complement(2028060..2028650)	ytdE; hypothetical protein
+lls:lilo_1872	CDS	complement(2028684..2029361)	ytdF; hypothetical protein
+lls:lilo_1873	CDS	complement(2029365..2030618)	ftsZ; cell division protein FtsZ
+lls:lilo_1874	CDS	complement(2030649..2032019)	ftsA; cell division protein FtsA
+lls:lilo_1875	CDS	complement(2032180..2033112)	yteA; hypothetical protein
+lls:lilo_1876	CDS	complement(2033162..2033890)	trmH; tRNA-guanosine methyltransferase
+lls:lilo_1877	CDS	complement(2034036..2035157)	yteB; hypothetical protein
+lls:lilo_1878	CDS	complement(2035285..2036130)	yteC; oxidoreductase
+lls:lilo_1879	CDS	complement(2036142..2037470)	yteD; transmembrane efflux protein
+lls:lilo_1880	CDS	complement(2037636..2038514)	rlrB; LysR family transcription regulator
+lls:lilo_1881	CDS	complement(2038530..2038934)	rmeA; transcription regulator
+lls:lilo_1882	CDS	complement(2039016..2040380)	pepC; PepC protein
+lls:lilo_1883	CDS	complement(2040455..2041048)	yteE; hypothetical protein
+lls:lilo_1884	CDS	complement(2041106..2041786)	pfs; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+lls:lilo_1885	CDS	complement(2041818..2042096)	ytfA; unknown protein
+lls:lilo_1886	CDS	complement(2042089..2042673)	ytfB; ADP-ribose pyrophosphatase
+lls:lilo_1887	CDS	complement(2042778..2044154)	glmU; glucosamine-1-phosphate N-acetyltransferase / UDP-N-acetylglucosamine pyrophosphorylase
+lls:lilo_1888	CDS	2044382..2045170	proC; pyrroline-5-carboxylate reductase
+lls:lilo_1889	CDS	complement(2045248..2045517)	rpsO; 30S ribosomal protein S15
+lls:lilo_1890	CDS	complement(2045700..2047583)	pknB; serine/threonine protein kinase
+lls:lilo_1891	CDS	complement(2047583..2048359)	pppL; putative PP2C protein phosphatase
+lls:lilo_1892	CDS	complement(2048440..2049714)	sunL; rRNA methylase
+lls:lilo_1893	CDS	complement(2049913..2050419)	ytgH; hypothetical protein
+lls:lilo_1894	CDS	complement(2050639..2051199)	ytgA; unknown protein
+lls:lilo_1895	CDS	complement(2051227..2051469)	ytgB; unknown protein
+lls:lilo_1896	CDS	complement(2051644..2052603)	fmt; methyonyl-tRNA formyltransferase
+lls:lilo_1897	CDS	complement(2052600..2053064)	yteG; unknown protein
+lls:lilo_1898	CDS	complement(2053030..2053551)	ytgC; hypothetical protein
+lls:lilo_1899	CDS	complement(2053564..2053947)	hypothetical protein
+lls:lilo_1900	CDS	complement(2053997..2056336)	priA; primosomal protein N'
+lls:lilo_1901	CDS	complement(2056475..2056828)	ytgE; DNA-directed RNA polymerase subunit omega
+lls:lilo_1902	CDS	complement(2057008..2057625)	gmk; guanylate kinase
+lls:lilo_1903	CDS	complement(2057772..2059367)	ytgF; hypothetical protein
+lls:lilo_1904	CDS	complement(2059598..2060311)	ytgG; hypothetical protein
+lls:lilo_1905	CDS	complement(2060587..2060721)	hypothetical protein
+lls:lilo_1906	CDS	complement(2060758..2061957)	metK; S-adenosylmethionine synthetase
+lls:lilo_1907	CDS	complement(2062283..2063314)	cyclopropane fatty acid synthase related methyltransferase
+lls:lilo_1908	CDS	2063729..2064481	birA2; acetyl-CoA carboxylase ligase / biotin operon repressor bifunctional protein
+lls:lilo_1909	CDS	complement(2064588..2065052)	ythA; hypothetical protein
+lls:lilo_1910	CDS	complement(2065082..2065285)	ythB; hypothetical protein
+lls:lilo_1911	CDS	complement(2065347..2066462)	ythC; hypothetical protein
+lls:lilo_1912	CDS	complement(2066677..2068185)	acmB; N-acetylmuramidase
+lls:lilo_1913	CDS	complement(2069266..2070162)	fbaA; fructose-bisphosphate aldolase
+lls:lilo_t0044	tRNA	complement(2070325..2070410)	tRNA-Leu
+lls:lilo_t0045	tRNA	complement(2070446..2070517)	tRNA-Gly
+lls:lilo_t0046	tRNA	complement(2070543..2070615)	tRNA-Thr
+lls:lilo_t0047	tRNA	complement(2070628..2070709)	tRNA-Leu
+lls:lilo_t0048	tRNA	complement(2070718..2070790)	tRNA-Lys
+lls:lilo_t0049	tRNA	complement(2070808..2070880)	tRNA-Asp
+lls:lilo_t0050	tRNA	complement(2070910..2070982)	tRNA-Val
+lls:lilo_r0004	rRNA	complement(2070986..2071101)	5S ribosomal RNA
+lls:lilo_r0005	rRNA	complement(2071184..2074114)	23S ribosomal RNA
+lls:lilo_t0051	tRNA	complement(2074223..2074295)	tRNA-Ala
+lls:lilo_r0006	rRNA	complement(2074388..2075936)	16S ribosomal RNA
+lls:lilo_1914	CDS	complement(2076198..2076857)	ytiA; hypothetical protein
+lls:lilo_1915	CDS	complement(2076964..2078904)	thrS; theronyl-tRNA synthetase
+lls:lilo_1916	CDS	2078976..2079098	maltose phosphorylase
+lls:lilo_1917	CDS	complement(2079466..2079783)	ytjA; unknown protein
+lls:lilo_1918	CDS	complement(2079841..2081109)	mntA; putative Mn and Fe transporters
+lls:lilo_1919	CDS	complement(2081209..2081817)	ytjD; hypothetical protein
+lls:lilo_1920	CDS	complement(2081959..2082594)	upp; Upp protein
+lls:lilo_1921	CDS	complement(2082820..2083959)	nah; Na+/H+ antiporter
+lls:lilo_1922	CDS	complement(2084014..2085177)	ytjE; aminotransferase
+lls:lilo_1923	CDS	complement(2085440..2086540)	metB1; cystathionine gamma-synthase
+lls:lilo_1924	CDS	complement(2086559..2087524)	metA; homoserine O-succinyltransferase
+lls:lilo_1925	CDS	complement(2087674..2088234)	ytjF; unknown protein
+lls:lilo_1926	CDS	complement(2088243..2089151)	ytjG; hypothetical protein
+lls:lilo_1927	CDS	complement(2089287..2090156)	ytjH; galactose mutarotase related enzyme
+lls:lilo_1928	CDS	complement(2090477..2091421)	yuaA; putative CMP-binding factor
+lls:lilo_1929	CDS	complement(2091671..2092975)	yuaB; hypothetical protein
+lls:lilo_1930	CDS	complement(2093067..2093717)	rpe; ribulose-phosphate 3-epimerase
+lls:lilo_1931	CDS	complement(2093776..2094033)	yuaC; unknown protein
+lls:lilo_1932	CDS	complement(2094262..2095185)	yuaD; hypothetical protein
+lls:lilo_1933	CDS	complement(2095245..2096366)	yuaE; hypothetical protein
+lls:lilo_1934	CDS	complement(2096593..2098986)	pheT; phenylalanyl-tRNA synthetase beta chain
+lls:lilo_1935	CDS	complement(2099024..2100064)	pheS; phenylalanyl-tRNA synthetase alpha chain
+lls:lilo_1936	CDS	2100517..2101050	pdc; phenolic acid decarboxylase
+lls:lilo_1937	CDS	2101286..2101825	yucF; hypothetical protein
+lls:lilo_1938	CDS	2101993..2103471	chiA; chitinase
+lls:lilo_1939	CDS	2103491..2104153	yucG; chitin binding protein
+lls:lilo_1940	CDS	complement(2104196..2105488)	purA; adenylosuccinate synthase
+lls:lilo_1941	CDS	complement(2105761..2106381)	yudA; transport protein
+lls:lilo_1942	CDS	complement(2106640..2106798)	hypothetical protein
+lls:lilo_1943	CDS	complement(2106968..2107252)	yudB; unknown protein
+lls:lilo_1944	CDS	complement(2107502..2108179)	yudC; unknown protein
+lls:lilo_1945	CDS	complement(2108270..2108773)	yudD; hypothetical protein
+lls:lilo_1946	CDS	complement(2108853..2109104)	yudE; unknown protein
+lls:lilo_1947	CDS	complement(2109194..2109523)	yudF; unknown protein
+lls:lilo_1948	CDS	2109759..2110625	yudG; putative heat shock protein
+lls:lilo_1949	CDS	2110680..2111201	yudH; conserved hypothetical protein
+lls:lilo_1950	CDS	2111277..2112281	yudI; oxidoreductase
+lls:lilo_1951	CDS	complement(2112647..2113531)	yudJ; hypothetical protein
+lls:lilo_1952	CDS	complement(2113681..2114556)	yudK; hypothetical protein
+lls:lilo_1953	CDS	complement(2114656..2115498)	yudL; hypothetical protein
+lls:lilo_1954	CDS	complement(2115566..2117338)	aspS; aspartyl-tRNA synthetase
+lls:lilo_1955	CDS	complement(2117399..2117767)	diadenosine tetraphosphate (Ap4A) hydrolase relatedHIT family hydrolase
+lls:lilo_1956	CDS	complement(2117792..2119084)	hisS; histidyl-tRNA synthetase
+lls:lilo_1957	CDS	complement(2119397..2120557)	yueB; unknown protein
+lls:lilo_1958	CDS	complement(2120801..2121124)	hypothetical protein
+lls:lilo_1959	CDS	complement(2121128..2121988)	hypothetical protein
+lls:lilo_1960	CDS	complement(2122232..2122804)	pgsA; CDP-diacylglycerol-phosphate phosphatidyltransferase
+lls:lilo_1961	CDS	complement(2122845..2123741)	yueD; hypothetical protein
+lls:lilo_1962	CDS	complement(2124006..2125046)	yueE; putative protease
+lls:lilo_1963	CDS	complement(2125279..2126550)	yueF; putative protease
+lls:lilo_1964	CDS	2126763..2127125	yufA; hypothetical protein
+lls:lilo_1965	CDS	2127125..2128201	recF; RecF protein
+lls:lilo_1966	CDS	complement(2128288..2128656)	pcaC; gamma-carboxymuconolactone decarboxylase
+lls:lilo_1967	CDS	2128734..2129111	rmeD; transcription regulator
+lls:lilo_1968	CDS	complement(2129123..2130088)	yufC; hypothetical protein
+lls:lilo_1969	CDS	complement(2130200..2131192)	galE; UDP-glucose 4-epimerase
+lls:lilo_1970	CDS	complement(2131299..2132780)	galT; galactose-1-phosphate uridylyltransferase
+lls:lilo_1971	CDS	complement(2132956..2134155)	galK; galactokinase
+lls:lilo_1972	CDS	complement(2134182..2135201)	galM; aldose 1-epimerase
+lls:lilo_1973	CDS	complement(2135331..2136719)	galP; galactose permease
+lls:lilo_1974	CDS	complement(2136998..2137732)	yugA; transcription regulator
+lls:lilo_1975	CDS	2137862..2138866	yugB; oxidoreductase of aryl-alcohol dehydrogenase family
+lls:lilo_1976	CDS	complement(2138934..2140073)	nadR; transcriptional regulator
+lls:lilo_1977	CDS	complement(2140060..2141037)	yugC; dehydrogenase
+lls:lilo_1978	CDS	complement(2141235..2142527)	yugD; protease
+lls:lilo_1979	CDS	complement(2142805..2142966)	yuhA; unknown protein
+lls:lilo_1980	CDS	complement(2143651..2144574)	yuhB; protease
+lls:lilo_1981	CDS	2144795..2145076	yuhC; unknown protein
+lls:lilo_1982	CDS	complement(2145101..2145922)	yuhD; rRNA (guanine-N1-)-methyltransferase, putative
+lls:lilo_1983	CDS	2146040..2146666	yuhE; putative copper homeostasis protein
+lls:lilo_1984	CDS	complement(2146705..2147724)	ecsB; ABC transporter permease protein
+lls:lilo_1985	CDS	complement(2147717..2148487)	ecsA; ABC transporter ATP binding protein
+lls:lilo_1986	CDS	complement(2148506..2150359)	yuhH; putative glycerophosphoryl diester phosphodiesterase
+lls:lilo_1987	CDS	2150590..2150991	yuhI; putative cell-cycle regulation histidine triad
+lls:lilo_1988	CDS	2151004..2151225	yuhJ; unknown protein
+lls:lilo_1989	CDS	complement(2151237..2151581)	hypothetical protein
+lls:lilo_1990	CDS	complement(2151659..2152348)	rplA; 50S ribosomal protein L1
+lls:lilo_1991	CDS	complement(2152687..2153112)	rplK; 50S ribosomal protein L11
+lls:lilo_1992	CDS	2153337..2155214	yuiA; metal transporting ATPase
+lls:lilo_1993	CDS	2155278..2155946	rcfA; transcriptional regulator
+lls:lilo_1994	CDS	complement(2156016..2156225)	yuiB; hypothetical protein
+lls:lilo_1995	CDS	complement(2156261..2156779)	pmsR; peptide methionine sulfoxide reductase
+lls:lilo_1996	CDS	complement(2156952..2157809)	yuiC; hypothetical protein
+lls:lilo_1997	CDS	complement(2157855..2158313)	yuiD; unknown protein
+lls:lilo_1998	CDS	complement(2158406..2158963)	frr; ribosome recycling factor
+lls:lilo_1999	CDS	complement(2159175..2159891)	pyrH; UMP-kinase
+lls:lilo_2000	CDS	complement(2159976..2160428)	yuiE; unknown protein
+lls:lilo_2001	CDS	complement(2160562..2161749)	ackA2; acetate kinase
+lls:lilo_2002	CDS	complement(2161906..2163093)	ackA1; acetate kinase
+lls:lilo_2003	CDS	complement(2163289..2164227)	yujA; hypothetical protein
+lls:lilo_2004	CDS	complement(2164315..2164566)	hypothetical protein
+lls:lilo_2005	CDS	complement(2164667..2166508)	typA; GTP-binding protein TypA/BipA
+lls:lilo_2006	CDS	complement(2166687..2167145)	yujB; unknown protein
+lls:lilo_2007	CDS	complement(2167147..2167551)	hypothetical protein
+lls:lilo_2008	CDS	complement(2167570..2168361)	yujC; unknown protein
+lls:lilo_2009	CDS	complement(2168699..2169325)	yujD; ABC transporter ATP binding protein
+lls:lilo_2010	CDS	complement(2169326..2171314)	yujE; unknown protein
+lls:lilo_2011	CDS	complement(2171311..2171637)	yujF; unknown protein
+lls:lilo_2012	CDS	complement(2171935..2172663)	yujG; unknown protein
+lls:lilo_2013	CDS	2172855..2173076	yvaA; unknown protein
+lls:lilo_2014	CDS	2173110..2174081	glk; glucose kinase
+lls:lilo_2015	CDS	2174084..2174470	yvaB; hypothetical protein
+lls:lilo_2016	CDS	complement(2174552..2174998)	dpsA; non-heme iron-binding ferritin
+lls:lilo_2017	CDS	2175165..2175830	comC; leader peptidase (prepilin peptidase) / N-methyltransferase
+lls:lilo_2018	CDS	complement(2175781..2176875)	dinP; DNA polymerase IV
+lls:lilo_2019	CDS	complement(2176954..2177445)	yvaD; unknown protein
+lls:lilo_2020	CDS	complement(2177524..2179017)	arcD2; arginine/ornitine antiporter
+lls:lilo_2021	CDS	complement(2179209..2180339)	arcT; hypothetical protein
+lls:lilo_2022	CDS	complement(2180604..2181548)	arcC2; carbamate kinase
+lls:lilo_2023	CDS	complement(2181580..2182524)	arcC1; carbamate kinase
+lls:lilo_2024	CDS	complement(2182541..2184121)	arcD1; arginine/ornithine antiporter
+lls:lilo_2025	CDS	complement(2184252..2185316)	arcB; ornithine carbamoyltransferase
+lls:lilo_2026	CDS	complement(2185499..2186731)	arcA; arginine deiminase
+lls:lilo_2027	CDS	complement(2187033..2188727)	argS; arginyl-tRNA synthetase
+lls:lilo_2028	CDS	2188795..2189253	argR; arginine catabolic regulator
+lls:lilo_2029	CDS	complement(2189436..2190809)	murC; UDP-N-acetylmuramate-alanine ligase
+lls:lilo_2030	CDS	complement(2190971..2191564)	yvcA; unknown protein
+lls:lilo_2031	CDS	complement(2191780..2194884)	snf; SWI/SNF family helicase
+lls:lilo_2032	CDS	complement(2195138..2199496)	yvcC; unknown protein
+lls:lilo_2033	CDS	complement(2199913..2201616)	poxL; pyruvate oxidase
+lls:lilo_2034	CDS	complement(2201843..2202799)	yvdA; hypothetical protein
+lls:lilo_2035	CDS	complement(2203452..2203661)	yvdB; hypothetical protein
+lls:lilo_2036	CDS	2204015..2204800	yvdC; unknown protein
+lls:lilo_2037	CDS	complement(2204847..2205719)	yvdD; glycerol uptake facilitator related permease
+lls:lilo_2038	CDS	2205891..2208182	pepXP; X-prolyl dipeptidyl aminopeptidase
+lls:lilo_2039	CDS	2208184..2208894	yvdE; hypothetical protein
+lls:lilo_2040	CDS	2209044..2209886	yvdF; amino acid ABC transporter substrate binding protein
+lls:lilo_2041	CDS	complement(2210006..2211457)	gltX; glutamyl-tRNA synthetase
+lls:lilo_2042	CDS	complement(2211621..2212151)	yveA; hypothetical protein
+lls:lilo_2043	CDS	complement(2212250..2213173)	yveB; unknown protein
+lls:lilo_2044	CDS	2213402..2213896	yveC; unknown protein
+lls:lilo_2045	CDS	complement(2213989..2214312)	yveD; unknown protein
+lls:lilo_2046	CDS	complement(2214299..2214646)	yveE; unknown protein
+lls:lilo_2047	CDS	complement(2214633..2214995)	yveF; hypothetical protein
+lls:lilo_2048	CDS	complement(2215116..2215745)	yveG; unknown protein
+lls:lilo_2049	CDS	complement(2215810..2216895)	yveH; hypothetical protein
+lls:lilo_2050	CDS	2217126..2217812	yveI; unknown protein
+lls:lilo_2051	CDS	complement(2217856..2219217)	radA; DNA repair protein
+lls:lilo_2052	CDS	complement(2219379..2219606)	yvfA; unknown protein
+lls:lilo_t0052	tRNA	complement(2220164..2220236)	tRNA-Thr
+lls:lilo_2053	CDS	complement(2220422..2220802)	rplQ; 50S ribosomal protein L17
+lls:lilo_2054	CDS	complement(2220821..2221759)	rpoA; DNA-directed RNA polymerase subunit alpha
+lls:lilo_2055	CDS	complement(2221807..2222190)	rpsK; 30S ribosomal protein S11
+lls:lilo_2056	CDS	complement(2222211..2222576)	rpsM; 30S ribosomal protein S13
+lls:lilo_2057	CDS	complement(2222594..2222710)	rpmJ; 50S ribosomal protein L36
+lls:lilo_2058	CDS	complement(2222764..2222982)	infA; translation initiation factor IF-1
+lls:lilo_2059	CDS	complement(2223279..2223926)	adk; adenylate kinase
+lls:lilo_2060	CDS	complement(2224066..2225385)	secY; preprotein translocase SecY subunit
+lls:lilo_2061	CDS	complement(2225463..2225906)	rplO; 50S ribosomal protein L15
+lls:lilo_2062	CDS	complement(2226181..2226360)	rpmD; 50S ribosomal protein L30
+lls:lilo_2063	CDS	complement(2226371..2226877)	rpsE; 30S ribosomal protein S5
+lls:lilo_2064	CDS	complement(2226896..2227243)	rplR; 50S ribosomal protein L18
+lls:lilo_2065	CDS	complement(2227459..2227995)	rplF; 50S ribosomal protein L6
+lls:lilo_2066	CDS	complement(2228213..2228611)	rpsH; 30S ribosomal protein S8
+lls:lilo_2067	CDS	complement(2228820..2229443)	yvgA; hypothetical protein
+lls:lilo_2068	CDS	complement(2229598..2229783)	rpsN; 30S ribosomal protein S14
+lls:lilo_2069	CDS	complement(2229802..2230344)	rplE; 50S ribosomal protein L5
+lls:lilo_2070	CDS	complement(2230364..2230669)	rplX; 50S ribosomal protein L24
+lls:lilo_2071	CDS	complement(2230803..2231171)	rplN; 50S ribosomal protein L14
+lls:lilo_2072	CDS	complement(2231194..2231454)	rpsQ; 30S ribosomal protein S17
+lls:lilo_2073	CDS	complement(2231475..2231684)	rpmC; 50S ribosomal protein L29
+lls:lilo_2074	CDS	complement(2231684..2232097)	rplP; 50S ribosomal protein L16
+lls:lilo_2075	CDS	complement(2232101..2232754)	rpsC; 30S ribosomal protein S3
+lls:lilo_2076	CDS	complement(2232767..2233114)	rplV; 50S ribosomal protein L22
+lls:lilo_2077	CDS	complement(2233130..2233363)	rpsS; 30S ribosomal protein S19
+lls:lilo_2078	CDS	complement(2233568..2234398)	rplB; 50S ribosomal protein L2
+lls:lilo_2079	CDS	complement(2234414..2234707)	rplW; 50S ribosomal protein L23
+lls:lilo_2080	CDS	complement(2234707..2235333)	rplD; 50S ribosomal protein L4
+lls:lilo_2081	CDS	complement(2235359..2235982)	rplC; 50S ribosomal protein L3
+lls:lilo_2082	CDS	complement(2236001..2236309)	rpsJ; 30S ribosomal protein S10
+lls:lilo_2083	CDS	2236623..2236991	mscL; large conductance mechanosensitive channel protein
+lls:lilo_2084	CDS	complement(2237031..2238233)	yvhA; hypothetical protein
+lls:lilo_2085	CDS	complement(2238317..2239807)	thrC; threonine synthase
+lls:lilo_2086	CDS	complement(2239909..2240466)	nusG; transcription antitermination protein
+lls:lilo_2087	CDS	complement(2240665..2240859)	secE; preprotein translocase SecE subunit
+lls:lilo_2088	CDS	complement(2240970..2241119)	rpmGC; 50S ribosomal protein L33
+lls:lilo_2089	CDS	complement(2241160..2242977)	yvhB; hypothetical protein
+lls:lilo_2090	CDS	complement(2243079..2245310)	pbp2A; penicillin-binding protein 2a
+lls:lilo_2091	CDS	complement(2245619..2246254)	yviA; hypothetical protein
+lls:lilo_2092	CDS	complement(2246271..2246711)	yviB; unknown protein
+lls:lilo_2093	CDS	complement(2246816..2247193)	yviC; FMN-binding protein
+lls:lilo_2094	CDS	2247392..2248264	rluA; pseudouridine synthase
+lls:lilo_2095	CDS	complement(2248302..2249111)	zipT; ABC-type Mn2+/Zn2+ transport system, permease component
+lls:lilo_2096	CDS	complement(2249104..2249841)	zitQ; zinc ABC transporter ATP binding protein
+lls:lilo_2097	CDS	complement(2250018..2250860)	zitS; zinc ABC transporter substrate binding protein
+lls:lilo_2098	CDS	complement(2250857..2251294)	zitR; zinc transport transcription regulator
+lls:lilo_2099	CDS	complement(2251376..2251660)	yviH; hypothetical protein
+lls:lilo_2100	CDS	complement(2251699..2252124)	yviI; putative competence protein
+lls:lilo_2101	CDS	complement(2252108..2252404)	yviJ; hypothetical protein
+lls:lilo_2102	CDS	complement(2252376..2252807)	comGD; competence protein ComGD
+lls:lilo_2103	CDS	complement(2252767..2253150)	comGC; competence protein ComGC
+lls:lilo_2104	CDS	complement(2253164..2254183)	comGB; competence protein ComGB
+lls:lilo_2105	CDS	complement(2254131..2255069)	comGA; competence protein ComGA
+lls:lilo_2106	CDS	complement(2256547..2261463)	polC; DNA polymerase III, alpha chain
+lls:lilo_2107	CDS	complement(2261635..2262171)	yvjA; unknown protein
+lls:lilo_2108	CDS	complement(2262177..2263508)	noxD; NADH oxidase
+lls:lilo_2109	CDS	complement(2263524..2265374)	proS; prolyl-tRNA synthetase
+lls:lilo_2110	CDS	complement(2265444..2266631)	yvjB; hypothetical zinc metalloprotease
+lls:lilo_2111	CDS	complement(2266749..2267552)	cdsA; phosphatidate cytidylyltransferase
+lls:lilo_2112	CDS	complement(2267552..2268286)	uppS; undecaprenyl pyrophosphate synthetase
+lls:lilo_2113	CDS	complement(2268660..2268992)	ywaB; preprotein translocase YajC subunit
+lls:lilo_2114	CDS	complement(2269087..2269785)	hypothetical protein
+lls:lilo_2115	CDS	complement(2269804..2270283)	ywaE; hypothetical protein
+lls:lilo_2116	CDS	2270659..2271885	htrA; exported serine protease
+lls:lilo_2117	CDS	2272011..2273009	ywaF; glycosyltransferase
+lls:lilo_2118	CDS	2273135..2274475	ywaG; lipopolysaccharide biosynthesis protein
+lls:lilo_2119	CDS	2274583..2274807	ywaH; unknown protein
+lls:lilo_2120	CDS	2274948..2275952	ywaI; unknown protein
+lls:lilo_2121	CDS	complement(2275993..2276745)	ywbA; hypothetical protein
+lls:lilo_2122	CDS	complement(2277101..2279755)	polA; DNA polymerase I
+lls:lilo_2123	CDS	2280782..2281705	rliDB; transcriptional regulator
+lls:lilo_r0007	rRNA	complement(2281809..2281924)	5S ribosomal RNA
+lls:lilo_r0008	rRNA	complement(2282007..2284937)	23S ribosomal RNA
+lls:lilo_t0053	tRNA	complement(2285046..2285118)	tRNA-Ala
+lls:lilo_r0009	rRNA	complement(2285212..2286759)	16S ribosomal RNA
+lls:lilo_2124	CDS	complement(2287126..2287617)	comX; competence regulator
+lls:lilo_2125	CDS	complement(2287878..2289608)	ezrA; cell division regulator
+lls:lilo_2126	CDS	complement(2289813..2290841)	tsf; elongation factor EF-Ts
+lls:lilo_2127	CDS	complement(2290963..2291715)	rpsB; 30S ribosomal protein S2
+lls:lilo_2128	CDS	2292089..2293114	ywcC; conserved hypothetical protein
+lls:lilo_2129	CDS	2293346..2296057	adhE; alcohol dehydrogenase / acetaldehyde dehydrogenase
+lls:lilo_2130	CDS	complement(2296360..2296839)	ywdA; unknown protein
+lls:lilo_2131	CDS	complement(2296826..2297035)	ywdB; unknown protein
+lls:lilo_2132	CDS	complement(2297032..2297859)	ywdC; unknown protein
+lls:lilo_2133	CDS	complement(2297852..2298808)	ywdD; unknown protein
+lls:lilo_2134	CDS	complement(2300077..2300934)	ywdE; transcription regulator
+lls:lilo_2135	CDS	complement(2301055..2302083)	ywdF; PDZ domain-containing protein
+lls:lilo_2136	CDS	complement(2302070..2302567)	kdtB; pantetheine-phosphate adenylyltransferase
+lls:lilo_2137	CDS	complement(2302615..2303154)	ywdG; hypothetical protein
+lls:lilo_2138	CDS	complement(2303325..2304545)	yweA; membrane protein
+lls:lilo_2139	CDS	complement(2304627..2305853)	lmrP; integral membrane protein
+lls:lilo_2140	CDS	complement(2306042..2307388)	pgiA; glucose-6-phosphate isomerase
+lls:lilo_2141	CDS	2307732..2308238	yweC; unknown protein
+lls:lilo_2142	CDS	complement(2308270..2309115)	yweD; hypothetical protein
+lls:lilo_2143	CDS	2309338..2309616	yweE; hypothetical protein
+lls:lilo_2144	CDS	2309729..2310061	yweF; unknown protein
+lls:lilo_2145	CDS	complement(2310103..2312775)	valS; valyl-tRNA synthetase
+lls:lilo_2146	CDS	complement(2313001..2313657)	ywfA; unknown protein
+lls:lilo_2147	CDS	complement(2313790..2314038)	ywfB; unknown protein
+lls:lilo_2148	CDS	complement(2314077..2314421)	ywfC; hypothetical protein
+lls:lilo_2149	CDS	complement(2314422..2314931)	ywfD; unknown protein
+lls:lilo_2150	CDS	complement(2315074..2315781)	ywfE; unknown protein
+lls:lilo_2151	CDS	complement(2316065..2317606)	ywfF; putative RNA methyltransferase
+lls:lilo_2152	CDS	complement(2317835..2320636)	hypothetical protein
+lls:lilo_2153	CDS	2320922..2321731	ywgA; regulatory protein recX
+lls:lilo_r0010	rRNA	complement(2321834..2321949)	5S ribosomal RNA
+lls:lilo_r0011	rRNA	complement(2322032..2324962)	23S ribosomal RNA
+lls:lilo_t0054	tRNA	complement(2325071..2325143)	tRNA-Ala
+lls:lilo_r0012	rRNA	complement(2325237..2326784)	16S ribosomal RNA
+lls:lilo_2154	CDS	complement(2327100..2328515)	gntP; gluconate transport protein
+lls:lilo_2155	CDS	complement(2328649..2330160)	gntK; gluconate kinase
+lls:lilo_2156	CDS	complement(2330281..2331189)	gntZ; 6-phosphogluconate dehydrogenase
+lls:lilo_2157	CDS	2331551..2332399	gntR; transcription regulator
+lls:lilo_2158	CDS	2332437..2332745	hypothetical protein
+lls:lilo_2159	CDS	complement(2332827..2333600)	ywhB; hypothetical protein
+lls:lilo_2160	CDS	complement(2333800..2334045)	rpsR; 30S ribosomal protein S18
+lls:lilo_2161	CDS	complement(2334219..2334719)	ssbB; single-strand binding protein
+lls:lilo_2162	CDS	complement(2334749..2335042)	rpsF; 30S ribosomal protein S6
+lls:lilo_2163	CDS	complement(2335234..2336088)	bacA; undecaprenyl-diphosphatase
+lls:lilo_2164	CDS	2336534..2336686	yaiJ; hypothetical protein
+lls:lilo_2165	CDS	2336695..2336976	yaiI; unknown protein
+lls:lilo_2166	CDS	2337520..2339040	lysP; lysine specific permease
+lls:lilo_2167	CDS	complement(2339074..2340732)	dnaH; DNA polymerase III, subunits beta and tau
+lls:lilo_2168	CDS	complement(2340781..2341422)	ywiA; unknown protein
+lls:lilo_2169	CDS	complement(2341454..2341942)	ywiB; GAF domain-containing protein
+lls:lilo_2170	CDS	2342331..2342603	ywiC; putative chorismate mutase
+lls:lilo_2171	CDS	complement(2342691..2343137)	ywiD; unknown protein
+lls:lilo_2172	CDS	2343355..2343555	ywiE; unknown protein
+lls:lilo_2173	CDS	complement(2343616..2344956)	glnA; glutamine synthetase
+lls:lilo_2174	CDS	complement(2345018..2345383)	glnR; glutamine synthetase repressor
+lls:lilo_2175	CDS	complement(2345484..2345921)	ptpL; protein-tyrosine phosphatase
+lls:lilo_2176	CDS	complement(2346334..2346930)	ywiG; ABC transporter ATP binding protein
+lls:lilo_2177	CDS	complement(2346927..2348111)	ywiH; ABC transporter permease protein
+lls:lilo_2178	CDS	complement(2348350..2348919)	yrbG; unknown protein
+lls:lilo_2179	CDS	complement(2349139..2350023)	ywiI; transcription regulator
+lls:lilo_2180	CDS	complement(2350159..2351160)	ruvB; Holliday junction DNA helicase B
+lls:lilo_2181	CDS	complement(2351287..2351880)	ruvA; DNA helicase RuvA
+lls:lilo_2182	CDS	complement(2351993..2354080)	hexB; DNA mismatch repair protein MutL
+lls:lilo_2183	CDS	complement(2354092..2354787)	ywjA; unknown protein
+lls:lilo_2184	CDS	complement(2354902..2357424)	hexA; mismatch repair protein MutS
+lls:lilo_2185	CDS	complement(2357617..2357964)	ywjB; unknown protein
+lls:lilo_2186	CDS	complement(2358181..2359062)	ywjF; 3-hydroxyisobutyrate dehydrogenase
+lls:lilo_2187	CDS	complement(2359104..2359424)	ywjG; unknown protein
+lls:lilo_t0055	tRNA	complement(2359382..2359464)	tRNA-Leu
+lls:lilo_2188	CDS	complement(2359986..2360837)	yxaA; permease
+lls:lilo_2189	CDS	2361023..2361202	yxaB; unknown protein
+lls:lilo_2190	CDS	2361273..2362784	zwf; glucose-6-phosphate 1-dehydrogenase
+lls:lilo_2191	CDS	complement(2362977..2363504)	yxaC; hypothetical protein
+lls:lilo_2192	CDS	complement(2363638..2364792)	dnaJ; DnaJ protein
+lls:lilo_2193	CDS	complement(2364891..2365634)	yxaF; hypothetical protein
+lls:lilo_2194	CDS	complement(2365624..2366346)	racD; aspartate racemase
+lls:lilo_2195	CDS	complement(2366378..2367604)	yxbA; hypothetical protein
+lls:lilo_2196	CDS	complement(2367616..2369493)	asnH; asparagine synthetase
+lls:lilo_2197	CDS	complement(2369614..2370960)	usp45; hypothetical protein
+lls:lilo_2198	CDS	complement(2371064..2371591)	mreD; cell shape determining protein
+lls:lilo_2199	CDS	complement(2371682..2372557)	mreC; cell shape determining protein
+lls:lilo_2200	CDS	2372850..2373290	yxbC; hypothetical protein
+lls:lilo_2201	CDS	complement(2373318..2373992)	rpiA; ribose 5-phosphate isomerase A
+lls:lilo_2202	CDS	complement(2374076..2374762)	rcfB; transcription regulator
+lls:lilo_2203	CDS	complement(2374845..2376077)	yxbD; transporter
+lls:lilo_2204	CDS	complement(2376128..2376565)	yxbE; hypothetical protein
+lls:lilo_2205	CDS	complement(2376585..2376788)	yxbF; hypothetical protein
+lls:lilo_2206	CDS	complement(2377009..2381205)	yxcA; hypothetical protein
+lls:lilo_2207	CDS	2381727..2382341	yxcB; transcription regulator
+lls:lilo_2208	CDS	complement(2382420..2383262)	rsuA; ribosomal small subunit pseudouridine synthase A
+lls:lilo_2209	CDS	complement(2383265..2383987)	yxcD; hypothetical protein
+lls:lilo_2210	CDS	2384112..2385479	thdF; GTP-binding protein ThdF
+lls:lilo_2211	CDS	complement(2385530..2386276)	yxcE; unknown protein
+lls:lilo_2212	CDS	complement(2386276..2388276)	recG; ATP-dependent DNA helicase
+lls:lilo_2213	CDS	complement(2388414..2388758)	phnA; alkylphosphonate uptake protein
+lls:lilo_2214	CDS	complement(2388828..2389838)	gapB; glyceraldehyde 3-phosphate dehydrogenase
+lls:lilo_2215	CDS	complement(2390118..2390639)	yxdB; hypothetical protein
+lls:lilo_2216	CDS	2390767..2393460	yxdC; cation-transporting ATPase
+lls:lilo_2217	CDS	complement(2393502..2394029)	transcriptional regulator
+lls:lilo_2218	CDS	2394154..2395173	yxdE; oxidoreductase
+lls:lilo_2219	CDS	2395390..2395845	yxdG; transporter
+lls:lilo_t0056	tRNA	complement(2395976..2396059)	tRNA-Leu
+lls:lilo_t0057	tRNA	complement(2396072..2396143)	tRNA-Gln
+lls:lilo_t0058	tRNA	complement(2396150..2396222)	tRNA-His
+lls:lilo_t0059	tRNA	complement(2396233..2396303)	tRNA-Trp
+lls:lilo_t0060	tRNA	complement(2396310..2396390)	tRNA-Tyr
+lls:lilo_t0061	tRNA	complement(2396426..2396498)	tRNA-Val
+lls:lilo_r0013	rRNA	complement(2396502..2396617)	5S ribosomal RNA
+lls:lilo_r0014	rRNA	complement(2396700..2399630)	23S ribosomal RNA
+lls:lilo_t0062	tRNA	complement(2399739..2399811)	tRNA-Ala
+lls:lilo_r0015	rRNA	complement(2399905..2401452)	16S ribosomal RNA
+lls:lilo_2220	CDS	complement(2401859..2402251)	rpsI; 30S ribosomal protein S9
+lls:lilo_2221	CDS	complement(2402271..2402717)	rplM; 50S ribosomal protein L13
+lls:lilo_2222	CDS	2403084..2404157	yxeA; hypothetical protein
+lls:lilo_2223	CDS	2404166..2404837	yxeB; ABC transporter ATP-binding protein
+lls:lilo_2224	CDS	2404982..2405860	rnhA; ribonuclease HIII
+lls:lilo_2225	CDS	2405872..2406498	sipL; signal peptidase I
+lls:lilo_2226	CDS	complement(2406548..2407363)	purR; regulator of purine biosynthetic genes
+lls:lilo_2227	CDS	complement(2407714..2409843)	fusA; elongation factor EF-G
+lls:lilo_2228	CDS	complement(2410110..2410577)	rpsG; 30S ribosomal protein S7
+lls:lilo_2229	CDS	complement(2410596..2411009)	rpsL; 30S ribosomal protein S12
+lls:lilo_2230	CDS	2411337..2412644	dacA; D-alanyl-D-alanine carboxypeptidase
+lls:lilo_2231	CDS	complement(2412717..2413604)	yxfA; transporter
+lls:lilo_2232	CDS	complement(2413730..2414320)	yxfB; hypothetical protein
+lls:lilo_2233	CDS	complement(2414451..2415392)	yxfC; hypothetical protein
+lls:lilo_t0063	tRNA	complement(2415488..2415561)	tRNA-Asn
+lls:lilo_t0064	tRNA	complement(2415598..2415669)	tRNA-Glu
+lls:lilo_r0016	rRNA	complement(2415679..2415794)	5S ribosomal RNA
+lls:lilo_r0017	rRNA	complement(2415877..2418807)	23S ribosomal RNA
+lls:lilo_t0065	tRNA	complement(2418916..2418988)	tRNA-Ala
+lls:lilo_r0018	rRNA	complement(2419082..2420629)	16S ribosomal RNA

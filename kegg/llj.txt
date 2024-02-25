@@ -1,0 +1,2279 @@
+llj:LG36_0001	CDS	587..1954	dnaA; Chromosomal replication initiator protein DnaA
+llj:LG36_0002	CDS	2111..3253	dnaN; DNA polymerase III subunit beta
+llj:LG36_0003	CDS	3359..6658	rexB; ATP-dependent helicase/deoxyribonuclease subunitB
+llj:LG36_0004	CDS	6651..10262	rexA; ATP-dependent helicase/nuclease AddA
+llj:LG36_0005	CDS	complement(10509..11066)	yabA; Transcriptional regulator
+llj:LG36_0006	CDS	11348..12463	yyaL; Ribosome-binding ATPase YchF
+llj:LG36_0007	CDS	12575..12898	yabB; Transcriptional regulator, Cro/CI family
+llj:LG36_0008	CDS	13153..13497	hypothetical protein
+llj:LG36_0009	CDS	13510..15501	hypothetical protein
+llj:LG36_0010	CDS	15503..16138	yabE; ABC transporter, ATP-binding protein
+llj:LG36_0011	CDS	16334..16804	hypothetical protein
+llj:LG36_0012	CDS	16822..17388	pth; Peptidyl-tRNA hydrolase
+llj:LG36_0013	CDS	17389..20874	mfd; Transcription-repair-coupling factor
+llj:LG36_0014	CDS	21034..21414	hypothetical protein
+llj:LG36_0015	CDS	21534..21803	yacB; RNA-binding protein, S4 domain protein
+llj:LG36_0016	CDS	21832..22206	divIC; Septum formation initiator
+llj:LG36_0017	CDS	22206..22529	hypothetical protein
+llj:LG36_0018	CDS	22667..24016	yacG; Beta-lactamase-type transpeptidase
+llj:LG36_0019	CDS	24013..25284	tilS; tRNA(Ile)-lysidine synthetase
+llj:LG36_0020	CDS	25265..25816	hpt; Hypoxanthine-guanine phosphoribosyltransferase
+llj:LG36_0021	CDS	26022..28109	ftsH; ATP-dependent zinc metalloprotease FtsH
+llj:LG36_t0001	tRNA	28331..28402	tRNA-Glu
+llj:LG36_t0002	tRNA	28408..28497	tRNA-Ser
+llj:LG36_t0003	tRNA	28508..28581	tRNA-Met
+llj:LG36_t0004	tRNA	28586..28658	tRNA-Phe
+llj:LG36_t0005	tRNA	28670..28740	tRNA-Gly
+llj:LG36_t0006	tRNA	28755..28828	tRNA-Ile
+llj:LG36_r0001	rRNA	28833..28946	5S ribosomal RNA
+llj:LG36_t0007	tRNA	28952..29025	tRNA-Asn
+llj:LG36_0022	CDS	29176..30999	mtlA; PTS system, mannitol-specific IIBC component
+llj:LG36_0023	CDS	31059..32996	mtlR; Transcriptional regulator, DeoR family
+llj:LG36_0024	CDS	33045..33476	mtlF; PTS system, mannitol-specific IIA component
+llj:LG36_0025	CDS	33614..34771	mtlD; Mannitol-1-phosphate 5-dehydrogenase
+llj:LG36_0026	CDS	35386..35835	yafE; Acetyltransferase, GNAT family
+llj:LG36_0027	CDS	complement(36043..37665)	yafB; Sulfate transporter
+llj:LG36_0028	CDS	37875..38396	yafC; Acetyltransferase, GNAT family
+llj:LG36_t0008	tRNA	38638..38710	tRNA-Lys
+llj:LG36_0029	CDS	38862..40037	araT; Aromatic amino acid aminotransferase / Acetyldiaminopimelate aminotransferase
+llj:LG36_0030	CDS	40185..41705	hypothetical protein
+llj:LG36_0031	CDS	41712..42965	hypothetical protein
+llj:LG36_0032	CDS	43175..43930	recO; DNA repair protein RecO
+llj:LG36_0033	CDS	44044..44925	HTH-type transcriptional regulator
+llj:LG36_0034	CDS	45157..46434	aslB; sulfatase maturase
+llj:LG36_0035	CDS	46438..48000	hypothetical protein
+llj:LG36_0036	CDS	complement(48082..49500)	pdhD; Dihydrolipoyl dehydrogenase
+llj:LG36_0037	CDS	complement(49694..51286)	pdhC; Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+llj:LG36_0038	CDS	complement(51297..52277)	pdhB; Pyruvate dehydrogenase E1 component, beta subunit
+llj:LG36_0039	CDS	complement(52280..53404)	pdhA; Pyruvate dehydrogenase E1 component, alpha subunit
+llj:LG36_0040	CDS	complement(53493..54560)	lplL; Lipoate-protein ligase
+llj:LG36_0041	CDS	complement(54694..55539)	gdpD; Glycerophosphoryl diester phosphodiesterase
+llj:LG36_0042	CDS	complement(55620..56270)	yagB; Metal-dependent phosphohydrolase, HD superfamily
+llj:LG36_0043	CDS	complement(56387..57412)	trpS; Tryptophan--tRNA ligase
+llj:LG36_0044	CDS	57915..58352	Osmotically inducible protein C
+llj:LG36_0045	CDS	58514..59827	yagE; Amino acid permease
+llj:LG36_0046	CDS	complement(60292..61287)	plsX; Phosphate acyltransferase
+llj:LG36_0047	CDS	complement(61390..62202)	yahA; Hydrolase, HAD superfamily
+llj:LG36_0048	CDS	complement(62400..64037)	yahG; ABC transporter, ATP-binding protein
+llj:LG36_0049	CDS	complement(64351..64554)	hypothetical protein
+llj:LG36_0050	CDS	complement(64569..65054)	hypothetical protein
+llj:LG36_0051	CDS	complement(65044..65859)	hypothetical protein
+llj:LG36_0052	CDS	complement(66048..66881)	yrbI1; Transcriptional regulator, Rgg/GadR/MutR family
+llj:LG36_0053	CDS	complement(67157..68437)	cysD; O-acetyl-L-homoserine sulfhydrolase / O-acetyl-L-serine sulfhydrolase
+llj:LG36_0054	CDS	complement(68662..69495)	yahI; short chain dehydrogenase
+llj:LG36_0055	CDS	69895..70362	yahB; Universal stress protein A
+llj:LG36_0056	CDS	70490..70687	hypothetical protein
+llj:LG36_0057	CDS	70718..71338	yahD; Alpha/beta hydrolase
+llj:LG36_0058	CDS	71389..72558	yaiA; Glyoxalase family protein
+llj:LG36_0059	CDS	72569..73159	yaiB; Flavin reductase family protein
+llj:LG36_0060	CDS	complement(73239..73388)	rpmG; 50S ribosomal protein L33
+llj:LG36_0061	CDS	complement(73418..73591)	rpmF; 50S ribosomal protein L32
+llj:LG36_0062	CDS	73955..75736	cadA; Lead, cadmium, zinc, mercury transporting ATPase
+llj:LG36_0063	CDS	complement(75789..76574)	parB; Chromosome partitioning protein ParB
+llj:LG36_0064	CDS	complement(76629..77888)	cshA; Chromosome segregation helicase, ATPase, AAA family
+llj:LG36_0065	CDS	complement(77932..78420)	ybaH; Acetyltransferase, GNAT family
+llj:LG36_0066	CDS	78573..79040	hypothetical protein
+llj:LG36_0067	CDS	79070..80623	ybaB; ABC transporter, ATP-binding protein
+llj:LG36_0068	CDS	80699..81016	hypothetical protein
+llj:LG36_0069	CDS	81054..81542	hypothetical protein
+llj:LG36_0070	CDS	81559..82512	prmA; Ribosomal protein L11 methyltransferase
+llj:LG36_0071	CDS	82597..83364	ybaF; Ribosomal RNA small subunit methyltransferase E
+llj:LG36_0072	CDS	83393..84349	ybaG; Polysaccharide deacetylase
+llj:LG36_0073	CDS	84550..86772	relA; GTP pyrophosphokinase / Guanosine-3,5-bis(Diphosphate) 3-pyrophosphohydrolase
+llj:LG36_0074	CDS	complement(86786..87721)	ybaI; Glycosyl transferase
+llj:LG36_0075	CDS	87912..88367	ybbA; D-tyrosyl-tRNA(Tyr)deacylase
+llj:LG36_0076	CDS	88360..89355	hypothetical protein
+llj:LG36_0077	CDS	89358..89981	ybbC; Hydrolase, HAD superfamily
+llj:LG36_0078	CDS	90119..91528	ybbD; Amino acid permease
+llj:LG36_0079	CDS	91677..92318	ybbE; 1-Acyl-sn-glycerol-3-phosphate acyltransferase
+llj:LG36_0080	CDS	complement(92357..92848)	Transcriptional regulator, MarR family
+llj:LG36_0081	CDS	complement(92883..93527)	acpD; FMN-dependent NADH-azoreductase
+llj:LG36_0082	CDS	93702..96299	secA; Protein translocase subunit SecA
+llj:LG36_0083	CDS	96429..97466	aroF; Phospho-2-dehydro-3-deoxyheptonate aldolase
+llj:LG36_0084	CDS	97717..97983	ptsH; Phosphocarrier protein HPr
+llj:LG36_0085	CDS	97986..99713	ptsI; Phosphoenolpyruvate-protein phosphotransferase
+llj:LG36_0086	CDS	complement(100213..100512)	hypothetical protein
+llj:LG36_t0009	tRNA	complement(100727..100815)	tRNA-Leu
+llj:LG36_0087	CDS	complement(100900..101835)	ybcH; Alpha/beta hydrolase
+llj:LG36_0088	CDS	102044..102397	sugE; Multidrug resistance protein, Smr family
+llj:LG36_0089	CDS	102519..103682	blt; Multidrug efflux transporter
+llj:LG36_0090	CDS	104818..105540	Transcriptional regulator, Cro/CI family
+llj:LG36_0091	CDS	105559..106071	hypothetical protein
+llj:LG36_t0010	tRNA	complement(106359..106445)	tRNA-Ser
+llj:LG36_0092	CDS	106602..107798	argG; Argininosuccinate synthase
+llj:LG36_0093	CDS	107829..109208	argH; Argininosuccinate lyase
+llj:LG36_0094	CDS	complement(109225..110421)	pmrB; Multidrug resistance efflux pump, MF superfamily
+llj:LG36_0095	CDS	110617..111192	ybdA; Transcriptional regulator, TetR family
+llj:LG36_0096	CDS	111328..111696	rnpA; Ribonuclease P, protein component
+llj:LG36_0097	CDS	112591..113505	ybdD; RNA-binding protein, R3H domain protein
+llj:LG36_0098	CDS	113637..113771	rpmH; 50S ribosomal protein L34
+llj:LG36_0099	CDS	113978..114889	ybdE; Aldo/keto reductase
+llj:LG36_0100	CDS	114956..115276	ybdG; transcriptional regulator
+llj:LG36_0101	CDS	115397..115606	hypothetical protein
+llj:LG36_0102	CDS	115637..116308	hypothetical protein
+llj:LG36_0103	CDS	116490..117170	hypothetical protein
+llj:LG36_0104	CDS	117468..117734	hypothetical protein
+llj:LG36_0105	CDS	117734..118165	hypothetical protein
+llj:LG36_0106	CDS	118318..118641	hypothetical protein
+llj:LG36_0107	CDS	complement(118673..119224)	hypothetical protein
+llj:LG36_0108	CDS	complement(119269..120054)	cbr; Carbonyl reductase
+llj:LG36_0109	CDS	complement(120074..120385)	hypothetical protein
+llj:LG36_0110	CDS	complement(120396..121181)	dltE; Short-chain dehydrogenase, D-alanine transfer protein
+llj:LG36_0111	CDS	121293..121838	ybeD; Transcriptional regulator, TetR family
+llj:LG36_0112	CDS	complement(121897..123843)	glgB; 1,4-Alpha-glucan branching enzyme
+llj:LG36_0113	CDS	complement(123970..124290)	hypothetical protein
+llj:LG36_0114	CDS	124762..130713	ybeF; Lpxtg-motif cell wall anchor domain protein
+llj:LG36_0115	CDS	130830..131051	Integrase
+llj:LG36_0116	CDS	133760..134527	epsX; Polysaccharide biosynthesis protein
+llj:LG36_0117	CDS	134567..135346	epsA; Polysaccharide biosynthesis export protein,MPA1 family
+llj:LG36_0118	CDS	135356..136051	epsB; Polysaccharide biosynthesis protein, tyrosine-protein kinase
+llj:LG36_0119	CDS	136106..136870	epsC; Polysaccharide biosynthesis protein, protein-tyrosine-phosphatase
+llj:LG36_0120	CDS	136892..137578	epsD; Polysaccharide biosynthesis protein, sugar transferase
+llj:LG36_0121	CDS	137582..138031	epsE; UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase
+llj:LG36_0122	CDS	138031..138519	hypothetical protein
+llj:LG36_0123	CDS	138512..139417	hypothetical protein
+llj:LG36_0124	CDS	139425..140327	hypothetical protein
+llj:LG36_0125	CDS	140382..141485	hypothetical protein
+llj:LG36_0126	CDS	141487..142632	hypothetical protein
+llj:LG36_0127	CDS	142629..144041	epsJ; Polysaccharide biosynthesis export protein
+llj:LG36_0128	CDS	144048..144569	mta; Maltose O-acetyltransferase
+llj:LG36_0129	CDS	144618..145736	UDP-glucose 6-dehydrogenase
+llj:LG36_0130	CDS	145758..146660	epsK; Polysaccharide biosynthesis protein
+llj:LG36_0131	CDS	complement(146683..147606)	epsL; Transcriptional regulator, LytR family
+llj:LG36_t0011	tRNA	complement(148711..148786)	tRNA-Thr
+llj:LG36_0132	CDS	complement(148849..149997)	tgt; Queuine tRNA-ribosyltransferase
+llj:LG36_0133	CDS	150189..150881	hypothetical protein
+llj:LG36_0134	CDS	complement(150941..152122)	ybfD; Transporter, MF superfamily
+llj:LG36_0135	CDS	complement(152303..152776)	hypothetical protein
+llj:LG36_0136	CDS	152875..153666	ybfB; DNA/RNA non-specific endonuclease
+llj:LG36_0137	CDS	154053..154292	hypothetical protein
+llj:LG36_0138	CDS	154490..156073	ybgB; Heme/copper-type cytochrome/quinol oxidase, subunit 1
+llj:LG36_0139	CDS	156147..157361	aspC; Aspartate aminotransferase
+llj:LG36_0140	CDS	157514..158302	codY; Transcriptional pleiotropic repressor CodY
+llj:LG36_0141	CDS	158873..159193	gatC; Aspartyl/glutamyl-tRNA amidotransferase subunit C
+llj:LG36_0142	CDS	159193..160659	gatA; Aspartyl/glutamyl-tRNA amidotransferase subunit A
+llj:LG36_0143	CDS	160659..162092	gatB; Aspartyl/glutamyl-tRNA amidotransferase subunit B
+llj:LG36_0144	CDS	162217..163716	ybgE; Amidase
+llj:LG36_0145	CDS	complement(163796..165151)	matE; Na+ driven multidrug efflux pump, MatE family
+llj:LG36_0146	CDS	complement(165316..165513)	cold-shock protein
+llj:LG36_0147	CDS	165631..166164	ybhA; 5-formyltetrahydrofolate cyclo-ligase
+llj:LG36_0148	CDS	166154..166846	ybhB; Intramembrane serine protease, rhomboid family
+llj:LG36_0149	CDS	166880..167377	hypothetical protein
+llj:LG36_0150	CDS	167768..168820	ybhD; Acetyltransferase, GNAT family
+llj:LG36_0151	CDS	169159..170253	hypothetical protein
+llj:LG36_0152	CDS	170352..171836	celB; PTS system, cellobiose-specific IIC component
+llj:LG36_0153	CDS	171962..172168	hypothetical protein
+llj:LG36_0154	CDS	172165..172359	hypothetical protein
+llj:LG36_0155	CDS	172490..173926	bglS; 6-Phospho-beta-glucosidase
+llj:LG36_0156	CDS	173991..174443	dut; Deoxyuridine 5'-triphosphate nucleotidohydrolase
+llj:LG36_0157	CDS	174696..176039	ybiB; 5'-nucleotidase
+llj:LG36_0158	CDS	176054..176812	hypothetical protein
+llj:LG36_0159	CDS	177006..178103	ybiD; 23S rRNA methyltransferase
+llj:LG36_0160	CDS	178350..178961	ybiE; Nitroreductase family protein
+llj:LG36_0161	CDS	179113..180093	preA; Polyprenyl synthetase
+llj:LG36_0162	CDS	180316..181221	ybiG; 1,4-Dihydroxy-2-naphthoate polyprenyltransferase
+llj:LG36_0163	CDS	complement(181243..182391)	ybiHJ; CAAX amino terminal protease family protein
+llj:LG36_0164	CDS	complement(182859..184988)	feoB; Ferrous iron transport protein B
+llj:LG36_0165	CDS	complement(185090..185566)	feoA; Ferrous iron transport protein A
+llj:LG36_0166	CDS	185883..186311	msrB; Peptide methionine sulfoxide reductase
+llj:LG36_0167	CDS	complement(186443..188107)	Dihydroxyacetone kinase family protein
+llj:LG36_0168	CDS	complement(188107..188475)	ybjK; General stress protein, Gls24 family
+llj:LG36_0169	CDS	complement(188718..188912)	rpmB; 50S ribosomal protein L28
+llj:LG36_0170	CDS	189048..189707	hypothetical protein
+llj:LG36_0171	CDS	189899..190768	rmlA; Glucose-1-phosphate thymidylyltransferase
+llj:LG36_0172	CDS	190816..191106	hypothetical protein
+llj:LG36_0173	CDS	191140..191760	rmlC; dTDP-4-dehydrorhamnose 3,5-epimerase
+llj:LG36_0174	CDS	191760..192020	hypothetical protein
+llj:LG36_0175	CDS	192110..192697	hypothetical protein
+llj:LG36_0176	CDS	192761..193813	rmlB; dTDP-glucose 4,6-dehydratase
+llj:LG36_0177	CDS	193853..194233	hypothetical protein
+llj:LG36_0178	CDS	194290..195189	rmlD; dTDP-4-dehydrorhamnose reductase
+llj:LG36_0179	CDS	195323..196531	rgpA; Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase
+llj:LG36_0180	CDS	196521..197459	rgpB; Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+llj:LG36_0181	CDS	197460..198269	rgpC; Polysaccharide export ABC transporter, permease protein
+llj:LG36_0182	CDS	198284..199465	rgpD; Polysaccharide export ATP-binding protein
+llj:LG36_0183	CDS	199494..201536	Lipopolysaccharide biosynthesis protein
+llj:LG36_0184	CDS	201529..202881	hypothetical protein
+llj:LG36_0185	CDS	202885..204123	Glycosyltransferase
+llj:LG36_0186	CDS	204120..204938	Glycosyl transferase, group 2 family protein
+llj:LG36_0187	CDS	204940..205668	glycosyl transferase
+llj:LG36_0188	CDS	205668..206069	hypothetical protein
+llj:LG36_0189	CDS	206079..207125	hypothetical protein
+llj:LG36_0190	CDS	207126..208046	hypothetical protein
+llj:LG36_0191	CDS	208054..208992	hypothetical protein
+llj:LG36_0192	CDS	208992..209825	hypothetical protein
+llj:LG36_0193	CDS	209828..210550	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+llj:LG36_0194	CDS	210554..211603	ycbD; dTDP-glucose 4,6-dehydratase
+llj:LG36_0195	CDS	211603..212550	Glycosyltransferase
+llj:LG36_0196	CDS	212563..213384	hypothetical protein
+llj:LG36_0197	CDS	213437..214366	hypothetical protein
+llj:LG36_0198	CDS	214406..215833	PST family polysaccharide transporter
+llj:LG36_0199	CDS	215884..217545	hypothetical protein
+llj:LG36_0200	CDS	217556..218953	hypothetical protein
+llj:LG36_0201	CDS	219017..220159	UDP-galactopyranose mutase
+llj:LG36_0202	CDS	complement(220224..222293)	yccB; lysozyme
+llj:LG36_0203	CDS	222674..224155	guaB; Inosine-5'-monophosphate dehydrogenase
+llj:LG36_0204	CDS	224301..225506	yqeL; GTP-binding protein
+llj:LG36_0205	CDS	225575..226078	yccE; Phosphohydrolase, MutT/nudix family protein
+llj:LG36_0206	CDS	226162..227406	hflX; GTP-binding protein HflX
+llj:LG36_0207	CDS	227452..227766	yccF; RNA binding protein, CRS1/YhbY family
+llj:LG36_0208	CDS	227801..228412	hypothetical protein
+llj:LG36_0209	CDS	228405..228995	yccH; Hydrolase, HAD superfamily
+llj:LG36_0210	CDS	229041..229466	yccI; Acetyltransferase, GNAT family
+llj:LG36_0211	CDS	229632..229991	yccJ; Ribosomal silencing factor RsfS
+llj:LG36_0212	CDS	230092..230826	yccK; Methyltransferase
+llj:LG36_0213	CDS	230877..232046	hypothetical protein
+llj:LG36_0214	CDS	232089..232541	hypothetical protein
+llj:LG36_0215	CDS	232696..233412	hypothetical protein
+llj:LG36_0216	CDS	233478..234119	hypothetical protein
+llj:LG36_0217	CDS	234116..234775	ung; Uracil-DNA glycosylase
+llj:LG36_0218	CDS	complement(234808..235719)	hypothetical protein
+llj:LG36_0219	CDS	235869..236414	ycdF; Transcriptional regulator, TetR family
+llj:LG36_0220	CDS	complement(236524..237984)	ycdH; transporter
+llj:LG36_0221	CDS	238175..238537	rmeC; Transcriptional regulator, MerR family
+llj:LG36_0222	CDS	238623..238799	rpsU; 30S ribosomal protein S21
+llj:LG36_0223	CDS	239035..241425	hypothetical protein
+llj:LG36_0224	CDS	241437..242036	hypothetical protein
+llj:LG36_0225	CDS	242178..242657	hypothetical protein
+llj:LG36_0226	CDS	242654..243103	hypothetical protein
+llj:LG36_0227	CDS	243192..244004	yceE; Hydrolase, HAD superfamily
+llj:LG36_0228	CDS	244194..245390	pgk; Phosphoglycerate kinase
+llj:LG36_0229	CDS	245467..246453	dhaQ; DhaKLM operon coactivator DhaQ
+llj:LG36_0230	CDS	complement(246454..246996)	dhaS; HTH-type dhaKLM operon transcriptional activatordhaS
+llj:LG36_0231	CDS	247097..248089	dhaK; PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit
+llj:LG36_0232	CDS	248099..248677	dhaL; PTS-dependent dihydroxyacetone kinase, ADP-binding subunit
+llj:LG36_0233	CDS	248674..249045	dhaM; PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit
+llj:LG36_0234	CDS	249055..249753	glpF; Glycerol uptake facilitator protein
+llj:LG36_0235	CDS	complement(249809..251188)	pepD; Dipeptidase PepD
+llj:LG36_0236	CDS	251381..253267	ycfBC; ABC transporter, permease and ATP-binding protein
+llj:LG36_0237	CDS	253365..254534	ycfD; SAM-dependent methyltransferase
+llj:LG36_0238	CDS	254725..256647	fbp; Fructose-1,6-bisphosphatase class 3
+llj:LG36_t0012	tRNA	complement(256724..256812)	tRNA-Leu
+llj:LG36_0239	CDS	complement(256879..258153)	ycfF; NAD(FAD)-utilizing dehydrogenase
+llj:LG36_0240	CDS	258295..259122	ycfG; ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+llj:LG36_0241	CDS	259274..259687	hypothetical protein
+llj:LG36_0242	CDS	259848..261683	ycfI; ABC transporter ATP binding protein
+llj:LG36_0243	CDS	261680..263557	ycgAB; Multidrug resistance ABC transporter, ATP-binding and permease protein
+llj:LG36_0244	CDS	263656..264309	hypothetical protein
+llj:LG36_0245	CDS	complement(264355..265374)	ycgD; Oxidoreductase
+llj:LG36_0246	CDS	complement(265358..265525)	hypothetical protein
+llj:LG36_0247	CDS	complement(265714..266190)	luxS; S-ribosylhomocysteine lyase
+llj:LG36_0248	CDS	266404..266868	ycgF; Transcription activator
+llj:LG36_0249	CDS	266933..267778	ycgG; Aldo/keto reductase
+llj:LG36_0250	CDS	267941..268456	ycgH; Cysteine hydrolase, isochorismatse family
+llj:LG36_0251	CDS	268575..269123	hypothetical protein
+llj:LG36_0252	CDS	269120..269404	hypothetical protein
+llj:LG36_0253	CDS	complement(269442..270761)	acmA; N-acetylmuramidase
+llj:LG36_0254	CDS	271105..273348	nrdD; Anaerobic ribonucleoside-triphosphate reductase
+llj:LG36_0255	CDS	273351..273950	nrdG; Anaerobic ribonucleoside-triphosphate reductase activating protein
+llj:LG36_0256	CDS	complement(274059..274565)	hypothetical protein
+llj:LG36_0257	CDS	274857..276125	enoA; Enolase
+llj:LG36_t0013	tRNA	complement(276193..276280)	tRNA-Ser
+llj:LG36_0258	CDS	276424..277257	ychD; Energy-coupling factor transporter ATP-binding protein EcfA
+llj:LG36_0259	CDS	277787..278653	ychE; Energy-coupling factor transporter ATP-binding protein EcfA
+llj:LG36_0260	CDS	278653..279453	ychF; Energy-coupling factor transporter transmembrane protein EcfT
+llj:LG36_0261	CDS	279435..280088	ychG; thiol-disulfide isomerase and thioredoxin
+llj:LG36_0262	CDS	280300..281070	ychH; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+llj:LG36_0263	CDS	281207..282361	yciA; N-acetyldiaminopimelate deacetylase
+llj:LG36_0264	CDS	282483..283601	xynD; Peptidoglycan N-acetylglucosamine deacetylase
+llj:LG36_t0014	tRNA	283743..283816	tRNA-Arg
+llj:LG36_t0015	tRNA	284084..284157	tRNA-Pro
+llj:LG36_0265	CDS	284748..285359	rpsD; 30S ribosomal protein S4
+llj:LG36_0266	CDS	complement(285464..286660)	Integrase
+llj:LG36_0267	CDS	complement(286743..287450)	ps315; Prophage ps3 protein 15
+llj:LG36_0268	CDS	287888..288580	pp316; Phage regulator protein
+llj:LG36_0269	CDS	288645..288815	pp315; Phage protein
+llj:LG36_0270	CDS	288817..289071	pp314; Phage protein
+llj:LG36_0271	CDS	289217..289486	hypothetical protein
+llj:LG36_0272	CDS	289498..291195	pp312; Phage protein
+llj:LG36_0273	CDS	291557..291889	pp107; Phage protein
+llj:LG36_0274	CDS	291993..292199	pp310; Phage protein
+llj:LG36_0275	CDS	292357..292713	pp309; Phage protein
+llj:LG36_0276	CDS	293242..293412	pp307; Phage protein
+llj:LG36_0277	CDS	293517..293906	hypothetical protein
+llj:LG36_0278	CDS	294309..294830	hypothetical protein
+llj:LG36_0279	CDS	295104..295334	pp305; Phage protein
+llj:LG36_0280	CDS	295620..297032	hypothetical protein
+llj:LG36_0281	CDS	297033..297701	hypothetical protein
+llj:LG36_0282	CDS	298113..300251	tex; Transcription accessory protein
+llj:LG36_0283	CDS	300350..300793	yciD; Metallopeptidase, SprT family
+llj:LG36_0284	CDS	301067..302125	add; Adenosine deaminase
+llj:LG36_0285	CDS	complement(302157..302825)	hypothetical protein
+llj:LG36_0286	CDS	complement(303030..304712)	yciH; mRNA degradation ribonuclease, metallo-beta-lactamase superfamily
+llj:LG36_0287	CDS	complement(304885..305115)	hypothetical protein
+llj:LG36_0288	CDS	305425..306150	ycjB; Non-proteolytic protein, peptidase family M22
+llj:LG36_0289	CDS	306104..306673	ycjC; Ribosomal-protein-S18-alanine acetyltransferase
+llj:LG36_0290	CDS	306670..307140	ycjD; Ribosomal-protein-S18-alanine acetyltransferase
+llj:LG36_0291	CDS	307143..308183	gcp; tRNA N6-adenosine threonylcarbamoyltransferase
+llj:LG36_0292	CDS	308183..308383	hypothetical protein
+llj:LG36_0293	CDS	complement(308482..310167)	yihD; lipase
+llj:LG36_0294	CDS	complement(310177..311508)	ptcC; Cellobiose-specific PTS system IIC component
+llj:LG36_0295	CDS	complement(311659..312402)	yecA1; Transcriptional regulator, RpiR family
+llj:LG36_0296	CDS	312560..313288	glpF1; Glycerol uptake facilitator protein
+llj:LG36_0297	CDS	complement(313416..314204)	hypothetical protein
+llj:LG36_0298	CDS	314503..315552	phnD; Phosphonates ABC transporter, phosphonates-binding protein PhnD
+llj:LG36_0299	CDS	315650..316411	phnC; phosphonate ABC transporter ATP-binding protein
+llj:LG36_0300	CDS	316412..317224	phnB; Phosphonates ABC transporter, permease protein PhnB
+llj:LG36_0301	CDS	317227..318048	phnE; Phosphonates ABC transporter, permease protein PhnE
+llj:LG36_0302	CDS	318054..319613	ycjM; 2,3-cyclic-nucleotide 2-phosphodiesterase / 3-nucleotidase
+llj:LG36_0303	CDS	319947..320429	tpx; Thioredoxin peroxidase
+llj:LG36_0304	CDS	320596..323136	pepN; Aminopeptidase N
+llj:LG36_0305	CDS	complement(323174..324367)	napC; Multidrug-efflux transporter, MF superfamily
+llj:LG36_0306	CDS	complement(324697..325170)	napB; Transcriptional regulator, MarR family
+llj:LG36_0307	CDS	complement(325173..326450)	ydaE; Co/Zn/Cd efflux protein
+llj:LG36_0308	CDS	326727..327077	ydaF; PadR family transcriptional regulator
+llj:LG36_0309	CDS	327367..329106	ydaG; Multidrug resistance ABC transporter, ATP-binding and permease protein
+llj:LG36_0310	CDS	329110..331104	ydbA; Multidrug/protein/lipid ABC transporter, ATP-binding and permease protein
+llj:LG36_0311	CDS	331281..332546	murA1; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+llj:LG36_0312	CDS	332592..332810	hypothetical protein
+llj:LG36_0313	CDS	complement(332842..333681)	Transcriptional regulator
+llj:LG36_0314	CDS	333868..334518	hypothetical protein
+llj:LG36_0315	CDS	334520..336232	ABC transporter, ATP binding and permease protein
+llj:LG36_0316	CDS	complement(336263..336619)	hypothetical protein
+llj:LG36_0317	CDS	complement(336643..337191)	bioY; Biotin transporter
+llj:LG36_0318	CDS	complement(337302..337778)	ydbF; Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase
+llj:LG36_0319	CDS	complement(337842..338390)	thiA; Thiamine transporter
+llj:LG36_0320	CDS	339119..339979	plpA; Lipoprotein
+llj:LG36_0321	CDS	340123..340983	plpB; Lipoprotein
+llj:LG36_0322	CDS	341100..341960	plpC; Lipoprotein
+llj:LG36_0323	CDS	341979..342839	plpD; Lipoprotein
+llj:LG36_0324	CDS	342943..344049	ydcB; Methionine import ATP-binding protein MetN
+llj:LG36_0325	CDS	344049..344744	ydcC; ABC transporter, permease protein
+llj:LG36_0326	CDS	344792..345340	hypothetical protein
+llj:LG36_0327	CDS	345449..347146	cbiO; ABC-type cobalt transporter, ATP-binding proteinCbiO
+llj:LG36_0328	CDS	347139..347960	cbiQ; cobalt ABC transporter permease
+llj:LG36_0329	CDS	348125..348418	ydcG; Transcriptional regulator, Cro/CI family
+llj:LG36_0330	CDS	348369..349121	fhuC; Ferrichrome ABC transporter, ATP-binding proteinFhuC
+llj:LG36_0331	CDS	349114..350064	fhuB; Ferrichrome ABC transporter, permease protein FhuB
+llj:LG36_0332	CDS	350066..351004	fhuG; Ferrichrome ABC transporter, permease protein FhuG
+llj:LG36_0333	CDS	351089..352030	fhuD; Ferrichrome ABC transporter, substrate-binding protein FhuD
+llj:LG36_0334	CDS	352091..352996	cmbR; Fhu operon transcriptional regulator
+llj:LG36_0335	CDS	complement(353054..354235)	yddA; Sugar efflux transporter
+llj:LG36_0336	CDS	complement(354248..355066)	yddB; Aldo-keto reductase
+llj:LG36_0337	CDS	355209..355556	yddC; Transcriptional regulator, MarR family
+llj:LG36_0338	CDS	355582..355974	yddD; Glyoxalase family protein
+llj:LG36_0339	CDS	356151..356852	pmg; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+llj:LG36_0340	CDS	357027..357590	ahpC; Peroxiredoxin
+llj:LG36_0341	CDS	357656..359185	ahpF; Peroxiredoxin reductase
+llj:LG36_0342	CDS	359351..361516	pbp2B; Penicillin-binding protein 2B
+llj:LG36_0343	CDS	361655..362251	recR; Recombination protein recR
+llj:LG36_0344	CDS	362368..363417	ddl; D-alanine-D-alanine ligase
+llj:LG36_0345	CDS	363492..364814	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alan ine ligase
+llj:LG36_0346	CDS	364984..366636	optS; Oligopeptide ABC transporter, substrate-binding protein
+llj:LG36_0347	CDS	366928..368583	optA; oligopeptide ABC transporter substrate binding protein
+llj:LG36_0348	CDS	368661..369572	optB; Oligopeptide ABC transporter, permease protein
+llj:LG36_0349	CDS	369588..370619	optC; peptide ABC transporter permease
+llj:LG36_0350	CDS	370622..371671	optD; Oligopeptide ABC transporter, ATP-binding protein
+llj:LG36_0351	CDS	371668..372609	optF; Oligopeptide ABC transporter, ATP-binding protein
+llj:LG36_0352	CDS	372838..374409	prfC; Bacterial peptide chain release factor 3
+llj:LG36_0353	CDS	374673..376316	rheA; ATP-dependent RNA helicase, DEAD/DEAH box family
+llj:LG36_0354	CDS	376719..377630	era; GTPase Era
+llj:LG36_0355	CDS	377728..379320	asnB; Asparagine synthetase
+llj:LG36_0356	CDS	379513..380331	mutM; Formamidopyrimidine-DNA glycosylase
+llj:LG36_0357	CDS	380484..381647	recA; Protein RecA
+llj:LG36_0358	CDS	complement(381660..383033)	ydgB; Amino acid permease
+llj:LG36_0359	CDS	complement(383102..384481)	ydgC; Amino acid permease
+llj:LG36_0360	CDS	384628..385008	hypothetical protein
+llj:LG36_0361	CDS	384995..385309	hypothetical protein
+llj:LG36_0362	CDS	385540..386058	ddi; Dithiol-disulfide isomerase
+llj:LG36_0363	CDS	complement(386124..386717)	hypothetical protein
+llj:LG36_0364	CDS	386934..387740	hypothetical protein
+llj:LG36_0365	CDS	387929..388588	ydgI; GTP pyrophosphokinase
+llj:LG36_0366	CDS	388575..389387	ppnK; NAD kinase
+llj:LG36_0367	CDS	389387..390268	rluE; Pseudouridine synthase
+llj:LG36_0368	CDS	complement(390310..390924)	Peptidylprolyl isomerase
+llj:LG36_0369	CDS	391453..392886	lysQ; Lysine-specific permease
+llj:LG36_0370	CDS	393001..393813	ydhB; NADPH-dependent FMN reductase
+llj:LG36_0371	CDS	393813..394790	Iron-sulfur cluster assembly/repair protein ApbE
+llj:LG36_0372	CDS	complement(394886..396370)	lysS1; Lysyl-tRNA synthetase
+llj:LG36_0373	CDS	complement(396569..397387)	rlrG; Transcriptional regulator, LysR family
+llj:LG36_0374	CDS	397506..398549	hypothetical protein
+llj:LG36_0375	CDS	complement(398762..399706)	ldhB; L-lactate dehydrogenase
+llj:LG36_0376	CDS	complement(400000..400821)	rlrD; Transcriptional regulator, LysR family
+llj:LG36_0377	CDS	400975..401949	ydiA; C4-dicarboxylate transporter/malic acid transporter
+llj:LG36_0378	CDS	402228..403448	hypothetical protein
+llj:LG36_0379	CDS	403662..405065	ydiC; Antibiotic resistance efflux protein
+llj:LG36_0380	CDS	405226..405831	ydiD; FMN-dependent NADH-azoreductase
+llj:LG36_0381	CDS	405928..406362	osmC; Osmotically inducible protein C
+llj:LG36_0382	CDS	complement(406398..408440)	nhaP1; NhaP-type Na+/H+ and K+/H+ antiporter
+llj:LG36_0383	CDS	complement(408530..409000)	hypothetical protein
+llj:LG36_0384	CDS	complement(409124..410383)	tyrS; Tyrosyl-tRNA ligase
+llj:LG36_0385	CDS	410528..412933	pbp1B; Multimodular transpeptidase-transglycosylase PBP1B
+llj:LG36_0386	CDS	complement(412988..414103)	Glutamyl aminopeptidase
+llj:LG36_0387	CDS	414158..414442	hypothetical protein
+llj:LG36_0388	CDS	414484..414801	Thioredoxin
+llj:LG36_0389	CDS	414887..415513	ydjD; tRNA binding domain protein
+llj:LG36_0390	CDS	415676..417016	noxE; NADH oxidase, H2O-forming
+llj:LG36_0391	CDS	417106..417495	ssbA; Single-strand DNA binding protein
+llj:LG36_0392	CDS	417615..417899	groES; 10 kDa chaperonin GroES
+llj:LG36_0393	CDS	417986..419614	groEL; 60 kDa chaperonin GroEL
+llj:LG36_0394	CDS	complement(419659..420471)	yeaA; Zn-dependent hydrolase, beta-lactamase superfamily
+llj:LG36_0395	CDS	complement(420642..422084)	Two-component system sensor histidine kinase
+llj:LG36_0396	CDS	complement(422077..422778)	Two-component system response regulator
+llj:LG36_0397	CDS	422957..423592	Thymidylate kinase
+llj:LG36_0398	CDS	423725..424585	holB; DNA polymerase III, delta subunit
+llj:LG36_0399	CDS	424637..425419	yeaC; Phosphorelay inhibitor
+llj:LG36_0400	CDS	425412..425738	yeaD; Initiation-control protein YabA
+llj:LG36_0401	CDS	425738..426613	yeaE; Ribosomal RNA small subunit methyltransferase I
+llj:LG36_0402	CDS	complement(426690..426881)	hypothetical protein
+llj:LG36_0403	CDS	complement(426944..427876)	mvaK; Mevalonate kinase
+llj:LG36_0404	CDS	428181..429137	mvaD; Diphosphomevalonate decarboxylase
+llj:LG36_0405	CDS	429124..430113	Phosphomevalonate kinase
+llj:LG36_0406	CDS	430165..431208	idi; Isopentenyl-diphosphate delta-isomerase
+llj:LG36_0407	CDS	431366..431986	sodA; Superoxide dismutase
+llj:LG36_0408	CDS	432235..434589	cstA; Carbon starvation protein A
+llj:LG36_0409	CDS	434891..436231	rheB; ATP-dependent RNA helicase, DEAD/DEAH box family
+llj:LG36_0410	CDS	436235..436819	hypothetical protein
+llj:LG36_0411	CDS	436979..437722	yebF; Transcriptional regulator, RpiR family
+llj:LG36_0412	CDS	437965..438291	ptcB; PTS system, cellobiose-specific IIB component
+llj:LG36_0413	CDS	438376..438726	ptcA; PTS system, cellobiose-specific IIA component
+llj:LG36_0414	CDS	438817..439548	yecA2; Transcriptional regulator, RpiR family
+llj:LG36_0415	CDS	439840..441177	PTS system, cellobiose-specific IIC component
+llj:LG36_0416	CDS	441259..442695	bglA; 6-phospho-beta-glucosidase
+llj:LG36_0417	CDS	442980..443261	hypothetical protein
+llj:LG36_t0016	tRNA	443420..443490	tRNA-Cys
+llj:LG36_0418	CDS	443623..445587	ligA; DNA ligase
+llj:LG36_0419	CDS	445741..446769	yecE; Diacylglycerol kinase family protein
+llj:LG36_0420	CDS	446986..448122	msmK; Multiple sugar ABC transporter, ATP-binding protein MsmK
+llj:LG36_0421	CDS	448430..452101	nifJ; Pyruvate-flavodoxin oxidoreductase
+llj:LG36_0422	CDS	452308..453186	hypothetical protein
+llj:LG36_0423	CDS	453176..454135	hypothetical protein
+llj:LG36_0424	CDS	454181..455539	glmM; Phosphoglucosamine mutase
+llj:LG36_0425	CDS	complement(455597..456313)	rgrA; Transcriptional regulator, GntR family
+llj:LG36_0426	CDS	456439..456924	yedE; PTS system, beta-glucoside-specific IIA component
+llj:LG36_0427	CDS	457061..458626	yedF; PTS system, beta-glucoside-specific IIBC component
+llj:LG36_0428	CDS	458694..461003	yeeA; Glycosyl hydrolase, family 65
+llj:LG36_0429	CDS	461149..461814	pgmB; Beta-phosphoglucomutase
+llj:LG36_0430	CDS	complement(461873..462679)	yeeB; Alpha/beta hydrolase
+llj:LG36_0431	CDS	462752..463345	yeeC; ATPase
+llj:LG36_0432	CDS	463390..463590	hypothetical protein
+llj:LG36_0433	CDS	463656..464102	yeeE; ATP/GTP hydrolase
+llj:LG36_0434	CDS	464099..464620	yeeF; Acetyltransferase, GNAT family
+llj:LG36_0435	CDS	464722..466107	yeeG; Transcriptional regulator, LytR family
+llj:LG36_t0017	tRNA	466186..466259	tRNA-Arg
+llj:LG36_0436	CDS	466408..467169	truA; tRNA pseudouridine synthase A
+llj:LG36_0437	CDS	467202..467990	thiD; Phosphomethylpyrimidine kinase / Hydroxymethylpyrimidine kinase
+llj:LG36_0438	CDS	468039..468530	hypothetical protein
+llj:LG36_0439	CDS	468511..469053	hypothetical protein
+llj:LG36_0440	CDS	469054..470190	yeiG; Serine-pyruvate aminotransferase, pyridoxal-phosphate dependent
+llj:LG36_0441	CDS	470426..472033	pyrG; CTP synthase
+llj:LG36_0442	CDS	472173..473087	L-lactate/malate dehydrogenase
+llj:LG36_0443	CDS	complement(473119..473988)	hypothetical protein
+llj:LG36_0444	CDS	complement(474336..474536)	hypothetical protein
+llj:LG36_0445	CDS	complement(474634..475104)	yejD; Nucleoside 2-deoxyribosyltransferase
+llj:LG36_0446	CDS	complement(475097..475651)	yejE; Lysine decarboxylase family protein
+llj:LG36_0447	CDS	complement(475651..476304)	dukA; Deoxyguanosine kinase
+llj:LG36_0448	CDS	476784..479966	dnaE; DNA polymerase III, alpha subunit
+llj:LG36_0449	CDS	complement(479996..480649)	hypothetical protein
+llj:LG36_0450	CDS	480830..481687	yejH; Fatty acid-binding protein, DegV family
+llj:LG36_0451	CDS	481680..482540	yejI; Lipase/Acylhydrolase with GDSL-like motif
+llj:LG36_0452	CDS	482537..483748	yejJ; Glycoside hydrolase, family 3
+llj:LG36_0453	CDS	483758..484414	hypothetical protein
+llj:LG36_0454	CDS	484501..484794	hslA; DNA-binding protein HU, histone-like protein
+llj:LG36_0455	CDS	complement(484886..485383)	yfbM; Transcriptional regulator
+llj:LG36_0456	CDS	485530..486039	ogt; O6-methylguanine-DNA methyltransferase
+llj:LG36_0457	CDS	486053..486613	adaA; Methylphosphotriester-DNA alkyltransferase
+llj:LG36_0458	CDS	486749..487516	yfcA; ABC transporter, ATP-binding protein
+llj:LG36_0459	CDS	487513..488238	yfcB; ABC transporter, permease protein
+llj:LG36_0460	CDS	488274..488759	yfcC; Response regulator, LytTr DNA-binding domain protein
+llj:LG36_0461	CDS	488756..489133	hypothetical protein
+llj:LG36_0462	CDS	489247..490392	nifZ; Cysteine desulfurase / Selenocysteine lyase
+llj:LG36_0463	CDS	490500..491378	yfcF; Gamma-glutamyl-diamino acid-endopeptidase, extracellular, cell-wall-bound
+llj:LG36_0464	CDS	complement(491434..493083)	yfcG; Oligopeptide-binding protein
+llj:LG36_0465	CDS	complement(493295..494227)	cysM; Cysteine synthase
+llj:LG36_0466	CDS	494445..495530	acmD; N-acetylmuramidase
+llj:LG36_0467	CDS	complement(495568..496200)	yfcI; Metallo-beta-lactamase family protein
+llj:LG36_0468	CDS	complement(496201..498294)	ponA; Penicillin-binding protein 1A
+llj:LG36_0469	CDS	complement(498281..498922)	recU; Holliday junction resolvase RecU
+llj:LG36_0470	CDS	499003..499527	hypothetical protein
+llj:LG36_0471	CDS	499672..500073	yfdC; Regulatory protein Spx
+llj:LG36_0472	CDS	500164..500445	hypothetical protein
+llj:LG36_0473	CDS	500423..501190	yfdE; Myo-inositol-1(or 4)-monophosphatase
+llj:LG36_0474	CDS	501281..502564	murA2; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+llj:LG36_0475	CDS	502564..502755	hypothetical protein
+llj:LG36_0476	CDS	502912..504195	tig; Trigger factor
+llj:LG36_r0002	rRNA	504613..506147	16S ribosomal RNA
+llj:LG36_t0018	tRNA	506246..506318	tRNA-Ala
+llj:LG36_r0003	rRNA	506459..509359	23S ribosomal RNA
+llj:LG36_r0004	rRNA	509438..509557	5S ribosomal RNA
+llj:LG36_t0019	tRNA	509561..509633	tRNA-Val
+llj:LG36_t0020	tRNA	509663..509735	tRNA-Asp
+llj:LG36_t0021	tRNA	509753..509825	tRNA-Lys
+llj:LG36_t0022	tRNA	509834..509915	tRNA-Leu
+llj:LG36_t0023	tRNA	509928..510000	tRNA-Thr
+llj:LG36_t0024	tRNA	510026..510097	tRNA-Gly
+llj:LG36_t0025	tRNA	510137..510210	tRNA-Arg
+llj:LG36_t0026	tRNA	510216..510289	tRNA-Pro
+llj:LG36_t0027	tRNA	510327..510400	tRNA-Met
+llj:LG36_t0028	tRNA	510413..510486	tRNA-Met
+llj:LG36_t0029	tRNA	510494..510566	tRNA-Phe
+llj:LG36_t0030	tRNA	510577..510647	tRNA-Gly
+llj:LG36_t0031	tRNA	510673..510745	tRNA-Ile
+llj:LG36_t0032	tRNA	510788..510875	tRNA-Ser
+llj:LG36_0477	CDS	511054..512982	dnaG; DNA primase
+llj:LG36_0478	CDS	513045..514388	rpoD; RNA polymerase sigma factor RpoD Sigma-42
+llj:LG36_0479	CDS	514503..515246	yfeA; Transcriptional regulator, RpiR family
+llj:LG36_0480	CDS	515411..516778	glpT; Glycerol-3-phosphate transporter
+llj:LG36_0481	CDS	517063..517401	hypothetical protein
+llj:LG36_0482	CDS	517452..519698	clpE; ATP-dependent endopeptidase Clp, ATP-binding subunit ClpE
+llj:LG36_0483	CDS	complement(519923..520393)	yffB; Transcriptional regulator, Rrf2 family
+llj:LG36_0484	CDS	520565..521578	gapA; Glyceraldehyde 3-phosphate dehydrogenase
+llj:LG36_0485	CDS	complement(521721..522356)	def; Peptide deformylase
+llj:LG36_0486	CDS	522510..522965	yffD; Bis(5'-nucleosyl)-tetraphosphatase
+llj:LG36_0487	CDS	522976..525054	uvrB; Excinuclease ABC, subunit B
+llj:LG36_0488	CDS	525196..526059	gltS; Glutamate or arginine ABC transporter, substratebinding protein
+llj:LG36_0489	CDS	526074..527192	argE; Acetylornithine deacetylase
+llj:LG36_0490	CDS	complement(527261..527716)	fabZ1; (3R)-hydroxyacyl-[acyl carrier protein] dehydratase
+llj:LG36_0491	CDS	527993..528745	fabI; Enoyl-[acyl-carrier protein] reductase
+llj:LG36_0492	CDS	529007..529414	hypothetical protein
+llj:LG36_0493	CDS	529483..530124	yfgE; ABC transporter, ATP binding protein
+llj:LG36_0494	CDS	530105..531025	yfgF; ABC transporter, permease protein
+llj:LG36_0495	CDS	complement(531152..532114)	yfgG; Membrane protein, OxaA/YidC family
+llj:LG36_0496	CDS	complement(532289..533047)	yfgH; Hydrolase, HAD superfamily
+llj:LG36_0497	CDS	complement(533141..533731)	hypothetical protein
+llj:LG36_0498	CDS	complement(533748..534284)	dfpA; Phosphopantothenoylcysteine decarboxylase
+llj:LG36_0499	CDS	complement(534277..534972)	dfpB; Phosphopantothenate--cysteine ligase
+llj:LG36_0500	CDS	complement(535118..535303)	xylH; 4-Oxalocrotonate tautomerase
+llj:LG36_0501	CDS	535501..537828	yfgQ; Cation-transporting ATPase
+llj:LG36_0502	CDS	537856..538299	yfhA; Acetyltransferase, GNAT family
+llj:LG36_0503	CDS	538406..539431	hypothetical protein
+llj:LG36_0504	CDS	539583..540176	hypothetical protein
+llj:LG36_0505	CDS	540354..540854	tpsO; Regulatory protein, TpsO family
+llj:LG36_0506	CDS	540973..541374	hypothetical protein
+llj:LG36_0507	CDS	541378..543174	yfhG; Dihydroxyacetone kinase family protein
+llj:LG36_0508	CDS	543171..543944	hypothetical protein
+llj:LG36_0509	CDS	544091..544453	hypothetical protein
+llj:LG36_0510	CDS	544572..544940	yfhJ; Glyoxalase family protein
+llj:LG36_0511	CDS	545168..545452	hypothetical protein
+llj:LG36_0512	CDS	complement(545786..545911)	hypothetical protein
+llj:LG36_0513	CDS	complement(546000..546920)	hypothetical protein
+llj:LG36_0514	CDS	547303..548781	lysS2; Lysyl-tRNA synthetase
+llj:LG36_0515	CDS	complement(549256..549915)	hypothetical protein
+llj:LG36_0516	CDS	complement(550111..550461)	hypothetical protein
+llj:LG36_0517	CDS	complement(550451..551917)	umuC; ImpB/MucB/SamB family protein
+llj:LG36_0518	CDS	complement(552454..552987)	yfiC; Acetyltransferase, GNAT family
+llj:LG36_0519	CDS	complement(553450..553881)	rmaJ; MarR family transcriptional regulator
+llj:LG36_0520	CDS	553982..554395	yfiE; Organic hydroperoxide resistance family protein
+llj:LG36_0521	CDS	555452..557365	hypothetical protein
+llj:LG36_0522	CDS	557522..558298	hypothetical protein
+llj:LG36_0523	CDS	558898..559536	Thiamine transporter
+llj:LG36_0524	CDS	560611..561426	Cof-like hydrolase
+llj:LG36_0525	CDS	562098..562619	cbpA; curved DNA-binding protein
+llj:LG36_0526	CDS	complement(562980..563984)	qor1; Zinc-binding alcohol dehydrogenase
+llj:LG36_0527	CDS	complement(564015..565043)	Major royal jelly protein
+llj:LG36_0528	CDS	complement(565211..565876)	Nitroreductase
+llj:LG36_0529	CDS	complement(566112..566534)	TetR-like transcriptional regulator
+llj:LG36_0530	CDS	566903..567067	hypothetical protein
+llj:LG36_0531	CDS	complement(567136..568056)	hypothetical protein
+llj:LG36_0532	CDS	complement(568066..568428)	Transcriptional regulator, Cro/CI family
+llj:LG36_0533	CDS	569140..569460	XRE family transcriptional regulator
+llj:LG36_0534	CDS	569574..570572	hypothetical protein
+llj:LG36_0535	CDS	570612..571328	hypothetical protein
+llj:LG36_0536	CDS	571637..572407	hypothetical protein
+llj:LG36_0537	CDS	572420..573964	Conjugative transfer protein
+llj:LG36_0538	CDS	573964..574320	hypothetical protein
+llj:LG36_0539	CDS	574600..575937	Replication initiation factor
+llj:LG36_0540	CDS	575952..576134	hypothetical protein
+llj:LG36_0541	CDS	576330..576599	hypothetical protein
+llj:LG36_0542	CDS	576689..576970	hypothetical protein
+llj:LG36_0543	CDS	577009..577314	Transcriptional regulator, Cro/CI family
+llj:LG36_0544	CDS	577349..577729	hypothetical protein
+llj:LG36_0545	CDS	577931..578290	hypothetical protein
+llj:LG36_0546	CDS	578391..581609	hypothetical protein
+llj:LG36_0547	CDS	581632..582933	hypothetical protein
+llj:LG36_0548	CDS	582945..583211	hypothetical protein
+llj:LG36_0549	CDS	583225..583620	hypothetical protein
+llj:LG36_0550	CDS	583617..586223	Conjugative transposon protein, ATPase
+llj:LG36_0551	CDS	586223..588328	hypothetical protein
+llj:LG36_0552	CDS	588332..589378	Peptidoglycan hydrolase with CHAP domain
+llj:LG36_0553	CDS	589471..589698	hypothetical protein
+llj:LG36_0554	CDS	589730..590056	hypothetical protein
+llj:LG36_0555	CDS	590126..590338	hypothetical protein
+llj:LG36_0556	CDS	590396..591610	DNA integration/recombination/inversion protein
+llj:LG36_0557	CDS	591717..592286	yfiG; Thymidine kinase
+llj:LG36_0558	CDS	592342..592785	hypothetical protein
+llj:LG36_0559	CDS	592803..593876	prfA; Peptide chain release factor 1
+llj:LG36_0560	CDS	593876..594403	hypothetical protein
+llj:LG36_0561	CDS	594466..595221	yfiJ; NADPH-FMN oxidoreductase
+llj:LG36_0562	CDS	595306..596139	hemK; Protein-(glutamine-N5) methyltransferase, release factor-specific
+llj:LG36_0563	CDS	596173..596637	yfiL; Acetyltransferase, GNAT family
+llj:LG36_0564	CDS	596634..597536	yfjA; RNA-binding protein, Sua5/YciO/YrdC/YwlC family
+llj:LG36_0565	CDS	597784..599031	glyA; Serine hydroxymethyltransferase
+llj:LG36_0566	CDS	599192..599794	hypothetical protein
+llj:LG36_0567	CDS	599921..601018	serC; Phosphoserine aminotransferase
+llj:LG36_0568	CDS	601015..602211	serA; D-3-phosphoglycerate dehydrogenase
+llj:LG36_0569	CDS	602236..602886	serB; Phosphoserine phosphatase
+llj:LG36_0570	CDS	complement(602991..603284)	yfjC; Acylphosphatase
+llj:LG36_0571	CDS	603553..604311	yfjD; 23S rRNA methyltransferase
+llj:LG36_0572	CDS	604404..604742	Inorganic pyrophosphatase
+llj:LG36_0573	CDS	complement(604800..605243)	yfjE; Flavodoxin
+llj:LG36_0574	CDS	complement(605392..606897)	yfjF; Multidrug transporter, MF superfamily
+llj:LG36_0575	CDS	607112..607738	yfjG; Transcriptional regulator, TetR family
+llj:LG36_0576	CDS	608023..608877	pepM; Methionine aminopeptidase
+llj:LG36_0577	CDS	608897..609802	ygaB; tRNA-processing ribonuclease BN
+llj:LG36_0578	CDS	complement(609891..610337)	ygaC; GtcA family membrane protein
+llj:LG36_0579	CDS	610484..611206	hypothetical protein
+llj:LG36_0580	CDS	611238..611513	hypothetical protein
+llj:LG36_0581	CDS	611636..611785	hypothetical protein
+llj:LG36_0582	CDS	611889..612818	ptsK; Hpr(Ser) kinase
+llj:LG36_0583	CDS	612883..613668	lgt; Prolipoprotein diacylglyceryl transferase
+llj:LG36_0584	CDS	613836..614255	hypothetical protein
+llj:LG36_0585	CDS	614285..614848	hypothetical protein
+llj:LG36_0586	CDS	614980..616398	gnd; 6-phosphogluconate dehydrogenase, decarboxylating
+llj:LG36_0587	CDS	616549..618591	kupA; Kup system potassium uptake protein
+llj:LG36_0588	CDS	618816..620831	kupB; Kup system potassium uptake protein
+llj:LG36_0589	CDS	621263..621928	ygbB; transporter
+llj:LG36_0590	CDS	622067..622945	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+llj:LG36_0591	CDS	623033..623701	hypothetical protein
+llj:LG36_0592	CDS	623871..624767	ygbE; protease
+llj:LG36_t0033	tRNA	624866..624937	tRNA-Arg
+llj:LG36_0593	CDS	625142..625402	hypothetical protein
+llj:LG36_t0034	tRNA	625557..625629	tRNA-Lys
+llj:LG36_0594	CDS	625757..626680	rnz; Ribonuclease Z
+llj:LG36_0595	CDS	626673..627365	ygcA; Oxidoreductase, short chain dehydrogenase/reductase family
+llj:LG36_0596	CDS	627541..629769	recJ; Single-stranded-DNA-specific exonuclease RecJ
+llj:LG36_0597	CDS	629847..630404	apt; Adenine phosphoribosyltransferase
+llj:LG36_0598	CDS	630621..631184	rpoE; DNA-directed RNA polymerase, delta chain
+llj:LG36_0599	CDS	631321..632973	ygcC; Aminodeoxychorismate lyase
+llj:LG36_0600	CDS	633037..633507	greA; Transcription elongation factor GreA
+llj:LG36_0601	CDS	633660..634139	ctsR; Transcriptional repressor
+llj:LG36_0602	CDS	634129..636579	clpC; ATP-dependent Clp protease, ATP-binding subunit ClpC
+llj:LG36_0603	CDS	636714..637271	ygdA; Ribosome-associated factor Y
+llj:LG36_0604	CDS	637456..638757	enoB; Enolase
+llj:LG36_0605	CDS	complement(638872..639543)	ygfA; ABC transporter, ATP-binding protein
+llj:LG36_0606	CDS	complement(639546..640619)	ygfB; ABC transporter permease
+llj:LG36_0607	CDS	complement(640631..641200)	ygfC; Transcriptional regulator, TetR family
+llj:LG36_0608	CDS	complement(641387..642910)	fadD; Long-chain acyl-CoA synthetase
+llj:LG36_0609	CDS	643102..644019	hypothetical protein
+llj:LG36_0610	CDS	644280..646643	pfl; Formate acetyltransferase
+llj:LG36_0611	CDS	646775..647458	coaE; Dephospho-CoA kinase
+llj:LG36_0612	CDS	647436..648653	pmrA; Multidrug resistance efflux pump protein, MF superfamily
+llj:LG36_0613	CDS	649137..650399	ftsW1; Cell division protein FtsW
+llj:LG36_0614	CDS	650505..653918	pycA; Pyruvate carboxylase
+llj:LG36_0615	CDS	654022..655368	gltA; Citrate synthase
+llj:LG36_0616	CDS	655365..657911	citB; Aconitate hydratase
+llj:LG36_0617	CDS	657932..659170	icd; Isocitrate dehydrogenase
+llj:LG36_0618	CDS	complement(659236..659835)	clpP; ATP-dependent endopeptidase Clp, proteolytic subunit ClpP
+llj:LG36_0619	CDS	660032..660562	hypothetical protein
+llj:LG36_0620	CDS	660724..661122	yghC; Arsenate reductase family protein
+llj:LG36_0621	CDS	complement(661505..662668)	yghD; ABC transporter, permease protein
+llj:LG36_0622	CDS	663011..665767	pacL; Calcium-transporting ATPase
+llj:LG36_0623	CDS	666251..667282	hypothetical protein
+llj:LG36_0624	CDS	667302..668507	yijG; Glycosyltransferase, family 2, cellulose synthase (CESA) superfamily
+llj:LG36_0625	CDS	668780..669673	Polysaccharide intercellular adhesin biosynthesis deacetylase IcaB
+llj:LG36_0626	CDS	669700..671154	icaC; Collagen adhesin
+llj:LG36_0627	CDS	complement(671231..672601)	brnQ; Branched-chain amino acid transport system carrier protein
+llj:LG36_0628	CDS	complement(672840..673112)	ygiG; Acetyltransferase, GNAT family
+llj:LG36_0629	CDS	complement(673165..673383)	hypothetical protein
+llj:LG36_0630	CDS	674813..674986	nisZ; Lantibiotic nisin-Z
+llj:LG36_0631	CDS	675094..678075	nisB; Nisin biosynthesis protein NisB
+llj:LG36_0632	CDS	678086..679888	nisT; Nisin transport protein
+llj:LG36_0633	CDS	679881..681125	nisC; Nisin biosynthesis protein NisC
+llj:LG36_0634	CDS	681122..681655	nisI; Nisin immunity protein
+llj:LG36_0635	CDS	681862..683910	nisP; Nisin leader peptide-processing serine protease NisP
+llj:LG36_0636	CDS	684026..684664	nisR; Nisin biosynthesis two-component system, response regulator NisR
+llj:LG36_0637	CDS	684657..685922	nisK; Nisin biosynthesis two-component system, sensor histidine kinase NisK
+llj:LG36_0638	CDS	686102..686779	nisF; Nisin transport protein NisF
+llj:LG36_0639	CDS	686781..687509	nisE; Nisin transport protein NisE
+llj:LG36_0640	CDS	687496..688137	nisG; Nisin transport protein NisG
+llj:LG36_0641	CDS	689255..689965	Cyclic-di-GMP-specific phosphodiesterase
+llj:LG36_0642	CDS	690167..691066	Diguanylate cyclase with GAF sensor domain
+llj:LG36_0643	CDS	691122..693089	Glycosyltransferase, family 2, cellulose synthase (CESA) superfamily
+llj:LG36_0644	CDS	complement(693198..693860)	scrR; Sucrose operon repressor, LacI family
+llj:LG36_0645	CDS	complement(693920..695569)	scrB; Sucrose-6-phosphate hydrolase
+llj:LG36_0646	CDS	695749..697701	scrA; PTS system, sucrose-specific IIABC component
+llj:LG36_0647	CDS	697714..698586	scrK; Fructokinase
+llj:LG36_0648	CDS	complement(699049..700416)	Multidrug resistance protein B, MF superfamily
+llj:LG36_0649	CDS	complement(700464..701285)	Transcriptional regulator, RpiR family
+llj:LG36_0650	CDS	701543..702148	Ribose 5-phosphate isomerase A
+llj:LG36_0651	CDS	702121..703098	Oxidoreductase, GFO/IDH/MOCA family
+llj:LG36_0652	CDS	complement(703344..703826)	Transcriptional regulator, XRE-family
+llj:LG36_0653	CDS	704185..705021	hypothetical protein
+llj:LG36_0654	CDS	705589..706425	bglG; Transcription antiterminator, BglG family
+llj:LG36_0655	CDS	706465..708390	bglP; PTS system, beta-glucoside-specific IIABC component
+llj:LG36_0656	CDS	708459..709910	pbg1; 6-phospho-beta-glucosidase
+llj:LG36_0657	CDS	710379..711218	Transcription antiterminator, BglG family
+llj:LG36_0658	CDS	711282..713141	PTS system, beta-glucoside-specific IIABC component
+llj:LG36_0659	CDS	713155..714603	pbg2; 6-phospho-beta-glucosidase
+llj:LG36_0660	CDS	716469..717941	DNA-binding/PRD domain-containing protein
+llj:LG36_0661	CDS	717941..718408	PTS system, fructose-specific IIABC component
+llj:LG36_0662	CDS	718463..719338	Fructose-bisphosphate aldolase
+llj:LG36_0663	CDS	719433..719747	fptB; Mannitol/fructose-specific PTS system, componentIIB
+llj:LG36_0664	CDS	719788..720852	fptC; Mannitol/fructose-specific PTS system, componentIIC
+llj:LG36_0665	CDS	720863..721189	hypothetical protein
+llj:LG36_0666	CDS	721436..722344	hypothetical protein
+llj:LG36_0667	CDS	722354..723829	Xylulose kinase
+llj:LG36_0668	CDS	724107..724472	hypothetical protein
+llj:LG36_0669	CDS	724503..724913	ardA; Conjugative transposon antirestriction protein
+llj:LG36_0670	CDS	724940..725173	xis; Excisionase
+llj:LG36_0671	CDS	725256..726395	pp272; Phage protein, integrase
+llj:LG36_0672	CDS	726529..727302	ygiI; DNase, TatD family
+llj:LG36_0673	CDS	727316..727873	ygiJ; DNA topology modulation protein
+llj:LG36_0674	CDS	727851..728471	ygiK; Ribonuclease M5
+llj:LG36_0675	CDS	728582..729466	ksgA; Dimethyladenosine transferase
+llj:LG36_0676	CDS	729567..730625	pepP; Xaa-Pro-(Xaa)n proline peptidase
+llj:LG36_0677	CDS	730757..731314	efp; Translation elongation factor P
+llj:LG36_0678	CDS	731410..731862	ygjB; General stress protein, Gls24 family
+llj:LG36_0679	CDS	731855..732826	nusB; Transcription antitermination factor
+llj:LG36_0680	CDS	733042..735045	ygjD; 4-Alpha-glucanotransferase
+llj:LG36_0681	CDS	735146..736288	glgC; Glucose-1-phosphate adenylyltransferase, catalytic subunit
+llj:LG36_0682	CDS	736296..737417	glgD; Glucose-1-phosphate adenylyltransferase, regulatory subunit
+llj:LG36_0683	CDS	737494..738945	glgA; Glycogen synthase
+llj:LG36_0684	CDS	739034..741436	glgP; Glycogen phosphorylase
+llj:LG36_0685	CDS	741507..743273	apu; Glucan 1,4-alpha-maltohydrolase
+llj:LG36_0686	CDS	743536..745029	dtpT; Di-/tripeptide transporter
+llj:LG36_0687	CDS	745281..745985	hypothetical protein
+llj:LG36_0688	CDS	746042..747517	cydA; Cytochrome d ubiquinol oxidase subunit I
+llj:LG36_0689	CDS	747517..748512	Cytochrome d ubiquinol oxidase subunit II
+llj:LG36_0690	CDS	748892..750754	Cytochrome D ABC transporter, ATP binding and permease protein
+llj:LG36_0691	CDS	750754..752475	cydD; Cytochrome D ABC transporter, ATP binding and permease protein
+llj:LG36_0692	CDS	752769..753644	rmaB; Transcriptional regulator, MarR family
+llj:LG36_0693	CDS	753670..754158	hemG; Flavodoxin, FMN reductase superfamily
+llj:LG36_0694	CDS	754185..754859	yhbF; GDSL-like Lipase/acylhydrolase family protein
+llj:LG36_0695	CDS	754944..756716	lmrA; Multidrug resistance ABC transporter, ATP-binding and permease protein
+llj:LG36_0696	CDS	complement(756735..757346)	hypothetical protein
+llj:LG36_0697	CDS	complement(757416..758060)	yhbI; DedA family protein
+llj:LG36_0698	CDS	complement(758267..760261)	yhcA; ABC transporter, ATP-binding and permease protein
+llj:LG36_0699	CDS	complement(760368..760586)	Zn-ribbon nucleic-acid-binding protein
+llj:LG36_0700	CDS	760734..761456	hypothetical protein
+llj:LG36_0701	CDS	complement(761488..762474)	qor2; Zinc-binding alcohol dehydrogenase
+llj:LG36_0702	CDS	762642..763751	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+llj:LG36_0703	CDS	763877..764629	yhcG; Metal-dependent hydrolase, beta-lactamase superfamily
+llj:LG36_0704	CDS	764617..765555	hypothetical protein
+llj:LG36_0705	CDS	765556..766023	yhcI; tRNA-specific adenosine deaminase
+llj:LG36_0706	CDS	766157..766699	hypothetical protein
+llj:LG36_0707	CDS	complement(766725..767141)	yhdA; 1,4-Dihydroxy-2-naphthoyl-CoA thioesterase
+llj:LG36_0708	CDS	complement(767175..767477)	hypothetical protein
+llj:LG36_0709	CDS	complement(767514..768626)	menC; O-succinylbenzoate synthase
+llj:LG36_0710	CDS	complement(768623..769978)	menE; O-succinylbenzoic acid-CoA ligase
+llj:LG36_0711	CDS	complement(770105..770947)	menB; Naphthoate synthase
+llj:LG36_0712	CDS	complement(771479..772288)	menX; Menaquinone biosynthesis related protein
+llj:LG36_0713	CDS	complement(772285..773967)	menD; 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylic acid synthase/2-oxoglutarate decarboxylase
+llj:LG36_0714	CDS	complement(774021..775172)	menF; Isochorismate synthase
+llj:LG36_0715	CDS	775447..776028	yhdC; Ribosomal-protein-alanine acetyltransferase
+llj:LG36_0716	CDS	776035..777315	yheA; CBS domain containing protein
+llj:LG36_0717	CDS	777335..778258	yheB; Phosphoesterase, DHH family
+llj:LG36_0718	CDS	complement(778532..779503)	ansB; L-asparaginase
+llj:LG36_0719	CDS	779695..780978	Hydrolase, HAD superfamily
+llj:LG36_0720	CDS	781169..781513	hypothetical protein
+llj:LG36_0721	CDS	781574..783085	floL; flotillin-like protein
+llj:LG36_0722	CDS	complement(783122..784474)	thrA; Aspartokinase
+llj:LG36_0723	CDS	784784..785452	yhfA; Phosphatase/phosphohexomutase, HAD superfamily
+llj:LG36_0724	CDS	785591..787510	yhfB; Phosphoesterase, DHH family protein
+llj:LG36_0725	CDS	787507..787959	rplI; LSU ribosomal protein L9P
+llj:LG36_0726	CDS	787965..789332	dnaC; Replicative DNA helicase
+llj:LG36_0727	CDS	789514..789783	hypothetical protein
+llj:LG36_0728	CDS	789852..790625	yhfD; Phosphotransferase
+llj:LG36_0729	CDS	790746..791399	trmB; tRNA (m(7)G46) methyltransferase
+llj:LG36_0730	CDS	791518..792012	nrdR; Transcriptional repressor
+llj:LG36_0731	CDS	792206..793381	Replicative DNA helicase
+llj:LG36_0732	CDS	793472..794263	dnaI; Primosomal protein DnaI
+llj:LG36_0733	CDS	794256..794978	yhgA; Nitroreductase family protein
+llj:LG36_0734	CDS	794975..795601	yhgB; Quinolone resistance protein
+llj:LG36_0735	CDS	795708..797018	yphL; GTP-binding protein
+llj:LG36_0736	CDS	797124..797969	yhgC; Transcriptional regulator, Rgg/GadR/MutR family
+llj:LG36_0737	CDS	798177..799310	cell surface protein
+llj:LG36_0738	CDS	799429..799725	hypothetical protein
+llj:LG36_0739	CDS	799774..800469	hypothetical protein
+llj:LG36_0740	CDS	800540..802420	hypothetical protein
+llj:LG36_0741	CDS	802417..803568	Cell surface protein with WxL domain
+llj:LG36_0742	CDS	803971..807555	hypothetical protein
+llj:LG36_0743	CDS	807663..809507	Cna-like surface protein
+llj:LG36_0744	CDS	809570..810868	srtC; Sortase C
+llj:LG36_0745	CDS	810876..811601	hypothetical protein
+llj:LG36_0746	CDS	complement(811657..812355)	lrgB; Murein hydrolase export regulator
+llj:LG36_0747	CDS	complement(812374..812778)	lrgA; Murein hydrolase exporter
+llj:LG36_0748	CDS	813034..813525	rimP; ribosome maturation protein RimP
+llj:LG36_0749	CDS	813689..814837	nusA; Transcription antitermination factor
+llj:LG36_0750	CDS	815003..815329	hypothetical protein
+llj:LG36_0751	CDS	815332..815637	ylxQ; LSU ribosomal protein L7AE
+llj:LG36_0752	CDS	815658..818492	infB; Translation initiation factor 2
+llj:LG36_0753	CDS	818874..819233	rbfA; Ribosome-binding factor A
+llj:LG36_0754	CDS	819399..820358	manA; Mannose-6-phosphate isomerase
+llj:LG36_0755	CDS	820772..821212	rmaG; Transcriptional regulator, MarR family
+llj:LG36_0756	CDS	821212..822189	fabH; 3-Oxoacyl-[acyl-carrier-protein] synthase III
+llj:LG36_0757	CDS	822357..822578	acpP; Acyl carrier protein
+llj:LG36_0758	CDS	822858..823784	fabD; Malonyl-CoA-[acyl-carrier-protein] transacylase
+llj:LG36_0759	CDS	823868..824599	fabG1; 3-Oxoacyl-[acyl-carrier protein] reductase
+llj:LG36_0760	CDS	824640..825869	fabF; 3-Oxoacyl-[acyl-carrier-protein] synthase
+llj:LG36_0761	CDS	825876..826343	Acetyl-CoA carboxylase, biotin carboxyl carrier protein
+llj:LG36_0762	CDS	826547..826903	fabZ2; (3R)-hydroxyacyl-[acyl carrier protein] dehydratase
+llj:LG36_0763	CDS	827137..827319	hypothetical protein
+llj:LG36_0764	CDS	827312..828679	accC; Acetyl-CoA carboxylase, biotin carboxylase
+llj:LG36_0765	CDS	828765..829631	accD; Acetyl-CoA carboxylase, carboxyl transferase subunit beta
+llj:LG36_0766	CDS	829624..830418	accA; Acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+llj:LG36_0767	CDS	830549..831691	cblB; Cystathionine beta-lyase / Cystathionine gamma-lyase
+llj:LG36_0768	CDS	831906..832826	cysK; Cysteine synthase
+llj:LG36_0769	CDS	832963..833256	yhjA; General stress response protein, CsbD superfamily
+llj:LG36_0770	CDS	833353..833730	yhjB; Rhodanese-like domain family protein
+llj:LG36_0771	CDS	833741..833989	yhjC; Rhodanese-like domain family protein
+llj:LG36_0772	CDS	834047..835690	NADH dehydrogenase
+llj:LG36_0773	CDS	835717..835971	hypothetical protein
+llj:LG36_0774	CDS	836047..836448	yhjF; Arsenate reductase family protein
+llj:LG36_0775	CDS	complement(836563..837306)	rdrA; Transcriptional regulator, DeoR family
+llj:LG36_0776	CDS	complement(837400..837963)	yhjG; Ribosomal-protein-S5-alanine acetyltransferase
+llj:LG36_0777	CDS	complement(838046..838936)	exoA; Exodeoxyribonuclease III
+llj:LG36_0778	CDS	839085..841073	metS; Methionyl-tRNA synthetase
+llj:LG36_0779	CDS	841561..841827	hypothetical protein
+llj:LG36_0780	CDS	841844..842575	yiaB; Short chain dehydrogenase
+llj:LG36_0781	CDS	842914..843486	queT; Transporter for queuosine precursor
+llj:LG36_0782	CDS	843594..844226	yiaD; NADH-flavin reductase
+llj:LG36_0783	CDS	844367..845389	N-acetyl-gamma-glutamyl-phosphate reductase
+llj:LG36_0784	CDS	845401..846591	argJ; Glutamate N-acetyltransferase
+llj:LG36_0785	CDS	846604..847737	argD; Acetylornithine aminotransferase
+llj:LG36_0786	CDS	847734..848585	argB; Acetylglutamate kinase
+llj:LG36_0787	CDS	848613..849614	argF; Ornithine carbamoyltransferase
+llj:LG36_0788	CDS	849787..850482	rnc; Ribonuclease III
+llj:LG36_0789	CDS	850472..853996	smc; Chromosome partition protein Smc
+llj:LG36_0790	CDS	854238..856406	yibC; Alkaline phosphatase superfamily protein
+llj:LG36_0791	CDS	856492..856902	hypothetical protein
+llj:LG36_0792	CDS	857018..858109	yibE; Transporter, YibE/F superfamily
+llj:LG36_0793	CDS	858106..858894	yibF; Transporter, YibE/F superfamily
+llj:LG36_0794	CDS	complement(858916..860256)	yibG; GABA-specific permease
+llj:LG36_0795	CDS	860635..861444	yicB; Hydrolase, HAD superfamily
+llj:LG36_0796	CDS	861454..862005	hypothetical protein
+llj:LG36_0797	CDS	862067..863446	ftsY; Signal recognition particle docking protein FtsY
+llj:LG36_0798	CDS	863622..864596	prsA; Ribose-phosphate pyrophosphokinase
+llj:LG36_0799	CDS	864669..865340	hypothetical protein
+llj:LG36_0800	CDS	865411..867900	leuS; Leucyl-tRNA synthetase
+llj:LG36_0801	CDS	868199..868954	yidA; Transcriptional regulator, RpiR family
+llj:LG36_0802	CDS	869522..870940	yidB; PTS system, cellobiose-specific IIC component
+llj:LG36_0803	CDS	870944..872386	pbg3; 6-phospho-beta-glucosidase
+llj:LG36_0804	CDS	872638..873447	Alpha/beta hydrolase family protein
+llj:LG36_0805	CDS	873602..873955	hypothetical protein
+llj:LG36_0806	CDS	874096..875355	noxA; NADH dehydrogenase
+llj:LG36_0807	CDS	875498..877501	noxB; NADH dehydrogenase
+llj:LG36_0808	CDS	877615..878286	sdaB; L-serine dehydratase, beta subunit
+llj:LG36_0809	CDS	878306..879169	sdaA; L-serine dehydratase, alpha subunit
+llj:LG36_0810	CDS	879290..879745	copR; Copper transport repressor, CopY/TcrY family
+llj:LG36_0811	CDS	879761..879961	copZ; Copper chaperone CopZ
+llj:LG36_0812	CDS	880147..882309	copA; Copper-translocating P-type ATPase
+llj:LG36_0813	CDS	complement(882497..885148)	yieH; ABC transporter, permease protein
+llj:LG36_0814	CDS	complement(885219..886004)	yifA; Galactose-1-phosphate uridylyltransferase
+llj:LG36_0815	CDS	886257..887411	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+llj:LG36_0816	CDS	887621..888847	rpsA; SSU ribosomal protein S1P
+llj:LG36_0817	CDS	888998..889714	udp; Uridine phosphorylase
+llj:LG36_0818	CDS	889843..890556	pnuC; Nicotinamide mononucleotide transporter
+llj:LG36_0819	CDS	890651..892657	uvrC; Excinuclease ABC, subunit C
+llj:LG36_0820	CDS	892822..893985	mutY; A/G-specific adenine DNA glycosylase
+llj:LG36_0821	CDS	894051..895469	pepV; Dipeptidase
+llj:LG36_0822	CDS	895572..895931	acpS; Holo-[acyl-carrier protein] synthase
+llj:LG36_0823	CDS	895976..897079	alr; Alanine racemase
+llj:LG36_0824	CDS	897242..897670	yigC; Arsenate reductase family protein
+llj:LG36_0825	CDS	897807..899114	gshR; Glutathione reductase
+llj:LG36_0826	CDS	899258..900157	choQ; Glycine betaine ABC transporter, ATP-binding protein
+llj:LG36_0827	CDS	900154..901656	choS; Glycine betaine ABC transporter, permease and substrate-binding protein
+llj:LG36_0828	CDS	901920..904355	hypothetical protein
+llj:LG36_0829	CDS	904524..904955	hypothetical protein
+llj:LG36_0830	CDS	905058..905405	hypothetical protein
+llj:LG36_0831	CDS	905501..906340	thyA; Thymidylate synthase
+llj:LG36_0832	CDS	906447..906893	rmaI; Transcriptional regulator, MarR family
+llj:LG36_0833	CDS	906890..908263	ypiB; Multidrug transporter, MF superfamily
+llj:LG36_0834	CDS	908474..909241	ypiA; Short chain dehydrogenase
+llj:LG36_0835	CDS	909256..909624	hypothetical protein
+llj:LG36_0836	CDS	909660..910148	yphJ; Carboxymuconolactone decarboxylase family protein
+llj:LG36_0837	CDS	910121..910276	hypothetical protein
+llj:LG36_0838	CDS	910292..910693	yphH; Cupin superfamily protein
+llj:LG36_0839	CDS	910825..911547	purC; Phosphoribosylamidoimidazole-succinocarboxamide synthase
+llj:LG36_0840	CDS	911624..911866	purS; Phosphoribosylformylglycinamidine synthase,PurS component
+llj:LG36_0841	CDS	911866..912537	purQ; Phosphoribosylformylglycinamidine synthase I
+llj:LG36_0842	CDS	912757..914976	purL; Phosphoribosylformylglycinamidine synthase II
+llj:LG36_0843	CDS	914961..916280	purF; Amidophosphoribosyltransferase
+llj:LG36_0844	CDS	916533..917156	yphA; NADH dehydrogenase
+llj:LG36_0845	CDS	complement(917189..918529)	hypothetical protein
+llj:LG36_0846	CDS	918762..921365	clpB; ATP-dependent Clp protease, chaperonin ATPase ClpB
+llj:LG36_0847	CDS	921550..922572	purM; Phosphoribosylformylglycinamidine cyclo-ligase
+llj:LG36_0848	CDS	922601..923149	purN; Phosphoribosylglycinamide formyltransferase
+llj:LG36_0849	CDS	923316..924806	ypgD; Multidrug resistance ABC transporter, ATP-binding and permease protein
+llj:LG36_0850	CDS	complement(924958..925488)	ypgC; Transcriptional regulator, TetR family
+llj:LG36_0851	CDS	925619..926656	ypgB; NAD-dependent epimerase/dehydratase
+llj:LG36_0852	CDS	926793..927335	hprT; Hypoxanthine-guanine phosphoribosyltransferase
+llj:LG36_0853	CDS	927511..929067	purH; Phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+llj:LG36_0854	CDS	929244..929936	ypfF; Hydrolase, HAD superfamily
+llj:LG36_0855	CDS	complement(929923..931305)	ypfE; MFS transporter
+llj:LG36_0856	CDS	complement(931476..932102)	Transcriptional regulator, TetR family
+llj:LG36_0857	CDS	932445..933686	purD; Phosphoribosylamine--glycine ligase
+llj:LG36_0858	CDS	933718..934203	purE; Phosphoribosylaminoimidazole carboxylase, carboxyltransferase subunit
+llj:LG36_0859	CDS	934254..935360	purK; Phosphoribosylaminoimidazole carboxylase, NCAIR mutase subunit
+llj:LG36_0860	CDS	complement(935515..936465)	Transcriptional regulator, AraC family
+llj:LG36_0861	CDS	936570..937889	xylA; Xylose isomerase
+llj:LG36_0862	CDS	937965..939461	xylB; Xylulose kinase
+llj:LG36_0863	CDS	939464..940468	xylM; Aldose-1-epimerase
+llj:LG36_0864	CDS	940535..942007	xynT; Xyloside transporter
+llj:LG36_0865	CDS	942032..943711	xynB; Beta-1,4-xylosidase
+llj:LG36_0866	CDS	943777..944373	xylX; Acetyltransferase
+llj:LG36_0867	CDS	944542..945918	xylT; D-Xylose-proton symporter
+llj:LG36_0868	CDS	complement(945976..947061)	araR; Arabinose operon repressor, GntR family
+llj:LG36_0869	CDS	complement(947209..948474)	araP; Disaccharide permease
+llj:LG36_0870	CDS	complement(948496..949467)	araF; Alpha-N-arabinofuranosidase
+llj:LG36_0871	CDS	complement(949491..950858)	Arabinose-proton symporter
+llj:LG36_0872	CDS	951059..952642	araB; L-Ribulokinase
+llj:LG36_0873	CDS	952658..953359	araD; L-Ribulose-5-phosphate 4-epimerase
+llj:LG36_0874	CDS	953331..954806	araA; L-Arabinose isomerase
+llj:LG36_0875	CDS	954931..957423	ptk; Phosphoketolase
+llj:LG36_0876	CDS	complement(957518..959671)	ypdD; Alpha-1,2-mannosidase
+llj:LG36_0877	CDS	complement(959668..960705)	rliB; Transcriptional regulator, GntR family
+llj:LG36_0878	CDS	960944..962239	hypothetical protein
+llj:LG36_0879	CDS	962274..964973	ypdB; Alpha-mannosidase
+llj:LG36_0880	CDS	965017..965901	ypdA; Sugar ABC transporter, permease protein
+llj:LG36_0881	CDS	965957..966877	ypcH; Sugar ABC transporter, permease protein
+llj:LG36_0882	CDS	966980..968431	ypcG; Sugar ABC transporter, substrate-binding protein
+llj:LG36_0883	CDS	968509..969486	lnbA; Lacto-N-biosidase
+llj:LG36_0884	CDS	969479..971068	dexB; Glucan 1,6-alpha-glucosidase
+llj:LG36_0885	CDS	971090..973861	ypcCD; Endo-beta-N-acetylglucosaminidase
+llj:LG36_0886	CDS	973976..974584	hypothetical protein
+llj:LG36_0887	CDS	974614..976041	ypcA; Beta-glucosidase
+llj:LG36_0888	CDS	976078..976959	glcK; Glucokinase / transcription regulator, ROK family
+llj:LG36_0889	CDS	977062..977937	fruK; Fructokinase
+llj:LG36_0890	CDS	978147..979688	guaA; glutamine-hydrolyzing GMP synthase
+llj:LG36_0891	CDS	979971..981707	ypbD; Sugar transport symporter
+llj:LG36_0892	CDS	complement(981751..983130)	ypbC; Na+-driven multidrug efflux pump, MatE family
+llj:LG36_0893	CDS	983330..983749	rmaE; Transcriptional regulator, MarR family
+llj:LG36_0894	CDS	complement(983801..985168)	Putrescine/ornithine aminotransferase
+llj:LG36_0895	CDS	complement(985214..986002)	Spermidine/putrescine ABC transporter, permease protein
+llj:LG36_0896	CDS	complement(986004..986879)	Spermidine/putrescine ABC transporter, permease protein
+llj:LG36_0897	CDS	complement(986869..987990)	Spermidine/putrescine ABC transporter ATP-binding subunit
+llj:LG36_0898	CDS	complement(988018..988461)	nirPII; Nitrogen regulatory protein P-II
+llj:LG36_0899	CDS	complement(988496..989566)	potD; Spermidine/putrescine ABC transporter, spermidine/putrescine-binding protein
+llj:LG36_0900	CDS	complement(989742..990521)	ypaI; Short-chain alcohol dehydrogenase
+llj:LG36_0901	CDS	990520..990984	rmeB; Transcriptional regulator, MerR family
+llj:LG36_0902	CDS	complement(991024..991911)	ypaH; Transporter, drug/metabolite exporter family
+llj:LG36_0903	CDS	complement(992081..992476)	fur; Ferric uptake regulator
+llj:LG36_0904	CDS	992593..993282	hypothetical protein
+llj:LG36_0905	CDS	993282..993962	hypothetical protein
+llj:LG36_0906	CDS	994038..994781	ypaC; Methylase for ubiquinone/menaquinone biosynthesis
+llj:LG36_0907	CDS	994895..995965	rmaC; Nitroreductase/Transcriptional regulator, MarR family
+llj:LG36_0908	CDS	995980..996339	hypothetical protein
+llj:LG36_0909	CDS	996797..998167	trpE; Anthranilate synthase component I
+llj:LG36_0910	CDS	998337..998888	trpG; Anthranilate synthase component II
+llj:LG36_0911	CDS	998878..999885	trpD; Anthranilate phosphoribosyltransferase
+llj:LG36_0912	CDS	999926..1000285	lactoylglutathione lyase
+llj:LG36_0913	CDS	1000295..1001089	trpC; Indole-3-glycerol phosphate synthase
+llj:LG36_0914	CDS	1001079..1002113	trpF; N-(5'-phosphoribosyl)anthranilate isomerase
+llj:LG36_0915	CDS	1002121..1002696	yojB; Acetyltransferase, GNAT family
+llj:LG36_0916	CDS	1002791..1003927	trpB; Tryptophan synthase, beta chain
+llj:LG36_0917	CDS	1003924..1004685	trpA; Tryptophan synthase, alpha chain
+llj:LG36_0918	CDS	1004861..1005700	bglR; Transcription antiterminator, BglG family
+llj:LG36_0919	CDS	1005801..1007711	ptbA; PTS system, beta-glucoside-specific IIABC component
+llj:LG36_0920	CDS	1007759..1009195	bglH; Beta-glucosidase/6-phospho-beta-glucosidase
+llj:LG36_0921	CDS	1009642..1015047	hypothetical protein
+llj:LG36_0922	CDS	1015814..1016761	hypothetical protein
+llj:LG36_0923	CDS	1016910..1020179	hypothetical protein
+llj:LG36_0924	CDS	1020220..1021740	yohJ; Lipopolysaccharide biosynthesis protein
+llj:LG36_0925	CDS	1021763..1023388	yohH; Glycosyltransferase Gtf1
+llj:LG36_0926	CDS	1023606..1024226	busR; Transcriptional regulator, GntR family
+llj:LG36_0927	CDS	1024438..1025664	busAA; Glycine betaine/carnitine/choline ABC transporter, ATP-binding protein
+llj:LG36_0928	CDS	1025661..1027382	busAB; Glycine betaine/carnitine/choline ABC transporter, permease and substrate-binding protein
+llj:LG36_0929	CDS	1027574..1027744	hypothetical protein
+llj:LG36_0930	CDS	complement(1027796..1028359)	yohC; TetR family transcriptional regulator
+llj:LG36_0931	CDS	1028632..1029951	Co-activator of prophage IbrA
+llj:LG36_0932	CDS	1029933..1030475	yogM; Nuclease, ParBc superfamily
+llj:LG36_0933	CDS	1030557..1030862	yogL; Transcriptional regulator
+llj:LG36_0934	CDS	1031155..1032099	yogJ; Cation transporter
+llj:LG36_0935	CDS	1032153..1032584	psiE; Phosphate-starvation-inducible protein
+llj:LG36_0936	CDS	complement(1032651..1033571)	coaA; Pantothenate kinase
+llj:LG36_0937	CDS	1033759..1034361	hypothetical protein
+llj:LG36_0938	CDS	1034392..1035684	pdp; Pyrimidine-nucleoside phosphorylase
+llj:LG36_0939	CDS	1035686..1035874	hypothetical protein
+llj:LG36_0940	CDS	1035887..1036549	deoC; Deoxyribose-phosphate aldolase
+llj:LG36_0941	CDS	1036536..1036928	cdd; Cytidine deaminase
+llj:LG36_0942	CDS	1037187..1038239	bmpA; Basic membrane lipoprotein
+llj:LG36_0943	CDS	1038431..1039138	rgrB; GntR family transcriptional regulator
+llj:LG36_0944	CDS	complement(1039146..1039586)	hypothetical protein
+llj:LG36_0945	CDS	complement(1039686..1041239)	Two-component system sensor histidine kinasee
+llj:LG36_0946	CDS	complement(1041229..1041939)	Two-component system response regulator
+llj:LG36_0947	CDS	1042124..1042459	hypothetical protein
+llj:LG36_0948	CDS	1042443..1042625	hypothetical protein
+llj:LG36_0949	CDS	complement(1043168..1044250)	Phage integrase
+llj:LG36_0950	CDS	complement(1044371..1045183)	Superinfection immunity protein
+llj:LG36_0951	CDS	complement(1045277..1046332)	Prophage Lp2 protein 6
+llj:LG36_0952	CDS	complement(1046595..1047785)	hypothetical protein
+llj:LG36_0953	CDS	complement(1047894..1048175)	hypothetical protein
+llj:LG36_0954	CDS	complement(1048211..1048798)	Prophage pi3 protein 58
+llj:LG36_0955	CDS	complement(1048809..1049285)	Phage repressor
+llj:LG36_0956	CDS	complement(1049616..1050110)	hypothetical protein
+llj:LG36_0957	CDS	1050162..1050470	Phage protein
+llj:LG36_0958	CDS	1050852..1051094	hypothetical protein
+llj:LG36_0959	CDS	1051106..1051897	Phage antirepressor protein
+llj:LG36_0960	CDS	1051910..1052200	Phage protein
+llj:LG36_0961	CDS	complement(1052399..1052773)	hypothetical protein
+llj:LG36_0962	CDS	1052749..1052934	hypothetical protein
+llj:LG36_0963	CDS	1053035..1053430	hypothetical protein
+llj:LG36_0964	CDS	1053439..1054197	Phage protein
+llj:LG36_0965	CDS	1054190..1054615	ssbB1; Single-stranded DNA-binding protein
+llj:LG36_0966	CDS	1054739..1055557	rep; Phage replication initiation protein
+llj:LG36_0967	CDS	1055538..1055768	hypothetical protein
+llj:LG36_0968	CDS	1055749..1056123	Phage protein
+llj:LG36_0969	CDS	1056120..1056524	hypothetical protein
+llj:LG36_0970	CDS	1056543..1056740	hypothetical protein
+llj:LG36_0971	CDS	1056787..1057002	hypothetical protein
+llj:LG36_0972	CDS	complement(1057768..1058037)	hypothetical protein
+llj:LG36_0973	CDS	1058156..1058578	hypothetical protein
+llj:LG36_0974	CDS	1058767..1059360	hypothetical protein
+llj:LG36_0975	CDS	1059547..1060059	Terminase small subunit
+llj:LG36_0976	CDS	1060049..1061284	Terminase large subunit
+llj:LG36_0977	CDS	1061294..1062802	Portal protein
+llj:LG36_0978	CDS	1062926..1063213	hypothetical protein
+llj:LG36_0979	CDS	1063219..1064325	NAD+-asparagine ADP-ribosyltransferase
+llj:LG36_0980	CDS	1064409..1065137	hypothetical protein
+llj:LG36_0981	CDS	1065154..1066191	gp50; Coat protein
+llj:LG36_0982	CDS	1066205..1066540	hypothetical protein
+llj:LG36_0983	CDS	1066521..1066874	hypothetical protein
+llj:LG36_0984	CDS	1066858..1067406	hypothetical protein
+llj:LG36_0985	CDS	1067406..1067768	hypothetical protein
+llj:LG36_0986	CDS	1067781..1068212	Major tail protein
+llj:LG36_0987	CDS	1068285..1068695	hypothetical protein
+llj:LG36_0988	CDS	1068719..1069090	hypothetical protein
+llj:LG36_0989	CDS	1069122..1073804	hypothetical protein
+llj:LG36_0990	CDS	1073816..1074181	hypothetical protein
+llj:LG36_0991	CDS	1074193..1076730	hypothetical protein
+llj:LG36_0992	CDS	1076864..1077985	Phage protein
+llj:LG36_0993	CDS	1078057..1078281	hypothetical protein
+llj:LG36_0994	CDS	1078295..1078582	holin
+llj:LG36_0995	CDS	1078582..1079361	hypothetical protein
+llj:LG36_0996	CDS	1079587..1079991	Phage protein, protein-tyrosine-phosphatase
+llj:LG36_0997	CDS	1080511..1081194	PIN domain-like protein
+llj:LG36_t0035	tRNA	1081958..1082031	tRNA-Met
+llj:LG36_0998	CDS	1082326..1084266	Phage protein, C-terminal
+llj:LG36_0999	CDS	1084400..1085218	Phage tail assembly protein
+llj:LG36_1000	CDS	1085290..1085661	hypothetical protein
+llj:LG36_1001	CDS	1085674..1085961	Phage holin
+llj:LG36_1002	CDS	1085963..1086181	hypothetical protein
+llj:LG36_1003	CDS	1086181..1086960	Phage lysin, N-acetylmuramoyl-L-alanine amidase
+llj:LG36_1004	CDS	1087126..1088013	hypothetical protein
+llj:LG36_1005	CDS	1088175..1089101	Foldase protein PrsA precursor
+llj:LG36_1006	CDS	1089545..1090051	Phage protein, acetyltransferase, GNAT family
+llj:LG36_1007	CDS	1090533..1090892	Phage protein
+llj:LG36_1008	gene	1091089..1092564	pseudogene
+llj:LG36_1011	CDS	1093120..1093371	hypothetical protein
+llj:LG36_t0036	tRNA	1093383..1093456	tRNA-Met
+llj:LG36_1012	CDS	complement(1093628..1094068)	Phage protein
+llj:LG36_t0037	tRNA	1095572..1095656	tRNA-Leu
+llj:LG36_1013	CDS	1096818..1097327	Phage protein
+llj:LG36_1014	CDS	1099654..1100082	yobA; Universal stress protein family
+llj:LG36_1015	CDS	1100179..1100532	Integral membrane protein
+llj:LG36_1016	CDS	complement(1100582..1101271)	TraX family pilus protein
+llj:LG36_1017	CDS	complement(1101455..1102009)	hypothetical protein
+llj:LG36_1018	CDS	1102252..1103082	hypothetical protein
+llj:LG36_1019	CDS	1103253..1103519	hypothetical protein
+llj:LG36_1020	CDS	1103705..1104430	hypothetical protein
+llj:LG36_1021	CDS	1104689..1107325	yoaB; Calcium-transporting ATPase
+llj:LG36_1022	CDS	complement(1107367..1107996)	acmC; Peptidoglycan hydrolase
+llj:LG36_1023	CDS	1108179..1108652	gpo; Glutathione peroxidase
+llj:LG36_1024	CDS	1108964..1112158	carB; Carbamoyl-phosphate synthase large chain
+llj:LG36_1025	CDS	1112574..1113131	rluC; Pseudouridine synthase
+llj:LG36_1026	CDS	complement(1113161..1113946)	hypothetical protein
+llj:LG36_1027	CDS	complement(1113943..1115082)	yniI; ATP/GTP binding protein
+llj:LG36_1028	CDS	complement(1115242..1116453)	hypothetical protein
+llj:LG36_1029	CDS	complement(1116620..1117558)	axe; Acetylxylan esterase
+llj:LG36_1030	CDS	1117657..1118583	hypothetical protein
+llj:LG36_1031	CDS	1118699..1120018	Sugar ABC transporter, substrate-binding protein
+llj:LG36_1032	CDS	1120110..1121003	Sugar ABC transporter, permease protein
+llj:LG36_1033	CDS	1121003..1121839	Sugar ABC transporter, permease protein
+llj:LG36_1034	CDS	1121836..1122390	hypothetical protein
+llj:LG36_1035	CDS	1122383..1123825	Beta-glucosidase
+llj:LG36_1036	CDS	1123882..1124598	Transcriptional regulator, GntR family
+llj:LG36_1037	CDS	1124761..1126125	yniG; Multidrug resistance protein B, MF superfamily
+llj:LG36_1038	CDS	1126526..1127314	pyrZ; Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+llj:LG36_1039	CDS	1127385..1128320	pyrD; Dihydroorotate dehydrogenase
+llj:LG36_1040	CDS	1128458..1129171	pyrF; Orotidine 5'-phosphate decarboxylase
+llj:LG36_1041	CDS	1129173..1129643	hypothetical protein
+llj:LG36_1042	CDS	complement(1129653..1130369)	gidB; Ribosomal RNA small subunit methyltransferase G
+llj:LG36_1043	CDS	complement(1130366..1131325)	Heptaprenyl diphosphate synthase component II
+llj:LG36_1044	CDS	complement(1131316..1131846)	hepS; Heptaprenyl diphosphate synthase component I
+llj:LG36_1045	CDS	complement(1131843..1132250)	hypothetical protein
+llj:LG36_1046	CDS	complement(1132321..1133262)	hasC; UTP-glucose-1-phosphate uridylyltransferase
+llj:LG36_1047	CDS	complement(1133305..1134330)	gpsA; Glycerol-3-phosphate dehydrogenase
+llj:LG36_1048	CDS	1134522..1135148	ynhD; 5-bromo-4-chloroindolyl phosphate hydrolysis protein
+llj:LG36_1049	CDS	1135293..1136471	ynhC; Toxic anion resistance protein
+llj:LG36_1050	CDS	1136644..1137792	nagA; N-acetylglucosamine-6-phosphate deacetylase
+llj:LG36_1051	CDS	1138182..1139204	pfkA; ATP-dependent 6-phosphofructokinase
+llj:LG36_1052	CDS	1139292..1140800	pyk; Pyruvate kinase
+llj:LG36_1053	CDS	1140918..1141895	ldhL; L-lactate dehydrogenase
+llj:LG36_1054	CDS	complement(1142020..1142973)	yngG; Nucleoside ABC transporter, permease protein
+llj:LG36_1055	CDS	complement(1142970..1144064)	yngF; Nucleoside ABC transporter, permease protein
+llj:LG36_1056	CDS	complement(1144057..1145577)	yngE; Nucleoside ABC transporter, ATP-binding protein
+llj:LG36_1057	CDS	complement(1145756..1146571)	23S rRNA m(1)G 745 methyltransferase
+llj:LG36_1058	CDS	complement(1146611..1148233)	yngB; Fibronectin-binding protein A
+llj:LG36_1059	CDS	1148542..1148985	hypothetical protein
+llj:LG36_1060	CDS	1149689..1149853	hypothetical protein
+llj:LG36_1061	CDS	1150081..1150455	ArsC family protein
+llj:LG36_1062	CDS	1150653..1151591	panE; 2-dehydropantoate 2-reductase
+llj:LG36_1063	CDS	1151743..1152915	sbcD; Exonuclease, subunit D
+llj:LG36_1064	CDS	1152918..1156058	sbcC; Exonuclease
+llj:LG36_1065	CDS	1156186..1156413	hypothetical protein
+llj:LG36_1066	CDS	1156889..1161004	yoiC; SclB protein
+llj:LG36_1067	CDS	complement(1161109..1161522)	hypothetical protein
+llj:LG36_1068	CDS	1161795..1162508	mtsB; Manganese ABC transporter, ATP binding protein
+llj:LG36_1069	CDS	1162516..1163370	mtsC; Manganese ABC transporter, permease protein
+llj:LG36_1070	CDS	1163354..1164295	mtsA; Metal ABC transporter substrate-binding lipoprotein
+llj:LG36_1071	CDS	1164462..1165043	pabA; Para-aminobenzoate synthetase component II
+llj:LG36_1072	CDS	1165048..1166934	pabB; Para-aminobenzoate synthase component I
+llj:LG36_1073	CDS	1167117..1167494	hypothetical protein
+llj:LG36_1074	CDS	1167553..1167876	arsD; Arsenical resistance operon trans-acting repressor arsD
+llj:LG36_1075	CDS	complement(1167932..1168468)	hypothetical protein
+llj:LG36_1076	CDS	1168672..1168869	hypothetical protein
+llj:LG36_1077	CDS	1168977..1169750	yneB; Esterase
+llj:LG36_1078	CDS	complement(1169791..1170612)	rlrC; LysR family transcriptional regulator
+llj:LG36_1079	CDS	complement(1170662..1171132)	rmaF; transcriptional regulator, MarR family
+llj:LG36_1080	CDS	1171267..1172913	kivD; Alpha-ketoisovalerate decarboxylase
+llj:LG36_1081	CDS	complement(1172993..1173961)	xylR; Transcriptional regulator/sugar kinase, xylose operon regulator
+llj:LG36_1082	CDS	1174196..1174597	gloA4; Lactoylglutathione lyase
+llj:LG36_1083	CDS	1174615..1175241	Maltose O-acetyltransferase
+llj:LG36_1084	CDS	1175279..1176085	Hydrolase
+llj:LG36_1085	CDS	1176355..1177158	Hydrolase, HAD superfamily
+llj:LG36_1086	CDS	1177360..1177956	pglM; Phosphoglycerate mutase
+llj:LG36_1087	CDS	complement(1178002..1179105)	Di-and tricarboxylate transporter
+llj:LG36_1088	CDS	1179393..1179632	hypothetical protein
+llj:LG36_1089	CDS	1179629..1182208	Type I restriction-modification system, M subunit
+llj:LG36_1090	CDS	1182205..1183377	Type I restriction-modification system, S subunit
+llj:LG36_1091	CDS	1183394..1186483	Type I restriction-modification system, R subunit
+llj:LG36_1092	CDS	1186690..1188537	Sialic acid-specific 9-O-acetylesterase
+llj:LG36_1093	CDS	1188564..1189871	Sugar ABC-type transporter, substrate-binding protein
+llj:LG36_1094	CDS	1189938..1190882	Sugar ABC-type transporter, permease
+llj:LG36_1095	CDS	1190882..1191739	alpha-xyloside ABC transporter, permease component
+llj:LG36_1096	CDS	1191741..1192874	Endoglucanase
+llj:LG36_1097	CDS	1192887..1193513	pda; Polysaccharide deacetylase
+llj:LG36_1098	CDS	1193542..1195536	aguA; AguA protein
+llj:LG36_1099	CDS	1195741..1197489	Metallo-phosphoesterase
+llj:LG36_1100	CDS	1198283..1199728	yndG; Metal ABC transporter, substrate-binding protein
+llj:LG36_1101	CDS	1200029..1201990	internalin
+llj:LG36_1102	CDS	1202065..1202589	hypothetical protein
+llj:LG36_1103	CDS	complement(1202656..1204041)	hypothetical protein
+llj:LG36_1104	CDS	complement(1204034..1204795)	rdrB; Transcriptional regulator, DeoR family
+llj:LG36_1105	CDS	1204973..1205722	hypothetical protein
+llj:LG36_1106	CDS	1205815..1206360	yndA; Acetyltransferase, GNAT family
+llj:LG36_1107	CDS	1206583..1207431	rbgA; Ribosome biogenesis GTPase A
+llj:LG36_1108	CDS	1207543..1208319	rnhB; Ribonuclease HII
+llj:LG36_1109	CDS	1208872..1209702	gadR; Transcriptional regulator, Rgg/GadR/MutR family
+llj:LG36_1110	CDS	1209846..1211357	gadC; Glutamate/gamma-aminobutyrate antiporter
+llj:LG36_1111	CDS	1211378..1212778	gadA; Glutamate decarboxylase
+llj:LG36_1112	CDS	complement(1212892..1213638)	mscS; Small conductance mechanosensitive ion channel, MscS family
+llj:LG36_1113	CDS	1213800..1214822	bcaT; Branched-chain amino acid aminotransferase
+llj:LG36_1114	CDS	complement(1214855..1215466)	yncA; Acetyltransferase
+llj:LG36_1115	CDS	1215635..1220095	gltB; Glutamate synthase [NADPH] large chain
+llj:LG36_1116	CDS	1220095..1221534	gltD; Glutamate synthase [NADPH] small chain
+llj:LG36_1117	CDS	1221651..1222910	lysA; Diaminopimelate decarboxylase
+llj:LG36_1118	CDS	1223062..1223301	ynbE; UPF0154 protein
+llj:LG36_1119	CDS	1223456..1224271	murI; Glutamate racemase
+llj:LG36_1120	CDS	1224272..1224877	ynbD; Non-canonical purine NTP pyrophosphatase
+llj:LG36_1121	CDS	1224925..1225428	ynbC; Phosphoesterase family protein
+llj:LG36_1122	CDS	1225459..1225920	CBS domain containing protein
+llj:LG36_1123	CDS	1225898..1226614	xerD; Tyrosine recombinase
+llj:LG36_1124	CDS	1226644..1227372	scpA; Segregation and condensation protein A
+llj:LG36_1125	CDS	1227365..1227931	scpB; Segregation and condensation protein B
+llj:LG36_1126	CDS	1227909..1228637	rluB; Pseudouridine synthase
+llj:LG36_1127	CDS	1228934..1229674	ynaE; Riboflavin transporter
+llj:LG36_1128	CDS	1229823..1231640	ynaD; Multidrug resistance ABC transporter, ATP-binding and permease protein
+llj:LG36_1129	CDS	1231624..1233450	ynaC; ABC transporter ATP binding and permease protein
+llj:LG36_1130	CDS	1233569..1234327	ynaB; Transcriptional regulator
+llj:LG36_1131	CDS	1234343..1234531	hypothetical protein
+llj:LG36_1132	CDS	1234754..1235269	rplJ; 50S ribosomal protein L10
+llj:LG36_1133	CDS	1235339..1235704	rplL; 50S ribosomal protein L7/L12
+llj:LG36_1134	CDS	complement(1235815..1236513)	hypothetical protein
+llj:LG36_1135	CDS	1237016..1238104	ymjF; UDP-N-acetylglucosamine 2-epimerase
+llj:LG36_1136	CDS	1238094..1240565	ymjE; Glycosyltransferase, family 2
+llj:LG36_1137	CDS	1240851..1241603	thiM; Hydroxyethylthiazole kinase
+llj:LG36_1138	CDS	1241617..1242420	thiD1; Phosphomethylpyrimidine kinase
+llj:LG36_1139	CDS	1242410..1243066	thiE; Thiamine-phosphate synthase
+llj:LG36_1140	CDS	1243403..1244902	dltA; D-alanine--poly(phosphoribitol) ligase subunit 1
+llj:LG36_1141	CDS	1244902..1246125	dltB; Acyltransferase, MBOAT family
+llj:LG36_1142	CDS	1246168..1246407	dltC; D-alanine--poly(phosphoribitol) ligase subunit 2
+llj:LG36_1143	CDS	1246397..1247683	dltD; D-alanine transfer protein DltD
+llj:LG36_1144	CDS	1248163..1250895	mgtA; Cation-transporting P-ATPase
+llj:LG36_1145	CDS	1250989..1251642	ymiA; Iron-dependent repressor
+llj:LG36_1146	CDS	1251782..1254058	metE; 5-methyltetrahydropteroyltriglutamate--homocyste ine methyltransferase
+llj:LG36_1147	CDS	1254060..1254911	metF; Methylenetetrahydrofolate reductase
+llj:LG36_1148	CDS	1255274..1256296	aroH; Phospho-2-dehydro-3-deoxyheptonate aldolase
+llj:LG36_1149	CDS	1256529..1257680	lctO; L-lactate oxidase
+llj:LG36_1150	CDS	complement(1257741..1259216)	amyL; Alpha-amylase
+llj:LG36_1151	CDS	1259454..1260356	hypothetical protein
+llj:LG36_1152	CDS	1260572..1262521	nhaP2; NhaP-type Na+/H+ and K+/H+ antiporter
+llj:LG36_1153	CDS	1262851..1263558	hypothetical protein
+llj:LG36_1154	CDS	1263828..1265294	ymhA; trans-acting positive regulator
+llj:LG36_1155	CDS	1265659..1267155	glpK; Glycerol kinase
+llj:LG36_1156	CDS	1267191..1269020	glpD; Alpha-glycerophosphate oxidase
+llj:LG36_1157	CDS	1269073..1269810	glpF2; Glycerol uptake facilitator protein
+llj:LG36_1158	CDS	complement(1270285..1271127)	ymgK; Oxidoreductase
+llj:LG36_1159	CDS	1271619..1271861	hypothetical protein
+llj:LG36_1160	CDS	1271896..1272456	hypothetical protein
+llj:LG36_1161	CDS	1272466..1272654	hypothetical protein
+llj:LG36_1162	CDS	1272675..1273226	ymgG; General stress protein, Gls24 family
+llj:LG36_1163	CDS	1273351..1274301	Mg2+ and Co2+ transporter, CorA family
+llj:LG36_1164	CDS	1274340..1275269	ceo; N5-(Carboxyethyl)ornithine synthase
+llj:LG36_1165	CDS	complement(1275968..1277131)	major facilitator superfamily transporter
+llj:LG36_1166	CDS	1277348..1278181	Transcription regulator
+llj:LG36_1167	CDS	1278573..1279643	xerC; Tyrosine recombinase XerS
+llj:LG36_1168	CDS	complement(1279688..1281031)	gid; Methylenetetrahydrofolate--tRNA-(uracil-5-)-meth yltransferase
+llj:LG36_1169	CDS	complement(1281103..1283235)	topA; DNA topoisomerase I
+llj:LG36_1170	CDS	complement(1283497..1284345)	dprA; DNA processing protein
+llj:LG36_1171	CDS	complement(1284491..1284871)	aldR; Regulatory protein AldR
+llj:LG36_1172	CDS	complement(1284912..1285622)	aldB; Alpha-acetolactate decarboxylase
+llj:LG36_1173	CDS	complement(1285738..1286988)	ilvA; Threonine dehydratase
+llj:LG36_1174	CDS	complement(1287044..1288066)	ilvC; Ketol-acid reductoisomerase
+llj:LG36_1175	CDS	complement(1288111..1288587)	ilvH; Acetolactate synthase small subunit
+llj:LG36_1176	CDS	complement(1288580..1290307)	ilvB; Acetolactate synthase
+llj:LG36_1177	CDS	complement(1290318..1292030)	ilvD; Dihydroxy-acid dehydratase
+llj:LG36_1178	CDS	complement(1292152..1292931)	ymeB; ABC transporter ATP-binding protein
+llj:LG36_1179	CDS	complement(1292945..1293520)	leuD; 3-isopropylmalate dehydratase small subunit
+llj:LG36_1180	CDS	complement(1293540..1294922)	leuC; 3-isopropylmalate dehydratase large subunit
+llj:LG36_1181	CDS	complement(1295212..1296249)	leuB; 3-isopropylmalate dehydrogenase
+llj:LG36_1182	CDS	complement(1296261..1297802)	leuA; 2-isopropylmalate synthase
+llj:LG36_1183	CDS	1298228..1299187	hypothetical protein
+llj:LG36_1184	CDS	complement(1299201..1300010)	hisK; Histidinol-phosphatase
+llj:LG36_1185	CDS	complement(1300011..1300649)	hisI; Histidine biosynthesis bifunctional protein HisIE
+llj:LG36_1186	CDS	complement(1300646..1301443)	hisF; Imidazole glycerol phosphate synthase subunit HisF
+llj:LG36_1187	CDS	complement(1301415..1302134)	hisA; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)m ethylideneamino] imidazole-4-carboxamide isomerase
+llj:LG36_1188	CDS	complement(1302134..1302736)	hisH; Imidazole glycerol phosphate synthase subunit HisH
+llj:LG36_1189	CDS	complement(1302737..1303339)	hisB; Imidazoleglycerol-phosphate dehydratase
+llj:LG36_1190	CDS	complement(1303336..1304139)	SAM-dependent methyltransferase
+llj:LG36_1191	CDS	complement(1304181..1305473)	hisD; Histidinol dehydrogenase
+llj:LG36_1192	CDS	complement(1305457..1306083)	hisG; ATP phosphoribosyltransferase
+llj:LG36_1193	CDS	complement(1306076..1307062)	hisZ; ATP phosphoribosyltransferase regulatory subunit
+llj:LG36_1194	CDS	complement(1307050..1308132)	hisC; Histidinol-phosphate aminotransferase
+llj:LG36_1195	CDS	complement(1308603..1310600)	vacB2; Ribonuclease R
+llj:LG36_1196	CDS	complement(1310636..1312234)	ymcF; Internalin
+llj:LG36_1197	CDS	complement(1312292..1312639)	Transcriptional regulator, xre family
+llj:LG36_1198	CDS	complement(1313013..1313546)	hypothetical protein
+llj:LG36_1199	CDS	complement(1313715..1314344)	kdpC; Potassium-transporting ATPase C chain
+llj:LG36_1200	CDS	complement(1314362..1316440)	kdpB; Potassium-transporting ATPase B chain
+llj:LG36_1201	CDS	complement(1316437..1318164)	kdpA; Potassium-transporting ATPase A chain
+llj:LG36_1202	CDS	complement(1318501..1319211)	kdpE; Osmosensitive K+ channel response regulator
+llj:LG36_1203	CDS	complement(1319201..1321831)	kdpD; Osmosensitive K+ channel histidine kinase KdpD
+llj:LG36_1204	CDS	complement(1322475..1324139)	als; Alpha-acetolactate synthase
+llj:LG36_1205	CDS	complement(1324294..1325550)	yljJ; TPR repeat-containing protein, Tetratricopeptiderepeat family
+llj:LG36_1206	CDS	complement(1325578..1326750)	hypothetical protein
+llj:LG36_1207	CDS	complement(1326817..1327437)	yljG; SAM-dependent methyltransferase
+llj:LG36_1208	CDS	complement(1327439..1329046)	yljF; NAD(FAD)-utilizing dehydrogenase
+llj:LG36_1209	CDS	complement(1329083..1330465)	rumA1; 23S rRNA uracil-5-methyltransferase
+llj:LG36_1210	CDS	complement(1330588..1330833)	hypothetical protein
+llj:LG36_1211	CDS	1331008..1331703	nanE; N-acetylmannosamine-6-phosphate 2-epimerase
+llj:LG36_1212	CDS	complement(1331763..1334285)	Cation-transporting ATPase
+llj:LG36_1213	CDS	complement(1334783..1336246)	clsB; Cardiolipin synthetase
+llj:LG36_1214	CDS	complement(1336888..1337955)	Spermidine/putrescine ABC transporter, substrate-binding protein PotD
+llj:LG36_1215	CDS	complement(1338003..1338803)	potC; Spermidine/putrescine ABC transporter, permease protein PotC
+llj:LG36_1216	CDS	complement(1338805..1339593)	potB; Spermidine/putrescine ABC transporter, permease protein PotB
+llj:LG36_1217	CDS	complement(1339590..1340876)	potA; Spermidine/putrescine import ATP-binding proteinPotA
+llj:LG36_1218	CDS	1341179..1341355	hypothetical protein
+llj:LG36_1219	CDS	complement(1341529..1342428)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+llj:LG36_1220	CDS	complement(1342471..1343070)	hypothetical protein
+llj:LG36_1221	CDS	complement(1343324..1344214)	thrB; Homoserine kinase
+llj:LG36_1222	CDS	complement(1344219..1345505)	hom; Homoserine dehydrogenase
+llj:LG36_1223	CDS	complement(1345682..1346320)	dukB; Deoxyguanosine kinase
+llj:LG36_1224	CDS	complement(1346450..1347733)	folC; Folylpolyglutamate synthase
+llj:LG36_1225	CDS	complement(1347752..1348249)	folQ; Dihydroneopterin triphosphate pyrophosphohydrolase
+llj:LG36_1226	CDS	complement(1348252..1349325)	folP; Dihydropteroate synthase
+llj:LG36_1227	CDS	complement(1349322..1350371)	folKE; GTP cyclohydrolase 1
+llj:LG36_1228	CDS	complement(1350451..1350801)	folB; Dihydroneopterin aldolase
+llj:LG36_1229	CDS	complement(1350855..1351442)	hypothetical protein
+llj:LG36_1230	CDS	complement(1351439..1352605)	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX
+llj:LG36_1231	CDS	complement(1352752..1352922)	hypothetical protein
+llj:LG36_1232	CDS	complement(1352919..1353425)	dfrA; Dihydrofolate reductase
+llj:LG36_1233	CDS	1353814..1354332	hypothetical protein
+llj:LG36_1234	CDS	1354453..1354866	hypothetical protein
+llj:LG36_1235	CDS	complement(1354895..1356199)	pbuX; Xanthine permease
+llj:LG36_1236	CDS	complement(1356248..1356841)	xpt; Xanthine phosphoribosyltransferase
+llj:LG36_1237	CDS	complement(1357113..1358102)	GMP reductase
+llj:LG36_1238	CDS	complement(1358362..1358979)	hypothetical protein
+llj:LG36_1239	CDS	complement(1359082..1359855)	ylfH; Hydrolase, HAD superfamily
+llj:LG36_1240	CDS	complement(1359905..1360633)	ylfFG; Acyl-[acyl-carrier-protein] hydrolase
+llj:LG36_1241	CDS	complement(1360730..1361173)	dcdA; dCMP deaminase
+llj:LG36_1242	CDS	complement(1361276..1362079)	ylfD; Phage lysin, glycosyl hydrolase, family 25
+llj:LG36_1243	CDS	complement(1362138..1363277)	hemN; Oxygen-independent coproporphyrinogen-III oxidase
+llj:LG36_1244	CDS	complement(1363457..1363984)	lbrB; Co-activator of prophage LbrB
+llj:LG36_1245	CDS	complement(1363966..1365303)	hypothetical protein
+llj:LG36_1246	CDS	complement(1365531..1366103)	hypothetical protein
+llj:LG36_1247	CDS	complement(1366152..1367123)	pacA; Penicillin acylase
+llj:LG36_1248	CDS	complement(1367342..1368100)	tpiA; Triosephosphate isomerase
+llj:LG36_1249	CDS	complement(1368231..1369082)	yleF; Sialic acid utilization regulator, RpiR family
+llj:LG36_1250	CDS	complement(1369144..1371096)	yleD; Sucrose-specific PTS system IIBC component
+llj:LG36_1251	CDS	complement(1371131..1372024)	murQ; N-acetylmuramic acid 6-phosphate etherase
+llj:LG36_1252	CDS	complement(1372017..1373078)	hypothetical protein
+llj:LG36_1253	CDS	complement(1373237..1374208)	ldhX; L-lactate dehydrogenase
+llj:LG36_1254	CDS	complement(1374306..1375208)	ribF; Riboflavin kinase/FMN adenylyltransferase
+llj:LG36_1255	CDS	complement(1375239..1376228)	truB; tRNA pseudouridine synthase B
+llj:LG36_1256	CDS	complement(1376370..1377062)	hypothetical protein
+llj:LG36_1257	CDS	complement(1377225..1378733)	frdC; Fumarate reductase flavoprotein subunit
+llj:LG36_1258	CDS	complement(1378898..1379356)	yldC; Glyoxalase family protein
+llj:LG36_1259	CDS	complement(1379434..1380006)	tag; DNA-3-methyladenine glycosylase
+llj:LG36_1260	CDS	complement(1380053..1380520)	mutX; Phosphohydrolase, MutT/nudix family protein
+llj:LG36_1261	CDS	complement(1380540..1382816)	pcrA; ATP-dependent DNA helicase II
+llj:LG36_1262	CDS	complement(1383691..1384320)	hypothetical protein
+llj:LG36_1263	CDS	complement(1384307..1387072)	Lysyl-tRNA synthetase
+llj:LG36_1264	CDS	complement(1387194..1388438)	hypothetical protein
+llj:LG36_1265	CDS	complement(1388667..1389413)	srtA; Sortase
+llj:LG36_1266	CDS	complement(1389532..1390617)	Iron-sulfur cluster assembly/repair protein ApbE
+llj:LG36_1267	CDS	complement(1390701..1393211)	gyrA; DNA gyrase subunit A
+llj:LG36_1268	CDS	complement(1393437..1394903)	ylcA; Amino acid permease
+llj:LG36_1269	CDS	complement(1395076..1395711)	ylbE; NAD-dependent epimerase/dehydratase family protein
+llj:LG36_1270	CDS	complement(1395778..1397601)	lepA; Elongation factor 4
+llj:LG36_1271	CDS	complement(1397888..1398553)	aldC; Alpha-acetolactate decarboxylase
+llj:LG36_1272	CDS	1398664..1400013	ylbD; UDP-N-acetylmuramyl tripeptide synthase
+llj:LG36_1273	CDS	1400014..1400799	cobQ; CobB/CobQ-like glutamine amidotransferase
+llj:LG36_1274	CDS	complement(1400875..1403556)	ylbB; ABC transporter permease protein
+llj:LG36_1275	CDS	complement(1403560..1404261)	ylbA; ABC transporter, ATP-binding protein
+llj:LG36_1276	CDS	complement(1404391..1405215)	nadE; NH(3)-dependent NAD(+) synthetase
+llj:LG36_1277	CDS	complement(1405276..1405764)	ylaG; Acetyltransferase, GNAT family
+llj:LG36_1278	CDS	complement(1405761..1407248)	nadC; Nicotinate phosphoribosyltransferase
+llj:LG36_1279	CDS	1407774..1408361	hypothetical protein
+llj:LG36_1280	CDS	complement(1408384..1409595)	Chloride channel protein, ClC family
+llj:LG36_1281	CDS	complement(1409806..1410048)	hypothetical protein
+llj:LG36_1282	CDS	complement(1410159..1412180)	glyS; Glycine-tRNA ligase beta subunit
+llj:LG36_1283	CDS	complement(1412180..1413133)	glyQ; Glycine-tRNA ligase alpha subunit
+llj:LG36_1284	CDS	complement(1413418..1414164)	nucA; 5'-nucleotidase
+llj:LG36_1285	CDS	complement(1414278..1415297)	hypothetical protein
+llj:LG36_1286	CDS	complement(1415345..1415842)	ykjJ; VanZ family protein
+llj:LG36_1287	CDS	complement(1415976..1416605)	hypothetical protein
+llj:LG36_1288	CDS	1416662..1417984	comFA; Competence protein ComFA
+llj:LG36_1289	CDS	1417981..1418631	comFC; COMF operon competence protein 3
+llj:LG36_1290	CDS	complement(1418666..1419244)	hypothetical protein
+llj:LG36_1291	CDS	complement(1419258..1419713)	dgkA; Diacylglycerol kinase
+llj:LG36_1292	CDS	complement(1419697..1420185)	ykjF; Endoribonuclease YbeY
+llj:LG36_1293	CDS	complement(1420337..1420816)	ykjE; Phosphohydrolase, MutT/nudix family
+llj:LG36_1294	CDS	complement(1420874..1421842)	phoH; Phosphate starvation inducible protein
+llj:LG36_1295	CDS	complement(1421944..1423476)	Divalent metal cation transporter
+llj:LG36_1296	CDS	complement(1423754..1424038)	rpmA; 50S ribosomal protein L27
+llj:LG36_1297	CDS	complement(1424040..1424375)	ykjA; Ribosome-associated protein
+llj:LG36_1298	CDS	complement(1424378..1424692)	rplU; 50S ribosomal protein L21
+llj:LG36_1299	CDS	complement(1424862..1426037)	ykiI; ABC transporter, permease protein
+llj:LG36_1300	CDS	complement(1426030..1426437)	hypothetical protein
+llj:LG36_1301	CDS	1426606..1427967	ykiG; dGTP triphosphohydrolase
+llj:LG36_1302	CDS	1428014..1428829	ykiF; Hydrolase, HAD superfamily
+llj:LG36_1303	CDS	1428951..1429316	hypothetical protein
+llj:LG36_1304	CDS	complement(1429355..1430128)	hypothetical protein
+llj:LG36_1305	CDS	complement(1430125..1430817)	hypothetical protein
+llj:LG36_1306	CDS	complement(1430810..1431466)	nth; Endonuclease III
+llj:LG36_1307	CDS	complement(1431488..1432156)	dnaD; DNA replication protein DnaD
+llj:LG36_1308	CDS	complement(1432560..1433885)	pyrC; Dihydroorotase
+llj:LG36_1309	CDS	complement(1433986..1434615)	pyrE; Orotate phosphoribosyltransferase
+llj:LG36_1310	CDS	complement(1434958..1435137)	hypothetical protein
+llj:LG36_1311	CDS	complement(1435409..1435591)	hypothetical protein
+llj:LG36_1312	CDS	complement(1435601..1436332)	hypothetical protein
+llj:LG36_1313	CDS	complement(1436579..1437436)	ykhG; Transcriptional regulator, Rgg/GadR/MutR family
+llj:LG36_1314	CDS	complement(1438244..1438615)	hypothetical protein
+llj:LG36_1315	CDS	complement(1438612..1439451)	hypothetical protein
+llj:LG36_1316	CDS	complement(1439601..1441508)	ykhF; ABC transporter ATP-binding protein
+llj:LG36_1317	CDS	complement(1441686..1442078)	ykhE; Arsenate reductase family protein
+llj:LG36_1318	CDS	1442304..1442954	rex; Redox-sensing transcriptional repressor Rex
+llj:LG36_1319	CDS	complement(1443041..1443721)	radC; DNA repair protein RadC
+llj:LG36_1320	CDS	complement(1443852..1445669)	glmS; Glucosamine-fructose-6-phosphate aminotransferase
+llj:LG36_1321	CDS	complement(1445850..1446506)	ykdB; Membrane-associated phospholipid phosphatase, PAP2 superfamily
+llj:LG36_1322	CDS	complement(1446513..1447838)	kinE; Histidine kinase
+llj:LG36_1323	CDS	complement(1447842..1448357)	hypothetical protein
+llj:LG36_1324	CDS	complement(1448377..1449063)	Two-component system response regulator
+llj:LG36_1325	CDS	complement(1449189..1450145)	ykcG; Polyprenyl-phosphate glycosyltransferase
+llj:LG36_1326	CDS	complement(1450148..1451770)	hypothetical protein
+llj:LG36_1327	CDS	complement(1451910..1452353)	hypothetical protein
+llj:LG36_1328	CDS	complement(1452499..1453404)	rluD; Pseudouridine synthase
+llj:LG36_1329	CDS	complement(1453466..1453918)	lspA; Lipoprotein signal peptidase
+llj:LG36_1330	CDS	complement(1454021..1454485)	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+llj:LG36_1331	CDS	complement(1454513..1455709)	ribA; Riboflavin biosynthesis protein RibBA
+llj:LG36_1332	CDS	complement(1455718..1456368)	ribB; Riboflavin synthase, alpha chain
+llj:LG36_1333	CDS	complement(1456368..1457456)	ribG; Riboflavin biosynthesis protein RibD
+llj:LG36_1334	CDS	complement(1457914..1458420)	hypothetical protein
+llj:LG36_1335	CDS	complement(1458430..1459107)	hypothetical protein
+llj:LG36_1336	CDS	complement(1459158..1459820)	hypothetical protein
+llj:LG36_1337	gene	complement(1459814..1463123)	pseudogene
+llj:LG36_1339	CDS	1463336..1464241	Mg2+ and Co2+ transporter, CorA family
+llj:LG36_1340	CDS	complement(1464268..1466742)	parC; DNA topoisomerase 4 subunit A
+llj:LG36_1341	CDS	complement(1467018..1467467)	ykbA; Acetyltransferase, GNAT family
+llj:LG36_1342	CDS	complement(1467464..1468297)	dnaQ; DNA polymerase III, epsilon chain
+llj:LG36_1343	CDS	complement(1468290..1468829)	ykaF; Isochorismatase
+llj:LG36_1344	CDS	complement(1469034..1470968)	parE; DNA topoisomerase 4 subunit B
+llj:LG36_1345	CDS	1471245..1471883	ykaC; Glycerol-3-phosphate acyltransferase
+llj:LG36_1346	CDS	1472057..1472275	ndrH; Ribonucleoside reductase, glutaredoxin subunit
+llj:LG36_1347	CDS	1472277..1472699	nrdl; Protein NrdI
+llj:LG36_1348	CDS	1472835..1475003	nrdE; Ribonucleoside-diphosphate reductase
+llj:LG36_1349	CDS	1475353..1476330	nrdF; Ribonucleoside-diphosphate reductase subunit beta
+llj:LG36_1350	CDS	1476532..1484019	hypothetical protein
+llj:LG36_1351	CDS	complement(1484092..1485027)	ftsX; Cell division protein FtsX
+llj:LG36_1352	CDS	complement(1485020..1485712)	ftsE; Cell division ATP-binding protein FtsE
+llj:LG36_1353	CDS	complement(1486040..1487137)	prfB; Peptide chain release factor 2
+llj:LG36_1354	CDS	1487254..1488159	yjjH; Phosphoesterase, calcineurin-like family
+llj:LG36_1355	CDS	1488324..1488854	hypothetical protein
+llj:LG36_1356	CDS	complement(1488884..1489678)	yjjF; Formate/nitrite transporter, FNT family
+llj:LG36_1357	CDS	complement(1489823..1490194)	hypothetical protein
+llj:LG36_1358	CDS	complement(1490333..1491955)	yjjD; ABC transporter, permease protein
+llj:LG36_1359	CDS	complement(1491966..1492844)	yjjC; ABC transporter, ATP-binding protein
+llj:LG36_1360	CDS	1493000..1493557	yjjB; Transcriptional regulator, TetR family
+llj:LG36_1361	CDS	complement(1493600..1494517)	hypothetical protein
+llj:LG36_1362	CDS	complement(1494622..1495605)	hypothetical protein
+llj:LG36_1363	CDS	complement(1495602..1496489)	hypothetical protein
+llj:LG36_1364	CDS	complement(1496569..1498014)	clsA; Cardiolipin synthetase
+llj:LG36_1365	CDS	complement(1498101..1500008)	fruA; PTS system, fructose-specific IIABC component
+llj:LG36_1366	CDS	complement(1500005..1500922)	fruB; Tagatose-6-phosphate kinase
+llj:LG36_1367	CDS	complement(1501005..1501706)	fruR; Fructose/lactose transport transcriptional regulator, DeoR family
+llj:LG36_1368	CDS	complement(1501827..1502966)	yjiB; N-acyl-L-amino acid amidohydrolase
+llj:LG36_1369	CDS	complement(1503033..1504796)	lai; Linoleate isomerase
+llj:LG36_1370	CDS	complement(1505008..1506831)	dnaK; Chaperone protein DnaK
+llj:LG36_1371	CDS	complement(1506903..1507442)	grpE; Heat shock protein GrpE
+llj:LG36_1372	CDS	complement(1507472..1508515)	hrcA; Heat-inducible transcription repressor HrcA
+llj:LG36_1373	CDS	complement(1508738..1509142)	hypothetical protein
+llj:LG36_1374	CDS	complement(1509156..1509902)	dacB; D-alanyl-D-alanine metallocarboxypeptidase
+llj:LG36_1375	CDS	complement(1509902..1510594)	yjhF; Phosphoglycerate mutase
+llj:LG36_1376	CDS	complement(1510662..1511201)	hypothetical protein
+llj:LG36_1377	CDS	complement(1511241..1512578)	hypothetical protein
+llj:LG36_1378	CDS	complement(1512692..1512955)	hypothetical protein
+llj:LG36_1379	CDS	1513109..1514050	yjhB; Prenyltransferase, UbiA superfamily
+llj:LG36_1380	CDS	complement(1514076..1515134)	yjhA; Endonuclease/exonuclease/phosphatase family protein
+llj:LG36_1381	CDS	complement(1515214..1515801)	yjgF; Isochorismatase family protein
+llj:LG36_1382	CDS	complement(1515820..1518273)	rnr; Ribonuclease R
+llj:LG36_1383	CDS	complement(1518523..1518771)	secG; Preprotein translocase subunit SecG
+llj:LG36_1384	CDS	complement(1518914..1519840)	trxB; Thioredoxin reductase
+llj:LG36_1385	CDS	complement(1520035..1520262)	hypothetical protein
+llj:LG36_1386	CDS	complement(1520264..1521016)	yjgE; Amino acid transport, ATP-binding protein
+llj:LG36_1387	CDS	complement(1521028..1521915)	yjgD; Amino acid ABC transporter, permease protein
+llj:LG36_1388	CDS	complement(1522178..1523023)	yjgC; Amino acid ABC transporter, substrate-binding protein
+llj:LG36_1389	CDS	complement(1523163..1523756)	yjgB; Gamma-D-glutamyl-meso-diaminopimelate peptidase I, NlpC/P60 family
+llj:LG36_1390	CDS	complement(1523865..1525532)	fhs; Formate-tetrahydrofolate ligase
+llj:LG36_1391	CDS	complement(1525687..1526013)	hypothetical protein
+llj:LG36_1392	CDS	complement(1526097..1526543)	hypothetical protein
+llj:LG36_1393	CDS	complement(1526682..1527386)	deoD; Purine nucleoside phosphorylase DeoD-type
+llj:LG36_1394	CDS	complement(1527457..1527726)	hypothetical protein
+llj:LG36_1395	CDS	complement(1527787..1529022)	deoB; Phosphopentomutase
+llj:LG36_1396	CDS	complement(1529208..1530128)	yjfE; LytR family transcriptional regulator
+llj:LG36_1397	CDS	complement(1530139..1531254)	tagB; Teichoic acid biosynthesis protein B
+llj:LG36_1398	CDS	complement(1531244..1532431)	tagF; CDP-glycerol glycerophosphotransferase
+llj:LG36_1399	CDS	complement(1532452..1532883)	hypothetical protein
+llj:LG36_1400	CDS	complement(1532920..1533360)	tagD; Glycerol-3-phosphate cytidyltransferase
+llj:LG36_1401	CDS	complement(1533412..1534590)	hypothetical protein
+llj:LG36_1402	CDS	complement(1534695..1535702)	Glycosyl hydrolase, family 43
+llj:LG36_1403	CDS	complement(1535702..1536988)	GDSL-like Lipase/Acylhydrolase
+llj:LG36_1404	CDS	complement(1536981..1538111)	glf; UDP-galactopyranose mutase
+llj:LG36_1405	CDS	complement(1538129..1539379)	Polysaccharide biosynthesis protein
+llj:LG36_1406	CDS	complement(1539402..1542089)	ggaB; Glycosyl transferase, family 2
+llj:LG36_1407	CDS	complement(1542121..1543458)	hypothetical protein
+llj:LG36_1408	CDS	complement(1543455..1544465)	hypothetical protein
+llj:LG36_1409	CDS	complement(1544449..1546650)	Glycosyl transferase, family 2
+llj:LG36_1410	CDS	complement(1546673..1548154)	Glycosyl transferase, family 2
+llj:LG36_1411	CDS	complement(1548167..1548976)	tagG; Teichoic acid ABC transporter, permease protein
+llj:LG36_1412	CDS	complement(1548985..1550424)	tagH; Teichoic acid ABC transporter, ATP-binding protein
+llj:LG36_1413	CDS	complement(1550482..1551393)	tagL; Exopolysaccharide biosynthesis protein
+llj:LG36_1414	CDS	complement(1551723..1552442)	hypothetical protein
+llj:LG36_1415	CDS	complement(1552442..1553986)	yjdE; Multidrug resistance protein B, MF superfamily
+llj:LG36_1416	CDS	complement(1553979..1554443)	yjdC; Transcriptional regulator, MarR family
+llj:LG36_1417	CDS	complement(1554586..1555239)	hypothetical protein
+llj:LG36_1418	CDS	complement(1555372..1556109)	yjdA; SAM-dependent methyltransferase
+llj:LG36_1419	CDS	complement(1556317..1556505)	hypothetical protein
+llj:LG36_1420	CDS	complement(1556778..1558733)	gyrB; DNA gyrase subunit B
+llj:LG36_1421	CDS	complement(1558886..1559533)	yjcF; Hydrolase, HAD superfamily
+llj:LG36_1422	CDS	complement(1559587..1560678)	hypothetical protein
+llj:LG36_1423	CDS	complement(1560759..1561691)	yjcD; Transporter, drug/metabolite exporter family
+llj:LG36_1424	CDS	complement(1562002..1563279)	mleP; Malate/lactate antiporter
+llj:LG36_1425	CDS	complement(1563294..1564916)	mleS; NAD-dependent malic enzyme
+llj:LG36_1426	CDS	complement(1565334..1566875)	yjcA; ABC transporter, ATP-binding protein
+llj:LG36_1427	CDS	complement(1566961..1567122)	hypothetical protein
+llj:LG36_1428	CDS	complement(1567396..1568157)	butA; Acetoin dehydrogenase
+llj:LG36_1429	CDS	complement(1568182..1569252)	butB; (R,R)-butanediol dehydrogenase
+llj:LG36_1430	CDS	complement(1569478..1570722)	rodA; Rod shape-determining protein RodA
+llj:LG36_1431	CDS	complement(1570944..1571549)	hypothetical protein
+llj:LG36_1432	CDS	complement(1571546..1571977)	yjbE; General stress protein with S1-type RNA-binding domain
+llj:LG36_1433	CDS	complement(1571979..1572569)	ppiB; Peptidyl-prolyl cis-trans isomerase
+llj:LG36_1434	CDS	complement(1572672..1573481)	yjbC; Hydrolase, HAD superfamily, Cof subfamily
+llj:LG36_1435	CDS	complement(1573552..1574181)	llrD; Two-component system regulator
+llj:LG36_1436	CDS	complement(1574209..1575207)	Two-component system sensor histidine kinase
+llj:LG36_1437	CDS	complement(1575204..1575833)	hypothetical protein
+llj:LG36_1438	CDS	complement(1575999..1576268)	rpsN; 30S ribosomal protein S14
+llj:LG36_1439	CDS	complement(1576366..1577664)	yjaJ; Transcriptional regulator, LytR family
+llj:LG36_1440	CDS	complement(1577695..1578894)	ftsW2; Cell division protein FtsW
+llj:LG36_1441	CDS	complement(1580702..1581535)	Glyoxalase/dioxygenase superfamily protein
+llj:LG36_1442	CDS	complement(1581864..1583183)	Peptidoglycan hydrolase with CHAP domain
+llj:LG36_1443	CDS	complement(1583369..1583944)	NADP oxidoreductase, coenzyme F420-dependent
+llj:LG36_1444	CDS	complement(1584684..1585640)	hypothetical protein
+llj:LG36_1445	CDS	complement(1585637..1586128)	hypothetical protein
+llj:LG36_1446	CDS	complement(1586145..1587191)	hypothetical protein
+llj:LG36_1447	CDS	complement(1587196..1587687)	hypothetical protein
+llj:LG36_1448	CDS	1588461..1589414	feuA; ABC-type Fe3+-siderophore transport system, Fe3+-siderophore binding protein
+llj:LG36_1449	CDS	1589433..1590419	feuB; ABC-type Fe3+-siderophore transport system, permease component
+llj:LG36_1450	CDS	1590420..1591457	feuC; ABC-type Fe3+-siderophore transport system, permease component
+llj:LG36_1451	CDS	1591441..1592190	Alpha/beta hydrolase family protein
+llj:LG36_1452	CDS	1592210..1592989	feuD; ABC-type cobalamin/Fe3+-siderophores transporter, ATPase component
+llj:LG36_1453	CDS	complement(1593655..1593807)	hypothetical protein
+llj:LG36_1454	CDS	complement(1593952..1594284)	hipothetical protein
+llj:LG36_1455	CDS	complement(1594470..1596869)	yjaE; ABC transporter, phage infection protein
+llj:LG36_1456	CDS	1597034..1597567	yjaD; Transcriptional regulator, TetR family
+llj:LG36_1457	CDS	complement(1597635..1597982)	hslB; HU-like DNA-binding protein
+llj:LG36_1458	CDS	complement(1598104..1598529)	yjaB; Universal stress protein family
+llj:LG36_1459	CDS	1598787..1598942	hypothetical protein
+llj:LG36_1460	CDS	complement(1599059..1599790)	Nicotinamide mononucleotide transporter / N-ribosylnicotinamide transporter
+llj:LG36_1461	CDS	complement(1599988..1600524)	hypothetical protein
+llj:LG36_1462	CDS	complement(1600748..1602076)	glycosyl transferase
+llj:LG36_1463	CDS	complement(1602069..1602578)	yijF; Glutamate synthase (NADPH) small chain
+llj:LG36_1464	CDS	complement(1602876..1603220)	rplS; 50S ribosomal protein L19
+llj:LG36_1465	CDS	complement(1603359..1604033)	yijE; GTP pyrophosphokinase, RelA/SpoT superfamily
+llj:LG36_1466	CDS	complement(1604272..1605147)	mleR; Transcriptional activator, malolactic fermentation system
+llj:LG36_1467	CDS	complement(1605305..1605967)	yijD; ABC transporter, ATP-binding protein
+llj:LG36_1468	CDS	complement(1606072..1607589)	yijC; ABC transporter, permease protein
+llj:LG36_1469	CDS	complement(1607726..1608004)	hypothetical protein
+llj:LG36_1470	CDS	complement(1608203..1609192)	mraY; Phospho-N-acetylmuramoyl-pentapeptide-transferas e
+llj:LG36_1471	CDS	complement(1609257..1611548)	pbpX; Cell division specific D,D-transpeptidase FtsI
+llj:LG36_1472	CDS	complement(1611545..1611925)	ftsL; Cell division protein FtsL, DivIC superfamily
+llj:LG36_1473	CDS	complement(1612090..1613043)	mraW; Ribosomal RNA small subunit methyltransferase H
+llj:LG36_1474	CDS	complement(1613277..1614203)	hypothetical protein
+llj:LG36_1475	CDS	complement(1614227..1614748)	hypothetical protein
+llj:LG36_1476	CDS	complement(1614846..1615412)	hypothetical protein
+llj:LG36_1477	CDS	complement(1616141..1617808)	recN; DNA repair protein RecN
+llj:LG36_1478	CDS	complement(1617957..1618403)	ahrC; Arginine repressor
+llj:LG36_1479	CDS	complement(1618400..1619206)	hypothetical protein
+llj:LG36_1480	CDS	complement(1619289..1619783)	GNAT family acetyltransferase
+llj:LG36_1481	CDS	complement(1619784..1620641)	ispA; Dimethylallyltransferase/geranyltranstransferase 
+llj:LG36_1482	CDS	complement(1620722..1621879)	yihF; Glycerate kinase
+llj:LG36_1483	CDS	complement(1622028..1622228)	xseB; Exodeoxyribonuclease 7 small subunit
+llj:LG36_1484	CDS	complement(1622267..1623520)	xseA; Exodeoxyribonuclease 7 large subunit
+llj:LG36_1485	CDS	complement(1623687..1624541)	folD; Bifunctional protein FolD
+llj:LG36_1486	CDS	complement(1624624..1627917)	hypothetical protein
+llj:LG36_1487	CDS	1628118..1630214	copB; Copper-potassium transporting ATPase B
+llj:LG36_1488	CDS	complement(1630267..1630824)	hypothetical protein
+llj:LG36_1489	CDS	complement(1630961..1631377)	hypothetical protein
+llj:LG36_1490	CDS	complement(1631400..1631897)	hypothetical protein
+llj:LG36_1491	CDS	complement(1631908..1632417)	hypothetical protein
+llj:LG36_1492	CDS	complement(1632445..1632873)	hypothetical protein
+llj:LG36_1493	CDS	complement(1632970..1633131)	hypothetical protein
+llj:LG36_1494	CDS	complement(1633629..1636076)	hypothetical protein
+llj:LG36_1495	CDS	complement(1636256..1637302)	ypjA; Zinc-binding alcohol dehydrogenase
+llj:LG36_1496	CDS	complement(1637416..1637685)	hypothetical protein
+llj:LG36_1497	CDS	complement(1637745..1638452)	hypothetical protein
+llj:LG36_1498	CDS	complement(1638569..1639504)	pydA; Dihydroorotate dehydrogenase
+llj:LG36_1499	CDS	complement(1640149..1641123)	ypjF; oxidoreductase
+llj:LG36_1500	CDS	complement(1641149..1641331)	hypothetical protein
+llj:LG36_1501	CDS	complement(1641338..1643209)	ypjG; ABC transporter, ATP-binding protein
+llj:LG36_1502	CDS	complement(1643336..1644310)	cmhR; Transcriptional regulator, LysR family
+llj:LG36_1503	CDS	complement(1644408..1645484)	gldA; Glycerol dehydrogenase
+llj:LG36_1504	CDS	complement(1645588..1646124)	hypothetical protein
+llj:LG36_1505	CDS	complement(1646238..1647662)	pepDB; Dipeptidase
+llj:LG36_1506	CDS	complement(1647778..1648974)	papL; CCA-adding enzyme
+llj:LG36_1507	CDS	complement(1649194..1649730)	yqaB; Acetyltransferase, GNAT family
+llj:LG36_1508	CDS	complement(1649779..1650561)	dapB; 4-hydroxy-tetrahydrodipicolinate reductase
+llj:LG36_1509	CDS	complement(1650662..1651507)	hypothetical protein
+llj:LG36_1510	CDS	complement(1651525..1651917)	hypothetical protein
+llj:LG36_1511	CDS	complement(1652042..1652785)	trmD; tRNA (Guanine-N(1)-)-methyltransferase
+llj:LG36_1512	CDS	complement(1652790..1653305)	rimM; Ribosome maturation factor RimM
+llj:LG36_1513	CDS	complement(1653458..1654270)	Pyrroline-5-carboxylate reductase
+llj:LG36_1514	CDS	complement(1654343..1655347)	hypothetical protein
+llj:LG36_1515	CDS	1655575..1656450	DNA-binding response regulator, AraC family
+llj:LG36_1516	CDS	complement(1656514..1657368)	yqaG; Lysophospholipase L2
+llj:LG36_1517	CDS	complement(1657482..1658426)	hemH; Ferrochelatase
+llj:LG36_1518	CDS	complement(1658687..1658926)	yqbA; UPF0109 protein yqbA
+llj:LG36_1519	CDS	complement(1659024..1659296)	rpsP; 30S ribosomal protein S16
+llj:LG36_1520	CDS	complement(1659385..1660617)	mvaA; 3-hydroxy-3-methylglutaryl-coenzyme A reductase
+llj:LG36_1521	CDS	complement(1660698..1661858)	thiL; Acetyl-CoA C-acetyltransferase
+llj:LG36_1522	CDS	1662147..1663301	hmcM; Hydroxymethylglutaryl-CoA synthase
+llj:LG36_1523	CDS	complement(1663362..1664069)	nagB; Glucosamine-6-phosphate deaminase
+llj:LG36_1524	CDS	complement(1664221..1665183)	yqbF; Alpha/beta hydrolase
+llj:LG36_1525	CDS	1665479..1666516	queA; S-adenosylmethionine tRNA ribosyltransferase
+llj:LG36_1526	CDS	complement(1666592..1666903)	yqbH; XRE family transcriptional regulator
+llj:LG36_1527	CDS	complement(1666985..1668157)	csc2A; cell surface protein precursor
+llj:LG36_1528	CDS	complement(1668280..1673190)	csc2C; Cell surface protein with WxL domain
+llj:LG36_1529	CDS	complement(1673266..1674021)	csc2B1; Cell surface protein with WxL domain
+llj:LG36_1530	CDS	complement(1674059..1674778)	hypothetical protein
+llj:LG36_1531	CDS	complement(1674855..1675646)	hypothetical protein
+llj:LG36_1532	CDS	complement(1675675..1676520)	hypothetical protein
+llj:LG36_1533	CDS	complement(1676581..1676886)	csc2D; Cell surface protein, LPXTG-anchored
+llj:LG36_1534	CDS	1677470..1678087	hypothetical protein
+llj:LG36_1535	CDS	complement(1678105..1678272)	hypothetical protein
+llj:LG36_1536	CDS	complement(1678300..1679613)	cgtA; GTPase CgtA
+llj:LG36_1537	CDS	complement(1679764..1680942)	ftsQ; cell division protein FtsQ
+llj:LG36_1538	CDS	complement(1680943..1682016)	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+llj:LG36_1539	CDS	complement(1682227..1683579)	murD; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+llj:LG36_1540	CDS	complement(1683910..1684314)	hypothetical protein
+llj:LG36_1541	CDS	complement(1684383..1685624)	amtB; Ammonium/methylammonium transporter
+llj:LG36_1542	CDS	complement(1685807..1687282)	Two-component system sensor histidine kinase
+llj:LG36_1543	CDS	complement(1687291..1687983)	Two-component system response regulator
+llj:LG36_1544	CDS	complement(1688139..1688669)	hypothetical protein
+llj:LG36_1545	CDS	complement(1688800..1689045)	rpmE; 50S ribosomal protein L31
+llj:LG36_1546	CDS	complement(1689202..1689666)	hypothetical protein
+llj:LG36_1547	CDS	complement(1689748..1690125)	hypothetical protein
+llj:LG36_1548	CDS	complement(1690326..1691168)	yqeD; Metallo-phosphoesterase
+llj:LG36_1549	CDS	complement(1691399..1691992)	hypothetical protein
+llj:LG36_1550	CDS	complement(1692340..1693413)	carA; carbamoyl-phosphate synthase small chain
+llj:LG36_1551	CDS	complement(1693477..1694409)	pyrB; aspartate carbamoyltransferase catalytic subunit
+llj:LG36_1552	CDS	complement(1694593..1695885)	pyrP; Uracil permease
+llj:LG36_1553	CDS	complement(1695980..1696516)	phosphoribosyl transferase
+llj:LG36_1554	CDS	complement(1696762..1697460)	hypothetical protein
+llj:LG36_1555	CDS	1697556..1697855	rarA; Transcriptional regulator, ArsR family
+llj:LG36_1556	CDS	1697845..1698759	yqeI; Cobalt-zinc-cadmium transporter
+llj:LG36_1557	CDS	complement(1698842..1700083)	proA; Gamma-glutamyl phosphate reductase
+llj:LG36_1558	CDS	complement(1700101..1700913)	proB; Glutamate 5-kinase
+llj:LG36_1559	CDS	1701138..1705487	hypothetical protein
+llj:LG36_1560	CDS	1705536..1706573	hypothetical protein
+llj:LG36_1561	CDS	complement(1706599..1706925)	azlD; Branched-chain amino acid transport protein
+llj:LG36_1562	CDS	complement(1706912..1707655)	azlC; azaleucine resistance protein AzlC
+llj:LG36_1563	CDS	1707792..1708367	hypothetical protein
+llj:LG36_1564	CDS	1708449..1708991	GCN5 family N-acetyltransferase
+llj:LG36_1565	CDS	complement(1709018..1710574)	ffh; signal recognition particle protein Srp54
+llj:LG36_1566	CDS	complement(1710753..1713854)	hypothetical protein
+llj:LG36_1567	CDS	complement(1713902..1715614)	ribonuclease J
+llj:LG36_1568	CDS	1715964..1716635	yqgG; Cation transport ATPase, MgtC/SapB family
+llj:LG36_1569	CDS	complement(1716675..1717568)	dapA; Dihydrodipicolinate synthase
+llj:LG36_1570	CDS	complement(1717913..1718368)	yqgC; Phosphohydrolase, MutT/nudix family protein
+llj:LG36_1571	CDS	complement(1718379..1719455)	Aspartate-semialdehyde dehydrogenase
+llj:LG36_1572	CDS	complement(1719550..1720413)	yqgE; Aquaporin/glycerol uptake facilitator protein
+llj:LG36_1573	CDS	complement(1720787..1721041)	hypothetical protein
+llj:LG36_1574	CDS	complement(1721136..1723112)	Transketolase
+llj:LG36_1575	CDS	complement(1723294..1724679)	PTS system, enzyme IIC
+llj:LG36_1576	CDS	complement(1724739..1725038)	PTS lactose transporter subunit IIB
+llj:LG36_1577	CDS	complement(1725040..1726980)	Transcriptional antiterminator, BglG family
+llj:LG36_1578	CDS	complement(1727154..1727795)	kdgA; 2-dehydro-3-deoxyphosphogluconate aldolase
+llj:LG36_1579	CDS	complement(1727798..1728748)	kdgK; 2-dehydro-3-deoxygluconokinase
+llj:LG36_1580	CDS	complement(1728745..1730163)	uxaC; Uronate isomerase
+llj:LG36_1581	CDS	complement(1730160..1731053)	yqhA; Aldose 1-epimerase family protein
+llj:LG36_1582	CDS	complement(1731113..1732639)	uxuT; MFS transporter
+llj:LG36_1583	CDS	complement(1732825..1733901)	uxuA; Mannonate dehydratase
+llj:LG36_1584	CDS	complement(1733919..1734077)	hypothetical protein
+llj:LG36_1585	CDS	complement(1734174..1735823)	uxuB; Fructuronate reductase
+llj:LG36_1586	CDS	1735990..1736673	kdgR; Transcriptional regulator, GntR family
+llj:LG36_1587	CDS	complement(1736719..1738260)	yqiA; multidrug ABC transporter
+llj:LG36_1588	CDS	complement(1738350..1739324)	rbsB; D-ribose transporter subunit RbsB
+llj:LG36_1589	CDS	complement(1739336..1740277)	rbsC; Ribose ABC transporter, permease protein
+llj:LG36_1590	CDS	complement(1740280..1741746)	rbsA; Ribose import ATP-binding protein RbsA
+llj:LG36_1591	CDS	complement(1741777..1742175)	rbsD; D-ribose pyranase
+llj:LG36_1592	CDS	complement(1742197..1743099)	rbsK; Ribokinase
+llj:LG36_1593	CDS	complement(1743110..1744093)	rbsR; Ribose operon repressor
+llj:LG36_1594	CDS	complement(1744227..1745522)	purB; Adenylosuccinate lyase
+llj:LG36_1595	CDS	complement(1745720..1746400)	aroD; 3-dehydroquinate dehydratase
+llj:LG36_t0038	tRNA	complement(1746497..1746568)	tRNA-Gln
+llj:LG36_1596	CDS	complement(1746663..1746941)	hypothetical protein
+llj:LG36_1597	CDS	complement(1747110..1747424)	trxA; Thioredoxin
+llj:LG36_1598	CDS	complement(1747521..1749851)	Endonuclease MutS2
+llj:LG36_1599	CDS	complement(1749896..1750456)	hypothetical protein
+llj:LG36_1600	CDS	complement(1750616..1751581)	Ferredoxin--NADP reductase
+llj:LG36_1601	CDS	complement(1751719..1752717)	ccpA; Catabolite control protein A
+llj:LG36_1602	CDS	1752932..1754020	pepQ; Xaa-Pro dipeptidase
+llj:LG36_1603	CDS	complement(1754134..1756161)	hypothetical protein
+llj:LG36_1604	CDS	complement(1756285..1757439)	yqjE; RNA methyltransferase
+llj:LG36_1605	CDS	complement(1758073..1758459)	gpsB; Guiding PBP1-shuttling protein
+llj:LG36_1606	CDS	complement(1758513..1759517)	holA; DNA polymerase III, delta subunit
+llj:LG36_1607	CDS	complement(1759524..1760099)	hypothetical protein
+llj:LG36_1608	CDS	complement(1760096..1762393)	ftsK; Cell division protein FtsK
+llj:LG36_1609	CDS	1762555..1763340	yraE; Hydrolase, HAD superfamily
+llj:LG36_1610	CDS	complement(1763386..1763778)	hypothetical protein
+llj:LG36_1611	CDS	complement(1763913..1764893)	eutD; Phosphate acetyltransferase
+llj:LG36_1612	CDS	complement(1765111..1765800)	uridine/cytidine kinase
+llj:LG36_1613	CDS	1766030..1767010	yrbA; NAD-dependent oxidoreductase
+llj:LG36_t0039	tRNA	1767068..1767140	tRNA-Arg
+llj:LG36_1614	CDS	complement(1767277..1767876)	yrbB; Transglycosylase, extracellular
+llj:LG36_1615	CDS	1768533..1769492	yrbC; 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+llj:LG36_1616	CDS	complement(1769516..1771054)	eriC; Chloride channel protein
+llj:LG36_1617	CDS	complement(1771567..1772127)	hypothetical protein
+llj:LG36_1618	CDS	complement(1772278..1773111)	yrbI2; Transcriptional regulator, Rgg/GadR/MutR family
+llj:LG36_1619	CDS	complement(1773149..1773907)	ubiE; 2-heptaprenyl-1,4-naphthoquinone methyltransferase
+llj:LG36_1620	CDS	complement(1773987..1776692)	pip; Phage infection protein
+llj:LG36_1621	CDS	complement(1776951..1778420)	pbg4; 6-phospho-beta-glucosidase
+llj:LG36_1622	CDS	complement(1778505..1778672)	hypothetical protein
+llj:LG36_1623	CDS	complement(1778888..1780630)	dxsB; 1-deoxy-D-xylulose 5-phosphate synthase
+llj:LG36_1624	CDS	complement(1780777..1782147)	tcsK; Two-component system sensor histidine kinase
+llj:LG36_1625	CDS	complement(1782241..1782918)	tcsR; Two-component system response regulator
+llj:LG36_1626	CDS	complement(1783086..1784060)	malR; Transcriptional regulator, LacI family
+llj:LG36_1627	CDS	complement(1784213..1786468)	mapA; Maltose phosphorylase
+llj:LG36_1628	CDS	complement(1786491..1788200)	alpha-glucosidase
+llj:LG36_1629	CDS	complement(1788243..1789817)	amyY; Alpha-amylase
+llj:LG36_1630	CDS	complement(1789807..1790454)	maa; Maltose O-acetyltransferase
+llj:LG36_1631	CDS	complement(1790439..1792064)	dexA; Glucan 1,6-alpha-glucosidase
+llj:LG36_1632	CDS	complement(1792271..1794025)	Neopullulanase
+llj:LG36_1633	CDS	1794393..1795619	malE; Maltose ABC transporter, substrate binding protein
+llj:LG36_1634	CDS	1795697..1797079	malF; Maltose ABC transporter, permease protein
+llj:LG36_1635	CDS	1797085..1797951	malG; Maltose ABC transporter, permease protein
+llj:LG36_1636	CDS	complement(1798080..1798733)	CAAX amino terminal protease family protein
+llj:LG36_1637	CDS	complement(1798881..1799900)	hypothetical protein
+llj:LG36_1638	CDS	complement(1800236..1800490)	hypothetical protein
+llj:LG36_1639	CDS	complement(1800898..1801104)	Transcriptional regulator, Cro/CI family
+llj:LG36_1640	CDS	complement(1801121..1801594)	hypothetical protein
+llj:LG36_1641	CDS	1802651..1802947	hypothetical protein
+llj:LG36_1642	CDS	complement(1802980..1803516)	hypothetical protein
+llj:LG36_1643	CDS	complement(1803628..1803903)	hypothetical protein
+llj:LG36_1644	CDS	1804128..1804937	hypothetical protein
+llj:LG36_1645	CDS	1805003..1805305	yrfA; Transcriptional regulator, ArsR family
+llj:LG36_1646	CDS	1805397..1806572	yrfB; NADH-dependent oxidoreductase
+llj:LG36_1647	CDS	1806745..1807284	membrane protein
+llj:LG36_1648	CDS	1807918..1808574	CAAX amino terminal protease family protein
+llj:LG36_1649	CDS	complement(1808664..1809812)	Transcriptional regulator
+llj:LG36_1650	CDS	complement(1809834..1810637)	ABC transporter, ATP-binding protein
+llj:LG36_1651	CDS	complement(1810655..1812454)	ABC transporter, permease protein
+llj:LG36_1652	CDS	complement(1812756..1813709)	arcC1; Carbamate kinase
+llj:LG36_1653	CDS	complement(1813734..1814834)	Agmatine deiminase
+llj:LG36_1654	CDS	complement(1814845..1816206)	yrfD; Agmatine/putrescine antiporter
+llj:LG36_1655	CDS	complement(1816222..1817244)	pctA; Putrescine carbamoyltransferase
+llj:LG36_1656	CDS	complement(1817478..1818464)	Transcriptional regulator, LuxR family
+llj:LG36_1657	CDS	complement(1818638..1820041)	Transcriptional regulator, LytR family
+llj:LG36_1658	CDS	complement(1820119..1820781)	cmk; Cytidylate kinase
+llj:LG36_1659	CDS	complement(1820864..1821382)	hypothetical protein
+llj:LG36_1660	CDS	1821901..1822890	ptnAB; Mannose-specificPTS system, IIAB component
+llj:LG36_1661	CDS	1822969..1823781	ptnC; Mannose-specific PTS system, IIC component
+llj:LG36_1662	CDS	1823800..1824723	ptnD; Mannose-specific PTS system, IID component
+llj:LG36_1663	CDS	1824865..1825248	hypothetical protein
+llj:LG36_1664	CDS	complement(1825273..1825989)	hypothetical protein
+llj:LG36_1665	CDS	1826137..1826508	hypothetical protein
+llj:LG36_1666	CDS	1826881..1828149	serS; Seryl-tRNA synthetase
+llj:LG36_1667	CDS	1828337..1829311	yrgH; Muramoyltetrapeptide carboxypeptidase
+llj:LG36_1668	CDS	1829315..1829902	yrgI; Phosphoglycerate mutase family protein
+llj:LG36_1669	CDS	complement(1829997..1830650)	phoU; Phosphate-specific transport system accessory
+llj:LG36_1670	CDS	complement(1830808..1831569)	pstA; Phosphate import ATP-binding protein PstB
+llj:LG36_1671	CDS	complement(1831735..1832544)	pstB; Phosphate import ATP-binding protein PstB
+llj:LG36_1672	CDS	complement(1832578..1833471)	pstC; Phosphate ABC transporter, permease protein
+llj:LG36_1673	CDS	complement(1833471..1834394)	pstD; Phosphate ABC transporter, permease protein
+llj:LG36_1674	CDS	complement(1834515..1835366)	pstE; Phosphate ABC transporter, substrate-binding protein
+llj:LG36_1675	CDS	complement(1835713..1836609)	pstF; Phosphate ABC transporter, substrate-binding protein
+llj:LG36_1676	CDS	complement(1836887..1837354)	smpB; SsrA-binding protein
+llj:LG36_1677	CDS	complement(1837386..1837952)	hypothetical protein
+llj:LG36_1678	CDS	complement(1838047..1840665)	alaS; Alanine-tRNA ligase
+llj:LG36_1679	CDS	complement(1840932..1841858)	Foldase protein PrsA
+llj:LG36_1680	CDS	complement(1842013..1842696)	yriA; O-methyltransferase
+llj:LG36_1681	CDS	complement(1842699..1844504)	pepF; Oligoendopeptidase F
+llj:LG36_1682	CDS	complement(1844569..1845555)	coiA; Competence protein/transcription factor
+llj:LG36_1683	CDS	complement(1845629..1846714)	hypothetical protein
+llj:LG36_1684	CDS	complement(1846864..1847712)	yriC; Alpha/beta hydrolase
+llj:LG36_1685	CDS	complement(1847905..1849326)	yriD; Xanthine/uracil permease
+llj:LG36_1686	CDS	1849633..1850469	yrjA; Hydrolase, HAD superfamily
+llj:LG36_1687	CDS	1850650..1851420	yrjB; Fe-S oxidoreductase
+llj:LG36_1688	CDS	1851430..1852902	yrjC; Fe-S cluster-binding protein
+llj:LG36_1689	CDS	1852905..1853588	Lactate utilization protein C
+llj:LG36_1690	CDS	complement(1853662..1854375)	hypothetical protein
+llj:LG36_1691	CDS	complement(1854492..1855403)	yrjF; Diacylglycerol kinase family protein
+llj:LG36_1692	CDS	complement(1855558..1856070)	yrjG; Hydrolase, HAD superfamily
+llj:LG36_1693	CDS	1856375..1856635	rpsT; 30S ribosomal protein S20
+llj:LG36_1694	CDS	complement(1856728..1859232)	recD; Exodeoxyribonuclease V, alpha chain
+llj:LG36_1695	CDS	complement(1859229..1859822)	yrjI; Phosphoglycerate mutase family protein
+llj:LG36_1696	CDS	complement(1859825..1860664)	pheA; Prephenate dehydratase
+llj:LG36_1697	CDS	complement(1860666..1861154)	aroK; Shikimate kinase
+llj:LG36_1698	CDS	complement(1861178..1862470)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+llj:LG36_1699	CDS	complement(1862591..1863655)	tyrA; Prephenate dehydrogenase
+llj:LG36_1700	CDS	complement(1863658..1864533)	Two-component system sensor histidine kinase
+llj:LG36_1701	CDS	complement(1864520..1865197)	Two-component system response regulator
+llj:LG36_1702	CDS	complement(1865194..1866258)	ysaA; VanZ family protein / RDD family protein
+llj:LG36_1703	CDS	complement(1866438..1868441)	ysaB; ABC transporter, permease and substrate binding protein
+llj:LG36_1704	CDS	complement(1868434..1869213)	ysaC; ABC transporter, ATP-binding protein
+llj:LG36_1705	CDS	complement(1869402..1869791)	hypothetical protein
+llj:LG36_1706	CDS	complement(1869879..1871045)	aroC; Chorismate synthase
+llj:LG36_1707	CDS	complement(1871047..1871508)	MutT/NUDIX family protein
+llj:LG36_1708	CDS	complement(1871508..1872104)	ysbA; Hydrolase, HAD superfamily
+llj:LG36_1709	CDS	complement(1872109..1872708)	hypothetical protein
+llj:LG36_1710	CDS	complement(1872820..1873743)	hypothetical protein
+llj:LG36_1711	CDS	complement(1873854..1874924)	aroB; 3-dehydroquinate synthase
+llj:LG36_1712	CDS	complement(1874921..1875781)	aroE; Shikimate 5-dehydrogenase
+llj:LG36_1713	CDS	complement(1875918..1876574)	ysbD; DedA family protein
+llj:LG36_1714	CDS	1876943..1879087	glnP; Glutamine ABC transporter, permease and substrate-binding protein
+llj:LG36_1715	CDS	1879103..1879846	glnQ; Glutamine ABC transporter, ATP-binding protein
+llj:LG36_1716	CDS	complement(1879916..1881862)	hypothetical protein
+llj:LG36_1717	CDS	complement(1881863..1882510)	hypothetical protein
+llj:LG36_1718	CDS	complement(1882626..1883051)	atpC; ATP synthase epsilon chain
+llj:LG36_1719	CDS	complement(1883235..1884599)	atpD; ATP synthase subunit beta
+llj:LG36_1720	CDS	complement(1884776..1885645)	atpG; ATP synthase gamma chain
+llj:LG36_1721	CDS	complement(1885661..1887163)	atpA; ATP synthase subunit alpha
+llj:LG36_1722	CDS	complement(1887350..1887877)	atpH; ATP synthase subunit delta
+llj:LG36_1723	CDS	complement(1887879..1888385)	atpF; ATP synthase subunit b
+llj:LG36_1724	CDS	complement(1888400..1889113)	atpB; ATP synthase, A subunit
+llj:LG36_1725	CDS	complement(1889158..1889373)	atpE; ATP synthase F0, C subunit
+llj:LG36_1726	CDS	complement(1889557..1890333)	estA; Tributyrin esterase
+llj:LG36_1727	CDS	complement(1890617..1892827)	comEC; ComE operon protein 3, DNA internalization
+llj:LG36_1728	CDS	complement(1892808..1893455)	comEA; ComE operon protein 1
+llj:LG36_1729	CDS	complement(1893515..1894876)	ysdA; Sodium ABC transporter, permease protein
+llj:LG36_1730	CDS	complement(1894873..1895805)	ysdB; Sodium ABC transporter, ATP-binding protein
+llj:LG36_1731	CDS	complement(1895909..1896307)	hypothetical protein
+llj:LG36_1732	CDS	complement(1896411..1896974)	ysdD; Acetyltransferase, GNAT family
+llj:LG36_1733	CDS	complement(1897147..1898325)	ysdE; Cation transporter
+llj:LG36_1734	CDS	complement(1898704..1899360)	tenA; Transcriptional activator TenA
+llj:LG36_1735	CDS	complement(1899718..1900698)	birA; Biotin operon repressor / Biotin--[acetyl-CoA-carboxylase] synthetase
+llj:LG36_1736	CDS	complement(1900695..1901264)	Biotin transporter component
+llj:LG36_1737	CDS	1901409..1902650	yseB; long-chain fatty acid - CoA ligase
+llj:LG36_1738	CDS	1902640..1903788	fadA; Acetyl-CoA acetyltransferase
+llj:LG36_1739	CDS	1904111..1904404	hypothetical protein
+llj:LG36_1740	CDS	1904392..1905147	fabG; 3-Oxoacyl-[acyl-carrier protein] reductase
+llj:LG36_1741	CDS	1905170..1906015	fabL; Enoyl-(acyl-carrier-protein) reductase
+llj:LG36_1742	CDS	complement(1906155..1907567)	sufB; Cysteine desulfurase activator complex, subunit SufB
+llj:LG36_1743	CDS	complement(1907730..1908188)	nifU; SUF system FeS assembly protein, NifU family
+llj:LG36_1744	CDS	complement(1908304..1908795)	yseH; SUF system FeS assembly protein
+llj:LG36_1745	CDS	complement(1908788..1910005)	sufS; cysteine desulfurase
+llj:LG36_1746	CDS	complement(1910005..1911261)	sufD; SUF system FeS cluster assembly protein SufD
+llj:LG36_1747	CDS	complement(1911399..1912169)	sufC; SUF system FeS cluster assembly protein, ATP-dependent transporter SufC
+llj:LG36_1748	CDS	complement(1912345..1913676)	ysfC; Undecaprenyl-phosphate alpha-N-acetylglucosaminephosphotransferase
+llj:LG36_1749	CDS	complement(1913679..1914380)	mecA; adapter protein mecA
+llj:LG36_1750	CDS	complement(1914510..1915244)	ysfE; Polar amino acid ABC transporter, ATP-binding protein
+llj:LG36_1751	CDS	complement(1915244..1915930)	ysfF; Polar amino acid ABC transporter, permease protein
+llj:LG36_1752	CDS	complement(1916078..1916986)	ysfG; Diacylglycerol kinase family protein
+llj:LG36_1753	CDS	complement(1917131..1920766)	rpoC; DNA-directed RNA polymerase subunit beta
+llj:LG36_1754	CDS	complement(1920863..1924453)	rpoB; DNA-directed RNA polymerase, beta chain
+llj:LG36_1755	CDS	complement(1924719..1925348)	transcriptional regulator
+llj:LG36_1756	CDS	1925552..1926235	ysgA; Transcriptional regulator
+llj:LG36_1757	CDS	1926261..1928207	hypothetical protein
+llj:LG36_1758	CDS	1928458..1929642	hypothetical protein
+llj:LG36_1759	CDS	1929745..1931628	pepO; Oligoendopeptidase O
+llj:LG36_1760	CDS	complement(1931682..1931987)	ysgB; O6-methylguanine-DNA methyltransferase
+llj:LG36_1761	CDS	complement(1932058..1933731)	ysgC; polysaccharide biosynthesis protein
+llj:LG36_1762	CDS	1933942..1935393	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-lysine ligase
+llj:LG36_1763	CDS	complement(1935473..1935733)	hypothetical protein
+llj:LG36_1764	CDS	complement(1935754..1936815)	adhA; Alcohol dehydrogenase 1
+llj:LG36_1765	CDS	1936972..1938750	recQ; ATP-dependent DNA helicase RecQ
+llj:LG36_1766	CDS	complement(1938786..1940525)	yshA; Glutamate/gamma-aminobutyrate antiporter
+llj:LG36_1767	CDS	complement(1940592..1941833)	pepT; peptidase T
+llj:LG36_1768	CDS	complement(1941862..1942659)	hypothetical protein
+llj:LG36_1769	CDS	complement(1942659..1943603)	yshC; Manganese-dependent inorganic pyrophosphatase
+llj:LG36_1770	CDS	complement(1943808..1944602)	pflA; Pyruvate formate-lyase activating enzyme
+llj:LG36_1771	CDS	complement(1944819..1946156)	ysiA; Magnesium and cobalt efflux protein
+llj:LG36_1772	CDS	complement(1946277..1947392)	ysiB; Permease
+llj:LG36_1773	CDS	1947541..1947984	ysiC; Acetyltransferase, GNAT family
+llj:LG36_1774	CDS	complement(1948023..1948613)	hypothetical protein
+llj:LG36_1775	CDS	complement(1948938..1951760)	uvrA; UvrABC system protein A
+llj:LG36_1776	CDS	complement(1951930..1952568)	hypothetical protein
+llj:LG36_1777	CDS	1952637..1953161	cobC; Alpha-ribazole-5'-phosphate phosphatase
+llj:LG36_1778	CDS	1953158..1953472	ysiG; GIY-YIG nuclease superfamily protein
+llj:LG36_1779	CDS	complement(1953486..1954835)	ysjA; GABA-specific permease
+llj:LG36_1780	CDS	complement(1955318..1956235)	ysjB; NAD-dependent oxidoreductase
+llj:LG36_1781	CDS	complement(1956267..1956902)	tpk; Thiamin pyrophosphokinase
+llj:LG36_1782	CDS	complement(1956899..1957246)	ysjD; Nucleotide pyrophosphatase, MazG family
+llj:LG36_1783	CDS	complement(1957271..1957726)	hypothetical protein
+llj:LG36_1784	CDS	complement(1957869..1959212)	asnC; Asparaginyl-tRNA synthetase
+llj:LG36_1785	CDS	complement(1959260..1959571)	hypothetical protein
+llj:LG36_1786	CDS	complement(1959568..1960749)	aspB; Aspartate aminotransferase
+llj:LG36_1787	CDS	complement(1960746..1961189)	hypothetical protein
+llj:LG36_1788	CDS	complement(1961324..1963708)	dinG; ATP-dependent DNA helicase/DNA polymerase III, epsilon subunit
+llj:LG36_1789	CDS	1963928..1964365	uspA; Universal stress protein A
+llj:LG36_1790	CDS	complement(1964421..1965713)	corC; Magnesium and cobalt efflux protein
+llj:LG36_1791	CDS	complement(1965853..1966854)	pacB; Penicillin acylase
+llj:LG36_1792	CDS	complement(1966926..1967672)	ytaD; tyrosine phosphatase
+llj:LG36_1793	CDS	complement(1967874..1969682)	oppA; Oligopeptide ABC transporter, oligopeptide-binding protein OppA
+llj:LG36_1794	CDS	complement(1969788..1970678)	oppC; Oligopeptide ABC transporter, permease protein OppC
+llj:LG36_1795	CDS	complement(1970682..1971641)	oppB; Oligopeptide ABC transporter, permease protein OppB
+llj:LG36_1796	CDS	complement(1971622..1972581)	oppF; Oligopeptide ABC transporter, ATP-binding protein OppF
+llj:LG36_1797	CDS	complement(1972578..1973606)	oppD; Oligopeptide ABC transporter, ATP-binding protein OppD
+llj:LG36_1798	CDS	complement(1973820..1974179)	rplT; LSU ribosomal protein L20
+llj:LG36_1799	CDS	complement(1974341..1974541)	rpmI; LSU ribosomal protein L35
+llj:LG36_1800	CDS	complement(1974670..1975164)	infC; Translation Initiation Factor IF-3
+llj:LG36_1801	CDS	1975774..1976322	hypothetical protein
+llj:LG36_1802	CDS	complement(1976338..1977042)	ytbB; Hydrolase, HAD superfamily
+llj:LG36_1803	CDS	complement(1977210..1979087)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+llj:LG36_1804	CDS	complement(1979461..1980036)	hypothetical protein
+llj:LG36_1805	CDS	complement(1980169..1980537)	hypothetical protein
+llj:LG36_1806	CDS	complement(1980654..1981055)	hypothetical protein
+llj:LG36_1807	CDS	complement(1981048..1982394)	cysS; Cysteinyl-tRNA synthetase
+llj:LG36_1808	CDS	complement(1982407..1983000)	hypothetical protein
+llj:LG36_1809	CDS	complement(1983014..1983613)	cysE; Serine acetyltransferase
+llj:LG36_1810	CDS	complement(1983720..1984490)	hypothetical protein
+llj:LG36_1811	CDS	complement(1984698..1987016)	pnpA; Polyribonucleotide nucleotidyltransferase
+llj:LG36_1812	CDS	complement(1987300..1988484)	hypothetical protein
+llj:LG36_1813	CDS	1988810..1989775	prsB; Ribose-phosphate pyrophosphokinase
+llj:LG36_1814	CDS	complement(1989897..1990328)	Universal stress protein
+llj:LG36_1815	CDS	1990722..1991696	nifS; Cysteine desulfurase, aminotransferase class-V family
+llj:LG36_1816	CDS	1991720..1992064	hypothetical protein
+llj:LG36_1817	CDS	complement(1992159..1993346)	tuf; Elongation factor Tu
+llj:LG36_1818	CDS	complement(1994005..1996803)	ileS; Isoleucyl-tRNA synthetase
+llj:LG36_1819	CDS	complement(1997117..1998049)	divIVA; Cell division initiation protein DivIVA
+llj:LG36_1820	CDS	complement(1998106..1998897)	ytdC; RNA-binding protein, containing S4 domain
+llj:LG36_1821	CDS	complement(1998894..1999169)	hypothetical protein
+llj:LG36_1822	CDS	complement(1999169..1999759)	ytdE; Cell division protein SepF
+llj:LG36_1823	CDS	complement(1999793..2000470)	ytdF; Pyridoxal-5'-phosphate family protein
+llj:LG36_1824	CDS	complement(2000474..2001727)	ftsZ; Cell division protein FtsZ
+llj:LG36_1825	CDS	complement(2001757..2003127)	ftsA; Cell division protein ftsA
+llj:LG36_1826	CDS	complement(2003288..2004157)	yteA; DegV family protein
+llj:LG36_1827	CDS	complement(2004271..2004999)	trmH; 23S rRNA Gm2251 methyltransferase
+llj:LG36_1828	CDS	complement(2005078..2006265)	yteB; Glycine/D-amino acid oxidase family protein
+llj:LG36_1829	CDS	complement(2006393..2007238)	yteC; Aldo/keto reductase
+llj:LG36_1830	CDS	complement(2007250..2008578)	yteD; Multidrug resistance protein B, MF superfamily
+llj:LG36_1831	CDS	complement(2008744..2009622)	rlrB; Transcriptional regulator, LysR family
+llj:LG36_1832	CDS	complement(2009638..2010042)	rmeA; Transcriptional regulator, MerR family
+llj:LG36_1833	CDS	complement(2010124..2011494)	pepC; Aminopeptidase C
+llj:LG36_1834	CDS	complement(2011563..2012156)	yteE; Hydrolase, HAD superfamily
+llj:LG36_1835	CDS	complement(2012214..2012894)	pfs; 5'-methylthioadenosine nucleosidase / S-adenosylhomocysteine nucleosidase
+llj:LG36_1836	CDS	complement(2012925..2013212)	hypothetical protein
+llj:LG36_1837	CDS	complement(2013196..2013780)	ytfB; ADP-ribose pyrophosphatase
+llj:LG36_1838	CDS	complement(2013885..2015261)	glmU; Bifunctional protein GlmU
+llj:LG36_1839	CDS	2015490..2016278	proC; Pyrroline-5-carboxylate reductase
+llj:LG36_1840	CDS	complement(2016356..2016679)	rpsO; 30S ribosomal protein S15
+llj:LG36_1841	CDS	complement(2016807..2018687)	pknB; Serine/threonine protein kinase
+llj:LG36_1842	CDS	complement(2018687..2019463)	pppL; Serine/threonine protein phosphatase 2C
+llj:LG36_1843	CDS	complement(2019544..2020818)	sunL; 16S rRNA m(5)C 967 methyltransferase
+llj:LG36_1844	CDS	complement(2021016..2021522)	ytgH; General stress protein, Gls24 family
+llj:LG36_1845	CDS	complement(2021543..2021737)	hypothetical protein
+llj:LG36_1846	CDS	complement(2021742..2022302)	hypothetical protein
+llj:LG36_1847	CDS	complement(2022330..2022572)	hypothetical protein
+llj:LG36_1848	CDS	complement(2022748..2023707)	frnt; Methionyl-tRNA formyltransferase
+llj:LG36_1849	CDS	complement(2023704..2024168)	hypothetical protein
+llj:LG36_1850	CDS	complement(2024134..2024655)	ytgC; Phosphohydrolase, MutT/nudix family
+llj:LG36_1851	CDS	complement(2024668..2025051)	hypothetical protein
+llj:LG36_1852	CDS	complement(2025101..2027440)	priA; Primosomal protein N
+llj:LG36_1853	CDS	complement(2027578..2027931)	rpoZ; DNA-directed RNA polymerase subunit omega
+llj:LG36_1854	CDS	complement(2028112..2028729)	gmk; Guanylate kinase
+llj:LG36_1855	CDS	complement(2028876..2030471)	ytgF; Ribonuclease Y
+llj:LG36_1856	CDS	complement(2030702..2031415)	ytgG; Glucosamine-6-phosphate isomerase
+llj:LG36_1857	CDS	complement(2031691..2032890)	metK; S-adenosylmethionine synthetase
+llj:LG36_1858	CDS	complement(2033173..2034366)	cfa; Cyclopropane-fatty-acyl-phospholipid synthase
+llj:LG36_1859	CDS	2034619..2035371	Biotin operon repressor / Biotin--[acetyl-CoA-carboxylase] synthetase
+llj:LG36_1860	CDS	complement(2035475..2035939)	ythA; Stress-responsive transcriptional regulator, PspC family
+llj:LG36_1861	CDS	complement(2035968..2036171)	ythB; Stress-responsive transcriptional regulator, PspC family
+llj:LG36_1862	CDS	complement(2036234..2037349)	hypothetical protein
+llj:LG36_1863	CDS	complement(2037564..2039231)	N-acetylmuramoyl-L-alanine amidase
+llj:LG36_1864	CDS	complement(2039478..2040374)	fbaA; Fructose-bisphosphate aldolase
+llj:LG36_t0040	tRNA	complement(2040537..2040622)	tRNA-Leu
+llj:LG36_t0041	tRNA	complement(2040658..2040729)	tRNA-Gly
+llj:LG36_t0042	tRNA	complement(2040755..2040827)	tRNA-Thr
+llj:LG36_t0043	tRNA	complement(2040840..2040921)	tRNA-Leu
+llj:LG36_t0044	tRNA	complement(2040930..2041002)	tRNA-Lys
+llj:LG36_t0045	tRNA	complement(2041020..2041092)	tRNA-Asp
+llj:LG36_t0046	tRNA	complement(2041122..2041194)	tRNA-Val
+llj:LG36_r0005	rRNA	complement(2041169..2041310)	5S ribosomal RNA
+llj:LG36_r0006	rRNA	complement(2041396..2044293)	23S ribosomal RNA
+llj:LG36_t0047	tRNA	complement(2044434..2044506)	tRNA-Ala
+llj:LG36_r0007	rRNA	complement(2044605..2046139)	16S ribosomal RNA
+llj:LG36_1865	CDS	complement(2046408..2047067)	hypothetical protein
+llj:LG36_1866	CDS	complement(2047174..2049114)	thrS; Threonyl-tRNA synthetase
+llj:LG36_1867	CDS	complement(2049674..2049991)	hypothetical protein
+llj:LG36_1868	CDS	complement(2050049..2051317)	mntH; Manganese transport protein MntH
+llj:LG36_1869	CDS	complement(2051418..2052026)	ytjD; Nitroreductase family protein
+llj:LG36_1870	CDS	complement(2052168..2052803)	upp; Uracil phosphoribosyltransferase
+llj:LG36_1871	CDS	complement(2053029..2054168)	nah; Na+/H+ antiporter
+llj:LG36_1872	CDS	complement(2054223..2055386)	cblA; Cystathionine beta-lyase
+llj:LG36_1873	CDS	complement(2055638..2056726)	cgs; Cystathionine gamma-synthase
+llj:LG36_1874	CDS	complement(2056757..2057722)	metA; Homoserine O-succinyltransferase
+llj:LG36_1875	CDS	complement(2057876..2058436)	ytjF; Phosphohydrolase, MutT/nudix family
+llj:LG36_1876	CDS	complement(2058445..2059353)	ytjG; Permease
+llj:LG36_1877	CDS	complement(2059490..2060359)	ytjH; Aldose 1-epimerase family protein
+llj:LG36_1878	CDS	complement(2060625..2061569)	yuaA; Metal-dependent phosphohydrolase, HD family
+llj:LG36_1879	CDS	complement(2061816..2063120)	yuaB; Endonuclease, RmuC family
+llj:LG36_1880	CDS	complement(2063130..2063639)	hypothetical protein
+llj:LG36_1881	CDS	complement(2063636..2064298)	rpe; Ribulose-phosphate 3-epimerase
+llj:LG36_1882	CDS	complement(2064357..2064614)	hypothetical protein
+llj:LG36_1883	CDS	complement(2064611..2064871)	hypothetical protein
+llj:LG36_1884	CDS	complement(2064843..2065766)	rsgA; Ribosome biogenesis GTPase RsgA
+llj:LG36_1885	CDS	complement(2065826..2066887)	hypothetical protein
+llj:LG36_1886	CDS	complement(2067173..2069566)	pheT; Phenylalanyl-tRNA synthetase, beta chain
+llj:LG36_1887	CDS	complement(2069603..2070643)	pheS; Phenylalanyl-tRNA synthetase, alpha chain
+llj:LG36_1888	CDS	2071096..2071629	pdc; Phenolic acid decarboxylase
+llj:LG36_1889	CDS	2071865..2072404	yucF; Transcriptional regulator, PadR family
+llj:LG36_1890	CDS	2072572..2074050	chiA; Chitinase
+llj:LG36_1891	CDS	2074070..2074732	yucG; Chitin-binding protein
+llj:LG36_1892	CDS	complement(2074776..2076068)	purA; Adenylosuccinate synthetase
+llj:LG36_1893	CDS	complement(2076342..2076782)	hypothetical protein
+llj:LG36_1894	CDS	complement(2076951..2077202)	hypothetical protein
+llj:LG36_1895	CDS	complement(2077298..2077621)	hypothetical protein
+llj:LG36_1896	CDS	2077858..2078724	hslO; 33 kDa chaperonin
+llj:LG36_1897	CDS	2078779..2079300	yudH; Dihydrofolate reductase family protein
+llj:LG36_1898	CDS	2079428..2080432	yudI; tRNA-dihydrouridine synthase
+llj:LG36_1899	CDS	2080528..2080758	hypothetical protein
+llj:LG36_1900	CDS	complement(2080798..2081682)	hypothetical protein
+llj:LG36_1901	CDS	complement(2081832..2082707)	hypothetical protein
+llj:LG36_1902	CDS	complement(2082807..2083736)	hypothetical protein
+llj:LG36_1903	CDS	complement(2083717..2085489)	aspS; Aspartyl-tRNA synthetase
+llj:LG36_1904	CDS	complement(2085550..2085918)	yueA; Histidine triad (HIT) family protein
+llj:LG36_1905	CDS	complement(2085943..2087235)	hisS; Histidyl-tRNA synthetase
+llj:LG36_1906	CDS	complement(2087548..2088708)	Transcriptional regulator
+llj:LG36_1907	CDS	complement(2088953..2089528)	hypothetical protein
+llj:LG36_1908	CDS	complement(2089789..2090361)	psgA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+llj:LG36_1909	CDS	complement(2090402..2091298)	yueD; Transcriptional regulator, XRE family
+llj:LG36_1910	CDS	complement(2091563..2092846)	yueE; Peptidase, M16 family
+llj:LG36_1911	CDS	complement(2092836..2094092)	yueF; Non-proteolytic protein, peptidase family M16
+llj:LG36_1912	CDS	2094320..2094682	hypothetical protein
+llj:LG36_1913	CDS	2094682..2095758	recF; DNA replication and repair protein RecF
+llj:LG36_1914	CDS	complement(2095802..2096170)	pcaC; gamma-carboxymuconolactone decarboxylase
+llj:LG36_1915	CDS	2096247..2096624	rmeD; Transcriptional regulator, MerR family
+llj:LG36_1916	CDS	complement(2096637..2097581)	Alpha/beta hydrolase
+llj:LG36_1917	CDS	complement(2097681..2098661)	galE; UDP-glucose 4-epimerase
+llj:LG36_1918	CDS	complement(2098713..2101709)	lacZ; Beta-galactosidase
+llj:LG36_1919	CDS	complement(2101715..2102338)	thgA; Galactoside O-acetyltransferase
+llj:LG36_1920	CDS	complement(2102379..2103860)	galT; Galactose-1-phosphate uridylyltransferase
+llj:LG36_1921	CDS	complement(2104033..2105232)	galK; Galactokinase
+llj:LG36_1922	CDS	complement(2105259..2106278)	galM; Aldose 1-epimerase
+llj:LG36_1923	CDS	complement(2106408..2107796)	lacS; Lactose permease
+llj:LG36_1924	CDS	complement(2108075..2108809)	yugA; Transcriptional regulator, RpiR family
+llj:LG36_1925	CDS	2108939..2109943	yugB; Aldo/keto reductase
+llj:LG36_1926	CDS	complement(2110011..2111150)	nadR; transcription regulator/NMN adenyltransferase/ribosylnicotinamide kinase
+llj:LG36_1927	CDS	complement(2111137..2112114)	yugC; D-Isomer specific 2-hydroxyacid dehydrogenase, NAD-dependent
+llj:LG36_1928	CDS	complement(2112312..2113604)	yugD; Peptidase, U32 family
+llj:LG36_1929	CDS	complement(2113882..2114043)	hypothetical protein
+llj:LG36_1930	CDS	complement(2114730..2115653)	yuhB; Peptidase, U32 family
+llj:LG36_1931	CDS	2115874..2116155	hypothetical protein
+llj:LG36_1932	CDS	complement(2116180..2117001)	yuhD; 23S rRNA m(1)G 745 methyltransferase
+llj:LG36_1933	CDS	2117417..2117944	hypothetical protein
+llj:LG36_1934	CDS	2117949..2118317	sulfurtransferase
+llj:LG36_1935	CDS	complement(2118574..2119038)	hypothetical protein
+llj:LG36_1936	CDS	complement(2119371..2119616)	hypothetical protein
+llj:LG36_1937	CDS	2120476..2121102	XRE family transcriptional regulator
+llj:LG36_1938	CDS	2121426..2121908	hypothetical protein
+llj:LG36_1939	CDS	2122839..2123273	hypothetical protein
+llj:LG36_1940	CDS	2123334..2123573	hypothetical protein
+llj:LG36_1941	CDS	2124625..2124978	hypothetical protein
+llj:LG36_1942	CDS	2125185..2125562	hypothetical protein
+llj:LG36_1943	CDS	2125850..2126197	hypothetical protein
+llj:LG36_1944	CDS	2126274..2126690	hypothetical protein
+llj:LG36_1945	CDS	2126791..2127096	pp402; Phage protein, bacteriocin immunity protein
+llj:LG36_1946	CDS	2127149..2128336	ps501; Phage integrase
+llj:LG36_1947	CDS	2128549..2129175	cutC; Copper homeostasis protein
+llj:LG36_1948	CDS	complement(2129211..2130230)	ecsB; ABC transporter, permease protein
+llj:LG36_1949	CDS	complement(2130223..2130993)	ecsA; ABCtransporter, ATP-binding protein EcsA
+llj:LG36_1950	CDS	complement(2131012..2132814)	yuhH; Glycerophosphodiester phosphodiesterase
+llj:LG36_1951	CDS	2133096..2133497	yuhI; Histidine triad (HIT) family protein
+llj:LG36_1952	CDS	2133510..2133731	hypothetical protein
+llj:LG36_1953	CDS	complement(2133743..2134087)	hypothetical protein
+llj:LG36_1954	CDS	complement(2134167..2134856)	rplA; LSU ribosomal protein L1
+llj:LG36_1955	CDS	complement(2135153..2135578)	rplK; LSU ribosomal protein L11
+llj:LG36_1956	CDS	complement(2135715..2136479)	ABC transporter, permease protein
+llj:LG36_1957	CDS	complement(2136479..2137357)	bcrA; ABC transporter, ATP-binding protein
+llj:LG36_1958	CDS	complement(2137424..2137633)	hypothetical protein
+llj:LG36_1959	CDS	complement(2137668..2138186)	pmsR; Peptide methionine sulfoxide reductase
+llj:LG36_1960	CDS	complement(2138363..2139220)	yuiC; RNA binding domain protein
+llj:LG36_1961	CDS	complement(2139266..2139766)	GNAT family acetyltransferase
+llj:LG36_1962	CDS	complement(2139817..2140374)	rrf; Ribosome recycling factor
+llj:LG36_1963	CDS	complement(2140536..2141252)	pyrH; Uridylate kinase
+llj:LG36_1964	CDS	complement(2141337..2141903)	hypothetical protein
+llj:LG36_1965	CDS	complement(2141887..2143074)	ackA1; Acetate kinase
+llj:LG36_1966	CDS	complement(2143231..2144418)	ackA2; Acetate kinase
+llj:LG36_1967	CDS	complement(2144614..2145552)	yujA; Adenine-specific methyltransferase
+llj:LG36_1968	CDS	complement(2145640..2145891)	hypothetical protein
+llj:LG36_1969	CDS	complement(2145992..2147833)	typA; GTPase TypA/BipA
+llj:LG36_1970	CDS	complement(2148012..2148470)	hypothetical protein
+llj:LG36_1971	CDS	complement(2148472..2148882)	hypothetical protein
+llj:LG36_1972	CDS	complement(2148889..2149515)	yujD; ABC transporter, ATP-binding protein
+llj:LG36_1973	CDS	complement(2149516..2151495)	hypothetical protein
+llj:LG36_1974	CDS	complement(2151492..2151830)	yujF; bacteriocin, lactococcin 972 family
+llj:LG36_1975	CDS	complement(2152130..2152858)	Two-component system response regulator
+llj:LG36_1976	CDS	2153051..2153272	hypothetical protein
+llj:LG36_1977	CDS	2153307..2154278	glk; Glucokinase
+llj:LG36_1978	CDS	2154281..2154667	hypothetical protein
+llj:LG36_1979	CDS	complement(2154750..2155196)	dpsA; DNA-binding protein, ferritin-like family
+llj:LG36_1980	CDS	2155363..2156028	comC; Aspartic endopeptidase
+llj:LG36_1981	CDS	complement(2155979..2157073)	dinP; DNA polymerase IV
+llj:LG36_1982	CDS	complement(2157152..2157643)	hypothetical protein
+llj:LG36_1983	CDS	complement(2157722..2159215)	arcD1; Arginine/ornithine antiporter
+llj:LG36_1984	CDS	complement(2159407..2160537)	arcT; Pyridoxal-dependent aminotransferase, arginine catabolism
+llj:LG36_1985	CDS	complement(2160802..2161746)	arcC2; Carbamate kinase
+llj:LG36_1986	CDS	complement(2161778..2162722)	arcC3; Carbamate kinase
+llj:LG36_1987	CDS	complement(2162739..2164349)	arcD2; Arginine/ornithine antiporter
+llj:LG36_1988	CDS	complement(2164450..2165514)	arcB; Ornithine carbamoyltransferase
+llj:LG36_1989	CDS	complement(2165696..2166928)	arcA; Arginine deiminase
+llj:LG36_1990	CDS	complement(2167231..2168925)	argS; Arginine-tRNA ligase
+llj:LG36_1991	CDS	2168993..2169451	argR; Arginine repressor
+llj:LG36_1992	CDS	complement(2169640..2170971)	murC; UDP-N-acetylmuramate-alanine ligase
+llj:LG36_1993	CDS	complement(2171176..2171769)	hypothetical protein
+llj:LG36_1994	CDS	complement(2171986..2175090)	snf; DNA/RNA helicase, SWF/SNF family
+llj:LG36_1995	CDS	complement(2175397..2177100)	poxL; Pyruvate oxidase
+llj:LG36_1996	CDS	complement(2177327..2178283)	Beta-lactamase family protein
+llj:LG36_1997	CDS	complement(2178356..2179135)	hypothetical protein
+llj:LG36_1998	CDS	2179490..2180275	yvdC; CAAX amino terminal protease family protein
+llj:LG36_1999	CDS	complement(2180310..2181179)	yvdD; Aquaporin / Glycerol uptake facilitator protein,MIP family
+llj:LG36_2000	CDS	2181351..2183642	pepX; Xaa-Pro dipeptidyl-peptidase
+llj:LG36_2001	CDS	2183644..2184354	yvdE; Glutamine amidotransferase, class I
+llj:LG36_2002	CDS	2184504..2185346	yvdF; Amino acid ABC transporter, substrate-binding protein
+llj:LG36_2003	CDS	complement(2185470..2186921)	gltX; Glutamyl-tRNA ligase
+llj:LG36_2004	CDS	complement(2187085..2187615)	yveA; Isochorismatase family protein
+llj:LG36_2005	CDS	complement(2187714..2188637)	yveB; Membrane-associated phospholipid phosphatase, PAP2 family
+llj:LG36_2006	CDS	2188875..2189369	yveC; Acetyltransferase, GNAT family
+llj:LG36_2007	CDS	complement(2189461..2189784)	hypothetical protein
+llj:LG36_2008	CDS	complement(2189771..2190118)	yveE; Transcriptional regulator, PadR family
+llj:LG36_2009	CDS	complement(2190105..2190467)	hypothetical protein
+llj:LG36_2010	CDS	complement(2190588..2191217)	hypothetical protein
+llj:LG36_2011	CDS	complement(2191282..2192367)	hypothetical protein
+llj:LG36_2012	CDS	2192598..2193284	hypothetical protein
+llj:LG36_2013	CDS	complement(2193327..2194688)	radA; DNA repair protein RadA
+llj:LG36_t0048	tRNA	complement(2195057..2195129)	tRNA-Thr
+llj:LG36_2014	CDS	complement(2195315..2195695)	rplQ; 50S ribosomal protein L17
+llj:LG36_2015	CDS	complement(2195714..2196652)	rpoA; DNA-directed RNA polymerase, alpha chain
+llj:LG36_2016	CDS	complement(2196700..2197083)	rpsK; 30S ribosomal protein S11
+llj:LG36_2017	CDS	complement(2197104..2197469)	rpsM; 30S ribosomal protein S13
+llj:LG36_2018	CDS	complement(2197657..2197875)	infA; Protein translation initiation factor 1
+llj:LG36_2019	CDS	complement(2198175..2198822)	adk; Adenylate kinase
+llj:LG36_2020	CDS	complement(2198962..2200281)	secY; Protein translocase subunit SecY
+llj:LG36_2021	CDS	complement(2200359..2200802)	rplO; 50S ribosomal protein L15
+llj:LG36_2022	CDS	complement(2201076..2201255)	rpmD; 50S ribosomal protein L30
+llj:LG36_2023	CDS	complement(2201266..2201772)	rpsE; 30S ribosomal protein S5
+llj:LG36_2024	CDS	complement(2201791..2202138)	rplR; 50S ribosomal protein L18
+llj:LG36_2025	CDS	complement(2202354..2202890)	rplF; 50S ribosomal protein L6
+llj:LG36_2026	CDS	complement(2203108..2203500)	rpsH; 30S ribosomal protein S8
+llj:LG36_2027	CDS	complement(2203721..2204377)	hypothetical protein
+llj:LG36_2028	CDS	complement(2204504..2204689)	30S ribosomal protein S14 type Z
+llj:LG36_2029	CDS	complement(2204708..2205250)	rplE; 50S ribosomal protein L5
+llj:LG36_2030	CDS	complement(2205270..2205575)	rplX; 50S ribosomal protein L24
+llj:LG36_2031	CDS	complement(2205709..2206077)	rplN; 50S ribosomal protein L14
+llj:LG36_2032	CDS	complement(2206100..2206360)	rpsQ; 30S ribosomal protein S17
+llj:LG36_2033	CDS	complement(2206381..2206590)	rpmC; 50S ribosomal protein L29
+llj:LG36_2034	CDS	complement(2206590..2207003)	rplP; 50S ribosomal protein L16
+llj:LG36_2035	CDS	complement(2207007..2207660)	rpsC; 30S ribosomal protein S3
+llj:LG36_2036	CDS	complement(2207673..2208020)	rplV; 50S ribosomal protein L22
+llj:LG36_2037	CDS	complement(2208036..2208347)	rpsS; 30S ribosomal protein S19
+llj:LG36_2038	CDS	complement(2208474..2209304)	rplB; 50S ribosomal protein L2
+llj:LG36_2039	CDS	complement(2209320..2209613)	rplW; 50S ribosomal protein L23
+llj:LG36_2040	CDS	complement(2209613..2210239)	rplD; 50S ribosomal protein L4
+llj:LG36_2041	CDS	complement(2210265..2210888)	rplC; 50S ribosomal protein L3
+llj:LG36_2042	CDS	complement(2210907..2211215)	rpsJ; 30S ribosomal protein S10
+llj:LG36_2043	CDS	2211529..2211897	mscL; Large-conductance mechanosensitive channel
+llj:LG36_2044	CDS	complement(2211937..2213226)	yvhA; Na+ driven multidrug efflux pump
+llj:LG36_2045	CDS	complement(2213223..2214713)	thrC; Threonine synthase
+llj:LG36_2046	CDS	complement(2214815..2215372)	nusG; Transcription antitermination protein NusG
+llj:LG36_2047	CDS	complement(2215570..2215764)	secE; Protein translocase, subunit SecE
+llj:LG36_2048	CDS	complement(2216064..2217881)	yvhB; Acyltransferase/SGNH hydrolase
+llj:LG36_2049	CDS	complement(2217983..2220214)	pbp2A; Multimodular transpeptidase-transglycosylase Pbp2A
+llj:LG36_2050	CDS	complement(2220520..2221155)	hypothetical protein
+llj:LG36_2051	CDS	complement(2221172..2221603)	hypothetical protein
+llj:LG36_2052	CDS	complement(2221716..2222093)	yviC; Pyridoxamine 5'-phosphate oxidase
+llj:LG36_2053	CDS	2222298..2223164	rluA; Pseudouridine synthase
+llj:LG36_2054	CDS	complement(2223202..2224011)	zitP; Zinc ABC transporter, permease protein
+llj:LG36_2055	CDS	complement(2224004..2224741)	zitQ; Zinc ABC transporter, ATP-binding protein
+llj:LG36_2056	CDS	complement(2224918..2225760)	zitS; Zinc ABC transporter, substrate-binding protein
+llj:LG36_2057	CDS	complement(2225757..2226194)	zitR; Transcriptional regulator, MarR family
+llj:LG36_2058	CDS	complement(2226275..2226550)	hypothetical protein
+llj:LG36_2059	CDS	complement(2226598..2227023)	comGF; Competence protein ComGF
+llj:LG36_2060	CDS	complement(2227007..2227303)	comGE; Competence protein ComGE
+llj:LG36_2061	CDS	complement(2227275..2227691)	comGD; Competence protein ComGD
+llj:LG36_2062	CDS	complement(2227666..2228049)	comGC; Competence protein ComGC
+llj:LG36_2063	CDS	complement(2228063..2229007)	comGB; Competence protein ComGB
+llj:LG36_2064	CDS	complement(2229030..2229968)	comGA; Competence protein ComGA
+llj:LG36_2065	CDS	complement(2230317..2235233)	polC; DNA polymerase III polC-type
+llj:LG36_2066	CDS	complement(2235406..2235942)	hypothetical protein
+llj:LG36_2067	CDS	complement(2235948..2237279)	noxD; NADH dehydrogenase
+llj:LG36_2068	CDS	complement(2237295..2239145)	proS; Proline-tRNA ligase
+llj:LG36_2069	CDS	complement(2239215..2240501)	yvjB; Membrane metalloendopeptidase, M50 family
+llj:LG36_2070	CDS	complement(2240520..2241323)	cdsA; Phosphatidate cytidylyltransferase
+llj:LG36_2071	CDS	complement(2241323..2242057)	uppS; Isoprenyl transferase
+llj:LG36_2072	CDS	complement(2242429..2242761)	hypothetical protein
+llj:LG36_2073	CDS	complement(2242856..2243554)	ywaCD; DNA-7-methylguanine glycosylase
+llj:LG36_2074	CDS	complement(2243573..2244052)	rlmH; Ribosomal RNA large subunit methyltransferase H
+llj:LG36_2075	CDS	2244428..2245654	htrA; Housekeeping protease
+llj:LG36_2076	CDS	2245780..2246778	ywaF; Glycosyltransferase, family 1
+llj:LG36_2077	CDS	2246904..2248244	ywaG; 1,2-diacylglycerol 3-glucosyltransferase
+llj:LG36_2078	CDS	2248352..2248576	hypothetical protein
+llj:LG36_2079	CDS	2248713..2249717	hypothetical protein
+llj:LG36_2080	CDS	complement(2249758..2250510)	ywbA; Methyltransferase
+llj:LG36_2081	CDS	complement(2250859..2253492)	polA; DNA polymerase
+llj:LG36_2082	CDS	2253731..2254540	ywbB; Hydrolase, HAD superfamily
+llj:LG36_2083	CDS	2254540..2255463	ccpB; Catabolite control protein B, transcriptional regulator, LacI family
+llj:LG36_r0008	rRNA	complement(2255561..2255674)	5S ribosomal RNA
+llj:LG36_r0009	rRNA	complement(2255760..2258660)	23S ribosomal RNA
+llj:LG36_t0049	tRNA	complement(2258801..2258873)	tRNA-Ala
+llj:LG36_r0010	rRNA	complement(2258972..2260506)	16S ribosomal RNA
+llj:LG36_2084	CDS	complement(2260881..2261372)	comX; Competence-specific transcriptional regulator, ComX family
+llj:LG36_2085	CDS	complement(2261631..2263361)	ezrA; Septation ring formation regulator
+llj:LG36_2086	CDS	complement(2263566..2264594)	tsf; Elongation factor Ts
+llj:LG36_2087	CDS	complement(2264716..2265528)	rpsB; 30S ribosomal protein S2
+llj:LG36_2088	CDS	2265842..2266867	ywcC; 3-Carboxymuconate cyclase
+llj:LG36_2089	CDS	2267099..2269810	adhE; Alcohol dehydrogenase
+llj:LG36_2090	CDS	complement(2270149..2270646)	hypothetical protein
+llj:LG36_2091	CDS	complement(2270633..2270842)	hypothetical protein
+llj:LG36_2092	CDS	complement(2270839..2271666)	ywdC; Fe-S oxidoreductase, radical SAM superfamily
+llj:LG36_2093	CDS	complement(2271659..2273782)	ywdD; Fe-S oxidoreductase, radical SAM superfamily/transporter, MF superfamily
+llj:LG36_2094	CDS	complement(2273885..2274742)	ywdE; Transcriptional regulator, Rgg/GadR/MutR family
+llj:LG36_2095	CDS	complement(2274864..2275892)	hypothetical protein
+llj:LG36_2096	CDS	complement(2275879..2276427)	coaD; Phosphopantetheine adenylyltransferase
+llj:LG36_2097	CDS	complement(2276424..2276990)	ywdG; Methyltransferase
+llj:LG36_2098	CDS	2276962..2277141	hypothetical protein
+llj:LG36_2099	CDS	complement(2277132..2278352)	yweA; Multidrug transporter, MF superfamily
+llj:LG36_2100	CDS	complement(2278435..2279661)	lmrP; Multidrug transporter, MF superfamily
+llj:LG36_2101	CDS	2279849..2280343	sigX; RNA polymerase ECF-type sigma factor
+llj:LG36_2102	CDS	2280367..2281473	yweB; ECF-type sigma factor negative effector
+llj:LG36_2103	CDS	complement(2281569..2282930)	pgi; Glucose-6-phosphate isomerase
+llj:LG36_2104	CDS	2283258..2283764	hypothetical protein
+llj:LG36_2105	CDS	complement(2283799..2284644)	hypothetical protein
+llj:LG36_2106	CDS	2284818..2285150	yweE; Transcriptional regulator, MarR family
+llj:LG36_2107	CDS	2285266..2285595	hypothetical protein
+llj:LG36_2108	CDS	complement(2285638..2288292)	Valyl-tRNA synthetase
+llj:LG36_2109	CDS	complement(2288548..2289204)	ywfA; Fibronectin-binding protein
+llj:LG36_2110	CDS	complement(2289554..2289802)	hypothetical protein
+llj:LG36_2111	CDS	complement(2289841..2290185)	hypothetical protein
+llj:LG36_2112	CDS	complement(2290186..2290695)	ywfD; Acetyltransferase, GNAT family
+llj:LG36_2113	CDS	complement(2290850..2291560)	ywfE; tRNA-binding protein
+llj:LG36_2114	CDS	complement(2291892..2293433)	23S rRNA (uracil-5-)-methyltransferase RumA
+llj:LG36_2115	CDS	complement(2293660..2296461)	Mucus-binding protein, LPXTG-anchored
+llj:LG36_2116	CDS	2296747..2297442	Regulatory protein RecX
+llj:LG36_r0011	rRNA	complement(2297656..2297769)	5S ribosomal RNA
+llj:LG36_r0012	rRNA	complement(2297855..2300755)	23S ribosomal RNA
+llj:LG36_t0050	tRNA	complement(2300896..2300968)	tRNA-Ala
+llj:LG36_r0013	rRNA	complement(2301067..2302601)	16S ribosomal RNA
+llj:LG36_2117	CDS	complement(2302926..2304341)	gntP; Gluconate permease
+llj:LG36_2118	CDS	complement(2304476..2305987)	gntK; Gluconokinase
+llj:LG36_2119	CDS	complement(2306108..2307016)	gntZ; 6-phosphogluconate dehydrogenase
+llj:LG36_2120	CDS	2307207..2308055	gntR; Transcriptional regulator, RpiR family
+llj:LG36_2121	CDS	2308093..2308401	hypothetical protein
+llj:LG36_2122	CDS	complement(2308475..2309248)	ywhB; Metallo-phosphoesterase
+llj:LG36_2123	CDS	complement(2309449..2309694)	rpsR; SSU ribosomal protein S18P
+llj:LG36_2124	CDS	complement(2309868..2310368)	ssbB; Single strand binding protein
+llj:LG36_2125	CDS	complement(2310398..2310691)	rpsF; SSU ribosomal protein S6P
+llj:LG36_2126	CDS	complement(2310884..2311738)	uppP; Undecaprenyl-diphosphatase
+llj:LG36_2127	CDS	2312121..2312336	hypothetical protein
+llj:LG36_2128	CDS	2312345..2312626	hypothetical protein
+llj:LG36_2129	CDS	2313223..2314689	lysP; Lysine-specific permease
+llj:LG36_2130	CDS	complement(2314725..2316383)	dnaH; DNA polymerase III subunit, gamma/tau
+llj:LG36_2131	CDS	complement(2316432..2317073)	ywiA; Aminoglycoside phosphotransferase
+llj:LG36_2132	CDS	complement(2317105..2317593)	ywiB; GAF domain-containing protein
+llj:LG36_2133	CDS	2317677..2317814	ywiC; Chorismate mutase
+llj:LG36_2134	CDS	complement(2318040..2318486)	hypothetical protein
+llj:LG36_2135	CDS	2318704..2318904	hypothetical protein
+llj:LG36_2136	CDS	complement(2318964..2320304)	glnA; Glutamine synthetase
+llj:LG36_2137	CDS	complement(2320366..2320731)	glnR; Transcriptional regulator, MerR family
+llj:LG36_2138	CDS	complement(2320832..2321269)	ptpL; Protein tyrosine phosphatase
+llj:LG36_2139	CDS	complement(2321426..2321578)	hypothetical protein
+llj:LG36_2140	CDS	complement(2321871..2322038)	ywiG; ABC transporter, ATP-binding protein
+llj:LG36_2141	CDS	complement(2322866..2323150)	hypothetical protein
+llj:LG36_2142	CDS	complement(2323188..2323361)	hypothetical protein
+llj:LG36_2143	CDS	complement(2323473..2323742)	Phage protein
+llj:LG36_2144	CDS	complement(2323928..2324089)	hypothetical protein
+llj:LG36_2145	CDS	complement(2324275..2325159)	ywiI; Transcriptional regulator, Rgg/GadR/MutR family
+llj:LG36_2146	CDS	complement(2325297..2326298)	ruvB; Holliday junction DNA helicase RuvB
+llj:LG36_2147	CDS	complement(2326425..2327018)	ruvA; Holliday junction DNA helicase RuvA
+llj:LG36_2148	CDS	complement(2327131..2329101)	mutL; DNA mismatch repair protein MutL
+llj:LG36_2149	CDS	complement(2329230..2329925)	hypothetical protein
+llj:LG36_2150	CDS	complement(2330040..2332562)	mutS; DNA mismatch repair protein MutS
+llj:LG36_2151	CDS	complement(2332756..2333103)	hypothetical protein
+llj:LG36_2152	CDS	2333879..2334922	hypothetical protein
+llj:LG36_2153	CDS	2334978..2335271	hypothetical protein
+llj:LG36_2154	CDS	complement(2335709..2336590)	ywjF; 3-hydroxyisobutyrate dehydrogenase
+llj:LG36_2155	CDS	complement(2336632..2336910)	hypothetical protein
+llj:LG36_t0051	tRNA	complement(2336910..2336992)	tRNA-Leu
+llj:LG36_2156	CDS	complement(2337133..2337510)	ywjH; membrane protein
+llj:LG36_2157	CDS	complement(2337510..2338361)	yxaA; Transport protein
+llj:LG36_2158	CDS	2338547..2338726	hypothetical protein
+llj:LG36_2159	CDS	2338797..2340308	zwf; Glucose-6-phosphate 1-dehydrogenase
+llj:LG36_2160	CDS	complement(2340499..2341026)	yxaC; Hydrolase, HAD superfamily
+llj:LG36_2161	CDS	complement(2341159..2342313)	dnaJ; Chaperone protein DnaJ
+llj:LG36_2162	CDS	complement(2342412..2343155)	hypothetical protein
+llj:LG36_2163	CDS	complement(2343145..2343867)	racD; Aspartate racemase
+llj:LG36_2164	CDS	complement(2343899..2345125)	yxbA; ATP-binding protein
+llj:LG36_2165	CDS	complement(2345137..2347014)	Asparagine synthetase
+llj:LG36_2166	CDS	complement(2347137..2348447)	hypothetical protein
+llj:LG36_2167	CDS	complement(2348551..2349078)	mreD; Rod shape-determining protein MreD
+llj:LG36_2168	CDS	complement(2349169..2350044)	mreC; Rod shape-determining protein MreC
+llj:LG36_2169	CDS	2350337..2350777	yxbC; Hydrolase, MutT/nudix family
+llj:LG36_2170	CDS	complement(2350806..2351480)	rpiA; Ribose 5-phosphate isomerase
+llj:LG36_2171	CDS	complement(2351564..2352235)	rcfB; Transcription regulator, Crp family
+llj:LG36_2172	CDS	complement(2352333..2353565)	yxbD; Transporter, MFS superfamily
+llj:LG36_2173	CDS	complement(2353616..2354053)	Universal stress protein
+llj:LG36_2174	CDS	complement(2354073..2354276)	hypothetical protein
+llj:LG36_2175	CDS	complement(2354523..2358833)	yxcA; 2-hydroxyglutaryl-CoA dehydratase
+llj:LG36_2176	CDS	2359242..2359856	yxcB; Transcriptional regulator, TetR family
+llj:LG36_2177	CDS	complement(2359941..2360762)	rsuA; Ribosomal small subunit pseudouridine synthase A
+llj:LG36_2178	CDS	complement(2360765..2361400)	hypothetical protein
+llj:LG36_2179	CDS	2361612..2362979	thdF; GTP-binding protein
+llj:LG36_2180	CDS	complement(2363028..2363774)	hypothetical protein
+llj:LG36_2181	CDS	complement(2363774..2365774)	recG; ATP-dependent DNA helicase RecG
+llj:LG36_2182	CDS	complement(2365888..2366232)	phnA; Alkylphosphonate uptake protein
+llj:LG36_2183	CDS	complement(2366302..2367312)	gapB; Glyceraldehyde 3-phosphate dehydrogenase
+llj:LG36_2184	CDS	complement(2367590..2368111)	hypotheticalf protein
+llj:LG36_2185	CDS	2368240..2370933	yxdC; Cation-transporting ATPase
+llj:LG36_2186	CDS	complement(2370975..2371502)	yxdD; Transcriptional regulator, TetR family
+llj:LG36_2187	CDS	2371627..2372646	yxdE; Short chain dehydrogenase
+llj:LG36_2188	CDS	2372863..2373318	yxdG; Transporter protein
+llj:LG36_t0052	tRNA	complement(2373449..2373532)	tRNA-Leu
+llj:LG36_t0053	tRNA	complement(2373545..2373616)	tRNA-Gln
+llj:LG36_t0054	tRNA	complement(2373624..2373696)	tRNA-His
+llj:LG36_t0055	tRNA	complement(2373707..2373777)	tRNA-Trp
+llj:LG36_t0056	tRNA	complement(2373784..2373864)	tRNA-Tyr
+llj:LG36_t0057	tRNA	complement(2373900..2373972)	tRNA-Val
+llj:LG36_r0014	rRNA	complement(2373947..2374088)	5S ribosomal RNA
+llj:LG36_r0015	rRNA	complement(2374174..2377074)	23S ribosomal RNA
+llj:LG36_t0058	tRNA	complement(2377215..2377287)	tRNA-Ala
+llj:LG36_r0016	rRNA	complement(2377386..2378920)	16S ribosomal RNA
+llj:LG36_2189	CDS	complement(2379335..2379727)	rpsI; SSU ribosomal protein S9P
+llj:LG36_2190	CDS	complement(2379747..2380193)	rplM; LSU ribosomal protein L13P
+llj:LG36_2191	CDS	2380559..2381632	yxeA; ABC transporter, permease protein
+llj:LG36_2192	CDS	2381641..2382312	yxeB; ABC transporter, ATP-binding protein
+llj:LG36_2193	CDS	2382457..2383335	rnhA; Ribonuclease HIII
+llj:LG36_2194	CDS	2383347..2383973	sipL; Signal peptidase I
+llj:LG36_2195	CDS	complement(2384023..2384838)	purR; Pur operon repressor
+llj:LG36_2196	CDS	complement(2385183..2387312)	fusA; Translation elongation factor G
+llj:LG36_2197	CDS	complement(2387577..2388044)	rpsG; SSU ribosomal protein S7P
+llj:LG36_2198	CDS	complement(2388063..2388476)	rpsL; SSU ribosomal protein S12P
+llj:LG36_2199	CDS	2388803..2390110	dacA; D-alanyl-D-alanine serine-type carboxypeptidase
+llj:LG36_2200	CDS	complement(2390184..2391071)	glcU; Glucose uptake permease
+llj:LG36_2201	CDS	complement(2391197..2391787)	yxfB; SAM-dependent methyltransferase
+llj:LG36_2202	CDS	complement(2391918..2392859)	yxfC; Radical SAM superfamily protein
+llj:LG36_t0059	tRNA	complement(2392955..2393028)	tRNA-Asn
+llj:LG36_t0060	tRNA	complement(2393065..2393136)	tRNA-Glu
+llj:LG36_r0017	rRNA	complement(2393145..2393258)	5S ribosomal RNA
+llj:LG36_r0018	rRNA	complement(2393344..2396244)	23S ribosomal RNA
+llj:LG36_t0061	tRNA	complement(2396385..2396457)	tRNA-Ala
+llj:LG36_r0019	rRNA	complement(2396556..2398090)	16S ribosomal RNA
