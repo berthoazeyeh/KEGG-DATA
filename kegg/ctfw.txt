@@ -1,0 +1,936 @@
+ctfw:SWFP_0001	CDS	1..1776	conserved hypothetical protein
+ctfw:SWFP_0011	CDS	complement(1921..2193)	putative membrane protein
+ctfw:SWFP_0021	CDS	2394..2696	gatC; glutamyl-tRNA(Gln) amidotransferase subunit C
+ctfw:SWFP_0031	CDS	2708..4183	gatA; aspartyl-glutamyl-tRNA(Asn-Gln) amidotransferase subunit A
+ctfw:SWFP_0041	CDS	4185..5651	gatB; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+ctfw:SWFP_0051	CDS	complement(5748..6839)	putative membrane protein
+ctfw:SWFP_0061	CDS	complement(6967..7536)	putative membrane protein
+ctfw:SWFP_0071	CDS	7850..8800	conserved hypothetical protein
+ctfw:SWFP_0081	CDS	complement(8816..9718)	rnhC; ribonuclease HIII
+ctfw:SWFP_0091	CDS	9974..10405	conserved hypothetical protein
+ctfw:SWFP_0101	CDS	complement(10392..11759)	htrB; lipid A biosynthesis lauroyl acyltransferase
+ctfw:SWFP_0111	CDS	complement(11891..13147)	putative exported protein
+ctfw:SWFP_0121	CDS	complement(13144..13938)	putative integral membrane protein
+ctfw:SWFP_0131	CDS	14213..15553	cydA; cytochrome d ubiquinol oxidase subunit I
+ctfw:SWFP_0141	CDS	15565..16626	cydB; cytochrome d ubiquinol oxidase subunit II
+ctfw:SWFP_0151	CDS	complement(16724..18028)	conserved hypothetical protein
+ctfw:SWFP_0161	CDS	18237..18965	conserved hypothetical protein
+ctfw:SWFP_0171	CDS	19151..20452	conserved hypothetical protein
+ctfw:SWFP_0181	CDS	complement(20514..20987)	putative membrane protein
+ctfw:SWFP_0191	misc_RNA	complement(21265..21683)	SWFP_0191
+ctfw:SWFP_0201	CDS	22033..25143	ileS; isoleucyl-tRNA synthetase, mupirocin resistant
+ctfw:SWFP_0211	CDS	complement(25202..27088)	lepB; signal peptidase I
+ctfw:SWFP_0221	CDS	complement(27274..28017)	putative exported protein
+ctfw:SWFP_0231	CDS	28093..28419	rpmE; LSU ribosomal protein L31P
+ctfw:SWFP_0241	CDS	28607..29686	prfA; bacterial peptide chain release factor 1
+ctfw:SWFP_0251	CDS	29670..30542	peptide release factor-glutamine N5-methyltransferase
+ctfw:SWFP_0261	CDS	30539..31885	ffh; signal recognition particle, subunit FFH/SRP54
+ctfw:SWFP_0271	CDS	31876..32226	rpsP; SSU ribosomal protein S16P
+ctfw:SWFP_0281	CDS	32242..33300	trmD; tRNA (guanine-N(1)-)-methyltransferase
+ctfw:SWFP_0291	CDS	33326..33691	rplS; LSU ribosomal protein L19P
+ctfw:SWFP_0301	CDS	33755..34408	rnhB; ribonuclease HII
+ctfw:SWFP_0311	CDS	34399..35016	gmk; guanylate kinase
+ctfw:SWFP_0321	CDS	35009..35311	conserved hypothetical protein
+ctfw:SWFP_0331	CDS	35311..36963	metG; methionyl-tRNA synthetase
+ctfw:SWFP_0341	CDS	complement(37103..39343)	recD; exodeoxyribonuclease V alpha chain
+ctfw:SWFP_0351	CDS	complement(39591..40571)	putative membrane transport/efflux protein
+ctfw:SWFP_0361	CDS	40955..41728	putative protein ligase
+ctfw:SWFP_0371	CDS	complement(41693..42850)	putative exported protein
+ctfw:SWFP_0381	CDS	complement(join(42911..43087,43087..43266))	conserved hypothetical protein (pseudogene)
+ctfw:SWFP_0401	tRNA	complement(43330..43401)	tRNA_1; tRNA_1
+ctfw:SWFP_0411	CDS	complement(43465..43809)	putative membrane protein
+ctfw:SWFP_0421	CDS	complement(43831..44403)	dcd; deoxycytidine triphosphate deaminase
+ctfw:SWFP_0431	CDS	44491..44643	conserved hypothetical protein
+ctfw:SWFP_0441	CDS	44685..45689	ruvB; Holliday junction ATP-dependent DNA helicase
+ctfw:SWFP_0451	CDS	45691..46503	putative exported protein
+ctfw:SWFP_0461	CDS	complement(46566..48566)	putative glycosyl hydrolase
+ctfw:SWFP_0471	CDS	complement(48684..49187)	putative type III secretion system chaperone
+ctfw:SWFP_0481	CDS	49653..50126	ssb; single-strand DNA binding protein
+ctfw:SWFP_0491	CDS	50467..51966	putative aminopeptidase
+ctfw:SWFP_0501	CDS	52105..52716	Histone H1-like protein HC2
+ctfw:SWFP_0511	CDS	52871..53815	conserved hypothetical protein
+ctfw:SWFP_0521	CDS	53910..54623	conserved hypothetical protein
+ctfw:SWFP_0531	CDS	54714..56192	conserved hypothetical protein
+ctfw:SWFP_0541	CDS	complement(56251..57930)	conserved hypothetical protein
+ctfw:SWFP_0551	CDS	complement(58034..59596)	conserved hypothetical protein
+ctfw:SWFP_0561	CDS	complement(59657..60787)	hemN; oxygen-independent coproporphyrinogen-III oxidase
+ctfw:SWFP_0571	CDS	complement(60777..61223)	conserved hypothetical protein
+ctfw:SWFP_0581	CDS	61555..64266	sucA; 2-oxoglutarate dehydrogenase E1 component
+ctfw:SWFP_0591	CDS	64270..65367	sucB; dihydrolipoamide succinyltransferase component (E2) of 2-oxoglutarate dehydrogenase complex
+ctfw:SWFP_0601	CDS	complement(65396..66127)	conserved hypothetical protein
+ctfw:SWFP_0611	CDS	complement(66136..67944)	gcpE; 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+ctfw:SWFP_0621	CDS	complement(68096..69199)	putative membrane protein
+ctfw:SWFP_0631	CDS	complement(69279..69554)	fer; ferredoxin
+ctfw:SWFP_0651	tRNA	complement(69592..69666)	tRNA_2; tRNA_2
+ctfw:SWFP_0661	CDS	69736..71553	flhA; Flagellar biosynthesis protein (export)
+ctfw:SWFP_0671	CDS	71661..72422	fliA; RNA polymerase sigma factor
+ctfw:SWFP_0681	CDS	72581..73819	tyrS; tyrosyl-tRNA synthetase
+ctfw:SWFP_0691	CDS	73829..75271	gnd; 6-phosphogluconate dehydrogenase
+ctfw:SWFP_0701	CDS	complement(75332..77140)	lepA; GTP-binding protein
+ctfw:SWFP_0711	CDS	complement(77326..78912)	ADP,ATP carrier protein
+ctfw:SWFP_0721	CDS	complement(79262..79738)	conserved hypothetical protein
+ctfw:SWFP_0731	CDS	80398..81378	ABC transport protein, solute binding component
+ctfw:SWFP_0741	CDS	81371..82150	ABC transport protein, ATP-binding component
+ctfw:SWFP_0751	CDS	82151..83506	ABC transport protein, membrane permease
+ctfw:SWFP_0761	CDS	83496..84452	ABC transport protein, membrane permease
+ctfw:SWFP_0771	CDS	84479..85618	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+ctfw:SWFP_0781	CDS	85814..87673	putative protease
+ctfw:SWFP_0791	CDS	complement(87620..88597)	exported protein
+ctfw:SWFP_0801	CDS	complement(88755..89852)	recF; DNA replication and repair protein
+ctfw:SWFP_0811	CDS	complement(89852..91102)	dnaN; DNA polymerase III, beta chain
+ctfw:SWFP_0821	CDS	91232..91687	smpB; SsrA-binding protein
+ctfw:SWFP_0831	CDS	complement(91665..92615)	apbE; thiamine biosynthesis lipoprotein
+ctfw:SWFP_0841	CDS	complement(92585..93448)	folD; methylenetetrahydrofolate dehydrogenase (NADP+)
+ctfw:SWFP_0851	CDS	complement(93566..93961)	putative integral membrane protein
+ctfw:SWFP_0861	CDS	94285..94578	ltuB; late transcription unit B protein
+ctfw:SWFP_0871	CDS	join(94611..94832,94834..94932)	putative membrane protein (pseudogene)
+ctfw:SWFP_0881	CDS	94942..96627	conserved hypothetical protein
+ctfw:SWFP_0891	CDS	96624..97106	conserved hypothetical protein
+ctfw:SWFP_0901	CDS	complement(97120..98205)	phosphatidylcholine-hydrolyzing phospholipase D (PLD) protein
+ctfw:SWFP_0911	CDS	complement(98375..100114)	putative decarboxylase
+ctfw:SWFP_0921	CDS	complement(100240..100509)	rpmB; LSU ribosomal protein L28P
+ctfw:SWFP_0931	CDS	complement(100658..102241)	malQ; 4-alpha-glucanotransferase
+ctfw:SWFP_0941	CDS	complement(102245..102685)	scc1; type III secretion chaperone
+ctfw:SWFP_0951	CDS	complement(102723..103988)	lcrE; low calcium response protein E (TTSS effector protein)
+ctfw:SWFP_0961	CDS	complement(104006..106132)	lcrD; low calcium response protein D (predicted to be part of the TTSS apparatus)
+ctfw:SWFP_0971	CDS	complement(106132..107214)	sctU; type III secretion system inner membrane protein
+ctfw:SWFP_0981	CDS	107471..108571	GTP-binding protein
+ctfw:SWFP_0991	CDS	complement(108580..109485)	ribF; riboflavin kinase
+ctfw:SWFP_1001	CDS	complement(109442..110167)	truB; tRNA pseudouridine synthase B
+ctfw:SWFP_1011	CDS	complement(110205..110576)	rbfA; ribosome-binding factor A
+ctfw:SWFP_1021	CDS	complement(110583..113261)	infA; bacterial protein translation initiation factor 2 (IF-2)
+ctfw:SWFP_1031	CDS	complement(113218..114522)	nusA; N utilization substance protein A
+ctfw:SWFP_1041	CDS	complement(114640..116349)	rpsA; SSU ribosomal protein S1P
+ctfw:SWFP_1051	CDS	116594..117649	trxB; thioredoxin reductase
+ctfw:SWFP_1061	CDS	117655..118014	acpS; holo-[acyl-carrier protein] synthase
+ctfw:SWFP_1071	CDS	complement(join(118015..118239,118239..118475))	putative membrane protein (pseudogene)
+ctfw:SWFP_1081	CDS	118610..119071	putative membrane protein
+ctfw:SWFP_1091	CDS	119106..120002	conserved hypothetical protein
+ctfw:SWFP_1101	CDS	complement(119992..120888)	fabI; enoyl-acyl-carrier protein reductase
+ctfw:SWFP_1111	CDS	121126..123096	conserved hypothetical protein
+ctfw:SWFP_1121	CDS	complement(123209..124120)	tRNA pseudouridine synthase A
+ctfw:SWFP_1131	CDS	124167..125276	putative DNA glycosylase
+ctfw:SWFP_1141	CDS	125326..126081	conserved hypothetical protein
+ctfw:SWFP_1151	CDS	complement(126094..126882)	conserved hypothetical protein
+ctfw:SWFP_1161	CDS	complement(127012..128646)	hsp60_1; chaperonin GroEL
+ctfw:SWFP_1171	CDS	complement(128685..128993)	groES; 10 kDa chaperonin GroES
+ctfw:SWFP_1181	CDS	complement(129165..130991)	pepF; oligoendopeptidase F
+ctfw:SWFP_1191	CDS	131294..133897	clpB; chaperone-protease ClpB
+ctfw:SWFP_1201	CDS	133923..135383	conserved hypothetical protein
+ctfw:SWFP_1211	CDS	135613..136038	incD; inclusion membrane protein D
+ctfw:SWFP_1221	CDS	136121..136519	incE; inclusion membrane protein E
+ctfw:SWFP_1231	CDS	136524..136838	incF; inclusion membrane protein F
+ctfw:SWFP_1241	CDS	136925..137428	incG; inclusion membrane protein G
+ctfw:SWFP_1251	CDS	complement(137595..138335)	incA; inclusion membrane protein A
+ctfw:SWFP_1261	CDS	complement(138494..138736)	conserved hypothetical protein
+ctfw:SWFP_1271	CDS	138835..139521	araD; ribulose-phosphate 3-epimerase
+ctfw:SWFP_1281	CDS	139508..140065	efp; translation elongation factor P
+ctfw:SWFP_1291	CDS	140078..140572	accB; biotin carboxyl carrier protein of acetyl-CoA carboxylase
+ctfw:SWFP_1301	CDS	140576..141949	accC; biotin carboxylase
+ctfw:SWFP_1311	CDS	142172..142624	rplM; LSU ribosomal protein L13P
+ctfw:SWFP_1321	CDS	142650..143039	rpsI; SSU ribosomal protein S9P
+ctfw:SWFP_1331	CDS	complement(143087..143938)	chitinase
+ctfw:SWFP_1341	CDS	complement(144034..144771)	adk; adenylate kinase
+ctfw:SWFP_1351	CDS	144977..145621	putative ABC-membrane transport protein, inner membrane component
+ctfw:SWFP_1361	CDS	145618..146319	ABC transporter, ATP-binding component
+ctfw:SWFP_1371	CDS	complement(146322..149738)	putative exported protein
+ctfw:SWFP_1381	CDS	complement(149735..151012)	conserved hypothetical protein
+ctfw:SWFP_1391	CDS	complement(151090..151893)	putative methyltransferase
+ctfw:SWFP_1401	CDS	152348..152761	conserved hypothetical protein
+ctfw:SWFP_1411	CDS	152820..153902	putative exported protein
+ctfw:SWFP_1421	CDS	153992..154711	putative phospholipase-carboxylesterase family protein
+ctfw:SWFP_1431	CDS	154730..155575	conserved hypothetical protein
+ctfw:SWFP_1441	CDS	155553..156500	microsomal dipeptidase
+ctfw:SWFP_1451	CDS	complement(156497..157777)	oppA; oligopeptide transport system binding protein
+ctfw:SWFP_1461	CDS	157953..158639	exported protein
+ctfw:SWFP_1471	CDS	158823..159269	protein translocase
+ctfw:SWFP_1491	tRNA	159338..159410	tRNA_3; tRNA_3
+ctfw:SWFP_1511	tRNA	159419..159501	tRNA_4; tRNA_4
+ctfw:SWFP_1521	CDS	159668..160525	conserved hypothetical protein
+ctfw:SWFP_1531	CDS	160527..161369	conserved hypothetical protein
+ctfw:SWFP_1541	CDS	161369..162226	putative membrane protein
+ctfw:SWFP_1551	CDS	162412..164256	pkn1; serine-threonine-protein kinase
+ctfw:SWFP_1561	CDS	164267..166258	dnlJ; NAD-dependent DNA ligase
+ctfw:SWFP_1571	CDS	166356..170705	putative integral membrane protein
+ctfw:SWFP_1581	CDS	complement(170768..172291)	mhpA; FAD-dependent monooxygenase
+ctfw:SWFP_1591	CDS	complement(172491..173438)	putative exported protein
+ctfw:SWFP_1601	CDS	173839..173997	rpmG; LSU ribosomal protein L33P
+ctfw:SWFP_1611	CDS	174033..175544	lipoprotein releasing systen, inner membrane component
+ctfw:SWFP_1621	CDS	175549..176226	lipoprotein release ATP-binding component
+ctfw:SWFP_1631	CDS	complement(176377..178809)	MAC/perforin family protein
+ctfw:SWFP_1641	CDS	complement(178995..180152)	phosphatidylcholine-hydrolyzing phospholipase D (PLD) protein
+ctfw:SWFP_1651	CDS	complement(180121..181062)	phosphatidylcholine-hydrolyzing phospholipase D (PLD) protein
+ctfw:SWFP_1661	CDS	complement(181419..182618)	phosphatidylcholine-hydrolyzing phospholipase D (PLD) protein
+ctfw:SWFP_1671	CDS	complement(join(182741..182986,182988..183482,183482..184210))	phosphatidylcholine-hydrolyzing phospholipase D (PLD) protein (pseudogene)
+ctfw:SWFP_1681	CDS	complement(184437..184940)	conserved hypothetical protein
+ctfw:SWFP_1691	CDS	complement(184937..185677)	conserved hypothetical protein
+ctfw:SWFP_1701	CDS	complement(185825..186064)	putative membrane protein
+ctfw:SWFP_1711	CDS	186297..187943	putative membrane protein
+ctfw:SWFP_1721	CDS	187996..188256	putative membrane protein
+ctfw:SWFP_1731	CDS	188730..189176	putative cytoadherence factor (fragment)
+ctfw:SWFP_1741	CDS	189173..191092	putative cytoadherence factor (fragment)
+ctfw:SWFP_1751	CDS	191148..192479	putative cytoadherence factor (fragment)
+ctfw:SWFP_1761	CDS	<192476..192847	putative cytoadherence factor (fragment)
+ctfw:SWFP_1771	CDS	192903..193187	trpR; trp operon repressor
+ctfw:SWFP_1781	CDS	193536..194714	trpB; tryptophan synthase beta chain
+ctfw:SWFP_1791	CDS	194707..195468	trpA; Tryptophan synthase alpha chain
+ctfw:SWFP_1801	CDS	complement(195715..196173)	hypothetical protein
+ctfw:SWFP_1811	CDS	complement(196136..196402)	conserved hypothetical protein
+ctfw:SWFP_1821	gene	complement(join(196470..196781,196781..197284))	pseudogene
+ctfw:SWFP_1831	CDS	197479..199068	oppA2; Oligopeptide transport system binding protein
+ctfw:SWFP_1841	CDS	complement(199095..199502)	dsbB; disulfide bond formation protein B
+ctfw:SWFP_1851	CDS	complement(199499..200215)	dsbG; disulfide bond chaperone
+ctfw:SWFP_1861	CDS	200361..201575	putative integral membrane protein
+ctfw:SWFP_1871	CDS	complement(201577..202089)	putative membrane protein
+ctfw:SWFP_1881	CDS	complement(202233..202925)	ABC transporter, ATP-binding protein
+ctfw:SWFP_1891	tRNA	complement(202963..203036)	tRNA_25; tRNA_25
+ctfw:SWFP_1901	tRNA	complement(203042..203114)	tRNA_26; tRNA_26
+ctfw:SWFP_1911	CDS	complement(203233..203943)	putative exported protein
+ctfw:SWFP_1921	CDS	204311..205075	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+ctfw:SWFP_1931	CDS	205051..206670	pyrG; CTP synthase
+ctfw:SWFP_1941	CDS	206657..207103	putative Holliday junction resolvase
+ctfw:SWFP_1951	CDS	207220..208743	zwf; glucose-6-phosphate 1-dehydrogenase
+ctfw:SWFP_1961	CDS	208768..209538	devB; 6-phosphogluconolactonase
+ctfw:SWFP_1971	CDS	complement(209535..210407)	dnaX; DNA polymerase III subunit gamma/tau
+ctfw:SWFP_1981	CDS	complement(210421..211032)	tdk; thymidylate kinase
+ctfw:SWFP_1991	CDS	complement(211034..213544)	gyrA; DNA gyrase subunit A
+ctfw:SWFP_2001	CDS	complement(213559..215973)	gyrB2; DNA gyrase subunit B
+ctfw:SWFP_2011	CDS	complement(215976..216326)	conserved hypothetical protein
+ctfw:SWFP_2021	CDS	complement(216460..217131)	candidate inclusion membrane protein
+ctfw:SWFP_2031	CDS	complement(217236..218354)	tgt; queuine tRNA-ribosyltransferase
+ctfw:SWFP_2041	CDS	complement(218481..219893)	mgtE; magnesium transport protein
+ctfw:SWFP_2051	CDS	complement(220332..221423)	putative integral membrane protein
+ctfw:SWFP_2061	CDS	221649..221969	candidate inclusion membrane protein
+ctfw:SWFP_2071	CDS	222045..223061	gcp; O-sialoglycoprotein endopeptidase
+ctfw:SWFP_2081	CDS	223025..224581	oppA3; oligopeptide transport system binding protein
+ctfw:SWFP_2091	CDS	224740..225681	oppB; oligopeptide transport system membrane permease
+ctfw:SWFP_2101	CDS	225713..226558	oppC; oligopeptide transport system membrane permease
+ctfw:SWFP_2111	CDS	226551..227384	oppD; oligopeptide transport system ATP-binding protein
+ctfw:SWFP_2121	CDS	227399..228142	oppF; oligopeptide transport system ATP-binding protein
+ctfw:SWFP_2131	CDS	228451..229200	conserved hypothetical protein
+ctfw:SWFP_2141	CDS	229230..230645	sodium:sulfate symporter
+ctfw:SWFP_2151	CDS	230665..232326	pfkA; pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+ctfw:SWFP_2161	CDS	232335..233183	conserved hypothetical protein
+ctfw:SWFP_2171	CDS	233165..234811	pfkA_2; pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+ctfw:SWFP_2181	tRNA	complement(234866..234939)	tRNA_31; tRNA_31
+ctfw:SWFP_2191	tRNA	complement(234958..235030)	tRNA_30; tRNA_30
+ctfw:SWFP_2201	CDS	complement(235057..236352)	gseA; 3-deoxy-D-manno-octulosonic-acid transferase
+ctfw:SWFP_2211	CDS	complement(236349..238808)	leuS; leucyl-tRNA synthetase
+ctfw:SWFP_2221	CDS	239005..240273	hemL; glutamate-1-semialdehyde 2,1-aminomutase
+ctfw:SWFP_2231	CDS	complement(240265..240834)	conserved hypothetical protein
+ctfw:SWFP_2241	CDS	complement(240854..241300)	conserved hypothetical protein
+ctfw:SWFP_2251	CDS	complement(241290..242018)	rpiA; ribose 5-phosphate isomerase
+ctfw:SWFP_2261	CDS	complement(242113..243756)	candidate inclusion membrane protein
+ctfw:SWFP_2271	CDS	244060..245106	dhnA; fructose-bisphosphate aldolase
+ctfw:SWFP_2281	CDS	245120..246520	xasA; glutamate/gamma-aminobutyrate antiporter
+ctfw:SWFP_2291	CDS	246614..247378	conserved hypothetical protein
+ctfw:SWFP_2301	CDS	247508..248359	surE; 5'-nucleotidase
+ctfw:SWFP_2311	CDS	248471..249379	ubiA; 4-hydroxybenzoate polyprenyltransferase
+ctfw:SWFP_2321	CDS	249376..249954	putative flavoprotein
+ctfw:SWFP_2331	CDS	complement(249951..250847)	putative exported protein
+ctfw:SWFP_2351	tRNA	complement(250871..250944)	tRNA_11; tRNA_11
+ctfw:SWFP_2371	tRNA	complement(250952..251024)	tRNA_10; tRNA_10
+ctfw:SWFP_2381	CDS	complement(251136..251276)	conserved hypothetical protein
+ctfw:SWFP_2391	CDS	complement(251303..251692)	candidate inclusion membrane protein
+ctfw:SWFP_2401	CDS	complement(251833..252645)	candidate inclusion membrane protein
+ctfw:SWFP_2411	CDS	complement(253036..253479)	candidate inclusion membrane protein
+ctfw:SWFP_2421	CDS	complement(253570..253938)	candidate inclusion membrane protein
+ctfw:SWFP_2431	CDS	complement(254037..254552)	candidate inclusion membrane protein
+ctfw:SWFP_2441	CDS	complement(254683..255084)	candidate inclusion membrane protein
+ctfw:SWFP_2451	CDS	complement(255364..255954)	candidate inclusion membrane protein
+ctfw:SWFP_2461	CDS	complement(256104..256751)	candidate inclusion membrane protein
+ctfw:SWFP_2471	CDS	256977..258224	putative sodium:dicarboxylate symport protein
+ctfw:SWFP_2481	CDS	258408..259880	sodium-dependent amino acid transporter
+ctfw:SWFP_2491	CDS	259985..260332	incB; inclusion membrane protein B
+ctfw:SWFP_2501	CDS	260409..260945	incC; inclusion membrane protein C
+ctfw:SWFP_2511	CDS	261003..263786	putative membrane transport protein
+ctfw:SWFP_2521	CDS	263815..264228	transcription regulator, crp family
+ctfw:SWFP_2531	CDS	complement(264289..264522)	acpP; acyl carrier protein
+ctfw:SWFP_2541	CDS	complement(264891..265637)	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+ctfw:SWFP_2551	CDS	complement(265634..266560)	fabD; malonyl-CoA-[acyl-carrier-protein] transacylase
+ctfw:SWFP_2561	CDS	complement(266577..267560)	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III
+ctfw:SWFP_2571	CDS	267698..268300	recR; recombination protein
+ctfw:SWFP_2581	CDS	268675..271053	outer membrane protein (variable surface antigen)
+ctfw:SWFP_2591	CDS	271122..271643	ompH; Outer membrane protein
+ctfw:SWFP_2601	CDS	271671..272735	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+ctfw:SWFP_2611	CDS	complement(272732..273928)	conserved hypothetical protein
+ctfw:SWFP_2621	CDS	274150..275172	pdhA; pyruvate dehydrogenase E1 component alpha subunit
+ctfw:SWFP_2631	CDS	275165..276151	pdhB; pyruvate dehydrogenase E1 component beta subunit
+ctfw:SWFP_2641	CDS	276156..277445	pdhC; dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+ctfw:SWFP_2651	CDS	complement(277472..279916)	glgP; glycogen phosphorylase
+ctfw:SWFP_2661	CDS	280072..280422	conserved hypothetical protein
+ctfw:SWFP_2671	CDS	complement(280476..281846)	dnaA; Chromosomal replication initiation protein
+ctfw:SWFP_2681	CDS	complement(281923..284286)	oxaA; inner membrane protein
+ctfw:SWFP_2691	CDS	complement(284596..285414)	lgt; prolipoprotein diacylglyceryl transferase
+ctfw:SWFP_2701	CDS	285665..286312	putative lipoprotein
+ctfw:SWFP_2711	CDS	286316..287086	inner membrane protein
+ctfw:SWFP_2731	misc_RNA	complement(287131..287232)	SWFP_2731
+ctfw:SWFP_2741	CDS	complement(287294..287677)	conserved hypothetical protein
+ctfw:SWFP_2751	CDS	287866..289110	putative membrane transport protein
+ctfw:SWFP_2761	CDS	289100..290314	conserved hypothetical protein
+ctfw:SWFP_2771	CDS	complement(290318..291442)	putative cysteine desulfurase
+ctfw:SWFP_2781	CDS	complement(291448..292194)	protein phosphatase 2C
+ctfw:SWFP_2791	CDS	292513..293004	conserved hypothetical protein
+ctfw:SWFP_2801	CDS	293013..293711	dnaQ; DNA polymerase III, epsilon chain
+ctfw:SWFP_2811	CDS	293708..294478	conserved hypothetical protein
+ctfw:SWFP_2821	CDS	294471..295061	conserved hypothetical protein
+ctfw:SWFP_2831	CDS	complement(295082..297022)	ABC transporter, ATP-binding and membrane components
+ctfw:SWFP_2841	CDS	complement(296988..297962)	accA; acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+ctfw:SWFP_2851	CDS	complement(298095..299276)	conserved hypothetical protein
+ctfw:SWFP_2861	CDS	complement(299394..299696)	ihfA; integration host factor alpha-subunit
+ctfw:SWFP_2871	CDS	complement(299916..300695)	amiA; N-acetylmuramoyl-L-alanine amidase
+ctfw:SWFP_2881	CDS	complement(300610..302061)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-dia minopimelate ligase
+ctfw:SWFP_2891	CDS	complement(302384..304327)	pbp; penicillin-binding protein
+ctfw:SWFP_2901	CDS	complement(304314..304601)	putative exported protein
+ctfw:SWFP_2911	CDS	complement(304601..305503)	mraW; S-adenosyl-L-methionine-dependent methyltransferase
+ctfw:SWFP_2921	CDS	305781..306347	conserved hypothetical protein
+ctfw:SWFP_2931	CDS	306354..306773	conserved hypothetical protein
+ctfw:SWFP_2941	CDS	307016..308383	dnaA2; Chromosomal replication initiation protein
+ctfw:SWFP_2951	CDS	308435..309019	conserved hypothetical protein
+ctfw:SWFP_2961	CDS	complement(308991..309650)	conserved hypothetical protein
+ctfw:SWFP_2971	CDS	309652..311163	nqrB; Na(+)-translocating NADH-quinone reductase subunit B
+ctfw:SWFP_2981	CDS	311167..312117	nqrC; Na(+)-translocating NADH-quinone reductase subunit C
+ctfw:SWFP_2991	CDS	312107..312748	nqrD; Na(+)-translocating NADH-quinone reductase subunit D
+ctfw:SWFP_3001	CDS	312754..313488	nqrE; Na(+)-translocating NADH-quinone reductase subunit E
+ctfw:SWFP_3011	CDS	complement(313512..313865)	gcsH; glycine cleavage system H protein
+ctfw:SWFP_3021	CDS	complement(313885..315957)	conserved hypothetical protein
+ctfw:SWFP_3031	CDS	complement(316152..317576)	phospholipase D
+ctfw:SWFP_3041	CDS	complement(317582..318301)	lplA; lipoate-protein ligase A
+ctfw:SWFP_3051	CDS	318566..321130	clpC; ATP-dependent Clp protease
+ctfw:SWFP_3061	CDS	complement(321111..322187)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+ctfw:SWFP_3071	CDS	322418..324109	candidate inclusion membrane protein
+ctfw:SWFP_3081	CDS	complement(324196..325359)	putative membrane protein
+ctfw:SWFP_3091	CDS	complement(325417..326094)	PTS-family membrane transport protein IIA component
+ctfw:SWFP_3101	CDS	complement(326097..326573)	ptsN_2; PTS-family membrane transport protein IIA component
+ctfw:SWFP_3111	CDS	complement(326575..327012)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+ctfw:SWFP_3121	CDS	complement(327049..327975)	accD; acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+ctfw:SWFP_3131	CDS	complement(328047..328667)	sodM; superoxide dismutase
+ctfw:SWFP_3141	CDS	complement(328799..330580)	mrsA; phosphoglucomutase
+ctfw:SWFP_3151	CDS	complement(330732..331199)	conserved hypothetical protein
+ctfw:SWFP_3161	CDS	331308..332003	rnc; ribonuclease III
+ctfw:SWFP_3171	CDS	331987..333351	radA; DNA repair protein
+ctfw:SWFP_3181	CDS	333395..334054	hemC; porphobilinogen deaminase
+ctfw:SWFP_3191	CDS	334449..334796	putative integral membrane protein
+ctfw:SWFP_3201	CDS	complement(334849..337653)	pknD; Serine/threonine-protein kinase
+ctfw:SWFP_3211	CDS	complement(337668..340487)	valS; valyl-tRNA synthetase
+ctfw:SWFP_3221	CDS	complement(340614..341129)	conserved hypothetical protein
+ctfw:SWFP_3231	CDS	complement(341050..341475)	atpK; V-type sodium ATP synthase subunit C
+ctfw:SWFP_3241	CDS	complement(341538..343487)	atpI; V-type sodium ATP synthase subunit I
+ctfw:SWFP_3251	CDS	complement(343493..344107)	atpD; V-type ATP synthase subunit D
+ctfw:SWFP_3261	CDS	complement(344092..345408)	atpB; V-type sodium ATP synthase subunit B
+ctfw:SWFP_3271	CDS	complement(345411..347186)	atpA; V-type ATP synthase alpha chain
+ctfw:SWFP_3281	CDS	complement(347180..347980)	conserved hypothetical protein
+ctfw:SWFP_3291	CDS	complement(348147..348773)	atpE; V-type ATP synthase subunit E
+ctfw:SWFP_3301	CDS	348882..349592	putative exported protein
+ctfw:SWFP_3311	CDS	complement(349600..349971)	conserved hypothetical protein
+ctfw:SWFP_3321	CDS	complement(350016..350999)	tal; transaldolase
+ctfw:SWFP_3331	CDS	complement(351111..355301)	rpoC; DNA-directed RNA polymerase beta-prime chain
+ctfw:SWFP_3341	CDS	complement(355326..359084)	rpoB; DNA-directed RNA polymerase beta chain
+ctfw:SWFP_3351	CDS	complement(359445..359837)	rplL; LSU ribosomal protein L12P (L7/L12)
+ctfw:SWFP_3361	CDS	complement(359869..360387)	rplJ; LSU ribosomal protein L10P
+ctfw:SWFP_3371	CDS	complement(360409..361107)	rplA; LSU ribosomal protein L1P
+ctfw:SWFP_3381	CDS	complement(361130..361555)	rplK; LSU ribosomal protein L11P
+ctfw:SWFP_3391	CDS	complement(361661..362209)	nusG; transcription antitermination protein
+ctfw:SWFP_3401	CDS	complement(362213..362461)	secE; protein translocase subunit
+ctfw:SWFP_3411	tRNA	complement(362491..362563)	tRNA_23; tRNA_23
+ctfw:SWFP_3421	CDS	complement(362604..363788)	tufA; translation elongation factor Tu
+ctfw:SWFP_3441	tRNA	complement(363834..363905)	tRNA_22; tRNA_22
+ctfw:SWFP_3451	CDS	complement(364136..364357)	infA2; bacterial protein translation initiation factor 1 (IF-1)
+ctfw:SWFP_3461	CDS	364770..365681	conserved hypothetical protein
+ctfw:SWFP_3471	CDS	365678..366124	conserved hypothetical protein
+ctfw:SWFP_3481	CDS	complement(join(366176..366814,366814..367947,367950..368129))	conserved hypothetical protein (pseudogene)
+ctfw:SWFP_3491	CDS	complement(368318..368500)	conserved hypothetical protein
+ctfw:SWFP_3501	tRNA	369106..369178	tRNA_29; tRNA_29
+ctfw:SWFP_3511	CDS	complement(369219..369845)	trpC; N-(5'-phosphoribosyl)anthranilate isomerase
+ctfw:SWFP_3521	CDS	370046..370870	tpiS; triosephosphate isomerase
+ctfw:SWFP_3531	CDS	370884..372434	xseA; exodeoxyribonuclease VII large subunit
+ctfw:SWFP_3541	CDS	372418..372636	xseB; exodeoxyribonuclease VII small subunit
+ctfw:SWFP_3551	CDS	372643..372915	conserved hypothetical protein
+ctfw:SWFP_3561	CDS	372912..374834	dxs; 1-deoxy-D-xylulose 5-phosphate synthase
+ctfw:SWFP_3571	CDS	374931..376388	pykF; pyruvate kinase
+ctfw:SWFP_3581	CDS	376411..381771	uvrA; excinuclease ABC subunit A
+ctfw:SWFP_3591	CDS	381989..383389	dnaX_1; DNA polymerase III subunit gamma/tau
+ctfw:SWFP_3601	CDS	383382..383672	conserved hypothetical protein
+ctfw:SWFP_3611	CDS	complement(383682..385397)	ptsI; phosphoenolpyruvate-protein phosphotransferase
+ctfw:SWFP_3621	CDS	complement(385397..385726)	ptsH; phosphocarrier protein HPr
+ctfw:SWFP_3631	CDS	complement(385864..386325)	conserved hypothetical protein
+ctfw:SWFP_3641	CDS	complement(386382..386564)	conserved hypothetical protein
+ctfw:SWFP_3651	CDS	386609..388138	conserved hypothetical protein
+ctfw:SWFP_3661	CDS	complement(388211..390247)	2-oxoisovalerate dehydrogenase alpha subunit
+ctfw:SWFP_3671	CDS	complement(390282..391460)	dnaJ; heat shock chaperone protein
+ctfw:SWFP_3681	CDS	complement(391489..391665)	rpsU; SSU ribosomal protein S21P
+ctfw:SWFP_3691	CDS	complement(391862..392494)	O-sialoglycoprotein endopeptidase
+ctfw:SWFP_3701	CDS	392804..395263	lon; ATP-dependent protease La
+ctfw:SWFP_3711	CDS	395365..395730	putative membrane protein
+ctfw:SWFP_3721	CDS	396080..396994	Ribonuclease Z
+ctfw:SWFP_3731	CDS	397056..398003	xerC; DNA recombination protein
+ctfw:SWFP_3741	CDS	398057..399643	ABC transporter, ATP-binding component
+ctfw:SWFP_3751	CDS	399679..400269	conserved hypothetical protein
+ctfw:SWFP_3761	CDS	400251..401951	putative lipoprotein
+ctfw:SWFP_3771	CDS	401958..404060	putative exported protein
+ctfw:SWFP_3781	CDS	complement(404134..404442)	secG; preprotein translocase
+ctfw:SWFP_3791	CDS	complement(404598..405143)	def; peptide deformylase
+ctfw:SWFP_3801	CDS	complement(405418..406251)	ksgA; dimethyladenosine transferase
+ctfw:SWFP_3811	CDS	complement(406267..407328)	putative exported protein
+ctfw:SWFP_3821	CDS	complement(407633..409747)	conserved hypothetical protein
+ctfw:SWFP_3841	tRNA	409962..410048	tRNA_27; tRNA_27
+ctfw:SWFP_3851	CDS	410204..410536	candidate inclusion membrane protein
+ctfw:SWFP_3861	CDS	410562..411098	putative inner membrane protein
+ctfw:SWFP_3871	CDS	complement(411158..411748)	putative inner membrane protein
+ctfw:SWFP_3881	CDS	complement(411998..412624)	putative exported protein
+ctfw:SWFP_3891	CDS	complement(412786..413646)	dapA; dihydrodipicolinate synthase
+ctfw:SWFP_3901	CDS	complement(413656..414951)	lysC; aspartokinase
+ctfw:SWFP_3911	CDS	complement(414944..415948)	asd; aspartate-semialdehyde dehydrogenase
+ctfw:SWFP_3921	CDS	complement(415958..416719)	dapB; dihydrodipicolinate reductase
+ctfw:SWFP_3931	CDS	complement(416896..418623)	putative integral membrane protein
+ctfw:SWFP_3941	CDS	418793..420115	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+ctfw:SWFP_3951	CDS	420057..420611	aroL; shikimate kinase
+ctfw:SWFP_3961	CDS	420604..421677	aroC; chorismate synthase
+ctfw:SWFP_3971	CDS	421674..422795	aroB; 3-dehydroquinate synthase
+ctfw:SWFP_3981	CDS	422776..424212	aroE; shikimate 5-dehydrogenase
+ctfw:SWFP_3991	CDS	424254..425039	putative exported protein
+ctfw:SWFP_4001	CDS	425181..426509	conserved hypothetical protein
+ctfw:SWFP_4011	CDS	426578..427165	pyruvoyl-dependent arginine decarboxylase
+ctfw:SWFP_4021	CDS	427181..428632	Arginine/ornithine antiporter
+ctfw:SWFP_4031	CDS	428804..429862	putative oxidoreductase
+ctfw:SWFP_4041	CDS	complement(429904..430884)	mdhC; malate dehydrogenase
+ctfw:SWFP_4051	CDS	complement(431075..431215)	ltuA; late transcription unit A protein
+ctfw:SWFP_4061	CDS	complement(431330..432907)	pgi; glucose-6-phosphate isomerase
+ctfw:SWFP_4071	CDS	complement(433020..434363)	putative nucleotide-binding protein
+ctfw:SWFP_4081	CDS	complement(434376..435176)	phnP; metal-dependent hydrolase
+ctfw:SWFP_4091	CDS	complement(435205..435978)	artJ; arginine transport substrate-binding protein
+ctfw:SWFP_4101	CDS	complement(436047..436883)	aroG; phospho-2-dehydro-3-deoxyheptonate aldolase
+ctfw:SWFP_4111	CDS	complement(437020..437211)	conserved hypothetical protein
+ctfw:SWFP_4121	CDS	437394..438125	putative membrane protein
+ctfw:SWFP_4131	CDS	complement(438136..439755)	conserved hypothetical protein
+ctfw:SWFP_4141	CDS	complement(439770..440105)	conserved hypothetical protein
+ctfw:SWFP_4151	CDS	complement(440102..440971)	conserved hypothetical protein
+ctfw:SWFP_4161	CDS	441258..443333	conserved hypothetical protein
+ctfw:SWFP_4171	CDS	complement(443347..443694)	conserved hypothetical protein
+ctfw:SWFP_4181	CDS	443872..445098	putative exported protein
+ctfw:SWFP_4191	CDS	445206..446390	dapL; DAP (diaminopimelic acid) aminotransferase
+ctfw:SWFP_4201	CDS	446398..447405	ABC transporter substrate-binding component
+ctfw:SWFP_4211	CDS	complement(447411..448544)	conserved hypothetical protein
+ctfw:SWFP_4221	CDS	448745..450490	proS; prolyl-tRNA synthetase
+ctfw:SWFP_4231	CDS	450559..451737	Putative transcriptional regulatory protein
+ctfw:SWFP_4241	CDS	451734..452306	grpE; HSP-70 Cofactor
+ctfw:SWFP_4251	CDS	452332..454314	dnaK; chaperone protein
+ctfw:SWFP_4261	CDS	454607..456691	vacB; exoribonuclease II
+ctfw:SWFP_4271	CDS	456947..457711	conserved hypothetical protein
+ctfw:SWFP_4281	misc_RNA	457773..458110	SWFP_4281
+ctfw:SWFP_4291	CDS	complement(458134..459120)	carbohydrate isomerase
+ctfw:SWFP_4301	CDS	complement(459152..460318)	sucB_1; lipoamide acyltransferase component (E2) of branched-chain alpha-keto acid dehydrogenase complex
+ctfw:SWFP_4311	CDS	complement(460564..461802)	gltT; Sodium:dicarboxylate symport protein
+ctfw:SWFP_4321	CDS	complement(461799..462908)	Tetraacyldisaccharide-1-P 4'-kinase
+ctfw:SWFP_4331	CDS	complement(463074..463883)	23S rRNA methyltransferase
+ctfw:SWFP_4341	CDS	complement(463871..464698)	N6-adenine-specific DNA methylase
+ctfw:SWFP_4351	CDS	complement(464695..465294)	ribC; riboflavin synthase alpha chain
+ctfw:SWFP_4361	CDS	465687..466151	transcriptional repressor
+ctfw:SWFP_4371	CDS	466165..466539	dksA; dnaK suppressor protein
+ctfw:SWFP_4381	CDS	466545..467048	lspA; lipoprotein signal peptidase
+ctfw:SWFP_4391	CDS	467150..468511	Sodium/alanine symporter protein
+ctfw:SWFP_4401	CDS	468727..470004	pcnB; polyA polymerase
+ctfw:SWFP_4411	CDS	470065..471888	lpxB; lipid-A-disaccharide synthase
+ctfw:SWFP_4421	CDS	471995..474922	pmpA; polymorphic outer membrane protein
+ctfw:SWFP_4431	CDS	475061..480319	pmpB; polymorphic outer membrane protein
+ctfw:SWFP_4441	CDS	480496..485850	pmpC; polymorphic outer membrane protein
+ctfw:SWFP_4451	tRNA	complement(486008..486094)	tRNA_5; tRNA_5
+ctfw:SWFP_4461	CDS	486403..487233	metal transporter, metal-binding component
+ctfw:SWFP_4471	CDS	487230..487940	metal transporter, ATP-binding component
+ctfw:SWFP_4481	CDS	487931..488812	metal transporter, membrane permease component
+ctfw:SWFP_4491	CDS	complement(488728..489735)	putative nucleotide-binding protein
+ctfw:SWFP_4501	CDS	complement(489825..490076)	rpmA; LSU ribosomal protein L27P
+ctfw:SWFP_4511	CDS	complement(490107..490430)	rplU; LSU ribosomal protein L21P
+ctfw:SWFP_4521	tRNA	complement(490746..490818)	tRNA_24; tRNA_24
+ctfw:SWFP_4531	CDS	490979..491680	putative inner membrane protein
+ctfw:SWFP_4541	CDS	491865..492026	conserved hypothetical protein
+ctfw:SWFP_4551	CDS	492043..492204	conserved hypothetical protein
+ctfw:SWFP_4561	CDS	492217..492702	conserved hypothetical protein
+ctfw:SWFP_4571	CDS	492835..493944	putative cation efflux protein
+ctfw:SWFP_4581	CDS	494133..494483	rsbV; anti-sigma F factor antagonist
+ctfw:SWFP_4591	CDS	494661..496526	conserved hypothetical protein
+ctfw:SWFP_4601	CDS	496723..497832	conserved hypothetical protein
+ctfw:SWFP_4611	CDS	497805..498626	conserved hypothetical protein
+ctfw:SWFP_4621	CDS	498562..499251	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+ctfw:SWFP_4631	CDS	complement(499277..500266)	conserved hypothetical protein
+ctfw:SWFP_4641	CDS	complement(500327..501154)	dapF; diaminopimelate epimerase
+ctfw:SWFP_4651	CDS	complement(501123..501701)	clpP; ATP-dependent Clp protease proteolytic subunit
+ctfw:SWFP_4661	CDS	complement(501713..503206)	glyA; serine hydroxymethyltransferase
+ctfw:SWFP_4671	CDS	503570..504241	conserved hypothetical protein
+ctfw:SWFP_4681	CDS	504344..504880	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+ctfw:SWFP_4691	CDS	complement(504877..505929)	Putative oxidoreductase
+ctfw:SWFP_4701	CDS	complement(505946..506263)	rpsJ; SSU ribosomal protein S10P
+ctfw:SWFP_4711	CDS	complement(506271..508355)	fusA; translation elongation factor G
+ctfw:SWFP_4721	CDS	complement(508397..508870)	rpsG; SSU ribosomal protein S7P
+ctfw:SWFP_4731	CDS	complement(508920..509309)	rpsL; SSU ribosomal protein S12P
+ctfw:SWFP_4741	CDS	509551..509889	putative membrane protein
+ctfw:SWFP_4751	CDS	510048..511997	tsp; carboxy-terminal processing protease
+ctfw:SWFP_4761	CDS	complement(512104..512559)	crpA; cysteine-rich membrane protein
+ctfw:SWFP_4771	CDS	complement(512738..514399)	omcB; 60kD cysteine-rich outer membrane protein
+ctfw:SWFP_4781	CDS	complement(514546..514812)	omcA; cysteine-rich outer membrane protein
+ctfw:SWFP_4791	CDS	515149..515373	putative lipoprotein
+ctfw:SWFP_4801	CDS	complement(515370..516890)	gltX; glutamyl-tRNA synthetase
+ctfw:SWFP_4811	CDS	complement(517166..517717)	euo; conserved hypothetical protein (Early upstream open reading frame)
+ctfw:SWFP_4821	CDS	complement(518129..519883)	recJ; single-stranded-DNA-specific exonuclease
+ctfw:SWFP_4831	CDS	complement(520001..524203)	secF; protein translocase (secFG fusion protein)
+ctfw:SWFP_4841	CDS	complement(524622..524954)	putative membrane protein
+ctfw:SWFP_4851	CDS	525427..526188	uppS; undecaprenyl pyrophosphate synthetase
+ctfw:SWFP_4861	CDS	526194..527111	cdsA; phosphatidate cytidylyltransferase
+ctfw:SWFP_4871	CDS	527108..527758	cmk; cytidylate kinase
+ctfw:SWFP_4881	CDS	527755..528405	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+ctfw:SWFP_4891	CDS	528420..530111	argS; arginyl-tRNA synthetase
+ctfw:SWFP_4901	CDS	complement(530148..531482)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+ctfw:SWFP_4911	CDS	531697..534720	tarp; Translocated actin-recruiting phosphoprotein
+ctfw:SWFP_4921	CDS	complement(534772..535488)	conserved hypothetical protein
+ctfw:SWFP_4931	CDS	complement(535673..536176)	ribosomal-protein-alanine acetyltransferase
+ctfw:SWFP_4941	CDS	complement(join(536173..537210,537212..537280))	prfB; bacterial peptide chain release factor 2
+ctfw:SWFP_4951	CDS	537600..537860	conserved hypothetical protein
+ctfw:SWFP_4961	CDS	537918..538907	putative metallo-phosphoesterase
+ctfw:SWFP_4971	CDS	538897..539556	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+ctfw:SWFP_4981	CDS	539565..540368	truA; tRNA pseudouridine synthase A
+ctfw:SWFP_4991	CDS	complement(540320..540994)	hydrolase, haloacid dehalogenase-like family
+ctfw:SWFP_5001	CDS	541087..541728	putative exported protein
+ctfw:SWFP_5021	tRNA	541858..541939	tRNA_12; tRNA_12
+ctfw:SWFP_5031	CDS	542021..542350	conserved hypothetical protein
+ctfw:SWFP_5041	CDS	542328..543386	atoS; two component regulator, histidine kinase
+ctfw:SWFP_5051	CDS	543429..544589	atoC; two component system response regulator
+ctfw:SWFP_5071	tRNA	544655..544728	tRNA_20; tRNA_20
+ctfw:SWFP_5081	CDS	544815..545351	conserved hypothetical protein
+ctfw:SWFP_5091	CDS	545321..546067	recO; DNA repair protein
+ctfw:SWFP_5101	CDS	complement(546051..546653)	putative exported protein
+ctfw:SWFP_5121	tRNA	complement(546784..546865)	tRNA_13; tRNA_13
+ctfw:SWFP_5131	CDS	547118..547912	conserved hypothetical protein
+ctfw:SWFP_5141	gene	547918..548232	pseudogene
+ctfw:SWFP_5151	CDS	complement(548171..549100)	putative membrane protein
+ctfw:SWFP_5161	CDS	549188..551560	pheT; phenylalanyl-tRNA synthetase beta chain
+ctfw:SWFP_5171	CDS	551557..552522	putative exported protein
+ctfw:SWFP_5181	CDS	552541..553053	putative DNA methyltransferase
+ctfw:SWFP_5191	CDS	complement(553050..554786)	oppC2; oligonucleotide transport system permease
+ctfw:SWFP_5201	CDS	complement(554788..556203)	oppB2; oligopeptide transport system membrane permease
+ctfw:SWFP_5211	CDS	complement(556248..558338)	oppA4; oligopeptide transport system, binding protein
+ctfw:SWFP_5221	CDS	complement(558946..559677)	conserved hypothetical protein
+ctfw:SWFP_5231	CDS	complement(559839..560492)	putative exported protein
+ctfw:SWFP_5241	CDS	560960..561325	putative membrane protein
+ctfw:SWFP_5251	CDS	complement(561304..562302)	putative membrane protein
+ctfw:SWFP_5261	CDS	complement(562459..563403)	hemZ; ferrochelatase
+ctfw:SWFP_5271	CDS	complement(563425..564210)	fliY; glutamine-binding protein
+ctfw:SWFP_5281	CDS	complement(564256..564828)	methyltransferase
+ctfw:SWFP_5291	CDS	complement(564825..565559)	putative phosphohydrolase
+ctfw:SWFP_5301	CDS	complement(565648..566973)	glgC; glucose-1-phosphate adenylyltransferase
+ctfw:SWFP_5311	CDS	567165..567416	conserved hypothetical protein
+ctfw:SWFP_5321	CDS	complement(567426..568820)	rho; transcription termination factor rho
+ctfw:SWFP_5331	CDS	complement(568817..569425)	dephospho-CoA kinase
+ctfw:SWFP_5341	CDS	complement(569419..572019)	polA; DNA polymerase I
+ctfw:SWFP_5351	CDS	complement(572036..573031)	sohB; exported protease IV
+ctfw:SWFP_5361	CDS	complement(573171..574793)	putative nucleotide transport protein
+ctfw:SWFP_5371	CDS	complement(575005..575511)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+ctfw:SWFP_5391	tRNA	complement(575693..575781)	tRNA_21; tRNA_21
+ctfw:SWFP_5401	CDS	complement(575907..576056)	putative membrane protein
+ctfw:SWFP_5411	CDS	576025..577443	dnaB; replicative DNA helicase
+ctfw:SWFP_5421	CDS	577738..579570	gidA; tRNA uridine 5-carboxymethylase
+ctfw:SWFP_5431	CDS	579560..580261	lplA_1; lipoate-protein ligase A
+ctfw:SWFP_5441	CDS	complement(580318..580743)	ndk; nucleoside diphosphate kinase
+ctfw:SWFP_5451	CDS	complement(580903..581505)	ruvA; holliday junction DNA helicase
+ctfw:SWFP_5461	CDS	complement(581525..582037)	ruvC; endodeoxyribonuclease
+ctfw:SWFP_5471	CDS	complement(582145..582699)	conserved hypothetical protein
+ctfw:SWFP_5491	tRNA	complement(582784..582866)	tRNA_6; tRNA_6
+ctfw:SWFP_5501	CDS	complement(582986..583852)	conserved hypothetical protein
+ctfw:SWFP_5511	CDS	complement(583863..584867)	gapA; glyceraldehyde 3-phosphate dehydrogenase
+ctfw:SWFP_5521	CDS	complement(584911..585336)	rplQ; LSU ribosomal protein L17P
+ctfw:SWFP_5531	CDS	complement(585345..586478)	rpoA; DNA-directed RNA polymerase alpha chain
+ctfw:SWFP_5541	CDS	complement(586499..586897)	rpsK; SSU ribosomal protein S11P
+ctfw:SWFP_5551	CDS	complement(586919..587287)	rpsM; SSU ribosomal protein S13P
+ctfw:SWFP_5561	CDS	complement(587343..588716)	secY; protein translocase subunit
+ctfw:SWFP_5571	CDS	complement(588739..589173)	rplO; LSU ribosomal protein L15P
+ctfw:SWFP_5581	CDS	complement(589166..589663)	rpsE; SSU ribosomal protein S5P
+ctfw:SWFP_5591	CDS	complement(589678..590049)	rplR; LSU ribosomal protein L18P
+ctfw:SWFP_5601	CDS	complement(590071..590622)	rplF; LSU ribosomal protein L6P
+ctfw:SWFP_5611	CDS	complement(590650..591051)	rpsH; SSU ribosomal protein S8P
+ctfw:SWFP_5621	CDS	complement(591069..591611)	rplE; LSU ribosomal protein L5P
+ctfw:SWFP_5631	CDS	complement(591613..591948)	rplX; LSU ribosomal protein L24P
+ctfw:SWFP_5641	CDS	complement(591961..592329)	rplN; LSU ribosomal protein L14P
+ctfw:SWFP_5651	CDS	complement(592346..592597)	rpsQ; SSU ribosomal protein S17P
+ctfw:SWFP_5661	CDS	complement(592590..592808)	rpmC; LSU ribosomal protein L29P
+ctfw:SWFP_5671	CDS	complement(592810..593226)	rplP; LSU ribosomal protein L16P
+ctfw:SWFP_5681	CDS	complement(593259..593918)	rpsC; SSU ribosomal protein S3P
+ctfw:SWFP_5691	CDS	complement(593928..594263)	rplV; LSU ribosomal protein L22P
+ctfw:SWFP_5701	CDS	complement(594282..594548)	rpsS; SSU ribosomal protein S19P
+ctfw:SWFP_5711	CDS	complement(594554..595408)	rplB; LSU ribosomal protein L2P
+ctfw:SWFP_5721	CDS	complement(595432..595767)	rplW; LSU ribosomal protein L23P
+ctfw:SWFP_5731	CDS	complement(595783..596451)	rplD; LSU ribosomal protein L1E
+ctfw:SWFP_5741	CDS	complement(596460..597125)	rplC; LSU ribosomal protein L3P
+ctfw:SWFP_5751	CDS	complement(597560..598456)	putative membrane protein
+ctfw:SWFP_5761	CDS	complement(598621..599571)	fmt; methionyl-tRNA formyltransferase
+ctfw:SWFP_5771	CDS	complement(599561..600403)	lpxA; acyl-[acyl-carrier-protein]--UDP-N-acetylglucos amine O-acyltransferase
+ctfw:SWFP_5781	CDS	complement(600415..600876)	fabZ; (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+ctfw:SWFP_5791	CDS	complement(600873..601733)	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+ctfw:SWFP_5801	CDS	complement(601834..603462)	cutE; apolipoprotein N-acyltransferase
+ctfw:SWFP_5811	CDS	complement(603526..604008)	acyl-CoA hydrolase
+ctfw:SWFP_5821	CDS	complement(604144..604896)	dnaQ2; DNA polymerase III, epsilon chain
+ctfw:SWFP_5831	CDS	complement(604900..605373)	putative nucleotide-binding protein
+ctfw:SWFP_5841	CDS	complement(605352..606068)	conserved hypothetical protein
+ctfw:SWFP_5851	tRNA	606533..606616	tRNA_35; tRNA_35
+ctfw:SWFP_5861	CDS	606790..607098	trxA; thioredoxin
+ctfw:SWFP_5871	CDS	complement(607148..607603)	putatve rRNA methylase (SpoU family)
+ctfw:SWFP_5881	CDS	complement(607619..608350)	mip; peptidyl-prolyl cis-trans isomerase
+ctfw:SWFP_5891	CDS	complement(608476..610224)	aspS; aspartyl-tRNA synthetase
+ctfw:SWFP_5901	CDS	complement(610205..611491)	hisS; histidyl-tRNA synthetase
+ctfw:SWFP_5911	CDS	611927..613297	uhpC; putative sugar phosphate permease
+ctfw:SWFP_5921	CDS	613311..617024	dnaE; DNA polymerase III alpha subunit
+ctfw:SWFP_5931	CDS	complement(617255..618124)	conserved hypothetical protein
+ctfw:SWFP_5941	CDS	618276..619232	putative exported protein
+ctfw:SWFP_5951	CDS	619257..619841	putative exported protein
+ctfw:SWFP_5961	CDS	619828..620268	rsbW; sigma regulatory factor-histidine kinase
+ctfw:SWFP_5971	CDS	complement(620275..620700)	conserved hypothetical protein
+ctfw:SWFP_5981	CDS	620808..622121	dacC; D-alanyl-D-alanine carboxypeptidase
+ctfw:SWFP_5991	CDS	622255..622662	putative exported protein
+ctfw:SWFP_6001	CDS	622659..623765	putative methyltransferase
+ctfw:SWFP_6011	CDS	623915..625150	brnQ; branched-chain amino acid transport system carrier protein
+ctfw:SWFP_6021	CDS	625325..628924	putative helicase (SWF/SNF family)
+ctfw:SWFP_6031	CDS	629102..629581	putative membrane protein
+ctfw:SWFP_6041	CDS	629790..631187	lpdA; dihydrolipoamide dehydrogenase
+ctfw:SWFP_6051	CDS	631184..632119	lipA; lipoic acid synthetase
+ctfw:SWFP_6061	CDS	632223..633203	sctJ; type III secretion system protein, membrane component
+ctfw:SWFP_6071	CDS	633204..634040	conserved hypothetical protein
+ctfw:SWFP_6081	CDS	634319..634990	sctL; type III secretion system protein
+ctfw:SWFP_6091	CDS	635003..635923	sctR; type III secretion system, membrane protein
+ctfw:SWFP_6101	CDS	635935..636219	sctS; type III secretion system, membrane protein
+ctfw:SWFP_6111	CDS	636226..637095	sctT; type III secretion system, membrane protein
+ctfw:SWFP_6121	CDS	complement(637173..637616)	putative membrane protein
+ctfw:SWFP_6131	CDS	complement(637707..638699)	putative exported protein
+ctfw:SWFP_6141	CDS	complement(638705..639229)	putative exported protein
+ctfw:SWFP_6151	CDS	complement(639214..639669)	putative membrane protein
+ctfw:SWFP_6161	CDS	complement(639653..639982)	gspG; general secretion pathway protein G
+ctfw:SWFP_6171	CDS	complement(640044..641219)	gspF; general secretion pathway protein F
+ctfw:SWFP_6181	CDS	complement(641231..642736)	gspE; general secretion pathway protein E
+ctfw:SWFP_6191	CDS	complement(642720..645002)	gspD; general secretion pathway protein D
+ctfw:SWFP_6201	CDS	complement(645003..646232)	putative exported protein
+ctfw:SWFP_6211	CDS	complement(646359..647429)	pepP; proline dipeptidase
+ctfw:SWFP_6221	CDS	complement(647440..649170)	mutL; DNA mismatch repair protein
+ctfw:SWFP_6231	CDS	649465..650163	scc2; type III secretion chaperone (low calcium response protein H)
+ctfw:SWFP_6241	CDS	650180..650539	conserved hypothetical protein
+ctfw:SWFP_6251	CDS	650579..652042	copB; putative type III secretion system membrane protein
+ctfw:SWFP_6261	CDS	652073..653392	copD; putative type III secretion system protein
+ctfw:SWFP_6271	CDS	complement(653470..654453)	putative integral membrane protein
+ctfw:SWFP_6281	CDS	654758..656665	thrS; threonyl-tRNA synthetase
+ctfw:SWFP_6291	CDS	657116..657883	minD; Chromosome partitioning ATPase (ParA family)
+ctfw:SWFP_6301	CDS	657888..658679	gp6D; virulence plasmid protein pGP6-D-related protein
+ctfw:SWFP_6311	CDS	658645..659196	conserved hypothetical protein
+ctfw:SWFP_6321	CDS	659394..660434	trpS; tryptophanyl-tRNA synthetase
+ctfw:SWFP_6331	CDS	660459..662465	uvrB; excinuclease ABC subunit B
+ctfw:SWFP_6341	CDS	662627..663901	eno; enolase
+ctfw:SWFP_6351	CDS	664028..665980	rbsU; sigma regulatory family protein-PP2C phosphatase
+ctfw:SWFP_6361	CDS	666105..667913	putative exported protein
+ctfw:SWFP_6371	CDS	complement(667928..670792)	conserved hypothetical protein
+ctfw:SWFP_6381	CDS	complement(join(670821..670901,670901..671587))	sdhB; succinate dehydrogenase iron-sulfur protein (pseudogene)
+ctfw:SWFP_6391	CDS	complement(join(671666..673132,673132..673545))	sdhA; succinate dehydrogenase flavoprotein subunit (pseudogene)
+ctfw:SWFP_6401	gene	complement(join(673542..674093,674095..674208,674208..674255,674255..674395))	pseudogene
+ctfw:SWFP_6411	CDS	complement(674542..675333)	putative hydrolase
+ctfw:SWFP_6421	CDS	complement(675418..677496)	dsdD; thiol:disulfide interchange protein
+ctfw:SWFP_6431	CDS	677649..678347	exbB; macromolecule transporter
+ctfw:SWFP_6441	CDS	678344..678751	macromolecule transport protein
+ctfw:SWFP_6451	CDS	678754..679461	histone H1-I
+ctfw:SWFP_6461	CDS	679461..680756	tolB; outer membrane component of membrane transport system
+ctfw:SWFP_6471	CDS	680753..681319	pal; peptidoglycan-associated lipoprotein
+ctfw:SWFP_6481	CDS	681309..681911	putative soluble transglycosylase
+ctfw:SWFP_6491	CDS	681982..682374	conserved hypothetical protein
+ctfw:SWFP_6501	CDS	complement(682371..682958)	ahpC; thioredoxin peroxidase
+ctfw:SWFP_6511	tRNA	complement(682983..683055)	tRNA_34; tRNA_34
+ctfw:SWFP_6521	CDS	complement(683167..684768)	groEL2; 60 kDa chaperonin GroEL2
+ctfw:SWFP_6531	CDS	complement(684848..686074)	putative exported protein
+ctfw:SWFP_6541	CDS	686274..686903	conserved hypothetical protein
+ctfw:SWFP_6551	CDS	complement(686877..687116)	conserved hypothetical protein
+ctfw:SWFP_6561	CDS	complement(687101..687790)	ung; uracil-DNA glycosylase
+ctfw:SWFP_6571	CDS	687871..689775	uvrD; DNA helicase
+ctfw:SWFP_6581	CDS	689779..691089	rpoN; RNA polymerase sigma-54 factor
+ctfw:SWFP_6591	CDS	complement(691197..691892)	conserved hypothetical protein
+ctfw:SWFP_6601	CDS	complement(691889..692620)	conserved hypothetical protein
+ctfw:SWFP_6611	CDS	complement(692592..693071)	folA; dihydrofolate reductase
+ctfw:SWFP_6621	CDS	complement(693068..694420)	folP; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridi ne pyrophosphokinase
+ctfw:SWFP_6631	CDS	complement(694417..694791)	folX; dihydroneopterin aldolase
+ctfw:SWFP_6641	CDS	complement(694810..696525)	rpoD; RNA polymerase sigma factor
+ctfw:SWFP_6651	CDS	complement(696674..697963)	putative integral membrane protein
+ctfw:SWFP_6661	CDS	698412..698708	rpsT; SSU ribosomal protein S20P
+ctfw:SWFP_6671	CDS	698940..699740	putative membrane protein
+ctfw:SWFP_6681	CDS	complement(699796..702423)	conserved hypothetical protein
+ctfw:SWFP_6691	CDS	702539..705055	conserved hypothetical protein
+ctfw:SWFP_6701	CDS	complement(705119..707617)	conserved hypothetical protein
+ctfw:SWFP_6711	CDS	complement(707844..709805)	conserved hypothetical protein
+ctfw:SWFP_6721	CDS	complement(709913..711211)	putative exported protein
+ctfw:SWFP_6731	CDS	complement(711454..713037)	mviN; putative virulence protein
+ctfw:SWFP_6741	CDS	713237..714103	nfo; endonuclease IV
+ctfw:SWFP_6751	CDS	complement(714200..714829)	rpsD; SSU ribosomal protein S4P
+ctfw:SWFP_6761	CDS	715210..716193	conserved hypothetical protein
+ctfw:SWFP_6771	CDS	complement(716265..717140)	ispA; dimethylallyltransferase
+ctfw:SWFP_6781	CDS	complement(717196..717813)	glmU; glucosamine-1-phosphate acetyltransferase
+ctfw:SWFP_6791	CDS	complement(717866..718549)	transcriptional regulatory protein
+ctfw:SWFP_6801	CDS	718728..718982	conserved hypothetical protein
+ctfw:SWFP_6821	tRNA	719082..719155	tRNA_19; tRNA_19
+ctfw:SWFP_6831	CDS	complement(719163..720752)	conserved hypothetical protein
+ctfw:SWFP_6841	CDS	721050..722066	hemB; delta-aminolevulinic acid dehydratase
+ctfw:SWFP_6851	CDS	complement(722092..723489)	nqrA; Na(+)-translocating NADH-quinone reductase subunit A
+ctfw:SWFP_6861	CDS	complement(723511..723945)	conserved hypothetical protein
+ctfw:SWFP_6871	CDS	724059..726206	greA; Transcription elongation factor
+ctfw:SWFP_6891	tRNA	complement(726215..726287)	tRNA_33; tRNA_33
+ctfw:SWFP_6901	CDS	726394..727596	aspC; Aspartate aminotransferase
+ctfw:SWFP_6911	CDS	727571..728581	exported protein
+ctfw:SWFP_6921	CDS	complement(728597..731677)	recB; exodeoxyribonuclease V beta chain
+ctfw:SWFP_6931	CDS	complement(731679..734699)	recC; exodeoxyribonuclease V gamma chain
+ctfw:SWFP_6941	CDS	734712..736391	putative membrane efflux protein
+ctfw:SWFP_6951	CDS	complement(736411..737226)	putative membrane protein
+ctfw:SWFP_6961	CDS	738123..740696	topA; DNA topoisomerase I
+ctfw:SWFP_6971	CDS	complement(740726..741730)	putative oxidoreductase
+ctfw:SWFP_6981	CDS	complement(741709..742005)	integral membrane protein
+ctfw:SWFP_6991	CDS	742110..743489	conserved hypothetical protein
+ctfw:SWFP_7001	CDS	743489..744067	putative exported protein
+ctfw:SWFP_7011	CDS	744058..745332	putative membrane protein
+ctfw:SWFP_7021	CDS	745335..745871	conserved hypothetical protein
+ctfw:SWFP_7031	CDS	746130..747188	recA; recombinase A
+ctfw:SWFP_7041	CDS	747474..749300	putative exported lipoprotein
+ctfw:SWFP_7051	CDS	749297..750787	recD_1; exodeoxyribonuclease V alpha chain
+ctfw:SWFP_7061	CDS	750853..751032	conserved hypothetical protein
+ctfw:SWFP_7071	CDS	complement(751133..751852)	ABC transporter ATP-binding protein
+ctfw:SWFP_7081	CDS	complement(751861..752349)	putative exported protein
+ctfw:SWFP_7091	CDS	complement(752346..753155)	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase
+ctfw:SWFP_7101	tRNA	753462..753534	tRNA_28; tRNA_28
+ctfw:SWFP_7111	CDS	753641..753934	conserved hypothetical protein
+ctfw:SWFP_7121	CDS	753934..754251	conserved hypothetical protein
+ctfw:SWFP_7131	CDS	754332..755339	sfhB; ribosomal large subunit pseudouridine synthase D
+ctfw:SWFP_7141	CDS	755438..755674	conserved hypothetical protein
+ctfw:SWFP_7151	CDS	complement(755813..757285)	gyrA2; DNA gyrase subunit A
+ctfw:SWFP_7161	CDS	complement(757300..759117)	gyrB; DNA gyrase subunit B
+ctfw:SWFP_7171	CDS	759497..760504	hemA; glutamyl-tRNA reductase
+ctfw:SWFP_7181	CDS	761223..761624	sycE; Type III secretion system chaperone
+ctfw:SWFP_7191	CDS	761628..764117	phosphopeptide binding protein (predicted to be a TTSS protein)
+ctfw:SWFP_7201	CDS	764161..764412	conserved hypothetical protein
+ctfw:SWFP_7211	CDS	764439..764690	conserved hypothetical protein
+ctfw:SWFP_7221	CDS	764709..765158	conserved hypothetical protein
+ctfw:SWFP_7231	CDS	765178..765849	conserved hypothetical protein
+ctfw:SWFP_7241	CDS	765851..767179	sctN; ATP synthase (predicted TTSS protein)
+ctfw:SWFP_7251	CDS	767202..767708	conserved hypothetical protein
+ctfw:SWFP_7261	CDS	767712..768560	conserved hypothetical protein
+ctfw:SWFP_7271	CDS	768570..769691	sctQ; Type III secretion component, basal body
+ctfw:SWFP_7281	CDS	769826..771298	pkn5; putative serine/threonine-protein kinase (TTSS effector protein)
+ctfw:SWFP_7291	CDS	771295..774060	Type III secretion structural protein (outer membrane ring)
+ctfw:SWFP_7311	tRNA	774194..774266	tRNA_7; tRNA_7
+ctfw:SWFP_7321	CDS	complement(774373..775443)	aspC_1; aspartate kinase
+ctfw:SWFP_7331	CDS	complement(775433..775954)	conserved hypothetical protein
+ctfw:SWFP_7351	tRNA	complement(776059..776131)	tRNA_8; tRNA_8
+ctfw:SWFP_7371	tRNA	complement(776148..776222)	tRNA_9; tRNA_9
+ctfw:SWFP_7381	CDS	complement(776325..776864)	rrf; ribosome recycling factor
+ctfw:SWFP_7391	CDS	complement(776861..777598)	pyrH; uridylate kinase
+ctfw:SWFP_7401	CDS	complement(777611..778459)	tsf; translation elongation factor TS
+ctfw:SWFP_7411	CDS	complement(778456..779304)	rpsB; SSU ribosomal protein S2
+ctfw:SWFP_7431	tRNA	complement(779386..779456)	tRNA_14; tRNA_14
+ctfw:SWFP_7441	CDS	complement(779679..780866)	ompA; major outer membrane protein
+ctfw:SWFP_7451	CDS	781453..784695	pbpB; penicillin-binding protein
+ctfw:SWFP_7461	CDS	784759..785766	tetratricopeptide repeat protein
+ctfw:SWFP_7471	CDS	786108..787559	conserved hypothetical protein
+ctfw:SWFP_7481	CDS	787562..788329	ABC transporter ATP-binding protein
+ctfw:SWFP_7491	CDS	788333..789520	conserved hypothetical protein
+ctfw:SWFP_7501	CDS	789513..790718	sufS; cysteine desulfurase
+ctfw:SWFP_7511	CDS	790854..791699	parB; putative chromosome partitioning protein
+ctfw:SWFP_7521	CDS	complement(791691..792521)	dppF; ABC transport protein, ATPase component
+ctfw:SWFP_7531	CDS	complement(792514..793479)	dppD; ABC transport protein, ATPase component
+ctfw:SWFP_7541	CDS	793640..794314	conserved hypothetical protein
+ctfw:SWFP_7551	CDS	794317..795597	low-affinity inorganic phosphate transporter
+ctfw:SWFP_7561	CDS	795725..796936	pgk; phosphoglycerate kinase
+ctfw:SWFP_7571	CDS	797196..798167	conserved hypothetical protein
+ctfw:SWFP_7581	CDS	798218..799414	conserved hypothetical protein
+ctfw:SWFP_7591	CDS	799500..800678	conserved hypothetical protein
+ctfw:SWFP_7601	CDS	complement(800675..801310)	nth; endonuclease III
+ctfw:SWFP_7611	CDS	complement(801317..802651)	trmE; tRNA modification GTPase
+ctfw:SWFP_7621	CDS	802918..803823	psdD; phosphatidylserine decarboxylase
+ctfw:SWFP_7631	CDS	803888..805213	putative exported protein
+ctfw:SWFP_7641	CDS	805472..808381	secA; preprotein translocase subunit
+ctfw:SWFP_7651	CDS	complement(808475..809002)	conserved hypothetical protein
+ctfw:SWFP_7661	CDS	complement(809079..810551)	engA; GTP-binding protein
+ctfw:SWFP_7671	CDS	complement(810667..811899)	pcnB_1; polyA polymerase
+ctfw:SWFP_7681	CDS	complement(811914..813173)	clpX; ATP-dependent Clp protease, ATP-binding component
+ctfw:SWFP_7691	CDS	complement(813183..813794)	clpP_1; ATP-dependent Clp protease proteolytic component
+ctfw:SWFP_7701	CDS	complement(813961..815289)	tig; trigger factor (chaperone)
+ctfw:SWFP_7721	tRNA	complement(815324..815395)	tRNA_15; tRNA_15
+ctfw:SWFP_7731	CDS	815647..819138	putative helicase
+ctfw:SWFP_7741	CDS	819143..820243	mreB; Cell shape determining protein
+ctfw:SWFP_7751	CDS	820240..822039	pckA; phosphoenolpyruvate carboxykinase (GTP)
+ctfw:SWFP_7761	CDS	822151..824454	conserved hypothetical protein
+ctfw:SWFP_7771	CDS	824481..825653	conserved hypothetical protein
+ctfw:SWFP_7781	CDS	complement(825719..826741)	ompB; outer membrane protein B
+ctfw:SWFP_7791	CDS	complement(826875..827879)	gpdA; glycerol-3-phosphate dehydrogenase [NAD(P)+]
+ctfw:SWFP_7801	CDS	complement(827876..829243)	UDP-N-acetylglucosamine pyrophosphorylase
+ctfw:SWFP_7811	CDS	complement(829255..829620)	conserved hypothetical protein
+ctfw:SWFP_7821	CDS	complement(829613..830917)	fliI; flagellum-specific ATP synthase
+ctfw:SWFP_7831	CDS	complement(830991..831503)	conserved hypothetical protein
+ctfw:SWFP_7841	CDS	complement(831520..832524)	fliF; flagellar M-Ring Protein
+ctfw:SWFP_7851	CDS	complement(832798..833580)	conserved hypothetical protein
+ctfw:SWFP_7861	CDS	complement(833577..834731)	Cysteine desulfurase
+ctfw:SWFP_7871	CDS	complement(834686..835366)	pgmA; phosphoglycerate mutase
+ctfw:SWFP_7881	CDS	835662..836387	ribosomal large subunit pseudouridine synthase B
+ctfw:SWFP_7891	CDS	836506..837030	conserved hypothetical protein
+ctfw:SWFP_7901	CDS	837057..837611	birA; biotin operon repressor
+ctfw:SWFP_7911	CDS	complement(837618..838757)	cell cycle protein
+ctfw:SWFP_7921	CDS	complement(838849..840828)	cation transporting ATPase
+ctfw:SWFP_7931	CDS	complement(840852..841598)	putative integral membrane protein
+ctfw:SWFP_7941	CDS	complement(841635..842921)	serS; seryl-tRNA synthetase
+ctfw:SWFP_7951	CDS	842963..844090	ribD; Riboflavin biosynthesis protein (diaminohydroxyphosphoribosylaminopyrimidine deaminase)
+ctfw:SWFP_7961	CDS	844200..845474	ribA; GTP cyclohydrolase II
+ctfw:SWFP_7971	CDS	845443..845916	ribH; Riboflavin synthase beta chain (6,7-dimethyl-8-ribityllumazine synthase)
+ctfw:SWFP_7981	CDS	complement(845967..847313)	putative exported protein
+ctfw:SWFP_7991	CDS	847698..848363	putative lipoprotein
+ctfw:SWFP_8001	CDS	848468..849835	dagA; Na(+)-linked D-alanine glycine permease
+ctfw:SWFP_8011	CDS	849893..850345	conserved hyporthetical protein
+ctfw:SWFP_8021	CDS	complement(850354..851013)	SET domain containing protein
+ctfw:SWFP_8031	CDS	complement(851010..851798)	Zn-dependent hydrolase
+ctfw:SWFP_8041	CDS	complement(851802..854201)	ftsK; Cell division protein
+ctfw:SWFP_8061	tRNA	complement(854381..854454)	tRNA_16; tRNA_16
+ctfw:SWFP_8071	rRNA	854954..856503	16S small subunit ribosomal RNA
+ctfw:SWFP_8081	rRNA	856819..859687	23S large subunit ribosomal RNA
+ctfw:SWFP_8091	rRNA	859807..859923	5S_rRNA; 5S ribosomal RNA
+ctfw:SWFP_8111	CDS	complement(860447..861742)	dmpP; Na(+)-translocating NADH-quinone reductase subunit F
+ctfw:SWFP_8121	CDS	complement(861885..862229)	preprotein translocase
+ctfw:SWFP_8131	CDS	complement(862334..863524)	rRNA methyltransferase
+ctfw:SWFP_8141	CDS	complement(863712..864089)	hctA; histone H1--like developmental protein
+ctfw:SWFP_8151	CDS	864484..866952	putative exported protein
+ctfw:SWFP_8161	CDS	complement(866944..868218)	hemG; protoporphyrinogen oxidase
+ctfw:SWFP_8171	CDS	complement(868215..869588)	hemN_1; coproporphyrinogen oxidase (NAD)
+ctfw:SWFP_8181	CDS	complement(869561..870571)	hemE; uroporphyrinogen decarboxylase
+ctfw:SWFP_8191	CDS	complement(870584..873823)	mfd; transcription-repair coupling factor
+ctfw:SWFP_8201	CDS	complement(873799..876426)	alaS; alanyl-tRNA synthetase
+ctfw:SWFP_8211	rRNA	877005..878554	16S small subunit ribosomal RNA
+ctfw:SWFP_8221	rRNA	878870..881738	23S large subunit ribosomal RNA
+ctfw:SWFP_8231	rRNA	881858..881974	5S_rRNA; 5S ribosomal RNA
+ctfw:SWFP_8241	CDS	882253..884253	tktB; transketolase
+ctfw:SWFP_8251	CDS	complement(884250..885119)	amn; AMP nucleosidase
+ctfw:SWFP_8261	CDS	885375..885911	efp_1; translation elongation factor P
+ctfw:SWFP_8271	CDS	complement(885927..886151)	hypothetical protein
+ctfw:SWFP_8281	CDS	complement(886198..887070)	conserved hypothetical protein
+ctfw:SWFP_8291	CDS	complement(887151..888689)	groEL; 60 kDa chaperonin GroEL
+ctfw:SWFP_8311	tRNA	complement(888767..888837)	tRNA_17; tRNA_17
+ctfw:SWFP_8321	CDS	889137..890489	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-ala nine ligase
+ctfw:SWFP_8331	CDS	890635..891645	mraY; phospho-N-acetylmuramoyl-pentapeptide-transfera se
+ctfw:SWFP_8341	CDS	891657..892907	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+ctfw:SWFP_8351	CDS	892904..893635	nlpD; muramidase
+ctfw:SWFP_8361	CDS	893651..894808	ftsW; Cell division protein
+ctfw:SWFP_8371	CDS	894717..895775	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(penta peptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+ctfw:SWFP_8381	CDS	895780..898191	murC; UDP-N-acetylmuramate--alanine ligase
+ctfw:SWFP_8391	CDS	complement(898228..898647)	conserved hypothetical protein
+ctfw:SWFP_8401	CDS	complement(898805..899611)	putative membrane protein
+ctfw:SWFP_8411	CDS	899765..900097	rbsV; anti-sigma F factor antagonist
+ctfw:SWFP_8421	CDS	900101..901120	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+ctfw:SWFP_8431	CDS	complement(901125..902177)	conserved hypothetical protein
+ctfw:SWFP_8441	CDS	902267..903955	conserved hypothetical protein
+ctfw:SWFP_8451	CDS	904410..904769	conserved hypothetical protein
+ctfw:SWFP_8461	CDS	904780..906036	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase
+ctfw:SWFP_8471	CDS	906033..906485	conserved hypothetical protein
+ctfw:SWFP_8481	CDS	complement(906566..907195)	ppa; inorganic pyrophosphatase
+ctfw:SWFP_8491	CDS	907442..908482	ldh; leucine dehydrogenase
+ctfw:SWFP_8501	CDS	complement(908448..909476)	cysQ; 3'(2'),5'-bisphosphate nucleotidase
+ctfw:SWFP_8511	CDS	909775..910536	1-acyl-sn-glycerol-3-phosphate acyltransferase
+ctfw:SWFP_8521	CDS	910544..912157	aas; 2-acylglycerophosphoethanolamine acyltransferase
+ctfw:SWFP_8531	CDS	912200..913333	bioF; 8-amino-7-oxononanoate synthase
+ctfw:SWFP_8541	CDS	complement(913252..915513)	priA; primosomal protein N'
+ctfw:SWFP_8551	CDS	complement(915468..916157)	conserved hypothetical protein
+ctfw:SWFP_8561	CDS	916313..916807	protein disulfide isomerase
+ctfw:SWFP_8571	CDS	917039..918619	lysS; lysyl-tRNA synthetase
+ctfw:SWFP_8581	CDS	complement(918616..920109)	cysS; cysteinyl-tRNA synthetase
+ctfw:SWFP_8601	CDS	920364..921413	putative exported protein
+ctfw:SWFP_8611	CDS	complement(921492..921854)	rnpA; ribonuclease P protein component
+ctfw:SWFP_8621	CDS	complement(921867..922004)	rnpA_1; ribonuclease P protein component
+ctfw:SWFP_8631	CDS	922481..922618	rpmJ; LSU ribosomal protein L36P
+ctfw:SWFP_8641	CDS	922642..922947	rpsN; SSU ribosomal protein S14P
+ctfw:SWFP_8651	CDS	complement(922981..923481)	putative exported protein
+ctfw:SWFP_8661	CDS	complement(923603..923854)	putative integral membrane protein
+ctfw:SWFP_8671	CDS	924133..924627	hypothetical protein
+ctfw:SWFP_8681	CDS	complement(924673..926412)	uvrC; excinuclease ABC subunit C
+ctfw:SWFP_8691	CDS	complement(926494..928956)	mutS; DNA mismatch repair protein
+ctfw:SWFP_8701	CDS	929019..929288	conserved hypothetical protein
+ctfw:SWFP_8711	CDS	929290..931077	dnaG; DNA primase
+ctfw:SWFP_8721	CDS	931162..931449	putative exported protein
+ctfw:SWFP_8731	CDS	931576..932067	putative exported protein
+ctfw:SWFP_8741	CDS	complement(932150..935161)	glyQ; glycyl-tRNA synthetase
+ctfw:SWFP_8751	CDS	935623..936231	pgsA_1; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+ctfw:SWFP_8761	CDS	complement(936238..937662)	glgA; glycogen synthase
+ctfw:SWFP_8771	tRNA	937891..937962	tRNA_18; tRNA_18
+ctfw:SWFP_8781	tRNA	937899..937956	tRNA_20; tRNA_20
+ctfw:SWFP_8791	CDS	938238..938795	rplY; LSU ribosomal protein L25
+ctfw:SWFP_8801	CDS	938803..939342	pth; peptidyl-tRNA hydrolase
+ctfw:SWFP_8811	CDS	939480..939818	rpsF; SSU ribosomal protein S6P
+ctfw:SWFP_8821	CDS	939835..940080	rpsR; SSU ribosomal protein S18
+ctfw:SWFP_8831	CDS	940101..940604	rplI; LSU ribosomal protein L9
+ctfw:SWFP_8841	CDS	940668..941534	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+ctfw:SWFP_8851	CDS	complement(941837..943189)	putative integral membrane protein
+ctfw:SWFP_8861	CDS	complement(join(943368..946223,946223..946237))	ptr; exported insulinase/protease (pseudogene)
+ctfw:SWFP_8871	CDS	complement(946289..947290)	plsB; glycerol-3-phosphate acyltransferase
+ctfw:SWFP_8881	CDS	complement(947303..948841)	cafE; ribonuclease E
+ctfw:SWFP_8891	CDS	949404..949724	conserved hypothetical protein
+ctfw:SWFP_8901	CDS	949664..949963	conserved hypothetical protein
+ctfw:SWFP_8911	CDS	949976..950155	rpmF; LSU ribosomal protein L32
+ctfw:SWFP_8921	CDS	950178..951143	plsX; Fatty acid/phospholipid synthase
+ctfw:SWFP_8931	CDS	951364..955956	pmpD; polymorphic outer membrane protein
+ctfw:SWFP_8941	CDS	956200..956994	candidate inclusion membrane protein
+ctfw:SWFP_8951	CDS	complement(957077..957376)	putative membrane protein
+ctfw:SWFP_8961	CDS	complement(957397..957759)	putative membrane protein
+ctfw:SWFP_8971	CDS	958005..959381	phosphoglucosamine mutase
+ctfw:SWFP_8981	CDS	959392..961212	glmS; glucosamine--fructose-6-phosphate aminotransferase
+ctfw:SWFP_8991	CDS	961315..962511	tyrP; tyrosine-specific transport protein
+ctfw:SWFP_9001	CDS	962694..963887	tyrosine-specific transport protein
+ctfw:SWFP_9011	CDS	963929..964645	putative membrane transport protein
+ctfw:SWFP_9021	CDS	complement(964743..965597)	ftsY; Cell Division Protein
+ctfw:SWFP_9031	CDS	965667..966827	sucC; succinyl-CoA synthetase beta chain
+ctfw:SWFP_9041	CDS	966842..967717	sucD; succinyl-CoA synthetase alpha chain
+ctfw:SWFP_9051	CDS	967855..969348	htrA; serine protease
+ctfw:SWFP_9061	CDS	969548..972472	metalloprotease-insulinase
+ctfw:SWFP_9071	CDS	complement(972486..973769)	rmuC; DNA recombination protein
+ctfw:SWFP_9081	CDS	complement(973773..974564)	pssA; CDP-diacylglycerol--serine O-phosphatidyltransferase
+ctfw:SWFP_9091	CDS	975200..978343	nrdA; ribonucleoside-diphosphate reductase alpha chain
+ctfw:SWFP_9101	CDS	978381..979421	nrdB; ribonucleoside-diphosphate reductase beta chain
+ctfw:SWFP_9111	CDS	979681..980355	trmB; tRNA (m(7)G46) methyltransferase
+ctfw:SWFP_9121	tRNA	complement(980346..980419)	tRNA_32; tRNA_32
+ctfw:SWFP_9131	CDS	980471..981055	putative SAM-dependent methyltransferase
+ctfw:SWFP_9141	CDS	complement(981052..981927)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+ctfw:SWFP_9151	CDS	complement(982060..982566)	nusB; Antitermination protein
+ctfw:SWFP_9161	CDS	982998..983525	infC; bacterial protein translation initiation factor 3 (IF-3)
+ctfw:SWFP_9171	CDS	983545..983730	rpmI; LSU ribosomal protein L35P
+ctfw:SWFP_9181	CDS	983749..984120	rplT; LSU ribosomal protein L20P
+ctfw:SWFP_9191	CDS	984127..985155	pheS; phenylalanyl-tRNA synthetase alpha chain
+ctfw:SWFP_9201	tRNA	985156..985240	tRNA_36; tRNA_36
+ctfw:SWFP_9211	CDS	985466..987442	conserved hypothetical protein
+ctfw:SWFP_9221	CDS	complement(987439..988539)	putative membrane transport protein
+ctfw:SWFP_9231	CDS	complement(988542..989606)	putative membrane transport protein
+ctfw:SWFP_9241	CDS	989704..990669	tilS; tRNA(Ile)-lysidine synthase
+ctfw:SWFP_9251	CDS	990830..993571	ftsH; Cell division protein
+ctfw:SWFP_9261	CDS	complement(993785..995872)	pnp; polyribonucleotide nucleotidyltransferase
+ctfw:SWFP_9271	CDS	complement(995901..996170)	rpsO; SSU ribosomal protein S15P
+ctfw:SWFP_9281	CDS	996396..996887	Cytosine deaminase
+ctfw:SWFP_9291	CDS	996919..997137	conserved hypothetical protein
+ctfw:SWFP_9301	CDS	complement(997109..997813)	putative integral membrane protein
+ctfw:SWFP_9311	CDS	complement(997948..998466)	conserved hypothetical protein
+ctfw:SWFP_9321	CDS	complement(998482..998988)	conserved hypothetical protein
+ctfw:SWFP_9331	CDS	complement(999016..999495)	conserved hypothetical protein
+ctfw:SWFP_9341	CDS	999814..1000002	conserved hypothetical protein
+ctfw:SWFP_9351	CDS	1000021..1001238	putative integral membrane protein
+ctfw:SWFP_9361	CDS	complement(1001195..1002070)	map; methionine aminopeptidase
+ctfw:SWFP_9371	CDS	complement(1002128..1002742)	putative integral membrane protein
+ctfw:SWFP_9381	CDS	complement(1002759..1003358)	putative integral membrane protein
+ctfw:SWFP_9391	CDS	complement(1003553..1005322)	ABC transporter permease
+ctfw:SWFP_9401	CDS	1005375..1006766	fumC; fumarate hydratase
+ctfw:SWFP_9411	CDS	complement(1006847..1008550)	sulfate transporter
+ctfw:SWFP_9421	CDS	1009306..1010571	putative membrane transport protein
+ctfw:SWFP_9431	CDS	1010685..1012490	cpa; putative exported protease
+ctfw:SWFP_9441	CDS	1012585..1013511	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+ctfw:SWFP_9451	CDS	complement(1013559..1015040)	copD2; conserved hypothetical protein
+ctfw:SWFP_9461	CDS	complement(1015052..1016572)	copB2; putative type III secretion translocator
+ctfw:SWFP_9471	CDS	complement(1016599..1017195)	lcrH; type III secretion chaperone
+ctfw:SWFP_9481	CDS	complement(1017117..1018565)	conserved hypothetical protein
+ctfw:SWFP_9491	tRNA	1018934..1019015	tRNA_37; tRNA_37
+ctfw:SWFP_9501	CDS	complement(1019426..1020328)	xerD; integrase/recombinase
+ctfw:SWFP_9511	CDS	1020577..1021566	conserved hypothetical protein
+ctfw:SWFP_9521	CDS	1021581..1023797	glgB; 1,4-alpha-glucan branching enzyme
+ctfw:SWFP_9522	CDS	complement(1023808..1024827)	putative membrane protein
+ctfw:SWFP_9531	CDS	complement(1025037..1026284)	putative membrane protein
+ctfw:SWFP_9541	CDS	complement(1026462..1029356)	pmpE; polymorphic outer membrane protein
+ctfw:SWFP_9551	CDS	complement(1029359..1032457)	pmpF; polymorphic outer membrane protein
+ctfw:SWFP_9561	CDS	1032622..1035663	pmpG; polymorphic outer membrane protein
+ctfw:SWFP_9571	CDS	1035694..1038744	pmpH; polymorphic outer membrane protein
+ctfw:SWFP_9581	CDS	join(1039160..1039513,1039515..1039646)	conserved hypothetical protein (pseudogene)
+ctfw:SWFP_9591	CDS	complement(1039821..1042457)	pmpI; polymorphic outer membrane protein
