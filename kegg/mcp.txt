@@ -1,0 +1,867 @@
+mcp:MCAP_0001	CDS	1..1353	dnaA; chromosomal replication initiator protein DnaA
+mcp:MCAP_0002	CDS	1518..2645	dnaN; DNA polymerase III, beta subunit
+mcp:MCAP_0003	CDS	2682..3224	primase-related protein
+mcp:MCAP_0004	CDS	3214..4014	ksgA; dimethyladenosine transferase
+mcp:MCAP_0005	CDS	4069..5163	membrane protein, putative
+mcp:MCAP_0006	misc_RNA	5232..5308	mcs1; 4.5S RNA
+mcp:MCAP_0007	CDS	5328..5771	cytidine/deoxycytidylate deaminase zinc-binding domain protein
+mcp:MCAP_0008	CDS	5851..7860	dnaX; DNA polymerase III gamma-tau subunits
+mcp:MCAP_0009	CDS	7862..8452	recM; DNA repair protein RecM
+mcp:MCAP_0010	CDS	8455..9096	tmk; thymidylate kinase
+mcp:MCAP_0011	CDS	9074..9817	DNA polymerase III, delta prime subunit
+mcp:MCAP_0012	CDS	9877..10539	N-6 adenine-specific DNA methylases, putative
+mcp:MCAP_0013	CDS	10590..11411	conserved hypothetical protein
+mcp:MCAP_0014	CDS	11416..12621	conserved hypothetical protein
+mcp:MCAP_0015	CDS	complement(12618..13454)	hypothetical protein
+mcp:MCAP_0016	misc_RNA	complement(13475..13569)	mcs2; MCS2 RNA
+mcp:MCAP_0017	CDS	13687..15639	ftsH; ATP-dependent metalloprotease FtsH
+mcp:MCAP_0018	CDS	complement(16712..22105)	membrane protein, putative
+mcp:MCAP_0019	CDS	22249..25407	membrane protein, putative
+mcp:MCAP_0020	CDS	25583..26449	hslO; 33 kDa chaperonin (Heat shock protein 33 homolog) (HSP33)
+mcp:MCAP_0021	CDS	26497..27534	ABC transporter, ATP-binding protein
+mcp:MCAP_0022	CDS	complement(27586..28185)	acyl carrier protein phosphodiesterase, putative
+mcp:MCAP_0023	CDS	28374..28580	cold shock protein
+mcp:MCAP_0024	CDS	28783..29196	rpsF; 30S ribosomal protein S6
+mcp:MCAP_0025	CDS	29212..29652	ssb; single-strand DNA-binding protein
+mcp:MCAP_0026	CDS	29671..29898	rpsR; 30S ribosomal protein S18
+mcp:MCAP_0027	CDS	30594..31982	conserved hypothetical protein
+mcp:MCAP_0028	CDS	32257..33810	PTS system, mannitol-specific IIBC component, putative
+mcp:MCAP_0029	CDS	33810..34568	oxidoreductase, short chain dehydrogenase/reductase family
+mcp:MCAP_0030	CDS	34568..34813	PTS system, mannitol-specific IIA component, putative
+mcp:MCAP_0031	CDS	35027..35824	phosphosugar-binding transcriptional regulator, RpiR family, putative
+mcp:MCAP_0032	CDS	35825..36829	mannitol-1-phosphate 5-dehydrogenase, putative
+mcp:MCAP_0033	CDS	complement(36866..38458)	lipoprotein, putative (LppA)
+mcp:MCAP_0034	CDS	complement(38483..40042)	lipoprotein, putative (LppA family)
+mcp:MCAP_0035	CDS	40240..41769	metG; methionyl-tRNA synthetase
+mcp:MCAP_0036	gene	41953..43596	pseudogene
+mcp:MCAP_0037	CDS	43614..45221	ABC transporter, ATP-binding protein
+mcp:MCAP_0038	CDS	45211..47769	ABC transporter, permease protein
+mcp:MCAP_0039	CDS	47772..48749	ABC transporter, permease protein
+mcp:MCAP_0040	CDS	complement(48817..51204)	gyrA; DNA gyrase, A subunit
+mcp:MCAP_0041	CDS	complement(51336..53240)	gyrB; DNA gyrase, B subunit
+mcp:MCAP_0042	CDS	complement(53640..55241)	lipoprotein, putative
+mcp:MCAP_0043	CDS	complement(55409..56182)	membrane protein, putative
+mcp:MCAP_0044	CDS	complement(56166..56888)	membrane protein, putative
+mcp:MCAP_0045	CDS	complement(56998..59832)	secA; preprotein translocase, SecA subunit
+mcp:MCAP_0046	CDS	59912..60487	conserved hypothetical protein
+mcp:MCAP_0047	CDS	60583..61497	5-3 exonuclease family protein
+mcp:MCAP_0048	CDS	61692..62708	adenine-specific DNA methylase, putative
+mcp:MCAP_0049	CDS	62638..63615	dam; DNA adenine methylase
+mcp:MCAP_0050	CDS	63593..65170	restriction endonuclease
+mcp:MCAP_0051	gene	65160..66642	pseudogene
+mcp:MCAP_0052	CDS	66644..67114	hypothetical protein
+mcp:MCAP_0053	CDS	67839..68114	conserved hypothetical protein
+mcp:MCAP_0054	CDS	68104..68670	dephospho-CoA kinase
+mcp:MCAP_0055	CDS	complement(68672..69481)	hemolysin A
+mcp:MCAP_0056	CDS	complement(69481..69696)	hypothetical protein
+mcp:MCAP_0057	CDS	complement(69689..71095)	xseA; exodeoxyribonuclease VII, large subunit
+mcp:MCAP_0058	CDS	complement(71097..71495)	N utilization substance protein B (nusB), putative
+mcp:MCAP_0059	CDS	complement(71507..72577)	lipoprotein, putative
+mcp:MCAP_0060	CDS	complement(72604..73473)	endonuclease IV
+mcp:MCAP_0061	CDS	complement(73466..74218)	riboflavin kinase / FAD synthetase family protein
+mcp:MCAP_0062	tRNA	complement(74293..74368)	tRNA-Lys
+mcp:MCAP_0063	CDS	74775..76349	glycosyl transferase, group 2 family protein
+mcp:MCAP_0064	CDS	76352..77230	UTP-glucose-1-phosphate uridylyltransferase
+mcp:MCAP_0065	CDS	77432..77860	rplK; 50S ribosomal protein L11
+mcp:MCAP_0066	CDS	77860..78540	rplA; ribosomal protein L1
+mcp:MCAP_0067	CDS	78769..79266	rplJ; 50S ribosomal protein L10
+mcp:MCAP_0068	CDS	79342..79710	rplL; 50S ribosomal protein L7/L12
+mcp:MCAP_0069	CDS	79881..81053	hypothetical protein
+mcp:MCAP_0070	CDS	81043..84906	rpoB; DNA-directed RNA polymerase, beta subunit
+mcp:MCAP_0071	CDS	84918..88685	rpoC; DNA-directed RNA polymerase beta' subunit
+mcp:MCAP_0072	CDS	88775..90964	lipoprotein, putative
+mcp:MCAP_0073	CDS	complement(90971..91276)	Conserved hypothetical protein
+mcp:MCAP_0074	CDS	91301..91798	ribose 5-phosphate isomerase B, putative
+mcp:MCAP_0075	CDS	91782..93023	glyA; serine hydroxymethyltransferase
+mcp:MCAP_0076	CDS	93125..93748	upp; uracil phosphoribosyltransferase
+mcp:MCAP_0077	CDS	93889..94287	membrane protein, putative
+mcp:MCAP_0078	CDS	94287..95147	atpB; ATP synthase F0, subunit A
+mcp:MCAP_0079	CDS	95186..95491	atpE; ATP synthase F0, subunit c
+mcp:MCAP_0080	CDS	95519..96064	atpF; ATP synthase F0, B subunit
+mcp:MCAP_0081	CDS	96066..96611	atpH; ATP synthase F1, delta subunit
+mcp:MCAP_0082	CDS	96623..98200	atpA1; ATP synthase F1, alpha subunit
+mcp:MCAP_0083	CDS	98202..99044	atpG; ATP synthase F1, gamma subunit
+mcp:MCAP_0084	CDS	99053..100483	atpD1; ATP synthase F1, beta subunit
+mcp:MCAP_0085	CDS	100483..100782	atpC; ATP synthase F1, epsilon subunit
+mcp:MCAP_0086	CDS	complement(100840..102051)	membrane protein, putative
+mcp:MCAP_0087	CDS	102390..105218	mgtA; magnesium-translocating P-type ATPase
+mcp:MCAP_0088	CDS	complement(105679..105813)	membrane protein, putative
+mcp:MCAP_0089	CDS	105998..107209	arcA; arginine deiminase
+mcp:MCAP_0090	CDS	107227..108222	arcB; ornithine carbamoyltransferase, catabolic
+mcp:MCAP_0091	CDS	108285..109754	transporter, putative
+mcp:MCAP_0092	gene	complement(110217..111184)	pseudogene
+mcp:MCAP_0093	CDS	complement(111276..112403)	beta-lactamase, putative
+mcp:MCAP_0094	CDS	complement(112508..114721)	ptsG; PTS system, glucose-specific IIABC component
+mcp:MCAP_0095	CDS	complement(115141..115629)	membrane protein, putative
+mcp:MCAP_0096	CDS	complement(115629..116075)	smpB; SsrA-binding protein
+mcp:MCAP_0097	CDS	complement(116085..118199)	Rnase R (VacB) and RNase II family 3'-5' exoribonucleases
+mcp:MCAP_0098	CDS	complement(118235..118591)	preprotein translocase, SecG subunit, putative
+mcp:MCAP_0099	CDS	118773..119792	nrdF; ribonucleoside-diphosphate reductase, beta subunit
+mcp:MCAP_0100	CDS	119802..120275	nrdI; nrdI protein
+mcp:MCAP_0101	CDS	120262..122424	nrdE; ribonucleoside-diphosphate reductase 2, alpha subunit
+mcp:MCAP_0103	misc_RNA	122386..122675	mcs4b; MCS4 RNA
+mcp:MCAP_0104	CDS	122709..123743	prs; phosphoribosylpyrophosphate synthase
+mcp:MCAP_0105	CDS	124048..124608	pth; peptidyl-tRNA hydrolase
+mcp:MCAP_0106	CDS	124739..125182	rplI; 50S ribosomal protein L9
+mcp:MCAP_0107	CDS	125184..126512	dnaC; replicative DNA helicase
+mcp:MCAP_0108	CDS	126601..127863	hypothetical protein
+mcp:MCAP_0109	CDS	127990..128916	membrane protein, putative
+mcp:MCAP_0110	CDS	128925..130250	cysS; cysteinyl-tRNA synthetase
+mcp:MCAP_0111	CDS	130252..130986	RNA methyltransferase, TrmH family, group 3
+mcp:MCAP_0112	CDS	131047..131208	rpmG; 50S ribosomal protein L33
+mcp:MCAP_0113	CDS	131208..131522	secE; preprotein translocase, SecE subunit, putative
+mcp:MCAP_0114	CDS	131539..132183	nusG; transcription antitermination protein NusG
+mcp:MCAP_0115	CDS	132631..138528	membrane protein, putative
+mcp:MCAP_0116	CDS	138537..141491	oligopeptide ABC transporter, oligopeptide-binding protein, putative
+mcp:MCAP_0117	CDS	141491..142564	oligopeptide ABC transporter, permease protein
+mcp:MCAP_0118	CDS	142566..143576	oligopeptide ABC transporter, permease protein
+mcp:MCAP_0119	CDS	143655..145028	oligopeptide ABC transporter, ATP-binding protein
+mcp:MCAP_0120	CDS	145104..146357	oligopeptide ABC transporter, ATP-binding protein
+mcp:MCAP_0121	CDS	complement(146389..146817)	membrane protein, putative
+mcp:MCAP_0122	CDS	146872..147651	membrane protein, putative
+mcp:MCAP_0123	CDS	147705..149243	ABC transporter, ATP-binding protein
+mcp:MCAP_0124	CDS	complement(149275..150072)	hydrolase, TatD family
+mcp:MCAP_0125	CDS	150259..151485	ilvA; threonine dehydratase
+mcp:MCAP_0126	CDS	151701..153290	membrane protein, putative
+mcp:MCAP_0127	CDS	153295..154158	membrane protein, putative
+mcp:MCAP_0128	CDS	154344..155120	nagB2; glucosamine-6-phosphate isomerase
+mcp:MCAP_0129	CDS	155124..156806	PTS system, N-acetylglucosamine-specific IIBC component, putative
+mcp:MCAP_0130	CDS	156937..158388	gltX; glutamyl-tRNA synthetase
+mcp:MCAP_0131	gene	158391..159604	pseudogene
+mcp:MCAP_0132	CDS	159630..160067	DNA-directed RNA polymerase, delta subunit, putative
+mcp:MCAP_0133	CDS	160160..161758	pyrG; CTP synthase
+mcp:MCAP_0134	CDS	162260..163033	membrane protein, putative
+mcp:MCAP_0135	CDS	163048..164022	membrane protein, putative
+mcp:MCAP_0136	CDS	164174..165067	fba; fructose-1,6-bisphosphate aldolase, class II
+mcp:MCAP_0137	CDS	complement(165285..166778)	membrane protein, putative
+mcp:MCAP_0138	CDS	166983..168434	membrane protein, putative
+mcp:MCAP_0139	CDS	168519..169235	glycerophosphoryl diester phosphodiesterase family
+mcp:MCAP_0140	CDS	169372..169650	rpmE; ribosomal protein L31
+mcp:MCAP_0141	CDS	169725..171653	hypothetical protein
+mcp:MCAP_0142	CDS	171663..172613	DHH phosphoesterase family protein, putative
+mcp:MCAP_0143	CDS	172616..173245	tdk; thymidine kinase
+mcp:MCAP_0144	CDS	173248..174339	prfA; peptide chain release factor 1
+mcp:MCAP_0145	CDS	174332..175144	modification methylase, HemK family
+mcp:MCAP_0146	CDS	175190..176662	membrane protein, putative
+mcp:MCAP_0147	CDS	176671..177171	conserved hypothetical protein
+mcp:MCAP_0148	CDS	177239..178192	conserved hypothetical protein
+mcp:MCAP_0149	CDS	178316..179023	membrane protein, putative
+mcp:MCAP_0150	CDS	179023..180552	cardiolipin synthetase, putative
+mcp:MCAP_0151	CDS	180658..181095	rpsL; 30S ribosomal protein S12
+mcp:MCAP_0152	CDS	181185..181652	rpsG; 30S ribosomal protein S7
+mcp:MCAP_0153	CDS	181679..183748	fusA; translation elongation factor G
+mcp:MCAP_0154	CDS	183880..185067	tuf; translation elongation factor Tu
+mcp:MCAP_0155	CDS	185190..187031	PTS system, IIBC component, putative
+mcp:MCAP_0156	CDS	187015..189282	isoglycosyl hydrolases family 31, putative
+mcp:MCAP_0157	CDS	189469..190824	pepA1; cytosol aminopeptidase
+mcp:MCAP_0158	gene	complement(191048..192213)	pseudogene
+mcp:MCAP_0159	CDS	complement(192390..195080)	alaS; alanyl-tRNA synthetase
+mcp:MCAP_0160	CDS	complement(195149..195643)	membrane protein, putative
+mcp:MCAP_0161	CDS	195862..197106	oligopeptide ABC transporter, permease protein, putative
+mcp:MCAP_0162	CDS	197122..198132	oligopeptide ABC transporter, permease protein, putative
+mcp:MCAP_0163	CDS	198146..199846	oligopeptide ABC transporter, ATP-binding protein
+mcp:MCAP_0164	CDS	199848..201725	oligopeptide ABC transporter, ATP-binding protein
+mcp:MCAP_0165	CDS	201742..204849	oligopeptide ABC transporter, oligopeptide-binding protein, putative
+mcp:MCAP_0166	CDS	204948..205049	truncated membrane protein
+mcp:MCAP_0167	CDS	205361..206965	hypothetical protein
+mcp:MCAP_0168	CDS	207895..209073	membrane protein, putative
+mcp:MCAP_0169	CDS	209054..209689	conserved hypothetical protein
+mcp:MCAP_0170	CDS	209791..210543	conserved hypothetical protein
+mcp:MCAP_0171	CDS	210593..211243	membrane protein, putative
+mcp:MCAP_0172	CDS	211364..212194	lipoprotein, putative
+mcp:MCAP_0173	CDS	212404..212691	hypothetical protein
+mcp:MCAP_0174	gene	complement(213489..213747)	pseudogene
+mcp:MCAP_0175	CDS	213766..214179	conserved hypothetical protein
+mcp:MCAP_0176	CDS	complement(214289..214405)	hypothetical protein
+mcp:MCAP_0177	CDS	214527..214916	conserved hypothetical protein
+mcp:MCAP_0178	CDS	215059..216234	membrane protein, putative
+mcp:MCAP_0179	CDS	216319..219186	membrane bound ATPase, putative
+mcp:MCAP_0180	CDS	219507..219827	conserved hypothetical protein
+mcp:MCAP_0181	CDS	219869..220444	hypothetical protein
+mcp:MCAP_0182	CDS	220472..221119	adenine-specific DNA methylase, putative
+mcp:MCAP_0183	CDS	221144..221575	conserved hypothetical protein
+mcp:MCAP_0184	CDS	221642..222379	hypothetical protein
+mcp:MCAP_0185	CDS	222379..222585	hypothetical protein
+mcp:MCAP_0186	CDS	222935..225676	membrane protein, putative
+mcp:MCAP_0187	CDS	226062..227186	transposase (IS3 family), putative
+mcp:MCAP_0189	CDS	228765..229850	multiple sugar ABC transporter, ATP-binding protein
+mcp:MCAP_0190	CDS	229949..232246	glycosyl hydrolase, family 65 (trehalase)
+mcp:MCAP_0191	CDS	232248..233852	glycosyl hydrolase, family 13
+mcp:MCAP_0192	CDS	233874..234593	transcriptional regulator, gntR family
+mcp:MCAP_0193	CDS	complement(234626..236419)	oligoendopeptidase F
+mcp:MCAP_0194	CDS	complement(236419..237102)	conserved hypothetical protein
+mcp:MCAP_0195	CDS	complement(237118..238473)	pepA2; cytosol aminopeptidase
+mcp:MCAP_0196	CDS	complement(238589..239884)	conserved hypothetical protein
+mcp:MCAP_0197	CDS	240127..240747	chromate ion transporter (CHR) family, putative
+mcp:MCAP_0198	CDS	240747..241424	chromate ion transporter (CHR) family, putative
+mcp:MCAP_0199	gene	242187..242651	pseudogene
+mcp:MCAP_0200	CDS	complement(242913..246038)	spermidine/putrescine ABC transporter, permease protein and spermidine/putrescine-binding protein
+mcp:MCAP_0201	CDS	complement(246023..247015)	spermidine/putrescine ABC transporter, permease protein
+mcp:MCAP_0202	CDS	complement(247015..248070)	spermidine/putrescine ABC transporter, ATP-binding protein
+mcp:MCAP_0203	CDS	complement(248432..248791)	rplT; 50S ribosomal protein L20
+mcp:MCAP_0204	CDS	complement(248810..249001)	rpmI; 50S ribosomal protein L35
+mcp:MCAP_0205	CDS	complement(249027..249572)	infC; translation initiation factor IF-3
+mcp:MCAP_0206	CDS	complement(249761..250363)	def; polypeptide deformylase
+mcp:MCAP_0207	CDS	250437..250994	methyltransferase, putative
+mcp:MCAP_0208	CDS	250997..251890	gmk; guanylate kinase
+mcp:MCAP_0209	CDS	251853..253139	rRNA methyltransferase RsmB (sun protein), putative
+mcp:MCAP_0210	CDS	complement(253143..254972)	typA; GTP-binding protein TypA/BipA
+mcp:MCAP_0211	CDS	255250..256059	lipoprotein, putative
+mcp:MCAP_0212	CDS	256070..256867	lipoprotein, putative
+mcp:MCAP_0213	CDS	256990..258345	eno; enolase
+mcp:MCAP_0214	CDS	258411..259232	PAP2 superfamily domain membrane protein
+mcp:MCAP_0215	CDS	259234..259665	holliday junction resolvase, putative
+mcp:MCAP_0216	CDS	259671..260243	hpt1; hypoxanthine phosphoribosyltransferase
+mcp:MCAP_0217	CDS	complement(260290..261069)	glycerol uptake facilitator protein
+mcp:MCAP_0218	CDS	complement(261105..262622)	glpK; glycerol kinase
+mcp:MCAP_0219	CDS	complement(262639..263802)	glycerol-3-phosphate dehydrogenase, putative
+mcp:MCAP_0220	CDS	264143..265123	pfkA; Phosphofructokinase
+mcp:MCAP_0221	CDS	265192..266628	pyk; pyruvate kinase
+mcp:MCAP_0222	CDS	266899..268818	thrS; threonyl-tRNA synthetase
+mcp:MCAP_0223	CDS	269448..270812	NADH oxidase
+mcp:MCAP_0224	CDS	270824..271828	lipoate-protein ligase
+mcp:MCAP_0225	CDS	271863..272975	pdhA; pyruvate dehydrogenase complex, EI component, alpha subunit
+mcp:MCAP_0226	CDS	272975..273964	pdhB; pyruvate dehydrogenase complex, E1 component, beta subunit
+mcp:MCAP_0227	CDS	273993..275309	pdhC; pyruvate dehydrogenase complex, EII component, dihydrolipoamide acetyltransferase
+mcp:MCAP_0228	CDS	275328..277217	pdhD; dihydrolipoamide dehydrogenase
+mcp:MCAP_0229	CDS	277239..278207	pta; phosphate acetyltransferase
+mcp:MCAP_0230	CDS	278221..279402	ackA; acetate kinase
+mcp:MCAP_0231	CDS	279470..281437	lipoprotein, putative
+mcp:MCAP_0232	CDS	281447..281869	coaD; pantetheine-phosphate adenylyltransferase
+mcp:MCAP_0233	CDS	281962..283683	ptsI; phosphoenolpyruvate-protein phosphotransferase
+mcp:MCAP_0234	CDS	283765..284229	crr; PTS system, glucose-specific IIA component
+mcp:MCAP_0235	CDS	284721..285347	dihydroxyacetone kinase family protein
+mcp:MCAP_0236	CDS	285355..285744	conserved hypothetical protein
+mcp:MCAP_0237	CDS	complement(285801..286427)	rpsD; 30S ribosomal protein S4
+mcp:MCAP_0238	CDS	286682..288469	membrane protein, putative
+mcp:MCAP_0239	CDS	288478..289665	thiI; thiamine biosynthesis protein ThiI
+mcp:MCAP_0240	CDS	289797..291767	membrane protein, putative
+mcp:MCAP_0241	CDS	291884..293554	membrane protein, putative
+mcp:MCAP_0242	CDS	293564..295852	lipoprotein, putative
+mcp:MCAP_0243	CDS	296087..298150	regulatory protein PfoR
+mcp:MCAP_0244	CDS	complement(298176..301091)	cation-transporting ATPase, E1-E2 family
+mcp:MCAP_0245	CDS	complement(301100..301690)	GTP-binding conserved hypothetical protein
+mcp:MCAP_0246	CDS	complement(301684..302244)	membrane protein, putative
+mcp:MCAP_0247	CDS	complement(302246..302824)	membrane protein, putative
+mcp:MCAP_0248	CDS	complement(302827..303516)	conserved hypothetical protein
+mcp:MCAP_0249	CDS	303598..304293	hypothetical protein
+mcp:MCAP_0250	CDS	complement(304294..305016)	Oxidoreductase, short chain dehydrogenase/reductase family
+mcp:MCAP_0251	CDS	complement(305075..305548)	greA; transcription elongation factor GreA
+mcp:MCAP_0252	CDS	complement(305640..307394)	uvrC; excinuclease ABC, C subunit
+mcp:MCAP_0253	CDS	complement(307403..308479)	membrane protein, putative
+mcp:MCAP_0254	gene	complement(308544..310161)	pseudogene
+mcp:MCAP_0255	CDS	complement(310275..312026)	conserved hypothetical protein
+mcp:MCAP_0256	CDS	complement(312145..312864)	Oxidoreductase, short chain dehydrogenase/reductase family
+mcp:MCAP_0257	CDS	complement(312876..313673)	inorganic polyphosphate/ATP-NAD kinase, putative
+mcp:MCAP_0258	CDS	complement(313797..316415)	valS; valyl-tRNA synthetase
+mcp:MCAP_0259	CDS	complement(316500..317126)	conserved hypothetical protein
+mcp:MCAP_0260	CDS	complement(317116..317793)	rpe; ribulose-phosphate 3-epimerase
+mcp:MCAP_0261	CDS	complement(317795..318697)	rsgA; ribosome small subunit-dependent GTPase A
+mcp:MCAP_0262	CDS	complement(318707..319822)	serine/threonine protein kinase, putative
+mcp:MCAP_0263	CDS	complement(319822..320085)	conserved hypothetical protein
+mcp:MCAP_0264	CDS	complement(320054..320581)	conserved hypothetical protein
+mcp:MCAP_0265	CDS	complement(320611..322023)	membrane protein, putative
+mcp:MCAP_0266	CDS	322126..322542	conserved hypothetical protein TIGR00150
+mcp:MCAP_0267	CDS	322544..323107	metalloendopeptidase, putative
+mcp:MCAP_0268	CDS	complement(323167..324522)	lipoprotein, putative
+mcp:MCAP_0269	CDS	complement(324791..326143)	lipoprotein, putative
+mcp:MCAP_0270	CDS	complement(326350..331656)	ABC transporter, permease protein, putative
+mcp:MCAP_0271	CDS	331924..335061	membrane protein, putative
+mcp:MCAP_0272	CDS	335085..335603	lipoprotein, putative
+mcp:MCAP_0273	CDS	335689..336228	lipoprotein, putative
+mcp:MCAP_0274	CDS	336621..337358	hypothetical protein
+mcp:MCAP_0275	CDS	338352..338984	conserved hypothetical protein
+mcp:MCAP_0276	CDS	339294..339815	conserved hypothetical protein
+mcp:MCAP_0277	CDS	339845..340249	plasmid replication-initiation protein homolog
+mcp:MCAP_0278	CDS	340321..340929	conserved hypothetical protein
+mcp:MCAP_0279	CDS	340973..341833	hypothetical protein
+mcp:MCAP_0280	CDS	342147..342296	hypothetical protein
+mcp:MCAP_0281	CDS	342461..342769	Single-strand binding protein family
+mcp:MCAP_0282	CDS	342820..343560	hypothetical protein
+mcp:MCAP_0283	CDS	343562..343777	hypothetical protein
+mcp:MCAP_0284	CDS	343855..344736	membrane protein, putative
+mcp:MCAP_0285	CDS	344834..345322	hypothetical protein
+mcp:MCAP_0286	CDS	345374..345943	hypothetical protein
+mcp:MCAP_0287	CDS	346021..346839	lipoprotein, putative
+mcp:MCAP_0288	CDS	346886..347458	conserved hypothetical protein
+mcp:MCAP_0289	CDS	347716..348396	conserved hypothetical protein
+mcp:MCAP_0290	CDS	348460..348876	hypothetical protein
+mcp:MCAP_0291	CDS	348951..349499	conserved hypothetical protein
+mcp:MCAP_0292	CDS	349555..350307	conserved hypothetical protein
+mcp:MCAP_0293	CDS	350364..351119	conserved hypothetical protein
+mcp:MCAP_0294	CDS	351168..351779	hypothetical protein
+mcp:MCAP_0295	CDS	351830..352243	conserved hypothetical protein
+mcp:MCAP_0296	CDS	352322..353125	conserved hypothetical protein
+mcp:MCAP_0297	CDS	353126..353794	adenine-specific DNA methylase, putative
+mcp:MCAP_0298	CDS	353798..354178	conserved hypothetical protein
+mcp:MCAP_0299	CDS	354758..359698	membrane protein, putative
+mcp:MCAP_0300	CDS	complement(360401..361894)	conserved hypothetical protein
+mcp:MCAP_0301	CDS	complement(362143..364599)	conserved hypothetical protein
+mcp:MCAP_0302	CDS	complement(364659..365339)	conserved hypothetical protein
+mcp:MCAP_0303	CDS	complement(366143..366730)	membrane protein, putative
+mcp:MCAP_0304	CDS	complement(366730..368646)	e3 binding domain protein
+mcp:MCAP_0305	CDS	complement(368903..370393)	membrane protein, putative
+mcp:MCAP_0306	CDS	complement(370524..370844)	membrane protein, putative
+mcp:MCAP_0307	CDS	complement(371320..372405)	membrane protein, putative
+mcp:MCAP_0308	CDS	complement(372470..373015)	conserved hypothetical protein
+mcp:MCAP_0309	CDS	complement(373077..374006)	conserved hypothetical protein
+mcp:MCAP_0310	CDS	complement(374061..374963)	conserved hypothetical protein
+mcp:MCAP_0311	CDS	complement(375026..375997)	conserved hypothetical protein
+mcp:MCAP_0312	CDS	complement(376060..377175)	lipoprotein, putative
+mcp:MCAP_0313	CDS	complement(377232..377510)	hupB; DNA-binding protein, HU
+mcp:MCAP_0314	CDS	complement(377579..378211)	conserved hypothetical protein
+mcp:MCAP_0315	CDS	378592..379707	transposase (IS3 family), putative
+mcp:MCAP_0316	tRNA	380276..380365	tRNA-Ser
+mcp:MCAP_0317	CDS	380492..381184	hypothetical protein
+mcp:MCAP_0318	CDS	381276..382589	proS; prolyl-tRNA synthetase
+mcp:MCAP_0319	CDS	382602..383222	ribonuclease H1, putative
+mcp:MCAP_0320	CDS	383224..384123	conserved hypothetical protein
+mcp:MCAP_0321	CDS	384137..385939	lepA; GTP-binding protein LepA
+mcp:MCAP_0322	CDS	385973..386776	hypothetical protein
+mcp:MCAP_0323	CDS	complement(386797..388524)	aspS; aspartyl-tRNA synthetase
+mcp:MCAP_0324	CDS	complement(388533..389777)	hisS; His-tRNA synthetase
+mcp:MCAP_0325	CDS	389949..390302	rbfA; ribosome-binding factor A
+mcp:MCAP_0326	CDS	390352..391230	tRNA pseudouridine synthase B, putative
+mcp:MCAP_0327	CDS	391217..391771	riboflavin kinase (flavokinase) domain protein
+mcp:MCAP_0328	CDS	complement(391784..393832)	membrane protein, putative
+mcp:MCAP_0329	CDS	complement(393844..395682)	lipoprotein, putative
+mcp:MCAP_0330	CDS	395895..396161	rpsO; 30S ribosomal protein S15
+mcp:MCAP_0331	tRNA	396221..396294	tRNA-Gly
+mcp:MCAP_0332	CDS	396385..397035	membrane protein, putative
+mcp:MCAP_0333	CDS	complement(397049..398911)	infB; translation initiation factor IF-2
+mcp:MCAP_0334	CDS	complement(398931..399230)	ribosomal protein L7A family
+mcp:MCAP_0335	CDS	complement(399217..399504)	conserved hypothetical cytosolic protein
+mcp:MCAP_0336	CDS	complement(399479..401155)	transcription elongation protein nusA, putative
+mcp:MCAP_0337	CDS	complement(401164..401658)	conserved hypothetical protein
+mcp:MCAP_0338	CDS	complement(401771..402394)	nitroreductase family protein
+mcp:MCAP_0339	CDS	complement(402434..406873)	polC; DNA polymerase III, alpha subunit, Gram-positive type
+mcp:MCAP_0340	CDS	complement(406882..407910)	cdsA; phosphatidate cytidylyltransferase
+mcp:MCAP_0341	CDS	complement(408108..409184)	Xaa-Pro peptidase
+mcp:MCAP_0342	CDS	409342..410352	trpS; tryptophanyl-tRNA synthetase
+mcp:MCAP_0343	CDS	complement(410382..411272)	membrane protein, putative
+mcp:MCAP_0344	CDS	411606..412175	Fic protein family
+mcp:MCAP_0345	CDS	412795..415050	membrane protein, putative
+mcp:MCAP_0346	CDS	415071..417659	lipoprotein, putative
+mcp:MCAP_0347	CDS	417869..420121	membrane protein, putative
+mcp:MCAP_0348	CDS	420139..422718	lipoprotein, putative
+mcp:MCAP_0349	CDS	422903..425152	membrane protein, putative
+mcp:MCAP_0350	CDS	425172..427751	lipoprotein, putative
+mcp:MCAP_0351	CDS	428011..430263	membrane protein, putative
+mcp:MCAP_0352	CDS	430287..432854	lipoprotein, putative
+mcp:MCAP_0353	CDS	432889..434352	membrane protein, putative
+mcp:MCAP_0354	CDS	434327..434821	conserved hypothetical protein
+mcp:MCAP_0355	CDS	434823..435734	conserved hypothetical protein
+mcp:MCAP_0356	CDS	435734..436177	conserved hypothetical protein
+mcp:MCAP_0357	CDS	436179..438446	membrane protein, putative
+mcp:MCAP_0358	CDS	438451..439998	atpA2; ATP synthase F1, alpha subunit
+mcp:MCAP_0359	CDS	439998..441377	atpD2; ATP synthase F1, beta subunit
+mcp:MCAP_0360	CDS	complement(441432..443936)	hypothetical protein
+mcp:MCAP_0361	CDS	complement(444199..446745)	hypothetical protein
+mcp:MCAP_0362	CDS	complement(446899..449406)	hypothetical protein
+mcp:MCAP_0363	CDS	449586..450185	non-canonical purine NTP pyrophosphatase, rdgB/HAM1 family
+mcp:MCAP_0364	CDS	450199..450744	RNA methyltransferase, TrmH family
+mcp:MCAP_0365	CDS	450744..451610	hydrolase of the HAD superfamily, putative
+mcp:MCAP_0366	CDS	451775..453916	ATP-dependent Clp protease, ATP-binding subunit ClpB, putative
+mcp:MCAP_0367	CDS	453921..454943	hrcA; heat-inducible transcription repressor HrcA
+mcp:MCAP_0368	CDS	454927..455547	grpE; co-chaperone GrpE
+mcp:MCAP_0369	CDS	455607..457382	dnaK; chaperone protein dnaK
+mcp:MCAP_0370	CDS	457447..458565	dnaJ; chaperone protein dnaJ
+mcp:MCAP_0371	CDS	458769..459644	rpsB; 30S ribosomal protein S2
+mcp:MCAP_0372	CDS	459656..460543	tsf; translation elongation factor Ts
+mcp:MCAP_0373	CDS	460546..461151	membrane protein, putative
+mcp:MCAP_0374	CDS	461283..461996	pyrH; uridylate kinase
+mcp:MCAP_0375	CDS	462007..462555	frr; ribosome recycling factor
+mcp:MCAP_0376	CDS	462557..464221	argS; arginyl-tRNA synthetase
+mcp:MCAP_0378	rRNA	464431..465954	rrs-1; 16S ribosomal RNA
+mcp:MCAP_0379	rRNA	466184..469077	rrl-1; 23S ribosomal RNA
+mcp:MCAP_0380	rRNA	469153..469261	rrf-1; 5S ribosomal RNA
+mcp:MCAP_0381	CDS	469387..473832	membrane protein, putative
+mcp:MCAP_0382	CDS	473844..474452	hypothetical protein
+mcp:MCAP_0383	CDS	474483..475535	pheS; phenylalanyl-tRNA synthetase, alpha subunit
+mcp:MCAP_0384	CDS	475544..477928	pheT; phenylalanyl-tRNA synthetase, beta subunit
+mcp:MCAP_0385	CDS	477928..478443	hypothetical protein
+mcp:MCAP_0386	CDS	478458..478637	rpmF; 50S ribosomal protein L32
+mcp:MCAP_0387	CDS	478742..479140	conserved hypothetical protein
+mcp:MCAP_0388	CDS	479149..480078	mraW; S-adenosyl-methyltransferase MraW
+mcp:MCAP_0389	CDS	480087..481244	conserved hypothetical protein
+mcp:MCAP_0390	CDS	481359..482498	ftsZ; cell division protein FtsZ
+mcp:MCAP_0391	CDS	482511..482954	conserved hypothetical protein
+mcp:MCAP_0392	CDS	482987..483976	conserved hypothetical protein
+mcp:MCAP_0393	CDS	484559..487285	ileS; isoleucyl-tRNA synthetase
+mcp:MCAP_0394	CDS	487294..487902	lspA; signal peptidase (SPase) II
+mcp:MCAP_0395	CDS	487883..488851	ribosomal large subunit pseudouridine synthase, RluA family
+mcp:MCAP_0396	CDS	488835..490145	membrane protein, putative
+mcp:MCAP_0397	CDS	490172..490633	probable deoxycytidylate deaminase
+mcp:MCAP_0398	CDS	490673..491827	membrane protein, putative
+mcp:MCAP_0399	CDS	491908..493293	membrane protein, putative
+mcp:MCAP_0400	CDS	493313..493645	holo-(acyl-carrier-protein) synthase, putative
+mcp:MCAP_0401	CDS	493687..494838	membrane protein, putative
+mcp:MCAP_0402	CDS	494973..495926	1-acyl-sn-glycerol-3-phosphate acyltransferase, putative
+mcp:MCAP_0403	CDS	495977..496594	conserved hypothetical protein
+mcp:MCAP_0404	tRNA	496721..496796	tRNA-Thr
+mcp:MCAP_0405	tRNA	496803..496886	tRNA-Tyr
+mcp:MCAP_0406	tRNA	496894..496968	tRNA-Gln
+mcp:MCAP_0407	tRNA	496973..497048	tRNA-Lys
+mcp:MCAP_0408	tRNA	497057..497145	tRNA-Leu
+mcp:MCAP_0409	CDS	complement(497250..498314)	lipoprotein, putative
+mcp:MCAP_0410	CDS	498691..499581	conserved hypothetical protein, TIGR00096
+mcp:MCAP_0411	CDS	499603..500004	hypothetical protein
+mcp:MCAP_0412	CDS	500149..500451	rplU; 50 ribosomal protein L21
+mcp:MCAP_0413	CDS	500454..500768	conserved hypothetical protein
+mcp:MCAP_0414	CDS	500770..501051	rpmA; 50S ribosomal protein L27
+mcp:MCAP_0415	CDS	501245..502132	nanA; N-acetylneuraminate lyase
+mcp:MCAP_0416	CDS	502136..503848	sodium:solute symporter (SSS) family
+mcp:MCAP_0417	CDS	503857..504306	conserved hypothetical cytosolic protein
+mcp:MCAP_0418	CDS	504299..505174	ROK family protein
+mcp:MCAP_0419	CDS	505254..505934	N-acetylmannosamine-6-phosphate epimerase, putative
+mcp:MCAP_0420	CDS	506088..507437	dipeptidase, putative
+mcp:MCAP_0421	CDS	507518..507952	membrane protein, putative
+mcp:MCAP_0422	CDS	507977..508600	udk; uridine kinase
+mcp:MCAP_0423	CDS	508728..509954	ImpB/MucB/SamB family protein
+mcp:MCAP_0424	CDS	complement(509967..511070)	GTP-binding conserved hypothetical protein
+mcp:MCAP_0425	CDS	complement(511079..511999)	conserved hypothetical protein
+mcp:MCAP_0426	CDS	512075..512890	hypothetical protein
+mcp:MCAP_0427	CDS	complement(512935..514296)	pyridine nucleotide-disulphide oxidoreductase
+mcp:MCAP_0428	gene	complement(514403..515325)	ruvB; pseudogene
+mcp:MCAP_0429	CDS	complement(515351..515911)	ruvA; Holliday junction DNA helicase ruvA, putative
+mcp:MCAP_0430	CDS	complement(516022..516204)	rpsU; 30S Ribosomal protein S21
+mcp:MCAP_0431	CDS	516454..517083	lipoprotein, putative
+mcp:MCAP_0432	CDS	517320..518039	lipoprotein, putative
+mcp:MCAP_0433	CDS	518278..518916	lipoprotein, putative
+mcp:MCAP_0434	CDS	complement(518964..520697)	conserved hypothetical protein
+mcp:MCAP_0435	CDS	520850..522502	membrane protein, putative
+mcp:MCAP_0436	CDS	522507..523106	membrane protein, putative
+mcp:MCAP_0437	CDS	complement(523118..523927)	membrane protein, putative
+mcp:MCAP_0438	CDS	524021..525178	nagA; N-acetylglucosamine-6-phosphate deacetylase
+mcp:MCAP_0439	CDS	525231..526184	ldh; L-lactate/malate dehydrogenase
+mcp:MCAP_0440	CDS	complement(526250..526912)	membrane protein, putative
+mcp:MCAP_0441	CDS	complement(527269..527469)	hypothetical protein
+mcp:MCAP_0442	CDS	complement(527481..528965)	lipoprotein, putative
+mcp:MCAP_0443	CDS	529220..529492	hypothetical protein
+mcp:MCAP_0444	CDS	529607..530716	membrane protein, putative
+mcp:MCAP_0445	CDS	complement(530742..531539)	triacylglycerol lipase
+mcp:MCAP_0446	CDS	complement(531553..532341)	triacylglycerol lipase, putative
+mcp:MCAP_0447	CDS	532528..532872	glycine cleavage system H protein, putative
+mcp:MCAP_0448	CDS	532879..533730	conserved hypothetical protein
+mcp:MCAP_0449	CDS	533708..534745	lipoate-protein ligase
+mcp:MCAP_0450	CDS	534745..535923	NADH:flavin oxidoreductase / NADH oxidase family
+mcp:MCAP_0451	CDS	complement(536187..538070)	lipoprotein, putative (LppB)
+mcp:MCAP_0452	CDS	complement(538184..538987)	gtsC; glycerol ABC transporter, permease
+mcp:MCAP_0453	CDS	complement(538965..539969)	gtsB; glycerol ABC transporter, permease
+mcp:MCAP_0454	CDS	complement(539962..541173)	gtsA; glycerol ABC transporter, ATP-binding protein
+mcp:MCAP_0455	CDS	complement(541179..543374)	helicase, RecD/TraA family, putative
+mcp:MCAP_0456	CDS	complement(543485..546184)	parC; DNA topoisomerase IV, A subunit
+mcp:MCAP_0457	CDS	complement(546186..548117)	parE; DNA topoisomerase IV, B subunit
+mcp:MCAP_0458	CDS	548347..549924	PTS system, mannitol-specific IIBC component
+mcp:MCAP_0459	CDS	549927..550367	PTS system, mannitol-specific IIA component
+mcp:MCAP_0460	CDS	550367..551266	6-phosphogluconate dehydrogenase family protein
+mcp:MCAP_0461	CDS	complement(551321..552736)	aldehyde dehydrogenase (NAD) family protein
+mcp:MCAP_0462	CDS	complement(552903..553670)	RNA methyltransferase, TrmH family
+mcp:MCAP_0463	CDS	complement(553687..554190)	conserved hypothetical cytosolic protein
+mcp:MCAP_0464	CDS	complement(554231..554677)	membrane protein, putative
+mcp:MCAP_0465	CDS	complement(554703..555986)	pgi; glucose-6-phosphate isomerase
+mcp:MCAP_0466	CDS	complement(556207..558102)	pepO; endopeptidase O
+mcp:MCAP_0467	CDS	complement(558116..558685)	5-formyltetrahydrofolate cyclo-ligase subfamily
+mcp:MCAP_0468	CDS	complement(558678..559115)	conserved hypothetical protein
+mcp:MCAP_0469	CDS	complement(559119..560357)	aminotransferase, class V
+mcp:MCAP_0470	CDS	560551..563544	lipoprotein, putative
+mcp:MCAP_0471	CDS	563566..565737	lipoprotein, putative
+mcp:MCAP_0472	CDS	565740..566135	HIT family protein
+mcp:MCAP_0473	CDS	complement(566171..567151)	conserved hypothetical protein
+mcp:MCAP_0474	CDS	complement(567220..567876)	ung; uracil-DNA glycosylase
+mcp:MCAP_0475	CDS	complement(567869..568798)	pmi; phosphomannose isomerase type I
+mcp:MCAP_0476	CDS	complement(568919..570235)	gid; glucose inhibited division protein
+mcp:MCAP_0477	CDS	complement(570228..570911)	copper homeostasis protein CutC, putative
+mcp:MCAP_0478	CDS	complement(570902..572065)	metK; S-adenosylmethionine synthetase
+mcp:MCAP_0479	CDS	complement(572276..573049)	conserved hypothetical protein TIGR00282
+mcp:MCAP_0480	CDS	complement(573037..573378)	p13; UPF0122 protein, putative
+mcp:MCAP_0481	CDS	complement(573362..574636)	ftsY; signal recognition particle-docking protein FtsY
+mcp:MCAP_0482	CDS	complement(574705..575376)	phosphate transport system regulatory protein PhoU, putative
+mcp:MCAP_0483	CDS	complement(575385..576194)	pstB; phosphate ABC transporter, ATP-binding protein
+mcp:MCAP_0484	CDS	complement(576187..578277)	phosphate ABC transporter, permease, putative
+mcp:MCAP_0485	CDS	complement(578281..579492)	phosphate ABC transporter, phosphate-binding protein, putative
+mcp:MCAP_0486	CDS	complement(579583..580017)	conserved hypothetical protein
+mcp:MCAP_0487	tRNA	complement(580100..580184)	tRNA-Leu
+mcp:MCAP_0488	CDS	complement(580246..580443)	rpmB; 50S ribosomal protein L28
+mcp:MCAP_0489	CDS	580603..580932	conserved hypothetical protein
+mcp:MCAP_0490	CDS	580962..582605	dihydroxyacetone kinase 2 domain protein
+mcp:MCAP_0491	CDS	582637..583641	plsX; fatty acid/phospholipid synthesis protein PlsX
+mcp:MCAP_0492	CDS	583631..584329	ribonuclease III
+mcp:MCAP_0493	CDS	584513..584908	hypothetical protein
+mcp:MCAP_0494	CDS	584911..585297	hypothetical protein
+mcp:MCAP_0495	CDS	585624..588590	structural maintenance of chromosomes (SMC) superfamily protein
+mcp:MCAP_0496	CDS	complement(588629..590893)	RelA/SpoT family protein
+mcp:MCAP_0497	CDS	complement(590953..591465)	apt; adenine phosphoribosyltransferase
+mcp:MCAP_0498	CDS	complement(591477..595691)	membrane protein, putative
+mcp:MCAP_0499	CDS	complement(595793..597304)	membrane protein, putative
+mcp:MCAP_0500	CDS	complement(597343..598704)	ATP-dependent RNA helicase, DEAD-DEAH box family
+mcp:MCAP_0501	CDS	complement(598713..599489)	conserved hypothetical protein
+mcp:MCAP_0502	CDS	complement(599476..600153)	conserved hypothetical protein
+mcp:MCAP_0503	CDS	complement(600156..601673)	rpoD; RNA polymerase sigma factor RpoD
+mcp:MCAP_0504	CDS	complement(601676..603490)	dnaG; DNA primase
+mcp:MCAP_0505	CDS	complement(603527..604897)	glyS; glycyl-tRNA synthetase
+mcp:MCAP_0506	CDS	complement(604961..605710)	DNA repair protein RecO
+mcp:MCAP_0507	CDS	complement(605710..606615)	era; GTP-binding protein Era
+mcp:MCAP_0508	CDS	complement(606618..607112)	conserved hypothetical protein, TIGR00043
+mcp:MCAP_0509	CDS	complement(607118..609007)	Peptidase C39 family protein
+mcp:MCAP_0510	CDS	complement(609000..609548)	DJ-1 family protein
+mcp:MCAP_0511	CDS	complement(609596..614857)	membrane protein, putative
+mcp:MCAP_0512	gene	615007..617469	pseudogene
+mcp:MCAP_0513	CDS	617508..619751	lipoprotein, putative
+mcp:MCAP_0514	CDS	619809..622079	lipoprotein, putative
+mcp:MCAP_0515	CDS	complement(622111..623349)	ATPase, AAA family, putative
+mcp:MCAP_0516	CDS	complement(623462..625801)	lon; ATP-dependent protease La
+mcp:MCAP_0517	CDS	complement(625920..627206)	tig; trigger factor
+mcp:MCAP_0518	CDS	complement(627223..627525)	hypothetical protein
+mcp:MCAP_0519	CDS	complement(627543..628097)	efp; translation elongation factor P
+mcp:MCAP_0520	CDS	complement(628187..629140)	fmt; methionyl-tRNA formyltransferase
+mcp:MCAP_0521	CDS	complement(629130..631274)	conserved hypothetical protein
+mcp:MCAP_0522	CDS	complement(631351..631968)	membrane protein, putative
+mcp:MCAP_0523	CDS	complement(632010..633137)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+mcp:MCAP_0524	CDS	complement(633233..634117)	lipoprotein, putative
+mcp:MCAP_0525	CDS	complement(634769..635542)	lipoprotein, putative
+mcp:MCAP_0526	CDS	complement(635564..636367)	lipoprotein, putative
+mcp:MCAP_0527	CDS	complement(636581..637225)	conserved hypothetical protein
+mcp:MCAP_0528	CDS	complement(637250..637885)	MTA/SAH nucleosidase
+mcp:MCAP_0529	CDS	complement(637908..639011)	nicotinate (nicotinamide) nucleotide adenylyltransferase/conserved hypothetical domain
+mcp:MCAP_0530	CDS	complement(639029..639274)	membrane protein, putative
+mcp:MCAP_0531	CDS	complement(639292..640053)	NH3-dependent NAD+ synthetase
+mcp:MCAP_0532	CDS	complement(640031..641332)	Spo0B-associated GTP-binding protein, putative
+mcp:MCAP_0533	CDS	complement(641403..641711)	hypothetical protein
+mcp:MCAP_0534	CDS	complement(641701..642453)	conserved hypothetical protein
+mcp:MCAP_0535	tRNA	complement(642510..642586)	tRNA-Arg
+mcp:MCAP_0536	CDS	complement(642641..644245)	conserved hypothetical protein
+mcp:MCAP_0537	CDS	complement(644285..646138)	ABC transporter, ATP-binding/permease protein, putative
+mcp:MCAP_0538	CDS	complement(646156..648027)	ABC transporter, ATP-binding/permease protein, putative
+mcp:MCAP_0539	CDS	complement(648243..648548)	Single-strand binding protein family
+mcp:MCAP_0540	CDS	648710..649948	YeeE/YedE family protein, putative
+mcp:MCAP_0541	CDS	649951..651747	Conserved hypothetical protein
+mcp:MCAP_0542	CDS	complement(651769..652392)	ribonuclease HII, putative
+mcp:MCAP_0543	CDS	complement(652386..653336)	GTPase family protein
+mcp:MCAP_0544	CDS	complement(653429..653821)	rplS; 50S ribosomal protein L19
+mcp:MCAP_0545	CDS	complement(653823..654545)	trmD; tRNA (guanine-N1)-methyltransferase
+mcp:MCAP_0546	CDS	complement(654547..655041)	16S rRNA processing protein RimM, putative
+mcp:MCAP_0547	CDS	complement(655059..655385)	rpsP; 30S ribosomal protein S16
+mcp:MCAP_0548	CDS	complement(655474..655941)	conserved hypothetical cytosolic protein
+mcp:MCAP_0549	CDS	complement(655947..657290)	ffh; signal recognition particle protein
+mcp:MCAP_0550	CDS	complement(657320..658849)	HDIG/HD/KH domain protein
+mcp:MCAP_0551	CDS	complement(659001..659987)	recA; recA protein
+mcp:MCAP_0552	CDS	complement(660079..660627)	conserved hypothetical protein
+mcp:MCAP_0553	misc_RNA	complement(660587..660932)	rnpB; ribonuclease P RNA component
+mcp:MCAP_0554	CDS	661194..662042	membrane protein, putative
+mcp:MCAP_0555	gene	662358..663597	pseudogene
+mcp:MCAP_0556	CDS	663622..664455	C-5 cytosine-specific DNA methylase
+mcp:MCAP_0557	CDS	664567..665148	membrane protein, putative
+mcp:MCAP_0558	CDS	665588..665737	hypothetical protein
+mcp:MCAP_0559	CDS	666111..668111	membrane protein, putative (TraG/TraD family)
+mcp:MCAP_0560	CDS	668143..669558	conserved hypothetical protein
+mcp:MCAP_0561	CDS	669691..671172	lipoprotein, putative
+mcp:MCAP_0562	CDS	671184..671384	hypothetical protein
+mcp:MCAP_0563	CDS	671489..671815	membrane protein, putative
+mcp:MCAP_0564	CDS	671819..673462	membrane protein, putative
+mcp:MCAP_0565	CDS	673465..676302	membrane protein, putative
+mcp:MCAP_0566	CDS	676321..676944	hypothetical protein
+mcp:MCAP_0567	CDS	676937..680959	membrane protein, putative
+mcp:MCAP_0568	CDS	681011..681991	hypothetical protein
+mcp:MCAP_0569	CDS	682175..682540	hypothetical protein
+mcp:MCAP_0570	CDS	682755..683672	conserved hypothetical protein
+mcp:MCAP_0571	CDS	683782..685014	hypothetical protein
+mcp:MCAP_0572	CDS	complement(685488..685865)	conserved hypothetical protein
+mcp:MCAP_0573	CDS	685929..686438	recombination protein U, putative
+mcp:MCAP_0574	CDS	complement(686410..686946)	conserved hypothetical protein
+mcp:MCAP_0575	CDS	complement(687004..687276)	hupA; DNA-binding protein HU 1
+mcp:MCAP_0576	CDS	complement(687308..688306)	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+)
+mcp:MCAP_0577	CDS	complement(688308..689615)	engA; GTP-binding protein engA
+mcp:MCAP_0578	CDS	complement(689615..690283)	cmk; cytidylate kinase
+mcp:MCAP_0579	CDS	complement(690292..690987)	membrane protein, putative
+mcp:MCAP_0580	CDS	complement(691056..691943)	membrane protein, putative
+mcp:MCAP_0581	CDS	692084..692644	ppa; inorganic pyrophosphatase
+mcp:MCAP_0582	CDS	complement(692752..693453)	hypothetical protein
+mcp:MCAP_0583	CDS	complement(693511..695775)	lipoprotein, putative
+mcp:MCAP_0584	CDS	complement(695820..695942)	lipoprotein, putative
+mcp:MCAP_0585	CDS	complement(696234..696569)	lipoprotein, putative
+mcp:MCAP_0586	CDS	complement(696604..698397)	ABC transporter, permease protein, putative
+mcp:MCAP_0587	CDS	complement(698444..700279)	ABC transporter, ATP-binding protein, putative
+mcp:MCAP_0588	gene	complement(700570..701287)	pseudogene
+mcp:MCAP_0589	CDS	complement(701486..702133)	ribulose-phosphate 3-epimerase, putative
+mcp:MCAP_0590	CDS	complement(702133..703941)	PTS system, IIBC component, putative
+mcp:MCAP_0591	CDS	complement(703953..704402)	PTS system, IIA component, putative
+mcp:MCAP_0592	CDS	complement(704691..704795)	hypothetical protein
+mcp:MCAP_0593	CDS	complement(704901..705830)	lipoprotein (VmcD)
+mcp:MCAP_0594	CDS	complement(706228..706662)	lipoprotein (VmcC)
+mcp:MCAP_0595	CDS	complement(707728..708435)	lipoprotein (VmcB)
+mcp:MCAP_0596	CDS	complement(709888..711366)	lipoprotein (VmcA)
+mcp:MCAP_0597	CDS	complement(711633..712460)	membrane protein, putative
+mcp:MCAP_0598	CDS	complement(712560..713273)	Conserved hypothetical cytosolic protein
+mcp:MCAP_0599	CDS	complement(713285..713902)	nucleoside kinase
+mcp:MCAP_0600	CDS	complement(713913..714671)	ribosomal large subunit pseudouridine synthase B
+mcp:MCAP_0601	CDS	complement(714745..715374)	scpB; chromosomal segregation and condensation protein B
+mcp:MCAP_0602	CDS	complement(715358..716194)	scpA; chromosomal segregation and condensation protein A
+mcp:MCAP_0603	CDS	complement(716204..716965)	membrane protein, putative
+mcp:MCAP_0604	CDS	complement(716977..718476)	membrane protein, putative
+mcp:MCAP_0605	CDS	complement(718785..719183)	lipoprotein, putative
+mcp:MCAP_0606	CDS	complement(719333..720127)	hydrolase, alpha/beta fold family
+mcp:MCAP_0607	CDS	complement(720139..722595)	lipoprotein, putative
+mcp:MCAP_0608	CDS	complement(722695..724239)	hypothetical protein
+mcp:MCAP_0609	CDS	complement(724303..724548)	Uncharacterised membrane protein, UPF0154 family
+mcp:MCAP_0610	CDS	complement(724564..726534)	tkt; transketolase
+mcp:MCAP_0611	CDS	complement(726575..726736)	conserved hypothetical protein
+mcp:MCAP_0612	CDS	complement(726871..727611)	membrane protein, putative
+mcp:MCAP_0613	CDS	complement(727710..728981)	glucose-inhibited division protein, putative
+mcp:MCAP_0614	CDS	729282..730358	membrane protein, putative
+mcp:MCAP_0615	CDS	complement(730500..730739)	conserved hypothetical protein
+mcp:MCAP_0616	CDS	complement(730932..731777)	fructose/tagatose bisphosphate aldolase, class II
+mcp:MCAP_0617	CDS	731978..732712	transcriptional regulator, DeoR family
+mcp:MCAP_0618	CDS	732721..734607	PTS system, IIBC components, putative
+mcp:MCAP_0619	CDS	734620..735561	1-phosphofructokinase
+mcp:MCAP_0620	CDS	complement(735640..737490)	membrane protein, putative
+mcp:MCAP_0621	CDS	complement(738045..738590)	membrane protein, putative
+mcp:MCAP_0622	CDS	740123..741652	membrane protein, putative
+mcp:MCAP_0623	CDS	741987..743822	metallo-beta-lactamase superfamily protein
+mcp:MCAP_0624	CDS	743900..744853	membrane protein, putative
+mcp:MCAP_0625	CDS	745896..747140	membrane protein, putative
+mcp:MCAP_0626	CDS	747406..748809	membrane protein, putative
+mcp:MCAP_0627	CDS	749130..750881	membrane protein, putative
+mcp:MCAP_0628	CDS	750894..751562	membrane protein, putative
+mcp:MCAP_0629	CDS	751744..752391	lipoprotein (VmcE)
+mcp:MCAP_0630	CDS	753218..753748	lipoprotein (VmcF)
+mcp:MCAP_0631	CDS	complement(753818..755032)	pgk; phosphoglycerate kinase
+mcp:MCAP_0632	CDS	complement(755160..756176)	gap; glyceraldehyde-3-phosphate dehydrogenase
+mcp:MCAP_0633	CDS	complement(756269..757204)	conserved hypothetical protein
+mcp:MCAP_0634	CDS	complement(757214..758398)	conserved hypothetical protein
+mcp:MCAP_0635	CDS	complement(758556..759380)	mutM; formamidopyrimidine-DNA glycosylase
+mcp:MCAP_0636	CDS	complement(759391..762126)	polA; DNA polymerase I
+mcp:MCAP_0637	CDS	complement(762135..765095)	dnaE; DNA-directed DNA polymerase III (polc)
+mcp:MCAP_0638	CDS	765267..767921	membrane protein, putative
+mcp:MCAP_0639	CDS	complement(768010..769254)	tyrS; tyrosyl-tRNA synthetase
+mcp:MCAP_0640	CDS	complement(769262..770323)	conserved hypothetical protein
+mcp:MCAP_0641	CDS	complement(770301..770933)	methionyl/phenylalanyl tRNA synthetase domain protein
+mcp:MCAP_0642	CDS	770984..771823	conserved hypothetical protein
+mcp:MCAP_0643	CDS	771834..772685	degV family protein
+mcp:MCAP_0644	tRNA	complement(772721..772795)	tRNA-Trp
+mcp:MCAP_0645	tRNA	complement(772833..772908)	tRNA-Sec
+mcp:MCAP_0646	CDS	complement(772982..773449)	transcriptional regulator, Fur family, putative
+mcp:MCAP_0647	CDS	complement(773451..773672)	acyl carrier protein, putative
+mcp:MCAP_0648	CDS	complement(773693..774061)	lipoprotein, putative
+mcp:MCAP_0649	CDS	complement(774048..775115)	conserved hypothetical protein
+mcp:MCAP_0650	tRNA	complement(775217..775292)	tRNA-His
+mcp:MCAP_0651	CDS	complement(775419..776351)	arcC; carbamate kinase
+mcp:MCAP_0652	CDS	complement(776470..777564)	peptidylarginine deiminase-related protein, putative
+mcp:MCAP_0653	CDS	complement(777571..778989)	amino acid permease family protein
+mcp:MCAP_0654	CDS	complement(779011..780108)	argF; ornithine carbamoyltransferase
+mcp:MCAP_0655	CDS	780339..781226	ABC transporter, ATP-binding protein
+mcp:MCAP_0656	CDS	781228..781992	ABC transporter, permease protein, putative
+mcp:MCAP_0657	CDS	complement(782026..782505)	membrane protein, putative
+mcp:MCAP_0658	CDS	complement(782589..784154)	membrane protein, putative
+mcp:MCAP_0659	CDS	complement(784221..786635)	leuS; leucyl-tRNA synthetase
+mcp:MCAP_0660	tRNA	complement(786769..786845)	tRNA-Ile
+mcp:MCAP_0661	CDS	complement(786903..789746)	lipoprotein, putative
+mcp:MCAP_0662	CDS	complement(789908..790306)	rpsI; 30S ribosomal protein S9
+mcp:MCAP_0663	CDS	complement(790306..790761)	rplM; 50S ribosomal protein L13
+mcp:MCAP_0664	CDS	complement(790881..795026)	membrane protein, putative
+mcp:MCAP_0665	CDS	complement(795151..795900)	tRNA pseudouridine synthase A, putative
+mcp:MCAP_0666	CDS	complement(795902..796912)	cobalt ABC transporter, permease protein
+mcp:MCAP_0667	CDS	complement(796925..797794)	cobalt ABC transporter, ATP-binding protein, putative
+mcp:MCAP_0668	CDS	complement(797821..799047)	cobalt ABC transporter, ATP-binding protein, putative
+mcp:MCAP_0669	CDS	complement(799158..799517)	rplQ; 50S ribosomal protein L17
+mcp:MCAP_0670	CDS	complement(799537..800490)	rpoA; DNA-directed RNA polymerase, alpha chain
+mcp:MCAP_0671	CDS	complement(800494..800883)	rpsK; 30S ribosomal protein S11
+mcp:MCAP_0672	CDS	complement(800909..801274)	rpsM; 30S ribosomal protein S13
+mcp:MCAP_0673	CDS	complement(801312..801425)	rpmJ; 50S ribosomal protein L36
+mcp:MCAP_0674	CDS	complement(801495..801719)	infA; translation initiation factor IF-1
+mcp:MCAP_0675	CDS	complement(801731..802486)	map; methionine aminopeptidase, type I
+mcp:MCAP_0676	CDS	complement(802486..803127)	adk; adenylate kinase
+mcp:MCAP_0677	CDS	complement(803256..804704)	secY; preprotein translocase, SecY subunit
+mcp:MCAP_0678	CDS	complement(804704..805141)	rplO; 50S ribosomal protein L15
+mcp:MCAP_0679	CDS	complement(805161..805925)	rpsE; 30S ribosomal protein S5
+mcp:MCAP_0680	CDS	complement(805944..806294)	rplR; 50S ribosomal protein L18
+mcp:MCAP_0681	CDS	complement(806320..806862)	rplF; 50S ribosomal protein L6
+mcp:MCAP_0682	CDS	complement(806876..807265)	rpsH; ribosomal protein S8
+mcp:MCAP_0683	CDS	complement(807287..807472)	rpsN; ribosomal protein S14p/S29e
+mcp:MCAP_0684	CDS	complement(807491..808033)	rplE; ribosomal protein L5
+mcp:MCAP_0685	CDS	complement(808052..808378)	rplX; ribosomal protein L24
+mcp:MCAP_0686	CDS	complement(808392..808760)	rplN; ribosomal protein L14
+mcp:MCAP_0687	CDS	complement(808776..809033)	rpsQ; ribosomal protein S17
+mcp:MCAP_0688	CDS	complement(809033..809449)	ribosomal protein L29
+mcp:MCAP_0689	CDS	complement(809449..809862)	rplP; ribosomal protein L16
+mcp:MCAP_0690	CDS	complement(809865..810566)	rpsC; ribosomal protein S3
+mcp:MCAP_0691	CDS	complement(810584..810919)	rplV; ribosomal protein L22
+mcp:MCAP_0692	CDS	complement(810943..811209)	rpsS; 30S ribosomal protein S19
+mcp:MCAP_0693	CDS	complement(811231..812076)	rplB; 50S ribosomal protein L2
+mcp:MCAP_0694	CDS	complement(812129..812413)	rplW; 50S ribosomal protein L23
+mcp:MCAP_0695	CDS	complement(812413..813039)	rplD; 50S ribosomal protein L4
+mcp:MCAP_0696	CDS	complement(813052..813723)	rplC; 50 ribosomal protein L3
+mcp:MCAP_0697	CDS	complement(813798..814106)	rpsJ; 30S ribosomal protein S10
+mcp:MCAP_0698	CDS	complement(814402..815400)	dihydroxyacetone kinase family protein
+mcp:MCAP_0699	CDS	815710..816549	membrane protein, putative
+mcp:MCAP_0700	tRNA	complement(816794..816869)	tRNA-Thr
+mcp:MCAP_0701	tRNA	complement(816882..816957)	tRNA-Val
+mcp:MCAP_0702	tRNA	complement(816965..817040)	tRNA-Glu
+mcp:MCAP_0703	tRNA	complement(817048..817123)	tRNA-Asn
+mcp:MCAP_0704	CDS	complement(817226..818425)	lipoprotein, putative
+mcp:MCAP_0705	CDS	complement(818538..819233)	membrane protein, putative
+mcp:MCAP_0706	CDS	complement(819238..820092)	folD; methylene-tetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+mcp:MCAP_0707	CDS	complement(820101..821702)	potassium uptake protein, TrkH family, putative
+mcp:MCAP_0708	CDS	821781..822509	potassium uptake protein, TrkA family, putative
+mcp:MCAP_0709	CDS	complement(822546..823985)	gatB; glutamyl-tRNA(Gln) amidotransferase, B subunit
+mcp:MCAP_0710	CDS	complement(823987..825444)	gatA; glutamyl-tRNA(Gln) amidotransferase, A subunit
+mcp:MCAP_0711	CDS	complement(825444..825740)	gatC; glutamyl-tRNA(Gln) amidotransferase, C subunit
+mcp:MCAP_0712	CDS	complement(825742..827748)	ligA; DNA ligase, NAD-dependent
+mcp:MCAP_0713	CDS	complement(827752..829752)	membrane protein, putative
+mcp:MCAP_0714	CDS	complement(829755..830663)	ribosomal large subunit pseudouridine synthase, RluA family
+mcp:MCAP_0715	CDS	complement(830666..831676)	CAAX amino terminal protease family protein, putative
+mcp:MCAP_0716	CDS	complement(831735..832004)	ptsH; phosphocarrier protein hpr
+mcp:MCAP_0717	CDS	complement(832070..834238)	pcrA; ATP-dependent DNA helicase pcrA
+mcp:MCAP_0718	CDS	complement(834250..834996)	membrane protein, putative
+mcp:MCAP_0719	CDS	complement(834996..835952)	glycosyl transferase, group 2 family protein
+mcp:MCAP_0720	CDS	complement(836066..837283)	lipoprotein, putative
+mcp:MCAP_0721	CDS	complement(837411..838655)	lipoprotein, putative
+mcp:MCAP_0722	CDS	complement(838759..839688)	peptide methionine sulfoxide reductase msrA/msrB
+mcp:MCAP_0723	CDS	complement(839804..842017)	lipoprotein, putative
+mcp:MCAP_0724	CDS	complement(842026..842931)	membrane protein, putative
+mcp:MCAP_0725	CDS	complement(843048..844337)	conserved hypothetical protein
+mcp:MCAP_0726	CDS	complement(844625..845593)	conserved hypothetical protein
+mcp:MCAP_0727	CDS	complement(845783..848155)	lipoprotein, putative
+mcp:MCAP_0728	CDS	complement(848167..849066)	membrane protein, putative
+mcp:MCAP_0729	CDS	complement(849165..850913)	ABC transporter permease protein p69
+mcp:MCAP_0730	CDS	complement(850877..851626)	ABC transporter, ATP-binding protein
+mcp:MCAP_0731	CDS	complement(851627..853087)	ABC transporter, substrate-binding protein
+mcp:MCAP_0732	CDS	complement(853320..854183)	Cof-like hydrolase
+mcp:MCAP_0733	CDS	854317..855510	aminotransferase, classes I and II, putative
+mcp:MCAP_0734	CDS	855520..855921	endoribonuclease L-PSP, putative
+mcp:MCAP_0735	CDS	complement(855962..857209)	membrane protein, putative
+mcp:MCAP_0736	CDS	complement(857413..858684)	membrane protein, putative
+mcp:MCAP_0737	CDS	complement(858892..860133)	membrane protein, putative
+mcp:MCAP_0738	CDS	complement(860356..861696)	membrane protein, putative
+mcp:MCAP_0739	CDS	861836..862984	hypothetical protein
+mcp:MCAP_0740	tRNA	863181..863257	tRNA-Arg
+mcp:MCAP_0741	tRNA	863305..863381	tRNA-Pro
+mcp:MCAP_0742	tRNA	863392..863467	tRNA-Ala
+mcp:MCAP_0743	tRNA	863473..863549	tRNA-Met
+mcp:MCAP_0744	tRNA	863562..863638	tRNA-Met
+mcp:MCAP_0745	tRNA	863680..863772	tRNA-Ser
+mcp:MCAP_0746	tRNA	863795..863870	tRNA-Met
+mcp:MCAP_0747	tRNA	863873..863949	tRNA-Asp
+mcp:MCAP_0748	tRNA	863956..864031	tRNA-Phe
+mcp:MCAP_0749	CDS	864129..864857	nagB1; glucosamine-6-phosphate isomerase
+mcp:MCAP_0750	CDS	864962..865708	tpiA; triosephosphate isomerase
+mcp:MCAP_0751	CDS	865701..866537	HAD-superfamily hydrolase subfamily IIB, protein
+mcp:MCAP_0752	CDS	866540..868135	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+mcp:MCAP_0753	CDS	868232..868831	conserved hypothetical protein
+mcp:MCAP_0754	CDS	868833..869831	conserved hypothetical protein
+mcp:MCAP_0755	CDS	complement(869897..870565)	deoC; deoxyribose-phosphate aldolase
+mcp:MCAP_0756	CDS	complement(870577..872259)	phosphoglucomutase/phosphomannomutase
+mcp:MCAP_0757	CDS	872424..873737	deoA; pyrimidine-nucleoside phosphorylase
+mcp:MCAP_0758	CDS	complement(873824..875980)	lipoprotein, putative
+mcp:MCAP_0759	misc_RNA	complement(876058..876639)	ssrA; 10Sa RNA
+mcp:MCAP_0760	CDS	876647..878050	mgtE; magnesium transporter
+mcp:MCAP_0761	CDS	878052..878714	trmB; tRNA (guanine-N(7)-)-methyltransferase
+mcp:MCAP_0762	CDS	complement(879090..879680)	membrane protein, putative
+mcp:MCAP_0763	CDS	complement(879834..880520)	membrane protein, putative
+mcp:MCAP_0764	CDS	complement(880855..880977)	hypothetical protein
+mcp:MCAP_0765	CDS	complement(881281..881832)	hpt2; hypoxanthine phosphoribosyltransferase
+mcp:MCAP_0766	CDS	complement(881855..883153)	purB; adenylosuccinate lyase
+mcp:MCAP_0767	CDS	complement(883146..884444)	purA; adenylosuccinate synthetase
+mcp:MCAP_0768	CDS	complement(884729..885529)	deoxyribonuclease, TatD family
+mcp:MCAP_0769	tRNA	complement(885696..885770)	tRNA-Cys
+mcp:MCAP_0770	CDS	885990..887348	lipoprotein, putative
+mcp:MCAP_0771	CDS	complement(887434..888903)	membrane protein, putative
+mcp:MCAP_0772	CDS	complement(888906..889856)	conserved hypothetical protein
+mcp:MCAP_0773	CDS	890143..892140	uvrB; excinuclease ABC, B subunit
+mcp:MCAP_0774	CDS	892149..894989	uvrA; excinuclease ABC, A subunit
+mcp:MCAP_0775	CDS	894982..896091	folC; folate synthetase-polyglutamyl folate synthetase
+mcp:MCAP_0776	CDS	896119..896793	membrane protein, putative
+mcp:MCAP_0777	CDS	896874..897815	HPr(Ser) kinase/phosphatase
+mcp:MCAP_0778	CDS	897826..899406	lgt1; prolipoprotein diacylglyceryl transferase
+mcp:MCAP_0779	CDS	899390..900322	trxB; thioredoxin reductase
+mcp:MCAP_0780	CDS	900331..901761	lgt2; prolipoprotein diacylglyceryl transferase
+mcp:MCAP_0781	CDS	901773..902702	conserved hypothetical protein
+mcp:MCAP_0782	CDS	complement(903025..904158)	lipoprotein, putative
+mcp:MCAP_0783	CDS	complement(904220..905842)	PTS system, IIBC component, putative
+mcp:MCAP_0784	CDS	complement(905894..906124)	membrane protein, putative
+mcp:MCAP_0785	CDS	complement(906114..906833)	hypothetical protein
+mcp:MCAP_0786	CDS	complement(906833..907342)	hypothetical protein
+mcp:MCAP_0787	CDS	complement(907342..909021)	PTS system, IIBC component, putative
+mcp:MCAP_0788	CDS	909644..909811	transcriptional regulator, DeoR family, putative
+mcp:MCAP_0789	CDS	909935..910906	conserved hypothetical protein
+mcp:MCAP_0790	CDS	911127..912845	conserved hypothetical protein
+mcp:MCAP_0791	CDS	complement(912884..913699)	hypothetical protein
+mcp:MCAP_0792	CDS	913892..915823	topA; DNA topoisomerase I
+mcp:MCAP_0793	misc_RNA	916518..916622	mcs3; MCS3 RNA
+mcp:MCAP_0794	CDS	complement(916628..917509)	membrane protein, putative
+mcp:MCAP_0795	CDS	complement(917496..918311)	membrane protein, putative
+mcp:MCAP_0796	CDS	complement(918301..919653)	lipoprotein, putative
+mcp:MCAP_0797	CDS	complement(919631..920335)	ABC transporter, ATP-binding protein
+mcp:MCAP_0798	CDS	complement(920337..922202)	ABC transporter, permease protein, putative
+mcp:MCAP_0799	CDS	complement(922342..923238)	lipoprotein, putative
+mcp:MCAP_0800	CDS	complement(923231..924070)	membrane protein, putative
+mcp:MCAP_0801	CDS	complement(924057..925010)	lipoprotein, putative
+mcp:MCAP_0802	CDS	complement(925029..926867)	membrane protein, putative
+mcp:MCAP_0803	CDS	complement(926975..928741)	C4-dicarboxylate anaerobic carrier superfamily
+mcp:MCAP_0804	CDS	complement(928810..929499)	zinc metalloprotease, putative
+mcp:MCAP_0805	CDS	complement(929506..930600)	engD; GTP-dependent nucleic acid-binding protein engD
+mcp:MCAP_0806	CDS	complement(930636..930836)	conserved hypothetical protein
+mcp:MCAP_0807	CDS	complement(930838..931533)	gidB; methyltransferase gidB
+mcp:MCAP_0808	CDS	complement(931533..932129)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+mcp:MCAP_0809	gene	complement(932231..933834)	pseudogene
+mcp:MCAP_0810	CDS	complement(933920..934603)	membrane protein, putative
+mcp:MCAP_0811	CDS	complement(934569..936116)	membrane protein, putative
+mcp:MCAP_0812	CDS	complement(936175..938910)	magnesium-transporting ATPase, E1-E2 family, putative
+mcp:MCAP_0813	CDS	complement(938918..939544)	hup; DNA-binding protein HU
+mcp:MCAP_0814	CDS	complement(940433..941860)	transporter protein, putative
+mcp:MCAP_0815	CDS	complement(942121..943695)	membrane protein, putative
+mcp:MCAP_0816	CDS	complement(943860..944483)	conserved hypothetical protein
+mcp:MCAP_0817	CDS	complement(944540..945520)	asnA; aspartate--ammonia ligase
+mcp:MCAP_0818	CDS	945932..946177	rpsT; 30S ribosomal protein S20
+mcp:MCAP_0819	CDS	complement(946228..947586)	trmE; tRNA modification GTPase TrmE
+mcp:MCAP_0820	CDS	947790..948014	conserved hypothetical protein
+mcp:MCAP_0821	CDS	948123..949082	glycoprotease family protein
+mcp:MCAP_0822	CDS	949106..950236	hypothetical protein
+mcp:MCAP_0823	CDS	950247..951086	hydrolase, haloacid dehalogenase-like family
+mcp:MCAP_0824	CDS	951095..952459	asnS; asparaginyl-tRNA synthetase
+mcp:MCAP_0825	CDS	952728..954092	phosphonate ABC transporter, phosphonate-binding protein, putative
+mcp:MCAP_0826	CDS	954106..954858	phosphonate ABC transporter, ATP-binding protein
+mcp:MCAP_0827	CDS	954862..957597	alkylphosphonate ABC transporter, permease protein
+mcp:MCAP_0828	CDS	complement(957622..959688)	metallo-beta-lactamase superfamily protein, putative
+mcp:MCAP_0829	tRNA	959880..959955	tRNA-Lys
+mcp:MCAP_0830	tRNA	959957..960040	tRNA-Leu
+mcp:MCAP_0831	rRNA	960320..961843	rrs-2; 16S ribosomal RNA
+mcp:MCAP_0832	rRNA	962075..964968	rrl-2; 23S ribosomal RNA
+mcp:MCAP_0833	rRNA	965045..965153	rrf-2; 5S ribosomal RNA
+mcp:MCAP_0834	CDS	965268..966110	hydrolase, haloacid dehalogenase-like family, putative
+mcp:MCAP_0835	CDS	966122..966430	trxA; thioredoxin
+mcp:MCAP_0836	CDS	complement(966562..968064)	lysS; lysyl-tRNA synthetase
+mcp:MCAP_0837	CDS	complement(968067..968993)	dus; tRNA-dihydrouridine synthase
+mcp:MCAP_0838	CDS	complement(969043..969357)	hypothetical protein
+mcp:MCAP_0839	CDS	complement(969451..970719)	serS; seryl-tRNA synthetase
+mcp:MCAP_0840	CDS	complement(970800..971627)	membrane protein, putative
+mcp:MCAP_0841	CDS	complement(971695..972279)	membrane protein, putative
+mcp:MCAP_0842	CDS	complement(972298..972588)	membrane protein, putative
+mcp:MCAP_0843	CDS	972758..974992	lipoprotein, putative
+mcp:MCAP_0844	CDS	complement(975036..976778)	PTS system glucose-specific IIBC component
+mcp:MCAP_0845	CDS	976887..977321	bcp; bacterioferritin comigratory protein
+mcp:MCAP_0846	CDS	977485..979575	lipoprotein, putative
+mcp:MCAP_0847	CDS	980325..981230	conserved hypothetical protein
+mcp:MCAP_0848	CDS	981284..981748	transposase IS1296EH (ORFA), putative
+mcp:MCAP_0849	CDS	complement(981796..982449)	deoD; purine nucleoside phosphorylase
+mcp:MCAP_0850	CDS	complement(982682..983662)	hypothetical protein
+mcp:MCAP_0851	CDS	983814..984512	transcriptional regulator of the fructose operon, DeoR family
+mcp:MCAP_0852	CDS	984512..985447	1-phosphofructokinase, putative
+mcp:MCAP_0853	CDS	985450..987486	fruA; PTS system, fructose-specific family, IIABC components
+mcp:MCAP_0854	CDS	988122..988697	hypothetical protein
+mcp:MCAP_0855	CDS	988866..989453	conserved hypothetical protein
+mcp:MCAP_0856	CDS	complement(989799..991688)	gidA; glucose inhibited division protein A
+mcp:MCAP_0857	CDS	complement(991832..993400)	proton/glutamate symporter family protein
+mcp:MCAP_0858	CDS	complement(993422..994765)	pyridine nucleotide-disulphide oxidoreductase
+mcp:MCAP_0859	CDS	994986..995486	pncA; pyrazinamidase/nicotinamidase
+mcp:MCAP_0860	CDS	complement(995719..997977)	membrane protein, putative
+mcp:MCAP_0861	CDS	complement(997987..1000248)	conserved hypothetical protein
+mcp:MCAP_0862	CDS	complement(1000520..1002772)	membrane protein, putative
+mcp:MCAP_0863	CDS	complement(1002796..1003617)	hypothetical protein
+mcp:MCAP_0864	CDS	complement(1003625..1005037)	conserved hypothetical protein
+mcp:MCAP_0865	CDS	complement(1005242..1006399)	membrane protein, putative
+mcp:MCAP_0866	CDS	complement(1006457..1007173)	conserved hypothetical protein
+mcp:MCAP_0867	CDS	complement(1007173..1007970)	Cof-like hydrolase
+mcp:MCAP_0868	CDS	complement(1008050..1009216)	membrane protein oxaA
+mcp:MCAP_0869	CDS	complement(1009258..1009587)	rnpA; ribonuclease P protein component
+mcp:MCAP_0870	CDS	complement(1009594..1009728)	rpmH; 50S ribosomal protein L34
