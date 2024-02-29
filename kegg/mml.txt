@@ -1,0 +1,964 @@
+mml:CCD32483.1	CDS	pMmc-95010:complement(717..1394)	plasmid replication protein
+mml:CCD32484.1	CDS	pMmc-95010:complement(1459..1620)	plasmid transcriptional repressor protein
+mml:MLC_0010	CDS	277..1629	dnaA; Chromosomal replication initiator protein DnaA
+mml:MLC_0020	CDS	1787..2914	dnaN; DNA polymerase III, beta chain
+mml:MLC_0030	CDS	2951..3484	Primase related protein
+mml:MLC_0040	CDS	3484..4284	ksgA; Dimethyladenosine transferase
+mml:MLC_0050	CDS	4341..5432	Hypothetical protein, predicted transmembrane protein
+mml:MLC_0060	CDS	5791..7695	gyrB; DNA Gyrase Subunit B
+mml:MLC_0070	CDS	7711..10215	gyrA; DNA Gyrase Subunit A
+mml:MLC_0080	CDS	complement(10267..11244)	Ribose/Galactose ABC transporter, permease component II
+mml:MLC_0090	CDS	complement(11244..13811)	Ribose/Galactose ABC transporter, permease component I
+mml:MLC_0100	CDS	complement(13801..15417)	Ribose/Galactose ABC transporter, ATP binding component
+mml:MLC_0110	CDS	complement(15429..17075)	Ribose/galactose ABC transporter,substrate binding component
+mml:MLC_0120	CDS	complement(17204..18733)	metG; Methionine tRNA synthetase
+mml:MLC_0130	CDS	18934..20580	Hypothetical protein, predicted lipoprotein
+mml:MLC_0140	CDS	20609..22192	Hypothetical protein, predicted lipoprotein
+mml:MLC_0150	CDS	22227..23765	Hypothetical protein, predicted lipoprotein
+mml:MLC_0160	CDS	complement(23788..24801)	mtlD; Mannitol 1 Phosphate 5 Dehydrogenase
+mml:MLC_0170	CDS	complement(24802..25599)	Hypothetical protein, putative transcriptional regulator, RpiR family
+mml:MLC_0180	CDS	complement(25632..26048)	mtlF; Phosphotransferase system PTS,Mannitol Permease IIA Component
+mml:MLC_0190	CDS	complement(26048..26806)	srlD; Sorbitol 6 Phosphate 2 Dehydrogenase
+mml:MLC_0200	CDS	complement(26806..28365)	mtlA; Phosphotransferase system PTS,Mannitol Permease IIBC Component
+mml:MLC_0210	CDS	complement(28635..30017)	recG; Putative DNA recombinase RecG
+mml:MLC_0220	CDS	complement(30425..30652)	S18; 30S ribosomal protein S18
+mml:MLC_0230	CDS	complement(30672..31112)	ssb; Single strand binding protein
+mml:MLC_0240	CDS	complement(31124..31537)	rpsF; 30S ribosomal protein S6
+mml:MLC_0250	CDS	complement(31742..31951)	csp; Cold shock protein
+mml:MLC_0260	CDS	32139..32738	Putative Acyl carrier protein phosphodiesterase
+mml:MLC_0270	CDS	complement(32774..33808)	ABC Transporter, ATP Binding protein
+mml:MLC_0280	CDS	complement(33856..34722)	hslO; 33 kDa chaperonin (Heat shock protein 33 homolog) (HSP33)
+mml:MLC_0290	CDS	complement(34814..37975)	Hypothetical protein, predicted transmembrane protein
+mml:MLC_0300	CDS	complement(38098..41256)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_0310	CDS	41403..46790	Hypothetical protein, predicted transmembrane protein, predicted permease
+mml:MLC_0320	CDS	46909..48102	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_0330	CDS	48409..49395	ldh; D lactate dehydrogenase
+mml:MLC_0340	CDS	49414..50538	Conserved hypothetical protein, putative malate permease
+mml:MLC_0350	CDS	50876..52162	Conserved hypothetical protein, predicted binding protein
+mml:MLC_0360	CDS	complement(52204..54150)	ftsH; ATP dependent zinc metallopeptidase FtsH
+mml:MLC_0370	CDS	54382..55227	Conserved hypothetical protein
+mml:MLC_0380	CDS	complement(55211..56416)	tilS; tRNA(Ile) lysidine synthase
+mml:MLC_0390	CDS	complement(56419..57246)	Conserved hypothetical protein
+mml:MLC_0400	CDS	complement(57298..58020)	Methyltransferase
+mml:MLC_0410	CDS	complement(58020..58760)	holB; DNA polymerase III delta subunit
+mml:MLC_0420	CDS	complement(58738..59379)	tmk; Thymidylate kinase
+mml:MLC_0430	CDS	complement(59382..59981)	recR; Recombination protein
+mml:MLC_0440	CDS	complement(59974..61920)	dnaX; DNA polymerase III gamma tau subunits
+mml:MLC_0450	CDS	complement(62002..62445)	codA; Cytosine deaminase
+mml:MLC_0460	CDS	complement(62586..63548)	guaC; GMP reductase
+mml:MLC_0470	CDS	complement(63644..64105)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_0480	CDS	complement(64383..64703)	Hypothetical protein
+mml:MLC_0490	CDS	complement(64811..66931)	Hypothetical protein, predicted lipoprotein
+mml:MLC_0500	CDS	complement(67062..67511)	bcp; Putative peroxiredoxin Bcp
+mml:MLC_0510	CDS	complement(67704..68987)	Hypothetical protein
+mml:MLC_0520	CDS	complement(68989..69828)	dam; Putative adenine specific DNA methyltransferase
+mml:MLC_0530	CDS	70326..70625	Hypothetical protein, predicted transmembrane protein
+mml:MLC_0540	CDS	70644..71225	Hypothetical protein, predicted transmembrane protein
+mml:MLC_0550	CDS	71322..72458	ald; Alanine dehydrogenase
+mml:MLC_0560	CDS	72751..73575	Hypothetical protein, predicted transmembrane protein
+mml:MLC_0570	CDS	73658..74926	serS; Serine tRNA ligase
+mml:MLC_0580	CDS	75028..75381	Conserved hypothetical protein
+mml:MLC_0590	CDS	75345..76319	Conserved hypothetical protein, probable tRNA dihydrouridine synthase (NifR3 family)
+mml:MLC_0600	CDS	76322..77824	lysS; Lysine tRNA ligase
+mml:MLC_0610	CDS	complement(77914..78222)	trxA; Thioredoxin
+mml:MLC_0620	CDS	complement(78233..79075)	Conserved hypothetical protein, predicted hydrolase of the HAD family
+mml:MLC_0622	rRNA	complement(79195..79305)	5S ribosomal RNA
+mml:MLC_0624	rRNA	complement(79366..82279)	23S ribosomal RNA
+mml:MLC_0626	rRNA	complement(82504..84029)	16S ribosomal RNA
+mml:MLC_0627	tRNA	complement(84311..84394)	tRNA-Leu
+mml:MLC_0628	tRNA	complement(84397..84472)	tRNA-Lys
+mml:MLC_0630	CDS	84663..86729	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_0640	CDS	complement(86763..89495)	phnE; Phosphonate ABC transporter, permease component
+mml:MLC_0650	CDS	complement(89499..90251)	phnC; Phosphonate ABC transporter, ATP binding protein
+mml:MLC_0660	CDS	complement(90265..91635)	phosphonate ABC transporter, substrate binding component
+mml:MLC_0670	CDS	complement(91927..93291)	asnS; Asparagine tRNA ligase
+mml:MLC_0680	CDS	complement(93300..94139)	Conserved hypothetical protein, predicted hydrolase of the HAD family
+mml:MLC_0690	CDS	complement(94150..95280)	Conserved hypothetical protein
+mml:MLC_0700	CDS	complement(95304..96260)	gcp; O sialoglycoprotein endopeptidase
+mml:MLC_0710	CDS	complement(96355..96576)	Conserved hypothetical protein
+mml:MLC_0720	CDS	96776..98134	trmE; tRNA modification GTPase
+mml:MLC_0730	CDS	complement(98186..98431)	rpsT; 30S ribosomal protein S20
+mml:MLC_0740	CDS	complement(98566..98895)	Pseudogene of hypothetical protein (C terminal part)
+mml:MLC_0750	CDS	complement(99000..99731)	tnp; IS1296 A transposase protein B
+mml:MLC_0760	CDS	complement(99869..100411)	tnp; IS1296 A transposase protein A
+mml:MLC_0770	CDS	complement(100435..100689)	Pseudogene of hypothetical protein (N terminal part)
+mml:MLC_0780	CDS	complement(100912..102312)	Hypothetical protein, predicted lipoprotein
+mml:MLC_0790	CDS	complement(102462..104705)	Hypothetical protein, predicted lipoprotein
+mml:MLC_0800	CDS	complement(105006..106733)	Hypothetical protein, predicted transmembrane protein
+mml:MLC_0810	CDS	complement(106993..108684)	Hypothetical protein, predicted lipoprotein
+mml:MLC_0820	CDS	complement(108850..111222)	Hypothetical protein, predicted lipoprotein
+mml:MLC_0830	CDS	complement(111647..112585)	Hypothetical protein, predicted lipoprotein
+mml:MLC_0840	CDS	complement(112818..115505)	Hypothetical protein, predicted lipoprotein
+mml:MLC_0850	CDS	complement(115676..116467)	Hypothetical protein, predicted transmembrane protein
+mml:MLC_0860	CDS	complement(116430..117170)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_0870	CDS	complement(117261..120095)	secA; Preprotein translocase subunit SecA
+mml:MLC_0880	CDS	120186..120761	pepQ; Proline dipeptidase
+mml:MLC_0890	CDS	120836..121747	polA; DNA polymerase I, 5' 3' exonuclease
+mml:MLC_0900	CDS	121954..122970	dam; Adenine specific DNA methyltransferase
+mml:MLC_0910	CDS	122900..123877	dam; Adenine specific DNA methyltransferase
+mml:MLC_0920	CDS	123855..125435	Putative restriction endonuclease
+mml:MLC_0930	CDS	125857..127152	Conserved hypothetical protein
+mml:MLC_0940	CDS	127813..128088	Hypothetical protein
+mml:MLC_0950	CDS	128078..128647	coaE; Dephospho CoA kinase
+mml:MLC_0960	CDS	complement(128636..129454)	hlyA; Hemolysin A
+mml:MLC_0970	CDS	complement(129454..129669)	Conserved hypothetical protein
+mml:MLC_0980	CDS	complement(129659..131068)	xseA; Exonuclease VII, large subunit
+mml:MLC_0990	CDS	complement(131070..131468)	nusB; Transcription termination factor NusB
+mml:MLC_1000	CDS	complement(131480..132595)	Hypothetical protein, predicted lipoprotein
+mml:MLC_1010	CDS	complement(132621..133490)	nfo; Endonuclease IV
+mml:MLC_1020	CDS	complement(133483..134235)	ribC_ribF; Riboflavin kinase / FAD synthetase
+mml:MLC_1025	tRNA	complement(134310..134385)	tRNA-Lys
+mml:MLC_1030	CDS	complement(134449..136761)	Conserved hypothetical protein, predicted transmembrane protein and tail specific protease
+mml:MLC_1040	CDS	137031..138380	epsG; Glycosyltransferase
+mml:MLC_1050	CDS	138477..139757	tnp; Transposase for insertion element ISMmy2 A
+mml:MLC_1060	CDS	complement(139832..140752)	cps; Glycosyltransferase
+mml:MLC_1070	CDS	complement(141036..141908)	galU; UTP glucose 1 phosphate uridylyltransferase
+mml:MLC_1080	CDS	complement(142090..142530)	Hypothetical protein, predicted transmembrane protein
+mml:MLC_1090	CDS	142585..143361	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_1100	CDS	143425..144963	abc; ABC transporter, ATP binding protein
+mml:MLC_1110	CDS	complement(144993..145790)	Conserved hypothetical protein, putative TatD related deoxyribonuclease
+mml:MLC_1120	CDS	145986..147212	ilvA; Threonine dehydratase
+mml:MLC_1130	CDS	147427..149007	Hypothetical protein, predicted transmembrane protein
+mml:MLC_1140	CDS	149019..149879	Hypothetical protein, predicted transmembrane protein
+mml:MLC_1150	CDS	150155..150871	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_1160	CDS	151189..152604	uhpT; Hexosephosphate transport protein
+mml:MLC_1170	CDS	152951..154654	nagE; Phosphotransferase system PTS,N acetylglucosamine specific IIBC component
+mml:MLC_1180	CDS	154787..156238	gltX; Glutamyl tRNA synthetase
+mml:MLC_1190	CDS	156241..157455	Conserved hypothetical protein with HD domain
+mml:MLC_1200	CDS	157481..157909	rpoE; DNA directed RNA polymerase delta chain
+mml:MLC_1210	CDS	158000..159598	pyrG; CTP synthase
+mml:MLC_1220	CDS	159720..160658	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_1230	CDS	160686..161639	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_1240	CDS	161796..162689	fbaA2; Fructose bisphosphate aldolase class II
+mml:MLC_1250	CDS	162838..163899	AAA family ATPase
+mml:MLC_1260	CDS	163892..166165	Conserved hypothetical protein
+mml:MLC_1270	CDS	complement(166263..167750)	Conserved hypothetical protein, predicted transmembrane protein, predicted permease
+mml:MLC_1280	CDS	168333..169046	glpQ; Glycerophosphoryl diester phosphodiesterase
+mml:MLC_1290	CDS	169192..169470	L31; 50S ribosomal protein L31
+mml:MLC_1300	CDS	169525..171441	Conserved hypothetical protein
+mml:MLC_1310	CDS	171451..172401	dhh; Phosphoesterase DHH family protein
+mml:MLC_1320	CDS	172403..173032	tdk; Thymidine kinase
+mml:MLC_1330	CDS	173035..174129	prfA; Peptide chain release factor 1
+mml:MLC_1340	CDS	174122..174970	hemK; Modification methylase
+mml:MLC_1350	CDS	174979..176451	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_1360	CDS	176460..176960	Conserved hypothetical protein
+mml:MLC_1370	CDS	177051..177989	Conserved hypothetical protein
+mml:MLC_1380	CDS	178218..178925	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_1390	CDS	178925..180454	cls; Cardiolipin synthetase
+mml:MLC_1400	CDS	180560..180997	rpsL; 30S ribosomal protein S12
+mml:MLC_1410	CDS	181084..181551	rpsG; 30S ribosomal protein S7
+mml:MLC_1420	CDS	181576..183645	fusA; Elongation factor G
+mml:MLC_1430	CDS	183777..184964	tufA; Elongation factor Tu
+mml:MLC_1440	CDS	185100..186968	PtsG; Phosphotransferase system PTS, EIIBC component
+mml:MLC_1450	CDS	186952..189222	xylS; Alpha xylosidase or glucosidase
+mml:MLC_1460	CDS	189375..190730	pepA; Leucyl aminopeptidase
+mml:MLC_1470	CDS	192533..193135	Conserved hypothetical protein
+mml:MLC_1480	CDS	complement(193293..193958)	trmB; tRNA (guanine N(7)) methyltransferase
+mml:MLC_1490	CDS	complement(193960..195363)	mgtE; Mg2+ transport protein
+mml:MLC_1495	tmRNA	195508..195918	tmRNA
+mml:MLC_1500	CDS	196043..198190	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_1510	CDS	complement(198321..198875)	Hypothetical protein
+mml:MLC_1520	CDS	complement(199139..200392)	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_1530	CDS	complement(200504..201115)	tnp; ISMmy3 A transposase protein B
+mml:MLC_1540	CDS	complement(201370..201876)	tnp; ISMmy3 A transposase protein A
+mml:MLC_1550	CDS	complement(201948..204638)	alaS; Alanyl tRNA synthetase
+mml:MLC_1560	CDS	complement(204712..205206)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_1570	CDS	205424..206668	oppB; Oligopeptide ABC transporter, permease component
+mml:MLC_1580	CDS	206684..207694	oppC; Oligopeptide ABC transporter, permease component I
+mml:MLC_1590	CDS	207708..209408	oppD; Oligopeptide ABC transporter, ATP binding component
+mml:MLC_1600	CDS	209398..211278	oppF; Oligopeptide ABC transporter, ATP binding component
+mml:MLC_1610	CDS	211295..214429	oppA; Oligopeptide ABC transporter, substrate binding component
+mml:MLC_1620	CDS	214700..215347	xbaI_R; Restriction endonuclease BbaI
+mml:MLC_1630	CDS	215310..216512	modification methylase
+mml:MLC_1640	CDS	216568..216828	Hypothetical protein
+mml:MLC_1650	CDS	complement(216857..218152)	Conserved hypothetical protein
+mml:MLC_1660	CDS	complement(218400..219704)	Conserved hypothetical protein
+mml:MLC_1670	CDS	219936..220817	Conserved hypothetical protein
+mml:MLC_1680	CDS	complement(220987..222408)	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_1690	CDS	222625..222771	Hypothetical protein
+mml:MLC_1700	CDS	complement(222808..223647)	Hypothetical protein
+mml:MLC_1710	CDS	complement(223754..224485)	tnp; IS1296 B transposase protein B
+mml:MLC_1720	CDS	complement(224623..225972)	Hypothetical protein, fusion of predicted lipoprotein and IS1296 B transposase protein A
+mml:MLC_1730	CDS	complement(226082..226711)	pgmB; Beta phosphoglucomutase
+mml:MLC_1740	CDS	complement(226711..228510)	Putative maltogenic amylase
+mml:MLC_1750	CDS	complement(228629..230425)	Putative maltogenic amylase
+mml:MLC_1760	CDS	230683..232482	Hypothetical protein, predicted lipoprotein
+mml:MLC_1770	CDS	232780..234564	Hypothetical protein, predicted lipoprotein
+mml:MLC_1780	CDS	234646..235137	Hypothetical protein, predicted transmembrane protein
+mml:MLC_1790	CDS	235152..237569	malC; Maltodextrin ABC transporter permease
+mml:MLC_1800	CDS	237584..240124	malG; Maltose ABC transporter permease
+mml:MLC_1810	CDS	240126..241211	malK; Maltodextrin ABC transporter ATP binding protein
+mml:MLC_1820	CDS	241319..243616	mapA; Putative maltose phosphorylase
+mml:MLC_1830	CDS	243618..245222	dexA; Putative Oligo 1,6 glucosidase
+mml:MLC_1840	CDS	245245..245964	Transcription regulator
+mml:MLC_1850	CDS	complement(245995..247788)	pepF; Oligoendopeptidase F
+mml:MLC_1860	CDS	complement(247788..248471)	Conserved hypothetical protein
+mml:MLC_1870	CDS	complement(248487..249842)	pepA; Leucyl aminopeptidase
+mml:MLC_1880	CDS	complement(249958..251259)	Conserved hypothetical protein
+mml:MLC_1890	CDS	251560..252180	Chromate transport protein
+mml:MLC_1900	CDS	252180..252857	Chromate transport protein
+mml:MLC_1910	CDS	252985..253947	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_1920	CDS	complement(254164..257292)	potCD; Spermidine/putrescine ABC transporter, permease and substrate binding component
+mml:MLC_1930	CDS	complement(257277..258269)	potB; Spermidine/putrescine ABC transporter permease component
+mml:MLC_1940	CDS	complement(258269..259324)	potA; Spermidine/putrescine ABC transporter ATP binding component
+mml:MLC_1950	CDS	complement(259698..260057)	rplT; 50S ribosomal protein L20
+mml:MLC_1960	CDS	complement(260076..260267)	L35; 50s ribosomal protein L35
+mml:MLC_1970	CDS	complement(260293..260838)	infC; Translation initiation factor IF 3
+mml:MLC_1980	CDS	complement(261027..261629)	pdf; Peptide deformylase 2
+mml:MLC_1990	CDS	261688..262260	Conserved hypothetical protein, predicted DNA methylase
+mml:MLC_2000	CDS	262263..263156	gmk; Guanylate kinase
+mml:MLC_2010	CDS	263146..264417	sun; Sun family protein
+mml:MLC_2020	CDS	264410..265438	dcm; Cytosine specific DNA methyltransferase Sau96I
+mml:MLC_2030	CDS	265428..266192	sau96I-like; Type II site specific deoxyribonuclease (Sau96I like)
+mml:MLC_2040	CDS	complement(266221..268050)	typA; GTP binding protein TypA/BipA homolog
+mml:MLC_2050	CDS	268295..269071	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_2060	CDS	269117..269908	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_2070	CDS	270037..270465	Conserved hypothetical protein, predicted lipoprotein, interrupted by an ICE
+mml:MLC_2080	CDS	270699..271487	CDS1, conserved hypothetical protein (part of ICE)
+mml:MLC_2090	CDS	271756..273000	CDS3, putative relaxase (part of ICE)
+mml:MLC_2100	CDS	273036..273479	Hypothetical protein (part of ICE)
+mml:MLC_2110	CDS	273942..274208	Hypothetical protein (part of ICE)
+mml:MLC_2120	CDS	274307..274633	Hypothetical protein (part of ICE)
+mml:MLC_2130	CDS	274645..276660	CDS5, predicted transmembrane protein with a TraG/VirD4 domain (part of ICE)
+mml:MLC_2140	CDS	276675..277394	Conserved hypothetical protein, DUF285 family (part of ICE)
+mml:MLC_2150	CDS	277409..277825	Single stranded DNA binding protein (part of ICE)
+mml:MLC_2160	CDS	277863..279053	CDSA, conserved hypothetical protein (part of ICE)
+mml:MLC_2170	CDS	279291..280817	Conserved hypothetical protein, predicted lipoprotein (part of ICE)
+mml:MLC_2180	CDS	281365..284100	Hypothetical protein, predicted transmembrane protein (part of ICE)
+mml:MLC_2190	CDS	284470..284850	CDS15, conserved hypothetical protein, predicted transmembrane protein (part of ICE)
+mml:MLC_2200	CDS	284854..286773	CDS16, conserved hypothetical protein, predicted transmembrane protein (part of ICE)
+mml:MLC_2210	CDS	286798..289641	CDS17, TraE/VirB4 family NTPase (part of ICE)
+mml:MLC_2220	CDS	289654..290319	CDS18, conserved hypothetical protein (part of ICE)
+mml:MLC_2230	CDS	290321..295324	CDS19, conserved hypothetical protein, predicted transmembrane protein (part of ICE)
+mml:MLC_2240	CDS	295785..296723	Hypothetical protein (part of ICE)
+mml:MLC_2250	CDS	297026..297649	Conserved hypothetical protein (part of ICE)
+mml:MLC_2260	CDS	297965..298330	Conserved hypothetical protein (part of ICE)
+mml:MLC_2270	CDS	298554..299468	CDSG, Soj/ParA family protein (part of ICE)
+mml:MLC_2280	CDS	299518..300750	CDS22, conserved hypothetical protein (part of ICE)
+mml:MLC_2290	CDS	301284..306158	Pseudogene of hypothetical protein (C terminal part)
+mml:MLC_2300	CDS	complement(306193..306756)	Conserved hypothetical protein, predicted endopeptidase
+mml:MLC_2310	CDS	complement(306758..307186)	Conserved hypothetical protein
+mml:MLC_2320	CDS	307294..308715	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_2330	CDS	308744..309502	Protein phosphatase
+mml:MLC_2340	CDS	309502..310617	pkn; Serine/threonine protein kinase
+mml:MLC_2350	CDS	310627..311529	Hypothetical protein, Predicted GTPase protein
+mml:MLC_2360	CDS	311531..312208	rpe; Ribulose phosphate 3 epimerase
+mml:MLC_2370	CDS	312198..312824	Conserved hypothetical protein
+mml:MLC_2380	CDS	312911..315529	valS; Valine tRNA ligase
+mml:MLC_2390	CDS	315640..316437	Conserved hypothetical protein, predicted NAD kinase
+mml:MLC_2400	CDS	316449..317168	Conserved hypothetical protein, predicted oxidoreductase
+mml:MLC_2410	CDS	317293..319044	Conserved hypothetical protein
+mml:MLC_2420	CDS	319150..320772	Conserved hypothetical protein, predicted transmembrane protein, putative permease
+mml:MLC_2430	CDS	320838..321899	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_2440	CDS	321909..323663	uvrC; Excinuclease ABC subunit C
+mml:MLC_2450	CDS	323786..324259	greA; Transcription elongation factor
+mml:MLC_2460	CDS	324305..325027	Conserved hypothetical protein, predicted oxidoreductase
+mml:MLC_2470	CDS	complement(325028..325720)	Conserved hypothetical protein
+mml:MLC_2480	CDS	325802..326491	Hypothetical protein
+mml:MLC_2490	CDS	326494..327072	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_2500	CDS	327074..327634	Hypothetical protein, predicted transmembrane protein
+mml:MLC_2510	CDS	327628..328218	engB; Probable GTP binding protein EngB
+mml:MLC_2520	CDS	328227..331133	ctp; Cation transporting ATPase
+mml:MLC_2530	CDS	complement(331167..333308)	Hypothetical protein, predicted transmembrane protein
+mml:MLC_2540	CDS	complement(333753..336050)	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_2550	CDS	complement(336114..338405)	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_2560	CDS	complement(338416..340101)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_2570	CDS	complement(340218..342173)	Conserved hypothetical protein, predicted transmembrane protein and tail specific protease
+mml:MLC_2580	CDS	complement(342304..343491)	thiI; Thiamin biosynthesis protein
+mml:MLC_2590	CDS	complement(343499..345307)	Hypothetical protein, predicted transmembrane protein
+mml:MLC_2600	CDS	345542..346168	rpsD; 30S ribosomal protein S4
+mml:MLC_2610	CDS	complement(346213..346608)	Conserved hypothetical protein
+mml:MLC_2620	CDS	complement(346616..347242)	dhaK2; Glycerone kinase
+mml:MLC_2630	CDS	complement(347606..348070)	ptsG; Phosphotransferase system PTS, glucose specific IIABC component
+mml:MLC_2640	CDS	complement(348152..349873)	ptsI; Phosphoenolpyruvate protein phosphotransferase
+mml:MLC_2650	CDS	complement(349967..350389)	coaD; Probable phosphopantetheine adenylyltransferase
+mml:MLC_2660	CDS	complement(350399..352354)	Hypothetical protein, predicted Prolipoprotein
+mml:MLC_2670	CDS	complement(352423..353604)	ackA; Acetate kinase (Acetokinase)
+mml:MLC_2680	CDS	complement(353617..354585)	pta; Phosphate acetyltransferase
+mml:MLC_2690	CDS	complement(354607..356496)	pdhD; Dihydrolipoamide dehydrogenase
+mml:MLC_2700	CDS	complement(356515..357840)	pdhC; Dihydrolipoamide S acetyltransferase
+mml:MLC_2710	CDS	complement(357869..358858)	pdhB; Pyruvate dehydrogenase (lipoamide), beta chain
+mml:MLC_2720	CDS	complement(358858..359970)	pdhA; Pyruvate dehydrogenase (lipoamide), alphachain
+mml:MLC_2730	CDS	complement(360014..361018)	lplA; Lipoate protein ligase A
+mml:MLC_2740	CDS	complement(361021..362385)	nox; NADH oxidase
+mml:MLC_2750	CDS	complement(363621..364646)	Conserved hypothetical protein
+mml:MLC_2760	CDS	complement(364980..366899)	thrS; Threonine tRNA ligase
+mml:MLC_2770	CDS	complement(367166..368602)	pyk; Pyruvate kinase
+mml:MLC_2780	CDS	complement(368673..369653)	pfk; 6 phosphofructokinase
+mml:MLC_2790	CDS	369989..371152	glpO; Glycerol 3 phosphate oxidase
+mml:MLC_2800	CDS	371169..372686	glpK; Glycerol kinase
+mml:MLC_2810	CDS	372727..373500	glpF; Glycerol facilitator factor (Glycerol uptakefacilitator)
+mml:MLC_2820	CDS	complement(373560..374132)	hpt; Hypoxanthine phosphoribosyltransferase
+mml:MLC_2830	CDS	complement(374138..374569)	Conserved hypothetical protein, probable Holliday junction resolvase
+mml:MLC_2840	CDS	complement(374571..375392)	Hypothetical protein, predicted transmembrane protein related to PAP2 family
+mml:MLC_2850	CDS	complement(375456..376811)	eno; Enolase (2 phosphoglycerate dehydratase)
+mml:MLC_2860	CDS	377226..378059	Transcription regulator gntR
+mml:MLC_2870	CDS	378181..379878	scrA; Phosphotransferase system PTS, sucrose specific EIIBC component
+mml:MLC_2880	CDS	379881..380789	Hypothetical protein, predicted glucokinase regulator
+mml:MLC_2890	CDS	complement(381650..382882)	CDS22, conserved hypothetical protein (part of ICE)
+mml:MLC_2900	CDS	complement(382932..383846)	CDSG, Soj/ParA family protein (part of ICE)
+mml:MLC_2910	CDS	complement(384070..384435)	Conserved hypothetical protein (part of ICE)
+mml:MLC_2920	CDS	complement(384751..385374)	Conserved hypothetical protein (part of ICE)
+mml:MLC_2930	CDS	complement(385677..386615)	Conserved hypothetical protein (part of ICE)
+mml:MLC_2940	CDS	complement(387076..392079)	CDS19, conserved hypothetical protein, predicted transmembrane protein (part of ICE)
+mml:MLC_2950	CDS	complement(392081..392614)	CDS18, conserved hypothetical protein (part of ICE)
+mml:MLC_2960	CDS	complement(392760..395603)	CDS17, TraE/VirB4 family NTPase (part of ICE)
+mml:MLC_2970	CDS	complement(395628..397547)	CDS16, conserved hypothetical protein, predicted transmembrane protein (part of ICE)
+mml:MLC_2980	CDS	complement(397551..397931)	CDS15, conserved hypothetical protein, predicted transmembrane protein (part of ICE)
+mml:MLC_2990	CDS	complement(398301..401036)	Conserved hypothetical protein, predicted transmembrane protein (part of ICE)
+mml:MLC_3000	CDS	complement(401584..403110)	Conserved hypothetical protein, predicted lipoprotein (part of ICE)
+mml:MLC_3010	CDS	complement(403348..404538)	CDSA, conserved hypothetical protein (part of ICE)
+mml:MLC_3020	CDS	complement(404576..404992)	Single stranded DNA binding protein (part of ICE)
+mml:MLC_3030	CDS	complement(405007..405726)	Conserved hypothetical protein, DUF285 family (part of ICE)
+mml:MLC_3040	CDS	complement(405741..407756)	CDS5, predicted transmembrane protein with a TraG/VirD4 domain (part of ICE)
+mml:MLC_3050	CDS	complement(407768..408193)	Hypothetical protein (part of ICE)
+mml:MLC_3060	CDS	complement(408229..409473)	CDS3, putative relaxase (part of ICE)
+mml:MLC_3070	CDS	complement(409742..410530)	CDS1, conserved hypothetical protein (part of ICE)
+mml:MLC_3080	CDS	complement(410721..411119)	Pseudogene of hypothetical protein (N terminal part)
+mml:MLC_3090	CDS	411332..414472	Hypothetical protein, predicted transmembrane protein
+mml:MLC_3100	CDS	414487..415101	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_3110	CDS	415234..415623	Hypothetical protein, predicted lipoprotein
+mml:MLC_3120	CDS	415803..416402	Hypothetical protein, predicted lipoprotein
+mml:MLC_3130	CDS	416500..417018	Hypothetical protein, predicted lipoprotein
+mml:MLC_3140	CDS	complement(417051..419465)	fruA; Phosphotransferase system PTS,fructose specific enzyme IIABC component
+mml:MLC_3150	CDS	complement(419695..419940)	Hypothetical protein
+mml:MLC_3155	tRNA	420264..420353	tRNA-Ser
+mml:MLC_3160	CDS	420473..421153	Conserved hypothetical protein
+mml:MLC_3170	CDS	421134..422558	proS; Proline tRNA ligase
+mml:MLC_3180	CDS	422571..423188	rnh; Ribonuclease H related protein
+mml:MLC_3190	CDS	423190..424077	Conserved hypothetical protein, putative phospholipase
+mml:MLC_3200	CDS	424101..425903	lepA; GTP binding protein LepA
+mml:MLC_3210	CDS	425930..426736	Hypothetical protein
+mml:MLC_3220	CDS	complement(426755..428479)	aspS; Aspartyl tRNA synthetase
+mml:MLC_3230	CDS	complement(428488..429732)	hisS; Histidyl tRNA synthetase
+mml:MLC_3240	CDS	429914..430267	rbfA; Ribosome binding factor A
+mml:MLC_3250	CDS	430317..431195	truB; tRNA pseudouridine synthase B
+mml:MLC_3260	CDS	431182..431736	ribF; Riboflavin kinase
+mml:MLC_3270	CDS	complement(431759..433798)	Conserved hypothetical protein, predicted transmembrane protein, putative protease
+mml:MLC_3280	CDS	complement(433823..435793)	Conserved hypothetical protein, predicted lipoprotein and peptidase
+mml:MLC_3290	CDS	436006..436272	rpsO; 30S ribosomal protein S15
+mml:MLC_3295	tRNA	436332..436405	tRNA-Gly
+mml:MLC_3300	CDS	436503..437147	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3310	CDS	complement(437166..439028)	infB; Translation initiation factor IF 2
+mml:MLC_3320	CDS	complement(439050..439349)	Conserved hypothetical protein
+mml:MLC_3330	CDS	complement(439336..439605)	Conserved hypothetical protein
+mml:MLC_3340	CDS	complement(439598..441352)	nusA; Transcriptional terminator
+mml:MLC_3350	CDS	complement(441361..441855)	Conserved hypothetical protein
+mml:MLC_3360	CDS	complement(441968..442618)	Conserved hypothetical protein, predicted nitroreductase family protein
+mml:MLC_3370	CDS	complement(442631..447079)	polC; DNA polymerase III alpha chain
+mml:MLC_3380	CDS	complement(447088..448116)	cdsA; Phosphatidate cytidylyltransferase
+mml:MLC_3390	CDS	complement(448316..449404)	pepQ; Xaa Pro dipeptidase
+mml:MLC_3400	CDS	449542..450552	trpS; Tryptophan tRNA ligase
+mml:MLC_3410	CDS	complement(450577..451446)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3420	CDS	451560..452360	Hypothetical protein
+mml:MLC_3430	CDS	complement(452414..453145)	tnp; IS1296 C transposase protein B
+mml:MLC_3440	CDS	complement(453283..453825)	tnp; IS1296 C transposase protein A
+mml:MLC_3450	CDS	complement(453903..454991)	Conserved hypothetical protein, predicted DNA recombination protein RmuC
+mml:MLC_3460	CDS	455208..457931	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3470	CDS	458183..459457	trmFO; Methylenetetrahydrofolate tRNA (uracil 5) methyltransferase
+mml:MLC_3480	CDS	459562..460296	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3490	CDS	460418..460570	Hypothetical protein
+mml:MLC_3500	CDS	460629..462599	tkt; Transketolase
+mml:MLC_3510	CDS	462615..462860	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3520	CDS	462928..464466	Hypothetical protein
+mml:MLC_3530	CDS	464556..467423	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_3540	CDS	467432..468229	lip; Lipase esterase
+mml:MLC_3550	CDS	468382..468807	Hypothetical protein, predicted lipoprotein
+mml:MLC_3560	CDS	469098..470543	Conserved hypothetical protein
+mml:MLC_3570	CDS	complement(470659..471186)	Conserved hypothetical protein, DUF285 family
+mml:MLC_3580	gene	complement(471511..471756)	pseudogene
+mml:MLC_3590	CDS	complement(471958..472704)	Conserved hypothetical protein (part of ICE)
+mml:MLC_3600	CDS	complement(473218..473955)	Conserved hypothetical protein (part of ICE)
+mml:MLC_3610	CDS	474520..475062	tnp; IS1296 D transposase protein A
+mml:MLC_3620	CDS	475200..475931	tnp; IS1296 D transposase protein B
+mml:MLC_3630	CDS	complement(475982..476524)	tnp; IS1296 E transposase protein A
+mml:MLC_3640	CDS	476688..477419	tnp; IS1296 E transposase protein B
+mml:MLC_3650	CDS	477826..479328	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3660	CDS	479346..480107	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3670	CDS	480117..480953	Conserved hypothetical protein, DUF285 family
+mml:MLC_3680	CDS	480937..481566	Conserved hypothetical protein
+mml:MLC_3690	CDS	481634..482392	rluB; 23S rRNA pseudouridine synthase
+mml:MLC_3700	CDS	482402..483019	dgk; Deoxyguanosine kinase
+mml:MLC_3710	CDS	483031..483744	Conserved hypothetical protein
+mml:MLC_3720	CDS	483844..484671	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3730	CDS	485060..485548	Hypothetical protein, predicted lipoprotein
+mml:MLC_3740	CDS	485951..486385	Hypothetical protein, predicted lipoprotein
+mml:MLC_3750	CDS	486562..487011	pts; Phosphotransferase system PTS, IIA component
+mml:MLC_3760	CDS	487023..488831	Conserved hypothetical protein, predicted transport protein
+mml:MLC_3770	CDS	489002..489718	Hypothetical protein, predicted lipoprotein
+mml:MLC_3780	CDS	490126..491955	ABC transporter, ATP binding component
+mml:MLC_3790	CDS	491971..493761	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_3800	CDS	493790..495190	Hypothetical protein, predicted lipoprotein
+mml:MLC_3810	CDS	495316..497499	Conserved hypothetical protein, predictedlipoprotein
+mml:MLC_3820	CDS	497630..498325	Conserved hypothetical protein
+mml:MLC_3830	CDS	complement(498430..498990)	ppa; Inorganic pyrophosphatase
+mml:MLC_3840	CDS	499129..500019	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3850	CDS	500085..500780	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_3860	CDS	500789..501451	cmk; Cytidylate kinase
+mml:MLC_3870	CDS	501458..502765	engA; GTP binding protein EngA, probably truncated inC terminal
+mml:MLC_3880	CDS	502767..503756	gpsA; Glycerol 3 phosphate dehydrogenase [NAD(P)+]
+mml:MLC_3890	CDS	503788..504060	hup; DNA binding protein HU
+mml:MLC_3900	CDS	504115..504663	Conserved hypothetical protein
+mml:MLC_3910	CDS	complement(504626..505135)	recU; Recombination protein U
+mml:MLC_3920	CDS	505199..505576	Hypothetical protein, putative helicase
+mml:MLC_3930	CDS	505735..507054	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_3940	CDS	507159..508382	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_3945	ncRNA	508465..508817	rnpB; RNA component of RNase P
+mml:MLC_3950	CDS	508771..509319	cinA; Competence damage inducible protein
+mml:MLC_3960	CDS	509362..510399	recA; RecA protein (Recombinase A)
+mml:MLC_3970	CDS	510537..512066	Conserved hypothetical protein, predicted membrane protein, probable nuclease
+mml:MLC_3980	CDS	512100..513443	ffh; Signal recognition particle M54 protein
+mml:MLC_3990	CDS	513447..513914	Conserved hypothetical protein
+mml:MLC_4000	CDS	514005..514283	rpsP; 30S ribosomal protein S16
+mml:MLC_4010	CDS	514315..514809	rimM; 16S rRNA processing protein rimM
+mml:MLC_4020	CDS	514811..515533	trmD; tRNA (Guanine N(1)) methyltransferase
+mml:MLC_4030	CDS	515535..515918	rplS; 50S ribosomal protein L19
+mml:MLC_4040	CDS	516017..516967	Conserved hypothetical GTP binding protein
+mml:MLC_4050	CDS	516961..517584	rnhB; Ribonuclease H II
+mml:MLC_4060	CDS	complement(517603..519399)	cdr; Coenzyme A disulfide reductase
+mml:MLC_4070	CDS	complement(519402..520628)	Conserved hypothetical protein, Probable transporter, permease component
+mml:MLC_4080	CDS	520802..521107	Conserved hypothetical protein, putative single strand binding protein
+mml:MLC_4090	CDS	521335..523206	ABC transporter, permease and ATP bindingcomponent
+mml:MLC_4100	CDS	523222..525075	ABC transporter, permease and ATP binding component
+mml:MLC_4110	CDS	525109..526716	Conserved hypothetical protein
+mml:MLC_4115	tRNA	526772..526848	tRNA-Arg
+mml:MLC_4120	CDS	526903..527652	Conserved hypothetical protein
+mml:MLC_4130	CDS	527615..527959	Conserved hypothetical protein
+mml:MLC_4140	CDS	528030..529331	obg; GTP binding protein Obg
+mml:MLC_4150	CDS	529333..530070	nadE; NH(3) dependent NAD(+) synthetase
+mml:MLC_4160	CDS	530087..530365	Hypothetical protein, predicted transmembrane protein
+mml:MLC_4170	CDS	530383..531480	nadD; Probable nicotinate nucleotide adenylyltransferase
+mml:MLC_4180	CDS	531485..532144	mtnN; 5 methylthioadenosine nucleosidase/S adenosylhomocystein nucleosidase
+mml:MLC_4190	CDS	532154..532792	Deoxynucleoside kinase
+mml:MLC_4200	CDS	532911..533636	Hypothetical protein, predicted lipoprotein
+mml:MLC_4210	CDS	533900..534610	Hypothetical protein, predicted lipoprotein
+mml:MLC_4220	CDS	534623..535303	Hypothetical protein, predicted lipoprotein
+mml:MLC_4230	CDS	535342..536178	Hypothetical protein, predicted lipoprotein
+mml:MLC_4240	CDS	536256..537410	trmU; tRNA(5 methylaminomethyl 2 thiouridylate) methyltransferase
+mml:MLC_4250	CDS	537457..538074	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_4260	CDS	538137..538403	tnp; IS1296 F transposase protein A, partialsequence
+mml:MLC_4270	CDS	538378..538680	tnp; IS1296 F transposase protein A, partialsequence
+mml:MLC_4280	CDS	538818..539549	tnp; IS1296 F transposase protein B
+mml:MLC_4290	CDS	539636..541780	Conserved hypothetical protein
+mml:MLC_4300	CDS	541770..542723	fmt; Methionyl tRNA formyltransferase
+mml:MLC_4310	CDS	542810..543364	efp; Elongation factor P
+mml:MLC_4320	CDS	543382..543684	Conserved hypothetical protein
+mml:MLC_4330	CDS	543701..544987	tig; Trigger factor
+mml:MLC_4340	CDS	545111..547474	lon; ATP dependent protease La
+mml:MLC_4350	CDS	547573..548808	ATPase, AAA family
+mml:MLC_4360	CDS	complement(548838..551063)	Conserved hypothetical protein, predictedlipoprotein
+mml:MLC_4370	CDS	complement(551120..553405)	Conserved hypothetical protein with a transglutaminase domain, predicted lipoprotein
+mml:MLC_4380	CDS	complement(553444..555906)	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_4390	CDS	556056..561305	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_4400	CDS	561353..561904	Conserved hypothetical protein, putativehydrolase
+mml:MLC_4410	CDS	562002..563786	ATP binding and permease protein
+mml:MLC_4420	CDS	563791..564285	Conserved hypothetical protein
+mml:MLC_4430	CDS	564289..565194	era; GTP binding protein Era homolog
+mml:MLC_4440	CDS	565194..565943	recO; DNA repair protein RecO
+mml:MLC_4450	CDS	566007..567377	glyS; Glycyl tRNA synthetase
+mml:MLC_4460	CDS	567412..569250	dnaG; DNA primase
+mml:MLC_4470	CDS	569253..570773	rpoD; RNA polymerase sigma A factor
+mml:MLC_4480	CDS	570773..571450	Conserved hypothetical protein
+mml:MLC_4490	CDS	571437..572213	Conserved hypothetical protein
+mml:MLC_4500	CDS	572222..573583	deaD; ATP dependent RNA helicase
+mml:MLC_4510	CDS	573623..575137	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_4520	CDS	575252..579406	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_4530	CDS	579418..579930	apt; Adenine phosphoribosyltransferase
+mml:MLC_4540	CDS	580013..582277	relA; GTP pyrophosphokinase
+mml:MLC_4550	CDS	582369..583649	tnp; Transposase for insertion element ISMmy2 B
+mml:MLC_4560	CDS	complement(583692..586658)	smc; Chromosome segregation ATPase
+mml:MLC_4570	CDS	complement(586964..587353)	Conserved hypothetical protein
+mml:MLC_4580	CDS	complement(587356..587817)	Conserved hypothetical protein
+mml:MLC_4590	CDS	complement(587945..588643)	rnc; Ribonuclease III
+mml:MLC_4600	CDS	complement(588633..589637)	plsX; Fatty acid/phospholipid synthesis protein PlsX
+mml:MLC_4610	CDS	complement(589670..591313)	dhaK; Dihydroxyacetone related kinase
+mml:MLC_4620	CDS	complement(591338..591649)	Conserved hypothetical protein
+mml:MLC_4630	CDS	591809..592015	L28; 50S ribosomal protein L28
+mml:MLC_4635	tRNA	592079..592163	tRNA-Leu
+mml:MLC_4640	CDS	592246..592689	Hypothetical protein
+mml:MLC_4650	CDS	592778..593908	pstS; Phosphate ABC transporter, substrate binding component
+mml:MLC_4660	CDS	593959..596049	pstA; Phosphate ABC transport system, permeasecomponent
+mml:MLC_4670	CDS	596042..596851	pstB; Phosphate ABC transporter, ATP binding protein
+mml:MLC_4680	CDS	596860..597534	phoU; Phosphate transport system regulator PhoU
+mml:MLC_4690	CDS	597601..598839	ftsY; Cell division protein FtsY
+mml:MLC_4700	CDS	598823..599164	Conserved hypothetical protein, probable regulator involved in transcription or translation
+mml:MLC_4710	CDS	599152..599925	Conserved hypothetical protein
+mml:MLC_4720	CDS	600135..601298	metK; S adenosylmethionine synthetase
+mml:MLC_4730	CDS	601289..601972	cut; Copper homeostasis protein
+mml:MLC_4740	CDS	601965..603281	trmFO; Methylene tetrahydrofolate tRNA (uracil 5) methyltransferase
+mml:MLC_4750	CDS	603307..604236	pmi; Mannose 6 phosphate isomerase
+mml:MLC_4760	CDS	604229..604882	ung; Uracil DNA glycosylase
+mml:MLC_4770	CDS	604955..605935	cbf; CMP binding factor
+mml:MLC_4780	CDS	complement(605966..606364)	hit; Histidine triad protein
+mml:MLC_4790	CDS	complement(606367..608520)	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_4800	CDS	complement(608520..611474)	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_4810	CDS	611668..612906	nifS; Nitrogen fixation protein NifS
+mml:MLC_4820	CDS	612909..613346	nifU; Nitrogen fixation protein NifU
+mml:MLC_4830	CDS	613339..613902	5 formyltetrahydrofolate cyclo ligase
+mml:MLC_4840	CDS	613923..615818	pepO; Endopeptidase O
+mml:MLC_4850	CDS	616037..617320	pgi; Glucose 6 phosphate isomerase
+mml:MLC_4860	CDS	617332..617796	Hypothetical protein, predicted transmembrane protein
+mml:MLC_4870	CDS	617818..618321	Conserved hypothetical protein
+mml:MLC_4880	CDS	618338..619105	spoU; rRNA methylase
+mml:MLC_4890	CDS	619271..620686	gapN; Glyceraldehyde 3 phosphate dehydrogenase(NADP)
+mml:MLC_4900	CDS	620873..622804	parE; Topoisomerase IV subunit B
+mml:MLC_4910	CDS	622806..625502	parC; Topoisomerase IV subunit A
+mml:MLC_4920	CDS	625610..627793	recD; Exodeoxyribonuclease V alpha subunit
+mml:MLC_4930	CDS	complement(627835..629352)	Conserved hypothetical protein, predicted transmembrane protein, putative permease
+mml:MLC_4940	CDS	629730..630950	gtsA; Glycerol transporter subunit A
+mml:MLC_4950	CDS	630928..631953	gtsB; Glycerol transporter subunit B
+mml:MLC_4960	CDS	631931..632734	gtsC; Glycerol transporter subunit C
+mml:MLC_4970	CDS	632874..634766	Conserved hypothetical protein, predictedlipoprotein
+mml:MLC_4980	CDS	634958..638878	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_4990	CDS	638950..639492	tnp; IS1296 G transposase protein A
+mml:MLC_5000	CDS	639630..640157	tnp; IS1296 G transposase protein B, partialsequence
+mml:MLC_5010	CDS	complement(640410..641588)	NADH dependent flavin oxidoreductase
+mml:MLC_5020	CDS	complement(641588..642625)	lplA; Lipoate protein ligase A
+mml:MLC_5030	CDS	complement(642603..643460)	Conserved hypothetical protein
+mml:MLC_5040	CDS	complement(643462..643806)	gcdH; Glycine cleavage system H protein
+mml:MLC_5050	CDS	643992..644786	lip; Triacylglycerol lipase
+mml:MLC_5060	CDS	644788..645582	lip; Triacylglycerol lipase
+mml:MLC_5070	CDS	645585..646385	lip; Triacylglycerol lipase
+mml:MLC_5080	CDS	complement(646404..647627)	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_5090	CDS	647890..648975	Hypothetical protein, predicted lipoprotein
+mml:MLC_5100	CDS	648932..649276	Hypothetical protein
+mml:MLC_5110	CDS	649412..650131	ABC transporter ATP binding protein
+mml:MLC_5120	CDS	650131..650886	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5130	CDS	complement(651018..651974)	ldh; L lactate dehydrogenase
+mml:MLC_5140	CDS	complement(652026..653183)	nagA; N acetylglucosamine 6 phosphate deacetylase
+mml:MLC_5150	CDS	653277..654086	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5160	CDS	complement(654098..654667)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_5170	CDS	complement(654672..656318)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5180	CDS	656470..658527	Hypothetical protein
+mml:MLC_5190	CDS	complement(658601..659038)	Hypothetical protein, predicted lipoprotein
+mml:MLC_5200	CDS	complement(659561..659968)	Hypothetical protein, predicted lipoprotein
+mml:MLC_5210	CDS	660280..660444	rpsU; 30S ribosomal protein S21
+mml:MLC_5220	CDS	660553..661113	ruvA; Holliday junction DNA helicase RuvA
+mml:MLC_5230	CDS	661130..662053	ruvB; Holliday junction DNA helicase RuvB
+mml:MLC_5240	CDS	662130..663488	pdhD; Dihydrolipoyl dehydrogenase
+mml:MLC_5250	CDS	complement(663504..664313)	Conserved hypothetical protein
+mml:MLC_5260	CDS	664380..665309	Conserved hypothetical protein
+mml:MLC_5270	CDS	665318..666421	Conserved hypothetical protein, probable GTPase
+mml:MLC_5280	CDS	complement(666430..667653)	dinB; DNA polymerase IV
+mml:MLC_5290	CDS	667801..670539	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_5300	CDS	complement(670619..671242)	udk; Uridine kinase
+mml:MLC_5310	CDS	complement(671266..671706)	Hypothetical protein, predicted transmembraneprotein
+mml:MLC_5320	CDS	complement(671779..673128)	pepV; Xaa His dipeptidase
+mml:MLC_5330	CDS	complement(673284..673964)	nanE; N acetylmannosamine 6 phosphate 2 epimerase
+mml:MLC_5340	CDS	complement(674023..674898)	Conserved hypothetical protein, probable transcription repressor of the ROK family protein
+mml:MLC_5350	CDS	complement(674891..675340)	Conserved hypothetical protein
+mml:MLC_5360	CDS	complement(675349..677052)	Conserved hypothetical protein, probable sodium:solute symporter family
+mml:MLC_5370	CDS	complement(677054..677941)	nanA; N acetylneuraminate lyase
+mml:MLC_5380	CDS	complement(678107..678388)	rpmA; 50S ribosomal protein L27
+mml:MLC_5390	CDS	complement(678390..678704)	Hypothetical protein
+mml:MLC_5400	CDS	complement(678707..679009)	L21; 50s ribosomal protein L21
+mml:MLC_5410	CDS	complement(679154..679555)	Hypothetical protein
+mml:MLC_5420	CDS	complement(679578..680465)	Conserved hypothetical protein, probable tetrapyrrole methylase family protein
+mml:MLC_5430	CDS	complement(680527..680670)	L33; 50S ribosomal protein L33
+mml:MLC_5440	CDS	680843..681907	Hypothetical protein, predicted lipoprotein
+mml:MLC_5442	tRNA	complement(682000..682088)	tRNA-Leu
+mml:MLC_5444	tRNA	complement(682099..682174)	tRNA-Lys
+mml:MLC_5446	tRNA	complement(682179..682253)	tRNA-Gln
+mml:MLC_5447	tRNA	complement(682260..682343)	tRNA-Tyr
+mml:MLC_5448	tRNA	complement(682350..682425)	tRNA-Thr
+mml:MLC_5450	CDS	complement(682552..683175)	Hypothetical protein
+mml:MLC_5460	CDS	complement(683224..684171)	plsC; 1 acyl sn glycerol 3 phosphate acyltransferase
+mml:MLC_5470	CDS	complement(684328..684660)	acpS; holo [acyl carrier protein]synthase
+mml:MLC_5480	CDS	complement(684676..685755)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5490	CDS	complement(685796..686236)	dctD; Deoxycytidylate deaminase (dCMP deaminase)
+mml:MLC_5500	CDS	complement(686281..687582)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5510	CDS	complement(687575..688507)	rluD; Ribosomal large subunit pseudouridylatesynthase D
+mml:MLC_5520	CDS	complement(688488..689096)	lsp; Lipoprotein signal peptidase
+mml:MLC_5530	CDS	complement(689087..691834)	ileS; Isoleucine tRNA ligase
+mml:MLC_5540	CDS	complement(692505..693491)	Conserved hypothetical protein
+mml:MLC_5550	CDS	complement(693504..693920)	Conserved hypothetical protein
+mml:MLC_5560	CDS	complement(693932..695089)	ftsZ; Cell division protein FtsZ
+mml:MLC_5570	CDS	complement(695204..696364)	Hypothetical protein
+mml:MLC_5580	CDS	complement(696373..697299)	mraW; S adenosyl methyltransferase MraW
+mml:MLC_5590	CDS	complement(697308..697709)	Conserved hypothetical protein
+mml:MLC_5600	CDS	complement(697816..697995)	L32; 50S ribosomal protein L32
+mml:MLC_5610	CDS	complement(698010..698528)	Hypothetical protein
+mml:MLC_5620	CDS	complement(698528..700912)	pheRS; Phenylalanyl tRNA synthetase beta chain
+mml:MLC_5630	CDS	complement(700921..701973)	pheS; Phenylalanyl tRNA synthetase alpha chain
+mml:MLC_5640	CDS	complement(702003..702611)	Hypothetical protein
+mml:MLC_5650	CDS	complement(702620..706960)	ABC transporter, permease component
+mml:MLC_5652	rRNA	complement(707183..707293)	5S ribosomal RNA
+mml:MLC_5655	rRNA	complement(707354..710267)	23S ribosomal RNA
+mml:MLC_5658	rRNA	complement(710491..712016)	16S ribosomal RNA
+mml:MLC_5660	CDS	complement(712227..713891)	argS; Arginyl tRNA synthetase
+mml:MLC_5670	CDS	complement(713893..714441)	frr; Ribosome recycling factor
+mml:MLC_5680	CDS	complement(714452..715165)	pyrH; Uridylate kinase (UK) (Uridine monophosphatekinase) (UMP kinase)
+mml:MLC_5690	CDS	complement(715299..715904)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5700	CDS	complement(715904..716791)	tsf; Elongation factor Ts (EF Ts)
+mml:MLC_5710	CDS	complement(716803..717681)	rpsB; 30S ribosomal protein S2
+mml:MLC_5720	CDS	complement(717888..719006)	dnaJ; Chaperone protein DnaJ
+mml:MLC_5730	CDS	complement(719070..720845)	dnaK; Chaperone protein DnaK (Heat shock protein 70)
+mml:MLC_5740	CDS	complement(720903..721505)	grpE; GrpE protein (HSP 70 cofactor)
+mml:MLC_5750	CDS	complement(721507..722529)	hrcA; Heat inducible transcription repressor HrcA
+mml:MLC_5760	CDS	complement(722534..724675)	clpB; ATP dependent Clp protease ATP binding subunit
+mml:MLC_5770	CDS	complement(724838..725704)	Conserved hypothetical protein, predicted hydrolase of the HAD family
+mml:MLC_5780	CDS	complement(725704..726249)	spoU; Hypothetical tRNA/rRNA methyltransferase
+mml:MLC_5790	CDS	complement(726262..726864)	Conserved hypothetical protein, probable HAM1protein homolog
+mml:MLC_5800	CDS	727066..729576	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_5810	CDS	729756..732245	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_5820	CDS	732498..734996	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_5830	CDS	complement(735052..736431)	atpD; ATP synthase beta chain
+mml:MLC_5840	CDS	complement(736431..737978)	atpA; ATP synthase alpha chain
+mml:MLC_5850	CDS	complement(737983..740277)	Conserved Hypothetical protein, predicted transmembrane protein
+mml:MLC_5860	CDS	complement(740279..740722)	Conserved hypothetical protein
+mml:MLC_5870	CDS	complement(740722..741633)	Conserved hypothetical protein
+mml:MLC_5880	CDS	complement(741635..742129)	Conserved hypothetical protein
+mml:MLC_5890	CDS	complement(742104..743567)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5900	CDS	complement(743610..746195)	Conserved hypothetical protein, predictedlipoprotein
+mml:MLC_5910	CDS	complement(746218..748470)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_5920	CDS	complement(748741..751317)	Hypothetical protein, predicted lipoprotein
+mml:MLC_5930	CDS	complement(751337..753589)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5940	CDS	complement(753769..756327)	Conserved hypothetical protein, predictedlipoprotein
+mml:MLC_5950	CDS	complement(756342..758594)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_5960	CDS	complement(758796..761372)	Hypothetical protein, predicted lipoprotein
+mml:MLC_5970	CDS	complement(761392..763650)	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_5980	CDS	complement(763866..766130)	Conserved hypothetical protein
+mml:MLC_5990	CDS	complement(766133..767191)	AAA family ATPase
+mml:MLC_6000	CDS	complement(767371..768219)	fba; Fructose bisphosphate aldolase class II
+mml:MLC_6010	CDS	768422..769156	fruR; Transcriptional repressor of the fructoseoperon
+mml:MLC_6020	CDS	769165..771051	scrA; Phosphotransferase system PTS, sucrose specificEIIBC component
+mml:MLC_6030	CDS	771064..772005	fruK; 1 phosphofructokinase
+mml:MLC_6040	CDS	complement(772516..773514)	Conserved hypothetical protein, putative TypeII restriction enzyme
+mml:MLC_6050	CDS	complement(773643..775673)	Conserved hypothetical protein, putative TYPEII DNA modification enzyme (Methyltransferase)
+mml:MLC_6060	CDS	complement(775889..777310)	Conserved hypothetical protein
+mml:MLC_6070	CDS	complement(777529..778029)	Conserved hypothetical protein, predicted membrane protein
+mml:MLC_6080	CDS	complement(778047..779519)	Conserved hypothetical protein
+mml:MLC_6090	CDS	complement(780143..781921)	Conserved hypothetical protein, putative matE efflux family protein
+mml:MLC_6100	CDS	782193..786872	Conserved hypothetical protein
+mml:MLC_6110	CDS	786885..787778	Conserved hypothetical protein, probable Fic family protein
+mml:MLC_6120	CDS	787933..788880	Conserved hypothetical protein
+mml:MLC_6130	CDS	789100..790626	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_6140	CDS	complement(790946..791626)	Conserved hypothetical protein
+mml:MLC_6150	CDS	complement(791950..792159)	Hypothetical protein
+mml:MLC_6160	CDS	complement(792228..792632)	Hypothetical protein
+mml:MLC_6170	CDS	complement(792636..793121)	Hypothetical protein, predicted transmembraneprotein
+mml:MLC_6180	CDS	complement(793121..795277)	Hypothetical protein, predicted transmembrane protein
+mml:MLC_6190	CDS	complement(795482..796816)	Hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_6200	CDS	complement(796950..797543)	Hypothetical protein, DUF285 family
+mml:MLC_6210	CDS	complement(797599..798210)	Conserved hypothetical protein
+mml:MLC_6220	CDS	complement(798261..798929)	Conserved hypothetical protein, DUF285 family
+mml:MLC_6230	CDS	complement(798983..799531)	Conserved hypothetical protein, DUF285 family
+mml:MLC_6240	CDS	complement(799604..800020)	Conserved hypothetical protein
+mml:MLC_6250	CDS	complement(800070..800777)	Conserved hypothetical protein, DUF285 family
+mml:MLC_6260	CDS	complement(800812..801762)	Cmp binding factor 1
+mml:MLC_6270	CDS	complement(802157..803470)	dnaC; Replicative DNA helicase DnaC
+mml:MLC_6280	CDS	complement(803497..804057)	Hypothetical protein
+mml:MLC_6290	CDS	complement(804659..805018)	Hypothetical protein
+mml:MLC_6300	CDS	complement(805077..805634)	Hypothetical protein
+mml:MLC_6310	CDS	complement(805701..806354)	Hypothetical protein
+mml:MLC_6320	CDS	806918..808750	Conserved hypothetical protein
+mml:MLC_6330	CDS	808825..809769	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_6340	CDS	809902..811665	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_6350	CDS	811668..812336	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_6360	CDS	812508..813014	Hypothetical protein, predicted lipoprotein
+mml:MLC_6370	CDS	complement(813064..814278)	pgk; Phosphoglycerate kinase
+mml:MLC_6380	CDS	complement(814394..815410)	gap; Glyceraldehyde 3 phosphate dehydrogenase
+mml:MLC_6390	CDS	complement(815511..816449)	dnaI; Primosomal protein DnaI
+mml:MLC_6400	CDS	complement(816459..817643)	dnaB; Chromosome replication initiation/membrane attachment protein
+mml:MLC_6410	CDS	complement(817800..818624)	fpg; Formamidopyrimidine DNA glycosylase
+mml:MLC_6420	CDS	complement(818635..821370)	polA; DNA polymerase I
+mml:MLC_6430	CDS	complement(821379..824342)	dnaE; DNA polymerase III alpha subunit
+mml:MLC_6440	CDS	complement(824537..825781)	tyrS; Tyrosine tRNA ligase
+mml:MLC_6450	CDS	complement(825790..826851)	pncB; Nicotinic phosphoribosyltransferase
+mml:MLC_6460	CDS	complement(826829..827461)	pheT; Phenylalanine tRNA ligase
+mml:MLC_6470	CDS	827512..828351	Hypothetical protein
+mml:MLC_6480	CDS	828362..829213	Hypothetical protein
+mml:MLC_6483	tRNA	complement(829250..829324)	tRNA-Trp
+mml:MLC_6486	tRNA	complement(829362..829437)	tRNA-Trp
+mml:MLC_6490	CDS	complement(829513..829977)	fur; Ferric uptake regulator
+mml:MLC_6500	CDS	complement(830223..830585)	Hypothetical protein, predicted lipoprotein
+mml:MLC_6510	CDS	complement(830572..831774)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_6515	tRNA	complement(831743..831818)	tRNA-His
+mml:MLC_6520	CDS	complement(831936..832868)	arcC; Carbamate kinase
+mml:MLC_6530	CDS	complement(832983..834077)	aguA; Putative agmatine deiminase
+mml:MLC_6540	CDS	complement(834084..835502)	Amino acid transporter
+mml:MLC_6550	CDS	complement(835530..836627)	arcB; Ornithine carbamoyltransferase
+mml:MLC_6560	CDS	836889..837317	Hypothetical protein
+mml:MLC_6570	CDS	837516..838403	ABC transporter, ATP binding component
+mml:MLC_6580	CDS	838405..839169	Hypothetical protein, predicted transmembrane protein
+mml:MLC_6590	CDS	complement(839203..839679)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_6600	CDS	complement(839770..841329)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_6610	CDS	complement(841396..843810)	leuS; Leucyl tRNA synthetase
+mml:MLC_6615	tRNA	complement(843946..844022)	tRNA-Ile
+mml:MLC_6620	CDS	complement(844095..846893)	Hypothetical protein, predicted lipoprotein
+mml:MLC_6630	CDS	complement(847052..847450)	rpsI; 30S ribosomal protein S9
+mml:MLC_6640	CDS	complement(847450..847905)	rplM; 50S ribosomal protein L13
+mml:MLC_6650	CDS	complement(848034..852191)	Conserved hypothetical protein, predicted transmembrane protein, predicted permease
+mml:MLC_6660	CDS	complement(852277..853032)	truA; tRNA pseudouridine synthase A
+mml:MLC_6670	CDS	complement(853035..854045)	ABC transporter, permease component (predictedcobalt transport)
+mml:MLC_6680	CDS	complement(854059..854970)	ABC transporter, ATP binding component (predicted cobalt transport)
+mml:MLC_6690	CDS	complement(854958..856184)	ABC transporter, ATP binding component
+mml:MLC_6700	CDS	complement(856292..856651)	rplQ; 50S ribosomal protein L17
+mml:MLC_6710	CDS	complement(856671..857624)	rpoA; DNA directed RNA polymerase alpha chain
+mml:MLC_6720	CDS	complement(857628..858017)	rpsK; 30S ribosomal protein S11
+mml:MLC_6730	CDS	complement(858043..858408)	rpsM; 30S ribosomal protein S13
+mml:MLC_6735	CDS	complement(858445..858558)	rpmJ; 50S ribosomal protein L36
+mml:MLC_6740	CDS	complement(858627..858851)	infA; Translation initiation factor IF 1
+mml:MLC_6750	CDS	complement(858863..859618)	map; Methionine aminopeptidase
+mml:MLC_6760	CDS	complement(859618..860259)	adk; Adenylate kinase
+mml:MLC_6770	CDS	complement(860387..861835)	secY; Preprotein translocase subunit secY
+mml:MLC_6780	CDS	complement(861835..862272)	rplO; 50S ribosomal protein L15
+mml:MLC_6790	CDS	complement(862291..863055)	rpsE; 30S ribosomal protein S5
+mml:MLC_6800	CDS	complement(863074..863424)	rplR; 50S ribosomal protein L18
+mml:MLC_6810	CDS	complement(863450..863992)	rplF; 50S ribosomal protein L6
+mml:MLC_6820	CDS	complement(864006..864395)	rpsH; 30S ribosomal protein S8
+mml:MLC_6830	CDS	complement(864415..864600)	rpsN; 30S Ribosomal protein S14
+mml:MLC_6840	CDS	complement(864619..865161)	rplE; 50S ribosomal protein L5
+mml:MLC_6850	CDS	complement(865180..865506)	L24; 50S ribosomal protein L24
+mml:MLC_6860	CDS	complement(865520..865888)	L14; 50S ribosomal protein L14
+mml:MLC_6870	CDS	complement(865904..866161)	S17; 30S ribosomal protein S17
+mml:MLC_6880	CDS	complement(866161..866577)	rpmC; 50S ribosomal protein L29
+mml:MLC_6890	CDS	complement(866577..866990)	rplP; 50S ribosomal protein L16
+mml:MLC_6900	CDS	complement(866993..867694)	rpsC; 30S ribosomal protein S3
+mml:MLC_6910	CDS	complement(867712..868047)	L22; 50S ribosomal protein L22
+mml:MLC_6915	CDS	complement(868071..868337)	rpsS; 30S ribosomal protein S19
+mml:MLC_6920	CDS	complement(868359..869207)	rplB; 50S ribosomal protein L2
+mml:MLC_6930	CDS	complement(869262..869546)	rplW; 50S ribosomal protein L23
+mml:MLC_6940	CDS	complement(869546..870172)	rplD; 50S ribosomal protein L4
+mml:MLC_6950	CDS	complement(870185..870856)	rplC; 50S ribosomal protein L3
+mml:MLC_6960	CDS	complement(870932..871240)	rpsJ; 30S ribosomal protein S10
+mml:MLC_6970	CDS	complement(871492..872490)	dhaK1; Glycerone kinase
+mml:MLC_6980	CDS	complement(872598..874226)	treA; Alpha amylase
+mml:MLC_6990	CDS	complement(874234..875781)	treP; Phosphotransferase system PTS,trehalose specific IIBC component
+mml:MLC_7000	CDS	complement(875847..876833)	treR; Transcriptional regulator
+mml:MLC_7010	CDS	877358..878269	Hypothetical protein, predicted transmembraneprotein
+mml:MLC_7012	tRNA	complement(878512..878587)	tRNA-Thr
+mml:MLC_7014	tRNA	complement(878600..878675)	tRNA-Val
+mml:MLC_7016	tRNA	complement(878683..878758)	tRNA-Glu
+mml:MLC_7018	tRNA	complement(878766..878841)	tRNA-Asn
+mml:MLC_7020	CDS	complement(878949..879749)	Conserved hypothetical protein, DUF285 family
+mml:MLC_7030	CDS	879970..881382	tnp; ISMmy1 like A transposase
+mml:MLC_7040	CDS	complement(881403..881792)	Hypothetical protein, predicted lipoprotein
+mml:MLC_7050	CDS	complement(881904..882659)	Hypothetical protein, predicted transmembraneprotein
+mml:MLC_7060	CDS	complement(882649..883515)	folD; Methylenetetrahydrofolate dehydrogenase(NADP+)/methenyltetrahydrofolate cyclohydrolase
+mml:MLC_7070	CDS	complement(883524..885125)	ktrB; K+, Na+ uptake protein bound cytoplasmicsubunit
+mml:MLC_7080	CDS	885204..885932	Hypothetical protein with a predicted potassiumtransport activity
+mml:MLC_7090	CDS	complement(885959..887398)	gatB; Aspartyl/glutamyl tRNA(Asn/Gln)amidotransferase subunit B
+mml:MLC_7100	CDS	complement(887400..888857)	gatA; Glutamyl tRNA(Gln) amidotransferase subunit A
+mml:MLC_7110	CDS	complement(888857..889153)	gatC; Aspartyl/glutamyl tRNA(Asn/Gln)amidotransferase subunit C
+mml:MLC_7120	CDS	complement(889155..891161)	ligA; DNA ligase
+mml:MLC_7130	CDS	complement(891165..893186)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_7140	CDS	complement(893189..894097)	rluC; RNA pseudouridylate synthase
+mml:MLC_7150	CDS	complement(894100..895068)	Conserved hypothetical protein, predictedtransmembrane protein, putative CAAX amino terminalprotease family
+mml:MLC_7160	CDS	complement(895124..895393)	ptsH; Phosphocarrier protein HPr
+mml:MLC_7170	CDS	complement(895458..897626)	pcrA; ATP dependent DNA helicase
+mml:MLC_7180	CDS	complement(897643..898398)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_7190	CDS	complement(898398..899354)	cps; Glycosyl transferase
+mml:MLC_7200	CDS	complement(899504..900739)	Hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_7210	CDS	complement(900827..901756)	msrA; Peptide methionine sulfoxide reductaseMsrA/MsrB
+mml:MLC_7220	CDS	complement(901869..904049)	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_7230	CDS	complement(904297..906645)	Hypothetical protein, predicted lipoprotein
+mml:MLC_7240	CDS	complement(906654..907556)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_7250	CDS	complement(907683..908027)	Hypothetical protein
+mml:MLC_7260	CDS	complement(908048..909328)	tnp; Transposase for insertion element ISMmy2 C
+mml:MLC_7270	CDS	complement(909395..910900)	Conserved hypothetical protein
+mml:MLC_7280	CDS	complement(910903..911469)	Hypothetical protein
+mml:MLC_7290	CDS	complement(911472..912323)	marMP; Putative C5 methylase
+mml:MLC_7300	CDS	complement(912374..913786)	tnp; ISMmy1 like B transposase
+mml:MLC_7310	CDS	complement(914242..915990)	phnB; Alkylphosphonate ABC transporter, permease component
+mml:MLC_7320	CDS	complement(915954..916703)	phnC; Alkylphosphonate ABC transporter, ATP binding component
+mml:MLC_7330	CDS	complement(916717..918195)	phnD; Alkylphosphonate ABC transporter,substrate binding component
+mml:MLC_7340	CDS	complement(918416..919279)	Conserved hypothetical protein, predictedhydrolase of the HAD family
+mml:MLC_7350	CDS	919411..920601	patB; Aminotransferase (PLP dependent)
+mml:MLC_7360	CDS	920611..921012	Hypothetical protein
+mml:MLC_7370	CDS	complement(921051..922097)	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_7380	CDS	complement(922098..922568)	Hypothetical protein, DUF285 family
+mml:MLC_7390	CDS	complement(922982..923899)	Hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_7400	CDS	complement(924137..925363)	Hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_7410	CDS	complement(925550..926833)	Conserved hypothetical protein, predicted transmembrane protein, DUF285 family
+mml:MLC_7420	CDS	926975..928117	Conserved hypothetical protein
+mml:MLC_7421	tRNA	928323..928399	tRNA-Arg
+mml:MLC_7422	tRNA	928447..928523	tRNA-Pro
+mml:MLC_7423	tRNA	928534..928609	tRNA-Ala
+mml:MLC_7424	tRNA	928614..928690	tRNA-Met
+mml:MLC_7425	tRNA	928702..928778	tRNA-Met
+mml:MLC_7426	tRNA	928821..928913	tRNA-Ser
+mml:MLC_7427	tRNA	928936..929011	tRNA-Met
+mml:MLC_7428	tRNA	929014..929090	tRNA-Asp
+mml:MLC_7429	tRNA	929099..929174	tRNA-Phe
+mml:MLC_7430	CDS	929281..930015	nagB; Glucosamine 6 phosphate deaminase
+mml:MLC_7440	CDS	930113..930859	tpi; Triosephosphate isomerase
+mml:MLC_7450	CDS	930852..931688	Conserved hypothetical protein, predicted hydrolase of the HAD family
+mml:MLC_7460	CDS	931691..933286	gpmI; 2,3 bisphosphoglycerate independent phosphoglycerate mutase
+mml:MLC_7470	CDS	933384..933983	Hypothetical protein
+mml:MLC_7480	CDS	933985..934986	Conserved hypothetical protein
+mml:MLC_7490	CDS	complement(935051..935722)	deoC; Deoxyribose phosphate aldolase
+mml:MLC_7500	CDS	complement(935734..937410)	manB; Phosphoglucomutase or phosphomannomutase
+mml:MLC_7510	CDS	937572..938885	deoA; Thymidine phosphorylase
+mml:MLC_7520	CDS	939006..939548	tnp; IS1296 H transposase protein A
+mml:MLC_7530	CDS	939686..940417	tnp; IS1296 H transposase protein B
+mml:MLC_7540	CDS	complement(940456..942492)	fruA; Phosphotransferase system PTS,fructose specific IIBC component
+mml:MLC_7550	CDS	complement(942495..943430)	fruB; 1 phosphofructokinase
+mml:MLC_7560	CDS	complement(943430..944128)	fruR; Transcription repressor of fructose operon
+mml:MLC_7570	CDS	944282..945262	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_7580	CDS	945467..946120	pnp; Purine nucleoside phosphorylase
+mml:MLC_7590	CDS	complement(946167..946631)	tnp; Putative new IS transposase protein A
+mml:MLC_7600	CDS	complement(946686..947591)	pldB; Lysophospholipase
+mml:MLC_7610	CDS	complement(947674..950724)	Hypothetical protein
+mml:MLC_7620	CDS	complement(950749..953823)	Hypothetical protein
+mml:MLC_7630	CDS	954193..954765	Conserved hypothetical protein, probable Ficfamily protein
+mml:MLC_7640	CDS	954983..955255	Hypothetical protein
+mml:MLC_7650	CDS	955248..955526	Hypothetical protein
+mml:MLC_7660	CDS	complement(955705..956790)	Hypothetical protein
+mml:MLC_7670	CDS	complement(956792..958180)	bgl; Beta glucosidase
+mml:MLC_7680	CDS	complement(958173..959051)	suk; Sugar kinase, ROK family
+mml:MLC_7690	CDS	complement(959053..959511)	fruA; Phosphotransferase system PTS,fructose specific IIA component
+mml:MLC_7700	CDS	complement(959520..962186)	Conserved hypothetical protein, probable glycosyl hydrolase
+mml:MLC_7710	CDS	complement(962198..964039)	fruA; Phosphotransferase system PTS,fructose specific IIBC component
+mml:MLC_7720	CDS	complement(964054..964830)	Hypothetical protein, predicted lipoprotein
+mml:MLC_7730	CDS	complement(964995..965546)	hpt; Hypoxanthine phosphoribosyltransferase
+mml:MLC_7740	CDS	complement(965582..966880)	purB; Adenylosuccinate lyase
+mml:MLC_7750	CDS	complement(966873..968171)	purA; Adenylosuccinate synthetase
+mml:MLC_7760	CDS	968591..969523	tnp; IS1296 I transposase protein A
+mml:MLC_7770	CDS	969661..970392	tnp; IS1296 I transposase protein B
+mml:MLC_7780	CDS	complement(970330..970743)	Pseudogene of Alkylphosphonate ABC transporter, permease component
+mml:MLC_7790	CDS	complement(970743..971462)	Adenine specific DNA methylase
+mml:MLC_7800	CDS	complement(971523..972500)	Hypothetical protein, DUF285 family
+mml:MLC_7810	CDS	complement(972475..974646)	nrdE; Ribonucleoside diphosphate reductase alpha subunit
+mml:MLC_7820	CDS	complement(974624..975097)	nrdI; Ribonucleotide reductase
+mml:MLC_7830	CDS	complement(975106..976125)	nrdF; Ribonucleoside diphosphate reductase 2 betachain
+mml:MLC_7840	CDS	976424..976708	secG; Preprotein translocase subunit SecG
+mml:MLC_7850	CDS	976744..978858	rnr; Ribonuclease R
+mml:MLC_7860	CDS	978868..979314	smpB; Ssra binding protein
+mml:MLC_7870	CDS	979314..979799	Hypothetical protein, predicted transmembraneprotein
+mml:MLC_7880	CDS	979920..980171	Hypothetical protein, predicted transmembraneprotein
+mml:MLC_7890	CDS	980285..982462	ptsG; Phosphotransferase system PTS, glucose specificIIBC component
+mml:MLC_7900	CDS	982557..983684	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_7910	CDS	983780..984745	glk; Glucokinase
+mml:MLC_7920	gene	complement(984814..985071)	pseudogene
+mml:MLC_7930	CDS	complement(985199..986194)	arcB; Ornithine carbamoyltransferase
+mml:MLC_7940	CDS	complement(986455..989283)	mgtA; Mg(2+) transport ATPase, P type
+mml:MLC_7950	CDS	989628..990815	Hypothetical protein, predicted transmembraneprotein
+mml:MLC_7960	CDS	complement(990885..991184)	atpC; ATP synthase epsilon chain
+mml:MLC_7970	CDS	complement(991184..992611)	atpD; ATP synthase beta chain
+mml:MLC_7980	CDS	complement(992620..993462)	atpG; ATP synthase gamma chain
+mml:MLC_7990	CDS	complement(993464..995041)	atpA; ATP synthase alpha chain
+mml:MLC_8000	CDS	complement(995053..995598)	atpH; ATP synthase delta chain
+mml:MLC_8010	CDS	complement(995600..996145)	atpF; ATP synthase B chain
+mml:MLC_8020	CDS	complement(996174..996479)	atpE; ATP synthase C chain
+mml:MLC_8030	CDS	complement(996509..997372)	atpB; ATP synthase A chain
+mml:MLC_8040	CDS	complement(997372..997770)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_8050	CDS	complement(997910..998533)	upp; Uracil phosphoribosyltransferase
+mml:MLC_8060	CDS	complement(998633..999874)	glyA; Serine hydroxymethyltransferase
+mml:MLC_8070	CDS	complement(999858..1000301)	rpiB; Ribose 5 phosphate isomerase, RpiB
+mml:MLC_8080	CDS	1000380..1000676	Conserved hypothetical protein, predicted rhodanese related sulfurtransferase
+mml:MLC_8090	CDS	complement(1000681..1002876)	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_8100	CDS	complement(1002966..1006733)	rpoC; DNA directed RNA polymerase beta' chain
+mml:MLC_8110	CDS	complement(1006745..1010620)	rpoB; DNA directed RNA polymerase beta chain
+mml:MLC_8120	CDS	complement(1010610..1011785)	Conserved hypothetical protein
+mml:MLC_8130	CDS	complement(1011956..1012324)	L7; 50S ribosomal protein L7
+mml:MLC_8140	CDS	complement(1012397..1012894)	rplJ; 50S ribosomal protein L10
+mml:MLC_8150	CDS	complement(1013122..1013802)	rplA; 50S ribosomal protein L1
+mml:MLC_8160	CDS	complement(1013802..1014230)	rplK; 50S ribosomal protein L11
+mml:MLC_8170	CDS	complement(1014483..1015361)	galU; UTP glucose 1 phosphate uridylyltransferase
+mml:MLC_8180	CDS	1015716..1017128	tnp; ISMmy1 like C transposase
+mml:MLC_8190	CDS	complement(1017591..1018967)	epsG; Glycosyltransferase
+mml:MLC_8200	CDS	1019268..1020263	galE; UDP glucose 4 epimerase
+mml:MLC_8210	CDS	1020281..1021468	glf; UDP galactopyranose mutase
+mml:MLC_8220	CDS	complement(1021513..1022835)	oppF; Oligopeptide ABC transporter, ATP bindingcomponent
+mml:MLC_8230	CDS	complement(1022828..1024270)	oppD; Oligopeptide ABC transporter, ATP binding component
+mml:MLC_8240	CDS	complement(1024278..1025288)	oppC; Oligopeptide ABC transporter, permeasecomponent
+mml:MLC_8250	CDS	complement(1025290..1026363)	oppB; Oligopeptide ABC transporter, permeasecomponent
+mml:MLC_8260	CDS	complement(1026363..1029320)	oppA; Oligopeptide ABC transporter, substrate binding component
+mml:MLC_8270	CDS	complement(1029330..1035248)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_8280	CDS	complement(1035683..1036324)	nusG; Transcription antitermination protein NusG
+mml:MLC_8290	CDS	complement(1036341..1036673)	secE; Preprotein translocase subunit SecE
+mml:MLC_8300	CDS	complement(1036673..1036834)	L33; 50S ribosomal protein L33
+mml:MLC_8310	CDS	complement(1036895..1037629)	spoU; tRNA/rRNA methyltransferase
+mml:MLC_8320	CDS	complement(1037631..1038956)	cysS; Cysteinyl tRNA synthetase
+mml:MLC_8330	CDS	complement(1038965..1039891)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_8340	CDS	complement(1040034..1041335)	Hypothetical protein, predicted lipoprotein
+mml:MLC_8350	CDS	complement(1041402..1042718)	dnaC; Replicative DNA helicase DnaC
+mml:MLC_8360	CDS	complement(1042721..1043164)	rplI; 50S ribosomal protein L9
+mml:MLC_8370	CDS	complement(1043285..1043845)	pth; Peptidyl tRNA hydrolase
+mml:MLC_8380	CDS	complement(1044273..1045307)	prs; Ribose phosphate pyrophosphokinase
+mml:MLC_8390	CDS	complement(1045489..1045749)	Hypothetical protein, predicted transmembrane protein
+mml:MLC_8400	CDS	complement(1045751..1046548)	Conserved hypothetical protein, putativeTatD related deoxyribonuclease
+mml:MLC_8405	tRNA	complement(1046685..1046759)	tRNA-Cys
+mml:MLC_8410	CDS	complement(1046923..1048392)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_8420	CDS	complement(1048395..1049345)	Conserved hypothetical protein
+mml:MLC_8430	CDS	1049632..1051629	uvrB; Excinuclease ABC subunit B
+mml:MLC_8440	CDS	1051638..1054478	uvrA; Excinuclease ABC subunit A
+mml:MLC_8450	CDS	1054471..1055586	folC; Dihydrofolate:folylpolyglutamate synthase
+mml:MLC_8460	CDS	1055603..1056277	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_8470	CDS	1056361..1057302	hprK; HPr kinase/phosphorylase
+mml:MLC_8480	CDS	1057313..1058893	lgt; Prolipoprotein diacylglyceryl transferase
+mml:MLC_8490	CDS	1058877..1059809	trxB; Thioredoxin reductase (NADPH)
+mml:MLC_8500	CDS	1059749..1061248	lgt; Prolipoprotein diacylglyceryl transferase
+mml:MLC_8510	CDS	1061261..1062190	Conserved hypothetical protein
+mml:MLC_8520	CDS	complement(1062339..1062818)	Hypothetical protein, predicted lipoprotein
+mml:MLC_8530	CDS	1063049..1064329	tnp; Transposase for insertion element ISMmy2 D
+mml:MLC_8540	CDS	complement(1064390..1065514)	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_8550	CDS	complement(1065680..1065910)	Hypothetical protein
+mml:MLC_8560	CDS	complement(1065900..1066619)	Conserved hypothetical protein
+mml:MLC_8570	CDS	complement(1066619..1067128)	Conserved hypothetical protein
+mml:MLC_8580	CDS	complement(1067128..1068840)	Phosphotransferase system PTS, EIIB component
+mml:MLC_8590	CDS	complement(1068903..1070615)	Phosphotransferase system PTS, IIBC components
+mml:MLC_8600	CDS	1070877..1071854	Conserved hypothetical protein, putative ATP dependent DNA helicase
+mml:MLC_8610	CDS	complement(1072253..1073068)	Conserved hypothetical protein
+mml:MLC_8620	CDS	1073256..1075217	topA; DNA topoisomerase I
+mml:MLC_8630	CDS	complement(1075345..1076088)	Hypothetical protein, predicted lipoprotein
+mml:MLC_8640	CDS	complement(1076251..1076862)	tnp; ISMmy3 B transposase protein B
+mml:MLC_8650	CDS	complement(1077117..1077623)	tnp; ISMmy3 B transposase protein A
+mml:MLC_8660	CDS	complement(1077928..1078812)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_8670	CDS	complement(1078799..1079629)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_8680	CDS	complement(1079616..1080968)	Conserved hypothetical protein, predictedlipoprotein
+mml:MLC_8690	CDS	complement(1080946..1081650)	abc; ABC transporter, ATP binding protein
+mml:MLC_8700	CDS	complement(1081652..1083523)	abc; ABC transporter, permease protein
+mml:MLC_8710	CDS	complement(1083662..1084546)	Conserved hypothetical protein, predicted lipoprotein
+mml:MLC_8720	CDS	complement(1084548..1085378)	Conserved hypothetical protein, predictedmembrane protein
+mml:MLC_8730	CDS	complement(1085365..1086558)	Conserved hypothetical protein, predictedlipoprotein
+mml:MLC_8740	CDS	complement(1086577..1088472)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_8750	CDS	complement(1088582..1090348)	arcD; Putative membrane arginine transporter
+mml:MLC_8760	CDS	complement(1090417..1091130)	Conserved hypothetical protein, Putative zinc metalloprotease
+mml:MLC_8770	CDS	complement(1091096..1092190)	engD; GTP binding protein
+mml:MLC_8780	CDS	complement(1092429..1093124)	gidB; Methyltransferase GidB (Glucose inhibited division protein B)
+mml:MLC_8790	CDS	complement(1093124..1093720)	pgsA; CDP diacylglycerol glycerol 3 phosphate3 phosphatidyltransferase
+mml:MLC_8800	CDS	complement(1093822..1095402)	Conserved hypothetical protein, probable aminoacid permease
+mml:MLC_8810	CDS	complement(1095549..1096229)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_8820	CDS	complement(1096201..1097739)	Amino acid permease
+mml:MLC_8830	CDS	complement(1097797..1100454)	mgtA; Magnesium transporting ATPase, P type 1
+mml:MLC_8840	CDS	complement(1100538..1101437)	Hypothetical transmembrane protein, Predictedhistone like DNA binding protein
+mml:MLC_8850	CDS	complement(1101746..1103173)	uhpT; Hexose phosphate transport protein
+mml:MLC_8860	CDS	complement(1103377..1104021)	Conserved hypothetical protein
+mml:MLC_8870	CDS	complement(1104078..1105058)	asnA; Aspartate ammonia ligase
+mml:MLC_8880	CDS	1105263..1106012	Hypothetical protein
+mml:MLC_8890	CDS	complement(1106273..1108162)	mnmG; tRNA uridine 5 carboxymethylaminomethyl modification enzyme
+mml:MLC_8900	CDS	complement(1108314..1109888)	Conserved hypothetical family, predicted sodium:dicarboxylate symporter family
+mml:MLC_8910	CDS	complement(1109908..1111251)	nox; NADH oxidase
+mml:MLC_8920	CDS	1111469..1111969	pncA; Pyrazinamidase/nicotinamidase
+mml:MLC_8930	CDS	complement(1112188..1112787)	Conserved hypothetical protein
+mml:MLC_8940	CDS	1113289..1114623	Conserved hypothetical protein, predicted lipoprotein, DUF285 family
+mml:MLC_8950	CDS	1114892..1116115	Hypothetical protein, predicted transmembrane protein
+mml:MLC_8960	CDS	1116247..1117452	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_8970	CDS	complement(1117464..1119728)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_8980	CDS	complement(1119738..1121999)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_8990	CDS	complement(1122324..1124579)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_9000	CDS	complement(1124589..1126787)	Conserved hypothetical protein, predictedtransmembrane protein
+mml:MLC_9010	CDS	complement(1127047..1129299)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_9020	CDS	complement(1129323..1131563)	Conserved hypothetical protein, predicted transmembrane protein
+mml:MLC_9030	CDS	1131873..1132511	Hypothetical protein, predicted lipoprotein
+mml:MLC_9040	CDS	1132748..1133362	Hypothetical protein, predicted lipoprotein
+mml:MLC_9050	CDS	1133744..1134352	Hypothetical protein, predicted lipoprotein
+mml:MLC_9060	CDS	1134828..1136240	tnp; ISMmy1 like D transposase
+mml:MLC_9070	CDS	1136342..1136977	Hypothetical protein, predicted lipoprotein
+mml:MLC_9080	CDS	1137194..1137817	Hypothetical protein, predicted lipoprotein
+mml:MLC_9090	CDS	1138303..1138773	Hypothetical protein, predicted lipoprotein
+mml:MLC_9100	CDS	1138826..1140106	tnp; Transposase for insertion element ISMmy2 E
+mml:MLC_9110	CDS	1140568..1141605	AAA family ATPase
+mml:MLC_9120	CDS	1141607..1143847	Hypothetical protein
+mml:MLC_9130	CDS	complement(1143910..1144536)	Hypothetical protein, predicted lipoprotein
+mml:MLC_9140	CDS	1144877..1146289	tnp; ISMmy1 like E transposase
+mml:MLC_9150	CDS	complement(1146456..1147094)	Hypothetical protein, predicted lipoprotein
+mml:MLC_9160	CDS	complement(1147194..1148606)	tnp; ISMmy1 like F transposase
+mml:MLC_9170	CDS	complement(1149254..1150534)	tnp; Transposase for insertion element ISMmy2 F
+mml:MLC_9180	CDS	complement(1150716..1151432)	licA; Phosphotransferase system PTS,lichenan specific IIa component
+mml:MLC_9190	CDS	complement(1151432..1152226)	Conserved hypothetical protein
+mml:MLC_9200	CDS	complement(1152303..1153469)	oxaA; Membrane protein OxaA
+mml:MLC_9210	CDS	complement(1153511..1153840)	rnpA; Ribonuclease P protein component
+mml:MLC_9220	CDS	complement(1153847..1153981)	rpmH; 50S ribosomal protein L34

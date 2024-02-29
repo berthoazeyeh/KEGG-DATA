@@ -1,0 +1,883 @@
+mss:MSU_0001	CDS	1..1038	dnaA; dnaA chromosomal replication initiation protein
+mss:MSU_0002	CDS	1194..2360	dnaN; DNA polymerase III, beta subunit
+mss:MSU_0003	CDS	2368..3270	putative membrane protein
+mss:MSU_0004	CDS	3282..4358	hrcA; heat-inducible transcription repressor hrcA
+mss:MSU_0005	CDS	4396..5613	ABC transporter, ATP binding protein
+mss:MSU_0006	CDS	complement(5610..5864)	putative translation factor, SUA5 domain
+mss:MSU_0007	CDS	complement(5968..6174)	hypothetical protein
+mss:MSU_0008	tRNA	complement(6221..6294)	tRNA-Gly
+mss:MSU_0009	CDS	6376..6618	hypothetical protein
+mss:MSU_0010	CDS	6663..7688	nusG; putative transcription antitermination protein, NusG
+mss:MSU_0011	CDS	7718..8317	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA component
+mss:MSU_0012	CDS	8333..9724	proS; prolyl-tRNA synthetase
+mss:MSU_0013	CDS	9738..11033	pgiB; Glucose-6-phosphate isomerase
+mss:MSU_0014	CDS	11046..12635	cls; cardiolipin synthase
+mss:MSU_0015	CDS	12662..13660	prs; ribose-phosphate pyrophosphokinase
+mss:MSU_0016	CDS	13816..14892	tyrS; tyrosyl-tRNA synthetase
+mss:MSU_0017	CDS	14910..16283	ffh; signal recognition particle protein
+mss:MSU_0018	tRNA	16314..16391	tRNA-Arg
+mss:MSU_0019	CDS	16405..16830	rpsF; 30S ribosomal protein S6
+mss:MSU_0020	CDS	16836..17348	single-stranded DNA-binding protein
+mss:MSU_0021	CDS	17360..17734	rpsR; 30S ribosomal protein S18
+mss:MSU_0022	CDS	17822..19258	dnaB; Replicative DNA helicase, DnaB
+mss:MSU_0023	tRNA	complement(19289..19376)	tRNA-Leu
+mss:MSU_0024	tRNA	complement(19405..19479)	tRNA-Thr
+mss:MSU_0025	tRNA	complement(19482..19556)	tRNA-Val
+mss:MSU_0026	tRNA	complement(19561..19636)	tRNA-Glu
+mss:MSU_0027	tRNA	complement(19646..19720)	tRNA-Asn
+mss:MSU_0028	CDS	19863..21068	putative membrane protein, uncharacterized protein MG443-like protein
+mss:MSU_0029	CDS	21073..22548	gapN; NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+mss:MSU_0030	CDS	22656..24623	gyrB; DNA gyrase, subunit B
+mss:MSU_0031	CDS	24611..27295	gyrA; DNA gyrase, subunit A
+mss:MSU_0032	CDS	27314..28321	gyrA2; DNA gyrase C-terminal domain protein
+mss:MSU_0033	CDS	28330..29448	hypothetical protein
+mss:MSU_0034	CDS	29484..29909	hypothetical protein
+mss:MSU_0035	CDS	complement(30192..31985)	cpsG; phosphoglucomutase/phosphomannomutase
+mss:MSU_0036	CDS	complement(31989..33032)	trpS; tryptophanyl-tRNA synthetase
+mss:MSU_0037	CDS	33191..34129	hypothetical protein
+mss:MSU_0038	CDS	34132..34953	hypothetical protein
+mss:MSU_0039	CDS	35029..36006	hypothetical protein
+mss:MSU_0040	CDS	36006..36956	hypothetical protein
+mss:MSU_0041	CDS	37037..37960	hypothetical protein
+mss:MSU_0042	CDS	37960..38886	hypothetical protein
+mss:MSU_0043	CDS	complement(38905..39216)	hypothetical protein
+mss:MSU_0044	CDS	complement(39265..39399)	putative membrane protein
+mss:MSU_0045	CDS	39465..39725	hypothetical protein
+mss:MSU_0046	CDS	39877..40812	hypothetical protein
+mss:MSU_0047	CDS	40868..41689	hypothetical protein
+mss:MSU_0048	CDS	41697..42653	hypothetical protein
+mss:MSU_0049	CDS	42661..43662	hypothetical protein
+mss:MSU_0050	CDS	43753..44691	hypothetical protein
+mss:MSU_0051	CDS	44691..45698	hypothetical protein
+mss:MSU_0052	CDS	45709..46539	hypothetical protein
+mss:MSU_0053	CDS	46807..47289	hypothetical protein
+mss:MSU_0054	CDS	47303..47836	hypothetical protein
+mss:MSU_0055	CDS	47839..48234	hypothetical protein
+mss:MSU_0056	CDS	48338..49096	hypothetical protein
+mss:MSU_0057	CDS	49174..50124	hypothetical protein
+mss:MSU_0058	CDS	50137..50742	hypothetical protein
+mss:MSU_0059	CDS	50860..51435	hypothetical protein
+mss:MSU_0060	CDS	51441..52031	hypothetical protein
+mss:MSU_0061	CDS	52048..52638	hypothetical protein
+mss:MSU_0062	CDS	52659..53258	hypothetical protein
+mss:MSU_0063	CDS	53268..53858	hypothetical protein
+mss:MSU_0064	CDS	54257..55399	hypothetical protein
+mss:MSU_0065	CDS	55595..57055	engD; YchF subfamily translation-associated GTPase
+mss:MSU_0066	CDS	57074..57703	tdk; thymidine kinase
+mss:MSU_0067	CDS	57709..58236	hypothetical protein
+mss:MSU_0068	CDS	58241..60085	lepA; GTP-binding protein LepA
+mss:MSU_0069	CDS	60124..60903	hypothetical protein
+mss:MSU_0070	CDS	60971..61969	putative membrane protein
+mss:MSU_0071	CDS	61986..62696	tim; triosephosphate isomerase
+mss:MSU_0072	CDS	62917..64275	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+mss:MSU_0073	CDS	64283..65029	deoD; purine-nucleoside phosphorylase
+mss:MSU_0074	CDS	65001..66287	hypothetical protein
+mss:MSU_0075	CDS	66287..67585	hypothetical protein
+mss:MSU_0076	CDS	67653..68774	hypothetical protein
+mss:MSU_0077	CDS	68918..70327	potA; Spermidine/putrescine import ATP-binding protein PotA
+mss:MSU_0078	CDS	70318..71238	potB; Spermidine/putrescine import permease PotB
+mss:MSU_0079	CDS	71242..72135	potC; Spermidine/putrescine import permease protein PotC
+mss:MSU_0080	CDS	72138..73622	potD; spermidine/putrescine import binding protein
+mss:MSU_0081	CDS	73637..74605	gcp; o-sialoglycoprotein endopeptidase
+mss:MSU_0082	CDS	74611..75768	metK; S-adenosylmethionine synthetase
+mss:MSU_0083	CDS	75746..76780	pheS; phenylalanyl-tRNA synthetase, alpha subunit
+mss:MSU_0084	CDS	76780..78168	pheT; putative phenylalanyl-tRNA synthetase, beta subunit
+mss:MSU_0085	CDS	78205..78969	phoU; phosphate transport system regulatory protein PhoU
+mss:MSU_0086	CDS	79025..79450	hypothetical protein
+mss:MSU_0087	CDS	79443..80366	ABC transporter, ATP binding protein
+mss:MSU_0088	CDS	80397..82187	ABC transporter, ATP binding protein
+mss:MSU_0089	CDS	82249..82830	hypothetical protein
+mss:MSU_0090	CDS	82853..83416	hypothetical protein
+mss:MSU_0091	CDS	83553..84080	hypothetical protein
+mss:MSU_0092	CDS	84159..84458	hypothetical protein
+mss:MSU_0093	CDS	84633..85520	hypothetical protein
+mss:MSU_0094	CDS	85565..85747	hypothetical protein
+mss:MSU_0095	CDS	85753..86448	hypothetical protein
+mss:MSU_0096	CDS	86453..87481	hypothetical protein
+mss:MSU_0097	CDS	87485..88537	hypothetical protein
+mss:MSU_0098	CDS	88541..89125	PRK11023 protein domain
+mss:MSU_0099	CDS	89129..89662	hypothetical protein
+mss:MSU_0100	CDS	89798..90547	hypothetical protein
+mss:MSU_0101	CDS	90555..91301	hypothetical protein
+mss:MSU_0102	CDS	91312..92331	hypothetical protein
+mss:MSU_0103	CDS	92336..93310	hypothetical protein
+mss:MSU_0104	CDS	93442..95886	type I site-specific deoxyribonuclease, HsdR family protein
+mss:MSU_0105	CDS	complement(95969..97972)	putative lipoprotein
+mss:MSU_0106	CDS	98175..99194	hypothetical protein
+mss:MSU_0107	CDS	99206..99793	hypothetical protein
+mss:MSU_0108	CDS	99802..100311	hypothetical protein
+mss:MSU_0109	CDS	100344..100814	hypothetical protein
+mss:MSU_0110	CDS	100831..101571	hypothetical protein
+mss:MSU_0111	CDS	101595..102071	hypothetical protein
+mss:MSU_0112	CDS	102079..102630	hypothetical protein
+mss:MSU_0113	CDS	102646..103158	hypothetical protein
+mss:MSU_0114	CDS	103162..103695	hypothetical protein
+mss:MSU_0115	CDS	103702..104223	hypothetical protein
+mss:MSU_0116	CDS	104223..104759	hypothetical protein
+mss:MSU_0117	CDS	104803..105591	hypothetical protein
+mss:MSU_0118	CDS	105598..106221	hypothetical protein
+mss:MSU_0119	CDS	106442..106930	hypothetical protein
+mss:MSU_0120	CDS	106935..107582	hypothetical protein
+mss:MSU_0121	CDS	complement(107719..107940)	hypothetical protein
+mss:MSU_0122	CDS	108035..108328	hypothetical protein
+mss:MSU_0123	CDS	108410..109045	hypothetical protein
+mss:MSU_0124	CDS	109048..109677	hypothetical protein
+mss:MSU_0125	CDS	109690..110352	hypothetical protein
+mss:MSU_0126	CDS	110371..111009	hypothetical protein
+mss:MSU_0127	CDS	111023..111691	hypothetical protein
+mss:MSU_0128	CDS	111633..111881	hypothetical protein
+mss:MSU_0129	CDS	111894..112469	hypothetical protein
+mss:MSU_0130	CDS	112487..112615	hypothetical protein
+mss:MSU_0131	CDS	112635..113156	hypothetical protein
+mss:MSU_0132	CDS	113162..114058	hypothetical protein
+mss:MSU_0133	CDS	114061..114921	hypothetical protein
+mss:MSU_0134	CDS	115080..115760	hypothetical protein
+mss:MSU_0135	CDS	115768..116649	hypothetical protein
+mss:MSU_0136	CDS	116675..117166	hypothetical protein
+mss:MSU_0137	CDS	117205..117975	hypothetical protein
+mss:MSU_0138	CDS	118042..118896	hypothetical protein
+mss:MSU_0139	CDS	118908..119396	hypothetical protein
+mss:MSU_0140	CDS	119556..119864	hypothetical protein
+mss:MSU_0141	CDS	119945..120724	hypothetical protein
+mss:MSU_0142	CDS	120756..121286	hypothetical protein
+mss:MSU_0143	CDS	121318..121869	hypothetical protein
+mss:MSU_0144	CDS	121870..122385	hypothetical protein
+mss:MSU_0145	CDS	122410..122910	hypothetical protein
+mss:MSU_0146	CDS	123016..123519	hypothetical protein
+mss:MSU_0147	CDS	123526..124047	hypothetical protein
+mss:MSU_0148	CDS	124251..124847	hypothetical protein
+mss:MSU_0149	CDS	124872..125444	hypothetical protein
+mss:MSU_0150	CDS	125470..126054	hypothetical protein
+mss:MSU_0151	CDS	126120..126653	hypothetical protein
+mss:MSU_0152	CDS	126657..127247	hypothetical protein
+mss:MSU_0153	CDS	127247..127849	hypothetical protein
+mss:MSU_0154	CDS	127900..128496	hypothetical protein
+mss:MSU_0155	CDS	128608..129201	hypothetical protein
+mss:MSU_0156	CDS	129208..129915	hypothetical protein
+mss:MSU_0157	CDS	129929..130522	hypothetical protein
+mss:MSU_0158	CDS	complement(130621..130800)	hypothetical protein
+mss:MSU_0159	CDS	130901..131143	hypothetical protein
+mss:MSU_0160	CDS	131254..131847	hypothetical protein
+mss:MSU_0161	CDS	132249..132596	hypothetical protein
+mss:MSU_0162	CDS	132621..133229	hypothetical protein
+mss:MSU_0163	CDS	133231..133788	hypothetical protein
+mss:MSU_0164	CDS	133788..134351	hypothetical protein
+mss:MSU_0165	CDS	134354..134968	hypothetical protein
+mss:MSU_0166	CDS	134970..135722	hypothetical protein
+mss:MSU_0167	CDS	135706..136224	hypothetical protein
+mss:MSU_0168	CDS	136341..136814	hypothetical protein
+mss:MSU_0169	CDS	136816..137373	hypothetical protein
+mss:MSU_0170	CDS	137460..138164	hypothetical protein
+mss:MSU_0171	CDS	138178..139011	hypothetical protein
+mss:MSU_0172	CDS	139092..139697	hypothetical protein
+mss:MSU_0173	CDS	139781..140416	hypothetical protein
+mss:MSU_0174	CDS	140423..141061	hypothetical protein
+mss:MSU_0175	CDS	141236..142165	hypothetical protein
+mss:MSU_0176	CDS	142249..143388	hypothetical protein
+mss:MSU_0177	CDS	143668..144549	hypothetical protein
+mss:MSU_0178	CDS	144869..145756	hypothetical protein
+mss:MSU_0179	CDS	145831..146844	hypothetical protein
+mss:MSU_0180	CDS	146918..147061	hypothetical protein
+mss:MSU_0181	CDS	147184..148029	hypothetical protein
+mss:MSU_0182	CDS	148239..149102	hypothetical protein
+mss:MSU_0183	CDS	149194..150264	hypothetical protein
+mss:MSU_0184	CDS	150271..151350	hypothetical protein
+mss:MSU_0185	CDS	151360..152463	hypothetical protein
+mss:MSU_0186	CDS	152777..153553	hypothetical protein
+mss:MSU_0187	CDS	153661..154743	hypothetical protein
+mss:MSU_0188	CDS	154749..155828	hypothetical protein
+mss:MSU_0189	CDS	155832..155975	hypothetical protein
+mss:MSU_0190	CDS	156073..156948	hypothetical protein
+mss:MSU_0191	CDS	157120..158061	hypothetical protein
+mss:MSU_0192	CDS	158076..158474	hypothetical protein
+mss:MSU_0193	CDS	158489..159145	hypothetical protein
+mss:MSU_0194	CDS	159229..159918	hypothetical protein
+mss:MSU_0195	CDS	159944..160567	hypothetical protein
+mss:MSU_0196	CDS	160860..161384	hypothetical protein
+mss:MSU_0197	CDS	161389..162321	hypothetical protein
+mss:MSU_0198	CDS	162338..162859	hypothetical protein
+mss:MSU_0199	CDS	162864..163679	hypothetical protein
+mss:MSU_0200	CDS	163808..164335	hypothetical protein
+mss:MSU_0201	CDS	164342..165172	hypothetical protein
+mss:MSU_0202	CDS	165191..165709	hypothetical protein
+mss:MSU_0203	CDS	165714..166463	hypothetical protein
+mss:MSU_0204	CDS	166472..167005	hypothetical protein
+mss:MSU_0205	CDS	167029..167952	hypothetical protein
+mss:MSU_0206	CDS	168139..168681	hypothetical protein
+mss:MSU_0207	CDS	168881..169483	hypothetical protein
+mss:MSU_0208	CDS	169517..170062	hypothetical protein
+mss:MSU_0209	CDS	170253..170789	hypothetical protein
+mss:MSU_0210	CDS	171064..171678	hypothetical protein
+mss:MSU_0211	CDS	171678..172214	hypothetical protein
+mss:MSU_0212	CDS	172230..172814	hypothetical protein
+mss:MSU_0213	CDS	172817..173338	hypothetical protein
+mss:MSU_0214	CDS	173355..173954	hypothetical protein
+mss:MSU_0215	CDS	173961..174512	hypothetical protein
+mss:MSU_0216	CDS	174771..175304	hypothetical protein
+mss:MSU_0217	CDS	175308..175904	hypothetical protein
+mss:MSU_0218	CDS	175904..176431	hypothetical protein
+mss:MSU_0219	CDS	176435..176956	hypothetical protein
+mss:MSU_0220	CDS	176983..177264	hypothetical protein
+mss:MSU_0221	CDS	177245..177604	hypothetical protein
+mss:MSU_0222	CDS	177892..178128	hypothetical protein
+mss:MSU_0223	CDS	178132..178653	hypothetical protein
+mss:MSU_0224	CDS	178748..179272	hypothetical protein
+mss:MSU_0225	CDS	179279..179794	hypothetical protein
+mss:MSU_0226	CDS	180021..180557	hypothetical protein
+mss:MSU_0227	CDS	180564..181097	hypothetical protein
+mss:MSU_0228	CDS	181097..181624	hypothetical protein
+mss:MSU_0229	CDS	181859..182401	hypothetical protein
+mss:MSU_0230	CDS	182401..182940	hypothetical protein
+mss:MSU_0231	CDS	183152..183469	hypothetical protein
+mss:MSU_0232	CDS	183476..184309	hypothetical protein
+mss:MSU_0233	CDS	184324..184467	hypothetical protein
+mss:MSU_0234	CDS	184500..185285	hypothetical protein
+mss:MSU_0235	CDS	185316..186194	hypothetical protein
+mss:MSU_0236	CDS	186340..187326	hypothetical protein
+mss:MSU_0237	CDS	187337..188299	hypothetical protein
+mss:MSU_0238	CDS	188524..189414	hypothetical protein
+mss:MSU_0239	CDS	189417..190325	hypothetical protein
+mss:MSU_0240	CDS	190347..191300	hypothetical protein
+mss:MSU_0241	CDS	191512..192450	hypothetical protein
+mss:MSU_0242	CDS	192454..193350	hypothetical protein
+mss:MSU_0243	CDS	193377..194168	hypothetical protein
+mss:MSU_0244	CDS	194189..195172	hypothetical protein
+mss:MSU_0245	CDS	195382..196032	hypothetical protein
+mss:MSU_0246	CDS	196034..196303	hypothetical protein
+mss:MSU_0247	CDS	196334..197254	hypothetical protein
+mss:MSU_0248	CDS	197274..198278	hypothetical protein
+mss:MSU_0249	CDS	198494..199399	hypothetical protein
+mss:MSU_0250	CDS	199419..200360	hypothetical protein
+mss:MSU_0251	CDS	200565..201410	hypothetical protein
+mss:MSU_0252	CDS	201437..202210	hypothetical protein
+mss:MSU_0253	CDS	202252..203070	hypothetical protein
+mss:MSU_0254	CDS	203082..203906	hypothetical protein
+mss:MSU_0255	CDS	203919..204746	hypothetical protein
+mss:MSU_0256	CDS	204832..205560	hypothetical protein
+mss:MSU_0257	CDS	205588..205920	hypothetical protein
+mss:MSU_0258	CDS	205929..206462	hypothetical protein
+mss:MSU_0259	CDS	206669..207022	hypothetical protein
+mss:MSU_0260	CDS	207158..207880	hypothetical protein
+mss:MSU_0261	CDS	207888..208427	hypothetical protein
+mss:MSU_0262	CDS	208427..209200	hypothetical protein
+mss:MSU_0263	CDS	209205..209804	hypothetical protein
+mss:MSU_0264	CDS	209831..210457	hypothetical protein
+mss:MSU_0265	CDS	210465..211070	hypothetical protein
+mss:MSU_0266	CDS	211095..211706	hypothetical protein
+mss:MSU_0267	CDS	211730..212356	hypothetical protein
+mss:MSU_0268	CDS	212581..213111	hypothetical protein
+mss:MSU_0269	CDS	213144..213509	hypothetical protein
+mss:MSU_0270	CDS	213546..213974	hypothetical protein
+mss:MSU_0271	CDS	214072..214416	hypothetical protein
+mss:MSU_0272	CDS	214521..214967	hypothetical protein
+mss:MSU_0273	CDS	215094..215438	hypothetical protein
+mss:MSU_0274	CDS	215521..216390	type I restriction-modification system specificity subunit
+mss:MSU_0275	CDS	216417..216680	hypothetical protein
+mss:MSU_0276	CDS	216709..217515	5'-3' exonuclease, DNA polymerase I-like protein
+mss:MSU_0277	CDS	217601..218488	type I restriction-modification system specificity subunit
+mss:MSU_0278	CDS	218524..218772	putative type I restriction-modification system specificity subunit
+mss:MSU_0279	CDS	218829..220673	type I restriction-modification system, N-6 DNA methylase family protein
+mss:MSU_0280	CDS	220675..223857	type I site-specific deoxyribonuclease, HsdR family protein
+mss:MSU_0281	tRNA	complement(223927..224002)	tRNA-Ala
+mss:MSU_0282	tRNA	complement(224006..224081)	tRNA-Ile
+mss:MSU_0283	CDS	complement(224115..224921)	phosphodiesterase
+mss:MSU_0284	CDS	complement(225285..226472)	phosphohydrolase
+mss:MSU_0285	CDS	226540..227235	rluA; tRNA pseudouridine synthase
+mss:MSU_0286	CDS	227243..227677	hypothetical protein
+mss:MSU_0287	CDS	227656..228453	HAD superfamily hydrolase Cof
+mss:MSU_0288	CDS	228524..229906	MgpA-like protein, DHH family phosphoesterase
+mss:MSU_0289	CDS	229908..230492	hypothetical protein
+mss:MSU_0290	CDS	230543..232051	glpK; Glycerol kinase
+mss:MSU_0291	CDS	232079..233263	tuf; translation elongation factor Tu
+mss:MSU_0292	CDS	233350..234651	purA; adenylosuccinate synthetase
+mss:MSU_0293	CDS	234688..234927	rpsO; 30S ribosomal protein S15
+mss:MSU_0294	CDS	234931..235191	rpmA; 50S ribosomal protein L27
+mss:MSU_0295	CDS	235198..235617	rplK; 50S ribosomal protein L11
+mss:MSU_0296	CDS	235623..236258	rplA; 50S ribosomal protein L1
+mss:MSU_0297	CDS	complement(236514..237275)	spoU rRNA Methylase family protein
+mss:MSU_0298	CDS	complement(237287..238594)	cysS; cysteinyl-tRNA synthetase
+mss:MSU_0299	CDS	238635..239606	ldh; L-lactate dehydrogenase
+mss:MSU_0300	CDS	239581..240261	hypothetical protein
+mss:MSU_0301	CDS	complement(240258..241271)	rluB; tRNA pseudouridine synthase
+mss:MSU_0302	CDS	complement(241285..243519)	pcrA; DNA helicase II
+mss:MSU_0303	CDS	243541..244683	hypothetical protein
+mss:MSU_0304	CDS	complement(244680..246017)	alaS; alanyl-tRNA synthetase
+mss:MSU_0305	CDS	complement(246057..247166)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+mss:MSU_0306	CDS	247185..248957	ligA; DNA ligase
+mss:MSU_0307	CDS	complement(249007..250089)	conserved hypothetical protein
+mss:MSU_0308	CDS	250693..252012	asnS; asparaginyl-tRNA synthetase
+mss:MSU_0309	CDS	complement(252037..254025)	nrdA; ribonucleoside-diphosphate reductase, alpha subunit
+mss:MSU_0310	CDS	complement(254192..254557)	ribonucleotide reductase stimulatory protein
+mss:MSU_0311	CDS	254696..255688	nrdF; ribonucleoside-diphosphate reductase, beta subunit
+mss:MSU_0312	CDS	complement(255751..256440)	putative membrane protein
+mss:MSU_0313	CDS	complement(256846..257034)	rpmF; 50S ribosomal protein L32
+mss:MSU_0314	CDS	complement(257043..259484)	Conserved hypothetical protein
+mss:MSU_0315	CDS	259652..260002	hypothetical protein
+mss:MSU_0316	CDS	260002..260634	hypothetical protein
+mss:MSU_0317	CDS	260669..261028	hypothetical protein
+mss:MSU_0318	CDS	261031..261735	hypothetical protein
+mss:MSU_0319	CDS	261810..262163	hypothetical protein
+mss:MSU_0320	CDS	262163..262837	hypothetical protein
+mss:MSU_0321	CDS	262848..263210	hypothetical protein
+mss:MSU_0322	CDS	263210..263905	hypothetical protein
+mss:MSU_0323	CDS	complement(264157..264741)	pth; peptidyl-tRNA hydrolase
+mss:MSU_0324	CDS	264797..265504	hypothetical protein
+mss:MSU_0325	CDS	265517..265885	hypothetical protein
+mss:MSU_0326	CDS	265918..266490	hypothetical protein
+mss:MSU_0327	CDS	266495..266848	hypothetical protein
+mss:MSU_0328	CDS	266892..267488	hypothetical protein
+mss:MSU_0329	CDS	267494..267847	hypothetical protein
+mss:MSU_0330	CDS	267873..268493	hypothetical protein
+mss:MSU_0331	CDS	268501..268851	hypothetical protein
+mss:MSU_0332	CDS	268873..269451	hypothetical protein
+mss:MSU_0333	CDS	269465..269842	hypothetical protein
+mss:MSU_0334	CDS	269923..270525	hypothetical protein
+mss:MSU_0335	CDS	270642..271178	hypothetical protein
+mss:MSU_0336	CDS	271240..271821	hypothetical protein
+mss:MSU_0337	CDS	271842..272438	hypothetical protein
+mss:MSU_0338	CDS	272526..272975	hypothetical protein
+mss:MSU_0339	CDS	273069..273689	hypothetical protein
+mss:MSU_0340	CDS	273768..274421	hypothetical protein
+mss:MSU_0341	CDS	complement(274469..275248)	polA2; 5'-3' exonuclease, DNA polymerase I like protein
+mss:MSU_0342	CDS	complement(275309..277789)	dnaE; DNA polymerase III, alpha subunit
+mss:MSU_0343	CDS	complement(277832..279277)	lysS; lysyl-tRNA synthetase
+mss:MSU_0344	CDS	279332..283051	Conserved hypothetical protein
+mss:MSU_0345	CDS	283061..286570	hypothetical protein
+mss:MSU_0346	CDS	complement(286616..287248)	type 1 glutamine amidotransferase-domain protein
+mss:MSU_0347	gene	287571..288615	pncB2; pseudogene
+mss:MSU_0349	CDS	complement(288622..289605)	membrane-bound, CAAX amino terminal protease
+mss:MSU_0350	CDS	289814..291397	major facilitator superfamily transporter
+mss:MSU_0351	CDS	complement(291372..291971)	nadD; putative nicotinate-nucleotide adenylyltransferase
+mss:MSU_0352	CDS	complement(291978..293495)	hypothetical protein
+mss:MSU_0353	CDS	293680..294468	rpsB; 30S ribosomal protein S2
+mss:MSU_0354	CDS	294474..294911	nusB; transcription antitermination factor NusB
+mss:MSU_0355	CDS	294986..295447	Conserved hypothetical protein
+mss:MSU_0356	CDS	295461..296726	nusA; transcription termination factor NusA
+mss:MSU_0357	CDS	296788..298512	infB; translation initiation factor IF-2
+mss:MSU_0358	CDS	298517..298861	rbfA; ribosome-binding factor A
+mss:MSU_0359	CDS	298875..299153	hypothetical protein
+mss:MSU_0360	CDS	299192..299749	hypothetical protein
+mss:MSU_0361	CDS	299768..300940	obgE; GTPase ObgE
+mss:MSU_0362	CDS	300960..302546	pyrG; CTP synthase
+mss:MSU_0363	CDS	302611..303888	hisS; histidyl-tRNA synthetase
+mss:MSU_0364	CDS	303899..305530	aspS; aspartyl-tRNA synthetase
+mss:MSU_0365	CDS	305531..307762	leuS; leucyl-tRNA synthetase
+mss:MSU_0366	CDS	307766..308629	conserved hypothetical protein
+mss:MSU_0367	CDS	308636..309784	MgPa-like protein, DHH family phosphoesterase
+mss:MSU_0368	tRNA	309821..309913	tRNA-Ser
+mss:MSU_0369	tRNA	309942..310017	tRNA-Sec
+mss:MSU_0370	CDS	310149..311315	sodium/calcium exchanger family protein
+mss:MSU_0371	CDS	complement(311289..314027)	ileS; isoleucyl-tRNA synthetase
+mss:MSU_0372	CDS	314143..314736	gmk; guanylate kinase
+mss:MSU_0373	CDS	314746..315633	haloacid dehalogenase-like hydrolase family protein
+mss:MSU_0374	CDS	315651..316130	NADPH-dependent FMN reductase
+mss:MSU_0375	CDS	316123..317253	ABC transporter, fecCD family
+mss:MSU_0376	CDS	317259..318299	ABC transporter, fecCD family
+mss:MSU_0377	CDS	318328..319164	fecBCDE-related protein, iron (III) ABC transporter
+mss:MSU_0378	CDS	319197..319916	iron(III) dicitrate ABC transporter, ATP-binding protein
+mss:MSU_0379	CDS	320035..321138	iron(III) dicitrate ABC transporter, ATP-binding protein
+mss:MSU_0380	CDS	321170..322366	hypothetical protein
+mss:MSU_0381	CDS	322359..322997	hypothetical protein
+mss:MSU_0382	CDS	323087..323518	hypothetical protein
+mss:MSU_0383	CDS	complement(323642..323824)	putative elongation factor Ts
+mss:MSU_0384	CDS	complement(323836..324516)	translation elongation factor Ts
+mss:MSU_0385	CDS	complement(324552..324863)	infC; translation initiation factor IF-3
+mss:MSU_0386	tRNA	325234..325321	tRNA-Leu
+mss:MSU_0387	CDS	complement(325353..325856)	DNA-directed RNA polymerase subunit delta
+mss:MSU_0388	CDS	complement(325885..326154)	hypothetical protein
+mss:MSU_0389	CDS	complement(326160..327062)	HD domain protein
+mss:MSU_0390	CDS	complement(327252..328703)	gltX; glutamyl-tRNA synthetase
+mss:MSU_0391	CDS	328897..329379	type I restriction-modification system specificity subunit
+mss:MSU_0392	CDS	329388..329882	putative type I restriction-modification system specificity subunit
+mss:MSU_0393	CDS	329821..330084	putative type I restriction-modification system specificity subunit
+mss:MSU_0394	CDS	330187..330783	hypothetical protein
+mss:MSU_0395	CDS	330876..331559	type I restriction-modification system specificity subunit
+mss:MSU_0396	CDS	331480..332052	type I restriction-modification system specificity subunit
+mss:MSU_0397	CDS	complement(332100..333080)	hpaIIM; cytosine-specific DNA modification methylase, HpaII-like protein
+mss:MSU_0398	CDS	333361..334281	cobalt transporter ATP-binding protein CbiO
+mss:MSU_0399	CDS	334259..335527	cbiQ; cobalt ABC transporter permease protein, CbiQ
+mss:MSU_0400	CDS	335557..335835	hypothetical protein
+mss:MSU_0401	CDS	335839..336723	Cobalt transporter ATP-binding protein CbiO
+mss:MSU_0402	CDS	336781..337257	hypothetical protein
+mss:MSU_0403	CDS	337336..340659	Conserved hypothetical protein
+mss:MSU_0404	CDS	340666..340869	rpmB; 50S ribosomal protein L28
+mss:MSU_0405	CDS	340872..341480	rpsD; 30S ribosomal protein S4
+mss:MSU_0406	CDS	341631..342221	SAM-dependent methyltransferase family protein
+mss:MSU_0407	CDS	342299..346615	polC; DNA polymerase III, PolC
+mss:MSU_0408	CDS	complement(346625..347170)	recU; Holliday junction-specific endonuclease
+mss:MSU_0409	CDS	complement(347231..348145)	mraW; s-adenosyl-methyltransferase MraW
+mss:MSU_0410	CDS	complement(348189..348647)	mraZ; cell division protein MraZ
+mss:MSU_0411	CDS	complement(348651..348998)	rplU; 50S ribosomal protein L21
+mss:MSU_0412	CDS	complement(349009..349854)	aldo/keto reductase family protein
+mss:MSU_0413	CDS	complement(349860..350297)	rpsI; 30S ribosomal protein S9
+mss:MSU_0414	CDS	350675..353119	lon; ATP-dependent protease La
+mss:MSU_0415	CDS	353591..354085	rplJ; 50S ribosomal protein L10
+mss:MSU_0416	CDS	354090..354494	rplL; 50S ribosomal protein L7/L12
+mss:MSU_0417	tRNA	complement(354589..354662)	tRNA-Thr
+mss:MSU_0418	CDS	354750..355061	rpsJ; 30S ribosomal protein S10
+mss:MSU_0419	CDS	355066..355758	rplC; 50S ribosomal protein L3
+mss:MSU_0420	CDS	355762..356433	rplD; 50S ribosomal protein L4
+mss:MSU_0421	CDS	356424..356930	rplW; 50S ribosomal protein L23
+mss:MSU_0422	CDS	356944..357330	hypothetical protein
+mss:MSU_0423	CDS	357333..358181	rplB; 50S ribosomal protein L2
+mss:MSU_0424	CDS	358190..358471	rpsS; 30S ribosomal protein S19
+mss:MSU_0425	CDS	358474..358899	rplV; 50S ribosomal protein L22/unknown domain fusion protein
+mss:MSU_0426	CDS	358906..359631	rpsC; 30S ribosomal protein S3
+mss:MSU_0427	CDS	359650..360072	rplP; 50S ribosomal protein L16
+mss:MSU_0428	CDS	360083..360352	rpmC; 50S ribosomal protein L29
+mss:MSU_0429	CDS	complement(360628..360975)	rplN; 50S ribosomal protein L14
+mss:MSU_0430	CDS	361009..361299	rplX; 50S ribosomal protein L24
+mss:MSU_0431	CDS	361302..361877	rplE; 50S ribosomal protein L5
+mss:MSU_0432	CDS	361894..362079	rpsN; 30S ribosomal protein S14
+mss:MSU_0433	CDS	362073..362465	rpsH; 30S ribosomal protein S8
+mss:MSU_0434	CDS	362472..363026	rplF; 50S ribosomal protein L6
+mss:MSU_0435	CDS	363037..363393	rplR; 50S ribosomal protein L18
+mss:MSU_0436	CDS	363399..364085	rpsE; 30S ribosomal protein S5
+mss:MSU_0437	CDS	364089..364559	rplO; 50S ribosomal protein L15
+mss:MSU_0438	CDS	364651..366075	secY; preprotein translocase subunit SecY
+mss:MSU_0439	CDS	366069..366773	adk; adenylate kinase
+mss:MSU_0440	CDS	366901..367170	hypothetical protein
+mss:MSU_0441	CDS	367183..367608	hypothetical protein
+mss:MSU_0442	CDS	367618..368496	map; methionine aminopeptidase
+mss:MSU_0443	CDS	368500..368727	infA; translation initiation factor IF-1
+mss:MSU_0444	CDS	368795..369127	hypothetical protein
+mss:MSU_0445	CDS	369151..369531	hypothetical protein
+mss:MSU_0446	CDS	369548..369661	rpmJ; 50S ribosomal protein L36
+mss:MSU_0447	CDS	369666..370154	rpsM; 30S ribosomal protein S13
+mss:MSU_0448	CDS	370180..370569	rpsK; 30S ribosomal protein S11
+mss:MSU_0449	CDS	370576..371598	rpoA; DNA-directed RNA polymerase, alpha subunit
+mss:MSU_0450	CDS	complement(371875..372582)	trmD; tRNA (guanine-N(1)-)-methyltransferase
+mss:MSU_0451	CDS	372649..373125	greA; transcription elongation factor GreA
+mss:MSU_0452	CDS	373272..373913	hypothetical protein
+mss:MSU_0453	CDS	373917..374159	rpsP; 30S ribosomal protein S16
+mss:MSU_0454	CDS	374175..374639	hypothetical protein
+mss:MSU_0455	CDS	374654..375049	rplS; 50S ribosomal protein L19
+mss:MSU_0456	CDS	375054..375224	rpsU; 30S ribosomal protein S21
+mss:MSU_0457	CDS	375267..375527	phosphocarrier protein HPr
+mss:MSU_0458	CDS	complement(376060..376398)	rplQ; 50S ribosomal protein L17
+mss:MSU_0459	CDS	complement(376431..377942)	amino acid permease
+mss:MSU_0460	CDS	complement(377977..378843)	pstB; phosphate ABC transporter, ATP-binding protein PstB
+mss:MSU_0461	CDS	complement(378876..380087)	pstA; phosphate ABC transporter, permease PstA
+mss:MSU_0462	CDS	complement(380222..380821)	pstS; putative phosphate ABC transporter, permease PstS
+mss:MSU_0463	CDS	complement(380902..382218)	putative membrane protein
+mss:MSU_0464	CDS	complement(382243..383871)	mgtE; Mg2+ transport protein
+mss:MSU_0465	CDS	complement(383957..384589)	DisA protein domain
+mss:MSU_0466	CDS	complement(384574..385131)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+mss:MSU_0467	CDS	complement(385166..385543)	hypothetical protein
+mss:MSU_0468	CDS	complement(385837..386169)	HIT protein
+mss:MSU_0469	CDS	386190..386432	hypothetical protein
+mss:MSU_0470	CDS	386731..387078	rpsL; 30S ribosomal protein S12
+mss:MSU_0471	CDS	387089..387559	rpS7; 30S ribosomal protein S7
+mss:MSU_0472	CDS	387572..389674	fusA; translation elongation factor G
+mss:MSU_0473	CDS	389708..390844	dnaJ; chaperone protein dnaJ
+mss:MSU_0474	CDS	390856..391605	grpE; co-chaperone GrpE
+mss:MSU_0475	CDS	391607..392476	fba; fructose-1,6-bisphosphate aldolase, class II
+mss:MSU_0476	CDS	complement(392538..393209)	ktrA; potassium uptake protein KTRA
+mss:MSU_0477	CDS	393447..394922	ktrB; potassium uptake protein KTRB
+mss:MSU_0478	CDS	395011..396102	guaB; inosine-5'-monophosphate dehydrogenase
+mss:MSU_0479	CDS	complement(396185..397801)	guaA; GMP synthase
+mss:MSU_0480	CDS	complement(397829..398761)	trxB; thioredoxin reductase
+mss:MSU_0481	tRNA	complement(398818..398893)	tRNA-Ile
+mss:MSU_0482	CDS	399110..400702	rpoD; RNA polymerase sigma factor rpoD
+mss:MSU_0483	CDS	400827..402677	metallo-beta-lactamase superfamily protein
+mss:MSU_0484	CDS	complement(402992..404809)	P97-like protein
+mss:MSU_0485	CDS	complement(404844..406589)	ptsI; phosphoenolpyruvate-dependent sugar phosphotransferase system, EI component
+mss:MSU_0486	CDS	complement(406609..408210)	gatB; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+mss:MSU_0487	CDS	complement(408218..409717)	gatA; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, subunit A
+mss:MSU_0488	CDS	complement(409893..410156)	hypothetical protein
+mss:MSU_0489	CDS	complement(410185..410493)	DNA-binding protein
+mss:MSU_0490	CDS	complement(410504..410803)	DNA-binding protein
+mss:MSU_0491	CDS	complement(410838..412208)	engA; GTP-binding protein engA
+mss:MSU_0492	CDS	complement(412268..413107)	licA; choline kinase
+mss:MSU_0493	CDS	complement(413111..413440)	atpC; ATP synthase F1, epsilon subunit
+mss:MSU_0494	CDS	complement(413481..414257)	hydrolase, TatD family
+mss:MSU_0495	CDS	414383..415129	rbgA; ribosome biogenesis GTP-binding protein YlqF
+mss:MSU_0496	CDS	415185..415925	Conserved hypothetical protein
+mss:MSU_0497	CDS	415939..416274	hypothetical protein
+mss:MSU_0498	CDS	416303..417187	Conserved hypothetical protein
+mss:MSU_0499	CDS	417200..418273	hypothetical protein
+mss:MSU_0500	CDS	418309..419349	conserved hypothetical protein
+mss:MSU_0501	CDS	complement(419359..420462)	putative membrane protein
+mss:MSU_0502	CDS	complement(420524..421111)	frr; ribosome recycling factor
+mss:MSU_0503	CDS	complement(421118..421825)	pyrH; Uridylate kinase
+mss:MSU_0504	CDS	complement(421829..422608)	hypothetical protein
+mss:MSU_0505	CDS	complement(422611..424041)	atpD; ATP synthase F1, beta subunit
+mss:MSU_0506	tRNA	424279..424354	tRNA-His
+mss:MSU_0507	CDS	424430..425101	protein domain associated with RNAses G and E
+mss:MSU_0508	CDS	complement(425137..426018)	atpG; ATP synthase F1, gamma subunit
+mss:MSU_0509	CDS	complement(426040..427593)	atpA; ATP synthase F1, alpha subunit
+mss:MSU_0510	CDS	complement(427608..428195)	atpH; ATP synthase F1, delta subunit
+mss:MSU_0511	CDS	complement(428207..428779)	atpF; ATP synthase F0, B subunit
+mss:MSU_0512	CDS	complement(428831..429103)	atpE; ATP synthase F0, C subunit
+mss:MSU_0513	CDS	complement(429137..429922)	atpB; ATP synthase F0, A subunit
+mss:MSU_0514	CDS	complement(429942..430451)	hypothetical protein
+mss:MSU_0515	CDS	complement(430461..431000)	Conserved hypothetical protein
+mss:MSU_0516	CDS	complement(431100..432308)	Conserved hypothetical protein
+mss:MSU_0517	CDS	complement(432373..433254)	Conserved hypothetical protein
+mss:MSU_0518	CDS	complement(433258..434364)	comEC/Rec2-related domain protein
+mss:MSU_0519	CDS	complement(434374..434871)	hypothetical protein
+mss:MSU_0520	CDS	complement(434908..437409)	valS; valyl-tRNA synthetase
+mss:MSU_0521	CDS	complement(437427..437678)	uncharacterized protein domain family (UPF0154)
+mss:MSU_0522	CDS	complement(437970..439052)	hypothetical protein
+mss:MSU_0523	CDS	complement(439145..440296)	hypothetical protein
+mss:MSU_0524	CDS	complement(440403..441557)	hypothetical protein
+mss:MSU_0525	CDS	complement(441608..442783)	hypothetical protein
+mss:MSU_0526	CDS	complement(442866..443924)	hypothetical protein
+mss:MSU_0527	CDS	complement(444019..444861)	hypothetical protein
+mss:MSU_0528	CDS	complement(444824..445075)	hypothetical protein
+mss:MSU_0529	CDS	complement(445124..446164)	hypothetical protein
+mss:MSU_0530	CDS	complement(446387..447679)	hypothetical protein
+mss:MSU_0531	CDS	complement(447743..448930)	hypothetical protein
+mss:MSU_0532	CDS	complement(448986..450164)	hypothetical protein
+mss:MSU_0533	CDS	complement(450200..451516)	hypothetical protein
+mss:MSU_0534	tRNA	complement(451687..451761)	tRNA-Trp
+mss:MSU_0535	CDS	451884..453554	argS; arginyl-tRNA synthetase
+mss:MSU_0536	CDS	453688..454266	rnhC; ribonuclease HII
+mss:MSU_0537	CDS	454303..454890	hypothetical protein
+mss:MSU_0538	CDS	454949..455377	rplM; 50S ribosomal protein L13
+mss:MSU_0539	CDS	complement(455463..457025)	conserved hypothetical protein
+mss:MSU_0540	CDS	complement(457036..457671)	hypothetical protein
+mss:MSU_0541	CDS	complement(457696..458310)	hypothetical protein
+mss:MSU_0542	CDS	458467..459051	hypothetical protein
+mss:MSU_0543	CDS	complement(459148..460290)	hypothetical protein
+mss:MSU_0544	CDS	complement(460758..462263)	hypothetical protein
+mss:MSU_0545	CDS	complement(462379..462777)	hypothetical protein
+mss:MSU_0546	CDS	complement(462744..463877)	hypothetical protein
+mss:MSU_0547	CDS	complement(463889..465025)	hypothetical protein
+mss:MSU_0548	CDS	complement(464976..465401)	hypothetical protein
+mss:MSU_0549	CDS	complement(465415..466917)	hypothetical protein
+mss:MSU_0550	CDS	complement(466930..468381)	hypothetical protein
+mss:MSU_0551	CDS	complement(468511..469719)	hypothetical protein
+mss:MSU_0552	CDS	complement(469955..470260)	hypothetical protein
+mss:MSU_0553	CDS	complement(470220..471200)	hypothetical protein
+mss:MSU_0554	CDS	complement(471438..472799)	hypothetical protein
+mss:MSU_0555	CDS	complement(473180..473419)	hypothetical protein
+mss:MSU_0556	CDS	complement(473468..473644)	hypothetical protein
+mss:MSU_0557	CDS	473847..474383	valS2; valyl-tRNA synthetase domain protein
+mss:MSU_0558	CDS	complement(474527..474706)	hypothetical protein
+mss:MSU_0559	CDS	474719..475051	hypothetical protein
+mss:MSU_0560	CDS	475159..475761	hypothetical protein
+mss:MSU_0561	CDS	complement(475837..476016)	hypothetical protein
+mss:MSU_0562	CDS	complement(476029..476244)	hypothetical protein
+mss:MSU_0563	CDS	complement(476346..476771)	hypothetical protein
+mss:MSU_0564	CDS	complement(476825..477145)	hypothetical protein
+mss:MSU_0565	CDS	complement(477192..478613)	hypothetical protein
+mss:MSU_0566	CDS	complement(479402..479956)	hypothetical protein
+mss:MSU_0567	CDS	complement(480173..481129)	hypothetical protein
+mss:MSU_0568	CDS	complement(481312..482406)	hypothetical protein
+mss:MSU_0569	CDS	complement(482606..483130)	hypothetical protein
+mss:MSU_0570	CDS	complement(483212..483700)	hypothetical protein
+mss:MSU_0571	CDS	483891..484244	hypothetical protein
+mss:MSU_0572	rRNA	complement(484421..485919)	16S ribosomal RNA
+mss:MSU_0573	CDS	complement(486122..486619)	hypothetical protein
+mss:MSU_0574	CDS	complement(486777..487559)	hypothetical protein
+mss:MSU_0575	CDS	complement(487710..488186)	hypothetical protein
+mss:MSU_0576	CDS	complement(488397..488972)	hypothetical protein
+mss:MSU_0577	CDS	complement(489036..489734)	hypothetical protein
+mss:MSU_0578	CDS	complement(489958..490059)	hypothetical protein
+mss:MSU_0579	CDS	complement(490211..491242)	hypothetical protein
+mss:MSU_0580	CDS	complement(491349..492020)	hypothetical protein
+mss:MSU_0581	CDS	492067..492363	hypothetical protein
+mss:MSU_0582	CDS	492831..493034	hypothetical protein
+mss:MSU_0583	CDS	complement(493246..493680)	hypothetical protein
+mss:MSU_0584	CDS	complement(493817..494119)	hypothetical protein
+mss:MSU_0585	CDS	complement(494161..494547)	hypothetical protein
+mss:MSU_0586	CDS	complement(494579..495700)	hypothetical protein
+mss:MSU_0587	CDS	complement(495936..496226)	hypothetical protein
+mss:MSU_0588	CDS	complement(496526..496792)	hypothetical protein
+mss:MSU_0589	CDS	complement(496865..497008)	hypothetical protein
+mss:MSU_0590	CDS	complement(497278..497493)	hypothetical protein
+mss:MSU_0591	CDS	complement(497657..497857)	hypothetical protein
+mss:MSU_0592	CDS	complement(497868..497990)	hypothetical protein
+mss:MSU_0593	CDS	complement(498171..498377)	hypothetical protein
+mss:MSU_0594	CDS	complement(498656..498832)	hypothetical protein
+mss:MSU_0595	CDS	complement(499042..499218)	hypothetical protein
+mss:MSU_0596	CDS	complement(499330..499557)	hypothetical protein
+mss:MSU_0597	CDS	complement(499572..499844)	hypothetical protein
+mss:MSU_0598	CDS	complement(499943..500296)	hypothetical protein
+mss:MSU_0599	CDS	complement(500310..500558)	hypothetical protein
+mss:MSU_0600	CDS	complement(500618..501079)	hypothetical protein
+mss:MSU_0601	CDS	complement(501091..501501)	hypothetical protein
+mss:MSU_0602	CDS	complement(501765..502163)	hypothetical protein
+mss:MSU_0603	CDS	complement(502180..502530)	hypothetical protein
+mss:MSU_0604	CDS	complement(502540..502962)	hypothetical protein
+mss:MSU_0605	CDS	complement(503051..503296)	hypothetical protein
+mss:MSU_0606	CDS	complement(503872..504066)	hypothetical protein
+mss:MSU_0607	CDS	504123..504383	hypothetical protein
+mss:MSU_0608	CDS	complement(504645..504926)	hypothetical protein
+mss:MSU_0609	CDS	complement(505004..505741)	hypothetical protein
+mss:MSU_0610	CDS	complement(506054..506635)	hypothetical protein
+mss:MSU_0611	CDS	complement(506639..507079)	hypothetical protein
+mss:MSU_0612	CDS	complement(507139..507708)	hypothetical protein
+mss:MSU_0613	CDS	complement(507890..508336)	hypothetical protein
+mss:MSU_0614	CDS	complement(508451..509539)	hypothetical protein
+mss:MSU_0615	CDS	complement(510281..511366)	hypothetical protein
+mss:MSU_0616	CDS	complement(511393..511815)	hypothetical protein
+mss:MSU_0617	CDS	complement(511925..512425)	hypothetical protein
+mss:MSU_0618	CDS	complement(512436..512930)	hypothetical protein
+mss:MSU_0619	CDS	complement(512957..513481)	hypothetical protein
+mss:MSU_0620	CDS	complement(513491..514018)	hypothetical protein
+mss:MSU_0621	CDS	complement(514034..514528)	hypothetical protein
+mss:MSU_0622	CDS	complement(514616..515074)	hypothetical protein
+mss:MSU_0623	CDS	complement(515111..515608)	hypothetical protein
+mss:MSU_0624	CDS	complement(515623..516174)	hypothetical protein
+mss:MSU_0625	CDS	complement(516271..516723)	hypothetical protein
+mss:MSU_0626	CDS	516855..516956	hypothetical protein
+mss:MSU_0627	CDS	complement(516972..517295)	hypothetical protein
+mss:MSU_0628	CDS	complement(517376..517783)	hypothetical protein
+mss:MSU_0629	CDS	complement(518033..518467)	hypothetical protein
+mss:MSU_0630	CDS	complement(518485..519156)	hypothetical protein
+mss:MSU_0631	CDS	complement(519344..519808)	putative type I restriction-modification system specificity subunit
+mss:MSU_0632	gene	complement(519859..520533)	pseudogene
+mss:MSU_0633	CDS	complement(520724..521539)	hypothetical protein
+mss:MSU_0634	CDS	complement(521765..522862)	hypothetical protein
+mss:MSU_0635	CDS	complement(523027..523293)	hypothetical protein
+mss:MSU_0636	CDS	complement(523406..524032)	hypothetical protein
+mss:MSU_0637	CDS	complement(524114..525106)	hypothetical protein
+mss:MSU_0638	CDS	complement(525186..525530)	hypothetical protein
+mss:MSU_0639	CDS	complement(525581..526162)	hypothetical protein
+mss:MSU_0640	CDS	complement(526311..526802)	hypothetical protein
+mss:MSU_0641	CDS	complement(526842..527393)	hypothetical protein
+mss:MSU_0642	CDS	complement(527462..527902)	hypothetical protein
+mss:MSU_0643	CDS	complement(527865..528449)	hypothetical protein
+mss:MSU_0644	CDS	complement(528513..528821)	hypothetical protein
+mss:MSU_0645	CDS	complement(528910..529524)	hypothetical protein
+mss:MSU_0646	CDS	complement(529591..529950)	hypothetical protein
+mss:MSU_0647	CDS	complement(529977..530591)	hypothetical protein
+mss:MSU_0648	CDS	complement(530651..531670)	hypothetical protein
+mss:MSU_0649	CDS	complement(531727..532146)	hypothetical protein
+mss:MSU_0650	CDS	complement(532247..532762)	hypothetical protein
+mss:MSU_0651	CDS	complement(532824..533222)	hypothetical protein
+mss:MSU_0652	CDS	complement(533228..533830)	hypothetical protein
+mss:MSU_0653	CDS	534110..534736	hypothetical protein
+mss:MSU_0654	CDS	complement(534799..535272)	hypothetical protein
+mss:MSU_0655	CDS	complement(535328..535465)	hypothetical protein
+mss:MSU_0656	CDS	complement(535552..536022)	hypothetical protein
+mss:MSU_0657	CDS	complement(536042..536590)	hypothetical protein
+mss:MSU_0658	CDS	complement(536780..537313)	hypothetical protein
+mss:MSU_0659	CDS	complement(537397..537792)	hypothetical protein
+mss:MSU_0660	CDS	complement(537851..538057)	hypothetical protein
+mss:MSU_0661	CDS	complement(538111..538653)	hypothetical protein
+mss:MSU_0662	CDS	complement(538690..539220)	hypothetical protein
+mss:MSU_0663	CDS	complement(539235..539684)	hypothetical protein
+mss:MSU_0664	CDS	complement(539830..540396)	hypothetical protein
+mss:MSU_0665	CDS	complement(540402..540983)	hypothetical protein
+mss:MSU_0666	CDS	complement(541098..541613)	hypothetical protein
+mss:MSU_0667	CDS	complement(541718..542254)	hypothetical protein
+mss:MSU_0668	CDS	complement(542304..542828)	hypothetical protein
+mss:MSU_0669	CDS	complement(542843..543064)	hypothetical protein
+mss:MSU_0670	CDS	complement(543019..543333)	hypothetical protein
+mss:MSU_0671	CDS	complement(543337..543852)	hypothetical protein
+mss:MSU_0672	CDS	complement(543856..544221)	hypothetical protein
+mss:MSU_0673	CDS	complement(544416..544955)	hypothetical protein
+mss:MSU_0674	CDS	complement(544963..545598)	hypothetical protein
+mss:MSU_0675	CDS	complement(545755..546132)	hypothetical protein
+mss:MSU_0676	CDS	complement(546280..546840)	hypothetical protein
+mss:MSU_0677	CDS	complement(547017..547568)	hypothetical protein
+mss:MSU_0678	CDS	complement(547583..548176)	hypothetical protein
+mss:MSU_0679	CDS	complement(548257..548718)	hypothetical protein
+mss:MSU_0680	CDS	complement(548633..549088)	hypothetical protein
+mss:MSU_0681	CDS	549336..549515	hypothetical protein
+mss:MSU_0682	CDS	complement(549512..549778)	hypothetical protein
+mss:MSU_0683	CDS	complement(549844..550974)	hypothetical protein
+mss:MSU_0684	CDS	complement(551466..551756)	atpE2; ATP synthase F0, C subunit
+mss:MSU_0685	CDS	complement(551848..552198)	hypothetical protein
+mss:MSU_0686	CDS	552341..553636	hypothetical protein
+mss:MSU_0687	CDS	553714..554925	hypothetical protein
+mss:MSU_0688	CDS	555077..555298	hypothetical protein
+mss:MSU_0689	CDS	555306..556217	hypothetical protein
+mss:MSU_0690	CDS	556239..557528	hypothetical protein
+mss:MSU_0691	CDS	complement(558199..559422)	hypothetical protein
+mss:MSU_0692	CDS	complement(559496..560770)	hypothetical protein
+mss:MSU_0693	CDS	complement(560882..562072)	hypothetical protein
+mss:MSU_0694	CDS	complement(562136..563326)	hypothetical protein
+mss:MSU_0695	CDS	complement(563373..563957)	hypothetical protein
+mss:MSU_0696	CDS	complement(563969..564634)	hypothetical protein
+mss:MSU_0697	CDS	complement(564703..565302)	hypothetical protein
+mss:MSU_0698	CDS	complement(565290..565664)	hypothetical protein
+mss:MSU_0699	CDS	complement(565773..566045)	hypothetical protein
+mss:MSU_0700	CDS	complement(566065..573996)	rpoC; DNA-directed RNA polymerase, beta' subunit
+mss:MSU_0701	CDS	complement(574007..575620)	pyk; pyruvate kinase
+mss:MSU_0702	CDS	complement(575623..576606)	pfk; 6-phosphofructokinase
+mss:MSU_0703	CDS	complement(576699..578321)	eno; enolase
+mss:MSU_0704	CDS	complement(578356..578979)	hypothetical protein
+mss:MSU_0705	CDS	complement(578999..580897)	Conserved hypothetical protein
+mss:MSU_0706	CDS	complement(580890..581423)	ribonuclease R
+mss:MSU_0707	CDS	complement(581526..583358)	dnaK; chaperone protein DnaK
+mss:MSU_0708	CDS	583484..585532	purB; adenylosuccinate lyase
+mss:MSU_0709	CDS	585552..585983	hypothetical protein
+mss:MSU_0710	CDS	585986..586804	hypothetical protein
+mss:MSU_0711	CDS	586777..586938	hypothetical protein
+mss:MSU_0712	CDS	586953..587381	hypothetical protein
+mss:MSU_0713	CDS	587386..588345	hypothetical protein
+mss:MSU_0714	CDS	588480..589979	hypothetical protein
+mss:MSU_0715	CDS	complement(589986..596765)	ABC transporter, permease protein
+mss:MSU_0716	CDS	complement(597044..597877)	putative membrane protein
+mss:MSU_0717	tRNA	complement(597915..597988)	tRNA-Gly
+mss:MSU_0718	tRNA	complement(598017..598103)	tRNA-Leu
+mss:MSU_0719	tRNA	complement(598176..598250)	tRNA-Lys
+mss:MSU_0720	tRNA	complement(598289..598363)	tRNA-Lys
+mss:MSU_0721	tRNA	complement(598365..598439)	tRNA-Gln
+mss:MSU_0722	tRNA	complement(598449..598536)	tRNA-Tyr
+mss:MSU_0723	CDS	complement(598583..599290)	hypothetical protein
+mss:MSU_0724	CDS	complement(599268..599816)	efp; translation elongation factor P
+mss:MSU_0725	CDS	complement(599820..600095)	hypothetical protein
+mss:MSU_0726	CDS	complement(600390..600737)	rplT; 50S ribosomal protein L20
+mss:MSU_0727	CDS	600789..601040	hypothetical protein
+mss:MSU_0728	CDS	601104..602456	putative membrane protein
+mss:MSU_0729	CDS	complement(602371..603000)	RNA polymerase factor sigma-70
+mss:MSU_0730	CDS	complement(603065..605452)	secA; protein translocase subunit secA
+mss:MSU_0731	CDS	complement(605521..605757)	hypothetical protein
+mss:MSU_0732	CDS	complement(606092..606880)	hypothetical protein
+mss:MSU_0733	CDS	complement(607031..607540)	hypothetical protein
+mss:MSU_0734	CDS	complement(607858..608292)	hypothetical protein
+mss:MSU_0735	CDS	complement(608638..609372)	hypothetical protein
+mss:MSU_0736	CDS	complement(609447..610253)	hypothetical protein
+mss:MSU_0737	CDS	complement(610336..611067)	hypothetical protein
+mss:MSU_0738	CDS	complement(611154..611444)	hypothetical protein
+mss:MSU_0739	CDS	complement(611461..611781)	hypothetical protein
+mss:MSU_0740	CDS	complement(611802..612089)	hypothetical protein
+mss:MSU_0741	CDS	complement(612130..612846)	hypothetical protein
+mss:MSU_0742	CDS	complement(612933..613727)	hypothetical protein
+mss:MSU_0743	CDS	complement(613814..614590)	hypothetical protein
+mss:MSU_0744	CDS	complement(614667..615488)	hypothetical protein
+mss:MSU_0745	CDS	complement(615495..615641)	hypothetical protein
+mss:MSU_0746	CDS	complement(616002..616181)	hypothetical protein
+mss:MSU_0747	CDS	complement(616383..616538)	hypothetical protein
+mss:MSU_0748	CDS	complement(616623..617057)	hypothetical protein
+mss:MSU_0749	CDS	complement(617152..617694)	hypothetical protein
+mss:MSU_0750	CDS	complement(617959..618456)	hypothetical protein
+mss:MSU_0751	CDS	complement(618649..618981)	hypothetical protein
+mss:MSU_0752	CDS	complement(619051..619887)	hypothetical protein
+mss:MSU_0753	CDS	complement(620103..620318)	hypothetical protein
+mss:MSU_0754	CDS	complement(620611..620991)	hypothetical protein
+mss:MSU_0755	CDS	complement(621060..621596)	hypothetical protein
+mss:MSU_0756	CDS	complement(621833..622318)	hypothetical protein
+mss:MSU_0757	CDS	complement(622323..622772)	hypothetical protein
+mss:MSU_0758	CDS	complement(622904..623284)	hypothetical protein
+mss:MSU_0759	CDS	complement(623344..623796)	hypothetical protein
+mss:MSU_0760	CDS	complement(623804..624304)	hypothetical protein
+mss:MSU_0761	CDS	624519..624710	hypothetical protein
+mss:MSU_0762	CDS	complement(624768..625313)	hypothetical protein
+mss:MSU_0763	CDS	complement(625320..625820)	hypothetical protein
+mss:MSU_0764	CDS	625972..626163	hypothetical protein
+mss:MSU_0765	CDS	complement(626294..626638)	hypothetical protein
+mss:MSU_0766	CDS	627280..627768	hypothetical protein
+mss:MSU_0767	CDS	complement(627815..628216)	hypothetical protein
+mss:MSU_0768	CDS	complement(628228..628797)	hypothetical protein
+mss:MSU_0769	CDS	629013..629276	hypothetical protein
+mss:MSU_0770	CDS	629543..629887	hypothetical protein
+mss:MSU_0771	CDS	complement(630309..630845)	hypothetical protein
+mss:MSU_0772	CDS	complement(630923..631198)	hypothetical protein
+mss:MSU_0773	CDS	complement(631427..631972)	hypothetical protein
+mss:MSU_0774	CDS	complement(632154..632867)	hypothetical protein
+mss:MSU_0775	CDS	complement(632972..633679)	hypothetical protein
+mss:MSU_0776	CDS	complement(633753..634376)	hypothetical protein
+mss:MSU_0777	CDS	complement(634571..636397)	conserved hypothetical protein
+mss:MSU_0778	CDS	636583..637863	Conserved hypothetical protein
+mss:MSU_0779	CDS	637871..639439	putative membrane protein
+mss:MSU_0780	CDS	complement(639483..639764)	hypothetical protein
+mss:MSU_0781	CDS	complement(639752..640153)	hypothetical protein
+mss:MSU_0782	CDS	complement(640250..641125)	Conserved hypothetical protein
+mss:MSU_0783	CDS	641243..641737	ppa; inorganic pyrophosphatase
+mss:MSU_0784	tRNA	complement(641754..641830)	tRNA-Arg
+mss:MSU_0785	CDS	642145..642609	Conserved hypothetical protein
+mss:MSU_0786	CDS	642617..642940	trx; thioredoxin
+mss:MSU_0787	CDS	643081..644001	gatC; putative aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, subunit C
+mss:MSU_0788	CDS	644009..645304	glyS; glycyl-tRNA synthetase
+mss:MSU_0789	CDS	645267..647216	dnaG; DNA primase
+mss:MSU_0790	CDS	647318..647938	ruvA; holliday junction ATP-dependent DNA helicase, RuvA
+mss:MSU_0791	CDS	647948..648907	ruvB; holliday junction ATP-dependent DNA helicase, RuvB
+mss:MSU_0792	rRNA	649040..651979	23S ribosomal RNA
+mss:MSU_0793	rRNA	652025..652134	5S ribosomal RNA
+mss:MSU_0794	CDS	complement(652820..654814)	conserved hypothetical protein
+mss:MSU_0795	CDS	complement(655132..657162)	conserved hypothetical protein
+mss:MSU_0796	CDS	657432..658187	type I restriction-modification system specificity subunit
+mss:MSU_0797	CDS	658310..658681	hypothetical protein
+mss:MSU_0798	gene	658888..660336	pseudogene
+mss:MSU_0799	CDS	660438..662279	type I restriction-modification system, N-6 DNA Methylase family protein
+mss:MSU_0800	CDS	662387..662965	type I restriction-modification system specificity subunit
+mss:MSU_0801	CDS	663007..663561	type I restriction-modification system specificity subunit
+mss:MSU_0802	CDS	663561..663992	putative type I restriction-modification system specificity subunit
+mss:MSU_0803	CDS	663977..664237	type I restriction-modification system specificity subunit
+mss:MSU_0804	CDS	664368..664739	putative type I restriction-modification system specificity subunit
+mss:MSU_0805	CDS	664882..665094	hypothetical protein
+mss:MSU_0806	CDS	complement(665223..665468)	hypothetical protein
+mss:MSU_0807	CDS	665494..666549	hypothetical protein
+mss:MSU_0808	CDS	666567..667646	hypothetical protein
+mss:MSU_0809	CDS	667676..668764	hypothetical protein
+mss:MSU_0810	CDS	668881..669972	hypothetical protein
+mss:MSU_0811	CDS	670054..670794	type I restriction-modification system specificity subunit
+mss:MSU_0812	CDS	670989..671237	putative type I restriction-modification system specificity subunit
+mss:MSU_0813	CDS	671265..672029	type I restriction-modification system specificity subunit
+mss:MSU_0814	CDS	672080..672421	putative type I restriction-modification system specificity subunit
+mss:MSU_0815	CDS	672522..675686	type I site-specific deoxyribonuclease, HsdR family protein
+mss:MSU_0816	CDS	675754..676941	type I restriction-modification system specificity subunit
+mss:MSU_0817	CDS	676966..677445	hypothetical protein
+mss:MSU_0818	CDS	677542..678075	type I site-specific deoxyribonuclease, HsdR family protein
+mss:MSU_0819	CDS	complement(678195..678833)	hypothetical protein
+mss:MSU_0820	CDS	678820..680829	putative type I site-specific deoxyribonuclease, HsdR family protein
+mss:MSU_0821	CDS	680949..681773	hypothetical protein
+mss:MSU_0822	CDS	681995..685048	type I site-specific deoxyribonuclease, HsdR family protein
+mss:MSU_0823	CDS	685072..685326	hypothetical protein
+mss:MSU_0824	CDS	685581..685835	hypothetical protein
+mss:MSU_0825	CDS	complement(685890..687230)	pepA; cytosol aminopeptidase
+mss:MSU_0826	CDS	complement(687310..688446)	Conserved hypothetical protein
+mss:MSU_0827	CDS	complement(688451..689725)	thrS; threonyl-tRNA synthetase
+mss:MSU_0828	CDS	complement(689822..691675)	pepF; oligoendopeptidase F
+mss:MSU_0829	CDS	complement(691680..692336)	tmk; thymidylate kinase
+mss:MSU_0830	CDS	692425..693411	recA; recombinase A
+mss:MSU_0831	CDS	693422..694945	metS; methionyl-tRNA synthetase
+mss:MSU_0832	CDS	694953..695906	ftsY; signal recognition particle-docking protein FtsY
+mss:MSU_0833	CDS	complement(695960..696913)	HPr Serine kinase
+mss:MSU_0834	CDS	complement(696970..698208)	pgk; phosphoglycerate kinase
+mss:MSU_0835	CDS	complement(698226..699236)	gap; glyceraldehyde-3-phosphate dehydrogenase, type I
+mss:MSU_0836	CDS	complement(699251..700267)	csdA; selenocysteine lyase/cysteine desulfurase
+mss:MSU_0837	CDS	complement(700681..702588)	ribonuclease R
+mss:MSU_0838	CDS	complement(702867..703082)	hypothetical protein
+mss:MSU_0839	CDS	complement(703089..703253)	rpmG; 50S ribosomal protein L33
+mss:MSU_0840	tRNA	complement(703310..703385)	tRNA-Phe
+mss:MSU_0841	tRNA	complement(703398..703474)	tRNA-Asp
+mss:MSU_0842	tRNA	complement(703479..703556)	tRNA-Met
+mss:MSU_0843	tRNA	complement(703647..703736)	tRNA-Ser
+mss:MSU_0844	tRNA	complement(703742..703818)	tRNA-Met
+mss:MSU_0845	tRNA	complement(703825..703902)	tRNA-Pro
+mss:MSU_0846	tRNA	complement(703909..703985)	tRNA-Arg
+mss:MSU_0847	tRNA	complement(703990..704064)	tRNA-Cys
+mss:MSU_0848	CDS	complement(704104..704841)	DNA methylase N-4/N-6 domain-containing protein
+mss:MSU_0849	CDS	complement(704857..705717)	dpnII; type II restriction enzyme DpnII
+mss:MSU_0850	CDS	complement(705725..706678)	nfo; endonuclease IV, apurinic endonuclease
+mss:MSU_0851	CDS	complement(706682..707092)	IscU_like domain protein
+mss:MSU_0852	CDS	complement(707130..707489)	hypothetical protein
+mss:MSU_0853	CDS	complement(707687..707998)	hypothetical protein
+mss:MSU_0854	CDS	708235..710265	ABC transporter, ATP binding protein
+mss:MSU_0855	CDS	710256..710618	hypothetical protein
+mss:MSU_0856	tRNA	complement(710621..710711)	tRNA-Ser
+mss:MSU_0857	CDS	complement(710758..711255)	hypothetical protein
+mss:MSU_0858	CDS	complement(711295..712323)	hypothetical protein
+mss:MSU_0859	CDS	complement(712323..712766)	hypothetical protein
+mss:MSU_0860	CDS	712867..714789	phosphoenolpyruvate-dependent sugar phosphotransferase system, IIBC component
+mss:MSU_0861	CDS	714811..715860	HD domain protein, nadD domain, putative nicotinate-nucleotide adenylyltransferase
+mss:MSU_0862	CDS	complement(716018..716422)	hypothetical protein
+mss:MSU_0863	CDS	complement(716433..716843)	Conserved hypothetical protein
+mss:MSU_0864	gene	complement(716981..719181)	pseudogene
+mss:MSU_0866	CDS	719225..719854	Conserved hypothetical protein
+mss:MSU_0867	CDS	719892..720731	ymdB; metallophosphoesterase YmdB
+mss:MSU_0868	CDS	complement(720736..721566)	conserved hypothetical protein
+mss:MSU_0869	CDS	complement(721583..722662)	prfA; peptide chain release factor 1
+mss:MSU_0870	CDS	complement(722712..722939)	rpmE; 50S ribosomal protein L31
+mss:MSU_0871	CDS	723010..724185	dnaX; DNA polymerase III, subunits gamma and tau
+mss:MSU_0872	CDS	724440..724958	hypothetical protein
+mss:MSU_0873	CDS	724962..728699	hypothetical protein
+mss:MSU_0874	CDS	728727..729623	Conserved hypothetical protein
+mss:MSU_0875	CDS	729681..730310	upp; uracil phosphoribosyltransferase
+mss:MSU_0876	CDS	730339..730620	hypothetical protein
+mss:MSU_0877	CDS	complement(730676..733060)	topA; DNA topoisomerase I
+mss:MSU_0878	CDS	complement(733096..734772)	conserved hypothetical protein
+mss:MSU_0879	CDS	complement(734783..736033)	serS; seryl-tRNA synthetase
+mss:MSU_0880	CDS	complement(736034..738331)	ftsH; cell division protein FtsH
+mss:MSU_0881	CDS	738525..739679	dnaB2; replication initiation and membrane attachment protein, DnaB2
+mss:MSU_0882	CDS	complement(739732..740511)	ksgA; dimethyladenosine transferase
+mss:MSU_0883	CDS	complement(740535..741734)	oxaA; membrane protein OxaA
+mss:MSU_0884	CDS	complement(741725..742108)	rnpA; ribonuclease P
+mss:MSU_0885	CDS	complement(742154..742297)	rpmH; 50S ribosomal protein L34

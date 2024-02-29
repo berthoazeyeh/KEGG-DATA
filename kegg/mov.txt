@@ -1,0 +1,886 @@
+mov:OVS_00010	CDS	1110..2258	DNA polymerase III subunit beta
+mov:OVS_00015	CDS	2269..3180	membrane protein
+mov:OVS_00020	CDS	3182..4267	HrcA family transcriptional regulator
+mov:OVS_00025	CDS	4267..5481	ABC transporter ATP-binding protein
+mov:OVS_00030	CDS	complement(5478..5732)	translation factor Sua5
+mov:OVS_00035	CDS	5759..5866	hypothetical protein
+mov:OVS_00040	CDS	complement(5852..6016)	hypothetical protein
+mov:OVS_00045	tRNA	complement(6078..6151)	tRNA-Gly
+mov:OVS_00050	CDS	6223..6471	preprotein translocase subunit SecE
+mov:OVS_00055	CDS	6570..7370	molecular chaperone DnaJ
+mov:OVS_00060	CDS	7472..7954	PTS sugar transporter subunit IIA
+mov:OVS_00065	CDS	8442..9347	prolyl-tRNA synthetase
+mov:OVS_00070	CDS	9353..10663	glucose-6-phosphate isomerase
+mov:OVS_00075	CDS	complement(10660..10809)	hypothetical protein
+mov:OVS_00080	CDS	10958..12289	cardiolipin synthase
+mov:OVS_00085	CDS	12469..13467	ribose-phosphate pyrophosphokinase
+mov:OVS_00090	CDS	13646..14722	tyrosyl-tRNA synthetase
+mov:OVS_00095	CDS	14725..16101	signal recognition particle
+mov:OVS_00100	tRNA	16154..16231	tRNA-Arg
+mov:OVS_00105	CDS	16245..16658	30S ribosomal protein S6
+mov:OVS_00110	CDS	16673..17200	single-stranded DNA-binding protein
+mov:OVS_00115	CDS	17204..17527	30S ribosomal protein S18
+mov:OVS_00120	CDS	complement(17651..17818)	hypothetical protein
+mov:OVS_00125	CDS	17958..19082	DNA helicase DnaB
+mov:OVS_00130	tRNA	complement(19085..19172)	tRNA-Leu
+mov:OVS_00135	tRNA	complement(19187..19261)	tRNA-Thr
+mov:OVS_00145	tRNA	complement(19264..19338)	tRNA-Val
+mov:OVS_00150	tRNA	complement(19341..19416)	tRNA-Glu
+mov:OVS_00155	tRNA	complement(19426..19500)	tRNA-Asn
+mov:OVS_00160	CDS	19602..20777	membrane protein
+mov:OVS_00165	CDS	20782..22272	glyceraldehyde-3-phosphate dehydrogenase
+mov:OVS_00170	CDS	22336..22887	hypothetical protein
+mov:OVS_00175	CDS	22956..23525	hypothetical protein
+mov:OVS_00180	CDS	complement(23559..23942)	hypothetical protein
+mov:OVS_00185	CDS	complement(23908..24102)	hypothetical protein
+mov:OVS_00190	CDS	complement(24163..24567)	hypothetical protein
+mov:OVS_00195	CDS	24554..24700	hypothetical protein
+mov:OVS_00200	CDS	complement(24777..25298)	hypothetical protein
+mov:OVS_00205	CDS	complement(25416..28736)	hypothetical protein
+mov:OVS_00210	CDS	complement(28887..29471)	hypothetical protein
+mov:OVS_00215	CDS	29477..29617	hypothetical protein
+mov:OVS_00220	CDS	complement(29636..30229)	hypothetical protein
+mov:OVS_00225	CDS	complement(30400..32169)	DNA polymerase III subunit gamma/tau
+mov:OVS_00230	CDS	32295..32531	50S ribosomal protein L31
+mov:OVS_00235	CDS	32661..33758	peptide chain release factor 1
+mov:OVS_00240	CDS	34147..34599	HemK family modification methylase
+mov:OVS_00245	CDS	complement(34589..35461)	hypothetical protein
+mov:OVS_00250	CDS	35617..36072	hypothetical protein
+mov:OVS_00255	CDS	36075..36497	hypothetical protein
+mov:OVS_00260	CDS	complement(36827..37420)	hypothetical protein
+mov:OVS_00265	CDS	37441..39330	ABC transporter
+mov:OVS_00270	CDS	complement(39327..40286)	phosphohydrolase
+mov:OVS_00275	CDS	complement(40316..42139)	PTS sugar transporter subunit IIBC
+mov:OVS_00280	CDS	42275..42700	hypothetical protein
+mov:OVS_00285	CDS	42841..43272	hypothetical protein
+mov:OVS_00290	CDS	43275..43700	hypothetical protein
+mov:OVS_00295	tRNA	43720..43811	tRNA-Ser
+mov:OVS_00300	CDS	complement(43833..44207)	hypothetical protein
+mov:OVS_00305	CDS	complement(44209..46236)	ABC transporter ATP-binding protein
+mov:OVS_00310	CDS	46372..46533	hypothetical protein
+mov:OVS_00315	CDS	46573..46980	hypothetical protein
+mov:OVS_00320	CDS	47002..47961	endonuclease IV
+mov:OVS_00325	CDS	47948..48280	hypothetical protein
+mov:OVS_00330	tRNA	48303..48378	tRNA-Cys
+mov:OVS_00335	tRNA	48383..48458	tRNA-Arg
+mov:OVS_00340	tRNA	48464..48541	tRNA-Pro
+mov:OVS_00345	tRNA	48549..48625	tRNA-Met
+mov:OVS_00350	tRNA	48632..48723	tRNA-Ser
+mov:OVS_00355	tRNA	48807..48884	tRNA-Met
+mov:OVS_00360	tRNA	48889..48965	tRNA-Asp
+mov:OVS_00365	tRNA	48983..49058	tRNA-Phe
+mov:OVS_00370	CDS	49309..49524	hypothetical protein
+mov:OVS_00375	CDS	49521..49751	preprotein translocase subunit SecG
+mov:OVS_00380	CDS	49764..51653	ribonuclease R
+mov:OVS_00385	CDS	51726..52061	SsrA-binding protein
+mov:OVS_00390	CDS	52072..53097	segregation protein B
+mov:OVS_00395	CDS	53112..54125	glyceraldehyde-3-phosphate dehydrogenase
+mov:OVS_00400	CDS	54162..55397	phosphoglycerate kinase
+mov:OVS_00405	CDS	55451..56407	HPr kinase
+mov:OVS_00410	CDS	complement(56393..57391)	cell division protein FtsY
+mov:OVS_00415	CDS	complement(57395..58897)	methionyl-tRNA synthetase
+mov:OVS_00420	CDS	complement(58918..59898)	recombinase RecA
+mov:OVS_00425	CDS	59966..60628	thymidylate kinase
+mov:OVS_00430	CDS	60643..62523	oligoendopeptidase F
+mov:OVS_00435	CDS	62511..63764	threonyl-tRNA synthetase
+mov:OVS_00440	CDS	63767..64876	hypothetical protein
+mov:OVS_00445	CDS	64944..66332	cytosol aminopeptidase
+mov:OVS_00450	CDS	66385..67176	hypothetical protein
+mov:OVS_00460	rRNA	complement(67416..67525)	5S ribosomal RNA
+mov:OVS_00465	rRNA	complement(67591..70527)	23S ribosomal RNA
+mov:OVS_00470	CDS	complement(70698..71081)	hypothetical protein
+mov:OVS_00475	CDS	complement(71123..71431)	hypothetical protein
+mov:OVS_00480	CDS	complement(71721..72227)	hypothetical protein
+mov:OVS_00485	CDS	complement(72434..73402)	ATP-dependent DNA helicase RuvB
+mov:OVS_00490	gene	complement(73406..74017)	pseudogene
+mov:OVS_00495	CDS	complement(74060..75946)	hypothetical protein
+mov:OVS_00500	CDS	complement(75953..77242)	glycyl-tRNA synthetase
+mov:OVS_00505	CDS	complement(77291..78331)	aspartyl/glutamyl-tRNA amidotransferase subunit C
+mov:OVS_00510	CDS	complement(78338..78658)	thioredoxin
+mov:OVS_00515	CDS	complement(78681..79427)	hypothetical protein
+mov:OVS_00520	tRNA	79439..79515	tRNA-Arg
+mov:OVS_00525	CDS	complement(79527..79994)	inorganic pyrophosphatase
+mov:OVS_00530	CDS	80136..80300	hypothetical protein
+mov:OVS_00535	CDS	80367..81299	hypothetical protein
+mov:OVS_00540	CDS	81364..81753	hypothetical protein
+mov:OVS_00545	CDS	81741..82019	hypothetical protein
+mov:OVS_00550	CDS	82255..82872	hypothetical protein
+mov:OVS_00555	CDS	82877..83425	hypothetical protein
+mov:OVS_00560	CDS	complement(83554..85047)	spermidine/putrescine ABC transporter substrate-binding protein
+mov:OVS_00565	CDS	complement(85176..86306)	hypothetical protein
+mov:OVS_00570	CDS	complement(86588..87676)	hypothetical protein
+mov:OVS_00575	CDS	complement(87812..89155)	hypothetical protein
+mov:OVS_00580	CDS	89169..89567	hypothetical protein
+mov:OVS_00585	CDS	89799..90356	hypothetical protein
+mov:OVS_00590	CDS	90658..91275	hypothetical protein
+mov:OVS_00595	CDS	91280..91831	hypothetical protein
+mov:OVS_00600	gene	complement(91960..93452)	pseudogene
+mov:OVS_00605	CDS	complement(93585..94001)	hypothetical protein
+mov:OVS_00610	CDS	complement(93950..94822)	hypothetical protein
+mov:OVS_00615	CDS	94852..95469	hypothetical protein
+mov:OVS_00620	CDS	95474..96022	hypothetical protein
+mov:OVS_00625	CDS	complement(96208..97380)	hypothetical protein
+mov:OVS_00630	CDS	97456..98058	hypothetical protein
+mov:OVS_00635	CDS	98080..98634	hypothetical protein
+mov:OVS_00640	CDS	complement(98843..99970)	hypothetical protein
+mov:OVS_00645	CDS	100202..100618	hypothetical protein
+mov:OVS_00650	CDS	100828..101157	hypothetical protein
+mov:OVS_00655	CDS	complement(101312..102736)	hypothetical protein
+mov:OVS_00660	CDS	complement(102857..103912)	hypothetical protein
+mov:OVS_00665	CDS	104201..104629	hypothetical protein
+mov:OVS_00670	CDS	104637..105188	hypothetical protein
+mov:OVS_00675	CDS	complement(105382..106515)	hypothetical protein
+mov:OVS_00680	CDS	106538..107257	hypothetical protein
+mov:OVS_00685	CDS	107262..107810	hypothetical protein
+mov:OVS_00690	CDS	complement(108172..108840)	hypothetical protein
+mov:OVS_00695	CDS	complement(108937..109221)	hypothetical protein
+mov:OVS_00700	CDS	complement(109610..110692)	hypothetical protein
+mov:OVS_00705	CDS	complement(110974..112023)	hypothetical protein
+mov:OVS_00710	CDS	complement(112227..112556)	hypothetical protein
+mov:OVS_00715	CDS	complement(112601..112807)	hypothetical protein
+mov:OVS_00720	CDS	complement(112906..113424)	hypothetical protein
+mov:OVS_00725	CDS	114187..114987	hypothetical protein
+mov:OVS_00730	CDS	115027..115194	hypothetical protein
+mov:OVS_00735	CDS	115181..115423	hypothetical protein
+mov:OVS_00740	CDS	complement(116171..116584)	hypothetical protein
+mov:OVS_00745	CDS	complement(116578..117177)	hypothetical protein
+mov:OVS_00750	CDS	117262..117978	hypothetical protein
+mov:OVS_00755	CDS	117983..118531	hypothetical protein
+mov:OVS_00760	CDS	complement(118826..118978)	hypothetical protein
+mov:OVS_00765	CDS	complement(118978..119625)	hypothetical protein
+mov:OVS_00770	CDS	119665..120213	hypothetical protein
+mov:OVS_00775	CDS	complement(120939..121232)	hypothetical protein
+mov:OVS_00780	CDS	121570..122184	hypothetical protein
+mov:OVS_00785	CDS	122189..122737	hypothetical protein
+mov:OVS_00790	CDS	123286..123771	hypothetical protein
+mov:OVS_00795	CDS	123777..123887	hypothetical protein
+mov:OVS_00800	CDS	123909..124463	hypothetical protein
+mov:OVS_00805	CDS	complement(124696..125994)	hypothetical protein
+mov:OVS_00810	CDS	126053..127699	hypothetical protein
+mov:OVS_00815	CDS	127836..128057	hypothetical protein
+mov:OVS_00820	CDS	128127..128618	hypothetical protein
+mov:OVS_00825	CDS	128676..129542	hypothetical protein
+mov:OVS_00830	CDS	129638..130513	hypothetical protein
+mov:OVS_00835	CDS	130616..131059	hypothetical protein
+mov:OVS_00840	CDS	131117..131896	hypothetical protein
+mov:OVS_00845	CDS	131949..132098	hypothetical protein
+mov:OVS_00850	CDS	complement(132177..132725)	hypothetical protein
+mov:OVS_00855	CDS	complement(132730..133356)	hypothetical protein
+mov:OVS_00860	CDS	134021..134581	O-sialoglycoprotein endopeptidase
+mov:OVS_00865	CDS	134584..135744	S-adenosylmethionine synthetase
+mov:OVS_00870	CDS	135915..136811	phenylalanyl-tRNA synthetase subunit alpha
+mov:OVS_00875	CDS	136815..138449	hypothetical protein
+mov:OVS_00880	CDS	138500..139267	PhoU family transcriptional regulator
+mov:OVS_00885	CDS	139484..139735	hypothetical protein
+mov:OVS_00890	CDS	139747..140694	ABC transporter ATP-binding protein
+mov:OVS_00895	CDS	140694..142487	ABC transporter ATP-binding protein
+mov:OVS_00905	CDS	143047..143286	hypothetical protein
+mov:OVS_00910	CDS	143417..143521	hypothetical protein
+mov:OVS_00915	tRNA	complement(143596..143672)	tRNA-Ala
+mov:OVS_00920	tRNA	complement(143678..143753)	tRNA-Ile
+mov:OVS_00925	CDS	complement(143796..144701)	2', 3'-cyclic nucleotide 2'-phosphodiesterase
+mov:OVS_00930	CDS	144703..144870	hypothetical protein
+mov:OVS_00935	CDS	complement(144937..146082)	phosphohydrolase
+mov:OVS_00940	CDS	146108..146821	tRNA pseudouridine synthase
+mov:OVS_00945	CDS	146814..147230	hypothetical protein
+mov:OVS_00950	CDS	147209..148012	haloacid dehalogenase
+mov:OVS_00955	CDS	148025..149431	MgpA, DHH family phosphoesterase
+mov:OVS_00960	CDS	149473..149700	hypothetical protein
+mov:OVS_00965	CDS	complement(149802..149939)	hypothetical protein
+mov:OVS_00970	CDS	149918..151228	glycerol kinase
+mov:OVS_00975	CDS	151272..152456	tuf; elongation factor Tu
+mov:OVS_00980	CDS	152533..153837	adenylosuccinate synthase
+mov:OVS_00985	CDS	153844..154083	30S ribosomal protein S15
+mov:OVS_00990	CDS	154086..154514	50S ribosomal protein L11
+mov:OVS_00995	CDS	154514..155152	50S ribosomal protein L1
+mov:OVS_01000	CDS	155210..155440	hypothetical protein
+mov:OVS_01005	CDS	155468..155893	hypothetical protein
+mov:OVS_01010	CDS	complement(155897..156643)	rRNA methyltransferase
+mov:OVS_01015	CDS	complement(156679..157980)	cysteinyl-tRNA synthetase
+mov:OVS_01020	CDS	158038..158313	50S ribosomal protein L27
+mov:OVS_01025	CDS	158350..159315	lactate dehydrogenase
+mov:OVS_01030	CDS	159290..160000	hypothetical protein
+mov:OVS_01035	CDS	160073..160945	hypothetical protein
+mov:OVS_01040	CDS	160984..161166	hypothetical protein
+mov:OVS_01045	CDS	complement(161168..162163)	tRNA pseudouridine synthase
+mov:OVS_01050	CDS	162182..163648	glutamyl-tRNA synthetase
+mov:OVS_01055	CDS	163834..164478	hypothetical protein
+mov:OVS_01065	CDS	164644..164997	hypothetical protein
+mov:OVS_01070	CDS	165055..165234	hypothetical protein
+mov:OVS_01075	CDS	165285..165638	hypothetical protein
+mov:OVS_01080	CDS	165711..166265	hypothetical protein
+mov:OVS_01085	CDS	166376..166933	hypothetical protein
+mov:OVS_01090	CDS	167098..167655	hypothetical protein
+mov:OVS_01095	CDS	167870..168433	hypothetical protein
+mov:OVS_01100	CDS	168548..169915	deoxyguanosinetriphosphate triphosphohydrolase
+mov:OVS_01105	CDS	169929..170465	DNA-directed RNA polymerase subunit delta
+mov:OVS_01110	tRNA	complement(170475..170562)	tRNA-Leu
+mov:OVS_01115	CDS	complement(170582..170728)	hypothetical protein
+mov:OVS_01120	CDS	170718..171161	translation initiation factor IF-3
+mov:OVS_01125	CDS	complement(171168..172118)	hypothetical protein
+mov:OVS_01130	CDS	172149..173039	translation elongation factor Ts
+mov:OVS_01135	CDS	complement(173056..173970)	iron ABC transporter ATP-binding protein
+mov:OVS_01140	CDS	complement(174290..175783)	hypothetical protein
+mov:OVS_01145	CDS	complement(175783..176805)	ABC transporter
+mov:OVS_01150	CDS	complement(176841..177971)	ABC transporter
+mov:OVS_01155	CDS	complement(177964..178443)	NADPH-dependent FMN reductase
+mov:OVS_01160	CDS	complement(178456..179316)	haloacid dehalogenase
+mov:OVS_01165	CDS	complement(179377..179955)	guanylate kinase
+mov:OVS_01170	CDS	180029..182767	isoleucyl-tRNA synthetase
+mov:OVS_01175	CDS	complement(182723..183424)	sodium/hydrogen exchanger
+mov:OVS_01180	tRNA	complement(183845..183920)	tRNA-Trp
+mov:OVS_01185	CDS	complement(184091..184783)	phosphoesterase
+mov:OVS_01190	CDS	184872..185042	hypothetical protein
+mov:OVS_01195	CDS	185050..185193	hypothetical protein
+mov:OVS_01200	CDS	complement(185204..186067)	recombinase
+mov:OVS_01205	CDS	complement(186070..188154)	leucyl-tRNA synthetase
+mov:OVS_01210	CDS	complement(188327..189928)	aspartyl-tRNA synthetase
+mov:OVS_01215	CDS	complement(189935..191206)	histidyl-tRNA synthetase
+mov:OVS_01220	CDS	complement(191261..192853)	CTP synthase
+mov:OVS_01225	CDS	complement(192869..194035)	GTPase ObgE
+mov:OVS_01230	CDS	complement(194041..194889)	hypothetical protein
+mov:OVS_01235	CDS	complement(194889..195239)	ribosome-binding factor A
+mov:OVS_01240	CDS	complement(195244..196968)	translation initiation factor IF-2
+mov:OVS_01245	CDS	complement(197026..198306)	transcription termination factor NusA
+mov:OVS_01250	CDS	complement(198311..198739)	hypothetical protein
+mov:OVS_01255	CDS	complement(198823..199275)	transcription antitermination protein NusB
+mov:OVS_01260	CDS	complement(199289..200086)	30S ribosomal protein S2
+mov:OVS_01265	CDS	200175..201779	hypothetical protein
+mov:OVS_01270	CDS	201780..202367	nicotinate-nucleotide adenylyltransferase
+mov:OVS_01275	CDS	complement(202359..203675)	MFS transporter
+mov:OVS_01280	CDS	complement(203871..203981)	hypothetical protein
+mov:OVS_01285	CDS	204102..205061	hypothetical protein
+mov:OVS_01290	CDS	205361..205996	hypothetical protein
+mov:OVS_01295	CDS	complement(206014..206679)	hypothetical protein
+mov:OVS_01300	CDS	complement(206934..209390)	hypothetical protein
+mov:OVS_01305	CDS	complement(209394..213116)	hypothetical protein
+mov:OVS_01310	CDS	213168..214619	lysS; lysyl-tRNA synthetase
+mov:OVS_01315	CDS	complement(214616..214810)	hypothetical protein
+mov:OVS_01320	CDS	214623..217130	DNA polymerase III subunit alpha
+mov:OVS_01325	CDS	217134..217967	5'-3' exonuclease
+mov:OVS_01330	CDS	217933..218547	peptidyl-tRNA hydrolase
+mov:OVS_01335	CDS	218583..221027	hypothetical protein
+mov:OVS_01340	CDS	221592..222269	membrane protein
+mov:OVS_01345	CDS	complement(222375..222818)	hypothetical protein
+mov:OVS_01350	CDS	complement(222761..223060)	hypothetical protein
+mov:OVS_01355	CDS	complement(223218..223718)	hypothetical protein
+mov:OVS_01360	CDS	complement(223787..224782)	ribonucleotide-diphosphate reductase
+mov:OVS_01365	CDS	224917..225282	ribonucleotide reductase
+mov:OVS_01370	CDS	225296..227425	ribonucleotide-diphosphate reductase subunit alpha
+mov:OVS_01375	CDS	complement(227422..228756)	asparaginyl-tRNA synthetase
+mov:OVS_01380	CDS	complement(228772..230775)	DNA ligase
+mov:OVS_01385	CDS	230833..231936	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+mov:OVS_01390	CDS	231939..233270	alanyl-tRNA synthetase
+mov:OVS_01395	CDS	complement(233254..234375)	hypothetical protein
+mov:OVS_01400	CDS	234411..236594	DNA helicase II
+mov:OVS_01405	CDS	237078..237599	cbiO; cobalt ABC transporter ATP-binding protein
+mov:OVS_01410	CDS	complement(237683..237787)	hypothetical protein
+mov:OVS_01415	CDS	237835..238827	cobalt ABC transporter permease
+mov:OVS_01420	CDS	238852..239151	hypothetical protein
+mov:OVS_01425	CDS	239202..240014	cbiO; cobalt ABC transporter ATP-binding protein
+mov:OVS_01430	CDS	240066..240755	hypothetical protein
+mov:OVS_01435	CDS	241369..244239	hypothetical protein
+mov:OVS_01440	CDS	244239..244442	50S ribosomal protein L28
+mov:OVS_01445	CDS	244450..245058	30S ribosomal protein S4
+mov:OVS_01450	CDS	complement(245055..245195)	hypothetical protein
+mov:OVS_01455	CDS	245179..245583	SAM-dependent methyltransferase
+mov:OVS_01460	CDS	complement(245591..246196)	hypothetical protein
+mov:OVS_01465	CDS	246350..250675	DNA polymerase III
+mov:OVS_01470	gene	complement(250387..251220)	pseudogene
+mov:OVS_01475	CDS	251312..252232	hypothetical protein
+mov:OVS_01480	CDS	252247..252435	hypothetical protein
+mov:OVS_01485	CDS	252661..253458	hypothetical protein
+mov:OVS_01490	CDS	complement(253635..253808)	hypothetical protein
+mov:OVS_01495	CDS	complement(254001..254267)	hypothetical protein
+mov:OVS_01500	CDS	complement(254378..255010)	hypothetical protein
+mov:OVS_01505	CDS	complement(255333..256109)	hypothetical protein
+mov:OVS_01510	CDS	256748..257407	hypothetical protein
+mov:OVS_01515	CDS	257526..257696	hypothetical protein
+mov:OVS_01520	CDS	258076..258729	hypothetical protein
+mov:OVS_01525	CDS	258826..259047	hypothetical protein
+mov:OVS_01530	CDS	259119..259385	hypothetical protein
+mov:OVS_01535	CDS	complement(259427..259723)	hypothetical protein
+mov:OVS_01540	CDS	259803..260273	hypothetical protein
+mov:OVS_01545	CDS	260712..261389	hypothetical protein
+mov:OVS_01550	CDS	261533..262087	hypothetical protein
+mov:OVS_01555	CDS	262547..263335	hypothetical protein
+mov:OVS_01560	CDS	263570..263971	50S ribosomal protein L19
+mov:OVS_01565	CDS	263974..264144	30S ribosomal protein S21
+mov:OVS_01570	CDS	264195..264455	phosphocarrier protein HPr
+mov:OVS_01575	CDS	264524..265450	hypothetical protein
+mov:OVS_01580	CDS	265501..265656	hypothetical protein
+mov:OVS_01585	CDS	265822..266688	hypothetical protein
+mov:OVS_01590	CDS	complement(266744..268054)	GMP synthase
+mov:OVS_01595	CDS	268049..268300	hypothetical protein
+mov:OVS_01600	CDS	complement(268415..269869)	potassium transporter KtrB
+mov:OVS_01605	CDS	270028..270792	potassium transporter TrkA
+mov:OVS_01610	CDS	complement(270793..271662)	fructose-bisphosphate aldolase
+mov:OVS_01615	CDS	complement(271667..272293)	molecular chaperone GrpE
+mov:OVS_01620	CDS	complement(272333..273445)	molecular chaperone DnaJ
+mov:OVS_01625	CDS	complement(273504..275576)	fusA; elongation factor P
+mov:OVS_01630	CDS	complement(275580..276050)	30S ribosomal protein S7
+mov:OVS_01635	CDS	complement(276057..276473)	30S ribosomal protein S12
+mov:OVS_01640	CDS	276669..276989	HIT family hydrolase
+mov:OVS_01645	CDS	277077..277412	hypothetical protein
+mov:OVS_01650	CDS	277652..278038	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+mov:OVS_01655	CDS	278045..278644	DisA domain protein
+mov:OVS_01660	CDS	278708..280282	magnesium transporter
+mov:OVS_01665	CDS	280286..281977	hypothetical protein
+mov:OVS_01670	CDS	complement(281974..282120)	hypothetical protein
+mov:OVS_01675	CDS	282215..283978	hypothetical protein
+mov:OVS_01680	CDS	283982..284827	phosphate ABC transporter ATP-binding protein
+mov:OVS_01685	CDS	284830..286338	amino acid permease
+mov:OVS_01690	CDS	286340..286681	50S ribosomal protein L17
+mov:OVS_01695	CDS	complement(286715..286912)	hypothetical protein
+mov:OVS_01700	CDS	complement(286971..287756)	hypothetical protein
+mov:OVS_01705	CDS	287755..288111	hypothetical protein
+mov:OVS_01710	CDS	complement(288104..289024)	hypothetical protein
+mov:OVS_01715	CDS	complement(289038..289130)	hypothetical protein
+mov:OVS_01720	CDS	complement(289329..289559)	hypothetical protein
+mov:OVS_01725	CDS	289759..290370	hypothetical protein
+mov:OVS_01730	CDS	290361..290474	hypothetical protein
+mov:OVS_01735	CDS	290685..291020	hypothetical protein
+mov:OVS_01740	CDS	291090..291299	hypothetical protein
+mov:OVS_01745	CDS	291524..292132	hypothetical protein
+mov:OVS_01750	CDS	292285..292806	hypothetical protein
+mov:OVS_01755	CDS	complement(293012..293524)	hypothetical protein
+mov:OVS_01760	CDS	complement(293767..294411)	hypothetical protein
+mov:OVS_01765	CDS	complement(294512..295147)	hypothetical protein
+mov:OVS_01770	CDS	complement(295266..295874)	hypothetical protein
+mov:OVS_01775	CDS	complement(296314..297405)	hypothetical protein
+mov:OVS_01780	CDS	complement(297706..298812)	hypothetical protein
+mov:OVS_01785	CDS	complement(299191..299391)	hypothetical protein
+mov:OVS_01790	CDS	complement(299466..300017)	hypothetical protein
+mov:OVS_01795	CDS	complement(300592..301695)	hypothetical protein
+mov:OVS_01800	CDS	complement(302170..302442)	hypothetical protein
+mov:OVS_01805	CDS	complement(302923..303117)	hypothetical protein
+mov:OVS_01810	CDS	303412..304473	hypothetical protein
+mov:OVS_01815	CDS	complement(304612..305112)	hypothetical protein
+mov:OVS_01820	CDS	305356..305517	hypothetical protein
+mov:OVS_01825	CDS	305655..306446	hypothetical protein
+mov:OVS_01830	CDS	complement(306549..307052)	hypothetical protein
+mov:OVS_01840	gene	complement(307175..307478)	pseudogene
+mov:OVS_01845	CDS	complement(307527..308504)	hypothetical protein
+mov:OVS_01850	CDS	308576..309232	hypothetical protein
+mov:OVS_01855	CDS	309279..309707	hypothetical protein
+mov:OVS_01860	CDS	complement(309727..309945)	ATP synthase F0 subunit C
+mov:OVS_01865	CDS	complement(310052..311095)	hypothetical protein
+mov:OVS_01870	CDS	complement(311194..311826)	hypothetical protein
+mov:OVS_01875	CDS	complement(311888..312196)	ATP synthase F0 subunit C
+mov:OVS_01880	CDS	complement(312337..314235)	adenylosuccinate lyase
+mov:OVS_01885	CDS	314404..316251	dnaK; molecular chaperone DnaK
+mov:OVS_01890	CDS	316416..316949	ribonuclease R
+mov:OVS_01895	CDS	316949..318856	hypothetical protein
+mov:OVS_01900	CDS	318858..319463	hypothetical protein
+mov:OVS_01905	CDS	319464..321005	enolase
+mov:OVS_01910	CDS	321041..322024	6-phosphofructokinase
+mov:OVS_01915	CDS	322027..323604	pyruvate kinase
+mov:OVS_01920	CDS	323609..331549	DNA-directed RNA polymerase subunit beta
+mov:OVS_01925	gene	331745..333122	pseudogene
+mov:OVS_01930	CDS	complement(333273..333545)	hypothetical protein
+mov:OVS_01935	CDS	333529..334161	hypothetical protein
+mov:OVS_01940	CDS	334291..334809	hypothetical protein
+mov:OVS_01945	CDS	335034..336410	hypothetical protein
+mov:OVS_01950	CDS	336593..336919	hypothetical protein
+mov:OVS_01955	CDS	337283..337624	hypothetical protein
+mov:OVS_01960	CDS	337697..338272	hypothetical protein
+mov:OVS_01965	CDS	338725..338928	hypothetical protein
+mov:OVS_01970	CDS	338988..339512	hypothetical protein
+mov:OVS_01975	CDS	complement(339837..340526)	phosphoglycerate mutase
+mov:OVS_01980	CDS	340935..342320	hypothetical protein
+mov:OVS_01985	CDS	complement(342372..342689)	hypothetical protein
+mov:OVS_01990	CDS	complement(342756..343088)	hypothetical protein
+mov:OVS_01995	CDS	complement(343210..343365)	hypothetical protein
+mov:OVS_02000	CDS	complement(343798..345171)	hypothetical protein
+mov:OVS_02010	CDS	complement(345504..345791)	hypothetical protein
+mov:OVS_02015	CDS	complement(345739..346173)	hypothetical protein
+mov:OVS_02020	CDS	346238..346732	transcription elongation factor GreA
+mov:OVS_02025	CDS	346856..347536	hypothetical protein
+mov:OVS_02030	CDS	347550..347792	30S ribosomal protein S16
+mov:OVS_02035	CDS	347794..348279	hypothetical protein
+mov:OVS_02040	CDS	348395..349201	hypothetical protein
+mov:OVS_02045	CDS	complement(349404..349943)	hypothetical protein
+mov:OVS_02050	CDS	complement(351004..351684)	hypothetical protein
+mov:OVS_02055	CDS	complement(351974..352114)	hypothetical protein
+mov:OVS_02060	CDS	complement(352283..352633)	hypothetical protein
+mov:OVS_02065	CDS	complement(352735..353037)	hypothetical protein
+mov:OVS_02070	CDS	complement(353050..353412)	hypothetical protein
+mov:OVS_02075	CDS	353744..353920	hypothetical protein
+mov:OVS_02080	CDS	353920..354201	hypothetical protein
+mov:OVS_02085	CDS	complement(354493..355572)	hypothetical protein
+mov:OVS_02090	CDS	complement(355696..355815)	hypothetical protein
+mov:OVS_02095	CDS	355808..355924	hypothetical protein
+mov:OVS_02100	CDS	complement(356011..356235)	hypothetical protein
+mov:OVS_02105	CDS	complement(356420..357064)	hypothetical protein
+mov:OVS_02110	CDS	357068..357184	hypothetical protein
+mov:OVS_02115	CDS	357348..357812	hypothetical protein
+mov:OVS_02120	CDS	358087..358701	hypothetical protein
+mov:OVS_02125	CDS	complement(358808..359182)	hypothetical protein
+mov:OVS_02130	CDS	complement(359591..360043)	hypothetical protein
+mov:OVS_02135	CDS	360078..360200	hypothetical protein
+mov:OVS_02140	CDS	360447..360572	hypothetical protein
+mov:OVS_02145	CDS	360576..360665	hypothetical protein
+mov:OVS_02150	CDS	complement(360662..360820)	50S ribosomal protein L20
+mov:OVS_02155	CDS	complement(360917..361054)	hypothetical protein
+mov:OVS_02160	CDS	complement(361120..361269)	hypothetical protein
+mov:OVS_02165	CDS	complement(361331..361522)	hypothetical protein
+mov:OVS_02170	CDS	complement(361580..361708)	hypothetical protein
+mov:OVS_02175	CDS	complement(361730..361972)	hypothetical protein
+mov:OVS_02180	CDS	complement(362209..362349)	hypothetical protein
+mov:OVS_02185	CDS	362442..362606	hypothetical protein
+mov:OVS_02190	CDS	complement(362584..362784)	hypothetical protein
+mov:OVS_02195	CDS	complement(363115..363264)	hypothetical protein
+mov:OVS_02200	CDS	363551..364279	hypothetical protein
+mov:OVS_02205	CDS	364641..364883	hypothetical protein
+mov:OVS_02210	CDS	complement(365119..365271)	hypothetical protein
+mov:OVS_02215	CDS	365280..365423	hypothetical protein
+mov:OVS_02220	CDS	365487..365642	hypothetical protein
+mov:OVS_02225	CDS	365662..366123	hypothetical protein
+mov:OVS_02230	CDS	complement(366261..366866)	hypothetical protein
+mov:OVS_02235	CDS	complement(367072..367731)	hypothetical protein
+mov:OVS_02240	CDS	complement(367895..368011)	hypothetical protein
+mov:OVS_02245	CDS	complement(368027..368413)	hypothetical protein
+mov:OVS_02250	CDS	complement(368805..369446)	hypothetical protein
+mov:OVS_02255	CDS	complement(369664..371229)	DNA methyltransferase
+mov:OVS_02260	CDS	complement(371312..372673)	hypothetical protein
+mov:OVS_02265	CDS	372725..373024	hypothetical protein
+mov:OVS_02270	CDS	373318..373428	hypothetical protein
+mov:OVS_02275	gene	373403..374107	pseudogene
+mov:OVS_02280	CDS	complement(374147..375517)	hypothetical protein
+mov:OVS_02285	CDS	complement(375888..376742)	hypothetical protein
+mov:OVS_02290	CDS	complement(376802..380233)	hypothetical protein
+mov:OVS_02295	CDS	380723..382108	hypothetical protein
+mov:OVS_02300	CDS	complement(382148..383530)	hypothetical protein
+mov:OVS_02305	gene	383582..384942	pseudogene
+mov:OVS_02310	CDS	complement(385018..385533)	hypothetical protein
+mov:OVS_02315	CDS	385528..385704	hypothetical protein
+mov:OVS_02320	CDS	complement(385806..386600)	hypothetical protein
+mov:OVS_02325	CDS	386923..387123	hypothetical protein
+mov:OVS_02330	CDS	complement(387120..388568)	hypothetical protein
+mov:OVS_02335	CDS	complement(388662..388844)	hypothetical protein
+mov:OVS_02340	CDS	complement(388884..389744)	hypothetical protein
+mov:OVS_02345	CDS	complement(389783..390775)	hypothetical protein
+mov:OVS_02350	CDS	complement(390946..391227)	hypothetical protein
+mov:OVS_02355	CDS	complement(391307..391429)	hypothetical protein
+mov:OVS_02360	CDS	complement(391433..391930)	hypothetical protein
+mov:OVS_02365	CDS	392050..392349	hypothetical protein
+mov:OVS_02370	CDS	complement(392392..392802)	hypothetical protein
+mov:OVS_02375	CDS	complement(392772..393389)	hypothetical protein
+mov:OVS_02380	CDS	complement(393621..394556)	thioredoxin reductase
+mov:OVS_02385	tRNA	complement(394577..394652)	tRNA-Ile
+mov:OVS_02390	CDS	394763..395344	hypothetical protein
+mov:OVS_02395	CDS	395389..395931	translation elongation factor P
+mov:OVS_02400	CDS	395909..396574	hypothetical protein
+mov:OVS_02405	tRNA	396766..396853	tRNA-Tyr
+mov:OVS_02410	tRNA	396859..396933	tRNA-Gln
+mov:OVS_02415	tRNA	396937..397011	tRNA-Lys
+mov:OVS_02420	tRNA	397073..397149	tRNA-Lys
+mov:OVS_02425	tRNA	397213..397300	tRNA-Leu
+mov:OVS_02430	tRNA	397361..397434	tRNA-Gly
+mov:OVS_02435	CDS	397557..398414	membrane protein
+mov:OVS_02440	CDS	398619..404642	ABC transporter permease
+mov:OVS_02445	CDS	404647..405234	hypothetical protein
+mov:OVS_02450	CDS	complement(405295..406239)	hypothetical protein
+mov:OVS_02455	CDS	complement(406224..406421)	hypothetical protein
+mov:OVS_02460	gene	complement(406461..407852)	pseudogene
+mov:OVS_02465	CDS	complement(408055..408318)	hypothetical protein
+mov:OVS_02470	CDS	complement(408340..408591)	hypothetical protein
+mov:OVS_02475	CDS	complement(408704..409708)	hypothetical protein
+mov:OVS_02480	CDS	409963..410088	hypothetical protein
+mov:OVS_02485	CDS	410092..411243	hypothetical protein
+mov:OVS_02490	CDS	411312..411467	hypothetical protein
+mov:OVS_02495	CDS	411645..411947	hypothetical protein
+mov:OVS_02500	CDS	412015..412260	hypothetical protein
+mov:OVS_02505	CDS	412276..412584	hypothetical protein
+mov:OVS_02510	CDS	complement(412633..413271)	hypothetical protein
+mov:OVS_02515	CDS	413449..414858	hypothetical protein
+mov:OVS_02520	CDS	complement(415291..415782)	hypothetical protein
+mov:OVS_02525	CDS	complement(416055..416204)	hypothetical protein
+mov:OVS_02530	CDS	complement(416473..417504)	DNA-directed RNA polymerase subunit alpha
+mov:OVS_02535	CDS	complement(417513..417905)	30S ribosomal protein S11
+mov:OVS_02540	CDS	complement(417913..418398)	30S ribosomal protein S13
+mov:OVS_02545	CDS	complement(418565..418801)	translation initiation factor IF-1
+mov:OVS_02550	CDS	complement(418806..419696)	methionine aminopeptidase
+mov:OVS_02555	CDS	complement(419696..420373)	adenylate kinase
+mov:OVS_02560	CDS	complement(420384..421835)	preprotein translocase subunit SecY
+mov:OVS_02565	CDS	complement(421871..422341)	50S ribosomal protein L15
+mov:OVS_02570	CDS	complement(422345..423016)	30S ribosomal protein S5
+mov:OVS_02575	CDS	complement(423018..423218)	50S ribosomal protein L18
+mov:OVS_02580	CDS	complement(423383..423937)	50S ribosomal protein L6
+mov:OVS_02585	CDS	complement(423947..424339)	30S ribosomal protein S8
+mov:OVS_02590	CDS	complement(424333..424518)	rpsN; 30S ribosomal protein S14
+mov:OVS_02595	CDS	complement(424518..425072)	50S ribosomal protein L5
+mov:OVS_02600	CDS	complement(425075..425374)	50S ribosomal protein L24
+mov:OVS_02605	CDS	complement(425374..425742)	50S ribosomal protein L14
+mov:OVS_02610	CDS	complement(425744..426010)	30S ribosomal protein S17
+mov:OVS_02615	CDS	complement(426010..426282)	50S ribosomal protein L29
+mov:OVS_02620	CDS	complement(426282..426695)	50S ribosomal protein L16
+mov:OVS_02625	CDS	complement(426708..427433)	30S ribosomal protein S3
+mov:OVS_02630	CDS	complement(427436..427900)	50S ribosomal protein L22
+mov:OVS_02635	CDS	complement(427918..428196)	30S ribosomal protein S19
+mov:OVS_02640	CDS	complement(428196..429047)	rplB; 50S ribosomal protein L2
+mov:OVS_02645	CDS	complement(429071..429460)	hypothetical protein
+mov:OVS_02650	CDS	complement(429508..429879)	hypothetical protein
+mov:OVS_02655	CDS	complement(429937..430437)	50S ribosomal protein L23
+mov:OVS_02660	CDS	complement(430428..431117)	50S ribosomal protein L4
+mov:OVS_02665	CDS	complement(431126..431818)	50S ribosomal protein L3
+mov:OVS_02670	CDS	complement(431830..432141)	30S ribosomal protein S10
+mov:OVS_02675	tRNA	432184..432257	tRNA-Thr
+mov:OVS_02680	CDS	complement(432303..432689)	rplL; 50S ribosomal protein L7/L12
+mov:OVS_02685	CDS	complement(432747..433232)	50S ribosomal protein L10
+mov:OVS_02690	CDS	complement(433757..433948)	hypothetical protein
+mov:OVS_02695	CDS	complement(434153..434296)	hypothetical protein
+mov:OVS_02700	CDS	complement(434391..435017)	hypothetical protein
+mov:OVS_02705	CDS	complement(435059..437458)	peptidase
+mov:OVS_02710	CDS	437717..438169	30S ribosomal protein S9
+mov:OVS_02715	CDS	438169..438999	aldo/keto reductase
+mov:OVS_02720	CDS	439024..439332	50S ribosomal protein L21
+mov:OVS_02725	CDS	439332..439817	cell division protein MraZ
+mov:OVS_02730	CDS	439876..440805	S-adenosyl-methyltransferase
+mov:OVS_02735	CDS	complement(440939..441097)	hypothetical protein
+mov:OVS_02740	CDS	complement(441294..441482)	hypothetical protein
+mov:OVS_02745	CDS	441643..444822	type I restriction endonuclease
+mov:OVS_02750	CDS	444955..445287	hypothetical protein
+mov:OVS_02755	CDS	complement(445674..445928)	hypothetical protein
+mov:OVS_02760	CDS	complement(445897..446820)	hypothetical protein
+mov:OVS_02765	CDS	complement(446834..446926)	hypothetical protein
+mov:OVS_02770	CDS	447026..447802	hypothetical protein
+mov:OVS_02775	CDS	complement(447862..448008)	hypothetical protein
+mov:OVS_02780	CDS	448003..449307	hypothetical protein
+mov:OVS_02785	CDS	449492..450607	hypothetical protein
+mov:OVS_02790	CDS	complement(450818..450931)	hypothetical protein
+mov:OVS_02795	CDS	complement(450988..451782)	hypothetical protein
+mov:OVS_02800	CDS	452051..453007	hypothetical protein
+mov:OVS_02805	CDS	453356..453691	hypothetical protein
+mov:OVS_02810	CDS	453767..453997	hypothetical protein
+mov:OVS_02815	CDS	454014..454433	hypothetical protein
+mov:OVS_02820	gene	454547..455737	pseudogene
+mov:OVS_02825	CDS	complement(455749..457701)	hypothetical protein
+mov:OVS_02830	CDS	457946..459133	hypothetical protein
+mov:OVS_02835	CDS	complement(459134..459925)	hypothetical protein
+mov:OVS_02840	CDS	complement(460209..462152)	hypothetical protein
+mov:OVS_02845	CDS	complement(462265..463047)	hypothetical protein
+mov:OVS_02850	CDS	463148..463828	hypothetical protein
+mov:OVS_02855	CDS	463848..464039	hypothetical protein
+mov:OVS_02860	CDS	464193..466580	protein export cytoplasm protein SecA
+mov:OVS_02865	CDS	466641..467267	hypothetical protein
+mov:OVS_02870	CDS	complement(467185..468525)	membrane protein
+mov:OVS_02875	CDS	468625..468840	50S ribosomal protein L35
+mov:OVS_02880	CDS	468848..469204	50S ribosomal protein L20
+mov:OVS_02885	CDS	469215..470333	hypothetical protein
+mov:OVS_02890	CDS	470385..471518	hypothetical protein
+mov:OVS_02895	CDS	471681..473285	RNA polymerase sigma factor RpoD
+mov:OVS_02900	gene	473366..475185	pseudogene
+mov:OVS_02905	CDS	complement(475302..475508)	hypothetical protein
+mov:OVS_02910	CDS	complement(475508..477073)	hypothetical protein
+mov:OVS_02915	CDS	complement(477089..478831)	phosphoenolpyruvate-protein phosphotransferase
+mov:OVS_02920	CDS	complement(478974..480722)	aspartyl/glutamyl-tRNA amidotransferase subunit B
+mov:OVS_02925	CDS	complement(480787..482244)	aspartyl/glutamyl-tRNA amidotransferase subunit A
+mov:OVS_02930	CDS	complement(482363..482665)	hypothetical protein
+mov:OVS_02935	CDS	complement(482680..482988)	DNA-binding protein
+mov:OVS_02940	CDS	complement(482989..483276)	DNA-binding protein
+mov:OVS_02945	CDS	complement(483318..484676)	GTP-binding protein EngA
+mov:OVS_02950	CDS	complement(484724..485548)	choline kinase
+mov:OVS_02955	CDS	complement(485551..485943)	ATP synthase F1 subunit epsilon
+mov:OVS_02960	CDS	complement(485969..486724)	TatD family hydrolase
+mov:OVS_02965	CDS	486826..487572	ribosome biogenesis GTP-binding protein YlqF
+mov:OVS_02970	CDS	487585..488295	hypothetical protein
+mov:OVS_02975	CDS	488315..488647	30S ribosomal protein S20
+mov:OVS_02980	CDS	488692..489585	hypothetical protein
+mov:OVS_02985	CDS	489788..491674	hypothetical protein
+mov:OVS_02990	CDS	complement(491671..492258)	hypothetical protein
+mov:OVS_02995	CDS	492362..492679	hypothetical protein
+mov:OVS_03000	CDS	complement(492754..493311)	ribosome recycling factor
+mov:OVS_03005	CDS	complement(493319..494023)	uridylate kinase
+mov:OVS_03010	CDS	complement(494026..494775)	hypothetical protein
+mov:OVS_03015	CDS	complement(494779..496218)	F0F1 ATP synthase subunit beta
+mov:OVS_03020	tRNA	496398..496473	tRNA-His
+mov:OVS_03025	CDS	496531..497178	RNAase
+mov:OVS_03030	CDS	complement(497175..498047)	ATP synthase F1 subunit gamma
+mov:OVS_03035	CDS	complement(498096..499616)	ATP synthase F1 subunit alpha
+mov:OVS_03040	CDS	complement(499620..500186)	ATP synthase F1 subunit delta
+mov:OVS_03045	CDS	complement(500189..500785)	ATP synthase F0 subunit beta
+mov:OVS_03050	CDS	complement(500794..501483)	ATP synthase F0 subunit A
+mov:OVS_03055	CDS	complement(501592..502116)	hypothetical protein
+mov:OVS_03060	CDS	complement(502132..502767)	hypothetical protein
+mov:OVS_03065	CDS	complement(502809..503978)	hypothetical protein
+mov:OVS_03070	CDS	complement(503990..504874)	hypothetical protein
+mov:OVS_03075	CDS	complement(504877..505782)	hypothetical protein
+mov:OVS_03080	CDS	505868..506002	hypothetical protein
+mov:OVS_03085	CDS	complement(506030..506443)	hypothetical protein
+mov:OVS_03090	CDS	complement(506452..508956)	valyl-tRNA synthetase
+mov:OVS_03095	CDS	complement(509000..509242)	hypothetical protein
+mov:OVS_03100	CDS	complement(509269..510003)	hypothetical protein
+mov:OVS_03105	CDS	complement(510208..511161)	hypothetical protein
+mov:OVS_03110	tRNA	complement(511181..511255)	tRNA-Trp
+mov:OVS_03115	CDS	511370..513034	arginyl-tRNA synthetase
+mov:OVS_03120	CDS	513138..513737	ribonuclease HII
+mov:OVS_03125	CDS	513780..514211	50S ribosomal protein L13
+mov:OVS_03130	CDS	complement(514197..515768)	alcohol dehydrogenase
+mov:OVS_03135	CDS	complement(515769..516398)	hypothetical protein
+mov:OVS_03140	CDS	complement(516431..516826)	hypothetical protein
+mov:OVS_03145	CDS	complement(516790..517479)	hypothetical protein
+mov:OVS_03150	CDS	complement(517614..519116)	hypothetical protein
+mov:OVS_03155	CDS	519344..520429	inosine-5'-monophosphate dehydrogenase
+mov:OVS_03160	CDS	complement(520493..520672)	hypothetical protein
+mov:OVS_03165	CDS	complement(520879..521187)	hypothetical protein
+mov:OVS_03170	CDS	complement(521306..521578)	hypothetical protein
+mov:OVS_03175	CDS	complement(521633..521923)	hypothetical protein
+mov:OVS_03180	CDS	complement(522017..522196)	hypothetical protein
+mov:OVS_03185	CDS	522228..522662	hypothetical protein
+mov:OVS_03190	CDS	complement(522752..522877)	hypothetical protein
+mov:OVS_03195	CDS	522879..523169	hypothetical protein
+mov:OVS_03200	CDS	complement(523547..524161)	hypothetical protein
+mov:OVS_03205	CDS	complement(524211..524369)	hypothetical protein
+mov:OVS_03210	CDS	complement(524385..524702)	hypothetical protein
+mov:OVS_03215	CDS	complement(524744..525052)	hypothetical protein
+mov:OVS_03220	CDS	complement(525037..525222)	hypothetical protein
+mov:OVS_03225	CDS	525475..525693	hypothetical protein
+mov:OVS_03230	CDS	525711..526064	hypothetical protein
+mov:OVS_03235	CDS	526266..526469	hypothetical protein
+mov:OVS_03240	CDS	526482..526997	hypothetical protein
+mov:OVS_03245	CDS	527057..527266	hypothetical protein
+mov:OVS_03250	CDS	527475..528032	hypothetical protein
+mov:OVS_03255	CDS	528199..529035	hypothetical protein
+mov:OVS_03260	CDS	529143..529496	hypothetical protein
+mov:OVS_03265	CDS	529574..529834	hypothetical protein
+mov:OVS_03270	CDS	529810..530049	hypothetical protein
+mov:OVS_03275	CDS	530324..530695	hypothetical protein
+mov:OVS_03280	CDS	530820..531632	hypothetical protein
+mov:OVS_03285	rRNA	complement(531853..533331)	16S ribosomal RNA
+mov:OVS_03290	CDS	complement(533492..534142)	hypothetical protein
+mov:OVS_03295	CDS	complement(534198..534677)	hypothetical protein
+mov:OVS_03300	CDS	complement(534689..534805)	hypothetical protein
+mov:OVS_03305	CDS	complement(535016..535186)	hypothetical protein
+mov:OVS_03310	CDS	535192..535362	hypothetical protein
+mov:OVS_03315	CDS	535488..536069	hypothetical protein
+mov:OVS_03320	CDS	536277..536519	hypothetical protein
+mov:OVS_03325	CDS	complement(536561..537211)	hypothetical protein
+mov:OVS_03330	CDS	complement(537267..537746)	hypothetical protein
+mov:OVS_03335	CDS	complement(537758..537874)	hypothetical protein
+mov:OVS_03340	CDS	complement(538085..538255)	hypothetical protein
+mov:OVS_03345	CDS	538261..538431	hypothetical protein
+mov:OVS_03350	CDS	538557..539138	hypothetical protein
+mov:OVS_03355	CDS	539531..539878	hypothetical protein
+mov:OVS_03360	CDS	complement(539947..540477)	hypothetical protein
+mov:OVS_03365	CDS	complement(540548..541135)	hypothetical protein
+mov:OVS_03370	CDS	complement(541143..541688)	hypothetical protein
+mov:OVS_03375	CDS	complement(542513..542977)	hypothetical protein
+mov:OVS_03380	CDS	complement(543055..543528)	hypothetical protein
+mov:OVS_03385	CDS	543857..545332	hypothetical protein
+mov:OVS_03390	CDS	545808..546074	hypothetical protein
+mov:OVS_03395	CDS	546817..547503	phosphoglycerate mutase
+mov:OVS_03400	CDS	547975..548244	hypothetical protein
+mov:OVS_03405	CDS	548260..548622	hypothetical protein
+mov:OVS_03410	CDS	548568..548828	hypothetical protein
+mov:OVS_03415	CDS	549351..549689	hypothetical protein
+mov:OVS_03420	CDS	complement(549847..549936)	hypothetical protein
+mov:OVS_03425	CDS	complement(549927..550223)	hypothetical protein
+mov:OVS_03430	rRNA	complement(550409..551901)	16S ribosomal RNA
+mov:OVS_03435	CDS	552193..552750	hypothetical protein
+mov:OVS_03440	CDS	complement(552861..553046)	hypothetical protein
+mov:OVS_03445	CDS	553033..553524	hypothetical protein
+mov:OVS_03450	CDS	complement(553694..553987)	ATP synthase F0 subunit C
+mov:OVS_03455	CDS	complement(554635..554979)	hypothetical protein
+mov:OVS_03460	CDS	complement(554964..555662)	hypothetical protein
+mov:OVS_03465	CDS	555892..556101	hypothetical protein
+mov:OVS_03470	CDS	complement(556307..556591)	hypothetical protein
+mov:OVS_03475	CDS	complement(556584..556859)	hypothetical protein
+mov:OVS_03480	CDS	complement(557157..557732)	hypothetical protein
+mov:OVS_03485	CDS	complement(557747..558349)	hypothetical protein
+mov:OVS_03490	CDS	complement(558367..558744)	hypothetical protein
+mov:OVS_03495	CDS	complement(558735..558962)	hypothetical protein
+mov:OVS_03500	CDS	complement(559035..559619)	hypothetical protein
+mov:OVS_03505	CDS	complement(559980..560513)	hypothetical protein
+mov:OVS_03510	CDS	complement(560633..560812)	hypothetical protein
+mov:OVS_03515	CDS	complement(560924..561178)	hypothetical protein
+mov:OVS_03520	CDS	complement(561291..561728)	hypothetical protein
+mov:OVS_03525	CDS	561739..562014	hypothetical protein
+mov:OVS_03530	CDS	complement(561982..562956)	hypothetical protein
+mov:OVS_03535	CDS	563674..563910	hypothetical protein
+mov:OVS_03540	CDS	564039..564527	hypothetical protein
+mov:OVS_03545	CDS	564601..565107	hypothetical protein
+mov:OVS_03550	CDS	565305..565433	hypothetical protein
+mov:OVS_03555	CDS	565458..565835	hypothetical protein
+mov:OVS_03560	CDS	complement(565842..566129)	hypothetical protein
+mov:OVS_03565	CDS	566576..567040	hypothetical protein
+mov:OVS_03570	CDS	566991..568076	hypothetical protein
+mov:OVS_03575	CDS	complement(568271..569203)	hypothetical protein
+mov:OVS_03585	CDS	complement(570285..570887)	hypothetical protein
+mov:OVS_03590	CDS	complement(570905..571474)	hypothetical protein
+mov:OVS_03595	CDS	complement(571528..572172)	hypothetical protein
+mov:OVS_03600	CDS	complement(572280..572765)	hypothetical protein
+mov:OVS_03605	CDS	complement(572813..573304)	hypothetical protein
+mov:OVS_03610	CDS	573523..574116	hypothetical protein
+mov:OVS_03615	CDS	complement(574113..574274)	hypothetical protein
+mov:OVS_03620	CDS	574473..574703	hypothetical protein
+mov:OVS_03625	CDS	575097..575288	hypothetical protein
+mov:OVS_03630	CDS	575349..575471	hypothetical protein
+mov:OVS_03635	CDS	575472..576194	hypothetical protein
+mov:OVS_03640	CDS	576296..577225	hypothetical protein
+mov:OVS_03645	CDS	complement(577406..577948)	hypothetical protein
+mov:OVS_03650	CDS	complement(578221..578418)	hypothetical protein
+mov:OVS_03655	CDS	complement(578462..579346)	hypothetical protein
+mov:OVS_03660	CDS	579513..580313	hypothetical protein
+mov:OVS_03665	CDS	580584..580952	hypothetical protein
+mov:OVS_03670	CDS	580961..581092	hypothetical protein
+mov:OVS_03675	CDS	581061..581270	hypothetical protein
+mov:OVS_03680	CDS	complement(581267..582136)	spermidine/putrescine ABC transporter permease
+mov:OVS_03685	CDS	582229..582591	hypothetical protein
+mov:OVS_03690	CDS	582763..583017	hypothetical protein
+mov:OVS_03695	CDS	complement(583031..584431)	spermidine/putrescine ABC transporter ATP-binding protein
+mov:OVS_03700	CDS	complement(584497..585468)	hypothetical protein
+mov:OVS_03705	CDS	complement(585459..585845)	hypothetical protein
+mov:OVS_03710	CDS	complement(585863..587131)	hypothetical protein
+mov:OVS_03715	CDS	complement(587169..587915)	purine-nucleoside phosphorylase
+mov:OVS_03720	CDS	complement(587941..589467)	phosphoglycerate mutase
+mov:OVS_03725	CDS	complement(589467..590180)	triosephosphate isomerase
+mov:OVS_03730	CDS	complement(590206..591018)	hypothetical protein
+mov:OVS_03735	CDS	complement(591291..592073)	hypothetical protein
+mov:OVS_03740	CDS	complement(592139..593851)	GTP-binding protein LepA
+mov:OVS_03745	CDS	complement(593996..594559)	hypothetical protein
+mov:OVS_03750	CDS	complement(594615..595211)	thymidine kinase
+mov:OVS_03755	CDS	complement(595273..596697)	YchF subfamily translation-associated GTPase
+mov:OVS_03760	CDS	596769..597806	tryptophanyl-tRNA synthetase
+mov:OVS_03765	CDS	597810..599615	phosphoglucomutase
+mov:OVS_03770	CDS	complement(599641..600225)	hypothetical protein
+mov:OVS_03775	CDS	complement(600235..600624)	hypothetical protein
+mov:OVS_03780	CDS	complement(600643..601641)	hypothetical protein
+mov:OVS_03785	CDS	complement(601804..604524)	DNA gyrase subunit A
+mov:OVS_03790	CDS	complement(604525..606480)	gyrB; DNA gyrase subunit B
+mov:OVS_03795	CDS	606687..607451	hypothetical protein
+mov:OVS_03800	CDS	607554..608192	hypothetical protein
+mov:OVS_03805	CDS	608279..609076	hypothetical protein
+mov:OVS_03810	CDS	609078..609902	hypothetical protein
+mov:OVS_03815	CDS	610056..610826	hypothetical protein
+mov:OVS_03820	CDS	610828..611661	hypothetical protein
+mov:OVS_03825	CDS	611813..611929	hypothetical protein
+mov:OVS_03830	CDS	612105..612680	hypothetical protein
+mov:OVS_03835	CDS	613390..613644	hypothetical protein
+mov:OVS_03840	CDS	613660..613956	hypothetical protein
+mov:OVS_03845	CDS	614040..614129	hypothetical protein
+mov:OVS_03850	CDS	614160..614591	hypothetical protein
+mov:OVS_03855	CDS	614759..615211	hypothetical protein
+mov:OVS_03860	CDS	complement(615600..615713)	hypothetical protein
+mov:OVS_03865	CDS	complement(615765..616226)	hypothetical protein
+mov:OVS_03870	CDS	complement(616237..616356)	hypothetical protein
+mov:OVS_03875	CDS	complement(616825..617151)	hypothetical protein
+mov:OVS_03880	CDS	617120..617578	hypothetical protein
+mov:OVS_03885	CDS	617857..618045	hypothetical protein
+mov:OVS_03890	CDS	618219..618638	hypothetical protein
+mov:OVS_03895	CDS	618649..618870	hypothetical protein
+mov:OVS_03905	CDS	618997..619479	hypothetical protein
+mov:OVS_03910	CDS	619575..620381	hypothetical protein
+mov:OVS_03915	CDS	620404..620778	hypothetical protein
+mov:OVS_03920	CDS	620815..620928	hypothetical protein
+mov:OVS_03925	CDS	620932..621207	hypothetical protein
+mov:OVS_03930	CDS	621284..622141	hypothetical protein
+mov:OVS_03935	CDS	622165..623148	hypothetical protein
+mov:OVS_03940	CDS	623287..623481	hypothetical protein
+mov:OVS_03945	CDS	623503..624111	hypothetical protein
+mov:OVS_03950	CDS	624264..625019	hypothetical protein
+mov:OVS_03955	CDS	625041..625901	hypothetical protein
+mov:OVS_03960	CDS	626073..626516	hypothetical protein
+mov:OVS_03965	CDS	626737..626919	hypothetical protein
+mov:OVS_03970	CDS	626957..627811	hypothetical protein
+mov:OVS_03975	CDS	627995..628753	hypothetical protein
+mov:OVS_03980	CDS	628815..629591	hypothetical protein
+mov:OVS_03985	CDS	complement(629710..630216)	hypothetical protein
+mov:OVS_03990	CDS	complement(630314..630922)	hypothetical protein
+mov:OVS_03995	CDS	631072..631920	hypothetical protein
+mov:OVS_04000	CDS	632020..632364	hypothetical protein
+mov:OVS_04005	CDS	632395..633303	hypothetical protein
+mov:OVS_04010	CDS	633446..634210	hypothetical protein
+mov:OVS_04015	CDS	complement(634405..635010)	hypothetical protein
+mov:OVS_04020	CDS	635056..635268	hypothetical protein
+mov:OVS_04025	CDS	complement(635330..635467)	hypothetical protein
+mov:OVS_04030	CDS	635566..636111	hypothetical protein
+mov:OVS_04035	CDS	636233..636778	hypothetical protein
+mov:OVS_04040	CDS	636891..637436	hypothetical protein
+mov:OVS_04045	CDS	637589..638083	hypothetical protein
+mov:OVS_04050	CDS	638199..638669	hypothetical protein
+mov:OVS_04055	CDS	638632..638925	hypothetical protein
+mov:OVS_04060	CDS	complement(639126..639791)	hypothetical protein
+mov:OVS_04065	CDS	complement(639860..640048)	hypothetical protein
+mov:OVS_04070	CDS	640222..640725	hypothetical protein
+mov:OVS_04075	CDS	complement(640717..640863)	hypothetical protein
+mov:OVS_04080	CDS	640865..641371	hypothetical protein
+mov:OVS_04085	CDS	641533..642132	hypothetical protein
+mov:OVS_04090	CDS	complement(642454..643308)	hypothetical protein
+mov:OVS_04095	CDS	complement(643674..644138)	hypothetical protein
+mov:OVS_04100	CDS	complement(644390..644980)	hypothetical protein
+mov:OVS_04105	CDS	complement(645067..645297)	hypothetical protein
+mov:OVS_04110	gene	complement(645270..646217)	pseudogene
+mov:OVS_04115	CDS	646537..647013	tRNA (guanine-N1)-methyltransferase
+mov:OVS_04120	CDS	complement(647090..647740)	hypothetical protein
+mov:OVS_04125	CDS	648057..648812	DNA methylase N-4
+mov:OVS_04130	CDS	complement(648824..649393)	hypothetical protein
+mov:OVS_04135	CDS	649665..650219	hypothetical protein
+mov:OVS_04140	CDS	650396..651025	hypothetical protein
+mov:OVS_04145	CDS	651048..651749	hypothetical protein
+mov:OVS_04150	CDS	complement(651941..652246)	hypothetical protein
+mov:OVS_04155	CDS	652257..652640	hypothetical protein
+mov:OVS_04160	CDS	complement(652989..653471)	hypothetical protein
+mov:OVS_04165	CDS	653682..653990	hypothetical protein
+mov:OVS_04170	CDS	complement(654267..654869)	hypothetical protein
+mov:OVS_04175	CDS	complement(654894..655508)	hypothetical protein
+mov:OVS_04180	CDS	complement(655542..656261)	hypothetical protein
+mov:OVS_04185	CDS	complement(656334..657296)	hypothetical protein
+mov:OVS_04190	CDS	complement(657462..658199)	hypothetical protein
+mov:OVS_04195	CDS	658219..658416	hypothetical protein
+mov:OVS_04200	CDS	complement(658409..658546)	hypothetical protein
+mov:OVS_04205	CDS	658836..659474	hypothetical protein
+mov:OVS_04210	CDS	659502..659603	hypothetical protein
+mov:OVS_04215	CDS	659828..660658	hypothetical protein
+mov:OVS_04220	CDS	complement(660792..661076)	hypothetical protein
+mov:OVS_04225	CDS	661321..662040	hypothetical protein
+mov:OVS_04230	CDS	662191..663027	hypothetical protein
+mov:OVS_04235	CDS	663170..663721	hypothetical protein
+mov:OVS_04240	CDS	complement(663962..665035)	hypothetical protein
+mov:OVS_04245	CDS	665428..665976	hypothetical protein
+mov:OVS_04250	CDS	complement(665973..666128)	hypothetical protein
+mov:OVS_04255	CDS	666323..667246	hypothetical protein
+mov:OVS_04260	CDS	complement(667554..668216)	hypothetical protein
+mov:OVS_04265	CDS	668503..668745	hypothetical protein
+mov:OVS_04270	CDS	668875..669066	hypothetical protein
+mov:OVS_04275	CDS	669053..669169	hypothetical protein
+mov:OVS_04280	CDS	complement(669351..669758)	hypothetical protein
+mov:OVS_04285	CDS	complement(669786..670028)	hypothetical protein
+mov:OVS_04290	CDS	complement(670388..670864)	hypothetical protein
+mov:OVS_04295	CDS	complement(670986..671462)	hypothetical protein
+mov:OVS_04300	CDS	complement(671492..672112)	hypothetical protein
+mov:OVS_04305	CDS	complement(672190..672864)	hypothetical protein
+mov:OVS_04310	CDS	complement(673202..673573)	hypothetical protein
+mov:OVS_04315	CDS	complement(673633..674178)	hypothetical protein
+mov:OVS_04320	CDS	complement(674242..674406)	hypothetical protein
+mov:OVS_04325	CDS	674412..674957	hypothetical protein
+mov:OVS_04330	CDS	674969..675613	hypothetical protein
+mov:OVS_04335	CDS	complement(675714..677075)	hypothetical protein
+mov:OVS_04340	CDS	677074..677226	hypothetical protein
+mov:OVS_04345	CDS	complement(677724..677894)	hypothetical protein
+mov:OVS_04350	CDS	678174..678329	hypothetical protein
+mov:OVS_04355	CDS	678498..679178	hypothetical protein
+mov:OVS_04360	CDS	679366..680040	hypothetical protein
+mov:OVS_04365	CDS	680235..680780	hypothetical protein
+mov:OVS_04370	CDS	680882..680977	hypothetical protein
+mov:OVS_04375	CDS	681017..681355	hypothetical protein
+mov:OVS_04380	CDS	681454..681696	hypothetical protein
+mov:OVS_04385	CDS	681904..682632	hypothetical protein
+mov:OVS_04390	CDS	682830..683885	hypothetical protein
+mov:OVS_04395	CDS	684158..684823	hypothetical protein
+mov:OVS_04400	CDS	684910..685251	hypothetical protein
+mov:OVS_04405	CDS	685357..685605	hypothetical protein
+mov:OVS_04410	CDS	685760..689098	hypothetical protein
+mov:OVS_04415	CDS	689142..690044	hypothetical protein
+mov:OVS_04420	CDS	690084..690704	uracil phosphoribosyltransferase
+mov:OVS_04425	CDS	690723..690992	hypothetical protein
+mov:OVS_04430	CDS	complement(690995..693184)	DNA topoisomerase I
+mov:OVS_04435	CDS	complement(693204..694865)	hypothetical protein
+mov:OVS_04440	CDS	complement(694865..696109)	seryl-tRNA synthase
+mov:OVS_04445	CDS	complement(696109..698397)	cell division protein FtsH
+mov:OVS_04450	CDS	698563..699702	replication initiation and membrane attachment protein, DnaB2
+mov:OVS_04455	CDS	complement(699692..700231)	rRNA methyltransferase
+mov:OVS_04460	CDS	complement(700478..701683)	membrane protein
+mov:OVS_04465	CDS	complement(701674..702048)	ribonuclease P
+mov:OVS_04470	CDS	complement(702077..702220)	rpmH; 50S ribosomal protein L34
+mov:OVS_00005	CDS	join(702269..702511,1..1023)	chromosomal replication protein DnaA
