@@ -1,0 +1,2299 @@
+hap:HAPS_0001	CDS	2..1021	gapA; glyceraldehyde-3-phosphate dehydrogenase
+hap:HAPS_0002	CDS	1967..4633	gyrA; DNA gyrase subunit A
+hap:HAPS_0003	CDS	complement(5214..8822)	vtaA1; virulence-associated trimeric autotransporter
+hap:HAPS_0004	CDS	complement(8972..9094)	hypothetical protein
+hap:HAPS_0005	CDS	9632..11416	frdA; fumarate reductase (anaerobic) catalytic and NAD/flavoprotein subunit
+hap:HAPS_0006	CDS	11423..12193	frdB; fumarate reductase (anaerobic), Fe-S subunit
+hap:HAPS_0007	CDS	12206..12598	frdC; fumarate reductase (anaerobic), membrane anchor subunit C
+hap:HAPS_0008	CDS	12609..12953	frdD; fumarate reductase (anaerobic), membrane anchor subunit D
+hap:HAPS_0009	CDS	complement(13272..14027)	cysZ; putative sulfate transport protein CysZ involved in cysteine biosynthesis
+hap:HAPS_0010	CDS	14136..14954	zipA; cell division protein ZipA
+hap:HAPS_0011	CDS	15018..17045	ligA; NAD-dependent DNA ligase LigA
+hap:HAPS_0012	CDS	complement(17103..18932)	recQ; ATP-dependent DNA helicase RecQ, superfamily II
+hap:HAPS_0013	CDS	complement(18932..19240)	cyaY; frataxin-like protein implicated in iron transport
+hap:HAPS_0014	CDS	complement(19323..19952)	lexA; LexA repressor/SOS-response transcriptional repressors (RecA-mediated autopeptidases)
+hap:HAPS_0015	CDS	complement(20146..21147)	pykF; pyruvate kinase/FOG: TPR repeat, Sel1 subfamily
+hap:HAPS_0016	CDS	complement(21151..21735)	hypothetical protein
+hap:HAPS_0017	CDS	complement(21737..22492)	Sel1 domain protein, repeat-containing protein
+hap:HAPS_0018	CDS	22799..25234	plsB; glycerol-3-phosphate acyltransferase
+hap:HAPS_0019	CDS	25428..25970	apt; adenine phosphoribosyltransferase
+hap:HAPS_0020	CDS	26035..28047	dnaX; DNA polymerase III subunits gamma and tau
+hap:HAPS_0021	CDS	28053..28949	ABC-type multidrug transport system, ATPase component
+hap:HAPS_0022	CDS	28971..29726	ABC-type multidrug transport system, permease component
+hap:HAPS_0023	CDS	29816..30097	stbD; putative plasmid stability protein StbD, antitoxin of toxin-antitoxin stability system
+hap:HAPS_0024	CDS	30094..30378	stbE; putative plasmid stability protein StbE, addiction module antitoxin
+hap:HAPS_0025	CDS	30765..32138	sbcB; exonuclease I
+hap:HAPS_0026	CDS	32221..33180	conserved hypothetical protein
+hap:HAPS_0027	CDS	33329..34150	trpH; metal-dependent phosphoesterase
+hap:HAPS_0028	CDS	complement(34257..34748)	ilvH; acetolactate synthase 3 regulatory subunit
+hap:HAPS_0029	CDS	complement(34741..36438)	ilvI; acetolactate synthase 3 catalytic subunit
+hap:HAPS_0030	CDS	36776..37858	leuB; 3-isopropylmalate dehydrogenase
+hap:HAPS_0031	CDS	complement(38174..41263)	acrB; acriflavine resistance protein, cation/multidrug efflux pump
+hap:HAPS_0032	CDS	complement(41275..42480)	acrA; possible acridine efflux pump AcrA, RND efflux membrane-fusion protein
+hap:HAPS_0033	CDS	complement(42503..43084)	acrR; transcriptional regulator acrR protein
+hap:HAPS_0034	CDS	43443..45041	purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+hap:HAPS_0035	CDS	complement(45117..46307)	metC; cystathionine beta-lyases/cystathionine gamma-synthase
+hap:HAPS_0036	CDS	complement(46304..46867)	ogt; methylated DNA-protein cysteine methyltransferase
+hap:HAPS_0037	CDS	complement(47253..48542)	ompP1; long-chain fatty acid transport protein P1/47 kDa outer membrane protein precursor
+hap:HAPS_0038	CDS	48840..49115	mutS; possible DNA mismatch repair protein
+hap:HAPS_0039	CDS	49279..49749	conserved hypothetical protein
+hap:HAPS_0040	CDS	50051..50731	neuA1; CMP-N-acetylneuraminic acid synthetase
+hap:HAPS_0041	CDS	50718..51914	wzx; putative lipooligosaccharide flippase
+hap:HAPS_0042	CDS	51915..52883	lsgB; CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase/lipopolysaccharide biosynthesis protein
+hap:HAPS_0043	CDS	52895..53902	putative O antigen polymerase
+hap:HAPS_0044	CDS	54105..55136	wcwK; glycosyltransferase/capsular polysaccharide phosphotransferase wcwK (stealth protein wcwK)
+hap:HAPS_0045	CDS	55154..55972	wcfQ; extracellular polysaccharide glycosyltransferase (cell wall biogenesis)
+hap:HAPS_0046	CDS	55980..57131	wbgX; DegT/DnrJ/EryC1/StrS aminotransferase
+hap:HAPS_0047	CDS	57145..57738	wbgY; putative glycosyltransferase/lipopolysaccharide biosynthesis protein
+hap:HAPS_0048	CDS	58104..60044	capD; polysaccharide biosynthesis protein CapD
+hap:HAPS_0049	CDS	60308..61462	wza; polysaccharide export protein, periplasmic protein involved in capsular polysaccharide export
+hap:HAPS_0050	CDS	61466..61909	ptp; cytoplasmic tyrosine phosphatase
+hap:HAPS_0051	CDS	61928..64015	wzz; tyrosine kinase, chain length regulator in capsular polysaccharide biosynthesis
+hap:HAPS_0052	CDS	64250..64696	HTH-type transcriptional regulator, BadM/Rrf2 family
+hap:HAPS_0053	CDS	64728..65948	iscS; cysteine desulfurase
+hap:HAPS_0054	CDS	66114..66497	iscU; scaffold protein, NifU-like protein involved in Fe-S cluster formation
+hap:HAPS_0055	CDS	66828..67151	iscA; iron-binding protein, HesB family iron-sulfur (Fe-S) cluster formation protein
+hap:HAPS_0056	CDS	67161..67682	hscB; co-chaperone HscB/dnaJ-domain-containing proteins 1
+hap:HAPS_0057	CDS	67947..68918	ISNme5, family IS110
+hap:HAPS_0058	CDS	68965..69600	hisS; histidyl-tRNA synthetase
+hap:HAPS_0059	CDS	69775..71451	hscA; chaperone protein HscA
+hap:HAPS_0060	CDS	71727..72068	fdx; ferredoxin, 2Fe-2S type, ISC system
+hap:HAPS_0061	CDS	72068..72262	iscX; FeS assembly protein IscX
+hap:HAPS_0062	gene	complement(72344..72953)	pseudogene
+hap:HAPS_0063	CDS	complement(73068..73577)	luxS; S-ribosylhomocysteinase/S-ribosylhomocysteinase lyase involved in autoinducer AI2 synthesis
+hap:HAPS_0064	CDS	73841..75688	typA; GTP-binding protein/membrane GTPase involved in stress response
+hap:HAPS_0065	CDS	75737..76000	grxA; glutaredoxin 1
+hap:HAPS_0066	CDS	complement(76392..76736)	conserved hypothetical protein
+hap:HAPS_0067	CDS	77166..78716	cydA; cytochrome D ubiquinol oxidase, subunit I
+hap:HAPS_0068	CDS	78730..79878	cydB; cytochrome D ubiquinol oxidase, subunit II
+hap:HAPS_0069	CDS	79990..80280	conserved hypothetical protein
+hap:HAPS_0070	CDS	80450..80848	ybgC; Pol-Pal system-associated acyl-CoA thioesterase
+hap:HAPS_0071	CDS	80873..81553	tolQ; colicin transport protein/biopolymer transport protein, membrane spanning protein in TolA-TolQ-TolR complex
+hap:HAPS_0072	CDS	81619..82059	tolR; colicin uptake protein TolR, membrane spanning protein in TolA-TolQ-TolR complex
+hap:HAPS_0073	CDS	82076..83377	tolA; cell envelope integrity inner membrane protein TolA
+hap:HAPS_0074	CDS	83508..84683	tolB; dna-J like membrane chaperone, translocation protein TolB/colicin tolerance protein/periplasmic component of the Tol biopolymer transport system
+hap:HAPS_0075	CDS	84702..85163	palA; 18K peptidoglycan-associated outer membrane lipoprotein, precursor PalA
+hap:HAPS_0076	CDS	85309..86169	djlA; DNA-J like membrane chaperone protein
+hap:HAPS_0077	CDS	86169..86792	yjdF; inner membrane protein
+hap:HAPS_0078	CDS	86841..87761	dusC; tRNA-dihydrouridine synthase C
+hap:HAPS_0079	CDS	87761..88807	hypothetical membrane protein
+hap:HAPS_0080	CDS	89082..89870	truA; tRNA pseudouridine synthase A
+hap:HAPS_0081	CDS	89939..91414	cafA; ribonuclease G
+hap:HAPS_0082	CDS	91573..92613	potD; spermidine/putrescine-binding periplasmic protein 1 precursor
+hap:HAPS_0083	CDS	92751..93329	conserved hypothetical protein
+hap:HAPS_0084	CDS	93355..93858	conserved hypothetical protein
+hap:HAPS_0085	CDS	93868..94593	ABC-type (unclassified) transport system, ATPase component
+hap:HAPS_0086	CDS	94730..95176	ptsN; PTS system, nitrogen regulatory IIA-like protein
+hap:HAPS_0087	CDS	95182..96027	predicted P-loop-containing kinase
+hap:HAPS_0088	CDS	96029..97210	visC; FAD-dependent monooxygenase
+hap:HAPS_0089	CDS	97233..97817	hlpB; lipoprotein HlpB, chromosome segregation ATPase
+hap:HAPS_0090	CDS	97902..99281	cysS; cysteinyl-tRNA synthetase
+hap:HAPS_0091	gene	complement(99345..100167)	metE; pseudogene
+hap:HAPS_0092	CDS	complement(100304..101899)	hbpA; heme-binding protein A precursor
+hap:HAPS_0093	gene	102073..102420	sdaA; pseudogene
+hap:HAPS_0094	CDS	complement(102486..103274)	fhuF; ferric iron reductase involved in ferric hydroximate transport
+hap:HAPS_0095	gene	103329..103628	fhuC; pseudogene
+hap:HAPS_0096	gene	103869..104993	fhuA; pseudogene
+hap:HAPS_0097	CDS	complement(105099..107498)	glgP; glucan phosphorylase
+hap:HAPS_0098	CDS	complement(107658..107822)	conserved hypothetical protein
+hap:HAPS_0099	CDS	complement(107831..108370)	dsbB; disulfide bond formation protein B (Disulfide oxidoreductase)
+hap:HAPS_0100	gene	complement(108384..109930)	nhaB; pseudogene
+hap:HAPS_0101	CDS	110094..110816	fadR; fatty acid metabolism regulator
+hap:HAPS_0102	CDS	111012..112064	apbE; thiamine biosynthesis membrane-associated lipoprotein
+hap:HAPS_0103	CDS	112076..112330	conserved hypothetical protein
+hap:HAPS_0104	CDS	112355..112777	nucleotidyltransferase substrate binding protein
+hap:HAPS_0105	CDS	112756..113076	DNA polymerase beta domain protein region
+hap:HAPS_0106	CDS	113076..114227	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+hap:HAPS_0107	CDS	complement(114423..116270)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+hap:HAPS_0108	CDS	complement(116323..117135)	suhB; inositol-1-monophosphatase (IMPase), putative mRNA turnover protein
+hap:HAPS_0109	CDS	117532..118503	ISNme5, family IS110
+hap:HAPS_0110	CDS	119050..119508	mraZ; cell division protein MraZ, possible DNA-binding transcription factor
+hap:HAPS_0111	CDS	119527..120465	mraW; S-adenosyl-methyltransferase MraW involved in cell envelope biogenesis
+hap:HAPS_0112	CDS	120465..120776	ftsL; cell division protein FtsL
+hap:HAPS_0113	CDS	120779..122830	ftsI; cell division protein FtsI/penicillin-binding protein 3
+hap:HAPS_0114	CDS	122840..124330	murE; UDP-N-acetylmuramyl-tripeptide synthetase
+hap:HAPS_0115	CDS	124475..125869	murF; UDP-MurNAc-pentapeptide synthetase
+hap:HAPS_0116	CDS	125880..126962	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+hap:HAPS_0117	CDS	127085..128383	murD; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+hap:HAPS_0118	CDS	128383..129561	ftsW; cell division membrane protein
+hap:HAPS_0119	CDS	129576..130631	murG; N-acetylglucosaminyl transferase involved with LPS
+hap:HAPS_0120	CDS	130684..132111	murC; UDP-N-acetylmuramate--L-alanine ligase
+hap:HAPS_0121	CDS	132259..133170	ddl; D-alanine--D-alanine ligase
+hap:HAPS_0122	CDS	133170..133949	ftsQ; cell division septal protein FtsQ
+hap:HAPS_0123	CDS	133976..135253	ftsA; cell division protein FtsA/actin-like ATPase involved in cell division
+hap:HAPS_0124	CDS	135296..136522	ftsZ; cell division protein FtsZ/Cell division GTPase
+hap:HAPS_0125	CDS	136548..137468	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+hap:HAPS_0126	CDS	137658..138872	sstT; serine/threonine transporter SstT
+hap:HAPS_0127	CDS	139145..140944	lepA; membrane GTP-binding protein LepA
+hap:HAPS_0128	CDS	141203..142174	ISNme5, family IS110
+hap:HAPS_0129	CDS	142250..143212	lepB; signal peptidase I
+hap:HAPS_0130	CDS	143345..144016	rnc; ribonuclease III/dsRNA-specific ribonuclease
+hap:HAPS_0131	CDS	144077..144979	era; GTP-binding protein Era binding 16S rRNA and 30S ribosome
+hap:HAPS_0132	CDS	144979..145698	recO; recombinational DNA repair protein (RecF pathway)
+hap:HAPS_0133	CDS	complement(145803..146330)	conserved hypothetical protein
+hap:HAPS_0134	CDS	complement(146581..147654)	metX; homoserine O-acetyltransferase
+hap:HAPS_0135	gene	complement(147837..149312)	pseudogene
+hap:HAPS_0136	CDS	149526..150239	pyrH; uridylate kinase
+hap:HAPS_0137	CDS	complement(150301..150879)	gmhA; phosphoheptose isomerase
+hap:HAPS_0138	CDS	151009..151566	frr; ribosome recycling factor
+hap:HAPS_0139	CDS	151710..152429	hypothetical protein
+hap:HAPS_0140	CDS	complement(152562..153788)	putative xanthine/uracil permease
+hap:HAPS_0141	CDS	complement(154045..155085)	perM; PerM protein, predicted permease
+hap:HAPS_0142	CDS	complement(155158..156147)	usg; aspartate-semialdehyde dehydrogenase
+hap:HAPS_0143	CDS	complement(156290..156757)	fxsA; FxsA protein affecting phage T7 exclusion by the F plasmid
+hap:HAPS_0144	CDS	157300..158805	ilvG; acetolactate synthase 2 large subunit, biosynthetic type
+hap:HAPS_0145	CDS	158817..159035	ilvM; acetolactate synthase 2 regulatory subunit
+hap:HAPS_0146	gene	159055..159649	pseudogene
+hap:HAPS_0147	CDS	complement(159611..159763)	hypothetical protein
+hap:HAPS_0148	gene	complement(159915..163797)	sphB; pseudogene
+hap:HAPS_0149	CDS	164136..166190	metG; methionyl-tRNA synthetase
+hap:HAPS_0150	CDS	166246..166662	ndk; nucleoside diphosphate kinase
+hap:HAPS_0151	CDS	complement(167525..167926)	conserved hypothetical protein
+hap:HAPS_0152	CDS	complement(167913..168461)	nudE; ADP-ribose diphosphatase NudE
+hap:HAPS_0153	CDS	complement(168510..168986)	predicted membrane protein
+hap:HAPS_0154	CDS	169171..169995	focA; FNT family formate-nitrite transporter
+hap:HAPS_0155	CDS	170089..172413	pflB; pyruvate-formate lyase
+hap:HAPS_0156	CDS	172555..173295	pflA; pyruvate formate lyase-activating enzyme 1
+hap:HAPS_0157	CDS	complement(173488..174258)	conserved hypothetical protein
+hap:HAPS_0158	CDS	complement(174471..176129)	AAE family aspartate/alanine transporter
+hap:HAPS_0159	CDS	176317..177321	gltS; sodium/glutamate symport carrier protein
+hap:HAPS_0160	CDS	complement(177458..178177)	bioD; dithiobiotin synthetase
+hap:HAPS_0161	CDS	complement(178357..178749)	conserved hypothetical protein
+hap:HAPS_0162	CDS	179043..179471	rplM; 50S ribosomal protein L13
+hap:HAPS_0163	CDS	179487..179882	rpsI; 30S ribosomal protein S9
+hap:HAPS_0164	CDS	180997..182088	ompP2; outer membrane protein P2 precursor (OMP P2)
+hap:HAPS_0165	CDS	complement(182164..182892)	yfiF; tRNA/rRNA methyltransferase
+hap:HAPS_0166	CDS	183018..184058	afuA; iron (Fe3+) ABC superfamily ATP binding cassette transporter, binding protein
+hap:HAPS_0167	CDS	complement(184225..184995)	hlyX; fumarate/nitrate reduction transcriptional regulator, cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+hap:HAPS_0168	CDS	185084..185191	conserved hypothetical protein
+hap:HAPS_0169	CDS	185360..185998	yecO; S-adenosyl-L-methionine-dependent methyltransferase
+hap:HAPS_0170	CDS	186133..187581	dnaB; replicative DNA helicase
+hap:HAPS_0171	CDS	187583..187861	conserved hypothetical protein
+hap:HAPS_0172	CDS	187861..188310	nrdR; transcriptional repressor NrdR, consists of a Zn-ribbon and ATP-cone domains
+hap:HAPS_0173	CDS	complement(188318..189331)	lysine 2,3-aminomutase YodO family protein
+hap:HAPS_0174	CDS	complement(189355..189888)	conserved hypothetical protein
+hap:HAPS_0175	CDS	190052..190618	efp; elongation factor P
+hap:HAPS_0176	CDS	complement(190642..190821)	zapB; putative cell division protein zapB
+hap:HAPS_0177	CDS	191147..191365	conserved hypothetical protein
+hap:HAPS_0178	CDS	191516..192004	tdk; thymidine kinase
+hap:HAPS_0179	CDS	192138..192785	yniC; 2-deoxyglucose-6-phosphatase
+hap:HAPS_0180	CDS	192932..195796	polA; DNA polymerase I
+hap:HAPS_0181	CDS	complement(195864..196526)	yccA; integral membrane protein, transport protein
+hap:HAPS_0182	CDS	complement(196644..199217)	clpB; ATP-dependent Clp protease chain B/ATPases with chaperone activity, ATP-binding subunit
+hap:HAPS_0183	CDS	complement(199520..200203)	dsbC; thiol:disulfide interchange protein DsbC precursor
+hap:HAPS_0184	CDS	complement(200215..201708)	metalloprotease
+hap:HAPS_0185	CDS	201984..202700	znuC; high-affinity zinc uptake system ATP-binding protein ZnuC
+hap:HAPS_0186	CDS	202711..203496	znuB; high-affinity zinc uptake system membrane protein
+hap:HAPS_0187	CDS	203620..204417	glmS; possible glutamine amidotransferase class-II
+hap:HAPS_0188	CDS	complement(204462..205403)	lacD; tagatose 1,6-diphosphate aldolase
+hap:HAPS_0189	CDS	complement(205414..205800)	ptsEIIA; PTS system, IIA component
+hap:HAPS_0190	CDS	complement(205961..207751)	bgaC; beta-galactosidase, glucosyl hydrolase family protein
+hap:HAPS_0191	CDS	complement(207930..208766)	ptsEIID; PTS system, IIDcomponent
+hap:HAPS_0192	CDS	complement(208753..209628)	ptsEIIC; PTS system, IIC component
+hap:HAPS_0193	CDS	complement(209642..210115)	ptsEIIB; PTS system, IIB component
+hap:HAPS_0194	CDS	complement(210132..211262)	agaS; tagatose-6-phosphate ketose/aldose isomerase
+hap:HAPS_0195	CDS	complement(211314..212075)	agaR; transcriptional repressor AgaR/DNA-binding transcriptional dual regulator
+hap:HAPS_0196	CDS	212416..213333	rdgC; recombination associated protein dependent growth factor C
+hap:HAPS_0197	CDS	213587..215650	afuB; ABC-type Fe3+ transport system, permease component
+hap:HAPS_0198	CDS	215634..216689	fbpC; ABC-type spermidine/putrescine transport systems, ATPase component
+hap:HAPS_0199	tRNA	216783..216859	tRNA-Met
+hap:HAPS_0200	CDS	217115..217522	conserved hypothetical protein
+hap:HAPS_0201	CDS	217537..219069	nusA; transcription elongation factor NusA
+hap:HAPS_0202	CDS	219087..221648	infB; translation initiation factor 2 (IF-2; GTPase)
+hap:HAPS_0203	CDS	221788..222048	hypothetical protein
+hap:HAPS_0204	CDS	222041..222418	putative phage associated protein
+hap:HAPS_0205	gene	complement(222459..222677)	pseudogene
+hap:HAPS_0206	CDS	223079..227518	vtaA2; virulence-associated trimeric autotransporter
+hap:HAPS_0207	CDS	complement(227629..228519)	putative HTH-type transcriptional regulator
+hap:HAPS_0208	CDS	228657..231269	topA; DNA topoisomerase I
+hap:HAPS_0209	CDS	complement(231316..233052)	putative sulphatase
+hap:HAPS_0210	CDS	complement(233054..233278)	conserved hypothetical protein
+hap:HAPS_0211	CDS	complement(233482..234183)	kdkA; 3-deoxy-D-manno-octulosonic-acid kinase
+hap:HAPS_0212	gene	234302..234960	folE; pseudogene
+hap:HAPS_0213	CDS	235105..236556	thiI; thiamine biosynthesis protein ThiI/thiamine biosynthesis ATP pyrophosphatase
+hap:HAPS_0214	CDS	236579..237940	glmU; bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+hap:HAPS_0215	CDS	238232..239197	rseB; periplasmic negative regulator of sigmaE
+hap:HAPS_0216	CDS	239194..239622	rseC; sigma-E factor regulatory protein
+hap:HAPS_0217	CDS	239633..241333	lcfA; long-chain-fatty-acid--CoA ligase
+hap:HAPS_0218	CDS	241442..242596	membrane-bound metallopeptidase
+hap:HAPS_0219	CDS	242598..243443	conserved hypothetical protein
+hap:HAPS_0220	CDS	243473..245206	ompD15; surface antigen (D15), outer membrane protein
+hap:HAPS_0221	CDS	245219..249124	putative tubulin binding protein
+hap:HAPS_0222	CDS	249362..249898	abiQ; AbiQ-like protein/lactococcal phage abortive infection protein
+hap:HAPS_0223	CDS	249943..251685	cydD; cysteine/glutathione ABC transporter
+hap:HAPS_0224	CDS	251689..253353	cydC; cysteine/glutathione ABC transporter
+hap:HAPS_0225	CDS	complement(253476..253892)	mutT; mutator mutT protein, NTP pyrophosphohydrolase including oxidative damage repair enzymes
+hap:HAPS_0226	CDS	complement(253961..256645)	secA; preprotein translocase subunit SecA
+hap:HAPS_0227	CDS	complement(256733..257053)	conserved hypothetical protein
+hap:HAPS_0228	CDS	257159..257467	conserved hypothetical protein
+hap:HAPS_0229	CDS	257485..257850	nlpE; lipoprotein copper homeostasis and adhesion, NlpE
+hap:HAPS_0230	CDS	complement(257942..258418)	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+hap:HAPS_0231	CDS	complement(258418..259851)	pcnB; polyA polymerase
+hap:HAPS_0232	CDS	complement(260042..260488)	dksA; dosage-dependent DnaK suppressor protein
+hap:HAPS_0233	CDS	complement(260708..262729)	malQ; 4-alpha-glucanotransferase
+hap:HAPS_0234	CDS	complement(262839..263729)	malG; ABC-type maltose transport systems, permease component
+hap:HAPS_0235	CDS	complement(263740..265296)	malF; ABC-type maltose transport systems, permease components
+hap:HAPS_0236	CDS	complement(265545..266801)	malE; ABC-type maltose transporter periplasmic protein, substrate recognition for transport and chemotaxis
+hap:HAPS_0237	CDS	267061..268200	malK; ABC-type maltose transport systems, ATPase components
+hap:HAPS_0238	CDS	268404..269555	hemN1; oxygen-independent coproporphyrinogen III oxidase
+hap:HAPS_0239	gene	complement(269610..269750)	pseudogene
+hap:HAPS_0240	CDS	complement(269961..270884)	hypothetical bacteriophage protein
+hap:HAPS_0241	gene	complement(270883..271770)	pseudogene
+hap:HAPS_0242	gene	complement(271758..271949)	pseudogene
+hap:HAPS_0243	CDS	complement(271921..272088)	hypothetical protein
+hap:HAPS_0244	CDS	272745..273386	hypothetical protein
+hap:HAPS_0245	CDS	273397..273618	hypothetical protein
+hap:HAPS_0246	CDS	273683..274651	hypothetical phage protein
+hap:HAPS_0247	CDS	274744..275097	bacteriophage Mu GP27-like protein
+hap:HAPS_0248	CDS	complement(275191..275655)	conserved hypothetical protein
+hap:HAPS_0249	CDS	275756..275887	hypothetical protein
+hap:HAPS_0250	CDS	275949..276578	lolA; outer-membrane lipoprotein carrier protein precursor
+hap:HAPS_0251	CDS	276649..276960	trpR; tryptophan operon repressor TrpR
+hap:HAPS_0252	CDS	276944..277714	mtgA; monofunctional biosynthetic peptidoglycan transglycosylase, membrane carboxypeptidase (penicillin-binding protein)
+hap:HAPS_0253	CDS	complement(277737..278474)	ABC-type nitrate/sulfonate/bicarbonate transport permease
+hap:HAPS_0254	CDS	complement(278477..279643)	ABC-type nitrate/sulfonate/bicarbonate transport systems periplasmic components protein
+hap:HAPS_0255	CDS	complement(279652..280428)	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase
+hap:HAPS_0256	CDS	280628..281695	acyl-CoA dehydrogenase
+hap:HAPS_0257	CDS	281742..282284	mip; putative macrophage infectivity potentiator-related protein, peroxidase/antioxidase
+hap:HAPS_0258	CDS	282305..283189	rimK; ribosomal protein S6 modification protein, glutamic acid ligase
+hap:HAPS_0259	CDS	283315..284646	mukF; chromosome partitioning protein MukF, condesin subunit F
+hap:HAPS_0260	CDS	284693..285403	mukE; chromosome partitioning protein MukE, condesin subunit E
+hap:HAPS_0261	CDS	285423..286475	hpaIIM; Type II modification methyltransferase HpaII/DNA (cytosine-5-)-methyltransferase
+hap:HAPS_0262	CDS	286483..287082	hypothetical protein
+hap:HAPS_0263	CDS	287098..291588	mukB; chromosome partition protein MukB involved in cell division
+hap:HAPS_0264	CDS	complement(291647..292918)	cca; multifunctional tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase/phosphatase
+hap:HAPS_0265	CDS	complement(292967..293635)	frxA; NAD(P)H-flavin oxidoreductase
+hap:HAPS_0266	CDS	293713..294006	dusA; tRNA-dihydrouridine synthase A
+hap:HAPS_0268	gene	complement(294773..295171)	lysC; pseudogene
+hap:HAPS_0267	CDS	295171..295335	hypothetical protein
+hap:HAPS_0269	CDS	complement(295319..295849)	cdtC; cytolethal distending toxin protein C
+hap:HAPS_0270	CDS	complement(295860..296693)	cdtB; cytolethal distending toxin protein B
+hap:HAPS_0271	CDS	complement(296702..297382)	cdtA; cytolethal distending toxin protein A
+hap:HAPS_0272	CDS	complement(297490..299172)	glnS; glutaminyl-tRNA synthetase
+hap:HAPS_0273	CDS	299369..300367	glpX; fructose 1,6-bisphosphatase II
+hap:HAPS_0274	CDS	300525..302147	recJ; single-stranded-DNA-specific exonuclease RecJ
+hap:HAPS_0275	CDS	302276..303121	plpD; lipoprotein Plp4/outer membrane protein and related peptidoglycan-associated (lipo)proteins
+hap:HAPS_0276	CDS	303211..304029	cof protein, hydrolases of the HAD superfamily protein
+hap:HAPS_0277	CDS	304042..304560	sortase and related acyltransferases
+hap:HAPS_0278	CDS	304672..305559	dapA; dihydrodipicolinate synthase
+hap:HAPS_0279	CDS	305727..307178	lysS; lysyl-tRNA synthetase
+hap:HAPS_0280	CDS	307438..308211	conserved hypothetical protein
+hap:HAPS_0281	CDS	308523..309248	rpsB; 30S ribosomal protein S2
+hap:HAPS_0282	CDS	309343..310194	tsf; elongation factor Ts
+hap:HAPS_0283	CDS	complement(310251..310967)	fdhD; formate dehydrogenase accessory protein
+hap:HAPS_0284	CDS	311614..312201	fdxG_2; transcriptional formate dehydrogenase alpha major subunit/formate dehydrogenase, nitrate-inducible, major subunit
+hap:HAPS_0285	CDS	312250..314682	fdxG_1; transcriptional formate dehydrogenase alpha major subunit/formate dehydrogenase, nitrate-inducible, major subunit
+hap:HAPS_0286	CDS	314684..315610	fdxH; formate dehydrogenase iron-sulfur subunit, beta subunit/Fe-S-cluster-containing hydrogenase components 1
+hap:HAPS_0287	CDS	315603..316271	fdxI; formate dehydrogenase cytochrome B556 subunit, gamma subunit
+hap:HAPS_0288	gene	316503..317444	pseudogene
+hap:HAPS_0289	CDS	317398..317586	hypothetical protein
+hap:HAPS_0290	CDS	317851..320163	glgB; glycogen branching enzyme/1,4-alpha-glucan branching enzym
+hap:HAPS_0291	CDS	320433..322418	glgX; glycogen operon protein GlgX
+hap:HAPS_0292	CDS	322449..323738	glgC; glucose-1-phosphate adenylyltransferase
+hap:HAPS_0293	CDS	323878..325311	glgA; glycogen synthase
+hap:HAPS_0294	CDS	325463..326926	guaB; inositol-5-monophosphate dehydrogenase
+hap:HAPS_0295	CDS	327191..327694	exopolysaccharide biosynthesis protein
+hap:HAPS_0296	CDS	327710..328390	putative ATPase involved in DNA repair, putative prophage antirepressor
+hap:HAPS_0297	CDS	328462..330033	guaA; bifunctional GMP synthase/glutamine amidotransferase protein
+hap:HAPS_0298	gene	330168..330641	pseudogene
+hap:HAPS_0299	gene	complement(330722..331110)	pseudogene
+hap:HAPS_0300	CDS	complement(331234..331452)	hypothetical protein
+hap:HAPS_0301	CDS	complement(331901..332158)	conserved hypothetical protein
+hap:HAPS_0302	CDS	complement(332155..333801)	ATPase involved in DNA repair, putative transmembrane protein
+hap:HAPS_0303	CDS	complement(333848..334924)	dmcA; methyl-accepting chemotaxis protein
+hap:HAPS_0304	CDS	complement(334940..335326)	conserved hypothetical protein
+hap:HAPS_0305	CDS	complement(335353..336066)	conserved hypothetical protein
+hap:HAPS_0306	CDS	complement(336277..336567)	hypothetical protein
+hap:HAPS_0307	CDS	complement(336629..336967)	conserved hypothetical protein
+hap:HAPS_0308	CDS	complement(336976..337863)	transcriptional regulator-like protein, helix-turn-helix domain-containing protein
+hap:HAPS_0309	CDS	338081..338425	XRE family transcriptional regulator
+hap:HAPS_0310	CDS	complement(338466..339269)	xthA; exonuclease III
+hap:HAPS_0311	CDS	complement(339385..340761)	yojA; GntP family gluconate/proton (H+) symporter
+hap:HAPS_0312	CDS	complement(341069..341956)	mesJ; predicted ATPase of the PP-loop superfamily implicated in cell cycle control
+hap:HAPS_0314	CDS	complement(342082..342216)	hypothetical protein
+hap:HAPS_0313	CDS	342200..342766	ubiX; aromatic acid decarboxylase
+hap:HAPS_0316	CDS	complement(342801..342914)	hypothetical protein
+hap:HAPS_0315	CDS	342899..343204	conserved hypothetical protein
+hap:HAPS_0317	CDS	343366..346224	glnE; glutamate-ammonia-ligase adenylyltransferase
+hap:HAPS_0318	CDS	346241..347080	queF; NADPH-dependent 7-cyano-7-deazaguanine reductase
+hap:HAPS_0319	CDS	347193..347675	lrp; leucine-responsive transcriptional regulator
+hap:HAPS_0320	CDS	347685..350288	ftsK; DNA translocase FtsK involved in cell division, DNA segregation ATPase FtsK
+hap:HAPS_0321	CDS	350372..351463	aroG; phospho-2-dehydro-3-deoxyheptonate aldolase
+hap:HAPS_0322	CDS	351472..352218	putative M22-like peptidase
+hap:HAPS_0323	CDS	352226..352954	conserved hypothetical protein
+hap:HAPS_0324	CDS	complement(353207..353737)	cdtC; cytolethal distending toxin protein C
+hap:HAPS_0325	CDS	complement(353748..354581)	cdtB; cytolethal distending toxin protein B
+hap:HAPS_0326	CDS	complement(354590..355270)	cdtA; cytolethal distending toxin protein A
+hap:HAPS_0327	CDS	complement(355390..356547)	tgt; queuine tRNA-ribosyltransferase
+hap:HAPS_0328	CDS	complement(356627..359059)	gyrB; DNA gyrase subunit B
+hap:HAPS_0329	CDS	359314..359826	yajC; preprotein translocase subunit YajC
+hap:HAPS_0330	CDS	359826..360056	sirA; SirA protein/redox protein, regulator of disulfide bond formation
+hap:HAPS_0331	CDS	complement(360079..360423)	conserved hypothetical protein
+hap:HAPS_0332	CDS	complement(360439..360972)	conserved hypothetical protein
+hap:HAPS_0333	CDS	361101..362450	pmbA; antibiotic maturation factor PmbA
+hap:HAPS_0334	gene	362740..363123	ykvZ; pseudogene
+hap:HAPS_0335	CDS	complement(363517..364122)	leuD; isopropylmalate isomerase small subunit
+hap:HAPS_0336	CDS	complement(364134..365540)	leuC; isopropylmalate isomerase large subunit, dehydratase component
+hap:HAPS_0337	CDS	365847..365963	hypothetical protein
+hap:HAPS_0338	CDS	complement(365957..367153)	proP; bicyclomycin/multidrug efflux system
+hap:HAPS_0339	CDS	complement(367154..367846)	rsuA; ribosomal small subunit pseudouridine synthase A
+hap:HAPS_0340	CDS	complement(367929..369305)	cpxA; two-component sensor protein/signal transduction histidine kinase
+hap:HAPS_0341	CDS	complement(369375..370100)	cpxR; transcriptional regulatory protein CpxR/response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+hap:HAPS_0342	CDS	complement(370200..370976)	mazG; nucleoside triphosphate pyrophosphohydrolase
+hap:HAPS_0343	CDS	371451..372776	pepP; Xaa-Pro aminopeptidase
+hap:HAPS_0344	CDS	372840..373103	phd; prevent-host-death family protein, antitoxin of a toxin/antitoxin system, phd-like protein
+hap:HAPS_0345	CDS	373100..373507	pilT; pilT domain-containing protein
+hap:HAPS_0346	CDS	373572..374654	serC; phosphoserine aminotransferase
+hap:HAPS_0347	CDS	complement(374775..375746)	ISNme5, family IS110
+hap:HAPS_0348	CDS	375987..377675	hsdM; Type I restriction-modification system methyltransferase subunit
+hap:HAPS_0349	CDS	377668..379032	hsdS; Type I restriction-modification system, S subunit/Type I restriction modification DNA specificity domain-containing protein
+hap:HAPS_0350	CDS	379862..383026	hsdR; Type I site-specific restriction-modification system, R (restriction) subunit and related helicases
+hap:HAPS_0351	CDS	383061..384155	hisC; histidinol-phosphate aminotransferase
+hap:HAPS_0352	CDS	384422..384682	hypothetical protein
+hap:HAPS_0353	gene	complement(384673..384894)	rluA; pseudogene
+hap:HAPS_0354	CDS	complement(385126..386529)	asnC; asparaginyl-tRNA synthetase
+hap:HAPS_0355	CDS	complement(386743..389136)	irp; iron-regulated outer membrane protein/TonB-dependent receptor
+hap:HAPS_0356	CDS	389322..390821	ppx; exopolyphosphatase, Ppx/GppA phosphatase
+hap:HAPS_0357	CDS	390982..393621	ppc; phosphoenolpyruvate carboxylase
+hap:HAPS_0358	CDS	393869..395026	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+hap:HAPS_0359	CDS	complement(395181..395390)	cspD; cold shock-like protein CspD
+hap:HAPS_0360	CDS	395596..396075	bcp; thioredoxin-dependent thiol peroxidase
+hap:HAPS_0361	CDS	396065..396634	gmhB; D,D-heptose 1,7-bisphosphate phosphatase
+hap:HAPS_0362	CDS	396768..397307	hpt; hypoxanthine-guanine phosphoribosyltransferase
+hap:HAPS_0363	CDS	397400..399475	slt; putative soluble lytic murein transglycosylase
+hap:HAPS_0364	CDS	399565..400107	ATPase components of ABC transporters with duplicated ATPase domains-containing protein
+hap:HAPS_0365	CDS	400107..400994	fieF; cation-efflux pump FieF, predicted Co/Zn/Cd cation transporter
+hap:HAPS_0366	CDS	complement(401166..402152)	ISCro4, family IS110
+hap:HAPS_0367	CDS	402604..403590	menC; O-succinylbenzoate synthase
+hap:HAPS_0368	CDS	403852..407841	vtaA3; virulence-associated trimeric autotransporter
+hap:HAPS_0369	gene	complement(407949..408203)	pseudogene
+hap:HAPS_0370	CDS	complement(408169..408552)	conserved hypothetical protein
+hap:HAPS_0371	CDS	complement(408637..411465)	uvrA; excinuclease ABC subunit A
+hap:HAPS_0372	CDS	411724..412242	ssb; single-strand DNA-binding protein
+hap:HAPS_0373	CDS	412450..413664	ATPase, predicted ATPase (AAA+ superfamily)
+hap:HAPS_0374	gene	complement(413694..414044)	pseudogene
+hap:HAPS_0375	CDS	complement(414054..415274)	rhlB; ATP-dependent RNA helicase RhlB
+hap:HAPS_0376	CDS	complement(415338..415610)	higA; plasmid maintenance system antidote protein, XRE family/addiction module antidote protein, HigA family/PSEEN1946 proteic killer active protein
+hap:HAPS_0377	CDS	complement(415621..415899)	higB; plasmid maintenance system killer/proteic killer protein, RelE/ParE family protein, cytotoxic translational repressor of toxin-antitoxin stability system
+hap:HAPS_0378	CDS	416048..417058	arg; ornithine carbamoyltransferase
+hap:HAPS_0379	CDS	417405..418667	glyA; serine hydroxymethyltransferase
+hap:HAPS_0380	CDS	418781..420109	xseA; exodeoxyribonuclease VII large subunit
+hap:HAPS_0381	CDS	complement(420143..422350)	parC; DNA topoisomerase IV subunit A
+hap:HAPS_0382	CDS	422482..422847	hypothetical protein
+hap:HAPS_0383	CDS	complement(423000..423782)	mhpC; putative esterase
+hap:HAPS_0384	CDS	423890..424450	seqA; negative replication initiation regulator SeqA
+hap:HAPS_0385	CDS	424454..425869	menE; O-succinylbenzoic acid--CoA ligase
+hap:HAPS_0386	CDS	425862..429155	kefA; potassium efflux protein KefA, small-conductance mechanosensitive channel
+hap:HAPS_0387	CDS	429281..430363	aroC; chorismate synthase
+hap:HAPS_0388	CDS	430571..430846	higB; plasmid maintenance system killer/proteic killer protein, RelE/ParE family protein, cytotoxic translational repressor of toxin-antitoxin stability system
+hap:HAPS_0389	CDS	430855..431151	higA; plasmid maintenance system antidote protein, XRE family/addiction module antidote protein, HigA family/PSEEN1946 proteic killer active protein
+hap:HAPS_0390	CDS	complement(431167..432372)	mlc; transcriptional repressor of carbohydrate metabolism; PTS operon/sugar kinase
+hap:HAPS_0391	CDS	432547..433674	rnd; ribonuclease D
+hap:HAPS_0392	CDS	434123..435322	ackA; acetate kinase
+hap:HAPS_0394	CDS	complement(435288..435443)	hypothetical protein
+hap:HAPS_0393	CDS	435431..437566	pta; phosphate acetyltransferase
+hap:HAPS_0395	CDS	complement(437677..438636)	ABC transporter, substrate-binding protein
+hap:HAPS_0396	CDS	complement(438815..439222)	sspB; stringent starvation protein B/ClpXP protease specificity-enhancing factor
+hap:HAPS_0397	CDS	complement(439224..439865)	sspA; stringent starvation protein A/glutathione S-transferase
+hap:HAPS_0398	CDS	440081..440398	conserved hypothetical protein
+hap:HAPS_0399	CDS	complement(440442..441740)	folC; folylpolyglutamate synthase
+hap:HAPS_0400	CDS	complement(441740..442630)	accD; acetyl-CoA carboxylase subunit beta
+hap:HAPS_0401	CDS	complement(442718..443074)	chpA; growth inhibitor, PemK-like, autoregulated/transcriptional modulator of MazE/toxin, MazF, plasmid stable inheritance protein K
+hap:HAPS_0402	CDS	complement(443074..443343)	chpS; antitoxin ChpS/transcriptional regulator/antitoxin, MazE/probable plasmid stable inheritance protein I
+hap:HAPS_0403	CDS	443594..444784	aspC; aromatic amino acid aminotransferase
+hap:HAPS_0404	CDS	complement(444865..445779)	transporter, Drug/Metabolite Exporter family
+hap:HAPS_0405	CDS	445980..447038	flavoprotein
+hap:HAPS_0406	CDS	complement(447102..447983)	nanA; N-acetylneuraminate lyase
+hap:HAPS_0407	CDS	complement(448065..448931)	putative HTH-type transcriptional regulator
+hap:HAPS_0408	CDS	complement(448933..449403)	conserved hypothetical protein
+hap:HAPS_0409	gene	complement(450166..450510)	pseudogene
+hap:HAPS_0410	CDS	450581..450859	higB; plasmid maintenance system killer/proteic killer protein, RelE/ParE family protein, cytotoxic translational repressor of toxin-antitoxin stability system
+hap:HAPS_0411	CDS	450871..451152	higA; plasmid maintenance system antidote protein, XRE family/addiction module antidote protein, HigA family/PSEEN1946 proteic killer active protein
+hap:HAPS_0412	CDS	complement(451149..451886)	phage-related minor tail protein L
+hap:HAPS_0413	gene	complement(451893..452384)	pseudogene
+hap:HAPS_0414	gene	452601..453173	pseudogene
+hap:HAPS_0415	CDS	complement(453224..454711)	chromosome segregation ATPase
+hap:HAPS_0416	CDS	complement(454829..455176)	putative phage-related lipoprotein
+hap:HAPS_0417	CDS	complement(455253..455579)	phage minor tail protein
+hap:HAPS_0418	CDS	complement(455581..455916)	conserved hypothetical protein
+hap:HAPS_0419	CDS	complement(455925..456845)	conserved hypothetical protein
+hap:HAPS_0420	gene	complement(456966..457490)	ant; pseudogene
+hap:HAPS_0421	gene	complement(457756..458463)	pseudogene
+hap:HAPS_0422	gene	complement(458522..458791)	ant; pseudogene
+hap:HAPS_0423	CDS	complement(459049..459174)	hypothetical protein
+hap:HAPS_0424	gene	complement(459178..460044)	pseudogene
+hap:HAPS_0425	gene	complement(460072..460716)	intA; pseudogene
+hap:HAPS_0426	tRNA	complement(460901..460986)	tRNA-Leu
+hap:HAPS_0427	CDS	complement(461000..461329)	secG; preprotein translocase subunit SecG
+hap:HAPS_0428	CDS	complement(461455..463377)	topB; DNA topoisomerase III
+hap:HAPS_0429	CDS	complement(463385..464209)	mepA; penicillin-insensitive murein endopeptidase
+hap:HAPS_0430	gene	complement(464307..464567)	ygdE; pseudogene
+hap:HAPS_0431	CDS	complement(464567..464965)	pyrG; CTP synthetase, potential integral membrane protein
+hap:HAPS_0432	gene	complement(465039..465218)	pseudogene
+hap:HAPS_0433	CDS	complement(465228..465590)	predicted transcription regulator containing HTH domain
+hap:HAPS_0434	CDS	complement(465600..465902)	putative membrane protein
+hap:HAPS_0435	CDS	complement(465922..466041)	hypothetical protein
+hap:HAPS_0436	CDS	466329..467348	moaA; molybdenum cofactor biosynthesis protein A
+hap:HAPS_0437	CDS	467502..467981	moaC; molybdenum cofactor biosynthesis protein C
+hap:HAPS_0438	CDS	468066..468311	moaD; molybdopterin converting factor, small subunit
+hap:HAPS_0439	CDS	468312..468764	moaE; molybdopterin converting factor, large subunit
+hap:HAPS_0440	CDS	468796..469284	metalloprotease
+hap:HAPS_0441	CDS	469284..471134	acetyltransferase
+hap:HAPS_0442	CDS	471259..472251	mglB; galactose ABC transporter periplasmic-binding protein/LacI transcriptional regulator
+hap:HAPS_0443	CDS	472304..473824	mglA; galactose ABC transporter transporter ATP-binding protein
+hap:HAPS_0444	CDS	473841..474851	mglC; galactose ABC transporter inner membrane component
+hap:HAPS_0445	CDS	complement(475028..475819)	metQ; DL-methionine transporter substrate-binding subunit/outer membrane lipoprotein 3 precursor (PLP3)
+hap:HAPS_0446	CDS	complement(475891..476730)	plpA; ABC-type metal ion transport system, periplasmic component/outer membrane lipoprotein 1 precursor
+hap:HAPS_0447	CDS	complement(476763..477440)	metI; D-methionine transport system permease protein MetI
+hap:HAPS_0448	CDS	complement(477430..478464)	metN; ABC-type metal ion transport system, ATPase component
+hap:HAPS_0449	CDS	478741..479394	marC; possible MarC family multiple antibiotic resistance transporter
+hap:HAPS_0450	CDS	479396..480937	oppA; putative oligopeptide transporter, periplasmic-binding protein, OppA
+hap:HAPS_0451	CDS	480938..482035	mrp; ATPases involved in chromosome partitioning
+hap:HAPS_0452	CDS	complement(482091..486233)	vtaA4; virulence-associated trimeric autotransporter
+hap:HAPS_0453	CDS	486714..487856	argE; acetylornithine deacetylase
+hap:HAPS_0454	CDS	complement(488005..488748)	moeB; molybdopterin biosynthesis protein MoeB
+hap:HAPS_0455	CDS	complement(488751..489050)	yciH; translation initiation factor Sui1, translation initiation factor 1 (eIF-1/SUI1)
+hap:HAPS_0456	CDS	complement(489082..489774)	pyrF; orotidine 5'-phosphate decarboxylase
+hap:HAPS_0457	CDS	complement(489790..490983)	lipopolysaccharide N-acetylglucosaminyltransferase
+hap:HAPS_0458	CDS	complement(490983..491267)	predictive membrane protein
+hap:HAPS_0459	CDS	complement(491336..491617)	ihfB; integration host factor, beta subunit/bacterial nucleoid DNA-binding protein
+hap:HAPS_0460	CDS	complement(491683..493350)	rpsA; 30S ribosomal protein S1
+hap:HAPS_0461	CDS	complement(493447..494112)	cmk; cytidylate kinase
+hap:HAPS_0462	CDS	complement(494122..495150)	degS; protease DegS precursor
+hap:HAPS_0463	CDS	complement(495260..496147)	galU; UTP-glucose-1-phosphate uridylyltransferase
+hap:HAPS_0464	CDS	complement(496327..496512)	csrA; carbon storage regulator (could also regulate swarming and quorum sensing)
+hap:HAPS_0465	CDS	complement(496576..499203)	alaS; alanyl-tRNA synthetase
+hap:HAPS_0466	CDS	complement(499428..499853)	uspA; universal stress protein A
+hap:HAPS_0467	CDS	500165..502444	rec2; recombination protein 2 / DNA internalization-related competence protein ComEC/Rec2 / predicted membrane metal-binding protein
+hap:HAPS_0468	CDS	complement(502612..502908)	yciI; YciI-like protein
+hap:HAPS_0469	CDS	complement(502920..503360)	putative acyl-CoA thioester hydrolase
+hap:HAPS_0470	CDS	complement(503344..503907)	ispZ; intracellular septation protein A
+hap:HAPS_0471	CDS	complement(503916..504644)	conserved hypothetical protein
+hap:HAPS_0472	CDS	504823..505257	membrane protein
+hap:HAPS_0473	CDS	complement(505239..505712)	tadA; tRNA-adenosine deaminase, cytosine/adenosine deaminases
+hap:HAPS_0474	CDS	complement(505873..507684)	deaD; cold-shock DEAD box protein A-like protein
+hap:HAPS_0475	CDS	complement(507956..508882)	nlpI; lipoprotein NlpI, contains TPR repeats
+hap:HAPS_0476	CDS	complement(508956..511085)	pnp; polynucleotide phosphorylase/polyadenylase
+hap:HAPS_0477	gene	complement(511600..513343)	cirA; pseudogene
+hap:HAPS_0478	CDS	complement(513446..515092)	ushA; bifunctional UDP-sugar hydrolase/5'-nucleotidase periplasmic precursor
+hap:HAPS_0479	CDS	complement(515139..515501)	dgkA; diacylglycerol kinase
+hap:HAPS_0480	CDS	complement(515659..517893)	arcB; aerobic respiration control sensor protein ArcB
+hap:HAPS_0481	CDS	complement(517979..520231)	ostA; organic solvent tolerance protein
+hap:HAPS_0482	CDS	complement(520380..521747)	hemN2; coproporphyrinogen III oxidase
+hap:HAPS_0483	CDS	complement(521750..522196)	ATP-dependent Lon protease, bacterial type/putative coproporphyrinogen III oxidase
+hap:HAPS_0484	CDS	complement(522205..522738)	conserved hypothetical protein
+hap:HAPS_0485	CDS	complement(522875..523582)	sanA; SanA protein, membrane protein
+hap:HAPS_0486	CDS	complement(523586..524479)	transporter, drug/metabolite exporter family
+hap:HAPS_0487	gene	524626..524829	dmsB; pseudogene
+hap:HAPS_0488	gene	524828..525280	dmsC; pseudogene
+hap:HAPS_0489	CDS	complement(525459..527768)	transcriptional accessory protein (S1 RNA binding domain)
+hap:HAPS_0490	CDS	complement(527899..529323)	lpdA; dihydrolipoamide dehydrogenase
+hap:HAPS_0491	CDS	complement(529440..531065)	aceF; dihydrolipoamide acetyltransferase
+hap:HAPS_0492	CDS	complement(531120..533777)	aceE; pyruvate dehydrogenase subunit E1
+hap:HAPS_0493	CDS	complement(533880..534038)	hypothetical protein
+hap:HAPS_0494	CDS	534159..534653	purE; phosphoribosylaminoimidazole carboxylasecatalytic subunit
+hap:HAPS_0495	CDS	534699..535619	ansB; L-asparaginase
+hap:HAPS_0496	CDS	535739..536833	purK; phosphoribosylaminoimidazole carboxylase ATPase subunit
+hap:HAPS_0497	CDS	536927..537436	ppiB; peptidylprolyl isomerase (peptidyl-prolyl cis-trans isomerase)
+hap:HAPS_0498	CDS	537504..538214	ubiG; 3-demethylubiquinone-9 3-methyltransferase
+hap:HAPS_0499	CDS	complement(538547..542629)	vtaA5; virulence-associated trimeric autotransporter
+hap:HAPS_0500	CDS	complement(543374..544522)	metK; S-adenosylmethionine synthetase
+hap:HAPS_0501	CDS	545041..547044	mnmC; 5-methylaminomethyl-2-thiouridine methyltransferase
+hap:HAPS_0502	CDS	complement(547171..547941)	conserved hypothetical protein
+hap:HAPS_0503	tRNA	complement(548057..548130)	tRNA-Cys
+hap:HAPS_0504	tRNA	complement(548145..548220)	tRNA-Gly
+hap:HAPS_0505	CDS	complement(548331..549563)	moeA; molybdopterin biosynthesis protein MoeA
+hap:HAPS_0506	CDS	549821..550792	ISNme5, family IS110
+hap:HAPS_0507	CDS	complement(550861..551484)	marC; multiple antibiotic resistance (MarC)-related protein
+hap:HAPS_0508	gene	551564..553478	yheS; pseudogene
+hap:HAPS_0509	CDS	complement(553596..553838)	hypothetical protein
+hap:HAPS_0510	CDS	complement(553807..555735)	ftsH; cell division protein
+hap:HAPS_0511	CDS	complement(555809..556435)	rrmJ; 23S rRNA methyltransferase J
+hap:HAPS_0512	CDS	556678..557466	fabI; enoyl-[acyl-carrier-protein] reductase (NADH)
+hap:HAPS_0513	CDS	557546..558208	fic; filamentation induced by cAMP protein Fic
+hap:HAPS_0514	CDS	complement(558266..558562)	predicted helix-turn-helix containing protein
+hap:HAPS_0515	CDS	complement(558565..558909)	conserved hypothetical protein
+hap:HAPS_0516	CDS	559124..561103	rnb; exoribonuclease II
+hap:HAPS_0517	CDS	561214..562305	mltA; murein transglycosylase A
+hap:HAPS_0518	CDS	562780..563196	conserved hypothetical protein
+hap:HAPS_0519	CDS	complement(563306..566839)	vtaA6; virulence-associated trimeric autotransporter
+hap:HAPS_0520	CDS	complement(566989..567102)	hypothetical protein
+hap:HAPS_0521	CDS	complement(567452..568048)	dedA; DedA family integral membrane protein, SNARE associated Golgi protein
+hap:HAPS_0522	CDS	complement(568059..569081)	purR; DNA-binding transcriptional repressor PurR
+hap:HAPS_0523	CDS	complement(569195..570139)	prmC; N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+hap:HAPS_0524	CDS	570226..570756	conserved hypothetical protein
+hap:HAPS_0525	CDS	complement(570898..572115)	tyrP; tyrosine-specific transport protein/HAAAP family hydroxy/aromatic amino acid permease
+hap:HAPS_0526	CDS	complement(572263..573417)	tyrP; tyrosine-specific transport protein/amino acid permease
+hap:HAPS_0527	gene	573814..574107	pseudogene
+hap:HAPS_0528	CDS	complement(574273..574752)	purL; phosphoribosylformylglycinamidine synthase
+hap:HAPS_0529	CDS	complement(574770..575420)	ccdA; cytochrome c-type biogenesis protein ccdA
+hap:HAPS_0530	CDS	complement(575422..576492)	msrA; bifunctional methionine sulfoxide reductase msrA/msrB
+hap:HAPS_0531	CDS	complement(576596..576925)	hypothetical protein
+hap:HAPS_0532	CDS	577169..577639	rpoE; RNA polymerase sigma-70 factor
+hap:HAPS_0533	CDS	577636..577821	conserved hypothetical protein
+hap:HAPS_0534	gene	complement(578008..578662)	pseudogene
+hap:HAPS_0535	gene	complement(578930..579229)	pseudogene
+hap:HAPS_0536	CDS	579397..580212	phage capsid scaffolding protein
+hap:HAPS_0537	gene	580225..580431	pseudogene
+hap:HAPS_0538	CDS	580428..581081	phage small terminase subunit
+hap:HAPS_0539	gene	581116..581256	pseudogene
+hap:HAPS_0540	CDS	581237..581761	phage-related lysozyme
+hap:HAPS_0541	CDS	581746..582213	hypothetical bacteriophage protein
+hap:HAPS_0542	CDS	582396..582914	possible Lhr family helicase, phage associatd
+hap:HAPS_0543	CDS	583120..583338	dnaK; DnaK suppressor protein/C4-type zinc finger protein, DksA/TraR family
+hap:HAPS_0544	CDS	583335..583769	gpR; bacteriophage P2 Tail completion protein GPR
+hap:HAPS_0545	CDS	583810..584271	gpS; bacteriophage tail completion protein gpS-like protein/phage virion morphogenesis protein
+hap:HAPS_0546	CDS	complement(584367..584552)	hypothetical protein
+hap:HAPS_0547	CDS	584682..587423	gpT; bacteriophage P2 tail protein GPT; putative tail length determinator
+hap:HAPS_0548	CDS	587550..588092	hypothetical protein
+hap:HAPS_0549	CDS	588085..588507	hypothetical phage protein
+hap:HAPS_0550	CDS	588682..588801	hypothetical protein
+hap:HAPS_0551	gene	588978..589600	pseudogene
+hap:HAPS_0552	CDS	590265..590450	ycfA; YcfA family protein, predicted periplasmic or secreted lipoprotein
+hap:HAPS_0553	CDS	590480..590917	conserved hypothetical protein
+hap:HAPS_0554	CDS	complement(590939..591316)	putative phage anti-termination protein Q
+hap:HAPS_0555	CDS	complement(591313..591882)	ninG; NinG recombination protein/bacteriophage lambda NinG family protein
+hap:HAPS_0556	CDS	complement(592027..592476)	ninB; putative recombination protein NinB
+hap:HAPS_0557	CDS	complement(592711..593382)	possible bacteriophage replication protein P
+hap:HAPS_0558	CDS	complement(593382..594212)	putative phage DNA replication protein O
+hap:HAPS_0559	CDS	complement(594209..594991)	prophage antirepressor, Putative DNA-binding protein (Roi)
+hap:HAPS_0560	CDS	complement(595271..595477)	prophage LambdaSo, Cro/CI family transcriptional regulator/possible Cro repressor
+hap:HAPS_0561	CDS	595739..596266	putative prophage repressor CI, XRE family transcriptional regulator/SOS-response transcriptional repressors (RecA-mediated autopeptidases)/LexA family repressor/S24 family protease
+hap:HAPS_0562	CDS	596299..596733	hypothetical protein
+hap:HAPS_0563	CDS	596726..597202	conserved hypothetical protein
+hap:HAPS_0564	CDS	597320..597502	ycfA; YcfA family protein, unknow function
+hap:HAPS_0565	CDS	597542..597961	putative bacteriophage protein, putative transcription regulator, cro/C1-type DNA-binding domain
+hap:HAPS_0566	CDS	598384..598539	hypothetical protein
+hap:HAPS_0567	CDS	598817..599104	conserved hypothetical protein
+hap:HAPS_0568	CDS	complement(599131..599301)	conserved hypothetical protein
+hap:HAPS_0569	CDS	599316..599537	orfG, econed on plasmid pRF1
+hap:HAPS_0570	CDS	complement(599674..599802)	hypothetical protein
+hap:HAPS_0571	CDS	599879..600520	conserved hypothetical protein
+hap:HAPS_0572	CDS	600597..600725	hypothetical protein
+hap:HAPS_0573	CDS	600730..601443	protein serine/threonine phosphatase, protein phosphatase 2C-like protein
+hap:HAPS_0574	gene	601776..601910	pseudogene
+hap:HAPS_0575	CDS	601989..602309	hypothetical protein
+hap:HAPS_0576	CDS	602306..602845	conserved hypothetical protein
+hap:HAPS_0577	CDS	602832..603038	hypothetical protein
+hap:HAPS_0578	CDS	603035..603973	phage recombinase, recombinational DNA repair protein, RecE pathway
+hap:HAPS_0579	CDS	604027..604695	conserved hypothetical protein
+hap:HAPS_0580	CDS	604695..605174	ssb; single-stranded DNA binding protein
+hap:HAPS_0581	CDS	complement(605220..605408)	hypothetical phage protein
+hap:HAPS_0582	CDS	605755..606672	intrrupted gp229, phage associated
+hap:HAPS_0583	CDS	606696..606959	hypothetical protein
+hap:HAPS_0584	CDS	complement(607103..607321)	conserved hypothetical protein
+hap:HAPS_0585	CDS	complement(607748..608044)	hypothetical protein
+hap:HAPS_0586	CDS	complement(608153..609130)	hypothetical protein
+hap:HAPS_0587	CDS	complement(609187..614070)	phage tail protein/putative Fels-1 prophage host specificity protein
+hap:HAPS_0588	CDS	complement(614189..615034)	putative antirepressor protein
+hap:HAPS_0589	CDS	complement(615298..615483)	hypothetical protein
+hap:HAPS_0590	CDS	complement(615597..616115)	bacteriophage lambda tail assembly I
+hap:HAPS_0591	CDS	complement(616145..616897)	phage-related tail assembly protein K, PAD1/JAB1 superfamily metal-dependent protease
+hap:HAPS_0592	CDS	complement(616899..617636)	phage-related minor tail protein L
+hap:HAPS_0593	CDS	complement(617636..617968)	predicted phage minor tail protein
+hap:HAPS_0594	CDS	complement(618013..621387)	phage-related minor tail protein
+hap:HAPS_0595	CDS	complement(621443..621718)	hypothetical protein
+hap:HAPS_0596	CDS	complement(621920..622186)	hypothetical protein
+hap:HAPS_0597	CDS	complement(622270..622539)	relE; addiction module antitoxin/putative RelE toxin-like protein, plasmid stabilization system
+hap:HAPS_0598	CDS	complement(622543..622809)	relB; RelB, addiction module antitoxin/DNA-damage-inducible protein J, negative regulator of translation
+hap:HAPS_0599	CDS	complement(622878..623105)	phage protein
+hap:HAPS_0600	CDS	complement(623150..623551)	phage protein
+hap:HAPS_0601	CDS	complement(623625..624290)	phage protein
+hap:HAPS_0602	CDS	complement(624293..624712)	putative tail component of prophage CP-933K
+hap:HAPS_0603	CDS	complement(624712..625245)	putative phage tail component
+hap:HAPS_0604	CDS	complement(625249..625551)	possible bacteriophage tail protein
+hap:HAPS_0605	CDS	complement(625544..625870)	putative RecA/RadA recombinase
+hap:HAPS_0606	CDS	complement(625938..627905)	Clp protease-like protein
+hap:HAPS_0607	CDS	complement(627930..629429)	bacteriophage capsid protein
+hap:HAPS_0608	CDS	complement(629430..629651)	hypothetical prophage protein
+hap:HAPS_0609	CDS	complement(629669..631789)	bacteriophage tail assembly protein/phage terminase large subunit
+hap:HAPS_0610	CDS	complement(631789..632301)	unknown phage protein
+hap:HAPS_0611	CDS	complement(632341..632787)	putative lytic protein Rz1, bacteriophage protein
+hap:HAPS_0612	CDS	complement(632750..633067)	hypothetical bacteriophage protein
+hap:HAPS_0613	CDS	complement(633067..633612)	glycoside hydrolase family protein/phage lysozyme
+hap:HAPS_0614	CDS	complement(633587..633862)	conserved hypothetical protein
+hap:HAPS_0615	CDS	633976..634539	conserved hypothetical protein
+hap:HAPS_0616	CDS	634629..634745	hypothetical protein
+hap:HAPS_0617	CDS	complement(634831..635007)	hypothetical protein
+hap:HAPS_0618	CDS	635304..635522	conserved hypothetical protein
+hap:HAPS_0619	CDS	complement(635531..635908)	putative anti-termination protein Q, phage associated
+hap:HAPS_0620	CDS	complement(635905..636474)	ninG; NinG recombination protein/bacteriophage lambda NinG family protein
+hap:HAPS_0621	CDS	complement(636619..637068)	ninB; putative recombination protein NinB
+hap:HAPS_0622	CDS	complement(637303..637974)	replication protein P/possible bacteriophage replication protein
+hap:HAPS_0623	CDS	complement(637974..638804)	putative phage DNA replication protein O
+hap:HAPS_0624	CDS	complement(638801..639583)	prophage antirepressor protein 1/putative DNA-binding protein (Roi)
+hap:HAPS_0625	CDS	complement(639863..640063)	phage transcriptional regulatory protein/antirepressor Cro
+hap:HAPS_0626	CDS	640190..640861	prtR; transcriptional activator-regulator PrtR/CI repressor
+hap:HAPS_0627	CDS	640942..641790	conserved hypothetical protein
+hap:HAPS_0628	CDS	641924..643567	putative prophage Lp2 protein 4
+hap:HAPS_0629	CDS	643612..644427	dam; site-specific DNA methylase
+hap:HAPS_0630	CDS	complement(644456..644746)	putative transcriptional regulator/addiction module antitoxin, putative
+hap:HAPS_0631	CDS	644806..645252	hypothetical protein
+hap:HAPS_0632	CDS	complement(645697..645867)	conserved hypothetical protein
+hap:HAPS_0633	CDS	645882..646103	orfG, econed on plasmid pRF1
+hap:HAPS_0634	CDS	complement(646083..646259)	hypothetical protein
+hap:HAPS_0635	tRNA	646345..646421	tRNA-Arg
+hap:HAPS_0636	CDS	646599..647240	conserved hypothetical protein
+hap:HAPS_0637	CDS	complement(647314..647535)	hypothetical protein
+hap:HAPS_0638	CDS	647625..647786	hypothetical protein
+hap:HAPS_0639	CDS	complement(647757..647945)	conserved hypothetical protein
+hap:HAPS_0640	gene	648756..649199	pseudogene
+hap:HAPS_0641	gene	complement(649474..650720)	pseudogene
+hap:HAPS_0642	tRNA	complement(650962..651038)	tRNA-Val
+hap:HAPS_0643	CDS	complement(651109..651927)	apaH; diadenosine tetraphosphatase
+hap:HAPS_0644	CDS	complement(651937..653016)	mltB; membrane-bound lytic murein transglycosylase B
+hap:HAPS_0645	CDS	complement(653029..653946)	truB; tRNA pseudouridine synthase B
+hap:HAPS_0646	CDS	complement(653949..654332)	rbfA; ribosome-binding factor A
+hap:HAPS_0647	CDS	complement(654375..654494)	hypothetical protein
+hap:HAPS_0648	CDS	complement(654502..657681)	putative serine protease
+hap:HAPS_0649	gene	complement(657814..657954)	dog2; pseudogene
+hap:HAPS_0650	CDS	complement(658373..658660)	rplY; 50S ribosomal protein L25
+hap:HAPS_0651	CDS	658942..661455	glgP; glycogen phosphorylase
+hap:HAPS_0652	CDS	661674..662297	lysE; lysine exporter protein (LYSE/YGGA)
+hap:HAPS_0653	CDS	662543..665350	kgd; alpha-ketoglutarate decarboxylase
+hap:HAPS_0654	CDS	665386..665499	hypothetical protein
+hap:HAPS_0655	CDS	665515..666732	sucB; dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (E2)
+hap:HAPS_0656	CDS	666797..667963	sucC; succinyl-CoA synthetase subunit beta
+hap:HAPS_0657	CDS	667963..668835	sucD; succinyl-CoA synthetase alpha chain
+hap:HAPS_0658	CDS	complement(668996..670846)	kefBC; glutathione-regulated potassium-efflux system protein
+hap:HAPS_0659	CDS	complement(671041..672345)	serS; seryl-tRNA synthetase
+hap:HAPS_0660	CDS	complement(672421..672780)	glyQ; glycyl-tRNA synthetase subunit alpha
+hap:HAPS_0661	CDS	complement(673049..673525)	smpB; SsrA-binding protein
+hap:HAPS_0662	CDS	complement(673648..675054)	possible ATPase
+hap:HAPS_0663	CDS	complement(675065..676264)	ubiH; 2-octaprenyl-6-methoxyphenol hydroxylase/2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+hap:HAPS_0664	CDS	complement(676394..677437)	selD; selenophosphate synthase
+hap:HAPS_0665	CDS	complement(677540..677764)	conserved hypothetical protein
+hap:HAPS_0666	CDS	677822..677935	hypothetical protein
+hap:HAPS_0667	CDS	677972..678727	possible SAM-dependent methyltransferase
+hap:HAPS_0668	CDS	678964..680028	perM; putative permease, PerM family protein
+hap:HAPS_0669	CDS	680130..681215	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+hap:HAPS_0670	CDS	complement(681324..682244)	fdhE; formate dehydrogenase accessory protein FdhE
+hap:HAPS_0671	CDS	complement(682287..684227)	mdoB; phosphoglycerol transferase-like protein
+hap:HAPS_0672	CDS	complement(684232..685020)	ycbX; predicted 2Fe-2S cluster-containing protein
+hap:HAPS_0673	CDS	685122..685346	xseB; exodeoxyribonuclease VII small subunit
+hap:HAPS_0674	CDS	685346..686239	ispA; geranyltranstransferase
+hap:HAPS_0675	CDS	complement(686285..687652)	conserved hypothetical protein
+hap:HAPS_0676	CDS	complement(687702..689822)	fadJ; fatty oxidation complex, alpha subunit
+hap:HAPS_0677	CDS	complement(689827..691131)	fadI; 3-ketoacyl-CoA thiolase
+hap:HAPS_0678	CDS	complement(691243..691944)	putative conserved iron-sulfur protein
+hap:HAPS_0679	CDS	complement(691949..693355)	iron-sulfur cluster binding reductase
+hap:HAPS_0680	CDS	complement(693357..694088)	Fe-S oxidoreductase
+hap:HAPS_0681	CDS	complement(694300..695895)	lctP; L-lactate permease
+hap:HAPS_0682	CDS	complement(696084..696581)	folA; dihydrofolate reductase
+hap:HAPS_0683	CDS	696664..697764	proB; gamma-glutamyl kinase
+hap:HAPS_0684	CDS	697787..698560	putative permease
+hap:HAPS_0685	CDS	698564..699199	nth; endonuclease III
+hap:HAPS_0686	gene	complement(699225..699359)	pseudogene
+hap:HAPS_0687	CDS	complement(699438..702581)	vtaA7; virulence-associated trimeric autotransporter
+hap:HAPS_0688	CDS	complement(703117..703725)	SH3 domain-containing protein
+hap:HAPS_0689	CDS	complement(703799..705061)	phosphate permease
+hap:HAPS_0690	CDS	complement(705081..705761)	phosphate transport regulator
+hap:HAPS_0691	CDS	706071..707054	pheS; phenylalanyl-tRNA synthetase subunit alpha
+hap:HAPS_0692	CDS	707227..709614	pheT; phenylalanyl-tRNA synthetase subunit beta
+hap:HAPS_0693	CDS	709631..709927	ihfA; integration host factor, alpha chain/bacterial nucleoid DNA-binding protein
+hap:HAPS_0694	CDS	709980..710492	lipoprotein/cell wall-associated hydrolases (invasion-associated proteins), NLP/P60 protein
+hap:HAPS_0695	CDS	710680..711333	udk; uridine kinase
+hap:HAPS_0696	CDS	711350..711934	dcd; deoxycytidine triphosphate deaminase
+hap:HAPS_0697	CDS	complement(712065..713579)	purF; amidophosphoribosyltransferase
+hap:HAPS_0698	CDS	complement(713594..714094)	cvpA; colicin V production protein
+hap:HAPS_0699	CDS	complement(714200..715777)	sdhA; succinate dehydrogenase/fumarate reductase, flavoprotein subunit
+hap:HAPS_0700	CDS	complement(715952..716689)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+hap:HAPS_0701	CDS	complement(716693..717082)	yjgF; putative translation initiation inhibitor, yjgF family
+hap:HAPS_0702	CDS	717228..717515	putative ABC-type transporter
+hap:HAPS_0703	CDS	717505..718005	acetyltransferase, gnat family
+hap:HAPS_0704	CDS	718033..719034	ndpA; nucleoid-associated protein NdpA
+hap:HAPS_0705	CDS	719095..719430	smpA; SmpA/OmlA domain-containing protein
+hap:HAPS_0706	CDS	719585..720700	anmK; anhydro-N-acetylmuramic acid kinase
+hap:HAPS_0707	CDS	720712..721626	murQ; N-acetylmuramic acid-6-phosphate etherase
+hap:HAPS_0708	CDS	721668..721982	conserved hypothetical protein
+hap:HAPS_0709	CDS	721979..722707	truC; tRNA pseudouridine synthase C, pseudouridylate synthase, 23S RNA-specific
+hap:HAPS_0710	CDS	722725..722880	conserved hypothetical protein
+hap:HAPS_0711	CDS	722881..723345	conserved hypothetical protein
+hap:HAPS_0712	CDS	complement(723356..723652)	conserved hypothetical protein
+hap:HAPS_0713	CDS	complement(723642..724076)	oligoketide cyclase/lipid transport protein
+hap:HAPS_0714	CDS	complement(724284..724787)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+hap:HAPS_0715	CDS	complement(724792..725472)	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+hap:HAPS_0716	CDS	complement(725472..725753)	ftsB; cell division protein FtsB
+hap:HAPS_0717	CDS	725940..727550	pckA; phosphoenolpyruvate carboxykinase
+hap:HAPS_0718	CDS	complement(727815..728645)	conserved hypothetical protein
+hap:HAPS_0719	CDS	complement(728852..729481)	rseA; sigma-E factor negative regulatory protein
+hap:HAPS_0720	CDS	complement(729509..730078)	rpoE; RNA polymerase sigma factor RpoE
+hap:HAPS_0721	CDS	complement(730071..730217)	hypothetical protein
+hap:HAPS_0722	CDS	730305..731852	hsdM; type I restriction-modification system, M subunit
+hap:HAPS_0723	CDS	732128..733354	hsdS; type I restriction enzyme specificity protein HsdS
+hap:HAPS_0724	CDS	733453..736521	hsdR; type I site-specific restriction-modification system, R (restriction) subunit
+hap:HAPS_0725	CDS	complement(736736..738253)	lnt; apolipoprotein N-acyltransferase
+hap:HAPS_0726	CDS	complement(738250..739134)	corC; magnesium and cobalt efflux protein
+hap:HAPS_0727	CDS	739286..739927	conserved hypothetical protein
+hap:HAPS_0728	gene	740604..740762	pseudogene
+hap:HAPS_0729	CDS	complement(740823..742013)	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+hap:HAPS_0730	CDS	complement(742052..742282)	hypothetical protein
+hap:HAPS_0731	CDS	complement(742478..742708)	conserved hypothetical protein
+hap:HAPS_0732	CDS	complement(742721..744928)	relA; GTP pyrophosphokinase
+hap:HAPS_0733	CDS	745202..746509	hemA; glutamyl-tRNA reductase (GluTR)
+hap:HAPS_0734	CDS	746650..748164	engA; GTP-binding protein EngA
+hap:HAPS_0735	CDS	748177..749604	rfaE; bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase
+hap:HAPS_0736	CDS	749672..750610	surA; peptidyl-prolyl cis-trans isomerase SurA
+hap:HAPS_0737	CDS	750709..751569	ksgA; dimethyladenosine transferase
+hap:HAPS_0738	gene	complement(751668..751844)	pseudogene
+hap:HAPS_0739	CDS	complement(752203..753477)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+hap:HAPS_0740	CDS	complement(753501..753758)	bolA; morphology/transcription regulator BolA family protein
+hap:HAPS_0741	CDS	complement(753761..754099)	rsbV; putative anti-sigma factor B antagonist
+hap:HAPS_0742	CDS	complement(754107..754742)	ABC-type transport system involved in resistance to organic solvents, auxiliary component
+hap:HAPS_0743	CDS	complement(754779..755288)	ABC-type transport system involved in resistance to organic solvents, periplasmic component
+hap:HAPS_0744	CDS	complement(755361..756134)	ABC-type transport system involved in resistance to organic solvents, permease component
+hap:HAPS_0745	CDS	complement(756134..756934)	ABC transporter ATP binding protein
+hap:HAPS_0746	CDS	complement(757128..757718)	predicted periplasmic or secreted lipoprotein
+hap:HAPS_0747	CDS	complement(757739..758329)	gmhA; putative phosphoheptose isomerase
+hap:HAPS_0748	CDS	complement(758331..758675)	predicted endonuclease
+hap:HAPS_0749	CDS	complement(758677..760413)	lppC; lipoprotein C/GS60 antigen
+hap:HAPS_0750	CDS	760504..761364	predicted methyltransferase
+hap:HAPS_0751	CDS	761541..762026	dps; ferritin and DNA-binding stress protein
+hap:HAPS_0752	CDS	complement(762222..763061)	conserved hypothetical protein
+hap:HAPS_0753	CDS	complement(763157..765733)	aidA; putative pertactin family virulence factor, outer membrane autotransporter/Type V secretory pathway, adhesin AidA
+hap:HAPS_0754	CDS	765959..767326	purB; adenylosuccinate lyase
+hap:HAPS_0755	CDS	767477..768424	hprA; glycerate dehydrogenase
+hap:HAPS_0756	CDS	768449..768991	sodC; superoxide dismutase
+hap:HAPS_0757	CDS	769077..770258	lolC; lipoprotein releasing system transmembrane protein/ABC-type transport system, involved in lipoprotein release, permease component
+hap:HAPS_0758	CDS	770251..770907	predicted membrane protein
+hap:HAPS_0759	gene	770996..771618	pseudogene
+hap:HAPS_0760	CDS	complement(771662..772174)	putative phage associated protein
+hap:HAPS_0761	gene	complement(772408..773311)	int; pseudogene
+hap:HAPS_0762	CDS	complement(773951..775042)	engD; GTP-dependent nucleic acid-binding protein EngD
+hap:HAPS_0763	CDS	complement(775101..775685)	pth; peptidyl-tRNA hydrolase
+hap:HAPS_0764	CDS	776119..776514	fimB; fimbrial assembly chaperone
+hap:HAPS_0765	gene	776537..776770	hifB; pseudogene
+hap:HAPS_0766	CDS	776801..776968	hypothetical protein
+hap:HAPS_0767	gene	776976..777602	hifC; pseudogene
+hap:HAPS_0768	CDS	complement(777648..779483)	ilvD; dihydroxy-acid dehydratase
+hap:HAPS_0769	CDS	779505..779690	hypothetical protein
+hap:HAPS_0770	gene	complement(779641..780111)	pseudogene
+hap:HAPS_0771	gene	complement(781027..781401)	pseudogene
+hap:HAPS_0772	CDS	complement(781598..781756)	hypothetical protein
+hap:HAPS_0773	CDS	complement(781991..782299)	hypothetical prophage protein
+hap:HAPS_0774	CDS	complement(782274..782552)	conserved hypothetical protein
+hap:HAPS_0775	CDS	complement(783275..785464)	putative prophage primase
+hap:HAPS_0776	gene	complement(785445..785735)	pseudogene
+hap:HAPS_0777	CDS	complement(785837..786250)	phage small subunit terminase
+hap:HAPS_0778	CDS	complement(786238..786711)	conserved hypothetical protein
+hap:HAPS_0779	CDS	complement(786987..787193)	hypothetical protein
+hap:HAPS_0780	CDS	complement(787184..787531)	hypothetical protein
+hap:HAPS_0781	CDS	complement(787556..787750)	phage transcriptional regulator
+hap:HAPS_0782	CDS	complement(787955..788764)	hypothetical protein
+hap:HAPS_0783	CDS	complement(788793..790040)	intA; phage integrase
+hap:HAPS_0784	tRNA	complement(790295..790380)	tRNA-Leu
+hap:HAPS_0785	CDS	complement(790480..791352)	ubiA; 4-hydroxybenzoate octaprenyltransferase
+hap:HAPS_0786	CDS	complement(791355..792119)	glpR; glycerol-3-phosphate regulon repressor
+hap:HAPS_0787	CDS	complement(792196..793050)	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase
+hap:HAPS_0788	CDS	complement(793258..793971)	conserved hypothetical protein
+hap:HAPS_0789	CDS	complement(794112..794981)	hemK; HemK-like protein/protein-glutamine N-methyl transferase
+hap:HAPS_0790	CDS	complement(794990..795733)	conserved hypothetical protein
+hap:HAPS_0791	CDS	complement(795730..796617)	bsp6IM; cytosine specific DNA methyltransferase (BSP6IM)
+hap:HAPS_0792	CDS	complement(796702..797784)	prfA; peptide chain release factor 1
+hap:HAPS_0793	CDS	complement(797899..798171)	hupA; DNA-binding protein HU/transcriptional regulator
+hap:HAPS_0794	CDS	complement(798303..798899)	conserved hypothetical protein
+hap:HAPS_0795	CDS	complement(798909..799835)	hemE; uroporphyrinogen-III decarboxylase
+hap:HAPS_0796	CDS	complement(800033..800836)	yeaD; aldose 1-epimerase-like protein
+hap:HAPS_0797	CDS	complement(800890..802266)	argH; argininosuccinate lyase
+hap:HAPS_0798	CDS	802675..803787	potA; spermidine/putrescine ABC transporter ATPase protein
+hap:HAPS_0799	CDS	803774..804634	potB; spermidine/putrescine ABC transporter membrane protein
+hap:HAPS_0800	CDS	804634..805401	potC; spermidine/putrescine ABC transporter membrane protein
+hap:HAPS_0801	CDS	805697..806956	hisS; histidyl-tRNA synthetase
+hap:HAPS_0802	CDS	806966..807586	conserved hypothetical protein
+hap:HAPS_0803	CDS	807987..808805	proC; pyrroline-5-carboxylate reductase
+hap:HAPS_0804	CDS	808802..809950	hcaT; putative 3-phenylpropionic acid transporter
+hap:HAPS_0805	gene	complement(810002..810655)	pseudogene
+hap:HAPS_0806	CDS	complement(810702..811541)	protein involved in catabolism of external DNA
+hap:HAPS_0807	CDS	811599..812165	ampD; N-acetyl-anhydromuranmyl-L-alanine amidase/signaling protein AmpD, negative regulator of beta-lactamase expression
+hap:HAPS_0808	CDS	complement(812158..813066)	predicted membrane protein, surface protein
+hap:HAPS_0809	CDS	813210..814280	dinP; DNA polymerase IV
+hap:HAPS_0810	CDS	814386..815237	htpX; heat shock protein HtpX
+hap:HAPS_0811	CDS	complement(815248..817095)	uvrC; excinuclease ABC subunit C
+hap:HAPS_0812	CDS	complement(817119..817667)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+hap:HAPS_0813	CDS	817817..818524	modB; molybdate ABC transporter permease protein
+hap:HAPS_0814	CDS	818524..819585	modC; molybdate transporter ATP-binding protein
+hap:HAPS_0815	CDS	819803..820423	sodA; manganese superoxide dismutase
+hap:HAPS_0816	gene	821054..821341	repA; pseudogene
+hap:HAPS_0817	CDS	complement(822127..822273)	hypothetical protein
+hap:HAPS_0818	CDS	complement(822324..822521)	hypothetical protein
+hap:HAPS_0819	CDS	complement(822674..823024)	hypothetical protein
+hap:HAPS_0820	CDS	complement(823040..823813)	conserved hypothetical protein
+hap:HAPS_0821	CDS	complement(823823..824251)	hypothetical protein
+hap:HAPS_0822	CDS	824376..824765	transcriptional regulator/helix-turn-helix domain-containing protein
+hap:HAPS_0823	CDS	complement(824800..826017)	intA; integrase
+hap:HAPS_0825	gene	826466..826925	pseudogene
+hap:HAPS_0824	CDS	826466..826585	hypothetical protein
+hap:HAPS_0826	CDS	827364..828008	pryE; orotate phosphoribosyltransferase
+hap:HAPS_0827	CDS	complement(828462..829661)	rho; transcription termination factor Rho
+hap:HAPS_0828	CDS	829796..829906	hypothetical protein
+hap:HAPS_0829	CDS	829899..830267	hslR; heat shock-like protein 15
+hap:HAPS_0830	CDS	830377..831246	hslO; Hsp33-like chaperonin
+hap:HAPS_0831	CDS	831317..832087	dnaQ; DNA polymerase III subunit epsilon
+hap:HAPS_0832	tRNA	832189..832265	tRNA-Asp
+hap:HAPS_0833	CDS	complement(832372..833826)	gnd; 6-phosphogluconate dehydrogenase
+hap:HAPS_0834	CDS	complement(834164..834682)	conserved hypothetical protein
+hap:HAPS_0835	CDS	complement(834734..835093)	integral membrane protein
+hap:HAPS_0836	CDS	complement(835102..836121)	conserved hypothetical protein
+hap:HAPS_0837	CDS	complement(836160..836858)	devB; 6-phosphogluconolactonase
+hap:HAPS_0838	CDS	complement(836974..838458)	zwf; glucose-6-phosphate 1-dehydrogenase
+hap:HAPS_0839	CDS	complement(838523..839335)	cysQ; 3'-phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase
+hap:HAPS_0840	CDS	839917..840663	prfB; peptide chain release factor 2
+hap:HAPS_0841	CDS	complement(840753..841586)	conserved hypothetical protein
+hap:HAPS_0842	CDS	complement(841838..842935)	ISAma3, family ISAs1
+hap:HAPS_0843	gene	842994..843523	pseudogene
+hap:HAPS_0844	CDS	complement(843620..843961)	comEA; DNA uptake protein
+hap:HAPS_0845	CDS	844219..845484	oapA; opacity associated protein A
+hap:HAPS_0846	CDS	845544..845942	oapB; opacity associated protein B
+hap:HAPS_0847	CDS	845951..847003	rfaF; ADP-heptose:LPS heptosyltransferase II
+hap:HAPS_0848	CDS	847099..847686	acpD; azoreductase/NAD(P)H dehydrogenase (quinone)
+hap:HAPS_0849	CDS	847857..849515	manB; phosphomannomutase
+hap:HAPS_0850	CDS	849646..850653	ftsJ; rRNA methyltransferase
+hap:HAPS_0851	CDS	850856..851839	ispB; octaprenyl-diphosphate synthase
+hap:HAPS_0852	CDS	852048..852788	conserved hypothetical protein
+hap:HAPS_0853	CDS	852883..853818	fabD; malonyl CoA-acyl carrier protein transacylase (MCT)
+hap:HAPS_0854	CDS	853961..854686	fabG; 3-ketoacyl-(acyl-carrier-protein) reductase
+hap:HAPS_0855	CDS	complement(854687..854800)	hypothetical protein
+hap:HAPS_0856	CDS	854802..856088	brnQ; branched-chain amino acid permease
+hap:HAPS_0857	CDS	856145..856969	mutM; formamidopyrimidine-DNA glycosylase
+hap:HAPS_0858	gene	complement(857240..857527)	lcmt; pseudogene
+hap:HAPS_0859	CDS	complement(857594..857962)	bacteriophage transcriptional regulator
+hap:HAPS_0860	CDS	complement(857964..858362)	Mu-like phage E16 protein
+hap:HAPS_0861	gene	complement(858349..858528)	pseudogene
+hap:HAPS_0862	CDS	complement(858525..858683)	conserved hypothetical protein
+hap:HAPS_0863	CDS	complement(858683..858895)	conserved hypothetical protein
+hap:HAPS_0864	CDS	complement(858892..859416)	gam; host-nuclease inhibitor protein
+hap:HAPS_0865	CDS	complement(859409..859627)	conserved hypothetical protein
+hap:HAPS_0866	CDS	complement(859620..860774)	exeA; ExeA protein, phage-like protein
+hap:HAPS_0867	CDS	complement(860817..862427)	putative phage associated protein
+hap:HAPS_0868	CDS	complement(862630..863520)	putative phage associated protein
+hap:HAPS_0869	CDS	complement(863549..863851)	putative phage-related DNA-binding protein
+hap:HAPS_0870	CDS	complement(863848..863991)	hypothetical protein
+hap:HAPS_0871	CDS	864047..864295	hypothetical protein
+hap:HAPS_0872	CDS	complement(864488..864721)	putative phage associated protein
+hap:HAPS_0873	CDS	864785..865084	hypothetical protein
+hap:HAPS_0874	CDS	865409..865639	hypothetical protein
+hap:HAPS_0875	CDS	865687..866658	conserved hypothetical phage-related protein
+hap:HAPS_0876	CDS	866658..867836	putative phage-related membrane protein
+hap:HAPS_0877	CDS	867930..868451	hypothetical bacteriophage protein
+hap:HAPS_0878	CDS	868552..868785	conserved hypothetical protein
+hap:HAPS_0879	CDS	868782..869135	conserved hypothetical protein
+hap:HAPS_0880	CDS	869160..869489	Mu-like phage gp25
+hap:HAPS_0881	CDS	869493..869783	hypothetical bacteriophage protein
+hap:HAPS_0882	CDS	869817..870389	Mu-like phage gp27
+hap:HAPS_0883	CDS	870451..871686	prophage MuMc02, terminase, ATPase subunit, putative/putative DNA packaging protein Gp17
+hap:HAPS_0884	CDS	871690..873108	putative phage-related protein
+hap:HAPS_0885	CDS	873105..874373	Mu GP30-like protein/phage putative head morphogenesis protein, SPP1 gp7
+hap:HAPS_0886	CDS	874500..874955	bacteriophage Mu G-like protein/virion morphogenesis protein
+hap:HAPS_0887	CDS	875176..876282	hypothetical bacteriophage protein
+hap:HAPS_0888	CDS	876318..877259	hypothetical bacteriophage protein
+hap:HAPS_0889	CDS	877326..877769	Erp22-like protein
+hap:HAPS_0890	CDS	877772..878209	hypothetical bacteriophage protein
+hap:HAPS_0891	CDS	878209..878709	hypothetical bacteriophage protein
+hap:HAPS_0892	CDS	878719..880113	bacteriophage tail sheath protein
+hap:HAPS_0893	CDS	880113..880631	tail core-like protein
+hap:HAPS_0894	CDS	881196..881540	putative phage anti-repressor protein
+hap:HAPS_0895	CDS	881545..881805	hypothetical protein
+hap:HAPS_0896	CDS	881885..882172	conserved hypothetical protein
+hap:HAPS_0897	CDS	882147..882302	conserved hypothetical protein
+hap:HAPS_0898	CDS	complement(882287..882571)	hypothetical protein
+hap:HAPS_0899	CDS	882615..885293	possible bacteriophage tail protein/phage tail tape measure protein, TP901 family
+hap:HAPS_0900	CDS	885293..886234	putative phage P2 GpU/probable bacteriophage V tail protein
+hap:HAPS_0901	CDS	886227..886445	phage tail fiber-like protein
+hap:HAPS_0902	CDS	886449..887501	probable bacteriophage regulatory protein
+hap:HAPS_0903	CDS	887516..888100	possible bacteriophage baseplate protein
+hap:HAPS_0904	CDS	888158..888526	phage baseplate-like protein
+hap:HAPS_0905	CDS	888513..889628	phage baseplate-like protein
+hap:HAPS_0906	CDS	889621..890187	putative bacteriophage tail fiber protein
+hap:HAPS_0907	CDS	890211..892127	putative phage-related tail fiber protein
+hap:HAPS_0908	CDS	892137..892703	putative tail fiber assembly protein
+hap:HAPS_0909	CDS	892696..893175	enoyl-CoA hydratase/carnithine racemase-like protein
+hap:HAPS_0910	CDS	893489..896413	phage-related protein, tail component
+hap:HAPS_0911	CDS	896442..897233	ABC-type antimicrobial peptide transport system, ATPase component
+hap:HAPS_0912	tRNA	897394..897464	tRNA-Ser
+hap:HAPS_0913	CDS	complement(897573..898529)	znuA; high-affinity zinc transporter periplasmic component
+hap:HAPS_0914	CDS	complement(898667..900034)	pssA; phosphatidylserine synthase
+hap:HAPS_0915	CDS	900227..900442	hypothetical protein
+hap:HAPS_0916	CDS	complement(900540..903356)	ileS; isoleucyl-tRNA synthetase
+hap:HAPS_0917	CDS	complement(903416..904078)	anititoxin/toxin system zeta toxin, signal recognition particle GTPase
+hap:HAPS_0918	CDS	complement(904082..904363)	hypothetical protein
+hap:HAPS_0919	CDS	complement(904365..905342)	ribF; riboflavin biosynthesis protein
+hap:HAPS_0920	CDS	905501..906535	purM; phosphoribosylaminoimidazole synthetase
+hap:HAPS_0921	CDS	complement(906890..908578)	hypothetical protein
+hap:HAPS_0922	CDS	complement(908643..908810)	hypothetical protein
+hap:HAPS_0923	CDS	complement(908983..909573)	hypothetical protein
+hap:HAPS_0924	CDS	909702..910673	ISNme5, family110
+hap:HAPS_0925	CDS	complement(910664..910786)	hypothetical protein
+hap:HAPS_0926	CDS	complement(910945..911724)	DNA uptake lipoprotein, TPR repeat-containing protein
+hap:HAPS_0927	CDS	911861..912838	rluD; 23S rRNA pseudouridine synthase D
+hap:HAPS_0928	tRNA	complement(912958..913047)	tRNA-Ser
+hap:HAPS_0929	CDS	complement(913158..913469)	bolA; stress-induced morphogen
+hap:HAPS_0930	CDS	913553..914140	pflA; pyruvate formate lyase-activating enzyme 1, putative lipoprotein
+hap:HAPS_0931	CDS	914377..915111	conserved hypothetical protein
+hap:HAPS_0932	CDS	915112..915669	putative transcriptional regulator
+hap:HAPS_0933	CDS	915669..916085	rusA; holliday junction resolvase-like protein/crossover junction endodeoxyribonuclease
+hap:HAPS_0934	CDS	complement(916104..917414)	dgt; deoxyguanosinetriphosphate triphosphohydrolase-like protein
+hap:HAPS_0935	CDS	917496..918806	rumA; 23S rRNA 5-methyluridine methyltransferase
+hap:HAPS_0936	CDS	919085..920680	dppA; periplasmic dipeptide transport protein DppA
+hap:HAPS_0937	CDS	920774..921778	dppB; dipeptide transport system permease protein DppB
+hap:HAPS_0938	CDS	921807..922700	dppC; dipeptide transport system permease protein DppC
+hap:HAPS_0939	CDS	922711..923694	dppD; dipeptide transporter ATP-binding subunit
+hap:HAPS_0940	CDS	923709..924689	dppF; dipeptide transporter ATP-binding subunit
+hap:HAPS_0941	CDS	complement(924741..925319)	ruvC; holliday junction resolvase
+hap:HAPS_0942	CDS	complement(925393..925881)	uvrA; excinuclease ABC subunit A
+hap:HAPS_0943	CDS	complement(925999..926739)	aspS; aspartyl-tRNA synthetase
+hap:HAPS_0944	CDS	complement(926878..927327)	ntpA; dATP pyrophosphohydrolase
+hap:HAPS_0945	CDS	927733..928371	hypothetical protein
+hap:HAPS_0946	CDS	928597..929376	folP; dihydropteroate synthase
+hap:HAPS_0947	CDS	929391..929738	arsC; arsenate reductase
+hap:HAPS_0948	CDS	929824..930444	coaE; dephospho-CoA kinase
+hap:HAPS_0949	CDS	930448..930642	yacG; putative zinc-binding protein
+hap:HAPS_0950	CDS	complement(930639..931661)	holA; DNA polymerase III subunit delta
+hap:HAPS_0951	CDS	complement(931666..932160)	rlpB; rare lipoprotein B
+hap:HAPS_0952	CDS	complement(932243..934831)	leuS; leucyl-tRNA synthetase
+hap:HAPS_0953	CDS	935071..935346	transcriptional regulator
+hap:HAPS_0954	CDS	935536..937467	thrS; threonyl-tRNA synthetase
+hap:HAPS_0955	CDS	937712..937867	hypothetical protein
+hap:HAPS_0956	CDS	938241..941705	vtaA8; virulence-associated trimeric autotransporter
+hap:HAPS_0957	CDS	complement(941857..943248)	bifunctional enzyme involved in thiolation andmethylation of tRNA
+hap:HAPS_0958	CDS	complement(943439..943942)	crr; glucose-specific PTS system component
+hap:HAPS_0959	CDS	complement(944016..945737)	ptsI; phosphoenolpyruvate-protein phosphotransferase
+hap:HAPS_0960	CDS	complement(945833..946090)	ptsH; phosphotransferase system, phosphocarrier protein HPr
+hap:HAPS_0961	CDS	946395..947510	asd; aspartate-semialdehyde dehydrogenase
+hap:HAPS_0962	CDS	complement(947540..947680)	hypothetical protein
+hap:HAPS_0963	CDS	947885..949492	hypothetical protein
+hap:HAPS_0964	gene	949864..950293	pseudogene
+hap:HAPS_0965	CDS	950343..951506	lpxB; lipid-A-disaccharide synthase
+hap:HAPS_0966	CDS	complement(951539..952510)	secF; preprotein translocase subunit SecF
+hap:HAPS_0967	CDS	complement(952521..954332)	secD; preprotein translocase subunit SecD
+hap:HAPS_0968	CDS	complement(954394..954687)	yajC; preprotein translocase subunit YajC
+hap:HAPS_0969	CDS	954893..955453	possible transcriptional regulator
+hap:HAPS_0970	CDS	complement(955541..956872)	argG; argininosuccinate synthase
+hap:HAPS_0971	CDS	complement(957062..957745)	gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+hap:HAPS_0972	CDS	complement(957905..958672)	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+hap:HAPS_0973	CDS	complement(958681..959247)	conserved hypothetical protein
+hap:HAPS_0974	CDS	complement(959256..959819)	nitroreductase
+hap:HAPS_0975	CDS	960216..962222	tktA; transketolase
+hap:HAPS_0976	CDS	962296..963336	waaQ; ADP-heptose--lipooligosaccharide heptosyltransferase III/heptosyltransferase-like protein
+hap:HAPS_0977	CDS	963441..963869	conserved hypothetical protein
+hap:HAPS_0978	CDS	963987..964991	rfbB; dTDP-glucose 4,6-dehydratase
+hap:HAPS_0979	CDS	complement(965135..966013)	conserved hypothetical protein
+hap:HAPS_0980	CDS	complement(966013..966474)	argR; arginine repressor
+hap:HAPS_0981	CDS	966676..967620	mdh; malate dehydrogenase
+hap:HAPS_0982	CDS	967709..968557	thioredoxin-like protein
+hap:HAPS_0983	CDS	968596..969546	trxB; thioredoxin reductase
+hap:HAPS_0984	CDS	complement(969758..970516)	igtF; UDP-glucose--lipooligosaccharideglucosyltransferase involved in cell wall biogenesis
+hap:HAPS_0985	CDS	970636..970950	rrmJ; 23S rRNA methyltransferase J
+hap:HAPS_0986	gene	971033..972590	pseudogene
+hap:HAPS_0987	rRNA	complement(973143..974517)	16S ribosomal RNA
+hap:HAPS_0988	tRNA	974606..974681	tRNA-Glu
+hap:HAPS_0989	rRNA	complement(975071..977959)	23S ribosomal RNA
+hap:HAPS_0990	gene	complement(978557..979103)	pseudogene
+hap:HAPS_0991	CDS	979103..979294	hypothetical protein
+hap:HAPS_0992	rRNA	complement(979367..979482)	5S ribosomal RNA
+hap:HAPS_0993	CDS	979637..982108	cyaA; adenylate cyclase
+hap:HAPS_0994	CDS	982123..984057	kefB; glutathione-regulated potassium-efflux system protein
+hap:HAPS_0995	CDS	984212..985138	ruvB; holliday junction DNA helicase B
+hap:HAPS_0996	CDS	985321..986958	oppA; oligopeptide permease ABC transporter membrane protein
+hap:HAPS_0997	CDS	987053..987976	oppB; ABC-type oligopeptide transport system, periplasmic component
+hap:HAPS_0998	CDS	987987..988907	oppC; ABC-type oligopeptide transport system, permease components
+hap:HAPS_0999	CDS	988919..990514	oppD; ABC transporter, ATP-binding protein
+hap:HAPS_1000	CDS	complement(990582..992582)	oppF; ABC transporter ATPase component
+hap:HAPS_1001	CDS	992834..995551	malT; ATP-dependent transcriptional regulator
+hap:HAPS_1002	CDS	995757..996068	dsDNA-mimic protein
+hap:HAPS_1003	CDS	complement(996178..997428)	hemY; porphoryin biosynthesis protein HemY
+hap:HAPS_1004	CDS	complement(997439..998800)	hemX; putative uroporphyrin-III C-methyltransferase
+hap:HAPS_1005	CDS	complement(998818..999576)	hemD; uroporphyrinogen-III synthase
+hap:HAPS_1006	CDS	complement(999578..1000507)	hemC; porphobilinogen deaminase
+hap:HAPS_1007	CDS	1000974..1002362	alsT; Na+/alanine symporter
+hap:HAPS_1008	CDS	complement(1002436..1003857)	ptsB; PTS system sucrose-specific EIIBC component
+hap:HAPS_1009	CDS	1004173..1007115	ptrA; protease III
+hap:HAPS_1010	CDS	complement(1007261..1007890)	uncharacterized protein involved in purine metabolism
+hap:HAPS_1011	CDS	1008035..1010437	lon; ATP-dependent protease LA
+hap:HAPS_1012	CDS	complement(1010635..1011804)	rumB; 23S rRNA methyluridine methyltransferase
+hap:HAPS_1013	CDS	complement(1011797..1012819)	nagZ; beta-hexosaminidase
+hap:HAPS_1014	CDS	complement(1012841..1014640)	putative ATP-dependent helicase
+hap:HAPS_1015	CDS	complement(1014865..1015491)	upp; uracil phosphoribosyltransferase
+hap:HAPS_1016	CDS	complement(1015553..1016362)	ilvY; DNA-binding transcriptional regulator IlvY
+hap:HAPS_1017	CDS	complement(1016447..1017481)	lbgB; lipooligosaccharide D-glycero-D-manno-heptosyltransferase
+hap:HAPS_1018	CDS	complement(1017478..1017645)	hypothetical protein
+hap:HAPS_1019	CDS	complement(1017621..1018556)	ADP-heptose:LPS heptosyltransferase
+hap:HAPS_1020	CDS	complement(1018583..1019257)	lbgA; lipooligosaccharide galactosyltransferase I
+hap:HAPS_1021	CDS	complement(1019260..1020405)	glycosyl transferase, group 1
+hap:HAPS_1022	CDS	complement(1020395..1021567)	glycosyl transferase, group 1
+hap:HAPS_1023	CDS	complement(1021571..1022362)	lpsA; lipooligosaccharide biosynthesis protein lpsA
+hap:HAPS_1024	CDS	complement(1022586..1022963)	hypothetical protein
+hap:HAPS_1025	CDS	complement(1022960..1023106)	hypothetical protein
+hap:HAPS_1026	CDS	complement(1023216..1023428)	rpmE; 50S ribosomal protein L31
+hap:HAPS_1027	CDS	1023687..1024784	ISAma3, family ISAs1
+hap:HAPS_1028	CDS	1024982..1025887	genX; lysyl-tRNA synthetase
+hap:HAPS_1029	CDS	1025997..1026779	tatD; putative Mg-dependent DNAse
+hap:HAPS_1030	CDS	1026919..1027344	conserved hypothetical protein
+hap:HAPS_1031	CDS	1027450..1028178	lpxH; UDP-2,3-diacylglucosamine hydrolase
+hap:HAPS_1032	CDS	1028179..1028979	vimF; glycosyltransferases involved in cell wall biogenesis
+hap:HAPS_1033	CDS	complement(1028987..1030945)	spoT; guanosine polyphosphate pyrophosphohydrolase/synthetase
+hap:HAPS_1034	CDS	1031134..1031247	hypothetical protein
+hap:HAPS_1035	CDS	complement(1031210..1031491)	rpoZ; DNA-directed RNA polymerase subunit omega
+hap:HAPS_1036	CDS	complement(1031853..1032803)	talB; transaldolase B
+hap:HAPS_1037	CDS	complement(1032918..1034189)	ampG; permease and signal transducer AmpG
+hap:HAPS_1038	CDS	complement(1034192..1035208)	galE; UDP-glucose-4-epimerase
+hap:HAPS_1039	CDS	complement(1035273..1035935)	rluB; pseudouridylate synthase
+hap:HAPS_1040	CDS	1036098..1036427	conserved hypothetical protein
+hap:HAPS_1041	CDS	1036494..1037099	recR; recombination protein RecR
+hap:HAPS_1042	CDS	1037210..1038844	pyrG; CTP synthetase
+hap:HAPS_1043	CDS	complement(1038956..1040188)	serA; D-3-phosphoglycerate dehydrogenase
+hap:HAPS_1044	CDS	complement(1040251..1040910)	rpiA; ribose-5-phosphate isomerase A
+hap:HAPS_1045	CDS	complement(1041009..1042343)	mrsA; phosphoglucosamine mutase
+hap:HAPS_1046	CDS	complement(1042350..1043876)	ilvA; threonine dehydratase
+hap:HAPS_1047	CDS	complement(1043895..1044461)	slyD; FkbP-type peptidyl-prolyl cis-trans isomerase
+hap:HAPS_1048	CDS	complement(1044579..1044719)	hypothetical protein
+hap:HAPS_1049	CDS	complement(1044728..1045432)	periplasmic/secreted protein
+hap:HAPS_1050	CDS	complement(1045484..1046221)	potassium-tellurite ethidium and proflavin transporter
+hap:HAPS_1051	CDS	1046341..1047231	menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+hap:HAPS_1052	CDS	complement(1047266..1047427)	conserved hypothetical protein
+hap:HAPS_1054	CDS	complement(1047408..1048430)	lpxK; tetraacyldisaccharide 4'-kinase
+hap:HAPS_1053	gene	1048430..1048961	pseudogene
+hap:HAPS_1055	CDS	1049117..1049512	hugX; heme utilization protein HuvX
+hap:HAPS_1056	CDS	1049526..1050065	hugZ; heme utilization protein
+hap:HAPS_1057	CDS	complement(1050129..1051637)	glpK; glycerol kinase
+hap:HAPS_1058	CDS	complement(1051711..1052424)	glpF; glycerol uptake facilitator protein
+hap:HAPS_1059	CDS	complement(1052617..1053339)	wecG; putative UDP-N-acetyl-D-mannosaminuronic acid transferase, teichoic acid biosynthesis protein
+hap:HAPS_1060	CDS	complement(1053332..1054591)	putative enterobacterial common antigen polymerase
+hap:HAPS_1061	CDS	complement(1054632..1055801)	wecF; 4-alpha-L-fucosyltransferase
+hap:HAPS_1062	CDS	1055944..1058328	pbpB; penicillin-binding protein 1B (PBP1b)
+hap:HAPS_1063	CDS	complement(1058407..1059090)	artM; arginine transporter permease subunit ArtM
+hap:HAPS_1064	CDS	complement(1059090..1059719)	artQ; arginine transporter permease subunit ArtQ
+hap:HAPS_1065	CDS	complement(1059767..1060492)	artI; ABC-type amino acid transport/signal transduction systems, periplasmic component/domain
+hap:HAPS_1066	CDS	complement(1060524..1061258)	artP; ABC-type arginine transport system, ATPase component
+hap:HAPS_1067	CDS	1061432..1063615	uvrD; DNA-dependent helicase II
+hap:HAPS_1068	CDS	complement(1063662..1064111)	rplI; 50S ribosomal protein L9
+hap:HAPS_1069	CDS	complement(1064130..1064357)	rpsR; 30S ribosomal protein S18
+hap:HAPS_1070	CDS	complement(1064369..1064695)	priB; primosomal replication protein N
+hap:HAPS_1071	CDS	complement(1064682..1065062)	rpsF; 30S ribosomal protein S6
+hap:HAPS_1072	CDS	1065460..1066779	metabolite transport protein
+hap:HAPS_1073	CDS	complement(1066804..1067586)	licA; predicted choline kinase involved in LPS biosynthesis
+hap:HAPS_1074	CDS	complement(1067586..1067954)	periplasmic lipoprotein
+hap:HAPS_1075	CDS	complement(1067956..1068315)	HIT-like protein/diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases
+hap:HAPS_1076	CDS	1068342..1068467	hypothetical protein
+hap:HAPS_1077	CDS	1068726..1069823	ISAma3, family ISAs1
+hap:HAPS_1078	CDS	complement(1070513..1071097)	putative DNA uptake protein, cytoplasmic protein
+hap:HAPS_1079	CDS	1071492..1072838	nqrA; Na(+)-translocating NADH-quinone reductase subunit A
+hap:HAPS_1080	CDS	1072843..1074081	nqrB; Na(+)-translocating NADH-quinone reductase subunit B
+hap:HAPS_1081	CDS	1074074..1074850	nqrC; Na(+)-translocating NADH-quinone reductase subunit C
+hap:HAPS_1082	CDS	1074850..1075473	nqrD; Na(+)-translocating NADH-quinone reductase subunit D
+hap:HAPS_1083	CDS	1075475..1076071	nqrE; Na(+)-translocating NADH-quinone reductase subunit E
+hap:HAPS_1084	CDS	1076084..1077316	nqrF; Na(+)-translocating NADH-quinone reductase subunit F
+hap:HAPS_1085	CDS	1077397..1077825	nucleotidyltransferase, inorganic polyphosphate/ATP-NAD kinase
+hap:HAPS_1086	CDS	1077822..1078121	dnaN; DNA polymerase beta subunit
+hap:HAPS_1087	CDS	complement(1078118..1079695)	thiP; thiamine transporter membrane protein
+hap:HAPS_1088	CDS	1080020..1081459	nrfA; cytochrome c nitrite reductase
+hap:HAPS_1089	CDS	1081480..1082103	nrfB; cytochrome c-type protein NrfB
+hap:HAPS_1090	CDS	1082100..1082777	nrfC; nitrate reductase
+hap:HAPS_1091	CDS	1082777..1083730	nrfD; nitrate reductase, transmembrane protein
+hap:HAPS_1092	CDS	1083840..1084628	glycosyltransferase
+hap:HAPS_1093	gene	complement(1084733..1085368)	serB; pseudogene
+hap:HAPS_1094	CDS	1085685..1086350	aphA; AphA-like protein/membrane protein affecting hemolysin expression
+hap:HAPS_1095	CDS	1086446..1086664	infA; translation initiation factor IF-1
+hap:HAPS_1096	CDS	1086850..1087782	engC; ribosome-associated GTPase
+hap:HAPS_1097	CDS	1087974..1088852	yfeA; chelated iron ABC transporter, periplasmic-binding protein
+hap:HAPS_1098	CDS	1088915..1089676	yfeB; chelated iron ABC transporter, ATP-binding protein
+hap:HAPS_1099	CDS	1089680..1090552	yfeC; chelated iron ABC transporter, permease
+hap:HAPS_1100	CDS	1090552..1091391	yfeD; chelated iron ABC transporter, permease
+hap:HAPS_1101	CDS	complement(1091462..1091875)	conserved hypothetical protein
+hap:HAPS_1102	gene	complement(1091947..1092888)	pseudogene
+hap:HAPS_1103	gene	complement(1092919..1093095)	pseudogene
+hap:HAPS_1104	CDS	1093171..1093512	XRE family transcriptional regulator
+hap:HAPS_1105	CDS	complement(1093682..1095118)	scrB; sucrose-6-phosphate hydrolase (sucrase) (invertase)
+hap:HAPS_1106	gene	1095556..1096425	oadB; pseudogene
+hap:HAPS_1107	CDS	1096546..1096866	phnA; alkylphosphonate uptake protein
+hap:HAPS_1108	CDS	1096942..1097562	purN; phosphoribosylglycinamide formyltransferase
+hap:HAPS_1109	CDS	1097770..1099197	aspA; aspartate ammonia-lyase
+hap:HAPS_1110	CDS	complement(1099204..1099407)	hypothetical protein
+hap:HAPS_1111	CDS	1099432..1101318	htpG; heat shock protein 90
+hap:HAPS_1112	CDS	complement(1101543..1102391)	dacB; D-alanyl-D-alanine carboxypeptidase/endopeptidase, penicillin-binding protein 4 precursor
+hap:HAPS_1113	CDS	1102511..1102987	greA; transcription elongation factor GreA
+hap:HAPS_1114	gene	complement(1103180..1103802)	pseudogene
+hap:HAPS_1115	CDS	complement(1104258..1105064)	oppF; ABC-type oligopeptide transport systems, ATP-binding subunit
+hap:HAPS_1116	CDS	complement(1105068..1107023)	oppCD; ABC-type oligopeptide transport systems, ATP-binding/permease
+hap:HAPS_1117	CDS	complement(1107023..1107940)	oppB; ABC-type oligopeptide transport systems, permease component
+hap:HAPS_1118	CDS	complement(1108151..1109734)	oppA; ABC-type oligopeptide transport systems, periplasmic binding protein
+hap:HAPS_1119	CDS	complement(1109966..1110427)	rnhA; ribonuclease H
+hap:HAPS_1120	CDS	complement(1110433..1111269)	purU; formyltetrahydrofolate deformylase
+hap:HAPS_1121	CDS	complement(1111365..1111769)	hns; DNA-binding protein H-NS
+hap:HAPS_1122	CDS	1112281..1113807	Na(+)/H(+) antiporter
+hap:HAPS_1123	CDS	1113925..1115826	nfrE; cytochrome c-type biogenesis protein
+hap:HAPS_1124	CDS	1115823..1116359	dsbE; thiol:disulfide interchange protein DsbE
+hap:HAPS_1125	CDS	1116356..1116748	ccmH; cytochrome c-type biogenesis protein ccmH precursor
+hap:HAPS_1126	CDS	1116741..1117487	nrfG; formate-dependent nitrite reductase complex NrfG subunit, cytochrome c biogenesis factor
+hap:HAPS_1127	CDS	complement(1117554..1118576)	fbpC; iron(III) ABC transporter, ATP-binding protein
+hap:HAPS_1128	CDS	complement(1118578..1120230)	fbpB; iron-uptake permease inner membrane protein
+hap:HAPS_1129	CDS	complement(1120408..1121433)	fbpA; periplasmic iron-binding protein
+hap:HAPS_1130	CDS	1122061..1123458	ccp; cytochrome c peroxidase
+hap:HAPS_1131	CDS	complement(1123639..1123908)	rpsO; 30S ribosomal protein S15
+hap:HAPS_1132	CDS	complement(1124040..1125359)	nhaP; NhaP-type Na+/H+ and K+/H+ antiporter
+hap:HAPS_1133	CDS	1125551..1127425	ppiD; peptidyl-prolyl cis-trans isomerase D
+hap:HAPS_1134	CDS	1127876..1128967	ribD; riboflavin biosynthesis protein RibD
+hap:HAPS_1135	CDS	1128969..1129613	ribE; riboflavin synthase subunit alpha
+hap:HAPS_1136	CDS	1129745..1130944	ribA; riboflavin biosynthesis protein ribA
+hap:HAPS_1137	CDS	1131140..1131601	ribH; riboflavin synthase subunit beta
+hap:HAPS_1138	CDS	complement(1131713..1132504)	ABC transport system ATP-binding protein
+hap:HAPS_1139	CDS	complement(1132504..1133439)	ABC transporter, inner membrane subunit
+hap:HAPS_1140	CDS	complement(1133491..1133610)	hypothetical protein
+hap:HAPS_1141	CDS	1133632..1133850	ldhL; L-lactate dehydrogenase
+hap:HAPS_1142	CDS	complement(1133964..1134104)	hypothetical protein
+hap:HAPS_1143	CDS	complement(1134129..1135571)	bifunctional ABC superfamily ATP binding cassette transporter, binding protein/lytic transglycosylase
+hap:HAPS_1144	CDS	complement(1135678..1136532)	folD; methenyltetrahydrofolate cyclohydrolase
+hap:HAPS_1145	tRNA	1136714..1136790	tRNA-Pro
+hap:HAPS_1146	tRNA	1136830..1136906	tRNA-Arg
+hap:HAPS_1147	CDS	complement(1136938..1137993)	int; phage integrase
+hap:HAPS_1148	CDS	complement(1138292..1139095)	possible prophage antirepressor
+hap:HAPS_1149	CDS	complement(1139481..1140578)	ISAma3, family ISAs1
+hap:HAPS_1150	CDS	complement(1140667..1141122)	putative inner membrane protein
+hap:HAPS_1151	CDS	complement(1141106..1141303)	hypothetical protein
+hap:HAPS_1152	CDS	complement(1141572..1141952)	putative phage associated protein
+hap:HAPS_1153	CDS	1142318..1142530	conserved hypothetical protein
+hap:HAPS_1154	CDS	complement(1142549..1142812)	hypothetical protein
+hap:HAPS_1155	CDS	complement(1142836..1143375)	phage related protein
+hap:HAPS_1156	CDS	1143719..1143907	hypothetical phage protein
+hap:HAPS_1157	CDS	complement(1143949..1144563)	exo; possible bacteriophage exonuclease
+hap:HAPS_1158	CDS	complement(1144560..1145426)	bet; phage recombination protein Bet
+hap:HAPS_1159	CDS	complement(1145436..1145894)	phage-related predicted endonuclease protein
+hap:HAPS_1160	CDS	complement(1145903..1146061)	hypothetical protein
+hap:HAPS_1161	gene	complement(1146112..1146500)	pseudogene
+hap:HAPS_1162	gene	1146513..1146722	pseudogene
+hap:HAPS_1163	CDS	1146784..1148214	possible outer membrane protein, FOG: TPR repeat protein
+hap:HAPS_1164	CDS	complement(1148211..1148822)	5-formyltetrahydrofolate cyclo-ligase
+hap:HAPS_1165	CDS	complement(1149047..1149376)	zapA; cell division protein ZapA
+hap:HAPS_1166	CDS	1149451..1149996	yecA family protein
+hap:HAPS_1167	CDS	complement(1150021..1151802)	nrdD; anaerobic ribonucleoside triphosphate reductase
+hap:HAPS_1168	CDS	complement(1151799..1152269)	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein
+hap:HAPS_1169	CDS	complement(1152444..1153007)	trpG; para-aminobenzoate synthase component II
+hap:HAPS_1170	CDS	complement(1153007..1154623)	rmuC; DNA recombination protein RmuC-like protein
+hap:HAPS_1171	CDS	1154803..1155825	hemB; delta-aminolevulinic acid dehydratase
+hap:HAPS_1172	CDS	1156034..1156615	cAMP-binding protein - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinase
+hap:HAPS_1173	CDS	1156622..1157833	aslB; arylsulfatase regulator (Fe-S oxidoreductase)
+hap:HAPS_1174	CDS	complement(1158100..1160919)	hepA; ATP-dependent helicase HepA
+hap:HAPS_1175	CDS	complement(1161083..1162726)	pgi; glucose-6-phosphate isomerase
+hap:HAPS_1176	CDS	complement(1162745..1163005)	conserved hypothetical protein
+hap:HAPS_1177	tRNA	complement(1163123..1163197)	tRNA-Gln
+hap:HAPS_1178	tRNA	complement(1163244..1163318)	tRNA-Gln
+hap:HAPS_1179	tRNA	complement(1163343..1163427)	tRNA-Leu
+hap:HAPS_1180	tRNA	complement(1163431..1163507)	tRNA-Met
+hap:HAPS_1181	CDS	complement(1163690..1164508)	aroE; shikimate 5-dehydrogenase
+hap:HAPS_1182	CDS	complement(1164512..1165066)	sua5; SUA5 protein, possible translation factor
+hap:HAPS_1183	CDS	complement(1165066..1165596)	DNA topoisomerase I-related protein
+hap:HAPS_1184	CDS	complement(1165604..1165909)	conserved hypothetical protein
+hap:HAPS_1185	CDS	complement(1165902..1166357)	recX; regulatory protein RecX
+hap:HAPS_1186	CDS	complement(1166410..1167528)	recA; recombinase A
+hap:HAPS_1187	CDS	complement(1167661..1168266)	conserved hypothetical protein
+hap:HAPS_1188	CDS	complement(1168244..1169215)	pabB; para-aminobenzoate synthase component I
+hap:HAPS_1189	gene	1169248..1169448	pseudogene
+hap:HAPS_1190	CDS	1169438..1169551	hypothetical protein
+hap:HAPS_1191	CDS	1169666..1170529	tehB; tellurite resistance protein TehB
+hap:HAPS_1192	CDS	1170805..1171776	dusA; tRNA-dihydrouridine synthase A
+hap:HAPS_1193	gene	1172184..1172908	pseudogene
+hap:HAPS_1194	CDS	complement(1172905..1174770)	rpoD; RNA polymerase sigma factor RpoD
+hap:HAPS_1195	CDS	complement(1174869..1176617)	dnaG; DNA primase
+hap:HAPS_1196	CDS	complement(1176761..1176976)	rpsU; 30S ribosomal protein S21
+hap:HAPS_1197	CDS	complement(1177535..1177750)	hypothetical protein
+hap:HAPS_1198	CDS	complement(1177843..1180752)	rne; ribonuclease E
+hap:HAPS_1199	CDS	complement(1181084..1182472)	mpl; UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+hap:HAPS_1200	CDS	1182594..1183595	fbp; fructose-1,6-bisphosphatase
+hap:HAPS_1201	CDS	1183621..1183746	hypothetical protein
+hap:HAPS_1202	CDS	1183743..1185338	hbpA; heme-binding protein A
+hap:HAPS_1203	CDS	1185469..1186491	scrR; sucrose operon repressor
+hap:HAPS_1204	CDS	1186644..1188242	tyrR; transcriptional regulatory protein TyrR
+hap:HAPS_1205	CDS	1188239..1189879	sapA; peptide transport periplasmic protein SapA
+hap:HAPS_1206	CDS	1189881..1190843	sapB; peptide transport system permease protein SapB
+hap:HAPS_1207	CDS	1191031..1191924	psd; phosphatidylserine decarboxylase
+hap:HAPS_1208	CDS	1191971..1192510	dsbE; thiol-disulfide interchange protein
+hap:HAPS_1209	CDS	1192510..1192974	ccmH_1; cytochrome C-type biogenesis protein
+hap:HAPS_1210	CDS	1192974..1193876	ccmH_2; cytochrome C-type biogenesis protein, TPR repeat-containing protein
+hap:HAPS_1211	CDS	1193909..1194853	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+hap:HAPS_1212	CDS	1194908..1195189	hfq; RNA-binding protein Hfq
+hap:HAPS_1213	CDS	1195344..1196570	hflX; GTP-binding protein hflX
+hap:HAPS_1214	CDS	1196627..1197301	gph; phosphoglycolate phosphatase
+hap:HAPS_1215	CDS	complement(1197756..1198643)	nanK; N-acetylmannosamine kinase
+hap:HAPS_1216	CDS	complement(1198645..1199340)	nanE; N-acetylmannosamine-6-phosphate 2-epimerase
+hap:HAPS_1217	CDS	complement(1199530..1200438)	idgA; indigoidine synthase A-like protein
+hap:HAPS_1218	CDS	complement(1200431..1201534)	carbohydrate kinase-like protein
+hap:HAPS_1219	gene	complement(1201712..1202158)	pseudogene
+hap:HAPS_1220	CDS	1202441..1203700	transport system nucleoside permease
+hap:HAPS_1221	CDS	1203791..1204570	deoC; deoxyribose-phosphate aldolase
+hap:HAPS_1222	CDS	1204599..1205318	deoD; purine nucleoside phosphorylase
+hap:HAPS_1223	CDS	complement(1206157..1206759)	conserved hypothetical protein
+hap:HAPS_1224	CDS	1206877..1208523	argS; arginyl-tRNA synthetase
+hap:HAPS_1225	gene	1208978..1209337	pseudogene
+hap:HAPS_1226	gene	1209408..1209584	pseudogene
+hap:HAPS_1227	CDS	complement(1209746..1210933)	tuf; elongation factor Tu
+hap:HAPS_1228	tRNA	complement(1211170..1211245)	tRNA-Thr
+hap:HAPS_1229	tRNA	complement(1211249..1211323)	tRNA-Gly
+hap:HAPS_1230	tRNA	complement(1211366..1211450)	tRNA-Tyr
+hap:HAPS_1231	tRNA	complement(1211481..1211556)	tRNA-Thr
+hap:HAPS_1233	CDS	complement(1211686..1211805)	hypothetical protein
+hap:HAPS_1232	CDS	1211798..1212739	coaA; pantothenate kinase
+hap:HAPS_1234	CDS	1212742..1213449	pssA; phosphatidylserine synthase
+hap:HAPS_1235	CDS	complement(1213543..1214505)	lipA; lipoyl synthase
+hap:HAPS_1236	CDS	complement(1214518..1215114)	lipB; lipoyltransferase
+hap:HAPS_1237	CDS	complement(1215178..1215477)	conserved hypothetical protein
+hap:HAPS_1238	CDS	complement(1215591..1216772)	dacA; D-alanyl-D-alanine carboxypeptidase fraction A/penicillin-binding protein 5
+hap:HAPS_1239	CDS	complement(1216787..1217779)	rlpA; rare lipoprotein A
+hap:HAPS_1240	CDS	complement(1217807..1218757)	rodA; rod-shape-determining protein RodA
+hap:HAPS_1241	CDS	complement(1218933..1220867)	ftsI; cell division protein FtsI/penicillin-binding protein 3
+hap:HAPS_1242	CDS	complement(1220874..1221308)	SPOUT methyltransferase superfamily protein
+hap:HAPS_1243	CDS	complement(1221342..1221656)	plant Iojap-like protein
+hap:HAPS_1244	tRNA	1221993..1222068	tRNA-Gly
+hap:HAPS_1245	tRNA	1222076..1222162	tRNA-Leu
+hap:HAPS_1246	CDS	1222256..1222966	sfsA; regulator for maltose metabolism
+hap:HAPS_1247	gene	complement(1222947..1223282)	glcB; pseudogene
+hap:HAPS_1248	CDS	1223448..1223969	hslV; ATP-dependent protease peptidase subunit
+hap:HAPS_1249	CDS	1224059..1225381	hslU; ATP-dependent protease ATP-binding subunit
+hap:HAPS_1250	CDS	1225513..1227222	menD; 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylic acid synthase/2-oxoglutarate decarboxylase, menaquinone biosynthesis protein menD
+hap:HAPS_1251	CDS	1227261..1227989	yfbB; acyl-CoA thioester hydrolase YfbB
+hap:HAPS_1252	CDS	1227998..1228228	accD; acetyl-CoA carboxylase beta subunit
+hap:HAPS_1253	CDS	complement(1228528..1229595)	phoH; phosphate starvation-inducible protein PhoH, predicted ATPase
+hap:HAPS_1254	CDS	1229834..1230814	tbpA; thiamine-binding periplasmic protein
+hap:HAPS_1255	CDS	complement(1230854..1233067)	priA; primosome assembly protein PriA
+hap:HAPS_1256	CDS	complement(1233067..1233933)	DMT superfamily drug/metabolite transporter
+hap:HAPS_1257	CDS	complement(1233933..1234814)	DMT superfamily drug/metabolite transporter
+hap:HAPS_1258	CDS	complement(1235008..1236225)	alaT; aminotransferase AlaT
+hap:HAPS_1259	CDS	1236372..1237646	menF; menaquinone-specific isochorismate synthase
+hap:HAPS_1260	CDS	1237938..1238660	pgpB; phosphatidylglycerophosphatase B
+hap:HAPS_1261	CDS	1238663..1239577	nagK; N-acetyl-D-glucosamine kinase, transcriptional regulator/sugar kinase
+hap:HAPS_1262	CDS	1239744..1240451	gloB; putative hydroxyacylglutathione hydrolase
+hap:HAPS_1263	CDS	1240608..1241276	uppS; undecaprenyl pyrophosphate synthetase
+hap:HAPS_1264	CDS	1241294..1242163	cdsA; CDP-diglyceride pyrophosphorylase
+hap:HAPS_1265	CDS	1242173..1243492	yaeL; putative zinc metalloprotease
+hap:HAPS_1266	CDS	1243543..1245960	ompD15; protective surface antigen D15 precursor
+hap:HAPS_1267	CDS	1246035..1246838	omp26; outer membrane protein 26
+hap:HAPS_1268	CDS	1246838..1247863	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+hap:HAPS_1269	CDS	1247882..1248349	fabZ; (3R)-hydroxymyristoyl-acyl carrier protein dehydratase
+hap:HAPS_1270	CDS	1248377..1249171	lpxA; UDP-N-acetylglucosamine acyltransferase
+hap:HAPS_1271	CDS	1249562..1252006	thrA; bifunctional aspartokinase I/homoserine dehydrogenase I
+hap:HAPS_1272	CDS	1252103..1253050	thrB; homoserine kinase
+hap:HAPS_1273	CDS	complement(1253142..1254263)	tyrA; bifunctional chorismate mutase/prephenate dehydrogenase
+hap:HAPS_1274	CDS	complement(1254265..1255326)	aroF; phospho-2-dehydro-3-deoxyheptonate aldolase
+hap:HAPS_1275	CDS	complement(1255477..1256499)	opsX; ADP-heptose:LPS heptosyltransferase I
+hap:HAPS_1276	CDS	complement(1256508..1256846)	dissimilatory sulfite reductase (desulfoviridin), gamma subunit
+hap:HAPS_1277	gene	complement(1256930..1257665)	ushA; pseudogene
+hap:HAPS_1278	CDS	complement(1257967..1259415)	Na+/alanine symporter
+hap:HAPS_1279	CDS	complement(1259618..1260595)	rcnA; ABC-type nickel/cobalt efflux system, permease component
+hap:HAPS_1280	CDS	complement(1260586..1261227)	rcnB; ABC-type nickel/cobalt efflux system, periplasmic component
+hap:HAPS_1281	CDS	complement(1261904..1263937)	prlC; Zn-dependent oligopeptidase
+hap:HAPS_1282	CDS	1264119..1265285	pheA; bifunctional prephenate dehydratase/chorismate mutase
+hap:HAPS_1283	CDS	complement(1265316..1265978)	ung; uracil-DNA glycosylase
+hap:HAPS_1284	CDS	1266174..1266557	grcA; autonomous glycyl radical cofactor GrcA
+hap:HAPS_1285	CDS	complement(1266644..1267987)	accC; biotin carboxylase subunit of acetyl CoA carboxylase
+hap:HAPS_1286	CDS	complement(1268063..1268533)	accB; biotin carboxyl carrier protein of acetyl-CoA carboxylase (BCCP)
+hap:HAPS_1287	CDS	1268599..1268754	hypothetical protein
+hap:HAPS_1288	CDS	complement(1268730..1269173)	aroQ; 3-dehydroquinate dehydratase
+hap:HAPS_1289	CDS	complement(1269333..1270340)	bioB; biotin synthase
+hap:HAPS_1290	CDS	complement(1270396..1271220)	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+hap:HAPS_1291	CDS	complement(1271198..1271320)	hypothetical protein
+hap:HAPS_1292	CDS	1271463..1271930	conserved hypothetical protein
+hap:HAPS_1293	CDS	1271951..1272112	rpmF; 50S ribosomal protein L32
+hap:HAPS_1294	CDS	1272169..1273164	plsX; putative glycerol-3-phosphate acyltransferase PlsX
+hap:HAPS_1295	CDS	1273450..1274466	dat; diaminobutyrate--2-oxoglutarate aminotransferase
+hap:HAPS_1296	CDS	1274438..1275895	ddc; L-2,4-diaminobutyrate decarboxylase
+hap:HAPS_1297	CDS	1276156..1277037	ppnK; inorganic polyphosphate/ATP-NAD kinase
+hap:HAPS_1298	CDS	complement(1277146..1277880)	rph; ribonuclease PH
+hap:HAPS_1299	CDS	1277971..1278834	conserved stress-induced protein
+hap:HAPS_1300	CDS	1278838..1279866	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+hap:HAPS_1301	CDS	1279873..1280634	birA; bifunctional biotin operon repressor/biotin synthetase BirA
+hap:HAPS_1302	CDS	1280836..1281198	conserved hypothetical protein
+hap:HAPS_1303	CDS	1281250..1281843	mogA; molybdenum cofactor biosynthesis protein
+hap:HAPS_1304	CDS	1281852..1282190	glnB; nitrogen regulatory protein P-II
+hap:HAPS_1305	CDS	1282199..1282687	lspA; lipoprotein signal peptidase
+hap:HAPS_1306	CDS	1282688..1283632	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+hap:HAPS_1307	CDS	1283632..1283871	conserved hypothetical protein
+hap:HAPS_1308	CDS	1284198..1285172	mutY; A/G-specific DNA-adenine glycosylase
+hap:HAPS_1309	CDS	1285162..1285437	yggX; probable Fe(2+)-trafficking protein
+hap:HAPS_1310	CDS	1285448..1286542	mltC; membrane-bound lytic murein transglycosylase C precursor
+hap:HAPS_1311	CDS	complement(1286499..1286642)	hypothetical protein
+hap:HAPS_1312	tRNA	1286666..1286741	tRNA-Phe
+hap:HAPS_1313	tRNA	1286760..1286835	tRNA-Asn
+hap:HAPS_1314	CDS	complement(1287241..1288518)	glpC; sn-glycerol-3-phosphate dehydrogenase subunit C
+hap:HAPS_1315	CDS	complement(1288520..1289803)	glpB; anaerobic glycerol-3-phosphate dehydrogenase subunit B
+hap:HAPS_1316	CDS	complement(1289793..1291295)	glpA; sn-glycerol-3-phosphate dehydrogenase subunit A
+hap:HAPS_1317	gene	1291301..1291453	glpT; pseudogene
+hap:HAPS_1318	gene	1291515..1291709	glpQ; pseudogene
+hap:HAPS_1319	CDS	complement(1292521..1293480)	rluC; 23S rRNA pseudouridylate synthase C
+hap:HAPS_1320	CDS	1293570..1294481	mscS; small-conductance mechanosensitive channel
+hap:HAPS_1321	CDS	complement(1294598..1295353)	htpX; Zn-dependent protease with chaperone function
+hap:HAPS_1322	CDS	complement(1295420..1295947)	ppa; inorganic pyrophosphatase
+hap:HAPS_1323	CDS	complement(1296082..1298934)	superfamily II DNA/RNA helicase, SNF2 family, ATP-dependent
+hap:HAPS_1324	CDS	complement(1298952..1300019)	fic; filamentation induced by cAMP protein Fic
+hap:HAPS_1325	CDS	complement(1300179..1303583)	type III restriction protein, res subunit
+hap:HAPS_1326	gene	complement(1303580..1306752)	pseudogene
+hap:HAPS_1327	CDS	1307007..1308488	ilvC; ketol-acid reductoisomerase
+hap:HAPS_1328	CDS	complement(1308983..1309990)	hypothetical bacteriophage protein/gp34
+hap:HAPS_1329	CDS	1310631..1310756	hypothetical protein
+hap:HAPS_1330	CDS	1310762..1310971	hypothetical protein
+hap:HAPS_1331	CDS	1311124..1311498	hypothetical protein
+hap:HAPS_1332	tRNA	1311947..1312023	tRNA-Arg
+hap:HAPS_1333	tRNA	1312051..1312126	tRNA-His
+hap:HAPS_1334	tRNA	1312153..1312229	tRNA-Pro
+hap:HAPS_1335	rRNA	complement(1312631..1314005)	16S ribosomal RNA
+hap:HAPS_1336	tRNA	1314094..1314169	tRNA-Glu
+hap:HAPS_1337	rRNA	complement(1314559..1317447)	23S ribosomal RNA
+hap:HAPS_1338	rRNA	complement(1317742..1317858)	5S ribosomal RNA
+hap:HAPS_1339	CDS	1318342..1319682	putP; sodium/proline symporter, proline permease
+hap:HAPS_1340	CDS	1319798..1323409	putA; bifunctional proline dehydrogenase/pyrroline-5-carboxylate dehydrogenase
+hap:HAPS_1341	CDS	1323727..1324704	nrdB; ribonucleotide-diphosphate reductase beta subunit
+hap:HAPS_1342	CDS	1324691..1326400	nrdA; ribonucleotide-diphosphate reductase alpha subunit
+hap:HAPS_1343	CDS	1326455..1326574	hypothetical protein
+hap:HAPS_1344	CDS	1326588..1327637	potD; spermidine/putrescine-binding periplasmic protein (SPBP)
+hap:HAPS_1345	CDS	1327652..1328218	yaaH; permease, Inner membrane protein yaaH
+hap:HAPS_1346	CDS	1328505..1329020	ruvA; holliday junction DNA helicase motor protein
+hap:HAPS_1347	CDS	complement(1329142..1329612)	sprT; putative SprT-like protein
+hap:HAPS_1348	CDS	complement(1329636..1330382)	ribonuclease precursor
+hap:HAPS_1349	CDS	1330565..1331515	cysK; cysteine synthase
+hap:HAPS_1350	CDS	complement(1331579..1333123)	mviN; MviN virulence factor
+hap:HAPS_1351	CDS	1333391..1333654	rpsT; 30S ribosomal protein S20
+hap:HAPS_1352	CDS	1333665..1333781	hypothetical protein
+hap:HAPS_1353	CDS	1333972..1335741	mutL; methyl-directed mismatch repair protein
+hap:HAPS_1354	CDS	1335955..1338225	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+hap:HAPS_1355	CDS	1338468..1340147	recN; DNA repair protein RecN
+hap:HAPS_1356	CDS	complement(1340213..1341151)	lppA; outer membrane lipoprotein A precursor
+hap:HAPS_1357	CDS	complement(1341232..1341621)	ISMha3, family IS1595
+hap:HAPS_1358	CDS	1341954..1342535	mutH; DNA mismatch repair protein
+hap:HAPS_1359	CDS	complement(1342492..1342611)	hypothetical protein
+hap:HAPS_1360	CDS	1342622..1343350	terC; membrane protein TerC, possibly involved in tellurium resistance
+hap:HAPS_1361	CDS	1343705..1344298	thiQ; thiamin ABC transporter, ATP-binding protein
+hap:HAPS_1362	CDS	1344449..1345081	fstN; cell division protein FtsN, sporulation domain-containing protein
+hap:HAPS_1363	CDS	1345097..1345417	conserved hypothetical protein
+hap:HAPS_1364	CDS	complement(1345494..1346267)	tonB; TobB energy transducing protein
+hap:HAPS_1365	CDS	complement(1346267..1346653)	exbD; TonB system transport protein ExbD type-2/biopolymer transport protein
+hap:HAPS_1366	CDS	complement(1346696..1347148)	exbB; biopolymer transport protein ExbB
+hap:HAPS_1367	CDS	1347316..1347642	pspE; rhodanese-related sulfur transferase
+hap:HAPS_1368	CDS	1347704..1348759	sohB; putative periplasmic protease, secreted serine protease
+hap:HAPS_1369	CDS	1348978..1349955	dusB; tRNA-dihydrouridine synthase B
+hap:HAPS_1370	CDS	1349972..1350268	fis; DNA-binding protein Fis
+hap:HAPS_1371	CDS	1350580..1351353	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+hap:HAPS_1372	CDS	1351356..1351982	yigP; unknown YigP-like protein
+hap:HAPS_1373	CDS	1352044..1353693	ubiB; ubiquinone biosynthesis protein ubiB
+hap:HAPS_1374	CDS	complement(1354254..1355522)	mesJ; cell-cycle protein MesJ
+hap:HAPS_1375	CDS	complement(1355531..1355965)	dtd; D-tyrosyl-tRNA deacylase
+hap:HAPS_1376	CDS	complement(1355962..1356810)	rbn; ribonuclease BN
+hap:HAPS_1377	CDS	1356856..1356987	hypothetical protein
+hap:HAPS_1378	CDS	complement(1357029..1359344)	espP1; putative extracellular serine protease (autotransporter)
+hap:HAPS_1379	CDS	complement(1359565..1360860)	purD; phosphoribosylamine--glycine ligase
+hap:HAPS_1380	CDS	1361050..1362300	proA; gamma-glutamyl phosphate reductase
+hap:HAPS_1381	CDS	1362485..1364827	espP2; putative extracellular serine protease (autotransporter)
+hap:HAPS_1382	CDS	1365035..1366705	putative ABC transporter ATP-binding protein
+hap:HAPS_1383	CDS	1366802..1368172	gor; glutathione reductase
+hap:HAPS_1384	CDS	1368195..1368842	hypothetical protein
+hap:HAPS_1385	CDS	complement(1368873..1369487)	nrdG; anaerobic ribonucleotide reductase activating protein NrdG
+hap:HAPS_1386	CDS	complement(1369487..1369909)	pts; 6-pyruvoyl tetrahydrobiopterin synthase
+hap:HAPS_1387	CDS	complement(1369902..1370561)	queC; queuosine biosynthesis protein QueC
+hap:HAPS_1388	CDS	1370843..1371715	pirA; Pirin-like protein
+hap:HAPS_1389	CDS	1372066..1373364	pepB; aminopeptidase B
+hap:HAPS_1390	CDS	1373419..1373862	transcriptional regulator
+hap:HAPS_1391	CDS	complement(1373919..1374497)	tatC; twin-arginine translocase subunit, sec-independent protein export TatC
+hap:HAPS_1392	CDS	complement(1374671..1375219)	tatB; twin-arginine translocase subunit, sec-independent protein export TatB
+hap:HAPS_1393	CDS	complement(1375223..1375447)	tatA; twin-arginine translocase subunit, sec-independent protein export TatA
+hap:HAPS_1394	CDS	1375790..1377430	yidC; putative inner membrane protein translocase component YidC
+hap:HAPS_1395	CDS	1377440..1378228	smtA; SAM-dependent methyltransferase, SmtA
+hap:HAPS_1396	CDS	1378272..1378784	omp18_16; outer membrane protein 18/16
+hap:HAPS_1397	rRNA	complement(1379499..1380873)	16S ribosomal RNA
+hap:HAPS_1398	tRNA	1380897..1380973	tRNA-Ile
+hap:HAPS_1399	tRNA	1381043..1381118	tRNA-Ala
+hap:HAPS_1400	rRNA	complement(1381578..1384466)	23S ribosomal RNA
+hap:HAPS_1401	rRNA	complement(1384641..1384757)	5S ribosomal RNA
+hap:HAPS_1402	rRNA	complement(1384776..1384924)	5S ribosomal RNA
+hap:HAPS_1403	tRNA	1384945..1385021	tRNA-Asp
+hap:HAPS_1404	tRNA	1385075..1385150	tRNA-Trp
+hap:HAPS_1405	CDS	1385263..1386156	xerD; site-specific tyrosine recombinase XerD
+hap:HAPS_1406	CDS	1386158..1386451	putative membrane protein
+hap:HAPS_1407	CDS	complement(1386530..1387168)	adpP; ADP-ribose pyrophosphatase
+hap:HAPS_1408	CDS	complement(1387178..1387597)	psiE; phosphate-starvation-inducible protein PsiE, membrane protein
+hap:HAPS_1409	CDS	complement(1387605..1388336)	yieE; phosphopantetheinyl transferase
+hap:HAPS_1410	CDS	complement(1388428..1388796)	rplL; 50S ribosomal protein L7/L12
+hap:HAPS_1411	CDS	complement(1388854..1389345)	rplJ; 50S ribosomal protein L10
+hap:HAPS_1412	CDS	complement(1389746..1390213)	coaD; phosphopantetheine adenylyltransferase
+hap:HAPS_1413	CDS	complement(1390215..1391498)	kdtA; 3-deoxy-D-manno-octulosonic-acid transferase
+hap:HAPS_1414	CDS	complement(1391508..1394984)	dnaE; DNA polymerase III subunit alpha
+hap:HAPS_1415	CDS	complement(1395006..1395518)	hypothetical protein
+hap:HAPS_1416	CDS	complement(1395519..1396454)	putative amino-acid ABC transporter, ATP-binding protein
+hap:HAPS_1417	CDS	complement(1396565..1397632)	yigQ; permease, inner membrane protein yjgQ
+hap:HAPS_1418	CDS	complement(1397629..1398729)	yjgP; permease, inner membrane protein yjgP
+hap:HAPS_1419	CDS	1399076..1400572	pepA; leucyl aminopeptidase
+hap:HAPS_1420	CDS	1400773..1402152	prtC; collagenase prtC/related protease involved in cellular process and singaling
+hap:HAPS_1421	CDS	1402291..1404318	pepO; neutral endopeptidase
+hap:HAPS_1422	CDS	1404422..1405279	menB; naphthoate synthase
+hap:HAPS_1423	gene	1405371..1406028	pseudogene
+hap:HAPS_1424	gene	complement(1406073..1406869)	pseudogene
+hap:HAPS_1425	CDS	complement(1407004..1407591)	azoR; FMN-dependent NADH-azoreductase
+hap:HAPS_1426	gene	complement(1407789..1408436)	pseudogene
+hap:HAPS_1427	CDS	complement(1408269..1408436)	hypothetical protein
+hap:HAPS_1428	CDS	complement(1408656..1409042)	rplQ; 50S ribosomal protein L17
+hap:HAPS_1429	CDS	complement(1409078..1410067)	rpoA; DNA-directed RNA polymerase subunit alpha
+hap:HAPS_1430	CDS	complement(1410099..1410719)	rpsD; 30S ribosomal protein S4
+hap:HAPS_1431	CDS	complement(1410748..1411137)	rpsK; 30S ribosomal protein S11
+hap:HAPS_1432	CDS	complement(1411154..1411510)	rpsM; 30S ribosomal protein S13
+hap:HAPS_1433	CDS	complement(1411649..1411762)	rpmJ; 50S ribosomal protein L36
+hap:HAPS_1434	CDS	complement(1411787..1413109)	secY; preprotein translocase subunit SecY
+hap:HAPS_1435	CDS	complement(1413113..1413547)	rplO; 50S ribosomal protein L15
+hap:HAPS_1436	CDS	complement(1413552..1413731)	rpmD; 50S ribosomal protein L30
+hap:HAPS_1437	CDS	complement(1413738..1414238)	rpsE; 30S ribosomal protein S5
+hap:HAPS_1438	CDS	complement(1414253..1414606)	rplR; 50S ribosomal protein L18
+hap:HAPS_1439	CDS	complement(1414621..1415154)	rplF; 50S ribosomal protein L6
+hap:HAPS_1440	CDS	complement(1415171..1415563)	rpsH; 30S ribosomal protein S8
+hap:HAPS_1441	CDS	complement(1415600..1415905)	rpsN; 30S ribosomal protein S14
+hap:HAPS_1442	CDS	complement(1415917..1416456)	rplE; 50S ribosomal protein L5
+hap:HAPS_1443	CDS	complement(1416474..1416785)	rplX; 50S ribosomal protein L24
+hap:HAPS_1444	CDS	complement(1416798..1417112)	rplN; 50S ribosomal protein L14
+hap:HAPS_1445	gene	1417483..1419203	hhdB; pseudogene
+hap:HAPS_1446	gene	1419271..1421789	hhdA; pseudogene
+hap:HAPS_1447	gene	1421979..1422601	pseudogene
+hap:HAPS_1448	CDS	complement(1422558..1424804)	hypothetical protein
+hap:HAPS_1449	CDS	complement(1424977..1425579)	hypothetical protein
+hap:HAPS_1450	CDS	1425715..1426401	vanY; peptidase M15B and M15C DD-carboxypeptidase VanY, endolysin/M15B family zinc (Zn2+) D-Ala-D-Ala carboxypeptidase
+hap:HAPS_1451	CDS	complement(1426427..1427836)	yejF; ABC transporter ATP-binding protein
+hap:HAPS_1452	CDS	complement(1427907..1428689)	nikC; Nickel transport system permease protein nikC
+hap:HAPS_1453	CDS	complement(1428686..1429465)	nikB; Nickel transport system permease protein nikB
+hap:HAPS_1454	CDS	complement(1429737..1431320)	nikA; Nickel-binding periplasmic protein precursor nikA
+hap:HAPS_1455	CDS	complement(1431439..1432206)	modE; molybdenum transport protein
+hap:HAPS_1456	CDS	1432450..1433235	modA; molybdate-binding periplasmic protein, ABC transporter
+hap:HAPS_1457	CDS	complement(1433397..1433921)	conserved hypothetical protein
+hap:HAPS_1458	CDS	1434011..1434862	thyA; thymidylate synthase
+hap:HAPS_1459	tRNA	1435057..1435132	tRNA-Gly
+hap:HAPS_1460	tRNA	1435145..1435231	tRNA-Leu
+hap:HAPS_1461	tRNA	1435250..1435325	tRNA-Gly
+hap:HAPS_1462	CDS	complement(1435412..1435996)	conserved hypothetical protein
+hap:HAPS_1463	CDS	1436173..1437030	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase
+hap:HAPS_1464	CDS	1437258..1437932	conserved hypothetical protein
+hap:HAPS_1465	CDS	complement(1437976..1439430)	pepD; aminoacyl-histidine dipeptidase
+hap:HAPS_1466	CDS	1439611..1440090	gpt; xanthine-guanine phosphoribosyltransferase
+hap:HAPS_1467	CDS	complement(1440186..1441157)	ISNme5, family IS110
+hap:HAPS_1468	CDS	1441414..1442124	putative esterase
+hap:HAPS_1469	CDS	1442162..1443421	lysA; diaminopimelate decarboxylase
+hap:HAPS_1470	CDS	1443440..1444654	mtr; tryptophan-specific transport protein
+hap:HAPS_1471	CDS	1444736..1447297	mutS; DNA mismatch repair protein
+hap:HAPS_1472	CDS	1447576..1448316	putative metal-activated pyridoxal enzyme
+hap:HAPS_1473	CDS	complement(1448494..1449873)	htrA; periplasmic serine protease do/hhoA-like precursor
+hap:HAPS_1474	CDS	1450176..1451774	cstA; carbon starvation protein A, membrane protein
+hap:HAPS_1475	CDS	complement(1451979..1452863)	prmA; ribosomal protein L11 methyltransferase
+hap:HAPS_1476	gene	complement(1453056..1453328)	pseudogene
+hap:HAPS_1477	CDS	complement(1454074..1454580)	secB; preprotein translocase subunit SecB
+hap:HAPS_1478	CDS	complement(1454609..1455061)	putative rhodanese-related sulfurtransferase
+hap:HAPS_1479	CDS	complement(1455164..1456459)	tig; FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+hap:HAPS_1480	CDS	complement(1457073..1457243)	hypothetical protein
+hap:HAPS_1481	gene	1457301..1457687	pseudogene
+hap:HAPS_1482	gene	1457740..1458376	sseA; pseudogene
+hap:HAPS_1483	CDS	1458748..1459932	pncB; nicotinate phosphoribosyltransferase
+hap:HAPS_1484	CDS	complement(1460012..1460818)	map; methionine aminopeptidase
+hap:HAPS_1485	CDS	complement(1460920..1462752)	glmS; D-fructose-6-phosphate amidotransferase
+hap:HAPS_1486	CDS	complement(1462786..1463472)	sugar metabolism within DeoR family transcriptional regulator
+hap:HAPS_1487	CDS	complement(1463680..1464003)	branched-chain amino acid transport
+hap:HAPS_1488	gene	complement(1464000..1465864)	pseudogene
+hap:HAPS_1489	CDS	complement(1466074..1466259)	hypothetical protein
+hap:HAPS_1490	gene	complement(1466297..1466557)	pseudogene
+hap:HAPS_1491	CDS	complement(1466642..1467043)	ygiW; putative outer membrane protein
+hap:HAPS_1492	CDS	complement(1467327..1469408)	recG; ATP-dependent DNA helicase
+hap:HAPS_1493	CDS	complement(1469521..1470726)	xseA; exodeoxyribonuclease VII large subunit
+hap:HAPS_1494	CDS	complement(1470802..1471590)	birA; biotin apo-protein ligase
+hap:HAPS_1495	CDS	1471674..1472240	bioY; biotin biosynthesis protein BioY
+hap:HAPS_1496	CDS	complement(1472371..1473180)	Cof-like, HAD superfamily hydrolase
+hap:HAPS_1497	CDS	1473304..1473981	comF; competence protein F
+hap:HAPS_1498	CDS	complement(1473967..1474767)	tatD; Mg-dependent deoxyribonuclease
+hap:HAPS_1499	CDS	complement(1474780..1477086)	vacB; ribonuclease r, virulence associated protein VacB-like protein
+hap:HAPS_1500	CDS	1477503..1478720	dcuB; anaerobic C4-dicarboxylate transporter
+hap:HAPS_1501	CDS	1478942..1480276	dnaA; chromosomal replication initiator protein
+hap:HAPS_1502	CDS	1480286..1481389	dnaN; DNA polymerase III subunit beta
+hap:HAPS_1503	CDS	1481421..1481954	integral membrane protein
+hap:HAPS_1504	CDS	1481954..1482247	conserved hypothetical protein
+hap:HAPS_1505	CDS	1482343..1483122	predicted ABC-transport permease
+hap:HAPS_1506	CDS	1483304..1484476	corB; putative Mg2+ and Co2+ transporter CorB
+hap:HAPS_1507	tRNA	1484773..1484848	tRNA-Thr
+hap:HAPS_1508	CDS	complement(1484885..1486267)	ffh; signal recognition particle GTPase
+hap:HAPS_1509	CDS	1486633..1487076	mioC; flavodoxin
+hap:HAPS_1510	CDS	1487367..1487480	hypothetical protein
+hap:HAPS_1511	CDS	1487800..1494279	vtaA9; virulence-associated trimeric autotransporter
+hap:HAPS_1512	CDS	complement(1494419..1495225)	cysE; serine acetyltransferase
+hap:HAPS_1513	CDS	complement(1495228..1496238)	gpsA; NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+hap:HAPS_1514	CDS	complement(1496577..1497293)	arcA; aerobic respiration control protein ArcA/two-component response regulator, DNA-binding response regulator in two-component regulatory system with ArcB or CpxA
+hap:HAPS_1515	CDS	complement(1497471..1498364)	cdd; cytidine deaminase
+hap:HAPS_1516	CDS	complement(1498463..1498810)	folB; dihydroneopterin aldolase
+hap:HAPS_1517	CDS	1498887..1499498	plsY; glycerol-3-phosphate acyltransferase PlsY
+hap:HAPS_1518	CDS	complement(1499582..1500193)	gidB; methyltransferase, glucose-inhibited division protein B
+hap:HAPS_1519	CDS	complement(1500229..1500666)	ppnK; inorganic polyphosphate/ATP-NAD kinase
+hap:HAPS_1520	CDS	complement(1500967..1502778)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+hap:HAPS_1521	CDS	1503105..1503242	hypothetical protein
+hap:HAPS_1522	CDS	1503379..1504125	fucR; L-fucose operon activator
+hap:HAPS_1523	CDS	complement(1504224..1504883)	putative lipoprotein, genome-derived Neisseria antigen 1162
+hap:HAPS_1524	CDS	complement(1504893..1505240)	putative lipoprotein, periplasmic protein
+hap:HAPS_1525	CDS	complement(1505250..1505924)	csgG; putative lipoprotein, curli production assembly/transport component CsgG
+hap:HAPS_1526	CDS	1506241..1508007	fucI; L-fucose isomerase
+hap:HAPS_1527	CDS	1508148..1509584	fucK; L-fuculokinase
+hap:HAPS_1528	CDS	1509804..1510244	fucU; fucose operon FucU protein
+hap:HAPS_1529	CDS	1510254..1510907	fucA; L-fuculose phosphate aldolase
+hap:HAPS_1530	CDS	complement(1510956..1511786)	rpiR; RpiR family transcriptional regulator
+hap:HAPS_1531	CDS	complement(1511908..1513824)	iolC; myoinositol catabolism protein, sugar kinase
+hap:HAPS_1532	CDS	1514082..1516016	iolD; myoinositol catabolism protein, acetolactate synthase
+hap:HAPS_1533	CDS	1516100..1516996	iolE; myoinositol catabolism protein with xylose isomerase domain (2-keto-myo-inositol dehydratase)
+hap:HAPS_1534	CDS	1516998..1518008	iolG; myoinositol 2-dehydrogenase with oxidoreductase domain
+hap:HAPS_1535	CDS	complement(1518163..1519509)	celB; PTS system, cellobiose-specific IIC component
+hap:HAPS_1536	CDS	complement(1519511..1520848)	alfA; alpha-L-fucosidase
+hap:HAPS_1537	CDS	complement(1520925..1522058)	dehydrogenase
+hap:HAPS_1538	CDS	complement(1522153..1522815)	yphD; predicted sugar transporter subunit: membrane component of ABC superfamily
+hap:HAPS_1539	CDS	complement(1523151..1524665)	yphE; fused predicted sugar transporter subunits of ABC superfamily: ATP-binding components
+hap:HAPS_1540	CDS	complement(1524777..1525709)	yphF; predicted sugar transporter subunit: periplasmic-binding component of ABC superfamily
+hap:HAPS_1541	CDS	complement(1526026..1527537)	methylmalonate semialdehyde dehydrogenase
+hap:HAPS_1542	CDS	1527757..1528572	iolB; myo-inositol catabolism IolB domain-containing protein
+hap:HAPS_1543	gene	1528809..1528943	pseudogene
+hap:HAPS_1544	gene	1529049..1529180	fucA; pseudogene
+hap:HAPS_1545	CDS	complement(1529203..1529466)	protein involved in oxidation of intracellular sulfur
+hap:HAPS_1546	CDS	complement(1529476..1529847)	dsrF; possible sulfur oxidation protein DsrF
+hap:HAPS_1547	CDS	complement(1529849..1530202)	tusD; sulfurtransferase TusD-like protein involved in intracellular sulfur reduction
+hap:HAPS_1548	CDS	complement(1530202..1530858)	yheO; YheO domain-containing protein involved in signaling based on the presence of this PAS domain
+hap:HAPS_1549	CDS	complement(1530926..1531645)	fkpA; FKBP-type peptidyl-prolyl cis-trans isomerase, macrophage infectivity protein
+hap:HAPS_1550	CDS	1531738..1531962	slyX; slyX-like protein
+hap:HAPS_1551	CDS	1531999..1532664	thiol disulfide oxidoreductase
+hap:HAPS_1552	CDS	1532661..1533353	mtn; MTA/SAH nucleosidase
+hap:HAPS_1553	CDS	1533518..1534849	yliG; MiaB-like tRNA modifying enzyme YliG
+hap:HAPS_1554	CDS	1535272..1536177	glyQ; glycyl-tRNA synthetase subunit alpha
+hap:HAPS_1555	CDS	1536231..1536497	glutaredoxin-related protein
+hap:HAPS_1556	CDS	1536579..1537211	conserved hypothetical protein
+hap:HAPS_1557	CDS	1537371..1537742	conserved hypothetical protein
+hap:HAPS_1558	CDS	1537987..1538460	putative phage associated protein
+hap:HAPS_1559	CDS	1538492..1540561	glyS; glycyl-tRNA synthetase subunit beta
+hap:HAPS_1560	CDS	1540614..1541900	bioA; adenosylmethionine--8-amino-7-oxononanoate transaminase
+hap:HAPS_1561	CDS	1541893..1543035	bioF; 8-amino-7-oxononanoate synthase
+hap:HAPS_1562	CDS	1543048..1543713	bioD; dithiobiotin synthetase
+hap:HAPS_1563	CDS	1543704..1544477	bioC; biotin synthesis protein
+hap:HAPS_1564	CDS	1544467..1545111	bioD; dithiobiotin synthetase
+hap:HAPS_1565	CDS	1545134..1545424	conserved hypothetical protein
+hap:HAPS_1566	CDS	1545548..1546333	xerC; possible site-specific tyrosine recombinase XerC
+hap:HAPS_1567	CDS	1546391..1547338	rpoH; RNA polymerase factor sigma-32
+hap:HAPS_1568	CDS	complement(1547610..1549853)	cjrC; putative outer membrane colicin Js receptor
+hap:HAPS_1569	CDS	complement(1549869..1550669)	cjrA; putative iron-regulated lipoprotein
+hap:HAPS_1570	CDS	complement(1550777..1551565)	hmuV; hemin transport system ATP-binding protein HmuV
+hap:HAPS_1571	CDS	complement(1551565..1552551)	hmuU; hemin transport system permease protein HmuU
+hap:HAPS_1572	CDS	complement(1552551..1553387)	hmuT; hemin transport system periplasmic protein HmuT
+hap:HAPS_1573	CDS	complement(1553440..1554567)	smf; Smf protein, Rossmann fold nucleotide-binding protein involved in DNA uptake
+hap:HAPS_1574	CDS	1554902..1555414	def; N-formylmethionyl-tRNA deformylase
+hap:HAPS_1575	CDS	1555426..1556352	rfaD; ADP-L-glycero-D-mannoheptose-6-epimerase
+hap:HAPS_1576	CDS	1556444..1556587	hypothetical protein
+hap:HAPS_1577	gene	1556568..1556855	pseudogene
+hap:HAPS_1578	CDS	complement(1557656..1557814)	hypothetical protein
+hap:HAPS_1579	CDS	complement(1558035..1558427)	XRE family transcriptional regulator
+hap:HAPS_1580	CDS	complement(1558455..1558724)	bacteriophage protein/plasmid stabilization system protein
+hap:HAPS_1581	CDS	complement(1559388..1561574)	putative prophage primase
+hap:HAPS_1582	gene	complement(1561555..1561845)	pseudogene
+hap:HAPS_1583	CDS	complement(1561947..1562360)	phage small subunit terminase
+hap:HAPS_1584	CDS	complement(1562348..1562698)	hypothetical protein
+hap:HAPS_1585	CDS	complement(1562809..1562925)	hypothetical protein
+hap:HAPS_1586	CDS	complement(1563080..1563406)	hypothetical protein
+hap:HAPS_1587	CDS	complement(1563990..1565240)	phage integrase family site specific recombinase
+hap:HAPS_1588	tRNA	complement(1565545..1565635)	tRNA-Sec
+hap:HAPS_1589	CDS	1565700..1567085	selA; selenocysteine synthase
+hap:HAPS_1590	CDS	1567082..1568932	selB; selenocysteine-specific elongation factor
+hap:HAPS_1591	CDS	complement(1569378..1569638)	XRE family transcriptional regulator
+hap:HAPS_1592	CDS	1570461..1574489	rpoB; DNA-directed RNA polymerase subunit beta
+hap:HAPS_1593	CDS	1574575..1574691	hypothetical protein
+hap:HAPS_1594	CDS	1574675..1578958	rpoC; DNA-directed RNA polymerase subunit beta'
+hap:HAPS_1595	CDS	complement(1579244..1580329)	recF; DNA replication and repair protein RecF
+hap:HAPS_1596	CDS	complement(1580372..1580719)	conserved hypothetical protein
+hap:HAPS_1597	CDS	complement(1580744..1581493)	trmB; tRNA (guanine-N(7))-methyltransferase
+hap:HAPS_1598	CDS	complement(1581509..1582426)	fabH; 3-oxoacyl-(acyl carrier protein) synthase III
+hap:HAPS_1599	CDS	complement(1582550..1583521)	ISNme5, family IS110
+hap:HAPS_1600	CDS	1584072..1585043	ISNme5, family IS110
+hap:HAPS_1601	CDS	complement(1585159..1586337)	pyrAB; carbamoylphosphate synthase large subunit/ATP-ependent carboxylate-amine ligase domain-containing protein
+hap:HAPS_1602	CDS	complement(1586519..1587913)	fumC; fumarate hydratase
+hap:HAPS_1603	CDS	complement(1588060..1588698)	tfoX; DNA transformation protein, regulator of competence-specific genes
+hap:HAPS_1604	CDS	complement(1588846..1588980)	hypothetical protein
+hap:HAPS_1605	CDS	1589157..1589468	rpsJ; 30S ribosomal protein S10
+hap:HAPS_1606	CDS	1589485..1590111	rplC; 50S ribosomal protein L3
+hap:HAPS_1607	CDS	1590127..1590729	rplD; 50S ribosomal protein L4
+hap:HAPS_1608	CDS	1590726..1591031	rplW; 50S ribosomal protein L23
+hap:HAPS_1609	CDS	1591052..1591873	rplB; 50S ribosomal protein L2
+hap:HAPS_1610	CDS	1591902..1592177	rpsS; 30S ribosomal protein S19
+hap:HAPS_1611	CDS	1592188..1592520	rplV; 50S ribosomal protein L22
+hap:HAPS_1612	CDS	1592538..1593242	rpsC; 30S ribosomal protein S3
+hap:HAPS_1613	CDS	1593255..1593665	rplP; 50S ribosomal protein L16
+hap:HAPS_1614	CDS	1593665..1593856	rpmC; 50S ribosomal protein L29
+hap:HAPS_1615	CDS	1593856..1594110	rpsQ; 30S ribosomal protein S17
+hap:HAPS_1616	CDS	1594826..1596832	nanH; neuraminidase/exo-alpha-sialidase nanH
+hap:HAPS_1617	gene	complement(1596871..1597277)	pseudogene
+hap:HAPS_1618	CDS	complement(1597394..1599190)	di- and tricarboxylate transporter/DASS family divalent anion:sodium (Na+) symporter
+hap:HAPS_1619	CDS	1599680..1600066	atpI; F0F1 ATP synthase subunit I/H(+)-transporting two-sector ATPase, F(0) subunit I
+hap:HAPS_1620	CDS	1600095..1600886	atpB; F0F1 ATP synthase subunit A/H(+)-transporting two-sector ATPase, F(0) subunit A
+hap:HAPS_1621	CDS	1601027..1601281	atpE; F0F1 ATP synthase subunit C/H(+)-transporting two-sector ATPase, F(0) subunit C
+hap:HAPS_1622	CDS	1601343..1601813	atpF; F0F1 ATP synthase subunit B/H(+)-transporting two-sector ATPase, F(1) beta subunit
+hap:HAPS_1623	CDS	1601827..1602360	atpH; F0F1 ATP synthase subunit delta/H(+)-transporting two-sector ATPase, F(1) delta subunit
+hap:HAPS_1624	CDS	1602373..1603914	atpA; F0F1 ATP synthase subunit alpha/H(+)-transporting two-sector ATPase, (F1) alpha subunit
+hap:HAPS_1625	CDS	1603937..1604803	atpG; F0F1 ATP synthase subunit gamma/H(+)-transporting two-sector ATPase, (F1) gamma subunit
+hap:HAPS_1626	CDS	1604824..1606197	atpD; F0F1 ATP synthase subunit beta/H(+)-transporting two-sector ATPase, F(1) beta subunit
+hap:HAPS_1627	CDS	1606224..1606640	atpC; F0F1 ATP synthase subunit epsilon/H(+)-transporting two-sector ATPase, F(1) epsilon subunit
+hap:HAPS_1628	CDS	1606715..1607704	rbsR; ribose operon repressor
+hap:HAPS_1629	CDS	1607819..1608238	rbsD; ABC-type ribose transport system, auxiliary component (D-ribose pyranase)
+hap:HAPS_1630	CDS	1608248..1609747	rbsA1; ABC D-ribose transporter ATP binding protein RbsA
+hap:HAPS_1631	CDS	1609759..1610718	rbsC1; ABC D-ribose transporter permease protein RbsC
+hap:HAPS_1632	CDS	1610759..1611631	rbsB1; ABC D-ribose transporter periplasmic-binding compoent RbsB
+hap:HAPS_1633	CDS	1611704..1612627	rbsK1; ribokinase
+hap:HAPS_1634	CDS	1613112..1614374	glnA; glutamine synthetase
+hap:HAPS_1635	gene	complement(1615017..1615343)	pseudogene
+hap:HAPS_1636	CDS	1615430..1615624	hypothetical protein
+hap:HAPS_1637	CDS	complement(1615601..1616251)	dltE; short-chain dehydrogenase/reductase SDR
+hap:HAPS_1638	CDS	1616337..1617197	transcriptional regulator, AraC family
+hap:HAPS_1639	gene	complement(1617267..1617521)	dsbA; pseudogene
+hap:HAPS_1640	CDS	complement(1617521..1617964)	pykF; pyruvate kinase
+hap:HAPS_1641	CDS	1618099..1618989	LysR family transcriptional regulator
+hap:HAPS_1642	gene	complement(1619228..1619593)	pseudogene
+hap:HAPS_1643	gene	complement(1619587..1619793)	pseudogene
+hap:HAPS_1644	CDS	1620027..1623614	recB; exodeoxyribonuclease V, beta subunit
+hap:HAPS_1645	gene	1623952..1624340	pseudogene
+hap:HAPS_1646	CDS	complement(1624601..1626373)	aspS; aspartyl-tRNA synthetase
+hap:HAPS_1647	CDS	1626553..1627152	grpE; heat shock protein (HSP-70 cofactor)
+hap:HAPS_1648	CDS	1627249..1627551	conserved hypothetical protein
+hap:HAPS_1649	CDS	1627615..1628067	possible membrane protein
+hap:HAPS_1650	CDS	1628082..1632020	hrpA; ATP-dependent RNA helicase HrpA
+hap:HAPS_1651	CDS	1632228..1633418	tyrS; tyrosyl-tRNA synthetase
+hap:HAPS_1652	CDS	complement(1633508..1634644)	alr; alanine racemase
+hap:HAPS_1653	CDS	1634768..1635682	hflC; SPFH domain-containing protein
+hap:HAPS_1654	CDS	1635692..1636132	regulator of membrane protease activity
+hap:HAPS_1655	CDS	complement(1636207..1637433)	uraA; uracil permease
+hap:HAPS_1656	CDS	complement(1637628..1638923)	xanthine/uracil/vitamin C permease
+hap:HAPS_1657	gene	complement(1639106..1639231)	gsp; pseudogene
+hap:HAPS_1658	gene	1639494..1639688	pseudogene
+hap:HAPS_1659	CDS	complement(1639662..1640411)	NADP-dependent dehydrogenase
+hap:HAPS_1660	CDS	complement(1640467..1641129)	carbonic anhydrase
+hap:HAPS_1661	CDS	1641487..1642458	ISNme5, family IS110
+hap:HAPS_1662	CDS	1642648..1643334	lolD; lipoprotein-releasing system ATP-binding protein lolD
+hap:HAPS_1663	CDS	1643334..1644584	lolE; outer membrane-specific lipoprotein transporter subunit LolE
+hap:HAPS_1664	CDS	complement(1644618..1645604)	codA; cytosine deaminase
+hap:HAPS_1665	CDS	complement(1645846..1646619)	dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 1
+hap:HAPS_1666	CDS	complement(1646665..1647948)	ndh; NADH dehydrogenase
+hap:HAPS_1667	CDS	complement(1648287..1648937)	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+hap:HAPS_1668	CDS	complement(1649057..1650007)	lpxM; lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase
+hap:HAPS_1669	CDS	complement(1650017..1650706)	rnfE; electron transport complex protein RnfE/SoxR-reducing system protein RsxE
+hap:HAPS_1670	CDS	complement(1650896..1651438)	conserved hypothetical protein
+hap:HAPS_1671	CDS	complement(1651472..1652110)	rnfG; electron transport complex protein RnfG/NADH:ubiquinone oxidoreductase, subunit RnfG
+hap:HAPS_1672	CDS	complement(1652107..1653174)	rnfD; electron transport complex protein RnfD/NADH:ubiquinone oxidoreductase, subunit RnfD
+hap:HAPS_1673	CDS	complement(1653205..1653837)	yadS; membrane protein, yadS protein
+hap:HAPS_1674	CDS	complement(1653916..1655916)	rnfC; electron transport complex protein RnfC/NADH:ubiquinone oxidoreductase, subunit RnfC
+hap:HAPS_1675	CDS	complement(1655906..1656514)	rnfB; electron transport complex protein RnfB/NADH:ubiquinone oxidoreductase, subunit RnfB
+hap:HAPS_1676	CDS	complement(1656514..1657095)	rnfA; electron transport complex, RnfABCDGE type, A subunit/NADH:ubiquinone oxidoreductase, subunit RnfA
+hap:HAPS_1677	CDS	1657131..1657283	hypothetical protein
+hap:HAPS_1678	gene	1657299..1657643	accA; pseudogene
+hap:HAPS_1679	CDS	1657751..1658578	pdxY; pyridoxamine kinase
+hap:HAPS_1680	gene	1658585..1659200	mesJ; pseudogene
+hap:HAPS_1681	CDS	complement(1659414..1660400)	ISCro4, family IS3
+hap:HAPS_1682	CDS	1660663..1660986	IS222, family IS3
+hap:HAPS_1683	gene	1661025..1661813	tra5; pseudogene
+hap:HAPS_1684	gene	1661854..1662129	pseudogene
+hap:HAPS_1685	gene	complement(1662277..1665908)	pseudogene
+hap:HAPS_1686	CDS	complement(1666316..1668031)	proS; prolyl-tRNA synthetase
+hap:HAPS_1687	CDS	1668384..1668614	acpP; acyl carrier protein
+hap:HAPS_1688	CDS	1668761..1669684	rbsK2; aminoimidazole riboside kinase
+hap:HAPS_1689	CDS	complement(1669846..1670577)	cutC; copper homeostasis protein
+hap:HAPS_1690	CDS	complement(1670578..1671567)	galM; aldose 1-epimerase
+hap:HAPS_1691	CDS	complement(1671638..1672792)	galK; galactokinase
+hap:HAPS_1692	gene	complement(1672861..1673369)	pseudogene
+hap:HAPS_1693	gene	complement(1673475..1673627)	pseudogene
+hap:HAPS_1694	CDS	complement(1673636..1674073)	holC; DNA polymerase III subunit chi
+hap:HAPS_1695	CDS	complement(1674179..1675966)	long chain fatty acid CoA ligase
+hap:HAPS_1696	gene	1676184..1676576	pseudogene
+hap:HAPS_1697	gene	complement(1676550..1677152)	pseudogene
+hap:HAPS_1698	gene	1677434..1678126	malF; pseudogene
+hap:HAPS_1699	gene	1678398..1678961	malG; pseudogene
+hap:HAPS_1700	gene	1679018..1679722	pseudogene
+hap:HAPS_1701	gene	complement(1679876..1680181)	ponB; pseudogene
+hap:HAPS_1702	CDS	complement(1680275..1680835)	torD; possible anaerobic dehydrogenase TorD
+hap:HAPS_1703	CDS	1680895..1681740	nfo; endonuclease IV
+hap:HAPS_1704	gene	1681858..1682388	nlpC; pseudogene
+hap:HAPS_1705	CDS	1682681..1683109	rplK; 50S ribosomal protein L11
+hap:HAPS_1706	CDS	1683114..1683803	rplA; 50S ribosomal protein L1
+hap:HAPS_1707	gene	complement(1683863..1684755)	pseudogene
+hap:HAPS_1708	CDS	1684900..1685316	DoxX family protein, possible membrane protein
+hap:HAPS_1709	gene	1685415..1685549	pseudogene
+hap:HAPS_1710	gene	complement(1686029..1686343)	pseudogene
+hap:HAPS_1711	gene	1686590..1686814	potD; pseudogene
+hap:HAPS_1712	CDS	1686960..1687373	hypothetical protein
+hap:HAPS_1713	CDS	complement(1687811..1689424)	hsdM; type I restriction-modification system, M subunit
+hap:HAPS_1714	gene	complement(1689418..1690567)	prrC; pseudogene
+hap:HAPS_1715	gene	complement(1690640..1691194)	hsdS; pseudogene
+hap:HAPS_1716	gene	complement(1691241..1691990)	hsdS; pseudogene
+hap:HAPS_1717	CDS	complement(1692019..1692786)	Lj965 prophage protein
+hap:HAPS_1718	CDS	complement(1692783..1693220)	possible Lj965 prophage protein
+hap:HAPS_1719	CDS	complement(1693241..1696201)	hsdR; type I site-specific deoxyribonuclease, HsdR family
+hap:HAPS_1720	CDS	1696548..1696853	hypothetical protein
+hap:HAPS_1721	CDS	complement(1697407..1697772)	HxlR family transcriptional regulator
+hap:HAPS_1722	CDS	1697917..1698168	hypothetical protein
+hap:HAPS_1723	gene	1698207..1698407	pseudogene
+hap:HAPS_1724	gene	complement(1698508..1699664)	fucO; pseudogene
+hap:HAPS_1725	CDS	complement(1699846..1700793)	rbsB2; ABC D-ribose transporter periplasmic-binding compoent RbsB
+hap:HAPS_1726	CDS	complement(1700814..1701812)	rbsC2; ABC D-ribose transporter permease protein RbsC
+hap:HAPS_1727	CDS	complement(1701824..1703359)	rbsA2; ABC D-ribose transporter ATP binding protein RbsA
+hap:HAPS_1728	CDS	complement(1703590..1704801)	manA; mannose-6-phosphate isomerase
+hap:HAPS_1729	CDS	complement(1704798..1705256)	possible membrane protein
+hap:HAPS_1730	CDS	complement(1705330..1706166)	manZ; PTS system mannose-specific protein IID
+hap:HAPS_1731	CDS	complement(1706179..1706979)	manY; PTS system mannose/fructose/sorbose family IIC subunit
+hap:HAPS_1732	CDS	complement(1706990..1707970)	manX; PTS system mannose-specific EIIAB component
+hap:HAPS_1733	CDS	complement(1708294..1709259)	hemH; protoheme ferro-lyase
+hap:HAPS_1734	CDS	complement(1709476..1712733)	recC; exodeoxyribonuclease V, gamma subunit
+hap:HAPS_1735	CDS	complement(1712835..1714007)	ubiF; 2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+hap:HAPS_1736	CDS	complement(1714010..1714132)	hypothetical protein
+hap:HAPS_1737	CDS	1714220..1714525	hicA; addiction module killer protein
+hap:HAPS_1738	CDS	1714532..1714837	possible transcriptional regulator
+hap:HAPS_1739	CDS	1715044..1715403	hicB; HicB-like protein
+hap:HAPS_1740	CDS	1715495..1717027	comM; competence protein M
+hap:HAPS_1741	CDS	complement(1717024..1718013)	holB; DNA polymerase III subunit delta
+hap:HAPS_1742	CDS	complement(1718384..1719010)	tdk; thymidylate kinase
+hap:HAPS_1743	CDS	complement(1719010..1720044)	fbp; periplasmic solute-binding protein
+hap:HAPS_1744	tRNA	complement(1720152..1720227)	tRNA-Lys
+hap:HAPS_1745	tRNA	complement(1720250..1720325)	tRNA-Lys
+hap:HAPS_1746	tRNA	complement(1720349..1720424)	tRNA-Lys
+hap:HAPS_1747	CDS	complement(1720591..1721382)	tpiA; triosephosphate isomerase
+hap:HAPS_1748	gene	1721564..1721755	truD; pseudogene
+hap:HAPS_1749	CDS	1721810..1722574	surE; acid phosphatase stationary/phase survival protein
+hap:HAPS_1750	CDS	1722575..1723159	apoB; SNARE associated Golgi protein, membrane lipoprotein B
+hap:HAPS_1751	CDS	1723169..1723678	lipoprotein
+hap:HAPS_1752	CDS	1723806..1724981	lppB; outer membrane antigenic lipoprotein B precursor
+hap:HAPS_1753	gene	1725511..1728566	vtaA11; pseudogene
+hap:HAPS_1754	CDS	complement(1728952..1729452)	rraA; ribonuclease activity regulator protein RraA
+hap:HAPS_1755	CDS	complement(1729516..1730766)	pqiA; paraquat-inducible protein A, PqiA
+hap:HAPS_1756	CDS	complement(1730763..1731350)	rnhB; ribonuclease HII
+hap:HAPS_1757	CDS	complement(1731354..1732244)	possible GCV family glycine cleavage complex aminomethyltransferase
+hap:HAPS_1758	gene	complement(1732251..1732586)	pseudogene
+hap:HAPS_1759	CDS	complement(1732586..1732978)	MarR family transcriptional regulator
+hap:HAPS_1760	gene	1733220..1733534	pseudogene
+hap:HAPS_1761	CDS	1733606..1735519	bcgIA; restriction enzyme, alpha subunit/N-6 DNA methylase
+hap:HAPS_1762	CDS	1735512..1736648	bcgIB; restriction enzyme, beta subunit/N-6 DNA methylase
+hap:HAPS_1763	gene	1736722..1737147	bcgIB; pseudogene
+hap:HAPS_1764	CDS	1737241..1738245	hemL; glutamate-1-semialdehyde 2,1-aminomutase
+hap:HAPS_1765	CDS	complement(1738672..1739955)	hemL; glutamate-1-semialdehyde aminotransferase
+hap:HAPS_1766	CDS	1740101..1741165	wecA; undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase
+hap:HAPS_1767	CDS	1741178..1741429	hypothetical protein
+hap:HAPS_1768	CDS	1741484..1742584	wecB; UDP-N-acetylglucosamine 2-epimerase
+hap:HAPS_1769	CDS	1742571..1743815	wecC; UDP-N-acetyl-D-mannosamine dehydrogenase
+hap:HAPS_1770	CDS	1743906..1745627	dsbD; thiol:disulfide interchange protein DsbD precursor
+hap:HAPS_1771	CDS	1745603..1746445	dehydrogenases with different specificities
+hap:HAPS_1772	CDS	1746784..1747707	ISApl1, family IS30
+hap:HAPS_1773	CDS	complement(1747804..1749162)	trmE; tRNA modification GTPase TrmE
+hap:HAPS_1774	CDS	1749394..1749579	hypothetical protein
+hap:HAPS_1775	gene	1749590..1750648	pseudogene
+hap:HAPS_1776	CDS	complement(1750920..1751396)	integral membrane protein
+hap:HAPS_1777	CDS	complement(1751492..1751896)	aroQ; 3-dehydroquinate dehydratase
+hap:HAPS_1778	CDS	complement(1752230..1752910)	ulaD; 3-keto-L-gulonate-6-phosphate decarboxylase
+hap:HAPS_1779	CDS	complement(1753142..1753612)	ulaC; ascorbate-specific phosphotransferase protein IIA component, Phosphotransferase system mannitol/fructose-specific IIA domain (Ntr-type)
+hap:HAPS_1780	CDS	complement(1753664..1755460)	ulaA; ascorbate-specific PTS system enzyme IIC/IIB
+hap:HAPS_1781	CDS	1755789..1756649	sgbU; putative L-xylulose 5-phosphate 3-epimerase
+hap:HAPS_1782	CDS	1756643..1757335	sgbE; L-ribulose-5-phosphate 4-epimerase
+hap:HAPS_1783	gene	1757697..1758047	pseudogene
+hap:HAPS_1784	CDS	complement(1758286..1758987)	conserved hypothetical protein
+hap:HAPS_1785	CDS	complement(1759030..1759590)	decarboxylase family protein, predicted Rossmann fold nucleotide-binding protein
+hap:HAPS_1786	CDS	1759654..1759974	mazG; nucleotide pyrophosphohydrolase
+hap:HAPS_1787	CDS	complement(1760032..1761381)	gntP; gluconate permease
+hap:HAPS_1788	CDS	1761579..1762094	gntK; gluconate kinase
+hap:HAPS_1789	CDS	complement(1762091..1763029)	gntR; HTH-type transcriptional regulator
+hap:HAPS_1790	CDS	complement(1763227..1763817)	napC; nitrate/TMAO reductase, membrane-bound tetraheme cytochrome c subunit
+hap:HAPS_1791	CDS	complement(1763817..1764245)	napB; diheme cytochrome c550/periplasmic nitrate reductase, small subunit, cytochrome C550, in complex with NapA
+hap:HAPS_1792	CDS	complement(1764242..1765111)	napH; quinol dehydrogenase membrane component, NapH/MauN family ferredoxin-type protein
+hap:HAPS_1793	CDS	complement(1765111..1765800)	napG; quinol dehydrogenase periplasmic component
+hap:HAPS_1794	CDS	complement(1765962..1768445)	napA; nitrate reductase/anaerobic dehydrogenase, typically selenocysteine-containing
+hap:HAPS_1795	CDS	complement(1768478..1768762)	napD; periplasmic nitrate reductase subunit NapD
+hap:HAPS_1796	CDS	complement(1768764..1769234)	napF; ferredoxin-type protein NapF
+hap:HAPS_1797	CDS	1769330..1769470	hypothetical protein
+hap:HAPS_1798	CDS	complement(1769488..1769613)	rpmJ1; 50S ribosomal protein L36
+hap:HAPS_1799	CDS	complement(1769632..1769898)	rpmE2; 50S ribosomal protein L31 type B
+hap:HAPS_1800	CDS	1770112..1770786	rpe; ribulose-phosphate 3-epimerase
+hap:HAPS_1801	CDS	complement(1770861..1772309)	arylsulfatase A
+hap:HAPS_1802	CDS	complement(1772403..1774094)	yidK; SSS family solute:sodium (Na+) symporter
+hap:HAPS_1803	CDS	1774347..1775153	permease
+hap:HAPS_1804	CDS	1775277..1776167	oxyR; DNA-binding transcriptional regulator OxyR, hydrogen peroxide-inducible genes activator
+hap:HAPS_1805	CDS	1776167..1776784	fabR; DNA-binding transcriptional repressor FabR
+hap:HAPS_1806	CDS	1776786..1777301	thioredoxin-like protein
+hap:HAPS_1807	CDS	complement(1777343..1777912)	dsbA; Thiol:disulfide interchange protein dsbA precursor
+hap:HAPS_1808	CDS	complement(1778020..1778289)	conserved hypothetical protein
+hap:HAPS_1809	CDS	1778374..1779486	mobAB; molybdopterin-guanine dinucleotide biosynthesis protein
+hap:HAPS_1810	CDS	complement(1780155..1780943)	iclR; transcriptional regulator IclR
+hap:HAPS_1811	CDS	1781168..1781536	malate/L-lactate dehydrogenase
+hap:HAPS_1812	gene	1781604..1782068	dctP; pseudogene
+hap:HAPS_1813	CDS	1782135..1783586	sgbK; L-xylulose kinase
+hap:HAPS_1814	gene	complement(1783628..1783852)	napF; pseudogene
+hap:HAPS_1815	gene	1783868..1784125	pseudogene
+hap:HAPS_1816	CDS	complement(1784248..1784781)	nusG; transcription antitermination protein NusG
+hap:HAPS_1817	CDS	complement(1784828..1785238)	secE; preprotein translocase subunit SecE
+hap:HAPS_1818	CDS	complement(1785493..1786938)	tldD; protease involved in Microcin B17 maturation and in sensitivity to the DNA gyrase inhibitor LetD
+hap:HAPS_1819	CDS	complement(1786932..1787057)	hypothetical protein
+hap:HAPS_1820	CDS	1787069..1787896	alpha/beta superfamily hydrolase, putative esterase
+hap:HAPS_1821	CDS	1788043..1788282	XRE family transcriptional regulator
+hap:HAPS_1822	CDS	1788276..1789592	hipA; HipA-like protein, regulator with hipB
+hap:HAPS_1823	gene	complement(1789593..1790758)	pseudogene
+hap:HAPS_1824	CDS	1790985..1791599	dsbA; DSBA oxidoreductase
+hap:HAPS_1825	CDS	complement(1791660..1792532)	LysR family transcriptional regulator
+hap:HAPS_1826	CDS	complement(1792535..1795450)	Type III restriction-modification system EcoPI enzyme, subunit res
+hap:HAPS_1827	CDS	complement(1795454..1797376)	Type III restriction-modification system EcoPI enzyme mod (M.EcoPI) (EcoPI methyltransferase)
+hap:HAPS_1828	CDS	complement(1797564..1798757)	putative ATPase (AAA+ superfamily)
+hap:HAPS_1829	CDS	1799185..1799397	hypothetical protein
+hap:HAPS_1830	CDS	complement(1799484..1799882)	MerR family transcriptional regulator
+hap:HAPS_1831	CDS	1799952..1800566	Co/Zn/Cd efflux system component, CDF family cation diffusion facilitator
+hap:HAPS_1832	CDS	complement(1800657..1801043)	MerR family transcriptional regulator, heavy metal-dependent
+hap:HAPS_1833	CDS	complement(1801191..1801319)	hypothetical protein
+hap:HAPS_1834	CDS	1801437..1802183	putative exported protein involved with bacterial secreted proteins
+hap:HAPS_1835	CDS	1802365..1803312	2-nitropropane dioxygenase NPD
+hap:HAPS_1836	CDS	1803784..1804605	msrA; putative methionine sulfoxide reductase A
+hap:HAPS_1837	CDS	1804753..1805775	putative cytoplasmic protein
+hap:HAPS_1838	gene	complement(1805878..1806051)	ykgA; pseudogene
+hap:HAPS_1839	CDS	complement(1806067..1806729)	thiE; thiamine-phosphate pyrophosphorylase
+hap:HAPS_1840	CDS	complement(1806746..1807546)	thiD; phosphomethylpyrimidine kinase
+hap:HAPS_1841	CDS	complement(1807557..1808366)	thiM; hydroxyethylthiazole kinase
+hap:HAPS_1842	gene	1808769..1809868	pseudogene
+hap:HAPS_1843	CDS	complement(1810052..1811497)	tldD; protease involved in Microcin B17 maturation and in sensitivity to the DNA gyrase inhibitor LetD
+hap:HAPS_1844	CDS	complement(1811491..1811616)	hypothetical protein
+hap:HAPS_1845	CDS	1811628..1812455	predicted hydrolase of the alpha/beta superfamily
+hap:HAPS_1846	CDS	1812602..1812841	hipB; transcriptional regulator
+hap:HAPS_1847	CDS	1812835..1814151	hipA; HipA protein, co-regulate with HipB
+hap:HAPS_1848	gene	complement(1814152..1815590)	pseudogene
+hap:HAPS_1849	gene	complement(1815611..1815964)	lysR; pseudogene
+hap:HAPS_1850	CDS	1816029..1816388	hypothetical protein
+hap:HAPS_1851	gene	1816410..1817151	doc; pseudogene
+hap:HAPS_1852	gene	complement(1817217..1817345)	pseudogene
+hap:HAPS_1853	CDS	1817480..1817923	pykF; pyruvate kinase
+hap:HAPS_1854	gene	1817923..1818174	dsbA; pseudogene
+hap:HAPS_1855	CDS	complement(1818358..1818945)	N6-adenine-specific methylase
+hap:HAPS_1856	CDS	1819044..1820411	ftsY; cell division protein, signal recognition particle GTPase
+hap:HAPS_1857	CDS	1820501..1821064	fstE; cell division ATP-binding protein
+hap:HAPS_1858	gene	1821074..1822005	fstX; pseudogene
+hap:HAPS_1859	gene	complement(1822148..1822432)	pseudogene
+hap:HAPS_1860	gene	complement(1822809..1824402)	ggt; pseudogene
+hap:HAPS_1861	CDS	complement(1824454..1824573)	hypothetical protein
+hap:HAPS_1862	CDS	1824766..1825380	gst; glutathione S-transferase
+hap:HAPS_1863	CDS	complement(1825415..1825957)	esterase of the alpha/beta hydrolase fold, possible esterase
+hap:HAPS_1864	CDS	complement(1826042..1826800)	glpR; glycerol-3-phosphate regulon repressor
+hap:HAPS_1865	CDS	1826979..1827887	3-hydroxyisobutyrate dehydrogenase family protein
+hap:HAPS_1866	CDS	1827889..1829130	type III effector Hrp-dependent outer, secretion system component
+hap:HAPS_1867	CDS	1829127..1829759	fucA; class II aldolase/adducin family protein
+hap:HAPS_1868	CDS	1829762..1830544	tsa; hydroxypyruvate isomerase
+hap:HAPS_1869	CDS	1830569..1831516	wbpK; NAD-dependent epimerase/dehydratase
+hap:HAPS_1870	CDS	1831528..1832994	gntP; gluconate permease
+hap:HAPS_1871	CDS	1833054..1834400	phospholipase/carboxylesterase
+hap:HAPS_1872	gene	1834726..1835298	pseudogene
+hap:HAPS_1873	CDS	complement(1835416..1835538)	hypothetical protein
+hap:HAPS_1874	gene	complement(1835673..1835990)	pseudogene
+hap:HAPS_1875	CDS	complement(1836753..1838447)	dld; D-lactate dehydrogenase
+hap:HAPS_1876	rRNA	1838668..1838816	5S ribosomal RNA
+hap:HAPS_1877	rRNA	1838835..1838951	5S ribosomal RNA
+hap:HAPS_1878	rRNA	1839086..1841972	23S ribosomal RNA
+hap:HAPS_1879	tRNA	complement(1842362..1842437)	tRNA-Glu
+hap:HAPS_1880	rRNA	1842526..1843900	16S ribosomal RNA
+hap:HAPS_1881	CDS	complement(1844458..1845261)	murI; glutamate racemase
+hap:HAPS_1882	CDS	complement(1845295..1845798)	ubiC; 4-hydroxybenzoate synthetase (chorismate lyase)
+hap:HAPS_1883	CDS	complement(1845799..1846398)	neuA2; N-acylneuraminate cytidylyltransferase/lysophospholipase L1 and related esterases involved in polysaccharide synthesis
+hap:HAPS_1884	CDS	complement(1846437..1847465)	trpS; tryptophanyl-tRNA synthetase
+hap:HAPS_1885	CDS	complement(1847559..1849028)	ubiD; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+hap:HAPS_1886	CDS	complement(1849188..1850324)	dnaJ; chaperone protein
+hap:HAPS_1887	CDS	complement(1850377..1850802)	vapD; virulence-associated protein D
+hap:HAPS_1888	CDS	complement(1850826..1850996)	hypothetical protein
+hap:HAPS_1889	CDS	complement(1851021..1852922)	dnaK; chaperone protein DnaK
+hap:HAPS_1890	CDS	complement(1853152..1854231)	chaA; calcium/proton antiporter
+hap:HAPS_1891	gene	complement(1854255..1855555)	pseudogene
+hap:HAPS_1892	CDS	1855821..1856945	carA; carbamoyl phosphate synthase small subunit
+hap:HAPS_1893	CDS	1857092..1860292	carB; carbamoyl phosphate synthase large subunit
+hap:HAPS_1894	CDS	complement(1860356..1861549)	nhaA; Na+/H+ antiporter NhaA
+hap:HAPS_1895	CDS	1861837..1861971	rpmH; 50S ribosomal protein L34
+hap:HAPS_1896	CDS	1861971..1862381	rnpA; ribonuclease P
+hap:HAPS_1897	CDS	1862399..1862626	conserved hypothetical protein
+hap:HAPS_1898	CDS	complement(1862655..1863263)	sirA; cell developmental protein SirA
+hap:HAPS_1899	CDS	1863489..1864448	TRAP transporter solute receptor TAXI family protein
+hap:HAPS_1900	CDS	1864590..1867268	dctM; TRAP C4-dicarboxylate transport system permease DctM subunit
+hap:HAPS_1901	CDS	1867235..1867660	uspA; universal stress protein A
+hap:HAPS_1902	CDS	1867873..1868178	DNA polymerase beta-like protein
+hap:HAPS_1903	CDS	1868425..1869390	conserved hypothetical protein
+hap:HAPS_1904	CDS	complement(1869496..1869888)	transcriptional regulator
+hap:HAPS_1905	CDS	1870008..1870634	gph; phosphoglycolate phosphatase
+hap:HAPS_1906	CDS	1870609..1871367	comFC; predicted amidophosphoribosyltransferase
+hap:HAPS_1907	CDS	1871378..1872373	smf; Rossmann fold nucleotide-binding protein involved in DNA uptake
+hap:HAPS_1908	CDS	complement(1872464..1872883)	pilT; plasmid stability-like protein/nucleic acid-binding protein, contains PIN domain
+hap:HAPS_1909	CDS	complement(1872892..1873158)	prevent-host-death family protein/antitoxin of toxin-antitoxin stability system
+hap:HAPS_1910	CDS	1873340..1874290	fmt; methionyl-tRNA formyltransferase
+hap:HAPS_1911	CDS	1874290..1875588	rsmB; ribosomal RNA small subunit methyltransferase B
+hap:HAPS_1912	CDS	1875604..1876980	trkA; potassium transporter peripheral membrane component
+hap:HAPS_1913	CDS	1877879..1878988	ald; alanine dehydrogenase
+hap:HAPS_1914	CDS	1879146..1880507	SNF family Na+-dependent transporter
+hap:HAPS_1915	CDS	1880563..1880676	hypothetical protein
+hap:HAPS_1916	CDS	complement(1880783..1881919)	ISRssp2, family IS1595
+hap:HAPS_1917	CDS	complement(1882112..1883563)	hgaI; type II restriction enzyme HgaI
+hap:HAPS_1918	CDS	complement(1883553..1884629)	moodification methylase HgaIA (M.HgaIA) (Cytosine-specific methyltransferase HgaIA) (M.HgaI-1)
+hap:HAPS_1919	CDS	complement(1884619..1885692)	moodification methylase HgaIA (M.HgaIA) (Cytosine-specific methyltransferase HgaIA) (M.HgaI-1)
+hap:HAPS_1920	CDS	complement(1885939..1886241)	transcriptional regulator
+hap:HAPS_1921	CDS	1886720..1887397	ISSst2, family IS1595
+hap:HAPS_1922	CDS	1887397..1887840	ATPase involved in DNA repair
+hap:HAPS_1923	CDS	complement(1887824..1888369)	hypothetical protein
+hap:HAPS_1924	CDS	complement(1888539..1890005)	trkG; trk-type K+ transport system, membrane component
+hap:HAPS_1925	gene	complement(1890223..1890417)	pseudogene
+hap:HAPS_1926	CDS	complement(1890500..1891345)	cof; putative haloacid dehalogenase-like hydrolase
+hap:HAPS_1927	CDS	1891980..1893419	leuA; 2-isopropylmalate synthase
+hap:HAPS_1928	CDS	1893503..1894753	pepT; peptidase T
+hap:HAPS_1929	gene	1895310..1895729	pseudogene
+hap:HAPS_1931	gene	complement(1896560..1897502)	potD; pseudogene
+hap:HAPS_1930	gene	complement(1897374..1897396)	pseudogene
+hap:HAPS_1932	CDS	complement(1897732..1898085)	rplT; 50S ribosomal protein L20
+hap:HAPS_1933	CDS	complement(1898176..1898373)	rpmI; 50S ribosomal protein L35
+hap:HAPS_1934	CDS	complement(1898473..1898952)	infC; translation initiation factor IF-3
+hap:HAPS_1935	CDS	1899230..1900264	gcp; O-sialoglycoprotein endopeptidase
+hap:HAPS_1936	CDS	complement(1900553..1901368)	aroE; shikimate 5-dehydrogenase
+hap:HAPS_1937	CDS	complement(1901502..1901861)	rplS; 50S ribosomal protein L19
+hap:HAPS_1938	CDS	complement(1901886..1903064)	multidrug-efflux transporter
+hap:HAPS_1939	CDS	complement(1903057..1904097)	mccB; UBA/THIF-type NAD/FAD binding protein, bacteriocin biosynthesis protein
+hap:HAPS_1940	CDS	complement(1904407..1904757)	rplS; 50S ribosomal protein L19
+hap:HAPS_1941	CDS	complement(1904771..1905538)	trmD; tRNA (guanine-N(1)-)-methyltransferase
+hap:HAPS_1942	CDS	complement(1905587..1906114)	rimM; 16S rRNA-processing protein
+hap:HAPS_1943	CDS	complement(1906142..1906390)	rpsP; 30S ribosomal protein S16
+hap:HAPS_1944	CDS	complement(1906400..1906579)	hypothetical protein
+hap:HAPS_1945	CDS	complement(1906734..1908125)	nhaC; Na+/H+ antiporter
+hap:HAPS_1946	CDS	complement(1908365..1908739)	hypothetical protein
+hap:HAPS_1947	CDS	complement(1908693..1908836)	hypothetical protein
+hap:HAPS_1948	CDS	1908928..1909131	conserved hypothetical protein
+hap:HAPS_1949	gene	complement(1909143..1909976)	pseudogene
+hap:HAPS_1950	CDS	1910131..1911129	hsdS; type I site-specific deoxyribonuclease S subunit, restriction modification system
+hap:HAPS_1951	CDS	1911148..1913706	tir; Toll-interleukin receptor
+hap:HAPS_1952	gene	1912710..1916977	hsdR; pseudogene
+hap:HAPS_1953	CDS	1916967..1917680	putative metal-dependent hydrolase
+hap:HAPS_1954	CDS	1917971..1918942	ecoRIM; modification methylase (adenine-specificmethyltransferase)
+hap:HAPS_1955	CDS	1918974..1920086	hnh; HNH endonuclease
+hap:HAPS_1956	CDS	complement(1920208..1921278)	bcgIB; type IIS restriction enzyme protein
+hap:HAPS_1957	gene	complement(1921296..1921664)	mod; pseudogene
+hap:HAPS_1958	gene	1921740..1922839	pseudogene
+hap:HAPS_1959	CDS	complement(1922959..1923951)	asnA; asparagine synthetase AsnA
+hap:HAPS_1960	CDS	1924128..1924619	asnC; DNA-binding transcriptional regulator AsnC
+hap:HAPS_1961	CDS	1924731..1925498	udp; uridine phosphorylase
+hap:HAPS_1962	CDS	1925672..1926001	conserved hypothetical protein
+hap:HAPS_1963	CDS	1926054..1927163	trmA2; tRNA (uracil-5-)-methyltransferase
+hap:HAPS_1964	tRNA	1927239..1927328	tRNA-Ser
+hap:HAPS_1965	tRNA	1927405..1927494	tRNA-Ser
+hap:HAPS_1966	CDS	1927778..1928152	rpsL; 30S ribosomal protein S12
+hap:HAPS_1967	CDS	1928282..1928752	rpsG; 30S ribosomal protein S7
+hap:HAPS_1968	CDS	1928850..1930952	fusA; elongation factor G
+hap:HAPS_1969	CDS	1931020..1932207	tuf; elongation factor Tu
+hap:HAPS_1970	gene	complement(1932616..1934172)	pseudogene
+hap:HAPS_1971	CDS	complement(1933438..1934172)	rlmB; 23S rRNA (guanosine-2'-O-)-methyltransferase
+hap:HAPS_1972	CDS	complement(1934310..1935899)	prfC; peptide chain release factor 3
+hap:HAPS_1973	CDS	complement(1936027..1936716)	apaH; diadenosine tetraphosphatase
+hap:HAPS_1974	CDS	complement(1936713..1937984)	nadR; nicotinamide-nucleotide adenylyltransferase
+hap:HAPS_1975	CDS	1938239..1938424	fdx; 4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+hap:HAPS_1976	CDS	complement(1938419..1938946)	hemG; protoporphyrinogen oxidase
+hap:HAPS_1977	CDS	1939123..1939842	napA; acid phosphatase/phosphotransferase
+hap:HAPS_1978	CDS	1940117..1944013	purL; phosphoribosylformylglycinamidine synthase
+hap:HAPS_1979	CDS	1944076..1944465	hypothetical protein
+hap:HAPS_1980	CDS	1944922..1945569	conserved hypothetical protein
+hap:HAPS_1981	CDS	complement(1945679..1946566)	lapB; arginine ABC superfamily ATP binding cassette transporter, membrane protein
+hap:HAPS_1982	CDS	complement(1946636..1949335)	valS; valyl-tRNA synthetase
+hap:HAPS_1983	CDS	complement(1949436..1950431)	hindIIIM; Modification methylase HindIII (M.HindIII)
+hap:HAPS_1984	gene	complement(1950409..1951324)	hindIIIR; pseudogene
+hap:HAPS_1985	CDS	complement(1951659..1951829)	conserved hypothetical protein
+hap:HAPS_1986	CDS	complement(1951816..1952574)	fic; filamentation induced by cAMP protein Fic
+hap:HAPS_1987	gene	complement(1952564..1953000)	elaA-1; pseudogene
+hap:HAPS_1988	gene	complement(1952985..1953308)	elaA-2; pseudogene
+hap:HAPS_1989	gene	complement(1953320..1954144)	pseudogene
+hap:HAPS_1990	CDS	complement(1954212..1954343)	conserved hypothetical protein
+hap:HAPS_1991	gene	1954415..1954774	dsrE; pseudogene
+hap:HAPS_1992	CDS	complement(1954871..1955695)	trpA; tryptophan synthase subunit alpha
+hap:HAPS_1993	CDS	complement(1955692..1956888)	trpB; tryptophan synthase subunit beta
+hap:HAPS_1994	CDS	complement(1956908..1958377)	trpC; bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+hap:HAPS_1995	CDS	complement(1958390..1959391)	trpD; anthranilate phosphoribosyltransferase
+hap:HAPS_1996	CDS	complement(1959393..1959992)	trpG; anthranilate synthase component II
+hap:HAPS_1997	CDS	complement(1960005..1961546)	trpE; anthranilate synthase component I
+hap:HAPS_1998	CDS	complement(1961857..1963374)	sulfatase/phosphoglycerol transferase
+hap:HAPS_1999	gene	complement(1963517..1963882)	pseudogene
+hap:HAPS_2000	gene	complement(1963876..1964025)	pseudogene
+hap:HAPS_2001	CDS	complement(1964096..1965115)	rluB; ribosomal large subunit pseudouridine synthase B
+hap:HAPS_2002	CDS	complement(1965283..1965903)	sua5; putative translation factor (SUA5)
+hap:HAPS_2003	gene	1966534..1966656	pseudogene
+hap:HAPS_2004	gene	1966725..1967027	snaA; pseudogene
+hap:HAPS_2005	CDS	complement(1967115..1967504)	sufE; SufE protein probably involved in Fe-S center assembly
+hap:HAPS_2006	CDS	1967605..1968186	clpP; ATP-dependent Clp protease proteolytic subunit ClpP
+hap:HAPS_2007	CDS	1968193..1969443	clpX; ATP-dependent protease ATP-binding subunit
+hap:HAPS_2008	CDS	complement(1969517..1970650)	dapE; succinyl-diaminopimelate desuccinylase
+hap:HAPS_2009	CDS	complement(1970734..1971402)	pilD; Tfp pilus assembly pathway, fimbrial leader peptidase PilD
+hap:HAPS_2010	CDS	complement(1971399..1972595)	pilC; Tfp pilus assembly pathway, component PilC
+hap:HAPS_2011	CDS	complement(1972588..1973973)	pilB; Tfp pilus assembly pathway, ATPase PilB
+hap:HAPS_2012	CDS	complement(1974326..1974691)	DNA methyltransferase
+hap:HAPS_2013	CDS	complement(1974964..1975416)	pilA; Tfp pilus assembly protein, major pilin PilA
+hap:HAPS_2014	CDS	1975604..1976980	radA; DNA repair protein RadA
+hap:HAPS_2015	CDS	complement(1977033..1977659)	gmk; guanylate kinase
+hap:HAPS_2016	CDS	complement(1977728..1978699)	ISNme5, family IS110
+hap:HAPS_2017	CDS	1978828..1978953	hypothetical protein
+hap:HAPS_2018	CDS	1978950..1980971	rep; ATP-dependent DNA helicase
+hap:HAPS_2019	CDS	complement(1980983..1981819)	conserved hypothetical protein
+hap:HAPS_2020	gene	1982098..1983843	pseudogene
+hap:HAPS_2021	gene	1984055..1985617	pseudogene
+hap:HAPS_2022	rRNA	complement(1986208..1987582)	16S ribosomal RNA
+hap:HAPS_2023	tRNA	1987606..1987682	tRNA-Ile
+hap:HAPS_2024	tRNA	1987752..1987827	tRNA-Ala
+hap:HAPS_2025	rRNA	complement(1988287..1991175)	23S ribosomal RNA
+hap:HAPS_2026	rRNA	complement(1991350..1991466)	5S ribosomal RNA
+hap:HAPS_2027	gene	complement(1991605..1991751)	pseudogene
+hap:HAPS_2028	CDS	complement(1992116..1992595)	yibK; putative tRNA/rRNA methyltransferase
+hap:HAPS_2029	CDS	complement(1992599..1994776)	23S rRNA m(2)G2445 methyltransferase
+hap:HAPS_2030	CDS	complement(1994926..1995867)	rsmC; 16S ribosomal RNA m2G1207 methyltransferase
+hap:HAPS_2031	CDS	1995950..1996363	holD; DNA polymerase III subunit psi
+hap:HAPS_2032	CDS	1996365..1996805	metallopeptidase peptidase
+hap:HAPS_2033	CDS	1997047..1997484	rimI; ribosomal-protein-alanine N-acetyltransferase
+hap:HAPS_2034	CDS	1997596..1998939	hipA; HipA domain-containing protein
+hap:HAPS_2035	CDS	1998939..1999283	XRE family transcriptional regulator
+hap:HAPS_2036	CDS	1999312..2000637	srmB; ATP-dependent RNA helicase SrmB
+hap:HAPS_2037	CDS	2000758..2001390	lolB; outer membrane lipoprotein LolB
+hap:HAPS_2038	CDS	2001392..2002237	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+hap:HAPS_2039	CDS	2002265..2003215	prsA; ribose-phosphate pyrophosphokinase
+hap:HAPS_2040	CDS	2003458..2004465	pyrD; dihydroorotate dehydrogenase 2
+hap:HAPS_2041	CDS	complement(2004746..2004892)	hypothetical protein
+hap:HAPS_2042	CDS	complement(2004994..2005185)	hypothetical protein
+hap:HAPS_2043	CDS	complement(2005440..2006114)	crp; catabolite gene activator (cAMP receptor protein) (cAMP-regulatory protein)
+hap:HAPS_2044	CDS	complement(2006181..2006405)	conserved hypothetical protein
+hap:HAPS_2045	CDS	complement(2006413..2007018)	slmA; HTH-type nucleoid occlusion protein
+hap:HAPS_2046	CDS	complement(2007027..2007482)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+hap:HAPS_2047	CDS	complement(2007508..2007834)	conserved hypothetical protein
+hap:HAPS_2048	CDS	complement(2007844..2008935)	dfp; bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+hap:HAPS_2049	CDS	2009339..2009932	radC; DNA repair protein RadC
+hap:HAPS_2050	CDS	2010058..2010294	rpmB; 50S ribosomal protein L28
+hap:HAPS_2051	CDS	2010306..2010476	rpmG; 50S ribosomal protein L33
+hap:HAPS_2052	gene	2010809..2011504	frpB; pseudogene
+hap:HAPS_2053	CDS	2011670..2012035	OB-fold nucleic acid binding domain-containing protein
+hap:HAPS_2054	CDS	2012096..2012767	cheY; two component transcriptional regulator/response regulator consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+hap:HAPS_2055	CDS	2012754..2014154	qseC; sensor protein QseC/integral membrane sensor signal transduction histidine kinase
+hap:HAPS_2056	CDS	2014217..2014333	hypothetical protein
+hap:HAPS_2057	CDS	2014546..2014833	groES; co-chaperonin GroES (HSP10)
+hap:HAPS_2058	CDS	2014944..2016587	groEL; chaperonin GroEL (HSP60 family)
+hap:HAPS_2059	CDS	2016754..2017806	galactose-1-phosphate uridylyltransferase
+hap:HAPS_2060	CDS	2017882..2018391	ISHin1, family IS3
+hap:HAPS_2061	CDS	2018388..2019209	ISHin1, family IS3
+hap:HAPS_2062	gene	2019400..2019788	pseudogene
+hap:HAPS_2063	CDS	complement(2020002..2022974)	vtaA10; virulence-associated trimeric autotransporter
+hap:HAPS_2064	CDS	complement(2023347..2023505)	hypothetical protein
+hap:HAPS_2065	CDS	complement(2023826..2024167)	erpA; iron-sulfur cluster insertion protein ErpA
+hap:HAPS_2066	CDS	complement(2024278..2025453)	obgE; GTPase ObgE
+hap:HAPS_2067	CDS	complement(2025478..2026410)	permeases of the drug/metabolite transporter (DMT) superfamily, conserved membrane protein
+hap:HAPS_2068	CDS	complement(2026412..2027278)	permeases of the drug/metabolite transporter (DMT) superfamily, putative transport protein
+hap:HAPS_2069	CDS	complement(2027419..2027676)	rpmA; 50S ribosomal protein L27
+hap:HAPS_2070	CDS	complement(2027697..2028008)	rplU; 50S ribosomal protein L21
+hap:HAPS_2071	CDS	complement(2028206..2029357)	nagA; N-acetylglucosamine-6-phosphate deacetylase
+hap:HAPS_2072	CDS	complement(2029367..2030161)	nagB; glucosamine-6-phosphate deaminase
+hap:HAPS_2073	CDS	complement(2030561..2031385)	dapF; diaminopimelate epimerase
+hap:HAPS_2074	CDS	2031538..2032860	dcuB; anaerobic C4-dicarboxylate transporter
+hap:HAPS_2075	CDS	complement(2033122..2034552)	panF; sodium/panthothenate symporter
+hap:HAPS_2076	CDS	complement(2034542..2034781)	predicted membrane protein
+hap:HAPS_2077	CDS	complement(2034838..2035155)	metJ; transcriptional repressor protein MetJ
+hap:HAPS_2078	CDS	2035490..2036455	corA; magnesium/nickel/cobalt transporter CorA
+hap:HAPS_2079	CDS	complement(2036567..2040220)	mfd; transcription-repair coupling factor
+hap:HAPS_2080	CDS	2040284..2041348	mdtH; putative multidrug resistance protein mdtH
+hap:HAPS_2081	CDS	complement(2041403..2042677)	thrC; threonine synthase
+hap:HAPS_2082	gene	2043042..2044436	glpT; pseudogene
+hap:HAPS_2083	CDS	2044443..2045072	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase
+hap:HAPS_2084	CDS	complement(2045121..2045621)	tpx; thiol peroxidase
+hap:HAPS_2086	CDS	complement(2045618..2045794)	hypothetical protein
+hap:HAPS_2085	CDS	2045775..2046497	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+hap:HAPS_2087	CDS	2046499..2047908	sufI; protein SufI precursor/multicopper oxidase type 3
+hap:HAPS_2088	CDS	2048029..2048982	accA; acetyl-CoA carboxylase carboxyltransferase subunit alpha
+hap:HAPS_2089	CDS	complement(2049419..2049604)	bacteriophage transcriptional regulator
+hap:HAPS_2090	gene	complement(2049620..2049787)	pseudogene
+hap:HAPS_2091	gene	complement(2049786..2050046)	pseudogene
+hap:HAPS_2092	CDS	2050164..2051657	ptsG; PTS system, IIBC components
+hap:HAPS_2093	CDS	complement(2051956..2052942)	ISIMb1, family IS110
+hap:HAPS_2094	gene	2053093..2053473	pseudogene
+hap:HAPS_2095	tRNA	complement(2054773..2054849)	tRNA-Met
+hap:HAPS_2096	CDS	2055362..2056144	amino acid ABC transporter, substrate-binding protein
+hap:HAPS_2097	CDS	2056212..2056850	yckJ; ABC-type amino acid transport system, permease component
+hap:HAPS_2098	CDS	2056853..2057602	yckI; ABC-type amino acid transport system, ATPase component
+hap:HAPS_2099	gene	2057813..2057977	pseudogene
+hap:HAPS_2100	CDS	2058101..2060143	conserved hypothetical protein
+hap:HAPS_2101	CDS	complement(2060271..2061698)	gltD; glutamate synthase (NADPH), subunit beta
+hap:HAPS_2102	CDS	complement(2061915..2065901)	gltB; glutamate synthase (ferredoxin), subunit alpha
+hap:HAPS_2103	CDS	2065914..2066369	hypothetical protein
+hap:HAPS_2104	CDS	complement(2066507..2067493)	ISIMb1, family IS110
+hap:HAPS_2105	rRNA	complement(2068311..2069685)	16S ribosomal RNA
+hap:HAPS_2106	tRNA	2069774..2069849	tRNA-Glu
+hap:HAPS_2107	rRNA	complement(2070239..2073127)	23S ribosomal RNA
+hap:HAPS_2108	rRNA	complement(2073302..2073418)	5S ribosomal RNA
+hap:HAPS_2109	gene	2073533..2073967	pseudogene
+hap:HAPS_2110	CDS	complement(2074076..2074387)	putative translation initiation inhibitor, yjgF family
+hap:HAPS_2111	CDS	complement(2074456..2075475)	ilvE; branched-chain amino acid aminotransferase
+hap:HAPS_2112	CDS	2075914..2076810	gcvA; DNA-binding transcriptional activator GcvA
+hap:HAPS_2113	CDS	2076832..2077506	nucleotidase/putative HAD superfamily haloacid dehalogenase-like hydrolase
+hap:HAPS_2114	CDS	2077572..2078507	cysB; HTH-type transcriptional regulator CysB
+hap:HAPS_2115	CDS	2078611..2078952	possible outer membrane protein
+hap:HAPS_2116	CDS	2079490..2080179	icc; cyclic 3',5'-adenosine monophosphate phosphodiesterase
+hap:HAPS_2117	CDS	complement(2080274..2081263)	ldhA; D-lactate dehydrogenase
+hap:HAPS_2118	CDS	complement(2081273..2082340)	conserved hypothetical protein
+hap:HAPS_2119	CDS	complement(2082337..2083299)	dcm; DNA-cytosine methyltransferase/C-5 cytosine-specific DNA methylase
+hap:HAPS_2120	CDS	complement(2083307..2084416)	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+hap:HAPS_2121	CDS	complement(2084418..2085500)	conserved hypothetical protein
+hap:HAPS_2122	CDS	complement(2085636..2087501)	sppA; protease IV, signal peptide peptidase
+hap:HAPS_2123	CDS	2087720..2089501	msbA; lipid transporter ATP-binding/permease protein
+hap:HAPS_2124	CDS	2089641..2090324	pnuC; nicotinamide mononucleotide transporter, fused lipid transporter subunits of ABC superfamily: membrane component/ATP-binding component
+hap:HAPS_2125	CDS	2090387..2091127	yfgE; DNA replication initiation factor/chromosomal replication initiator DnaA
+hap:HAPS_2126	CDS	2091128..2091754	ccmA; Cytochrome c biogenesis ATP-binding export protein ccmA/heme exporter protein A
+hap:HAPS_2127	CDS	2091764..2092426	ccmB; cytochrome c-type biogenesis protein/heme exporter protein B
+hap:HAPS_2128	CDS	2092473..2093213	ccmC; cytochrome c-type biogenesis protein/heme exporter protein C
+hap:HAPS_2129	CDS	2093222..2093416	ccmD; cytochrome c-type biogenesis protein/heme exporter protein D
+hap:HAPS_2130	CDS	2093581..2094969	di- and tricarboxylate transporter
+hap:HAPS_2131	CDS	2095370..2096383	pgk; phosphoglycerate kinase
+hap:HAPS_2133	CDS	complement(2096428..2096547)	hypothetical protein
+hap:HAPS_2132	CDS	2096528..2097607	fba; fructose bisphosphate aldolase
+hap:HAPS_2134	CDS	2097780..2098580	sapF; peptide transport system ATP-binding protein SapF
+hap:HAPS_2135	CDS	2098593..2099231	putative NAD(P)H nitroreductase
+hap:HAPS_2136	CDS	2099320..2099853	predicted membrane protein
+hap:HAPS_2137	CDS	complement(2099938..2101236)	ordL; oxidoreductase OrdL
+hap:HAPS_2138	tRNA	complement(2101285..2101361)	tRNA-Arg
+hap:HAPS_2139	tRNA	complement(2101430..2101506)	tRNA-Arg
+hap:HAPS_2140	tRNA	complement(2101520..2101614)	tRNA-Ser
+hap:HAPS_2141	CDS	complement(2101770..2102249)	greB; transcription elongation factor GreB
+hap:HAPS_2142	CDS	complement(2102249..2103184)	kpsF; arabinose-5-phosphate isomerase
+hap:HAPS_2143	CDS	complement(2103246..2103827)	pilF; fimbrial biogenesis and twitching motility protein PilF-like protein
+hap:HAPS_2144	CDS	complement(2103875..2104846)	ISNme5, family IS110
+hap:HAPS_2145	CDS	complement(2105089..2106249)	predicted Fe-S-cluster redox enzyme
+hap:HAPS_2146	CDS	complement(2106450..2106758)	rsaL; DNA-binding protein, virulence gene repressor RsaL
+hap:HAPS_2147	CDS	complement(2106864..2107100)	conserved hypothetical protein
+hap:HAPS_2148	tRNA	complement(2107305..2107380)	tRNA-Val
+hap:HAPS_2149	tRNA	complement(2107423..2107498)	tRNA-Val
+hap:HAPS_2150	tRNA	complement(2107556..2107631)	tRNA-Val
+hap:HAPS_2151	tRNA	complement(2107678..2107753)	tRNA-Val
+hap:HAPS_2152	CDS	2107934..2109373	gltX; glutamyl-tRNA synthetase
+hap:HAPS_2153	tRNA	2109456..2109531	tRNA-Ala
+hap:HAPS_2154	CDS	complement(2109858..2111987)	copA; copper-transporting P-type ATPase
+hap:HAPS_2155	CDS	complement(2112007..2112381)	cybC; soluble cytochrome b562
+hap:HAPS_2156	CDS	complement(2112441..2113676)	fabB; 3-oxoacyl-(acyl carrier protein) synthase I
+hap:HAPS_2157	CDS	complement(2113834..2116980)	type III restriction enzyme, res subunit
+hap:HAPS_2158	CDS	complement(2116993..2118900)	mod; type III restriction-modification system methyltransferase (adenine-specific)/adenine specific DNA methylase Mod
+hap:HAPS_2159	CDS	complement(2118937..2119242)	hypothetical protein
+hap:HAPS_2160	CDS	complement(2119686..2120984)	purA; adenylosuccinate synthetase
+hap:HAPS_2161	CDS	complement(2121267..2122154)	hflC; protein HflC/membrane protease subunit, stomatin/prohibitin-like protein
+hap:HAPS_2162	CDS	complement(2122157..2123371)	hflK; protein HflK/membrane protease subunit, stomatin/prohibitin-like protein
+hap:HAPS_2163	CDS	2123617..2124288	wecD; putative TDP-D-fucosamine acetyltransferase
+hap:HAPS_2164	CDS	2124288..2125424	wecE; TDP-4-keto-6-deoxy-D-glucose transaminase
+hap:HAPS_2165	gene	complement(2125543..2125893)	pseudogene
+hap:HAPS_2166	gene	complement(2126057..2126260)	pseudogene
+hap:HAPS_2167	CDS	complement(2126276..2127049)	possible iron compound ABC transporter, permease
+hap:HAPS_2168	CDS	2127236..2128624	tolC; RND efflux system outer membrane lipoprotein/RND superfamily resistance-nodulation-cell division antiporter
+hap:HAPS_2169	CDS	complement(2128684..2129334)	rnt; ribonuclease T
+hap:HAPS_2170	CDS	complement(2129334..2129738)	glo1; lactoylglutathione lyase
+hap:HAPS_2171	CDS	2129819..2130643	DMT superfamily drug/metabolite transporter
+hap:HAPS_2172	CDS	2130692..2133361	conserved hypothetical protein
+hap:HAPS_2173	gene	complement(2133409..2134302)	pseudogene
+hap:HAPS_2174	CDS	2134368..2134682	XRE family transcriptional regulator
+hap:HAPS_2175	CDS	2134880..2135062	conserved hypothetical protein
+hap:HAPS_2176	CDS	complement(2135142..2137409)	sfcA; malic enzyme
+hap:HAPS_2177	CDS	complement(2137699..2138025)	ydhD; monothiol glutaredoxin-like protein
+hap:HAPS_2178	CDS	complement(2138151..2140043)	recD; ATP-dependent exoDNAse (exonuclease V), alpha subunit - helicase superfamily I member
+hap:HAPS_2179	CDS	complement(2140202..2142328)	hxuC; heme/hemopexin utilization protein C/outer membrane receptor protein, mostly Fe transport
+hap:HAPS_2180	CDS	2142475..2144169	hxuB; heme/hemopexin-binding protein B, hemolysin activation/secretion protein
+hap:HAPS_2181	CDS	2144185..2147106	hxuA; heme/hemopexin-binding protein A (Heme:hemopexin utilization protein A)
+hap:HAPS_2182	CDS	complement(2147192..2148631)	pykA; pyruvate kinase
+hap:HAPS_2183	CDS	2148759..2149250	sixA; phosphohistidine phosphatase
+hap:HAPS_2184	CDS	2149398..2150762	uhpT; sugar phosphate antiporter
+hap:HAPS_2185	gene	2150845..2151222	uhpA; pseudogene
+hap:HAPS_2186	CDS	2151416..2152723	uhpB; sensory histidine kinase UhpB/signal transduction histidine kinase, glucose-6-phosphate specific
+hap:HAPS_2187	gene	2152852..2153202	uhpC; pseudogene
+hap:HAPS_2188	CDS	complement(2153323..2154288)	pfkA; 6-phosphofructokinase I
+hap:HAPS_2189	CDS	complement(2154410..2155606)	nifS; cysteine desulfurase, aminotransferase, class V
+hap:HAPS_2190	CDS	complement(2155603..2156292)	putative micrococcal nuclease (thermonuclease)-like protein
+hap:HAPS_2191	CDS	2156481..2157407	metR; LysR family transcriptional regulator
+hap:HAPS_2192	CDS	complement(2157478..2158800)	pepQ; Xaa-Pro dipeptidase
+hap:HAPS_2193	CDS	2158836..2159084	sirA; cell developmental protein SirA, sulfurtransferase/redox protein, regulator of disulfide bond formation
+hap:HAPS_2194	CDS	complement(2159070..2160602)	methyltransferase type 11
+hap:HAPS_2195	CDS	complement(2160683..2161105)	conserved hypothetical protein
+hap:HAPS_2196	CDS	complement(2161110..2161739)	engB; GTPase EngB
+hap:HAPS_2197	CDS	complement(2161895..2162311)	possible membrane protein
+hap:HAPS_2198	CDS	complement(2162311..2164920)	pepN; aminopeptidase N
+hap:HAPS_2199	CDS	complement(2164988..2165671)	dapE; succinyl-diaminopimelate desuccinylase with a TIM-barrel fold
+hap:HAPS_2200	CDS	2165739..2166278	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase/low specificity phosphatase (HAD superfamily)
+hap:HAPS_2201	CDS	2166363..2166869	orn; oligoribonuclease
+hap:HAPS_2202	CDS	2166875..2167363	predicted ATPase or kinase
+hap:HAPS_2203	CDS	2167373..2168485	amiB; N-acetylmuramoyl-L-alanine amidase
+hap:HAPS_2204	CDS	2168606..2169265	sugar phosphate permease, required for N-linked glycosylation
+hap:HAPS_2205	CDS	complement(2169289..2169894)	conserved hypothetical protein
+hap:HAPS_2206	CDS	2170291..2170845	neuA3; acylneuraminate cytidylyltransferase/CMP-N-acetylneuraminic acid synthetase
+hap:HAPS_2207	gene	2170976..2171434	lsgA; pseudogene
+hap:HAPS_2208	CDS	2171540..2172424	lsgE; putative lipooligosaccharide galactosyltransferase involved in cell wall biogenesis
+hap:HAPS_2209	CDS	2172424..2173224	lsgF; putative UDP-galactose--lipooligosaccharide galactosyltransferase
+hap:HAPS_2210	CDS	complement(2173353..2175293)	ccmF; cytochrome c-type biogenesis protein CcmF
+hap:HAPS_2211	CDS	complement(2175290..2175823)	ccmE; cytochrome c-type biogenesis protein CcmE
+hap:HAPS_2212	CDS	complement(2176350..2177723)	pntB; NAD(P) transhydrogenase beta subunit
+hap:HAPS_2213	CDS	complement(2177735..2179267)	pntA; NAD(P) transhydrogenase subunit alpha
+hap:HAPS_2214	CDS	2179319..2179438	hypothetical protein
+hap:HAPS_2215	CDS	2179546..2180598	mreB; rod shape-determining protein MreB/actin-like ATPase involved in cell morphogenesis
+hap:HAPS_2216	CDS	2180792..2181739	mreC; rod shape-determining protein MreC/Cell shape-determining protein
+hap:HAPS_2217	CDS	2181739..2182227	mreD; rod shape-determining protein MreD/Cell shape-determining protein
+hap:HAPS_2218	CDS	2182227..2183570	rarA; recombination factor protein RarA
+hap:HAPS_2219	CDS	complement(2183573..2185033)	possible outer membrane protein/FOG: TPR repeat protein
+hap:HAPS_2220	CDS	2185170..2185973	tonB; periplasmic protein, links inner and outer membranes
+hap:HAPS_2221	CDS	2185991..2186659	exbB; biopolymer transport ExbB protein
+hap:HAPS_2222	CDS	2186734..2187069	exbD; biopolymer transport ExbD protein
+hap:HAPS_2223	CDS	2187280..2188740	tbpB; transferrin-binding protein 2 precursor
+hap:HAPS_2224	CDS	2188754..2191456	tbpA; transferrin-binding protein 1 precursor
+hap:HAPS_2225	CDS	complement(2191877..2192203)	sigma 54 modulation protein
+hap:HAPS_2226	CDS	2192377..2192688	conserved hypothetical protein
+hap:HAPS_2227	CDS	2192688..2193623	lpxL; lipid A biosynthesis lauroyl acyltransferase
+hap:HAPS_2228	CDS	2193799..2194338	putative deoxyribonucleotide triphosphate pyrophosphatase/Xanthosine triphosphate pyrophosphatase
+hap:HAPS_2229	CDS	2194346..2194531	conserved hypothetical protein
+hap:HAPS_2230	CDS	2194531..2194986	conserved hypothetical protein
+hap:HAPS_2231	CDS	complement(2195031..2197046)	uvrB; excinuclease ABC subunit B
+hap:HAPS_2232	CDS	2197225..2199801	glnD; uridylyltransferase
+hap:HAPS_2233	CDS	2200002..2200775	sapC; peptide transport system permease protein
+hap:HAPS_2234	CDS	2200788..2201819	sapD; peptide transport system ATP-binding protein
+hap:HAPS_2235	CDS	2202047..2203357	eno; phosphopyruvate hydratase/enolase
+hap:HAPS_2236	CDS	2203727..2204218	nucleotide-binding protein
+hap:HAPS_2237	CDS	2204336..2206237	parE; DNA topoisomerase 4 subunit B
+hap:HAPS_2238	CDS	2206368..2207816	hktE; catalase
+hap:HAPS_2239	CDS	2207911..2208996	phosphohydrolase
+hap:HAPS_2240	CDS	complement(2209069..2209515)	conserved hypothetical protein
+hap:HAPS_2241	CDS	2209592..2211226	lonH; possible S16 family lon protease, ATP-dependent protease
+hap:HAPS_2242	CDS	2211347..2211877	fabA; 3-hydroxydecanoyl-(acyl carrier protein) dehydratase
+hap:HAPS_2243	CDS	2211966..2212475	pulG; Type II secretory pathway, pseudopilin PulG
+hap:HAPS_2244	CDS	2212441..2213136	conserved hypothetical protein
+hap:HAPS_2245	CDS	2213133..2213792	conserved hypothetical protein
+hap:HAPS_2246	CDS	2213785..2214081	conserved hypothetical protein
+hap:HAPS_2247	gene	2214287..2216395	lacZ; pseudogene
+hap:HAPS_2248	CDS	complement(2216465..2217856)	norM; Drug:Na+ antiporter (norfloxacin, ethidium, kanamycin, ciprofloxin, streptomycin efflux pump)
+hap:HAPS_2249	CDS	complement(2217869..2218579)	rluA; pseudouridylate synthase, 23S RNA-specific
+hap:HAPS_2250	CDS	2218699..2219574	phnD; phosphate/phosphonate ABC transport system periplasmic phosphonate-binding protein
+hap:HAPS_2251	CDS	2219840..2220592	phnC; phosphate/phosphonate ABC transporter ATPase component
+hap:HAPS_2252	CDS	2220582..2221367	phnE; phosphate/phosphonate ABC transport system permease protein
+hap:HAPS_2253	CDS	2221364..2222212	phnE; phosphate/phosphonate ABC transport system inner membrane subunit
+hap:HAPS_2254	CDS	2222274..2222966	conserved hypothetical protein
+hap:HAPS_2255	CDS	2223516..2224118	nudH; dinucleoside polyphosphate hydrolase
+hap:HAPS_2256	CDS	2224115..2224912	permease
+hap:HAPS_2257	CDS	2224922..2225725	lgt; prolipoprotein diacylglyceryl transferase
+hap:HAPS_2258	CDS	2225922..2226215	ybfE; LexA regulated protein
+hap:HAPS_2259	CDS	2226225..2226749	fldA; flavodoxin
+hap:HAPS_2260	CDS	2226769..2227215	fur; ferric uptake regulation protein
+hap:HAPS_2261	CDS	2227312..2229978	pqiB; paraquat-inducible protein B
+hap:HAPS_2262	CDS	2230025..2230186	hypothetical protein
+hap:HAPS_2263	gene	2230477..2230650	pseudogene
+hap:HAPS_2264	CDS	2230669..2231322	IS1016C2 transposase, family IS1595
+hap:HAPS_2265	CDS	2231543..2232079	proQ; putative solute/DNA competence effector, activator of osmoprotectant transporter ProP
+hap:HAPS_2266	CDS	2232099..2234105	prc; S41 family carboxy-terminal protease/periplasmic protease
+hap:HAPS_2267	CDS	2234191..2235741	conserved hypothetical protein
+hap:HAPS_2268	CDS	2235886..2236443	conserved hypothetical protein
+hap:HAPS_2269	CDS	2236457..2237086	glyoxalase II family protein
+hap:HAPS_2270	CDS	2237091..2237837	vacJ; VacJ lipoprotein
+hap:HAPS_2271	CDS	2237946..2238380	impA; SOS-response transcriptional repressor
+hap:HAPS_2272	gene	complement(2238485..2238601)	pseudogene
+hap:HAPS_2273	CDS	complement(2238939..2240045)	metB; cystathionine gamma-synthase
+hap:HAPS_2274	CDS	complement(2240093..2240905)	dapB; dihydrodipicolinate reductase
+hap:HAPS_2275	CDS	complement(2241040..2241921)	metF; 5,10-methylenetetrahydrofolate reductase
+hap:HAPS_2276	CDS	2242233..2243480	icd; isocitrate dehydrogenase (NADP(+))
+hap:HAPS_2277	CDS	2243632..2246235	acnB; bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+hap:HAPS_2278	CDS	2246271..2247551	gltA; type II citrate synthase
+hap:HAPS_2279	CDS	complement(2247630..2248217)	adk; adenylate kinase
+hap:HAPS_2280	CDS	complement(2248384..2249742)	predicted Na+-dependent transporters of the SNF family
+hap:HAPS_2281	CDS	complement(2249771..2250589)	dam; DNA adenine methylase Dam
+hap:HAPS_2282	CDS	complement(2250599..2251576)	aroB; 3-dehydroquinate synthase
+hap:HAPS_2283	CDS	complement(2251702..2252223)	aroK; shikimate kinase
+hap:HAPS_2284	CDS	complement(2252453..2255008)	mrcA; membrane carboxypeptidase/penicillin-binding protein 1A
+hap:HAPS_2285	CDS	2255162..2255839	comA; competence protein A
+hap:HAPS_2286	CDS	2255815..2256336	conserved hypothetical protein
+hap:HAPS_2287	CDS	2256333..2256863	chromosome segregation ATPase
+hap:HAPS_2288	CDS	2256863..2257249	conserved hypothetical protein
+hap:HAPS_2289	CDS	2257259..2258521	comE; competence protein E/type II secretory pathway, component HofQ
+hap:HAPS_2290	CDS	2258600..2259013	nusB; transcription antitermination protein N utilization substance B (NusB)
+hap:HAPS_2291	CDS	2259022..2259990	thiL; thiamin-monophosphate kinase
+hap:HAPS_2292	CDS	2260107..2260463	pgpA; phosphatidylglycerophosphatase A
+hap:HAPS_2293	CDS	2260465..2261094	rhtB; threonine efflux protein, RhtB family homoserine/threonine resistance transporter
+hap:HAPS_2294	CDS	2261391..2261705	trxA; thioredoxin
+hap:HAPS_2295	gene	2262295..2262901	pseudogene
+hap:HAPS_2296	CDS	complement(2263089..2263508)	conserved hypothetical protein
+hap:HAPS_2297	CDS	complement(2263841..2266933)	FAD/FMN-containing dehydrogenase
+hap:HAPS_2298	CDS	2267336..2268451	ompP5; outer membrane protein P5 precursor, heat-modifiable outer membrane protein
+hap:HAPS_2299	CDS	complement(2268533..2268928)	msrB; methionine sulfoxide reductase B
