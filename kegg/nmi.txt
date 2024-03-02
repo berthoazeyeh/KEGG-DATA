@@ -1,0 +1,2054 @@
+nmi:NMO_0001	CDS	574..2022	gnd; 6-phosphogluconate dehydrogenase, decarboxylating
+nmi:NMO_0002	CDS	2085..3356	kdtA; 3-deoxy-D-manno-octulosonic-acid transferase
+nmi:NMO_0003	CDS	3397..3846	putative membrane protein
+nmi:NMO_0004	CDS	3879..4853	putative transport protein TerC
+nmi:NMO_tRNA01	tRNA	4922..4997	tRNA-Lys
+nmi:NMO_0005	CDS	5217..6470	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+nmi:NMO_0006	CDS	6551..7729	pgk; phosphoglycerate kinase
+nmi:NMO_0007	CDS	complement(7794..8042)	BolA-like protein
+nmi:NMO_0008	CDS	complement(8134..9051)	ftsX; cell division protein FtsX
+nmi:NMO_0009	CDS	complement(9048..9698)	ftsE; cell division ATP-binding protein
+nmi:NMO_0010	CDS	complement(9695..9886)	hypothetical protein
+nmi:NMO_0011	CDS	complement(9894..10376)	periplasmic thiredoxin
+nmi:NMO_0012	CDS	10500..10853	arsC; putative arsenate reductase
+nmi:NMO_0013	CDS	10850..11506	conserved hypothetical periplasmic protein
+nmi:NMO_0014	CDS	11641..13092	gltX; glutamyl-tRNA synthetase
+nmi:NMO_0015	CDS	13113..13508	conserved hypothetical periplasmic protein
+nmi:NMO_0016	CDS	13512..14003	putative acetyltransferase
+nmi:NMO_0017	CDS	complement(14127..16721)	mutS; DNA mismatch repair protein MutS
+nmi:NMO_0018	CDS	17165..18169	gapC; glyceraldehyde 3-phosphate dehydrogenase
+nmi:NMO_0019	CDS	18213..18326	hypothetical protein
+nmi:NMO_0020	CDS	complement(18427..19107)	conserved hypothetical protein
+nmi:NMO_0021	CDS	19222..19854	pncA; putative nicotinamidase
+nmi:NMO_0022	CDS	19893..20861	rfaC; lipopolysaccharide heptosyltransferase I
+nmi:NMO_0023	CDS	21087..21836	etfB; electron transfer flavoprotein beta-subunit
+nmi:NMO_0024	CDS	21847..22782	etfA; electron transfer flavoprotein alpha-subunit
+nmi:NMO_0025	CDS	22845..23456	conserved hypothetical protein
+nmi:NMO_0026	CDS	complement(23510..23827)	hypothetical protein
+nmi:NMO_0027	CDS	23985..25256	purD; phosphoribosylamine--glycine ligase
+nmi:NMO_0028	CDS	25290..25892	putative translation factor
+nmi:NMO_0029	CDS	25920..26351	conserved hypothetical protein
+nmi:NMO_0030	CDS	complement(26525..26965)	putative membrane protein
+nmi:NMO_0031	CDS	complement(27382..27969)	RNA polymerase sigma factor
+nmi:NMO_0032	CDS	complement(27991..28737)	conserved hypothetical protein
+nmi:NMO_0033	CDS	complement(28727..29569)	conserved hypothetical protein
+nmi:NMO_0034	CDS	complement(29685..29993)	putative membrane protein
+nmi:NMO_0035	CDS	complement(30067..30516)	conserved hypothetical protein
+nmi:NMO_0036	CDS	30858..31751	conserved hypothetical protein
+nmi:NMO_0037	CDS	31854..32957	prfB; peptide chain release factor 2
+nmi:NMO_sRNA1	misc_RNA	33070..33370	rnpB
+nmi:NMO_0038	CDS	complement(33867..35324)	peptide transporter
+nmi:NMO_0039	CDS	complement(36364..40533)	putative periplasmic protei
+nmi:NMO_0040	CDS	complement(40588..42435)	putative outer membrane protein
+nmi:NMO_0041	CDS	42847..44076	sodium/dicarboxylate symporter family protein
+nmi:NMO_0042	CDS	44188..45672	periplasmic protein
+nmi:NMO_0043	CDS	complement(45747..45962)	hypothetical protein
+nmi:NMO_0044	CDS	complement(45955..46197)	conserved hypothetical protein
+nmi:NMO_0045	CDS	complement(46245..47588)	argG; Argininosuccinate synthase
+nmi:NMO_0046	CDS	48052..48852	putative molybdopterin-binding protein
+nmi:NMO_0047	CDS	48892..49878	putative ClpP class peptidase
+nmi:NMO_0048	gene	50012..50452	pseudogene
+nmi:NMO_0049	gene	50553..50768	NMO_0049
+nmi:NMO_0050	gene	complement(50835..51209)	pseudogene
+nmi:NMO_0051	CDS	complement(51382..51738)	hypothetical protein
+nmi:NMO_0052	CDS	complement(51743..51937)	mafB1; putative MafB alternative C-terminus
+nmi:NMO_PS73	gene	complement(52007..52215)	pseudogene
+nmi:NMO_0054	CDS	complement(52292..52651)	hypothetical protein
+nmi:NMO_0055	CDS	complement(52648..52866)	hypothetical protein
+nmi:NMO_0056	CDS	complement(53059..54582)	mafB5; putative adhesin MafB
+nmi:NMO_0057	CDS	54702..54836	hypothetical protein
+nmi:NMO_0058	CDS	complement(55076..55486)	hypothetical protein
+nmi:NMO_0060	CDS	complement(56369..56725)	hypothetical protein
+nmi:NMO_0061	CDS	complement(56891..57265)	hypothetical protein
+nmi:NMO_0062	CDS	complement(57262..58158)	mafB7; putative adhesin MafB
+nmi:NMO_0063	CDS	complement(58260..58778)	mafB9; putative adhesin MafB, truncated
+nmi:NMO_0064	CDS	complement(58818..59780)	mafA; putative adhesin MafA
+nmi:NMO_0065	CDS	complement(59964..60683)	pyrH; Uridylate kinase
+nmi:NMO_0066	CDS	complement(60900..61754)	tsf; elongation factor EF-Ts
+nmi:NMO_0067	CDS	complement(61884..62645)	rpsB; 30S ribosomal protein S2
+nmi:NMO_0068	CDS	complement(62789..63022)	putative membrane protein
+nmi:NMO_0069	CDS	63100..63681	putative formyltetrahydrofolate cyclo-ligase
+nmi:NMO_0070	CDS	63742..64332	conserved hypothetical protein
+nmi:NMO_0071	CDS	64869..66335	mqo; malate:quinone oxidoreductase
+nmi:NMO_0072	CDS	complement(66523..67083)	conserved hypothetical protein
+nmi:NMO_0073	CDS	complement(67135..67434)	conserved hypothetical protein
+nmi:NMO_0074	CDS	complement(67589..68368)	map; Methionine aminopeptidase
+nmi:NMO_0075	CDS	complement(68408..69058)	putative membrane protein
+nmi:NMO_0076	CDS	complement(69066..69674)	putative outer membrane or periplasmic OsmY-type protein
+nmi:NMO_0077	CDS	complement(69738..70331)	lpcA; Phosphoheptose isomerase
+nmi:NMO_0078	CDS	complement(70336..70683)	putative endonuclease
+nmi:NMO_0079	CDS	70703..71605	putative methyltransferase
+nmi:NMO_0080	CDS	complement(71640..71993)	cybB; putative cytochrome b561
+nmi:NMO_0081	CDS	72551..73705	probable GTP-binding protein
+nmi:NMO_0082	CDS	73759..74706	putative type II DNA modification methyltransferase
+nmi:NMO_0083	CDS	74703..75755	putative type II restriction endonuclease
+nmi:NMO_0084	CDS	75765..77192	cysS; Cysteinyl-tRNA synthetase
+nmi:NMO_0085	CDS	77275..78054	putative DNA repair endonuclease
+nmi:NMO_0086	CDS	78035..78385	putative membrane protein
+nmi:NMO_0087	CDS	78396..78926	putative membrane protein
+nmi:NMO_0088	CDS	complement(79154..80269)	Aspartate-semialdehyde dehydrogenase
+nmi:NMO_0089	CDS	80598..81179	putative membrane protein
+nmi:NMO_0090	CDS	complement(81241..82095)	folD; methylenetetrahydrofolatedehydrogenase/cyclohydr olase
+nmi:NMO_tRNA02	tRNA	82318..82395	tRNA-Pro
+nmi:NMO_tRNA03	tRNA	82420..82496	tRNA-Arg
+nmi:NMO_tRNA04	tRNA	82524..82599	tRNA-His
+nmi:NMO_0091	CDS	82813..83319	putative ltransferase
+nmi:NMO_0092	CDS	83316..85094	birA; putative biotin protein ligase
+nmi:NMO_0093	CDS	85207..86031	putative membrane protein
+nmi:NMO_0094	CDS	complement(86249..86452)	hypothetical protein
+nmi:NMO_0095	CDS	complement(86794..87582)	thiG; thiG protein
+nmi:NMO_0096	CDS	complement(87796..87990)	thiS; thiamin biosynthesis ThiS
+nmi:NMO_0097	CDS	complement(88412..89029)	thiE; thiamine-phosphate pyrophosphorylase
+nmi:NMO_0098	CDS	complement(89050..90150)	FAD dependent oxidoreductase
+nmi:NMO_0099	CDS	complement(90147..91373)	purine-cytosine transport protein
+nmi:NMO_0100	CDS	91617..93101	tldD; TldD protein
+nmi:NMO_0101	CDS	93166..93627	putative membrane protein
+nmi:NMO_0102	CDS	93617..94438	hemK; heme biosynthesis protein
+nmi:NMO_0103	CDS	94524..95912	probable transporter
+nmi:NMO_0104	CDS	95913..96137	slyX; conserved hypothetical protein
+nmi:NMO_0105	CDS	complement(96846..97793)	thiF; adenylyltransferase
+nmi:NMO_0106	CDS	97731..100484	ppc; Phosphoenolpyruvate carboxylase
+nmi:NMO_0107	CDS	100607..101596	gpsA; Glycerol-3-phosphate dehydrogenase
+nmi:NMO_0108	CDS	101651..101980	conserved hypothetical protein
+nmi:NMO_0109	CDS	101991..102296	conserved hypothetical protein
+nmi:NMO_0110	CDS	102659..103090	rplM; 50S ribosomal protein L13
+nmi:NMO_0111	CDS	103100..103492	rpsI; 30S ribosomal protein S9
+nmi:NMO_0112	gene	103643..104650	NMO_0112
+nmi:NMO_0113	CDS	complement(104981..105958)	metR; transcriptional activator MetR
+nmi:NMO_0114	CDS	106041..106790	conserved hypothetical protein
+nmi:NMO_0115	CDS	106913..107494	petA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+nmi:NMO_0116	CDS	107513..108862	petB; ubiquinol-cytochrome c reductase cytochrome b subunit
+nmi:NMO_0117	CDS	108877..109665	petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit
+nmi:NMO_0118	CDS	110004..111788	conserved hypothetical protein
+nmi:NMO_0119	CDS	complement(111994..112626)	putative Zn-dependent hydrolase
+nmi:NMO_0120	CDS	112679..113542	DNA ligase
+nmi:NMO_0121	CDS	113611..114174	hpt; hypoxanthine phosphoribosyltransferase
+nmi:NMO_0122	CDS	114255..114692	putative mannose-specific phosphotransferase system component IIAB
+nmi:NMO_0123	CDS	114761..115030	ptsH; phosphocarrier protein HPr
+nmi:NMO_0124	CDS	115030..116805	ptsI; phosphoenolpyruvate-protein phosphotransferase
+nmi:NMO_0125	CDS	complement(117728..118666)	putative ABC transporter
+nmi:NMO_0126	CDS	complement(118675..119724)	conserved hypothetical protein
+nmi:NMO_tRNA05	tRNA	complement(119746..119822)	tRNA-Met
+nmi:NMO_0127	CDS	120162..122063	thiC; thiamine biosynthesis protein
+nmi:NMO_0128	CDS	complement(123361..124350)	porB; porin, major outer membrane protein P.I
+nmi:NMO_0129	CDS	complement(125181..125504)	mazF; PemK-like putative growth inhibitor
+nmi:NMO_0130	CDS	complement(125492..125731)	mazE; putative growth regulator
+nmi:NMO_0131	CDS	complement(125854..126651)	truA; tRNA pseudouridine synthase A
+nmi:NMO_0132	CDS	complement(127579..128271)	conserved hypothetical protein
+nmi:NMO_0133	CDS	complement(128268..129011)	nlaB; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+nmi:NMO_0134	CDS	complement(129041..129604)	putative histidinol-phosphatase
+nmi:NMO_0135	CDS	complement(129737..130978)	mtr; tryptophan-specific transport protein
+nmi:NMO_0136	CDS	131142..131858	ubiG; 3-demethylubiquinone-9 3-methyltransferase
+nmi:NMO_0137	CDS	131895..132812	thrB; homoserine kinase
+nmi:NMO_0138	CDS	complement(133151..133669)	gntK; thermoresistant gluconokinase
+nmi:NMO_0139	CDS	complement(133689..135074)	gntP; putative gluconate permease
+nmi:NMO_0140	CDS	135466..137007	putative thiamine transport system permease protein
+nmi:NMO_0141	CDS	137036..137635	putative carbonic anhydrase
+nmi:NMO_0142	CDS	137632..138237	nadD; nicotinate-nucleotide adenylyltransferase
+nmi:NMO_0143	CDS	138296..138682	conserved hypothetical protein
+nmi:NMO_0144	CDS	138700..139206	conserved hypothetical protein
+nmi:NMO_0145	CDS	139279..139545	putative Fe(II) trafficking protein
+nmi:NMO_0146	CDS	139702..140385	putative integral membrane protein
+nmi:NMO_0147	CDS	140613..141125	kdtB; pantetheine-phosphate adenylyltransferase
+nmi:NMO_0148	CDS	141100..141810	pseudouridylate synthase, 23S RNA-specific
+nmi:NMO_rRNA01	rRNA	142152..143695	16S ribosomal RNA
+nmi:NMO_tRNA06	tRNA	143795..143871	tRNA-Ile
+nmi:NMO_tRNA07	tRNA	143877..143952	tRNA-Ala
+nmi:NMO_rRNA02	rRNA	144360..147251	23S ribosomal RNA
+nmi:NMO_rRNA03	rRNA	147347..147463	5S ribosomal RNA
+nmi:NMO_0149	CDS	147515..147961	comEA1; putative DNA transport competence protein
+nmi:NMO_0150	CDS	148049..148498	putative type IV pilus protein
+nmi:NMO_0151	gene	complement(148659..148928)	pseudogene
+nmi:NMO_0152	CDS	149041..149241	hypothetical protein
+nmi:NMO_0153	CDS	149558..150613	putative type II DNA modification methylase
+nmi:NMO_0154	gene	150627..152272	pseudogene
+nmi:NMO_0155	CDS	152276..152698	vsr; putative very-short-patch-repair endonuclease
+nmi:NMO_0156	CDS	complement(152721..156032)	ATP-dependent helicase
+nmi:NMO_0157	CDS	complement(156098..157672)	putative membrane-associated hydrolase
+nmi:NMO_0158	CDS	complement(157852..158979)	hypothetical protein
+nmi:NMO_0159	CDS	complement(159080..160567)	hrpA; ATP-dependent helicase
+nmi:NMO_0160	CDS	complement(160661..162070)	conserved hypothetical protein
+nmi:NMO_0161	CDS	complement(162130..163350)	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase
+nmi:NMO_0162	CDS	complement(163417..164109)	putative membrane protein
+nmi:NMO_0163	CDS	complement(164109..164453)	hypothetical inner membrane protein
+nmi:NMO_0164	CDS	complement(164450..164548)	hypothetical protein
+nmi:NMO_0165	CDS	complement(164598..164816)	hypothetical protein
+nmi:NMO_0166	CDS	complement(164835..165590)	putative lipoprotein
+nmi:NMO_0167	CDS	165835..166743	Hsp33-like chaperonin
+nmi:NMO_0168	CDS	complement(166829..168283)	mgtE; magnesium transporter
+nmi:NMO_0169	CDS	complement(168515..172990)	serine-type peptidase
+nmi:NMO_0170	CDS	complement(173304..174062)	hydroxyacylglutathione hydrolase
+nmi:NMO_0171	CDS	complement(174157..178119)	purL; phosphoribosylformylglycinamidine synthase
+nmi:NMO_0172	CDS	178270..178608	glnB; nitrogen regulatory protein P-II
+nmi:NMO_0173	CDS	complement(178667..179425)	iron(III) transport system ATP-binding protein
+nmi:NMO_0174	CDS	complement(179508..180134)	conserved hypothetical protein
+nmi:NMO_0175	CDS	complement(180179..181153)	iron(III) transport system permease protein
+nmi:NMO_0176	CDS	complement(181143..182111)	iron(III) transport system permease protein
+nmi:NMO_0177	CDS	complement(182275..182445)	hypothetical protein
+nmi:NMO_0178	CDS	complement(182484..183449)	fetB; ferric enterobactin periplasmic binding protein
+nmi:NMO_0179	CDS	complement(184147..186318)	fetA; iron-regulated outer membrane protein
+nmi:NMO_0180	gene	188057..189064	NMO_0180
+nmi:NMO_0181	CDS	complement(189544..191178)	groEL; 60 kDa chaperonin
+nmi:NMO_0182	CDS	complement(191271..191561)	groES; 10 kDa chaperonin
+nmi:NMO_0183	gene	191790..192443	NMO_0183
+nmi:NMO_0184	CDS	192656..194191	sodium-dependent symporter family protein
+nmi:NMO_0185	CDS	complement(194340..195560)	lysA; Diaminopimelate decarboxylase
+nmi:NMO_0186	CDS	complement(195571..195762)	putative lipoprotein
+nmi:NMO_0187	CDS	195813..196136	CyaY protein
+nmi:NMO_0188	gene	196163..197178	pseudogene
+nmi:NMO_0189	CDS	197204..197623	conserved hypothetical protein
+nmi:NMO_0190	CDS	197645..198151	autoinducer-2 production protein
+nmi:NMO_0191	CDS	198297..201110	polA; DNA polymerase I
+nmi:NMO_0192	CDS	202457..203179	conserved hypothetical protein
+nmi:NMO_0193	CDS	complement(203289..207653)	iga2; IgA-specific serine endopeptidase
+nmi:NMO_0194	CDS	complement(207788..208117)	putative membrane protein
+nmi:NMO_0195	CDS	complement(208216..208371)	hypothetical protein
+nmi:NMO_0196	CDS	208502..209848	ThdF; putative tRNA modification GTPase
+nmi:NMO_0197	CDS	211987..213504	conserved hypothetical protein
+nmi:NMO_0198	CDS	complement(213563..215443)	para-aminobenzoate synthase component I / 4-amino-4-deoxychorismate lyase, putative
+nmi:NMO_0199	CDS	complement(216622..219483)	putative autotransporter serine protease
+nmi:NMO_0200	gene	complement(220875..221840)	NMO_0200
+nmi:NMO_0201	CDS	complement(221934..223376)	aldA; aldehyde dehydrogenase A
+nmi:NMO_0202	CDS	complement(223411..223611)	hypothetical protein
+nmi:NMO_0203	CDS	complement(223620..224009)	hypothetical protein
+nmi:NMO_0204	CDS	complement(224217..225134)	transcriptional regulator, AraC family
+nmi:NMO_0205	CDS	225307..226107	putative ABC transport system ATP-binding protein
+nmi:NMO_0206	CDS	226155..226931	putative ABC transport system permease protein
+nmi:NMO_0207	CDS	226982..227479	probable outer membrane transport protein
+nmi:NMO_0208	CDS	227516..228106	putative periplasmic transport protein
+nmi:NMO_0209	CDS	228139..228441	NTP binding protein
+nmi:NMO_0210	CDS	228438..229265	putative lipoprotein
+nmi:NMO_0211	CDS	229270..229752	conserved hypothetical protein
+nmi:NMO_0212	CDS	229958..230620	putative thioredoxin
+nmi:NMO_0213	gene	complement(230702..231210)	pseudogene
+nmi:NMO_0214	CDS	231421..231663	rpmE; 50S ribosomal protein L31
+nmi:NMO_0215	CDS	231966..232607	cad; putative cadmium resistance protein
+nmi:NMO_0216	CDS	232672..234429	putative membrane protein
+nmi:NMO_0217	CDS	234531..235136	regF; stringent starvation protein A
+nmi:NMO_0218	CDS	235208..235600	regG; Stringent starvation protein B
+nmi:NMO_0219	CDS	235605..235847	hypothetical protein
+nmi:NMO_0220	CDS	complement(235925..236467)	conserved hypothetical protein
+nmi:NMO_0221	CDS	complement(236503..236715)	rpsU; 30S ribosomal protein S21
+nmi:NMO_0222	CDS	complement(237004..238851)	MltE; lytic murein transglycosylase
+nmi:NMO_0223	CDS	239381..240118	ABC transporter ATP-binding protein
+nmi:NMO_0224	CDS	240530..240808	ABC transporter integral membrane protein
+nmi:NMO_0225	CDS	240967..241830	putative lipoprotein
+nmi:NMO_0226	CDS	complement(241892..242464)	ubiX; 3-polyprenyl-4-hydroxybenzoate decarboxylase
+nmi:NMO_0227	CDS	242619..243479	chromosome partitioning protein
+nmi:NMO_0228	CDS	243614..243952	putative membrane protein
+nmi:NMO_0229	CDS	244320..244673	atpI; putative inner membrane ATP synthase protein
+nmi:NMO_0230	CDS	244663..245529	atpB; ATP synthase A chain
+nmi:NMO_0231	CDS	245586..245822	atpE; ATP synthase C chain
+nmi:NMO_0232	CDS	245893..246363	atpF; ATP synthase B chain
+nmi:NMO_0233	CDS	246368..246901	atpH; ATP synthase delta chain
+nmi:NMO_0234	CDS	246912..248459	atpA; ATP synthase alpha chain
+nmi:NMO_0235	CDS	248484..249359	atpG; ATP synthase gamma chain
+nmi:NMO_0236	CDS	249397..250794	atpD; ATP synthase beta chain
+nmi:NMO_0237	CDS	250805..251227	atpC; ATP synthase epsilon chain
+nmi:NMO_0238	CDS	251632..252537	glyQ; glycyl-tRNA synthetase alpha chain
+nmi:NMO_0239	CDS	252614..253024	conserved hypothetical protein
+nmi:NMO_0240	CDS	253045..255108	glyS; glycyl-tRNA synthetase beta chain
+nmi:NMO_0241	CDS	255125..256171	lgtA; lacto-N-neotetraose biosynthesis glycosyl transferase
+nmi:NMO_0242	CDS	256213..257052	lgtB; lacto-N-neotetraose biosynthesis glycosyl tranferase
+nmi:NMO_0243	CDS	257201..258007	lgtB2; lacto-N-neotetraose biosynthesis glycosyl tranferase
+nmi:NMO_0244	CDS	complement(260548..261273)	conserved hypothetical protein
+nmi:NMO_0245	CDS	261482..262276	myo-inositol-1(or 4)-monophosphatase
+nmi:NMO_0246	CDS	complement(262494..262889)	conserved hypothetical protein
+nmi:NMO_0247	gene	complement(263187..264439)	NMO_0247
+nmi:NMO_0248	CDS	complement(264501..265172)	conserved hypothetical protein
+nmi:NMO_0249	gene	265457..266464	NMO_0249
+nmi:NMO_0250	CDS	complement(266726..267574)	fabG; 3-oxoacyl-(acyl-carrier-protein) reductase
+nmi:NMO_0251	CDS	complement(267534..269099)	guaA; GMP synthase
+nmi:NMO_0252	CDS	complement(269199..271064)	msbA; putative lipid A export ATP-binding/permease protein
+nmi:NMO_0253	CDS	complement(271203..272129)	fabD; malonyl CoA-acyl carrier protein transacylase
+nmi:NMO_0254	CDS	complement(272315..272680)	putative membrane protein
+nmi:NMO_0255	CDS	complement(272727..273689)	fabH; 3-oxoacyl-synthase III
+nmi:NMO_0256	CDS	complement(274043..274270)	conserved hypothetical protein
+nmi:NMO_0257	CDS	complement(274288..274482)	conserved hypothetical protein
+nmi:NMO_0258	CDS	complement(274682..275737)	plsX; putative fatty acid synthesis protein
+nmi:NMO_0259	CDS	complement(275825..276352)	conserved hypothetical protein
+nmi:NMO_0260	CDS	complement(276680..276859)	rpmF; 50S ribosomal protein L32
+nmi:NMO_0261	CDS	complement(276893..277834)	conserved hypothetical protein
+nmi:NMO_0262	CDS	278196..278906	predicted methyltransferase
+nmi:NMO_0263	CDS	complement(278987..280624)	inner membrane protein OxaA
+nmi:NMO_0264	CDS	complement(280796..281017)	conserved hypothetical protein
+nmi:NMO_0265	CDS	complement(281082..281447)	rnpA; rnpA ribonuclease P
+nmi:NMO_0266	CDS	complement(281450..281584)	rpmH; 50S ribosomal protein L34
+nmi:NMO_0267	CDS	281876..283432	dnaA; chromosomal replication initiator protein DnaA
+nmi:NMO_0268	CDS	283667..284770	dnaN; DNA polymerase III, beta chain
+nmi:NMO_0269	gene	complement(285007..285549)	NMO_0269
+nmi:NMO_0270	CDS	complement(285782..287839)	ppk; Polyphosphate kinase
+nmi:NMO_0271	CDS	complement(288008..288451)	putative secreted protein
+nmi:NMO_0272	CDS	complement(288458..288973)	mlp; lipoprotein
+nmi:NMO_0273	CDS	289237..291873	leuS; Leucyl-tRNA synthetase
+nmi:NMO_0274	CDS	291954..292922	putative type II DNA modification methylase
+nmi:NMO_0275	gene	292915..293713	pseudogene
+nmi:NMO_PS74	gene	293710..294164	pseudogene
+nmi:NMO_0277	CDS	complement(295139..295450)	putative DNA-binding protein
+nmi:NMO_0278	CDS	complement(295512..295814)	conserved hypothetical protein
+nmi:NMO_0279	CDS	296063..296269	putative membrane protein
+nmi:NMO_tRNA08	tRNA	complement(296676..296761)	tRNA-Leu
+nmi:NMO_0280	CDS	complement(296775..297125)	secG; preprotein translocase SecG subunit
+nmi:NMO_0281	CDS	complement(297132..297905)	tpi; Triosephosphate isomerase
+nmi:NMO_0282	CDS	298089..298592	GAF-domain containing protein
+nmi:NMO_0283	CDS	298695..299351	pcm; putative protein-L-isoaspartate O-methyltransferase
+nmi:NMO_0284	CDS	299431..299754	Rhodanese-related sulfur transferase
+nmi:NMO_0285	CDS	complement(300170..302347)	tonB1; putative TonB-dependent receptor protein, iron related
+nmi:NMO_0286	CDS	complement(302461..302784)	conserved hypothetical protein
+nmi:NMO_0287	CDS	complement(303767..304732)	fetB2; periplasmic binding protein, ABC transporter
+nmi:NMO_0288	CDS	304968..305924	AraC family transcriptional regulatory protein
+nmi:NMO_0289	CDS	complement(306038..308053)	prolyl oligopeptidase family protein
+nmi:NMO_0290	CDS	complement(308254..309564)	argA; N-acetylglutamate synthase
+nmi:NMO_0291	CDS	complement(309561..309995)	putative membrane protein
+nmi:NMO_0292	CDS	complement(310069..310710)	pyrE; Orotate phosphoribosyltransferase
+nmi:NMO_0293	CDS	complement(310772..311509)	putative uracil-DNA glycosylase
+nmi:NMO_0294	CDS	complement(311503..311943)	ribosomal-protein-alanine acetyltransferase
+nmi:NMO_0295	CDS	complement(311940..312617)	conserved hypothetical protein
+nmi:NMO_0296	CDS	complement(312756..313715)	hypothetical protein
+nmi:NMO_0297	CDS	complement(313735..314799)	fba; fructose-bisphosphate aldolase
+nmi:NMO_0298	CDS	314993..315910	xerC; site-specific recombinase
+nmi:NMO_0299	CDS	315995..317908	dxs; 1-deoxy-D-xylulose 5-phosphate synthase
+nmi:NMO_0300	CDS	complement(317993..319321)	miaB; putative 2-methylthioadenine synthetase
+nmi:NMO_0301	CDS	319524..319937	putative secreted protein
+nmi:NMO_0302	CDS	320000..321283	hemL; glutamate-1-semialdehyde 2,1-aminomutase
+nmi:NMO_0303	CDS	complement(321933..322580)	orn; oligoribonuclease
+nmi:NMO_0304	CDS	complement(322514..323506)	prmA; ribosomal protein L11 methyltransferase
+nmi:NMO_0305	CDS	complement(323519..324880)	accC; Biotin carboxylase
+nmi:NMO_0306	CDS	complement(324993..325454)	accB; biotin carboxyl carrier protein of acetyl-CoA carboxylase
+nmi:NMO_0307	CDS	complement(325436..325693)	hypothetical protein
+nmi:NMO_0308	CDS	325780..326850	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+nmi:NMO_0309	CDS	complement(327337..327915)	mdaB; modulator of drug activity B
+nmi:NMO_0310	CDS	328154..329053	putative LysR-family transcriptional regulator
+nmi:NMO_0311	CDS	complement(329275..332490)	carB; carbamoyl-phosphate synthase large chain
+nmi:NMO_0312	CDS	complement(332519..333160)	hypothetical protein
+nmi:NMO_0313	CDS	complement(333410..333859)	hypothetical protein
+nmi:NMO_0314	CDS	complement(334101..334490)	putative endonuclease
+nmi:NMO_0315	CDS	complement(335051..335188)	putative lactoylglutathione-related protein
+nmi:NMO_0316	CDS	complement(335242..336375)	carA; carbamoyl-phosphate synthase small chain
+nmi:NMO_0317	CDS	complement(337944..339071)	mrp; ATPase involved in chromosome partitioning
+nmi:NMO_tRNA09	tRNA	339234..339309	tRNA-Lys
+nmi:NMO_0318	CDS	339388..339897	thioredoxin
+nmi:NMO_0319	CDS	340240..340680	transcriptional regulator, MarR family
+nmi:NMO_0320	CDS	340795..341295	4-hydroxyphenylacetate 3-monooxygenase coupling protein
+nmi:NMO_0321	CDS	341311..342006	putative nucleotidyl transferase
+nmi:NMO_0322	CDS	complement(342252..342683)	putative membrane protein
+nmi:NMO_0323	CDS	342858..344534	fhs; formate--tetrahydrofolate ligase
+nmi:NMO_0324	CDS	344648..345739	predicted GTPase translation factor
+nmi:NMO_0325	CDS	345806..347566	putative ATP/GTP-binding protein
+nmi:NMO_0326	CDS	347569..348867	tyrS; Tyrosyl-tRNA synthetase
+nmi:NMO_0327	CDS	349359..350315	ribF; riboflavin kinase/FMN adenylyltransferase
+nmi:NMO_0328	CDS	350456..353245	ileS; Isoleucyl-tRNA synthetase
+nmi:NMO_0329	CDS	354263..354790	lspA; Lipoprotein signal peptidase
+nmi:NMO_0330	CDS	354819..355787	lytB; lytB protein
+nmi:NMO_0331	CDS	complement(355875..356534)	probable hydrolase
+nmi:NMO_0332	CDS	356694..358850	outer membrane ferric siderophore receptor
+nmi:NMO_0333	CDS	358920..359852	putative esterase
+nmi:NMO_0334	CDS	360247..360582	putative initiator RepB protein
+nmi:NMO_0335	CDS	360938..361429	hypothetical protein
+nmi:NMO_0336	gene	361644..362387	pseudogene
+nmi:NMO_0337	CDS	362417..362776	putative cupin family protein
+nmi:NMO_0338	CDS	363006..363341	hypothetical protein
+nmi:NMO_0339	CDS	363521..363940	putative membrane protein
+nmi:NMO_0340	CDS	363933..364268	hypothetical protein
+nmi:NMO_0341	CDS	364596..364808	putative membrane protein
+nmi:NMO_0342	CDS	364832..365167	hypothetical protein
+nmi:NMO_0343	CDS	365203..365808	putative bacteriocin processing protease
+nmi:NMO_0344	gene	complement(365850..366857)	NMO_0344
+nmi:NMO_0345	CDS	367195..367545	conserved hypothetical protein
+nmi:NMO_0346	CDS	complement(368248..368556)	conserved hypothetical protein
+nmi:NMO_0347	CDS	complement(368567..369481)	putative DNA-repair protein
+nmi:NMO_0348	CDS	complement(369547..372795)	putative CRISPR-associated protein
+nmi:NMO_0349	CDS	complement(373073..376507)	dnaE; DNA polymerase III alpha subunit
+nmi:NMO_0350	CDS	complement(376748..376846)	hypothetical protein
+nmi:NMO_0351	CDS	377039..377272	putative RNA-binding protein
+nmi:NMO_0352	CDS	377250..377453	conserved hypothetical protein
+nmi:NMO_0353	CDS	377898..378734	putative metal-dependent phosphoesterase
+nmi:NMO_0354	CDS	complement(378786..380144)	avtA; valine--pyruvate aminotransferase
+nmi:NMO_0355	CDS	complement(380134..382044)	pglD; pilin glycosylation protein
+nmi:NMO_0356	CDS	complement(382092..383306)	pglC; pilin glycosylation protein
+nmi:NMO_0357	CDS	complement(383345..384586)	pglB; pilin glycosylation protein
+nmi:NMO_0358	CDS	complement(384579..385652)	putative gycosyltransferase
+nmi:NMO_0359	gene	complement(385672..386744)	pseudogene
+nmi:NMO_0360	CDS	complement(386741..388162)	putative polysaccharide biosynthesis protein
+nmi:NMO_0361	CDS	complement(388357..389466)	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / phosphoribosylamino uracil reductase
+nmi:NMO_0362	CDS	complement(389499..389963)	ATP-cone domain protein
+nmi:NMO_0363	CDS	complement(389992..390834)	putative glutamine amidotransferase
+nmi:NMO_0364	CDS	complement(391802..392881)	aroB; 3-dehydroquinate synthase
+nmi:NMO_0365	CDS	complement(392961..393473)	aroK; Shikimate kinase
+nmi:NMO_0366	CDS	complement(394549..396834)	pilQ; fimbrial assembly protein; pilus secretin
+nmi:NMO_0367	CDS	complement(396853..397398)	pilP; type IV pilus biogenesis protein PilP
+nmi:NMO_0368	CDS	complement(397416..398063)	pilO; fimbrial assembly membrane protein
+nmi:NMO_0369	CDS	complement(398064..398663)	pilN; fimbrial assembly membrane protein
+nmi:NMO_0370	CDS	complement(398666..399781)	pilM; fimbrial assembly membrane protein
+nmi:NMO_0371	CDS	399912..402329	ponA; penicillin-binding protein 1A
+nmi:NMO_0372	CDS	complement(402414..403079)	GTP-binding protein
+nmi:NMO_0373	CDS	403285..403908	cyc; cytochrome C
+nmi:NMO_0374	CDS	404122..406137	cytochrome c-type biogenesis protein, putative
+nmi:NMO_0375	CDS	406130..407317	ccmC; putative cytochrome c asssembly protein
+nmi:NMO_0376	CDS	407434..408498	gcp; O-sialoglycoprotein endopeptidase
+nmi:NMO_0377	CDS	complement(408542..409438)	htrB; putative acyltransferase
+nmi:NMO_0378	CDS	409784..410953	metK; S-adenosylmethionine synthetase
+nmi:NMO_0379	gene	411202..411844	NMO_0379
+nmi:NMO_0380	CDS	complement(411920..413446)	dacB; probable D-alanyl-D-alanine carboxypeptidase
+nmi:NMO_0381	CDS	413494..414060	putative NADPH-dependent FMN reductase
+nmi:NMO_0382	CDS	414629..415942	citM; putative transporter protein
+nmi:NMO_0383	CDS	416165..416296	putative response regulator receiver
+nmi:NMO_0384	CDS	416336..417586	putative two-component system histidine kinase
+nmi:NMO_0385	CDS	complement(417620..419113)	cafA; ribonuclease G
+nmi:NMO_0386	CDS	419326..419583	grxC; glutaredoxin
+nmi:NMO_0387	CDS	419604..420047	secB; protein-export protein
+nmi:NMO_0388	CDS	420133..422175	recG; ATP-dependent DNA helicase
+nmi:NMO_0389	CDS	complement(423287..424330)	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+nmi:NMO_0390	CDS	complement(424327..424608)	putative membrane protein
+nmi:NMO_0391	CDS	424790..425599	conserved hypothetical protein
+nmi:NMO_0392	CDS	425608..425835	hypothetical protein
+nmi:NMO_0393	CDS	425774..426181	putative secreted protein
+nmi:NMO_0394	gene	426242..427020	pseudogene
+nmi:NMO_0395	CDS	427334..427636	hypothetical protein
+nmi:NMO_0396	CDS	427651..427821	putative membrane protein
+nmi:NMO_0397	CDS	428220..429962	fhaC; hemolysin activation protein
+nmi:NMO_0398	CDS	430071..436022	fhaB; hemagglutinin/hemolysin-related protein
+nmi:NMO_0399	CDS	436025..436960	conserved hypothetical protein
+nmi:NMO_0400	CDS	437349..437699	hypothetical protein
+nmi:NMO_PS75	gene	437706..437885	pseudogene
+nmi:NMO_0402	CDS	438266..438724	putative membrane protein
+nmi:NMO_0403	gene	438732..438857	NMO_0403
+nmi:NMO_0404	CDS	438936..439217	ABC transporter related
+nmi:NMO_0405	CDS	complement(439238..440494)	rbn; putative ribonuclease BN
+nmi:NMO_0406	gene	complement(440479..441034)	pseudogene
+nmi:NMO_0407	CDS	441009..441668	putative aluminum resistance protein
+nmi:NMO_0408	CDS	441696..442214	conserved hypothetical protein
+nmi:NMO_0409	CDS	442221..442643	6-pyruvoyl-tetrahydropterin synthase
+nmi:NMO_0410	CDS	442912..443283	putative membrane protein
+nmi:NMO_0411	CDS	443280..443918	conserved hypothetical protein
+nmi:NMO_tRNA10	tRNA	complement(444439..444515)	tRNA-Pro
+nmi:NMO_0412	CDS	complement(444596..445681)	putative beta-hexosaminidase
+nmi:NMO_0413	CDS	complement(445738..447429)	conserved hypothetical protein
+nmi:NMO_0414	CDS	complement(447460..448959)	periplasmic serine protease
+nmi:NMO_0415	CDS	complement(449097..449726)	nth; endonuclease III
+nmi:NMO_0416	CDS	complement(449772..450185)	putative membrane protein
+nmi:NMO_0417	CDS	450718..451998	transmembrane hexose transporter
+nmi:NMO_0418	CDS	452289..453668	nhaC; Na+/H+ antiporter NhaC
+nmi:NMO_0419	CDS	complement(453797..454621)	Putative Mg2+ and Co2+ transporter CorC
+nmi:NMO_0420	CDS	complement(454623..455378)	conserved hypothetical protein
+nmi:NMO_0421	CDS	455257..456192	hemC; Porphobilinogen deaminase
+nmi:NMO_0422	CDS	complement(456596..457789)	aspC; aspartate aminotransferase
+nmi:NMO_0423	CDS	complement(457871..458368)	conserved hypothetical protein
+nmi:NMO_0424	CDS	458484..458687	conserved hypothetical protein
+nmi:NMO_0425	CDS	complement(458856..460442)	lctP; L-lactate permease
+nmi:NMO_0426	CDS	complement(460711..461433)	UDP-2,3-diacylglucosamine hydrolase
+nmi:NMO_0427	CDS	461683..465168	smc; chromosome segregation protein
+nmi:NMO_0428	CDS	complement(465519..466565)	adhA; alcohol dehydrogenase, zinc-containing
+nmi:NMO_0429	CDS	complement(466848..467237)	putative type IV pilin protein
+nmi:NMO_0430	CDS	467463..468641	acrA; probable periplasmic protein
+nmi:NMO_0431	CDS	468707..470641	putative ABC transporter, ATP-binding protein
+nmi:NMO_0432	CDS	complement(471054..471836)	dsbG; Protein-disulfide isomerase
+nmi:NMO_0433	CDS	471975..474164	priA; putative primosomal protein
+nmi:NMO_0434	gene	complement(474211..475285)	nnrS; pseudogene
+nmi:NMO_0435	gene	complement(475333..476288)	NMO_0435
+nmi:NMO_0436	CDS	complement(477322..479250)	dnaK; chaperone protein Hsp70
+nmi:NMO_0437	CDS	complement(479458..479730)	putative secreted protein
+nmi:NMO_0438	CDS	479918..480604	putative transcriptional regulator
+nmi:NMO_0439	CDS	480736..481074	conserved hypothetical protein
+nmi:NMO_0440	CDS	481234..481548	hypothetical protein
+nmi:NMO_0441	CDS	481639..481851	hypothetical protein
+nmi:NMO_0442	CDS	481886..483397	aarF; putative ubiquinone biosynthesis protein
+nmi:NMO_0443	CDS	complement(483754..484572)	cysE; Serine acetyltransferase
+nmi:NMO_0444	CDS	484756..485334	grpE; heat shock protein GrpE
+nmi:NMO_0445	CDS	complement(485458..485673)	conserved membrane protein
+nmi:NMO_0446	CDS	complement(485699..486754)	apbE; thiamin biosynthesis lipoprotein ApbE
+nmi:NMO_0447	CDS	complement(486906..488123)	nqrF; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrF
+nmi:NMO_0448	CDS	complement(488137..488730)	nqrE; Na+-transporting NADH:ubiquinone oxidoreductase, subunit NqrE
+nmi:NMO_0449	CDS	complement(488734..489360)	nqrD; Na(+)-translocating NADH-quinone reductase subunit D
+nmi:NMO_0450	CDS	complement(489360..490136)	nqrC; Na+-translocating NADH-quinone reductase subunit C
+nmi:NMO_0451	CDS	complement(490129..491361)	nqrB; NADH-ubiquinone oxidoreductase subunit B
+nmi:NMO_0452	CDS	complement(491364..492707)	nqrA; NADH-ubiquinone oxidoreductase subunit A
+nmi:NMO_0453	CDS	complement(493055..494476)	nhaD; putative anion permease
+nmi:NMO_0454	CDS	complement(494836..495195)	conserved hypothetical protein
+nmi:NMO_0455	CDS	complement(495192..495797)	conserved hypothetical protein
+nmi:NMO_0456	CDS	complement(495844..496407)	lrp1; leucine-responsive regulatory protein
+nmi:NMO_0457	CDS	496838..497938	gcvT; glycine cleavage system T protein
+nmi:NMO_0458	CDS	498101..498487	gcvH; glycine cleavage system H protein
+nmi:NMO_0459	CDS	498639..499886	hemA; Glutamyl-tRNA reductase
+nmi:NMO_0460	CDS	500214..500735	regulatory protein
+nmi:NMO_0461	CDS	500789..501823	nosD; periplasmic copper-binding protein
+nmi:NMO_0462	CDS	501881..502501	ABC-type multidrug transport system
+nmi:NMO_0463	CDS	502718..503212	nosL; possible protein NosL
+nmi:NMO_0464	CDS	complement(503451..505208)	putative electron transfer flavoprotein-ubiquinone oxidoreductase
+nmi:NMO_0465	CDS	complement(505242..505784)	bacteriocin resistance protein, putative
+nmi:NMO_0466	gene	complement(506857..507509)	NMO_0466
+nmi:NMO_0467	CDS	508179..508931	FrpC operon protein
+nmi:NMO_0468	gene	complement(508956..509621)	NMO_0468
+nmi:NMO_0469	CDS	509767..510519	FrpC operon protein
+nmi:NMO_0470	CDS	510536..516244	frpC1; putative RTX-family exoprotein
+nmi:NMO_0471	CDS	complement(516524..517438)	znuA; putative periplasmic solute binding protein
+nmi:NMO_0472	CDS	complement(517515..518390)	znuB; putative ABC transporter permease protein
+nmi:NMO_0473	CDS	complement(518425..519180)	znuC; putative transport protein ATP-binding
+nmi:NMO_0474	CDS	complement(519472..519837)	rplS; 50S ribosomal protein L19
+nmi:NMO_0475	CDS	complement(519853..520602)	trmD; tRNA (guanine-N1)-methyltransferase
+nmi:NMO_0476	CDS	complement(520602..521111)	rimM; 16S rRNA processing protein
+nmi:NMO_0477	CDS	complement(521127..521372)	rpsP; 30S ribosomal protein S16
+nmi:NMO_0478	CDS	complement(521417..523843)	putative N-acetyltransferase
+nmi:NMO_0479	CDS	complement(523961..525367)	sensor histidine kinase
+nmi:NMO_0480	CDS	complement(525381..526058)	ompR; putative two-component system response regulator
+nmi:NMO_0481	CDS	complement(526248..528062)	O-antigen polymerase family protein
+nmi:NMO_0482	CDS	complement(528052..528405)	putative membrane protein
+nmi:NMO_0483	CDS	complement(528414..528983)	Maf-like protein
+nmi:NMO_0484	CDS	complement(529075..529845)	tatC; Sec-independent protein translocase protein TatC
+nmi:NMO_0485	CDS	complement(529859..530545)	tatB; Sec-independent protein translocase protein
+nmi:NMO_0486	CDS	complement(530549..530752)	tatA; Sec-independent protein translocase protein
+nmi:NMO_0487	CDS	complement(530799..531122)	hitA; HIT family hydrolase
+nmi:NMO_0488	CDS	complement(531194..531517)	hisE; Phosphoribosyl-ATP pyrophosphohydrolase
+nmi:NMO_0489	CDS	complement(531658..532722)	tdh; alcohol dehydrogenase, zinc-containing
+nmi:NMO_0490	CDS	complement(533085..534194)	histone deacetylase family protein
+nmi:NMO_0491	CDS	534322..534588	yajC; preprotein translocase YajC subunit
+nmi:NMO_0492	CDS	534800..536653	secD; protein-export membrane protein SecD
+nmi:NMO_0493	CDS	536657..537592	secF; protein-export membrane protein SecF
+nmi:NMO_0494	CDS	537815..538084	rpsO; 30S ribosomal protein S15
+nmi:NMO_0495	CDS	538112..538288	hypothetical protein
+nmi:NMO_0496	CDS	538465..539589	potA; putative polyamine transport ATP-binding protein
+nmi:NMO_0497	CDS	539605..540570	potB; putrescine transport system permease protein
+nmi:NMO_0498	CDS	540570..541457	potC; putrescine transport system permease protein
+nmi:NMO_0499	CDS	541547..542878	putative amino acid oxidase
+nmi:NMO_0500	CDS	complement(543123..544580)	amtB; ammonium transporter
+nmi:NMO_0501	gene	complement(545554..546087)	NMO_0501
+nmi:NMO_0502	gene	complement(546115..546519)	NMO_0502
+nmi:NMO_0503	CDS	complement(546825..548084)	rho; transcription termination factor Rho
+nmi:NMO_0504	CDS	complement(548304..550688)	ppsA; phosphoenolpyruvate synthase
+nmi:NMO_0505	CDS	551099..551920	conserved hypothetical protein
+nmi:NMO_0506	CDS	complement(552159..552821)	phosphoglycolate phosphatase
+nmi:NMO_0507	CDS	complement(552875..553834)	czcD; cation-efflux system
+nmi:NMO_0508	CDS	complement(553880..554707)	conserved hypothetical protein
+nmi:NMO_0509	CDS	555134..555757	lolA; outer membrane lipoprotein carrier protein
+nmi:NMO_0510	CDS	556030..557169	putative spermidine/putrescine transport system substrate-binding protein
+nmi:NMO_0511	CDS	557723..558358	putative glycosyl transferase
+nmi:NMO_0512	CDS	558399..558929	putative transferase
+nmi:NMO_0513	CDS	complement(559294..560889)	prfC; Peptide chain release factor RF-3
+nmi:NMO_0514	CDS	complement(560996..561391)	hisI; Phosphoribosyl-AMP cyclohydrolase
+nmi:NMO_0515	CDS	complement(561422..562189)	hisF; cyclase hisF
+nmi:NMO_0516	CDS	complement(562202..562939)	hisA; histidine biosynthesis protein
+nmi:NMO_0517	CDS	complement(562972..563610)	hisH; amidotransferase
+nmi:NMO_0518	CDS	complement(563741..565243)	phosphate acetyltransferase
+nmi:NMO_0519	CDS	complement(565428..566486)	fbpC; iron transport system ATP-binding protein
+nmi:NMO_0520	CDS	complement(566507..568024)	fbpB; ABC-type Fe3+ transport system, permease component
+nmi:NMO_0521	CDS	complement(568092..569087)	fbpA; iron transport system substrate-binding protein
+nmi:NMO_0522	CDS	complement(569420..569803)	conserved hypothetical protein
+nmi:NMO_0523	CDS	complement(569860..571236)	argH; Argininosuccinate lyase
+nmi:NMO_0524	CDS	complement(571255..572124)	galU; putative UTP--glucose-1-phosphate uridylyltransferase
+nmi:NMO_0525	CDS	complement(572152..572751)	HAM1-like protein
+nmi:NMO_0526	CDS	complement(572744..572977)	putative membrane protein
+nmi:NMO_0527	CDS	complement(573085..573618)	ppa; Inorganic pyrophosphatase
+nmi:NMO_0528	CDS	complement(573720..574178)	ntpA; putative dATP pyrophosphohydrolase
+nmi:NMO_tRNA11	tRNA	574389..574465	tRNA-Pro
+nmi:NMO_0529	CDS	574680..576515	mafB3; putative adhesin MafB
+nmi:NMO_0530	CDS	576542..576961	hypothetical protein
+nmi:NMO_0531	CDS	577119..577361	hypothetical protein
+nmi:NMO_0532	CDS	577687..578073	hypothetical protein
+nmi:NMO_0533	CDS	578175..578564	hypothetical protein
+nmi:NMO_0534	CDS	578680..579129	hypothetical protein
+nmi:NMO_0535	CDS	579251..580192	mafA2-1; putative adhesin MafA
+nmi:NMO_0536	CDS	580196..581464	mafB11; putative adhesin MafB
+nmi:NMO_0537	CDS	581467..581784	putative secreted protein
+nmi:NMO_0538	CDS	581918..582400	mafB13; putative MafB alternative C-terminus
+nmi:NMO_0539	CDS	582586..582939	hypothetical protein
+nmi:NMO_0540	CDS	583311..583538	hypothetical protein
+nmi:NMO_0541	gene	583665..584208	pseudogene
+nmi:NMO_0542	CDS	584343..584972	mafB15; putative MafB alternative C-terminus
+nmi:NMO_0543	gene	584923..585409	pseudogene
+nmi:NMO_0544	CDS	585478..585864	conserved hypothetical protein
+nmi:NMO_0545	gene	complement(586192..587199)	NMO_0545
+nmi:NMO_0546	CDS	complement(587504..588961)	Trk system potassium uptake protein
+nmi:NMO_0547	CDS	complement(588976..589866)	apaH; putative bis(5'-nucleosyl)-tetraphosphatase
+nmi:NMO_0548	CDS	complement(589884..590273)	translation initiation inhibitor
+nmi:NMO_0549	CDS	complement(590409..590933)	nspA; outer membran protein
+nmi:NMO_0550	CDS	complement(591518..592693)	putative porphyrin oxidoreductase
+nmi:NMO_0551	CDS	complement(592750..595275)	ligA; DNA ligase
+nmi:NMO_0552	CDS	complement(595423..596709)	conserved hypothetical membrane protein
+nmi:NMO_0553	CDS	complement(596903..597475)	ampD; AmpD protein
+nmi:NMO_0554	CDS	597559..598554	putative ADC lyase
+nmi:NMO_0555	CDS	598614..599234	tmk; Thymidylate kinase
+nmi:NMO_0556	CDS	599456..600736	maeA; putative multimodular enzyme
+nmi:NMO_0557	CDS	601003..601152	putative membrane protein
+nmi:NMO_0558	CDS	601283..602317	lpxK; tetraacyldisaccharide 4'-kinase
+nmi:NMO_0559	CDS	602517..603104	conserved hypothetical protein
+nmi:NMO_0560	CDS	603173..603355	conserved hypothetical protein
+nmi:NMO_0561	CDS	603352..604113	kdsB; 3-deoxy-D-manno-octulosonatecytidylyltransferase
+nmi:NMO_0562	CDS	604136..604537	hypothetical protein
+nmi:NMO_0563	CDS	604591..604755	hypothetical protein
+nmi:NMO_tRNA12	tRNA	604912..605004	tRNA-Ser
+nmi:NMO_0564	CDS	605431..606216	trpA; Tryptophan synthase alpha chain
+nmi:NMO_0565	CDS	606254..607126	accD; acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+nmi:NMO_0566	CDS	complement(607186..607797)	cnpl; putative periplasmic protein
+nmi:NMO_0567	CDS	607906..608130	putative sirA-like redox protein
+nmi:NMO_0568	CDS	608131..608736	putative lipoprotein
+nmi:NMO_0569	CDS	608796..609830	pyrC; Dihydroorotase
+nmi:NMO_0570	gene	609939..610898	NMO_0570
+nmi:NMO_0571	CDS	611381..612733	putative type II DNA modification methylase
+nmi:NMO_0572	CDS	complement(612778..613704)	putative type II restriction endonuclease
+nmi:NMO_0573	CDS	complement(613801..614226)	nusB; transcription termination factor nusB-family protein
+nmi:NMO_0574	CDS	complement(614304..614780)	ribE; putative 6,7-dimethyl-8-ribityllumazine synthase
+nmi:NMO_0575	CDS	complement(614827..615150)	conserved hypothetical protein
+nmi:NMO_0576	CDS	615104..616036	rnc; ribonuclease III family protein
+nmi:NMO_0577	CDS	616065..617006	era; GTP-binding protein Era
+nmi:NMO_0578	CDS	619051..621336	lbpB; lactoferrin-binding protein B
+nmi:NMO_0579	CDS	621333..624170	lbpA; lactoferrin binding protein A
+nmi:NMO_0580	CDS	complement(625700..626326)	trpF; N-(5'phosphoribosyl)anthranilate isomerase
+nmi:NMO_0581	CDS	complement(626385..626876)	greB; Transcription elongation factor
+nmi:NMO_0582	CDS	complement(626976..628520)	purF; amidophosphoribosyltransferase
+nmi:NMO_0583	CDS	complement(628728..629225)	putative bacteriocin production protein
+nmi:NMO_0584	CDS	complement(629218..630216)	tpc; putative cell division FtsN-like protein Tpc
+nmi:NMO_0585	CDS	complement(630229..631503)	folC; Folylpolyglutamate synthase
+nmi:NMO_0586	CDS	complement(631535..631975)	folI; putative transcriptional regulator FolI
+nmi:NMO_0587	CDS	complement(631980..632339)	conserved hypothetical protein
+nmi:NMO_0588	CDS	complement(632412..633161)	amino acid ABC transporter, ATP-binding protein
+nmi:NMO_0589	CDS	complement(633313..634092)	ksgA; dimethyladenosine transferase
+nmi:NMO_0590	CDS	634289..634978	hypothetical G:T/U mismatch-specific DNA glycosylase
+nmi:NMO_0591	CDS	635061..636263	trpB; Tryptophan synthase beta chain
+nmi:NMO_0592	CDS	complement(636441..641939)	iga1; IgA-specific serine endopeptidase
+nmi:NMO_0593	CDS	644012..646294	comA; competence protein ComA
+nmi:NMO_0594	CDS	complement(646352..647155)	comL; DNA uptake lipoprotein
+nmi:NMO_0595	CDS	647154..648278	rluD; ribosomal large subunit pseudouridine synthase D
+nmi:NMO_0596	CDS	complement(648431..649423)	putative transmembrane transport protein
+nmi:NMO_0597	CDS	649985..650764	conserved hypothetical protein
+nmi:NMO_0598	CDS	650816..651295	Rare lipoprotein B
+nmi:NMO_0599	CDS	651297..652295	holA; putative DNA polymerase III, delta subunit
+nmi:NMO_0600	CDS	652416..652835	putative membrane protein
+nmi:NMO_0601	CDS	652860..653426	putative membrane protein
+nmi:NMO_0602	CDS	complement(653510..654394)	conserved hypothetical protein
+nmi:NMO_0603	CDS	complement(654878..655741)	rpoH; RNA polymerase sigma subunit
+nmi:NMO_0604	CDS	complement(656005..657579)	lnt; Apolipoprotein N-acyltransferase
+nmi:NMO_0605	CDS	complement(657583..658413)	conserved hypothetical protein
+nmi:NMO_0606	gene	658541..659296	pseudogene
+nmi:NMO_0607	CDS	complement(659339..659761)	putative cytochrome c
+nmi:NMO_0608	CDS	complement(659952..661034)	hemH; ferrochelatase
+nmi:NMO_0609	CDS	complement(661044..662159)	tgt; queuine tRNA-ribosyltransferase
+nmi:NMO_tRNA13	tRNA	662338..662414	tRNA-Val
+nmi:NMO_0610	CDS	662468..664381	thrS; Threonyl-tRNA synthetase
+nmi:NMO_0611	CDS	664516..664920	infC; translation initiation factor IF-3
+nmi:NMO_0612	CDS	665067..665264	rpmI; 50S ribosomal protein L35
+nmi:NMO_0613	CDS	665277..665636	rplT; 50S ribosomal protein L20
+nmi:NMO_0614	CDS	665681..665905	hypothetical protein
+nmi:NMO_0615	CDS	665982..666974	pheS; phenylalanyl-tRNA synthetase alpha chain
+nmi:NMO_0616	CDS	667027..668412	putative type II DNA modification methylase
+nmi:NMO_0617	CDS	668409..669338	putative type II restriction enzyme
+nmi:NMO_0618	CDS	669411..671774	pheT; phenylalanyl-tRNA synthetase beta chain
+nmi:NMO_0619	CDS	671848..672150	himA; integration host factor alpha-subunit
+nmi:NMO_0620	CDS	672134..672442	hypothetical protein
+nmi:NMO_0621	CDS	672772..673257	fxsA; putative membrane protein
+nmi:NMO_0622	CDS	673612..674994	bioA; Adenosylmethionine-8-amino-7-oxononanoateaminotransferase
+nmi:NMO_0623	CDS	674991..675638	bioD; dethiobiotin synthase
+nmi:NMO_0624	CDS	675653..676129	putative 4-hydroxybenzoate synthetase
+nmi:NMO_0625	CDS	676024..677049	ubiA; 4-hydroxybenzoate octaprenyltransferase
+nmi:NMO_0626	CDS	677234..677683	ptsN; nitrogen regulatory IIA protein
+nmi:NMO_0627	CDS	677687..678649	Hpr serine kinase/phosphatase
+nmi:NMO_0628	CDS	678630..679484	conserved hypothetical protein
+nmi:NMO_0629	CDS	679565..680506	putative GTPase
+nmi:NMO_0630	CDS	680607..681209	putative transcriptional regulator
+nmi:NMO_0631	CDS	681393..683066	recN; DNA repair protein
+nmi:NMO_tRNA14	tRNA	683176..683252	tRNA-Arg
+nmi:NMO_tRNA15	tRNA	683270..683344	tRNA-Glu
+nmi:NMO_0632	CDS	complement(684023..685642)	putative amino acid oxidase
+nmi:NMO_0633	CDS	685762..686130	conserved hypothetical protein
+nmi:NMO_0634	CDS	686173..686910	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+nmi:NMO_0635	CDS	687130..687609	hypothetical protein
+nmi:NMO_0636	CDS	complement(687736..688230)	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridi ne pyrophosphokinase
+nmi:NMO_0637	CDS	complement(688240..688614)	putative transcriptional regulator
+nmi:NMO_0638	CDS	complement(688668..689234)	putative rRNA methylase
+nmi:NMO_0639	CDS	complement(689319..689612)	hfq; putative host factor-I protein
+nmi:NMO_0640	CDS	complement(689740..690849)	probable D-alanyl-D-alanine carboxypeptidase
+nmi:NMO_0641	CDS	690999..691439	bacterioferritin comigratory protein
+nmi:NMO_0642	CDS	691491..692366	xerD; putative site-specific recombinase/integrase
+nmi:NMO_0643	CDS	692538..692738	Bacterioferritin-associated ferredoxin
+nmi:NMO_0644	CDS	692904..693137	putative thioredoxin
+nmi:NMO_0645	CDS	complement(693612..694475)	rfbD; dTDP-4-dehydrorhamnose reductase
+nmi:NMO_0646	CDS	694675..695538	purC; phosphoribosylaminoimidazole-succinocarboxamidesynthase
+nmi:NMO_0647	CDS	695775..697895	pnp; polyribonucleotide nucleotidyltransferase
+nmi:NMO_0648	CDS	complement(697968..698714)	conserved putative membrane protein
+nmi:NMO_0649	CDS	complement(698650..698970)	hypothetical protein
+nmi:NMO_0650	CDS	699083..699934	dapF; Diaminopimelate epimerase
+nmi:NMO_0651	CDS	699931..700536	putative membrane protein
+nmi:NMO_0652	CDS	700682..701662	cysK; Cysteine synthase
+nmi:NMO_0653	CDS	702125..703030	putative transporter permease protein
+nmi:NMO_0654	CDS	complement(703444..704463)	lepB; Signal peptidase I
+nmi:NMO_0655	CDS	complement(704606..706399)	lepA; GTP-binding protein
+nmi:NMO_0656	CDS	complement(706542..707243)	pfs; 5'-methylthioadenosine nucleosidase / S-adenosylhomocysteine nucleosidase
+nmi:NMO_0657	CDS	707411..708541	pilT2; twitching motility-like protein
+nmi:NMO_0658	CDS	708575..709552	holB; DNA polymerase III, delta' subunit
+nmi:NMO_0659	CDS	709556..709906	pilZ; type IV fimbriae assembly protein
+nmi:NMO_0660	CDS	709911..710690	tatD; Mg-dependent DNase
+nmi:NMO_0661	gene	710739..710931	pseudogene
+nmi:NMO_0662	CDS	711032..711343	Glutaredoxin-related protein
+nmi:NMO_0663	CDS	711449..712075	upp; Uracil phosphoribosyltransferase
+nmi:NMO_0664	CDS	712098..712418	conserved hypothetical protein
+nmi:NMO_0665	CDS	712669..713091	putative secreted protein
+nmi:NMO_0666	CDS	713109..713870	hemD; Uroporphyrinogen-III synthase
+nmi:NMO_0667	CDS	713885..715192	hemX; uroporphyrin-III C-methyltransferase
+nmi:NMO_0668	CDS	715189..716406	hemY; HemY protein
+nmi:NMO_0669	CDS	716481..717545	hemE; uroporphyrinogen decarboxylase
+nmi:NMO_0670	CDS	717734..719113	radA; DNA repair protein
+nmi:NMO_0671	CDS	complement(719389..719868)	conserved hypothetical protein
+nmi:NMO_0672	CDS	complement(719993..720352)	putative Rhodanese-related sulfurtransferase
+nmi:NMO_0673	CDS	complement(720391..724005)	recB; exodeoxyribonuclease V, beta subunit
+nmi:NMO_0674	CDS	complement(724238..725146)	putative iron-dependent peroxidase
+nmi:NMO_0675	CDS	725434..726258	hisJ1; polar amino acid transport system substrate-binding protein
+nmi:NMO_0676	CDS	726281..726964	hisM; polar amino acid transport system permease protein
+nmi:NMO_0677	CDS	726974..727729	putative polar amino acid transport system ATP-binding protein
+nmi:NMO_0678	CDS	complement(727749..729131)	pgm; Phosphomannomutase
+nmi:NMO_0679	CDS	complement(729298..729807)	ppiB; peptidyl-prolyl cis-trans isomerase B
+nmi:NMO_0680	CDS	complement(729926..731341)	putative transport protein
+nmi:NMO_0681	CDS	complement(731572..731934)	putative membrane protein
+nmi:NMO_0682	CDS	complement(731931..732137)	hypothetical protein
+nmi:NMO_0683	CDS	complement(732198..732776)	pth; Peptidyl-tRNA hydrolase
+nmi:NMO_0684	CDS	complement(732829..733107)	conserved hypothetical protein
+nmi:NMO_0685	CDS	complement(733100..733537)	putative oligoketide cyclase/lipid transport protein
+nmi:NMO_0686	CDS	complement(733752..735719)	ftsH; cell division protein
+nmi:NMO_0687	CDS	complement(735783..736403)	ftsJ; ribosomal RNA large subunit methyltransferase j
+nmi:NMO_0688	CDS	736477..736797	putative RNA-binding protein
+nmi:NMO_0689	CDS	complement(736819..736926)	hypothetical protein
+nmi:NMO_0690	CDS	736980..737981	hemB; Delta-aminolevulinic acid dehydratase
+nmi:NMO_0691	CDS	complement(738044..739348)	cystathionine gamma-synthase
+nmi:NMO_0692	CDS	739270..740166	conserved hypothetical protein
+nmi:NMO_0693	CDS	740181..740351	hypothetical protein
+nmi:NMO_0694	CDS	740366..741031	putative NAD(P)H-flavin oxidoreductase
+nmi:NMO_0695	CDS	complement(741086..741844)	pseudouridylate synthase
+nmi:NMO_0696	CDS	complement(741869..742759)	probable inorganic polyphosphate/ATP-NAD kinase
+nmi:NMO_0697	CDS	complement(742779..743345)	conserved hypothetical protein
+nmi:NMO_0698	CDS	complement(743396..744193)	conserved hypothetical protein
+nmi:NMO_0699	CDS	complement(744248..744898)	TetR-family transcriptional regulator
+nmi:NMO_0700	CDS	complement(744910..745950)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+nmi:NMO_0701	CDS	complement(746129..747508)	putative multidrug efflux protein
+nmi:NMO_0702	CDS	747843..748994	hisZ; ATP phosphoribosyltransferase regulatory subunit
+nmi:NMO_0703	CDS	749098..750396	purA; adenylosuccinate synthetase
+nmi:NMO_0704	CDS	750851..751561	conserved hypothetical protein
+nmi:NMO_0705	CDS	751651..752070	conserved hypothetical protein
+nmi:NMO_0706	CDS	752278..752670	conserved hypothetical protein
+nmi:NMO_0707	CDS	752678..753343	hypothetical protein
+nmi:NMO_0708	CDS	complement(753644..754483)	htpX; heat shock protein HtpX
+nmi:NMO_0709	CDS	754698..755345	adk; adenylate kinase
+nmi:NMO_0710	CDS	755872..756612	pyrF; orotidine-5'-phosphate decarboxylase
+nmi:NMO_0711	CDS	756668..757630	rfaE; ADP-heptose synthase
+nmi:NMO_0712	CDS	757694..758698	rfaD; ADP-L-glycero-D-mannoheptose-6-epimerase
+nmi:NMO_0713	CDS	758771..760315	putative type I restriction-modification system DNA methylase
+nmi:NMO_0714	gene	760432..761276	dinD; pseudogene
+nmi:NMO_0715	gene	761440..762710	pseudogene
+nmi:NMO_0716	CDS	762697..762858	hypothetical protein
+nmi:NMO_0717	CDS	763159..763365	hypothetical protein
+nmi:NMO_0718	CDS	763362..766460	putative type I restriction-modification system endonuclease
+nmi:NMO_0719	CDS	complement(766500..768791)	clpA; ATP-dependent clp protease
+nmi:NMO_0720	CDS	complement(768793..769095)	clpS; putative ATP-dependent Clp protease adaptor protein
+nmi:NMO_0721	CDS	769338..769541	csp; putative cold-shock protein
+nmi:NMO_0722	CDS	complement(769838..771169)	PmbA protein
+nmi:NMO_0723	CDS	771260..771829	conserved hypothetical protein
+nmi:NMO_0724	CDS	771876..772517	putative membrane protein
+nmi:NMO_0725	CDS	772663..774363	recJ; single-stranded-DNA-specific exonuclease
+nmi:NMO_0726	CDS	774724..776085	pcnB; poly(A) polymerase
+nmi:NMO_0727	CDS	776233..776556	putative periplasmic protein
+nmi:NMO_0728	CDS	complement(776660..777613)	putative PhoH-like ATP-binding protein
+nmi:NMO_0729	CDS	complement(777752..778360)	putative glycosyltransferase
+nmi:NMO_0730	CDS	complement(778392..778952)	putative glycosyltransferase
+nmi:NMO_0731	CDS	779144..779848	putative periplasmic protein
+nmi:NMO_0732	CDS	complement(779912..780478)	dcd; deoxycytidine triphosphate deaminase
+nmi:NMO_0733	CDS	complement(780544..780816)	conserved hypothetical protein
+nmi:NMO_0734	CDS	complement(781012..781911)	rdgC; recombination associated protein RdgC
+nmi:NMO_0735	CDS	complement(781942..783399)	putative GTP-binding protein
+nmi:NMO_0736	CDS	complement(783549..784178)	putative membrane protein
+nmi:NMO_0737	CDS	complement(784179..785597)	hisS; Histidyl-tRNA synthetase
+nmi:NMO_0738	CDS	complement(785603..786259)	putative bacteriocin resistance protein
+nmi:NMO_0739	CDS	complement(786315..786560)	putative membrane protein
+nmi:NMO_0740	CDS	complement(786790..786906)	hypothetical protein
+nmi:NMO_0741	CDS	complement(786966..787253)	putative membrane protein
+nmi:NMO_0742	CDS	complement(787661..788056)	putative membrane protein
+nmi:NMO_0743	CDS	complement(788099..788968)	conserved hypothetical protein
+nmi:NMO_0744	CDS	789132..790055	pseudouridylate synthase
+nmi:NMO_0745	CDS	complement(790133..790774)	conserved hypothetical protein
+nmi:NMO_0746	CDS	complement(790829..791620)	Spermidine synthase
+nmi:NMO_tRNA16	tRNA	791786..791861	tRNA-Thr
+nmi:NMO_0747	CDS	792003..792794	panB; 3-methyl-2-oxobutanoatehydroxymethyltransferase
+nmi:NMO_0748	CDS	792917..793753	panC; pantoate--beta-alanine ligase
+nmi:NMO_0749	CDS	793918..795756	conserved hypothetical protein
+nmi:NMO_0750	CDS	795872..796477	lolB; outer membrane lipoprotein
+nmi:NMO_0751	CDS	796487..797332	4-diphosphocytidyl-2-C-methyl-D-erythritolkinase
+nmi:NMO_tRNA17	tRNA	797340..797415	tRNA-Gln
+nmi:NMO_tRNA18	tRNA	797428..797503	tRNA-Gln
+nmi:NMO_tRNA19	tRNA	797512..797587	tRNA-Gln
+nmi:NMO_0752	CDS	797754..798737	prsA; ribose-phosphate pyrophosphokinase
+nmi:NMO_0753	CDS	798804..799376	rplY; 50S ribosomal protein L25
+nmi:NMO_0754	CDS	complement(799501..800670)	dacC; putative D-alanyl-D-alanine carboxypeptidase
+nmi:NMO_0755	CDS	800818..802344	ilvA; Threonine dehydratase
+nmi:NMO_0756	CDS	complement(802401..803474)	cysA; sulfate transport system ATP-binding protein
+nmi:NMO_0757	CDS	complement(803614..804435)	cysW; sulfate transport system permease protein
+nmi:NMO_0758	CDS	complement(804805..805641)	cysU; sulfate transport system permease protein
+nmi:NMO_0759	CDS	805932..806264	hypothetical protein
+nmi:NMO_0760	CDS	806596..807105	conserved hypothetical protein
+nmi:NMO_0761	CDS	complement(809503..810090)	sodB; Superoxide dismutase
+nmi:NMO_0762	CDS	810253..811659	dnaB; Replicative DNA helicase
+nmi:NMO_0763	CDS	811923..812636	fimT; Tfp pilus assembly protein
+nmi:NMO_0764	CDS	812666..813286	pilV; type IV pilus assembly protein
+nmi:NMO_0765	CDS	813283..814248	pilW; type IV pilus assembly protein
+nmi:NMO_0766	CDS	814227..814826	pilX; type IV pilus assembly protein
+nmi:NMO_0767	CDS	814816..815304	pilA1; type IV pilin-related protein
+nmi:NMO_0768	CDS	complement(816953..817375)	putative amino acid permease
+nmi:NMO_0769	CDS	817575..818027	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+nmi:NMO_0770	CDS	818103..819290	N-succinyldiaminopimelate aminotransferase
+nmi:NMO_0771	CDS	819562..820341	conserved hypothetical protein
+nmi:NMO_tRNA20	tRNA	820424..820514	tRNA-Ser
+nmi:NMO_tRNA21	tRNA	820592..820681	tRNA-Ser
+nmi:NMO_0772	CDS	820873..822069	intP4; putative prophage P4 integrase
+nmi:NMO_0773	CDS	822224..822604	putative phage associated conserved protein
+nmi:NMO_0774	CDS	822777..822884	putative phage associated protein
+nmi:NMO_0775	CDS	823039..823518	putative phage associated membrane protein
+nmi:NMO_0776	CDS	823863..824039	putative phage associated protein
+nmi:NMO_0777	CDS	824191..825039	putative prophage antirepressor protein
+nmi:NMO_0778	CDS	complement(825097..825381)	putative phage associated protein
+nmi:NMO_0779	CDS	complement(825637..825930)	putative phage associated protein
+nmi:NMO_0780	CDS	complement(825927..826187)	putative phage associated protein
+nmi:NMO_0781	CDS	complement(826222..826437)	putative phage associated protein
+nmi:NMO_0782	CDS	complement(826508..827362)	putative phage associated conserved protein
+nmi:NMO_0783	CDS	complement(827387..827746)	putative phage associated protein
+nmi:NMO_0784	CDS	complement(828258..828782)	putative phage associated protein
+nmi:NMO_0785	CDS	complement(828786..829502)	putative phage repressor protein
+nmi:NMO_0786	CDS	829902..830249	putative phage associated protein
+nmi:NMO_0787	CDS	830364..832967	putative bacteriophage P4 DNA primase-like protein
+nmi:NMO_0788	gene	complement(832964..833929)	NMO_0788
+nmi:NMO_0789	CDS	833906..834283	putative phage associated protein
+nmi:NMO_0790	CDS	834292..835854	putative phage portal protein
+nmi:NMO_0791	CDS	835835..837727	putative phage major capsid protein
+nmi:NMO_0792	CDS	837785..838012	putative phage associated protein
+nmi:NMO_0793	CDS	838062..838307	putative phage associated protein
+nmi:NMO_0794	CDS	838288..838707	putative phage associated protein
+nmi:NMO_0795	CDS	838741..839382	putative phage associated protein
+nmi:NMO_0796	CDS	839446..839757	putative phage associated protein
+nmi:NMO_0797	CDS	839805..840077	putative phage associated protein
+nmi:NMO_0798	CDS	840070..843288	putative phage tail length tape measure protein
+nmi:NMO_0799	CDS	843310..843642	putative phage minor tail protein
+nmi:NMO_0800	CDS	843639..844361	putative phage minor tail protein
+nmi:NMO_0801	CDS	844358..845113	putative phage tail assembly protein
+nmi:NMO_0802	CDS	845110..845832	putative phage tail assembly protein
+nmi:NMO_0803	CDS	845968..850233	putative phage tail protein
+nmi:NMO_0804	CDS	850304..850750	putative phage associated protein
+nmi:NMO_0805	CDS	850767..850973	putative phage associated membrane protein
+nmi:NMO_0806	CDS	851041..851412	putative phage associated protein
+nmi:NMO_0807	CDS	851476..851901	putative phage associated membrane protein
+nmi:NMO_0808	CDS	852312..852785	putative phage associated protein
+nmi:NMO_0809	CDS	852680..853333	putative phage associated membrane protein
+nmi:NMO_0810	CDS	complement(853553..853921)	doc; Prophage maintenance system killer protein
+nmi:NMO_0811	CDS	complement(853918..854049)	putative phage associated protein
+nmi:NMO_0812	CDS	complement(854078..854323)	putative phage associated hypothetical protein
+nmi:NMO_0813	CDS	complement(854528..854680)	putative phage associated hypothetical protein
+nmi:NMO_0814	CDS	complement(854670..854978)	putative phage associated membrane protein
+nmi:NMO_0815	CDS	complement(855262..857487)	icd; isocitrate dehydrogenase
+nmi:NMO_0816	CDS	857556..857720	putative membrane protein
+nmi:NMO_0817	CDS	857889..859037	Ist; alpha-2,3-sialyltransferase
+nmi:NMO_0818	CDS	complement(859201..859659)	putative C-type cytochrome
+nmi:NMO_0819	CDS	859778..860599	putative acyl-CoA thioester hydrolase
+nmi:NMO_0820	CDS	complement(860650..861096)	putative acyl-CoA thioester hydrolase
+nmi:NMO_0821	gene	complement(862205..862891)	opaC; pseudogene
+nmi:NMO_0822	CDS	863727..864659	pip; proline iminopeptidase
+nmi:NMO_0823	CDS	complement(864716..865843)	putative lipoprotein
+nmi:NMO_0824	CDS	complement(865921..866796)	dapA; dihydrodipicolinate synthase
+nmi:NMO_0825	CDS	866834..867088	putative membrane protein
+nmi:NMO_0826	CDS	867103..868494	xanthine/uracil permease family protein
+nmi:NMO_0827	CDS	complement(868556..869308)	putative RNA methyltransferase
+nmi:NMO_0828	CDS	complement(869374..869862)	putative conserved membrane protein
+nmi:NMO_0829	CDS	complement(869867..870586)	probable cytidine deaminase
+nmi:NMO_0830	CDS	complement(870590..871531)	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+nmi:NMO_0831	CDS	872003..872311	putative membrane protein
+nmi:NMO_0832	CDS	872330..873478	conserved hypothetical protein
+nmi:NMO_0833	CDS	873521..874081	efp; elongation factor P
+nmi:NMO_0834	CDS	complement(874131..874976)	conserved hypothetical protein
+nmi:NMO_0835	CDS	complement(875093..875674)	metW; methionine biosynthesis MetW
+nmi:NMO_0836	CDS	complement(875671..876810)	metX; homoserine O-acetyltransferase
+nmi:NMO_0837	CDS	876826..877170	hypothetical protein
+nmi:NMO_0838	CDS	complement(877278..877403)	rpmJ2; 50S ribosomal protein L36, truncated
+nmi:NMO_0839	CDS	complement(877403..877678)	rpmE2; Ribosomal protein L31
+nmi:NMO_0840	CDS	877878..878756	metF; 5,10-methylenetetrahydrofolate reductase
+nmi:NMO_0841	CDS	878894..881170	metE; 5-methyltetrahydropteroyltriglutamate--homocyst eine methyltransferase
+nmi:NMO_0842	CDS	881182..881346	hypothetical protein
+nmi:NMO_0843	CDS	881449..882186	putative peroxiredoxin/glutaredoxin family protein
+nmi:NMO_0844	CDS	882369..883838	lpdA2; putative pyridine nucleotide-disulphide oxidoreductase
+nmi:NMO_0845	CDS	884117..884494	sdhC; succinate dehydrogenase cytochrome b-556 subunit
+nmi:NMO_0846	CDS	884488..884829	sdhD; succinate dehydrogenase hydrophobic membrane anchor protein
+nmi:NMO_0847	CDS	884832..886595	sdhA; succinate dehydrogenase flavoprotein subunit
+nmi:NMO_0848	CDS	886715..887422	sdhB; succinate dehydrogenase iron-sulfur protein
+nmi:NMO_0849	CDS	887426..887674	conserved hypothetical protein
+nmi:NMO_0850	CDS	887786..889069	gltA; Citrate synthase
+nmi:NMO_0851	CDS	889274..892102	sucA; 2-oxoglutarate dehydrogenase E1 component
+nmi:NMO_0852	CDS	892202..893383	sucB; dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+nmi:NMO_0853	CDS	893747..895180	lpdA3; 2-oxoglutarate dehydrogenase complex, E3 component
+nmi:NMO_0854	CDS	895275..895562	putative membrane protein
+nmi:NMO_0855	CDS	895661..896827	sucC; succinyl-CoA synthetase, beta subunit
+nmi:NMO_0856	CDS	896838..897728	sucD; succinyl-CoA synthetase alpha chain
+nmi:NMO_0857	gene	complement(897963..898407)	pseudogene
+nmi:NMO_0858	CDS	898444..898740	hypothetical protein
+nmi:NMO_0859	CDS	complement(898967..899911)	Predicted transcriptional regulator
+nmi:NMO_0860	CDS	complement(900488..900676)	hypothetical protein
+nmi:NMO_0861	CDS	complement(900733..903579)	uvrA; excinuclease ABC subunit A
+nmi:NMO_0862	CDS	903734..904531	Phosphatidylserine decarboxylase
+nmi:NMO_0863	CDS	complement(905947..908241)	putative outer membrane protein
+nmi:NMO_0864	CDS	908329..908565	hypothetical secreted protein
+nmi:NMO_0865	CDS	908645..909235	trpG; anthranilate synthase component II
+nmi:NMO_0866	CDS	909299..910357	trpD; Anthranilate phosphoribosyltransferase
+nmi:NMO_0867	CDS	910350..910454	hypothetical protein
+nmi:NMO_0868	gene	complement(910462..910724)	NMO_0868
+nmi:NMO_0869	CDS	911167..912168	putative phage protein
+nmi:NMO_0870	CDS	912213..912503	putative phage associated protein
+nmi:NMO_0871	gene	912598..913605	NMO_0871
+nmi:NMO_0872	CDS	913741..913929	putative phage associated protein
+nmi:NMO_0873	CDS	913937..914119	putative phage associated protein
+nmi:NMO_0874	CDS	914088..914375	putative phage associated protein
+nmi:NMO_0875	gene	914503..914820	pseudogene
+nmi:NMO_0876	CDS	914747..915199	tspB; probable cell-surface protein, truncated
+nmi:NMO_0877	CDS	915802..916269	putative NADPH-quinone reductase, truncated
+nmi:NMO_0878	CDS	complement(916477..917862)	pntB; NAD(P) transhydrogenase, beta subunit
+nmi:NMO_0879	CDS	complement(917928..918311)	putative membrane protein
+nmi:NMO_0880	CDS	complement(918315..919856)	pntA; NAD(P) transhydrogenase subunit alpha
+nmi:NMO_0881	CDS	920147..920980	serB; Phosphoserine phosphatase
+nmi:NMO_0882	CDS	921046..922269	putative chloride channel protein
+nmi:NMO_0883	CDS	922429..924009	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase
+nmi:NMO_0884	CDS	924153..924377	hypothetical protein
+nmi:NMO_0885	gene	924622..925445	NMO_0885
+nmi:NMO_0886	CDS	925603..926037	putative phage associated conserved protein
+nmi:NMO_0887	CDS	926018..926446	putative phage associated protein
+nmi:NMO_0888	CDS	926754..927296	putative N-acetylmuramoyl-L-alanine amidase
+nmi:NMO_0889	CDS	927502..927666	putative phage associated hypothetical protein
+nmi:NMO_0890	CDS	927669..927905	putative phage associated hypothetical protein
+nmi:NMO_0891	CDS	927877..928296	putative phage associated membrane protein
+nmi:NMO_0892	CDS	928316..928498	putative phage associated hypothetical protein
+nmi:NMO_0893	CDS	complement(928543..928713)	putative phage associated conserved hypothetical protein
+nmi:NMO_0894	CDS	928726..928944	putative phage associated hypothetical protein
+nmi:NMO_0895	CDS	928941..929279	putative phage asssociated hypothetical protein
+nmi:NMO_0896	CDS	929291..929557	putative phage associated hypothetical protein
+nmi:NMO_0897	CDS	929554..929751	putative phage associated hypothetical protein
+nmi:NMO_0898	CDS	929754..930260	putative phage associated DNA-binding protein
+nmi:NMO_0899	gene	complement(930594..931601)	NMO_0899
+nmi:NMO_0900	CDS	complement(931734..933506)	putative autotransporter adhesin
+nmi:NMO_0901	CDS	complement(933652..934317)	putative phage associated protein
+nmi:NMO_0902	CDS	complement(934738..934908)	Rubredoxin
+nmi:NMO_0903	CDS	complement(935290..936381)	putative acyl-CoA dehydrogenase
+nmi:NMO_0904	CDS	complement(936515..937324)	conserved hypothetical protein
+nmi:NMO_0905	CDS	complement(937218..937589)	putative conserved membrane protein
+nmi:NMO_0906	CDS	complement(937884..939575)	dld; D-lactate dehydrogenase
+nmi:NMO_0907	CDS	940099..943932	probable iron-sulfur binding oxidoreductase
+nmi:NMO_0908	CDS	944113..945114	putative dihydrouridine synthase
+nmi:NMO_0909	CDS	complement(945175..945357)	putative membrane protein
+nmi:NMO_0910	CDS	complement(946179..946487)	hypothetical protein
+nmi:NMO_0911	CDS	complement(946539..947054)	hypothetical protein
+nmi:NMO_0912	gene	complement(947076..947669)	NMO_0912
+nmi:NMO_0913	CDS	948072..948188	hypothetical protein
+nmi:NMO_0914	CDS	948201..948374	putative phage associated protein
+nmi:NMO_0915	CDS	948377..948592	hypothetical protein
+nmi:NMO_0916	gene	948684..949844	NMO_0916
+nmi:NMO_0917	CDS	complement(950119..950559)	putative phage associated hypothetical protein
+nmi:NMO_0918	CDS	complement(950556..951272)	putative phage associated conserved protein
+nmi:NMO_0919	CDS	951286..951543	putative phage associated membrane protein
+nmi:NMO_0920	CDS	952092..952568	putative phage associated conserved protein
+nmi:NMO_0921	CDS	952546..952887	putative bacteriophage transcriptional regulator
+nmi:NMO_0922	CDS	953340..954371	putative phage associated protein
+nmi:NMO_0923	CDS	954429..955424	putative phage associated conserved protein
+nmi:NMO_0924	CDS	955402..955671	putative phage associated hypothetical protein
+nmi:NMO_0925	CDS	955672..956010	putative phage associated hypothetical protein
+nmi:NMO_0926	CDS	956013..956300	putative phage associated hypothetical protein
+nmi:NMO_0927	CDS	956304..956729	putative phage associated conserved hypothetical protein
+nmi:NMO_0928	CDS	956729..957226	putative phage associated protein
+nmi:NMO_0929	CDS	957238..958632	putative phage major tail sheath protein
+nmi:NMO_0930	CDS	958661..959176	putative phage major tail tube protein
+nmi:NMO_0931	CDS	959272..959568	putative phage associated hypothetical protein
+nmi:NMO_0932	CDS	959969..962620	putative phage-related tail protein
+nmi:NMO_0933	CDS	962620..963504	putative phage tail assembly protein
+nmi:NMO_0934	CDS	963504..963722	putative phage tail protein
+nmi:NMO_0935	CDS	963710..964804	putative bacteriophage regulatory protein
+nmi:NMO_0936	CDS	964767..965402	putative phage-related baseplate assembly protein
+nmi:NMO_0937	CDS	965475..965852	putative phage baseplate assembly protein
+nmi:NMO_0938	CDS	965843..966976	putative phage-related baseplate assembly protein
+nmi:NMO_0939	CDS	966979..967557	putative phage tail protein
+nmi:NMO_0940	CDS	967626..969812	putative phage tail fibre protein
+nmi:NMO_0941	CDS	970458..971060	putative phage fiber-spike protein
+nmi:NMO_0942	CDS	971551..971685	putative phage associated hypothetical protein
+nmi:NMO_0943	CDS	972018..972797	putative phage associated type II DNA-methyltransferase
+nmi:NMO_0944	gene	972886..973512	NMO_0944
+nmi:NMO_sRNA2	misc_RNA	complement(973829..974191)	tmRNA
+nmi:NMO_0945	CDS	complement(974254..974859)	conserved hypothetical protein
+nmi:NMO_0946	CDS	complement(974903..975169)	hypothetical protein
+nmi:NMO_0947	CDS	complement(975585..976640)	sbp; thiosulphate-binding protein
+nmi:NMO_0948	CDS	complement(976746..977228)	GCN5-related N-acetyltransferase
+nmi:NMO_0949	CDS	complement(977275..978411)	purK; phosphoribosylaminoimidazole carboxylase ATPase subunit
+nmi:NMO_0950	CDS	complement(978428..979288)	putative type II restriction endonuclease
+nmi:NMO_0951	CDS	complement(979289..980227)	putative type II DNA modification methylase
+nmi:NMO_0952	CDS	complement(980311..981933)	trpE; anthranilate synthase component I
+nmi:NMO_0953	CDS	complement(981897..982262)	putative membrane protein
+nmi:NMO_0954	CDS	complement(982283..984193)	abcZ; ABC transporter ATP-binding protein
+nmi:NMO_0955	CDS	complement(984212..984856)	dedA; DedA protein
+nmi:NMO_0956	CDS	complement(984947..986197)	glyA; serine hydroxymethyltransferase
+nmi:NMO_0957	CDS	complement(986678..988555)	ggt; Gamma-glutamyltranspeptidase
+nmi:NMO_0958	gene	complement(988760..989686)	NMO_0958
+nmi:NMO_0959	gene	complement(989843..990100)	pseudogene
+nmi:NMO_0960	CDS	990237..990464	hypothetical protein
+nmi:NMO_0961	CDS	990440..990658	conserved hypothetical protein
+nmi:NMO_0962	CDS	complement(990801..991775)	fbp1; fructose-1,6-bisphosphatase
+nmi:NMO_0963	CDS	complement(992174..993019)	putative competence protein ComJ
+nmi:NMO_0964	CDS	complement(993096..993698)	conserved membrane protein
+nmi:NMO_0965	CDS	993754..994110	folB; Dihydroneopterin aldolase
+nmi:NMO_0966	CDS	994144..994680	ADP-ribose pyrophosphatase
+nmi:NMO_0967	CDS	complement(995189..995548)	putative integral membrane protein
+nmi:NMO_0968	CDS	complement(995577..996257)	putative membrane protein
+nmi:NMO_0969	CDS	996422..999454	ftsK; putative cell division protein
+nmi:NMO_0970	gene	999623..1000735	NMO_0970
+nmi:NMO_0971	CDS	complement(1001008..1002270)	proA; glutamate-5-semialdehyde dehydrogenase
+nmi:NMO_0972	CDS	complement(1002283..1003392)	proB; Glutamate 5-kinase
+nmi:NMO_0973	CDS	1003637..1005430	leuA; 2-isopropylmalate synthase
+nmi:NMO_0974	CDS	1005630..1006292	conserved hypothetical protein
+nmi:NMO_0975	CDS	complement(1006375..1007226)	lgt; prolipoprotein diacylglyceryl transferase
+nmi:NMO_0976	CDS	complement(1007307..1008437)	putative carboxypeptidase
+nmi:NMO_0977	CDS	1008607..1009503	argB; Acetylglutamate kinase
+nmi:NMO_0978	CDS	complement(1010094..1010537)	putative membrane protein
+nmi:NMO_0979	CDS	complement(1011001..1011669)	putative phosphoserine phosphatase related protein
+nmi:NMO_0980	CDS	complement(1011666..1012334)	DnaA related protein, truncated
+nmi:NMO_0981	gene	complement(1012439..1014110)	pseudogene
+nmi:NMO_0983	CDS	complement(1014552..1015199)	conserved hypothetical protein
+nmi:NMO_0984	CDS	complement(1015196..1015564)	conserved hypothetical protein
+nmi:NMO_0985	CDS	complement(1015574..1016245)	conserved hypothetical protein
+nmi:NMO_0986	CDS	complement(1016410..1017129)	putative oxidoreductase
+nmi:NMO_0987	CDS	complement(1017213..1018526)	putative oxidoreductase
+nmi:NMO_0988	CDS	complement(1018556..1018762)	putative membrane protein
+nmi:NMO_0989	CDS	complement(1018924..1019796)	putative poly-isoprenyl transferase
+nmi:NMO_0990	CDS	1019967..1021829	chaperone protein HscA
+nmi:NMO_0991	CDS	1021891..1022052	hypothetical protein
+nmi:NMO_0992	CDS	1022102..1022665	conserved hypothetical protein
+nmi:NMO_0993	CDS	1022702..1023463	conserved hypothetical protein / ankyrin-related protein
+nmi:NMO_0994	CDS	1023517..1023858	fdx; Ferredoxin
+nmi:NMO_0995	gene	complement(1024145..1024731)	pseudogene
+nmi:NMO_0996	CDS	1024944..1025141	conserved hypothetical protein
+nmi:NMO_0997	CDS	complement(1025209..1025610)	probable heat shock protein
+nmi:NMO_0998	CDS	1025822..1026781	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha
+nmi:NMO_0999	CDS	1026849..1028159	mesJ; putative cell cycle protein MesJ
+nmi:NMO_1000	CDS	1028233..1029018	putative RNA methyltransferase
+nmi:NMO_1001	CDS	1029238..1029540	hypothetical protein
+nmi:NMO_1002	CDS	1029602..1030978	mpl; UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+nmi:NMO_1003	CDS	1030987..1032237	bioB; biotin synthetase
+nmi:NMO_1004	CDS	complement(1032318..1032953)	conserved hypothetical protein
+nmi:NMO_1005	CDS	complement(1033077..1033316)	hypothetical protein
+nmi:NMO_1006	CDS	complement(1033599..1035458)	ilvD; dihydroxy-acid dehydratase
+nmi:NMO_1007	CDS	complement(1035632..1037401)	cysI; sulfite reductase hemoprotein, beta-component
+nmi:NMO_1008	CDS	complement(1037428..1039242)	cysJ; sulphite reductase alpha subunit
+nmi:NMO_1009	CDS	complement(1039239..1040525)	cysN; sulfate adenylyltransferase subunit 1
+nmi:NMO_1010	CDS	complement(1040564..1041487)	cysD; sulfate adenylyltransferase subunit 2
+nmi:NMO_1011	CDS	complement(1041525..1042298)	cysH; phosphoadenosine phosphosulfate reductase
+nmi:NMO_1012	CDS	complement(1042276..1043727)	cysG; Siroheme synthase
+nmi:NMO_1013	CDS	complement(1044179..1044835)	putative b-type cytochrome
+nmi:NMO_1014	CDS	1044900..1045790	putative carbohydrate kinase
+nmi:NMO_1015	CDS	1046060..1047871	typA; GTP-binding elongation factor
+nmi:NMO_tRNA22	tRNA	complement(1048436..1048526)	tRNA-Ser
+nmi:NMO_tRNA23	tRNA	complement(1048565..1048651)	tRNA-Leu
+nmi:NMO_tRNA24	tRNA	complement(1048688..1048774)	tRNA-Leu
+nmi:NMO_1016	CDS	1048848..1051238	vacB; putative ribonuclease R
+nmi:NMO_1017	CDS	complement(1051576..1053039)	guaB; inosine-5'-monophosphate dehydrogenase
+nmi:NMO_1018	CDS	complement(1053924..1056482)	glnD; protein-PII uridylyltransferase
+nmi:NMO_1019	CDS	complement(1056531..1056851)	putative transcriptional regulator
+nmi:NMO_1020	CDS	complement(1057175..1057648)	bfrB; bacterioferritin
+nmi:NMO_1021	CDS	complement(1057676..1058236)	brfA; bacterioferritin
+nmi:NMO_1022	CDS	complement(1058604..1059587)	lipA; lipoic acid synthetase
+nmi:NMO_1023	CDS	complement(1059580..1060203)	lipB; Lipoate-protein ligase B
+nmi:NMO_1024	CDS	complement(1060205..1060480)	conserved hypothetical protein
+nmi:NMO_1025	CDS	1060666..1061736	conserved hypothetical protein
+nmi:NMO_1026	CDS	complement(1061933..1062880)	putative HflC-related membrane protein
+nmi:NMO_1027	CDS	complement(1062895..1063302)	putative membrane protein
+nmi:NMO_1028	CDS	1063383..1064042	ung; uracil-DNA glycosylase
+nmi:NMO_1029	CDS	1064101..1064634	putative exported protein, truncated
+nmi:NMO_1030	CDS	complement(1064749..1065198)	putative transcriptional regulator, MarR family
+nmi:NMO_1031	gene	complement(1065661..1066484)	NMO_1031
+nmi:NMO_1032	gene	1066873..1067058	pseudogene
+nmi:NMO_1033	gene	1067081..1067230	pseudogene
+nmi:NMO_1034	CDS	complement(1067316..1067612)	hypothetical protein
+nmi:NMO_1035	gene	complement(1067516..1067866)	NMO_1035
+nmi:NMO_1036	CDS	complement(1067895..1068284)	hypothetical protein
+nmi:NMO_1037	CDS	complement(1068661..1069176)	conserved hypothetical protein
+nmi:NMO_1038	CDS	complement(1069642..1071564)	putative ATP-binding ABC-transporter protein
+nmi:NMO_1039	CDS	complement(1071641..1072036)	conserved hypothetical protein
+nmi:NMO_1040	CDS	1072209..1073516	hom; Homoserine dehydrogenase
+nmi:NMO_1041	CDS	1073509..1073943	conserved hypothetical protein
+nmi:NMO_1042	CDS	complement(1074002..1074271)	hupB; DNA-binding protein
+nmi:NMO_1043	CDS	complement(1074453..1076915)	lon; ATP-dependent Lon protease
+nmi:NMO_1044	CDS	1077166..1078269	conserved hypothetical protein
+nmi:NMO_1045	CDS	complement(1078297..1080042)	recD; exodeoxyribonuclease V, alpha subunit
+nmi:NMO_1046	CDS	complement(1080110..1080805)	putative ABC-transporter ATP-binding protein
+nmi:NMO_1047	CDS	complement(1080798..1082045)	lolC; putative lipoprotein releasing system trasmembrane protein
+nmi:NMO_1048	CDS	1082116..1082241	hypothetical protein
+nmi:NMO_1049	CDS	1082250..1082534	hypothetical protein
+nmi:NMO_1050	CDS	complement(1082590..1083210)	recR; recombination protein RecR
+nmi:NMO_1051	CDS	complement(1083274..1084812)	peptidyl-prolyl cis-trans isomerse D
+nmi:NMO_1052	CDS	complement(1084872..1085246)	conserved hypothetical protein
+nmi:NMO_1053	CDS	1085336..1087024	probable ATP-binding ABC transporter protein
+nmi:NMO_1054	CDS	1087096..1088328	cca; tRNA nucleotidyltransferase
+nmi:NMO_1055	CDS	1088572..1088880	conserved hypothetical protein
+nmi:NMO_1056	CDS	1088962..1089993	ruvB; holliday junction DNA helicase
+nmi:NMO_1057	CDS	complement(1090016..1090744)	rpe; ribulose-phosphate 3-epimerase
+nmi:NMO_1058	CDS	1091108..1091488	putative periplasmic protein
+nmi:NMO_1059	CDS	complement(1091501..1092364)	conserved hypothetical protein
+nmi:NMO_1060	CDS	complement(1092372..1093076)	ribC; Riboflavin synthase alpha chain
+nmi:NMO_1061	CDS	complement(1093152..1093766)	mobA; putative molybdopterin-guanine dinucleotide biosynthesis protein A
+nmi:NMO_1062	CDS	1093972..1095744	putative two-component system sensor kinase
+nmi:NMO_1063	CDS	1095741..1096397	putative two-component system response regulator
+nmi:NMO_1064	CDS	complement(1096559..1096687)	hypothetical protein
+nmi:NMO_1065	CDS	complement(1096871..1097905)	purM; phosphoribosylformylglycinamidine cyclo-ligase
+nmi:NMO_1066	CDS	1098146..1098334	hypothetical protein
+nmi:NMO_tRNA25	tRNA	complement(1098425..1098509)	tRNA-Leu
+nmi:NMO_1067	CDS	1098659..1099333	conserved hypothetical protein
+nmi:NMO_1068	CDS	1099326..1099919	ribA; GTP cyclohydrolase II
+nmi:NMO_1069	CDS	1100215..1101087	hypothetical protein
+nmi:NMO_1070	CDS	1101303..1102643	ribB; putative 3,4-dihydroxy-2-butanone 4-phosphate synthase
+nmi:NMO_1071	CDS	1102914..1103537	hypothetical protein
+nmi:NMO_1072	gene	1103680..1104645	NMO_1072
+nmi:NMO_1073	gene	1104807..1105733	NMO_1073
+nmi:NMO_1074	CDS	complement(1105999..1106313)	hypothetical protein
+nmi:NMO_1075	gene	1106284..1107444	NMO_1075
+nmi:NMO_1076	CDS	complement(1107914..1109224)	conserved hypothetical protein
+nmi:NMO_1077	CDS	1109473..1109958	hypothetical protein
+nmi:NMO_1078	CDS	1110044..1110541	hypothetical protein
+nmi:NMO_1079	CDS	complement(1111008..1111922)	LysR-family transcriptional regulator
+nmi:NMO_1080	CDS	1112178..1113647	putative membrane protein
+nmi:NMO_1081	CDS	1113899..1114270	putative membrane protein
+nmi:NMO_1082	CDS	1114286..1115752	thrC; Threonine synthase
+nmi:NMO_1083	CDS	1115798..1116592	hypothetical protein
+nmi:NMO_1084	CDS	1116780..1117556	fpr; putative ferredoxin--NADP reductase
+nmi:NMO_1085	CDS	1117966..1118103	hypothetical protein
+nmi:NMO_1086	CDS	complement(1118317..1120788)	putative P-type cation transport ATPase
+nmi:NMO_1087	CDS	complement(1120785..1121963)	putative GTP-binding protein
+nmi:NMO_1088	CDS	complement(1121968..1123248)	conserved hypothetical protein
+nmi:NMO_1089	CDS	complement(1123401..1124126)	conserved hypothetical protein
+nmi:NMO_1090	CDS	complement(1124199..1124876)	radC; DNA repair protein RadC
+nmi:NMO_1091	CDS	complement(1124999..1126348)	gshA; glutamate--cysteine ligase
+nmi:NMO_1092	CDS	1126608..1128017	leuC; 3-isopropylmalate dehydratase large subunit
+nmi:NMO_1093	CDS	1128063..1128368	hypothetical protein
+nmi:NMO_1094	CDS	1128430..1129071	leuD; 3-isopropylmalate dehydratase small subunit
+nmi:NMO_1095	gene	1129246..1130516	pseudogene
+nmi:NMO_1096	gene	1130532..1131263	pseudogene
+nmi:NMO_1097	CDS	1131297..1132367	leuB; 3-isopropylmalate dehydrogenase
+nmi:NMO_1098	CDS	1132530..1133093	putative periplasmic protein
+nmi:NMO_1099	CDS	1133506..1134951	aspA; Aspartate ammonia-lyase
+nmi:NMO_1100	CDS	complement(1135023..1135898)	putative membrane protein
+nmi:NMO_1101	CDS	complement(1135900..1136652)	putative dnaJ-family protein
+nmi:NMO_1102	CDS	complement(1136674..1137153)	conserved hypothetical protein
+nmi:NMO_1103	CDS	1137228..1137590	conserved hypothetical protein
+nmi:NMO_1104	CDS	1137622..1138488	conserved hypothetical protein
+nmi:NMO_1105	CDS	1138582..1139541	putative PP-loop ATPase
+nmi:NMO_1106	CDS	complement(1139675..1140229)	ppiA; putative peptidyl-prolyl cis-trans isomerase A
+nmi:NMO_1107	CDS	complement(1140294..1141220)	putative cobalamin biosynthesis protein
+nmi:NMO_1108	CDS	complement(1141208..1141849)	putative cation uptake regulator
+nmi:NMO_1109	CDS	complement(1141755..1142312)	putative low molecular weight phosphotyrosine protein phosphatase
+nmi:NMO_1110	CDS	complement(1142335..1143450)	Glycerate kinase
+nmi:NMO_1111	CDS	complement(1143564..1144661)	hypothetical protein
+nmi:NMO_1112	CDS	complement(1144743..1146140)	hypothetical protein
+nmi:NMO_1113	CDS	complement(1146475..1146687)	putative mercury transport periplasmic protein
+nmi:NMO_1114	CDS	1147317..1148753	putative polysaccharide modification protein
+nmi:NMO_1115	CDS	1148764..1149747	conserved hypothetical protein
+nmi:NMO_1116	CDS	1149744..1150937	hypothetical protein
+nmi:NMO_1117	CDS	1151186..1152739	putative acyl-CoA ligase
+nmi:NMO_1118	CDS	complement(1152831..1154813)	putative BCCT family transporter
+nmi:NMO_1119	CDS	complement(1154865..1154999)	hypothetical protein
+nmi:NMO_1120	CDS	1155147..1157153	gcr; Site-specific recombinase
+nmi:NMO_1121	gene	1157311..1157964	NMO_1121
+nmi:NMO_1122	CDS	complement(1157997..1159106)	mltB; putative murein hydrolase
+nmi:NMO_1123	CDS	complement(1159255..1160808)	putative oxidoreductase
+nmi:NMO_1124	CDS	1160867..1164994	mfd; transcription-repair coupling factor
+nmi:NMO_1125	CDS	1165143..1165526	panD; Aspartate 1-decarboxylase
+nmi:NMO_1126	CDS	1165548..1166390	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase
+nmi:NMO_1127	CDS	1166405..1166845	hypothetical protein
+nmi:NMO_1128	CDS	1166892..1168178	eno; Enolase
+nmi:NMO_1129	CDS	1168193..1168471	cell division protein FtsB
+nmi:NMO_1130	CDS	complement(1168512..1168802)	putative iron-sulphur binding protein
+nmi:NMO_1131	CDS	complement(1168923..1170077)	nrdB; ribonucleoside-diphosphate reductase beta chain
+nmi:NMO_1132	CDS	complement(1170270..1171250)	putative abortive infection bacteriophage resistance protein
+nmi:NMO_1133	CDS	complement(1171216..1173495)	nrdA; ribonucleoside-diphosphate reductase alpha chain
+nmi:NMO_1134	CDS	1174024..1174335	hypothetical protein
+nmi:NMO_1135	CDS	complement(1174493..1175260)	plsC; acyltransferase
+nmi:NMO_1136	CDS	complement(1175348..1176175)	fpg; Formamidopyrimidine-DNA glycosylase
+nmi:NMO_1137	CDS	complement(1176227..1176892)	hypothetical protein
+nmi:NMO_1138	CDS	1177071..1179047	putative lytic murein transglycosylase
+nmi:NMO_1139	CDS	1179037..1179807	rsuA; ribosomal small subunit pseudouridine synthase A
+nmi:NMO_1140	gene	1180352..1181749	pseudogene
+nmi:NMO_1141	CDS	1181996..1182652	cmk; Cytidylate kinase
+nmi:NMO_1142	CDS	1182807..1184492	rpsA; 30S ribosomal protein S1
+nmi:NMO_1143	CDS	1184503..1184817	hip; integration host factor beta-subunit
+nmi:NMO_1144	CDS	complement(1185168..1185575)	putative MerR-family transcriptional regulator
+nmi:NMO_1145	CDS	1185696..1186832	adhC; alcohol dehydrogenase class III
+nmi:NMO_1146	CDS	1186841..1187668	esd; putative esterase D
+nmi:NMO_1147	CDS	1188059..1189210	putative ATPase
+nmi:NMO_1148	CDS	1189269..1189694	ndk; Nucleoside diphosphate kinase
+nmi:NMO_1149	CDS	1189838..1190932	conserved hypothetical protein
+nmi:NMO_1150	CDS	1190935..1191696	pilF1; type IV pilus assembly protein PilF
+nmi:NMO_1151	CDS	1191712..1192977	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+nmi:NMO_1152	CDS	complement(1193034..1193648)	clpP; ATP-dependent Clp protease, proteolytic subunit
+nmi:NMO_1153	CDS	complement(1193744..1195054)	tig; trigger factor
+nmi:NMO_1154	CDS	complement(1195263..1197701)	ftsK-like cell division/stress response protein
+nmi:NMO_1155	CDS	1197924..1199135	uraA; putative uracil permease
+nmi:NMO_1156	CDS	complement(1199187..1199669)	hypothetical protein
+nmi:NMO_1157	gene	1199775..1200178	pseudogene
+nmi:NMO_1158	CDS	1200252..1200998	pssA; putative phosphatidylserine synthase
+nmi:NMO_1159	CDS	1200999..1201805	conserved hypothetical protein
+nmi:NMO_1160	CDS	complement(1202777..1203229)	rplI; 50S ribosomal protein L9
+nmi:NMO_1161	CDS	complement(1203246..1203476)	rpsR; 30S ribosomal protein S18
+nmi:NMO_1162	CDS	complement(1203483..1203785)	priB; primosomal replication protein
+nmi:NMO_1163	CDS	complement(1203786..1204154)	rpsF; 30S ribosomal protein S6
+nmi:NMO_1164	CDS	complement(1204310..1205260)	trxB; Thioredoxin reductase
+nmi:NMO_1165	CDS	1205399..1207576	putative cation-transporting ATPase
+nmi:NMO_1166	CDS	1207631..1209517	uvrC; putative excinuclease ABC subunit C
+nmi:NMO_1167	CDS	1209604..1211037	conserved hypothetical protein
+nmi:NMO_1168	CDS	1211159..1211875	tRNA (guanine-N7-)-methyltransferase
+nmi:NMO_PS71	gene	complement(1212539..1213329)	pseudogene
+nmi:NMO_1171	CDS	complement(1213340..1215430)	uvrB; excinuclease ABC subunit B
+nmi:NMO_1172	CDS	complement(1215687..1217171)	putative carboxy-terminal processing protease
+nmi:NMO_1173	CDS	complement(1217298..1219088)	hypothetical protein
+nmi:NMO_1174	CDS	1219416..1219976	conserved hypothetical protein
+nmi:NMO_1175	CDS	1219978..1220526	conserved hypothetical protein
+nmi:NMO_1176	CDS	1220519..1220974	putative Hollyday junction resolvase
+nmi:NMO_1177	CDS	complement(1220984..1221700)	putative hydrolase
+nmi:NMO_1178	CDS	complement(1221703..1223415)	proS; Prolyl-tRNA synthetase
+nmi:NMO_1179	CDS	1224109..1226772	aceE; pyruvate dehydrogenase E1 component
+nmi:NMO_1180	CDS	1226922..1228529	aceF; dihydrolipoamide acetyltransferase
+nmi:NMO_1181	CDS	1228606..1230390	lpdA; putative dihydrolipoamide dehydrogenase
+nmi:NMO_1182	CDS	complement(1230751..1232301)	conserved hypothetical protein
+nmi:NMO_1183	CDS	complement(1232425..1233789)	putative TonB-dependent ferric siderophore receptor, truncated
+nmi:NMO_1184	CDS	complement(1234059..1234844)	putative inositol monophosphatase
+nmi:NMO_1185	CDS	1235088..1235906	putative RNA methyltransferase
+nmi:NMO_1186	CDS	1235977..1236834	conserved hypothetical protein
+nmi:NMO_1187	CDS	1236871..1238127	putative SUN-family protein
+nmi:NMO_1188	CDS	1238637..1239107	hypothetical protein
+nmi:NMO_1189	CDS	complement(1239155..1240498)	putative aldehyde dehydrogenase
+nmi:NMO_1190	CDS	complement(1240503..1241156)	putative MarC-related protein
+nmi:NMO_1191	CDS	1241306..1241596	gatC; glutamyl-tRNA(GLN) amidotransferase subunit C
+nmi:NMO_1192	CDS	1241659..1243104	gatA; glutamyl-tRNA(Gln) amidotransferase, A subunit
+nmi:NMO_1193	CDS	1243101..1244033	conserved hypothetical protein
+nmi:NMO_1194	CDS	1244076..1245506	gatB; glutamyl-tRNA(GLN) amidotransferase subunit B
+nmi:NMO_1195	CDS	1245598..1246608	putative iron/sulphur-binding oxidoreductase
+nmi:NMO_1196	CDS	complement(1246737..1247369)	pdxH; pyridoxamine 5'-phosphate oxidase
+nmi:NMO_1197	CDS	1247757..1248806	putative pseudouridine synthase
+nmi:NMO_1198	CDS	complement(1248875..1250416)	putative membrane transporter
+nmi:NMO_1199	CDS	complement(1251342..1252751)	xseA; exodeoxyribonuclease large subunit
+nmi:NMO_1200	CDS	1252924..1253715	nadE; putative NH(3)-dependent NAD(+) synthetase
+nmi:NMO_1201	CDS	complement(1253785..1254258)	conserved hypothetical protein
+nmi:NMO_1202	CDS	1254556..1254888	trxA; thioredoxin
+nmi:NMO_1203	CDS	complement(1255175..1255609)	hypothetical protein
+nmi:NMO_PS76	gene	complement(1255660..1255820)	pseudogene
+nmi:NMO_1205	CDS	complement(1255982..1256461)	hypothetical protein
+nmi:NMO_1206	CDS	complement(1256667..1257731)	hypothetical protein
+nmi:NMO_1207	CDS	1257942..1259330	putative ATP-dependent RNA helicase
+nmi:NMO_1208	CDS	complement(1259975..1260529)	hypothetical protein
+nmi:NMO_1209	CDS	complement(1260614..1261114)	hypothetical protein
+nmi:NMO_1210	CDS	1261518..1262711	argD; acetylornithine aminotransferase
+nmi:NMO_1211	CDS	complement(1262776..1264020)	clpX; ATP-dependent Clp protease, ATP-binding subunit ClpX
+nmi:NMO_1212	CDS	1264210..1264581	rbfA; Ribosome-binding factor A
+nmi:NMO_1213	CDS	1264571..1265116	hypothetical protein
+nmi:NMO_1214	CDS	1265174..1266094	truB; tRNA pseudouridine synthase B
+nmi:NMO_1215	gene	1266414..1268440	pseudogene
+nmi:NMO_1216	CDS	1268430..1271210	putative type III restriction endonuclease
+nmi:NMO_1217	CDS	complement(1271346..1272587)	lldA; L-lactate dehydrogenase
+nmi:NMO_1218	CDS	1272868..1273314	putative transcription factor
+nmi:NMO_1219	CDS	1273343..1274557	cysteine desulfurase
+nmi:NMO_1220	CDS	1274542..1274751	hypothetical protein
+nmi:NMO_1221	CDS	1274817..1275203	putative NifU-like protein
+nmi:NMO_1222	CDS	1275290..1275610	HesB/YadR/YfhF family protein
+nmi:NMO_1223	CDS	1275873..1276373	hscB; chaperone protein
+nmi:NMO_1224	CDS	1276471..1279221	gyrA; DNA gyrase subunit A
+nmi:NMO_1225	gene	1279542..1279781	NMO_1225
+nmi:NMO_1226	gene	1279840..1280295	NMO_1226
+nmi:NMO_1227	gene	1280199..1280495	NMO_1227
+nmi:NMO_1228	CDS	complement(1280641..1280751)	hypothetical protein
+nmi:NMO_1229	CDS	complement(1280826..1281377)	hypothetical protein
+nmi:NMO_1230	CDS	complement(1281391..1283037)	pgi1; Glucose-6-phosphate isomerase
+nmi:NMO_1231	CDS	complement(1283158..1284006)	putative RpiR-family transcriptional regulator
+nmi:NMO_1232	CDS	complement(1284056..1285042)	glk; Glucokinase
+nmi:NMO_1233	CDS	complement(1285023..1285718)	pgl; 6-phosphogluconolactonase
+nmi:NMO_1234	CDS	complement(1285998..1287443)	zwf; Glucose-6-phosphate 1-dehydrogenase
+nmi:NMO_1235	CDS	1287959..1289794	edd; phosphogluconate dehydratase
+nmi:NMO_1236	CDS	1289975..1290613	eda; 2-dehydro-3-deoxyphosphogluconate aldolase / 4-hydroxy-2-oxoglutarate aldolase
+nmi:NMO_1237	gene	complement(1290869..1291910)	pseudogene
+nmi:NMO_1238	CDS	1292073..1293113	mutY; A/G-specific adenine glycosylase
+nmi:NMO_1239	CDS	1293128..1293295	hypothetical protein predicted by Glimmer/Critica
+nmi:NMO_1240	CDS	1293530..1294090	sodC; superoxide dismutase
+nmi:NMO_1241	gene	complement(1294509..1295435)	NMO_1241
+nmi:NMO_1242	CDS	complement(1295659..1297887)	putative cytolysin secretion ABC transporter
+nmi:NMO_1243	gene	complement(1298700..1299239)	NMO_1243
+nmi:NMO_1244	CDS	1299576..1300010	putative membrane protein
+nmi:NMO_1245	CDS	1300051..1300242	FrpA/C-related protein, truncated
+nmi:NMO_1246	CDS	1300277..1301005	conserved hypothetical protein
+nmi:NMO_1247	CDS	1300992..1305260	FrpA/C-related protein
+nmi:NMO_1248	CDS	complement(1305602..1308205)	pepN; Aminopeptidase N
+nmi:NMO_1249	CDS	complement(1308341..1309135)	conserved hypothetical protein
+nmi:NMO_1250	CDS	complement(1309251..1309385)	hypothetical protein
+nmi:NMO_1251	CDS	complement(1309885..1310766)	lipid A biosynthesis lauroyl acyltransferase
+nmi:NMO_1252	CDS	complement(1310805..1311341)	ruvC; crossover junction endodeoxyribonuclease RuvC
+nmi:NMO_1253	CDS	complement(1311344..1311583)	fis; DNA-binding protein
+nmi:NMO_1254	CDS	complement(1311613..1312737)	putative tRNA-dihydrouridine synthase
+nmi:NMO_1255	CDS	1312991..1314364	putative ATP-dependent RNA helicase
+nmi:NMO_1256	CDS	1314844..1315722	hypothetical DNA-binding protein
+nmi:NMO_1257	CDS	1315726..1315956	conserved hypothetical protein
+nmi:NMO_1258	CDS	complement(1316140..1317651)	lysS; lysyl-tRNA synthetase
+nmi:NMO_1259	CDS	complement(1317806..1319059)	putative membrane protein
+nmi:NMO_1260	CDS	1319517..1321313	putative aminopeptidase
+nmi:NMO_1261	gene	complement(1322631..1322924)	NMO_1261
+nmi:NMO_1262	CDS	complement(1323624..1324823)	porA; outer membrane porin protein precursor
+nmi:NMO_1263	CDS	complement(1329154..1329630)	greA; Transcription elongation factor
+nmi:NMO_1264	CDS	1330025..1331326	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+nmi:NMO_1265	CDS	complement(1331369..1331902)	putative lipoprotein
+nmi:NMO_1266	CDS	complement(1331958..1333535)	phopholipase D-family protein
+nmi:NMO_1267	CDS	complement(1333596..1335002)	putative membrane transport protein
+nmi:NMO_1268	CDS	1335286..1336065	putative Fe-S oxidoreductase
+nmi:NMO_1269	CDS	1336062..1336763	conserved hypothetical protein
+nmi:NMO_1270	CDS	1336760..1338214	conserved hypothetical iron-sulphur protein
+nmi:NMO_1271	CDS	complement(1338397..1338882)	purE; phosphoribosylaminoimidazole carboxylase catalytic subunit
+nmi:NMO_1272	CDS	complement(1338931..1339644)	conserved hypothetical protein
+nmi:NMO_1273	CDS	complement(1339644..1340312)	putative O-methyltransferase
+nmi:NMO_1274	CDS	complement(1340323..1340508)	conserved hypothetical protein
+nmi:NMO_1275	CDS	1340651..1342627	mutL; DNA mismatch repair protein MutL
+nmi:NMO_1276	CDS	1342722..1344854	dnaZX; putative DNA polymerase III tau and gamma chain
+nmi:NMO_1277	CDS	1344935..1345270	conserved hypothetical protein
+nmi:NMO_1278	CDS	complement(1346521..1347567)	recA; RecA protein
+nmi:NMO_1279	CDS	1347788..1348585	aroD; 3-dehydroquinate dehydratase
+nmi:NMO_1280	CDS	1348605..1350620	rep; ATP-dependent DNA helicase
+nmi:NMO_1281	CDS	complement(1350687..1351745)	DNA-damage-inducible protein p
+nmi:NMO_1282	CDS	complement(1351889..1352317)	putative TonB-dependent siderophore receptor, truncated
+nmi:NMO_1283	gene	1352358..1353365	NMO_1283
+nmi:NMO_1284	CDS	1353522..1354361	putative ferredoxin--NADP reductase
+nmi:NMO_1285	CDS	complement(1354572..1355957)	putative DNA polymerase III subunit
+nmi:NMO_tRNA26	tRNA	1356075..1356151	tRNA-Arg
+nmi:NMO_tRNA27	tRNA	1356169..1356243	tRNA-Glu
+nmi:NMO_1286	CDS	1356802..1357977	putative oxidoreductase, 2-nitropropane dioxygenase family
+nmi:NMO_1287	CDS	complement(1358037..1358585)	conserved hypothetical protein
+nmi:NMO_1288	CDS	complement(1358588..1360084)	putative iron-sulfur 4Fe-4S ferredoxin transmembrane protein
+nmi:NMO_1289	CDS	1360612..1362591	tkt; Transketolase
+nmi:NMO_1290	CDS	1362732..1364120	fumC; fumarate hydratase
+nmi:NMO_1291	CDS	complement(1364185..1365108)	putative conserved membrane protein
+nmi:NMO_1292	CDS	complement(1365633..1366157)	ssb; single-strand binding protein
+nmi:NMO_1293	CDS	complement(1366161..1367546)	MFS family transporter
+nmi:NMO_1294	CDS	complement(1367654..1368277)	putative transglycoxylase
+nmi:NMO_1295	gene	complement(1368966..1369386)	NMO_1295
+nmi:NMO_1296	CDS	complement(1369424..1369915)	putative type I restriction-modification system DNA methylase
+nmi:NMO_1297	CDS	1371188..1371919	conserved hypothetical protein
+nmi:NMO_1298	CDS	1372036..1373544	ppx; Exopolyphosphatase
+nmi:NMO_1299	CDS	complement(1373753..1374076)	hypothetical protein
+nmi:NMO_1300	CDS	complement(1374395..1374736)	hypothetical protein
+nmi:NMO_1301	CDS	complement(1374742..1375752)	trpS; Tryptophanyl-tRNA synthetase
+nmi:NMO_1302	CDS	1376013..1378592	clpB; putative ClpB protein
+nmi:NMO_1303	CDS	complement(1378679..1379893)	putative aminotransferase
+nmi:NMO_1304	CDS	complement(1379982..1380191)	putative 4-oxalocrotonate tautomerase
+nmi:NMO_1305	CDS	1380535..1381314	predicted ABC-type transport system protein, periplasmic component
+nmi:NMO_1306	CDS	complement(1381299..1381442)	hypothetical protein
+nmi:NMO_1307	CDS	complement(1381503..1382768)	gdhA1; glutamate dehydrogenase
+nmi:NMO_1308	CDS	1383175..1383885	phosphoglycolate phosphatase
+nmi:NMO_1309	CDS	1383922..1384419	putative regulatory protein RecX
+nmi:NMO_1310	CDS	1384493..1384654	hypothetical protein
+nmi:NMO_1311	CDS	1384807..1385289	putative acyl-CoA hydrolase
+nmi:NMO_1312	CDS	complement(1385650..1386897)	putative membrane peptidase
+nmi:NMO_1313	CDS	complement(1387153..1387899)	surE; acid phosphatase
+nmi:NMO_1314	CDS	complement(1387916..1389472)	putative membrane protein
+nmi:NMO_1315	CDS	complement(1389840..1390628)	putative fimbrial assembly protein
+nmi:NMO_1316	CDS	complement(1390738..1392171)	gabD; succinate semialdehyde dehydrogenase
+nmi:NMO_1317	CDS	complement(1392835..1393215)	putative secreted protein
+nmi:NMO_1318	CDS	1393691..1395772	cstA; carbon starvation protein
+nmi:NMO_1319	CDS	1395762..1395956	conserved hypothetical protein
+nmi:NMO_1320	gene	1396936..1397313	pseudogene
+nmi:NMO_1321	CDS	1398434..1401202	TonB-dependent receptor
+nmi:NMO_1322	CDS	complement(1402697..1403914)	lysC; aspartokinase
+nmi:NMO_1323	CDS	complement(1404116..1404844)	rph; ribonuclease PH
+nmi:NMO_1324	CDS	complement(1404926..1405465)	putative universal stress protein
+nmi:NMO_1325	CDS	1405607..1406383	HesA/MoeB/ThiF-family protein
+nmi:NMO_1326	CDS	1406628..1407482	segregation and condensation protein A
+nmi:NMO_1327	CDS	1407472..1408731	pncB; nicotinate phosphoribosyltransferase
+nmi:NMO_1328	CDS	1408823..1410541	argS; Arginyl-tRNA synthetase
+nmi:NMO_1329	CDS	1411104..1412522	conserved hypothetical membrane protein
+nmi:NMO_1330	CDS	complement(1413458..1414204)	glnP; putative amino acid ABC transporter
+nmi:NMO_1331	CDS	complement(1414383..1415084)	putative nuclease
+nmi:NMO_1332	CDS	complement(1415123..1415794)	rpiA; ribose 5-phosphate isomerase A
+nmi:NMO_1333	CDS	complement(1415871..1416353)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+nmi:NMO_1334	CDS	complement(1416385..1417074)	ispD; 4-diphosphocytidyl-2C-methyl-D-erythritolsynthase
+nmi:NMO_1335	CDS	complement(1417071..1417805)	dnaQ; DNA polymerase III, epsilon subunit
+nmi:NMO_1336	CDS	complement(1417960..1419270)	putative transporter
+nmi:NMO_1337	CDS	complement(1419260..1419448)	fixS; putative nitrogen fixation protein FixS
+nmi:NMO_1338	CDS	complement(1419445..1419744)	hypothetical protein
+nmi:NMO_1339	CDS	1420095..1421291	ackA1; Acetate kinase
+nmi:NMO_1340	CDS	complement(1421701..1423542)	Thiol:disulfide interchange protein
+nmi:NMO_1341	CDS	1423633..1424103	conserved hypothetical protein
+nmi:NMO_1342	CDS	complement(1424176..1424988)	putative phytoene synthase
+nmi:NMO_1343	CDS	complement(1425075..1425557)	peptidyl-prolyl cis-trans isomerase
+nmi:NMO_1344	CDS	1426030..1426326	putative cytoplasmic membrane or periplasmic protein
+nmi:NMO_1345	CDS	1426436..1427803	putative oxidoreductase
+nmi:NMO_1346	CDS	complement(1427984..1429927)	putative autotransporter protein
+nmi:NMO_1347	CDS	complement(1430392..1430838)	smpB; tmRNA-binding protein SmpB
+nmi:NMO_1348	CDS	complement(1430893..1431903)	rfaF; ADP-heptose--LPS heptosyltransferase II
+nmi:NMO_tRNA28	tRNA	complement(1432034..1432109)	tRNA-Asn
+nmi:NMO_1349	CDS	complement(1432300..1433052)	Methylated DNA-protein cysteine methyltransferase
+nmi:NMO_1350	CDS	complement(1433587..1434099)	hypothetical protein
+nmi:NMO_1351	CDS	complement(1434627..1435772)	dapE; succinyl-diaminopimelate desuccinylase
+nmi:NMO_1352	CDS	complement(1435885..1436505)	conserved hypothetical protein
+nmi:NMO_1353	CDS	complement(1436539..1437048)	conserved hypothetical protein
+nmi:NMO_1354	CDS	complement(1437143..1437694)	H.8 outer membrane protein
+nmi:NMO_1355	CDS	complement(1437975..1438397)	conserved hypothetical protein
+nmi:NMO_1356	CDS	1438528..1441278	secA; preprotein translocase secA subunit
+nmi:NMO_1357	CDS	1441424..1443196	dnaG; DNA primase
+nmi:NMO_1358	CDS	1443383..1445311	rpoD; RNA polymerase sigma factor
+nmi:NMO_1359	CDS	complement(1445753..1448464)	putative type III restriction enzyme
+nmi:NMO_1360	gene	complement(1448637..1449713)	pseudogene
+nmi:NMO_1361	CDS	complement(1449691..1451379)	putative type III DNA modification methylase
+nmi:NMO_1362	CDS	complement(1451399..1453138)	possible abortive infection phage resistance protein
+nmi:NMO_1363	CDS	complement(1453138..1455936)	putative DEAD/DEAH box helicase
+nmi:NMO_1364	CDS	complement(1456433..1458067)	pyrG; CTP synthase
+nmi:NMO_1365	CDS	complement(1458179..1459849)	fadD; long-chain-fatty-acid--CoA ligase
+nmi:NMO_1366	CDS	complement(1459920..1461023)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+nmi:NMO_1367	CDS	complement(1461149..1461622)	conserved hypothetical protein
+nmi:NMO_1368	CDS	complement(1461915..1462298)	dgk; Diacylglycerol kinase
+nmi:NMO_1369	CDS	complement(1462610..1463566)	gshB; glutathione synthetase
+nmi:NMO_1370	CDS	complement(1463659..1465380)	glnS1; glutaminyl-tRNA synthetase
+nmi:NMO_1371	CDS	complement(1465459..1466232)	glpR; putative DeoR-family transcriptional regulator
+nmi:NMO_1372	CDS	complement(1466275..1467177)	putative membrane protein
+nmi:NMO_1373	CDS	complement(1467326..1468042)	GntR-family transcriptional regulator
+nmi:NMO_1374	CDS	complement(1468461..1468595)	hypothetical protein
+nmi:NMO_1375	CDS	complement(1468611..1469033)	putative OsmC-like stress-induced protein
+nmi:NMO_1376	CDS	complement(1469150..1469818)	conserved hypothetical membrane protein
+nmi:NMO_1377	CDS	complement(1469837..1470559)	purN; Phosphoribosylglycinamide formyltransferase
+nmi:NMO_1378	CDS	complement(1470570..1471388)	peptidyl-prolyl cis-trans isomerase, FKBP-type
+nmi:NMO_1379	CDS	complement(1471647..1472087)	holC; DNA polymerase III chi subunit
+nmi:NMO_1380	CDS	complement(1472150..1473556)	pepA; aminopeptidase A
+nmi:NMO_1381	CDS	1473726..1474841	putative permease
+nmi:NMO_1382	CDS	1474838..1475908	putative permease
+nmi:NMO_1383	CDS	1476208..1478793	acnB; aconitate hydratase 2
+nmi:NMO_1384	CDS	1478935..1479930	argF; Ornithine carbamoyltransferase
+nmi:NMO_1385	CDS	complement(1480117..1481130)	ilvC; Ketol-acid reductoisomerase
+nmi:NMO_1386	CDS	complement(1481210..1481503)	conserved hypothetical protein
+nmi:NMO_1387	CDS	complement(1481570..1482061)	ilvH; acetolactate synthase small subunit
+nmi:NMO_1388	CDS	complement(1482072..1483799)	ilvI; acetolactate synthase large subunit
+nmi:NMO_1389	CDS	complement(1484546..1484686)	hypothetical protein
+nmi:NMO_1390	CDS	complement(1484940..1486697)	putative superfamily II helicase
+nmi:NMO_1391	CDS	complement(1486815..1487867)	putative prophage DNA primase
+nmi:NMO_1392	CDS	complement(1487864..1488085)	putative membrane protein
+nmi:NMO_1393	CDS	complement(1488238..1488438)	hypothetical protein
+nmi:NMO_1394	CDS	1488388..1488570	hypothetical protein
+nmi:NMO_1395	CDS	1488761..1488928	hypothetical protein
+nmi:NMO_1396	CDS	1489044..1489697	putative transcriptional regulator
+nmi:NMO_1397	CDS	complement(1489692..1489946)	hypothetical phage protein
+nmi:NMO_1398	CDS	complement(1490009..1490224)	putative prophage regulatory protein
+nmi:NMO_1399	CDS	complement(1490378..1491070)	hypothetical protein
+nmi:NMO_1400	CDS	complement(1491074..1492171)	putative DNA-binding protein
+nmi:NMO_1401	CDS	complement(1492524..1492940)	PilT protein-like
+nmi:NMO_1402	CDS	complement(1492943..1493218)	putative prevent-host-death protein
+nmi:NMO_1403	gene	complement(1493666..1494947)	intB; pseudogene
+nmi:NMO_1404	gene	complement(1495115..1496275)	NMO_1404
+nmi:NMO_1405	gene	1496457..1497422	NMO_1405
+nmi:NMO_tRNA29	tRNA	complement(1497614..1497698)	tRNA-Leu
+nmi:NMO_1406	CDS	1497975..1498628	putative SCO1/SenC family protein
+nmi:NMO_1407	CDS	1498638..1499360	hisG; ATP phosphoribosyltransferase
+nmi:NMO_1408	CDS	1499464..1500363	conserved hypothetical protein
+nmi:NMO_1409	CDS	1500360..1501649	hisD; Histidinol dehydrogenase
+nmi:NMO_1410	CDS	1501695..1502792	hisC; histidinol-phosphate aminotransferase
+nmi:NMO_1411	CDS	1502789..1503706	hisB; Imidazoleglycerol-phosphate dehydratase
+nmi:NMO_1412	CDS	1503800..1504669	3-hydroxyisobutyrate dehydrogenase
+nmi:NMO_1413	CDS	1504794..1505225	putative MarR-family transcriptional regulator
+nmi:NMO_1414	CDS	1505420..1506103	putative membrane protein
+nmi:NMO_1415	CDS	complement(1506154..1507206)	sohB; putative protease SohB
+nmi:NMO_tRNA30	tRNA	complement(1507310..1507399)	tRNA-Leu
+nmi:NMO_tRNA31	tRNA	complement(1507502..1507575)	tRNA-Cys
+nmi:NMO_tRNA32	tRNA	complement(1507602..1507677)	tRNA-Gly
+nmi:NMO_tRNA33	tRNA	complement(1507699..1507774)	tRNA-Gly
+nmi:NMO_tRNA34	tRNA	complement(1507798..1507873)	tRNA-Gly
+nmi:NMO_tRNA35	tRNA	complement(1507899..1507974)	tRNA-Gly
+nmi:NMO_1416	CDS	complement(1508054..1508668)	pgsA; putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+nmi:NMO_1417	CDS	complement(1508723..1509145)	hypothetical protein
+nmi:NMO_1418	CDS	complement(1509477..1509812)	conserved hypothetical protein
+nmi:NMO_1419	CDS	1509869..1510846	putative ARAC-type regulatory protein
+nmi:NMO_1420	CDS	complement(1510908..1511396)	conserved hypothetical protein
+nmi:NMO_1421	CDS	1511543..1512445	conserved hypothetical inner membrane protein
+nmi:NMO_1422	CDS	complement(1512486..1513616)	putative spermidine/putrescine transport system substrate-binding protein
+nmi:NMO_1423	CDS	1513787..1516444	alaS; Alanyl-tRNA synthetase
+nmi:NMO_1424	CDS	complement(1516533..1517555)	putative type II restriction endonuclease
+nmi:NMO_1425	CDS	complement(1517609..1518778)	putative type II DNA modification methylase
+nmi:NMO_1426	gene	1519391..1520398	NMO_1426
+nmi:NMO_1427	gene	complement(1520310..1521437)	NMO_1427
+nmi:NMO_1428	CDS	1521614..1522558	putative tellurite resistance protein
+nmi:NMO_1429	CDS	complement(1522632..1523315)	gpm; phosphoglycerate mutase
+nmi:NMO_1430	CDS	1523618..1525915	parC; topoisomerase IV subunit A
+nmi:NMO_1431	CDS	1525936..1527528	two-component system sensor protein
+nmi:NMO_1432	CDS	1527521..1527988	sigma-54 dependent response regulator
+nmi:NMO_1433	CDS	1528092..1528844	conserved hypothetical protein
+nmi:NMO_1434	gene	1529110..1530117	NMO_1434
+nmi:NMO_1435	CDS	complement(1531196..1531402)	conserved hypothetical protein
+nmi:NMO_1436	CDS	complement(1531497..1532666)	metZ; O-succinylhomoserine sulfhydrylase
+nmi:NMO_1437	CDS	complement(1532965..1533726)	conserved hypothetical protein
+nmi:NMO_1438	CDS	1533826..1534077	conserved hypothetical protein
+nmi:NMO_1439	CDS	1534129..1534935	hisJ3; histidine transport system substrate-binding protein
+nmi:NMO_1440	CDS	1535242..1536765	fumA; fumarate hydratase, class I
+nmi:NMO_1441	CDS	1536863..1538275	trkA; potassium uptake protein TrkA
+nmi:NMO_1442	CDS	1538813..1539076	hypothetical protein
+nmi:NMO_tRNA36	tRNA	1539090..1539165	tRNA-Glu
+nmi:NMO_1443	CDS	1540100..1540906	thiD; phosphomethylpyrimidine kinase
+nmi:NMO_1444	CDS	complement(1540956..1541825)	putative tellurite resistance protein
+nmi:NMO_1445	CDS	1541939..1542376	rnhA; Ribonuclease HI
+nmi:NMO_1446	CDS	complement(1542449..1542862)	conserved hypothetical protein
+nmi:NMO_1447	CDS	1542987..1543367	hypothetical transcriptional regulator
+nmi:NMO_1448	CDS	1543364..1543768	putative HIT domain protein
+nmi:NMO_1449	CDS	1543808..1544992	putative self-immunity microcin-like protein
+nmi:NMO_1450	CDS	complement(1545055..1545588)	gpxA; Glutathione peroxidase
+nmi:NMO_1451	CDS	complement(1545767..1548022)	norB; nitric-oxide reductase
+nmi:NMO_1452	CDS	1548534..1549706	aniA; nitrite reductase
+nmi:NMO_1453	CDS	1549833..1550588	conserved hypothetical protein
+nmi:NMO_1454	gene	1552219..1552984	pseudogene
+nmi:NMO_1455	CDS	complement(1553185..1553742)	predicted nitroreductase
+nmi:NMO_1456	CDS	complement(1553818..1555452)	putative membrane protein
+nmi:NMO_1457	CDS	complement(1555526..1555855)	putative secreted protein
+nmi:NMO_1458	CDS	complement(1555855..1556961)	serC; Phosphoserine aminotransferase
+nmi:NMO_1459	CDS	1557326..1557757	conserved hypothetical protein
+nmi:NMO_1460	CDS	1557785..1559287	nusA; N utilization substance protein A
+nmi:NMO_1461	CDS	1559299..1562187	infB; translation initiation factor IF-2
+nmi:NMO_1462	CDS	complement(1562398..1563792)	putative GTP-binding conserved hypothetical protein
+nmi:NMO_1463	CDS	complement(1563854..1565203)	putative inner membrane protein
+nmi:NMO_1464	CDS	1565346..1565972	Hly-III related protein
+nmi:NMO_1465	CDS	complement(1566036..1567454)	probable amino acid carrier protein
+nmi:NMO_1466	CDS	1567781..1568509	conserved hypothetical protein
+nmi:NMO_1467	CDS	complement(1568568..1569056)	putative disulfide bond formation protein
+nmi:NMO_1468	CDS	complement(1569290..1569511)	hypothetical protein
+nmi:NMO_1469	CDS	complement(1569814..1570278)	lrp3; leucine-responsive regulatory protein
+nmi:NMO_1470	CDS	1570603..1571661	alr; Alanine racemase
+nmi:NMO_1471	CDS	complement(1571725..1573080)	conserved hypothetical protein
+nmi:NMO_1472	CDS	complement(1573095..1573367)	conserved hypothetical protein
+nmi:NMO_1473	CDS	complement(1573492..1574229)	conserved hypothetical periplasmic protein
+nmi:NMO_1474	CDS	complement(1574510..1575421)	putative adenine-specific methylase
+nmi:NMO_1475	CDS	1575554..1576147	hypothetical protein
+nmi:NMO_1476	CDS	1576259..1577179	hypothetical protein
+nmi:NMO_1477	CDS	complement(1576810..1577256)	comEA3; putative DNA transport competence protein
+nmi:NMO_rRNA04	rRNA	complement(1577310..1577426)	5S ribosomal RNA
+nmi:NMO_rRNA05	rRNA	complement(1577520..1580410)	23S ribosomal RNA
+nmi:NMO_tRNA37	tRNA	complement(1580819..1580894)	tRNA-Ala
+nmi:NMO_tRNA38	tRNA	complement(1580900..1580976)	tRNA-Ile
+nmi:NMO_rRNA06	rRNA	complement(1581076..1582619)	16S ribosomal RNA
+nmi:NMO_1478	CDS	1583146..1584330	DNA/pantothenate metabolism flavoprotein
+nmi:NMO_1479	CDS	complement(1584397..1586553)	spoT; guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+nmi:NMO_1480	CDS	complement(1586645..1586851)	rpoZ; DNA-directed RNA polymerase omega chain
+nmi:NMO_1481	CDS	complement(1586910..1587527)	gmk; Guanylate kinase
+nmi:NMO_1482	CDS	1587655..1588254	apt; adenine phosphoribosyltransferase
+nmi:NMO_1483	CDS	complement(1588300..1589088)	predicted hydrolase of the HAD superfamily
+nmi:NMO_1484	CDS	1589413..1590768	probable protease
+nmi:NMO_1485	CDS	1590902..1591378	conserved hypothetical protein
+nmi:NMO_1486	CDS	complement(1591586..1593934)	hpuB; hemoglobin receptor
+nmi:NMO_1487	CDS	complement(1594124..1594753)	hemO; Heme oxygenase
+nmi:NMO_1488	CDS	1595240..1596574	pqiA; paraquat-inducible protein A
+nmi:NMO_1489	CDS	1596552..1598228	pqiB; Paraquat-inducible protein B
+nmi:NMO_1490	CDS	1598228..1598746	conserved hypthetical lipoprotein
+nmi:NMO_1491	CDS	1598750..1599301	tag; DNA-3-methyladenine glycosylase I
+nmi:NMO_1492	CDS	1599291..1599932	putative periplasmic lipase
+nmi:NMO_1493	CDS	complement(1599984..1600208)	hypothetical protein
+nmi:NMO_1494	CDS	1600207..1600569	putative integral membrane protein
+nmi:NMO_1495	CDS	1600600..1603452	gcvP; glycine dehydrogenase
+nmi:NMO_1496	CDS	complement(1603917..1604756)	putative cytochrome c5
+nmi:NMO_tRNA39	tRNA	1605041..1605116	tRNA-Arg
+nmi:NMO_1497	CDS	complement(1605181..1606374)	tyrB; aromatic amino acid aminotransferase
+nmi:NMO_1498	CDS	complement(1606395..1607483)	trmA; tRNA (uracil-5-)-methyltransferase
+nmi:NMO_1499	CDS	1607626..1608726	aroC; Chorismate synthase
+nmi:NMO_1500	CDS	1608818..1609243	conserved hypothetical protein
+nmi:NMO_1501	CDS	complement(1609503..1611488)	parE; topoisomerase IV subunit B
+nmi:NMO_1502	CDS	complement(1611555..1612103)	probable (di)nucleoside polyphosphate hydrolase
+nmi:NMO_1503	CDS	1612246..1613541	serS; Seryl-tRNA synthetase
+nmi:NMO_1504	CDS	complement(1613619..1614656)	ldhA; D-lactate dehydrogenase
+nmi:NMO_1505	CDS	complement(1614742..1615818)	prfA; peptide chain release factor 1
+nmi:NMO_1506	CDS	complement(1615908..1616753)	putative deoxyribonuclease
+nmi:NMO_1507	CDS	complement(1616793..1617782)	ansA; L-asparaginase
+nmi:NMO_1508	CDS	complement(1617849..1618532)	DedA-family integral membrane protein
+nmi:NMO_1509	CDS	complement(1618720..1620054)	glmM; phosphoglucosamine mutase
+nmi:NMO_1510	CDS	complement(1620184..1621035)	dhpS; dihydropteroate synthase
+nmi:NMO_1511	CDS	1621185..1623380	conserved hypothetical protein
+nmi:NMO_1512	CDS	complement(1623444..1624922)	3-polyprenyl-4-hydroxybenzoate decarboxylase
+nmi:NMO_1513	CDS	complement(1624942..1625457)	conserved hypothetical protein
+nmi:NMO_1514	CDS	complement(1625464..1625898)	Predicted membrane protein
+nmi:NMO_1515	gene	1626136..1627143	NMO_1515
+nmi:NMO_1516	CDS	complement(1627421..1627843)	conserved hypothetical protein
+nmi:NMO_1517	gene	1628030..1628698	NMO_1517
+nmi:NMO_1518	gene	1628848..1630041	fabF2; pseudogene
+nmi:NMO_tRNA40	tRNA	1630095..1630170	tRNA-Met
+nmi:NMO_1519	CDS	1630245..1631003	lgtF; beta 1,4 glucosyltransferase
+nmi:NMO_1520	CDS	1631004..1632068	rfaK; alpha 1,2 N-acetylglucosamine transferase
+nmi:NMO_1521	CDS	1632455..1633792	putative sodium dependent ion transport protein
+nmi:NMO_1522	gene	complement(1633964..1634624)	pseudogene
+nmi:NMO_1523	CDS	complement(1634635..1635429)	thyA; Thymidylate synthase
+nmi:NMO_1524	CDS	1635813..1637147	gdhA3; glutamate dehydrogenase
+nmi:NMO_1525	CDS	1637295..1637663	hypothetical protein
+nmi:NMO_1526	CDS	1637707..1637964	putative acetyltransferase
+nmi:NMO_1527	CDS	complement(1638150..1638929)	putative FadR transcriptional regulator
+nmi:NMO_1528	CDS	1639536..1639763	L-lactate permease-related protein
+nmi:NMO_1529	CDS	1639790..1639939	hypothetical protein
+nmi:NMO_1530	CDS	complement(1640141..1641544)	mtrE; probable outer membrane lipoprotein
+nmi:NMO_1531	CDS	complement(1641599..1644802)	mtrD; putative efflux system transmembrane protein
+nmi:NMO_1532	CDS	complement(1644814..1646052)	mtrC; membrane fusion protein
+nmi:NMO_1533	CDS	1646456..1647088	mtrR; transcriptional regulator mtrR
+nmi:NMO_1534	CDS	complement(1647367..1647624)	hypothetical protein
+nmi:NMO_1535	CDS	1647912..1649480	mtrF; putative efflux pump component MtrF
+nmi:NMO_1536	CDS	complement(1649550..1652759)	recC; exodeoxyribonuclease V gamma chain
+nmi:NMO_1537	CDS	complement(1652860..1654269)	hypothetical iron-regulated membrane protein
+nmi:NMO_1538	gene	complement(1654471..1655802)	ccoP; pseudogene
+nmi:NMO_1539	CDS	complement(1655826..1655996)	ccoQ; cb-type cytochrome c oxidase subunit IV
+nmi:NMO_1540	CDS	complement(1656001..1656612)	ccoO; cytochrome c oxidase subunit II
+nmi:NMO_1541	CDS	complement(1656639..1658072)	ccoN; cytochrome c oxidase subunit I
+nmi:NMO_1542	CDS	1658399..1660147	putative PDZ domain protease
+nmi:NMO_1543	CDS	1660212..1660640	conserved hypothetical protein
+nmi:NMO_1544	CDS	complement(1661141..1661575)	exbD; biopolymer transport protein ExbD/TolR
+nmi:NMO_1545	CDS	complement(1661578..1662240)	exbB; MotA/TolQ/ExbB proton channel family protein
+nmi:NMO_1546	CDS	complement(1662306..1663148)	tonB3; TonB protein
+nmi:NMO_1547	CDS	1663403..1664041	putative peptidase
+nmi:NMO_1548	gene	1664245..1664574	pseudogene
+nmi:NMO_1549	CDS	complement(1664493..1665293)	putative heavy metal transporter
+nmi:NMO_1550	CDS	complement(1665429..1665950)	hypothetical integral membrane protein
+nmi:NMO_1551	CDS	complement(1666272..1666913)	grxB; Glutaredoxin 2
+nmi:NMO_1552	CDS	1666890..1667108	hypothetical protein
+nmi:NMO_1553	CDS	1667161..1669374	relA; GTP pyrophosphokinase
+nmi:NMO_1554	gene	1669862..1670455	NMO_1554
+nmi:NMO_1555	CDS	complement(1670619..1672022)	natC; putative outer membrane protein
+nmi:NMO_1556	CDS	complement(1672091..1673518)	natD'; putative periplasmic type I secretion system protein
+nmi:NMO_1557	CDS	1674033..1674599	hypothetical protein
+nmi:NMO_1558	CDS	1675025..1676026	putative phage-related protein
+nmi:NMO_1559	CDS	1676071..1676361	conserved hypothetical protein
+nmi:NMO_1560	CDS	1676366..1676563	conserved hypothetical protein
+nmi:NMO_1561	CDS	1676571..1676855	conserved putative membrane protein
+nmi:NMO_1562	CDS	1676862..1677140	hypothetical protein
+nmi:NMO_tRNA41	tRNA	complement(1677478..1677553)	tRNA-Asn
+nmi:NMO_1563	CDS	complement(1677646..1678005)	conserved hypothetical protein
+nmi:NMO_1564	CDS	complement(1678028..1678672)	conserved hypothetical protein
+nmi:NMO_1565	CDS	complement(1678674..1679210)	conserved hypothetical ATP binding protein
+nmi:NMO_1566	CDS	complement(1679222..1680319)	conserved hypothetical protein
+nmi:NMO_1567	CDS	complement(1680322..1681758)	conserved hypothetical protein
+nmi:NMO_1568	CDS	complement(1681978..1682760)	bioC; putative biotin synthesis protein
+nmi:NMO_1569	CDS	complement(1682748..1683395)	conserved hypothetical protein
+nmi:NMO_1570	CDS	complement(1683405..1684547)	bioF; 8-amino-7-oxononanoate synthase
+nmi:NMO_1571	CDS	1684770..1685846	conserved hypothetical protein
+nmi:NMO_1572	CDS	complement(1686053..1687519)	putative DASS family divalent anion:Na+ symporter
+nmi:NMO_1573	CDS	complement(1687716..1688639)	speB; agmatinase
+nmi:NMO_1574	CDS	complement(1688738..1690630)	speA; biosynthetic arginine decarboxylase
+nmi:NMO_1575	CDS	complement(1690797..1691150)	hypothetical periplasmic protein
+nmi:NMO_1576	CDS	complement(1691232..1693040)	aspS; Aspartyl-tRNA synthetase
+nmi:NMO_1577	CDS	complement(1693098..1693799)	putative membrane protein
+nmi:NMO_1578	CDS	complement(1693942..1695069)	Outer membrane phospholipase A
+nmi:NMO_1579	CDS	complement(1695251..1695514)	rpsT; 30S ribosomal protein S20
+nmi:NMO_1580	CDS	1695763..1696959	putative spermidine/putrescine transport system substrate-binding protein
+nmi:NMO_1581	CDS	complement(1699787..1702531)	tbpA1; transferrin-binding protein A
+nmi:NMO_1582	CDS	complement(1702618..1704711)	tbpB; transferrin-binding protein B
+nmi:NMO_1583	CDS	complement(1707716..1708699)	glr; glutamate racemase MurI
+nmi:NMO_1584	CDS	1708718..1709179	putative cell wall biosynthesis ATPase or kinase
+nmi:NMO_1585	CDS	1709050..1710426	amiC; N-acetylmuramoyl-L-alanine amidase
+nmi:NMO_1586	CDS	1710503..1711324	possible cell division protein
+nmi:NMO_1587	CDS	complement(1711625..1712767)	putative N6-adenine-specific DNA methylase
+nmi:NMO_1588	CDS	complement(1712816..1713238)	conserved putative membrane protein
+nmi:NMO_1589	CDS	complement(1713231..1714040)	ADP-ribose pyrophosphatase
+nmi:NMO_1590	CDS	complement(1714122..1714499)	acpS; Phosphopantethiene-protein transferase
+nmi:NMO_1591	CDS	complement(1714699..1715391)	putative permease
+nmi:NMO_1592	CDS	complement(1715476..1716255)	putative taurine catabolism dioxygenase TauD
+nmi:NMO_1593	CDS	complement(1716407..1717135)	pdxJ; pyridoxine 5-phosphate synthase
+nmi:NMO_1594	CDS	complement(1717188..1717934)	recO; DNA repair protein RecO
+nmi:NMO_1595	CDS	complement(1717965..1719092)	pheA; chorismate mutase/prephenate dehydratase
+nmi:NMO_1596	CDS	complement(1719131..1720363)	putative integral membrane efflux protein
+nmi:NMO_1597	gene	complement(1720883..1721762)	pseudogene
+nmi:NMO_1598	gene	1722445..1723113	opaA; pseudogene
+nmi:NMO_1599	CDS	complement(1724848..1725762)	putative nitrilase
+nmi:NMO_1600	CDS	1725745..1726617	Prephenate dehydrogenase
+nmi:NMO_1601	CDS	complement(1726674..1727828)	putative uncharacterized protein involved in response to NO
+nmi:NMO_1602	CDS	complement(1727873..1728241)	hypothetical protein
+nmi:NMO_1603	CDS	1728415..1728858	putative transcriptional regulator
+nmi:NMO_1604	CDS	complement(1728985..1729605)	putative translation factor
+nmi:NMO_1605	CDS	complement(1729713..1730912)	ackA2; Acetate kinase
+nmi:NMO_1606	CDS	complement(1731326..1732495)	prpF; putative AcnD-accessory protein PrpF
+nmi:NMO_1607	CDS	complement(1733298..1735904)	acnA; aconitate hydratase
+nmi:NMO_1608	CDS	complement(1736006..1737211)	hypothetical protein
+nmi:NMO_1609	CDS	complement(1737237..1737959)	ddpX; D-alanyl-D-alanine dipeptidase
+nmi:NMO_1610	CDS	complement(1738052..1739206)	prpC; 2-methylcitrate synthase
+nmi:NMO_1611	CDS	complement(1739292..1740170)	prpB; putative methylisocitrate lyase
+nmi:NMO_1612	CDS	complement(1740792..1742102)	probable membrane permease protein
+nmi:NMO_1613	CDS	complement(1742241..1743419)	ftsZ; cell division protein FtsZ
+nmi:NMO_1614	CDS	complement(1743538..1744782)	ftsA; cell division protein FtsA
+nmi:NMO_1615	CDS	complement(1744868..1745596)	ftsQ; cell division protein FtsQ
+nmi:NMO_1616	CDS	complement(1745586..1746500)	ddlB; D-alanine--D-alanine ligase
+nmi:NMO_1617	CDS	complement(1746614..1748134)	murC; UDP-N-acetylmuramate--alanine ligase
+nmi:NMO_1618	CDS	complement(1748178..1749245)	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+nmi:NMO_1619	CDS	complement(1749249..1750547)	ftsW; cell division protein FtsW
+nmi:NMO_1620	CDS	complement(1750700..1752037)	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+nmi:NMO_1621	CDS	complement(1752122..1752718)	TPR repeat protein
+nmi:NMO_1622	CDS	complement(1752833..1753915)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+nmi:NMO_1623	CDS	complement(1754008..1754190)	putative membrane protein
+nmi:NMO_1624	CDS	complement(1754187..1755545)	murF; UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+nmi:NMO_1625	CDS	complement(1755670..1757319)	dca; putative membrane-associated sulfatase
+nmi:NMO_1626	CDS	complement(1757342..1758820)	murE; UDP-N-acetylmuramyl-tripeptide synthetase
+nmi:NMO_1627	CDS	complement(1758845..1760590)	penA; Penicillin-binding protein 2
+nmi:NMO_1628	CDS	complement(1760651..1760920)	FtsL-related protein
+nmi:NMO_1629	CDS	complement(1760911..1761897)	S-adenosyl-methyltransferase
+nmi:NMO_1630	CDS	complement(1761894..1762349)	MraZ protein
+nmi:NMO_1631	CDS	1762628..1763845	conserved hypothetical protein
+nmi:NMO_tRNA42	tRNA	1763977..1764053	tRNA-Met
+nmi:NMO_tRNA43	tRNA	1764061..1764136	tRNA-Ala
+nmi:NMO_1632	CDS	complement(1764418..1765239)	bacA; bacitracin resistance protein
+nmi:NMO_1633	CDS	complement(1765272..1765916)	dsbA; thiol:disulfide interchange protein DsbA
+nmi:NMO_1634	CDS	complement(1765919..1766782)	ftsN; putative cell division protein FtsN
+nmi:NMO_1635	CDS	complement(1766888..1768384)	comM; putative competence protein ComM
+nmi:NMO_1636	CDS	complement(1768398..1768718)	conserved hypothetical protein
+nmi:NMO_1637	CDS	1769201..1770727	putP; sodium/proline symporter
+nmi:NMO_1638	CDS	1770976..1774581	putA; 1-pyrroline-5-carboxylate dehydrogenase / proline dehydrogenase
+nmi:NMO_1639	gene	complement(1775413..1775727)	NMO_1639
+nmi:NMO_1640	CDS	complement(1775905..1776522)	hypothetical protein
+nmi:NMO_1641	CDS	complement(1776519..1777877)	putative ABC transporter related protein
+nmi:NMO_1642	CDS	complement(1778024..1778443)	putative DNA-binding protein
+nmi:NMO_1643	gene	complement(1778694..1778951)	NMO_1643
+nmi:NMO_1644	CDS	complement(1779892..1780662)	xthA; exodeoxyribonuclease III
+nmi:NMO_1645	CDS	complement(1780722..1780883)	putative ArsR-family transcriptional regulator
+nmi:NMO_1646	CDS	complement(1781254..1782135)	nadC; nicotinate-mononucleotide pyrophosphorylase
+nmi:NMO_1647	CDS	complement(1782211..1783149)	putative nicotinic acid mononucleotide biosynthesis protein
+nmi:NMO_1648	CDS	1783454..1784566	nadA; quinolinate synthetase A
+nmi:NMO_1649	CDS	1784618..1786126	nadB; L-aspartate oxidase
+nmi:NMO_1650	CDS	complement(1786456..1787121)	pgm2; beta-phosphoglucomutase
+nmi:NMO_1651	CDS	complement(1787134..1789392)	mapA; maltose phosphorylase
+nmi:NMO_1652	CDS	complement(1789626..1790636)	galM; aldose 1-epimerase
+nmi:NMO_1653	CDS	complement(1790640..1791995)	integral membrane transport protein
+nmi:NMO_1654	CDS	1792384..1794060	probable ABC transporter ATP-binding protein
+nmi:NMO_1655	CDS	complement(1794120..1794605)	pgpA; phosphatidylglycerophosphatase A
+nmi:NMO_1656	CDS	complement(1794598..1795554)	thiL; thiamine-monophosphate kinase
+nmi:NMO_1657	CDS	complement(1796381..1797109)	rmpM; class 4 outer membrane protein
+nmi:NMO_1658	CDS	1797473..1798423	cysB; transcriptional regulator CysB
+nmi:NMO_1659	CDS	complement(1798536..1799270)	putative anaerobic transcriptional regulatory protein
+nmi:NMO_1660	CDS	1799473..1800894	hemN; oxygen-independent coproporphyrinogen III oxidase
+nmi:NMO_1661	CDS	complement(1801247..1802821)	putative phosphate permease
+nmi:NMO_1662	CDS	1803146..1804246	conserved hypothetical protein
+nmi:NMO_1663	CDS	1804365..1805306	mafA2-2; putative adhesin MafA
+nmi:NMO_1664	CDS	1805310..1807034	mafB17; putative adhesin MafB
+nmi:NMO_1665	CDS	1807041..1807310	hypothetical protein
+nmi:NMO_1666	CDS	1807470..1808015	hypothetical protein
+nmi:NMO_1667	CDS	1808198..1808809	mafB19; putative MafB alternative C-terminus
+nmi:NMO_1668	CDS	1808806..1809222	hypothetical protein
+nmi:NMO_1669	CDS	1809356..1809838	mafB21; putative MafB alternative C-terminus
+nmi:NMO_1670	CDS	1810024..1810377	hypothetical protein
+nmi:NMO_1671	CDS	1810367..1810690	hypothetical protein
+nmi:NMO_1672	CDS	1810749..1810976	hypothetical protein
+nmi:NMO_PS72	gene	1811103..1811646	pseudogene
+nmi:NMO_1675	CDS	complement(1811753..1812076)	hypothetical protein
+nmi:NMO_1676	CDS	1812758..1813891	putative conserved membrane protein
+nmi:NMO_1677	CDS	complement(1813978..1814253)	iron-regulated protein FrpC, truncation
+nmi:NMO_1678	CDS	complement(1814270..1815037)	frpC3; FrpC operon protein
+nmi:NMO_1679	CDS	complement(1816026..1816301)	putative endonuclease
+nmi:NMO_1680	CDS	complement(1816298..1817581)	AmpG-related permease
+nmi:NMO_1681	CDS	complement(1817737..1819155)	glnA; Glutamine synthetase
+nmi:NMO_1682	CDS	1819968..1820777	aroE; Shikimate 5-dehydrogenase
+nmi:NMO_1683	CDS	1820779..1821480	mtgA; monofunctional biosynthetic peptidoglycan transglycosylase
+nmi:NMO_tRNA44	tRNA	complement(1821805..1821880)	tRNA-Phe
+nmi:NMO_1684	CDS	complement(1822071..1822805)	putative ABC transporter, ATP-binding protein
+nmi:NMO_1685	CDS	complement(1822879..1823409)	conserved hypothetical protein
+nmi:NMO_1686	CDS	complement(1823390..1823971)	conserved hypothetical protein
+nmi:NMO_1687	CDS	complement(1823968..1824504)	kdsC; putative phosphatase KdsC
+nmi:NMO_1688	CDS	complement(1824722..1825702)	kpsF; putative sugar isomerase
+nmi:NMO_1689	CDS	1825792..1826847	tal; Transaldolase
+nmi:NMO_1690	CDS	1826989..1827279	hypothetical protein
+nmi:NMO_1691	CDS	1827296..1828183	glnS3; putative glutamyl-tRNA synthetase
+nmi:NMO_1692	CDS	complement(1828253..1829263)	tRNA-dihydrouridine synthase A
+nmi:NMO_1693	CDS	complement(1829294..1829785)	D-tyrosyl-tRNA(Tyr) deacylase
+nmi:NMO_1694	CDS	complement(1829859..1830623)	putative peptidyl-prolyl isomerasen
+nmi:NMO_1695	CDS	complement(1830694..1831560)	Parvulin-like peptidyl-prolyl isomerase
+nmi:NMO_1696	CDS	complement(1831609..1831887)	BolA-like protein
+nmi:NMO_1697	CDS	complement(1831887..1832177)	conserved hypothetical protein
+nmi:NMO_1698	CDS	complement(1832180..1832710)	ispA1; putative intracellular septation protein
+nmi:NMO_1699	CDS	1832916..1835543	tspA; Neisseria-specific antigen protein
+nmi:NMO_1700	CDS	complement(1835716..1836132)	gloA; lactoylglutathione lyase
+nmi:NMO_1701	CDS	complement(1836156..1837364)	putative membrane protein
+nmi:NMO_1702	CDS	complement(1837336..1837650)	putative membrane protein
+nmi:NMO_1703	CDS	1837753..1837929	hypothetical protein
+nmi:NMO_1704	CDS	1837960..1838958	ilvE; branched-chain amino acid aminotransferase
+nmi:NMO_1705	CDS	complement(1839202..1839987)	fabI; enoyl-ACP reductase
+nmi:NMO_1706	CDS	complement(1840142..1840963)	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+nmi:NMO_1707	CDS	complement(1841173..1842816)	pgi2; Glucose-6-phosphate isomerase
+nmi:NMO_1708	CDS	1843326..1844558	pilG; type IV pilus assembly protein
+nmi:NMO_1709	CDS	1844632..1845492	pilD; leader peptidase
+nmi:NMO_1710	CDS	1845494..1846126	Dephospho-CoA kinase
+nmi:NMO_1711	CDS	1846119..1846328	conserved hypothetical protein
+nmi:NMO_1712	CDS	complement(1846413..1848089)	pilF3; pilus biogenesis protein
+nmi:NMO_tRNA45	tRNA	complement(1848490..1848561)	tRNA-Arg
+nmi:NMO_1713	CDS	complement(1848581..1849027)	conserved putative membrane protein
+nmi:NMO_1714	CDS	complement(1849032..1850006)	ispB; octaprenyl-diphosphate synthase
+nmi:NMO_1715	CDS	1850218..1850538	rplU; 50S ribosomal protein L21
+nmi:NMO_1716	CDS	1850563..1850835	rpmA; 50S ribosomal protein L27
+nmi:NMO_1717	CDS	1851174..1852358	putative ubiquinone biosynthesis hydroxylase
+nmi:NMO_1718	CDS	complement(1852630..1852785)	rpmG; 50S ribosomal protein L33
+nmi:NMO_1719	CDS	complement(1852817..1853050)	rpmB; 50S ribosomal protein L28
+nmi:NMO_1720	CDS	complement(1853122..1853310)	hypothetical protein
+nmi:NMO_1721	CDS	complement(1853300..1854826)	emrB; putative efflux pump protein
+nmi:NMO_1722	CDS	complement(1854850..1856022)	emrA; putative efflux pump protein
+nmi:NMO_1723	CDS	1856689..1857162	putative GTP cyclohydrolase I-related enzyme
+nmi:NMO_1724	CDS	1857238..1857924	putative membrane protein
+nmi:NMO_1725	CDS	complement(1858273..1859565)	putative metallopeptidase
+nmi:NMO_1726	CDS	1859643..1860611	conserved hypothetical protein
+nmi:NMO_1727	CDS	complement(1860812..1862245)	conserved hypothetical protein
+nmi:NMO_1728	CDS	complement(1862520..1864640)	vapA; Aida-related Type V secretory pathway adhesin
+nmi:NMO_1729	CDS	complement(1866113..1866358)	hypothetical protein
+nmi:NMO_1730	CDS	1866470..1866898	putative membrane protein
+nmi:NMO_1731	CDS	1866910..1867386	conserved hypothetical protein
+nmi:NMO_1732	CDS	complement(1867661..1868149)	folA; Dihydrofolate reductase
+nmi:NMO_1733	CDS	complement(1868217..1869272)	aroG; phospho-2-dehydro-3-deoxyheptonate aldolase
+nmi:NMO_1734	CDS	1869326..1869691	hypothetical protein
+nmi:NMO_1735	CDS	1869737..1869829	hypothetical protein
+nmi:NMO_1736	gene	1869918..1870193	opcB; pseudogene
+nmi:NMO_1737	CDS	complement(1870227..1870334)	hypothetical protein
+nmi:NMO_1738	CDS	complement(1870454..1870822)	hypothetical protein
+nmi:NMO_1739	CDS	complement(1871075..1871521)	comEA5; putative DNA transport competence protein
+nmi:NMO_rRNA07	rRNA	complement(1871573..1871689)	5S ribosomal RNA
+nmi:NMO_rRNA08	rRNA	complement(1871785..1874676)	23S ribosomal RNA
+nmi:NMO_tRNA46	tRNA	complement(1875084..1875159)	tRNA-Ala
+nmi:NMO_tRNA47	tRNA	complement(1875165..1875241)	tRNA-Ile
+nmi:NMO_rRNA09	rRNA	complement(1875341..1876884)	16S ribosomal RNA
+nmi:NMO_1741	CDS	complement(1877340..1878146)	putative membrane protein
+nmi:NMO_1742	CDS	1878366..1879736	ffh; signal recognition particle protein
+nmi:NMO_1743	CDS	complement(1880067..1880762)	putative thiol:disulfide interchange protein DsbA
+nmi:NMO_1744	gene	complement(1880877..1882988)	pseudogene
+nmi:NMO_1745	gene	complement(1883266..1884273)	NMO_1745
+nmi:NMO_1746	CDS	complement(1884407..1885012)	conserved hypothetical protein
+nmi:NMO_1747	CDS	complement(1885061..1885459)	putative membrane protein
+nmi:NMO_1748	CDS	1885567..1886478	LysR-family transcriptional regulator
+nmi:NMO_1749	CDS	1886468..1887769	phrB; Deoxyribodipyrimidine photolyase
+nmi:NMO_1750	CDS	complement(1887812..1888072)	hypothetical protein
+nmi:NMO_1751	CDS	1888265..1890415	dinG; ATP-dependent helicase, DinG family
+nmi:NMO_1752	CDS	1890452..1891009	conserved hypothetical protein
+nmi:NMO_1753	CDS	complement(1891161..1893029)	putative trans-acylase protein
+nmi:NMO_1754	CDS	complement(1893110..1894480)	purB; Adenylosuccinate lyase
+nmi:NMO_1755	CDS	complement(1894552..1895184)	putative nucl protein
+nmi:NMO_1756	CDS	1895493..1897373	ribonuclease II-related protein
+nmi:NMO_1757	CDS	1897363..1897644	hypothetical protein
+nmi:NMO_1758	CDS	complement(1899095..1900150)	surA; putative peptidyl-prolyl cis-trans isomerase
+nmi:NMO_1759	CDS	complement(1900252..1902660)	ostA; putative organic solvent tolerance protein
+nmi:NMO_1760	CDS	1902730..1903734	predicted phosphotransferase
+nmi:NMO_1761	CDS	complement(1903791..1904489)	thiol:disulfide interchange protein DsbA
+nmi:NMO_1762	CDS	1904707..1906245	putative virulence factor
+nmi:NMO_1763	CDS	1906378..1907334	conserved hypothetical protein
+nmi:NMO_1764	CDS	1907385..1908167	trpC; Indole-3-glycerol phosphate synthase
+nmi:NMO_1765	CDS	1908232..1910532	recQ; ATP-dependent DNA helicase
+nmi:NMO_1766	CDS	complement(1910826..1911614)	putative biotin synthesis protein BioC
+nmi:NMO_1767	CDS	complement(1911616..1912554)	putative biotin biosynthesis protein BioH
+nmi:NMO_1768	CDS	1912358..1913083	competence protein
+nmi:NMO_1769	CDS	1913148..1913612	putative tRNA/rRNA methyltransferase
+nmi:NMO_1770	CDS	1913742..1914461	rlpA; rare lipoprotein A family protein
+nmi:NMO_1771	CDS	1914523..1914834	hypothetical protein
+nmi:NMO_1772	CDS	1914917..1915501	ruvA; holliday junction DNA helicase
+nmi:NMO_1773	CDS	1915501..1915638	hypothetical protein
+nmi:NMO_1774	CDS	1915628..1917520	ABC transporter, ATP-binding protein
+nmi:NMO_1775	CDS	1917525..1918448	putative GTPase
+nmi:NMO_1776	CDS	1918710..1918934	xseB; exodeoxyribonuclease VII small subunit
+nmi:NMO_1777	CDS	1918918..1919814	ispA3; geranyltranstransferase
+nmi:NMO_1778	CDS	complement(1919923..1920222)	putative membrane protein
+nmi:NMO_1779	CDS	complement(1920334..1921779)	nuoN; NADH dehydrogenase I chain N
+nmi:NMO_1780	CDS	complement(1921789..1923285)	nuoM; nuoM; NADH dehydrogenase I chain M
+nmi:NMO_1781	CDS	complement(1923395..1924558)	hypothetical protein
+nmi:NMO_1782	CDS	complement(1924742..1926766)	nuoL; NADH dehydrogenase I chain L
+nmi:NMO_1783	CDS	complement(1926767..1927645)	putative permease
+nmi:NMO_1784	CDS	complement(1927934..1928239)	nuoK; NADH dehydrogenase I chain K
+nmi:NMO_1785	CDS	complement(1928236..1928907)	nuoJ; NADH dehydrogenase I chain J
+nmi:NMO_1786	CDS	complement(1928919..1929398)	nuoI; NADH dehydrogenase I chain I
+nmi:NMO_1787	CDS	complement(1929479..1930555)	nuoH; NADH dehydrogenase I chain H
+nmi:NMO_1788	CDS	complement(1930558..1932819)	nuoG; NADH dehydrogenase I chain G
+nmi:NMO_1789	CDS	complement(1933131..1933370)	putative endonuclease
+nmi:NMO_1790	CDS	complement(1933390..1933539)	hypothetical protein
+nmi:NMO_1791	CDS	complement(1933656..1934093)	conserved hypothetical protein
+nmi:NMO_1792	CDS	complement(1934093..1935394)	nuoF; NADH dehydrogenase I chain F
+nmi:NMO_1793	CDS	complement(1935784..1936257)	nuoE; NADH dehydrogenase I chain E
+nmi:NMO_1794	CDS	complement(1936257..1937513)	nuoD; NADH dehydrogenase I chain D
+nmi:NMO_1795	CDS	complement(1937503..1938096)	nuoC; NADH dehydrogenase I chain C
+nmi:NMO_1796	CDS	complement(1938109..1938591)	nuoB; NADH dehydrogenase I chain B
+nmi:NMO_1797	CDS	complement(1938582..1938938)	nuoA; NADH-ubiquinone oxidoreductase chain 3
+nmi:NMO_1798	CDS	complement(1939404..1940798)	putative membrane protein
+nmi:NMO_1799	CDS	complement(1940878..1941498)	putative membrane protein
+nmi:NMO_1800	CDS	1941582..1941695	hypothetical protein
+nmi:NMO_1801	gene	complement(1941737..1942711)	NMO_1801
+nmi:NMO_1802	CDS	1942832..1943311	putative membrane protein
+nmi:NMO_1803	CDS	complement(1943380..1945587)	uvrD; DNA helicase II
+nmi:NMO_1804	CDS	1945771..1946418	conserved hypothetical protein
+nmi:NMO_1805	CDS	1946415..1947344	putative allophanate hydrolase subunit 2
+nmi:NMO_1806	CDS	1947331..1948068	putative lactam utilization protein
+nmi:NMO_1807	CDS	1948197..1949390	putative Mn2+ and Fe2+ transporter
+nmi:NMO_1808	CDS	1949498..1950190	conserved hypothetical protein
+nmi:NMO_1809	CDS	complement(1950490..1953180)	glnE; glutamate-ammonia-ligase adenylyltransferase
+nmi:NMO_1810	CDS	complement(1953378..1953596)	conserved hypothetical protein
+nmi:NMO_1811	CDS	complement(1953723..1954196)	conserved hypothetical protein
+nmi:NMO_1812	CDS	complement(1954249..1954530)	hypothetical protein
+nmi:NMO_1813	CDS	complement(1954617..1954940)	hypothetical protein
+nmi:NMO_1814	CDS	complement(1954942..1955073)	hypothetical protein
+nmi:NMO_1815	CDS	complement(1955247..1956308)	pyrD; Dihydroorotate dehydrogenase
+nmi:NMO_1816	CDS	1956504..1956740	acp; Acyl carrier protein
+nmi:NMO_1817	CDS	1956896..1958143	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II
+nmi:NMO_1818	CDS	complement(1958385..1959338)	putative transmembrane transport protein
+nmi:NMO_1819	CDS	1959766..1960983	MFS permease
+nmi:NMO_1820	CDS	1961339..1962466	pglA; putative glycosyltransferase
+nmi:NMO_1821	CDS	complement(1963198..1964049)	rpoN; RNA polymerase sigma-54 factor
+nmi:NMO_1822	CDS	1964397..1965911	katA; Catalase
+nmi:NMO_1823	CDS	1965995..1966216	hypothetical protein
+nmi:NMO_1824	CDS	1966945..1967511	conserved inner membrane protein
+nmi:NMO_1825	CDS	complement(1967901..1969937)	prlC; oligopeptidase A
+nmi:NMO_1826	CDS	complement(1970025..1971011)	putative membrane protein
+nmi:NMO_1827	CDS	1971167..1973557	gyrB; DNA gyrase subunit B
+nmi:NMO_1828	CDS	1973876..1975195	sdaA; L-serine dehydratase
+nmi:NMO_1829	CDS	complement(1975266..1975364)	hypothetical protein
+nmi:NMO_1830	gene	complement(1975499..1975747)	pseudogene
+nmi:NMO_tRNA48	tRNA	complement(1975936..1976012)	tRNA-Asp
+nmi:NMO_tRNA49	tRNA	complement(1976045..1976120)	tRNA-Val
+nmi:NMO_tRNA50	tRNA	complement(1976160..1976236)	tRNA-Asp
+nmi:NMO_tRNA51	tRNA	complement(1976269..1976344)	tRNA-Val
+nmi:NMO_1831	CDS	complement(1976414..1978561)	putative potassium-efflux system protein
+nmi:NMO_1832	CDS	1978539..1979378	putative ferredoxin
+nmi:NMO_1833	CDS	1979578..1980609	gapA; glyceraldehyde 3-phosphate dehydrogenase
+nmi:NMO_1834	CDS	complement(1980760..1981485)	aat; leucyl/phenylalanyl-tRNA--protein transferase
+nmi:NMO_1835	CDS	complement(1981555..1982181)	fur; ferric uptake regulation protein
+nmi:NMO_1836	CDS	1982166..1982585	putative lipoprotein
+nmi:NMO_1837	CDS	1982595..1983404	dapB; Dihydrodipicolinate reductase
+nmi:NMO_1838	CDS	complement(1983515..1983814)	hypothetical protein
+nmi:NMO_1839	CDS	complement(1983927..1984172)	hypothetical protein
+nmi:NMO_1840	CDS	complement(1984180..1985334)	lpxB; lipid A disaccharide synthase
+nmi:NMO_1841	CDS	complement(1985400..1986392)	rluC; ribosomal large subunit pseudouridine synthase
+nmi:NMO_1842	CDS	1986862..1989645	rne; ribonuclease E
+nmi:NMO_1843	CDS	complement(1990851..1991840)	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+nmi:NMO_1844	CDS	1992000..1993427	alanine or glycine:cation symporter, AGCS family
+nmi:NMO_1845	CDS	1993719..1995647	gidA; glucose inhibited division protein A
+nmi:NMO_1846	CDS	1995715..1996299	rnhB; Ribonuclease HII
+nmi:NMO_1847	CDS	complement(1997096..1997869)	ParA family protein
+nmi:NMO_1848	CDS	complement(1997968..1998591)	gidB; glucose inhibited division protein B
+nmi:NMO_1849	CDS	complement(1998687..1999172)	putative membrane protein
+nmi:NMO_tRNA52	tRNA	1999432..1999507	tRNA-Thr
+nmi:NMO_1850	CDS	1999544..2000710	putative membrane protein
+nmi:NMO_1851	CDS	2000821..2001447	frr; Ribosome recycling factor
+nmi:NMO_1852	CDS	2001503..2002249	uppS; undecaprenyl pyrophosphate synthetase
+nmi:NMO_1853	CDS	2002252..2003049	cdsA; phosphatidate cytidylyltransferase
+nmi:NMO_1854	CDS	2003054..2004289	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+nmi:NMO_1855	CDS	2004324..2005664	hypothetical zinc metalloprotease
+nmi:NMO_1856	CDS	2005721..2008114	omp85; probable surface antigen
+nmi:NMO_1857	CDS	2008180..2008680	putative outer membrane protein
+nmi:NMO_1858	CDS	2008713..2009756	lpxD; UDP-3-O-glucosamine N-acyltransferase
+nmi:NMO_1859	CDS	2009792..2010241	fabZ; 3R-hydroxymyristoyl ACP dehydrase
+nmi:NMO_1860	CDS	2010328..2011104	lpxA; acyl-UDP-N-acetylglucosamine O-acyltransferase
+nmi:NMO_1861	CDS	2011461..2012852	amino-acid transporter
+nmi:NMO_1862	CDS	2012931..2014187	dadA; D-amino-acid dehydrogenase small subunit
+nmi:NMO_1863	CDS	2014368..2015177	putative Zinc/iron permease
+nmi:NMO_1864	CDS	2015274..2018111	valS; Valyl-tRNA synthetase
+nmi:NMO_1865	CDS	complement(2018441..2019361)	oxyR; putative LysR-family transcriptional regulator
+nmi:NMO_1866	CDS	complement(2019365..2019628)	minE; cell division topological specificity factor MinE
+nmi:NMO_1867	CDS	complement(2019632..2020447)	minD; septum site-determining protein MinD
+nmi:NMO_1868	CDS	complement(2020476..2021189)	minC; septum site-determining protein MinC
+nmi:NMO_1869	CDS	complement(2021336..2021704)	rplQ; 50S ribosomal protein L17
+nmi:NMO_1870	CDS	complement(2021728..2022714)	rpoA; DNA-directed RNA polymerase alpha chain
+nmi:NMO_1871	CDS	complement(2022740..2023360)	rpsD; 30S ribosomal protein S4
+nmi:NMO_1872	CDS	complement(2023380..2023775)	rpsK; 30S ribosomal protein S11
+nmi:NMO_1873	CDS	complement(2023795..2024157)	rpsM; 30S ribosomal protein S13
+nmi:NMO_1874	CDS	complement(2024223..2024336)	rpmJ; 50S ribosomal protein L36
+nmi:NMO_1875	CDS	complement(2024357..2024575)	infA; translation initiation factor IF-1
+nmi:NMO_1876	CDS	complement(2024580..2025890)	secY; preprotein translocase SecY subunit
+nmi:NMO_1877	CDS	complement(2025902..2026336)	rplO; 50S ribosomal protein L15
+nmi:NMO_1878	CDS	complement(2026338..2026523)	rpmD; 50S ribosomal protein L30
+nmi:NMO_1879	CDS	complement(2026516..2027034)	rpsE; 30S ribosomal protein S5
+nmi:NMO_1880	CDS	complement(2027053..2027406)	rplR; 50S ribosomal protein L18
+nmi:NMO_1881	CDS	complement(2027420..2027953)	rplF; 50S ribosomal protein L6
+nmi:NMO_1882	CDS	complement(2027967..2028359)	rpsH; 30S ribosomal protein S8
+nmi:NMO_1883	CDS	complement(2028375..2028680)	rpsN; 30S ribosomal protein S14
+nmi:NMO_1884	CDS	complement(2028683..2029222)	rplE; 50S ribosomal protein L5
+nmi:NMO_1885	CDS	complement(2029232..2029555)	rplX; 50S ribosomal protein L24
+nmi:NMO_1886	CDS	complement(2029567..2029935)	rplN; 50S ribosomal protein L14
+nmi:NMO_1887	CDS	complement(2030157..2030420)	rpsQ; 30S ribosomal protein S17
+nmi:NMO_1888	CDS	complement(2030420..2030611)	rpmC; 50S ribosomal protein L29
+nmi:NMO_1889	CDS	complement(2030611..2031027)	rplP; 50S ribosomal protein L16
+nmi:NMO_1890	CDS	complement(2031011..2031703)	rpsC; 30S ribosomal protein S3
+nmi:NMO_1891	CDS	complement(2031713..2032042)	rplV; 50S ribosomal protein L22
+nmi:NMO_1892	CDS	complement(2032051..2032329)	rpsS; 30S ribosomal protein S19
+nmi:NMO_1893	CDS	complement(2032336..2033169)	rplB; 50S ribosomal protein L2
+nmi:NMO_1894	CDS	complement(2033175..2033495)	rplW; 50S ribosomal protein L23
+nmi:NMO_1895	CDS	complement(2033486..2034106)	rplD; 50S ribosomal protein L4
+nmi:NMO_1896	CDS	complement(2034106..2034750)	rplC; 50S ribosomal protein L3
+nmi:NMO_1897	gene	complement(2035204..2036211)	NMO_1897
+nmi:NMO_1898	CDS	complement(2036332..2036643)	rpsJ; 30S ribosomal protein S10
+nmi:NMO_1899	CDS	complement(2036661..2037845)	tufA1; elongation factor EF-Tu
+nmi:NMO_1900	CDS	complement(2037933..2040038)	fusA; elongation factor G
+nmi:NMO_1901	CDS	complement(2040057..2040527)	rpsG; 30S ribosomal protein S7
+nmi:NMO_1902	CDS	complement(2040645..2041016)	rpsL; 30S ribosomal protein S12
+nmi:NMO_1903	CDS	complement(2041195..2041344)	conserved hypothetical protein
+nmi:NMO_1904	CDS	complement(2041341..2041598)	putative periplasmic protein
+nmi:NMO_1905	CDS	complement(2041890..2046065)	rpoC; DNA-directed RNA polymerase beta' chain
+nmi:NMO_1906	CDS	complement(2046222..2050400)	rpoB; DNA-directed RNA polymerase beta chain
+nmi:NMO_1907	CDS	complement(2050590..2050961)	rplL; 50S ribosomal protein L7/L12
+nmi:NMO_1908	CDS	complement(2051019..2051519)	rplJ; 50S ribosomal protein L10
+nmi:NMO_1909	CDS	complement(2051749..2052444)	rplA; 50S ribosomal protein L1
+nmi:NMO_1910	CDS	complement(2052444..2052878)	rplK; 50S ribosomal protein L11
+nmi:NMO_1911	CDS	complement(2052979..2053515)	nusG; putative transcription antitermination protein
+nmi:NMO_1912	CDS	complement(2053517..2053795)	secE; putative preprotein translocase SecE subunit
+nmi:NMO_tRNA53	tRNA	complement(2053910..2053985)	tRNA-Trp
+nmi:NMO_1913	CDS	complement(2053992..2055176)	tufA2; elongation factor EF-Tu
+nmi:NMO_tRNA54	tRNA	complement(2055225..2055299)	tRNA-Thr
+nmi:NMO_tRNA55	tRNA	complement(2055309..2055382)	tRNA-Gly
+nmi:NMO_tRNA56	tRNA	complement(2055413..2055496)	tRNA-Tyr
+nmi:NMO_1914	CDS	complement(2055593..2055844)	putative ferredoxin
+nmi:NMO_1915	CDS	complement(2055967..2056536)	putative DNA methylase
+nmi:NMO_1916	CDS	complement(2056625..2057002)	putative transcriptional regulator
+nmi:NMO_1917	CDS	2057121..2057513	hypothetical protein
+nmi:NMO_1918	CDS	2057693..2058388	hypothetical protein
+nmi:NMO_1919	CDS	complement(2058461..2060767)	topA; DNA Topoisomerase I
+nmi:NMO_1920	CDS	complement(2060839..2061300)	Smg protein
+nmi:NMO_1921	CDS	complement(2061326..2062513)	smf; DNA processing protein DprA
+nmi:NMO_1922	CDS	complement(2062604..2063881)	ntrX; nitrogen assimilation regulatory protein NtrX
+nmi:NMO_1923	CDS	complement(2063874..2065991)	ntrY; putative two-component sensor kinase NtrY
+nmi:NMO_1924	CDS	complement(2065991..2066644)	conserved hypothetical protein
+nmi:NMO_1925	CDS	complement(2066556..2067815)	sun; Sun protein
+nmi:NMO_1926	CDS	complement(2067894..2068820)	fmt; Methionyl-tRNA formyltransferase
+nmi:NMO_1927	CDS	complement(2068907..2069410)	def; peptide deformylase
+nmi:NMO_1928	CDS	2069594..2070811	putative membrane protein
+nmi:NMO_1929	CDS	complement(2070874..2071539)	putative membrane protein
+nmi:NMO_1930	CDS	complement(2071604..2072062)	pyrI; aspartate carbamoyltransferase, regulatory chain
+nmi:NMO_1931	CDS	complement(2072072..2072992)	pyrB; Aspartate carbamoyltransferase catalytic chain
+nmi:NMO_1932	CDS	2073231..2074073	putative acetyltransferase
+nmi:NMO_1933	CDS	2074320..2075090	putative membrane protein
+nmi:NMO_1934	CDS	2075212..2075448	putative membrane protein
+nmi:NMO_1935	CDS	2075683..2076087	putative bacteriocin-processing endopeptidase
+nmi:NMO_1936	CDS	complement(2076365..2076916)	putative membrane protein
+nmi:NMO_1937	gene	complement(2076976..2077641)	NMO_1937
+nmi:NMO_1938	CDS	2077901..2079373	pykA; Pyruvate kinase
+nmi:NMO_1939	CDS	2079407..2080975	outer membrane protein
+nmi:NMO_1940	CDS	complement(2081384..2081581)	hypothetical protein predicted by Glimmer/Critica
+nmi:NMO_1941	CDS	complement(2081592..2082608)	conserved hypothetical protein
+nmi:NMO_1942	CDS	complement(2082707..2083921)	gltS; sodium/glutamate symport carrier protein
+nmi:NMO_1943	CDS	complement(2084668..2085735)	conserved hypothetical protein
+nmi:NMO_1944	CDS	complement(2085876..2088149)	tex; probable transcriptional accessory protein
+nmi:NMO_1945	CDS	2088213..2089280	galE; UDP-glucose 4-epimerase
+nmi:NMO_1946	CDS	2089281..2090363	rfbB; dTDP-glucose 4,6-dehydratase
+nmi:NMO_1947	CDS	2090426..2091292	rfbA; glucose-1-phosphate thymidylyltransferase
+nmi:NMO_1948	CDS	2091337..2091894	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+nmi:NMO_1949	CDS	complement(2091938..2093956)	putative membrane protein
+nmi:NMO_1950	CDS	complement(2094152..2095273)	dnaJ; putative DnaJ chaperone protein
+nmi:NMO_1951	gene	2095534..2096499	NMO_1951
+nmi:NMO_1952	CDS	complement(2096760..2097206)	comEA7; putative DNA transport competence protein
+nmi:NMO_rRNA10	rRNA	complement(2097258..2097374)	5S ribosomal RNA
+nmi:NMO_rRNA11	rRNA	complement(2097470..2100361)	23S ribosomal RNA
+nmi:NMO_tRNA57	tRNA	complement(2100769..2100844)	tRNA-Ala
+nmi:NMO_tRNA58	tRNA	complement(2100850..2100926)	tRNA-Ile
+nmi:NMO_rRNA12	rRNA	complement(2101026..2102569)	16S ribosomal RNA
+nmi:NMO_1953	CDS	complement(2103026..2103442)	dksA; putative dnaK suppressor protein
+nmi:NMO_1954	CDS	complement(2103589..2104380)	proC; Pyrroline-5-carboxylate reductase
+nmi:NMO_1955	CDS	complement(2104429..2104836)	putative membrane protein
+nmi:NMO_1956	CDS	complement(2104836..2105522)	conserved hypothetical protein
+nmi:NMO_1957	CDS	2105642..2106685	pilT; twitching motility protein
+nmi:NMO_1958	CDS	2106848..2108074	pilU; twitching motility protein
+nmi:NMO_1959	CDS	2108360..2110504	putative membrane protein
+nmi:NMO_1960	CDS	complement(2111856..2115020)	pilC; fimbrial assembly protein
+nmi:NMO_1961	CDS	complement(2115865..2116149)	putative endonuclease
+nmi:NMO_1962	CDS	complement(2116690..2117955)	pilA3; signal recognition particle protein
+nmi:NMO_1963	CDS	2118100..2119668	pilB; Peptide methionine sulfoxide reductase
+nmi:NMO_1964	CDS	complement(2119770..2120255)	competence/damage inducible protein CinA
+nmi:NMO_1965	CDS	complement(2120281..2121129)	putative membrane protein
+nmi:NMO_1966	CDS	complement(2121223..2122224)	tbpA3; thiamine transport system substrate-binding protein
+nmi:NMO_1967	CDS	2122283..2123263	putative hydrolase
+nmi:NMO_1968	CDS	2123318..2124688	glmU; glucosamine-1-phosphate N-acetyltransferase / UDP-N-acetylglucosamine pyrophosphorylase
+nmi:NMO_1969	CDS	2124765..2125094	phnA; PhnA protein
+nmi:NMO_1970	CDS	complement(2125166..2126431)	Predicted iron-dependent peroxidase
+nmi:NMO_1971	CDS	complement(2126695..2127861)	putative periplasmic iron transporter protein
+nmi:NMO_1972	CDS	complement(2127858..2128697)	putative iron transporter membrane protein
+nmi:NMO_1973	CDS	2128764..2130233	gna33; putative membrane-bound transglycolase
+nmi:NMO_1974	CDS	complement(2130651..2131169)	putative secreted protein
+nmi:NMO_1975	CDS	2131601..2133439	glmS; glucosamine--fructose-6-phosphateaminotransferase
+nmi:NMO_1976	CDS	2133459..2135612	metG; Methionyl-tRNA synthetase
+nmi:NMO_1977	CDS	complement(2135687..2136640)	putative glycerate dehydrogenase
+nmi:NMO_1978	gene	2136762..2137133	pseudogene
+nmi:NMO_1979	CDS	2137211..2137540	fbp3; FKBP-type peptidyl-prolyl cis-trans isomerase
+nmi:NMO_1980	CDS	2137569..2138285	pilS5; large PilS cassette
+nmi:NMO_1981	CDS	2138624..2138818	pilS4; PilS cassette
+nmi:NMO_1982	gene	complement(2138882..2139889)	NMO_1982
+nmi:NMO_1983	CDS	2139842..2140366	pilS3; PilS cassette
+nmi:NMO_1984	CDS	2140329..2140655	pilS2; PilS cassette
+nmi:NMO_1985	CDS	2141130..2141447	pilS1; PilS cassette
+nmi:NMO_1986	CDS	2142220..2142723	pilE; fimbrial protein precursor
+nmi:NMO_1987	CDS	2143753..2144676	lpxC; UDP-3-O-acyl-N-acetylglucosamine deacetylase
