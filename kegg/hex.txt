@@ -1,0 +1,1563 @@
+hex:HPF57_0001	CDS	complement(13..429)	nusB; transcription antitermination protein NusB
+hex:HPF57_0002	CDS	complement(431..901)	ribH; riboflavin synthase subunit beta
+hex:HPF57_0003	CDS	complement(911..1741)	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase
+hex:HPF57_0004	CDS	complement(1728..2393)	icfA; beta-carbonic anhydrase
+hex:HPF57_0005	CDS	2516..3199	pyrF; orotidine 5'-phosphate decarboxylase
+hex:HPF57_0006	CDS	3200..4030	panC; pantoate--beta-alanine ligase
+hex:HPF57_t01	tRNA	complement(4044..4119)	tRNA-Glu
+hex:HPF57_t02	tRNA	complement(4192..4268)	tRNA-Asp
+hex:HPF57_t03	tRNA	complement(4309..4384)	tRNA-Val
+hex:HPF57_t04	tRNA	complement(4426..4500)	tRNA-Glu
+hex:HPF57_t05	tRNA	complement(4511..4586)	tRNA-Lys
+hex:HPF57_0007	CDS	complement(5248..7401)	hopZ; outer membrane protein
+hex:HPF57_0008	CDS	complement(7711..9351)	groEL; chaperonin GroEL
+hex:HPF57_0009	CDS	complement(9376..9732)	groES; co-chaperonin GroES
+hex:HPF57_0010	CDS	10005..11684	dnaG; DNA primase
+hex:HPF57_0011	CDS	11681..12733	argininosuccinate synthase
+hex:HPF57_0012	CDS	12824..13651	hypothetical protein
+hex:HPF57_0013	CDS	13796..14077	comB2; hypothetical protein
+hex:HPF57_0014	CDS	14077..14340	comB3; hypothetical protein
+hex:HPF57_0015	CDS	14342..16705	comB4; hypothetical protein
+hex:HPF57_0016	CDS	17026..18366	hypothetical protein
+hex:HPF57_0017	CDS	18467..19432	cheV; chemotaxis protein
+hex:HPF57_0018	CDS	19429..20646	nspC; carboxynorspermidine decarboxylase
+hex:HPF57_0019	CDS	complement(20656..21228)	lipid A 1-phosphatase
+hex:HPF57_0020	CDS	complement(21239..22810)	lipid A phosphoethanolamine transferase
+hex:HPF57_0021	CDS	complement(23222..25294)	hopD; outer membrane protein HopD
+hex:HPF57_0022	CDS	25538..25930	putative endonuclease, split and separated by inversion, C-terminus part
+hex:HPF57_0023	CDS	complement(26190..27017)	tyrA; prephenate dehydrogenase
+hex:HPF57_0024	CDS	complement(27042..29537)	lon; ATP-dependent protease
+hex:HPF57_0025	CDS	complement(29578..30240)	comL; competence lipoprotein
+hex:HPF57_0026	CDS	complement(30283..30429)	hypothetical protein
+hex:HPF57_0027	CDS	30647..31036	fliW-2; flagellar assembly protein FliW
+hex:HPF57_0028	CDS	31209..31688	fabZ; (3R)-hydroxymyristoyl-ACP dehydratase
+hex:HPF57_0029	CDS	31692..32504	lpxA; UDP-N-acetylglucosamine acyltransferase
+hex:HPF57_0030	CDS	32506..33852	clpX; ATP-dependent protease ATP-binding subunit
+hex:HPF57_0031	CDS	33895..34938	mreB; rod shape-determining protein
+hex:HPF57_0032	CDS	34942..35688	mreC; rod shape-determining protein
+hex:HPF57_0033	CDS	complement(35745..38663)	res-2; Type III restriction enzyme R protein
+hex:HPF57_0034	CDS	complement(38673..41138)	mod; adenine-specific DNA methylase
+hex:HPF57_0035	CDS	41209..41850	putative transcriptional regulator
+hex:HPF57_0036	CDS	41885..43018	signal-transducing protein, histidine kinase
+hex:HPF57_0037	CDS	43021..44415	hypothetical protein
+hex:HPF57_0038	CDS	44426..45892	dnaB; replicative DNA helicase
+hex:HPF57_0039	CDS	45889..47202	comE; competence locus E
+hex:HPF57_0040	CDS	47231..48115	ubiA; prenyltransferase
+hex:HPF57_0041	CDS	48051..48602	hypothetical protein
+hex:HPF57_0042	CDS	48615..49118	hypothetical protein
+hex:HPF57_0043	CDS	49115..49918	psd; phosphatidylserine decarboxylase
+hex:HPF57_0044	CDS	49908..50918	nadA; quinolinate synthetase
+hex:HPF57_0046	CDS	50918..51739	nadC; nicotinate-nucleotide pyrophosphorylase
+hex:HPF57_0047	CDS	51763..54261	Type IIG restriction-modification enzyme
+hex:HPF57_0048	CDS	54218..55231	Type IIG restriction-modification enzyme
+hex:HPF57_0049	CDS	55481..56560	adenine specific DNA methyltransferase
+hex:HPF57_0050	CDS	56622..57452	Type II restriction enzyme
+hex:HPF57_0051	CDS	57515..57748	adenine specific DNA methyltransferase
+hex:HPF57_0052	CDS	57859..59223	prc; carboxyl-terminal protease
+hex:HPF57_0053	CDS	59257..60405	hypothetical protein
+hex:HPF57_0054	CDS	60392..61108	plsC; 1-acyl-glycerol-3-phosphate acyltransferase
+hex:HPF57_0055	CDS	61105..61806	ung; uracil-DNA glycosylase
+hex:HPF57_0056	CDS	61895..62887	gap_2; glyceraldehyde-3-phosphate dehydrogenase
+hex:HPF57_0057	CDS	62903..64111	pgk; phosphoglycerate kinase
+hex:HPF57_0058	CDS	64127..65089	corA; magnesium and cobalt transport protein
+hex:HPF57_0059	CDS	65096..65824	hypothetical protein
+hex:HPF57_0060	CDS	complement(66148..66846)	dpnA; adenine specific DNA methyltransferase
+hex:HPF57_0061	CDS	complement(66843..67688)	ddeM; cytosine specific DNA methyltransferase
+hex:HPF57_0062	CDS	complement(67762..69261)	putP; proline permease
+hex:HPF57_0063	CDS	complement(69288..72845)	putA; proline/pyrroline-5-carboxylate dehydrogenase
+hex:HPF57_0064	CDS	73175..73384	hypothetical protein
+hex:HPF57_0065	CDS	complement(73389..73967)	hypothetical protein
+hex:HPF57_0066	CDS	74099..74773	hypothetical protein
+hex:HPF57_0067	CDS	74770..75051	hypothetical protein
+hex:HPF57_0068	CDS	75097..75297	hypothetical protein
+hex:HPF57_0069	CDS	75249..75626	hypothetical protein
+hex:HPF57_0070	CDS	75666..76136	hypothetical protein
+hex:HPF57_0071	CDS	76251..76511	hypothetical protein
+hex:HPF57_0072	CDS	76521..76982	hypothetical protein
+hex:HPF57_0073	CDS	76946..77842	hypothetical protein
+hex:HPF57_0074	CDS	77812..78141	hypothetical protein
+hex:HPF57_0075	CDS	78237..78587	hypothetical protein
+hex:HPF57_0076	CDS	78584..79198	hypothetical protein
+hex:HPF57_0077	CDS	79213..81009	hypothetical protein
+hex:HPF57_0078	CDS	complement(81082..81879)	ureH; urease accessory protein
+hex:HPF57_0079	CDS	complement(81879..82478)	ureG; urease accessory protein
+hex:HPF57_0080	CDS	complement(82507..83280)	ureF; urease accessory protein
+hex:HPF57_0081	CDS	complement(83292..83804)	ureE; urease accessory protein UreE
+hex:HPF57_0082	CDS	complement(83806..84393)	ureI; urea transporter
+hex:HPF57_0083	CDS	complement(84587..86296)	ureC; urease subunit alpha
+hex:HPF57_0084	CDS	complement(86300..87016)	ureA; bifunctional urease subunit gamma/beta
+hex:HPF57_t06	tRNA	complement(87293..87368)	tRNA-Val
+hex:HPF57_0085	CDS	complement(87389..87862)	lspA; lipoprotein signal peptidase
+hex:HPF57_0086	CDS	complement(87856..89193)	glmM; urease protein
+hex:HPF57_0087	CDS	89283..89552	rpsT; 30S ribosomal protein S20
+hex:HPF57_0088	CDS	89668..90726	prfA; peptide chain release factor 1
+hex:HPF57_0089	CDS	91121..91378	horA-frg; possible part of outer membrane protein HorA
+hex:HPF57_0090	CDS	91390..91557	horA-frg; possible part of outer membrane protein HorA
+hex:HPF57_0091	CDS	92046..92534	horA-frg; possible part of outer membrane protein HorA
+hex:HPF57_0092	CDS	92521..93147	horA; outer membrane protein HorA
+hex:HPF57_0093	CDS	93400..95157	hypothetical protein
+hex:HPF57_0094	CDS	complement(95423..96958)	methyl-accepting chemotaxis transducer
+hex:HPF57_0095	CDS	complement(96987..97460)	methyl-accepting chemotaxis transducer
+hex:HPF57_0096	CDS	complement(97605..97994)	rpsI; 30S ribosomal protein S9
+hex:HPF57_0097	CDS	complement(97991..98416)	rplM; 50S ribosomal protein L13
+hex:HPF57_0098	CDS	complement(98601..98789)	hypothetical protein
+hex:HPF57_0099	CDS	complement(98796..100142)	hypothetical protein
+hex:HPF57_0100	CDS	complement(100202..101566)	hypothetical protein
+hex:HPF57_0101	CDS	complement(101587..103584)	rpoD; RNA polymerase sigma factor RpoD
+hex:HPF57_0102	CDS	103791..104549	hypothetical protein
+hex:HPF57_0103	CDS	104697..104990	hypothetical protein
+hex:HPF57_0104	CDS	104997..106520	hypothetical protein
+hex:HPF57_0105	CDS	106517..106819	virB2-1; VirB2 type IV secretion protein
+hex:HPF57_0106	CDS	106820..107086	virB3-1; VirB3 type IV secretion protein
+hex:HPF57_0107	CDS	107133..109502	virB4_3; VirB4-like protein
+hex:HPF57_0108	CDS	109505..110161	topA_2; topoisomerase I
+hex:HPF57_0109	CDS	110161..111036	topA_3; DNA topoisomerase I
+hex:HPF57_0110	CDS	complement(111087..111278)	hypothetical protein
+hex:HPF57_0111	CDS	complement(111629..112489)	horB; outer membrane protein HorB
+hex:HPF57_0112	CDS	complement(112688..113038)	rplT; 50S ribosomal protein L20
+hex:HPF57_0113	CDS	complement(113133..113327)	rpmI; 50S ribosomal protein L35
+hex:HPF57_0114	CDS	complement(113308..113919)	infC; translation initiation factor IF-3
+hex:HPF57_0115	CDS	complement(113916..115754)	thrS; threonyl-tRNA synthetase
+hex:HPF57_0116	CDS	complement(115795..115908)	hypothetical protein
+hex:HPF57_0117	CDS	116113..118539	ppsA; phosphoenolpyruvate synthase
+hex:HPF57_0118	CDS	118649..119887	hypothetical protein
+hex:HPF57_0119	CDS	complement(119983..120909)	hypothetical protein
+hex:HPF57_0120	CDS	complement(120902..123112)	topA; DNA topoisomerase I
+hex:HPF57_0121	CDS	123278..124822	flaB; flagellin B
+hex:HPF57_0122	CDS	124885..126768	hypothetical protein
+hex:HPF57_0123	CDS	complement(126795..127091)	hypothetical protein
+hex:HPF57_0124	CDS	complement(127113..127751)	hypothetical protein
+hex:HPF57_0125	CDS	127971..128801	hrcA; heat-inducible transcription repressor
+hex:HPF57_0126	CDS	128801..129376	grpE; co-chaperone and heat shock protein 24
+hex:HPF57_0127	CDS	129407..131269	dnaK; molecular chaperone DnaK
+hex:HPF57_0128	CDS	131521..132438	cysK; cysteine synthetase
+hex:HPF57_0129	CDS	132459..133601	metB; cystathionine gamma-synthase/cystathionine beta-lyase
+hex:HPF57_0130	CDS	133636..134103	luxS; S-ribosylhomocysteinase
+hex:HPF57_0131	CDS	134245..135990	cpdB; 2',3'-cyclic-nucleotide 2'-phosphodiesterase
+hex:HPF57_0132	CDS	136204..137898	mcpB; methyl-accepting chemotaxis protein
+hex:HPF57_0133	CDS	137929..138711	hypothetical protein
+hex:HPF57_0134	CDS	complement(138694..139455)	hypothetical protein
+hex:HPF57_0135	CDS	complement(139588..140694)	hypothetical protein
+hex:HPF57_0136	CDS	complement(140694..142730)	tlpA; methyl-accepting chemotaxis protein
+hex:HPF57_0137	CDS	142934..144394	thrC; threonine synthase
+hex:HPF57_0138	CDS	144499..145212	hypothetical protein
+hex:HPF57_0139	CDS	complement(145564..146508)	2-hydroxyacid dehydrogenase
+hex:HPF57_0140	CDS	146578..147108	hypothetical protein
+hex:HPF57_0141	CDS	147207..148103	alpha-1,2-fucosyltransferase
+hex:HPF57_0142	CDS	complement(148125..148529)	Type II restriction enzyme M protein
+hex:HPF57_0143	CDS	complement(148526..148945)	Type II restriction enzyme M protein
+hex:HPF57_0144	CDS	complement(148949..149944)	HrgA protein
+hex:HPF57_t07	tRNA	complement(150162..150253)	tRNA-Ser
+hex:HPF57_0145	CDS	150383..151312	fabD; malonyl coenzyme A-acyl carrier protein transacylase
+hex:HPF57_0146	CDS	151323..152018	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+hex:HPF57_0147	CDS	152699..153559	integrase/recombinase
+hex:HPF57_0148	CDS	complement(153640..154323)	hypothetical protein
+hex:HPF57_0149	CDS	complement(154396..154761)	virb6; hypothetical protein
+hex:HPF57_0150	CDS	154724..155044	hypothetical protein
+hex:HPF57_0151	CDS	155438..156307	hypothetical protein
+hex:HPF57_0152	CDS	complement(157157..158524)	sdaA; L-serine deaminase
+hex:HPF57_0153	CDS	complement(158524..159765)	sdaC; hypothetical protein
+hex:HPF57_0154	CDS	159946..161295	aroF; tyrosine-regulated 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase
+hex:HPF57_0155	CDS	161384..161518	hypothetical protein
+hex:HPF57_0156	CDS	complement(161747..162205)	bcp; bacterioferritin comigratory protein
+hex:HPF57_0157	CDS	complement(162215..162850)	hypothetical protein
+hex:HPF57_0158	CDS	complement(162843..164288)	conserved hypothetical iron-sulfur protein
+hex:HPF57_0159	CDS	complement(164317..165045)	conserved hypothetical secreted protein
+hex:HPF57_0160	CDS	165266..166915	lldP-1; L-lactate permease
+hex:HPF57_0161	CDS	166964..168619	lldP-2; L-lactate permease
+hex:HPF57_0162	CDS	complement(168643..169512)	mutY; A/G-specific adenine glycosylase
+hex:HPF57_0163	CDS	complement(169630..171078)	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+hex:HPF57_0164	CDS	171243..172709	fixN; cytochrome c oxidase, heme b and copper-binding subunit, membrane-bound
+hex:HPF57_0165	CDS	172722..173420	fixO; cytochrome c oxidase monoheme subunit
+hex:HPF57_0166	CDS	173431..173649	fixQ; cbb3-type cytochrome c oxidase subunit Q
+hex:HPF57_0167	CDS	173651..174529	fixP; cytochrome c oxidase diheme subunit
+hex:HPF57_0168	CDS	174540..174746	hypothetical protein
+hex:HPF57_0169	CDS	174847..175431	hypothetical protein
+hex:HPF57_0170	CDS	175443..176024	hypothetical protein
+hex:HPF57_0171	CDS	176112..176879	hypothetical protein
+hex:HPF57_0172	CDS	complement(176876..177742)	hypothetical protein
+hex:HPF57_0173	CDS	177841..178884	recA; recombinase A
+hex:HPF57_0174	CDS	178896..180176	eno; phosphopyruvate hydratase
+hex:HPF57_0175	CDS	180169..180444	hypothetical protein
+hex:HPF57_0176	CDS	180460..181056	hypothetical protein
+hex:HPF57_0177	CDS	181061..181549	aroK; shikimate kinase
+hex:HPF57_0178	CDS	181571..182527	hypothetical protein
+hex:HPF57_0179	CDS	complement(182524..183642)	rfaJ-1; putative lipopolysaccharide biosynthesis protein
+hex:HPF57_0180	CDS	183799..184716	hcpD; hypothetical protein
+hex:HPF57_0181	CDS	complement(185484..186206)	yebC; hypothetical protein
+hex:HPF57_0182	CDS	complement(186207..187178)	hemB; delta-aminolevulinic acid dehydratase
+hex:HPF57_0183	CDS	complement(187201..188535)	putative histidine kinase sensor protein
+hex:HPF57_0184	CDS	complement(188561..189238)	ompR; response regulator
+hex:HPF57_0185	CDS	complement(189473..189937)	hypothetical protein
+hex:HPF57_0186	CDS	complement(189928..190191)	hypothetical protein
+hex:HPF57_0187	CDS	complement(190224..191504)	collagenase
+hex:HPF57_0188	CDS	complement(191507..192226)	hypothetical protein
+hex:HPF57_0189	CDS	complement(192301..193446)	prfB; peptide chain release factor 2
+hex:HPF57_0190	CDS	complement(193448..193720)	moeA-C; molybdopterin biosynthesis protein MoeA, C terminus fragment (deletion of central part)
+hex:HPF57_0191	CDS	complement(193717..193884)	moeA-N; molybdopterin biosynthesis protein MoeA, N terminus fragment (deletion of central part)
+hex:HPF57_0192	CDS	complement(193894..194661)	fliR; flagellar biosynthesis protein FliR
+hex:HPF57_0193	CDS	complement(194655..195383)	hypothetical protein
+hex:HPF57_0194	CDS	195888..196787	putative peptidyl-prolyl cis-trans isomerase
+hex:HPF57_0195	CDS	196804..197727	fba; fructose-bisphosphate aldolase
+hex:HPF57_0196	CDS	197749..198312	efp; elongation factor P
+hex:HPF57_0197	CDS	complement(198848..199870)	neuB; sialic acid synthase
+hex:HPF57_0198	CDS	complement(199874..200515)	ybbA; ABC transporter, ATP-binding protein
+hex:HPF57_0199	CDS	complement(200515..201789)	lnt; apolipoprotein N-acyltransferase
+hex:HPF57_0200	CDS	202019..202756	hypothetical protein
+hex:HPF57_0201	CDS	202766..204271	lysS; lysyl-tRNA synthetase
+hex:HPF57_0202	CDS	204271..205521	glyA; serine hydroxymethyltransferase
+hex:HPF57_0203	CDS	205532..206074	hypothetical protein
+hex:HPF57_0204	CDS	206096..206905	hypothetical protein
+hex:HPF57_0205	CDS	complement(207252..208490)	hypothetical protein
+hex:HPF57_0206	CDS	complement(208499..208711)	hypothetical protein
+hex:HPF57_0207	CDS	209105..209638	hypothetical protein
+hex:HPF57_0208	CDS	complement(209644..211152)	conserved hypothetical secreted protein
+hex:HPF57_0209	CDS	complement(211174..211911)	frdB; fumarate reductase iron-sulfur subunit
+hex:HPF57_0210	CDS	complement(211904..214048)	frdA; fumarate reductase flavoprotein subunit
+hex:HPF57_0211	CDS	complement(214058..214825)	frdC; fumarate reductase cytochrome b-556 subunit
+hex:HPF57_0212	CDS	215045..215749	tpiA; triosephosphate isomerase
+hex:HPF57_0213	CDS	215759..216586	fabI; enoyl-(acyl carrier protein) reductase
+hex:HPF57_0214	CDS	216596..217606	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+hex:HPF57_0215	CDS	217671..218828	metK; S-adenosylmethionine synthetase
+hex:HPF57_0216	CDS	218894..219307	ndk; nucleoside diphosphate kinase
+hex:HPF57_0217	CDS	219333..219689	hypothetical protein
+hex:HPF57_0218	CDS	219705..219851	rpmF; 50S ribosomal protein L32
+hex:HPF57_0219	CDS	219929..220948	plsX; fatty acid/phospholipid synthesis protein
+hex:HPF57_0220	CDS	220973..221965	fabH; 3-oxoacyl-(acyl carrier protein) synthase III
+hex:HPF57_0221	CDS	221986..222288	hypothetical protein
+hex:HPF57_0222	CDS	complement(222577..222960)	hypothetical protein
+hex:HPF57_0223	CDS	complement(223021..225249)	hypothetical protein
+hex:HPF57_0224	CDS	complement(225321..225803)	hypothetical protein
+hex:HPF57_0225	CDS	complement(225800..226051)	hypothetical protein
+hex:HPF57_0226	CDS	226151..227257	mpr; ATP-binding protein
+hex:HPF57_0227	CDS	complement(227271..228206)	rfaJ-2; lipopolysaccharide 1,2-glycosyltransferase
+hex:HPF57_0228	CDS	228580..229932	hofA; outer membrane protein HofA
+hex:HPF57_0229	CDS	230036..231901	htpG; heat shock protein 90
+hex:HPF57_0230	CDS	complement(232088..232840)	hcpA; cysteine-rich protein A
+hex:HPF57_0231	CDS	complement(233296..234477)	dapE; succinyl-diaminopimelate desuccinylase
+hex:HPF57_0232	CDS	complement(234488..236353)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+hex:HPF57_0233	CDS	236449..238107	sodium-dependent transporter
+hex:HPF57_0234	CDS	238128..238928	cdsA; CDP-diglyceride synthetase
+hex:HPF57_0235	CDS	238929..240035	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+hex:HPF57_0236	CDS	240086..240391	hypothetical protein
+hex:HPF57_0237	CDS	240366..241226	hypothetical protein
+hex:HPF57_0238	CDS	complement(241242..241793)	phospholipid-binding protein
+hex:HPF57_0239	CDS	241938..242399	hypothetical protein
+hex:HPF57_0240	CDS	242572..243735	nifS; cysteine desulfurase
+hex:HPF57_0241	CDS	243757..244737	yurV; nifU-like protein
+hex:HPF57_0242	CDS	245001..245129	hypothetical protein
+hex:HPF57_0243	CDS	245240..246586	radA; DNA repair protein RadA
+hex:HPF57_0244	CDS	246767..247789	msrA; bifunctional methionine sulfoxide reductase A/B protein
+hex:HPF57_0245	CDS	complement(248443..249276)	hypothetical protein
+hex:HPF57_0246	CDS	complement(249444..251531)	hopM-2; outer membrane protein HopM2
+hex:HPF57_0247	CDS	251804..252961	putative sulfate permease
+hex:HPF57_t08	tRNA	complement(252994..253068)	tRNA-Asn
+hex:HPF57_0248	CDS	complement(253198..254640)	hopA; outer membrane protein HopA
+hex:HPF57_0249	CDS	complement(254840..255565)	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+hex:HPF57_0250	CDS	255679..256476	hypothetical protein
+hex:HPF57_0251	CDS	256492..257148	hypothetical protein
+hex:HPF57_0252	CDS	257173..258345	ygiC; hypothetical protein
+hex:HPF57_0253	CDS	258345..258875	hypothetical protein
+hex:HPF57_0254	CDS	complement(259353..260414)	hcpE; cysteine-rich protein E
+hex:HPF57_0255	CDS	complement(260508..260879)	hypothetical protein
+hex:HPF57_0256	CDS	complement(260879..261799)	hemC; porphobilinogen deaminase
+hex:HPF57_0257	CDS	complement(261810..263543)	proS; prolyl-tRNA synthetase
+hex:HPF57_0258	CDS	complement(263547..264896)	hemA; glutamyl-tRNA reductase
+hex:HPF57_0259	CDS	complement(264896..265819)	ispB; putative octaprenyl-diphosphate synthase
+hex:HPF57_0260	CDS	complement(265829..266224)	hypothetical protein
+hex:HPF57_0261	CDS	complement(266217..266501)	hypothetical protein
+hex:HPF57_0262	CDS	complement(266522..266956)	napA; neutrophil activating protein (napA)
+hex:HPF57_0263	CDS	complement(267161..268303)	histidine kinase sensor protein
+hex:HPF57_0264	CDS	complement(268300..268617)	hypothetical protein
+hex:HPF57_0265	CDS	complement(268614..269642)	flgI; flagellar basal body P-ring protein
+hex:HPF57_0266	CDS	269831..271309	deaD; ATP-dependent RNA helicase
+hex:HPF57_0267	CDS	271330..272418	hypothetical protein
+hex:HPF57_0268	CDS	272425..272964	hypothetical protein
+hex:HPF57_0269	CDS	complement(273019..274569)	oppD; oligopeptide permease ATPase protein
+hex:HPF57_0270	CDS	complement(274579..275595)	oligopeptide permease integral membrane protein
+hex:HPF57_t09	tRNA	complement(275708..275783)	tRNA-Ala
+hex:HPF57_0271	CDS	275941..277386	hopF; outer membrane protein HopF
+hex:HPF57_0272	CDS	277399..278817	hopG; outer membrane protein HopG
+hex:HPF57_0273	CDS	278916..280151	purA; adenylosuccinate synthetase
+hex:HPF57_0274	CDS	280148..280576	hypothetical protein
+hex:HPF57_0275	CDS	280569..281228	conserved hypothetical secreted protein
+hex:HPF57_0276	CDS	281225..282280	hypothetical protein
+hex:HPF57_0277	CDS	282293..283555	xseA; exodeoxyribonuclease VII large subunit
+hex:HPF57_0278	CDS	complement(283574..284185)	mod-1; Type II DNA modification enzyme
+hex:HPF57_0279	CDS	284353..285117	hypothetical protein
+hex:HPF57_0280	CDS	285128..287044	hypothetical protein
+hex:HPF57_0281	CDS	287034..287336	virB2-1; virB2 type IV secretion protein
+hex:HPF57_0282	CDS	287337..287597	virB3-1; virB3 type IV secretion protein
+hex:HPF57_0283	CDS	287610..290108	virB4_3; DNA transfer protein
+hex:HPF57_0284	CDS	290092..292035	topA_3; topoisomerase I
+hex:HPF57_0285	CDS	292035..292166	hypothetical protein
+hex:HPF57_0286	CDS	292168..293154	comB8-2; hypothetical protein
+hex:HPF57_0287	CDS	293154..294695	virB9-1; Component of conjugal plasmid transfer system
+hex:HPF57_0288	CDS	294692..295927	comB10-2; ComB3 protein
+hex:HPF57_0289	CDS	296024..296290	hypothetical protein
+hex:HPF57_0290	CDS	296283..296546	hypothetical protein
+hex:HPF57_0291	CDS	296543..296695	hypothetical protein
+hex:HPF57_0292	CDS	296841..297782	virB11-1; VIRB11
+hex:HPF57_0293	CDS	297779..298234	hypothetical protein
+hex:HPF57_0294	CDS	298231..298521	hypothetical protein
+hex:HPF57_0295	CDS	298522..299079	hypothetical protein
+hex:HPF57_0296	CDS	299080..300837	virD4-1; conjugal transfer protein
+hex:HPF57_0297	CDS	complement(301112..301393)	hypothetical protein
+hex:HPF57_0298	CDS	complement(301386..301700)	hypothetical protein
+hex:HPF57_0299	CDS	301996..303906	virD2-1; hypothetical protein
+hex:HPF57_0300	CDS	complement(303931..305094)	hypothetical protein
+hex:HPF57_0301	CDS	complement(305126..305395)	hypothetical protein
+hex:HPF57_0302	CDS	complement(305477..306133)	parA; PARA protein
+hex:HPF57_0303	CDS	complement(306399..314855)	hypothetical protein
+hex:HPF57_0304	CDS	315009..316046	hypothetical protein
+hex:HPF57_0305	CDS	316047..316295	hypothetical protein
+hex:HPF57_0306	CDS	316589..317041	hypothetical protein
+hex:HPF57_0307	CDS	317023..317439	hypothetical protein
+hex:HPF57_0308	CDS	317496..319613	hypothetical protein
+hex:HPF57_0309	CDS	319617..321002	hypothetical protein
+hex:HPF57_0310	CDS	321002..322204	virb6; hypothetical protein
+hex:HPF57_0311	CDS	complement(322267..323343)	integrase/recombinase
+hex:HPF57_0312	CDS	complement(323593..324087)	mod-1; Type II DNA modification enzyme
+hex:HPF57_0313	CDS	complement(324080..324547)	hypothetical protein
+hex:HPF57_0314	CDS	complement(324544..324693)	hypothetical protein
+hex:HPF57_0315	CDS	324857..325570	Type II DNA modification enzyme
+hex:HPF57_0316	CDS	325567..326325	hpaim; adenine specific DNA methyltransferase
+hex:HPF57_0317	CDS	326397..328967	clpB; ATP-dependent protease binding subunit
+hex:HPF57_0318	CDS	329024..329743	ccdA; cytochrome c biogenesis protein
+hex:HPF57_0319	CDS	329753..330889	pyrC_1; dihydroorotase
+hex:HPF57_0320	CDS	330874..332103	orf1; chlorohydrolase
+hex:HPF57_0321	CDS	332164..332406	hypothetical protein
+hex:HPF57_0322	CDS	332416..333729	putative ATP-binding protein
+hex:HPF57_0323	CDS	333769..334422	hypothetical protein
+hex:HPF57_0324	CDS	334415..335395	hypothetical protein
+hex:HPF57_0325	CDS	335385..335918	hypothetical protein
+hex:HPF57_0326	CDS	335915..336454	hypothetical protein
+hex:HPF57_0327	CDS	336471..336869	hypothetical protein
+hex:HPF57_0328	CDS	336906..338198	ATP-dependent nuclease
+hex:HPF57_0329	CDS	338186..338746	hypothetical protein
+hex:HPF57_0330	CDS	338802..339053	fdxB; ferredoxin
+hex:HPF57_0331	CDS	339063..340517	gppA; guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+hex:HPF57_0332	CDS	340514..341524	waaC; lipopolysaccharide heptosyltransferase-1
+hex:HPF57_0333	CDS	341521..342507	waaM; lipid A biosynthesis lauroyl acyltransferase
+hex:HPF57_0334	CDS	complement(342567..343682)	tgt; queuine tRNA-ribosyltransferase
+hex:HPF57_0335	CDS	343733..345175	hypothetical protein
+hex:HPF57_0336	CDS	345182..346213	aroB; 3-dehydroquinate synthase
+hex:HPF57_0337	CDS	346204..347775	hypothetical protein
+hex:HPF57_0338	CDS	347772..349028	hypothetical protein
+hex:HPF57_0339	CDS	349015..350667	ftsH-1; cell division protein
+hex:HPF57_0340	CDS	350670..351188	hypothetical protein
+hex:HPF57_0341	CDS	351200..351673	hypothetical protein
+hex:HPF57_0342	CDS	351736..352608	vacA-2-N; putative vacuolating cytotoxin-like protein VacA2, N terminus fragment (deletion of central part)
+hex:HPF57_0343	CDS	352586..353482	vacA-2-C; putative vacuolating cytotoxin-like protein VacA2, C terminus fragment (deletion of central part)
+hex:HPF57_0344	CDS	353530..354747	lysA; diaminopimelate decarboxylase
+hex:HPF57_0345	CDS	354752..355042	pheA; hypothetical protein
+hex:HPF57_0346	CDS	355055..355927	hypothetical protein
+hex:HPF57_0347	CDS	355928..357607	pabB; para-aminobenzoate synthetase
+hex:HPF57_0348	CDS	357791..358810	amiE; acylamide amidohydrolase
+hex:HPF57_0349	CDS	complement(358894..361380)	flgL; flagellar hook-associated protein FlgL
+hex:HPF57_0350	CDS	361625..361939	rplU; 50S ribosomal protein L21
+hex:HPF57_0351	CDS	361954..362220	rpmA; 50S ribosomal protein L27
+hex:HPF57_0352	CDS	362379..363986	dppA; periplasmic dipeptide-binding protein
+hex:HPF57_0353	CDS	363996..365000	dppB; dipeptide permease protein
+hex:HPF57_0354	CDS	365000..365857	dppC; dipeptide permease protein
+hex:HPF57_0355	CDS	365869..366732	dppD; dipeptide ABC transporter, ATP-binding protein
+hex:HPF57_0356	CDS	366729..367535	dppF; dipeptide transport system atp-binding protein
+hex:HPF57_0357	CDS	367555..368637	obgE; GTPase ObgE
+hex:HPF57_0358	CDS	368679..369674	hypothetical protein
+hex:HPF57_0359	CDS	369923..370477	hypothetical protein
+hex:HPF57_0360	CDS	370487..371779	hemL; glutamate-1-semialdehyde aminotransferase
+hex:HPF57_0361	CDS	371784..372047	hypothetical protein
+hex:HPF57_0362	CDS	372063..372467	hypothetical protein
+hex:HPF57_0363	CDS	372551..373435	hypothetical protein
+hex:HPF57_0364	CDS	373448..374329	hypothetical protein
+hex:HPF57_0365	CDS	complement(374381..375073)	Type II restriction enzyme
+hex:HPF57_0366	CDS	complement(375084..376193)	DNA methylase
+hex:HPF57_0367	CDS	376289..376666	hypothetical protein
+hex:HPF57_0368	CDS	376666..377631	conserved hypothetical ATP-binding protein
+hex:HPF57_0369	CDS	complement(377636..378781)	narK; nitrite extrusion protein
+hex:HPF57_0370	CDS	complement(379287..380042)	hypothetical protein
+hex:HPF57_0371	CDS	complement(380103..381728)	argS; arginyl-tRNA synthetase
+hex:HPF57_0372	CDS	complement(381731..381970)	tatA; sec-independent protein translocase protein
+hex:HPF57_0373	CDS	complement(382040..382660)	gmk; guanylate kinase
+hex:HPF57_0374	CDS	complement(382653..384128)	poly E-rich protein
+hex:HPF57_0375	CDS	384270..384812	membrane bound endonuclease
+hex:HPF57_0376	CDS	complement(384819..385556)	horC; outer membrane protein HorC
+hex:HPF57_0377	CDS	385686..386399	flgH; flagellar basal body L-ring protein
+hex:HPF57_0378	CDS	386422..387105	neuA; CMP-N-acetylneuraminic acid synthetase
+hex:HPF57_0379	CDS	387096..387968	neuA-2; CMP-N-acetylneuraminic acid synthetase
+hex:HPF57_0380	CDS	387965..388507	flaG-1; flagellar biosynthesis protein G
+hex:HPF57_0381	CDS	complement(388440..389378)	lpxK; tetraacyldisaccharide 4'-kinase
+hex:HPF57_0382	CDS	complement(389375..390157)	nadE; NH(3)-dependent NAD+ synthetase
+hex:HPF57_t10	tRNA	390242..390318	tRNA-Arg
+hex:HPF57_0383	CDS	390405..391397	ilvC; ketol-acid reductoisomerase
+hex:HPF57_0384	CDS	391416..392222	minD; cell division inhibitor
+hex:HPF57_0385	CDS	392219..392452	minE; cell division topological specificity factor MinE
+hex:HPF57_0386	CDS	392464..393264	dprA; hypothetical protein
+hex:HPF57_0387	CDS	393261..393665	Holliday junction resolvase-like protein
+hex:HPF57_0388	CDS	393798..394421	cysteine-rich protein C
+hex:HPF57_0389	CDS	394552..394890	hypothetical protein
+hex:HPF57_0390	CDS	394874..395440	hypothetical protein
+hex:HPF57_0391	CDS	395452..395790	lysozyme-like protein
+hex:HPF57_0392	CDS	395943..396134	hypothetical protein
+hex:HPF57_0393	CDS	396459..396845	hypothetical protein
+hex:HPF57_0394	CDS	396845..397015	hypothetical protein
+hex:HPF57_0395	CDS	397031..397630	hypothetical protein
+hex:HPF57_0396	CDS	397620..398684	hypothetical protein
+hex:HPF57_0397	CDS	complement(398730..399611)	sfhB; hypothetical protein
+hex:HPF57_0398	CDS	complement(399611..401161)	recJ; single-stranded-DNA specific exonuclease
+hex:HPF57_0399	CDS	complement(401170..402786)	pyrG; CTP synthetase
+hex:HPF57_0400	CDS	403044..403706	hypothetical protein
+hex:HPF57_0401	CDS	403750..405453	fliF; flagellar MS-ring protein
+hex:HPF57_0402	CDS	405472..406503	fliG; flagellar motor switch protein G
+hex:HPF57_0403	CDS	406496..407266	fliH; flagellar assembly protein H
+hex:HPF57_0404	CDS	407269..409119	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+hex:HPF57_0405	CDS	409116..410924	lepA; GTP-binding protein LepA
+hex:HPF57_0406	CDS	410933..411862	DNA-cytosine methyltransferase
+hex:HPF57_0407	CDS	411855..412325	hypothetical protein
+hex:HPF57_0408	CDS	complement(412728..413537)	flgG-1; flagellar basal-body rod protein
+hex:HPF57_0409	CDS	complement(413586..414872)	kgtP; alpha-ketoglutarate permease
+hex:HPF57_0410	CDS	complement(415035..417557)	ftsK; cell division protein
+hex:HPF57_0411	CDS	complement(417554..419890)	hypothetical protein
+hex:HPF57_0412	CDS	complement(419887..421812)	tktA; transketolase
+hex:HPF57_0413	CDS	complement(421859..422701)	ribF; bifunctional riboflavin kinase/FMN adenylyltransferase
+hex:HPF57_0414	CDS	complement(422667..423374)	hlyA; hemolysin
+hex:HPF57_0415	CDS	complement(423374..423889)	hypothetical protein
+hex:HPF57_0416	CDS	423956..424879	pyrB; aspartate carbamoyltransferase catalytic subunit
+hex:HPF57_0417	CDS	425174..426613	hofB; outer membrane protein HofB
+hex:HPF57_0418	CDS	426705..428360	msbA; multidrug resistance protein
+hex:HPF57_0419	CDS	428354..428977	hypothetical protein
+hex:HPF57_0420	CDS	428981..429550	mrr; Type IV restriction-modification enzyme
+hex:HPF57_0421	CDS	429661..430845	hypothetical protein
+hex:HPF57_0422	CDS	430838..431506	hypothetical protein
+hex:HPF57_0423	CDS	431580..432575	nixA; high-affinity nickel-transport protein
+hex:HPF57_0424	CDS	complement(432579..433094)	hypothetical protein
+hex:HPF57_0425	CDS	433226..434536	hypothetical protein
+hex:HPF57_0426	CDS	434754..435032	hypothetical protein
+hex:HPF57_0427	CDS	complement(435184..435384)	copP; copper ion binding protein
+hex:HPF57_0428	CDS	complement(435385..437610)	copA; copper-transporting ATPase
+hex:HPF57_0429	CDS	complement(437607..438320)	pssA; phosphatidylserine synthase
+hex:HPF57_0430	CDS	complement(438568..440466)	ftsH-2; cell division protein
+hex:HPF57_0431	CDS	complement(440475..441464)	prmA; ribosomal protein L11 methyltransferase
+hex:HPF57_0432	CDS	complement(441465..441839)	cheY; response regulator
+hex:HPF57_0433	CDS	442129..442731	horD; outer membrane protein HorD
+hex:HPF57_t11	tRNA	complement(442733..442820)	tRNA-Ser
+hex:HPF57_0434	CDS	complement(442863..443270)	hypothetical protein
+hex:HPF57_0435	CDS	complement(443273..443515)	hypothetical protein
+hex:HPF57_0436	CDS	complement(443509..444045)	gidB; glucose-inhibited division protein B
+hex:HPF57_0437	CDS	complement(444042..445079)	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+hex:HPF57_0438	CDS	complement(445080..445829)	tatB; hypothetical protein
+hex:HPF57_0439	CDS	complement(445822..446298)	tatC; sec-independent translocase
+hex:HPF57_0440	CDS	complement(446366..447376)	ruvB; Holliday junction DNA helicase B
+hex:HPF57_0441	CDS	complement(447377..448189)	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+hex:HPF57_0442	CDS	448337..449059	hypothetical protein
+hex:HPF57_0443	CDS	449049..449903	hypothetical protein
+hex:HPF57_0444	CDS	449912..450850	hypothetical protein
+hex:HPF57_0445	CDS	450860..452182	hypothetical protein
+hex:HPF57_0446	CDS	452185..452772	minC; septum formation inhibitor
+hex:HPF57_0447	CDS	452769..453656	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+hex:HPF57_0448	CDS	453678..454151	hypothetical protein
+hex:HPF57_0449	CDS	454206..455087	thrB; homoserine kinase
+hex:HPF57_0450	CDS	455074..455328	hypothetical protein
+hex:HPF57_0451	CDS	455325..458177	infB; translation initiation factor IF-2
+hex:HPF57_0452	CDS	458177..458512	rbfA; ribosome-binding factor A
+hex:HPF57_0453	CDS	458505..458945	hypothetical protein
+hex:HPF57_0454	CDS	complement(459053..461041)	acoE; acetyl-CoA synthetase
+hex:HPF57_0455	CDS	461246..462358	hypothetical protein
+hex:HPF57_0456	CDS	462690..463361	putative transcriptional regulator
+hex:HPF57_0457	CDS	complement(463867..464910)	hypothetical protein
+hex:HPF57_0458	CDS	complement(464942..467143)	flhA; flagellar biosynthesis protein FlhA
+hex:HPF57_0459	CDS	467282..467554	rpsO; 30S ribosomal protein S15
+hex:HPF57_0460	CDS	467585..468871	hypothetical protein
+hex:HPF57_0461	CDS	468952..469455	aroD; 3-dehydroquinate dehydratase
+hex:HPF57_0462	CDS	469469..470542	pepQ; hypothetical protein
+hex:HPF57_0463	CDS	470542..471030	folK; 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+hex:HPF57_0464	CDS	471027..472403	flhF; flagellar biosynthesis regulator FlhF
+hex:HPF57_0465	CDS	472400..473284	ATP-binding protein
+hex:HPF57_0466	CDS	473289..473603	hypothetical protein
+hex:HPF57_0467	CDS	473605..474357	fliA; flagellar biosynthesis sigma factor
+hex:HPF57_0468	CDS	474350..475414	fliM; flagellar motor switch protein FliM
+hex:HPF57_0469	CDS	475418..476281	fliY; flagellar motor switch protein FliY
+hex:HPF57_0470	CDS	476309..476845	hypothetical protein
+hex:HPF57_0471	CDS	476842..477339	hypothetical protein
+hex:HPF57_0472	CDS	complement(477359..477811)	fur; ferric uptake regulation protein
+hex:HPF57_0473	CDS	complement(477971..479146)	rarA; recombination factor protein RarA
+hex:HPF57_0474	CDS	complement(479143..479514)	hspR; putative heat shock protein
+hex:HPF57_0475	CDS	complement(479524..480390)	cbpA; co-chaperone-curved DNA binding protein A
+hex:HPF57_0476	CDS	480558..481808	hypothetical protein
+hex:HPF57_0477	CDS	complement(481830..482606)	dNA-polymerase I-like 5'-3' exonuclease
+hex:HPF57_0478	CDS	complement(482921..483817)	response regulator
+hex:HPF57_0479	CDS	complement(483859..485079)	ispDF; bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase protein
+hex:HPF57_0480	CDS	complement(485101..486531)	htrA; protease DO
+hex:HPF57_0481	CDS	complement(486576..488018)	amino acid permease
+hex:HPF57_0482	CDS	complement(488208..488747)	pgsA; phosphatidylglycerophosphate synthase
+hex:HPF57_0483	CDS	complement(488744..489352)	hypothetical protein
+hex:HPF57_0484	CDS	complement(489362..490150)	7-alpha-hydroxysteroid dehydrogenase
+hex:HPF57_0485	CDS	complement(490147..491049)	dapA; dihydrodipicolinate synthase
+hex:HPF57_0486	CDS	complement(491064..492398)	putative zinc protease
+hex:HPF57_0487	CDS	complement(492395..493450)	pyrD; dihydroorotate dehydrogenase 2
+hex:HPF57_0488	CDS	complement(493487..495514)	ppk; polyphosphate kinase
+hex:HPF57_t12	tRNA	complement(495608..495685)	tRNA-Pro
+hex:HPF57_0489	CDS	complement(496179..497351)	hsdS_1a; Type I restriction enzyme specificity subunit
+hex:HPF57_0490	CDS	complement(497344..498975)	hsdM-1; Type I restriction enzyme M protein
+hex:HPF57_0491	CDS	complement(498965..502096)	Type I restriction enzyme R protein
+hex:HPF57_0492	CDS	complement(502144..504039)	hypothetical protein
+hex:HPF57_0493	CDS	complement(504065..504832)	hypothetical protein
+hex:HPF57_0494	CDS	complement(504842..505192)	integral membrane protein
+hex:HPF57_0495	CDS	complement(505158..506645)	hypothetical protein
+hex:HPF57_0496	CDS	complement(506657..507145)	hypothetical protein
+hex:HPF57_0497	CDS	complement(507130..508866)	pepF; oligoendopeptidase F
+hex:HPF57_0498	CDS	complement(508963..510213)	kefB; glutathione-regulated potassium-efflux system protein
+hex:HPF57_0499	CDS	complement(510532..511092)	horE; outer membrane protein HorE
+hex:HPF57_0500	CDS	511626..512057	modA-frg; molybdenum ABC transporter ModA fragment
+hex:HPF57_0501	CDS	512079..512444	modB-N; molybdenum ABC transporter ModB, split, N terminus part
+hex:HPF57_0502	CDS	512413..512742	modB-C; molybdenum ABC transporter ModB, split, C terminus part
+hex:HPF57_0503	CDS	512739..513206	modD-N; molybdenum ABC transporter ModD, split, N terminus part
+hex:HPF57_0504	CDS	513193..513534	modD-C; molybdenum ABC transporter ModD, split, C terminus part
+hex:HPF57_0505	CDS	complement(513617..515008)	gltX; glutamyl-tRNA synthetase
+hex:HPF57_0506	CDS	515127..516242	hopK; outer membrane protein HopK
+hex:HPF57_0507	CDS	516251..517888	Type II adenine specific methyltransferase
+hex:HPF57_0508	CDS	517854..518702	Type II adenine specific methyltransferase
+hex:HPF57_0509	CDS	518748..520547	typA; hypothetical protein
+hex:HPF57_0510	CDS	520563..520988	Type II adenine specific DNA methyltransferase
+hex:HPF57_0511	CDS	521123..521494	Type II adenine specific DNA methyltransferase
+hex:HPF57_0512	CDS	521497..522120	Type II restriction endonuclease
+hex:HPF57_0513	CDS	522215..523270	Type II DNA modification enzyme
+hex:HPF57_0514	CDS	523263..523493	Type II restriction enzyme
+hex:HPF57_0515	CDS	523494..524015	Type II restriction enzyme
+hex:HPF57_0516	CDS	complement(524253..525197)	catalase-like protein
+hex:HPF57_0517	CDS	525478..527064	hofC; outer membrane protein HofC
+hex:HPF57_0518	CDS	527121..528533	hofD; outer membrane protein HofD
+hex:HPF57_0519	CDS	528773..531706	hypothetical protein
+hex:HPF57_0520	CDS	531858..532253	hypothetical protein
+hex:HPF57_0521	CDS	complement(532255..533391)	putative potassium channel protein
+hex:HPF57_0522	CDS	complement(533541..533729)	rpmB; 50S ribosomal protein L28
+hex:HPF57_0523	CDS	complement(533829..534461)	hpaA-2; adhesion HpaA homologue HpaA2
+hex:HPF57_0524	CDS	534801..535862	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+hex:HPF57_0525	CDS	535864..537132	murD; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+hex:HPF57_0526	CDS	complement(537129..537389)	hypothetical protein
+hex:HPF57_0527	CDS	complement(537379..537780)	ybgC; hypothetical protein
+hex:HPF57_0528	CDS	538011..539339	sodium- and chloride-dependent transporter
+hex:HPF57_0529	CDS	539352..540680	sodium- and chloride-dependent transporter
+hex:HPF57_0530	CDS	540696..541487	pldA; phospholipase A1
+hex:HPF57_0531	CDS	541456..541764	pldA; phospholipase A1
+hex:HPF57_0532	CDS	541822..542946	dnaN; DNA polymerase III subunit beta
+hex:HPF57_0533	CDS	542959..545280	gyrB; DNA gyrase subunit B
+hex:HPF57_0534	CDS	545287..546318	Type II modification enzyme
+hex:HPF57_0535	CDS	546305..547069	Type II restriction enzyme
+hex:HPF57_0536	CDS	547271..548479	putative outer membrane protein
+hex:HPF57_0537	CDS	548479..549117	hypothetical protein
+hex:HPF57_0538	CDS	549128..550432	plasminogen binding protein
+hex:HPF57_0539	CDS	550434..551813	glcD; putative Glycolate oxidase
+hex:HPF57_0540	CDS	551836..552600	dapB; dihydrodipicolinate reductase
+hex:HPF57_0541	CDS	552929..553045	lpp; urease-enhancing factor
+hex:HPF57_0542	CDS	complement(553324..554769)	glnA; glutamine synthetase
+hex:HPF57_0543	CDS	554907..557000	hypothetical protein
+hex:HPF57_0544	CDS	557063..557512	rplI; 50S ribosomal protein L9
+hex:HPF57_0545	CDS	557516..558058	hslV; ATP-dependent protease peptidase subunit
+hex:HPF57_0546	CDS	558058..559389	hslU; ATP-dependent protease ATP-binding subunit
+hex:HPF57_0547	CDS	559389..560294	era; GTP-binding protein Era
+hex:HPF57_0548	CDS	560291..561283	conserved hypothetical secreted protein
+hex:HPF57_0549	CDS	complement(561354..562205)	hypothetical protein
+hex:HPF57_0550	CDS	562344..562691	cag1; cag pathogenicity island protein
+hex:HPF57_0551	CDS	562701..562904	cag pathogenicity island protein
+hex:HPF57_0552	CDS	562918..564363	cag3; cag pathogenicity island protein
+hex:HPF57_0553	CDS	564373..564882	cag4; cag island protein
+hex:HPF57_0554	CDS	complement(565190..567436)	cag5; cag pathogenicity island protein
+hex:HPF57_0555	CDS	complement(567445..568437)	virB11-2; cag pathogenicity island protein
+hex:HPF57_0556	CDS	complement(568442..569041)	cagZ; cag pathogenicity island protein
+hex:HPF57_0557	CDS	complement(569178..574571)	cagY; cag pathogenicity island protein Y VirB10-like protein
+hex:HPF57_0558	CDS	complement(574586..576154)	cagX; cag pathogenicity island protein
+hex:HPF57_0559	CDS	complement(576207..577814)	cagW; cag pathogenicity island protein
+hex:HPF57_0560	CDS	complement(577819..578577)	cagV; cag pathogenicity island protein
+hex:HPF57_0561	CDS	578847..579494	cagU; cag pathogenicity island protein
+hex:HPF57_0562	CDS	579510..580352	cagT; cag pathogenicity island protein
+hex:HPF57_0563	CDS	complement(580554..581153)	cagS; cag pathogenicity island protein
+hex:HPF57_0564	CDS	583987..585117	cagM; cag pathogenicity island protein
+hex:HPF57_0565	CDS	585132..586052	cagN; cag pathogenicity island protein
+hex:HPF57_0566	CDS	complement(586135..586848)	cagL; cag pathogenicity island protein
+hex:HPF57_0567	CDS	complement(586845..587990)	cagI; cag pathogenicity island protein
+hex:HPF57_0568	CDS	complement(588001..589113)	cagH; cag island protein
+hex:HPF57_0569	CDS	complement(589115..589546)	cagG; cag pathogenicity island protein
+hex:HPF57_0570	CDS	complement(589601..590407)	cagF; cag pathogenicity island protein
+hex:HPF57_0571	CDS	complement(590409..593360)	cagE; DNA transfer protein
+hex:HPF57_0572	CDS	complement(593369..593992)	cagD; cag pathogenicity island protein
+hex:HPF57_0573	CDS	complement(593994..594341)	cagC; cag pathogenicity island protein
+hex:HPF57_0574	CDS	594999..598511	cagA; cag pathogenicity island protein
+hex:HPF57_0575	CDS	complement(598583..598867)	tnpB; IS606 transposase
+hex:HPF57_0576	CDS	complement(598990..599757)	murI; glutamate racemase
+hex:HPF57_0577	CDS	complement(599796..601112)	rho; transcription termination factor Rho
+hex:HPF57_0578	CDS	601373..601576	rpmE; 50S ribosomal protein L31
+hex:HPF57_0579	CDS	601601..602464	hypothetical protein
+hex:HPF57_0580	CDS	602477..603160	hypothetical protein
+hex:HPF57_0581	CDS	603173..604138	hypothetical protein
+hex:HPF57_0582	CDS	604135..604956	hypothetical protein
+hex:HPF57_0583	CDS	complement(605819..606757)	accA; acetyl-CoA carboxylase carboxyltransferase subunit alpha
+hex:HPF57_0584	CDS	complement(606780..607988)	fabB; 3-oxoacyl-(acyl carrier protein) synthase II
+hex:HPF57_0585	CDS	complement(608319..608555)	acpP; acyl carrier protein
+hex:HPF57_0586	CDS	complement(608786..609529)	fabG; 3-ketoacyl-(acyl-carrier-protein) reductase
+hex:HPF57_0587	CDS	complement(609566..609778)	rpsU; 30S ribosomal protein S21
+hex:HPF57_0588	CDS	complement(609880..611130)	hypothetical protein
+hex:HPF57_0589	CDS	611303..611548	hypothetical protein
+hex:HPF57_0590	CDS	complement(611572..612219)	hypothetical protein
+hex:HPF57_0591	CDS	complement(612318..613139)	dapF; diaminopimelate epimerase
+hex:HPF57_0592	CDS	613255..614304	membrane protein
+hex:HPF57_0593	CDS	complement(614430..615302)	hypothetical protein
+hex:HPF57_0594	CDS	complement(615336..616436)	translation-associated GTPase
+hex:HPF57_0595	CDS	complement(616438..617928)	pepA; leucyl aminopeptidase
+hex:HPF57_0596	CDS	complement(617990..618568)	hypothetical protein
+hex:HPF57_0597	CDS	complement(618583..619122)	apt; adenine phosphoribosyltransferase
+hex:HPF57_0598	CDS	complement(619180..619512)	hypothetical protein
+hex:HPF57_0599	CDS	complement(619565..620020)	rpiB; ribose-5-phosphate isomerase B
+hex:HPF57_0600	CDS	complement(620041..620739)	hypothetical protein
+hex:HPF57_0601	CDS	complement(620748..621620)	lepB; signal peptidase I
+hex:HPF57_0602	CDS	complement(621620..622492)	folD; methylene-tetrahydrofolate dehydrogenase
+hex:HPF57_0603	CDS	complement(622572..624605)	hypothetical protein
+hex:HPF57_0604	CDS	complement(624611..625165)	hypothetical protein
+hex:HPF57_0605	CDS	complement(625172..626290)	hypothetical protein
+hex:HPF57_0606	CDS	complement(626266..627285)	pyrC_2; dihydroorotase
+hex:HPF57_0607	CDS	complement(627289..628236)	tonB_1; hypothetical protein
+hex:HPF57_0608	CDS	complement(628220..629059)	hypothetical protein
+hex:HPF57_0609	CDS	complement(629092..629463)	fliN; flagellar motor switch protein
+hex:HPF57_0610	CDS	complement(629545..630195)	nth; endonuclease III
+hex:HPF57_0611	CDS	complement(630198..630428)	hypothetical protein
+hex:HPF57_0612	CDS	complement(630425..633364)	hypothetical protein
+hex:HPF57_0613	CDS	633408..634277	pabC; hypothetical protein
+hex:HPF57_0614	CDS	634455..634796	oorD; 2-oxoglutarate-acceptor oxidoreductase subunit OorD
+hex:HPF57_0615	CDS	634796..635923	oorA; 2-oxoglutarate-acceptor oxidoreductase subunit OorA
+hex:HPF57_0616	CDS	635925..636746	oorB; 2-oxoglutarate-acceptor oxidoreductase subunit OorB
+hex:HPF57_0617	CDS	636746..637300	oorC; 2-oxoglutarate-acceptor oxidoreductase subunit OorC
+hex:HPF57_0618	CDS	637411..639189	hypothetical protein
+hex:HPF57_0619	CDS	639332..639496	hypothetical protein
+hex:HPF57_0620	CDS	639505..640977	DsbB-like protein
+hex:HPF57_0621	CDS	641451..642029	tumor necrosis factor alpha-inducing protein
+hex:HPF57_0622	CDS	complement(642032..644011)	pbp-1a; penicillin-binding protein 1A
+hex:HPF57_0623	CDS	complement(644011..645132)	bioF; 8-amino-7-oxononanoate synthase
+hex:HPF57_0624	CDS	complement(645155..646456)	methyl-accepting chemotaxis protein
+hex:HPF57_0625	CDS	complement(646528..647121)	spaB; putative secretion/efflux ABC transporter, ATP-binding protein, N-terminus truncation
+hex:HPF57_0626	CDS	647486..649018	flaA; flagellin A
+hex:HPF57_0627	CDS	649136..649792	magIII; 3-methyladenine DNA glycosylase
+hex:HPF57_0628	CDS	649789..650406	hypothetical protein
+hex:HPF57_0629	CDS	650486..651505	hemE; uroporphyrinogen decarboxylase
+hex:HPF57_0630	CDS	651514..652947	hefA; outer membrane protein HefA
+hex:HPF57_0631	CDS	652957..653661	hefB; membrane fusion protein of the hefABC efflux system HefB
+hex:HPF57_0632	CDS	653674..656754	hefC; cytoplasmic pump protein of the hefABC efflux system HefC
+hex:HPF57_0633	CDS	656751..657320	hypothetical protein
+hex:HPF57_0634	CDS	657453..667028	putative vacuolating cytotoxin (VacA)-like protein
+hex:HPF57_0635	CDS	complement(667088..667843)	ABC transporter, permease
+hex:HPF57_0636	CDS	complement(667843..668382)	putative abc transporter, ATP-binding protein
+hex:HPF57_0637	CDS	complement(668872..669204)	hypothetical protein
+hex:HPF57_0638	CDS	complement(669305..671275)	ligA; NAD-dependent DNA ligase LigA
+hex:HPF57_0639	CDS	671353..672294	cheV_2; chemotaxis protein
+hex:HPF57_0640	CDS	672329..674062	aspS; aspartyl-tRNA synthetase
+hex:HPF57_0641	CDS	674079..674654	adk; adenylate kinase
+hex:HPF57_0642	CDS	674679..675677	putative lipopolysaccharide biosynthesis protein
+hex:HPF57_0643	CDS	675730..676293	putative lipopolysaccharide biosynthesis protein
+hex:HPF57_0644	CDS	676290..677003	putative lipopolysaccharide biosynthesis protein
+hex:HPF57_0645	CDS	677059..677580	ppa; inorganic pyrophosphatase
+hex:HPF57_0646	CDS	complement(677722..679971)	mutS; recombination and DNA strand exchange inhibitor protein
+hex:HPF57_0647	CDS	complement(679990..680355)	hypothetical protein
+hex:HPF57_0648	CDS	complement(680355..681704)	murC; UDP-N-acetylmuramate--L-alanine ligase
+hex:HPF57_0649	CDS	complement(681697..682824)	hypothetical protein
+hex:HPF57_0650	CDS	682979..684058	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+hex:HPF57_0651	CDS	684061..685266	dapD; tetrahydrodipicolinate N-succinyltransferase
+hex:HPF57_0652	CDS	685278..686336	hcpF; cysteine-rich protein F
+hex:HPF57_0653	CDS	686461..688509	hypothetical protein
+hex:HPF57_0654	CDS	complement(688553..689137)	mdaB; modulator of drug activity
+hex:HPF57_0655	CDS	689267..690421	hyaA; hydrogenase, small subunit
+hex:HPF57_0656	CDS	690438..692174	hyaB; quinone-reactive Ni/Fe hydrogenase HydB
+hex:HPF57_0657	CDS	692187..692861	hyaC; quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+hex:HPF57_0658	CDS	692858..693394	hyaD; hydrogenase expression/formation protein
+hex:HPF57_0659	CDS	693395..694933	hydE; hypothetical protein
+hex:HPF57_0660	CDS	complement(694938..695327)	hypothetical protein
+hex:HPF57_0661	CDS	complement(695419..695871)	hypothetical protein
+hex:HPF57_0662	CDS	696051..696965	oipA-1; outer membrane protein OipA1
+hex:HPF57_0663	CDS	complement(697030..697710)	exsB; ExsB trans-regulatory protein
+hex:HPF57_0664	CDS	697772..698995	pcnB; poly(A) polymerase
+hex:HPF57_0665	CDS	699110..699763	NAD(P)H-flavin oxidoreductase
+hex:HPF57_0666	CDS	699926..701245	gltX; glutamyl-tRNA synthetase
+hex:HPF57_0667	CDS	701242..701535	hypothetical protein
+hex:HPF57_0668	CDS	701544..703226	soluble lytic murein transglycosylase
+hex:HPF57_0669	CDS	703223..704044	galU; UDP-glucose pyrophosphorylase
+hex:HPF57_0670	CDS	704056..704463	hypothetical protein
+hex:HPF57_0671	CDS	704466..705734	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+hex:HPF57_0672	CDS	705792..707198	aspA; aspartate ammonia-lyase
+hex:HPF57_0673	CDS	707204..707833	hypothetical protein
+hex:HPF57_0674	CDS	complement(707842..709194)	fucT; alpha-(1,3)-fucosyltransferase
+hex:HPF57_0675	CDS	complement(709233..709856)	serB; phosphoserine phosphatase
+hex:HPF57_0676	CDS	complement(709872..710375)	pfr; nonheme iron-containing ferritin
+hex:HPF57_0677	CDS	710684..711766	hypothetical protein
+hex:HPF57_0678	CDS	711939..714599	putative outer membrane protein
+hex:HPF57_0679	CDS	714601..715662	hypothetical protein
+hex:HPF57_0680	CDS	715665..716963	processing protease
+hex:HPF57_0681	CDS	716963..718387	gatB; aspartyl/glutamyl-tRNA amidotransferase subunit B
+hex:HPF57_0682	CDS	718387..719622	hypothetical protein
+hex:HPF57_0683	CDS	719633..720640	hypothetical protein
+hex:HPF57_0684	CDS	720641..721105	rnhA; ribonuclease H
+hex:HPF57_0685	CDS	721080..721796	rnc; ribonuclease III
+hex:HPF57_0686	CDS	721793..722890	aroC; chorismate synthase
+hex:HPF57_0687	CDS	722928..723443	hypothetical protein
+hex:HPF57_0688	CDS	723443..724816	hemN_1; coproporphyrinogen III oxidase
+hex:HPF57_0689	CDS	724813..726102	glpC; anaerobic glycerol-3-phosphate dehydrogenase, subunit C
+hex:HPF57_0690	CDS	726185..727459	Type IIG restriction-modification enzyme
+hex:HPF57_0691	CDS	727456..727908	Type IIG restriction-modification enzyme
+hex:HPF57_0692	CDS	727923..731024	Type IIG restriction-modification enzyme
+hex:HPF57_0693	CDS	731269..732081	horF; outer membrane protein HorF
+hex:HPF57_0694	CDS	732240..733412	aspB; aspartate aminotransferase
+hex:HPF57_0695	CDS	733679..734473	hypothetical protein
+hex:HPF57_0696	CDS	734480..735547	xerD; integrase-recombinase protein
+hex:HPF57_0697	CDS	complement(735696..736118)	ogt; methylated-DNA--protein-cysteine methyltransferase
+hex:HPF57_0698	CDS	complement(736122..736496)	hypothetical protein
+hex:HPF57_0699	CDS	complement(736507..736890)	hypothetical protein
+hex:HPF57_0700	CDS	complement(737006..737953)	wbpB; putative lipopolysaccharide biosynthesis protein
+hex:HPF57_0701	CDS	complement(738015..740381)	nrdA; ribonucleotide-diphosphate reductase subunit alpha
+hex:HPF57_0702	CDS	complement(740545..741015)	hypothetical protein
+hex:HPF57_0703	CDS	complement(741039..741419)	hypothetical protein
+hex:HPF57_0704	CDS	complement(741686..742192)	hypothetical protein
+hex:HPF57_0705	CDS	complement(742232..742582)	hypothetical protein
+hex:HPF57_0706	CDS	complement(742816..744117)	glmU; UDP-N-acetylglucosamine pyrophosphorylase
+hex:HPF57_0707	CDS	744205..744951	fliP; flagellar biosynthesis protein FliP
+hex:HPF57_0708	CDS	complement(744990..747293)	fecA-1; iron(III) dicitrate transport protein FecA1
+hex:HPF57_0709	CDS	complement(747548..749482)	feoB; iron(II) transport protein
+hex:HPF57_0710	CDS	749613..750425	hypothetical protein
+hex:HPF57_0711	CDS	complement(750510..751814)	cytosine specific DNA methyltransferase (BSP6IM)
+hex:HPF57_0712	CDS	751877..752206	hypothetical protein
+hex:HPF57_0713	CDS	752116..752520	Type II restriction enzyme NlaIV
+hex:HPF57_0714	CDS	752629..753030	hypothetical protein
+hex:HPF57_0715	CDS	753309..754484	thl; acetyl coenzyme A acetyltransferase
+hex:HPF57_0716	CDS	754518..755216	scoA; 3-oxoacid Coa-transferase, subunit A
+hex:HPF57_0717	CDS	755213..755836	scoB; succinyl-CoA-transferase subunit B
+hex:HPF57_0718	CDS	755855..757219	atoE; short-chain fatty acids transporter
+hex:HPF57_0719	CDS	757344..758345	putative outer membrane protein
+hex:HPF57_0720	CDS	758551..760692	hydantoin utilization protein A
+hex:HPF57_0721	CDS	760704..763001	N-methylhydantoinase
+hex:HPF57_0722	CDS	763019..763519	hypothetical protein
+hex:HPF57_0723	CDS	763827..764855	hypothetical protein
+hex:HPF57_0724	CDS	764848..765234	dgkA; diacylglycerol kinase
+hex:HPF57_0725	CDS	765254..767740	gyrA; DNA gyrase subunit A
+hex:HPF57_0726	CDS	767740..768213	hypothetical protein
+hex:HPF57_0727	CDS	768210..769355	flgR; transcriptional activator of flagella proteins
+hex:HPF57_0728	CDS	complement(769669..772494)	uvrA; excinuclease ABC subunit A
+hex:HPF57_0729	CDS	772678..773490	hopE; outer membrane protein HopE
+hex:HPF57_0730	CDS	773672..774598	mraW; S-adenosyl-methyltransferase MraW
+hex:HPF57_0731	CDS	774618..774962	hypothetical protein
+hex:HPF57_0732	CDS	775207..776109	hypothetical protein
+hex:HPF57_0733	CDS	776212..776385	putative outer membrane protein HomB
+hex:HPF57_0734	CDS	776573..777793	hypothetical protein
+hex:HPF57_0735	CDS	complement(777909..778823)	oipA-2; outer membrane protein OipA2
+hex:HPF57_0736	CDS	complement(779219..780463)	rpoN; RNA polymerase factor sigma-54
+hex:HPF57_0737	CDS	complement(780466..781188)	yhbG; putative abc transporter, ATP-binding protein
+hex:HPF57_0738	CDS	complement(781201..781602)	hypothetical protein
+hex:HPF57_0739	CDS	complement(781599..783314)	dnaX; DNA polymerase III subunits gamma and tau
+hex:HPF57_0740	CDS	complement(783383..784015)	hypothetical protein
+hex:HPF57_0741	CDS	784284..784706	hypothetical protein
+hex:HPF57_0742	CDS	784735..785205	hypothetical protein
+hex:HPF57_0743	CDS	complement(785485..786483)	ansB; L-asparaginase II
+hex:HPF57_0744	CDS	786613..787944	dcuA; anaerobic C4-dicarboxylate transporter
+hex:HPF57_0745	CDS	complement(788018..789979)	omp17; outer membrane protein
+hex:HPF57_0746	CDS	complement(790195..791112)	putative outer membrane protein
+hex:HPF57_0747	CDS	complement(791082..792068)	transcriptional regulator
+hex:HPF57_0748	CDS	complement(792162..793193)	hypothetical protein
+hex:HPF57_0749	CDS	complement(793216..794283)	hypothetical protein
+hex:HPF57_0750	CDS	complement(794292..794597)	hypothetical protein
+hex:HPF57_0751	CDS	complement(794698..796410)	labile enterotoxin outputA
+hex:HPF57_0752	CDS	complement(796407..798242)	hypothetical protein
+hex:HPF57_0753	CDS	complement(798355..799674)	hypothetical protein
+hex:HPF57_0754	CDS	complement(799676..800137)	gpt; xanthine guanine phosphoribosyl transferase
+hex:HPF57_0755	CDS	complement(800146..801255)	putative aminotransferase
+hex:HPF57_0756	CDS	801403..801879	pgpA; phosphatidylglycerophosphatase A
+hex:HPF57_0757	CDS	801956..802999	ddl; D-alanyl-alanine synthetase A
+hex:HPF57_0758	CDS	802999..803724	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+hex:HPF57_0759	CDS	803711..805192	murF; D-alanyl-D-alanine-adding enzyme
+hex:HPF57_0760	CDS	805202..805687	histidine triad family protein
+hex:HPF57_0761	CDS	805752..806708	prsA; ribose-phosphate pyrophosphokinase
+hex:HPF57_t13	tRNA	complement(806750..806826)	tRNA-Met
+hex:HPF57_0762	CDS	complement(806788..807933)	ftsW_1; putative rod shape-determining protein
+hex:HPF57_0763	CDS	complement(807950..808330)	hypothetical protein
+hex:HPF57_0764	CDS	complement(808320..808745)	hypothetical protein
+hex:HPF57_0765	CDS	complement(808759..809382)	hypothetical protein
+hex:HPF57_0766	CDS	809540..810523	hypothetical protein
+hex:HPF57_0767	CDS	810474..811733	hypothetical protein
+hex:HPF57_0768	CDS	811744..812922	trmB; tRNA (guanine-N(7))-methyltransferase
+hex:HPF57_0769	CDS	812922..813593	ftsE; cell division protein
+hex:HPF57_0770	CDS	813580..814386	ftsX; cell division membrane protein
+hex:HPF57_0771	CDS	814379..815581	hypothetical protein
+hex:HPF57_0772	CDS	815681..816040	flaG-2; flagellar protein FlaG
+hex:HPF57_0773	CDS	816057..818114	fliD; flagellar capping protein
+hex:HPF57_0774	CDS	818161..818541	fliS; flagellar protein FliS
+hex:HPF57_0775	CDS	818528..818767	hypothetical protein
+hex:HPF57_0776	CDS	818820..819479	moeB; molybdopterin biosynthesis protein
+hex:HPF57_0777	CDS	819508..819651	hypothetical protein
+hex:HPF57_0778	CDS	819655..820533	carbon-nitrogen hydrolase
+hex:HPF57_0779	CDS	820660..821973	hypothetical protein
+hex:HPF57_0780	CDS	822036..823289	hypothetical protein
+hex:HPF57_0781	CDS	complement(823290..824879)	phosphodiesterase
+hex:HPF57_0782	CDS	complement(824779..825426)	hypothetical protein
+hex:HPF57_0783	CDS	825551..826108	hypothetical protein
+hex:HPF57_0784	CDS	826115..827008	ftsY; cell division protein
+hex:HPF57_0785	CDS	complement(827017..827331)	hypothetical protein
+hex:HPF57_0786	CDS	complement(827400..827570)	hypothetical protein
+hex:HPF57_0787	CDS	complement(827567..828139)	hypothetical protein
+hex:HPF57_0788	CDS	complement(828268..828822)	hypothetical protein
+hex:HPF57_0789	CDS	complement(828815..828949)	hypothetical protein
+hex:HPF57_0790	CDS	complement(829301..830293)	moaA; molybdenum cofactor biosynthesis protein MoaA
+hex:HPF57_0791	CDS	830379..830984	mobA; molybdopterin-guanine dinucleotide biosynthesis protein A
+hex:HPF57_0792	CDS	830977..832053	flhB; flagellar biosynthesis protein FlhB
+hex:HPF57_0793	CDS	complement(832140..832877)	hypothetical protein
+hex:HPF57_0794	CDS	complement(832896..834218)	amiA; N-acetylmuramoyl-L-alanine amidase
+hex:HPF57_0795	CDS	complement(834225..835316)	hypothetical protein
+hex:HPF57_0796	CDS	complement(835333..836541)	tyrS; tyrosyl-tRNA synthetase
+hex:HPF57_0797	CDS	complement(836565..838892)	spoT; penta-phosphate guanosine-3'-pyrophosphohydrolase
+hex:HPF57_0798	CDS	complement(838879..839103)	rpoZ; DNA-directed RNA polymerase subunit omega
+hex:HPF57_0799	CDS	complement(839146..839868)	pyrH; uridylate kinase
+hex:HPF57_0800	CDS	complement(839977..840660)	hypothetical protein
+hex:HPF57_0801	CDS	840790..843348	acnB; bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+hex:HPF57_0802	CDS	843428..843694	hypothetical protein
+hex:HPF57_0803	CDS	843949..845238	hypothetical protein
+hex:HPF57_0804	CDS	845333..846700	hofE; outer membrane protein HofE
+hex:HPF57_0805	CDS	complement(846707..847234)	hypothetical protein
+hex:HPF57_tm01	tmRNA	complement(847280..847665)	tmRNA
+hex:HPF57_0806	CDS	complement(847731..848285)	lolA; outer-membrane lipoprotein carrier protein
+hex:HPF57_0807	CDS	848432..851029	secA; preprotein translocase subunit SecA
+hex:HPF57_0808	CDS	851019..852251	lolE; lipoprotein release system transmembrane protein
+hex:HPF57_0809	CDS	852523..854022	hofF; outer membrane protein HofF
+hex:HPF57_0810	CDS	complement(854420..855712)	hsdS_2; Type I restriction-modification system specificity subunit
+hex:HPF57_0811	CDS	complement(855748..857808)	hmcT; cadmium-transporting ATPase
+hex:HPF57_0812	CDS	complement(857833..859353)	comM; sigma-54 interacting protein
+hex:HPF57_0813	CDS	complement(859356..859883)	def; peptide deformylase
+hex:HPF57_0814	CDS	complement(859888..860475)	clpP; ATP-dependent Clp protease proteolytic subunit
+hex:HPF57_0815	CDS	complement(860496..861851)	tig; trigger factor
+hex:HPF57_0816	CDS	complement(861964..862143)	horG-C; outer membrane protein HorG, split, C-teriminus part
+hex:HPF57_0817	CDS	complement(862207..862761)	horG-N; outer membrane protein HorG, split, N-teriminus part
+hex:HPF57_0818	CDS	complement(862825..863607)	hpaA; flagellar sheath adhesin HpaA
+hex:HPF57_0819	CDS	complement(863726..864160)	moaC; molybdenum cofactor biosynthesis protein C
+hex:HPF57_0820	CDS	complement(864144..864608)	mogA; molybdenum cofactor biosynthesis protein
+hex:HPF57_0821	CDS	complement(864626..865060)	moaE; molybdopterin converting factor, subunit 2
+hex:HPF57_0822	CDS	complement(865061..865282)	moaD; molybdopterin converting factor, subunit 1
+hex:HPF57_0823	CDS	complement(865356..865934)	ribA; GTP cyclohydrolase II
+hex:HPF57_0824	CDS	complement(866054..866893)	hypothetical protein
+hex:HPF57_0825	CDS	complement(866983..868017)	ribBA; bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+hex:HPF57_0826	CDS	868455..869123	hypothetical protein
+hex:HPF57_0827	CDS	complement(869220..870062)	putative lipopolysaccharide biosynthesis protein
+hex:HPF57_0828	CDS	870144..870758	hypothetical protein
+hex:HPF57_0829	CDS	complement(870769..873144)	fecA_2; iron(III) dicitrate transport protein
+hex:HPF57_0830	CDS	complement(873324..873680)	acpS; 4'-phosphopantetheinyl transferase
+hex:HPF57_0831	CDS	complement(873687..874238)	fliL; flagellar basal body-associated protein FliL
+hex:HPF57_0832	CDS	complement(874247..874786)	Type II modification enzyme
+hex:HPF57_0833	CDS	complement(874828..875154)	hypothetical protein
+hex:HPF57_0834	CDS	complement(875597..876604)	hypothetical protein
+hex:HPF57_0835	CDS	876731..877348	ycbL; hypothetical protein
+hex:HPF57_0836	CDS	877349..878116	moeB; thiamin biosynthesis protein
+hex:HPF57_0837	CDS	878132..878905	motA; flagellar motor protein MotA
+hex:HPF57_0838	CDS	878908..879675	motB; flagellar motor protein MotB
+hex:HPF57_0839	CDS	879679..880116	hypothetical protein
+hex:HPF57_0840	CDS	880216..881772	proWX; osmoprotection protein
+hex:HPF57_0841	CDS	881776..882417	proV; osmoprotection protein
+hex:HPF57_0842	CDS	complement(882429..882608)	hypothetical protein
+hex:HPF57_0843	CDS	882600..883061	hypothetical protein
+hex:HPF57_0844	CDS	883062..884846	uvrC; excinuclease ABC subunit C
+hex:HPF57_0845	CDS	884857..886122	hom; homoserine dehydrogenase
+hex:HPF57_0846	CDS	886123..886467	hypothetical protein
+hex:HPF57_0847	CDS	886556..886876	trxA; thioredoxin
+hex:HPF57_0848	CDS	886882..887817	trxB_1; thioredoxin reductase
+hex:HPF57_0849	CDS	887984..888811	lipooligosaccharide 5G8 epitope biosynthesis-associated protein
+hex:HPF57_0850	CDS	complement(889008..889256)	RNA binding protein
+hex:HPF57_0851	CDS	complement(889577..890257)	atpB; F0F1 ATP synthase subunit A
+hex:HPF57_0852	CDS	complement(890367..891812)	guaB; inositol-5-monophosphate dehydrogenase
+hex:HPF57_0853	CDS	complement(891822..893183)	gatA; aspartyl/glutamyl-tRNA amidotransferase subunit A
+hex:HPF57_0854	CDS	complement(893242..893832)	coaE; dephospho-CoA kinase
+hex:HPF57_0855	CDS	complement(893834..894622)	speE; spermidine synthase
+hex:HPF57_0856	CDS	complement(894715..895593)	hypothetical protein
+hex:HPF57_0857	CDS	895670..897055	engA; GTP-binding protein EngA
+hex:HPF57_0858	CDS	897196..897480	dna-binding protein hu
+hex:HPF57_t14	tRNA	897538..897614	tRNA-Arg
+hex:HPF57_0859	CDS	898162..898767	hypothetical protein
+hex:HPF57_0860	CDS	898786..899397	hypothetical protein
+hex:HPF57_0861	CDS	899394..901157	ompP1; outer membrane protein P1
+hex:HPF57_0862	CDS	901172..902155	flmA; UDP-GlcNAc C6 dehydratase
+hex:HPF57_0863	CDS	902152..903429	dfp; bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+hex:HPF57_0864	CDS	903429..904166	hypothetical protein
+hex:HPF57_0865	CDS	complement(904221..904880)	thiE; thiamine phosphate pyrophosphorylase
+hex:HPF57_0866	CDS	complement(904873..905682)	thiD; thiamine biosynthesis protein
+hex:HPF57_0867	CDS	complement(905679..906458)	thiM; thiamine phosphate pyrophosphorylase
+hex:HPF57_0868	CDS	complement(906562..909564)	hsdR_2; Type I restriction enzyme R protein
+hex:HPF57_0869	CDS	complement(909569..910759)	hsdS-2; Type I restriction-modification system specificity subunit
+hex:HPF57_0870	CDS	complement(910752..912341)	hsdM-2; Type I restriction enzyme M protein
+hex:HPF57_0871	CDS	912508..913194	hypothetical protein
+hex:HPF57_0872	CDS	complement(913214..914146)	hypothetical protein
+hex:HPF57_0873	CDS	complement(914143..915744)	ABC transporter, ATP-binding protein
+hex:HPF57_0874	CDS	915993..916970	guaC; guanosine 5'-monophosphate oxidoreductase
+hex:HPF57_0875	CDS	complement(917137..917715)	gmhA; phosphoheptose isomerase
+hex:HPF57_0876	CDS	complement(917708..919093)	waaE; ADP-heptose synthase
+hex:HPF57_0877	CDS	complement(919090..920082)	gmhD; ADP-L-glycero-D-mannoheptose-6-epimerase
+hex:HPF57_0878	CDS	complement(920091..920615)	hypothetical protein
+hex:HPF57_0879	CDS	complement(920602..921339)	hypothetical protein
+hex:HPF57_0880	CDS	complement(921330..922001)	pantothenate kinase
+hex:HPF57_0881	CDS	complement(922006..923667)	hypothetical protein
+hex:HPF57_0882	CDS	complement(923672..924328)	hypothetical protein
+hex:HPF57_0883	CDS	complement(924325..924762)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+hex:HPF57_0884	CDS	complement(924752..925246)	greA; transcription elongation factor GreA
+hex:HPF57_0885	CDS	complement(925287..926369)	lpxB; lipid-A-disaccharide synthase
+hex:HPF57_0886	CDS	complement(926369..926830)	hypothetical protein
+hex:HPF57_0887	CDS	complement(926837..927190)	hypA; hydrogenase nickel incorporation protein
+hex:HPF57_0888	CDS	complement(927249..929405)	flgE; flagellar hook protein FlgE
+hex:HPF57_0889	CDS	complement(929607..930341)	cdh; CDP-diacylglycerol pyrophosphatase
+hex:HPF57_0890	CDS	930693..931022	phnA; alkylphosphonate uptake protein
+hex:HPF57_0891	CDS	complement(931080..931295)	hypothetical protein
+hex:HPF57_0892	CDS	complement(931380..932255)	hypothetical protein
+hex:HPF57_0893	CDS	complement(932406..933923)	katA; catalase
+hex:HPF57_0894	CDS	934242..936620	frpB-1; iron-regulated outer membrane protein
+hex:HPF57_0895	CDS	complement(936621..937094)	ruvC; Holliday junction resolvase
+hex:HPF57_0896	CDS	937224..937949	hypothetical protein
+hex:HPF57_0897	CDS	complement(938344..940779)	hypothetical protein
+hex:HPF57_0898	CDS	complement(941042..941593)	ruvA; Holliday junction DNA helicase motor protein
+hex:HPF57_0899	CDS	complement(941618..943462)	hypothetical protein
+hex:HPF57_0900	CDS	943555..945015	mviN; virulence factor MviN
+hex:HPF57_0901	CDS	945016..946413	cysS; cysteinyl-tRNA synthetase
+hex:HPF57_0902	CDS	946636..950526	vacA; vacuolating cytotoxin A
+hex:HPF57_0903	CDS	complement(950583..951350)	fecE; iron(III) dicitrate transporter, ATP-binding protein
+hex:HPF57_0904	CDS	complement(951350..952330)	fecD; iron(III) dicitrate ABC transporter, permease protein
+hex:HPF57_0905	CDS	complement(952323..953165)	short-chain oxidoreductase
+hex:HPF57_0906	CDS	953306..953830	hypothetical protein
+hex:HPF57_0907	CDS	complement(954198..954509)	hypothetical protein
+hex:HPF57_0908	CDS	complement(955300..957534)	babA; outer membrane protein BabA
+hex:HPF57_t15	tRNA	complement(957779..957855)	tRNA-Met
+hex:HPF57_t16	tRNA	complement(957876..957950)	tRNA-Gln
+hex:HPF57_0909	CDS	958038..958559	hypothetical protein
+hex:HPF57_0910	CDS	complement(958510..959622)	hypD; hydrogenase expression/formation protein
+hex:HPF57_0911	CDS	complement(959641..959877)	hypC; hydrogenase expression/formation protein HypC
+hex:HPF57_0912	CDS	complement(959877..960605)	hypB; hydrogenase expression/formation protein HypB
+hex:HPF57_0913	CDS	complement(960854..961153)	hypothetical protein
+hex:HPF57_0914	CDS	complement(961164..962369)	ackA; acetate kinase
+hex:HPF57_0915	CDS	complement(962387..963919)	pta; phosphotransacetylase
+hex:HPF57_0916	CDS	964131..965696	hypothetical protein
+hex:HPF57_0917	CDS	965747..966712	flgD; flagellar basal body rod modification protein
+hex:HPF57_0918	CDS	966709..968526	flgE; flagellar hook protein FlgE
+hex:HPF57_0919	CDS	968578..969213	Type II restriction enzyme
+hex:HPF57_0920	CDS	969182..970333	Type II modification enzyme
+hex:HPF57_0921	CDS	970337..972367	rep; rep helicase, single-stranded DNA-dependent ATPase
+hex:HPF57_0922	CDS	972905..974458	alpA; outer membrane protein AlpA
+hex:HPF57_0923	CDS	974480..976057	alpB; outer membrane protein AlpB
+hex:HPF57_0924	CDS	complement(976261..977805)	hofG; putative outer membrane protein
+hex:HPF57_0925	CDS	complement(978055..980244)	frpB-2; iron-regulated outer membrane protein
+hex:HPF57_0926	CDS	complement(980346..980495)	iron-regulated outer membrane protein
+hex:HPF57_0927	CDS	complement(980670..981101)	hypothetical protein
+hex:HPF57_0928	CDS	complement(981101..984358)	carB; carbamoyl phosphate synthase large subunit
+hex:HPF57_0929	CDS	complement(984457..985149)	hypothetical protein
+hex:HPF57_0930	CDS	985293..986291	gap_1; glyceraldehyde-3-phosphate dehydrogenase
+hex:HPF57_0931	CDS	986370..993614	vacuolating cytotoxin (VacA)-like protein
+hex:HPF57_0932	CDS	993666..994781	hopK; outer membrane protein HopK
+hex:HPF57_0933	CDS	complement(994834..995040)	4-oxalocrotonate tautomerase
+hex:HPF57_0934	CDS	995186..995767	recR; recombination protein RecR
+hex:HPF57_0935	CDS	995764..996909	truD; tRNA pseudouridine synthase D
+hex:HPF57_0936	CDS	996896..997828	htpX; heat shock protein HtpX
+hex:HPF57_0937	CDS	997829..998371	folE; GTP cyclohydrolase I
+hex:HPF57_0938	CDS	998387..999298	ispA; geranyltranstransferase
+hex:HPF57_0939	CDS	999295..1000098	surE; stationary phase survival protein SurE
+hex:HPF57_0940	CDS	1000095..1000754	hypothetical protein
+hex:HPF57_0941	CDS	1000758..1001360	hypothetical protein
+hex:HPF57_0942	CDS	1001357..1002112	hypothetical protein
+hex:HPF57_0943	CDS	1002123..1002608	hypothetical protein
+hex:HPF57_0944	CDS	1002828..1004804	putative outer membrane protein HomB
+hex:HPF57_0945	CDS	complement(1004937..1006103)	proP; proline and betaine transporter
+hex:HPF57_0946	CDS	complement(1006559..1007899)	hypothetical protein
+hex:HPF57_0947	CDS	complement(1007877..1008266)	hypothetical protein
+hex:HPF57_0948	CDS	complement(1008334..1009047)	amino acid ABC transporter permease
+hex:HPF57_0949	CDS	complement(1009031..1009753)	ABC-type polar amino acid transport, periplasmic component
+hex:HPF57_0950	CDS	complement(1009878..1011011)	alr; alanine racemase, biosynthetic
+hex:HPF57_0951	CDS	complement(1011018..1012370)	dagA; D-alanine glycine permease
+hex:HPF57_0952	CDS	complement(1012410..1013642)	dadA; D-Amino acid dehydrogenase
+hex:HPF57_0953	CDS	complement(1013664..1014041)	hypothetical protein
+hex:HPF57_t17	tRNA	1014355..1014429	tRNA-Gly
+hex:HPF57_0954	CDS	1014461..1014760	protein tRNA-associated locus protein
+hex:HPF57_t18	tRNA	1014825..1014911	tRNA-Leu
+hex:HPF57_t19	tRNA	1014986..1015060	tRNA-Cys
+hex:HPF57_t20	tRNA	1015106..1015193	tRNA-Ser
+hex:HPF57_0955	CDS	1015320..1016810	hypothetical protein
+hex:HPF57_0956	CDS	1017392..1017754	hypothetical protein
+hex:HPF57_0957	CDS	complement(1018312..1019325)	hypothetical protein
+hex:HPF57_0958	CDS	complement(1019335..1019787)	hypothetical protein
+hex:HPF57_0959	CDS	complement(1019801..1020670)	accD; acetyl-CoA carboxylase subunit beta
+hex:HPF57_0960	CDS	1020751..1021365	hypothetical protein
+hex:HPF57_0961	CDS	1021375..1022031	hypothetical protein
+hex:HPF57_0962	CDS	complement(1022033..1022599)	hypothetical protein
+hex:HPF57_0963	CDS	complement(1022665..1023297)	putative aldehyde dehydrogenase
+hex:HPF57_0964	CDS	complement(1023294..1024148)	lgt; prolipoprotein diacylglyceryl transferase
+hex:HPF57_0965	CDS	complement(1024158..1024886)	hypothetical protein
+hex:HPF57_0966	CDS	complement(1024900..1026081)	waaA; 3-deoxy-D-manno-octulosonic-acid transferase
+hex:HPF57_0967	CDS	complement(1026082..1026846)	hypothetical protein
+hex:HPF57_0968	CDS	complement(1026856..1027587)	hypothetical protein
+hex:HPF57_0969	CDS	complement(1027589..1028485)	glyQ; glycyl-tRNA synthetase subunit alpha
+hex:HPF57_0970	CDS	complement(1028499..1029437)	gpsA; NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+hex:HPF57_0971	CDS	complement(1029547..1029810)	hypothetical protein
+hex:HPF57_0972	CDS	complement(1029988..1030323)	hypothetical protein
+hex:HPF57_0973	CDS	complement(1030526..1031299)	hypothetical protein
+hex:HPF57_0974	CDS	complement(1031292..1031624)	hypothetical protein
+hex:HPF57_0975	CDS	complement(1031684..1032127)	hypothetical protein
+hex:HPF57_0976	CDS	complement(1032246..1032503)	hypothetical protein
+hex:HPF57_0977	CDS	complement(1033041..1033322)	hypothetical protein
+hex:HPF57_0978	CDS	complement(1033333..1036392)	czcA_1; putative cation efflux system protein
+hex:HPF57_0979	CDS	complement(1036392..1037471)	czcB_1; cobalt-zinc-cadmium resistance protein
+hex:HPF57_0980	CDS	complement(1037468..1038769)	hefD; outer membrane protein HefD
+hex:HPF57_0981	CDS	complement(1038759..1040861)	glyS; glycyl-tRNA synthetase subunit beta
+hex:HPF57_0982	CDS	1040973..1042031	hypothetical protein
+hex:HPF57_0983	CDS	1042044..1043519	pgm; phosphoglyceromutase
+hex:HPF57_0984	CDS	1043534..1043815	gatC; aspartyl/glutamyl-tRNA amidotransferase subunit C
+hex:HPF57_0985	CDS	complement(1043888..1045198)	bioA; adenosylmethionine--8-amino-7-oxononanoate transaminase
+hex:HPF57_0986	CDS	1045328..1046791	hypothetical protein
+hex:HPF57_0987	CDS	1046806..1048287	ftsA; cell division protein
+hex:HPF57_0988	CDS	1048422..1049579	ftsZ; cell division protein FtsZ
+hex:HPF57_0989	CDS	complement(1050207..1051031)	hypothetical protein
+hex:HPF57_0990	CDS	complement(1051024..1051224)	hypothetical protein
+hex:HPF57_r01	rRNA	complement(1052378..1052512)	5S ribosomal RNA
+hex:HPF57_r02	rRNA	complement(1052735..1055709)	23S ribosomal RNA
+hex:HPF57_0991	CDS	1056663..1057103	hypothetical protein
+hex:HPF57_0992	CDS	1057151..1058803	hypothetical protein
+hex:HPF57_0993	CDS	1058944..1059576	hypothetical protein
+hex:HPF57_0994	CDS	1059558..1059824	hypothetical protein
+hex:HPF57_0995	CDS	complement(1059930..1061777)	speA; arginine decarboxylase
+hex:HPF57_0996	CDS	complement(1061792..1062961)	capJ; type 1 capsular polysaccharide biosynthesis protein J
+hex:HPF57_0997	CDS	complement(1062966..1063394)	hypothetical protein
+hex:HPF57_0998	CDS	complement(1063412..1064197)	hypothetical protein
+hex:HPF57_0999	CDS	complement(1064201..1065208)	hypothetical protein
+hex:HPF57_1000	CDS	complement(1065209..1067170)	metG; methionyl-tRNA synthetase
+hex:HPF57_1001	CDS	1067339..1068508	cfa; cyclopropane fatty acid synthase
+hex:HPF57_1002	CDS	complement(1068511..1070382)	hypothetical protein
+hex:HPF57_t21	tRNA	complement(1070903..1070979)	tRNA-Arg
+hex:HPF57_t22	tRNA	complement(1070997..1071073)	tRNA-Arg
+hex:HPF57_t23	tRNA	complement(1071133..1071209)	tRNA-His
+hex:HPF57_t24	tRNA	complement(1071277..1071354)	tRNA-Pro
+hex:HPF57_1003	CDS	complement(1071539..1072288)	hpaA-3; adhesion HpaA homologue HpaA3
+hex:HPF57_1004	CDS	complement(1072367..1073893)	guaA; bifunctional GMP synthase/glutamine amidotransferase protein
+hex:HPF57_1005	CDS	complement(1073904..1074392)	hypothetical protein
+hex:HPF57_1006	CDS	complement(1074555..1075019)	bisC-frg; biotin sulfoxide reductase BisC fragment
+hex:HPF57_1007	CDS	complement(1075028..1075414)	bisC-frg; biotin sulfoxide reductase BisC fragment
+hex:HPF57_1008	CDS	complement(1075399..1075974)	bisC-frg; biotin sulfoxide reductase BisC fragment
+hex:HPF57_1009	CDS	complement(1075962..1076720)	bisC-frg; biotin sulfoxide reductase BisC fragment
+hex:HPF57_1010	CDS	complement(1076717..1076914)	bisC-frg; biotin sulfoxide reductase BisC fragment
+hex:HPF57_1011	CDS	complement(1077019..1077609)	hypothetical protein
+hex:HPF57_1012	CDS	complement(1077635..1078957)	nifS_2; nifS-like protein
+hex:HPF57_1013	CDS	complement(1078976..1079290)	protein kinase C inhibitor
+hex:HPF57_1014	CDS	1079371..1080357	pheS; phenylalanyl-tRNA synthetase subunit alpha
+hex:HPF57_1015	CDS	1080357..1082651	pheT; phenylalanyl-tRNA synthetase subunit beta
+hex:HPF57_1016	CDS	1082667..1083956	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+hex:HPF57_1017	CDS	1083946..1084770	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+hex:HPF57_1018	CDS	1084891..1086549	rpsA; 30S ribosomal protein S1
+hex:HPF57_1019	CDS	1086578..1087117	hypothetical protein
+hex:HPF57_1020	CDS	1087133..1088707	serA; D-3-phosphoglycerate dehydrogenase
+hex:HPF57_1021	CDS	1088717..1090567	yigC; hypothetical protein
+hex:HPF57_1022	CDS	1090577..1091245	hypothetical protein
+hex:HPF57_1023	CDS	1091247..1092005	hypothetical protein
+hex:HPF57_1024	CDS	1092009..1092944	cheV-2; CheA-MCP interaction modulator
+hex:HPF57_1025	CDS	1093003..1095414	cheA; autophosphorylating histidine kinase
+hex:HPF57_1026	CDS	1095411..1095908	cheW; purine-binding chemotaxis protein
+hex:HPF57_1027	CDS	complement(1096172..1096672)	tpx; thiol peroxidase
+hex:HPF57_1028	CDS	1096896..1097537	sodF; iron-dependent superoxide dismutase
+hex:HPF57_1029	CDS	1097588..1098307	hypothetical protein
+hex:HPF57_1030	CDS	complement(1098362..1100221)	priA; primosome assembly protein PriA
+hex:HPF57_1031	CDS	complement(1100206..1100442)	hypothetical protein
+hex:HPF57_1032	CDS	complement(1100455..1100682)	hypothetical protein
+hex:HPF57_1033	CDS	1100885..1101631	hypothetical protein
+hex:HPF57_1034	CDS	complement(1101639..1102166)	hypothetical protein
+hex:HPF57_1035	CDS	1102345..1103568	putative zinc-metallo protease
+hex:HPF57_1036	CDS	1103565..1104389	hemK; protoporphyrinogen oxidase
+hex:HPF57_1037	CDS	1104460..1105806	gdhA; glutamate dehydrogenase
+hex:HPF57_1038	CDS	complement(1105825..1107135)	fucT; alpha1,3-fucosyl transferase
+hex:HPF57_1039	CDS	complement(1107145..1109955)	cytochrome c-type biogenesis protein
+hex:HPF57_1040	CDS	complement(1109964..1110635)	hypothetical protein
+hex:HPF57_1041	CDS	complement(1110709..1111716)	hemH; ferrochelatase
+hex:HPF57_1042	CDS	1111772..1112203	hypothetical protein
+hex:HPF57_1043	CDS	1112204..1112884	hypothetical protein
+hex:HPF57_1044	CDS	complement(1112908..1115136)	homC; outer membrane protein HomC
+hex:HPF57_1045	CDS	complement(1115295..1115861)	dcd; deoxycytidine triphosphate deaminase
+hex:HPF57_1046	CDS	1115986..1116456	accB; biotin carboxyl carrier protein
+hex:HPF57_1047	CDS	1116462..1117829	accC; biotin carboxylase
+hex:HPF57_1048	CDS	1117922..1118884	putative type II DNA modification enzyme
+hex:HPF57_1049	CDS	1118884..1119432	Type II restriction enzyme
+hex:HPF57_1050	CDS	1119481..1120125	hypothetical protein
+hex:HPF57_1051	CDS	1120122..1121249	spore coat polysaccharide biosynthesis protein C
+hex:HPF57_t25	tRNA	complement(1121286..1121370)	tRNA-Leu
+hex:HPF57_1052	CDS	1121568..1122593	nrdF; ribonucleotide-diphosphate reductase subunit beta
+hex:HPF57_1053	CDS	1122603..1123232	pcm; protein-L-isoaspartate O-methyltransferase
+hex:HPF57_1054	CDS	1123243..1124280	hypothetical protein
+hex:HPF57_1055	CDS	1124281..1125009	truA; tRNA pseudouridine synthase A
+hex:HPF57_1056	CDS	complement(1125003..1126037)	galE; UDP-glucose 4-epimerase
+hex:HPF57_t26	tRNA	1126153..1126229	tRNA-Ile
+hex:HPF57_t27	tRNA	1126245..1126320	tRNA-Ala
+hex:HPF57_1057	CDS	1126572..1128107	putative outer membrane protein
+hex:HPF57_1058	CDS	1128129..1128428	short chain alcohol dehydrogenase
+hex:HPF57_1059	CDS	1128435..1128881	short chain alcohol dehydrogenase
+hex:HPF57_1060	CDS	complement(1129072..1129944)	hcpC; hypothetical protein
+hex:HPF57_1061	CDS	complement(1130014..1130640)	eda; 2-keto-3-deoxy-6-phosphogluconate aldolase
+hex:HPF57_1062	CDS	complement(1130657..1132483)	edd; phosphogluconate dehydratase
+hex:HPF57_1063	CDS	1132549..1133826	zwf; glucose-6-phosphate 1-dehydrogenase
+hex:HPF57_1064	CDS	1133837..1134520	glucose-6-phosphate 1-dehydrogenase
+hex:HPF57_1065	CDS	1134507..1135517	glk; glucokinase
+hex:HPF57_1066	CDS	1135678..1136724	NADP-dependent alcohol dehydrogenase
+hex:HPF57_1067	CDS	complement(1136736..1137896)	putative lipopolysaccharide biosynthesis protein
+hex:HPF57_1068	CDS	complement(1138039..1139229)	putative lipopolysaccharide biosynthesis protein
+hex:HPF57_1069	CDS	1139417..1140724	hypothetical protein
+hex:HPF57_1070	CDS	complement(1140731..1141402)	horH; outer membrane protein HorH
+hex:HPF57_1071	CDS	1141692..1142252	porG; pyruvate flavodoxin oxidoreductase subunit gamma
+hex:HPF57_1072	CDS	1142268..1142660	porD; pyruvate flavodoxin oxidoreductase subunit delta
+hex:HPF57_1073	CDS	1142671..1143894	porA; pyruvate flavodoxin oxidoreductase subunit alpha
+hex:HPF57_1074	CDS	1143907..1144851	porB; pyruvate ferredoxin oxidoreductase, beta subunit
+hex:HPF57_1075	CDS	1144961..1146283	purB; adenylosuccinate lyase
+hex:HPF57_1076	CDS	1146354..1147187	horI; outer membrane protein HorI
+hex:HPF57_1077	CDS	complement(1147198..1149174)	uvrB; excinuclease ABC subunit B
+hex:HPF57_1078	CDS	complement(1149291..1149422)	hypothetical protein
+hex:HPF57_1079	CDS	complement(1149834..1150157)	hypothetical protein
+hex:HPF57_1080	CDS	complement(1150315..1151085)	hcpX; cysteine-rich protein X
+hex:HPF57_1081	CDS	complement(1151367..1153070)	ggt; gamma-glutamyltranspeptidase
+hex:HPF57_1082	CDS	complement(1153274..1155094)	flgK; flagellar hook-associated protein FlgK
+hex:HPF57_1083	CDS	complement(1155096..1155530)	hypothetical protein
+hex:HPF57_1084	CDS	complement(1155655..1156611)	Type II DNA modification enzyme
+hex:HPF57_1085	CDS	complement(1156750..1156953)	flgM; flgM protein
+hex:HPF57_1086	CDS	complement(1157017..1157223)	hypothetical protein
+hex:HPF57_1087	CDS	complement(1157255..1157812)	slyD; peptidyl-prolyl cis-trans isomerase
+hex:HPF57_1088	CDS	complement(1157799..1158794)	hypothetical protein
+hex:HPF57_1089	CDS	complement(1158802..1159341)	palA; peptidoglycan-associated lipoprotein precursor
+hex:HPF57_1090	CDS	complement(1159407..1160660)	tolB; translocation protein TolB
+hex:HPF57_1091	CDS	complement(1160657..1161469)	hypothetical protein
+hex:HPF57_1092	CDS	complement(1161488..1161889)	exbD-1; biopolymer transport protein
+hex:HPF57_1093	CDS	complement(1161942..1162511)	exbB-1; biopolymer transport protein
+hex:HPF57_1094	CDS	complement(1162522..1162893)	atpC; F0F1 ATP synthase subunit epsilon
+hex:HPF57_1095	CDS	complement(1162904..1164313)	atpD; F0F1 ATP synthase subunit beta
+hex:HPF57_1096	CDS	complement(1164333..1165238)	atpG; F0F1 ATP synthase subunit gamma
+hex:HPF57_1097	CDS	complement(1165253..1166764)	atpA; F0F1 ATP synthase subunit alpha
+hex:HPF57_1098	CDS	complement(1166787..1167329)	atpH; F0F1 ATP synthase subunit delta
+hex:HPF57_1099	CDS	complement(1167330..1167845)	atpF; F0F1 ATP synthase subunit B
+hex:HPF57_1100	CDS	complement(1167849..1168283)	atpF; F0F1 ATP synthase subunit B'
+hex:HPF57_1101	CDS	complement(1168394..1169266)	parB; plasmid replication-partition related protein
+hex:HPF57_1102	CDS	complement(1169269..1170063)	parA; SpoOJ regulator
+hex:HPF57_1103	CDS	complement(1170066..1170704)	birA; biotin--protein ligase
+hex:HPF57_1104	CDS	complement(1170701..1171612)	fmt; methionyl-tRNA formyltransferase
+hex:HPF57_1105	CDS	complement(1171614..1174073)	hypothetical protein
+hex:HPF57_1106	CDS	complement(1174133..1175431)	hypothetical protein
+hex:HPF57_r03	rRNA	complement(1176263..1177765)	16S ribosomal RNA
+hex:HPF57_1107	CDS	complement(1178525..1178788)	hypothetical protein
+hex:HPF57_1108	CDS	complement(1178858..1179325)	hypothetical protein
+hex:HPF57_1109	CDS	complement(1179614..1179970)	rplS; 50S ribosomal protein L19
+hex:HPF57_1110	CDS	complement(1179992..1180681)	trmD; tRNA (guanine-N(1)-)-methyltransferase
+hex:HPF57_1111	CDS	complement(1180682..1181236)	rimM; 16S rRNA processing protein
+hex:HPF57_1112	CDS	complement(1181237..1181584)	hypothetical protein
+hex:HPF57_1113	CDS	complement(1181601..1181831)	rpsP; 30S ribosomal protein S16
+hex:HPF57_1114	CDS	complement(1181905..1183251)	ffh; signal recognition particle protein
+hex:HPF57_1115	CDS	complement(1183266..1185884)	valS; valyl-tRNA synthetase
+hex:HPF57_1116	CDS	1186021..1186428	fliW-1; flagellar assembly protein FliW
+hex:HPF57_1117	CDS	1186440..1187501	murG; N-acetylglucosaminyl transferase
+hex:HPF57_1118	CDS	1187609..1189705	hopI; outer membrane protein HopI
+hex:HPF57_1119	CDS	1189728..1193384	hopL; outer membrane protein HopL
+hex:HPF57_1120	CDS	1193398..1194192	proC; pyrroline-5-carboxylate reductase
+hex:HPF57_1121	CDS	1194198..1194731	fic; cell filamentation protein
+hex:HPF57_1122	CDS	complement(1194788..1195219)	putative metalloprotease
+hex:HPF57_1123	CDS	complement(1195263..1195757)	fldA; flavodoxin FldA
+hex:HPF57_1124	CDS	complement(1195848..1196429)	hypothetical protein
+hex:HPF57_1125	CDS	1196557..1196748	fixS; cation transport subunit for cbb3-type oxidase
+hex:HPF57_1126	CDS	1196770..1197738	trxB_2; thioredoxin reductase
+hex:HPF57_1127	CDS	complement(1197752..1198912)	hypothetical protein
+hex:HPF57_1128	CDS	1198975..1200612	pgi; glucose-6-phosphate isomerase
+hex:HPF57_1129	CDS	1200919..1202334	hofH; outer membrane protein HofH
+hex:HPF57_1130	CDS	1202444..1204237	Type II modification enzyme
+hex:HPF57_1131	CDS	1204237..1205061	Type II restriction enzyme
+hex:HPF57_1132	CDS	complement(1205214..1207277)	cstA; carbon starvation protein
+hex:HPF57_1133	CDS	1207489..1208142	glnP; glutamine ABC transporter, permease protein
+hex:HPF57_1134	CDS	1208145..1208816	glnP; glutamine ABC transporter, permease protein
+hex:HPF57_1135	CDS	1208818..1209564	glnQ; glutamine ABC transporter, ATP-binding protein
+hex:HPF57_1136	CDS	1209615..1210448	glutamine ABC transporter, periplasmic glutamine-binding protein
+hex:HPF57_1137	CDS	1210568..1211119	hypothetical protein
+hex:HPF57_1138	CDS	complement(1211344..1212567)	gluP; glucose/galactose transporter
+hex:HPF57_1139	CDS	complement(1212697..1214004)	hypothetical protein
+hex:HPF57_1140	CDS	complement(1214427..1216349)	hopQ; outer membrane protein
+hex:HPF57_1141	CDS	complement(1216829..1217530)	deoD; purine-nucleoside phosphorylase
+hex:HPF57_1142	CDS	complement(1217527..1218768)	deoB; phosphopentomutase
+hex:HPF57_1143	CDS	complement(1218780..1220036)	nupC; pyrimidine nucleoside transport protein
+hex:HPF57_t28	tRNA	complement(1220142..1220219)	tRNA-Met
+hex:HPF57_1144	CDS	1220363..1221694	multidrug-efflux transporter
+hex:HPF57_1145	CDS	1221712..1222473	hypothetical protein
+hex:HPF57_1146	CDS	complement(1222483..1223634)	kefB_1; NA+/H+ antiporter
+hex:HPF57_1147	CDS	complement(1223660..1225039)	hypothetical protein
+hex:HPF57_1148	CDS	complement(1225204..1226379)	sugar efflux transporter
+hex:HPF57_1149	CDS	1226655..1227398	carbonic anhydrase
+hex:HPF57_1150	CDS	complement(1227635..1228852)	hypothetical protein
+hex:HPF57_1151	CDS	complement(1229110..1230273)	hypothetical protein
+hex:HPF57_1152	CDS	complement(1230699..1231739)	asd; aspartate-semialdehyde dehydrogenase
+hex:HPF57_1153	CDS	complement(1231726..1233054)	hisS; histidyl-tRNA synthetase
+hex:HPF57_1154	CDS	1233116..1234165	waaF; ADP-heptose-lps heptosyltransferase II
+hex:HPF57_1155	CDS	complement(1234359..1234793)	hypothetical protein
+hex:HPF57_1156	CDS	complement(1235327..1237405)	fusA; elongation factor G
+hex:HPF57_1157	CDS	complement(1237417..1237884)	rpsG; 30S ribosomal protein S7
+hex:HPF57_1158	CDS	complement(1237900..1238307)	rpsL; 30S ribosomal protein S12
+hex:HPF57_1159	CDS	complement(1238395..1247067)	rpoB; DNA-directed RNA polymerase subunit beta/beta'
+hex:HPF57_1160	CDS	complement(1247292..1247669)	rplL; 50S ribosomal protein L7/L12
+hex:HPF57_1161	CDS	complement(1247714..1248208)	rplJ; 50S ribosomal protein L10
+hex:HPF57_1162	CDS	complement(1248317..1249021)	rplA; 50S ribosomal protein L1
+hex:HPF57_1163	CDS	complement(1249066..1249491)	rplK; 50S ribosomal protein L11
+hex:HPF57_1164	CDS	complement(1249509..1250039)	nusG; transcription antitermination protein NusG
+hex:HPF57_1165	CDS	complement(1250066..1250245)	secE; preprotein translocase subunit SecE
+hex:HPF57_t29	tRNA	complement(1250388..1250463)	tRNA-Trp
+hex:HPF57_1166	CDS	complement(1250503..1250661)	rpmG; 50S ribosomal protein L33
+hex:HPF57_1167	CDS	complement(1250695..1251894)	tuf; elongation factor Tu
+hex:HPF57_t30	tRNA	complement(1252021..1252095)	tRNA-Thr
+hex:HPF57_t31	tRNA	complement(1252134..1252210)	tRNA-Gly
+hex:HPF57_t32	tRNA	complement(1252226..1252310)	tRNA-Tyr
+hex:HPF57_t33	tRNA	complement(1252338..1252413)	tRNA-Thr
+hex:HPF57_1168	CDS	1252609..1254345	ABC-transporter, ATP-binding domain
+hex:HPF57_1169	CDS	complement(1254354..1255022)	hypothetical protein
+hex:HPF57_1170	CDS	complement(1255138..1256127)	M.HpyI; Type II modification enzyme M.HpyI
+hex:HPF57_1171	CDS	complement(1256136..1256498)	Type II restriction enzyme
+hex:HPF57_1172	CDS	complement(1256837..1257352)	cysE; serine acetyltransferase
+hex:HPF57_t34	tRNA	complement(1257719..1257805)	tRNA-Leu
+hex:HPF57_t35	tRNA	complement(1257884..1257970)	tRNA-Leu
+hex:HPF57_1173	CDS	complement(1258039..1258356)	atpE; F0F1 ATP synthase subunit C
+hex:HPF57_1174	CDS	complement(1258493..1260559)	pnp; polynucleotide phosphorylase/polyadenylase
+hex:HPF57_1175	CDS	complement(1260562..1261266)	hypothetical protein
+hex:HPF57_1176	CDS	complement(1261281..1263542)	imp; organic solvent tolerance protein
+hex:HPF57_1177	CDS	complement(1263545..1264024)	hypothetical protein
+hex:HPF57_1178	CDS	complement(1264066..1265340)	purD; glycinamide ribonucleotide synthetase
+hex:HPF57_1179	CDS	complement(1265654..1266340)	yhcG; ABC transporter, ATP-binding protein
+hex:HPF57_1180	CDS	complement(1266334..1267038)	putative undecaprenyl pyrophosphate synthase
+hex:HPF57_1181	CDS	complement(1267078..1269918)	dld; D-lactate dehydrogenase
+hex:HPF57_1182	CDS	1269990..1270322	hypothetical protein
+hex:HPF57_1183	CDS	1270325..1271005	hemD; uroporphyrinogen-III synthase
+hex:HPF57_1184	CDS	1271052..1271444	crcB; hypothetical protein
+hex:HPF57_1185	CDS	complement(1271488..1272525)	hemN_2; coproporphyrinogen III oxidase
+hex:HPF57_1186	CDS	1272621..1272911	hypothetical protein
+hex:HPF57_1187	CDS	1273072..1273545	mutT; dinucleoside polyphosphate hydrolase
+hex:HPF57_1188	CDS	1273539..1274756	lysC; aspartate kinase
+hex:HPF57_1189	CDS	1274786..1275295	hypothetical protein
+hex:HPF57_1190	CDS	1275292..1275948	holB; DNA polymerase III subunit delta'
+hex:HPF57_1191	CDS	1275945..1277087	folP; dihydropteroate synthase
+hex:HPF57_1192	CDS	complement(1277112..1277573)	hypothetical protein
+hex:HPF57_1193	CDS	1277961..1278857	hypothetical protein
+hex:HPF57_1194	CDS	1278861..1280108	hypothetical protein
+hex:HPF57_1195	CDS	1280187..1280738	hypothetical protein
+hex:HPF57_1196	CDS	1280738..1281865	carA; carbamoyl phosphate synthase small subunit
+hex:HPF57_1197	CDS	1282032..1283036	amiF; formamidase
+hex:HPF57_1198	CDS	complement(1283519..1283995)	hypothetical protein
+hex:HPF57_1199	CDS	complement(1284108..1284680)	maf; Maf-like protein
+hex:HPF57_1200	CDS	complement(1284682..1287225)	alaS; alanyl-tRNA synthetase
+hex:HPF57_1201	CDS	1287344..1287574	hypothetical protein
+hex:HPF57_1202	CDS	complement(1288115..1290199)	babB; outer membrane protein
+hex:HPF57_1203	CDS	complement(1290703..1290960)	rpsR; 30S ribosomal protein S18
+hex:HPF57_1204	CDS	complement(1290984..1291529)	ssb; single-strand DNA-binding protein
+hex:HPF57_1205	CDS	complement(1291539..1291967)	rpsF; 30S ribosomal protein S6
+hex:HPF57_1206	CDS	complement(1292110..1293132)	DNA polymerase III subunit delta
+hex:HPF57_1207	CDS	complement(1293122..1295056)	vacB; 3'-5' exoribonuclease R
+hex:HPF57_1208	CDS	complement(1295056..1295847)	aroE; shikimate 5-dehydrogenase
+hex:HPF57_1209	CDS	complement(1295855..1296457)	hypothetical protein
+hex:HPF57_1210	CDS	complement(1296466..1297512)	putative peptide ABC transporter, ATP-binding protein
+hex:HPF57_1211	CDS	complement(1297509..1299290)	hypothetical protein
+hex:HPF57_1212	CDS	complement(1299291..1300271)	trpS; tryptophanyl-tRNA synthetase
+hex:HPF57_1213	CDS	complement(1300343..1301065)	bioC; biotin synthesis protein
+hex:HPF57_1214	CDS	1301189..1301791	secG; preprotein translocase subunit SecG
+hex:HPF57_1215	CDS	1301791..1302348	frr; ribosome recycling factor
+hex:HPF57_1216	CDS	1302352..1302957	pyrE; orotate phosphoribosyltransferase
+hex:HPF57_1217	CDS	1302947..1303405	conserved hypothetical mitochondrial protein-like protein 4
+hex:HPF57_1218	CDS	1303410..1304021	hypothetical protein
+hex:HPF57_1219	CDS	1304124..1304525	nuoA; NADH dehydrogenase subunit A
+hex:HPF57_1220	CDS	1304525..1305004	nuoB; NADH dehydrogenase subunit B
+hex:HPF57_1221	CDS	1305004..1305801	nuoC; NADH dehydrogenase subunit C
+hex:HPF57_1222	CDS	1305803..1307032	nuoD; NADH dehydrogenase subunit D
+hex:HPF57_1223	CDS	1307029..1307259	nuoE; NADH-ubiquinone oxidoreductase chain E
+hex:HPF57_1224	CDS	1307256..1308248	nuoF; putative NADH oxidoreductase I
+hex:HPF57_1225	CDS	1308245..1310779	nuoG; NADH dehydrogenase subunit G
+hex:HPF57_1226	CDS	1310776..1311765	nuoH; NADH dehydrogenase subunit H
+hex:HPF57_1227	CDS	1311776..1312438	nuoI; NADH dehydrogenase subunit I
+hex:HPF57_1228	CDS	1312431..1312979	nuoJ; NADH dehydrogenase subunit J
+hex:HPF57_1229	CDS	1312976..1313278	nuoK; NADH dehydrogenase subunit K
+hex:HPF57_1230	CDS	1313281..1315119	nuoL; NADH dehydrogenase subunit L
+hex:HPF57_1231	CDS	1315123..1316661	nuoM; NADH dehydrogenase subunit M
+hex:HPF57_1232	CDS	1316648..1318120	nuoN; NADH dehydrogenase subunit N
+hex:HPF57_1233	CDS	1318110..1320524	pflA; paralysed flagella protein
+hex:HPF57_1234	CDS	1320526..1321902	algC; phosphomannomutase
+hex:HPF57_1235	CDS	1322095..1322361	hypothetical protein
+hex:HPF57_1236	CDS	complement(1322617..1323405)	trpA; tryptophan synthase subunit alpha
+hex:HPF57_1237	CDS	complement(1323402..1324583)	trpB; tryptophan synthase subunit beta
+hex:HPF57_1238	CDS	complement(1324585..1325943)	trpC; bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+hex:HPF57_1239	CDS	complement(1325936..1326943)	trpD; anthranilate phosphoribosyltransferase
+hex:HPF57_1240	CDS	complement(1326940..1327524)	trpG; anthranilate synthase component II
+hex:HPF57_1241	CDS	complement(1327521..1329023)	trpE; anthranilate synthase component I
+hex:HPF57_1242	CDS	complement(1329256..1330314)	hypothetical protein
+hex:HPF57_1243	CDS	complement(1330382..1331074)	hypothetical protein
+hex:HPF57_1244	CDS	1331244..1331792	conserved hypothetical secreted protein
+hex:HPF57_1245	CDS	1332383..1333039	putative transcriptional regulator
+hex:HPF57_1246	CDS	1333161..1333823	pnuC; nicotinamide mononucleotide transporter
+hex:HPF57_1247	CDS	1333811..1334425	hypothetical protein
+hex:HPF57_1248	CDS	complement(1334925..1335275)	rplQ; 50S ribosomal protein L17
+hex:HPF57_1249	CDS	complement(1335275..1336309)	rpoA; DNA-directed RNA polymerase subunit alpha
+hex:HPF57_1250	CDS	complement(1336321..1336947)	rpsD; 30S ribosomal protein S4
+hex:HPF57_1251	CDS	complement(1336957..1337352)	rpsK; 30S ribosomal protein S11
+hex:HPF57_1252	CDS	complement(1337375..1337737)	rpsM; 30S ribosomal protein S13
+hex:HPF57_1253	CDS	complement(1337741..1337854)	rpmJ; hypothetical protein
+hex:HPF57_1254	CDS	complement(1337933..1338151)	infA; translation initiation factor IF-1
+hex:HPF57_1255	CDS	complement(1338151..1338912)	map; methionine aminopeptidase
+hex:HPF57_1256	CDS	complement(1338912..1340174)	secY; preprotein translocase subunit SecY
+hex:HPF57_1257	CDS	complement(1340212..1340613)	rplO; 50S ribosomal protein L15
+hex:HPF57_1258	CDS	complement(1340631..1341092)	rpsE; 30S ribosomal protein S5
+hex:HPF57_1259	CDS	complement(1341089..1341445)	rplR; 50S ribosomal protein L18
+hex:HPF57_1260	CDS	complement(1341459..1341995)	rplF; 50S ribosomal protein L6
+hex:HPF57_1261	CDS	complement(1342006..1342401)	rpsH; 30S ribosomal protein S8
+hex:HPF57_1262	CDS	complement(1342411..1342596)	rpsN; 30S ribosomal protein S14
+hex:HPF57_1263	CDS	complement(1342606..1343151)	rplE; 50S ribosomal protein L5
+hex:HPF57_1264	CDS	complement(1343164..1343385)	rplX; 50S ribosomal protein L24
+hex:HPF57_1265	CDS	complement(1343385..1343753)	rplN; 50S ribosomal protein L14
+hex:HPF57_1266	CDS	complement(1343756..1344016)	rpsQ; 30S ribosomal protein S17
+hex:HPF57_1267	CDS	complement(1344031..1344231)	rpmC; 50S ribosomal protein L29
+hex:HPF57_1268	CDS	complement(1344218..1344643)	rplP; 50S ribosomal protein L16
+hex:HPF57_1269	CDS	complement(1344646..1345350)	rpsC; 30S ribosomal protein S3
+hex:HPF57_1270	CDS	complement(1345354..1345722)	rplV; 50S ribosomal protein L22
+hex:HPF57_1271	CDS	complement(1345732..1346013)	rpsS; 30S ribosomal protein S19
+hex:HPF57_1272	CDS	complement(1346025..1346855)	rplB; 50S ribosomal protein L2
+hex:HPF57_1273	CDS	complement(1346871..1347152)	rplW; 50S ribosomal protein L23
+hex:HPF57_1274	CDS	complement(1347156..1347803)	rplD; 50S ribosomal protein L4
+hex:HPF57_1275	CDS	complement(1347838..1348413)	rplC; 50S ribosomal protein L3
+hex:HPF57_1276	CDS	complement(1348450..1348764)	rpsJ; 30S ribosomal protein S10
+hex:HPF57_1277	CDS	1348929..1350056	conserved hypothetical ATP-binding protein
+hex:HPF57_1278	CDS	1350301..1350879	hypothetical protein
+hex:HPF57_1279	CDS	complement(1350853..1351467)	rnhB; ribonuclease HII
+hex:HPF57_1280	CDS	complement(1351498..1351749)	hypothetical protein
+hex:HPF57_1281	CDS	complement(1351771..1353162)	fumC; fumarate hydratase
+hex:HPF57_1282	CDS	1353338..1353715	hypothetical protein
+hex:HPF57_1283	CDS	1353720..1354958	hefG; outer membrane protein HefG
+hex:HPF57_1284	CDS	1354955..1355962	czcB; cation efflux system protein
+hex:HPF57_1285	CDS	1355963..1359076	czcA; cation efflux system protein
+hex:HPF57_1286	CDS	complement(1359073..1359420)	hypothetical protein
+hex:HPF57_1287	CDS	complement(1359414..1360100)	branched-chain amino acid transport protein
+hex:HPF57_1288	CDS	complement(1360111..1361220)	dnaJ; co-chaperone and heat shock protein
+hex:HPF57_1289	CDS	1361398..1362474	hypothetical protein
+hex:HPF57_1290	CDS	complement(1362520..1363548)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+hex:HPF57_1291	CDS	1363686..1364447	hypothetical protein
+hex:HPF57_1292	CDS	complement(1364444..1364968)	hypothetical protein
+hex:HPF57_1293	CDS	complement(1364952..1365398)	nickel responsive regulator
+hex:HPF57_1294	CDS	1365732..1366169	exbB-2; biopolymer transport protein
+hex:HPF57_1295	CDS	1366166..1366555	exbD-2; biopolymer transport protein
+hex:HPF57_1296	CDS	1366521..1367372	tonB; siderophore-mediated iron transport protein
+hex:HPF57_1297	CDS	1367549..1367836	fusion protein of dpnA and hopN
+hex:HPF57_1298	CDS	1367888..1368880	hypothetical protein
+hex:HPF57_1299	CDS	1368877..1371129	hypF; transcriptional regulator
+hex:HPF57_1300	CDS	1371132..1372130	hypE; hydrogenase expression/formation protein
+hex:HPF57_1301	CDS	complement(1372389..1373321)	nolK; nodulation protein
+hex:HPF57_1302	CDS	complement(1373314..1374459)	gmd; GDP-D-mannose dehydratase
+hex:HPF57_1303	CDS	complement(1374473..1375885)	algA; mannose-6-phosphate isomerase
+hex:HPF57_1304	CDS	complement(1375955..1377091)	comB10; comB10 competence protein
+hex:HPF57_1305	CDS	complement(1377084..1378046)	comB9; comB9 competence protein
+hex:HPF57_1306	CDS	complement(1378046..1378789)	comB1; comB8 competence protein
+hex:HPF57_1307	CDS	complement(1378927..1379982)	comB6; NADH-ubiquinone oxidoreductase subunit
+hex:HPF57_1308	CDS	complement(1379990..1380985)	hypothetical protein
+hex:HPF57_1309	CDS	complement(1380985..1381278)	ybaB; hypothetical protein
+hex:HPF57_1310	CDS	complement(1381289..1381639)	panD; aspartate alpha-decarboxylase
+hex:HPF57_1311	CDS	complement(1381629..1383851)	clpA; ATP-dependent C1p protease
+hex:HPF57_1312	CDS	complement(1383851..1384126)	clpS; hypothetical protein
+hex:HPF57_1313	CDS	complement(1384146..1384559)	hypothetical protein
+hex:HPF57_1314	CDS	1384693..1386321	hypothetical protein
+hex:HPF57_1315	CDS	1386325..1386981	bioD; dethiobiotin synthetase
+hex:HPF57_1316	CDS	complement(1386958..1387485)	hypothetical protein
+hex:HPF57_1317	CDS	complement(1387554..1388831)	icd; isocitrate dehydrogenase
+hex:HPF57_1318	CDS	1389030..1390310	gltA; Type II citrate synthase
+hex:HPF57_1319	CDS	complement(1390687..1391016)	putative endonuclease, split and separated by inversion, N-terminus part
+hex:HPF57_1320	CDS	complement(1391141..1392976)	mod-4; putative type III restriction enzyme M protein
+hex:HPF57_1321	CDS	complement(1392970..1395318)	res_1; putative type III restriction enzyme
+hex:HPF57_1322	CDS	1395725..1396573	bioB; biotin synthase
+hex:HPF57_1323	CDS	1396573..1397451	rbn; putative ribonuclease N
+hex:HPF57_r04	rRNA	complement(1398368..1398502)	5S ribosomal RNA
+hex:HPF57_r05	rRNA	complement(1398725..1401699)	23S ribosomal RNA
+hex:HPF57_1324	CDS	1402653..1403093	hypothetical protein
+hex:HPF57_1325	CDS	1403141..1404793	hypothetical protein
+hex:HPF57_1326	CDS	1404934..1405566	hypothetical protein
+hex:HPF57_1327	CDS	1405548..1405790	hypothetical protein
+hex:HPF57_1328	CDS	complement(1405905..1406345)	7-cyano-7-deazaguanine reductase
+hex:HPF57_1329	CDS	1406404..1406745	hypothetical protein
+hex:HPF57_1330	CDS	1406816..1407646	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+hex:HPF57_1331	CDS	1407651..1408754	lipopolysaccharide 1,2-glucosyltransferase
+hex:HPF57_1332	CDS	1408770..1410425	hypothetical protein
+hex:HPF57_1333	CDS	complement(1410467..1411246)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+hex:HPF57_1334	CDS	complement(1411250..1411516)	fliQ; flagellar biosynthesis protein FliQ
+hex:HPF57_1335	CDS	complement(1411527..1412831)	fliI; flagellum-specific ATP synthase
+hex:HPF57_1336	CDS	complement(1412832..1413746)	virB11-4; Type IV secretion system ATPase
+hex:HPF57_1337	CDS	complement(1413762..1416524)	ileS; isoleucyl-tRNA synthetase
+hex:HPF57_1338	CDS	complement(1416559..1416816)	hypothetical protein
+hex:HPF57_1339	CDS	1416918..1417538	hypothetical protein
+hex:HPF57_1340	CDS	complement(1418250..1419323)	hypothetical protein
+hex:HPF57_1341	CDS	complement(1419320..1420303)	polysialic acid capsule expression protein
+hex:HPF57_1342	CDS	complement(1420293..1422377)	conserved hypothetical ATP-binding protein
+hex:HPF57_1343	CDS	complement(1422411..1423226)	ksgA; dimethyladenosine transferase
+hex:HPF57_1344	CDS	1423490..1423729	hypothetical protein
+hex:HPF57_1345	CDS	complement(1424308..1425198)	hypothetical protein
+hex:HPF57_1346	CDS	complement(1425174..1426760)	hypothetical protein
+hex:HPF57_1347	CDS	complement(1426761..1427642)	purU; formyltetrahydrofolate hydrolase
+hex:HPF57_1348	CDS	complement(1427645..1428523)	sppA; protease IV
+hex:HPF57_1349	CDS	1428594..1428842	hypothetical protein
+hex:HPF57_1350	CDS	1429056..1429793	hypothetical protein
+hex:HPF57_1351	CDS	1429790..1430515	hypothetical protein
+hex:HPF57_1352	CDS	1430546..1430824	lipoprotein
+hex:HPF57_1353	CDS	1430835..1431101	hypothetical protein
+hex:HPF57_1354	CDS	complement(1431904..1432272)	hypothetical protein
+hex:HPF57_r06	rRNA	complement(1432555..1434057)	16S ribosomal RNA
+hex:HPF57_1355	CDS	complement(1434577..1435371)	hypothetical protein
+hex:HPF57_1356	CDS	1435494..1435982	ppiA; peptidyl-prolyl cis-trans isomerase B, cyclosporin-type rotamase
+hex:HPF57_1357	CDS	1436000..1436230	csrA; carbon storage regulator
+hex:HPF57_1358	CDS	1436227..1437033	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+hex:HPF57_1359	CDS	1437030..1437488	smpB; SsrA-binding protein
+hex:HPF57_1360	CDS	1437491..1437943	exbB-3; biopolymer transport protein
+hex:HPF57_1361	CDS	1437954..1438355	exbD-3; biopolymer transport protein
+hex:HPF57_1362	CDS	1438427..1438561	rpmH; 50S ribosomal protein L34
+hex:HPF57_1363	CDS	1438521..1439006	rnpA; ribonuclease P, protein component
+hex:HPF57_1364	CDS	1438993..1439349	hypothetical protein
+hex:HPF57_1365	CDS	1439355..1440995	yidC; putative inner membrane protein translocase component YidC
+hex:HPF57_1366	CDS	1440995..1441789	hypothetical protein
+hex:HPF57_1367	CDS	1441782..1443134	trmE; tRNA modification GTPase TrmE
+hex:HPF57_1368	CDS	1443338..1445560	homD; outer membrane protein HomD
+hex:HPF57_1369	CDS	complement(1446292..1447203)	hypothetical protein
+hex:HPF57_1370	CDS	complement(1447213..1447554)	hypothetical protein
+hex:HPF57_1371	CDS	complement(1447561..1448088)	lpp20; membrane-associated lipoprotein
+hex:HPF57_1372	CDS	complement(1448112..1448744)	hypothetical protein
+hex:HPF57_1373	CDS	complement(1449103..1449417)	trxA_1; thioredoxin
+hex:HPF57_1374	CDS	complement(1449471..1450244)	hypothetical protein
+hex:HPF57_1375	CDS	complement(1450241..1453876)	dnaE; DNA polymerase III subunit alpha
+hex:HPF57_1376	CDS	1454024..1455076	yhjA; cytochrome c551 peroxidase
+hex:HPF57_1377	CDS	complement(1455258..1455776)	putative secreted motility protein
+hex:HPF57_1378	CDS	complement(1455865..1456542)	hypothetical protein
+hex:HPF57_1379	CDS	complement(1456545..1457360)	ABC transport system substrate binding protein
+hex:HPF57_1380	CDS	complement(1457345..1458133)	ABC transporter ATP-binding protein
+hex:HPF57_1381	CDS	complement(1458130..1459263)	hypothetical protein
+hex:HPF57_1382	CDS	1459397..1460092	outer membrane protein
+hex:HPF57_1383	CDS	complement(1460097..1461119)	ilvE; branched-chain amino acid aminotransferase
+hex:HPF57_1384	CDS	complement(1461170..1461916)	horJ; outer membrane protein HorJ
+hex:HPF57_1385	CDS	complement(1462028..1464709)	polA; DNA polymerase I
+hex:HPF57_1386	CDS	complement(1464775..1465953)	Type II restriction-modification specificity subunit
+hex:HPF57_1387	CDS	complement(1465950..1467989)	Type IIG restriction-modification enzyme
+hex:HPF57_1388	CDS	complement(1468022..1468597)	hypothetical protein
+hex:HPF57_1389	CDS	complement(1468585..1469160)	tdk; thymidylate kinase
+hex:HPF57_1390	CDS	complement(1469162..1469635)	coaD; phosphopantetheine adenylyltransferase
+hex:HPF57_1391	CDS	complement(1469635..1470198)	ubiD; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+hex:HPF57_1392	CDS	complement(1470208..1470864)	flgA; flagellar basal body P-ring biosynthesis protein FlgA
+hex:HPF57_1393	CDS	complement(1470861..1472906)	rep; DNA helicase II
+hex:HPF57_1394	CDS	complement(1472906..1475446)	hypothetical protein
+hex:HPF57_1395	CDS	complement(1475456..1476703)	serS; seryl-tRNA synthetase
+hex:HPF57_1396	CDS	complement(1476704..1477501)	hypothetical protein
+hex:HPF57_1397	CDS	complement(1477505..1477828)	hypothetical protein
+hex:HPF57_1398	CDS	complement(1477838..1478578)	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+hex:HPF57_1399	CDS	complement(1478605..1479051)	hypothetical protein
+hex:HPF57_1400	CDS	complement(1479062..1479634)	hypothetical protein
+hex:HPF57_1401	CDS	complement(1479621..1480751)	hypothetical protein
+hex:HPF57_1402	CDS	complement(1480748..1481845)	hypothetical protein
+hex:HPF57_1403	CDS	complement(1481857..1482846)	conserved hypothetical secreted protein
+hex:HPF57_1404	CDS	complement(1482858..1484390)	lipase-like protein
+hex:HPF57_1405	CDS	complement(1484387..1485736)	hypothetical protein
+hex:HPF57_1406	CDS	complement(1485836..1487437)	phosphate permease
+hex:HPF57_1407	CDS	1487578..1487847	conserved hypothetical nifU-like protein
+hex:HPF57_1408	CDS	1487859..1488470	hypothetical protein
+hex:HPF57_1409	CDS	1488474..1489817	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+hex:HPF57_1410	CDS	1489821..1490771	tal; transaldolase
+hex:HPF57_1411	CDS	1490826..1491362	rplY; 50S ribosomal protein L25/general stress protein Ctc
+hex:HPF57_1412	CDS	1491372..1491932	pth; peptidyl-tRNA hydrolase
+hex:HPF57_1413	CDS	1491987..1493054	hypothetical protein
+hex:HPF57_1414	CDS	1493163..1493501	putative methyltransferase
+hex:HPF57_1415	CDS	1493542..1494093	putative methyltransferase
+hex:HPF57_1416	CDS	complement(1494382..1495497)	hopK-3; putative outer membrane protein
+hex:HPF57_1417	CDS	1495728..1496165	hypothetical protein
+hex:HPF57_1418	CDS	complement(1496162..1498531)	fixI; putative cation transporting P-type ATPase
+hex:HPF57_1419	CDS	complement(1498557..1499273)	hypothetical protein
+hex:HPF57_1420	CDS	complement(1499255..1500289)	ribD; riboflavin biosynthesis protein
+hex:HPF57_1421	CDS	complement(1500286..1501512)	gltS; sodium/glutamate symport carrier protein/glutamate permease
+hex:HPF57_1422	CDS	1501598..1502797	hypothetical protein
+hex:HPF57_1423	CDS	complement(1502807..1504183)	ferrodoxin-like protein
+hex:HPF57_1424	CDS	1504163..1504951	hypothetical protein
+hex:HPF57_1425	CDS	1504948..1505301	folB; dihydroneopterin aldolase
+hex:HPF57_1426	CDS	1505285..1505611	frpB-4; iron-regulated outer membrane protein FrpB4
+hex:HPF57_1427	CDS	1505780..1508371	frpB-4; putative IRON-regulated outer membrane protein
+hex:HPF57_1428	CDS	1508599..1509759	selA; selenocysteine synthase
+hex:HPF57_1429	CDS	1509847..1511034	nusA; transcription elongation factor NusA
+hex:HPF57_1430	CDS	complement(1511338..1512453)	Type IIG restriction-modification enzyme
+hex:HPF57_1431	CDS	complement(1512425..1515157)	Type IIG restriction-modification enzyme
+hex:HPF57_1432	CDS	complement(1515283..1517436)	hypothetical protein
+hex:HPF57_1433	CDS	complement(1517499..1520414)	res-4; Type III restriction enzyme
+hex:HPF57_1434	CDS	complement(1520417..1521031)	mod-5; Type III DNA modification enzyme
+hex:HPF57_1435	CDS	complement(1521009..1522325)	mod-5; Type III DNA modification enzyme
+hex:HPF57_1436	CDS	complement(1522369..1524234)	recG; DNA recombinase
+hex:HPF57_1437	CDS	1524316..1524669	hypothetical protein
+hex:HPF57_1438	CDS	1524673..1525308	hypothetical protein
+hex:HPF57_1439	CDS	complement(1525305..1526057)	exoA; exodeoxyribonuclease
+hex:HPF57_t36	tRNA	1526157..1526232	tRNA-Phe
+hex:HPF57_1440	CDS	complement(1526235..1527674)	comH; periplasmic competence protein
+hex:HPF57_1441	CDS	complement(1527896..1529263)	dnaA; chromosomal replication initiation protein
+hex:HPF57_1442	CDS	1529415..1529957	purine nucleoside phosphorylase
+hex:HPF57_1443	CDS	1529993..1530232	hypothetical protein
+hex:HPF57_1444	CDS	1530233..1532026	glmS; D-fructose-6-phosphate amidotransferase
+hex:HPF57_1445	CDS	1532050..1532676	thyX; FAD-dependent thymidylate synthase
+hex:HPF57_1446	CDS	1532750..1532929	hypothetical protein
+hex:HPF57_1447	CDS	complement(1533203..1533784)	hsdS-4; Type I R-M system specificity subunit
+hex:HPF57_1448	CDS	complement(1533805..1536267)	hsdM-3; Type I restriction enzyme M protein
+hex:HPF57_1449	CDS	1536332..1539307	hsdR_3; Type I restriction enzyme R protein
+hex:HPF57_1450	CDS	1539307..1540014	hypothetical protein
+hex:HPF57_1451	CDS	complement(1540104..1542629)	fecA_3; iron(III) dicitrate transport protein
+hex:HPF57_1452	CDS	complement(1543092..1544060)	rocF; arginase
+hex:HPF57_1453	CDS	complement(1544073..1544600)	amino acid permease
+hex:HPF57_1454	CDS	complement(1544560..1545504)	amino acid permease
+hex:HPF57_1455	CDS	1545704..1546846	ald; alanine dehydrogenase
+hex:HPF57_1456	CDS	1546967..1548670	hypothetical protein
+hex:HPF57_1457	CDS	complement(1548680..1549408)	horL; outer membrane protein HorL
+hex:HPF57_1458	CDS	1549594..1550448	inorganic polyphosphate/ATP-NAD kinase
+hex:HPF57_1459	CDS	1550461..1552035	recN; DNA repair protein
+hex:HPF57_1460	CDS	1552032..1553339	fibronectin/fibrinogen-binding protein
+hex:HPF57_1461	CDS	1553359..1553655	hypothetical protein
+hex:HPF57_1462	CDS	1553828..1554298	cysteine-rich protein C
+hex:HPF57_1463	CDS	complement(1554346..1555209)	dnaQ; DNA polymerase III subunit epsilon
+hex:HPF57_1464	CDS	complement(1555187..1555840)	rpe; ribulose-phosphate 3-epimerase
+hex:HPF57_1465	CDS	1555911..1556783	fbp; fructose-1,6-bisphosphatase
+hex:HPF57_1466	CDS	1556783..1556986	hypothetical protein
+hex:HPF57_1467	CDS	1556998..1557894	putative type II methylase protein
+hex:HPF57_1468	CDS	1557887..1558618	Type II restriction enzyme
+hex:HPF57_1469	CDS	complement(1558615..1559043)	hypothetical protein
+hex:HPF57_1470	CDS	complement(1559100..1560167)	tsf; elongation factor Ts
+hex:HPF57_1471	CDS	complement(1560167..1560961)	rpsB; 30S ribosomal protein S2
+hex:HPF57_1472	CDS	1561212..1564028	pcrA; helicase
+hex:HPF57_1473	CDS	1564052..1565368	nhaA; Na(+)/H(+) antiporter 1
+hex:HPF57_1474	CDS	1565416..1565709	yajC; preprotein translocase subunit YajC
+hex:HPF57_1475	CDS	1565709..1567286	secD; preprotein translocase subunit SecD
+hex:HPF57_1476	CDS	1567295..1568266	secF; preprotein translocase subunit SecF
+hex:HPF57_1477	CDS	1568276..1568614	hypothetical protein
+hex:HPF57_1478	CDS	1568624..1571044	leuS; leucyl-tRNA synthetase
+hex:HPF57_1479	CDS	1571041..1571553	hypothetical protein
+hex:HPF57_1480	CDS	1571543..1572718	folC; folylpolyglutamate synthase
+hex:HPF57_1481	CDS	1572718..1573644	tagE; tox-R activated gene
+hex:HPF57_1482	CDS	1573653..1574588	toxR-activated gene
+hex:HPF57_1483	CDS	1574603..1574917	hypothetical protein
+hex:HPF57_1484	CDS	1574921..1577920	mfd; transcription-repair coupling factor
+hex:HPF57_1485	CDS	1578046..1578549	petA; ubiquinol cytochrome c oxidoreductase, Rieske 2Fe-2S subunit
+hex:HPF57_1486	CDS	1578560..1579798	petB; ubiquinol cytochrome c oxidoreductase, cytochrome b subunit
+hex:HPF57_1487	CDS	1579795..1580652	fbcH; ubiquinol cytochrome c oxidoreductase, cytochrome c1
+hex:HPF57_1488	CDS	complement(1580859..1580984)	hypothetical protein
+hex:HPF57_1489	CDS	complement(1581008..1581247)	hypothetical protein
+hex:HPF57_1490	CDS	complement(1581293..1581553)	hypothetical protein
+hex:HPF57_1491	CDS	complement(1581574..1582662)	hypothetical protein
+hex:HPF57_1492	CDS	complement(1582853..1584697)	ftsI; cell division protein
+hex:HPF57_1493	CDS	complement(1584853..1585182)	fliE; flagellar hook-basal body protein FliE
+hex:HPF57_1494	CDS	complement(1585310..1585795)	flgC; flagellar basal body rod protein FlgC
+hex:HPF57_1495	CDS	complement(1585808..1586230)	flgB; flagellar basal body rod protein FlgB
+hex:HPF57_1496	CDS	1586436..1587602	ftsW; putative rod shape-determining protein
+hex:HPF57_1497	CDS	complement(1587626..1588627)	hypothetical protein
+hex:HPF57_1498	CDS	1588865..1589461	tsaA; putative peroxidase
+hex:HPF57_1499	CDS	1589607..1590422	yaeC; outer membrane protein
+hex:HPF57_1500	CDS	complement(1590490..1592265)	pbp2; penicillin-binding protein 2
+hex:HPF57_1501	CDS	complement(1592246..1592689)	hypothetical protein
+hex:HPF57_1502	CDS	complement(1592702..1593328)	engB; GTPase EngB
+hex:HPF57_1503	CDS	complement(1593325..1593882)	hypothetical protein
+hex:HPF57_1504	CDS	complement(1593882..1594475)	hypothetical protein
+hex:HPF57_1505	CDS	complement(1594450..1594932)	hypothetical protein
+hex:HPF57_1506	CDS	complement(1594941..1595888)	rlpA; rare lipoprotein A
+hex:HPF57_1507	CDS	complement(1595888..1597012)	dniR; putative regulatory protein
+hex:HPF57_1508	CDS	complement(1597101..1597877)	DNAse
+hex:HPF57_1509	CDS	1597952..1598572	ribC; riboflavin synthase subunit alpha
+hex:HPF57_1510	CDS	1598573..1598845	flhB_2; FlhB-related flagellar biosynthesis protein
+hex:HPF57_1511	CDS	1598867..1599850	abc; ABC transporter, ATP-binding protein
+hex:HPF57_1512	CDS	1599852..1600499	ABC transporter, permease protein
+hex:HPF57_1513	CDS	complement(1600683..1601114)	hypothetical protein
+hex:HPF57_1514	CDS	complement(1601124..1601720)	hypothetical protein
+hex:HPF57_1515	CDS	complement(1601717..1602718)	wecA; putative undecaprenyl-phosphate-alpha-N-acetylglucosaminyltransferase
+hex:HPF57_1516	CDS	1602863..1603651	pdxJ; pyridoxal phosphate biosynthetic protein PdxJ
+hex:HPF57_1517	CDS	1603653..1604576	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+hex:HPF57_1518	CDS	1604639..1605664	ydiE; O-sialoglycoprotein endopeptidase
+hex:HPF57_1519	CDS	1606528..1607316	flgG; flagellar basal body rod protein FlgG
+hex:HPF57_1520	CDS	complement(1607778..1607918)	hypothetical protein
+hex:HPF57_1521	CDS	complement(1608002..1608763)	hypothetical protein
