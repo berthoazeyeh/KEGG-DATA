@@ -1,0 +1,1534 @@
+heq:HPF32_p_01	CDS	pHPF32:82..1377	replication initiator protein
+heq:HPF32_0001	CDS	complement(11..427)	nusB; transcription antitermination protein NusB
+heq:HPF32_0002	CDS	complement(429..899)	ribH; riboflavin synthase subunit beta
+heq:HPF32_0003	CDS	complement(909..1739)	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase
+heq:HPF32_0004	CDS	complement(1726..2391)	icfA; beta-carbonic anhydrase
+heq:HPF32_0005	CDS	2514..3197	pyrF; orotidine 5'-phosphate decarboxylase
+heq:HPF32_0006	CDS	3198..4028	panC; pantoate--beta-alanine ligase
+heq:HPF32_t01	tRNA	complement(4042..4117)	tRNA-Glu
+heq:HPF32_t02	tRNA	complement(4180..4256)	tRNA-Asp
+heq:HPF32_t03	tRNA	complement(4290..4365)	tRNA-Val
+heq:HPF32_t04	tRNA	complement(4407..4481)	tRNA-Glu
+heq:HPF32_t05	tRNA	complement(4492..4567)	tRNA-Lys
+heq:HPF32_0007	CDS	complement(4999..7152)	hopZ; outer membrane protein BabA
+heq:HPF32_0008	CDS	complement(7458..9098)	groEL; chaperonin GroEL
+heq:HPF32_0009	CDS	complement(9123..9479)	groES; co-chaperonin GroES
+heq:HPF32_0010	CDS	9753..11432	dnaG; DNA primase
+heq:HPF32_0011	CDS	11429..12481	argininosuccinate synthase
+heq:HPF32_0012	CDS	12571..13398	hypothetical protein
+heq:HPF32_0013	CDS	13543..13824	comB2; hypothetical protein
+heq:HPF32_0014	CDS	13824..14087	comB3; hypothetical protein
+heq:HPF32_0015	CDS	14089..16452	comB4; hypothetical protein
+heq:HPF32_0016	CDS	16773..18113	hypothetical protein
+heq:HPF32_0017	CDS	18214..19179	cheV; chemotaxis protein
+heq:HPF32_0018	CDS	19176..20393	nspC; carboxynorspermidine decarboxylase
+heq:HPF32_0019	CDS	complement(20403..20975)	lipid A 1-phosphatase
+heq:HPF32_0020	CDS	complement(20986..22557)	lipid A phosphoethanolamine transferase
+heq:HPF32_0021	CDS	complement(23036..25105)	hopD; outer membrane protein HopD
+heq:HPF32_0022	CDS	25357..25713	putative endonuclease, split and separated by inversion, C-terminus part
+heq:HPF32_0023	CDS	complement(26056..26883)	tyrA; prephenate dehydrogenase
+heq:HPF32_0024	CDS	complement(26908..29397)	lon; ATP-dependent protease
+heq:HPF32_0025	CDS	complement(29438..30100)	comL; competence lipoprotein
+heq:HPF32_0026	CDS	30509..30898	fliW-2; flagellar assembly protein FliW
+heq:HPF32_0027	CDS	31072..31551	fabZ; (3R)-hydroxymyristoyl-ACP dehydratase
+heq:HPF32_0028	CDS	31555..32367	lpxA; UDP-N-acetylglucosamine acyltransferase
+heq:HPF32_0029	CDS	32369..33715	clpX; ATP-dependent protease ATP-binding subunit
+heq:HPF32_0030	CDS	33758..34801	mreB; rod shape-determining protein
+heq:HPF32_0031	CDS	34805..35551	mreC; rod shape-determining protein
+heq:HPF32_0032	CDS	complement(35601..36767)	res-2; Type III restriction enzyme R protein
+heq:HPF32_0033	CDS	36920..37783	Type IIS restriction enzyme M2 protein
+heq:HPF32_0034	CDS	37770..38552	Type IIS restriction enzyme M1 protein
+heq:HPF32_0035	CDS	38568..39839	Type IIS restriction enzyme R protein
+heq:HPF32_0036	CDS	39922..40563	putative transcriptional regulator
+heq:HPF32_0037	CDS	40538..41731	signal-transducing protein, histidine kinase
+heq:HPF32_0038	CDS	41734..43128	hypothetical protein
+heq:HPF32_0039	CDS	43142..44608	dnaB; replicative DNA helicase
+heq:HPF32_0040	CDS	44605..45918	comE; competence locus E
+heq:HPF32_0041	CDS	45947..46831	ubiA; prenyltransferase
+heq:HPF32_0042	CDS	46767..47318	hypothetical protein
+heq:HPF32_0043	CDS	47331..47837	hypothetical protein
+heq:HPF32_0044	CDS	47831..48634	psd; phosphatidylserine decarboxylase
+heq:HPF32_0045	CDS	48624..49634	nadA; quinolinate synthetase
+heq:HPF32_0047	CDS	49634..50455	nadC; nicotinate-nucleotide pyrophosphorylase
+heq:HPF32_0048	CDS	50479..53817	Type IIG restriction-modification enzyme
+heq:HPF32_0049	CDS	54214..55293	adenine specific DNA methyltransferase
+heq:HPF32_0050	CDS	55293..56432	adenine specific DNA methyltransferase
+heq:HPF32_0051	CDS	56543..57907	prc; carboxyl-terminal protease
+heq:HPF32_0052	CDS	57914..59077	hypothetical protein
+heq:HPF32_0053	CDS	59064..59780	plsC; 1-acyl-glycerol-3-phosphate acyltransferase
+heq:HPF32_0054	CDS	59777..60478	ung; uracil-DNA glycosylase
+heq:HPF32_0055	CDS	60567..61559	gap_2; glyceraldehyde-3-phosphate dehydrogenase
+heq:HPF32_0056	CDS	61575..62783	pgk; phosphoglycerate kinase
+heq:HPF32_0057	CDS	62799..63761	corA; magnesium and cobalt transport protein
+heq:HPF32_0058	CDS	63768..64496	hypothetical protein
+heq:HPF32_0059	CDS	complement(64814..65512)	dpnA; adenine specific DNA methyltransferase
+heq:HPF32_0060	CDS	complement(65509..66354)	ddeM; cytosine specific DNA methyltransferase
+heq:HPF32_0061	CDS	complement(66428..67927)	putP; proline permease
+heq:HPF32_0062	CDS	complement(67954..71511)	putA; proline/pyrroline-5-carboxylate dehydrogenase
+heq:HPF32_0063	CDS	71838..72047	hypothetical protein
+heq:HPF32_0064	CDS	72524..72715	hypothetical protein
+heq:HPF32_0065	CDS	72712..74307	hypothetical protein
+heq:HPF32_0066	CDS	74304..74873	hypothetical protein
+heq:HPF32_0067	CDS	74889..75149	hypothetical protein
+heq:HPF32_0068	CDS	75159..75509	hypothetical protein
+heq:HPF32_0069	CDS	75582..76526	hypothetical protein
+heq:HPF32_0070	CDS	76496..76921	hypothetical protein
+heq:HPF32_0071	CDS	76923..77273	hypothetical protein
+heq:HPF32_0072	CDS	77270..77644	hypothetical protein
+heq:HPF32_0073	CDS	77628..77816	hypothetical protein
+heq:HPF32_0074	CDS	77831..78130	hypothetical protein
+heq:HPF32_0075	CDS	78161..78886	hypothetical protein
+heq:HPF32_0076	CDS	79013..79624	hypothetical protein
+heq:HPF32_0077	CDS	complement(79696..80481)	ureH; urease accessory protein
+heq:HPF32_0078	CDS	complement(80481..81080)	ureG; urease accessory protein
+heq:HPF32_0079	CDS	complement(81109..81861)	ureF; urease accessory protein
+heq:HPF32_0080	CDS	complement(81891..82403)	ureE; urease accessory protein UreE
+heq:HPF32_0081	CDS	complement(82405..82992)	ureI; urea transporter
+heq:HPF32_0082	CDS	complement(83180..84889)	ureC; urease subunit alpha
+heq:HPF32_0083	CDS	complement(84893..85609)	ureA; bifunctional urease subunit gamma/beta
+heq:HPF32_t06	tRNA	complement(85863..85938)	tRNA-Val
+heq:HPF32_0084	CDS	complement(85959..86432)	lspA; lipoprotein signal peptidase
+heq:HPF32_0085	CDS	complement(86426..87763)	glmM; urease protein
+heq:HPF32_0086	CDS	87853..88122	rpsT; 30S ribosomal protein S20
+heq:HPF32_0087	CDS	88237..89295	prfA; peptide chain release factor 1
+heq:HPF32_0088	CDS	89704..89961	horA-frg; possible part of outer membrane protein HorA
+heq:HPF32_0089	CDS	89972..90505	horA-frg; possible part of outer membrane protein HorA
+heq:HPF32_0090	CDS	90506..91090	horA-frg; possible part of outer membrane protein HorA
+heq:HPF32_0091	CDS	91087..91335	horA; outer membrane protein HorA
+heq:HPF32_0092	CDS	91570..93309	hypothetical protein
+heq:HPF32_0093	CDS	complement(93742..95763)	methyl-accepting chemotaxis transducer
+heq:HPF32_0094	CDS	complement(95915..96304)	rpsI; 30S ribosomal protein S9
+heq:HPF32_0095	CDS	complement(96301..96726)	rplM; 50S ribosomal protein L13
+heq:HPF32_0096	CDS	complement(96911..97099)	hypothetical protein
+heq:HPF32_0097	CDS	complement(97106..98458)	hypothetical protein
+heq:HPF32_0098	CDS	complement(98512..99876)	hypothetical protein
+heq:HPF32_0099	CDS	complement(99897..101912)	rpoD; RNA polymerase sigma factor RpoD
+heq:HPF32_0100	CDS	complement(102104..102799)	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+heq:HPF32_0101	CDS	complement(102810..103739)	fabD; malonyl coenzyme A-acyl carrier protein transacylase
+heq:HPF32_t07	tRNA	103869..103960	tRNA-Ser
+heq:HPF32_0102	CDS	104131..104730	Type II restriction enzyme protein
+heq:HPF32_0103	CDS	104702..104965	Type II restriction enzyme protein
+heq:HPF32_0104	CDS	104959..105792	Type II restriction enzyme M protein
+heq:HPF32_0105	CDS	complement(105810..106250)	alpha-1,2-fucosyltransferase
+heq:HPF32_0106	CDS	complement(106288..106704)	alpha-1,2-fucosyltransferase
+heq:HPF32_0107	CDS	complement(106803..107333)	hypothetical protein
+heq:HPF32_0108	CDS	107406..108350	2-hydroxyacid dehydrogenase
+heq:HPF32_0109	CDS	complement(108705..109415)	hypothetical protein
+heq:HPF32_0110	CDS	complement(109521..110981)	thrC; threonine synthase
+heq:HPF32_0111	CDS	111185..113212	tlpA; methyl-accepting chemotaxis protein
+heq:HPF32_0112	CDS	113212..114318	hypothetical protein
+heq:HPF32_0113	CDS	114451..115212	hypothetical protein
+heq:HPF32_0114	CDS	complement(115195..115977)	hypothetical protein
+heq:HPF32_0115	CDS	complement(116008..117705)	mcpB; methyl-accepting chemotaxis protein
+heq:HPF32_0116	CDS	complement(117911..119656)	cpdB; 2',3'-cyclic-nucleotide 2'-phosphodiesterase
+heq:HPF32_0117	CDS	complement(119807..120274)	luxS; S-ribosylhomocysteinase
+heq:HPF32_0118	CDS	complement(120309..121451)	metB; cystathionine gamma-synthase/cystathionine beta-lyase
+heq:HPF32_0119	CDS	complement(121472..122389)	cysK; cysteine synthetase
+heq:HPF32_0120	CDS	complement(122647..124509)	dnaK; molecular chaperone DnaK
+heq:HPF32_0121	CDS	complement(124540..125115)	grpE; co-chaperone and heat shock protein 24
+heq:HPF32_0122	CDS	complement(125115..125945)	hrcA; heat-inducible transcription repressor
+heq:HPF32_0123	CDS	126174..126803	hypothetical protein
+heq:HPF32_0124	CDS	126824..127120	hypothetical protein
+heq:HPF32_0125	CDS	complement(127146..129029)	hypothetical protein
+heq:HPF32_0126	CDS	complement(129092..130636)	flaB; flagellin B
+heq:HPF32_0127	CDS	130802..133012	topA; DNA topoisomerase I
+heq:HPF32_0128	CDS	133005..133931	hypothetical protein
+heq:HPF32_0129	CDS	complement(134024..135262)	hypothetical protein
+heq:HPF32_0130	CDS	complement(135366..137804)	ppsA; phosphoenolpyruvate synthase
+heq:HPF32_0131	CDS	138008..138121	hypothetical protein
+heq:HPF32_0132	CDS	138162..140000	thrS; threonyl-tRNA synthetase
+heq:HPF32_0133	CDS	139997..140608	infC; translation initiation factor IF-3
+heq:HPF32_0134	CDS	140589..140783	rpmI; 50S ribosomal protein L35
+heq:HPF32_0135	CDS	140878..141228	rplT; 50S ribosomal protein L20
+heq:HPF32_0136	CDS	141428..142288	horB; outer membrane protein HorB
+heq:HPF32_0137	CDS	142635..143060	hypothetical protein
+heq:HPF32_0138	CDS	143469..144329	hypothetical protein
+heq:HPF32_0139	CDS	complement(144719..144946)	hypothetical protein
+heq:HPF32_0140	CDS	complement(145195..146562)	sdaA; L-serine deaminase
+heq:HPF32_0141	CDS	complement(146562..147803)	sdaC; hypothetical protein
+heq:HPF32_0142	CDS	147984..149333	aroF; tyrosine-regulated 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase
+heq:HPF32_0143	CDS	149412..149546	hypothetical protein
+heq:HPF32_0144	CDS	complement(149776..150234)	bcp; bacterioferritin comigratory protein
+heq:HPF32_0145	CDS	complement(150244..150879)	hypothetical protein
+heq:HPF32_0146	CDS	complement(150872..152317)	conserved hypothetical iron-sulfur protein
+heq:HPF32_0147	CDS	complement(152345..153073)	conserved hypothetical secreted protein
+heq:HPF32_0148	CDS	153294..154943	lldP-1; L-lactate permease
+heq:HPF32_0149	CDS	154992..156647	lldP-2; L-lactate permease
+heq:HPF32_0150	CDS	complement(156671..157540)	mutY; A/G-specific adenine glycosylase
+heq:HPF32_0151	CDS	complement(157658..158590)	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+heq:HPF32_0152	CDS	complement(158580..159104)	C(4)-dicarboxylates and tricarboxylates/succinate antiporter
+heq:HPF32_0153	CDS	159269..160735	fixN; cytochrome c oxidase, heme b and copper-binding subunit, membrane-bound
+heq:HPF32_0154	CDS	160748..161446	fixO; cytochrome c oxidase monoheme subunit
+heq:HPF32_0155	CDS	161457..161675	fixQ; cbb3-type cytochrome c oxidase subunit Q
+heq:HPF32_0156	CDS	161677..162555	fixP; cytochrome c oxidase diheme subunit
+heq:HPF32_0157	CDS	162566..162772	hypothetical protein
+heq:HPF32_0158	CDS	162873..163457	hypothetical protein
+heq:HPF32_0159	CDS	163469..164050	hypothetical protein
+heq:HPF32_0160	CDS	164138..164905	hypothetical protein
+heq:HPF32_0161	CDS	complement(164902..165768)	hypothetical protein
+heq:HPF32_0162	CDS	165867..166910	recA; recombinase A
+heq:HPF32_0163	CDS	166922..168202	eno; phosphopyruvate hydratase
+heq:HPF32_0164	CDS	168195..168470	hypothetical protein
+heq:HPF32_0165	CDS	168486..169082	hypothetical protein
+heq:HPF32_0166	CDS	169087..169575	aroK; shikimate kinase
+heq:HPF32_0167	CDS	169597..170553	hypothetical protein
+heq:HPF32_0168	CDS	complement(170550..171653)	rfaJ-1; putative lipopolysaccharide biosynthesis protein
+heq:HPF32_0169	CDS	171812..172729	hcpD; hypothetical protein
+heq:HPF32_0170	CDS	complement(173425..174147)	yebC; hypothetical protein
+heq:HPF32_0171	CDS	complement(174148..175119)	hemB; delta-aminolevulinic acid dehydratase
+heq:HPF32_0172	CDS	complement(175191..176471)	putative histidine kinase sensor protein
+heq:HPF32_0173	CDS	complement(176497..177174)	ompR; response regulator
+heq:HPF32_0174	CDS	complement(177408..177866)	hypothetical protein
+heq:HPF32_0175	CDS	complement(177857..178120)	hypothetical protein
+heq:HPF32_0176	CDS	complement(178147..179433)	collagenase
+heq:HPF32_0177	CDS	complement(179436..180155)	hypothetical protein
+heq:HPF32_0178	CDS	complement(180230..181375)	prfB; peptide chain release factor 2
+heq:HPF32_0179	CDS	complement(181377..181649)	moeA-C; molybdopterin biosynthesis protein MoeA, C terminus fragment (deletion of central part)
+heq:HPF32_0180	CDS	complement(181646..181813)	moeA-N; molybdopterin biosynthesis protein MoeA, N terminus fragment (deletion of central part)
+heq:HPF32_0181	CDS	complement(181825..182592)	fliR; flagellar biosynthesis protein FliR
+heq:HPF32_0182	CDS	complement(182586..183314)	hypothetical protein
+heq:HPF32_0183	CDS	183808..184707	putative peptidyl-prolyl cis-trans isomerase
+heq:HPF32_0184	CDS	184724..185647	fba; fructose-bisphosphate aldolase
+heq:HPF32_0185	CDS	185669..186232	efp; elongation factor P
+heq:HPF32_0186	CDS	186949..188181	mcrB-2; Type IV restriction-modification enzyme
+heq:HPF32_0187	CDS	188174..189388	Type II restriction enzyme
+heq:HPF32_0188	CDS	complement(189465..190487)	neuB; sialic acid synthase
+heq:HPF32_0189	CDS	complement(190491..191132)	ybbA; ABC transporter, ATP-binding protein
+heq:HPF32_0190	CDS	complement(191132..192406)	lnt; apolipoprotein N-acyltransferase
+heq:HPF32_0191	CDS	192636..193337	hypothetical protein
+heq:HPF32_0192	CDS	193347..194852	lysS; lysyl-tRNA synthetase
+heq:HPF32_0193	CDS	194852..196102	glyA; serine hydroxymethyltransferase
+heq:HPF32_0194	CDS	196113..196655	hypothetical protein
+heq:HPF32_0195	CDS	196677..197480	hypothetical protein
+heq:HPF32_0196	CDS	complement(197903..199438)	hypothetical protein
+heq:HPF32_0197	CDS	199756..200292	hypothetical protein
+heq:HPF32_0198	CDS	complement(200298..201806)	conserved hypothetical secreted protein
+heq:HPF32_0199	CDS	complement(201828..202565)	frdB; fumarate reductase iron-sulfur subunit
+heq:HPF32_0200	CDS	complement(202558..204702)	frdA; fumarate reductase flavoprotein subunit
+heq:HPF32_0201	CDS	complement(204712..205479)	frdC; fumarate reductase cytochrome b-556 subunit
+heq:HPF32_0202	CDS	205693..206397	tpiA; triosephosphate isomerase
+heq:HPF32_0203	CDS	206408..207235	fabI; enoyl-(acyl carrier protein) reductase
+heq:HPF32_0204	CDS	207245..208255	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+heq:HPF32_0205	CDS	208320..209477	metK; S-adenosylmethionine synthetase
+heq:HPF32_0206	CDS	209544..209957	ndk; nucleoside diphosphate kinase
+heq:HPF32_0207	CDS	209982..210338	hypothetical protein
+heq:HPF32_0208	CDS	210354..210500	rpmF; 50S ribosomal protein L32
+heq:HPF32_0209	CDS	210578..211597	plsX; fatty acid/phospholipid synthesis protein
+heq:HPF32_0210	CDS	211622..212617	fabH; 3-oxoacyl-(acyl carrier protein) synthase III
+heq:HPF32_0211	CDS	212641..212943	hypothetical protein
+heq:HPF32_0212	CDS	complement(213234..213617)	hypothetical protein
+heq:HPF32_0213	CDS	complement(213678..213923)	hypothetical protein
+heq:HPF32_0214	CDS	complement(214040..216691)	hypothetical protein
+heq:HPF32_0215	CDS	216791..217897	mpr; ATP-binding protein
+heq:HPF32_0216	CDS	complement(217911..218930)	rfaJ-2; lipopolysaccharide 1,2-glycosyltransferase
+heq:HPF32_0217	CDS	complement(218941..219063)	lipopolysaccharide 1,2-glycosyltransferase
+heq:HPF32_0218	CDS	219214..220557	hofA; outer membrane protein HofA
+heq:HPF32_0219	CDS	220696..222561	htpG; heat shock protein 90
+heq:HPF32_0220	CDS	complement(222749..223501)	hcpA; cysteine-rich protein A
+heq:HPF32_0221	CDS	complement(223957..225123)	dapE; succinyl-diaminopimelate desuccinylase
+heq:HPF32_0222	CDS	complement(225135..227000)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+heq:HPF32_0223	CDS	227096..228754	sodium-dependent transporter
+heq:HPF32_0224	CDS	228775..229575	cdsA; CDP-diglyceride synthetase
+heq:HPF32_0225	CDS	229576..230682	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+heq:HPF32_0226	CDS	230731..231030	hypothetical protein
+heq:HPF32_0227	CDS	231192..231872	hypothetical protein
+heq:HPF32_0228	CDS	complement(231888..232439)	phospholipid-binding protein
+heq:HPF32_0229	CDS	232585..233046	hypothetical protein
+heq:HPF32_0230	CDS	233220..234383	nifS; cysteine desulfurase
+heq:HPF32_0231	CDS	234405..235385	yurV; nifU-like protein
+heq:HPF32_0232	CDS	235537..235770	hypothetical protein
+heq:HPF32_0233	CDS	235881..237227	radA; DNA repair protein RadA
+heq:HPF32_0234	CDS	237408..238430	msrA; bifunctional methionine sulfoxide reductase A/B protein
+heq:HPF32_0235	CDS	complement(239155..239988)	hypothetical protein
+heq:HPF32_0236	CDS	complement(240205..242286)	hopN-2; outer membrane protein HopN2
+heq:HPF32_0237	CDS	242549..243706	putative sulfate permease
+heq:HPF32_t08	tRNA	complement(243738..243812)	tRNA-Asn
+heq:HPF32_0238	CDS	complement(243943..245418)	hopA; outer membrane protein HopA
+heq:HPF32_0239	CDS	complement(245605..246336)	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+heq:HPF32_0240	CDS	246449..247246	hypothetical protein
+heq:HPF32_0241	CDS	247262..247918	hypothetical protein
+heq:HPF32_0242	CDS	247941..249113	ygiC; hypothetical protein
+heq:HPF32_0243	CDS	249122..249643	hypothetical protein
+heq:HPF32_0244	CDS	complement(250081..250227)	hcpE; cysteine-rich protein E
+heq:HPF32_0245	CDS	complement(250306..251367)	hcpE; cysteine-rich protein E
+heq:HPF32_0246	CDS	complement(251461..251832)	hypothetical protein
+heq:HPF32_0247	CDS	complement(251832..252752)	hemC; porphobilinogen deaminase
+heq:HPF32_0248	CDS	complement(252763..254496)	proS; prolyl-tRNA synthetase
+heq:HPF32_0249	CDS	complement(254500..255849)	hemA; glutamyl-tRNA reductase
+heq:HPF32_0250	CDS	complement(255849..256772)	ispB; putative octaprenyl-diphosphate synthase
+heq:HPF32_0251	CDS	complement(256782..257177)	hypothetical protein
+heq:HPF32_0252	CDS	complement(257170..257454)	hypothetical protein
+heq:HPF32_0253	CDS	complement(257475..257909)	napA; neutrophil activating protein (napA)
+heq:HPF32_0254	CDS	complement(258067..259212)	histidine kinase sensor protein
+heq:HPF32_0255	CDS	complement(259209..259526)	hypothetical protein
+heq:HPF32_0256	CDS	complement(259523..260551)	flgI; flagellar basal body P-ring protein
+heq:HPF32_0257	CDS	260740..262218	deaD; ATP-dependent RNA helicase
+heq:HPF32_0258	CDS	262239..263327	hypothetical protein
+heq:HPF32_0259	CDS	263334..263873	hypothetical protein
+heq:HPF32_0260	CDS	complement(263944..265494)	oppD; oligopeptide permease ATPase protein
+heq:HPF32_0261	CDS	complement(265504..266520)	oligopeptide permease integral membrane protein
+heq:HPF32_t09	tRNA	complement(266628..266703)	tRNA-Ala
+heq:HPF32_0262	CDS	266866..268332	hopF; outer membrane protein HopF
+heq:HPF32_0263	CDS	268345..269760	hopG; outer membrane protein HopG
+heq:HPF32_0264	CDS	269859..271094	purA; adenylosuccinate synthetase
+heq:HPF32_0265	CDS	271091..271519	hypothetical protein
+heq:HPF32_0266	CDS	271512..272171	conserved hypothetical secreted protein
+heq:HPF32_0267	CDS	272168..273223	hypothetical protein
+heq:HPF32_0268	CDS	273236..274498	xseA; exodeoxyribonuclease VII large subunit
+heq:HPF32_0269	CDS	complement(274517..275689)	mod-1; Type II DNA modification enzyme
+heq:HPF32_0270	CDS	complement(275682..276296)	hypothetical protein
+heq:HPF32_0271	CDS	276529..277182	endonuclease MjaVIP
+heq:HPF32_0272	CDS	277179..277937	hpaim; adenine specific DNA methyltransferase
+heq:HPF32_0273	CDS	278008..280578	clpB; ATP-dependent protease binding subunit
+heq:HPF32_0274	CDS	280635..281354	ccdA; cytochrome c biogenesis protein
+heq:HPF32_0275	CDS	281364..282500	pyrC_1; dihydroorotase
+heq:HPF32_0276	CDS	282485..283714	orf1; chlorohydrolase
+heq:HPF32_0277	CDS	283776..284018	hypothetical protein
+heq:HPF32_0278	CDS	284028..285341	putative ATP-binding protein
+heq:HPF32_0279	CDS	285381..286034	hypothetical protein
+heq:HPF32_0280	CDS	286027..287007	hypothetical protein
+heq:HPF32_0281	CDS	286997..287530	hypothetical protein
+heq:HPF32_0282	CDS	287527..288066	hypothetical protein
+heq:HPF32_0283	CDS	288082..288480	hypothetical protein
+heq:HPF32_0284	CDS	288517..289809	ATP-dependent nuclease
+heq:HPF32_0285	CDS	289797..290360	hypothetical protein
+heq:HPF32_0286	CDS	290416..290667	fdxB; ferredoxin
+heq:HPF32_0287	CDS	290677..292131	gppA; guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+heq:HPF32_0288	CDS	292128..293150	waaC; lipopolysaccharide heptosyltransferase-1
+heq:HPF32_0289	CDS	293147..294133	waaM; lipid A biosynthesis lauroyl acyltransferase
+heq:HPF32_0290	CDS	complement(294232..295347)	tgt; queuine tRNA-ribosyltransferase
+heq:HPF32_0291	CDS	295398..296840	hypothetical protein
+heq:HPF32_0292	CDS	296847..297878	aroB; 3-dehydroquinate synthase
+heq:HPF32_0293	CDS	297869..299440	hypothetical protein
+heq:HPF32_0294	CDS	299437..300693	hypothetical protein
+heq:HPF32_0295	CDS	300680..302332	ftsH-1; cell division protein
+heq:HPF32_0296	CDS	302335..302853	hypothetical protein
+heq:HPF32_0297	CDS	302866..303339	hypothetical protein
+heq:HPF32_0298	CDS	303402..304388	vacA-2-N; putative vacuolating cytotoxin-like protein VacA2, N terminus fragment (deletion of central part)
+heq:HPF32_0299	CDS	304334..304993	vacA-2-C; putative vacuolating cytotoxin-like protein VacA2, C terminus fragment (deletion of central part)
+heq:HPF32_0300	CDS	305041..306258	lysA; diaminopimelate decarboxylase
+heq:HPF32_0301	CDS	306263..306553	pheA; hypothetical protein
+heq:HPF32_0302	CDS	306566..307438	hypothetical protein
+heq:HPF32_0303	CDS	307439..309118	pabB; para-aminobenzoate synthetase
+heq:HPF32_0304	CDS	309313..310332	amiE; acylamide amidohydrolase
+heq:HPF32_0305	CDS	complement(310415..312901)	flgL; flagellar hook-associated protein FlgL
+heq:HPF32_0306	CDS	313146..313460	rplU; 50S ribosomal protein L21
+heq:HPF32_0307	CDS	313475..313741	rpmA; 50S ribosomal protein L27
+heq:HPF32_0308	CDS	313858..315507	dppA; periplasmic dipeptide-binding protein
+heq:HPF32_0309	CDS	315517..316521	dppB; dipeptide permease protein
+heq:HPF32_0310	CDS	316521..317378	dppC; dipeptide permease protein
+heq:HPF32_0311	CDS	317390..318253	dppD; dipeptide ABC transporter, ATP-binding protein
+heq:HPF32_0312	CDS	318250..319056	dppF; dipeptide transport system atp-binding protein
+heq:HPF32_0313	CDS	319076..320158	obgE; GTPase ObgE
+heq:HPF32_0314	CDS	320200..321195	hypothetical protein
+heq:HPF32_0315	CDS	321441..321995	hypothetical protein
+heq:HPF32_0316	CDS	322005..323297	hemL; glutamate-1-semialdehyde aminotransferase
+heq:HPF32_0317	CDS	323302..323565	hypothetical protein
+heq:HPF32_0318	CDS	323581..323985	hypothetical protein
+heq:HPF32_0319	CDS	324069..324947	hypothetical protein
+heq:HPF32_0320	CDS	324960..325841	hypothetical protein
+heq:HPF32_0321	CDS	325888..326265	hypothetical protein
+heq:HPF32_0322	CDS	326265..327230	conserved hypothetical ATP-binding protein
+heq:HPF32_0323	CDS	complement(327236..328381)	narK; nitrite extrusion protein
+heq:HPF32_0324	CDS	329298..331331	virD2-1; hypothetical protein
+heq:HPF32_0325	CDS	complement(332549..333682)	tnpB; IS605 transposase
+heq:HPF32_0326	CDS	333752..334180	tnpA; IS605 transposase
+heq:HPF32_0327	CDS	334358..335029	hypothetical protein
+heq:HPF32_0328	CDS	335038..337848	cytochrome c-type biogenesis protein
+heq:HPF32_0329	CDS	337858..339252	fucT; alpha-(1,3)-fucosyltransferase
+heq:HPF32_0330	CDS	complement(339271..340617)	gdhA; glutamate dehydrogenase
+heq:HPF32_0331	CDS	complement(340683..341513)	hemK; protoporphyrinogen oxidase
+heq:HPF32_0332	CDS	complement(341510..342733)	putative zinc-metallo protease
+heq:HPF32_0333	CDS	342903..343430	hypothetical protein
+heq:HPF32_0334	CDS	complement(343440..344186)	hypothetical protein
+heq:HPF32_0335	CDS	344389..344616	hypothetical protein
+heq:HPF32_0336	CDS	344629..344865	hypothetical protein
+heq:HPF32_0337	CDS	344850..346712	priA; primosome assembly protein PriA
+heq:HPF32_0338	CDS	complement(346772..347491)	hypothetical protein
+heq:HPF32_0339	CDS	complement(347543..348184)	sodF; iron-dependent superoxide dismutase
+heq:HPF32_0340	CDS	348408..348908	tpx; thiol peroxidase
+heq:HPF32_0341	CDS	complement(349165..349662)	cheW; purine-binding chemotaxis protein
+heq:HPF32_0342	CDS	complement(349659..352085)	cheA; autophosphorylating histidine kinase
+heq:HPF32_0343	CDS	complement(352143..353078)	cheV-2; CheA-MCP interaction modulator
+heq:HPF32_0344	CDS	complement(353082..353840)	hypothetical protein
+heq:HPF32_0345	CDS	complement(353842..354510)	hypothetical protein
+heq:HPF32_0346	CDS	complement(354520..356370)	yigC; hypothetical protein
+heq:HPF32_0347	CDS	complement(356380..357954)	serA; D-3-phosphoglycerate dehydrogenase
+heq:HPF32_0348	CDS	complement(357970..358557)	hypothetical protein
+heq:HPF32_0349	CDS	complement(358586..360244)	rpsA; 30S ribosomal protein S1
+heq:HPF32_0350	CDS	complement(360365..361189)	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+heq:HPF32_0351	CDS	complement(361179..362468)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+heq:HPF32_0352	CDS	complement(362487..364781)	pheT; phenylalanyl-tRNA synthetase subunit beta
+heq:HPF32_0353	CDS	complement(364781..365767)	pheS; phenylalanyl-tRNA synthetase subunit alpha
+heq:HPF32_0354	CDS	365848..366162	protein kinase C inhibitor
+heq:HPF32_0355	CDS	366181..367503	nifS_2; nifS-like protein
+heq:HPF32_0356	CDS	367529..368119	hypothetical protein
+heq:HPF32_0357	CDS	368224..368421	bisC-frg; biotin sulfoxide reductase BisC fragment
+heq:HPF32_0358	CDS	368418..368549	biotin sulfoxide reductase
+heq:HPF32_0359	CDS	368540..368752	bisC-frg; biotin sulfoxide reductase BisC fragment
+heq:HPF32_0360	CDS	368758..369246	bisC-frg; biotin sulfoxide reductase BisC fragment
+heq:HPF32_0361	CDS	369221..370078	bisC-frg; biotin sulfoxide reductase BisC fragment
+heq:HPF32_0362	CDS	370239..370727	hypothetical protein
+heq:HPF32_0363	CDS	370738..372264	guaA; bifunctional GMP synthase/glutamine amidotransferase protein
+heq:HPF32_0364	CDS	372342..373091	hpaA-3; adhesion HpaA homologue HpaA3
+heq:HPF32_t10	tRNA	373276..373353	tRNA-Pro
+heq:HPF32_t11	tRNA	373422..373498	tRNA-His
+heq:HPF32_t12	tRNA	373558..373634	tRNA-Arg
+heq:HPF32_t13	tRNA	373652..373728	tRNA-Arg
+heq:HPF32_0365	CDS	374255..376126	hypothetical protein
+heq:HPF32_0366	CDS	complement(376129..377298)	cfa; cyclopropane fatty acid synthase
+heq:HPF32_0367	CDS	377468..379420	metG; methionyl-tRNA synthetase
+heq:HPF32_0368	CDS	379421..380440	hypothetical protein
+heq:HPF32_0369	CDS	380444..381229	hypothetical protein
+heq:HPF32_0370	CDS	381246..381674	hypothetical protein
+heq:HPF32_0371	CDS	381679..382848	capJ; type 1 capsular polysaccharide biosynthesis protein J
+heq:HPF32_0372	CDS	382863..384710	speA; arginine decarboxylase
+heq:HPF32_0373	CDS	complement(384818..385690)	hypothetical protein
+heq:HPF32_0374	CDS	complement(385794..386585)	hypothetical protein
+heq:HPF32_0375	CDS	complement(386596..386856)	hypothetical protein
+heq:HPF32_0376	CDS	complement(386856..387086)	hypothetical protein
+heq:HPF32_0377	CDS	complement(387150..387536)	hypothetical protein
+heq:HPF32_0378	CDS	complement(387677..388930)	hypothetical protein
+heq:HPF32_0379	CDS	complement(389019..390713)	hypothetical protein
+heq:HPF32_r01	rRNA	391676..394649	23S ribosomal RNA
+heq:HPF32_r02	rRNA	394872..395006	5S ribosomal RNA
+heq:HPF32_0380	CDS	395384..396208	hypothetical protein
+heq:HPF32_0381	CDS	396357..396518	hypothetical protein
+heq:HPF32_0382	CDS	complement(396863..398020)	ftsZ; cell division protein FtsZ
+heq:HPF32_0383	CDS	complement(398157..399638)	ftsA; cell division protein
+heq:HPF32_0384	CDS	complement(399653..401116)	hypothetical protein
+heq:HPF32_0385	CDS	401246..402556	bioA; adenosylmethionine--8-amino-7-oxononanoate transaminase
+heq:HPF32_0386	CDS	complement(402629..402910)	gatC; aspartyl/glutamyl-tRNA amidotransferase subunit C
+heq:HPF32_0387	CDS	complement(402925..404400)	pgm; phosphoglyceromutase
+heq:HPF32_0388	CDS	complement(404413..405471)	hypothetical protein
+heq:HPF32_0389	CDS	405584..407686	glyS; glycyl-tRNA synthetase subunit beta
+heq:HPF32_0390	CDS	407676..408971	hefD; outer membrane protein HefD
+heq:HPF32_0391	CDS	408968..410047	czcB_1; cobalt-zinc-cadmium resistance protein
+heq:HPF32_0392	CDS	410047..413106	czcA_1; putative cation efflux system protein
+heq:HPF32_0393	CDS	413117..413398	hypothetical protein
+heq:HPF32_0394	CDS	413466..413753	vapD; virulence associated protein D
+heq:HPF32_0395	CDS	413974..415185	hypothetical protein
+heq:HPF32_0396	CDS	415178..416329	hypothetical protein
+heq:HPF32_0397	CDS	416363..416911	hypothetical protein
+heq:HPF32_0398	CDS	417021..417959	gpsA; NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+heq:HPF32_0399	CDS	417973..418869	glyQ; glycyl-tRNA synthetase subunit alpha
+heq:HPF32_0400	CDS	418871..419602	hypothetical protein
+heq:HPF32_0401	CDS	419612..420364	hypothetical protein
+heq:HPF32_0402	CDS	420365..421552	waaA; 3-deoxy-D-manno-octulosonic-acid transferase
+heq:HPF32_0403	CDS	421561..422289	hypothetical protein
+heq:HPF32_0404	CDS	422299..423153	lgt; prolipoprotein diacylglyceryl transferase
+heq:HPF32_0405	CDS	423150..423782	oxygen-insensitive NADPH nitroreductase
+heq:HPF32_0406	CDS	423850..424416	hypothetical protein
+heq:HPF32_0407	CDS	complement(424419..425075)	hypothetical protein
+heq:HPF32_0408	CDS	complement(425085..425699)	hypothetical protein
+heq:HPF32_0409	CDS	425780..426649	accD; acetyl-CoA carboxylase subunit beta
+heq:HPF32_0410	CDS	426663..427115	hypothetical protein
+heq:HPF32_0411	CDS	427125..428138	hypothetical protein
+heq:HPF32_0412	CDS	complement(428689..429048)	hypothetical protein
+heq:HPF32_0413	CDS	complement(429364..430854)	hypothetical protein
+heq:HPF32_t14	tRNA	complement(430981..431068)	tRNA-Ser
+heq:HPF32_t15	tRNA	complement(431114..431188)	tRNA-Cys
+heq:HPF32_t16	tRNA	complement(431262..431348)	tRNA-Leu
+heq:HPF32_0414	CDS	complement(431413..431712)	protein tRNA-associated locus protein
+heq:HPF32_t17	tRNA	complement(431744..431818)	tRNA-Gly
+heq:HPF32_0415	CDS	432148..432525	hypothetical protein
+heq:HPF32_0416	CDS	432547..433779	dadA; D-Amino acid dehydrogenase
+heq:HPF32_0417	CDS	433820..435172	dagA; D-alanine glycine permease
+heq:HPF32_0418	CDS	435179..436312	alr; alanine racemase, biosynthetic
+heq:HPF32_0419	CDS	436437..437159	ABC-type polar amino acid transport, periplasmic component
+heq:HPF32_0420	CDS	437134..437856	amino acid ABC transporter permease
+heq:HPF32_0421	CDS	complement(438088..440160)	homB; putative outer membrane protein HomB
+heq:HPF32_0422	CDS	complement(440379..440864)	hypothetical protein
+heq:HPF32_0423	CDS	complement(440875..441630)	hypothetical protein
+heq:HPF32_0424	CDS	complement(441627..442229)	hypothetical protein
+heq:HPF32_0425	CDS	complement(442233..442892)	hypothetical protein
+heq:HPF32_0426	CDS	complement(442889..443692)	surE; stationary phase survival protein SurE
+heq:HPF32_0427	CDS	complement(443689..444600)	ispA; geranyltranstransferase
+heq:HPF32_0428	CDS	complement(444616..445158)	folE; GTP cyclohydrolase I
+heq:HPF32_0429	CDS	complement(445159..446091)	htpX; heat shock protein HtpX
+heq:HPF32_0430	CDS	complement(446078..447223)	truD; tRNA pseudouridine synthase D
+heq:HPF32_0431	CDS	complement(447220..447801)	recR; recombination protein RecR
+heq:HPF32_0432	CDS	447947..448153	4-oxalocrotonate tautomerase
+heq:HPF32_0433	CDS	complement(448206..449312)	hopK; outer membrane protein HopK
+heq:HPF32_0434	CDS	complement(449365..456552)	putative vacuolating cytotoxin (VacA) paralog
+heq:HPF32_0435	CDS	complement(456631..457629)	gap_1; glyceraldehyde-3-phosphate dehydrogenase
+heq:HPF32_0436	CDS	457772..458464	hypothetical protein
+heq:HPF32_0437	CDS	458559..461816	carB; carbamoyl phosphate synthase large subunit
+heq:HPF32_0438	CDS	461816..462247	hypothetical protein
+heq:HPF32_0439	CDS	462421..464853	frpB-2; iron-regulated outer membrane protein
+heq:HPF32_0440	CDS	465100..466644	hofG; putative outer membrane protein
+heq:HPF32_0441	CDS	complement(467188..468765)	alpB; outer membrane protein AlpB
+heq:HPF32_0442	CDS	complement(468787..470331)	alpA; outer membrane protein AlpA
+heq:HPF32_0443	CDS	complement(470874..472904)	rep; rep helicase, single-stranded DNA-dependent ATPase
+heq:HPF32_0444	CDS	complement(472898..474058)	Type II modification enzyme
+heq:HPF32_0445	CDS	complement(474027..474650)	Type II restriction enzyme
+heq:HPF32_0446	CDS	complement(474702..476519)	flgE; flagellar hook protein FlgE
+heq:HPF32_0447	CDS	complement(476516..477505)	flgD; flagellar basal body rod modification protein
+heq:HPF32_0448	CDS	complement(477556..479121)	hypothetical protein
+heq:HPF32_0449	CDS	479334..481208	ackA_pta; fusion protein of phosphotransacetylase and acetate kinase
+heq:HPF32_0450	CDS	481219..481518	hypothetical protein
+heq:HPF32_0451	CDS	481762..482490	hypB; hydrogenase expression/formation protein HypB
+heq:HPF32_0452	CDS	482490..482726	hypC; hydrogenase expression/formation protein HypC
+heq:HPF32_0453	CDS	482754..483866	hypD; hydrogenase expression/formation protein
+heq:HPF32_0454	CDS	complement(483817..484338)	hypothetical protein
+heq:HPF32_t18	tRNA	484423..484497	tRNA-Gln
+heq:HPF32_t19	tRNA	484531..484607	tRNA-Met
+heq:HPF32_0455	CDS	484869..487085	babA; outer membrane protein BabA
+heq:HPF32_0456	CDS	487635..488012	hypothetical protein
+heq:HPF32_0457	CDS	487996..488259	hypothetical protein
+heq:HPF32_0458	CDS	complement(488343..488867)	hypothetical protein
+heq:HPF32_0459	CDS	489008..489850	short-chain oxidoreductase
+heq:HPF32_0460	CDS	489843..490823	fecD; iron(III) dicitrate ABC transporter, permease protein
+heq:HPF32_0461	CDS	490823..491590	fecE; iron(III) dicitrate transporter, ATP-binding protein
+heq:HPF32_0462	CDS	complement(491656..495531)	vacA; vacuolating cytotoxin A
+heq:HPF32_0463	CDS	complement(495755..497152)	cysS; cysteinyl-tRNA synthetase
+heq:HPF32_0464	CDS	complement(497153..498613)	mviN; virulence factor MviN
+heq:HPF32_0465	CDS	498706..500550	hypothetical protein
+heq:HPF32_0466	CDS	500575..501126	ruvA; Holliday junction DNA helicase motor protein
+heq:HPF32_0467	CDS	501421..502080	hypothetical protein
+heq:HPF32_0468	CDS	502157..503512	hypothetical protein
+heq:HPF32_0469	CDS	503533..503991	hypothetical protein
+heq:HPF32_0470	CDS	504040..504402	hypothetical protein
+heq:HPF32_0471	CDS	complement(504438..505574)	putative potassium channel protein
+heq:HPF32_0472	CDS	complement(505724..505912)	rpmB; 50S ribosomal protein L28
+heq:HPF32_0473	CDS	complement(506012..506854)	hpaA-2; adhesion HpaA homologue HpaA2
+heq:HPF32_0474	CDS	506980..508041	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+heq:HPF32_0475	CDS	508043..509311	murD; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+heq:HPF32_0476	CDS	complement(509308..509568)	hypothetical protein
+heq:HPF32_0477	CDS	complement(509558..509959)	ybgC; hypothetical protein
+heq:HPF32_0478	CDS	510190..511518	sodium- and chloride-dependent transporter
+heq:HPF32_0479	CDS	511531..512859	sodium- and chloride-dependent transporter
+heq:HPF32_0480	CDS	512874..513581	pldA; phospholipase A1
+heq:HPF32_0481	CDS	513578..513946	pldA; phospholipase A1
+heq:HPF32_0482	CDS	514004..515128	dnaN; DNA polymerase III subunit beta
+heq:HPF32_0483	CDS	515141..517462	gyrB; DNA gyrase subunit B
+heq:HPF32_0484	CDS	517469..518497	Type II modification enzyme
+heq:HPF32_0485	CDS	518484..519239	Type II restriction enzyme
+heq:HPF32_0486	CDS	519439..520650	putative outer membrane protein
+heq:HPF32_0487	CDS	520650..521288	hypothetical protein
+heq:HPF32_0488	CDS	521329..522606	plasminogen binding protein
+heq:HPF32_0489	CDS	522608..523987	glcD; putative Glycolate oxidase
+heq:HPF32_0490	CDS	524010..524774	dapB; dihydrodipicolinate reductase
+heq:HPF32_0491	CDS	525200..525370	lpp; urease-enhancing factor
+heq:HPF32_0492	CDS	complement(525633..527078)	glnA; glutamine synthetase
+heq:HPF32_0493	CDS	527212..529272	hypothetical protein
+heq:HPF32_0494	CDS	529335..529784	rplI; 50S ribosomal protein L9
+heq:HPF32_0495	CDS	529788..530330	hslV; ATP-dependent protease peptidase subunit
+heq:HPF32_0496	CDS	530330..531661	hslU; ATP-dependent protease ATP-binding subunit
+heq:HPF32_0497	CDS	531661..532566	era; GTP-binding protein Era
+heq:HPF32_0498	CDS	532563..533555	conserved hypothetical secreted protein
+heq:HPF32_0499	CDS	complement(533622..534476)	hypothetical protein
+heq:HPF32_0500	CDS	534613..534960	cag1; cag pathogenicity island protein
+heq:HPF32_0501	CDS	535188..536633	cag3; cag pathogenicity island protein
+heq:HPF32_0502	CDS	536643..537152	cag4; cag island protein
+heq:HPF32_0503	CDS	complement(537457..539703)	cag5; cag pathogenicity island protein
+heq:HPF32_0504	CDS	complement(539712..540704)	virB11-2; cag pathogenicity island protein
+heq:HPF32_0505	CDS	complement(540709..541308)	cagZ; cag pathogenicity island protein
+heq:HPF32_0506	CDS	complement(541445..547453)	cagY; cag pathogenicity island protein Y VirB10-like protein
+heq:HPF32_0507	CDS	complement(547468..549033)	cagX; cag pathogenicity island protein
+heq:HPF32_0508	CDS	complement(549086..550693)	cagW; cag pathogenicity island protein
+heq:HPF32_0509	CDS	complement(550698..551456)	cagV; cag pathogenicity island protein
+heq:HPF32_0510	CDS	551732..552379	cagU; cag pathogenicity island protein
+heq:HPF32_0511	CDS	552395..553237	cagT; cag pathogenicity island protein
+heq:HPF32_0512	CDS	complement(553434..554033)	cagS; cag pathogenicity island protein
+heq:HPF32_0513	CDS	556054..557184	cagM; cag pathogenicity island protein
+heq:HPF32_0514	CDS	557199..558119	cagN; cag pathogenicity island protein
+heq:HPF32_0515	CDS	complement(558202..558915)	cagL; cag pathogenicity island protein
+heq:HPF32_0516	CDS	complement(558912..560057)	cagI; cag pathogenicity island protein
+heq:HPF32_0517	CDS	complement(560068..561180)	cagH; cag island protein
+heq:HPF32_0518	CDS	complement(561182..561610)	cagG; cag pathogenicity island protein
+heq:HPF32_0519	CDS	complement(561665..562471)	cagF; cag pathogenicity island protein
+heq:HPF32_0520	CDS	complement(562473..565424)	cagE; DNA transfer protein
+heq:HPF32_0521	CDS	complement(565433..566056)	cagD; cag pathogenicity island protein
+heq:HPF32_0522	CDS	complement(566058..566405)	cagC; cag pathogenicity island protein
+heq:HPF32_0523	CDS	567055..570576	cagA; cag pathogenicity island protein
+heq:HPF32_0524	CDS	complement(570671..570865)	tnpB; IS606 transposase
+heq:HPF32_0525	CDS	complement(571053..571820)	murI; glutamate racemase
+heq:HPF32_0526	CDS	complement(571857..573173)	rho; transcription termination factor Rho
+heq:HPF32_0527	CDS	573438..573641	rpmE; 50S ribosomal protein L31
+heq:HPF32_0528	CDS	573667..574530	hypothetical protein
+heq:HPF32_0529	CDS	574543..575226	hypothetical protein
+heq:HPF32_0530	CDS	575239..576204	hypothetical protein
+heq:HPF32_0531	CDS	576201..577022	hypothetical protein
+heq:HPF32_0532	CDS	complement(577093..577530)	hypothetical protein
+heq:HPF32_0533	CDS	complement(577978..578916)	accA; acetyl-CoA carboxylase carboxyltransferase subunit alpha
+heq:HPF32_0534	CDS	complement(578939..580177)	fabB; 3-oxoacyl-(acyl carrier protein) synthase II
+heq:HPF32_0535	CDS	complement(580480..580716)	acpP; acyl carrier protein
+heq:HPF32_0536	CDS	complement(580947..581690)	fabG; 3-ketoacyl-(acyl-carrier-protein) reductase
+heq:HPF32_0537	CDS	complement(581727..581939)	rpsU; 30S ribosomal protein S21
+heq:HPF32_0538	CDS	complement(582041..583291)	hypothetical protein
+heq:HPF32_0539	CDS	583462..583707	hypothetical protein
+heq:HPF32_0540	CDS	complement(583731..584378)	hypothetical protein
+heq:HPF32_0541	CDS	complement(584469..585290)	dapF; diaminopimelate epimerase
+heq:HPF32_0542	CDS	585405..586451	membrane protein
+heq:HPF32_0543	CDS	complement(586580..587452)	hypothetical protein
+heq:HPF32_0544	CDS	complement(587486..588586)	translation-associated GTPase
+heq:HPF32_0545	CDS	complement(588588..590078)	pepA; leucyl aminopeptidase
+heq:HPF32_0546	CDS	complement(590126..590704)	hypothetical protein
+heq:HPF32_0547	CDS	complement(590719..591258)	apt; adenine phosphoribosyltransferase
+heq:HPF32_0548	CDS	complement(591316..591648)	hypothetical protein
+heq:HPF32_0549	CDS	complement(591701..592156)	rpiB; ribose-5-phosphate isomerase B
+heq:HPF32_0550	CDS	complement(592177..592875)	hypothetical protein
+heq:HPF32_0551	CDS	complement(592884..593756)	lepB; signal peptidase I
+heq:HPF32_0552	CDS	complement(593756..594628)	folD; methylene-tetrahydrofolate dehydrogenase
+heq:HPF32_0553	CDS	complement(594708..596741)	hypothetical protein
+heq:HPF32_0554	CDS	complement(596741..597292)	hypothetical protein
+heq:HPF32_0555	CDS	complement(597299..598417)	hypothetical protein
+heq:HPF32_0556	CDS	complement(598393..599412)	pyrC_2; dihydroorotase
+heq:HPF32_0557	CDS	complement(599416..600372)	tonB_1; hypothetical protein
+heq:HPF32_0558	CDS	complement(600356..601195)	hypothetical protein
+heq:HPF32_0559	CDS	complement(601228..601599)	fliN; flagellar motor switch protein
+heq:HPF32_0560	CDS	complement(601681..602331)	nth; endonuclease III
+heq:HPF32_0561	CDS	complement(602334..602564)	hypothetical protein
+heq:HPF32_0562	CDS	complement(602561..605500)	hypothetical protein
+heq:HPF32_0563	CDS	605418..606413	pabC; hypothetical protein
+heq:HPF32_0564	CDS	606593..606934	oorD; 2-oxoglutarate-acceptor oxidoreductase subunit OorD
+heq:HPF32_0565	CDS	606934..608061	oorA; 2-oxoglutarate-acceptor oxidoreductase subunit OorA
+heq:HPF32_0566	CDS	608063..608884	oorB; 2-oxoglutarate-acceptor oxidoreductase subunit OorB
+heq:HPF32_0567	CDS	608884..609438	oorC; 2-oxoglutarate-acceptor oxidoreductase subunit OorC
+heq:HPF32_0568	CDS	609549..611327	hypothetical protein
+heq:HPF32_0569	CDS	611470..611634	hypothetical protein
+heq:HPF32_0570	CDS	611643..613115	DsbB-like protein
+heq:HPF32_0571	CDS	613590..614168	tumor necrosis factor alpha-inducing protein
+heq:HPF32_0572	CDS	complement(614171..616150)	pbp-1a; penicillin-binding protein 1A
+heq:HPF32_0573	CDS	complement(616151..617272)	bioF; 8-amino-7-oxononanoate synthase
+heq:HPF32_0574	CDS	complement(617295..618596)	methyl-accepting chemotaxis protein
+heq:HPF32_0575	CDS	complement(618668..619597)	spaB; putative secretion/efflux ABC transporter, ATP-binding protein
+heq:HPF32_0576	CDS	619749..621281	flaA; flagellin A
+heq:HPF32_0577	CDS	621397..622053	magIII; 3-methyladenine DNA glycosylase
+heq:HPF32_0578	CDS	622050..622667	hypothetical protein
+heq:HPF32_0579	CDS	622736..623755	hemE; uroporphyrinogen decarboxylase
+heq:HPF32_0580	CDS	623765..625198	hefA; outer membrane protein HefA
+heq:HPF32_0581	CDS	625209..625913	hefB; membrane fusion protein of the hefABC efflux system HefB
+heq:HPF32_0582	CDS	625926..629006	hefC; cytoplasmic pump protein of the hefABC efflux system HefC
+heq:HPF32_0583	CDS	629003..629572	hypothetical protein
+heq:HPF32_0584	CDS	629719..639291	putative vacuolating cytotoxin (VacA)-like protein
+heq:HPF32_0585	CDS	complement(639351..640100)	hypothetical protein
+heq:HPF32_0586	CDS	complement(640264..640644)	ABC transporter. ATP-binding protein
+heq:HPF32_0587	CDS	complement(640493..640810)	ABC transporter. ATP-binding protein
+heq:HPF32_0588	CDS	complement(641137..641469)	hypothetical protein
+heq:HPF32_0589	CDS	complement(641571..643541)	ligA; NAD-dependent DNA ligase LigA
+heq:HPF32_0590	CDS	643619..644560	cheV_2; chemotaxis protein
+heq:HPF32_0591	CDS	644595..646328	aspS; aspartyl-tRNA synthetase
+heq:HPF32_0592	CDS	646345..646920	adk; adenylate kinase
+heq:HPF32_0593	CDS	646945..647943	putative lipopolysaccharide biosynthesis protein
+heq:HPF32_0594	CDS	647996..648550	putative lipopolysaccharide biosynthesis protein
+heq:HPF32_0595	CDS	648540..649394	putative lipopolysaccharide biosynthesis protein
+heq:HPF32_0596	CDS	complement(648611..648967)	hypothetical protein
+heq:HPF32_0597	CDS	648709..649023	cell surface protein
+heq:HPF32_0598	CDS	649450..649971	ppa; inorganic pyrophosphatase
+heq:HPF32_0599	CDS	complement(650118..652367)	mutS; recombination and DNA strand exchange inhibitor protein
+heq:HPF32_0600	CDS	complement(652386..652751)	hypothetical protein
+heq:HPF32_0601	CDS	complement(652751..654100)	murC; UDP-N-acetylmuramate--L-alanine ligase
+heq:HPF32_0602	CDS	complement(654093..655220)	hypothetical protein
+heq:HPF32_0603	CDS	655375..656454	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+heq:HPF32_0604	CDS	656457..657662	dapD; tetrahydrodipicolinate N-succinyltransferase
+heq:HPF32_0605	CDS	657674..658732	hcpF; cysteine-rich protein F
+heq:HPF32_0606	CDS	658851..660896	hypothetical protein
+heq:HPF32_0607	CDS	complement(660940..661524)	mdaB; modulator of drug activity
+heq:HPF32_0608	CDS	661654..662808	hyaA; hydrogenase, small subunit
+heq:HPF32_0609	CDS	662825..664561	hyaB; quinone-reactive Ni/Fe hydrogenase HydB
+heq:HPF32_0610	CDS	664574..665248	hyaC; quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit
+heq:HPF32_0611	CDS	665245..665781	hyaD; hydrogenase expression/formation protein
+heq:HPF32_0612	CDS	665783..667321	hydE; hypothetical protein
+heq:HPF32_0613	CDS	complement(667326..667739)	hypothetical protein
+heq:HPF32_0614	CDS	complement(667860..668312)	hypothetical protein
+heq:HPF32_0615	CDS	668487..669401	oipA-1_A-2; outer membrane protein OipA1/A2
+heq:HPF32_0616	CDS	complement(669518..670738)	hypothetical protein
+heq:HPF32_0617	CDS	complement(671206..672108)	hypothetical protein
+heq:HPF32_0618	CDS	complement(672353..672697)	hypothetical protein
+heq:HPF32_0619	CDS	complement(672717..673643)	mraW; S-adenosyl-methyltransferase MraW
+heq:HPF32_0620	CDS	complement(673837..674649)	hopE; outer membrane protein HopE
+heq:HPF32_0621	CDS	674823..677648	uvrA; excinuclease ABC subunit A
+heq:HPF32_0622	CDS	complement(677930..679075)	flgR; transcriptional activator of flagella proteins
+heq:HPF32_0623	CDS	complement(679072..679548)	hypothetical protein
+heq:HPF32_0624	CDS	complement(679545..682031)	gyrA; DNA gyrase subunit A
+heq:HPF32_0625	CDS	complement(682051..682437)	dgkA; diacylglycerol kinase
+heq:HPF32_0626	CDS	complement(682430..683458)	hypothetical protein
+heq:HPF32_0627	CDS	complement(683766..684266)	hypothetical protein
+heq:HPF32_0628	CDS	complement(684290..686587)	N-methylhydantoinase
+heq:HPF32_0629	CDS	complement(686599..688740)	hydantoin utilization protein A
+heq:HPF32_0630	CDS	complement(688951..689952)	putative outer membrane protein
+heq:HPF32_0631	CDS	complement(690077..691441)	atoE; short-chain fatty acids transporter
+heq:HPF32_0632	CDS	complement(691460..692083)	scoB; succinyl-CoA-transferase subunit B
+heq:HPF32_0633	CDS	complement(692080..692778)	scoA; 3-oxoacid Coa-transferase, subunit A
+heq:HPF32_0634	CDS	complement(692789..693964)	thl; acetyl coenzyme A acetyltransferase
+heq:HPF32_0635	CDS	complement(694233..695045)	hypothetical protein
+heq:HPF32_0636	CDS	695177..697111	feoB; iron(II) transport protein
+heq:HPF32_0637	CDS	697362..699665	fecA-1; iron(III) dicitrate transport protein FecA1
+heq:HPF32_0638	CDS	complement(699705..700451)	fliP; flagellar biosynthesis protein FliP
+heq:HPF32_0639	CDS	700540..701841	glmU; UDP-N-acetylglucosamine pyrophosphorylase
+heq:HPF32_0640	CDS	702101..702436	hypothetical protein
+heq:HPF32_0641	CDS	702460..702930	hypothetical protein
+heq:HPF32_0642	CDS	703098..705464	nrdA; ribonucleotide-diphosphate reductase subunit alpha
+heq:HPF32_0643	CDS	705526..706473	wbpB; putative lipopolysaccharide biosynthesis protein
+heq:HPF32_0644	CDS	706587..707354	hypothetical protein
+heq:HPF32_0645	CDS	707358..707864	ogt; methylated-DNA--protein-cysteine methyltransferase
+heq:HPF32_0646	CDS	complement(707926..708993)	xerD; integrase-recombinase protein
+heq:HPF32_0647	CDS	complement(709000..709419)	hypothetical protein
+heq:HPF32_0648	CDS	complement(709718..710890)	aspB; aspartate aminotransferase
+heq:HPF32_0649	CDS	complement(711049..711861)	horF; outer membrane protein HorF
+heq:HPF32_0650	CDS	complement(712105..712302)	Type IIG restriction-modification enzyme
+heq:HPF32_0651	CDS	complement(712296..715745)	Type IIG restriction-modification enzyme
+heq:HPF32_0652	CDS	complement(715735..716745)	Type IIG restriction-modification enzyme
+heq:HPF32_0653	CDS	complement(717019..718308)	glpC; anaerobic glycerol-3-phosphate dehydrogenase, subunit C
+heq:HPF32_0654	CDS	complement(718305..719678)	hemN_1; coproporphyrinogen III oxidase
+heq:HPF32_0655	CDS	complement(719678..720193)	hypothetical protein
+heq:HPF32_0656	CDS	complement(720231..721328)	aroC; chorismate synthase
+heq:HPF32_0657	CDS	complement(721325..722041)	rnc; ribonuclease III
+heq:HPF32_0658	CDS	complement(722016..722480)	rnhA; ribonuclease H
+heq:HPF32_0659	CDS	complement(722481..723488)	hypothetical protein
+heq:HPF32_0660	CDS	complement(723499..724734)	hypothetical protein
+heq:HPF32_0661	CDS	complement(724734..726158)	gatB; aspartyl/glutamyl-tRNA amidotransferase subunit B
+heq:HPF32_0662	CDS	complement(726158..727456)	processing protease
+heq:HPF32_0663	CDS	complement(727459..728520)	hypothetical protein
+heq:HPF32_0664	CDS	complement(728522..731167)	putative outer membrane protein
+heq:HPF32_0665	CDS	complement(731340..732422)	hypothetical protein
+heq:HPF32_0666	CDS	732741..733244	pfr; nonheme iron-containing ferritin
+heq:HPF32_0667	CDS	733260..733883	serB; phosphoserine phosphatase
+heq:HPF32_0668	CDS	734012..735208	fucT; alpha-(1,3)-fucosyltransferase
+heq:HPF32_0669	CDS	complement(735217..735846)	hypothetical protein
+heq:HPF32_0670	CDS	complement(735852..737258)	aspA; aspartate ammonia-lyase
+heq:HPF32_0671	CDS	complement(737316..738584)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+heq:HPF32_0672	CDS	complement(738587..738994)	hypothetical protein
+heq:HPF32_0673	CDS	complement(739006..739827)	galU; UDP-glucose pyrophosphorylase
+heq:HPF32_0674	CDS	complement(739824..741545)	soluble lytic murein transglycosylase
+heq:HPF32_0675	CDS	complement(741515..741808)	hypothetical protein
+heq:HPF32_0676	CDS	complement(741805..743124)	gltX; glutamyl-tRNA synthetase
+heq:HPF32_0677	CDS	complement(743290..743943)	NAD(P)H-flavin oxidoreductase
+heq:HPF32_0678	CDS	complement(744062..745285)	pcnB; poly(A) polymerase
+heq:HPF32_0679	CDS	745347..746027	exsB; ExsB trans-regulatory protein
+heq:HPF32_0680	CDS	complement(746091..746768)	oipA-2_A-1; outer membrane protein OipA2/A1, N-terminus truncation
+heq:HPF32_0681	CDS	complement(747402..748646)	rpoN; RNA polymerase factor sigma-54
+heq:HPF32_0682	CDS	complement(748649..749371)	yhbG; putative abc transporter, ATP-binding protein
+heq:HPF32_0683	CDS	complement(749384..749785)	hypothetical protein
+heq:HPF32_0684	CDS	complement(749782..751497)	dnaX; DNA polymerase III subunits gamma and tau
+heq:HPF32_0685	CDS	complement(751566..752198)	hypothetical protein
+heq:HPF32_0686	CDS	752468..752890	hypothetical protein
+heq:HPF32_0687	CDS	752919..753389	hypothetical protein
+heq:HPF32_0688	CDS	complement(753665..754663)	ansB; L-asparaginase II
+heq:HPF32_0689	CDS	754796..756124	dcuA; anaerobic C4-dicarboxylate transporter
+heq:HPF32_0690	CDS	complement(756199..758103)	omp17; outer membrane protein
+heq:HPF32_0691	CDS	complement(758364..759281)	putative outer membrane protein
+heq:HPF32_0692	CDS	complement(759251..760237)	transcriptional regulator
+heq:HPF32_0693	CDS	complement(760325..761356)	hypothetical protein
+heq:HPF32_0694	CDS	complement(761379..761954)	hypothetical protein
+heq:HPF32_0695	CDS	complement(761951..762385)	hypothetical protein
+heq:HPF32_0696	CDS	complement(762394..762699)	hypothetical protein
+heq:HPF32_0697	CDS	complement(762794..763024)	hypothetical protein
+heq:HPF32_0698	CDS	complement(762984..764513)	labile enterotoxin outputA
+heq:HPF32_0699	CDS	complement(764714..766363)	hypothetical protein
+heq:HPF32_0700	CDS	complement(766466..767785)	hypothetical protein
+heq:HPF32_0701	CDS	complement(767787..768248)	gpt; xanthine guanine phosphoribosyl transferase
+heq:HPF32_0702	CDS	complement(768257..769366)	putative aminotransferase
+heq:HPF32_0703	CDS	769514..769990	pgpA; phosphatidylglycerophosphatase A
+heq:HPF32_0704	CDS	770068..771111	ddl; D-alanyl-alanine synthetase A
+heq:HPF32_0705	CDS	771111..771836	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+heq:HPF32_0706	CDS	771823..773304	murF; D-alanyl-D-alanine-adding enzyme
+heq:HPF32_0707	CDS	773314..773799	histidine triad family protein
+heq:HPF32_0708	CDS	773864..774820	prsA; ribose-phosphate pyrophosphokinase
+heq:HPF32_t20	tRNA	complement(774844..774920)	tRNA-Met
+heq:HPF32_0709	CDS	complement(774882..776027)	ftsW_1; putative rod shape-determining protein
+heq:HPF32_0710	CDS	complement(776044..776883)	hypothetical protein
+heq:HPF32_0711	CDS	complement(776864..776980)	hypothetical protein
+heq:HPF32_0712	CDS	complement(777014..777232)	hypothetical protein
+heq:HPF32_0713	CDS	777402..778385	hypothetical protein
+heq:HPF32_0714	CDS	778336..779595	hypothetical protein
+heq:HPF32_0715	CDS	779606..780784	trmB; tRNA (guanine-N(7))-methyltransferase
+heq:HPF32_0716	CDS	780784..781455	ftsE; cell division protein
+heq:HPF32_0717	CDS	781442..782248	ftsX; cell division membrane protein
+heq:HPF32_0718	CDS	782241..783443	hypothetical protein
+heq:HPF32_0719	CDS	783539..783898	flaG-2; flagellar protein FlaG
+heq:HPF32_0720	CDS	783915..785972	fliD; flagellar capping protein
+heq:HPF32_0721	CDS	786020..786400	fliS; flagellar protein FliS
+heq:HPF32_0722	CDS	786387..786626	hypothetical protein
+heq:HPF32_0723	CDS	786679..787338	moeB; molybdopterin biosynthesis protein
+heq:HPF32_0724	CDS	787367..787513	hypothetical protein
+heq:HPF32_0725	CDS	787517..788395	carbon-nitrogen hydrolase
+heq:HPF32_0726	CDS	788522..789835	hypothetical protein
+heq:HPF32_0727	CDS	789898..791151	hypothetical protein
+heq:HPF32_0728	CDS	complement(791152..792663)	phosphodiesterase
+heq:HPF32_0729	CDS	complement(792641..793288)	hypothetical protein
+heq:HPF32_0730	CDS	793413..793970	hypothetical protein
+heq:HPF32_0731	CDS	793977..794870	ftsY; cell division protein
+heq:HPF32_0732	CDS	complement(795262..796050)	hypothetical protein
+heq:HPF32_0733	CDS	complement(796170..796580)	hypothetical protein
+heq:HPF32_0734	CDS	complement(796591..797568)	hypothetical protein
+heq:HPF32_0735	CDS	complement(797585..798145)	hypothetical protein
+heq:HPF32_0736	CDS	complement(798391..799005)	moaA-frg; molybdenum cofactor biosynthesis protein MoaA fragment
+heq:HPF32_0737	CDS	complement(799002..799226)	moaA-frg; molybdenum cofactor biosynthesis protein MoaA fragment
+heq:HPF32_0738	CDS	799312..799917	mobA; molybdopterin-guanine dinucleotide biosynthesis protein A
+heq:HPF32_0739	CDS	799910..800986	flhB; flagellar biosynthesis protein FlhB
+heq:HPF32_0740	CDS	complement(801059..801796)	hypothetical protein
+heq:HPF32_0741	CDS	complement(801815..803122)	amiA; N-acetylmuramoyl-L-alanine amidase
+heq:HPF32_0742	CDS	complement(803129..804220)	hypothetical protein
+heq:HPF32_0743	CDS	complement(804237..805445)	tyrS; tyrosyl-tRNA synthetase
+heq:HPF32_0744	CDS	complement(805469..807796)	spoT; penta-phosphate guanosine-3'-pyrophosphohydrolase
+heq:HPF32_0745	CDS	complement(807783..808007)	rpoZ; DNA-directed RNA polymerase subunit omega
+heq:HPF32_0746	CDS	complement(808050..808772)	pyrH; uridylate kinase
+heq:HPF32_0747	CDS	complement(808884..809567)	hypothetical protein
+heq:HPF32_0748	CDS	809707..812265	acnB; bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+heq:HPF32_0749	CDS	812345..812611	hypothetical protein
+heq:HPF32_0750	CDS	812880..814169	hypothetical protein
+heq:HPF32_0751	CDS	814263..815630	hofE; outer membrane protein HofE
+heq:HPF32_0752	CDS	complement(815637..816164)	hypothetical protein
+heq:HPF32_tm01	tmRNA	complement(816206..816591)	tmRNA
+heq:HPF32_0753	CDS	complement(816658..817212)	lolA; outer-membrane lipoprotein carrier protein
+heq:HPF32_0754	CDS	817358..819955	secA; preprotein translocase subunit SecA
+heq:HPF32_0755	CDS	819885..821177	lolE; lipoprotein release system transmembrane protein
+heq:HPF32_0756	CDS	821457..822956	hofF; outer membrane protein HofF
+heq:HPF32_0757	CDS	complement(823252..824487)	hsdS-2; Type I restriction-modification system specificity subunit
+heq:HPF32_0758	CDS	complement(824523..826583)	hmcT; cadmium-transporting ATPase
+heq:HPF32_0759	CDS	complement(826608..828128)	comM; sigma-54 interacting protein
+heq:HPF32_0760	CDS	complement(828131..828658)	def; peptide deformylase
+heq:HPF32_0761	CDS	complement(828663..829250)	clpP; ATP-dependent Clp protease proteolytic subunit
+heq:HPF32_0762	CDS	complement(829273..830628)	tig; trigger factor
+heq:HPF32_0763	CDS	complement(830741..831577)	horG; outer membrane protein
+heq:HPF32_0764	CDS	complement(831602..832384)	hpaA; flagellar sheath adhesin HpaA
+heq:HPF32_0765	CDS	complement(832503..832979)	moaC; molybdenum cofactor biosynthesis protein C
+heq:HPF32_0766	CDS	complement(832989..833519)	mogA; molybdenum cofactor biosynthesis protein
+heq:HPF32_0767	CDS	complement(833532..833969)	moaE; molybdopterin converting factor, subunit 2
+heq:HPF32_0768	CDS	complement(833970..834161)	hypothetical protein
+heq:HPF32_0769	CDS	complement(834348..834926)	ribA; GTP cyclohydrolase II
+heq:HPF32_0770	CDS	complement(835192..835929)	hypothetical protein
+heq:HPF32_0771	CDS	complement(836119..837153)	ribBA; bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+heq:HPF32_0772	CDS	complement(837324..838178)	putative lipopolysaccharide biosynthesis protein
+heq:HPF32_0773	CDS	838260..838874	hypothetical protein
+heq:HPF32_0774	CDS	complement(838877..841252)	fecA_2; iron dicitrate transport protein
+heq:HPF32_0775	CDS	complement(841445..841801)	acpS; 4'-phosphopantetheinyl transferase
+heq:HPF32_0776	CDS	complement(841808..842359)	fliL; flagellar basal body-associated protein FliL
+heq:HPF32_0777	CDS	complement(842368..842970)	Type II modification enzyme
+heq:HPF32_0778	CDS	complement(842949..843275)	hypothetical protein
+heq:HPF32_0779	CDS	complement(843737..844744)	hypothetical protein
+heq:HPF32_0780	CDS	844871..845488	ycbL; hypothetical protein
+heq:HPF32_0781	CDS	845489..846256	moeB; thiamin biosynthesis protein
+heq:HPF32_0782	CDS	846272..847045	motA; flagellar motor protein MotA
+heq:HPF32_0783	CDS	847048..847821	motB; flagellar motor protein MotB
+heq:HPF32_0784	CDS	847818..848264	hypothetical protein
+heq:HPF32_0785	CDS	848419..850080	proWX; osmoprotection protein
+heq:HPF32_0786	CDS	850084..850725	proV; osmoprotection protein
+heq:HPF32_0787	CDS	complement(850737..850916)	hypothetical protein
+heq:HPF32_0788	CDS	850908..851369	hypothetical protein
+heq:HPF32_0789	CDS	851370..853154	uvrC; excinuclease ABC subunit C
+heq:HPF32_0790	CDS	853165..854430	hom; homoserine dehydrogenase
+heq:HPF32_0791	CDS	854431..854775	hypothetical protein
+heq:HPF32_0792	CDS	854864..855184	trxA; thioredoxin
+heq:HPF32_0793	CDS	855190..856125	trxB_1; thioredoxin reductase
+heq:HPF32_0794	CDS	856432..857253	lipooligosaccharide 5G8 epitope biosynthesis-associated protein
+heq:HPF32_0795	CDS	complement(857458..857706)	RNA binding protein
+heq:HPF32_0796	CDS	complement(858023..858703)	atpB; F0F1 ATP synthase subunit A
+heq:HPF32_0797	CDS	complement(858813..860258)	guaB; inositol-5-monophosphate dehydrogenase
+heq:HPF32_0798	CDS	complement(860268..861629)	gatA; aspartyl/glutamyl-tRNA amidotransferase subunit A
+heq:HPF32_0799	CDS	complement(861689..862279)	coaE; dephospho-CoA kinase
+heq:HPF32_0800	CDS	complement(862281..863069)	speE; spermidine synthase
+heq:HPF32_0801	CDS	complement(863158..864045)	hypothetical protein
+heq:HPF32_0802	CDS	864122..865501	engA; GTP-binding protein EngA
+heq:HPF32_0803	CDS	865644..865928	dna-binding protein hu
+heq:HPF32_t21	tRNA	865986..866062	tRNA-Arg
+heq:HPF32_0804	CDS	866596..867201	hypothetical protein
+heq:HPF32_0805	CDS	867221..867832	hypothetical protein
+heq:HPF32_0806	CDS	867829..869592	ompP1; outer membrane protein P1
+heq:HPF32_0807	CDS	869607..870590	flmA; UDP-GlcNAc C6 dehydratase
+heq:HPF32_0808	CDS	870587..871864	dfp; bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+heq:HPF32_0809	CDS	871864..872601	hypothetical protein
+heq:HPF32_0810	CDS	complement(872626..873285)	thiE; thiamine phosphate pyrophosphorylase
+heq:HPF32_0811	CDS	complement(873278..874087)	thiD; thiamine biosynthesis protein
+heq:HPF32_0812	CDS	complement(874084..874863)	thiM; thiamine phosphate pyrophosphorylase
+heq:HPF32_0813	CDS	complement(874956..877952)	hsdR_2; Type I restriction enzyme R protein
+heq:HPF32_0814	CDS	complement(877956..879161)	hsdS_2; Type I restriction-modification system specificity subunit
+heq:HPF32_0815	CDS	complement(879154..880737)	hsdM-2; Type I restriction enzyme M protein
+heq:HPF32_0816	CDS	880923..881906	Type II modification enzyme
+heq:HPF32_0817	CDS	881903..882856	Type II restriction endonuclease
+heq:HPF32_0818	CDS	882996..883682	hypothetical protein
+heq:HPF32_0819	CDS	complement(883703..884101)	hypothetical protein
+heq:HPF32_0820	CDS	complement(884130..884630)	hypothetical protein
+heq:HPF32_0821	CDS	complement(884627..886228)	ABC transporter, ATP-binding protein
+heq:HPF32_0822	CDS	886474..887451	guaC; guanosine 5'-monophosphate oxidoreductase
+heq:HPF32_0823	CDS	complement(887619..888197)	gmhA; phosphoheptose isomerase
+heq:HPF32_0824	CDS	complement(888190..889575)	waaE; ADP-heptose synthase
+heq:HPF32_0825	CDS	complement(889572..890564)	gmhD; ADP-L-glycero-D-mannoheptose-6-epimerase
+heq:HPF32_0826	CDS	complement(890573..891097)	hypothetical protein
+heq:HPF32_0827	CDS	complement(891084..891815)	hypothetical protein
+heq:HPF32_0828	CDS	complement(891812..892477)	pantothenate kinase
+heq:HPF32_0829	CDS	complement(892482..894128)	hypothetical protein
+heq:HPF32_0830	CDS	complement(894133..894789)	hypothetical protein
+heq:HPF32_0831	CDS	complement(894786..895223)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+heq:HPF32_0832	CDS	complement(895213..895707)	greA; transcription elongation factor GreA
+heq:HPF32_0833	CDS	complement(895748..896830)	lpxB; lipid-A-disaccharide synthase
+heq:HPF32_0834	CDS	complement(896830..897291)	hypothetical protein
+heq:HPF32_0835	CDS	complement(897298..897651)	hypA; hydrogenase nickel incorporation protein
+heq:HPF32_0836	CDS	complement(897710..899866)	flgE; flagellar hook protein FlgE
+heq:HPF32_0837	CDS	complement(900087..900821)	cdh; CDP-diacylglycerol pyrophosphatase
+heq:HPF32_0838	CDS	901173..901502	phnA; alkylphosphonate uptake protein
+heq:HPF32_0839	CDS	complement(901560..901775)	hypothetical protein
+heq:HPF32_0840	CDS	complement(901860..902735)	hypothetical protein
+heq:HPF32_0841	CDS	complement(902886..904403)	katA; catalase
+heq:HPF32_0842	CDS	904722..907100	frpB-1; iron-regulated outer membrane protein
+heq:HPF32_0843	CDS	complement(907101..907574)	ruvC; Holliday junction resolvase
+heq:HPF32_0844	CDS	907705..908430	hypothetical protein
+heq:HPF32_0845	CDS	complement(908961..911237)	hypothetical protein
+heq:HPF32_0846	CDS	complement(911548..912945)	hofD; outer membrane protein HofD
+heq:HPF32_0847	CDS	complement(913017..914603)	hofC; outer membrane protein HofC
+heq:HPF32_0848	CDS	914887..915831	catalase-like protein
+heq:HPF32_0849	CDS	complement(916064..916816)	Type II restriction enzyme
+heq:HPF32_0850	CDS	complement(916819..917865)	Type II DNA modification enzyme
+heq:HPF32_0851	CDS	complement(917869..919668)	typA; hypothetical protein
+heq:HPF32_0852	CDS	complement(919714..920562)	Type II adenine specific methyltransferase
+heq:HPF32_0853	CDS	complement(920528..922165)	Type II adenine specific methyltransferase
+heq:HPF32_0854	CDS	complement(922174..923280)	hopK; outer membrane protein HopK
+heq:HPF32_0855	CDS	923398..924789	gltX; glutamyl-tRNA synthetase
+heq:HPF32_0856	CDS	complement(924887..925669)	modD; molybdenum ABC transporter ModD
+heq:HPF32_0857	CDS	complement(925666..926340)	modB; molybdenum ABC transporter ModB
+heq:HPF32_0858	CDS	complement(926362..926787)	modA-frg; molybdenum ABC transporter ModA fragment
+heq:HPF32_0859	CDS	complement(926829..927104)	modA-frg; molybdenum ABC transporter ModA fragment
+heq:HPF32_0860	CDS	927312..927872	horE; outer membrane protein HorE
+heq:HPF32_0861	CDS	928199..929449	kefB; glutathione-regulated potassium-efflux system protein
+heq:HPF32_0862	CDS	929547..931283	pepF; oligoendopeptidase F
+heq:HPF32_0863	CDS	931268..931756	hypothetical protein
+heq:HPF32_0864	CDS	931768..933255	hypothetical protein
+heq:HPF32_0865	CDS	933257..933571	integral membrane protein
+heq:HPF32_0866	CDS	933581..934348	hypothetical protein
+heq:HPF32_0867	CDS	934374..936269	hypothetical protein
+heq:HPF32_0868	CDS	936317..936940	Type I restriction enzyme R protein
+heq:HPF32_0869	CDS	937176..939464	Type I restriction enzyme R protein
+heq:HPF32_0870	CDS	939457..941088	hsdM-1; Type I restriction enzyme M protein
+heq:HPF32_0871	CDS	941081..942214	hsdS-1; Type I restriction-modification system specificity subunit
+heq:HPF32_t22	tRNA	942477..942554	tRNA-Pro
+heq:HPF32_0872	CDS	942648..944675	ppk; polyphosphate kinase
+heq:HPF32_0873	CDS	944712..945767	pyrD; dihydroorotate dehydrogenase 2
+heq:HPF32_0874	CDS	945764..947098	putative zinc protease
+heq:HPF32_0875	CDS	947113..948015	dapA; dihydrodipicolinate synthase
+heq:HPF32_0876	CDS	948012..948800	7-alpha-hydroxysteroid dehydrogenase
+heq:HPF32_0877	CDS	948810..949418	hypothetical protein
+heq:HPF32_0878	CDS	949415..949954	pgsA; phosphatidylglycerophosphate synthase
+heq:HPF32_0879	CDS	950144..951586	amino acid permease
+heq:HPF32_0880	CDS	951631..953061	htrA; protease DO
+heq:HPF32_0881	CDS	953083..954303	ispDF; bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase protein
+heq:HPF32_0882	CDS	954320..955216	response regulator
+heq:HPF32_0883	CDS	955532..956308	dNA-polymerase I-like 5'-3' exonuclease
+heq:HPF32_0884	CDS	complement(956371..957621)	hypothetical protein
+heq:HPF32_0885	CDS	957789..958655	cbpA; co-chaperone-curved DNA binding protein A
+heq:HPF32_0886	CDS	958665..959036	hspR; putative heat shock protein
+heq:HPF32_0887	CDS	959033..960208	rarA; recombination factor protein RarA
+heq:HPF32_0888	CDS	960368..960820	fur; ferric uptake regulation protein
+heq:HPF32_0889	CDS	complement(960840..961337)	hypothetical protein
+heq:HPF32_0890	CDS	complement(961334..961870)	hypothetical protein
+heq:HPF32_0891	CDS	complement(961898..962761)	fliY; flagellar motor switch protein FliY
+heq:HPF32_0892	CDS	complement(962765..963829)	fliM; flagellar motor switch protein FliM
+heq:HPF32_0893	CDS	complement(963822..964565)	fliA; flagellar biosynthesis sigma factor
+heq:HPF32_0894	CDS	complement(964567..964881)	hypothetical protein
+heq:HPF32_0895	CDS	complement(964888..965772)	ATP-binding protein
+heq:HPF32_0896	CDS	complement(965769..967145)	flhF; flagellar biosynthesis regulator FlhF
+heq:HPF32_0897	CDS	complement(967142..967630)	folK; 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+heq:HPF32_0898	CDS	complement(967630..968703)	pepQ; hypothetical protein
+heq:HPF32_0899	CDS	complement(968717..969220)	aroD; 3-dehydroquinate dehydratase
+heq:HPF32_0900	CDS	complement(969350..970639)	hypothetical protein
+heq:HPF32_0901	CDS	complement(970670..970942)	rpsO; 30S ribosomal protein S15
+heq:HPF32_0902	CDS	971080..973281	flhA; flagellar biosynthesis protein FlhA
+heq:HPF32_0903	CDS	973309..974355	hypothetical protein
+heq:HPF32_0904	CDS	complement(974872..975543)	putative transcriptional regulator
+heq:HPF32_0905	CDS	complement(975935..977047)	hypothetical protein
+heq:HPF32_0906	CDS	977248..979236	acoE; acetyl-CoA synthetase
+heq:HPF32_0907	CDS	complement(979345..979785)	hypothetical protein
+heq:HPF32_0908	CDS	complement(979778..980113)	rbfA; ribosome-binding factor A
+heq:HPF32_0909	CDS	complement(980113..982965)	infB; translation initiation factor IF-2
+heq:HPF32_0910	CDS	complement(982962..983216)	hypothetical protein
+heq:HPF32_0911	CDS	complement(983203..984084)	thrB; homoserine kinase
+heq:HPF32_0912	CDS	complement(984138..984611)	hypothetical protein
+heq:HPF32_0913	CDS	complement(984633..985520)	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+heq:HPF32_0914	CDS	complement(985517..986104)	minC; septum formation inhibitor
+heq:HPF32_0915	CDS	complement(986107..987429)	hypothetical protein
+heq:HPF32_0916	CDS	complement(987439..988377)	hypothetical protein
+heq:HPF32_0917	CDS	complement(988386..989240)	hypothetical protein
+heq:HPF32_0918	CDS	complement(989230..989961)	hypothetical protein
+heq:HPF32_0919	CDS	990101..990913	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+heq:HPF32_0920	CDS	990910..991920	ruvB; Holliday junction DNA helicase B
+heq:HPF32_0921	CDS	991988..992464	tatC; sec-independent translocase
+heq:HPF32_0922	CDS	992457..993203	tatB; hypothetical protein
+heq:HPF32_0923	CDS	993207..994244	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+heq:HPF32_0924	CDS	994241..994777	gidB; glucose-inhibited division protein B
+heq:HPF32_0925	CDS	994771..995013	hypothetical protein
+heq:HPF32_0926	CDS	995016..995423	hypothetical protein
+heq:HPF32_t23	tRNA	995466..995553	tRNA-Ser
+heq:HPF32_0927	CDS	complement(995555..996157)	horD; outer membrane protein HorD
+heq:HPF32_0928	CDS	996448..996822	cheY; response regulator
+heq:HPF32_0929	CDS	996823..997812	prmA; ribosomal protein L11 methyltransferase
+heq:HPF32_0930	CDS	997821..999719	ftsH-2; cell division protein
+heq:HPF32_0931	CDS	999966..1000679	pssA; phosphatidylserine synthase
+heq:HPF32_0932	CDS	1000676..1002901	copA; copper-transporting ATPase
+heq:HPF32_0933	CDS	1002902..1003102	copP; copper ion binding protein
+heq:HPF32_0934	CDS	complement(1003443..1003583)	hypothetical protein
+heq:HPF32_0935	CDS	complement(1003801..1005111)	hypothetical protein
+heq:HPF32_0936	CDS	1005245..1005754	hypothetical protein
+heq:HPF32_0937	CDS	complement(1005758..1006753)	nixA; high-affinity nickel-transport protein
+heq:HPF32_0938	CDS	1006919..1007197	hypothetical protein
+heq:HPF32_0939	CDS	complement(1007194..1007766)	mrr; Type IV restriction-modification enzyme
+heq:HPF32_0940	CDS	complement(1007770..1008393)	hypothetical protein
+heq:HPF32_0941	CDS	complement(1008387..1010051)	msbA; multidrug resistance protein
+heq:HPF32_0942	CDS	complement(1010143..1011582)	hofB; outer membrane protein HofB
+heq:HPF32_0943	CDS	complement(1011877..1012800)	pyrB; aspartate carbamoyltransferase catalytic subunit
+heq:HPF32_0944	CDS	1012867..1013382	hypothetical protein
+heq:HPF32_0945	CDS	1013382..1014089	hlyA; hemolysin
+heq:HPF32_0946	CDS	1014055..1014897	ribF; bifunctional riboflavin kinase/FMN adenylyltransferase
+heq:HPF32_0947	CDS	1014944..1016869	tktA; transketolase
+heq:HPF32_0948	CDS	1016866..1019199	hypothetical protein
+heq:HPF32_0949	CDS	1019196..1021727	ftsK; cell division protein
+heq:HPF32_0950	CDS	1021890..1023176	kgtP; alpha-ketoglutarate permease
+heq:HPF32_0951	CDS	1023229..1024038	flgG-1; flagellar basal-body rod protein
+heq:HPF32_0952	CDS	complement(1024510..1024980)	hypothetical protein
+heq:HPF32_0953	CDS	complement(1024973..1025902)	DNA-cytosine methyltransferase
+heq:HPF32_0954	CDS	complement(1025911..1027719)	lepA; GTP-binding protein LepA
+heq:HPF32_0955	CDS	complement(1027716..1029566)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+heq:HPF32_0956	CDS	complement(1029569..1030339)	fliH; flagellar assembly protein H
+heq:HPF32_0957	CDS	complement(1030332..1031363)	fliG; flagellar motor switch protein G
+heq:HPF32_0958	CDS	complement(1031382..1033085)	fliF; flagellar MS-ring protein
+heq:HPF32_0959	CDS	complement(1033129..1033791)	hypothetical protein
+heq:HPF32_0960	CDS	1034056..1035672	pyrG; CTP synthetase
+heq:HPF32_0961	CDS	1035681..1037231	recJ; single-stranded-DNA specific exonuclease
+heq:HPF32_0962	CDS	1037231..1038112	sfhB; hypothetical protein
+heq:HPF32_0963	CDS	complement(1038156..1039259)	hypothetical protein
+heq:HPF32_0964	CDS	complement(1039249..1040034)	hypothetical protein
+heq:HPF32_0965	CDS	complement(1040755..1040946)	hypothetical protein
+heq:HPF32_0966	CDS	complement(1040936..1041181)	hypothetical protein
+heq:HPF32_0967	CDS	complement(1041455..1042015)	hypothetical protein
+heq:HPF32_0968	CDS	complement(1041999..1042337)	hypothetical protein
+heq:HPF32_0969	CDS	complement(1042824..1043174)	cysteine-rich protein C
+heq:HPF32_0970	CDS	complement(1043232..1043636)	Holliday junction resolvase-like protein
+heq:HPF32_0971	CDS	complement(1043633..1044433)	dprA; hypothetical protein
+heq:HPF32_0972	CDS	complement(1044445..1044678)	minE; cell division topological specificity factor MinE
+heq:HPF32_0973	CDS	complement(1044675..1045481)	minD; cell division inhibitor
+heq:HPF32_0974	CDS	complement(1045500..1046492)	ilvC; ketol-acid reductoisomerase
+heq:HPF32_t24	tRNA	complement(1046582..1046658)	tRNA-Arg
+heq:HPF32_0975	CDS	1046743..1047525	nadE; NH(3)-dependent NAD+ synthetase
+heq:HPF32_0976	CDS	1047522..1048460	lpxK; tetraacyldisaccharide 4'-kinase
+heq:HPF32_0977	CDS	complement(1048393..1048935)	flaG-1; flagellar biosynthesis protein G
+heq:HPF32_0978	CDS	complement(1048932..1049804)	neuA-2; CMP-N-acetylneuraminic acid synthetase
+heq:HPF32_0979	CDS	complement(1049795..1050478)	neuA; CMP-N-acetylneuraminic acid synthetase
+heq:HPF32_0980	CDS	complement(1050496..1051209)	flgH; flagellar basal body L-ring protein
+heq:HPF32_0981	CDS	1051313..1052077	horC; outer membrane protein HorC
+heq:HPF32_0982	CDS	complement(1052084..1052626)	membrane bound endonuclease
+heq:HPF32_0983	CDS	1052768..1054393	poly E-rich protein
+heq:HPF32_0984	CDS	1054386..1055006	gmk; guanylate kinase
+heq:HPF32_0985	CDS	1055077..1055316	tatA; sec-independent protein translocase protein
+heq:HPF32_0986	CDS	1055319..1056944	argS; arginyl-tRNA synthetase
+heq:HPF32_0987	CDS	1057005..1057760	hypothetical protein
+heq:HPF32_0988	CDS	1058236..1059024	integrase/recombinase (XERCD family)
+heq:HPF32_0989	CDS	1059128..1059607	hypothetical protein
+heq:HPF32_0990	CDS	1059604..1059888	virB2-2; hypothetical protein
+heq:HPF32_0991	CDS	1059899..1060162	virB3-2; hypothetical protein
+heq:HPF32_0992	CDS	1060173..1060409	hypothetical protein
+heq:HPF32_0993	CDS	1060409..1061557	virB4-2; virB4 homolog
+heq:HPF32_0994	CDS	1061646..1062662	virB4-2; virB4 type IV secretion ATPase
+heq:HPF32_0995	CDS	1062619..1066170	hypothetical protein
+heq:HPF32_0996	CDS	1066167..1066292	hypothetical protein
+heq:HPF32_0997	CDS	1066306..1066560	hypothetical protein
+heq:HPF32_0998	CDS	1066781..1066903	hypothetical protein
+heq:HPF32_0999	CDS	1067305..1069368	topA_3; topoisomerase I
+heq:HPF32_1000	CDS	1069423..1069893	hypothetical protein
+heq:HPF32_1001	CDS	1069863..1070663	hypothetical protein
+heq:HPF32_1002	CDS	complement(1070786..1071358)	hypothetical protein
+heq:HPF32_1003	CDS	complement(1071336..1071695)	hypothetical protein
+heq:HPF32_1004	CDS	complement(1071757..1072407)	parA; PARA protein
+heq:HPF32_1005	CDS	1073044..1073208	hypothetical protein
+heq:HPF32_1006	CDS	1073209..1074276	hypothetical protein
+heq:HPF32_1007	CDS	1074276..1075640	hypothetical protein
+heq:HPF32_1008	CDS	1075686..1076252	hypothetical protein
+heq:HPF32_1009	CDS	1076262..1077695	hypothetical protein
+heq:HPF32_1010	CDS	1077692..1078942	virb6; hypothetical protein
+heq:HPF32_1011	CDS	1078954..1080231	hypothetical protein
+heq:HPF32_1012	CDS	complement(1080253..1080981)	hypothetical protein
+heq:HPF32_1013	CDS	1081213..1082190	hypothetical protein
+heq:HPF32_1014	CDS	1082267..1082518	hypothetical protein
+heq:HPF32_1015	CDS	1082490..1083293	hypothetical protein
+heq:HPF32_1016	CDS	complement(1083588..1084595)	hemH; ferrochelatase
+heq:HPF32_1017	CDS	1084651..1085082	hypothetical protein
+heq:HPF32_1018	CDS	1085083..1085763	hypothetical protein
+heq:HPF32_1019	CDS	complement(1085787..1088009)	homC; outer membrane protein HomC
+heq:HPF32_1020	CDS	complement(1088171..1088737)	dcd; deoxycytidine triphosphate deaminase
+heq:HPF32_1021	CDS	1088868..1089338	accB; biotin carboxyl carrier protein
+heq:HPF32_1022	CDS	1089344..1090720	accC; biotin carboxylase
+heq:HPF32_1023	CDS	1090813..1091775	putative type II DNA modification enzyme
+heq:HPF32_1024	CDS	1091775..1092323	Type II restriction enzyme
+heq:HPF32_1025	CDS	1092372..1093010	hypothetical protein
+heq:HPF32_1026	CDS	1093007..1094134	spore coat polysaccharide biosynthesis protein C
+heq:HPF32_t25	tRNA	complement(1094171..1094255)	tRNA-Leu
+heq:HPF32_1027	CDS	1094447..1095472	nrdF; ribonucleotide-diphosphate reductase subunit beta
+heq:HPF32_1028	CDS	1095482..1096111	pcm; protein-L-isoaspartate O-methyltransferase
+heq:HPF32_1029	CDS	1096122..1097159	hypothetical protein
+heq:HPF32_1030	CDS	1097160..1097888	truA; tRNA pseudouridine synthase A
+heq:HPF32_1031	CDS	complement(1097882..1098916)	galE; UDP-glucose 4-epimerase
+heq:HPF32_t26	tRNA	1099030..1099106	tRNA-Ile
+heq:HPF32_t27	tRNA	1099122..1099197	tRNA-Ala
+heq:HPF32_1032	CDS	1099448..1100983	putative outer membrane protein
+heq:HPF32_1033	CDS	1101004..1101756	short chain alcohol dehydrogenase
+heq:HPF32_1034	CDS	complement(1101927..1102799)	hcpC; hypothetical protein
+heq:HPF32_1035	CDS	complement(1102869..1103495)	eda; 2-keto-3-deoxy-6-phosphogluconate aldolase
+heq:HPF32_1036	CDS	complement(1103514..1105340)	edd; phosphogluconate dehydratase
+heq:HPF32_1037	CDS	1105408..1106685	zwf; glucose-6-phosphate 1-dehydrogenase
+heq:HPF32_1038	CDS	1106696..1107379	glucose-6-phosphate 1-dehydrogenase
+heq:HPF32_1039	CDS	1107366..1108376	glk; glucokinase
+heq:HPF32_1040	CDS	1108537..1109583	NADP-dependent alcohol dehydrogenase
+heq:HPF32_1041	CDS	complement(1109595..1110755)	putative lipopolysaccharide biosynthesis protein
+heq:HPF32_1042	CDS	complement(1110893..1112089)	putative lipopolysaccharide biosynthesis protein
+heq:HPF32_1043	CDS	1112279..1113586	hypothetical protein
+heq:HPF32_1044	CDS	complement(1113593..1114255)	horH; outer membrane protein HorH
+heq:HPF32_1045	CDS	1114545..1115105	porG; pyruvate flavodoxin oxidoreductase subunit gamma
+heq:HPF32_1046	CDS	1115121..1115513	porD; pyruvate flavodoxin oxidoreductase subunit delta
+heq:HPF32_1047	CDS	1115523..1116746	porA; pyruvate flavodoxin oxidoreductase subunit alpha
+heq:HPF32_1048	CDS	1116759..1117703	porB; pyruvate ferredoxin oxidoreductase, beta subunit
+heq:HPF32_1049	CDS	1117813..1119135	purB; adenylosuccinate lyase
+heq:HPF32_1050	CDS	1119206..1120039	horI; outer membrane protein HorI
+heq:HPF32_1051	CDS	complement(1120036..1122012)	uvrB; excinuclease ABC subunit B
+heq:HPF32_1052	CDS	complement(1122053..1122265)	hypothetical protein
+heq:HPF32_1053	CDS	complement(1123166..1123936)	hcpX; cysteine-rich protein X
+heq:HPF32_1054	CDS	complement(1124221..1125924)	ggt; gamma-glutamyltranspeptidase
+heq:HPF32_1055	CDS	complement(1126123..1127943)	flgK; flagellar hook-associated protein FlgK
+heq:HPF32_1056	CDS	complement(1127945..1128379)	hypothetical protein
+heq:HPF32_1057	CDS	complement(1128509..1129447)	Type II DNA modification enzyme
+heq:HPF32_1058	CDS	complement(1129594..1129797)	flgM; flgM protein
+heq:HPF32_1059	CDS	complement(1129862..1130068)	hypothetical protein
+heq:HPF32_1060	CDS	complement(1130100..1130657)	slyD; peptidyl-prolyl cis-trans isomerase
+heq:HPF32_1061	CDS	complement(1130644..1131639)	hypothetical protein
+heq:HPF32_1062	CDS	complement(1131647..1132186)	palA; peptidoglycan-associated lipoprotein precursor
+heq:HPF32_1063	CDS	complement(1132253..1133506)	tolB; translocation protein TolB
+heq:HPF32_1064	CDS	complement(1133503..1134291)	hypothetical protein
+heq:HPF32_1065	CDS	complement(1134310..1134711)	exbD-1; biopolymer transport protein
+heq:HPF32_1066	CDS	complement(1134764..1135333)	exbB-1; biopolymer transport protein
+heq:HPF32_1067	CDS	complement(1135344..1135715)	atpC; F0F1 ATP synthase subunit epsilon
+heq:HPF32_1068	CDS	complement(1135726..1137135)	atpD; F0F1 ATP synthase subunit beta
+heq:HPF32_1069	CDS	complement(1137155..1138060)	atpG; F0F1 ATP synthase subunit gamma
+heq:HPF32_1070	CDS	complement(1138075..1139586)	atpA; F0F1 ATP synthase subunit alpha
+heq:HPF32_1071	CDS	complement(1139609..1140151)	atpH; F0F1 ATP synthase subunit delta
+heq:HPF32_1072	CDS	complement(1140152..1140667)	atpF; F0F1 ATP synthase subunit B
+heq:HPF32_1073	CDS	complement(1140671..1141105)	atpF; F0F1 ATP synthase subunit B'
+heq:HPF32_1074	CDS	complement(1141216..1142088)	parB; plasmid replication-partition related protein
+heq:HPF32_1075	CDS	complement(1142091..1142888)	parA; SpoOJ regulator
+heq:HPF32_1076	CDS	complement(1142891..1143529)	birA; biotin--protein ligase
+heq:HPF32_1077	CDS	complement(1143526..1144437)	fmt; methionyl-tRNA formyltransferase
+heq:HPF32_1078	CDS	complement(1144400..1145014)	ATPase
+heq:HPF32_1079	CDS	complement(1145029..1147038)	ATPase
+heq:HPF32_1080	CDS	complement(1147080..1148381)	hypothetical protein
+heq:HPF32_r03	rRNA	complement(1149268..1150770)	16S ribosomal RNA
+heq:HPF32_1081	CDS	complement(1151497..1152294)	hypothetical protein
+heq:HPF32_1082	CDS	complement(1152600..1152956)	rplS; 50S ribosomal protein L19
+heq:HPF32_1083	CDS	complement(1152978..1153667)	trmD; tRNA (guanine-N(1)-)-methyltransferase
+heq:HPF32_1084	CDS	complement(1153668..1154222)	rimM; 16S rRNA processing protein
+heq:HPF32_1085	CDS	complement(1154223..1154570)	hypothetical protein
+heq:HPF32_1086	CDS	complement(1154587..1154817)	rpsP; 30S ribosomal protein S16
+heq:HPF32_1087	CDS	complement(1154891..1156237)	ffh; signal recognition particle protein
+heq:HPF32_1088	CDS	complement(1156252..1158870)	valS; valyl-tRNA synthetase
+heq:HPF32_1089	CDS	1159004..1159411	fliW-1; flagellar assembly protein FliW
+heq:HPF32_1090	CDS	1159423..1160484	murG; N-acetylglucosaminyl transferase
+heq:HPF32_1091	CDS	1160592..1162694	hopI; outer membrane protein HopI
+heq:HPF32_1092	CDS	1162717..1166457	hopL; outer membrane protein HopL
+heq:HPF32_1093	CDS	1166471..1167244	proC; pyrroline-5-carboxylate reductase
+heq:HPF32_1094	CDS	1167272..1167805	fic; cell filamentation protein
+heq:HPF32_1095	CDS	complement(1167863..1168285)	putative metalloprotease
+heq:HPF32_1096	CDS	complement(1168338..1168832)	fldA; flavodoxin FldA
+heq:HPF32_1097	CDS	complement(1168922..1169503)	hypothetical protein
+heq:HPF32_1098	CDS	1169626..1169817	fixS; cation transport subunit for cbb3-type oxidase
+heq:HPF32_1099	CDS	1169843..1170811	trxB_2; thioredoxin reductase
+heq:HPF32_1100	CDS	complement(1170825..1171985)	hypothetical protein
+heq:HPF32_1101	CDS	1172049..1173686	pgi; glucose-6-phosphate isomerase
+heq:HPF32_1102	CDS	1173993..1175408	hofH; outer membrane protein HofH
+heq:HPF32_1103	CDS	complement(1175714..1177777)	cstA; carbon starvation protein
+heq:HPF32_1104	CDS	1177988..1178641	glnP; glutamine ABC transporter, permease protein
+heq:HPF32_1105	CDS	1178644..1179315	glnP; glutamine ABC transporter, permease protein
+heq:HPF32_1106	CDS	1179317..1180063	glnQ; glutamine ABC transporter, ATP-binding protein
+heq:HPF32_1107	CDS	1180112..1180945	glutamine ABC transporter, periplasmic glutamine-binding protein
+heq:HPF32_1108	CDS	1181066..1181617	hypothetical protein
+heq:HPF32_1109	CDS	complement(1181839..1183050)	gluP; glucose/galactose transporter
+heq:HPF32_1110	CDS	complement(1183180..1184487)	hypothetical protein
+heq:HPF32_1111	CDS	complement(1184909..1186831)	hopQ; outer membrane protein
+heq:HPF32_1112	CDS	complement(1187101..1187805)	deoD; purine-nucleoside phosphorylase
+heq:HPF32_1113	CDS	complement(1187802..1189043)	deoB; phosphopentomutase
+heq:HPF32_1114	CDS	complement(1189055..1190311)	nupC; pyrimidine nucleoside transport protein
+heq:HPF32_t28	tRNA	complement(1190416..1190493)	tRNA-Met
+heq:HPF32_1115	CDS	1190637..1191968	multidrug-efflux transporter
+heq:HPF32_1116	CDS	1191987..1192748	hypothetical protein
+heq:HPF32_1117	CDS	complement(1192758..1193909)	kefB_1; NA+/H+ antiporter
+heq:HPF32_1118	CDS	complement(1193933..1195312)	hypothetical protein
+heq:HPF32_1119	CDS	complement(1195473..1196648)	sugar efflux transporter
+heq:HPF32_1120	CDS	1196924..1197667	carbonic anhydrase
+heq:HPF32_1121	CDS	complement(1197897..1198853)	hypothetical protein
+heq:HPF32_1122	CDS	complement(1199474..1200514)	asd; aspartate-semialdehyde dehydrogenase
+heq:HPF32_1123	CDS	complement(1200501..1201829)	hisS; histidyl-tRNA synthetase
+heq:HPF32_1124	CDS	1201891..1202940	waaF; ADP-heptose-lps heptosyltransferase II
+heq:HPF32_1125	CDS	complement(1203143..1203361)	hypothetical protein
+heq:HPF32_1126	CDS	complement(1203892..1205970)	fusA; elongation factor G
+heq:HPF32_1127	CDS	complement(1205982..1206449)	rpsG; 30S ribosomal protein S7
+heq:HPF32_1128	CDS	complement(1206465..1206872)	rpsL; 30S ribosomal protein S12
+heq:HPF32_1129	CDS	complement(1206960..1215632)	rpoB; DNA-directed RNA polymerase subunit beta/beta'
+heq:HPF32_1130	CDS	complement(1215857..1216234)	rplL; 50S ribosomal protein L7/L12
+heq:HPF32_1131	CDS	complement(1216279..1216773)	rplJ; 50S ribosomal protein L10
+heq:HPF32_1132	CDS	complement(1216882..1217586)	rplA; 50S ribosomal protein L1
+heq:HPF32_1133	CDS	complement(1217631..1218056)	rplK; 50S ribosomal protein L11
+heq:HPF32_1134	CDS	complement(1218074..1218604)	nusG; transcription antitermination protein NusG
+heq:HPF32_1135	CDS	complement(1218631..1218810)	secE; preprotein translocase subunit SecE
+heq:HPF32_t29	tRNA	complement(1218953..1219028)	tRNA-Trp
+heq:HPF32_1136	CDS	complement(1219068..1219226)	rpmG; 50S ribosomal protein L33
+heq:HPF32_1137	CDS	complement(1219260..1220459)	tuf; elongation factor Tu
+heq:HPF32_t30	tRNA	complement(1220586..1220660)	tRNA-Thr
+heq:HPF32_t31	tRNA	complement(1220691..1220767)	tRNA-Gly
+heq:HPF32_t32	tRNA	complement(1220783..1220867)	tRNA-Tyr
+heq:HPF32_t33	tRNA	complement(1220895..1220970)	tRNA-Thr
+heq:HPF32_1138	CDS	1221163..1222899	ABC-transporter, ATP-binding domain
+heq:HPF32_1139	CDS	complement(1222908..1223576)	hypothetical protein
+heq:HPF32_1140	CDS	complement(1223679..1224668)	M.HpyI; Type II modification enzyme M.HpyI
+heq:HPF32_1141	CDS	complement(1224677..1225363)	ulcer-associated gene restriction endonuclease
+heq:HPF32_1142	CDS	complement(1225415..1225930)	cysE; serine acetyltransferase
+heq:HPF32_t34	tRNA	complement(1226297..1226383)	tRNA-Leu
+heq:HPF32_t35	tRNA	complement(1226437..1226523)	tRNA-Leu
+heq:HPF32_1143	CDS	complement(1226592..1226909)	atpE; F0F1 ATP synthase subunit C
+heq:HPF32_1144	CDS	complement(1227046..1229112)	pnp; polynucleotide phosphorylase/polyadenylase
+heq:HPF32_1145	CDS	complement(1229115..1229819)	hypothetical protein
+heq:HPF32_1146	CDS	complement(1229834..1232095)	imp; organic solvent tolerance protein
+heq:HPF32_1147	CDS	complement(1232098..1232577)	hypothetical protein
+heq:HPF32_1148	CDS	complement(1232619..1233893)	purD; glycinamide ribonucleotide synthetase
+heq:HPF32_1149	CDS	complement(1234205..1234891)	yhcG; ABC transporter, ATP-binding protein
+heq:HPF32_1150	CDS	complement(1234885..1235589)	putative undecaprenyl pyrophosphate synthase
+heq:HPF32_1151	CDS	complement(1235629..1238469)	dld; D-lactate dehydrogenase
+heq:HPF32_1152	CDS	1238541..1238873	hypothetical protein
+heq:HPF32_1153	CDS	1238894..1239556	hemD; uroporphyrinogen-III synthase
+heq:HPF32_1154	CDS	1239603..1239995	crcB; hypothetical protein
+heq:HPF32_1155	CDS	complement(1240047..1241084)	hemN_2; coproporphyrinogen III oxidase
+heq:HPF32_1156	CDS	1241180..1241470	hypothetical protein
+heq:HPF32_1157	CDS	1241629..1242102	mutT; dinucleoside polyphosphate hydrolase
+heq:HPF32_1158	CDS	1242096..1243313	lysC; aspartate kinase
+heq:HPF32_1159	CDS	1243310..1243852	hypothetical protein
+heq:HPF32_1160	CDS	1243849..1244505	holB; DNA polymerase III subunit delta'
+heq:HPF32_1161	CDS	1244502..1245644	folP; dihydropteroate synthase
+heq:HPF32_1162	CDS	complement(1245669..1246130)	hypothetical protein
+heq:HPF32_1163	CDS	1246524..1247420	hypothetical protein
+heq:HPF32_1164	CDS	1247424..1248671	hypothetical protein
+heq:HPF32_1165	CDS	1248750..1249301	hypothetical protein
+heq:HPF32_1166	CDS	1249301..1250428	carA; carbamoyl phosphate synthase small subunit
+heq:HPF32_1167	CDS	1250594..1251598	amiF; formamidase
+heq:HPF32_1168	CDS	complement(1252269..1252556)	hypothetical protein
+heq:HPF32_1169	CDS	complement(1252664..1253236)	maf; Maf-like protein
+heq:HPF32_1170	CDS	complement(1253238..1255781)	alaS; alanyl-tRNA synthetase
+heq:HPF32_1171	CDS	1255900..1256130	hypothetical protein
+heq:HPF32_1172	CDS	complement(1256822..1258072)	babB; outer membrane protein BabB
+heq:HPF32_1173	CDS	complement(1258188..1258934)	babB; outer membrane protein
+heq:HPF32_1174	CDS	complement(1259484..1259741)	rpsR; 30S ribosomal protein S18
+heq:HPF32_1175	CDS	complement(1259765..1260310)	ssb; single-strand DNA-binding protein
+heq:HPF32_1176	CDS	complement(1260320..1260748)	rpsF; 30S ribosomal protein S6
+heq:HPF32_1177	CDS	complement(1260891..1261913)	DNA polymerase III subunit delta
+heq:HPF32_1178	CDS	complement(1261903..1263837)	vacB; 3'-5' exoribonuclease R
+heq:HPF32_1179	CDS	complement(1263837..1264628)	aroE; shikimate 5-dehydrogenase
+heq:HPF32_1180	CDS	complement(1264636..1265214)	hypothetical protein
+heq:HPF32_1181	CDS	complement(1265235..1266281)	putative peptide ABC transporter, ATP-binding protein
+heq:HPF32_1182	CDS	complement(1266278..1268065)	hypothetical protein
+heq:HPF32_1183	CDS	complement(1268066..1269046)	trpS; tryptophanyl-tRNA synthetase
+heq:HPF32_1184	CDS	complement(1269118..1269840)	bioC; biotin synthesis protein
+heq:HPF32_1185	CDS	1269965..1270564	secG; preprotein translocase subunit SecG
+heq:HPF32_1186	CDS	1270564..1271121	frr; ribosome recycling factor
+heq:HPF32_1187	CDS	1271125..1271730	pyrE; orotate phosphoribosyltransferase
+heq:HPF32_1188	CDS	1271720..1272184	conserved hypothetical mitochondrial protein-like protein 4
+heq:HPF32_1189	CDS	1272181..1272870	hypothetical protein
+heq:HPF32_1190	CDS	1272983..1273384	nuoA; NADH dehydrogenase subunit A
+heq:HPF32_1191	CDS	1273384..1273863	nuoB; NADH dehydrogenase subunit B
+heq:HPF32_1192	CDS	1273863..1274660	nuoC; NADH dehydrogenase subunit C
+heq:HPF32_1193	CDS	1274662..1275891	nuoD; NADH dehydrogenase subunit D
+heq:HPF32_1194	CDS	1275888..1276118	nuoE; NADH-ubiquinone oxidoreductase chain E
+heq:HPF32_1195	CDS	1276121..1277107	nuoF; putative NADH oxidoreductase I
+heq:HPF32_1196	CDS	1277104..1279638	nuoG; NADH dehydrogenase subunit G
+heq:HPF32_1197	CDS	1279635..1280624	nuoH; NADH dehydrogenase subunit H
+heq:HPF32_1198	CDS	1280634..1281296	nuoI; NADH dehydrogenase subunit I
+heq:HPF32_1199	CDS	1281289..1281837	nuoJ; NADH dehydrogenase subunit J
+heq:HPF32_1200	CDS	1281834..1282136	nuoK; NADH dehydrogenase subunit K
+heq:HPF32_1201	CDS	1282139..1283977	nuoL; NADH dehydrogenase subunit L
+heq:HPF32_1202	CDS	1283981..1285519	nuoM; NADH dehydrogenase subunit M
+heq:HPF32_1203	CDS	1285506..1286978	nuoN; NADH dehydrogenase subunit N
+heq:HPF32_1204	CDS	1286968..1289379	pflA; paralysed flagella protein
+heq:HPF32_1205	CDS	1289381..1290757	algC; phosphomannomutase
+heq:HPF32_1206	CDS	complement(1291470..1292258)	trpA; tryptophan synthase subunit alpha
+heq:HPF32_1207	CDS	complement(1292260..1293435)	trpB; tryptophan synthase subunit beta
+heq:HPF32_1208	CDS	complement(1293437..1294795)	trpC; bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+heq:HPF32_1209	CDS	complement(1294788..1295795)	trpD; anthranilate phosphoribosyltransferase
+heq:HPF32_1210	CDS	complement(1295792..1296376)	trpG; anthranilate synthase component II
+heq:HPF32_1211	CDS	complement(1296373..1297932)	trpE; anthranilate synthase component I
+heq:HPF32_1212	CDS	complement(1298103..1299161)	hypothetical protein
+heq:HPF32_1213	CDS	complement(1299228..1299965)	hypothetical protein
+heq:HPF32_1214	CDS	1300089..1300637	conserved hypothetical secreted protein
+heq:HPF32_1215	CDS	1301226..1301882	putative transcriptional regulator
+heq:HPF32_1216	CDS	1302004..1302663	pnuC; nicotinamide mononucleotide transporter
+heq:HPF32_1217	CDS	1302654..1303268	hypothetical protein
+heq:HPF32_1218	CDS	complement(1303766..1304116)	rplQ; 50S ribosomal protein L17
+heq:HPF32_1219	CDS	complement(1304116..1305150)	rpoA; DNA-directed RNA polymerase subunit alpha
+heq:HPF32_1220	CDS	complement(1305162..1305788)	rpsD; 30S ribosomal protein S4
+heq:HPF32_1221	CDS	complement(1305798..1306193)	rpsK; 30S ribosomal protein S11
+heq:HPF32_1222	CDS	complement(1306216..1306578)	rpsM; 30S ribosomal protein S13
+heq:HPF32_1223	CDS	complement(1306582..1306695)	rpmJ; hypothetical protein
+heq:HPF32_1224	CDS	complement(1306774..1306992)	infA; translation initiation factor IF-1
+heq:HPF32_1225	CDS	complement(1306992..1307753)	map; methionine aminopeptidase
+heq:HPF32_1226	CDS	complement(1307753..1309015)	secY; preprotein translocase subunit SecY
+heq:HPF32_1227	CDS	complement(1309053..1309454)	rplO; 50S ribosomal protein L15
+heq:HPF32_1228	CDS	complement(1309472..1309933)	rpsE; 30S ribosomal protein S5
+heq:HPF32_1229	CDS	complement(1309930..1310286)	rplR; 50S ribosomal protein L18
+heq:HPF32_1230	CDS	complement(1310300..1310836)	rplF; 50S ribosomal protein L6
+heq:HPF32_1231	CDS	complement(1310847..1311242)	rpsH; 30S ribosomal protein S8
+heq:HPF32_1232	CDS	complement(1311252..1311437)	rpsN; 30S ribosomal protein S14
+heq:HPF32_1233	CDS	complement(1311447..1311992)	rplE; 50S ribosomal protein L5
+heq:HPF32_1234	CDS	complement(1312005..1312226)	rplX; 50S ribosomal protein L24
+heq:HPF32_1235	CDS	complement(1312226..1312594)	rplN; 50S ribosomal protein L14
+heq:HPF32_1236	CDS	complement(1312597..1312857)	rpsQ; 30S ribosomal protein S17
+heq:HPF32_1237	CDS	complement(1312872..1313072)	rpmC; 50S ribosomal protein L29
+heq:HPF32_1238	CDS	complement(1313059..1313484)	rplP; 50S ribosomal protein L16
+heq:HPF32_1239	CDS	complement(1313487..1314191)	rpsC; 30S ribosomal protein S3
+heq:HPF32_1240	CDS	complement(1314195..1314563)	rplV; 50S ribosomal protein L22
+heq:HPF32_1241	CDS	complement(1314573..1314854)	rpsS; 30S ribosomal protein S19
+heq:HPF32_1242	CDS	complement(1314866..1315696)	rplB; 50S ribosomal protein L2
+heq:HPF32_1243	CDS	complement(1315712..1315993)	rplW; 50S ribosomal protein L23
+heq:HPF32_1244	CDS	complement(1315997..1316644)	rplD; 50S ribosomal protein L4
+heq:HPF32_1245	CDS	complement(1316679..1317254)	rplC; 50S ribosomal protein L3
+heq:HPF32_1246	CDS	complement(1317291..1317605)	rpsJ; 30S ribosomal protein S10
+heq:HPF32_1247	CDS	1317770..1318897	conserved hypothetical ATP-binding protein
+heq:HPF32_1248	CDS	1319159..1319740	hypothetical protein
+heq:HPF32_1249	CDS	complement(1319714..1320328)	rnhB; ribonuclease HII
+heq:HPF32_1250	CDS	complement(1320358..1320609)	hypothetical protein
+heq:HPF32_1251	CDS	complement(1320632..1322023)	fumC; fumarate hydratase
+heq:HPF32_1252	CDS	1322199..1322576	hypothetical protein
+heq:HPF32_1253	CDS	1322581..1323819	hefG; outer membrane protein HefG
+heq:HPF32_1254	CDS	1323816..1324814	czcB; cation efflux system protein
+heq:HPF32_1255	CDS	1324815..1327928	czcA; cation efflux system protein
+heq:HPF32_1256	CDS	complement(1327925..1328272)	hypothetical protein
+heq:HPF32_1257	CDS	complement(1328266..1328952)	branched-chain amino acid transport protein
+heq:HPF32_1258	CDS	complement(1328963..1330072)	dnaJ; co-chaperone and heat shock protein
+heq:HPF32_1259	CDS	1330251..1331327	hypothetical protein
+heq:HPF32_1260	CDS	1331532..1332173	hypothetical protein
+heq:HPF32_1261	CDS	complement(1332234..1333262)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+heq:HPF32_1262	CDS	1333400..1334161	hypothetical protein
+heq:HPF32_1263	CDS	complement(1334158..1334682)	hypothetical protein
+heq:HPF32_1264	CDS	complement(1334666..1335112)	nickel responsive regulator
+heq:HPF32_1265	CDS	1335419..1335856	exbB-2; biopolymer transport protein
+heq:HPF32_1266	CDS	1335853..1336242	exbD-2; biopolymer transport protein
+heq:HPF32_1267	CDS	1336208..1337059	tonB; siderophore-mediated iron transport protein
+heq:HPF32_1268	CDS	1337238..1337525	fusion protein of dpnA and hopN
+heq:HPF32_1269	CDS	1337577..1338569	hypothetical protein
+heq:HPF32_1270	CDS	1338566..1340818	hypF; transcriptional regulator
+heq:HPF32_1271	CDS	1340821..1341819	hypE; hydrogenase expression/formation protein
+heq:HPF32_1272	CDS	complement(1342069..1343001)	nolK; nodulation protein
+heq:HPF32_1273	CDS	complement(1342994..1344139)	gmd; GDP-D-mannose dehydratase
+heq:HPF32_1274	CDS	complement(1344153..1345565)	algA; mannose-6-phosphate isomerase
+heq:HPF32_1275	CDS	complement(1345635..1346771)	comB10; comB10 competence protein
+heq:HPF32_1276	CDS	complement(1346764..1347729)	comB9; comB9 competence protein
+heq:HPF32_1277	CDS	complement(1347729..1348472)	comB1; comB8 competence protein
+heq:HPF32_1278	CDS	complement(1348610..1349665)	comB6; NADH-ubiquinone oxidoreductase subunit
+heq:HPF32_1279	CDS	complement(1349671..1350666)	hypothetical protein
+heq:HPF32_1280	CDS	complement(1350666..1350959)	ybaB; hypothetical protein
+heq:HPF32_1281	CDS	complement(1350962..1351315)	panD; aspartate alpha-decarboxylase
+heq:HPF32_1282	CDS	complement(1351305..1353530)	clpA; ATP-dependent C1p protease
+heq:HPF32_1283	CDS	complement(1353530..1353805)	clpS; hypothetical protein
+heq:HPF32_1284	CDS	complement(1353825..1354238)	hypothetical protein
+heq:HPF32_1285	CDS	1354516..1354815	hypothetical protein
+heq:HPF32_1286	CDS	1354819..1355475	bioD; dethiobiotin synthetase
+heq:HPF32_1287	CDS	complement(1355452..1355985)	hypothetical protein
+heq:HPF32_1288	CDS	complement(1356050..1357327)	icd; isocitrate dehydrogenase
+heq:HPF32_1289	CDS	1357526..1358806	gltA; Type II citrate synthase
+heq:HPF32_1290	CDS	complement(1359241..1359531)	putative endonuclease, split and separated by inversion, N-terminus part
+heq:HPF32_1291	CDS	complement(1359656..1361461)	mod-4; putative type III restriction enzyme M protein
+heq:HPF32_1292	CDS	complement(1361455..1363794)	res_1; putative type III restriction enzyme
+heq:HPF32_1293	CDS	1364206..1365054	bioB; biotin synthase
+heq:HPF32_1294	CDS	1365051..1365932	rbn; putative ribonuclease N
+heq:HPF32_1295	CDS	complement(1366648..1367151)	hypothetical protein
+heq:HPF32_r04	rRNA	complement(1367330..1367464)	5S ribosomal RNA
+heq:HPF32_r05	rRNA	complement(1367687..1370660)	23S ribosomal RNA
+heq:HPF32_1296	CDS	1371623..1372063	hypothetical protein
+heq:HPF32_1297	CDS	1372106..1373941	hypothetical protein
+heq:HPF32_1298	CDS	1374079..1374936	hypothetical protein
+heq:HPF32_1299	CDS	complement(1375065..1375511)	7-cyano-7-deazaguanine reductase
+heq:HPF32_1300	CDS	1375570..1375911	hypothetical protein
+heq:HPF32_1301	CDS	1375970..1376812	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+heq:HPF32_1302	CDS	1376817..1377920	lipopolysaccharide 1,2-glucosyltransferase
+heq:HPF32_1303	CDS	1377930..1378733	hypothetical protein
+heq:HPF32_1304	CDS	1378744..1379595	hypothetical protein
+heq:HPF32_1305	CDS	complement(1379640..1380419)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+heq:HPF32_1306	CDS	complement(1380423..1380689)	fliQ; flagellar biosynthesis protein FliQ
+heq:HPF32_1307	CDS	complement(1380700..1382004)	fliI; flagellum-specific ATP synthase
+heq:HPF32_1308	CDS	complement(1382005..1382919)	virB11-4; Type IV secretion system ATPase
+heq:HPF32_1309	CDS	complement(1382935..1385697)	ileS; isoleucyl-tRNA synthetase
+heq:HPF32_1310	CDS	complement(1385730..1385987)	hypothetical protein
+heq:HPF32_1311	CDS	1386089..1386709	hypothetical protein
+heq:HPF32_1312	CDS	complement(1387421..1388494)	hypothetical protein
+heq:HPF32_1313	CDS	complement(1388491..1389480)	polysialic acid capsule expression protein
+heq:HPF32_1314	CDS	complement(1389464..1391536)	conserved hypothetical ATP-binding protein
+heq:HPF32_1315	CDS	complement(1391574..1392389)	ksgA; dimethyladenosine transferase
+heq:HPF32_1316	CDS	1392653..1392907	hypothetical protein
+heq:HPF32_1317	CDS	1393095..1393220	hypothetical protein
+heq:HPF32_1318	CDS	complement(1393432..1395882)	hypothetical protein
+heq:HPF32_1319	CDS	complement(1395883..1396764)	purU; formyltetrahydrofolate hydrolase
+heq:HPF32_1320	CDS	complement(1396767..1397645)	sppA; protease IV
+heq:HPF32_1321	CDS	1397716..1397988	hypothetical protein
+heq:HPF32_1322	CDS	1398340..1398660	hypothetical protein
+heq:HPF32_1323	CDS	1398657..1398902	hypothetical protein
+heq:HPF32_1324	CDS	1398913..1399392	hypothetical protein
+heq:HPF32_1325	CDS	1399404..1399853	hypothetical protein
+heq:HPF32_1326	CDS	complement(1400266..1400532)	hypothetical protein
+heq:HPF32_r06	rRNA	complement(1400761..1402263)	16S ribosomal RNA
+heq:HPF32_1327	CDS	complement(1402750..1403532)	hypothetical protein
+heq:HPF32_1328	CDS	1403653..1404141	ppiA; peptidyl-prolyl cis-trans isomerase B, cyclosporin-type rotamase
+heq:HPF32_1329	CDS	1404159..1404389	csrA; carbon storage regulator
+heq:HPF32_1330	CDS	1404389..1405192	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+heq:HPF32_1331	CDS	1405189..1405647	smpB; SsrA-binding protein
+heq:HPF32_1332	CDS	1405650..1406102	exbB-3; biopolymer transport protein
+heq:HPF32_1333	CDS	1406113..1406514	exbD-3; biopolymer transport protein
+heq:HPF32_1334	CDS	1406586..1406720	rpmH; 50S ribosomal protein L34
+heq:HPF32_1335	CDS	1406680..1407165	rnpA; ribonuclease P, protein component
+heq:HPF32_1336	CDS	1407146..1407508	hypothetical protein
+heq:HPF32_1337	CDS	1407514..1409154	yidC; putative inner membrane protein translocase component YidC
+heq:HPF32_1338	CDS	1409154..1409957	hypothetical protein
+heq:HPF32_1339	CDS	1409950..1411302	trmE; tRNA modification GTPase TrmE
+heq:HPF32_1340	CDS	1411505..1413745	homD; outer membrane protein HomD
+heq:HPF32_1341	CDS	complement(1414480..1415391)	hypothetical protein
+heq:HPF32_1342	CDS	complement(1415401..1415742)	hypothetical protein
+heq:HPF32_1343	CDS	complement(1415750..1416277)	lpp20; membrane-associated lipoprotein
+heq:HPF32_1344	CDS	complement(1416301..1416933)	hypothetical protein
+heq:HPF32_1345	CDS	complement(1417292..1417606)	trxA_1; thioredoxin
+heq:HPF32_1346	CDS	complement(1417661..1418434)	hypothetical protein
+heq:HPF32_1347	CDS	complement(1418431..1422066)	dnaE; DNA polymerase III subunit alpha
+heq:HPF32_1348	CDS	1422214..1423266	yhjA; cytochrome c551 peroxidase
+heq:HPF32_1349	CDS	complement(1423663..1424250)	putative secreted motility protein
+heq:HPF32_1350	CDS	complement(1424269..1424946)	hypothetical protein
+heq:HPF32_1351	CDS	complement(1424949..1425764)	ABC transport system substrate binding protein
+heq:HPF32_1352	CDS	complement(1425749..1426534)	ABC transporter ATP-binding protein
+heq:HPF32_1353	CDS	complement(1426534..1427667)	hypothetical protein
+heq:HPF32_1354	CDS	1427801..1428496	outer membrane protein
+heq:HPF32_1355	CDS	complement(1428500..1429522)	ilvE; branched-chain amino acid aminotransferase
+heq:HPF32_1356	CDS	complement(1429573..1430319)	horJ; outer membrane protein HorJ
+heq:HPF32_1357	CDS	complement(1430433..1433114)	polA; DNA polymerase I
+heq:HPF32_1358	CDS	complement(1433180..1434439)	Type II restriction-modification specificity subunit
+heq:HPF32_1359	CDS	complement(1434436..1436475)	Type IIG restriction-modification enzyme
+heq:HPF32_1360	CDS	complement(1436508..1437083)	hypothetical protein
+heq:HPF32_1361	CDS	complement(1437071..1437646)	tdk; thymidylate kinase
+heq:HPF32_1362	CDS	complement(1437648..1438121)	coaD; phosphopantetheine adenylyltransferase
+heq:HPF32_1363	CDS	complement(1438121..1438684)	ubiD; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+heq:HPF32_1364	CDS	complement(1438694..1439350)	flgA; flagellar basal body P-ring biosynthesis protein FlgA
+heq:HPF32_1365	CDS	complement(1439347..1441392)	rep; DNA helicase II
+heq:HPF32_1366	CDS	complement(1441392..1443932)	hypothetical protein
+heq:HPF32_1367	CDS	complement(1443942..1445189)	serS; seryl-tRNA synthetase
+heq:HPF32_1368	CDS	complement(1445190..1445987)	hypothetical protein
+heq:HPF32_1369	CDS	complement(1445991..1446251)	hypothetical protein
+heq:HPF32_1370	CDS	complement(1446261..1446992)	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+heq:HPF32_1371	CDS	complement(1447036..1447482)	hypothetical protein
+heq:HPF32_1372	CDS	complement(1447493..1448065)	hypothetical protein
+heq:HPF32_1373	CDS	complement(1448052..1449182)	hypothetical protein
+heq:HPF32_1374	CDS	complement(1449179..1450276)	hypothetical protein
+heq:HPF32_1375	CDS	complement(1450288..1451277)	conserved hypothetical secreted protein
+heq:HPF32_1376	CDS	complement(1451289..1452821)	lipase-like protein
+heq:HPF32_1377	CDS	complement(1452818..1454224)	hypothetical protein
+heq:HPF32_1378	CDS	complement(1454267..1455868)	phosphate permease
+heq:HPF32_1379	CDS	1456009..1456278	conserved hypothetical nifU-like protein
+heq:HPF32_1380	CDS	1456290..1456901	hypothetical protein
+heq:HPF32_1381	CDS	1456905..1458248	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+heq:HPF32_1382	CDS	1458252..1459202	tal; transaldolase
+heq:HPF32_1383	CDS	1459257..1459793	rplY; 50S ribosomal protein L25/general stress protein Ctc
+heq:HPF32_1384	CDS	1459803..1460363	pth; peptidyl-tRNA hydrolase
+heq:HPF32_1385	CDS	1460418..1461485	hypothetical protein
+heq:HPF32_1386	CDS	1461542..1462543	Type II methylase
+heq:HPF32_1387	CDS	1462594..1463439	Type II adenine specific DNA methyltransferase
+heq:HPF32_1388	CDS	1463446..1464618	restriction endonuclease
+heq:HPF32_1389	CDS	1464629..1465042	Type II restriction enzyme
+heq:HPF32_1390	CDS	complement(1465106..1466236)	hopK-3; putative outer membrane protein
+heq:HPF32_1391	CDS	1466452..1466889	hypothetical protein
+heq:HPF32_1392	CDS	complement(1466886..1469249)	fixI; putative cation transporting P-type ATPase
+heq:HPF32_1393	CDS	complement(1469275..1469991)	hypothetical protein
+heq:HPF32_1394	CDS	complement(1469973..1471007)	ribD; riboflavin biosynthesis protein
+heq:HPF32_1395	CDS	complement(1471004..1472230)	gltS; sodium/glutamate symport carrier protein/glutamate permease
+heq:HPF32_1396	CDS	1472316..1473515	hypothetical protein
+heq:HPF32_1397	CDS	complement(1473525..1474901)	ferrodoxin-like protein
+heq:HPF32_1398	CDS	1475007..1475669	hypothetical protein
+heq:HPF32_1399	CDS	1475666..1476019	folB; dihydroneopterin aldolase
+heq:HPF32_1400	CDS	1476003..1476329	frpB-4; iron-regulated outer membrane protein FrpB4
+heq:HPF32_1401	CDS	1476484..1479075	frpB-4; putative IRON-regulated outer membrane protein
+heq:HPF32_1402	CDS	1479299..1480459	selA; selenocysteine synthase
+heq:HPF32_1403	CDS	1480548..1481735	nusA; transcription elongation factor NusA
+heq:HPF32_1404	CDS	complement(1482045..1485845)	Type IIG restriction-modification enzyme
+heq:HPF32_1405	CDS	complement(1485951..1487252)	res-4; Type III restriction enzyme
+heq:HPF32_1406	CDS	complement(1487280..1488866)	res-4; Type III restriction enzyme
+heq:HPF32_1407	CDS	complement(1488869..1489456)	mod-5; Type III DNA modification enzyme
+heq:HPF32_1408	CDS	complement(1489453..1490772)	mod-5; Type III DNA modification enzyme
+heq:HPF32_1409	CDS	complement(1490815..1492680)	recG; DNA recombinase
+heq:HPF32_1410	CDS	1492762..1493115	hypothetical protein
+heq:HPF32_1411	CDS	1493119..1493754	hypothetical protein
+heq:HPF32_1412	CDS	complement(1493751..1494503)	exoA; exodeoxyribonuclease
+heq:HPF32_t36	tRNA	1494605..1494680	tRNA-Phe
+heq:HPF32_1413	CDS	complement(1494683..1496122)	comH; periplasmic competence protein
+heq:HPF32_1414	CDS	complement(1496342..1497709)	dnaA; chromosomal replication initiation protein
+heq:HPF32_1415	CDS	1497863..1498405	purine nucleoside phosphorylase
+heq:HPF32_1416	CDS	1498441..1498680	hypothetical protein
+heq:HPF32_1417	CDS	1498681..1500474	glmS; D-fructose-6-phosphate amidotransferase
+heq:HPF32_1418	CDS	1500495..1501121	thyX; FAD-dependent thymidylate synthase
+heq:HPF32_1419	CDS	complement(1501475..1502596)	Type I R-M system specificity subunit
+heq:HPF32_1420	CDS	complement(1502605..1505070)	hsdM-3; Type I restriction enzyme M protein
+heq:HPF32_1421	CDS	1505136..1508111	hsdR_3; Type I restriction enzyme R protein
+heq:HPF32_1422	CDS	1508111..1508818	hypothetical protein
+heq:HPF32_1423	CDS	complement(1508908..1511433)	fecA_3; iron(III) dicitrate transport protein
+heq:HPF32_1424	CDS	complement(1511721..1512689)	rocF; arginase
+heq:HPF32_1425	CDS	complement(1512702..1514129)	amino acid permease
+heq:HPF32_1426	CDS	1514331..1515473	ald; alanine dehydrogenase
+heq:HPF32_1427	CDS	1515595..1517343	hypothetical protein
+heq:HPF32_1428	CDS	complement(1517354..1518082)	horL; outer membrane protein HorL
+heq:HPF32_1429	CDS	1518269..1519123	inorganic polyphosphate/ATP-NAD kinase
+heq:HPF32_1430	CDS	1519136..1520710	recN; DNA repair protein
+heq:HPF32_1431	CDS	1520707..1522014	fibronectin/fibrinogen-binding protein
+heq:HPF32_1432	CDS	1522033..1522329	hypothetical protein
+heq:HPF32_1433	CDS	1522584..1523111	hypothetical protein
+heq:HPF32_1434	CDS	complement(1523108..1523287)	hypothetical protein
+heq:HPF32_1435	CDS	complement(1523630..1523902)	hypothetical protein
+heq:HPF32_1436	CDS	complement(1524278..1525141)	dnaQ; DNA polymerase III subunit epsilon
+heq:HPF32_1437	CDS	complement(1525119..1525772)	rpe; ribulose-phosphate 3-epimerase
+heq:HPF32_1438	CDS	1525843..1526715	fbp; fructose-1,6-bisphosphatase
+heq:HPF32_1439	CDS	1526715..1526918	hypothetical protein
+heq:HPF32_1440	CDS	1526931..1527827	putative type II methylase protein
+heq:HPF32_1441	CDS	1527820..1528551	Type II restriction enzyme
+heq:HPF32_1442	CDS	complement(1528567..1528890)	hypothetical protein
+heq:HPF32_1443	CDS	complement(1529160..1530227)	tsf; elongation factor Ts
+heq:HPF32_1444	CDS	complement(1530227..1531021)	rpsB; 30S ribosomal protein S2
+heq:HPF32_1445	CDS	1531272..1534088	pcrA; helicase
+heq:HPF32_1446	CDS	1534112..1535428	nhaA; Na(+)/H(+) antiporter 1
+heq:HPF32_1447	CDS	1535476..1535769	yajC; preprotein translocase subunit YajC
+heq:HPF32_1448	CDS	1535769..1537346	secD; preprotein translocase subunit SecD
+heq:HPF32_1449	CDS	1537355..1538326	secF; preprotein translocase subunit SecF
+heq:HPF32_1450	CDS	1538336..1538674	hypothetical protein
+heq:HPF32_1451	CDS	1538684..1541104	leuS; leucyl-tRNA synthetase
+heq:HPF32_1452	CDS	1541101..1541613	hypothetical protein
+heq:HPF32_1453	CDS	1541603..1542772	folC; folylpolyglutamate synthase
+heq:HPF32_1454	CDS	1542772..1543698	tagE; tox-R activated gene
+heq:HPF32_1455	CDS	1543707..1544642	toxR-activated gene
+heq:HPF32_1456	CDS	1544657..1544971	hypothetical protein
+heq:HPF32_1457	CDS	1544975..1547974	mfd; transcription-repair coupling factor
+heq:HPF32_1458	CDS	1548099..1548602	petA; ubiquinol cytochrome c oxidoreductase, Rieske 2Fe-2S subunit
+heq:HPF32_1459	CDS	1548613..1549851	petB; ubiquinol cytochrome c oxidoreductase, cytochrome b subunit
+heq:HPF32_1460	CDS	1549848..1550705	fbcH; ubiquinol cytochrome c oxidoreductase, cytochrome c1
+heq:HPF32_1461	CDS	1550792..1551925	hypothetical protein
+heq:HPF32_1462	CDS	1552101..1552457	hypothetical protein
+heq:HPF32_1463	CDS	complement(1552662..1554509)	ftsI; cell division protein
+heq:HPF32_1464	CDS	complement(1554665..1554994)	fliE; flagellar hook-basal body protein FliE
+heq:HPF32_1465	CDS	complement(1555122..1555607)	flgC; flagellar basal body rod protein FlgC
+heq:HPF32_1466	CDS	complement(1555620..1556042)	flgB; flagellar basal body rod protein FlgB
+heq:HPF32_1467	CDS	1556264..1557430	ftsW; putative rod shape-determining protein
+heq:HPF32_1468	CDS	complement(1557454..1558455)	hypothetical protein
+heq:HPF32_1469	CDS	1558695..1559291	tsaA; putative peroxidase
+heq:HPF32_1470	CDS	1559436..1560251	yaeC; outer membrane protein
+heq:HPF32_1471	CDS	complement(1560319..1562088)	pbp2; penicillin-binding protein 2
+heq:HPF32_1472	CDS	complement(1562069..1562512)	hypothetical protein
+heq:HPF32_1473	CDS	complement(1562525..1563151)	engB; GTPase EngB
+heq:HPF32_1474	CDS	complement(1563148..1563705)	hypothetical protein
+heq:HPF32_1475	CDS	complement(1563705..1564298)	hypothetical protein
+heq:HPF32_1476	CDS	complement(1564273..1564767)	hypothetical protein
+heq:HPF32_1477	CDS	complement(1564764..1565711)	rlpA; rare lipoprotein A
+heq:HPF32_1478	CDS	complement(1565711..1566829)	dniR; regulatory protein DniR
+heq:HPF32_1479	CDS	complement(1566917..1567681)	DNAse
+heq:HPF32_1480	CDS	1567757..1568377	ribC; riboflavin synthase subunit alpha
+heq:HPF32_1481	CDS	1568378..1568650	flhB_2; FlhB-related flagellar biosynthesis protein
+heq:HPF32_1482	CDS	1568672..1569655	abc; ABC transporter, ATP-binding protein
+heq:HPF32_1483	CDS	1569657..1570304	ABC transporter, permease protein
+heq:HPF32_1484	CDS	complement(1570491..1570922)	hypothetical protein
+heq:HPF32_1485	CDS	complement(1570932..1571528)	hypothetical protein
+heq:HPF32_1486	CDS	complement(1571525..1572535)	wecA; putative undecaprenyl-phosphate-alpha-N-acetylglucosaminyltransferase
+heq:HPF32_1487	CDS	1572671..1573459	pdxJ; pyridoxal phosphate biosynthetic protein PdxJ
+heq:HPF32_1488	CDS	1573461..1574384	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+heq:HPF32_1489	CDS	1574447..1575472	ydiE; O-sialoglycoprotein endopeptidase
+heq:HPF32_1490	CDS	1576359..1577147	flgG; flagellar basal body rod protein FlgG
+heq:HPF32_1491	CDS	complement(1577818..1578579)	hypothetical protein
