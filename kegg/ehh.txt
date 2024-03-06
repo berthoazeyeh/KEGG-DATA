@@ -1,0 +1,988 @@
+ehh:EHF_0001	CDS	55..1005	hemE; uroporphyrinogen decarboxylase
+ehh:EHF_0002	CDS	1102..1926	cytochrome c oxidase subunit 3
+ehh:EHF_0003	CDS	1928..2398	ruvC; crossover junction endodeoxyribonuclease RuvC
+ehh:EHF_0004	CDS	complement(2395..2985)	plsY; acyl-phosphate glycerol 3-phosphate acyltransferase
+ehh:EHF_0005	CDS	3081..3920	nadC; nicotinate-nucleotide diphosphorylase
+ehh:EHF_0006	CDS	complement(3971..5113)	dnaJ; chaperone protein DnaJ
+ehh:EHF_0007	CDS	complement(5177..7288)	glyS; glycine--tRNA ligase, beta subunit
+ehh:EHF_0008	CDS	complement(7304..8146)	glyQ; glycine--tRNA ligase, alpha subunit
+ehh:EHF_0009	tRNA	8423..8497	tRNA-Gln
+ehh:EHF_0010	CDS	8527..9087	hypothetical protein
+ehh:EHF_0011	CDS	complement(9084..10262)	ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6 family protein
+ehh:EHF_0012	tRNA	complement(10329..10405)	tRNA-Arg
+ehh:EHF_0013	CDS	10827..12008	metK; methionine adenosyltransferase
+ehh:EHF_0014	CDS	complement(12542..13552)	asd; aspartate-semialdehyde dehydrogenase
+ehh:EHF_0015	CDS	complement(13565..13870)	ybaB/EbfC DNA-binding family protein
+ehh:EHF_0016	CDS	complement(13884..15386)	dnaX; DNA polymerase III, subunit gamma and tau
+ehh:EHF_0017	CDS	complement(15549..16358)	NADP oxidoreductase coenzyme F420-dependent family protein
+ehh:EHF_0018	CDS	16476..17135	es1 family protein
+ehh:EHF_0019	CDS	complement(17407..18414)	gap; glyceraldehyde-3-phosphate dehydrogenase, type I
+ehh:EHF_0020	CDS	18866..19681	hypothetical protein
+ehh:EHF_0021	CDS	19761..20084	putative membrane protein
+ehh:EHF_0022	CDS	20320..21021	inhibitor of apoptosis-promoting Bax1 family protein
+ehh:EHF_0023	CDS	21113..21496	tRNA threonylcarbamoyl adenosine modification protein YjeE
+ehh:EHF_0024	CDS	complement(21878..22399)	infC; translation initiation factor IF-3
+ehh:EHF_0025	CDS	complement(22426..24327)	thrS; threonine--tRNA ligase
+ehh:EHF_0026	CDS	24732..25223	competence/damage-inducible CinA C-terminal domain protein
+ehh:EHF_0027	CDS	complement(25477..25854)	rplS; ribosomal protein L19
+ehh:EHF_0028	CDS	complement(25847..26515)	trmD; tRNA (guanine(37)-N(1))-methyltransferase
+ehh:EHF_0029	CDS	complement(26544..27062)	rimM; 16S rRNA processing protein RimM
+ehh:EHF_0030	CDS	complement(27239..28087)	parB/RepB/Spo0J family partition domain protein
+ehh:EHF_0031	CDS	complement(28084..28866)	cobQ/CobB/MinD/ParA nucleotide binding domain protein
+ehh:EHF_0032	CDS	complement(28970..29392)	putative rRNA maturation factor YbeY
+ehh:EHF_0033	CDS	complement(29479..29886)	EVE domain protein
+ehh:EHF_0034	CDS	complement(29893..31155)	ftsZ; cell division protein FtsZ
+ehh:EHF_0035	CDS	31580..32092	hypothetical protein
+ehh:EHF_0036	CDS	complement(32519..35107)	secA; preprotein translocase, SecA subunit
+ehh:EHF_0037	CDS	complement(35519..35911)	hypothetical protein
+ehh:EHF_0038	CDS	complement(36390..36782)	hypothetical protein
+ehh:EHF_0039	CDS	38230..39045	surface antigen family protein
+ehh:EHF_0040	CDS	complement(39496..40326)	surface antigen family protein
+ehh:EHF_0041	CDS	40529..40645	putative membrane protein
+ehh:EHF_0042	CDS	complement(40664..41500)	surface antigen family protein
+ehh:EHF_0043	CDS	41706..41822	putative membrane protein
+ehh:EHF_0044	CDS	complement(41841..42677)	surface antigen family protein
+ehh:EHF_0045	CDS	complement(43017..43856)	surface antigen family protein
+ehh:EHF_0046	CDS	44049..44165	putative membrane protein
+ehh:EHF_0047	CDS	complement(44184..45020)	surface antigen family protein
+ehh:EHF_0048	CDS	complement(45346..46182)	surface antigen family protein
+ehh:EHF_0049	CDS	46375..46491	putative membrane protein
+ehh:EHF_0050	CDS	complement(46510..47346)	surface antigen family protein
+ehh:EHF_0051	CDS	complement(47666..48517)	surface antigen family protein
+ehh:EHF_0052	CDS	complement(49097..50002)	surface antigen family protein
+ehh:EHF_0053	CDS	complement(50026..50916)	surface antigen family protein
+ehh:EHF_0054	CDS	complement(50941..51822)	surface antigen family protein
+ehh:EHF_0055	CDS	complement(51846..52736)	surface antigen family protein
+ehh:EHF_0056	CDS	complement(52760..53605)	outer membrane beta-barrel domain protein
+ehh:EHF_0057	CDS	complement(53615..54460)	surface antigen family protein
+ehh:EHF_0058	CDS	complement(54469..55329)	surface antigen family protein
+ehh:EHF_0059	CDS	complement(55322..55894)	hypothetical protein
+ehh:EHF_0060	CDS	complement(55918..56754)	surface antigen family protein
+ehh:EHF_0061	CDS	complement(56779..57654)	surface antigen family protein
+ehh:EHF_0062	CDS	complement(57669..58505)	surface antigen family protein
+ehh:EHF_0063	CDS	complement(58523..59398)	surface antigen family protein
+ehh:EHF_0064	CDS	complement(59415..60254)	surface antigen family protein
+ehh:EHF_0065	CDS	complement(60264..60764)	hypothetical protein
+ehh:EHF_0066	CDS	complement(60872..61696)	surface antigen family protein
+ehh:EHF_0067	CDS	complement(62195..63046)	surface antigen family protein
+ehh:EHF_0068	CDS	complement(63338..63967)	helix-turn-helix family protein
+ehh:EHF_0069	CDS	64227..64655	nucleoside diphosphate kinase family protein
+ehh:EHF_0070	CDS	complement(65233..66426)	poly A polymerase head domain protein
+ehh:EHF_0071	CDS	complement(67209..68738)	recJ; single-stranded-DNA-specific exonuclease RecJ
+ehh:EHF_0072	CDS	68737..68859	hypothetical protein
+ehh:EHF_0073	CDS	69299..70747	icd; isocitrate dehydrogenase
+ehh:EHF_0074	CDS	complement(71062..72021)	ftsY; signal recognition particle-docking protein FtsY
+ehh:EHF_0075	CDS	72110..72790	bioD; dethiobiotin synthase
+ehh:EHF_0076	CDS	73293..74366	recA; protein RecA
+ehh:EHF_0077	CDS	74379..74975	pyrE; orotate phosphoribosyltransferase
+ehh:EHF_0078	CDS	74979..75761	putative adenylyltransferase
+ehh:EHF_0079	CDS	76109..77626	secD; protein-export membrane protein SecD
+ehh:EHF_0080	CDS	77652..77813	zinc-finger domain protein
+ehh:EHF_0081	CDS	78091..79701	putative membrane protein
+ehh:EHF_0082	CDS	complement(79899..80813)	hypothetical protein
+ehh:EHF_0083	CDS	81417..82202	lgt; prolipoprotein diacylglyceryl transferase
+ehh:EHF_0084	CDS	complement(83602..83835)	ftsH; ATP-dependent zinc metalloprotease FtsH domain protein
+ehh:EHF_0085	CDS	complement(83856..85256)	hflB; ATP-dependent metallopeptidase HflB family protein
+ehh:EHF_0086	CDS	85351..85623	hypothetical protein
+ehh:EHF_0087	CDS	complement(85688..86992)	tilS; tRNA(Ile)-lysidine synthetase
+ehh:EHF_0088	tRNA	complement(87017..87107)	tRNA-Ser
+ehh:EHF_0089	CDS	88088..89545	cation transport family protein
+ehh:EHF_0090	CDS	89786..91033	ftsA; cell division protein FtsA
+ehh:EHF_0091	CDS	complement(91025..91414)	ATP synthase B/B' CF family protein
+ehh:EHF_0092	CDS	complement(91510..92013)	ATP synthase B/B' CF family protein
+ehh:EHF_0093	CDS	complement(92022..92243)	ATP synthase subunit C family protein
+ehh:EHF_0094	CDS	complement(92313..93044)	atpB; ATP synthase F0, A subunit
+ehh:EHF_0095	CDS	93735..94997	iron-containing alcohol dehydrogenase family protein
+ehh:EHF_0096	CDS	complement(95484..97334)	pentapeptide repeats family protein
+ehh:EHF_0097	CDS	97841..98473	SURF1 family protein
+ehh:EHF_0098	CDS	complement(98894..99895)	cytochrome C and Quinol oxidase polypeptide I family protein
+ehh:EHF_0099	CDS	99933..100184	hypothetical protein
+ehh:EHF_0100	CDS	100348..100476	hypothetical protein
+ehh:EHF_0101	CDS	100485..101030	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+ehh:EHF_0102	CDS	complement(101362..101481)	bifunctional phosphoribosylaminoimidazole carboxamide formyltransferase-IMP cyclohydrolase domain protein
+ehh:EHF_0103	CDS	complement(101559..101678)	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase domain protein
+ehh:EHF_0104	CDS	complement(101756..101875)	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase domain protein
+ehh:EHF_0105	CDS	complement(101953..102072)	bifunctional phosphoribosylaminoimidazole carboxamide formyltransferase-IMP cyclohydrolase domain protein
+ehh:EHF_0106	CDS	complement(102150..103664)	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+ehh:EHF_0107	CDS	complement(103697..104143)	fabZ; beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+ehh:EHF_0108	CDS	complement(104165..104713)	outer membrane family protein
+ehh:EHF_0109	CDS	complement(104729..107056)	yaeT; outer membrane assembly complex, YaeT protein
+ehh:EHF_0110	CDS	complement(107061..108128)	rseP; RIP metalloprotease RseP
+ehh:EHF_0111	CDS	108389..108604	flavinator of succinate dehydrogenase family protein
+ehh:EHF_0112	CDS	108907..110124	cytochrome C biogenesis transmembrane region family protein
+ehh:EHF_0113	CDS	complement(110531..111676)	D-alanyl-D-alanine carboxypeptidase family protein
+ehh:EHF_0114	CDS	111835..111987	hypothetical protein
+ehh:EHF_0115	CDS	111996..112511	hexapeptide transferase family protein
+ehh:EHF_0116	CDS	112870..113013	hypothetical protein
+ehh:EHF_0117	CDS	113826..115028	sucB; dihydrolipoyllysine-residue succinyltransferase, E2 component
+ehh:EHF_0118	CDS	115332..116132	map; methionine aminopeptidase, type I
+ehh:EHF_0119	CDS	116139..116981	prmC; protein-(glutamine-N5) methyltransferase, release factor-specific
+ehh:EHF_0120	CDS	complement(117564..117809)	grxC; glutaredoxin 3
+ehh:EHF_0121	CDS	117901..118824	ribF; riboflavin biosynthesis protein RibF
+ehh:EHF_0122	CDS	119030..119416	lspA; signal peptidase II
+ehh:EHF_0123	CDS	complement(119532..120188)	hypothetical protein
+ehh:EHF_0124	CDS	complement(120701..122056)	peptidase M16 inactive domain protein
+ehh:EHF_0125	CDS	complement(122059..123378)	peptidase M16 inactive domain protein
+ehh:EHF_0126	CDS	complement(124706..125230)	cytochrome c oxidase assembly CtaG/Cox11 family protein
+ehh:EHF_0127	CDS	complement(125227..125742)	ribonuclease III domain protein
+ehh:EHF_0128	CDS	complement(125918..126406)	outer membrane lipocarrier LolA family protein
+ehh:EHF_0129	CDS	complement(126501..127919)	peptidase Do family protein
+ehh:EHF_0130	CDS	complement(127923..128795)	hflC; hflC protein
+ehh:EHF_0131	CDS	complement(128799..129872)	hflK; hflK protein
+ehh:EHF_0132	CDS	130677..131048	trbC/VIRB2 family protein
+ehh:EHF_0133	CDS	132705..133061	trbC/VIRB2 family protein
+ehh:EHF_0134	CDS	133123..133479	trbC/VIRB2 family protein
+ehh:EHF_0135	CDS	133537..133884	trbC/VIRB2 family protein
+ehh:EHF_0136	CDS	133945..134292	trbC/VIRB2 family protein
+ehh:EHF_0137	CDS	135220..137601	AAA-like domain protein
+ehh:EHF_0138	CDS	138470..144223	hypothetical protein
+ehh:EHF_0139	CDS	145429..148845	hypothetical protein
+ehh:EHF_0140	CDS	149297..151537	hypothetical protein
+ehh:EHF_0141	CDS	151606..151761	hypothetical protein
+ehh:EHF_0142	CDS	151830..151973	hypothetical protein
+ehh:EHF_0143	CDS	complement(152208..153290)	purK; phosphoribosylaminoimidazole carboxylase, ATPase subunit
+ehh:EHF_0144	CDS	153605..153988	hypothetical protein
+ehh:EHF_0145	CDS	154547..157180	acnA; aconitate hydratase 1
+ehh:EHF_0146	CDS	complement(157663..158013)	gatC; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit
+ehh:EHF_0147	CDS	complement(158028..158984)	prs; ribose-phosphate diphosphokinase family protein
+ehh:EHF_0148	CDS	159100..160161	cobQ/CobB/MinD/ParA nucleotide binding domain protein
+ehh:EHF_0149	CDS	160828..160959	hypothetical protein
+ehh:EHF_0150	CDS	complement(160968..161702)	hypothetical protein
+ehh:EHF_0151	CDS	complement(161695..162969)	type I secretion outer membrane , TolC family protein
+ehh:EHF_0152	CDS	163552..164016	rplM; ribosomal protein L13
+ehh:EHF_0153	CDS	164016..164474	ribosomal S9/S16 family protein
+ehh:EHF_0154	CDS	164483..165523	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+ehh:EHF_0155	CDS	166148..166666	ppa; inorganic pyrophosphatase
+ehh:EHF_0156	CDS	166904..167056	hypothetical protein
+ehh:EHF_0157	CDS	167318..167953	helix-turn-helix family protein
+ehh:EHF_0158	CDS	168336..169136	ctrA; response regulator
+ehh:EHF_0159	CDS	169222..169836	3'-5' exonuclease family protein
+ehh:EHF_0160	CDS	170234..171361	dnaN; DNA polymerase III, beta subunit
+ehh:EHF_0161	CDS	complement(171540..171911)	yajC; preprotein translocase, YajC subunit
+ehh:EHF_0162	CDS	complement(172629..173894)	purD; phosphoribosylamine--glycine ligase
+ehh:EHF_0163	CDS	174137..174841	yfiO; outer membrane assembly lipoYfiO family protein
+ehh:EHF_0164	CDS	complement(174946..175833)	cyoE; protoheme IX farnesyltransferase
+ehh:EHF_0165	CDS	complement(175836..177392)	ctaD; cytochrome c oxidase, subunit I
+ehh:EHF_0166	CDS	complement(177401..178099)	coxB; cytochrome c oxidase, subunit II
+ehh:EHF_0167	CDS	complement(178756..180009)	aspartate kinase domain protein
+ehh:EHF_0168	CDS	180655..182175	metG; methionyl-tRNA synthetase
+ehh:EHF_0169	CDS	complement(182966..183658)	ubiquinone/menaquinone biosynthesis methyltransferase family protein
+ehh:EHF_0170	CDS	complement(183662..185140)	hslU; ATP-dependent protease HslVU, ATPase subunit
+ehh:EHF_0171	CDS	complement(185142..185711)	hslV; ATP-dependent protease HslVU, peptidase subunit
+ehh:EHF_0172	CDS	185737..185862	hypothetical protein
+ehh:EHF_0173	CDS	186723..187988	transcription termination factor Rho
+ehh:EHF_0174	CDS	complement(188671..188922)	dnaJ domain protein
+ehh:EHF_0175	CDS	189104..189664	NifU family protein
+ehh:EHF_0176	CDS	complement(190065..190229)	hypothetical protein
+ehh:EHF_0177	CDS	complement(190369..191775)	hypothetical protein
+ehh:EHF_0178	CDS	192052..192258	thiS; thiamine biosynthesis protein ThiS
+ehh:EHF_0179	CDS	192395..193180	thiazole biosynthesis ThiG family protein
+ehh:EHF_0180	CDS	complement(193890..194252)	hypothetical protein
+ehh:EHF_0181	CDS	194223..194339	hypothetical protein
+ehh:EHF_0182	CDS	194600..195931	glutamate--tRNA ligase
+ehh:EHF_0183	tRNA	196652..196727	tRNA-His
+ehh:EHF_0184	CDS	196799..196918	hypothetical protein
+ehh:EHF_0185	CDS	197064..198242	surA N-terminal domain protein
+ehh:EHF_0186	CDS	198248..198799	RNA methyltransferase, RsmD family
+ehh:EHF_0187	CDS	complement(199078..199995)	membrane transport family protein
+ehh:EHF_0188	CDS	complement(200197..200355)	hypothetical protein
+ehh:EHF_0189	CDS	complement(200524..200817)	ETC complex I subunit conserved region family protein
+ehh:EHF_0190	CDS	200884..201072	exonuclease VII small subunit
+ehh:EHF_0191	CDS	201975..203210	radical SAM methylthiotransferase, MiaB/RimO family protein
+ehh:EHF_0192	CDS	complement(204156..204479)	trxA; thioredoxin
+ehh:EHF_0193	CDS	complement(204812..205591)	P-type conjugative transfer protein VirB9
+ehh:EHF_0194	CDS	complement(205965..206924)	pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component, alpha subunit
+ehh:EHF_0195	CDS	complement(207170..207976)	alpha/beta hydrolase fold family protein
+ehh:EHF_0196	rRNA	208295..211086	23S ribosomal RNA
+ehh:EHF_0197	rRNA	211160..211274	5S ribosomal RNA
+ehh:EHF_0198	CDS	complement(211432..211551)	hypothetical protein
+ehh:EHF_0199	CDS	complement(211617..213074)	guaB; inosine-5'-monophosphate dehydrogenase
+ehh:EHF_0200	CDS	complement(213154..213945)	ATP-NAD kinase family protein
+ehh:EHF_0201	CDS	complement(213991..214218)	rpmE; ribosomal protein L31
+ehh:EHF_0202	CDS	214395..215357	fabD; malonyl CoA-acyl carrier protein transacylase
+ehh:EHF_0203	CDS	215618..216226	tmk; thymidylate kinase
+ehh:EHF_0204	CDS	216294..217532	major Facilitator Superfamily protein
+ehh:EHF_0205	CDS	complement(218033..218671)	tim44-like domain protein
+ehh:EHF_0206	CDS	218792..219310	secB; protein-export chaperone SecB
+ehh:EHF_0207	CDS	219387..220100	hypothetical protein
+ehh:EHF_0208	CDS	complement(220253..221518)	peptidase M16 inactive domain protein
+ehh:EHF_0209	CDS	222151..223554	nitronate monooxygenase family protein
+ehh:EHF_0210	CDS	complement(224062..224670)	ribE; riboflavin synthase, alpha subunit
+ehh:EHF_0211	CDS	224907..225284	hypothetical protein
+ehh:EHF_0212	CDS	226454..226567	hypothetical protein
+ehh:EHF_0213	CDS	226567..227001	hypothetical protein
+ehh:EHF_0214	gene	complement(227371..228080)	mfd; pseudogene
+ehh:EHF_0216	CDS	complement(228428..228841)	hypothetical protein
+ehh:EHF_0217	CDS	230094..230276	hypothetical protein
+ehh:EHF_0218	CDS	230576..231004	RNase H family protein
+ehh:EHF_0219	CDS	231102..234089	hypothetical protein
+ehh:EHF_0220	CDS	234724..235458	pyrH; UMP kinase
+ehh:EHF_0221	CDS	235481..236038	frr; ribosome recycling factor
+ehh:EHF_0222	CDS	complement(236116..236265)	hypothetical protein
+ehh:EHF_0223	CDS	236666..237322	cytidylyltransferase family protein
+ehh:EHF_0224	CDS	237652..238677	hypothetical protein
+ehh:EHF_0225	CDS	240083..240733	hypothetical protein
+ehh:EHF_0226	CDS	complement(241068..241181)	hypothetical protein
+ehh:EHF_0227	CDS	241748..241882	hypothetical protein
+ehh:EHF_0228	CDS	242758..243519	hypothetical protein
+ehh:EHF_0229	CDS	244863..245018	hypothetical protein
+ehh:EHF_0230	CDS	245099..245260	hypothetical protein
+ehh:EHF_0231	CDS	245319..245987	hypothetical protein
+ehh:EHF_0232	CDS	245947..246090	hypothetical protein
+ehh:EHF_0233	CDS	246187..246879	hypothetical protein
+ehh:EHF_0234	CDS	247207..247797	hypothetical protein
+ehh:EHF_0235	CDS	247757..247951	hypothetical protein
+ehh:EHF_0236	CDS	247917..248030	hypothetical protein
+ehh:EHF_0237	CDS	complement(248135..248701)	DNA-3-methyladenine glycosylase family protein
+ehh:EHF_0238	CDS	248792..249160	hypothetical protein
+ehh:EHF_0239	CDS	250583..250978	hypothetical protein
+ehh:EHF_0240	CDS	251552..252217	hypothetical protein
+ehh:EHF_0241	CDS	252714..252836	hypothetical protein
+ehh:EHF_0242	CDS	252997..256512	hypothetical protein
+ehh:EHF_0243	CDS	256560..256847	hypothetical protein
+ehh:EHF_0244	CDS	257002..257304	hypothetical protein
+ehh:EHF_0245	CDS	complement(258110..258838)	purC; phosphoribosylaminoimidazolesuccinocarboxamide synthase
+ehh:EHF_0246	CDS	259031..260272	hisS; histidine--tRNA ligase
+ehh:EHF_0247	CDS	260503..263832	hypothetical protein
+ehh:EHF_0248	CDS	complement(263876..264616)	DSBA-like thioredoxin domain protein
+ehh:EHF_0249	CDS	264720..264851	hypothetical protein
+ehh:EHF_0250	CDS	264934..265968	cytochrome oxidase assembly family protein
+ehh:EHF_0251	CDS	complement(266304..266957)	ccmA; heme ABC exporter, ATP-binding protein CcmA
+ehh:EHF_0252	CDS	complement(267218..267781)	dcd; deoxycytidine triphosphate deaminase
+ehh:EHF_0253	CDS	complement(268190..269005)	hypothetical protein
+ehh:EHF_0254	CDS	269303..269566	'Cold-shock' DNA-binding domain protein
+ehh:EHF_0255	CDS	269764..271905	HAMP domain protein
+ehh:EHF_0256	CDS	272150..273313	3'-5' exonuclease family protein
+ehh:EHF_0257	CDS	complement(273860..275890)	ligA; DNA ligase, NAD-dependent
+ehh:EHF_0258	CDS	complement(275917..276249)	grxD; monothiol glutaredoxin, Grx4 family
+ehh:EHF_0259	CDS	complement(276256..276477)	bolA-like family protein
+ehh:EHF_0260	CDS	complement(276721..277170)	ahpC/TSA family protein
+ehh:EHF_0261	CDS	complement(277215..278567)	radA; DNA repair protein RadA
+ehh:EHF_0262	CDS	279036..281696	TRAP transporter, 4TM/12TM fusion family protein
+ehh:EHF_0263	CDS	281690..282298	colicin V production family protein
+ehh:EHF_0264	CDS	282436..282765	rpsF; ribosomal protein S6
+ehh:EHF_0265	CDS	282779..283066	rpsR; ribosomal protein S18
+ehh:EHF_0266	CDS	283086..283679	rplI; ribosomal protein L9
+ehh:EHF_0267	CDS	283794..285059	serine hydroxymethyltransferase family protein
+ehh:EHF_0268	CDS	285246..285575	cyaY; iron donor protein CyaY
+ehh:EHF_0269	CDS	285578..287320	ABC transporter family protein
+ehh:EHF_0270	CDS	287605..287721	hypothetical protein
+ehh:EHF_0271	CDS	288238..290034	sdhA; succinate dehydrogenase, flavoprotein subunit
+ehh:EHF_0272	CDS	290071..290847	succinate dehydrogenase and fumarate reductase iron-sulfur family protein
+ehh:EHF_0273	CDS	291507..292370	thyX; thymidylate synthase, flavin-dependent
+ehh:EHF_0274	CDS	292698..293909	drug resistance transporter, Bcr/CflA subfamily protein
+ehh:EHF_0275	CDS	complement(294276..295265)	ruvB; holliday junction DNA helicase RuvB
+ehh:EHF_0276	CDS	complement(295863..296435)	ruvA; holliday junction DNA helicase RuvA
+ehh:EHF_0277	CDS	complement(296444..297064)	ccmC; heme exporter CcmC family protein
+ehh:EHF_0278	CDS	297598..298227	gmk; guanylate kinase
+ehh:EHF_0279	CDS	298651..299547	tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain protein
+ehh:EHF_0280	tRNA	299596..299671	tRNA-Val
+ehh:EHF_0281	CDS	300158..300325	putative membrane protein
+ehh:EHF_0282	CDS	complement(300494..301273)	phospholipase/Carboxylesterase family protein
+ehh:EHF_0283	CDS	complement(301288..301806)	cytochrome c family protein
+ehh:EHF_0284	CDS	complement(302110..303594)	NADH-Ubiquinone/plastoquinone (complex I), various chains family protein
+ehh:EHF_0285	CDS	complement(303852..304535)	hypothetical protein
+ehh:EHF_0286	CDS	complement(305164..307791)	ppdK; pyruvate, phosphate dikinase
+ehh:EHF_0287	CDS	complement(308199..308702)	RDD family protein
+ehh:EHF_0288	CDS	complement(308699..309334)	HAD hydrolase, IA, variant 1 family protein
+ehh:EHF_0289	CDS	complement(309977..311749)	aspS; aspartate--tRNA ligase
+ehh:EHF_0290	CDS	312164..312754	BON domain protein
+ehh:EHF_0291	CDS	313091..314032	gshB; glutathione synthase
+ehh:EHF_0292	CDS	314585..315412	cell division FtsQ family protein
+ehh:EHF_0293	CDS	315702..317099	bacterial regulatory , Fis family protein
+ehh:EHF_0294	CDS	complement(317440..318366)	NAD-dependent glycerol-3-phosphate dehydrogenase family protein
+ehh:EHF_0295	CDS	318350..318544	putative membrane protein
+ehh:EHF_0296	CDS	318658..319590	phage integrase family protein
+ehh:EHF_0297	CDS	complement(319946..320980)	purM; phosphoribosylformylglycinamidine cyclo-ligase
+ehh:EHF_0298	CDS	321137..321769	hypothetical protein
+ehh:EHF_0299	CDS	complement(321984..322868)	GGDEF domain protein
+ehh:EHF_0300	CDS	complement(323423..323785)	oligomerization domain protein
+ehh:EHF_0301	CDS	324072..325304	peptidase M48 family protein
+ehh:EHF_0302	CDS	325366..325977	hypothetical protein
+ehh:EHF_0303	CDS	complement(325941..326069)	hypothetical protein
+ehh:EHF_0304	CDS	complement(327284..327814)	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+ehh:EHF_0305	CDS	complement(328438..331476)	AIR synthase related , N-terminal domain protein
+ehh:EHF_0306	CDS	complement(333445..334425)	bioB; biotin synthase
+ehh:EHF_0307	CDS	complement(334422..334643)	hypothetical protein
+ehh:EHF_0308	CDS	complement(334795..335250)	sensory box protein
+ehh:EHF_0309	CDS	complement(335617..336207)	peptidase M23 family protein
+ehh:EHF_0310	CDS	336548..337471	glpX; fructose-1,6-bisphosphatase, class II
+ehh:EHF_0311	CDS	337639..337752	hypothetical protein
+ehh:EHF_0312	CDS	complement(337987..339864)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+ehh:EHF_0313	CDS	340577..341374	cobB/CobQ-like glutamine amidotransferase domain protein
+ehh:EHF_0314	CDS	complement(341920..342612)	DNA repair RadC family protein
+ehh:EHF_0315	CDS	342880..343164	groS; 10 kDa chaperonin
+ehh:EHF_0316	CDS	343267..344919	groL; chaperonin GroL
+ehh:EHF_0317	CDS	complement(345126..345281)	hypothetical protein
+ehh:EHF_0318	CDS	complement(345700..346428)	short chain dehydrogenase family protein
+ehh:EHF_0319	CDS	346804..349392	clpB; ATP-dependent chaperone protein ClpB
+ehh:EHF_0320	CDS	complement(349835..350509)	dioxygenase family protein
+ehh:EHF_0321	CDS	350749..350910	hypothetical protein
+ehh:EHF_0322	CDS	350915..352417	cytosol aminopeptidase family, catalytic domain protein
+ehh:EHF_0323	CDS	352590..353216	purN; phosphoribosylglycinamide formyltransferase
+ehh:EHF_0324	CDS	353492..354136	lipB; lipoyl(octanoyl) transferase
+ehh:EHF_0325	CDS	complement(354538..355881)	pyrC; dihydroorotase
+ehh:EHF_0326	CDS	complement(356511..357149)	DNA / pantothenate metabolism flavofamily protein
+ehh:EHF_0327	CDS	357398..357535	hypothetical protein
+ehh:EHF_0328	CDS	357516..358901	fumC; fumarate hydratase, class II
+ehh:EHF_0329	CDS	359002..359316	hypothetical protein
+ehh:EHF_0330	CDS	complement(359971..363042)	carB; carbamoyl-phosphate synthase, large subunit
+ehh:EHF_0331	CDS	363146..363265	hypothetical protein
+ehh:EHF_0332	CDS	363854..364915	hypothetical protein
+ehh:EHF_0333	CDS	complement(365320..366171)	dihydropteroate synthase
+ehh:EHF_0334	CDS	complement(366329..367171)	dihydropteroate synthase
+ehh:EHF_0335	CDS	367527..369290	type I secretion system ATPase family protein
+ehh:EHF_0336	CDS	370118..371092	zinc-binding dehydrogenase family protein
+ehh:EHF_0337	CDS	371647..371784	hypothetical protein
+ehh:EHF_0338	CDS	complement(371934..374507)	uvrD/REP helicase N-terminal domain protein
+ehh:EHF_0339	CDS	374612..375112	hypothetical protein
+ehh:EHF_0340	CDS	375223..375564	ankyrin repeat family protein
+ehh:EHF_0341	CDS	376162..377019	SPFH domain / Band 7 family protein
+ehh:EHF_0342	CDS	377467..377808	hypothetical protein
+ehh:EHF_0343	CDS	378205..379269	AFG1-like ATPase family protein
+ehh:EHF_0344	CDS	complement(379658..380677)	hemH; ferrochelatase
+ehh:EHF_0345	CDS	complement(380816..381784)	hypothetical protein
+ehh:EHF_0346	CDS	complement(381941..382309)	cell division ZapA family protein
+ehh:EHF_0347	CDS	complement(382314..382595)	hypothetical protein
+ehh:EHF_0348	CDS	complement(382901..383767)	sppA; signal peptide peptidase SppA, 36K type
+ehh:EHF_0349	CDS	complement(383781..385484)	rpsA; 30S ribosomal protein S1
+ehh:EHF_0350	CDS	complement(385550..386194)	cmk; cytidylate kinase
+ehh:EHF_0351	CDS	complement(386175..386933)	RNA 2'-O ribose methyltransferase substrate binding family protein
+ehh:EHF_0352	tRNA	387090..387172	tRNA-Tyr
+ehh:EHF_0353	tRNA	387180..387250	tRNA-Gly
+ehh:EHF_0354	CDS	387293..388480	translation elongation factor Tu
+ehh:EHF_0355	CDS	388488..388814	rpsJ; ribosomal protein S10
+ehh:EHF_0356	CDS	388807..389502	rplC; 50S ribosomal protein L3
+ehh:EHF_0357	CDS	389510..390127	rplD; 50S ribosomal protein L4
+ehh:EHF_0358	CDS	390124..390414	ribosomal L23 family protein
+ehh:EHF_0359	CDS	390422..391252	rplB; ribosomal protein L2
+ehh:EHF_0360	CDS	391256..391537	rpsS; ribosomal protein S19
+ehh:EHF_0361	CDS	391552..391899	rplV; ribosomal protein L22
+ehh:EHF_0362	CDS	391903..392538	rpsC; ribosomal protein S3
+ehh:EHF_0363	CDS	392555..392965	rplP; ribosomal protein L16
+ehh:EHF_0364	CDS	392978..393181	rpmC; ribosomal protein L29
+ehh:EHF_0365	CDS	393174..393401	rpsQ; 30S ribosomal protein S17
+ehh:EHF_0366	CDS	393415..393774	rplN; ribosomal protein L14
+ehh:EHF_0367	CDS	393776..394105	rplX; ribosomal protein L24
+ehh:EHF_0368	CDS	394117..394650	ribosomal L5 family protein
+ehh:EHF_0369	CDS	394660..394965	ribosomal S14p/S29e family protein
+ehh:EHF_0370	CDS	394987..395385	ribosomal S8 family protein
+ehh:EHF_0371	CDS	395397..395933	rplF; ribosomal protein L6
+ehh:EHF_0372	CDS	395955..396317	rplR; ribosomal protein L18
+ehh:EHF_0373	CDS	396335..396859	rpsE; ribosomal protein S5
+ehh:EHF_0374	CDS	396863..397330	rplO; ribosomal protein L15
+ehh:EHF_0375	CDS	397373..398671	secY; preprotein translocase, SecY subunit
+ehh:EHF_0376	CDS	398656..399321	adenylate kinase family protein
+ehh:EHF_0377	CDS	399380..399751	rpsM; 30S ribosomal protein S13
+ehh:EHF_0378	CDS	399763..400143	rpsK; 30S ribosomal protein S11
+ehh:EHF_0379	CDS	400173..401291	rpoA; DNA-directed RNA polymerase, alpha subunit
+ehh:EHF_0380	CDS	401301..401705	rplQ; ribosomal protein L17
+ehh:EHF_0381	CDS	401755..404121	pheT; phenylalanine--tRNA ligase, beta subunit
+ehh:EHF_0382	CDS	404725..406743	comEC/Rec2-related domain protein
+ehh:EHF_0383	CDS	complement(407477..408790)	alanine symporter family protein
+ehh:EHF_0384	CDS	complement(408862..409221)	rnpA; ribonuclease P protein component
+ehh:EHF_0385	CDS	409634..410512	ubiA; 4-hydroxybenzoate polyprenyl transferase
+ehh:EHF_0386	CDS	410560..411054	flavin reductase like domain protein
+ehh:EHF_0387	CDS	411051..411854	dapB; dihydrodipicolinate reductase
+ehh:EHF_0388	CDS	411873..412634	pstB; phosphate ABC transporter, ATP-binding protein
+ehh:EHF_0389	CDS	complement(413365..414555)	tgt; queuine tRNA-ribosyltransferase
+ehh:EHF_0390	CDS	414699..414884	rpmF; ribosomal protein L32
+ehh:EHF_0391	CDS	414914..415927	plsX; fatty acid/phospholipid synthesis protein PlsX
+ehh:EHF_0392	CDS	415937..416896	fabH; 3-oxoacyl-[acyl-carrier-] synthase III family protein
+ehh:EHF_0393	CDS	complement(417095..417517)	codA; cytidine and deoxycytidylate deaminase
+ehh:EHF_0394	CDS	417673..418098	hypothetical protein
+ehh:EHF_0395	CDS	418845..420269	dnaB; replicative DNA helicase
+ehh:EHF_0396	CDS	420423..420545	hypothetical protein
+ehh:EHF_0397	CDS	420922..421986	FAD dependent oxidoreductase family protein
+ehh:EHF_0398	CDS	complement(423115..423942)	FKBP-type peptidyl-prolyl cis-trans isomerase family protein
+ehh:EHF_0399	CDS	complement(424024..424851)	polyprenyl synthetase family protein
+ehh:EHF_0401	tRNA	425111..425183	tRNA-Glu
+ehh:EHF_0402	CDS	425420..427207	ribonucleoside-diphosphate reductase, alpha subunit
+ehh:EHF_0403	CDS	427549..428019	hypothetical protein
+ehh:EHF_0404	CDS	complement(428712..430013)	purA; adenylosuccinate synthase
+ehh:EHF_0405	CDS	complement(430396..430863)	ompA family protein
+ehh:EHF_0406	CDS	431666..433141	carboxypeptidase Taq (M32) metallopeptidase family protein
+ehh:EHF_0407	CDS	433197..435188	tkt; transketolase
+ehh:EHF_0408	CDS	435751..436020	multiple resistance and pH regulation F family protein
+ehh:EHF_0409	CDS	436017..436316	na+/H+ antiporter subunit
+ehh:EHF_0410	CDS	436306..436851	hypothetical protein
+ehh:EHF_0411	CDS	436844..437263	Na+/H+ antiporter family protein
+ehh:EHF_0412	CDS	437355..437648	NADH-ubiquinone/plastoquinone oxidoreductase chain 4L family protein
+ehh:EHF_0413	CDS	437780..439624	ribonuclease, Rne/Rng family domain protein
+ehh:EHF_0414	CDS	439718..441619	dnaK; chaperone protein DnaK
+ehh:EHF_0415	CDS	441641..441754	hypothetical protein
+ehh:EHF_0416	CDS	441889..442353	polyketide cyclase / dehydrase and lipid transport family protein
+ehh:EHF_0417	CDS	complement(442504..442617)	hypothetical protein
+ehh:EHF_0418	CDS	442978..444567	NADH-Ubiquinone/plastoquinone (complex I), various chains family protein
+ehh:EHF_0419	CDS	444552..445883	ffh; signal recognition particle protein
+ehh:EHF_0420	CDS	446483..447346	era; GTP-binding protein Era
+ehh:EHF_0421	CDS	447336..448163	putative 3'-5' exonuclease related to the exonuclease domain of PolB family protein
+ehh:EHF_0422	CDS	448247..448768	clan AA aspartic protease, TIGR02281 family protein
+ehh:EHF_0423	CDS	449583..451304	metallopeptidase M24 family protein
+ehh:EHF_0424	CDS	complement(451652..452341)	uroporphyrinogen-III synthase HemD family protein
+ehh:EHF_0425	CDS	452628..453599	peptidase C26 family protein
+ehh:EHF_0426	CDS	454036..456009	priA; primosomal protein N'
+ehh:EHF_0427	CDS	456326..456628	rpmB; ribosomal protein L28
+ehh:EHF_0428	CDS	complement(456883..457026)	diaminopimelate decarboxylase domain protein
+ehh:EHF_0429	CDS	complement(457811..459082)	diaminopimelate decarboxylase
+ehh:EHF_0430	CDS	complement(459775..460743)	pseudouridine synthase, RluA family protein
+ehh:EHF_0431	CDS	460905..462875	pccA; propionyl-CoA carboxylase, alpha subunit
+ehh:EHF_0432	CDS	463098..467258	hypothetical protein
+ehh:EHF_0433	CDS	467315..468649	hypothetical protein
+ehh:EHF_0434	CDS	469112..469978	lipA; lipoyl synthase
+ehh:EHF_0435	tRNA	470429..470501	tRNA-Arg
+ehh:EHF_0436	CDS	complement(470649..470969)	binding--dependent transport system inner membrane component family protein
+ehh:EHF_0437	CDS	471022..471546	hypothetical protein
+ehh:EHF_0438	CDS	471703..471927	hypothetical protein
+ehh:EHF_0439	CDS	472151..472768	sodB; superoxide dismutase
+ehh:EHF_0440	CDS	473254..473547	type IV secretory pathway, VirB3-like family protein
+ehh:EHF_0441	CDS	473655..475949	type IV secretion/conjugal transfer ATPase, VirB4 family protein
+ehh:EHF_0442	CDS	475988..478399	trbL/VirB6 plasmid conjugal transfer family protein
+ehh:EHF_0443	CDS	478600..481350	trbL/VirB6 plasmid conjugal transfer family protein
+ehh:EHF_0444	CDS	481354..485583	trbL/VirB6 plasmid conjugal transfer family protein
+ehh:EHF_0445	CDS	485620..491448	trbL/VirB6 plasmid conjugal transfer family protein
+ehh:EHF_0446	CDS	complement(491595..492194)	TIGR02217 family protein
+ehh:EHF_0447	CDS	complement(492713..493081)	dut; dUTP diphosphatase family protein
+ehh:EHF_0448	CDS	complement(493326..494285)	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+ehh:EHF_0449	CDS	complement(494694..495818)	carA; carbamoyl-phosphate synthase, small subunit
+ehh:EHF_0450	CDS	496068..497396	engA; ribosome-associated GTPase EngA
+ehh:EHF_0451	CDS	complement(497469..498974)	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+ehh:EHF_0452	CDS	499767..500867	PQQ enzyme repeat family protein
+ehh:EHF_0453	CDS	500890..502287	dihydrolipoyl dehydrogenase
+ehh:EHF_0454	CDS	502322..503395	efflux transporter, RND family, MFP subunit
+ehh:EHF_0455	CDS	503550..503798	infA; translation initiation factor IF-1
+ehh:EHF_0456	CDS	503791..504369	maf; septum formation protein Maf
+ehh:EHF_0457	CDS	504705..505571	rpsB; ribosomal protein S2
+ehh:EHF_0458	CDS	505561..506427	tsf; translation elongation factor Ts
+ehh:EHF_0459	CDS	506756..507118	hypothetical protein
+ehh:EHF_0460	CDS	507125..507928	ABC 3 transport family protein
+ehh:EHF_0461	CDS	508016..508894	putative membrane protein
+ehh:EHF_0462	CDS	509416..509979	petA; ubiquinol-cytochrome c reductase, iron-sulfur subunit
+ehh:EHF_0463	CDS	510102..511235	petB; cytochrome b
+ehh:EHF_0464	CDS	511238..511993	petC; cytochrome c1
+ehh:EHF_0465	gene	512478..513941	pseudogene
+ehh:EHF_0469	CDS	514485..516494	hypothetical protein
+ehh:EHF_0470	CDS	516987..518453	hypothetical protein
+ehh:EHF_0471	CDS	518726..519454	dnaQ; DNA polymerase III, epsilon subunit
+ehh:EHF_0472	CDS	complement(519713..520660)	thiL; thiamine-monophosphate kinase
+ehh:EHF_0473	CDS	520821..521657	yihY; yihY family inner membrane domain protein
+ehh:EHF_0474	CDS	complement(521932..522306)	hypothetical protein
+ehh:EHF_0475	CDS	complement(522440..523942)	sigma-54 interaction domain protein
+ehh:EHF_0476	CDS	complement(524106..524837)	ftsJ-like methyltransferase family protein
+ehh:EHF_0477	tRNA	524893..524969	tRNA-Pro
+ehh:EHF_0478	CDS	complement(525192..525755)	hypothetical protein
+ehh:EHF_0479	CDS	complement(525999..526733)	recO; DNA repair protein RecO
+ehh:EHF_0480	CDS	527105..528835	argS; arginine--tRNA ligase
+ehh:EHF_0481	CDS	complement(529016..532339)	ileS; isoleucine--tRNA ligase
+ehh:EHF_0482	CDS	532491..532928	putative peroxiredoxin bcp
+ehh:EHF_0483	CDS	532944..533666	RNA methyltransferase, RsmE family protein
+ehh:EHF_0484	CDS	533671..534192	5-formyltetrahydrofolate cyclo-ligase
+ehh:EHF_0485	CDS	534453..535355	rsmH; 16S rRNA (cytosine(1402)-N(4))-methyltransferase
+ehh:EHF_0486	CDS	complement(535796..536818)	cgtA; obg family GTPase CgtA
+ehh:EHF_0487	CDS	complement(536815..538080)	eno; phosphopyruvate hydratase
+ehh:EHF_0488	CDS	538273..538581	rplU; ribosomal protein L21
+ehh:EHF_0489	CDS	538586..538852	rpmA; ribosomal protein L27
+ehh:EHF_0490	tRNA	538866..538942	tRNA-Ile
+ehh:EHF_0491	CDS	539068..540330	nuoF; NADH oxidoreductase (quinone), F subunit
+ehh:EHF_0492	CDS	540555..541142	hypothetical protein
+ehh:EHF_0493	CDS	541343..541927	hypothetical protein
+ehh:EHF_0494	CDS	542181..542765	hypothetical protein
+ehh:EHF_0495	CDS	543030..543611	hypothetical protein
+ehh:EHF_0496	CDS	543863..544447	hypothetical protein
+ehh:EHF_0497	CDS	544725..545306	hypothetical protein
+ehh:EHF_0498	CDS	545611..545748	hypothetical protein
+ehh:EHF_0499	CDS	546227..546391	hypothetical protein
+ehh:EHF_0500	CDS	547196..547798	NADH-ubiquinone/plastoquinone oxidoreductase chain 6 family protein
+ehh:EHF_0501	CDS	547782..548108	NADH-ubiquinone/plastoquinone oxidoreductase chain 4L family protein
+ehh:EHF_0502	CDS	548192..550057	proton-translocating NADH-quinone oxidoreductase, chain L family protein
+ehh:EHF_0503	CDS	550074..551510	proton-translocating NADH-quinone oxidoreductase, chain M family protein
+ehh:EHF_0504	CDS	551532..552959	proton-translocating NADH-quinone oxidoreductase, chain N family protein
+ehh:EHF_0505	CDS	553056..554174	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+ehh:EHF_0506	CDS	554418..556472	pyocin activator PrtN family protein
+ehh:EHF_0507	CDS	556582..557850	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+ehh:EHF_0508	CDS	557871..558620	tatC; twin arginine-targeting protein translocase TatC
+ehh:EHF_0509	CDS	558695..561793	acrB/AcrD/AcrF family protein
+ehh:EHF_0510	CDS	561960..563513	nusA; transcription termination factor NusA
+ehh:EHF_0511	CDS	563536..566073	translation initiation factor IF-2
+ehh:EHF_0512	CDS	566070..566417	rbfA; ribosome-binding factor A
+ehh:EHF_0513	CDS	complement(566436..567095)	integral membrane TerC family protein
+ehh:EHF_0514	CDS	567255..569534	istB-like ATP binding family protein
+ehh:EHF_0515	CDS	569988..574301	hypothetical protein
+ehh:EHF_0516	CDS	complement(574715..576085)	mgtE; magnesium transporter
+ehh:EHF_0517	tRNA	576275..576357	tRNA-Leu
+ehh:EHF_0518	CDS	576566..578008	atpD; ATP synthase F1, beta subunit
+ehh:EHF_0519	CDS	578008..578394	ATP synthase, Delta/Epsilon chain, beta-sandwich domain protein
+ehh:EHF_0520	CDS	578400..579065	fsa; fructose-6-phosphate aldolase
+ehh:EHF_0521	CDS	579279..579560	hypothetical protein
+ehh:EHF_0522	CDS	complement(579670..580971)	rmuC family protein
+ehh:EHF_0523	CDS	581140..581694	hypothetical protein
+ehh:EHF_0524	CDS	complement(582293..582739)	virB8 family protein
+ehh:EHF_0525	CDS	582771..582899	hypothetical protein
+ehh:EHF_0526	CDS	583324..584493	dicarboxylate symporter family protein
+ehh:EHF_0527	CDS	complement(585687..586958)	serS; serine--tRNA ligase
+ehh:EHF_0528	CDS	complement(587033..588238)	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain protein
+ehh:EHF_0529	CDS	complement(588333..588791)	hypothetical protein
+ehh:EHF_0530	CDS	588912..589814	miaA; tRNA dimethylallyltransferase
+ehh:EHF_0531	CDS	complement(590474..591328)	coproporphyrinogen III oxidase family protein
+ehh:EHF_0532	CDS	complement(591702..592877)	gram-negative porin family protein
+ehh:EHF_0533	CDS	complement(593062..594039)	argB; acetylglutamate kinase
+ehh:EHF_0534	CDS	complement(594011..594595)	ysxC; ribosome biogenesis GTP-binding protein YsxC
+ehh:EHF_0535	CDS	594776..595855	prfA; peptide chain release factor 1
+ehh:EHF_0536	CDS	complement(596450..596863)	translation initiation factor IF-2 domain protein
+ehh:EHF_0537	CDS	complement(597165..598697)	carboxyl transferase domain protein
+ehh:EHF_0538	CDS	complement(598823..599401)	hypothetical protein
+ehh:EHF_0539	CDS	complement(600310..600891)	formamidopyrimidine-DNA glycosylase H2TH domain protein
+ehh:EHF_0540	tRNA	601026..601099	tRNA-Thr
+ehh:EHF_0541	gene	601203..601839	pseudogene
+ehh:EHF_0543	CDS	602253..603662	glutamate--tRNA ligase
+ehh:EHF_0544	CDS	604312..605652	hypothetical protein
+ehh:EHF_0545	CDS	607237..607836	hypothetical protein
+ehh:EHF_0546	CDS	complement(607954..608499)	nuoE; NADH-quinone oxidoreductase, E subunit
+ehh:EHF_0547	CDS	complement(608506..609660)	NADH dehydrogenase (quinone), D subunit
+ehh:EHF_0548	CDS	complement(609906..611009)	NADH-ubiquinone oxidoreductase chain 1
+ehh:EHF_0549	CDS	complement(611016..613070)	nuoG; NADH dehydrogenase (quinone), G subunit
+ehh:EHF_0550	CDS	complement(613080..613298)	hypothetical protein
+ehh:EHF_0551	CDS	complement(613521..615917)	gyrB; DNA gyrase, B subunit
+ehh:EHF_0552	CDS	616225..617121	pyrB; aspartate carbamoyltransferase
+ehh:EHF_0553	CDS	617132..617869	truA; tRNA pseudouridine(38-40) synthase
+ehh:EHF_0554	CDS	complement(618864..619265)	putative integral membrane protein
+ehh:EHF_0555	CDS	complement(619394..620929)	lysS; lysine--tRNA ligase
+ehh:EHF_0556	CDS	complement(621215..621937)	prolyl oligopeptidase family protein
+ehh:EHF_0557	CDS	622261..623829	rrf2 family protein
+ehh:EHF_0558	CDS	623894..625129	iscS; cysteine desulfurase IscS
+ehh:EHF_0559	CDS	625167..625580	nifU; nifU-like protein
+ehh:EHF_0560	CDS	625609..626040	iron-sulfur cluster assembly accessory family protein
+ehh:EHF_0561	CDS	626033..626470	hscB; fe-S protein assembly co-chaperone HscB
+ehh:EHF_0562	CDS	626470..628323	hscA; fe-S protein assembly chaperone HscA
+ehh:EHF_0563	CDS	628349..628699	2Fe-2S iron-sulfur cluster binding domain protein
+ehh:EHF_0564	CDS	628711..629775	hypothetical protein
+ehh:EHF_0565	CDS	629759..630160	cytochrome C biogenesis family protein
+ehh:EHF_0566	CDS	complement(630318..631037)	ubiG; 3-demethylubiquinone-9 3-O-methyltransferase
+ehh:EHF_0567	CDS	complement(631034..631474)	rpiB; ribose 5-phosphate isomerase B
+ehh:EHF_0568	CDS	631633..631866	hypothetical protein
+ehh:EHF_0569	CDS	complement(632836..632958)	hypothetical protein
+ehh:EHF_0570	CDS	complement(633656..634597)	mdh; malate dehydrogenase, NAD-dependent
+ehh:EHF_0571	CDS	complement(634671..635018)	folB domain protein
+ehh:EHF_0572	CDS	635231..635821	RDD family protein
+ehh:EHF_0573	CDS	complement(637065..638117)	tRNA threonylcarbamoyl adenosine modification protein YgjD
+ehh:EHF_0574	CDS	complement(638123..639109)	TRAP transporter solute receptor, TAXI family protein
+ehh:EHF_0575	CDS	complement(639109..639831)	tpiA; triose-phosphate isomerase
+ehh:EHF_0576	tRNA	complement(639853..639925)	tRNA-Thr
+ehh:EHF_0577	CDS	640048..640836	ksgA; dimethyladenosine transferase
+ehh:EHF_0578	CDS	complement(640928..641941)	pyridine nucleotide-disulfide oxidoreductase family protein
+ehh:EHF_0579	CDS	complement(642537..643883)	modulator of DNA gyrase family protein
+ehh:EHF_0580	CDS	complement(643884..644456)	GTP cyclohydrolase I family protein
+ehh:EHF_0581	CDS	complement(644470..645240)	atpG; ATP synthase F1, gamma subunit
+ehh:EHF_0582	CDS	complement(645411..655289)	ankyrin repeat family protein
+ehh:EHF_0583	CDS	complement(655434..656021)	raiA; ribosomal subunit interface protein
+ehh:EHF_0584	CDS	656137..657024	RNA polymerase sigma factor, sigma-70 family protein
+ehh:EHF_0585	CDS	complement(657479..657607)	rpmJ; ribosomal protein L36
+ehh:EHF_0586	tRNA	complement(657644..657735)	tRNA-Ser
+ehh:EHF_0587	CDS	657985..658335	hypothetical protein
+ehh:EHF_0588	CDS	658383..658937	phage gp6-like head-tail connector family protein
+ehh:EHF_0589	CDS	658934..659344	hypothetical protein
+ehh:EHF_0590	CDS	659322..659711	phage major tail 2 family protein
+ehh:EHF_0591	CDS	659792..660325	hypothetical protein
+ehh:EHF_0592	CDS	660463..661005	hypothetical protein
+ehh:EHF_0593	CDS	661193..662602	terminase-like family protein
+ehh:EHF_0594	CDS	complement(662968..664245)	bioA; adenosylmethionine-8-amino-7-oxononanoate transaminase
+ehh:EHF_0595	CDS	complement(664617..667748)	delta-1-pyrroline-5-carboxylate dehydrogenase
+ehh:EHF_0596	CDS	668520..669266	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+ehh:EHF_0598	tRNA	complement(670079..670150)	tRNA-Met
+ehh:EHF_0599	CDS	670526..671287	putative membrane protein
+ehh:EHF_0600	CDS	complement(671633..672478)	xth; exodeoxyribonuclease III
+ehh:EHF_0601	CDS	complement(672506..673771)	argJ; glutamate N-acetyltransferase/amino-acid acetyltransferase
+ehh:EHF_0602	CDS	complement(673979..674572)	hypothetical protein
+ehh:EHF_0603	CDS	complement(675055..675708)	putative exported protein
+ehh:EHF_0604	CDS	675955..677136	argG; argininosuccinate synthase
+ehh:EHF_0605	CDS	complement(677777..678700)	putative membrane protein
+ehh:EHF_0606	tRNA	complement(679010..679083)	tRNA-Met
+ehh:EHF_0607	CDS	complement(679135..683073)	ankyrin repeat family protein
+ehh:EHF_0608	CDS	complement(683258..684451)	dgt; dGTPase family protein
+ehh:EHF_0609	CDS	684521..684982	erpA; iron-sulfur cluster insertion protein erpA
+ehh:EHF_0610	CDS	684997..685704	lepB; signal peptidase I
+ehh:EHF_0611	CDS	685787..686218	NADH-quinone oxidoreductase, chain I family protein
+ehh:EHF_0612	CDS	complement(686362..686658)	hypothetical protein
+ehh:EHF_0613	CDS	complement(686839..688683)	typA; GTP-binding protein TypA/BipA
+ehh:EHF_0614	CDS	complement(688965..689078)	hypothetical protein
+ehh:EHF_0615	CDS	complement(689437..689607)	hypothetical protein
+ehh:EHF_0616	CDS	complement(689620..689742)	hypothetical protein
+ehh:EHF_0617	CDS	complement(690790..691179)	hypothetical protein
+ehh:EHF_0618	CDS	complement(691366..691530)	hypothetical protein
+ehh:EHF_0619	CDS	complement(691939..692634)	hypothetical protein
+ehh:EHF_0620	CDS	complement(692747..692923)	putative membrane protein
+ehh:EHF_0621	CDS	complement(693685..694539)	hypothetical protein
+ehh:EHF_0622	CDS	complement(694688..695320)	porphobilinogen deaminase
+ehh:EHF_0623	CDS	complement(695450..696376)	hypothetical protein
+ehh:EHF_0624	CDS	complement(696581..697477)	porphobilinogen deaminase
+ehh:EHF_0625	CDS	complement(698580..699875)	folC; bifunctional FolC family protein
+ehh:EHF_0626	CDS	700306..701769	gatA; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit
+ehh:EHF_0627	CDS	701779..702522	DNA-binding regulatory , YebC/PmpR family protein
+ehh:EHF_0628	CDS	703005..703970	prfB; peptide chain release factor 2
+ehh:EHF_0629	CDS	complement(704080..704412)	hypothetical protein
+ehh:EHF_0630	CDS	complement(704469..705989)	hypothetical protein
+ehh:EHF_0631	CDS	complement(707423..709492)	hypothetical protein
+ehh:EHF_0632	CDS	complement(709497..709622)	hypothetical protein
+ehh:EHF_0633	CDS	complement(710183..710764)	hypothetical protein
+ehh:EHF_0634	CDS	complement(711229..711489)	hypothetical protein
+ehh:EHF_0635	CDS	complement(711801..713594)	lepA; GTP-binding protein LepA
+ehh:EHF_0636	CDS	complement(713620..714414)	ubiE/COQ5 methyltransferase family protein
+ehh:EHF_0637	CDS	complement(714442..716832)	pnp; polyribonucleotide nucleotidyltransferase
+ehh:EHF_0638	CDS	complement(716862..717143)	rpsO; ribosomal protein S15
+ehh:EHF_0639	CDS	complement(717162..718052)	truB; tRNA pseudouridine(55) synthase
+ehh:EHF_0640	tRNA	718681..718757	tRNA-Arg
+ehh:EHF_0641	CDS	718989..719576	yeaZ; tRNA threonylcarbamoyl adenosine modification protein YeaZ
+ehh:EHF_0642	CDS	719822..721711	surA N-terminal domain protein
+ehh:EHF_0643	CDS	complement(722302..723498)	degT/DnrJ/EryC1/StrS aminotransferase family protein
+ehh:EHF_0644	CDS	723936..724553	ahpC/TSA family protein
+ehh:EHF_0645	CDS	724554..725510	trxB; thioredoxin-disulfide reductase
+ehh:EHF_0646	CDS	complement(726095..726583)	coaD; pantetheine-phosphate adenylyltransferase
+ehh:EHF_0647	tRNA	726760..726832	tRNA-Phe
+ehh:EHF_0648	CDS	726928..727893	peptidase C26 family protein
+ehh:EHF_0649	CDS	728403..729677	proS; proline--tRNA ligase
+ehh:EHF_0650	CDS	729674..730045	acpS; holo-[acyl-carrier-protein] synthase
+ehh:EHF_0651	tRNA	730378..730449	tRNA-Asn
+ehh:EHF_0652	CDS	730906..731379	stringent starvation B family protein
+ehh:EHF_0653	CDS	complement(731409..731525)	hypothetical protein
+ehh:EHF_0654	CDS	731810..732154	hypothetical protein
+ehh:EHF_0655	CDS	complement(732746..735208)	topA; DNA topoisomerase I
+ehh:EHF_0656	CDS	complement(735609..737000)	yjeF-related family protein
+ehh:EHF_0657	CDS	complement(737132..737425)	hypothetical protein
+ehh:EHF_0658	CDS	737661..738320	tRNA methyltransferase complex GCD14 subunit
+ehh:EHF_0659	CDS	complement(738445..738570)	putative membrane protein
+ehh:EHF_0660	CDS	738713..740938	response regulator
+ehh:EHF_0661	CDS	741056..741376	cutA1 divalent ion tolerance family protein
+ehh:EHF_0662	CDS	complement(741763..742611)	ispE; 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+ehh:EHF_0663	CDS	complement(742614..742733)	hypothetical protein
+ehh:EHF_0664	CDS	743038..743991	TIM-barrel , nifR3 family protein
+ehh:EHF_0665	CDS	744241..746109	sigA; RNA polymerase sigma factor rpoD
+ehh:EHF_0666	CDS	complement(746661..748427)	dnaG; DNA primase
+ehh:EHF_0667	CDS	complement(748945..749904)	S-adenosyl-L-methionine-dependent methyltransferase family protein
+ehh:EHF_0668	CDS	750027..750581	hypothetical protein
+ehh:EHF_0669	CDS	750587..750859	hypothetical protein
+ehh:EHF_0670	CDS	complement(751355..752338)	ribonucleotide reductase, small chain family protein
+ehh:EHF_0671	CDS	752571..754421	hypothetical protein
+ehh:EHF_0672	CDS	complement(754649..756028)	cysS; cysteine--tRNA ligase
+ehh:EHF_0673	CDS	complement(756025..756654)	exopolysaccharide synthesis, ExoD family protein
+ehh:EHF_0674	CDS	757248..761999	bacterial NAD-glutamate dehydrogenase family protein
+ehh:EHF_0675	CDS	762065..762292	hypothetical protein
+ehh:EHF_0676	CDS	762289..763665	diguanylate cyclase domain protein
+ehh:EHF_0677	CDS	complement(764107..765030)	RNA pseudouridylate synthase family protein
+ehh:EHF_0678	CDS	complement(765551..766315)	inositol monophosphatase family protein
+ehh:EHF_0679	CDS	complement(766506..767075)	efp; translation elongation factor P
+ehh:EHF_0680	CDS	767577..770963	pyridine nucleotide-disulfide oxidoreductase family protein
+ehh:EHF_0681	CDS	complement(771615..771884)	hypothetical protein
+ehh:EHF_0682	CDS	771838..772278	phosphatidylserine decarboxylase family protein
+ehh:EHF_0683	CDS	772283..773062	CDP-alcohol phosphatidyltransferase family protein
+ehh:EHF_0684	CDS	773083..774465	agcS; amino acid carrier family protein
+ehh:EHF_0685	CDS	774827..776566	yidC; membrane protein insertase, YidC/Oxa1 family
+ehh:EHF_0686	CDS	776568..777014	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+ehh:EHF_0687	CDS	777019..777540	nusB family protein
+ehh:EHF_0688	CDS	777868..780747	uvrA; excinuclease ABC subunit A
+ehh:EHF_0689	CDS	complement(781228..781344)	putative membrane protein
+ehh:EHF_0690	CDS	782365..782736	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3 family protein
+ehh:EHF_0691	CDS	782743..783276	NADH-quinone oxidoreductase, B subunit
+ehh:EHF_0692	CDS	783998..784576	nuoC; NADH-quinone oxidoreductase, subunit C
+ehh:EHF_0693	CDS	complement(784778..785128)	ccmE family protein
+ehh:EHF_0694	CDS	complement(785160..785294)	putative membrane protein
+ehh:EHF_0695	CDS	complement(785291..786061)	surE; 5'/3'-nucleotidase SurE
+ehh:EHF_0696	CDS	complement(786411..787103)	orotidine 5'-phosphate decarboxylase
+ehh:EHF_0697	CDS	complement(787194..787334)	orotidine 5'-phosphate decarboxylase domain protein
+ehh:EHF_0698	CDS	complement(787604..788386)	hydrolase, TatD family protein
+ehh:EHF_0699	CDS	complement(788661..791150)	leuS; leucine--tRNA ligase
+ehh:EHF_0700	CDS	791658..791987	helix-turn-helix domain protein
+ehh:EHF_0701	CDS	792066..792488	rpoZ; DNA-directed RNA polymerase, omega subunit
+ehh:EHF_0702	CDS	792578..793147	smr domain protein
+ehh:EHF_0703	CDS	793273..794934	thiC; thiamine biosynthesis protein ThiC
+ehh:EHF_0704	CDS	complement(796657..797265)	coaE; dephospho-CoA kinase
+ehh:EHF_0705	CDS	797536..798126	tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family
+ehh:EHF_0706	CDS	798662..799549	ATPase associated with various cellular activities family protein
+ehh:EHF_0707	CDS	799894..800178	bacterial DNA-binding family protein
+ehh:EHF_0708	CDS	complement(800179..800895)	pdxJ; pyridoxine 5'-phosphate synthase
+ehh:EHF_0709	CDS	complement(800962..801519)	cytidyltransferase-like domain protein
+ehh:EHF_0710	CDS	802016..802939	hypothetical protein
+ehh:EHF_0711	CDS	complement(803094..804488)	dnaA; chromosomal replication initiator protein DnaA
+ehh:EHF_0712	CDS	complement(804771..805571)	fabI; enoyl-[acyl-carrier-protein] reductase
+ehh:EHF_0713	tRNA	complement(805675..805749)	tRNA-Asp
+ehh:EHF_0714	CDS	complement(806201..807649)	gatB; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit
+ehh:EHF_0715	CDS	complement(807683..809056)	malonyl-CoA decarboxylase family protein
+ehh:EHF_0716	CDS	809204..809677	ssb4; single-stranded DNA-binding protein
+ehh:EHF_0717	CDS	complement(810514..811749)	sugar (and other) transporter family protein
+ehh:EHF_0718	CDS	complement(812173..813411)	sugar (and other) transporter family protein
+ehh:EHF_0719	CDS	complement(814015..816762)	PD-(D/E)XK nuclease superfamily protein
+ehh:EHF_0720	CDS	816983..817978	hemB; delta-aminolevulinic acid dehydratase
+ehh:EHF_0721	CDS	818133..819650	nadE; NAD+ synthetase
+ehh:EHF_0722	CDS	819651..819893	NAD synthase family protein
+ehh:EHF_0723	CDS	complement(820243..822657)	mutS; DNA mismatch repair protein MutS
+ehh:EHF_0724	CDS	822831..823946	hypothetical protein
+ehh:EHF_0725	CDS	823936..824283	HIT domain protein
+ehh:EHF_0726	CDS	complement(824295..824441)	hypothetical protein
+ehh:EHF_0727	CDS	824811..825755	dapA; dihydrodipicolinate synthase
+ehh:EHF_0728	CDS	825967..827121	phage major capsid protein, HK97 family
+ehh:EHF_0729	CDS	complement(827179..827298)	hypothetical protein
+ehh:EHF_0730	CDS	complement(827789..830527)	sucA; oxoglutarate dehydrogenase (succinyl-transferring), E1 component
+ehh:EHF_0731	CDS	830599..830802	hypothetical protein
+ehh:EHF_0732	CDS	831321..832136	phage conserved hypothetical BR0599 family protein
+ehh:EHF_0733	CDS	832450..836061	GTA TIM-barrel-like domain protein
+ehh:EHF_0734	CDS	836704..837996	miaB; tRNA-i(6)A37 thiotransferase enzyme MiaB
+ehh:EHF_0735	CDS	complement(838604..839809)	major Facilitator Superfamily protein
+ehh:EHF_0736	CDS	complement(840164..841606)	ubiB; 2-polyprenylphenol 6-hydroxylase
+ehh:EHF_0737	CDS	complement(841599..842327)	ABC transporter family protein
+ehh:EHF_0738	CDS	842319..843188	periplasmic solute binding family protein
+ehh:EHF_0739	CDS	complement(843782..844369)	recR; recombination protein RecR
+ehh:EHF_0740	CDS	complement(844539..844709)	tatA; twin arginine-targeting translocase, TatA/E family protein
+ehh:EHF_0741	CDS	complement(844735..845757)	ABC transporter family protein
+ehh:EHF_0742	CDS	846171..846575	disulfide bond corrector DsbC family protein
+ehh:EHF_0743	CDS	846842..847507	glutaredoxin family protein
+ehh:EHF_0744	CDS	847750..848508	biotin--[acetyl-CoA-carboxylase] ligase
+ehh:EHF_0745	CDS	849158..851374	hypothetical protein
+ehh:EHF_0746	tRNA	complement(851787..851862)	tRNA-Gly
+ehh:EHF_0747	CDS	852148..853446	purB; adenylosuccinate lyase
+ehh:EHF_0748	CDS	complement(854213..856123)	histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein
+ehh:EHF_0749	CDS	complement(856195..856797)	hypothetical protein
+ehh:EHF_0750	CDS	complement(857026..857658)	nth; endonuclease III
+ehh:EHF_0751	CDS	complement(857676..860372)	gyrA; DNA gyrase, A subunit
+ehh:EHF_0752	CDS	860827..862746	uvrD/REP helicase N-terminal domain protein
+ehh:EHF_0753	CDS	863122..864087	hypothetical protein
+ehh:EHF_0754	CDS	864412..864996	uvrD-like helicase C-terminal domain protein
+ehh:EHF_0755	CDS	865301..866338	hypothetical protein
+ehh:EHF_0756	CDS	complement(866667..866813)	hypothetical protein
+ehh:EHF_0757	CDS	867080..867274	hypothetical protein
+ehh:EHF_0758	CDS	869359..872679	hypothetical protein
+ehh:EHF_0759	CDS	873233..874180	hypothetical protein
+ehh:EHF_0760	CDS	874661..875674	putative pilus retraction ATPase PilT
+ehh:EHF_0761	CDS	876145..877248	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+ehh:EHF_0762	CDS	complement(877817..878329)	ubiquinone biosynthesis COQ7 family protein
+ehh:EHF_0763	CDS	complement(878313..878792)	disulfide bond formation DsbB family protein
+ehh:EHF_0764	CDS	complement(878797..879477)	phosphatidylglycerophosphatase A family protein
+ehh:EHF_0765	CDS	879703..879873	rpmG; ribosomal protein L33
+ehh:EHF_0766	CDS	complement(879851..882457)	ankyrin repeat family protein
+ehh:EHF_0767	CDS	882733..884256	hypothetical protein
+ehh:EHF_0768	CDS	885137..886549	hypothetical protein
+ehh:EHF_0769	CDS	887071..887346	putative acyl carrier protein
+ehh:EHF_0770	CDS	887361..888629	fabF; beta-ketoacyl-acyl-carrier-protein synthase II
+ehh:EHF_0771	CDS	888930..890054	dprA; DNA protecting protein DprA
+ehh:EHF_0772	CDS	complement(890955..893033)	mutL; DNA mismatch repair MutL family protein
+ehh:EHF_0773	CDS	complement(893333..894643)	his Kinase A domain protein
+ehh:EHF_0774	CDS	894902..896074	argD; transaminase, acetylornithine/succinylornithine family protein
+ehh:EHF_0775	CDS	896356..897342	putative membrane protein
+ehh:EHF_0776	CDS	complement(898099..900603)	ftsK/SpoIIIE family protein
+ehh:EHF_0777	CDS	complement(900659..900853)	YGGT family protein
+ehh:EHF_0778	CDS	901094..902386	transporter associated domain protein
+ehh:EHF_0779	CDS	902453..902593	hypothetical protein
+ehh:EHF_0780	CDS	complement(903226..904281)	thiE; thiamine-phosphate pyrophosphorylase
+ehh:EHF_0781	CDS	complement(904711..905532)	kinase/pyrophosphorylase family protein
+ehh:EHF_0782	CDS	complement(906016..906843)	rhodanese-like domain protein
+ehh:EHF_0783	CDS	907004..907117	hypothetical protein
+ehh:EHF_0784	CDS	complement(907134..908030)	fmt; methionyl-tRNA formyltransferase
+ehh:EHF_0785	tRNA	complement(908321..908394)	tRNA-Met
+ehh:EHF_0786	CDS	complement(908849..911257)	lon; ATP-dependent protease La
+ehh:EHF_0787	CDS	complement(911267..912487)	clpX; ATP-dependent Clp protease, ATP-binding subunit ClpX
+ehh:EHF_0788	CDS	complement(912504..913103)	clpP; ATP-dependent Clp endopeptidase, proteolytic subunit ClpP
+ehh:EHF_0789	CDS	complement(913174..914487)	tig; trigger factor
+ehh:EHF_0790	tRNA	complement(914516..914597)	tRNA-Leu
+ehh:EHF_0791	tRNA	complement(914786..914858)	tRNA-Lys
+ehh:EHF_0792	CDS	915390..915881	phosphatidylglycerophosphatase A family protein
+ehh:EHF_0793	CDS	915883..916671	acetyltransferase family protein
+ehh:EHF_0794	CDS	916713..917858	sensory box protein
+ehh:EHF_0795	CDS	complement(917896..918096)	iscX; feS assembly protein IscX
+ehh:EHF_0796	CDS	complement(919474..920517)	hypothetical protein
+ehh:EHF_0797	tRNA	complement(921320..921406)	tRNA-Leu
+ehh:EHF_0798	CDS	complement(921424..922032)	rpsD; ribosomal protein S4
+ehh:EHF_0799	CDS	922419..923087	bacterial dnaA family protein
+ehh:EHF_0800	CDS	923068..923877	thiD; phosphomethylpyrimidine kinase
+ehh:EHF_0801	CDS	complement(924227..925492)	hypothetical protein
+ehh:EHF_0802	CDS	complement(925711..926067)	sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+ehh:EHF_0803	CDS	complement(926080..926466)	sdhC; succinate dehydrogenase, cytochrome b556 subunit
+ehh:EHF_0804	rRNA	complement(926643..928137)	16S ribosomal RNA
+ehh:EHF_0806	CDS	complement(928373..929671)	EPSP synthase family protein
+ehh:EHF_0807	CDS	complement(930115..933477)	dnaE1; DNA polymerase III subunit alpha
+ehh:EHF_0808	CDS	complement(934418..935260)	bacterial EndoU nuclease family protein
+ehh:EHF_0809	CDS	complement(935803..936612)	bacterial EndoU nuclease family protein
+ehh:EHF_0810	CDS	936757..937047	bolA-like family protein
+ehh:EHF_0811	CDS	complement(937439..938032)	pdxH; pyridoxamine 5'-phosphate oxidase
+ehh:EHF_0812	CDS	complement(938519..939457)	patatin-like phospholipase family protein
+ehh:EHF_0813	CDS	complement(939846..940490)	phospholipase/Carboxylesterase family protein
+ehh:EHF_0814	CDS	940999..942417	argH; argininosuccinate lyase
+ehh:EHF_0815	CDS	complement(943378..943962)	polypeptide deformylase family protein
+ehh:EHF_0816	CDS	944125..945177	pyrD; dihydroorotate dehydrogenase
+ehh:EHF_0817	CDS	945189..945968	coaX; pantothenate kinase, type III family protein
+ehh:EHF_0818	CDS	complement(946770..947387)	hypothetical protein
+ehh:EHF_0819	CDS	947545..948015	na+/H+ ion antiporter subunit
+ehh:EHF_0820	CDS	complement(949259..949372)	hypothetical protein
+ehh:EHF_0821	CDS	949682..950311	rnhB; ribonuclease HII
+ehh:EHF_0822	CDS	951269..951388	hypothetical protein
+ehh:EHF_0823	CDS	complement(951641..952057)	putative membrane protein
+ehh:EHF_0824	tRNA	complement(952084..952157)	tRNA-Arg
+ehh:EHF_0825	CDS	complement(952571..953674)	degT/DnrJ/EryC1/StrS aminotransferase family protein
+ehh:EHF_0826	CDS	complement(953895..958127)	rpoC; DNA-directed RNA polymerase, beta' subunit
+ehh:EHF_0827	CDS	complement(958148..962290)	rpoB; DNA-directed RNA polymerase, beta subunit
+ehh:EHF_0828	CDS	complement(962339..962740)	rplL; ribosomal protein L7/L12
+ehh:EHF_0829	CDS	complement(962795..963277)	ribosomal L10 family protein
+ehh:EHF_0830	CDS	complement(963294..963956)	rplA; ribosomal protein L1
+ehh:EHF_0831	CDS	complement(963992..964435)	rplK; ribosomal protein L11
+ehh:EHF_0832	CDS	complement(964438..964977)	nusG; transcription termination/antitermination factor NusG
+ehh:EHF_0833	CDS	complement(964967..965164)	secE; preprotein translocase, SecE subunit
+ehh:EHF_0834	tRNA	complement(965202..965278)	tRNA-Trp
+ehh:EHF_0835	CDS	complement(965294..966481)	translation elongation factor Tu
+ehh:EHF_0836	CDS	complement(966495..968567)	fusA; translation elongation factor G
+ehh:EHF_0837	CDS	complement(968592..969074)	rpsG; ribosomal protein S7
+ehh:EHF_0838	CDS	complement(969090..969461)	rpsL; ribosomal protein S12
+ehh:EHF_0839	CDS	complement(970881..971516)	hypothetical protein
+ehh:EHF_0840	CDS	971692..973314	metallo-beta-lactamase superfamily protein
+ehh:EHF_0841	CDS	973768..974385	COQ9 family protein
+ehh:EHF_0842	CDS	974852..976369	type I secretion membrane fusion , HlyD family protein
+ehh:EHF_0843	CDS	complement(976679..978244)	binding--dependent transport system inner membrane component family protein
+ehh:EHF_0844	CDS	978441..978971	prokaryotic cytochrome b561 family protein
+ehh:EHF_0845	CDS	978980..980008	nitronate monooxygenase family protein
+ehh:EHF_0846	CDS	980368..980982	ahpC/TSA family protein
+ehh:EHF_0847	CDS	981042..982064	PBP superfamily domain protein
+ehh:EHF_0848	CDS	982298..982480	putative 30S ribosomal protein S21
+ehh:EHF_0849	CDS	982551..983714	sucC; succinyl-CoA ligase [ADP-forming] subunit beta
+ehh:EHF_0850	CDS	983722..984609	succinate-CoA ligase, alpha subunit
+ehh:EHF_0851	CDS	complement(985318..987981)	alaS; alanine--tRNA ligase
+ehh:EHF_0852	CDS	complement(988276..988413)	hypothetical protein
+ehh:EHF_0853	CDS	988385..989263	pstC; phosphate ABC transporter, permease protein PstC
+ehh:EHF_0854	CDS	989270..990085	glutamine synthetase, catalytic domain protein
+ehh:EHF_0855	CDS	complement(990842..991633)	metallo-beta-lactamase superfamily protein
+ehh:EHF_0856	CDS	complement(992109..992645)	hypothetical protein
+ehh:EHF_0857	CDS	complement(992635..993207)	hypothetical protein
+ehh:EHF_0858	CDS	complement(993254..994714)	hypothetical protein
+ehh:EHF_0859	CDS	complement(995201..997456)	hypothetical protein
+ehh:EHF_0860	CDS	997700..999115	dihydrolipoyl dehydrogenase
+ehh:EHF_0861	CDS	complement(999440..999658)	putative membrane protein
+ehh:EHF_0862	CDS	complement(1000113..1001378)	transcription termination factor Rho
+ehh:EHF_0863	CDS	complement(1001904..1002545)	hypothetical protein
+ehh:EHF_0864	CDS	1002878..1003078	rpmI; ribosomal protein L35
+ehh:EHF_0865	CDS	1003104..1003478	rplT; ribosomal protein L20
+ehh:EHF_0866	CDS	1003465..1004508	pheS; phenylalanine--tRNA ligase, alpha subunit
+ehh:EHF_0867	CDS	1004502..1005200	short chain dehydrogenase family protein
+ehh:EHF_0868	CDS	1005547..1005717	trm112p-like family protein
+ehh:EHF_0869	CDS	complement(1006241..1007509)	sugar (and other) transporter family protein
+ehh:EHF_0870	CDS	1007741..1008004	rpsP; ribosomal protein S16
+ehh:EHF_0871	CDS	1008004..1008174	hypothetical protein
+ehh:EHF_0872	CDS	complement(1008815..1009858)	futA1; iron uptake protein A1
+ehh:EHF_0873	CDS	1010657..1010791	hypothetical protein
+ehh:EHF_0874	CDS	complement(1010763..1013735)	peptidase MA superfamily protein
+ehh:EHF_0875	CDS	1013956..1016241	hypothetical protein
+ehh:EHF_0876	tRNA	complement(1016323..1016395)	tRNA-Ala
+ehh:EHF_0877	CDS	complement(1016518..1016979)	nrdR; transcriptional regulator NrdR
+ehh:EHF_0878	CDS	1017111..1017404	hypothetical protein
+ehh:EHF_0879	CDS	1017428..1017877	mce related family protein
+ehh:EHF_0880	CDS	1018058..1018357	hypothetical protein
+ehh:EHF_0881	CDS	complement(1018673..1020148)	NADH-Ubiquinone/plastoquinone (complex I), various chains family protein
+ehh:EHF_0882	CDS	1020837..1022306	lnt; apolipoprotein N-acyltransferase
+ehh:EHF_0883	CDS	complement(1023153..1023272)	hypothetical protein
+ehh:EHF_0884	CDS	complement(1023349..1025997)	asmA family protein
+ehh:EHF_0885	CDS	complement(1026122..1028401)	tme; NADP-dependent malic enzyme
+ehh:EHF_0886	CDS	1028656..1028772	hypothetical protein
+ehh:EHF_0887	CDS	complement(1028819..1028941)	putative membrane protein
+ehh:EHF_0888	CDS	1028940..1029617	ABC transporter family protein
+ehh:EHF_0889	CDS	complement(1030210..1031139)	phage integrase family protein
+ehh:EHF_0890	CDS	complement(1031493..1031648)	hypothetical protein
+ehh:EHF_0891	CDS	1031617..1031829	preprotein translocase SecG subunit
+ehh:EHF_0892	CDS	1031845..1033473	pyrG; CTP synthase
+ehh:EHF_0893	CDS	complement(1034277..1034549)	hypothetical protein
+ehh:EHF_0894	CDS	complement(1035052..1036131)	ribD; riboflavin biosynthesis protein RibD
+ehh:EHF_0895	CDS	1036239..1036847	grpE family protein
+ehh:EHF_0896	CDS	1036987..1037982	trpS; tryptophan--tRNA ligase
+ehh:EHF_0897	CDS	complement(1038783..1039550)	putative immunodominant surface protein gp36
+ehh:EHF_0898	tRNA	1039797..1039884	tRNA-Ser
+ehh:EHF_0899	tRNA	complement(1040269..1040347)	tRNA-Pro
+ehh:EHF_0901	CDS	complement(1040731..1041033)	ihfA; integration host factor subunit alpha
+ehh:EHF_0902	CDS	1041346..1041894	thioredoxin-like family protein
+ehh:EHF_0903	CDS	1041881..1042381	purE; N5-carboxyaminoimidazole ribonucleotide mutase
+ehh:EHF_0904	CDS	complement(1042559..1043875)	hypothetical protein
+ehh:EHF_0905	CDS	complement(1043968..1045263)	hypothetical protein
+ehh:EHF_0906	CDS	complement(1045331..1045483)	hypothetical protein
+ehh:EHF_0907	CDS	1045503..1046255	hypothetical protein
+ehh:EHF_0908	CDS	1046299..1046442	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase domain protein
+ehh:EHF_0909	CDS	1046486..1047007	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+ehh:EHF_0910	CDS	1047315..1048403	50S ribosome-binding GTPase family protein
+ehh:EHF_0911	CDS	complement(1048924..1050357)	modulator of DNA gyrase family protein
+ehh:EHF_0912	tRNA	1050420..1050501	tRNA-Leu
+ehh:EHF_0914	CDS	1052927..1053925	transketolase, pyrimidine binding domain protein
+ehh:EHF_0915	CDS	1054478..1054912	hypothetical protein
+ehh:EHF_0916	CDS	1055015..1055596	ahpC/TSA family protein
+ehh:EHF_0917	CDS	1055613..1057319	sodium/hydrogen exchanger family protein
+ehh:EHF_0918	CDS	1057937..1059082	dapE; succinyl-diaminopimelate desuccinylase
+ehh:EHF_0919	CDS	1059087..1059779	phosphoribosyl transferase domain protein
+ehh:EHF_0920	CDS	1060443..1061075	ribosomal protein L25, Ctc-form
+ehh:EHF_0921	CDS	1061091..1061672	pth; peptidyl-tRNA hydrolase
+ehh:EHF_0922	CDS	1061911..1063299	purF; amidophosphoribosyltransferase
+ehh:EHF_0923	CDS	complement(1063737..1064573)	glycine cleavage T-C-terminal barrel domain protein
+ehh:EHF_0924	CDS	complement(1064972..1066879)	cytochrome C assembly family protein
+ehh:EHF_0925	CDS	1067663..1069927	valS; valine--tRNA ligase
+ehh:EHF_0926	CDS	complement(1070010..1070123)	hypothetical protein
+ehh:EHF_0927	CDS	complement(1070534..1070674)	hypothetical protein
+ehh:EHF_0928	CDS	complement(1070764..1071210)	smpB; ssrA-binding protein
+ehh:EHF_0929	CDS	complement(1071232..1071870)	ribB; 3,4-dihydroxy-2-butanone-4-phosphate synthase
+ehh:EHF_0930	CDS	complement(1071888..1072388)	greA; transcription elongation factor GreA domain protein
+ehh:EHF_0931	CDS	complement(1072416..1073942)	atpA; ATP synthase F1, alpha subunit
+ehh:EHF_0932	CDS	complement(1073945..1074508)	atpH; ATP synthase F1, delta subunit
+ehh:EHF_0933	CDS	complement(1074870..1075124)	hypothetical protein
+ehh:EHF_0934	CDS	complement(1075130..1076374)	TPR repeat family protein
+ehh:EHF_0935	CDS	complement(1076371..1077141)	putative lipoprotein
+ehh:EHF_0936	CDS	complement(1077159..1078370)	liporeleasing system, transmembrane , LolC/E family protein
+ehh:EHF_0937	CDS	1078807..1079715	holA; DNA polymerase III, delta subunit
+ehh:EHF_0938	CDS	complement(1080085..1081287)	gshA; glutamate--cysteine ligase
+ehh:EHF_0939	CDS	complement(1081600..1082850)	gltA; citrate (Si)-synthase
+ehh:EHF_0940	CDS	complement(1083544..1085124)	guaA; GMP synthase
+ehh:EHF_0941	CDS	1085403..1085684	hypothetical protein
+ehh:EHF_0942	CDS	complement(1085955..1086092)	hypothetical protein
+ehh:EHF_0943	CDS	complement(1086290..1086508)	hypothetical protein
+ehh:EHF_0944	CDS	complement(1086520..1086897)	hypothetical protein
+ehh:EHF_0945	CDS	complement(1087644..1087793)	hypothetical protein
+ehh:EHF_0946	CDS	complement(1087985..1088125)	hypothetical protein
+ehh:EHF_0947	CDS	complement(1088403..1089611)	pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+ehh:EHF_0949	tRNA	1090878..1090952	tRNA-Cys
+ehh:EHF_0950	CDS	complement(1091496..1092377)	secF; protein-export membrane protein SecF
+ehh:EHF_0951	CDS	1092730..1093128	archaeal holliday junction resolvase family protein
+ehh:EHF_0952	CDS	complement(1093139..1094335)	hemA; 5-aminolevulinic acid synthase
+ehh:EHF_0953	CDS	complement(1094379..1095542)	tyrS; tyrosine--tRNA ligase
+ehh:EHF_0954	tRNA	complement(1095657..1095730)	tRNA-Lys
+ehh:EHF_0955	CDS	1095945..1097354	glnA; glutamine synthetase, type I
+ehh:EHF_0956	CDS	1097563..1098540	polyprenyl synthetase family protein
+ehh:EHF_0957	CDS	complement(1098623..1100473)	ankyrin repeats family protein
+ehh:EHF_0958	CDS	complement(1100534..1101250)	ABC transporter family protein
+ehh:EHF_0959	CDS	complement(1101262..1102059)	permease family protein
+ehh:EHF_0960	CDS	complement(1102653..1103339)	rpe; ribulose-phosphate 3-epimerase
+ehh:EHF_0961	CDS	complement(1103866..1106445)	polA; DNA polymerase I
+ehh:EHF_0962	CDS	1106769..1107131	hypothetical protein
+ehh:EHF_0963	CDS	1107474..1108385	argF; ornithine carbamoyltransferase
+ehh:EHF_0964	CDS	1108845..1109966	recF/RecN/SMC N terminal domain protein
+ehh:EHF_0965	CDS	complement(1110595..1111362)	uracil-DNA glycosylase, 4 family protein
+ehh:EHF_0966	CDS	complement(1111396..1111953)	def; peptide deformylase
+ehh:EHF_0967	CDS	1112980..1113690	acyltransferase family protein
+ehh:EHF_0968	CDS	1113903..1114190	rpsT; ribosomal protein S20
+ehh:EHF_0969	CDS	complement(1114568..1115197)	toluene tolerance, Ttg2 family protein
+ehh:EHF_0970	CDS	complement(1115526..1116446)	cation diffusion facilitator transporter family protein
+ehh:EHF_0971	tRNA	complement(1116472..1116548)	tRNA-Val
+ehh:EHF_0972	CDS	complement(1116857..1117519)	ccmB family protein
+ehh:EHF_0973	CDS	1117630..1118088	prokaryotic dksA/traR C4-type zinc finger family protein
+ehh:EHF_0974	CDS	complement(1118201..1119163)	NAD dependent epimerase/dehydratase family protein
+ehh:EHF_0975	CDS	complement(1119563..1121605)	helicase conserved C-terminal domain protein
+ehh:EHF_0976	CDS	1121713..1122264	flavofamily protein
+ehh:EHF_0977	CDS	complement(1122454..1123773)	trmE; tRNA modification GTPase TrmE
+ehh:EHF_0978	CDS	complement(1124248..1125060)	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+ehh:EHF_0979	CDS	1125292..1125960	MJ0042 family finger-like domain protein
+ehh:EHF_0980	CDS	1125957..1127123	xseA; exodeoxyribonuclease VII, large subunit
+ehh:EHF_0981	CDS	complement(1127568..1128752)	phosphoglycerate kinase family protein
+ehh:EHF_0982	CDS	1129513..1129944	hypothetical protein
+ehh:EHF_0983	CDS	1130214..1131020	dapF; diaminopimelate epimerase
+ehh:EHF_0984	CDS	1131105..1131584	hypothetical protein
+ehh:EHF_0985	CDS	1131659..1132726	methyltransferase domain protein
+ehh:EHF_0986	tRNA	1133134..1133222	tRNA-Leu
+ehh:EHF_0987	CDS	1133242..1134342	GTP cyclohydrolase II family protein
+ehh:EHF_0988	CDS	1134482..1135186	virB8 family protein
+ehh:EHF_0989	CDS	1135221..1135988	P-type conjugative transfer protein VirB9
+ehh:EHF_0990	CDS	1136010..1137320	bacterial conjugation TrbI-like family protein
+ehh:EHF_0991	CDS	1137335..1138333	virB11; P-type DNA transfer ATPase VirB11
+ehh:EHF_0992	CDS	1138479..1140512	type IV secretory system Conjugative DNA transfer family protein
+ehh:EHF_0993	CDS	complement(1141189..1142943)	immunodominant surface domain protein
+ehh:EHF_0994	CDS	1143319..1143603	4Fe-4S binding domain protein
+ehh:EHF_0995	CDS	complement(1143768..1144709)	nadA; quinolinate synthetase complex, A subunit
+ehh:EHF_0996	CDS	complement(1144731..1145480)	methyltransferase domain protein
+ehh:EHF_0997	CDS	1145750..1146931	phage portal protein, HK97 family
+ehh:EHF_0998	CDS	1147079..1147612	phage prohead protease, HK97 family
+ehh:EHF_0999	CDS	complement(1147595..1148482)	transporter associated domain protein
