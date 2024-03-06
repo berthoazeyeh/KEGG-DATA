@@ -1,0 +1,2681 @@
+cpr:CPR_A0001	CDS	pSM101A:1237..1677	conserved domain protein
+cpr:CPR_A0002	CDS	pSM101A:2060..2632	res_1; resolvase
+cpr:CPR_A0003	CDS	pSM101A:complement(2714..3745)	N-acetylmuramoyl-L-alanine amidase domain protein
+cpr:CPR_A0004	CDS	pSM101A:3983..4549	uviA; uviA protein - Clostridium perfringens plasmid pIP404
+cpr:CPR_A0005	CDS	pSM101A:4600..4797	bacteriocin-related protein
+cpr:CPR_A0006	CDS	pSM101A:4894..8097	bcn_2; bacteriocin
+cpr:CPR_A0007	CDS	pSM101A:8113..8400	hypothetical protein
+cpr:CPR_A0008	CDS	pSM101A:8525..9076	protein T24A6.7
+cpr:CPR_A0009	CDS	pSM101A:10874..11167	Ribbon-helix-helix protein, copG family domain protein
+cpr:CPR_A0010	CDS	pSM101A:11173..11433	orf14; ORF17
+cpr:CPR_B0001	CDS	pSM101B:complement(551..3190)	bcn_3; bacteriocin
+cpr:CPR_B0002	CDS	pSM101B:complement(3443..3637)	uviB; bacteriocin UviB
+cpr:CPR_B0003	CDS	pSM101B:complement(3718..4290)	bacteriocin uviA
+cpr:CPR_B0004	CDS	pSM101B:4586..5614	N-acetylmuramoyl-L-alanine amidase domain protein
+cpr:CPR_B0005	CDS	pSM101B:complement(5707..6063)	hypothetical protein
+cpr:CPR_B0006	CDS	pSM101B:complement(6089..6658)	res_2; resolvase
+cpr:CPR_B0007	CDS	pSM101B:complement(6875..7315)	hypothetical protein
+cpr:CPR_B0008	CDS	pSM101B:complement(7565..8542)	Phage integrase family domain protein
+cpr:CPR_B0009	CDS	pSM101B:complement(9367..9867)	conserved hypothetical protein
+cpr:CPR_B0010	CDS	pSM101B:complement(10401..11621)	replication protein
+cpr:CPR_B0011	gene	pSM101B:complement(11729..12176)	CPR_B0011
+cpr:CPR_0001	CDS	236..1609	dnaA; chromosomal replication initiator protein DnaA
+cpr:CPR_0002	CDS	1903..3003	dnaN; DNA polymerase III, beta subunit
+cpr:CPR_0003	CDS	3129..3335	S4 domain protein
+cpr:CPR_0004	CDS	3391..4476	recF; DNA replication and repair protein RecF
+cpr:CPR_0005	CDS	4490..4750	conserved hypothetical protein
+cpr:CPR_0006	CDS	4987..6903	gyrB; DNA gyrase, B subunit
+cpr:CPR_0007	CDS	6925..9444	gyrA; DNA gyrase, A subunit
+cpr:CPR_0008	tRNA	14815..14891	tRNA-Met
+cpr:CPR_0009	tRNA	14898..14973	tRNA-Ala
+cpr:CPR_0010	CDS	15246..15749	conserved hypothetical protein
+cpr:CPR_0011	CDS	16163..18919	putative membrane protein
+cpr:CPR_0012	CDS	19126..20520	BFD-like 2Fe-2S binding domain protein
+cpr:CPR_0013	CDS	20533..20766	conserved hypothetical protein
+cpr:CPR_0014	CDS	21118..22395	serS; serine--tRNA ligase
+cpr:CPR_0015	CDS	22575..23003	hypothetical protein
+cpr:CPR_0016	tRNA	23343..23433	tRNA-Ser
+cpr:CPR_0017	tRNA	23467..23557	tRNA-Ser
+cpr:CPR_0018	CDS	23816..24082	hypothetical protein
+cpr:CPR_0019	tRNA	24189..24279	tRNA-Ser
+cpr:CPR_0020	tRNA	24285..24375	tRNA-Ser
+cpr:CPR_0021	CDS	complement(24413..24595)	hypothetical protein
+cpr:CPR_0022	CDS	24844..25725	conserved hypothetical protein
+cpr:CPR_0023	CDS	complement(25815..25979)	hypothetical protein
+cpr:CPR_0024	CDS	26188..29664	addB; ATP-dependent nuclease subunit B
+cpr:CPR_0025	CDS	29654..33466	addA; recombination helicase AddA
+cpr:CPR_0026	CDS	complement(33505..34773)	polyA polymerase family protein
+cpr:CPR_0027	CDS	34910..35881	HD domain protein
+cpr:CPR_0028	CDS	complement(35912..37072)	ErfK/YbiS/YcfS/YnhG family protein
+cpr:CPR_0029	CDS	37264..38484	pepT; peptidase T
+cpr:CPR_0030	CDS	complement(38590..39465)	degV family protein
+cpr:CPR_0031	tRNA	39655..39731	tRNA-Arg
+cpr:CPR_0032	CDS	39903..41042	hypothetical protein
+cpr:CPR_0033	CDS	complement(41233..42117)	psd; phosphatidylserine decarboxylase
+cpr:CPR_0034	CDS	42280..42849	transcriptional regulator, TetR family
+cpr:CPR_0035	tRNA	42904..42978	tRNA-Arg
+cpr:CPR_0036	CDS	43123..44388	putative transporter
+cpr:CPR_0037	CDS	44391..44822	cytidine/deoxycytidylate deaminase family protein
+cpr:CPR_0038	CDS	44885..45343	hypothetical protein
+cpr:CPR_0039	CDS	45652..46257	conserved hypothetical protein
+cpr:CPR_0040	CDS	complement(46356..47828)	conserved hypothetical protein
+cpr:CPR_0041	CDS	48157..49353	plc; phospholipase C
+cpr:CPR_0042	CDS	49541..50467	CobW/P47K family protein
+cpr:CPR_0043	CDS	50487..51071	conserved hypothetical protein
+cpr:CPR_0044	CDS	51074..51967	putative permease
+cpr:CPR_0045	CDS	51980..52699	conserved hypothetical protein
+cpr:CPR_0046	CDS	52966..53754	lgt_1; prolipoprotein diacylglyceryl transferase
+cpr:CPR_0047	tRNA	54005..54094	tRNA-Ser
+cpr:CPR_0048	CDS	54526..55029	putative lipoprotein
+cpr:CPR_0049	CDS	55466..56752	brnQ_1; branched-chain amino acid transport system II carrier protein
+cpr:CPR_0050	CDS	57053..57856	putative membrane protein
+cpr:CPR_0051	CDS	57840..58637	putative membrane protein
+cpr:CPR_0052	CDS	58640..59392	putative membrane protein
+cpr:CPR_0053	CDS	59420..60064	antibiotic ABC transporter, ATP-binding protein
+cpr:CPR_0054	CDS	complement(60140..60625)	folA; dihydrofolate reductase
+cpr:CPR_0055	CDS	60816..62459	dnaX; DNA polymerase III, gamma and tau subunits
+cpr:CPR_0056	CDS	62571..62909	conserved hypothetical protein TIGR00103
+cpr:CPR_0057	CDS	63007..63603	recR; recombination protein RecR
+cpr:CPR_0058	CDS	63829..64107	conserved hypothetical protein
+cpr:CPR_0059	CDS	64123..64401	bofA; pro-sigmaK processing inhibitor BofA
+cpr:CPR_0060	CDS	64677..65807	putative membrane protein
+cpr:CPR_0061	CDS	65971..66150	hypothetical protein
+cpr:CPR_0062	CDS	66219..66401	hypothetical protein
+cpr:CPR_0063	CDS	66565..67641	aminotransferase, class V
+cpr:CPR_0064	CDS	67711..68616	putative D-3-phosphoglycerate dehydrogenase
+cpr:CPR_0065	CDS	68750..70006	conserved hypothetical protein
+cpr:CPR_0066	CDS	complement(70062..70757)	mtnN; MTA/SAH nucleosidase
+cpr:CPR_0067	CDS	71133..71894	HesA/MoeB/ThiF family protein
+cpr:CPR_0068	CDS	72186..73361	major facilitator family transporter
+cpr:CPR_0069	CDS	73377..74315	acetyltransferase, GNAT family
+cpr:CPR_0070	CDS	74407..75018	dGK2; deoxyguanosine kinase/deoxyadenosine kinase
+cpr:CPR_0071	tRNA	80412..80487	tRNA-Lys
+cpr:CPR_0072	CDS	80628..81692	Bacterial extracellular solute-binding protein domain protein
+cpr:CPR_0073	CDS	complement(81767..82069)	hypothetical protein
+cpr:CPR_0074	CDS	complement(82188..82829)	putative lipoprotein signal peptidase
+cpr:CPR_0075	CDS	83160..83963	putative methyltransferase
+cpr:CPR_0076	CDS	84152..84952	conserved hypothetical protein
+cpr:CPR_0077	tRNA	90676..90752	tRNA-Met
+cpr:CPR_0078	tRNA	90758..90833	tRNA-Ala
+cpr:CPR_0079	CDS	91596..92918	putative amino acid permease
+cpr:CPR_0080	CDS	92993..93193	hypothetical protein
+cpr:CPR_0081	CDS	93524..95548	glgB_1; 1,4-alpha-glucan branching enzyme
+cpr:CPR_0082	CDS	95591..97024	glycogen synthase
+cpr:CPR_0083	CDS	97054..99489	glycogen phosphorylase
+cpr:CPR_0084	CDS	99856..101676	pullulanase
+cpr:CPR_0085	CDS	101731..102174	hypothetical protein
+cpr:CPR_0086	CDS	102399..103565	glgC; glucose-1-phosphate adenylyltransferase
+cpr:CPR_0087	CDS	103595..104701	glgD; glucose-1-phosphate adenylyltransferase, GlgD subunit
+cpr:CPR_0088	CDS	104764..105210	putative acetobutylicum phosphotransbutyrylase
+cpr:CPR_0089	CDS	complement(105377..106789)	cls_1; cardiolipin synthetase
+cpr:CPR_0090	tRNA	112669..112744	tRNA-Lys
+cpr:CPR_0091	CDS	113027..113875	SACPA operon antiterminator
+cpr:CPR_0092	CDS	complement(113907..114386)	putative PTS system, N-acetylglucosamine-specific IIA component
+cpr:CPR_0093	CDS	115034..116479	nagE; PTS system, N-acetylglucosamine-specific IIBC component
+cpr:CPR_0094	CDS	complement(116548..117066)	transcriptional regulator, TetR family
+cpr:CPR_0095	tRNA	122457..122531	tRNA-Asn
+cpr:CPR_0096	CDS	123190..125280	fusA_1; translation elongation factor G
+cpr:CPR_0097	CDS	125703..125939	conserved hypothetical protein
+cpr:CPR_0098	CDS	126191..127138	putative glucokinase
+cpr:CPR_0099	CDS	127697..128239	rubredoxin/rubrerythrin
+cpr:CPR_0100	CDS	128573..129196	phosphoglycerate mutase family protein
+cpr:CPR_0101	CDS	130082..130354	hypothetical protein
+cpr:CPR_0102	CDS	complement(130753..131706)	ldh; L-lactate dehydrogenase
+cpr:CPR_0103	CDS	132319..133494	putative membrane protein
+cpr:CPR_0104	CDS	133613..134053	hypothetical protein
+cpr:CPR_0105	CDS	134261..135058	putative uncharacterized conserved membrane protein CAC2649
+cpr:CPR_0106	CDS	complement(135198..136520)	GTP-binding protein
+cpr:CPR_0107	CDS	complement(137279..137563)	hypothetical protein
+cpr:CPR_0108	CDS	complement(137986..139407)	putative thiazole biosynthesis protein ThiH
+cpr:CPR_0109	CDS	complement(139513..139764)	conserved hypothetical protein
+cpr:CPR_0110	CDS	140209..141771	conserved domain protein
+cpr:CPR_0111	CDS	141919..142146	conserved hypothetical protein
+cpr:CPR_0112	CDS	142431..142655	conserved hypothetical protein
+cpr:CPR_0113	CDS	complement(142715..143674)	putative N-acetylmuramoyl-L-alanine amidase
+cpr:CPR_0114	CDS	complement(143687..144859)	hypothetical protein
+cpr:CPR_0115	CDS	complement(144871..146121)	conserved hypothetical protein
+cpr:CPR_0116	CDS	146237..147037	putative membrane protein
+cpr:CPR_0117	CDS	147177..147857	DNA-binding response regulator
+cpr:CPR_0118	CDS	147854..148867	sensor histidine kinase
+cpr:CPR_0119	CDS	149643..150413	ABC transporter, ATP-binding protein
+cpr:CPR_0120	CDS	150403..152382	putative ABC transporter, permease protein
+cpr:CPR_0121	CDS	152671..152883	conserved hypothetical protein
+cpr:CPR_0122	CDS	153171..153497	conserved hypothetical protein
+cpr:CPR_0123	CDS	153732..154748	C4-dicarboxylate transporter family protein
+cpr:CPR_0124	CDS	155200..155352	hypothetical protein
+cpr:CPR_0125	CDS	complement(155573..156466)	putative membrane protein
+cpr:CPR_0126	CDS	complement(156697..157851)	ISCpe2, transposase orfB
+cpr:CPR_0127	CDS	complement(157862..158062)	ISCpe2, transposase orfA
+cpr:CPR_0128	CDS	158400..159638	cinA family protein
+cpr:CPR_0129	CDS	160288..161214	CAAX amino terminal protease family protein
+cpr:CPR_0130	CDS	complement(161508..162101)	hypothetical protein
+cpr:CPR_0131	CDS	complement(162570..162992)	HesB-like domain protein
+cpr:CPR_0132	CDS	163211..163798	rbr_1; rubrerythrin
+cpr:CPR_0133	CDS	complement(163961..164506)	conserved hypothetical protein
+cpr:CPR_0134	CDS	164801..164893	hypothetical protein
+cpr:CPR_0135	CDS	164936..165061	hypothetical protein
+cpr:CPR_0136	CDS	165329..166885	ABC transporter, ATP-binding protein
+cpr:CPR_0137	CDS	167240..169240	hypothetical protein
+cpr:CPR_0138	CDS	complement(169323..169484)	hypothetical protein
+cpr:CPR_0139	CDS	169595..170170	BRO family, N-terminal domain protein
+cpr:CPR_0140	CDS	171167..172339	nad-dependent malic enzyme
+cpr:CPR_0141	CDS	172365..173330	mleP; malate permease
+cpr:CPR_0142	CDS	complement(173401..174294)	malolactic regulator, LysR family
+cpr:CPR_0143	CDS	174754..175314	kptA; RNA 2'-phosphotransferase
+cpr:CPR_0144	CDS	175735..177909	cell wall surface anchor family protein
+cpr:CPR_0145	CDS	177913..179481	putative surface protein
+cpr:CPR_0146	CDS	179660..180481	sortase family protein
+cpr:CPR_0147	CDS	180611..181177	conserved hypothetical protein
+cpr:CPR_0148	CDS	181726..182889	transposase, IS605 OrfB family
+cpr:CPR_0149	CDS	183066..183743	putative membrane protein
+cpr:CPR_0150	CDS	184413..185069	conserved domain protein
+cpr:CPR_0151	CDS	185146..185739	protein T24A6.7
+cpr:CPR_0152	CDS	186214..187245	putative membrane protein
+cpr:CPR_0153	CDS	187437..187895	conserved hypothetical protein
+cpr:CPR_0154	CDS	187966..188184	conserved hypothetical protein
+cpr:CPR_0155	CDS	188938..190425	amino acid permease family protein
+cpr:CPR_0156	CDS	190582..192651	beta-galactosidase
+cpr:CPR_0157	CDS	193204..194445	arcA; arginine deiminase
+cpr:CPR_0158	CDS	194553..195548	argF; ornithine carbamoyltransferase
+cpr:CPR_0159	CDS	195692..197128	arcD; arginine/ornithine antiporter
+cpr:CPR_0160	CDS	197182..198126	arcC; carbamate kinase
+cpr:CPR_0161	CDS	198199..198654	argR_1; arginine repressor
+cpr:CPR_0162	CDS	199196..202510	colA; microbial collagenase
+cpr:CPR_0163	CDS	complement(202649..203116)	mscL; large conductance mechanosensitive channel protein
+cpr:CPR_0164	CDS	203860..204483	methyltransferase, UbiE/COQ5 family
+cpr:CPR_0165	CDS	204547..205701	metC; cystathionine beta-lyase
+cpr:CPR_0166	CDS	205688..206596	cysteine synthase family protein
+cpr:CPR_0167	CDS	206694..207149	luxS; autoinducer-2 production protein LuxS
+cpr:CPR_0168	CDS	207441..208595	ISCpe2, transposase orfB
+cpr:CPR_0169	CDS	209320..210294	alpha/beta hydrolase domain protein
+cpr:CPR_0170	CDS	complement(210570..211361)	conserved hypothetical protein
+cpr:CPR_0171	CDS	complement(211366..212184)	putative ABC transporter, permease protein
+cpr:CPR_0172	CDS	complement(212187..213212)	ABC transporter, ATP-binding protein
+cpr:CPR_0173	CDS	213523..214191	nitroreductase family protein
+cpr:CPR_0174	CDS	214465..215130	nanE; N-acetylmannosamine-6-phosphate epimerase
+cpr:CPR_0175	CDS	215167..216033	nanA; N-acetylneuraminate lyase
+cpr:CPR_0176	CDS	216135..217652	sodium:solute transporter
+cpr:CPR_0177	CDS	217750..218202	conserved hypothetical protein
+cpr:CPR_0178	CDS	218353..219240	ROK family protein
+cpr:CPR_0179	CDS	219431..220270	transcriptional regulator, RpiR family
+cpr:CPR_0180	CDS	complement(220458..220847)	putative membrane protein
+cpr:CPR_0181	gene	221109..223243	nagH; nagH
+cpr:CPR_0182	CDS	224119..224862	cbiM; cobalamin biosynthesis protein CbiM
+cpr:CPR_0183	CDS	224862..225173	cobalt/cobalamin transport protein CbiN
+cpr:CPR_0184	CDS	225157..225927	cbiQ; cobalt ABC transporter, permease protein CbiQ
+cpr:CPR_0185	CDS	225942..226799	cobalt ABC transporter, ATP-binding protein
+cpr:CPR_0186	CDS	227354..227545	hypothetical protein
+cpr:CPR_0187	CDS	227770..229335	ISCpe5, transposase
+cpr:CPR_0188	CDS	complement(229532..230395)	5'-nucleotidase, lipoprotein e(P4) family
+cpr:CPR_0189	CDS	complement(230618..231817)	peptidase, M23/M37 family
+cpr:CPR_0190	CDS	232097..232753	putative membrane protein
+cpr:CPR_0191	tRNA	238171..238246	tRNA-Phe
+cpr:CPR_0192	CDS	238759..239388	putative transferase
+cpr:CPR_0193	CDS	239941..240210	conserved hypothetical protein
+cpr:CPR_0194	CDS	241743..242324	hypothetical protein
+cpr:CPR_0195	CDS	complement(242461..244836)	sensory box histidine kinase
+cpr:CPR_0196	CDS	245815..246006	putative site-specific integrase-resolvase, degenerate
+cpr:CPR_0197	CDS	246218..246457	putative transposase
+cpr:CPR_0198	CDS	246681..246953	ISCpe4, transposase
+cpr:CPR_0199	CDS	247074..248171	acyltransferase family protein
+cpr:CPR_0200	CDS	248354..249235	putative membrane protein
+cpr:CPR_0201	CDS	249264..251462	hypothetical protein
+cpr:CPR_0202	CDS	complement(251679..252494)	mechanosensitive ion channel family protein
+cpr:CPR_0203	CDS	complement(253101..253745)	heme oxygenase
+cpr:CPR_0204	CDS	254146..255369	putative nuclease SbcCD, D subunit
+cpr:CPR_0205	CDS	255356..258874	sbcC; exonuclease SbcC
+cpr:CPR_0206	CDS	259277..260473	ackA_1; acetate kinase
+cpr:CPR_0207	CDS	260909..261730	DnaJ domain protein
+cpr:CPR_0208	CDS	complement(261979..262737)	transcriptional regulator, AraC family
+cpr:CPR_0209	CDS	262883..265114	cell wall anchor domain protein
+cpr:CPR_0210	CDS	265177..265824	putative iron transporter
+cpr:CPR_0211	CDS	265826..266389	sortase family protein
+cpr:CPR_0212	CDS	266403..267290	putative iron chelate uptake ABC transporter, solute-binding protein
+cpr:CPR_0213	CDS	267277..268263	iron chelate uptake ABC transporter, FeCT family, permease protein
+cpr:CPR_0214	CDS	268264..269043	fhuC; iron chelate uptake ABC transporter, FeCT family, ATP-binding protein
+cpr:CPR_0215	CDS	269085..270812	ABC transporter, permease/ATP-binding protein
+cpr:CPR_0216	CDS	270813..272501	ABC transporter, permease/ATP-binding protein
+cpr:CPR_0217	CDS	272488..272883	conserved hypothetical protein
+cpr:CPR_0218	CDS	272858..273163	conserved hypothetical protein
+cpr:CPR_0219	CDS	273681..273881	transposase, IS605 family
+cpr:CPR_0221	CDS	274995..275180	iron-sulfur cluster-binding protein
+cpr:CPR_0222	CDS	complement(275281..276618)	putative glycerol-3-phosphate transporter
+cpr:CPR_0223	CDS	complement(276819..277838)	putative iron compound ABC transporter, iron compound-binding protein
+cpr:CPR_0224	CDS	complement(277819..278607)	conserved hypothetical protein
+cpr:CPR_0225	CDS	complement(278600..280030)	sensor histidine kinase
+cpr:CPR_0226	CDS	complement(280020..280691)	DNA-binding response regulator
+cpr:CPR_0227	CDS	280981..282180	transporter, monovalent cation:proton antiporter-2 (CPA2) family
+cpr:CPR_0228	tRNA	complement(282349..282424)	tRNA-Met
+cpr:CPR_0229	CDS	282597..283373	hypothetical protein
+cpr:CPR_0230	CDS	283786..285216	hypothetical protein
+cpr:CPR_0231	CDS	285219..285911	hypothetical protein
+cpr:CPR_0232	CDS	complement(286009..286329)	putative immunity protein
+cpr:CPR_0233	CDS	286464..286712	hypothetical protein
+cpr:CPR_0234	CDS	286725..287495	CAAX amino terminal protease family protein
+cpr:CPR_0235	CDS	complement(287587..289914)	GGDEF/EAL domain protein
+cpr:CPR_0236	CDS	290169..291437	dnaJ domain protein
+cpr:CPR_0237	CDS	291455..292057	putative co-chaperone GrpE
+cpr:CPR_0238	CDS	292045..293772	dnaK family protein
+cpr:CPR_0239	CDS	293790..294524	hypothetical protein
+cpr:CPR_0240	CDS	294796..295569	putative protein-tyrosine-phosphatase
+cpr:CPR_0241	CDS	complement(295736..296146)	conserved hypothetical protein
+cpr:CPR_0242	CDS	296320..296505	conserved hypothetical protein
+cpr:CPR_0243	CDS	296518..296766	conserved hypothetical protein
+cpr:CPR_0244	gene	complement(296864..297594)	pseudogene
+cpr:CPR_0245	CDS	297960..299114	ISCpe2, transposase orfB
+cpr:CPR_0246	CDS	299341..299823	transcriptional regulator, CarD family
+cpr:CPR_0247	CDS	300278..301414	mechanosensitive ion channel family protein
+cpr:CPR_0248	CDS	301411..302034	putative copper homeostasis protein CutC
+cpr:CPR_0249	CDS	complement(302918..303595)	ung; uracil-DNA glycosylase
+cpr:CPR_0250	tRNA	309623..309698	tRNA-Phe
+cpr:CPR_0251	CDS	complement(309812..310279)	AhpC/TSA family protein
+cpr:CPR_0252	gene	complement(310437..311595)	CPR_0252
+cpr:CPR_0253	CDS	311887..312633	PPIC-type PPIASE domain protein
+cpr:CPR_0254	CDS	313090..313902	ABC-2 type transporter, permease protein
+cpr:CPR_0255	CDS	313920..315092	ABC transporter, ATP-binding protein
+cpr:CPR_0256	CDS	315106..316389	glycosyl transferase, group 1 family protein
+cpr:CPR_0257	CDS	316408..317643	glycosyl transferase, group 1 family protein
+cpr:CPR_0258	CDS	317657..318838	ABC transporter, ATP-binding protein
+cpr:CPR_0259	CDS	318953..320386	glycosyl transferase, group 1 family protein
+cpr:CPR_0260	CDS	complement(320522..321175)	haloacid dehalogenase, IA family protein
+cpr:CPR_0261	CDS	complement(321257..322606)	[Fe] hydrogenase
+cpr:CPR_0262	CDS	322745..322891	hypothetical protein
+cpr:CPR_0263	tRNA	complement(323069..323144)	tRNA-Pro
+cpr:CPR_0264	CDS	323179..323568	hypothetical protein
+cpr:CPR_0265	CDS	323753..325051	NlpC/P60 family
+cpr:CPR_0266	CDS	325246..325995	conserved hypothetical protein
+cpr:CPR_0267	CDS	325998..326840	tetrapyrrole methylase family protein
+cpr:CPR_0268	CDS	complement(327007..327246)	transcriptional regulator, AbrB family
+cpr:CPR_0269	CDS	327936..328535	conserved hypothetical protein
+cpr:CPR_0270	CDS	complement(328572..329447)	putative aldose 1-epimerase
+cpr:CPR_0271	CDS	complement(329558..330580)	putative transcriptional regulator
+cpr:CPR_0272	CDS	330756..331607	yihY; YihY family protein
+cpr:CPR_0273	CDS	complement(331668..332654)	galE_1; UDP-glucose 4-epimerase
+cpr:CPR_0274	CDS	332808..333152	single-strand DNA-binding protein
+cpr:CPR_0275	CDS	complement(333227..334426)	metallo-beta-lactamase family/flavodoxin
+cpr:CPR_0276	gene	complement(334905..335216)	CPR_0276
+cpr:CPR_0277	gene	complement(335129..335710)	pseudogene
+cpr:CPR_0278	CDS	complement(335925..337115)	transposase, IS605 OrfB family
+cpr:CPR_0279	CDS	complement(337515..337841)	surface layer protein B
+cpr:CPR_0280	CDS	complement(337838..340060)	Glycosyl hydrolase family 85 family
+cpr:CPR_0281	CDS	340430..340735	conserved hypothetical protein
+cpr:CPR_0282	CDS	340784..341185	acpS; holo-(acyl-carrier-protein) synthase
+cpr:CPR_0283	CDS	341172..342671	carbohydrate kinase family protein
+cpr:CPR_0284	CDS	342732..343325	conserved hypothetical protein
+cpr:CPR_0285	CDS	343571..343813	conserved hypothetical protein
+cpr:CPR_0286	CDS	343819..344172	PemK family protein
+cpr:CPR_0287	CDS	344609..345433	putative transketolase, N-terminal subunit
+cpr:CPR_0288	CDS	345433..346377	putative transketolase, C-terminal subunit
+cpr:CPR_0289	CDS	346496..346588	hypothetical protein
+cpr:CPR_0290	CDS	346604..347461	putative membrane protein
+cpr:CPR_0291	CDS	347659..348345	putative cell division ATP-binding protein FtsE
+cpr:CPR_0292	CDS	348335..349243	putative cell division protein
+cpr:CPR_0293	CDS	349332..350618	carboxyl-terminal protease
+cpr:CPR_0294	CDS	350641..351921	putative membrane protein
+cpr:CPR_0295	CDS	352009..353988	uvrB; excinuclease ABC, B subunit
+cpr:CPR_0296	CDS	354250..355101	degV family protein
+cpr:CPR_0297	CDS	355337..356062	ABC transporter, ATP-binding protein
+cpr:CPR_0298	CDS	356055..357653	putative membrane protein
+cpr:CPR_0299	CDS	357875..358879	putative lipase
+cpr:CPR_0300	CDS	359038..360603	MutS domain protein
+cpr:CPR_0301	CDS	360618..361304	FCD domain protein
+cpr:CPR_0302	CDS	361538..363061	lctP; L-lactate permease
+cpr:CPR_0303	CDS	363156..363944	etfB; electron transfer flavoprotein, beta subunit
+cpr:CPR_0304	CDS	363957..365150	etfA; electron transfer flavoprotein, alpha subunit
+cpr:CPR_0305	CDS	365152..366552	putative glycolate oxidase, subunit GlcD
+cpr:CPR_0306	CDS	complement(366635..367033)	conserved hypothetical protein
+cpr:CPR_0307	CDS	367580..367762	hypothetical protein
+cpr:CPR_0308	CDS	complement(367889..368269)	conserved hypothetical protein
+cpr:CPR_0309	CDS	368588..369262	putative membrane protein
+cpr:CPR_0310	CDS	complement(369455..370078)	DedA family protein
+cpr:CPR_0311	CDS	complement(370175..372832)	cation-transporting ATPase, P-type
+cpr:CPR_0312	CDS	373372..374169	conserved hypothetical protein TIGR00266
+cpr:CPR_0313	CDS	374725..375297	xpt_1; xanthine phosphoribosyltransferase
+cpr:CPR_0314	CDS	complement(375355..376407)	IS1470, transposase
+cpr:CPR_0315	CDS	complement(376507..377469)	Initiator RepB protein family
+cpr:CPR_0316	CDS	378173..378439	hypothetical protein
+cpr:CPR_0317	CDS	complement(378759..378950)	putative bacteriocin
+cpr:CPR_0318	CDS	379345..379890	lactococcin g processing and transport atp-binding protein
+cpr:CPR_0319	CDS	379915..381282	lactococcin g processing and transport atp-binding protein
+cpr:CPR_0320	CDS	381323..382297	putative bacteriocin ABC exporter accessory factor
+cpr:CPR_0321	CDS	complement(382323..383375)	IS1470, transposase
+cpr:CPR_0322	gene	383974..384552	pseudogene
+cpr:CPR_0324	CDS	complement(385434..386738)	putative membrane protein
+cpr:CPR_0325	CDS	387010..388395	TldD/PmbA family protein
+cpr:CPR_0326	CDS	388411..389760	TldD/PmbA family protein
+cpr:CPR_0327	CDS	390069..391655	L-aspartate beta-decarboxylase
+cpr:CPR_0328	CDS	391776..393941	recQ_1; ATP-dependent DNA helicase RecQ
+cpr:CPR_0329	CDS	394570..397389	uvrA; excinuclease ABC, A subunit
+cpr:CPR_0330	CDS	397724..398158	FHA domain protein
+cpr:CPR_0331	CDS	398172..399401	cell cycle protein, FtsW/RodA/SpoVE family
+cpr:CPR_0332	CDS	399402..400865	putative penicillin-binding protein
+cpr:CPR_0333	CDS	400975..402837	uvrC; excinuclease ABC, C subunit
+cpr:CPR_0334	CDS	402987..403901	murB; UDP-N-acetylmuramate dehydrogenase
+cpr:CPR_0335	CDS	404139..405023	conserved hypothetical protein
+cpr:CPR_0336	CDS	405020..406366	conserved hypothetical protein
+cpr:CPR_0337	CDS	406369..407319	conserved hypothetical protein
+cpr:CPR_0338	CDS	407492..408046	putative lioprotein
+cpr:CPR_0339	CDS	408436..409686	DNA polymerase III, subunit alpha (dnaE)-like protein
+cpr:CPR_0340	CDS	409999..412350	DNA polymerase III, alpha subunit, interruption-C
+cpr:CPR_0341	CDS	413062..414021	pfkA; 6-phosphofructokinase
+cpr:CPR_0342	CDS	414114..415517	pyk_1; pyruvate kinase
+cpr:CPR_0343	CDS	416096..416452	conserved hypothetical protein
+cpr:CPR_0344	CDS	416580..417377	oxidoreductase, short chain dehydrogenase/reductase family
+cpr:CPR_0345	CDS	417548..419083	cls; cardiolipin synthetase family protein
+cpr:CPR_0346	CDS	complement(419301..419459)	conserved hypothetical protein
+cpr:CPR_0347	CDS	419726..421285	transcriptional regulator, GntR family/aminotransferase
+cpr:CPR_0348	CDS	421587..422954	rumA_1; 23S rRNA (uracil-5-)-methyltransferase RumA
+cpr:CPR_0349	CDS	423429..424142	DNA helicase II related protein, putative
+cpr:CPR_0350	CDS	424236..425420	DNA helicase II related protein, putative
+cpr:CPR_0351	CDS	425575..425802	hypothetical protein
+cpr:CPR_0352	CDS	426313..426726	hypothetical protein
+cpr:CPR_0353	CDS	426758..427765	putative prophage ps3 protein 01
+cpr:CPR_0354	CDS	428005..429006	hypothetical protein
+cpr:CPR_0355	CDS	429015..430664	conserved hypothetical protein
+cpr:CPR_0356	CDS	430630..431337	hypothetical protein
+cpr:CPR_0357	CDS	431330..435721	hypothetical protein
+cpr:CPR_0358	CDS	436049..436771	IS1470, transposase
+cpr:CPR_0359	CDS	437050..437607	conserved hypothetical protein
+cpr:CPR_0360	CDS	438044..440602	cell wall surface anchor family protein
+cpr:CPR_0361	CDS	441124..441693	transcriptional regulator, TetR family
+cpr:CPR_0362	CDS	442098..443891	67 kDa myosin-cross-reactive antigen family protein
+cpr:CPR_0363	CDS	444282..446015	ABC transporter, permease/ATP-binding protein
+cpr:CPR_0364	CDS	446008..447789	ABC transporter, permease/ATP-binding protein
+cpr:CPR_0365	CDS	complement(447873..448271)	conserved domain protein
+cpr:CPR_0366	CDS	448493..448891	toxin secretion/phage lysis holin
+cpr:CPR_0367	CDS	complement(449054..449974)	polysaccharide deacetylase family protein
+cpr:CPR_0368	CDS	450192..450485	conserved domain protein
+cpr:CPR_0369	CDS	complement(450508..451239)	transcriptional regulator, GntR family
+cpr:CPR_0370	CDS	451473..452258	udp; uridine phosphorylase
+cpr:CPR_0371	CDS	453718..454908	deoB; phosphopentomutase
+cpr:CPR_0372	CDS	complement(455320..456765)	putative arginine/ornithine antiporter
+cpr:CPR_0373	CDS	complement(456811..457773)	histidine decarboxylase, pyruvoyl type
+cpr:CPR_0374	CDS	458241..459074	Ser/Thr protein phosphatase family protein
+cpr:CPR_0375	CDS	459199..459351	hypothetical protein
+cpr:CPR_0376	CDS	459666..460571	nadA; quinolinate synthetase complex, A subunit
+cpr:CPR_0377	CDS	460576..461871	nadB; L-aspartate oxidase
+cpr:CPR_0378	CDS	461852..462691	nadC; nicotinate-nucleotide diphosphorylase (carboxylating)
+cpr:CPR_0379	CDS	462821..463873	IS1470, transposase
+cpr:CPR_0380	CDS	complement(464151..464378)	hypothetical protein
+cpr:CPR_0381	CDS	complement(464981..465940)	cpe; enterotoxin Cpe
+cpr:CPR_0382	CDS	complement(467148..467603)	IS1469, transposase
+cpr:CPR_0383	CDS	467936..468988	IS1470, transposase
+cpr:CPR_0384	CDS	complement(469142..470500)	uracil-xanthine permease
+cpr:CPR_0385	CDS	471091..471408	hypothetical protein
+cpr:CPR_0386	CDS	471421..471708	putative dna repair protein rad50
+cpr:CPR_0387	CDS	471719..472252	hypothetical protein
+cpr:CPR_0388	CDS	472816..474153	brnQ_2; branched-chain amino acid transport system II carrier protein
+cpr:CPR_0389	CDS	474429..475280	conserved hypothetical protein
+cpr:CPR_0390	CDS	475454..478411	polysaccharide lyase, family 8
+cpr:CPR_0391	CDS	478518..479348	kduI_1; 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+cpr:CPR_0392	CDS	479364..480140	kduD; 2-deoxy-D-gluconate 3-dehydrogenase
+cpr:CPR_0393	CDS	480137..480778	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase
+cpr:CPR_0394	CDS	480782..481801	kinase, pfkB family
+cpr:CPR_0395	CDS	481964..482794	kduI_2; 4-deoxy-l-threo-5-hexosulose-uronate ketol-isomerase
+cpr:CPR_0396	CDS	482811..484001	putative glucuronyl hydrolase
+cpr:CPR_0397	CDS	484017..484505	PTS system, mannose/fructose/sorbose family, IIB component
+cpr:CPR_0398	CDS	484554..485345	PTS system, mannose/fructose/sorbose family, IIC component
+cpr:CPR_0399	CDS	485311..486144	PTS system, mannose/fructose/sorbose family, IID component
+cpr:CPR_0400	CDS	486214..486627	PTS system, mannose/fructose/sorbose family, IIA component
+cpr:CPR_0401	CDS	486630..486908	yajC; preprotein translocase, YajC subunit
+cpr:CPR_0402	CDS	487046..489064	heparinase II/III-like protein
+cpr:CPR_0403	CDS	489098..490111	sugar-binding transcriptional regulator, LacI family
+cpr:CPR_0404	CDS	490411..491757	probable reticuline oxidase
+cpr:CPR_0405	CDS	491792..492145	conserved hypothetical protein
+cpr:CPR_0406	CDS	492464..492781	ISCpe2, transposase orfA
+cpr:CPR_0407	CDS	492792..493286	ISCpe2, transposase orfB
+cpr:CPR_0410	CDS	494288..494848	Carbonic anhydrase
+cpr:CPR_0411	CDS	495026..495664	conserved hypothetical protein
+cpr:CPR_0412	CDS	495689..496078	conserved hypothetical protein
+cpr:CPR_0413	CDS	496222..498093	hsp90; heat shock protein
+cpr:CPR_0414	CDS	498265..499842	conserved hypothetical protein
+cpr:CPR_0415	CDS	499872..500678	conserved hypothetical protein
+cpr:CPR_0416	CDS	500889..501881	transcriptional regulator, LacI family
+cpr:CPR_0417	CDS	502193..503857	putative oligo-1,6-glucosidase
+cpr:CPR_0418	CDS	504021..505676	PTS system, IIBC component
+cpr:CPR_0419	CDS	505687..506478	endonuclease/exonuclease/phosphatase family protein
+cpr:CPR_0420	CDS	506819..507562	glpQ; glycerophosphodiester phosphodiesterase
+cpr:CPR_0421	CDS	507618..510230	helicase/exonuclease
+cpr:CPR_0422	CDS	510406..511065	trmB; tRNA (guanine-N(7)-)-methyltransferase
+cpr:CPR_0423	CDS	511510..512793	conserved hypothetical protein
+cpr:CPR_0424	CDS	513258..513836	hypothetical protein
+cpr:CPR_0425	CDS	514065..514220	hypothetical protein
+cpr:CPR_0426	CDS	514615..515142	hypothetical protein
+cpr:CPR_0427	CDS	complement(515230..515772)	lepB; signal peptidase I
+cpr:CPR_0428	CDS	515971..516813	conserved hypothetical protein
+cpr:CPR_0429	CDS	517425..518264	hydrolase, alpha/beta fold family
+cpr:CPR_0430	CDS	518721..519200	acetyltransferase, GNAT family
+cpr:CPR_0431	CDS	complement(519269..519604)	conserved hypothetical protein
+cpr:CPR_0432	CDS	complement(519610..520026)	conserved hypothetical protein
+cpr:CPR_0433	CDS	520567..521904	CBS/transporter associated domain protein
+cpr:CPR_0434	CDS	522152..522811	putative sulfite/nitrite reductase
+cpr:CPR_0435	CDS	523001..523174	BFD-like iron-sulfur cluster-binding protein
+cpr:CPR_0436	CDS	523441..523812	transcriptional regulator, GntR family
+cpr:CPR_0437	CDS	523846..524709	ABC transporter, ATP-binding protein
+cpr:CPR_0438	CDS	524711..525334	ABC transporter, permease protein
+cpr:CPR_0439	CDS	525336..526025	putative membrane protein
+cpr:CPR_0440	CDS	526263..526643	gloA; lactoylglutathione lyase
+cpr:CPR_0441	CDS	complement(526779..527345)	transcriptional regulator, araC family domain protein
+cpr:CPR_0442	CDS	527534..528682	alcohol dehydrogenase, iron-containing
+cpr:CPR_0443	CDS	528996..529319	conserved hypothetical protein
+cpr:CPR_0444	CDS	529431..529829	glyoxalase family protein
+cpr:CPR_0445	CDS	complement(530074..530859)	transcriptional regulator, MerR family
+cpr:CPR_0446	CDS	530972..532792	putative membrane protein
+cpr:CPR_0447	CDS	533095..533604	DedA family protein
+cpr:CPR_0448	CDS	533921..534625	DNA-binding response regulator
+cpr:CPR_0449	CDS	534600..536831	sensor histidine kinase
+cpr:CPR_0450	CDS	537134..538171	putative membrane protein
+cpr:CPR_0451	CDS	538889..539302	conserved hypothetical protein
+cpr:CPR_0452	CDS	539783..540481	capsule chain length determinant protein
+cpr:CPR_0453	CDS	540495..541148	capsular polysaccharide biosynthesis protein
+cpr:CPR_0454	CDS	541348..542016	capsular polysaccharide biosynthesis protein
+cpr:CPR_0455	CDS	542031..542165	hypothetical protein
+cpr:CPR_0456	CDS	542179..543408	UDP-glucose/GDP-mannose dehydrogenase family
+cpr:CPR_0457	CDS	543421..543846	putative Bacterial transferase hexapeptide
+cpr:CPR_0458	CDS	543856..544596	putative beta-1,4-N-acetyl-mannosaminyltransferase
+cpr:CPR_0459	CDS	544598..545650	putative glycosytransferase
+cpr:CPR_0460	CDS	545657..547540	heparinase II/III-like protein
+cpr:CPR_0461	CDS	547553..548392	glycosyl transferase, group 2 family
+cpr:CPR_0462	CDS	548373..549548	putative polysaccharide polymerase
+cpr:CPR_0463	CDS	549505..550239	hypothetical protein
+cpr:CPR_0464	CDS	550248..551708	putative polysaccharide transporter protein
+cpr:CPR_0465	CDS	552664..553584	galU; UTP-glucose-1-phosphate uridylyltransferase
+cpr:CPR_0466	CDS	553994..554641	putative RNA polymerase sigma factor
+cpr:CPR_0467	CDS	554961..557204	hypothetical protein
+cpr:CPR_0468	CDS	557282..558298	galE_2; UDP-glucose 4-epimerase
+cpr:CPR_0469	CDS	558338..559282	galU_2; UTP-glucose-1-phosphate uridylyltransferase
+cpr:CPR_0470	CDS	559605..560297	conserved hypothetical protein
+cpr:CPR_0471	CDS	560509..560880	ISCpe2, transposase orfA
+cpr:CPR_0472	CDS	560891..562045	ISCpe2, transposase orfB
+cpr:CPR_0473	tRNA	562274..562349	tRNA-Met
+cpr:CPR_0474	CDS	complement(562383..563237)	transcriptional regulator, AraC family
+cpr:CPR_0475	CDS	563529..565721	aga; alpha-galactosidase
+cpr:CPR_0476	CDS	566372..567655	ABC transporter, substrate-binding protein
+cpr:CPR_0477	CDS	567700..568647	ABC transporter, permease protein
+cpr:CPR_0478	CDS	568664..569491	ABC transporter, permease protein
+cpr:CPR_0479	CDS	complement(569581..570330)	sortase family protein
+cpr:CPR_0480	CDS	570569..571069	putative peptidase
+cpr:CPR_0481	CDS	572429..573064	conserved domain protein
+cpr:CPR_0482	CDS	573112..573843	conserved domain protein
+cpr:CPR_0483	CDS	573846..574472	hypothetical protein
+cpr:CPR_0484	CDS	574489..576357	von Willebrand factor type A domain protein
+cpr:CPR_0485	CDS	576452..578017	ISCpe5, transposase
+cpr:CPR_0486	CDS	578381..579097	DNA-binding response regulator
+cpr:CPR_0487	CDS	579102..580397	sensor histidine kinase
+cpr:CPR_0488	CDS	580574..581380	hypothetical protein
+cpr:CPR_0489	CDS	581802..582245	PTS system, L-Ascorbate family, IIA component
+cpr:CPR_0490	CDS	582420..582692	PTS system, lactose/cellobiose-specific IIB component
+cpr:CPR_0491	CDS	582734..584005	PTS system, L-Ascorbate family, IIC component
+cpr:CPR_0492	CDS	584234..585028	HAD hydrolase, IIB family
+cpr:CPR_0493	CDS	complement(585163..585609)	transcriptional regulator, MarR family
+cpr:CPR_0494	CDS	585931..588228	ABC transporter, permease/ATP-binding protein
+cpr:CPR_0495	CDS	588221..590077	ABC transporter, permease/ATP-binding protein
+cpr:CPR_0496	CDS	590221..590325	hypothetical protein
+cpr:CPR_0497	CDS	590592..591473	hypothetical protein
+cpr:CPR_0498	CDS	591728..592777	transporter, auxin efflux carrier family
+cpr:CPR_0499	CDS	593105..594103	idhA; D-lactate dehydrogenase
+cpr:CPR_0500	CDS	594394..595944	sensor histidine kinase
+cpr:CPR_0501	CDS	595944..596612	response regulator
+cpr:CPR_0502	CDS	597024..597554	putative lipoprotein
+cpr:CPR_0503	CDS	597909..598550	putative membrane protein
+cpr:CPR_0504	CDS	598761..599174	hypothetical protein
+cpr:CPR_0505	CDS	599399..600109	ISCpe2, transposase orfB
+cpr:CPR_0506	CDS	600161..600550	ISCpe2, transposase orfB
+cpr:CPR_0507	CDS	600703..601818	NAD-dependent 4-hydroxybutyrate dehydrogenase
+cpr:CPR_0508	CDS	602050..602730	TrkA domain protein
+cpr:CPR_0509	CDS	complement(602860..603312)	transcriptional regulator, MarR family
+cpr:CPR_0510	CDS	603993..605384	amino acid/peptide transporter
+cpr:CPR_0511	CDS	complement(605747..605962)	hypothetical protein
+cpr:CPR_0512	CDS	606454..608004	nitrite/sulfite reductase homolog
+cpr:CPR_0513	CDS	608318..609133	speD; S-adenosylmethionine decarboxylase
+cpr:CPR_0514	CDS	609151..610605	Orn/Lys/Arg decarboxylase
+cpr:CPR_0515	CDS	610620..611471	speE; spermidine synthase
+cpr:CPR_0516	CDS	611458..612315	speB; agmatinase
+cpr:CPR_0517	CDS	complement(612631..612894)	conserved hypothetical protein
+cpr:CPR_0518	CDS	complement(613160..615829)	copper-exporting ATPase
+cpr:CPR_0519	CDS	616121..616777	flavodoxin family protein
+cpr:CPR_0520	CDS	617705..617809	hypothetical protein
+cpr:CPR_0521	CDS	618058..619194	glycine betaine/carnitine/choline transport ATP-binding protein
+cpr:CPR_0522	CDS	619187..620740	glycine betaine/carnitine/choline ABC transporter, permease/substrate-binding protein
+cpr:CPR_0523	CDS	620996..621571	RNA polymerase sigma-70 factor
+cpr:CPR_0524	CDS	621564..622652	conserved hypothetical protein
+cpr:CPR_0525	CDS	623002..623823	PTS system, trehalose-specific IIB component
+cpr:CPR_0526	CDS	623886..624101	oligo-1,6-glucosidase, truncation
+cpr:CPR_0527	CDS	624365..625072	trehalose operon transcriptional repressor
+cpr:CPR_0528	CDS	complement(625524..627710)	stage V sporulation protein D
+cpr:CPR_0529	CDS	628052..628720	putative N-acetylmuramoyl-l-alanine amidase
+cpr:CPR_0530	CDS	629200..630297	ribD; riboflavin biosynthesis protein RibD
+cpr:CPR_0531	CDS	630319..630972	ribE; riboflavin synthase, alpha subunit
+cpr:CPR_0532	CDS	631121..632320	ribA; riboflavin biosynthesis protein RibA
+cpr:CPR_0533	CDS	632447..632908	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+cpr:CPR_0534	CDS	complement(633001..633408)	conserved hypothetical protein TIGR00149
+cpr:CPR_0535	CDS	633805..634053	conserved hypothetical protein
+cpr:CPR_0536	CDS	634257..634349	hypothetical protein
+cpr:CPR_0537	CDS	634342..636546	conserved hypothetical protein TIGR02336
+cpr:CPR_0538	CDS	636725..638476	sensor histidine kinase
+cpr:CPR_0539	CDS	638489..640078	DNA-binding response regulator, AraC family
+cpr:CPR_0540	CDS	640231..641616	ABC transporter, substrate-binding protein
+cpr:CPR_0541	CDS	641695..642621	ABC transporter, permease protein
+cpr:CPR_0542	CDS	642623..643504	ABC transporter, permease protein
+cpr:CPR_0543	CDS	643852..644547	DedA family protein
+cpr:CPR_0544	CDS	644537..645649	iron-sulfur cluster-binding protein
+cpr:CPR_0545	CDS	645813..646400	CDP-alcohol phosphatidyltransferase family
+cpr:CPR_0546	CDS	646419..646982	ISCpe2, transposase orfA
+cpr:CPR_0547	CDS	646993..648147	ISCpe2, transposase orfB
+cpr:CPR_0548	CDS	648503..649135	conserved hypothetical protein
+cpr:CPR_0549	CDS	649128..650126	phosphate transporter family protein
+cpr:CPR_0550	CDS	complement(650364..652256)	fruA; PTS system, fructose-specific, IIABC component
+cpr:CPR_0551	CDS	complement(652260..653180)	fruK; 1-phosphofructokinase
+cpr:CPR_0552	CDS	complement(653180..653926)	transcriptional regulator, DeoR family
+cpr:CPR_0553	CDS	654217..654669	hypothetical protein
+cpr:CPR_0554	CDS	complement(654719..655819)	putative membrane protein
+cpr:CPR_0555	CDS	656116..656736	isochorismatase family protein
+cpr:CPR_0556	CDS	656994..658307	voltage-gated chloride channel family protein
+cpr:CPR_0557	CDS	658610..659533	glutaminase
+cpr:CPR_0558	CDS	659866..660588	MgtC family protein
+cpr:CPR_0559	tRNA	665896..665970	tRNA-Glu
+cpr:CPR_0560	CDS	666620..667312	sfsA; sugar fermentation stimulation protein
+cpr:CPR_0561	CDS	667786..668325	hydrolase, NUDIX family
+cpr:CPR_0562	CDS	668735..670030	lysA; diaminopimelate decarboxylase
+cpr:CPR_0563	CDS	670388..670654	conserved hypothetical protein
+cpr:CPR_0564	CDS	670657..671187	signal peptidase I
+cpr:CPR_0565	CDS	671212..673353	ftsH; ATP-dependent metalloprotease FtsH
+cpr:CPR_0566	CDS	673573..675693	conserved hypothetical protein
+cpr:CPR_0567	CDS	676152..676988	amino acid ABC transporter, amino acid-binding protein
+cpr:CPR_0568	CDS	677019..677690	amino acid ABC transporter, permease protein, His/Glu/Gln/Arg/opine family
+cpr:CPR_0569	CDS	677687..678409	amino acid ABC transporter, ATP-binding protein
+cpr:CPR_0570	CDS	678647..680455	sulfatase family protein
+cpr:CPR_0571	CDS	680759..681463	glycosyltransferase ycbB
+cpr:CPR_0572	CDS	681465..681815	putative membrane protein
+cpr:CPR_0573	CDS	681802..682158	putative membrane protein
+cpr:CPR_0574	CDS	682173..683441	putative membrane protein
+cpr:CPR_0575	CDS	683456..685282	sulfatase family protein
+cpr:CPR_0576	CDS	complement(685339..686520)	cation efflux family protein
+cpr:CPR_0577	CDS	686886..688181	zinc metalloprotease, aminopeptidase I family
+cpr:CPR_0578	CDS	complement(688273..688467)	conserved hypothetical protein
+cpr:CPR_0579	CDS	688858..689697	HAD hydrolase, IIB family
+cpr:CPR_0580	CDS	complement(689905..693234)	membrane protein, MmpL family
+cpr:CPR_0581	CDS	complement(693495..695090)	prfC; peptide chain release factor 3
+cpr:CPR_0582	CDS	complement(695303..695908)	conserved domain protein
+cpr:CPR_0583	CDS	696294..697094	HAD hydrolase, IIB family
+cpr:CPR_0584	CDS	697159..697788	glycosyltransferase
+cpr:CPR_0585	CDS	697807..698529	tagA_1; N-acetyl-mannosamine transferase
+cpr:CPR_0586	CDS	698533..699630	glycosyl transferase, group 1 family
+cpr:CPR_0587	CDS	699623..701059	putative membrane protein
+cpr:CPR_0588	CDS	701139..702272	glycosyl transferase, group 1 family
+cpr:CPR_0589	CDS	702289..703089	LicD family protein
+cpr:CPR_0590	CDS	703110..704561	putative polysaccharide biosynthesis protein
+cpr:CPR_0591	CDS	704680..706401	cell wall binding repeat/zinc carboxypeptidase family protein
+cpr:CPR_0592	CDS	706497..709172	cell wall binding repeat/mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+cpr:CPR_0593	CDS	709292..710950	cell wall binding repeat domain protein
+cpr:CPR_0594	CDS	711069..712937	choline/ehtanolamine kinase family protein
+cpr:CPR_0595	CDS	712965..713933	putative membrane protein
+cpr:CPR_0596	CDS	714080..714763	nucleotidyl transferase family protein
+cpr:CPR_0597	CDS	complement(714858..716162)	surface protein pspA precursor
+cpr:CPR_0598	CDS	complement(716266..717279)	Cell envelope-related transcriptional attenuator domain family
+cpr:CPR_0599	CDS	complement(717556..718830)	brnQ_3; branched-chain amino acid transport system II carrier protein
+cpr:CPR_0600	CDS	719562..720560	trpS; tryptophanyl-tRNA synthetase
+cpr:CPR_0601	CDS	720975..721514	hypothetical protein
+cpr:CPR_0602	CDS	721625..722467	arylsulfatase regulator, putative
+cpr:CPR_0603	CDS	722930..723760	pstS_1; phosphate ABC transporter, phosphate-binding protein
+cpr:CPR_0604	CDS	724146..724802	pstS_2; phosphate ABC transporter, phosphate-binding protein
+cpr:CPR_0605	CDS	724884..725771	pstC; phosphate ABC transporter, permease protein PstC
+cpr:CPR_0606	CDS	725774..726598	pstA; phosphate ABC transporter, permease protein PstA
+cpr:CPR_0607	CDS	726616..727377	pstB; phosphate ABC transporter, ATP-binding protein
+cpr:CPR_0608	CDS	727402..728055	phoU; phosphate transport system regulatory protein PhoU
+cpr:CPR_0609	CDS	728215..728910	DNA-binding response regulator
+cpr:CPR_0610	CDS	complement(729082..729705)	conserved hypothetical protein
+cpr:CPR_0611	CDS	complement(729739..730155)	flavodoxin
+cpr:CPR_0612	CDS	complement(730573..732231)	glnS; glutaminyl-tRNA synthetase
+cpr:CPR_0613	CDS	complement(732484..732639)	conserved hypothetical protein
+cpr:CPR_0614	CDS	complement(732794..733882)	spore germination protein
+cpr:CPR_0615	CDS	733978..735399	spore germination protein, GerABKA family
+cpr:CPR_0616	CDS	735374..736498	spore germination protein, GerABKC family
+cpr:CPR_0617	CDS	736650..737783	AAA domain family protein
+cpr:CPR_0618	CDS	737859..738272	hypothetical protein
+cpr:CPR_0619	CDS	738558..739778	tyrS; tyrosine--tRNA ligase
+cpr:CPR_0620	CDS	740034..740726	Ser/Thr protein phosphatase family protein
+cpr:CPR_0621	CDS	740845..741636	relA/spoT family protein
+cpr:CPR_0622	CDS	741909..742694	conserved hypothetical protein
+cpr:CPR_0623	CDS	742811..743926	conserved hypothetical protein
+cpr:CPR_0624	CDS	743940..745277	conserved hypothetical protein
+cpr:CPR_0625	CDS	745582..745899	ISCpe2, transposase orfA
+cpr:CPR_0626	CDS	745910..747064	ISCpe2, transposase orfB
+cpr:CPR_0627	CDS	747268..748659	hypothetical protein
+cpr:CPR_0628	CDS	complement(748907..749959)	IS1470, transposase
+cpr:CPR_0629	CDS	complement(750154..750612)	hypothetical protein
+cpr:CPR_0630	CDS	751113..752336	ISCpe3, transposase
+cpr:CPR_0631	CDS	752746..753816	bcn_1; bacteriocin
+cpr:CPR_0632	CDS	complement(753868..754236)	conserved hypothetical protein
+cpr:CPR_0633	CDS	754350..755456	replication protein
+cpr:CPR_0634	CDS	complement(755938..756408)	ISCpe7, transposase
+cpr:CPR_0635	CDS	complement(756396..756956)	ISCpe7, transposase
+cpr:CPR_0636	CDS	757082..758575	conserved hypothetical protein
+cpr:CPR_0637	CDS	758584..759405	4Fe-4S binding domain protein/radical SAM domain protein
+cpr:CPR_0638	CDS	759697..760212	hypothetical protein
+cpr:CPR_0639	CDS	complement(760316..761119)	tetratricopeptide repeat domain protein
+cpr:CPR_0640	CDS	complement(761437..762747)	F5/8 type C domain protein
+cpr:CPR_0641	CDS	complement(763038..763364)	hesB family protein
+cpr:CPR_0642	CDS	complement(763466..763810)	hesB family protein
+cpr:CPR_0643	CDS	764454..764996	hypothetical protein
+cpr:CPR_0644	CDS	765499..766506	hypothetical protein
+cpr:CPR_0645	CDS	complement(766652..769102)	leuS; leucine--tRNA ligase
+cpr:CPR_0646	CDS	769541..769684	conserved hypothetical protein
+cpr:CPR_0648	CDS	769950..771002	IS1470, transposase
+cpr:CPR_0647	CDS	complement(770999..771409)	hypothetical protein
+cpr:CPR_0649	CDS	complement(771413..771736)	transcriptional regulator, PadR family
+cpr:CPR_0650	CDS	771961..772431	hypothetical protein
+cpr:CPR_0651	CDS	772498..773028	lexa repressor
+cpr:CPR_0652	CDS	773314..773541	hypothetical protein
+cpr:CPR_0653	CDS	773607..773738	conserved hypothetical protein
+cpr:CPR_0654	CDS	complement(774122..774295)	hypothetical protein
+cpr:CPR_0655	CDS	complement(774295..774666)	conserved hypothetical protein
+cpr:CPR_0656	CDS	complement(774733..775845)	putative bacteriocin ABC transporter
+cpr:CPR_0657	CDS	complement(775832..776338)	conserved hypothetical protein
+cpr:CPR_0658	CDS	complement(776316..778598)	lactococcin g processing and transport atp-binding protein
+cpr:CPR_0659	CDS	779002..779808	IS1470, transposase
+cpr:CPR_0660	CDS	779827..780054	IS1470, transposase
+cpr:CPR_0661	CDS	complement(780153..780713)	NUDIX domain protein
+cpr:CPR_0662	CDS	781006..781368	hypothetical protein
+cpr:CPR_0663	CDS	781565..782551	birA; BirA bifunctional protein
+cpr:CPR_0664	CDS	782708..783793	HRDC domain protein
+cpr:CPR_0665	CDS	783954..784688	putative membrane protein
+cpr:CPR_0666	CDS	784878..785183	hypothetical protein
+cpr:CPR_0667	CDS	785429..786079	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+cpr:CPR_0668	CDS	786586..787896	thiC; thiamine biosynthesis protein ThiC
+cpr:CPR_0669	CDS	788135..791935	phosphoribosylformylglycinamidine synthase
+cpr:CPR_0670	CDS	792258..792737	purE; phosphoribosylaminoimidazole carboxylase, catalytic subunit
+cpr:CPR_0671	CDS	792737..793444	purC; phosphoribosylaminoimidazolesuccinocarboxamide synthase
+cpr:CPR_0672	CDS	793490..794911	purF; amidophosphoribosyltransferase
+cpr:CPR_0673	CDS	794912..795913	purM; phosphoribosylformylglycinamidine cyclo-ligase
+cpr:CPR_0674	CDS	795901..796515	purN; phosphoribosylglycinamide formyltransferase
+cpr:CPR_0675	CDS	796528..798033	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+cpr:CPR_0676	CDS	798149..799399	purD; phosphoribosylamine--glycine ligase
+cpr:CPR_0677	tRNA	complement(799831..799919)	tRNA-Leu
+cpr:CPR_0678	CDS	800340..800657	ISCpe2, transposase orfA
+cpr:CPR_0679	CDS	800668..801822	ISCpe2, transposase orfB
+cpr:CPR_0680	CDS	801988..802350	conserved hypothetical protein
+cpr:CPR_0681	CDS	complement(803020..804042)	ISCpe7, transposase
+cpr:CPR_0682	CDS	804166..804708	rubredoxin/rubrerythrin
+cpr:CPR_0683	CDS	805105..805752	putative transaldolase
+cpr:CPR_0684	CDS	complement(806227..806328)	ISCpe5, transposase
+cpr:CPR_0685	CDS	complement(806344..806703)	ISCpe5, transposase
+cpr:CPR_0686	CDS	complement(806755..807021)	ISCpe5, transposase
+cpr:CPR_0687	CDS	807225..807704	Fibronectin type III domain protein
+cpr:CPR_0688	CDS	808176..809189	aroF; 3-deoxy-7-phosphoheptulonate synthase
+cpr:CPR_0689	CDS	809310..810362	aroB; 3-dehydroquinate synthase
+cpr:CPR_0690	CDS	810385..811659	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+cpr:CPR_0691	CDS	811723..812796	aroC; chorismate synthase
+cpr:CPR_0692	CDS	812966..813259	chorismate mutase
+cpr:CPR_0693	CDS	814079..814894	aroE; shikimate dehydrogenase
+cpr:CPR_0694	CDS	815057..815560	aroK; shikimate kinase
+cpr:CPR_0695	CDS	815627..816067	aroQ; 3-dehydroquinate dehydratase, type II
+cpr:CPR_0696	CDS	816145..816660	hypothetical protein
+cpr:CPR_0697	CDS	816830..817672	hypothetical protein
+cpr:CPR_0698	CDS	817798..818688	ABC transporter, ATP-binding protein
+cpr:CPR_0699	CDS	818690..819901	putative lipoprotein
+cpr:CPR_0700	CDS	820431..820913	transcriptional regulator, AsnC family
+cpr:CPR_0701	CDS	820910..822088	aminotransferase, class I/II
+cpr:CPR_0702	CDS	822203..823228	hypothetical protein
+cpr:CPR_0703	CDS	complement(823285..823758)	hypothetical protein
+cpr:CPR_0704	CDS	824477..824980	acetyltransferase, GNAT family
+cpr:CPR_0705	CDS	825300..826502	DHHA1 domain protein
+cpr:CPR_0706	CDS	826557..827561	glycosyl transferase, group 2 family protein
+cpr:CPR_0707	CDS	827711..828886	putative membrane protein
+cpr:CPR_0708	CDS	829146..829910	transcriptional regulator, DeoR family
+cpr:CPR_0709	CDS	830043..830831	HAD hydrolase, IIB family
+cpr:CPR_0710	CDS	831052..831183	ISCpe2, transposase orfA
+cpr:CPR_0711	CDS	831194..832348	ISCpe2, transposase orfB
+cpr:CPR_0712	CDS	complement(832891..833943)	IS1470, transposase
+cpr:CPR_0713	CDS	834321..835019	conserved hypothetical protein
+cpr:CPR_0714	CDS	complement(835235..836131)	transcriptional regulator, LysR family
+cpr:CPR_0715	CDS	836481..838181	pyridine nucleotide-disulphide oxidoreductase family protein
+cpr:CPR_0716	CDS	838287..839573	YeeE/YedE family protein
+cpr:CPR_0717	CDS	839662..840993	amino acid permease family protein
+cpr:CPR_0718	CDS	complement(841151..841813)	putative fibronectin-binding protein
+cpr:CPR_0719	CDS	complement(842088..842366)	conserved hypothetical protein
+cpr:CPR_0720	CDS	842980..843312	putative transcriptional regulator
+cpr:CPR_0721	CDS	843338..844549	putative cytochrome C-type biogenesis protein
+cpr:CPR_0722	CDS	844799..845200	ISCpe2, transposase orfA
+cpr:CPR_0723	CDS	845211..846365	ISCpe2, transposase orfB
+cpr:CPR_0724	CDS	846497..848218	alpha/beta hydrolase fold family protein
+cpr:CPR_0725	CDS	848561..850012	cstA; carbon starvation protein CstA
+cpr:CPR_0726	CDS	850156..850458	hypothetical protein
+cpr:CPR_0727	CDS	complement(850546..851100)	conserved hypothetical protein
+cpr:CPR_0728	CDS	851498..852199	ABC transporter, ATP-binding protein
+cpr:CPR_0729	CDS	852216..855614	putative ABC transporter, permease protein
+cpr:CPR_0730	CDS	complement(855721..856431)	hypothetical protein
+cpr:CPR_0731	CDS	complement(856452..856895)	hypothetical protein
+cpr:CPR_0732	CDS	complement(856897..857772)	metallo-beta-lactamase superfamily domain protein
+cpr:CPR_0733	CDS	858073..859386	hypothetical protein
+cpr:CPR_0734	CDS	859999..860337	conserved hypothetical protein
+cpr:CPR_0735	CDS	complement(860439..861890)	cls_2; cardiolipin synthetase
+cpr:CPR_0736	CDS	862338..862832	hydrolase, NUDIX family
+cpr:CPR_0737	CDS	complement(862996..864258)	codA; cytosine deaminase
+cpr:CPR_0738	CDS	864500..865111	putative creatininase
+cpr:CPR_0739	CDS	865160..866086	putative membrane protein
+cpr:CPR_0740	CDS	complement(866196..867395)	putative regulatory protein
+cpr:CPR_0741	CDS	867584..867706	peptide deformylase domain protein
+cpr:CPR_0742	CDS	complement(867786..869051)	proton/sodium-glutamate symporter
+cpr:CPR_0743	CDS	complement(869751..870443)	HAD hydrolase, family IA
+cpr:CPR_0744	CDS	870668..871621	conserved domain protein
+cpr:CPR_0745	CDS	complement(871852..873207)	conserved hypothetical protein
+cpr:CPR_0746	CDS	complement(873366..874565)	ISCpe4, transposase
+cpr:CPR_0747	CDS	875122..875277	conserved hypothetical protein
+cpr:CPR_0748	CDS	875617..876981	sodium:glactoside symporter family protein
+cpr:CPR_0749	CDS	complement(877076..877915)	lactose operon transcriptional activator
+cpr:CPR_0750	CDS	878279..881308	beta-galactosidase
+cpr:CPR_0751	CDS	complement(881451..882830)	putative membrane protein
+cpr:CPR_0752	CDS	883384..884196	conserved hypothetical protein
+cpr:CPR_0753	CDS	884376..885074	ric; iron-sulfur cluster repair di-iron protein
+cpr:CPR_0754	CDS	885227..885937	transcriptional regulator, Crp/Fnr family
+cpr:CPR_0755	CDS	complement(886190..886351)	rubredoxin
+cpr:CPR_0756	CDS	886954..887700	oxidoreductase, FAD-binding
+cpr:CPR_0757	CDS	887919..888629	transcriptional regulator, Crp/Fnr family
+cpr:CPR_0758	CDS	888724..889188	ISCpe5, transposase
+cpr:CPR_0759	CDS	889291..889446	ISCpe5, transposase
+cpr:CPR_0760	CDS	889559..889825	ISCpe5, transposase
+cpr:CPR_0761	CDS	890389..890598	hypothetical protein
+cpr:CPR_0762	CDS	890662..891240	hypothetical protein
+cpr:CPR_0763	CDS	891261..892787	putative membrane protein
+cpr:CPR_0764	CDS	892775..893524	antibiotic ABC transporter ATP binding protein SSO1934
+cpr:CPR_0765	CDS	893517..894068	hypothetical protein
+cpr:CPR_0766	CDS	894383..894685	ISCpe5, transposase
+cpr:CPR_0767	CDS	894723..895391	ISCpe5, transposase
+cpr:CPR_0769	CDS	895604..895735	putative transposase
+cpr:CPR_0768	CDS	complement(895901..896062)	rubR2; rubredoxin
+cpr:CPR_0770	CDS	complement(896089..897309)	metallo-beta-lactamase family protein
+cpr:CPR_0771	CDS	897844..898773	panE; 2-dehydropantoate 2-reductase
+cpr:CPR_0772	CDS	899011..900162	ISCpe2, transposase orfB
+cpr:CPR_0773	CDS	900317..900742	transcriptional regulator, MarR family
+cpr:CPR_0774	CDS	900959..901462	hypothetical protein
+cpr:CPR_0775	CDS	901594..901752	conserved hypothetical protein
+cpr:CPR_0776	CDS	901762..902229	pirin-like protein
+cpr:CPR_0777	CDS	902263..902859	flavodoxin family protein
+cpr:CPR_0778	CDS	complement(903035..903985)	lipoprotein
+cpr:CPR_0779	CDS	904115..905119	iron compound ABC transporter, permease protein
+cpr:CPR_0780	CDS	905119..906141	iron compound ABC transporter, permease protein
+cpr:CPR_0781	CDS	906141..906917	putative iron(III) dicitrate transport permease
+cpr:CPR_0782	CDS	907271..907786	hydrolase, NUDIX family
+cpr:CPR_0783	CDS	complement(907938..908519)	PAP2 family protein
+cpr:CPR_0784	CDS	complement(908877..909899)	ISCpe7, transposase
+cpr:CPR_0785	CDS	910025..910765	conserved hypothetical protein
+cpr:CPR_0786	CDS	911480..911824	FliB domain protein
+cpr:CPR_0787	CDS	912005..912472	hypothetical protein
+cpr:CPR_0788	CDS	912663..914537	sensory box protein/histidinol phosphate phosphatase family protein
+cpr:CPR_0789	CDS	914818..916650	glycosyl hydrolase, family 13
+cpr:CPR_0790	CDS	916895..918178	conserved hypothetical protein
+cpr:CPR_0791	CDS	complement(918465..918968)	hypothetical protein
+cpr:CPR_0792	CDS	919336..919881	hypothetical protein
+cpr:CPR_0793	CDS	complement(919919..920539)	conserved hypothetical protein
+cpr:CPR_0794	CDS	920802..921746	iron compound ABC transporter, iron compound-binding protein
+cpr:CPR_0795	CDS	921845..922858	fhuB; putative ferrichrome ABC transporter, permease protein FhuB
+cpr:CPR_0796	CDS	922862..923875	ferrichrome transport system, permease protein
+cpr:CPR_0797	CDS	923940..924722	fhuC; putative ferrichrome ABC transporter, ATP-binding protein
+cpr:CPR_0798	CDS	925034..925471	acetyltransferase, GNAT family
+cpr:CPR_0799	CDS	925599..925814	conserved hypothetical protein
+cpr:CPR_0800	CDS	925807..926055	hypothetical protein
+cpr:CPR_0801	CDS	complement(926335..926661)	hypothetical protein
+cpr:CPR_0802	CDS	926787..927809	ISCpe7, transposase
+cpr:CPR_0803	CDS	928596..929435	Cof-like hydrolase, HAD-superfamily, subfamily IIB
+cpr:CPR_0804	CDS	929751..930731	PTS system, mannose/fructose/sorbose family, IIAB component
+cpr:CPR_0805	CDS	930780..931583	PTS system, mannose/fructose/sorbose family, IIC component
+cpr:CPR_0806	CDS	931603..932514	PTS system, mannose/fructose/sorbose family, IID component
+cpr:CPR_0807	CDS	932670..933044	conserved hypothetical protein
+cpr:CPR_0808	CDS	933415..933762	hypothetical protein
+cpr:CPR_0809	CDS	complement(934121..935143)	ISCpe7, transposase
+cpr:CPR_0810	CDS	935269..936186	polysaccharide deacetylase family protein
+cpr:CPR_0811	CDS	936647..937456	ISCpe4, transposase
+cpr:CPR_0812	CDS	937577..938431	putative membrane protein
+cpr:CPR_0813	CDS	938689..939630	conserved hypothetical protein
+cpr:CPR_0814	CDS	complement(939695..941050)	MATE efflux family protein family
+cpr:CPR_0815	CDS	941279..943693	glycosyl hydrolase, family 2
+cpr:CPR_0816	CDS	944488..945441	conserved hypothetical protein
+cpr:CPR_0817	CDS	945755..947566	antibiotic ABC transporter, ATP-binding protein
+cpr:CPR_0818	CDS	947566..949356	antibiotic ABC transporter, ATP-binding protein
+cpr:CPR_0819	CDS	949924..952011	antibiotic ABC transporter, permease protein
+cpr:CPR_0820	CDS	952004..954595	hypothetical protein
+cpr:CPR_0821	gene	954650..954835	pseudogene
+cpr:CPR_0822	CDS	complement(955059..955616)	ISCpe6, transposase orfB
+cpr:CPR_0823	CDS	complement(955660..955947)	ISCpe6, transposase orfA
+cpr:CPR_0824	CDS	complement(955974..956393)	hypothetical protein
+cpr:CPR_0825	CDS	956590..956874	arsR; arsenical resistance operon repressor
+cpr:CPR_0826	CDS	956876..956971	hypothetical protein
+cpr:CPR_0827	CDS	956993..957391	arsC; arsenate reductase
+cpr:CPR_0828	CDS	957408..958724	MATE efflux family protein
+cpr:CPR_0829	CDS	958895..959113	response regulator
+cpr:CPR_0831	CDS	959574..960584	sensor histidine kinase
+cpr:CPR_0832	CDS	960765..962060	hypothetical protein
+cpr:CPR_0833	CDS	962323..963891	cloSI; clostripain
+cpr:CPR_0834	CDS	964423..964656	conserved hypothetical protein
+cpr:CPR_0835	CDS	964788..965573	hypothetical protein
+cpr:CPR_0836	CDS	965630..965761	hypothetical protein
+cpr:CPR_0837	CDS	966884..967342	ABC transporter, permease protein, probable SP0913, putative
+cpr:CPR_0838	CDS	complement(967402..967533)	hypothetical protein
+cpr:CPR_0839	CDS	967724..968866	aminotransferase, class V
+cpr:CPR_0840	CDS	969055..969594	rbr_2; rubrerythrin
+cpr:CPR_0841	CDS	970085..973153	glycosyl hydrolase, family 38
+cpr:CPR_0842	CDS	973480..974652	nadh-dependent butanol dehydrogenase a
+cpr:CPR_0843	CDS	974751..975137	hypothetical protein
+cpr:CPR_0844	CDS	975396..976457	putative carbohydrate diacid regulator
+cpr:CPR_0845	CDS	976605..977864	putative permease protein
+cpr:CPR_0846	CDS	978088..979209	glxK; glycerate kinase
+cpr:CPR_0847	CDS	979599..981035	deaD; ATP-dependent RNA helicase DeaD
+cpr:CPR_0848	CDS	981305..982681	MATE efflux family protein
+cpr:CPR_0849	CDS	982788..982961	conserved hypothetical protein
+cpr:CPR_0850	CDS	983329..989616	alpha-N-acetylglucosaminidase family protein
+cpr:CPR_0851	CDS	989874..990053	hypothetical protein
+cpr:CPR_0852	CDS	complement(990163..991323)	alr; alanine racemase
+cpr:CPR_0853	CDS	991773..992342	acetyltransferase, GNAT family
+cpr:CPR_0854	CDS	992589..994364	metallopeptidase, M24 family
+cpr:CPR_0855	CDS	994737..995864	thermophilic metalloprotease family protein
+cpr:CPR_0856	CDS	995968..996411	acetyltransferase, GNAT family
+cpr:CPR_0857	CDS	complement(996592..997257)	putative membrane protein
+cpr:CPR_0858	CDS	997729..998268	acetyltransferase, GNAT family
+cpr:CPR_0859	CDS	complement(998521..999276)	conserved hypothetical protein
+cpr:CPR_0860	CDS	999637..999825	hypothetical protein
+cpr:CPR_0861	CDS	1000010..1000123	hypothetical protein
+cpr:CPR_0862	CDS	complement(1000159..1000908)	LysM domain protein
+cpr:CPR_0863	CDS	complement(1001535..1001636)	hypothetical protein
+cpr:CPR_0864	CDS	1001957..1002607	pyrophosphatase, MutT/nudix family
+cpr:CPR_0865	CDS	1002693..1003112	conserved hypothetical protein
+cpr:CPR_0866	CDS	1003473..1004099	DedA family protein
+cpr:CPR_0867	CDS	1004548..1005027	glutathione peroxidase
+cpr:CPR_0868	CDS	1005492..1007129	EAL domain protein
+cpr:CPR_0869	CDS	1007607..1008227	flavin reductase
+cpr:CPR_0870	CDS	1008565..1008822	transcription regulator ArsR family homolog yvbA
+cpr:CPR_0871	CDS	1008837..1009436	putative membrane protein
+cpr:CPR_0872	CDS	1009731..1010156	hypothetical protein
+cpr:CPR_0873	CDS	1010336..1010824	hypothetical protein
+cpr:CPR_0874	CDS	1011154..1011468	conserved hypothetical protein
+cpr:CPR_0875	CDS	complement(1011471..1011644)	hypothetical protein
+cpr:CPR_0876	CDS	1011820..1012566	hypothetical protein
+cpr:CPR_0877	CDS	complement(1012783..1013931)	nanH; exo-alpha-sialidase
+cpr:CPR_0878	CDS	1014436..1015605	FliB family protein
+cpr:CPR_0879	CDS	complement(1016155..1016976)	CAAX amino terminal protease family protein
+cpr:CPR_0880	CDS	1017573..1017752	conserved hypothetical protein
+cpr:CPR_0882	CDS	1018198..1018365	hypothetical protein
+cpr:CPR_0881	CDS	complement(1018287..1018376)	hypothetical protein
+cpr:CPR_0883	CDS	complement(1018366..1018863)	conserved hypothetical protein
+cpr:CPR_0884	CDS	complement(1018907..1019296)	putative membrane protein
+cpr:CPR_0885	CDS	1019599..1020375	putative lipoprotein
+cpr:CPR_0886	CDS	complement(1020393..1022066)	MutS domain V protein
+cpr:CPR_0887	CDS	1022237..1022539	hypothetical protein
+cpr:CPR_0888	CDS	1022800..1022931	ISCpe2, transposase orfA
+cpr:CPR_0889	CDS	1022942..1024096	ISCpe2, transposase orfB
+cpr:CPR_0890	CDS	1024635..1024958	Hypothetical protein, CF-32 family
+cpr:CPR_0891	CDS	1025036..1025419	putative lipoprotein
+cpr:CPR_0892	CDS	1026128..1027819	conserved hypothetical protein
+cpr:CPR_0893	CDS	complement(1027925..1028173)	conserved hypothetical protein
+cpr:CPR_0894	CDS	1028752..1029573	putative membrane protein
+cpr:CPR_0895	CDS	1029729..1030547	hypothetical protein
+cpr:CPR_0896	CDS	1030757..1031188	conserved hypothetical protein
+cpr:CPR_0897	CDS	1031172..1031633	hypothetical protein
+cpr:CPR_0898	CDS	complement(1031704..1032099)	putative mutator MutT protein
+cpr:CPR_0899	CDS	1032473..1032682	transcriptional regulator
+cpr:CPR_0900	CDS	1032675..1033181	conserved hypothetical protein
+cpr:CPR_0901	CDS	1033616..1033792	hypothetical protein
+cpr:CPR_0902	gene	complement(1033994..1034732)	CPR_0902
+cpr:CPR_0903	CDS	complement(1034819..1035838)	putative ribose operon repressor
+cpr:CPR_0904	CDS	1036071..1037390	msmE; substrate-binding protein MsmE
+cpr:CPR_0905	CDS	1037412..1038281	msmF; transmembrane permease MsmF
+cpr:CPR_0906	CDS	1038283..1039134	msmG; transmembrane permease MsmG
+cpr:CPR_0907	CDS	1039170..1040297	msmK; sugar ABC transporter, ATP-binding protein
+cpr:CPR_0908	CDS	1040354..1041709	sucrose-6-phosphate hydrolase
+cpr:CPR_0909	CDS	1041785..1042729	fructokinase
+cpr:CPR_0910	CDS	complement(1042890..1043123)	conserved hypothetical protein
+cpr:CPR_0911	CDS	1043196..1044074	putative lipoprotein
+cpr:CPR_0912	CDS	1044106..1044495	conserved hypothetical protein
+cpr:CPR_0913	CDS	1044987..1045940	conserved hypothetical protein
+cpr:CPR_0914	CDS	1046047..1046568	CRISPR-associated protein Cas4
+cpr:CPR_0915	CDS	1046570..1047130	CRISPR-associated protein Cas1
+cpr:CPR_0917	CDS	1047599..1047862	CRISPR-associated protein Cas2
+cpr:CPR_0918	CDS	1048254..1048976	cas6; CRISPR-associated protein Cas6
+cpr:CPR_0919	CDS	1049000..1050343	putative CRISPR-associated protein Csx8
+cpr:CPR_0920	CDS	1050343..1051230	CRISPR-associated regulatory protein, DevR family
+cpr:CPR_0921	CDS	1051384..1052328	hypothetical protein
+cpr:CPR_0922	CDS	1052341..1054551	cas3; CRISPR-associated helicase Cas3 domain protein
+cpr:CPR_0923	CDS	complement(1059069..1059302)	radical SAM domain protein
+cpr:CPR_0924	CDS	complement(1059521..1059763)	conserved hypothetical protein
+cpr:CPR_0925	CDS	complement(1059785..1059958)	conserved hypothetical protein
+cpr:CPR_0926	CDS	1060394..1060951	conserved domain protein
+cpr:CPR_0927	CDS	1061887..1063035	fucO; lactaldehyde reductase
+cpr:CPR_0928	CDS	complement(1063092..1063325)	transcriptional regulator, AraC family
+cpr:CPR_0929	CDS	1063612..1064172	ISCpe7, transposase
+cpr:CPR_0930	CDS	1064160..1064630	ISCpe7, transposase
+cpr:CPR_0931	CDS	1064992..1066617	EAL domain protein
+cpr:CPR_0932	CDS	1066818..1066976	conserved hypothetical protein
+cpr:CPR_0933	CDS	1066989..1067240	cotJB; spore coat peptide assembly protein CotJB
+cpr:CPR_0934	CDS	1067540..1068106	cotJC; spore coat peptide assembly protein CotJC
+cpr:CPR_0935	CDS	1068685..1070127	nagE; PTS system, N-acetylglucosamine-specific IIBC component
+cpr:CPR_0936	CDS	1070380..1070733	hypothetical protein
+cpr:CPR_0937	CDS	complement(1070843..1071142)	hypothetical protein
+cpr:CPR_0938	CDS	1071634..1073724	[Fe] hydrogenase
+cpr:CPR_0939	CDS	complement(1073864..1074163)	hypothetical protein
+cpr:CPR_0940	CDS	complement(1074160..1074441)	ISCpe4, transposase
+cpr:CPR_0941	CDS	complement(1074619..1075245)	Resolvase, N terminal domain family
+cpr:CPR_0942	CDS	complement(1075683..1075973)	hypothetical protein
+cpr:CPR_0943	CDS	complement(1076002..1076610)	conserved hypothetical protein
+cpr:CPR_0944	CDS	1076824..1077297	putative membrane protein
+cpr:CPR_0945	CDS	1077339..1077524	conserved hypothetical protein
+cpr:CPR_0946	CDS	1077694..1077819	conserved hypothetical protein
+cpr:CPR_0947	CDS	complement(1078071..1079093)	ISCpe7, transposase
+cpr:CPR_0948	CDS	1079394..1081652	putative Alpha amylase, catalytic domain subfamily
+cpr:CPR_0949	CDS	1081736..1081930	chitinase B
+cpr:CPR_0950	CDS	1082210..1082320	hypothetical protein
+cpr:CPR_0951	CDS	complement(1082505..1082684)	conserved hypothetical protein
+cpr:CPR_0952	CDS	complement(1082741..1083340)	conserved hypothetical protein
+cpr:CPR_0953	CDS	complement(1084740..1085291)	putative membrane protein
+cpr:CPR_0954	CDS	complement(1085792..1087018)	dolichyl-phosphate-mannose-protein mannosyltransferase family protein
+cpr:CPR_0955	CDS	complement(1087087..1087434)	Hypothetical protein
+cpr:CPR_0956	CDS	complement(1087431..1087763)	conserved hypothetical protein
+cpr:CPR_0957	CDS	complement(1087779..1088192)	glycosyltransferase ycbB
+cpr:CPR_0958	CDS	1089648..1089956	hypothetical protein
+cpr:CPR_0959	CDS	1090456..1092378	glycosyl hydrolase, family 20
+cpr:CPR_0960	CDS	1092708..1092929	hypothetical protein
+cpr:CPR_0961	CDS	1093378..1093842	putative membrane protein
+cpr:CPR_0962	CDS	1093996..1094418	transcriptional regulator, MarR family
+cpr:CPR_0963	CDS	1094586..1095263	hypothetical protein
+cpr:CPR_0964	CDS	1095527..1096084	hypothetical protein
+cpr:CPR_0965	CDS	complement(1096257..1096424)	hypothetical protein
+cpr:CPR_0966	CDS	1096932..1097459	hypothetical protein
+cpr:CPR_0967	CDS	1097728..1098780	IS1470, transposase
+cpr:CPR_0968	CDS	1099161..1103873	prtP; cell wall-associated serine proteinase, lactocepin
+cpr:CPR_0969	CDS	1104464..1104700	hypothetical protein
+cpr:CPR_0970	CDS	complement(1104954..1106963)	feoB_1; ferrous iron transport protein B
+cpr:CPR_0971	CDS	complement(1107178..1107399)	feoA; feoA family protein
+cpr:CPR_0972	CDS	complement(1107430..1107648)	feoA; ferrous iron transport protein A
+cpr:CPR_0973	CDS	complement(1107698..1107964)	conserved hypothetical protein
+cpr:CPR_0974	CDS	1108728..1110368	hybrid cluster protein
+cpr:CPR_0975	CDS	complement(1111015..1111503)	acetyltransferase, GNAT family
+cpr:CPR_0976	CDS	1112130..1112681	putative membrane protein
+cpr:CPR_0977	CDS	1112862..1113479	hypothetical protein
+cpr:CPR_0978	CDS	1114203..1115186	conserved domain protein
+cpr:CPR_0979	CDS	complement(1115324..1116142)	nitroreductase family protein
+cpr:CPR_0980	CDS	1116440..1116766	transcriptional regulator
+cpr:CPR_0981	CDS	1117080..1118942	putative membrane protein
+cpr:CPR_0982	CDS	complement(1119376..1120398)	ISCpe7, transposase
+cpr:CPR_0983	CDS	1120523..1121392	cation efflux family protein
+cpr:CPR_0984	CDS	1121612..1122985	pyridine nucleotide-disulphide oxidoreductase family protein
+cpr:CPR_0985	CDS	complement(1123350..1124597)	conserved hypothetical protein
+cpr:CPR_0986	CDS	1124716..1127925	putative helicase
+cpr:CPR_0987	CDS	1128406..1129092	RNA pseudouridine synthase family protein
+cpr:CPR_0988	CDS	1129107..1129724	hypothetical protein
+cpr:CPR_0989	CDS	1129871..1131025	ISCpe2, transposase orfB
+cpr:CPR_0990	CDS	1131193..1131435	Mg(2+) transport ATPase protein B mgtB
+cpr:CPR_0991	CDS	1131543..1132304	7-alpha-hydroxysteroid dehydrogenase
+cpr:CPR_0992	CDS	complement(1132474..1133628)	lysine-N-methylase, homolog
+cpr:CPR_0993	CDS	1133867..1134880	conserved hypothetical protein
+cpr:CPR_0994	CDS	complement(1135044..1135688)	DedA family protein
+cpr:CPR_0995	CDS	1136021..1136887	conserved domain protein
+cpr:CPR_0996	CDS	1137054..1138853	sensory box/GGDEF domain/HD domain protein
+cpr:CPR_0997	CDS	1138923..1139468	nitroreductase family protein
+cpr:CPR_0998	CDS	1139748..1140374	hypothetical protein
+cpr:CPR_0999	CDS	1140614..1141444	metallo-beta-lactamase family protein
+cpr:CPR_1000	CDS	1141619..1141795	hypothetical protein
+cpr:CPR_1001	CDS	1142023..1142727	glpE; glycerol uptake facilitator protein
+cpr:CPR_1002	CDS	1142914..1144146	sensor histidine kinase
+cpr:CPR_1003	CDS	1144166..1144918	DNA-binding response regulator
+cpr:CPR_1004	CDS	1145256..1146920	dhaB; glycerol dehydratase, large subunit
+cpr:CPR_1005	CDS	1146934..1147500	dhaC; glycerol dehydratase, medium subunit
+cpr:CPR_1006	CDS	1147520..1147945	dhaE; glycerol dehydratase, small subunit
+cpr:CPR_1007	CDS	1147962..1149812	dhaF; glycerol dehydratase reactivation factor, large subunit
+cpr:CPR_1008	CDS	1149805..1150155	dhaG; glycerol dehydratase reactivation factor, small subunit
+cpr:CPR_1009	CDS	1150174..1150686	putative ATP:cob(I)alamin adenosyltransferase
+cpr:CPR_1010	CDS	1150710..1151138	conserved hypothetical protein
+cpr:CPR_1011	CDS	1151232..1152389	dhaT; 1,3-propanediol dehydrogenase
+cpr:CPR_1012	CDS	1153130..1154599	amino acid permease family protein
+cpr:CPR_1013	CDS	1154883..1155557	putative membrane protein
+cpr:CPR_1014	CDS	1155899..1156411	acetyltransferase, GNAT family
+cpr:CPR_1015	CDS	complement(1156481..1157218)	conserved hypothetical protein
+cpr:CPR_1016	CDS	complement(1157323..1158141)	hypothetical protein
+cpr:CPR_1017	CDS	complement(1158495..1159151)	pentapeptide repeat family protein
+cpr:CPR_1018	CDS	complement(1159408..1160289)	hypothetical protein
+cpr:CPR_1019	CDS	1161048..1162355	sodium:dicarboxylate symporter family protein
+cpr:CPR_1020	CDS	1162700..1163389	DNA-binding response regulator
+cpr:CPR_1021	CDS	1163599..1164519	ABC transporter, ATP-binding protein
+cpr:CPR_1022	CDS	1164512..1165264	putative membrane protein
+cpr:CPR_1023	CDS	1165278..1166183	sensor histidine kinase
+cpr:CPR_1024	CDS	complement(1166287..1166514)	conserved hypothetical protein
+cpr:CPR_1025	CDS	1166814..1168025	pyridine nucleotide-disulphide oxidoreductase family protein
+cpr:CPR_1026	CDS	1168241..1168777	glutathione peroxidase
+cpr:CPR_1027	CDS	complement(1168894..1170105)	collagen triple helix repeat protein
+cpr:CPR_1028	CDS	complement(1170213..1170803)	putative metal-dependent hydrolase, membrane-bound
+cpr:CPR_1029	CDS	1171423..1171674	mutT/nudix family protein, truncation
+cpr:CPR_1030	CDS	1171888..1172055	ISCpe2, transposase orfA
+cpr:CPR_1031	CDS	1172066..1173220	ISCpe2, transposase orfB
+cpr:CPR_1032	CDS	1173419..1173850	transcriptional regulator, MarR family
+cpr:CPR_1033	CDS	1174223..1175182	putative membrane protein
+cpr:CPR_1034	CDS	complement(1175286..1176908)	amino acid permease family protein
+cpr:CPR_1035	CDS	complement(1177773..1179407)	GGDEF domain protein
+cpr:CPR_1036	CDS	1180093..1181256	sodium:dicarboxylate symporter family protein
+cpr:CPR_1037	CDS	1181591..1182586	hypothetical protein
+cpr:CPR_1038	CDS	complement(1182859..1184313)	putative Na+/H+ antiporter
+cpr:CPR_1039	CDS	complement(1184342..1184962)	conserved hypothetical protein
+cpr:CPR_1040	CDS	1185200..1185985	putative histidinol phosphatase
+cpr:CPR_1041	CDS	complement(1186028..1187047)	conserved hypothetical protein
+cpr:CPR_1042	CDS	1187247..1189187	putative translation elongation factor G
+cpr:CPR_1043	CDS	1189349..1189702	hypothetical protein
+cpr:CPR_1046	CDS	complement(1191338..1193311)	potassium transporter family protein
+cpr:CPR_1047	CDS	complement(1193633..1194145)	ferritin family protein
+cpr:CPR_1048	CDS	complement(1194295..1194600)	transcriptional regulator, AraC family, truncation
+cpr:CPR_1049	CDS	complement(1194804..1195958)	ISCpe2, transposase orfB
+cpr:CPR_1050	CDS	complement(1195969..1196370)	ISCpe2, transposase orfA
+cpr:CPR_1051	CDS	1196679..1198511	glycosyl hydrolase, family 20
+cpr:CPR_1052	CDS	1198629..1199096	hypothetical protein
+cpr:CPR_1053	CDS	complement(1199224..1200645)	GerA spore germination protein
+cpr:CPR_1054	CDS	complement(1200884..1202392)	C4-dicarboxylate anaerobic carrier family protein
+cpr:CPR_1055	CDS	1202750..1204426	sensory box histidine kinase/response regulator
+cpr:CPR_1056	CDS	1204643..1205710	putative membrane protein
+cpr:CPR_1057	CDS	1205740..1206420	sdhB_1; L-serine dehydratase, iron-sulfur-dependent, beta subunit
+cpr:CPR_1058	CDS	1206424..1207302	sdhA_1; L-serine dehydratase, iron-sulfur-dependent, alpha subunit
+cpr:CPR_1059	CDS	complement(1207368..1208102)	PP-loop family protein
+cpr:CPR_1060	CDS	1208309..1209055	truA_1; tRNA pseudouridine synthase A
+cpr:CPR_1061	CDS	complement(1209122..1210189)	oxidoreductase, 2-nitropropane dioxygenase family
+cpr:CPR_1062	CDS	1210389..1211099	transcriptional regulator, Crp/Fnr family
+cpr:CPR_1063	CDS	complement(1211155..1212066)	radical SAM domain protein
+cpr:CPR_1064	CDS	1212228..1212488	peptidase, putative, truncation
+cpr:CPR_1065	CDS	1212894..1213565	hypothetical protein
+cpr:CPR_1066	CDS	1213581..1215257	hypothetical protein
+cpr:CPR_1067	CDS	1215925..1217583	gltX; glutamate--tRNA ligase
+cpr:CPR_1068	CDS	1217759..1217914	conserved hypothetical protein
+cpr:CPR_1069	CDS	1218150..1218764	conserved hypothetical protein
+cpr:CPR_1070	CDS	complement(1218796..1219275)	hypothetical protein
+cpr:CPR_1071	gene	complement(1219305..1219574)	pseudogene
+cpr:CPR_1072	CDS	complement(1219585..1220604)	hypothetical protein
+cpr:CPR_1073	CDS	1220911..1221090	conserved hypothetical protein
+cpr:CPR_1074	CDS	1221102..1222025	hprK; HPr(Ser) kinase/phosphatase
+cpr:CPR_1075	CDS	1222070..1222999	putative magnesium and cobalt transport protein CorA
+cpr:CPR_1076	CDS	1223066..1224472	aminopeptidase, M18 family
+cpr:CPR_1077	CDS	1224705..1225064	mgsA; methylglyoxal synthase
+cpr:CPR_1078	CDS	1225283..1226335	IS1470, transposase
+cpr:CPR_1079	CDS	complement(1226727..1226990)	hypothetical protein
+cpr:CPR_1080	CDS	complement(1227047..1227205)	hypothetical protein
+cpr:CPR_1081	CDS	complement(1227215..1227424)	lcnA; bacteriocin lactococcin A
+cpr:CPR_1082	CDS	1227583..1229799	putative bacteriocin ABC transporter, permease/ATP-binding protein
+cpr:CPR_1083	CDS	1229789..1231291	putative bacteriocin ABC transporter, bacteriocin-binding protein
+cpr:CPR_1084	CDS	1231386..1231499	hypothetical protein
+cpr:CPR_1085	CDS	1231524..1231916	CAAX amino terminal protease family protein
+cpr:CPR_1086	CDS	1232235..1232735	hypothetical protein
+cpr:CPR_1087	CDS	1232772..1232939	hypothetical protein
+cpr:CPR_1088	CDS	1233046..1234098	IS1470, transposase
+cpr:CPR_1089	CDS	1234270..1234650	putative endoribonuclease L-PSP
+cpr:CPR_1090	CDS	1234694..1234939	conserved hypothetical protein
+cpr:CPR_1091	CDS	complement(1235046..1237682)	rubredoxin/flavodoxin/oxidoreductase
+cpr:CPR_1092	CDS	complement(1237887..1238831)	conserved hypothetical protein
+cpr:CPR_1093	CDS	1238997..1239587	pabA; para-aminobenzoate synthase glutamine amidotransferase, component II
+cpr:CPR_1094	CDS	1239593..1240939	pabB; aminodeoxychorismate synthase, component I
+cpr:CPR_1095	CDS	1240993..1241727	putative branched-chain amino acid aminotransferase
+cpr:CPR_1096	CDS	1241742..1242299	folE; GTP cyclohydrolase I
+cpr:CPR_1097	CDS	1242324..1242797	HDIG/HD domain protein
+cpr:CPR_1098	CDS	1242810..1243619	folP; dihydropteroate synthase
+cpr:CPR_1099	CDS	1243632..1244453	folBK; dihydroneopterin aldolase/2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+cpr:CPR_1100	CDS	complement(1244524..1245003)	putative lipoprotein
+cpr:CPR_1101	CDS	1245109..1245549	hypothetical protein
+cpr:CPR_1103	CDS	1245888..1246970	pyruvate kinase barrel domain protein
+cpr:CPR_1102	CDS	complement(1246967..1247524)	PAP2 family protein
+cpr:CPR_1104	CDS	1248372..1249775	conserved hypothetical protein
+cpr:CPR_1105	CDS	1249925..1250659	transcriptional regulator, ArsR/dinitrogenase iron-molybdenum cofactor family protein
+cpr:CPR_1106	CDS	1250870..1252168	amidohydrolase family protein
+cpr:CPR_1107	CDS	complement(1252475..1253275)	choline/ethanolamine kinase family protein
+cpr:CPR_1108	CDS	1253340..1254425	cobT; nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase
+cpr:CPR_1109	CDS	1254464..1255024	hypothetical protein
+cpr:CPR_1110	CDS	1255008..1255763	cobS; cobalamin 5'-phosphate synthase
+cpr:CPR_1111	CDS	1255777..1256157	cobalamin biosynthesis protein cobU, putative, truncation
+cpr:CPR_1112	CDS	1256162..1256806	putative alpha-ribazole-5-phosphate phosphatase
+cpr:CPR_1113	CDS	1256809..1257756	cobD; cobalamin biosynthesis protein CobD
+cpr:CPR_1114	CDS	1257753..1258817	putative L-threonine-O-3-phosphate decarboxylase
+cpr:CPR_1115	CDS	1259375..1260292	iron compound ABC transporter, iron-binding protein
+cpr:CPR_1116	CDS	1260279..1261310	ABC transporter, permease protein, FecCD family
+cpr:CPR_1117	CDS	1261315..1262070	putative iron compound ABC transporter, ATP-binding protein
+cpr:CPR_1118	CDS	1262080..1262733	conserved hypothetical protein
+cpr:CPR_1119	CDS	1262743..1264206	cobQ; cobyric acid synthase CobQ
+cpr:CPR_1120	CDS	1264525..1266231	hybrid cluster protein
+cpr:CPR_1121	CDS	1266393..1266524	hypothetical protein
+cpr:CPR_1122	CDS	1266746..1267912	conserved hypothetical protein
+cpr:CPR_1123	CDS	complement(1268244..1269428)	cfa; cyclopropane-fatty-acyl-phospholipid synthase
+cpr:CPR_1124	CDS	1269749..1271104	thiosulfate sulfurtransferase homolog
+cpr:CPR_1125	CDS	1271108..1271533	hypothetical protein
+cpr:CPR_1126	CDS	1271837..1272076	conserved hypothetical protein
+cpr:CPR_1127	CDS	1272267..1273055	endonuclease/exonuclease/phosphatase family protein
+cpr:CPR_1128	CDS	1273239..1274063	hisK; histidinol-phosphatase
+cpr:CPR_1129	CDS	complement(1274189..1275610)	tetratricopeptide repeat protein
+cpr:CPR_1130	CDS	complement(1275881..1277788)	nadE; glutamine-dependent NAD(+) synthetase
+cpr:CPR_1131	CDS	1278103..1278516	conserved hypothetical protein
+cpr:CPR_1132	CDS	1278536..1279486	SPFH domain protein/band 7 family protein
+cpr:CPR_1133	CDS	1279666..1280718	putative alanine racemase
+cpr:CPR_1134	CDS	1280935..1281435	cytidine/deoxycytidylate deaminase family protein
+cpr:CPR_1135	CDS	1281606..1282070	transcriptional regulator, MarR family
+cpr:CPR_1136	CDS	1282072..1283046	fabH; 3-oxoacyl-(acyl-carrier-protein) synthase III
+cpr:CPR_1137	CDS	1283143..1284087	fabD; malonyl CoA-acyl carrier protein transacylase
+cpr:CPR_1138	CDS	1284091..1284831	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+cpr:CPR_1139	CDS	1284846..1286087	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II
+cpr:CPR_1140	CDS	1286099..1286590	accB; acetyl-CoA carboxylase, biotin carboxyl carrier protein
+cpr:CPR_1141	CDS	1286593..1287012	fabZ; beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+cpr:CPR_1142	CDS	1287024..1288376	accC; acetyl-CoA carboxylase, biotin carboxylase subunit
+cpr:CPR_1143	CDS	1288369..1289247	accD; acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+cpr:CPR_1144	CDS	1289240..1290055	accA; acetyl-CoA carboxylase, carboxyl transferase, alpha subunit
+cpr:CPR_1145	CDS	complement(1290154..1290543)	transcriptional regulator, PadR family
+cpr:CPR_1146	CDS	complement(1290948..1291766)	AP endonuclease, family 2 protein
+cpr:CPR_1147	CDS	1291983..1292693	rluB; ribosomal large subunit pseudouridine synthase B
+cpr:CPR_1148	CDS	1292699..1293250	conserved hypothetical protein
+cpr:CPR_1149	CDS	1293283..1294158	transcriptional regulator, RpiR family
+cpr:CPR_1150	CDS	1294375..1295595	pyridine nucleotide-disulphide oxidoreductase
+cpr:CPR_1151	CDS	1295717..1296370	cmk; cytidylate kinase
+cpr:CPR_1152	CDS	1296372..1297220	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+cpr:CPR_1153	CDS	1297329..1298123	acetyltransferase, GNAT family
+cpr:CPR_1154	CDS	1298506..1299078	hypothetical protein
+cpr:CPR_1155	CDS	1299349..1300329	choloylglycine hydrolase family protein
+cpr:CPR_1156	CDS	1300515..1301858	miaB; tRNA-i(6)A37 thiotransferase enzyme MiaB
+cpr:CPR_1157	CDS	1302308..1303921	ppcA; phosphoenolpyruvate carboxylase
+cpr:CPR_1158	CDS	1304379..1304888	putative lipoprotein
+cpr:CPR_1159	CDS	1304959..1305177	hypothetical protein
+cpr:CPR_1160	CDS	complement(1305303..1306268)	putative citrate lyase regulator
+cpr:CPR_1161	CDS	complement(1306317..1307177)	citG; triphosphoribosyl-dephospho-CoA synthase
+cpr:CPR_1162	CDS	1307455..1308492	citC; [citrate (pro-3S)-lyase] ligase
+cpr:CPR_1163	CDS	1308516..1308821	citD; citrate lyase acyl carrier protein
+cpr:CPR_1164	CDS	1308809..1309699	citE; citrate lyase, beta subunit
+cpr:CPR_1165	CDS	1309703..1311262	citF; citrate lyase, alpha subunit
+cpr:CPR_1166	CDS	1311281..1311793	citX; Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+cpr:CPR_1167	CDS	1311834..1312979	malate oxidoreductase (NAD)
+cpr:CPR_1168	CDS	1313000..1314340	citN; citrate/sodium symporter
+cpr:CPR_1169	CDS	1314709..1316943	pfl; formate acetyltransferase
+cpr:CPR_1170	CDS	1317023..1317730	pflA; pyruvate formate-lyase activating enzyme
+cpr:CPR_1171	CDS	1317994..1320726	mutS; DNA mismatch repair protein MutS
+cpr:CPR_1172	CDS	1320753..1322777	mutL; DNA mismatch repair protein MutL
+cpr:CPR_1173	CDS	1322795..1323727	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+cpr:CPR_1174	CDS	1323771..1324013	hfq; RNA chaperone Hfq
+cpr:CPR_1175	CDS	1324115..1325395	aluminum resistance protein
+cpr:CPR_1176	CDS	1325654..1326559	hypothetical protein
+cpr:CPR_1177	CDS	complement(1326747..1327358)	lexA; LexA repressor
+cpr:CPR_1178	CDS	1327567..1327959	conserved hypothetical protein
+cpr:CPR_1179	CDS	complement(1328050..1329402)	site-specific recombinase, phage integrase family
+cpr:CPR_1180	CDS	complement(1329903..1330121)	conserved hypothetical protein
+cpr:CPR_1181	CDS	1330239..1331447	tdcB; threonine dehydratase, catabolic
+cpr:CPR_1182	CDS	complement(1331487..1332956)	putative lysine-specific permease
+cpr:CPR_1183	CDS	1333458..1334561	sodium:dicarboxylate symporter family protein
+cpr:CPR_1184	CDS	complement(1334711..1335043)	hypothetical protein
+cpr:CPR_1185	CDS	1335320..1335964	putative membrane protein
+cpr:CPR_1186	CDS	complement(1335998..1336216)	hypothetical protein
+cpr:CPR_1187	CDS	complement(1336279..1336662)	mutator mutT protein homolog
+cpr:CPR_1188	CDS	complement(1336992..1337726)	haloacid dehalogenase, IB family protein
+cpr:CPR_1189	CDS	1337852..1338310	ISCpe7, transposase
+cpr:CPR_1190	CDS	1338404..1338817	ISCpe7, transposase
+cpr:CPR_1191	CDS	1339180..1339716	conserved hypothetical protein
+cpr:CPR_1192	CDS	complement(1339798..1340550)	xth; exodeoxyribonuclease III
+cpr:CPR_1193	CDS	complement(1340773..1341195)	acetyltransferase, GNAT family
+cpr:CPR_1194	CDS	complement(1341244..1341375)	hypothetical protein
+cpr:CPR_1195	CDS	1341599..1341724	hypothetical protein
+cpr:CPR_1196	CDS	complement(1341876..1342454)	pyrE; orotate phosphoribosyltransferase
+cpr:CPR_1197	CDS	complement(1342587..1343486)	pyrD; dihydroorotate oxidase
+cpr:CPR_1198	CDS	complement(1343506..1344246)	pyrK; dihydroorotate dehydrogenase, electron transfer subunit
+cpr:CPR_1199	CDS	complement(1344271..1345134)	pyrF; orotidine 5'-phosphate decarboxylase
+cpr:CPR_1200	CDS	complement(1345144..1346343)	pyrC; dihydroorotase, multifunctional complex type
+cpr:CPR_1201	CDS	complement(1346528..1347451)	pyrB; aspartate carbamoyltransferase
+cpr:CPR_1202	CDS	complement(1347841..1348620)	putative beta-lactamase
+cpr:CPR_1203	CDS	complement(1348851..1349951)	phosphofructokinase family protein
+cpr:CPR_1204	CDS	complement(1350162..1351076)	uppP; undecaprenyl-diphosphatase UppP
+cpr:CPR_1205	CDS	complement(1351334..1352311)	manA; mannose-6-phosphate isomerase, class I
+cpr:CPR_1206	CDS	1352562..1353917	UDP-N-acetylmuramyl tripeptide synthetase MurC homolog
+cpr:CPR_1207	CDS	1353935..1354666	glutamine amidotransferase, CobB/CobQ family
+cpr:CPR_1208	CDS	complement(1354694..1355596)	conserved hypothetical protein
+cpr:CPR_1209	CDS	1355853..1357115	vanW-related protein
+cpr:CPR_1210	CDS	complement(1357144..1357920)	conserved hypothetical protein
+cpr:CPR_1211	CDS	complement(1357970..1358380)	hypothetical protein
+cpr:CPR_1212	CDS	complement(1358495..1359991)	amino acid permease yshA
+cpr:CPR_1213	CDS	1360304..1360882	conserved hypothetical protein
+cpr:CPR_1214	CDS	complement(1360949..1362214)	conserved hypothetical protein
+cpr:CPR_1215	CDS	complement(1362223..1365150)	putative CoA-substrate-specific enzyme activase
+cpr:CPR_1216	CDS	complement(1365441..1367429)	radical SAM domain protein
+cpr:CPR_1217	CDS	complement(1367628..1369973)	putative ATP-dependent helicase
+cpr:CPR_1218	CDS	complement(1370075..1371469)	MATE efflux family protein
+cpr:CPR_1219	gene	complement(1371717..1372001)	pseudogene
+cpr:CPR_1220	CDS	complement(1372239..1372340)	hypothetical protein
+cpr:CPR_1221	CDS	complement(1372389..1372535)	hypothetical protein
+cpr:CPR_1222	CDS	complement(1372537..1373454)	nucleotidyltransferase family protein
+cpr:CPR_1223	CDS	complement(1373658..1375274)	spoVB_1; stage V sporulation protein B
+cpr:CPR_1224	CDS	complement(1375296..1376270)	pseudouridine synthase, RluA family
+cpr:CPR_1225	CDS	complement(1376330..1377526)	amidohydrolase family protein
+cpr:CPR_1226	CDS	complement(1377730..1379724)	putative ATP-dependent DNA helicase PcrA
+cpr:CPR_1227	CDS	1379877..1381349	pncB; putative nicotinate phosphoribosyltransferase
+cpr:CPR_1228	CDS	complement(1381401..1381577)	hypothetical protein
+cpr:CPR_1229	CDS	complement(1381607..1381942)	conserved domain protein
+cpr:CPR_1230	CDS	1382556..1382975	transcriptional regulator, Fur family
+cpr:CPR_1231	CDS	complement(1383054..1384451)	putative dipeptidase
+cpr:CPR_1232	CDS	complement(1384641..1385951)	uracil-xanthine permease
+cpr:CPR_1233	CDS	complement(1386560..1387324)	cobK; precorrin-6x reductase
+cpr:CPR_1234	CDS	complement(1387343..1388065)	cobJ; precorrin-3B C17-methyltransferase
+cpr:CPR_1235	CDS	complement(1388220..1389074)	cbiG; cobalamin biosynthesis protein CbiG
+cpr:CPR_1236	CDS	complement(1389221..1389976)	cobM; precorrin-4 C11-methyltransferase
+cpr:CPR_1237	CDS	complement(1390027..1390689)	cobI; precorrin-2 C(20)-methyltransferase
+cpr:CPR_1238	CDS	complement(1390689..1391282)	cbiT; precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit
+cpr:CPR_1239	CDS	complement(1391302..1391913)	cbiE; precorrin-6y C5,15-methyltransferase (decarboxylating)
+cpr:CPR_1240	CDS	complement(1391941..1393038)	cbiD; cobalamin biosynthesis protein CbiD
+cpr:CPR_1241	CDS	complement(1393056..1393685)	cobH; precorrin-8X methylmutase
+cpr:CPR_1242	CDS	complement(1393685..1394527)	cbiK; sirohydrochlorin cobaltochelatase
+cpr:CPR_1243	CDS	1395059..1396291	3D domain protein
+cpr:CPR_1244	CDS	complement(1396311..1396619)	hypothetical protein
+cpr:CPR_1245	CDS	complement(1397214..1400123)	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase domain protein
+cpr:CPR_1246	CDS	complement(1400494..1401495)	conserved hypothetical protein
+cpr:CPR_1247	CDS	complement(1401529..1402221)	conserved hypothetical protein
+cpr:CPR_1248	CDS	complement(1402737..1403354)	fibronectin type III domain protein
+cpr:CPR_1250	CDS	complement(1403673..1404626)	hypothetical protein
+cpr:CPR_1251	CDS	complement(1404858..1405541)	sodF; Mn/Fe superoxide dismutase
+cpr:CPR_1252	CDS	complement(1405650..1406261)	putative membrane protein
+cpr:CPR_1253	CDS	1406569..1408017	drug resistance transporter, EmrB/QacA family
+cpr:CPR_1254	CDS	complement(1408077..1408241)	hypothetical protein
+cpr:CPR_1255	CDS	complement(1408272..1409609)	mgtE; magnesium transporter
+cpr:CPR_1256	CDS	complement(1410163..1410936)	conserved hypothetical protein
+cpr:CPR_1257	CDS	complement(1411066..1412040)	oxidoreductase family protein
+cpr:CPR_1258	CDS	complement(1412229..1414784)	oxacillin resistance-related FmtC protein
+cpr:CPR_1259	CDS	complement(1414934..1415857)	putative membrane protein
+cpr:CPR_1260	CDS	complement(1416268..1417485)	conserved hypothetical protein
+cpr:CPR_1261	CDS	complement(1417495..1418478)	conserved hypothetical protein
+cpr:CPR_1262	CDS	complement(1418735..1419457)	putative membrane protein
+cpr:CPR_1263	CDS	complement(1419993..1421399)	gltA; glutamate synthase (NADPH), homotetrameric
+cpr:CPR_1264	CDS	complement(1421392..1422291)	putative dehydrogenase
+cpr:CPR_1265	CDS	complement(1422465..1423631)	adh1; NADPH-dependent butanol dehydrogenase
+cpr:CPR_1266	CDS	1423866..1426736	entA; putative enterotoxin EntA
+cpr:CPR_1267	CDS	complement(1426910..1427824)	putative type II restriction enzyme HphI
+cpr:CPR_1268	CDS	complement(1428124..1428741)	conserved hypothetical protein
+cpr:CPR_1269	CDS	complement(1429005..1429538)	hypothetical protein
+cpr:CPR_1270	CDS	1430242..1430706	greA_1; transcription elongation factor GreA
+cpr:CPR_1271	CDS	1430864..1432627	conserved hypothetical protein
+cpr:CPR_1272	CDS	complement(1432770..1433945)	FliB family protein
+cpr:CPR_1273	CDS	complement(1434258..1435223)	dihydrouridine synthase family protein
+cpr:CPR_1274	CDS	complement(1435327..1436697)	MATE efflux family protein
+cpr:CPR_1275	CDS	complement(1437074..1437415)	conserved hypothetical protein
+cpr:CPR_1276	CDS	complement(1437427..1439343)	oligopeptide transporter, OPT family
+cpr:CPR_1277	CDS	complement(1440146..1440298)	hypothetical protein
+cpr:CPR_1278	CDS	complement(1440592..1444989)	Leucine Rich Repeat domain protein
+cpr:CPR_1279	CDS	complement(1445426..1446814)	putative tetracycline resistance protein
+cpr:CPR_1280	CDS	1447234..1447983	transcriptional regulator, GntR family
+cpr:CPR_1281	CDS	complement(1448374..1449555)	nucleoside transporter, NupC family
+cpr:CPR_1282	CDS	complement(1449932..1451830)	putative membrane protein
+cpr:CPR_1283	CDS	complement(1451878..1452303)	transcriptional regulator, MarR family
+cpr:CPR_1284	CDS	complement(1452423..1453520)	peptidase, S41 family
+cpr:CPR_1285	CDS	1453990..1454442	conserved hypothetical protein
+cpr:CPR_1286	CDS	complement(1454547..1454843)	conserved hypothetical protein
+cpr:CPR_1287	CDS	complement(1455672..1456250)	xpt_2; xanthine phosphoribosyltransferase
+cpr:CPR_1288	CDS	1456423..1457412	tetratricopeptide repeat protein
+cpr:CPR_1289	CDS	complement(1457641..1458249)	putative lipoprotein
+cpr:CPR_1290	CDS	complement(1458496..1458588)	hypothetical protein
+cpr:CPR_1291	CDS	complement(1458733..1459203)	smpB; SsrA-binding protein
+cpr:CPR_1292	CDS	complement(1459717..1461972)	rnr; ribonuclease R
+cpr:CPR_1293	CDS	complement(1462261..1462491)	secG; preprotein translocase, SecG subunit
+cpr:CPR_1294	CDS	complement(1462681..1462800)	hypothetical protein
+cpr:CPR_1295	CDS	complement(1463347..1464642)	eno; phosphopyruvate hydratase
+cpr:CPR_1296	CDS	complement(1465007..1465108)	hypothetical protein
+cpr:CPR_1297	CDS	complement(1465697..1467154)	glutamate:gamma-aminobutyrate antiporter family protein
+cpr:CPR_1298	CDS	complement(1467633..1469171)	gpmI; phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent
+cpr:CPR_1299	CDS	complement(1469296..1470042)	tpiA; triose-phosphate isomerase
+cpr:CPR_1300	CDS	complement(1470286..1471479)	pgk; phosphoglycerate kinase
+cpr:CPR_1301	CDS	complement(1471624..1472622)	gap; glyceraldehyde-3-phosphate dehydrogenase, type I
+cpr:CPR_1302	CDS	complement(1472713..1473747)	sugar-binding domain protein
+cpr:CPR_1303	CDS	complement(1473975..1475360)	rpoN; RNA polymerase sigma-54 factor
+cpr:CPR_1304	CDS	complement(1475611..1476378)	conserved hypothetical protein
+cpr:CPR_1305	CDS	complement(1476359..1476874)	putative membrane protein
+cpr:CPR_1306	CDS	complement(1477477..1478547)	lipoprotein, BMP family
+cpr:CPR_1307	CDS	complement(1478637..1479476)	degV family protein
+cpr:CPR_1308	CDS	complement(1479491..1479952)	RNA methyltransferase, TrmH family, group 2
+cpr:CPR_1309	CDS	complement(1480041..1480874)	HAD hydrolase, IIB family
+cpr:CPR_1310	CDS	complement(1480970..1482526)	vanW-like family protein
+cpr:CPR_1311	CDS	complement(1482702..1483655)	glycosyl hydrolase, family 25
+cpr:CPR_1312	CDS	complement(1483729..1484634)	ddl; D-alanine--D-alanine ligase
+cpr:CPR_1313	CDS	1484760..1485782	ISCpe7, transposase
+cpr:CPR_1316	CDS	complement(1486037..1488400)	sensory box histidine kinase
+cpr:CPR_1317	CDS	1488603..1489466	putative membrane protein
+cpr:CPR_1318	CDS	complement(1489495..1490124)	nth; endonuclease III
+cpr:CPR_1319	CDS	complement(1490136..1490840)	1-acyl-sn-glycerol-3-phosphate acyltransferase family protein
+cpr:CPR_1320	CDS	complement(1490878..1491870)	putative iron-sulfur cluster binding protein
+cpr:CPR_1321	CDS	complement(1492015..1492524)	cysE; serine O-acetyltransferase
+cpr:CPR_1322	CDS	complement(1492543..1493445)	cysK; cysteine synthase A
+cpr:CPR_1323	CDS	complement(1493784..1495055)	CBS domain/MgtE intracellular domain protein
+cpr:CPR_1324	CDS	1495365..1496153	amino acid ABC transporter, amino acid-binding protein
+cpr:CPR_1325	CDS	1496167..1496808	amino acid ABC transporter, permease protein, His/Glu/Gln/Arg/opine family
+cpr:CPR_1326	CDS	1496820..1497494	Amino acid transport ATP-binding protein
+cpr:CPR_1327	CDS	complement(1497675..1498355)	putative membrane protein
+cpr:CPR_1328	CDS	complement(1498428..1499324)	diacylglycerol kinase catalytic domain protein
+cpr:CPR_1329	CDS	1499629..1500150	pssA; CDP-diacylglycerol--serine O-phosphatidyltransferase
+cpr:CPR_1330	CDS	complement(1500196..1500546)	conserved hypothetical protein
+cpr:CPR_1331	CDS	complement(1500568..1501104)	rubrerythrin
+cpr:CPR_1332	CDS	complement(1501156..1502505)	stage V sporulation protein R
+cpr:CPR_1333	CDS	complement(1502532..1503710)	yhbH; sporulation protein YhbH
+cpr:CPR_1334	CDS	complement(1503714..1505636)	prkA; non-specific serine/threonine protein kinase
+cpr:CPR_1335	CDS	complement(1505727..1507505)	recQ; ATP-dependent DNA helicase RecQ
+cpr:CPR_1336	CDS	complement(1507732..1508355)	thiE; thiamine-phosphate diphosphorylase
+cpr:CPR_1337	CDS	complement(1508348..1509145)	thiM; hydroxyethylthiazole kinase
+cpr:CPR_1338	CDS	complement(1509157..1509951)	thiD; phosphomethylpyrimidine kinase
+cpr:CPR_1339	CDS	1510260..1511099	patatin-like phospholipase family protein
+cpr:CPR_1340	CDS	complement(1511217..1512230)	transcriptional regulator, LacI family
+cpr:CPR_1341	CDS	1512448..1513512	putative galactoside ABC transporter, galactoside-binding protein
+cpr:CPR_1342	CDS	1513586..1515133	mglA; galactoside ABC transporter, ATP-binding protein
+cpr:CPR_1343	CDS	1515105..1516133	mglC; galactoside ABC transporter, permease protein
+cpr:CPR_1344	CDS	complement(1516389..1517420)	aldose 1-epimerase
+cpr:CPR_1345	CDS	1517637..1518800	galK; galactokinase
+cpr:CPR_1346	CDS	1518887..1520383	UTP--hexose-1-phosphate uridylyltransferase
+cpr:CPR_1347	CDS	complement(1520573..1522228)	phosphoribulokinase/uridine kinase family protein
+cpr:CPR_1348	CDS	1522356..1523054	conserved hypothetical protein
+cpr:CPR_1349	CDS	1523051..1523485	conserved hypothetical protein
+cpr:CPR_1350	CDS	1523580..1524446	fba; fructose-1,6-bisphosphate aldolase, class II
+cpr:CPR_1351	CDS	complement(1524494..1525537)	conserved hypothetical protein
+cpr:CPR_1352	CDS	1525677..1526240	adenylate cyclase
+cpr:CPR_1353	CDS	complement(1526367..1528016)	entB; putative enterotoxin, EntB
+cpr:CPR_1354	CDS	complement(1528182..1528550)	hypothetical protein
+cpr:CPR_1355	CDS	1528738..1529124	hypothetical protein
+cpr:CPR_1356	CDS	complement(1529251..1529736)	ybaK/ebsC protein
+cpr:CPR_1357	CDS	complement(1530274..1530444)	hypothetical protein
+cpr:CPR_1358	CDS	complement(1530703..1530861)	hypothetical protein
+cpr:CPR_1359	CDS	complement(1530985..1531545)	conserved hypothetical protein
+cpr:CPR_1360	CDS	complement(1531624..1532574)	rnz; ribonuclease Z
+cpr:CPR_1361	CDS	1532801..1533427	TrkA-C domain protein
+cpr:CPR_1362	CDS	complement(1533479..1534231)	conserved hypothetical protein
+cpr:CPR_1363	CDS	complement(1534529..1535032)	acetyltransferase, GNAT family
+cpr:CPR_1364	CDS	1535635..1536330	probable proton-coupled thiamine transporter YuaJ
+cpr:CPR_1365	CDS	1536439..1537515	aminotransferase family protein
+cpr:CPR_1366	CDS	complement(1537656..1538702)	cax_1; calcium/proton exchanger
+cpr:CPR_1367	CDS	complement(1539141..1540436)	phosphodiesterase/nucleotide pyrophosphatase family protein
+cpr:CPR_1368	CDS	complement(1540898..1541236)	hypothetical protein
+cpr:CPR_1369	CDS	complement(1541375..1541788)	conserved hypothetical protein
+cpr:CPR_1370	CDS	complement(1541989..1542900)	putative membrane protein
+cpr:CPR_1371	CDS	complement(1542934..1543725)	D-alanyl-D-alanine carboxypeptidase family protein
+cpr:CPR_1372	tRNA	complement(1544138..1544224)	tRNA-Leu
+cpr:CPR_1373	CDS	complement(1544394..1545446)	IS1470, transposase
+cpr:CPR_1374	CDS	1545642..1546583	conserved hypothetical protein
+cpr:CPR_1375	CDS	complement(1546621..1547490)	map_1; methionine aminopeptidase, type I
+cpr:CPR_1376	CDS	complement(1547838..1548434)	conserved hypothetical protein
+cpr:CPR_1377	CDS	1548532..1549455	conserved hypothetical protein
+cpr:CPR_1378	CDS	complement(1549595..1550134)	hypothetical protein
+cpr:CPR_1379	CDS	complement(1550495..1550710)	hypothetical protein
+cpr:CPR_1380	CDS	complement(1550746..1551210)	hypothetical protein
+cpr:CPR_1381	CDS	complement(1551426..1552019)	ysxC; ribosome biogenesis GTP-binding protein YsxC
+cpr:CPR_1382	CDS	complement(1552019..1554349)	lon; ATP-dependent protease La
+cpr:CPR_1383	CDS	complement(1554471..1556183)	lonB; ATP-dependent protease LonB
+cpr:CPR_1384	CDS	complement(1556295..1557602)	clpX; ATP-dependent Clp protease, ATP-binding subunit ClpX
+cpr:CPR_1385	CDS	complement(1557642..1558226)	clpP; ATP-dependent Clp protease, proteolytic subunit ClpP
+cpr:CPR_1386	CDS	complement(1558421..1559707)	tig; trigger factor
+cpr:CPR_1387	CDS	complement(1559834..1560298)	probable endonuclease
+cpr:CPR_1388	CDS	complement(1560364..1560621)	probable endonuclease
+cpr:CPR_1389	CDS	1560826..1562412	ATP-dependent RNA helicase, DEAD/DEAH box family
+cpr:CPR_1390	CDS	complement(1562449..1562721)	hypothetical protein
+cpr:CPR_1391	CDS	1562906..1563613	deoD; purine nucleoside phosphorylase
+cpr:CPR_1392	CDS	complement(1563662..1564945)	hypothetical protein
+cpr:CPR_1393	CDS	complement(1564956..1565300)	hypothetical protein
+cpr:CPR_1394	CDS	complement(1565474..1566382)	exonuclease family protein
+cpr:CPR_1395	CDS	complement(1566617..1569538)	putative peptidase
+cpr:CPR_1396	CDS	complement(1569907..1570176)	hypothetical protein
+cpr:CPR_1397	CDS	1570345..1571496	conserved hypothetical protein
+cpr:CPR_1398	CDS	complement(1571733..1572458)	putative N-acetylmuramoyl-L-alanine amidase
+cpr:CPR_1399	CDS	1572616..1573194	putative flavin reductase
+cpr:CPR_1400	CDS	complement(1573328..1574899)	voltage-gated chloride channel family protein
+cpr:CPR_1401	CDS	complement(1575607..1575864)	conserved hypothetical protein
+cpr:CPR_1402	CDS	complement(1575993..1577150)	thiI; thiamine biosynthesis/tRNA modification protein ThiI
+cpr:CPR_1403	CDS	complement(1577147..1578292)	aminotransferase, class V
+cpr:CPR_1404	CDS	complement(1578465..1578902)	ACT domain protein
+cpr:CPR_1405	CDS	complement(1579277..1581856)	glycosyl hydrolase, family 38
+cpr:CPR_1406	CDS	complement(1582093..1582932)	homocysteine S-methyltransferase family protein
+cpr:CPR_1407	CDS	1583174..1583902	putative 1-acyl-sn-glycerol-3-phosphate acyltransferase
+cpr:CPR_1408	CDS	complement(1583946..1585334)	sodium:alanine symporter family protein
+cpr:CPR_1409	CDS	1585987..1586739	putative membrane protein
+cpr:CPR_1410	CDS	1586942..1587919	peptidase, T4 family
+cpr:CPR_1411	CDS	1588159..1588341	small, acid-soluble spore protein
+cpr:CPR_1412	CDS	complement(1588387..1588827)	conserved hypothetical protein
+cpr:CPR_1413	CDS	complement(1588827..1589468)	pcp; pyroglutamyl-peptidase I
+cpr:CPR_1414	CDS	complement(1589504..1590433)	putative membrane protein
+cpr:CPR_1415	CDS	complement(1590446..1591126)	conserved hypothetical protein
+cpr:CPR_1416	CDS	complement(1591364..1593964)	clpB; clpB protein
+cpr:CPR_1417	CDS	1594286..1595827	relA/spoT family protein
+cpr:CPR_1418	CDS	1595906..1597336	cls; cardiolipin synthetase family protein
+cpr:CPR_1419	CDS	complement(1597641..1598918)	hemL; glutamate-1-semialdehyde-2,1-aminomutase
+cpr:CPR_1420	CDS	complement(1598983..1599948)	hemB; porphobilinogen synthase
+cpr:CPR_1421	CDS	complement(1600005..1601483)	hemD; uroporphyrinogen-III methyltransferase/synthase
+cpr:CPR_1422	CDS	complement(1601492..1602367)	hemC; hydroxymethylbilane synthase
+cpr:CPR_1423	CDS	complement(1602512..1603174)	siroheme synthase family protein
+cpr:CPR_1424	CDS	complement(1603138..1604340)	hemA; glutamyl-tRNA reductase
+cpr:CPR_1425	CDS	complement(1604522..1605502)	arsC; anaerobic sulfite reductase, subunit C
+cpr:CPR_1426	CDS	complement(1605516..1606307)	asrB; anaerobic sulfite reductase, subunit B
+cpr:CPR_1427	CDS	complement(1606300..1607316)	sulfite reductase, iron-sulfur subunit
+cpr:CPR_1428	CDS	complement(1607541..1608233)	transcriptional regulator, Crp/Fnr family
+cpr:CPR_1429	CDS	complement(1608444..1609241)	fnt; formate/nitrite transporter
+cpr:CPR_1430	CDS	complement(1609444..1610064)	putative membrane protein
+cpr:CPR_1431	CDS	complement(1610042..1610332)	GIY-YIG domain protein
+cpr:CPR_1432	CDS	1610586..1612646	transcriptional regulator, AraC family
+cpr:CPR_1433	CDS	complement(1613309..1614574)	conserved hypothetical protein
+cpr:CPR_1434	CDS	complement(1614591..1615892)	DNA-binding protein
+cpr:CPR_1435	CDS	complement(1616188..1616379)	hypothetical protein
+cpr:CPR_1436	CDS	complement(1616428..1617057)	putative ribonuclease HI
+cpr:CPR_1437	CDS	complement(1617074..1618045)	conserved hypothetical protein
+cpr:CPR_1438	CDS	complement(1618370..1619398)	rhomboid family protein
+cpr:CPR_1439	CDS	complement(1619416..1621215)	pepF; oligoendopeptidase F
+cpr:CPR_1440	CDS	complement(1621236..1621634)	conserved hypothetical protein
+cpr:CPR_1441	CDS	1621803..1622138	conserved hypothetical protein
+cpr:CPR_1442	CDS	1622211..1622879	putative zinc ABC transporter, ATP-binding protein
+cpr:CPR_1443	CDS	1622898..1623707	putative zinc ABC transporter, permease protein
+cpr:CPR_1444	CDS	complement(1623892..1626315)	hypothetical protein
+cpr:CPR_1445	CDS	complement(1626583..1626993)	transcriptional regulator, Fur family
+cpr:CPR_1446	CDS	1627420..1628622	phosphofructokinase family protein
+cpr:CPR_1447	CDS	complement(1628681..1629046)	conserved hypothetical protein
+cpr:CPR_1448	CDS	complement(1629302..1630588)	aminotransferase, class V
+cpr:CPR_1449	CDS	1630758..1632689	ABC transporter, ATP-binding protein
+cpr:CPR_1450	CDS	complement(1632855..1633319)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase family protein
+cpr:CPR_1451	CDS	complement(1633454..1634101)	hypothetical protein
+cpr:CPR_1452	CDS	complement(1634183..1634737)	conserved hypothetical protein
+cpr:CPR_1453	CDS	1634975..1635622	hemolysin III
+cpr:CPR_1454	CDS	complement(1635674..1636558)	transcriptional regulator, LysR family
+cpr:CPR_1455	CDS	complement(1636570..1636854)	hypothetical protein
+cpr:CPR_1456	CDS	1637030..1637746	polysaccharide deacetylase family protein
+cpr:CPR_1457	CDS	complement(1637763..1638299)	hypothetical protein
+cpr:CPR_1458	CDS	complement(1638418..1639053)	conserved hypothetical protein
+cpr:CPR_1459	CDS	1639273..1640928	sulfate permease, SulP family
+cpr:CPR_1460	CDS	complement(1640967..1641119)	hypothetical protein
+cpr:CPR_1461	CDS	complement(1641196..1642161)	kinase, pfkB family
+cpr:CPR_1462	CDS	complement(1642201..1642371)	conserved hypothetical protein
+cpr:CPR_1463	CDS	complement(1642628..1643950)	MATE efflux family protein
+cpr:CPR_1464	CDS	complement(1643971..1644657)	ABC transporter, ATP-binding protein
+cpr:CPR_1465	CDS	complement(1644659..1645414)	ABC transporter, permease protein
+cpr:CPR_1466	CDS	complement(1645389..1646357)	conserved hypothetical protein
+cpr:CPR_1467	CDS	complement(1646465..1646566)	hypothetical protein
+cpr:CPR_1468	CDS	complement(1646640..1646825)	hypothetical protein
+cpr:CPR_1469	CDS	complement(1647017..1647874)	hypothetical protein
+cpr:CPR_1470	gene	complement(1647977..1648438)	pseudogene
+cpr:CPR_1472	CDS	complement(1649124..1649360)	conserved hypothetical protein
+cpr:CPR_1473	CDS	complement(1649385..1650146)	ISCpe7, transposase
+cpr:CPR_1474	CDS	1650271..1650693	hypothetical protein
+cpr:CPR_1475	CDS	complement(1650896..1651396)	membrane protein, DedA family
+cpr:CPR_1476	CDS	complement(1651491..1651988)	DedA family protein
+cpr:CPR_1477	CDS	complement(1652262..1653299)	PP-loop family protein
+cpr:CPR_1478	CDS	complement(1653519..1654022)	putative membrane protein
+cpr:CPR_1479	CDS	complement(1654132..1654632)	ISCpe4, transposase
+cpr:CPR_1480	CDS	complement(1655064..1655942)	metallo-beta-lactamase family protein
+cpr:CPR_1481	CDS	complement(1656114..1657439)	virS; sensor histidine kinase VirS
+cpr:CPR_1482	CDS	complement(1657433..1658143)	DNA-binding response regulator, LytTr family
+cpr:CPR_1483	CDS	complement(1658282..1659298)	putative N-acetylmuramoyl-L-alanine amidase
+cpr:CPR_1484	CDS	complement(1659394..1659681)	conserved hypothetical protein
+cpr:CPR_1485	CDS	complement(1659905..1660918)	3D/G5 domain protein
+cpr:CPR_1486	CDS	complement(1661343..1662641)	putative uracil permease
+cpr:CPR_1487	CDS	1662829..1664412	ABC transporter, ATP-binding protein
+cpr:CPR_1488	CDS	complement(1664463..1665422)	polysaccharide deacetylase family protein
+cpr:CPR_1489	CDS	complement(1665679..1667874)	topB; DNA topoisomerase III
+cpr:CPR_1490	CDS	complement(1667962..1669380)	putative membrane protein
+cpr:CPR_1491	CDS	complement(1669390..1669857)	putative membrane protein
+cpr:CPR_1492	CDS	complement(1670274..1670642)	hypothetical protein
+cpr:CPR_1493	CDS	complement(1670868..1674128)	sensor histidine kinase/response regulator
+cpr:CPR_1494	CDS	complement(1674210..1675310)	conserved hypothetical protein
+cpr:CPR_1495	CDS	complement(1675325..1676692)	putative alginate biosynthesis protein AlgI
+cpr:CPR_1496	CDS	complement(1676919..1677416)	putative lipoprotein
+cpr:CPR_1497	CDS	complement(1677668..1678885)	ATP-dependent RNA helicase, DEAD/DEAH box family
+cpr:CPR_1498	CDS	complement(1678909..1679220)	conserved domain protein
+cpr:CPR_1499	CDS	complement(1679530..1680876)	gdhA; glutamate dehydrogenase
+cpr:CPR_1500	CDS	complement(1681404..1681898)	hypothetical protein
+cpr:CPR_1501	CDS	1682132..1683157	ilvE; branched-chain-amino-acid transaminase
+cpr:CPR_1502	CDS	complement(1683202..1683615)	hypothetical protein
+cpr:CPR_1503	CDS	complement(1683638..1684222)	hypothetical protein
+cpr:CPR_1504	gene	1684341..1685279	CPR_1504
+cpr:CPR_1505	CDS	complement(1685469..1686212)	hypothetical protein
+cpr:CPR_1506	CDS	complement(1686432..1686791)	hypothetical protein
+cpr:CPR_1507	CDS	1686963..1687298	Uncharacterized BCR, YnfA/UPF0060 family superfamily
+cpr:CPR_1508	CDS	1687527..1688864	putative lipoprotein
+cpr:CPR_1509	CDS	complement(1688931..1689347)	hypothetical protein
+cpr:CPR_1510	CDS	complement(1689559..1690506)	fructokinase
+cpr:CPR_1511	CDS	complement(1690499..1691962)	sucrose-6-phosphate dehydrogenase
+cpr:CPR_1512	CDS	complement(1692002..1692979)	scrR; sucrose operon repressor
+cpr:CPR_1513	CDS	complement(1693112..1694464)	PTS system, sucrose-specific IIBC component
+cpr:CPR_1514	CDS	complement(1694779..1695405)	conserved hypothetical protein
+cpr:CPR_1515	CDS	complement(1695880..1696434)	bioY family protein
+cpr:CPR_1516	CDS	complement(1696926..1698038)	conserved domain protein
+cpr:CPR_1517	CDS	complement(1698373..1701774)	spoVK domain protein
+cpr:CPR_1518	CDS	complement(1701871..1703859)	molybdopterin oxidoreductase
+cpr:CPR_1519	CDS	1704269..1705363	prs; ribose-phosphate pyrophosphokinase
+cpr:CPR_1520	CDS	complement(1705414..1706475)	conserved hypothetical protein
+cpr:CPR_1521	CDS	complement(1706686..1707684)	polysaccharide deacetylase family protein
+cpr:CPR_1522	CDS	complement(1708082..1710049)	pulA; pullulanase, type I
+cpr:CPR_1523	CDS	1710226..1710762	signal peptidase I
+cpr:CPR_1524	CDS	complement(1710818..1711660)	putative lipoprotein
+cpr:CPR_1525	CDS	complement(1711769..1712038)	hypothetical protein
+cpr:CPR_1526	CDS	complement(1712149..1714164)	putative membrane protein
+cpr:CPR_1527	CDS	complement(1714471..1715421)	conserved hypothetical protein
+cpr:CPR_1528	CDS	1715569..1716210	putative undecaprenyl diphosphate synthase
+cpr:CPR_1529	gene	1716215..1717711	CPR_1529
+cpr:CPR_1530	CDS	complement(1717743..1719437)	GGDEF/HD domain protein
+cpr:CPR_1531	CDS	complement(1719499..1719633)	putative lipoprotein
+cpr:CPR_1532	CDS	complement(1719654..1720298)	putative accessory gene regulator protein B
+cpr:CPR_1533	CDS	complement(1720300..1720761)	hypothetical protein
+cpr:CPR_1534	CDS	complement(1720779..1721345)	conserved hypothetical protein
+cpr:CPR_1535	CDS	complement(1721496..1721603)	membrane protein, DedA family
+cpr:CPR_1536	CDS	complement(1722195..1723190)	cax_2; calcium/proton exchanger
+cpr:CPR_1537	CDS	1723316..1724338	ISCpe7, transposase
+cpr:CPR_1538	CDS	complement(1724602..1725681)	dinB; DNA polymerase IV
+cpr:CPR_1539	CDS	complement(1725823..1726410)	peptidyl-prolyl cis-trans isomerase, cyclophilin-type
+cpr:CPR_1540	CDS	complement(1726632..1727036)	hypothetical protein
+cpr:CPR_1541	CDS	complement(1727153..1727983)	HAD hydrolase, IIB family
+cpr:CPR_1542	CDS	complement(1728279..1728992)	pspA; phage shock protein A
+cpr:CPR_1543	CDS	complement(1729078..1729779)	putative lipoprotein
+cpr:CPR_1544	CDS	1729927..1730592	conserved hypothetical protein
+cpr:CPR_1545	CDS	complement(1730730..1733066)	putative glutamate--cysteine ligase/putative amino acid ligase
+cpr:CPR_1546	CDS	complement(1733462..1734379)	phospholipase, patatin family
+cpr:CPR_1547	CDS	complement(1734526..1735815)	xanthine/uracil permease family protein
+cpr:CPR_1548	CDS	complement(1736067..1736435)	conserved hypothetical protein
+cpr:CPR_1549	CDS	complement(1736638..1737591)	ABC transporter, permease protein
+cpr:CPR_1550	CDS	complement(1737591..1738688)	ABC transporter, permease protein
+cpr:CPR_1551	CDS	complement(1738678..1740213)	ABC transporter, ATP-binding protein
+cpr:CPR_1552	CDS	complement(1740346..1741458)	lipoprotein, BMP family
+cpr:CPR_1553	gene	complement(1741995..1742816)	CPR_1553
+cpr:CPR_1554	CDS	complement(1743137..1743958)	putative cobalt ABC transporter, permease protein
+cpr:CPR_1555	CDS	complement(1743967..1745673)	ABC transporter, ATP-binding protein
+cpr:CPR_1556	CDS	complement(1745818..1746375)	putative membrane protein
+cpr:CPR_1557	CDS	1746577..1747029	rhodanese domain protein
+cpr:CPR_1558	CDS	complement(1747187..1750381)	putative pullulanase
+cpr:CPR_1559	CDS	complement(1750481..1752460)	glgB; 1,4-alpha-glucan branching enzyme
+cpr:CPR_1560	CDS	complement(1752554..1753261)	hypothetical protein
+cpr:CPR_1561	CDS	1753503..1754273	conserved hypothetical protein
+cpr:CPR_1562	CDS	1754270..1754761	putative membrane protein
+cpr:CPR_1563	CDS	complement(1754950..1755717)	hypothetical protein
+cpr:CPR_1564	CDS	complement(1756065..1757774)	putative membrane protein
+cpr:CPR_1565	CDS	complement(1757951..1759105)	ISCpe2, transposase orfB
+cpr:CPR_1566	CDS	complement(1759116..1759487)	ISCpe2, transposase orfA
+cpr:CPR_1567	CDS	complement(1759637..1759885)	probable thioredoxin
+cpr:CPR_1568	CDS	complement(1760011..1760442)	hypothetical protein
+cpr:CPR_1569	CDS	complement(1760554..1761135)	thiamine monophosphate synthase family protein
+cpr:CPR_1570	CDS	complement(1761165..1762268)	thiH; thiazole biosynthesis protein ThiH
+cpr:CPR_1571	CDS	complement(1762281..1763045)	thiG; thiazole biosynthesis protein ThiG
+cpr:CPR_1572	CDS	complement(1763175..1763774)	thiF; thiamine biosynthesis protein ThiF
+cpr:CPR_1573	CDS	complement(1764055..1764249)	thiS; thiamine biosynthesis protein ThiS
+cpr:CPR_1574	CDS	complement(1764529..1766226)	transporter, major facilitator family
+cpr:CPR_1575	CDS	complement(1766560..1767366)	GTP pyrophosphokinase homolog
+cpr:CPR_1576	CDS	complement(1767402..1767710)	conserved hypothetical protein
+cpr:CPR_1577	CDS	complement(1767755..1768198)	msrB; methionine-R-sulfoxide reductase
+cpr:CPR_1578	CDS	1768337..1768801	IS1470, transposase
+cpr:CPR_1580	CDS	complement(1769493..1770146)	conserved hypothetical protein
+cpr:CPR_1581	CDS	1770296..1770595	hypothetical protein
+cpr:CPR_1582	CDS	complement(1770643..1771617)	polysaccharide deacetylase family protein
+cpr:CPR_1583	CDS	complement(1771917..1773071)	ISCpe2, transposase orfB
+cpr:CPR_1584	CDS	complement(1773082..1773645)	ISCpe2, transposase orfA
+cpr:CPR_1585	CDS	1774053..1774706	membrane protein, DedA family
+cpr:CPR_1586	CDS	complement(1774774..1775139)	hypothetical protein
+cpr:CPR_1587	CDS	complement(1775267..1776562)	peptidase, M23/M37 family protein
+cpr:CPR_1588	CDS	complement(1776768..1776980)	hypothetical protein
+cpr:CPR_1589	CDS	complement(1777673..1778068)	conserved hypothetical protein
+cpr:CPR_1590	CDS	complement(1778084..1778341)	conserved hypothetical protein
+cpr:CPR_1591	CDS	complement(1778358..1780649)	ATP-dependent DNA helicase, UvrD/REP family
+cpr:CPR_1592	CDS	1781169..1781639	hypothetical protein
+cpr:CPR_1593	CDS	complement(1781708..1782706)	conserved hypothetical protein
+cpr:CPR_1594	CDS	1782849..1783514	putative lipoprotein
+cpr:CPR_1595	CDS	1783903..1784811	hypothetical protein
+cpr:CPR_1596	CDS	1784774..1785352	hypothetical protein
+cpr:CPR_1597	CDS	complement(1785782..1789036)	helicase, SNF2/RAD54 family
+cpr:CPR_1598	CDS	complement(1789214..1790215)	transcriptional regulator, LacI family
+cpr:CPR_1599	CDS	complement(1790355..1791260)	rbsB; ribose ABC transporter, ribose-binding protein
+cpr:CPR_1600	CDS	complement(1791636..1792217)	rbsC; ribose transport system permease protein rbsC
+cpr:CPR_1601	CDS	complement(1792231..1793736)	rbsA; ribose ABC transporter, ATP-binding protein
+cpr:CPR_1602	CDS	complement(1793823..1794218)	rbsD; ribose ABC transporter, ribose-binding protein
+cpr:CPR_1603	CDS	complement(1794221..1795153)	rbsK; ribokinase
+cpr:CPR_1604	CDS	complement(1795291..1795758)	def_1; peptide deformylase
+cpr:CPR_1605	CDS	complement(1795914..1796873)	glycosyl transferase, group 4 family protein
+cpr:CPR_1606	CDS	complement(1797019..1797585)	putative transcriptional regulatory protein
+cpr:CPR_1607	CDS	complement(1797781..1798425)	V-type ATPase, D subunit
+cpr:CPR_1608	CDS	complement(1798428..1799810)	V-type ATPase, B subunit
+cpr:CPR_1609	CDS	complement(1799803..1801578)	V-type ATPase, A subunit
+cpr:CPR_1610	CDS	complement(1801595..1801912)	V-type ATPase, G subunit
+cpr:CPR_1611	CDS	complement(1801899..1802906)	V-type ATPase, C subunit
+cpr:CPR_1612	CDS	complement(1802919..1803515)	V-type ATPase, E subunit
+cpr:CPR_1613	CDS	complement(1803543..1804037)	V-type ATPase, K subunit
+cpr:CPR_1614	CDS	complement(1804097..1806043)	V-type ATPase, I subunit
+cpr:CPR_1615	CDS	complement(1806030..1806356)	ATP synthase homolog
+cpr:CPR_1616	CDS	complement(1806633..1808312)	radical SAM domain protein
+cpr:CPR_1617	CDS	complement(1808212..1808814)	conserved hypothetical protein
+cpr:CPR_1618	CDS	complement(1808961..1810247)	conserved hypothetical protein
+cpr:CPR_1619	CDS	1810394..1811923	spoVB_2; stage V sporulation protein B
+cpr:CPR_1620	CDS	complement(1812017..1812817)	putative lipoprotein
+cpr:CPR_1621	CDS	complement(1812927..1813769)	conserved hypothetical protein
+cpr:CPR_1622	CDS	complement(1813781..1814284)	bacterial transferase hexpeptide repeat protein
+cpr:CPR_1623	CDS	1814533..1815534	hypothetical protein
+cpr:CPR_1624	CDS	complement(1815550..1815891)	hypothetical protein
+cpr:CPR_1625	CDS	1816129..1816599	transcriptional regulator, AsnC family
+cpr:CPR_1626	CDS	1816707..1816910	conserved hypothetical protein
+cpr:CPR_1627	CDS	complement(1816958..1818664)	conserved domain protein
+cpr:CPR_1628	gene	1818902..1819755	CPR_1628
+cpr:CPR_1629	CDS	complement(1819812..1820495)	conserved hypothetical protein
+cpr:CPR_1630	CDS	1820648..1820899	feoA; putative ferrous iron transport protein
+cpr:CPR_1631	CDS	1820937..1822700	feoB_2; ferrous iron transport protein B
+cpr:CPR_1632	CDS	1822715..1822864	hypothetical protein
+cpr:CPR_1633	CDS	complement(1822910..1824607)	argS; arginine--tRNA ligase
+cpr:CPR_1634	CDS	1825089..1826597	Ppx/GppA phosphatase family protein
+cpr:CPR_1635	CDS	complement(1826696..1827910)	capA domain protein
+cpr:CPR_1636	CDS	complement(1828076..1828696)	peptidase, M50 family
+cpr:CPR_1637	CDS	complement(1828902..1830281)	PhoH family protein
+cpr:CPR_1638	CDS	1830503..1831117	putative DNA polymerase III, epsilon subunit
+cpr:CPR_1639	CDS	complement(1831154..1831483)	single-strand DNA binding protein
+cpr:CPR_1640	CDS	complement(1831762..1833192)	purB; adenylosuccinate lyase
+cpr:CPR_1641	CDS	complement(1833435..1833695)	phosphocarrier, HPr family
+cpr:CPR_1642	CDS	complement(1833790..1834983)	aspB; aspartate aminotransferase
+cpr:CPR_1643	CDS	complement(1835135..1835395)	spoVS; stage V sporulation protein S
+cpr:CPR_1644	CDS	complement(1835613..1837148)	HDIG/KH domain protein
+cpr:CPR_1645	CDS	complement(1837496..1838554)	recA; recA protein
+cpr:CPR_1646	CDS	complement(1838690..1839280)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+cpr:CPR_1647	CDS	complement(1839264..1840601)	MiaB-like tRNA modifying enzyme YliG, TIGR01125
+cpr:CPR_1648	CDS	complement(1840670..1843060)	ftsK; DNA translocase FtsK
+cpr:CPR_1649	CDS	complement(1843192..1843881)	clpP; putative endopeptidase
+cpr:CPR_1650	CDS	complement(1843935..1845131)	aspartate kinase
+cpr:CPR_1651	CDS	complement(1845145..1845420)	PRC-barrel domain protein
+cpr:CPR_1652	CDS	complement(1845555..1847663)	pnpA; polyribonucleotide nucleotidyltransferase
+cpr:CPR_1653	CDS	complement(1847755..1848018)	rpsO; 30S ribosomal protein S15
+cpr:CPR_1654	CDS	complement(1848134..1849063)	ribF; riboflavin biosynthesis protein RibF
+cpr:CPR_1655	CDS	complement(1849067..1849951)	truB; tRNA pseudouridine synthase B
+cpr:CPR_1656	CDS	complement(1849955..1850908)	DHH subfamily 1 protein
+cpr:CPR_1657	CDS	complement(1850912..1851262)	rbfA; ribosome-binding factor A
+cpr:CPR_1658	CDS	complement(1851284..1853323)	infB; translation initiation factor IF-2
+cpr:CPR_1659	CDS	complement(1853354..1853656)	ribosomal protein, L7Ae family
+cpr:CPR_1660	CDS	complement(1853649..1853915)	conserved hypothetical protein
+cpr:CPR_1661	CDS	complement(1853943..1855043)	nusA; N utilization substance protein A
+cpr:CPR_1662	CDS	complement(1855063..1855527)	conserved hypothetical protein
+cpr:CPR_1663	CDS	complement(1855760..1860109)	polC; DNA polymerase III, alpha subunit, Gram-positive type
+cpr:CPR_1664	CDS	complement(1860187..1861236)	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+cpr:CPR_1665	CDS	complement(1861256..1862263)	rseP; RIP metalloprotease RseP
+cpr:CPR_1666	CDS	complement(1862275..1863429)	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+cpr:CPR_1667	CDS	complement(1863788..1864582)	cdsA; phosphatidate cytidylyltransferase
+cpr:CPR_1668	CDS	complement(1864600..1865361)	uppS; di-trans,poly-cis-decaprenylcistransferase
+cpr:CPR_1669	CDS	complement(1865426..1865983)	frr; ribosome recycling factor
+cpr:CPR_1670	CDS	complement(1865997..1866710)	pyrH; UMP kinase
+cpr:CPR_1671	CDS	complement(1866802..1867713)	tsf; translation elongation factor Ts
+cpr:CPR_1672	CDS	complement(1867793..1868494)	rpsB; 30S ribosomal protein S2
+cpr:CPR_1673	CDS	complement(1868876..1869652)	codY; GTP-sensing transcriptional pleiotropic repressor CodY
+cpr:CPR_1674	CDS	complement(1869794..1871896)	topA; DNA topoisomerase
+cpr:CPR_1675	CDS	complement(1871941..1873023)	dprA; DNA protecting protein DprA
+cpr:CPR_1676	CDS	complement(1873024..1874547)	Mg chelatase homolog
+cpr:CPR_1677	CDS	1874677..1875045	conserved hypothetical protein TIGR00252
+cpr:CPR_1678	CDS	complement(1875046..1875864)	rnhB; ribonuclease HII
+cpr:CPR_1679	CDS	complement(1875880..1876725)	GTP-binding protein
+cpr:CPR_1680	CDS	complement(1876872..1877225)	rplS; ribosomal protein L19
+cpr:CPR_1681	CDS	complement(1877339..1878049)	trmD; tRNA (guanine-N1)-methyltransferase
+cpr:CPR_1682	CDS	complement(1878039..1878536)	rimM; 16S rRNA processing protein RimM
+cpr:CPR_1683	CDS	complement(1878592..1878819)	conserved hypothetical protein
+cpr:CPR_1684	CDS	complement(1878863..1879108)	rpsP; 30S ribosomal protein S16
+cpr:CPR_1685	CDS	complement(1879142..1880500)	ffh; signal recognition particle protein
+cpr:CPR_1686	CDS	complement(1880512..1880850)	DNA-binding protein
+cpr:CPR_1687	CDS	complement(1881026..1881940)	ftsY; signal recognition particle-docking protein FtsY
+cpr:CPR_1688	CDS	complement(1881954..1885511)	smc; chromosome segregation protein SMC
+cpr:CPR_1689	CDS	complement(1885716..1886789)	radical SAM domain protein
+cpr:CPR_1690	CDS	complement(1886768..1887493)	rnc; ribonuclease III
+cpr:CPR_1691	CDS	complement(1887580..1887810)	acpP; acyl carrier protein
+cpr:CPR_1692	CDS	complement(1887887..1888906)	plsX; fatty acid/phospholipid synthesis protein PlsX
+cpr:CPR_1693	CDS	complement(1888962..1889144)	rpmF; 50S ribosomal protein L32
+cpr:CPR_1694	CDS	complement(1889160..1889555)	conserved hypothetical protein
+cpr:CPR_1695	CDS	complement(1889774..1890970)	ackA_2; acetate kinase
+cpr:CPR_1696	CDS	complement(1891060..1892061)	pta; phosphate acetyltransferase
+cpr:CPR_1697	CDS	1892297..1893505	conserved hypothetical protein
+cpr:CPR_1699	CDS	1893570..1894730	ylbJ; sporulation integral membrane protein YlbJ
+cpr:CPR_1698	CDS	complement(1894713..1895243)	conserved hypothetical protein
+cpr:CPR_1700	CDS	complement(1895252..1895746)	coaD; pantetheine-phosphate adenylyltransferase
+cpr:CPR_1701	CDS	complement(1895748..1896305)	RNA methyltransferase, RsmD family
+cpr:CPR_1702	CDS	complement(1896371..1898065)	recG; ATP-dependent DNA helicase RecG
+cpr:CPR_1703	CDS	complement(1898594..1900240)	DAK2 domain protein
+cpr:CPR_1704	CDS	complement(1900254..1900601)	conserved hypothetical protein
+cpr:CPR_1705	CDS	1900860..1901051	rpmB; 50S ribosomal protein L28
+cpr:CPR_1706	CDS	complement(1901294..1901923)	thiamine diphosphokinase
+cpr:CPR_1707	CDS	complement(1901925..1902578)	rpe; ribulose-phosphate 3-epimerase
+cpr:CPR_1708	CDS	complement(1902578..1903441)	rsgA; ribosome small subunit-dependent GTPase A
+cpr:CPR_1709	CDS	complement(1903635..1905710)	serine/threonine protein kinase BH2504
+cpr:CPR_1710	CDS	complement(1905712..1906431)	protein phosphatase 2C family protein
+cpr:CPR_1711	CDS	complement(1906444..1907487)	radical SAM enzyme, Cfr family
+cpr:CPR_1712	CDS	complement(1907519..1908847)	sun; ribosomal RNA small subunit methyltransferase B
+cpr:CPR_1713	CDS	complement(1908858..1909553)	putative neutral zinc metallopeptidase
+cpr:CPR_1714	CDS	complement(1909571..1910500)	fmt; methionyl-tRNA formyltransferase
+cpr:CPR_1715	CDS	complement(1910520..1910963)	def_2; peptide deformylase
+cpr:CPR_1716	CDS	complement(1910977..1913172)	priA; primosomal protein N'
+cpr:CPR_1717	CDS	complement(1913211..1914398)	coaBC; phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase
+cpr:CPR_1718	CDS	complement(1914404..1914616)	rpoZ; DNA-directed RNA polymerase, omega subunit
+cpr:CPR_1719	CDS	complement(1914597..1915247)	gmk; guanylate kinase
+cpr:CPR_1720	CDS	complement(1915237..1915506)	conserved hypothetical protein
+cpr:CPR_1721	CDS	complement(1915520..1916404)	conserved hypothetical protein TIGR00255
+cpr:CPR_1722	CDS	complement(1916624..1918021)	xanthine/uracil permease family protein
+cpr:CPR_1723	CDS	complement(1918278..1919261)	L-asparaginase, type II
+cpr:CPR_1724	CDS	complement(1919614..1921089)	spoIVA; stage IV sporulation protein A
+cpr:CPR_1725	CDS	complement(1921415..1922410)	NAD-dependent glycerol-3-phosphate dehydrogenase family protein
+cpr:CPR_1726	CDS	complement(1922415..1923731)	engA; ribosome-associated GTPase EngA
+cpr:CPR_1727	CDS	complement(1923734..1925071)	conserved hypothetical protein
+cpr:CPR_1728	CDS	complement(1925398..1927113)	sensory box histidine kinase
+cpr:CPR_1729	CDS	complement(1927127..1927831)	conserved hypothetical protein
+cpr:CPR_1730	CDS	complement(1927997..1928446)	nrdR; transcriptional regulator NrdR
+cpr:CPR_1731	CDS	complement(1928508..1928780)	PRC-barrel domain protein
+cpr:CPR_1732	CDS	complement(1928921..1929694)	sigG; RNA polymerase sigma-G factor
+cpr:CPR_1733	CDS	complement(1929769..1930476)	sigE; RNA polymerase sigma-E factor
+cpr:CPR_1734	CDS	complement(1930490..1931296)	spoIIGA; Sporulation factor SpoIIGA
+cpr:CPR_1735	CDS	complement(1931700..1932845)	ftsZ; cell division protein FtsZ
+cpr:CPR_1736	CDS	complement(1932859..1934097)	ftsA; cell division protein FtsA
+cpr:CPR_1737	CDS	complement(1934175..1935227)	pilT; twitching motility protein PilT
+cpr:CPR_1738	CDS	complement(1935408..1936109)	RNA polymerase sigma-70 factor family
+cpr:CPR_1739	CDS	complement(1936172..1937839)	putative penicillin-binding protein
+cpr:CPR_1740	CDS	complement(1937951..1938577)	udk; uridine kinase
+cpr:CPR_1741	CDS	complement(1938577..1939806)	peptidase, U32 family
+cpr:CPR_1742	CDS	complement(1939812..1940456)	O-methyltransferase family protein
+cpr:CPR_1743	CDS	complement(1940472..1941473)	conserved hypothetical protein TIGR00247
+cpr:CPR_1744	CDS	complement(1941642..1943474)	typA; GTP-binding protein TypA
+cpr:CPR_1745	CDS	complement(1943630..1945297)	RNA-metabolizing metallo-beta-lactamase family protein
+cpr:CPR_1746	CDS	complement(1945368..1945820)	transcriptional regulator, Fur family
+cpr:CPR_1747	CDS	complement(1945841..1946095)	conserved hypothetical protein
+cpr:CPR_1748	CDS	complement(1946111..1946524)	conserved hypothetical protein TIGR00250
+cpr:CPR_1749	CDS	complement(1946572..1946829)	conserved hypothetical protein
+cpr:CPR_1750	CDS	complement(1946973..1949612)	alaS; alanine--tRNA ligase
+cpr:CPR_1751	CDS	complement(1950205..1951242)	putative membrane protein
+cpr:CPR_1752	CDS	complement(1951268..1951741)	PRC-barrel domain protein
+cpr:CPR_1753	CDS	complement(1952023..1953102)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+cpr:CPR_1754	CDS	complement(1953121..1953555)	nifU; FeS cluster assembly scaffold protein NifU
+cpr:CPR_1755	CDS	complement(1953558..1954754)	iscS; cysteine desulfurase
+cpr:CPR_1756	CDS	complement(1954747..1955208)	rrf2 family protein
+cpr:CPR_1757	CDS	complement(1955338..1956585)	ATPase, AAA family
+cpr:CPR_1758	CDS	complement(1956787..1957656)	GGDEF domain protein
+cpr:CPR_1759	CDS	complement(1957872..1958300)	MOSC domain protein
+cpr:CPR_1760	CDS	complement(1958303..1959274)	moaA; molybdenum cofactor biosynthesis protein A
+cpr:CPR_1761	CDS	complement(1959420..1960433)	putative molybdenum cofactor biosynthesis protein
+cpr:CPR_1762	CDS	complement(1960552..1961148)	molybdopterin-guanine dinucleotide biosynthesis protein homolog
+cpr:CPR_1763	CDS	complement(1961192..1962412)	moeA; molybdopterin biosynthesis protein MoeA
+cpr:CPR_1764	CDS	complement(1962716..1963186)	mobB; molybdopterin-guanine dinucleotide biosynthesis protein B
+cpr:CPR_1765	CDS	complement(1963289..1964512)	noxA; nitrate reductase, NADH oxidase subunit
+cpr:CPR_1766	CDS	complement(1964514..1964927)	narB; nitrate reductase electron transfer subunit
+cpr:CPR_1767	CDS	complement(1964940..1967018)	narA; nitrate reductase, catalytic subunit
+cpr:CPR_1768	CDS	complement(1967389..1968666)	gidA; putative FAD-dependent oxidoreductase
+cpr:CPR_1769	CDS	complement(1968698..1969678)	oxidoreductase family protein
+cpr:CPR_1770	CDS	complement(1969925..1970800)	D-alanyl-D-alanine carboxypeptidase family protein
+cpr:CPR_1771	CDS	1970948..1971493	conserved hypothetical protein
+cpr:CPR_1772	CDS	1971540..1971959	conserved hypothetical protein
+cpr:CPR_1773	CDS	complement(1972288..1972875)	scpB; segregation and condensation protein B
+cpr:CPR_1774	CDS	complement(1972868..1973614)	scpA; segregation and condensation protein A
+cpr:CPR_1775	CDS	complement(1973893..1975101)	dacF_1; D-alanyl-D-alanine carboxypeptidase
+cpr:CPR_1776	CDS	complement(1975353..1976654)	pdp; pyrimidine-nucleoside phosphorylase
+cpr:CPR_1777	CDS	complement(1976882..1977754)	xerD; tyrosine recombinase XerD
+cpr:CPR_1778	CDS	complement(1977804..1978424)	putative sporulation protein
+cpr:CPR_1779	CDS	complement(1978809..1979339)	hydrolase, NUDIX family
+cpr:CPR_1780	CDS	complement(1979400..1979705)	hypothetical protein
+cpr:CPR_1781	CDS	complement(1979783..1980613)	spo0A; Spo0A protein
+cpr:CPR_1782	CDS	complement(1980787..1981947)	spoIVB; SpoIVB peptidase
+cpr:CPR_1783	CDS	complement(1982124..1983821)	recN; DNA repair protein RecN
+cpr:CPR_1784	CDS	complement(1983837..1984289)	argR_2; arginine repressor
+cpr:CPR_1785	CDS	complement(1984312..1985142)	NAD(+)/NADH kinase
+cpr:CPR_1786	CDS	complement(1985227..1986042)	hemolysin A
+cpr:CPR_1787	CDS	complement(1986054..1987913)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+cpr:CPR_1788	CDS	complement(1987934..1988806)	ispA; geranyltranstransferase
+cpr:CPR_1789	CDS	complement(1988796..1989023)	xseB; exodeoxyribonuclease VII, small subunit
+cpr:CPR_1790	CDS	complement(1989041..1990243)	xseA; exodeoxyribonuclease VII, large subunit
+cpr:CPR_1791	CDS	complement(1990245..1991078)	folD; folD bifunctional protein
+cpr:CPR_1792	CDS	complement(1991127..1991534)	nusB; N utilization substance protein B
+cpr:CPR_1793	CDS	complement(1991653..1992042)	asp; alkaline shock protein
+cpr:CPR_1794	CDS	complement(1992127..1992624)	stage III sporulation protein AH
+cpr:CPR_1795	CDS	complement(1992650..1993255)	stage III sporulation protein AG
+cpr:CPR_1796	CDS	complement(1993270..1993827)	spoIIIAF; stage III sporulation protein AF
+cpr:CPR_1797	CDS	complement(1993835..1995007)	stage III sporulation protein AE
+cpr:CPR_1798	CDS	complement(1995018..1995404)	stage III sporulation protein AD
+cpr:CPR_1799	CDS	complement(1995492..1995689)	stage III sporulation protein AC
+cpr:CPR_1800	CDS	complement(1995765..1996280)	stage III sporulation protein AB
+cpr:CPR_1801	CDS	complement(1996427..1997311)	stage III sporulation protein AA
+cpr:CPR_1802	CDS	complement(1997511..1997873)	hypothetical protein
+cpr:CPR_1803	CDS	complement(1997988..1998545)	efp; translation elongation factor P
+cpr:CPR_1804	CDS	complement(1998716..1999063)	hypothetical protein
+cpr:CPR_1805	CDS	complement(1999060..1999500)	hypothetical protein
+cpr:CPR_1806	CDS	complement(1999460..2000077)	hypothetical protein
+cpr:CPR_1807	CDS	complement(2000046..2000456)	putative type IV pilin
+cpr:CPR_1808	CDS	complement(2000443..2000814)	hypothetical protein
+cpr:CPR_1809	CDS	complement(2000874..2001386)	hypothetical protein
+cpr:CPR_1810	CDS	complement(2001406..2001834)	putative type IV pilin
+cpr:CPR_1811	CDS	complement(2001827..2002846)	putative pilus biogenesis protein
+cpr:CPR_1812	CDS	complement(2002833..2004221)	putative pilus biogenesis protein
+cpr:CPR_1813	CDS	complement(2004322..2005353)	putative lipoprotein
+cpr:CPR_1814	CDS	complement(2005370..2006188)	dapF; diaminopimelate epimerase
+cpr:CPR_1815	CDS	2006280..2008007	fbpA; fibronectin-binding protein
+cpr:CPR_1816	CDS	complement(2008118..2009245)	putative methyltransferase
+cpr:CPR_1817	CDS	complement(2009265..2009801)	pyrR; pyrimidine operon regulatory protein/uracil phosphoribosyltransferase
+cpr:CPR_1818	CDS	complement(2009805..2010725)	pseudouridine synthase, RluA family
+cpr:CPR_1819	CDS	complement(2010863..2011489)	putative cell division protein DivIVA
+cpr:CPR_1820	CDS	complement(2011502..2012263)	S4 domain protein
+cpr:CPR_1821	CDS	complement(2012265..2012714)	conserved hypothetical protein
+cpr:CPR_1822	CDS	complement(2012733..2013392)	conserved hypothetical protein TIGR00044
+cpr:CPR_1823	CDS	complement(2013491..2014222)	conserved hypothetical protein
+cpr:CPR_1824	CDS	complement(2014235..2014573)	sbp; small basic protein
+cpr:CPR_1825	CDS	complement(2014586..2015302)	conserved hypothetical protein
+cpr:CPR_1826	CDS	complement(2015316..2016062)	cell division protein FtsQ
+cpr:CPR_1827	CDS	complement(2016218..2017342)	spoVE; stage V sporulation protein E
+cpr:CPR_1828	CDS	complement(2017370..2018341)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+cpr:CPR_1829	CDS	complement(2018391..2019752)	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+cpr:CPR_1830	CDS	complement(2019765..2021219)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+cpr:CPR_1831	CDS	complement(2021314..2023533)	spoVD_1; stage V sporulation protein D
+cpr:CPR_1832	CDS	complement(2023721..2024149)	putative cell division protein FtsL
+cpr:CPR_1833	CDS	complement(2024222..2025154)	mraW; S-adenosyl-methyltransferase MraW
+cpr:CPR_1834	tRNA	2025512..2025602	tRNA-Sec
+cpr:CPR_1835	CDS	complement(2025699..2026796)	GTP-binding protein YchF
+cpr:CPR_1836	CDS	2026955..2027752	pdaA; delta-lactam-biosynthetic de-N-acetylase
+cpr:CPR_1837	CDS	complement(2027934..2028569)	methenyltetrahydrofolate cyclohydrolase
+cpr:CPR_1838	CDS	complement(2028598..2029884)	hypothetical protein
+cpr:CPR_1839	CDS	complement(2029884..2030600)	tagA; glycosyl transferase, WecB/TagA/CpsF family
+cpr:CPR_1840	CDS	complement(2030616..2031713)	TPR domain protein
+cpr:CPR_1841	CDS	complement(2032005..2033732)	phosphoglucomutase/phosphomannomutase family protein
+cpr:CPR_1842	CDS	complement(2033923..2034669)	hyaluronoglucosaminidase domain protein
+cpr:CPR_1843	CDS	complement(2035057..2037309)	FucA
+cpr:CPR_1844	CDS	complement(2037558..2038580)	FMN-dependent dehydrogenase
+cpr:CPR_1845	CDS	complement(2038594..2039037)	conserved hypothetical protein
+cpr:CPR_1846	CDS	complement(2039274..2041457)	spoVD_2; stage V sporulation protein D
+cpr:CPR_1847	CDS	complement(2041721..2044081)	MutS2 family protein
+cpr:CPR_1848	CDS	complement(2044095..2046446)	peptidase, U32 family
+cpr:CPR_1849	CDS	2046647..2047429	putative histidinol-phosphatase
+cpr:CPR_1850	CDS	complement(2049032..2050387)	hypothetical protein
+cpr:CPR_1851	CDS	complement(2050468..2052849)	pheT; phenylalanyl-tRNA synthetase, beta subunit
+cpr:CPR_1852	CDS	complement(2052873..2053892)	pheS; phenylalanyl-tRNA synthetase, alpha subunit
+cpr:CPR_1853	CDS	complement(2054503..2055276)	RNA methyltransferase, TrmH family
+cpr:CPR_1854	CDS	complement(2055302..2055967)	putative potassium uptake protein
+cpr:CPR_1855	CDS	complement(2055990..2057330)	potassium uptake protein, TrkH family
+cpr:CPR_1856	CDS	complement(2057548..2057907)	rplT; 50S ribosomal protein L20
+cpr:CPR_1857	CDS	complement(2057937..2058134)	rpmI; 50S ribosomal protein L35
+cpr:CPR_1858	CDS	complement(2058156..2058677)	infC; translation initiation factor IF-3
+cpr:CPR_1859	CDS	complement(2058958..2059836)	ytxC; putative sporulation protein YtxC
+cpr:CPR_1860	CDS	2059971..2060666	conserved hypothetical protein
+cpr:CPR_1861	CDS	2060921..2061901	BadF/BadG/BcrA/BcrD ATPase family protein
+cpr:CPR_1862	CDS	complement(2062030..2062584)	hydrolase, NUDIX family
+cpr:CPR_1863	CDS	complement(2062750..2063307)	hypothetical protein
+cpr:CPR_1864	tRNA	complement(2063530..2063604)	tRNA-Cys
+cpr:CPR_1865	tRNA	complement(2063610..2063683)	tRNA-Gly
+cpr:CPR_1866	tRNA	complement(2063687..2063761)	tRNA-Gly
+cpr:CPR_1867	tRNA	complement(2063767..2063842)	tRNA-Phe
+cpr:CPR_1868	CDS	complement(2063903..2064853)	hsp33; chaperonin, 33 kDa
+cpr:CPR_1869	CDS	complement(2064869..2065606)	conserved hypothetical protein
+cpr:CPR_1870	CDS	complement(2065658..2065930)	small, acid-soluble spore protein, alpha/beta family
+cpr:CPR_1871	CDS	2066132..2067109	asd; aspartate-semialdehyde dehydrogenase
+cpr:CPR_1872	CDS	2067134..2068009	dapA; dihydrodipicolinate synthase
+cpr:CPR_1873	CDS	2068082..2068846	dapB; dihydrodipicolinate reductase
+cpr:CPR_1874	CDS	complement(2069154..2070296)	aminotransferase, classes I and II
+cpr:CPR_1875	CDS	complement(2070296..2070832)	putative cob(I)alamin adenosyltransferase
+cpr:CPR_1876	CDS	2071025..2071735	putative 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+cpr:CPR_1877	CDS	complement(2071784..2072440)	single-strand binding domain protein
+cpr:CPR_1878	CDS	complement(2072556..2073341)	polysaccharide deacetylase family protein
+cpr:CPR_1879	CDS	2073440..2073970	conserved hypothetical protein
+cpr:CPR_1880	CDS	2074036..2075154	putative membrane protein
+cpr:CPR_1881	CDS	2075279..2076661	Cell envelope-related transcriptional attenuator domain family
+cpr:CPR_1882	CDS	complement(2076711..2077361)	hlyIII; hemolysin III
+cpr:CPR_1883	CDS	2077474..2077968	conserved hypothetical protein
+cpr:CPR_1884	CDS	complement(2078080..2079639)	voltage-gated chloride channel family protein
+cpr:CPR_1885	CDS	complement(2079750..2081075)	folC; FolC bifunctional protein
+cpr:CPR_1886	CDS	complement(2081299..2083941)	valS; valine--tRNA ligase
+cpr:CPR_1887	CDS	2084589..2084939	tetratricopeptide repeat protein
+cpr:CPR_1888	CDS	complement(2085145..2086320)	transglutaminase domain protein
+cpr:CPR_1889	CDS	complement(2086326..2086964)	recX; regulatory protein RecX
+cpr:CPR_1890	CDS	complement(2086970..2088214)	peptidase, M16 family
+cpr:CPR_1891	CDS	2088309..2088980	DNA-binding response regulator
+cpr:CPR_1892	CDS	2088980..2090503	sensor histidine kinase
+cpr:CPR_1893	CDS	complement(2090822..2091568)	fabG; 3-oxoacyl-(acyl-carrier-protein) reductase family protein
+cpr:CPR_1894	CDS	complement(2091867..2092829)	dipeptidase family protein
+cpr:CPR_1895	CDS	complement(2093079..2094311)	glyA; glycine hydroxymethyltransferase
+cpr:CPR_1896	CDS	2094491..2095261	conserved hypothetical protein
+cpr:CPR_1897	CDS	2095262..2095783	conserved hypothetical protein
+cpr:CPR_1898	CDS	complement(2095801..2096073)	conserved hypothetical protein
+cpr:CPR_1899	CDS	complement(2096359..2098152)	aspS; aspartate--tRNA ligase
+cpr:CPR_1900	CDS	complement(2098173..2099420)	hisS; histidine--tRNA ligase
+cpr:CPR_1901	CDS	complement(2099452..2100894)	putative ferrochelatase
+cpr:CPR_1902	CDS	complement(2100884..2101504)	metallo-beta-lactamase family protein
+cpr:CPR_1903	CDS	complement(2101664..2102113)	dtd; D-tyrosyl-tRNA(Tyr) deacylase
+cpr:CPR_1904	CDS	complement(2102128..2104308)	GTP pyrophosphokinase
+cpr:CPR_1905	CDS	complement(2104460..2104978)	apt; adenine phosphoribosyltransferase
+cpr:CPR_1906	CDS	complement(2105023..2105877)	DHH domain protein
+cpr:CPR_1907	CDS	complement(2106077..2106946)	secF; protein-export membrane protein SecF
+cpr:CPR_1908	CDS	complement(2106939..2108198)	secD; protein-export membrane protein SecD
+cpr:CPR_1909	CDS	complement(2108296..2109648)	radical SAM domain protein
+cpr:CPR_1910	CDS	complement(2109739..2109879)	conserved hypothetical protein
+cpr:CPR_1911	CDS	complement(2110074..2110343)	yajC_2; preprotein translocase, YajC subunit
+cpr:CPR_1912	CDS	complement(2110382..2111524)	tgt; queuine tRNA-ribosyltransferase
+cpr:CPR_1913	CDS	complement(2111548..2112573)	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+cpr:CPR_1914	CDS	complement(2112595..2113635)	ruvB; Holliday junction DNA helicase RuvB
+cpr:CPR_1915	CDS	complement(2113649..2114254)	ruvA; Holliday junction DNA helicase RuvA
+cpr:CPR_1916	CDS	complement(2114482..2115075)	conserved hypothetical protein
+cpr:CPR_1917	CDS	complement(2115222..2118749)	5'-nucleotidase family protein/Ser/Thr protein phosphatase family protein
+cpr:CPR_1918	CDS	complement(2118990..2122598)	Ser/Thr protein phosphatase family protein
+cpr:CPR_1919	CDS	complement(2122887..2123846)	conserved hypothetical protein
+cpr:CPR_1920	CDS	complement(2124367..2124732)	hypothetical protein
+cpr:CPR_1921	CDS	complement(2125025..2125459)	bacterial hemoglobin
+cpr:CPR_1922	CDS	complement(2125884..2126621)	conserved hypothetical protein TIGR01033
+cpr:CPR_1923	CDS	complement(2126747..2127400)	conserved hypothetical protein TIGR00257
+cpr:CPR_1924	CDS	complement(2127406..2128812)	transcriptional regulator, GntR family/aminotransferase
+cpr:CPR_1925	CDS	complement(2128827..2129729)	nucleotidyltransferase domain protein
+cpr:CPR_1926	CDS	complement(2129771..2130004)	hypothetical protein
+cpr:CPR_1927	CDS	complement(2130373..2132166)	GTP binding protein
+cpr:CPR_1928	CDS	2132273..2132797	hpt_1; hypoxanthine phosphoribosyltransferase
+cpr:CPR_1929	CDS	complement(2132831..2133520)	yunB; sporulation protein YunB
+cpr:CPR_1930	CDS	2133657..2136119	penicillin-binding protein, 1A family
+cpr:CPR_1931	CDS	2136442..2137842	sodium:alanine symporter family protein
+cpr:CPR_1932	CDS	complement(2137877..2138269)	hypothetical protein
+cpr:CPR_1933	CDS	complement(2138317..2139288)	acetyltransferase, GNAT family
+cpr:CPR_1934	CDS	2139716..2140255	DNA-binding protein
+cpr:CPR_1935	CDS	2140278..2141336	potA; spermidine/putrescine ABC transporter, ATP-binding protein
+cpr:CPR_1936	CDS	2141339..2142184	potB; spermidine/putrescine ABC transporter, permease protein PotB
+cpr:CPR_1937	CDS	2142178..2142978	potC; spermidine/putrescine ABC transporter, permease protein PotC
+cpr:CPR_1938	CDS	2142980..2144062	potD; spermidine/putrescine ABC transporter, spermidine/putrescine-binding protein
+cpr:CPR_1939	CDS	complement(2144221..2144652)	nucleoside diphosphate kinase
+cpr:CPR_1940	CDS	2144837..2145106	acylphosphatase
+cpr:CPR_1941	CDS	complement(2145246..2145401)	hypothetical protein
+cpr:CPR_1942	CDS	complement(2145570..2146136)	hypothetical protein
+cpr:CPR_1943	CDS	2146315..2147586	D-alanyl-D-alanine carboxypeptidase family protein
+cpr:CPR_1944	CDS	complement(2147643..2148287)	HAD-superfamily hydrolase, subfamily IA
+cpr:CPR_1945	CDS	2148878..2149888	asnA; aspartate--ammonia ligase
+cpr:CPR_1946	CDS	2150014..2150832	tetratricopeptide repeat protein
+cpr:CPR_1947	CDS	2150944..2151321	lrgA family protein
+cpr:CPR_1948	CDS	2151314..2152024	lrgB-like family protein
+cpr:CPR_1949	CDS	2152122..2152577	hypothetical protein
+cpr:CPR_1950	CDS	complement(2152645..2154807)	DNA topoisomerase
+cpr:CPR_1951	CDS	complement(2155036..2156193)	putative amidohydrolase
+cpr:CPR_1952	CDS	complement(2156356..2156853)	TspO/MBR family protein
+cpr:CPR_1953	CDS	complement(2156899..2158935)	sensor histidine kinase
+cpr:CPR_1954	CDS	complement(2158913..2160787)	sensor histidine kinase
+cpr:CPR_1955	CDS	complement(2160921..2161856)	tetratricopeptide repeat protein
+cpr:CPR_1956	CDS	complement(2161979..2162905)	hydrolase, alpha/beta fold family
+cpr:CPR_1957	CDS	complement(2163022..2163618)	conserved hypothetical protein
+cpr:CPR_1958	tRNA	complement(2163759..2163844)	tRNA-Leu
+cpr:CPR_1959	CDS	complement(2163904..2165019)	glycosyl hydrolase, family 8
+cpr:CPR_1960	CDS	complement(2165071..2165616)	transglycosylase, SLT family
+cpr:CPR_1961	CDS	complement(2165626..2166225)	coaE; dephospho-CoA kinase
+cpr:CPR_1962	CDS	complement(2166242..2168842)	polA; DNA polymerase I
+cpr:CPR_1963	CDS	complement(2169262..2170179)	glutaminase
+cpr:CPR_1964	CDS	2170419..2170934	hypothetical protein
+cpr:CPR_1965	CDS	2171017..2172252	aminopeptidase
+cpr:CPR_1966	CDS	complement(2172445..2173494)	conserved hypothetical protein
+cpr:CPR_1967	CDS	complement(2173511..2174521)	conserved hypothetical protein
+cpr:CPR_1968	CDS	complement(2175432..2175722)	hypothetical protein
+cpr:CPR_1969	CDS	complement(2175847..2176536)	radical SAM domain protein
+cpr:CPR_1970	CDS	complement(2176554..2177111)	putative membrane protein
+cpr:CPR_1971	CDS	complement(2177130..2178110)	nucleoside hydrolase, IUNH family
+cpr:CPR_1972	CDS	complement(2178621..2179409)	NIF3 family protein
+cpr:CPR_1973	CDS	complement(2179409..2180098)	conserved hypothetical protein
+cpr:CPR_1974	CDS	complement(2180112..2180999)	putative membrane protein
+cpr:CPR_1975	CDS	complement(2181235..2182335)	rpoD; RNA polymerase sigma factor RpoD
+cpr:CPR_1976	CDS	complement(2182362..2184149)	dnaG; DNA primase
+cpr:CPR_1977	CDS	complement(2184318..2185346)	deoxynucleotide triphosphohydrolase family protein
+cpr:CPR_1978	CDS	2185546..2186625	spore coat protein, CotS family
+cpr:CPR_1979	CDS	complement(2186702..2187385)	glr2000; transporter
+cpr:CPR_1980	CDS	complement(2187389..2188630)	putative permease
+cpr:CPR_1981	CDS	complement(2188627..2189721)	putative permease
+cpr:CPR_1982	CDS	complement(2189780..2190118)	hypothetical protein
+cpr:CPR_1983	CDS	complement(2190390..2193020)	ppdK; pyruvate, phosphate dikinase
+cpr:CPR_1984	CDS	complement(2193121..2193753)	CBS domain protein
+cpr:CPR_1985	CDS	complement(2193958..2194581)	UBA/TS-N domain protein
+cpr:CPR_1986	CDS	complement(2194587..2195264)	recO; DNA repair protein RecO
+cpr:CPR_1987	CDS	complement(2195341..2196231)	era; GTP-binding protein Era
+cpr:CPR_1988	CDS	complement(2196240..2196638)	cdd; cytidine deaminase
+cpr:CPR_1989	CDS	complement(2196682..2197380)	diacylglycerol kinase/PAP2 family protein
+cpr:CPR_1990	CDS	complement(2197408..2197914)	conserved hypothetical protein TIGR00043
+cpr:CPR_1991	CDS	complement(2197916..2199970)	putative hydrolase
+cpr:CPR_1992	CDS	complement(2200007..2201143)	putative stage IV sporulation protein
+cpr:CPR_1993	CDS	complement(2201145..2201441)	yqfC; sporulation protein YqfC
+cpr:CPR_1994	CDS	complement(2201651..2202100)	GatB/Yqey domain protein
+cpr:CPR_1995	CDS	complement(2202150..2202326)	rpsU; 30S ribosomal protein S21
+cpr:CPR_1996	CDS	complement(2202446..2202790)	HIT family protein
+cpr:CPR_1997	CDS	complement(2202859..2204163)	MiaB-like tRNA modifying enzyme
+cpr:CPR_1998	CDS	complement(2204163..2204915)	RNA methyltransferase, RsmE family
+cpr:CPR_1999	CDS	complement(2204938..2205879)	prmA_1; ribosomal protein L11 methyltransferase
+cpr:CPR_2000	CDS	complement(2206105..2206461)	transcriptional regulator, GntR family
+cpr:CPR_2001	CDS	complement(2206463..2207641)	hypothetical protein
+cpr:CPR_2002	CDS	complement(2207657..2208484)	putative membrane protein
+cpr:CPR_2003	CDS	complement(2208471..2209163)	ABC transporter, ATP-binding protein
+cpr:CPR_2004	CDS	complement(2209339..2210502)	dnaJ; chaperone protein DnaJ
+cpr:CPR_2005	CDS	complement(2210616..2212475)	dnaK; chaperone protein DnaK
+cpr:CPR_2006	CDS	complement(2212532..2213158)	grpE; co-chaperone GrpE
+cpr:CPR_2007	CDS	complement(2213189..2214208)	hrcA; heat-inducible transcription repressor HrcA
+cpr:CPR_2008	CDS	complement(2214404..2215537)	putative oxygen-independent coproporphyrinogen III oxidase
+cpr:CPR_2009	CDS	complement(2215787..2216056)	hypothetical protein
+cpr:CPR_2010	CDS	complement(2216427..2218229)	lepA; GTP-binding protein LepA
+cpr:CPR_2011	CDS	complement(2218350..2218712)	hypothetical protein
+cpr:CPR_2012	CDS	complement(2218767..2219852)	stage II sporulation protein P
+cpr:CPR_2013	CDS	complement(2220001..2220978)	gpr; GPR endopeptidase
+cpr:CPR_2014	CDS	2221174..2221437	rpsT; 30S ribosomal protein S20
+cpr:CPR_2015	CDS	complement(2221533..2222579)	holA; DNA polymerase III, delta subunit
+cpr:CPR_2016	CDS	complement(2222623..2224278)	competence family protein
+cpr:CPR_2017	CDS	complement(2224330..2224695)	spoVAE; stage V sporulation protein AE
+cpr:CPR_2018	CDS	complement(2224764..2225783)	spoVAD; stage V sporulation protein AD
+cpr:CPR_2019	CDS	complement(2225789..2226256)	spoVAC; stage V sporulation protein AC
+cpr:CPR_2020	CDS	complement(2226395..2227150)	sigF; RNA polymerase sigma-F factor
+cpr:CPR_2021	CDS	complement(2227168..2227590)	spoIIAB; anti-sigma F factor
+cpr:CPR_2022	CDS	complement(2227604..2227939)	spoIIAA; anti-sigma F factor antagonist
+cpr:CPR_2023	CDS	complement(2228073..2230358)	ATP-dependent protease
+cpr:CPR_2024	CDS	complement(2230559..2231233)	deoC; deoxyribose-phosphate aldolase
+cpr:CPR_2025	CDS	2231491..2231898	conserved hypothetical protein
+cpr:CPR_2026	CDS	complement(2232094..2234643)	cation-transporting ATPase, P-type
+cpr:CPR_2027	CDS	2234888..2236537	putative manganese-dependent inorganic pyrophosphatase
+cpr:CPR_2028	CDS	complement(2236584..2236958)	conserved hypothetical protein
+cpr:CPR_2029	CDS	complement(2237164..2238564)	glutamate decarboxylase
+cpr:CPR_2030	CDS	complement(2239150..2240205)	putative membrane protein
+cpr:CPR_2031	CDS	complement(2240325..2241743)	glutamate:gamma aminobutyrate antiporter family protein
+cpr:CPR_2032	CDS	complement(2242432..2245947)	nifJ; pyruvate-flavodoxin oxidoreductase
+cpr:CPR_2033	CDS	complement(2246052..2246477)	flavodoxin
+cpr:CPR_2034	CDS	complement(2246684..2247757)	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+cpr:CPR_2035	CDS	2247943..2248122	sspC1; small, acid-soluble spore protein
+cpr:CPR_2036	CDS	complement(2248456..2250234)	recJ; single-stranded-DNA-specific exonuclease RecJ
+cpr:CPR_2037	CDS	complement(2250246..2251457)	peptidase, M16 family
+cpr:CPR_2038	CDS	complement(2251670..2252245)	DJ-1 family protein
+cpr:CPR_2039	CDS	complement(2252257..2255196)	DNA gyrase/topoisomerase IV, A subunit family protein
+cpr:CPR_2040	CDS	complement(2255210..2257156)	DNA topoisomerase, GyrB/ParE subunit family
+cpr:CPR_2041	CDS	complement(2257146..2258216)	ybbB; tRNA 2-selenouridine synthase
+cpr:CPR_2042	CDS	complement(2258462..2259862)	glycosyl transferase, group 2 family
+cpr:CPR_2043	CDS	2260576..2261814	uvdE; UV damage endonuclease UvdE
+cpr:CPR_2044	CDS	2261899..2262507	ytaF; putative sporulation protein YtaF
+cpr:CPR_2045	CDS	complement(2262676..2263845)	alcohol dehydrogenase, short-chain family
+cpr:CPR_2046	CDS	complement(2264082..2265572)	amino acid permease family protein
+cpr:CPR_2047	CDS	complement(2265769..2266662)	ROK family protein
+cpr:CPR_2048	CDS	2267252..2267746	putative membrane protein
+cpr:CPR_2049	CDS	complement(2267811..2270945)	putative alpha-mannosidase
+cpr:CPR_2050	CDS	complement(2271261..2272217)	ABC transporter, permease protein
+cpr:CPR_2051	CDS	complement(2272235..2273161)	ABC transporter, permease protein
+cpr:CPR_2052	CDS	complement(2273432..2273908)	moaC; molybdenum cofactor biosynthesis protein C
+cpr:CPR_2053	CDS	complement(2273947..2274603)	modB; molybdate ABC transporter, permease protein
+cpr:CPR_2054	CDS	complement(2274607..2275377)	modA; molybdate ABC transporter, molybdate-binding protein
+cpr:CPR_2055	CDS	complement(2275362..2275853)	molybdenum cofactor synthesis protein
+cpr:CPR_2056	CDS	complement(2276192..2277715)	DNA-binding response regulator, AraC family
+cpr:CPR_2057	CDS	complement(2277720..2279456)	sensor histidine kinase
+cpr:CPR_2058	CDS	2279678..2280355	putative membrane protein
+cpr:CPR_2059	CDS	2280620..2281957	FemAB family protein
+cpr:CPR_2060	CDS	2282320..2282625	transcriptional regulator, PadR family
+cpr:CPR_2061	CDS	complement(2282672..2283409)	amino acid ABC transporter, ATP-binding protein
+cpr:CPR_2062	CDS	complement(2283428..2284936)	amino acid ABC transporter, amino acid-binding protein/permease protein, His/Glu/Gln/Arg/opine family
+cpr:CPR_2063	CDS	2285109..2285888	iron-sulfur cluster-binding protein
+cpr:CPR_2064	CDS	complement(2286457..2286852)	hypothetical protein
+cpr:CPR_2065	CDS	complement(2286985..2287275)	conserved hypothetical protein
+cpr:CPR_2066	CDS	complement(2287287..2289044)	helicase domain protein
+cpr:CPR_2067	CDS	2289307..2290167	prmA; putative ribosomal protein L11 methyltransferase
+cpr:CPR_2068	CDS	complement(2290262..2290711)	conserved hypothetical protein
+cpr:CPR_2069	CDS	2291000..2292421	transporter, major facilitator family
+cpr:CPR_2070	CDS	complement(2292547..2294301)	CspC family protein
+cpr:CPR_2071	CDS	complement(2294303..2295964)	CspA family protein
+cpr:CPR_2072	CDS	complement(2296371..2297642)	cysteine-rich domain protein
+cpr:CPR_2073	CDS	complement(2297664..2298983)	putative glutamate synthase, beta subunit
+cpr:CPR_2074	CDS	complement(2299157..2300167)	Integral membrane protein domain protein
+cpr:CPR_2075	CDS	2300574..2301941	sigma-54 dependent transcriptional regulator
+cpr:CPR_2076	CDS	complement(2302258..2303577)	sensor histidine kinase VncS
+cpr:CPR_2077	CDS	complement(2303574..2304227)	vncR, response regulator
+cpr:CPR_2078	CDS	complement(2304367..2305743)	transmembrane protein Vexp3
+cpr:CPR_2079	CDS	complement(2305743..2306399)	ABC transporter, ATP-binding protein
+cpr:CPR_2080	CDS	complement(2306409..2307686)	transmembrane protein Vexp1
+cpr:CPR_2081	CDS	2308324..2308425	hypothetical protein
+cpr:CPR_2082	CDS	complement(2308704..2310062)	rumA_2; 23S rRNA (uracil-5-)-methyltransferase RumA
+cpr:CPR_2083	CDS	complement(2310090..2310539)	hypothetical protein
+cpr:CPR_2084	CDS	complement(2310726..2312633)	selB; selenocysteine-specific translation elongation factor
+cpr:CPR_2085	CDS	complement(2312634..2314022)	selA; L-seryl-tRNA selenium transferase
+cpr:CPR_2086	CDS	complement(2314039..2315070)	selD; selenide, water dikinase, selenocysteine-containing
+cpr:CPR_2087	CDS	complement(2315115..2315879)	putative comE operon protein 1
+cpr:CPR_2088	CDS	2316115..2317398	dacF_2; D-alanyl-D-alanine carboxypeptidase
+cpr:CPR_2089	CDS	complement(2317430..2318326)	pseudouridine synthase, RluA family
+cpr:CPR_2090	CDS	complement(2318323..2319636)	cell envelope-related transcriptional attenuator domain protein
+cpr:CPR_2091	CDS	complement(2319659..2320228)	HD domain protein
+cpr:CPR_2092	CDS	complement(2320231..2320839)	nadD; nicotinate nucleotide adenylyltransferase
+cpr:CPR_2093	CDS	complement(2320841..2321143)	putative RNA-binding protein
+cpr:CPR_2094	CDS	complement(2321161..2322447)	obg; spo0B-associated GTP-binding protein
+cpr:CPR_2095	CDS	complement(2322614..2322916)	rpmA; 50S ribosomal protein L27
+cpr:CPR_2096	CDS	complement(2322920..2323291)	conserved hypothetical protein
+cpr:CPR_2097	CDS	complement(2323301..2323612)	rplU; 50S ribosomal protein L21
+cpr:CPR_2098	CDS	complement(2323738..2325180)	ribonuclease, Rne/Rng family
+cpr:CPR_2099	CDS	complement(2325197..2325904)	conserved hypothetical protein
+cpr:CPR_2100	CDS	complement(2325882..2327735)	radical SAM domain protein
+cpr:CPR_2101	CDS	complement(2327867..2328721)	peptidase, M50 family
+cpr:CPR_2102	CDS	complement(2328718..2329560)	M23 peptidase domain protein
+cpr:CPR_2103	CDS	complement(2329712..2330836)	cell cycle protein, FtsW/RodA/SpoVE family
+cpr:CPR_2104	CDS	complement(2330984..2331256)	minE; cell division topological specificity factor MinE
+cpr:CPR_2105	CDS	complement(2331267..2332064)	minD; septum site-determining protein MinD
+cpr:CPR_2106	CDS	complement(2332093..2332728)	minC; septum site-determining protein MinC
+cpr:CPR_2107	CDS	complement(2332975..2336052)	putative penicillin-binding protein
+cpr:CPR_2108	CDS	complement(2336061..2336558)	mreD; rod shape-determining protein MreD
+cpr:CPR_2109	CDS	complement(2336574..2337425)	mreC; rod shape-determining protein MreC
+cpr:CPR_2110	CDS	complement(2337429..2338457)	mreB; rod shape-determining protein MreB
+cpr:CPR_2111	CDS	complement(2338477..2339160)	DNA repair protein, RadC family
+cpr:CPR_2112	CDS	complement(2339207..2339785)	maf; septum formation protein Maf
+cpr:CPR_2113	CDS	complement(2340011..2340814)	conserved hypothetical protein
+cpr:CPR_2114	CDS	complement(2341076..2341894)	conserved hypothetical protein
+cpr:CPR_2115	CDS	complement(2342192..2343643)	pepD_1; aminoacyl-histidine dipeptidase
+cpr:CPR_2116	CDS	2343775..2345199	pyk; pyruvate kinase
+cpr:CPR_2117	CDS	complement(2345313..2346449)	rpsA; ribosomal protein, S1 family
+cpr:CPR_2118	CDS	complement(2346595..2346798)	heavy metal binding protein
+cpr:CPR_2119	CDS	complement(2346903..2347667)	conserved hypothetical protein
+cpr:CPR_2120	CDS	complement(2347833..2348243)	CBS domain protein
+cpr:CPR_2121	CDS	complement(2348328..2349230)	exonuclease family protein
+cpr:CPR_2122	CDS	complement(2349485..2351239)	conserved hypothetical protein
+cpr:CPR_2123	CDS	complement(2351412..2353199)	mutS domain protein
+cpr:CPR_2124	CDS	complement(2353502..2355031)	ptsG; PTS system, glucose-specific IIBC component
+cpr:CPR_2125	CDS	complement(2355202..2356098)	ABC transporter, substrate-binding protein
+cpr:CPR_2126	CDS	complement(2356324..2359092)	conserved hypothetical protein
+cpr:CPR_2127	CDS	complement(2359082..2360221)	Ser/Thr protein phosphatase family protein
+cpr:CPR_2128	CDS	complement(2360502..2360684)	small, acid-soluble spore protein 1
+cpr:CPR_2129	tRNA	complement(2360915..2360990)	tRNA-Trp
+cpr:CPR_2130	tRNA	complement(2361019..2361094)	tRNA-Trp
+cpr:CPR_2131	CDS	complement(2361356..2361976)	CBS domain protein
+cpr:CPR_2132	CDS	2362276..2362740	conserved hypothetical protein TIGR00150
+cpr:CPR_2133	CDS	2362734..2363438	glycoprotease family protein
+cpr:CPR_2134	CDS	2363438..2363884	rimI; ribosomal-protein-alanine acetyltransferase
+cpr:CPR_2135	CDS	complement(2363978..2364574)	putative membrane protein
+cpr:CPR_2136	CDS	complement(2364922..2367084)	RNA-binding protein
+cpr:CPR_2137	CDS	2367196..2368539	peptidase family protein
+cpr:CPR_2138	CDS	complement(join(2368790..2369804,2369806..2369885))	prfB; peptide chain release factor 2
+cpr:CPR_2139	CDS	complement(2370144..2372681)	secA; preprotein translocase, SecA subunit
+cpr:CPR_2140	CDS	complement(2372899..2373438)	raiA; ribosomal subunit interface protein
+cpr:CPR_2141	CDS	complement(2373888..2374547)	comFC; comF protein, homolog
+cpr:CPR_2142	CDS	complement(2374523..2375485)	hypothetical protein
+cpr:CPR_2143	CDS	complement(2375503..2377737)	helicase, RecD/TraA family
+cpr:CPR_2144	CDS	2377874..2379007	nagA; N-acetylglucosamine-6-phosphate deacetylase
+cpr:CPR_2145	CDS	complement(2379144..2380319)	metK; methionine adenosyltransferase
+cpr:CPR_2146	tRNA	complement(2380748..2380833)	tRNA-Tyr
+cpr:CPR_2147	tRNA	complement(2380839..2380914)	tRNA-Thr
+cpr:CPR_2148	tRNA	complement(2380940..2381025)	tRNA-Tyr
+cpr:CPR_2149	tRNA	complement(2381031..2381106)	tRNA-Thr
+cpr:CPR_2150	tRNA	complement(2381125..2381200)	tRNA-Val
+cpr:CPR_2151	tRNA	complement(2381205..2381290)	tRNA-Tyr
+cpr:CPR_2152	tRNA	complement(2381296..2381371)	tRNA-Thr
+cpr:CPR_2153	CDS	complement(2381536..2382168)	hypothetical protein
+cpr:CPR_2154	CDS	2382274..2382804	yyaC_1; putative sporulation protein YyaC
+cpr:CPR_2155	CDS	complement(2382843..2383880)	mbl; mbl protein
+cpr:CPR_2156	CDS	complement(2383971..2384222)	spoIIID; stage III sporulation protein D
+cpr:CPR_2157	CDS	complement(2384298..2385068)	putative peptidase
+cpr:CPR_2158	CDS	complement(2385178..2386200)	spoIID; stage II sporulation protein D
+cpr:CPR_2159	CDS	complement(2386312..2387577)	murA_1; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+cpr:CPR_2160	CDS	complement(2387600..2388244)	conserved hypothetical protein
+cpr:CPR_2161	CDS	complement(2388419..2388820)	atpC; ATP synthase F1, epsilon subunit
+cpr:CPR_2162	CDS	complement(2388836..2390233)	atpD; ATP synthase F1, beta subunit
+cpr:CPR_2163	CDS	complement(2390247..2391098)	atpG; ATP synthase F1, gamma subunit
+cpr:CPR_2164	CDS	complement(2391163..2392671)	atpA; ATP synthase F1, alpha subunit
+cpr:CPR_2165	CDS	complement(2392682..2393221)	atpH; ATP synthase F1, delta subunit
+cpr:CPR_2166	CDS	complement(2393224..2393688)	atpF; ATP synthase F0, B subunit
+cpr:CPR_2167	CDS	complement(2393802..2394020)	atpE; ATP synthase F0, C subunit
+cpr:CPR_2168	CDS	complement(2394081..2394737)	atpB; ATP synthase F0, A subunit
+cpr:CPR_2169	CDS	complement(2394814..2395176)	hypothetical protein
+cpr:CPR_2170	CDS	complement(2395858..2397036)	acetyl-CoA acetyltransferase
+cpr:CPR_2171	CDS	complement(2397304..2398458)	mnaA; UDP-N-acetylglucosamine 2-epimerase
+cpr:CPR_2172	CDS	complement(2398522..2399151)	upp; uracil phosphoribosyltransferase
+cpr:CPR_2173	CDS	complement(2399196..2399645)	rpiB; ribose 5-phosphate isomerase B
+cpr:CPR_2174	CDS	complement(2399909..2400961)	Sua5/YciO/YrdC/YwlC family protein
+cpr:CPR_2175	CDS	complement(2400984..2401574)	conserved hypothetical protein
+cpr:CPR_2176	CDS	complement(2401653..2402735)	prfA; peptide chain release factor 1
+cpr:CPR_2177	CDS	complement(2402792..2404555)	modification methylase, HemK family
+cpr:CPR_2178	CDS	complement(2404581..2405180)	tdk; thymidine kinase
+cpr:CPR_2179	CDS	2405294..2405542	rpmE; 50S ribosomal protein L31
+cpr:CPR_2180	CDS	2405651..2406775	putative monogalactosyldiacylglycerol synthase
+cpr:CPR_2181	CDS	complement(2406818..2408278)	rho; transcription termination factor Rho
+cpr:CPR_2182	CDS	complement(2408541..2410148)	pyrG; CTP synthase
+cpr:CPR_2183	CDS	complement(2410488..2410907)	conserved hypothetical protein
+cpr:CPR_2184	CDS	complement(2410930..2411910)	thiamin biosynthesis protein ThiI
+cpr:CPR_2185	CDS	complement(2411957..2412586)	stage II sporulation protein R
+cpr:CPR_2186	CDS	complement(2412655..2413521)	ispE; 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+cpr:CPR_2187	CDS	complement(2413657..2416281)	cphA; cyanophycin synthase (L-aspartate-adding)
+cpr:CPR_2188	CDS	complement(2416268..2417095)	cphB; cyanophycinase
+cpr:CPR_2189	CDS	complement(2417195..2418757)	lysM domain protein
+cpr:CPR_2190	CDS	complement(2419113..2419349)	conserved hypothetical protein
+cpr:CPR_2191	CDS	complement(2419512..2420393)	peptidase family protein
+cpr:CPR_2192	CDS	complement(2420600..2421601)	cotS; spore coat protein CotS
+cpr:CPR_2193	CDS	2421710..2422837	mtfB; mannosyltransferase B
+cpr:CPR_2194	CDS	complement(2423019..2424047)	putative spore coat protein
+cpr:CPR_2195	CDS	complement(2424063..2424746)	conserved hypothetical protein
+cpr:CPR_2196	CDS	complement(2424754..2425761)	putative spore coat protein
+cpr:CPR_2197	CDS	2425890..2427035	putative mannosyltransferase
+cpr:CPR_2198	CDS	complement(2427188..2428279)	putative ethanolamine utilization protein EutH
+cpr:CPR_2199	CDS	complement(2428442..2428771)	PTS system, lactose/cellobiose-specific IIB component
+cpr:CPR_2200	CDS	complement(2429001..2430329)	serine protease
+cpr:CPR_2201	CDS	complement(2430446..2431429)	hydrolase, alpha/beta fold family
+cpr:CPR_2202	CDS	complement(2431480..2432499)	gcp; O-sialoglycoprotein endopeptidase
+cpr:CPR_2203	CDS	2432641..2433273	endodeoxyribonuclease, RusA family protein
+cpr:CPR_2204	CDS	2433282..2433842	putative acyl-CoA thioesterase
+cpr:CPR_2205	CDS	complement(2433979..2434941)	oxidoreductase, pyridine nucleotide-disulphide family
+cpr:CPR_2206	CDS	complement(2434973..2435545)	conserved hypothetical protein
+cpr:CPR_2207	CDS	2435726..2437609	arylsulfatase
+cpr:CPR_2208	CDS	complement(2437743..2439266)	putative lipoprotein
+cpr:CPR_2209	CDS	complement(2439283..2440698)	sensor histidine kinase
+cpr:CPR_2210	CDS	complement(2440879..2441562)	DNA-binding response regulator
+cpr:CPR_2211	tRNA	complement(2441882..2441956)	tRNA-Asn
+cpr:CPR_2212	tRNA	complement(2445015..2445091)	tRNA-Ile
+cpr:CPR_2213	tRNA	complement(2445097..2445172)	tRNA-Ala
+cpr:CPR_2214	CDS	complement(2447327..2447896)	chromate transport protein
+cpr:CPR_2215	CDS	complement(2447883..2448434)	chromate transport protein
+cpr:CPR_2216	CDS	complement(2448639..2450090)	pepD_2; aminoacyl-histidine dipeptidase
+cpr:CPR_2217	tRNA	complement(2450271..2450347)	tRNA-Arg
+cpr:CPR_2218	tRNA	complement(2450396..2450469)	tRNA-Gly
+cpr:CPR_2219	tRNA	complement(2450473..2450547)	tRNA-Gly
+cpr:CPR_2220	tRNA	complement(2450571..2450654)	tRNA-Leu
+cpr:CPR_2221	tRNA	complement(2450665..2450740)	tRNA-Lys
+cpr:CPR_2222	tRNA	complement(2450748..2450822)	tRNA-Gln
+cpr:CPR_2223	tRNA	complement(2450828..2450903)	tRNA-His
+cpr:CPR_2224	tRNA	complement(2450908..2450984)	tRNA-Arg
+cpr:CPR_2225	tRNA	complement(2451020..2451093)	tRNA-Gly
+cpr:CPR_2226	tRNA	complement(2451098..2451173)	tRNA-Pro
+cpr:CPR_2227	tRNA	complement(2451179..2451255)	tRNA-Arg
+cpr:CPR_2228	tRNA	complement(2451331..2451404)	tRNA-Gly
+cpr:CPR_2229	tRNA	complement(2451409..2451483)	tRNA-Gly
+cpr:CPR_2230	tRNA	complement(2451507..2451590)	tRNA-Leu
+cpr:CPR_2231	tRNA	complement(2451601..2451676)	tRNA-Lys
+cpr:CPR_2232	tRNA	complement(2451696..2451771)	tRNA-Lys
+cpr:CPR_2233	tRNA	complement(2451778..2451852)	tRNA-Gln
+cpr:CPR_2234	tRNA	complement(2451856..2451931)	tRNA-His
+cpr:CPR_2235	tRNA	complement(2451936..2452012)	tRNA-Arg
+cpr:CPR_2236	tRNA	complement(2452092..2452166)	tRNA-Gly
+cpr:CPR_2237	tRNA	complement(2452171..2452245)	tRNA-Pro
+cpr:CPR_2238	CDS	complement(2452455..2452925)	Ser/Thr protein phosphatase family protein
+cpr:CPR_2239	CDS	complement(2452937..2453551)	non-canonical purine NTP pyrophosphatase, rdgB/HAM1 family
+cpr:CPR_2240	CDS	complement(2453553..2454299)	rph; tRNA nucleotidyltransferase
+cpr:CPR_2241	CDS	2454512..2456224	conserved hypothetical protein
+cpr:CPR_2242	CDS	complement(2456493..2457983)	bacterial extracellular solute-binding protein, family 5
+cpr:CPR_2243	CDS	complement(2458193..2458657)	hypothetical protein
+cpr:CPR_2244	CDS	2458781..2459104	conserved hypothetical protein
+cpr:CPR_2245	CDS	complement(2459139..2461127)	ligA; DNA ligase, NAD-dependent
+cpr:CPR_2246	CDS	complement(2461165..2463420)	pcrA; ATP-dependent DNA helicase PcrA
+cpr:CPR_2247	CDS	complement(2463919..2464149)	hypothetical protein
+cpr:CPR_2248	CDS	complement(2464166..2464714)	hypothetical protein
+cpr:CPR_2249	CDS	complement(2465344..2466063)	RNA pseudouridine synthase family protein
+cpr:CPR_2250	CDS	complement(2466437..2468482)	two component regulator three Y motif protein
+cpr:CPR_2251	CDS	complement(2468859..2469308)	conserved hypothetical protein
+cpr:CPR_2252	CDS	complement(2469506..2470858)	pgi; glucose-6-phosphate isomerase
+cpr:CPR_2253	CDS	complement(2470888..2471097)	conserved hypothetical protein
+cpr:CPR_2254	CDS	complement(2471299..2472267)	oligopeptide/dipeptide ABC transporter, ATP-binding protein
+cpr:CPR_2255	CDS	complement(2472268..2473245)	oligopeptide/dipeptide ABC transporter, ATP-binding protein
+cpr:CPR_2256	CDS	complement(2473259..2474173)	ABC transporter, permease protein
+cpr:CPR_2257	CDS	complement(2474188..2475153)	oligopeptide/dipeptide ABC transporter, permease protein
+cpr:CPR_2258	CDS	complement(2475228..2476967)	oligopeptide/dipeptide ABC transporter, oligopeptide/dipeptide-binding protein
+cpr:CPR_2259	CDS	2477588..2478880	major facilitator family transporter
+cpr:CPR_2260	CDS	complement(2479246..2480775)	guaA; GMP synthase
+cpr:CPR_2261	CDS	complement(2480886..2482340)	guaB; inosine-5'-monophosphate dehydrogenase
+cpr:CPR_2262	CDS	complement(2483048..2483935)	hypothetical protein
+cpr:CPR_2263	CDS	complement(2483993..2487301)	von Willebrand factor type A domain protein
+cpr:CPR_2264	CDS	complement(2487323..2487913)	prepilin-type N-terminal cleavage/methylation domain protein
+cpr:CPR_2265	CDS	complement(2487940..2490201)	hypothetical protein
+cpr:CPR_2266	CDS	complement(2490206..2491354)	hypothetical protein
+cpr:CPR_2267	CDS	complement(2491375..2492592)	hypothetical protein
+cpr:CPR_2268	CDS	complement(2492582..2493148)	type IV pilus biogenesis protein PilN
+cpr:CPR_2269	CDS	complement(2493163..2494278)	type IV pilus assembly protein PilM
+cpr:CPR_2270	CDS	complement(2494436..2494981)	prepilin-type N-terminal cleavage/methylation domain protein
+cpr:CPR_2271	CDS	complement(2495053..2496258)	bacterial type II secretion system protein F
+cpr:CPR_2272	CDS	complement(2496285..2497976)	secretion system protein E
+cpr:CPR_2273	CDS	complement(2498046..2498789)	Type IV leader peptidase family protein
+cpr:CPR_2274	CDS	complement(2499064..2499486)	ppdA; putative type IV pilin
+cpr:CPR_2275	CDS	complement(2499689..2501308)	groL; chaperonin, GroL
+cpr:CPR_2276	CDS	complement(2501363..2501647)	groS; chaperonin, 10 kDa
+cpr:CPR_2277	CDS	2502018..2502668	integral membrane protein TIGR01906
+cpr:CPR_2278	CDS	2502795..2503100	conserved hypothetical protein
+cpr:CPR_2279	CDS	complement(2503224..2504162)	putative 8-oxoguanine DNA glycosylase
+cpr:CPR_2280	CDS	complement(2504172..2504576)	conserved hypothetical protein
+cpr:CPR_2281	CDS	complement(2504819..2505319)	sipW; signal peptidase I
+cpr:CPR_2282	CDS	complement(2505461..2507161)	ABC transporter, ATP-binding protein/permease protein
+cpr:CPR_2283	CDS	complement(2507420..2508268)	hbd; 3-hydroxybutyryl-CoA dehydrogenase
+cpr:CPR_2284	CDS	complement(2508382..2509389)	fixB; electron transfer flavoprotein, alpha subunit/FixB family protein
+cpr:CPR_2285	CDS	complement(2509411..2510190)	electron transfer flavoprotein, beta subunit/FixA family protein
+cpr:CPR_2286	CDS	complement(2510209..2511348)	bcd; butyryl-CoA dehydrogenase
+cpr:CPR_2287	CDS	complement(2511395..2512177)	crt; 3-hydroxybutyryl-CoA dehydratase
+cpr:CPR_2288	CDS	complement(2512436..2513074)	DNA-binding protein
+cpr:CPR_2289	CDS	complement(2513541..2515757)	zinc-transporting atpase
+cpr:CPR_2290	CDS	complement(2515773..2516132)	putative cadmium resistance transcriptional regulator CadC
+cpr:CPR_2291	CDS	complement(2516709..2516918)	GntR family transcription regulator
+cpr:CPR_2292	CDS	complement(2517002..2517580)	conserved hypothetical protein
+cpr:CPR_2293	CDS	complement(2517961..2518527)	hypothetical protein
+cpr:CPR_2294	CDS	complement(2518756..2519826)	mannose-1-phosphate guanylyltransferase
+cpr:CPR_2295	CDS	complement(2520063..2521442)	glycosyl hydrolase, family 1
+cpr:CPR_2296	CDS	complement(2522138..2523514)	aldehyde dehydrogenase family protein
+cpr:CPR_2297	CDS	complement(2523666..2524376)	conserved hypothetical protein
+cpr:CPR_2298	CDS	2524487..2525428	conserved hypothetical protein
+cpr:CPR_2299	CDS	complement(2525670..2526566)	RNA pseudouridine synthase family protein
+cpr:CPR_2300	CDS	complement(2526588..2527568)	conserved hypothetical protein
+cpr:CPR_2301	CDS	complement(2527662..2528324)	sortase family protein
+cpr:CPR_2302	CDS	2528655..2529125	ispF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+cpr:CPR_2303	CDS	complement(2529450..2530763)	Na+/H+ antiporter family protein
+cpr:CPR_2304	CDS	complement(2531101..2531943)	putative pyridoxal kinase
+cpr:CPR_2305	tRNA	complement(2532078..2532153)	tRNA-Lys
+cpr:CPR_2306	tRNA	complement(2532198..2532271)	tRNA-Gly
+cpr:CPR_2307	tRNA	complement(2532336..2532410)	tRNA-Gln
+cpr:CPR_2308	tRNA	complement(2532414..2532490)	tRNA-Arg
+cpr:CPR_2309	CDS	complement(2532616..2533308)	hypothetical protein
+cpr:CPR_2310	CDS	2533498..2533902	conserved hypothetical protein
+cpr:CPR_2311	CDS	complement(2534095..2534652)	hypothetical protein
+cpr:CPR_2312	tRNA	complement(2534954..2535029)	tRNA-Lys
+cpr:CPR_2313	tRNA	complement(2535048..2535121)	tRNA-Gly
+cpr:CPR_2314	tRNA	complement(2535127..2535201)	tRNA-Gly
+cpr:CPR_2315	tRNA	complement(2535219..2535292)	tRNA-Gly
+cpr:CPR_2316	tRNA	complement(2535298..2535381)	tRNA-Leu
+cpr:CPR_2317	CDS	2535920..2537851	thrS; threonine--tRNA ligase
+cpr:CPR_2318	CDS	complement(2538306..2540000)	oligoendopeptidase, M3 family
+cpr:CPR_2319	CDS	complement(2540096..2540674)	5-formyltetrahydrofolate cyclo-ligase family protein
+cpr:CPR_2320	CDS	complement(2540900..2541712)	conserved hypothetical protein
+cpr:CPR_2321	CDS	complement(2541925..2542095)	hypothetical protein
+cpr:CPR_2322	CDS	complement(2542112..2543944)	glmS; glucosamine--fructose-6-phosphate aminotransferase, isomerizing
+cpr:CPR_2323	CDS	2544731..2545255	rubrerythrin family protein
+cpr:CPR_2324	CDS	complement(2545405..2546751)	glmM; phosphoglucosamine mutase
+cpr:CPR_2325	CDS	2547222..2548100	conserved domain protein
+cpr:CPR_2326	CDS	complement(2548778..2550199)	sensor histidine kinase
+cpr:CPR_2327	CDS	complement(2550162..2550863)	two-component response regulator
+cpr:CPR_2328	CDS	complement(2551024..2551341)	conserved hypothetical protein
+cpr:CPR_2329	CDS	complement(2551407..2551706)	TrpR homolog YerC/YecD
+cpr:CPR_2330	gene	complement(2551845..2552684)	CPR_2330
+cpr:CPR_2331	CDS	complement(2552800..2554818)	putative glycogen debranching enzyme, archaeal type
+cpr:CPR_2332	CDS	complement(2555161..2557524)	glgP; glycogen/starch/alpha-glucan phosphorylase
+cpr:CPR_2333	CDS	complement(2557517..2559010)	malQ; 4-alpha-glucanotransferase
+cpr:CPR_2334	CDS	complement(2559032..2561179)	glycosyl hydrolase, family 31
+cpr:CPR_2335	CDS	complement(2561203..2562216)	transcriptional regulator, LacI family
+cpr:CPR_2336	CDS	complement(2562511..2563404)	putative maltose/maltodextrin ABC transporter, permease protein
+cpr:CPR_2337	CDS	complement(2563406..2564359)	putative maltose/maltodextrin ABC transporter, permease protein
+cpr:CPR_2338	CDS	complement(2564446..2565672)	putative maltose/maltodextrin ABC transporter, maltose/maltodextrin-binding protein
+cpr:CPR_2339	CDS	complement(2566131..2567072)	conserved hypothetical protein
+cpr:CPR_2340	CDS	complement(2567107..2568216)	ABC transporter, ATP-binding protein
+cpr:CPR_2341	CDS	complement(2568433..2570151)	hydA; iron hydrogenase
+cpr:CPR_2342	CDS	complement(2570377..2571447)	butyrate kinase
+cpr:CPR_2343	CDS	complement(2571472..2572380)	ptb; phosphate butyryltransferase
+cpr:CPR_2344	CDS	complement(2572563..2574164)	conserved hypothetical protein
+cpr:CPR_2345	CDS	complement(2574240..2575562)	conserved hypothetical protein
+cpr:CPR_2346	CDS	complement(2575529..2576386)	conserved hypothetical protein TIGR00159
+cpr:CPR_2347	CDS	2576547..2577509	conserved hypothetical protein
+cpr:CPR_2348	CDS	2577580..2578182	putative spore-cortex-lytic enzyme
+cpr:CPR_2349	CDS	complement(2578214..2579074)	pyridine nucleotide-disulphide oxidoreductase
+cpr:CPR_2350	CDS	complement(2579101..2579415)	trx; thioredoxin
+cpr:CPR_2351	CDS	complement(2579532..2580701)	iadA; isoaspartyl dipeptidase
+cpr:CPR_2352	CDS	complement(2580866..2582485)	ptsI; phosphoenolpyruvate-protein phosphotransferase
+cpr:CPR_2353	CDS	2582960..2584966	phosphocarrier HPr/sensory box protein/sigma-54 dependent transcriptional regulator
+cpr:CPR_2354	CDS	complement(2585138..2585731)	rpsD_1; 30S ribosomal protein S4
+cpr:CPR_2355	CDS	complement(2586132..2587166)	nrdB; ribonucleoside-diphosphate reductase, beta subunit
+cpr:CPR_2356	CDS	complement(2587262..2589493)	ribonucleoside-diphosphate reductase, alpha chain
+cpr:CPR_2357	CDS	complement(2589777..2590133)	ArsC family protein
+cpr:CPR_2358	CDS	complement(2590304..2592055)	sensor histidine kinase
+cpr:CPR_2359	CDS	complement(2592108..2592806)	DNA-binding response regulator
+cpr:CPR_2360	CDS	2593060..2593917	putative membrane protein
+cpr:CPR_2361	CDS	complement(2594178..2594849)	cwlD; N-acetylmuramoyl-L-alanine amidase CwlD
+cpr:CPR_2362	CDS	complement(2595039..2596652)	Na/Pi-cotransporter family protein/PhoU family protein
+cpr:CPR_2363	CDS	complement(2597029..2597421)	rpsI; 30S ribosomal protein S9
+cpr:CPR_2364	CDS	complement(2597448..2597882)	rplM; 50S ribosomal protein L13
+cpr:CPR_2365	CDS	complement(2598029..2598763)	truA2; tRNA pseudouridine synthase A
+cpr:CPR_2366	CDS	complement(2598920..2599726)	cobalt ABC transporter, permease protein
+cpr:CPR_2367	gene	complement(2599741..2600598)	CPR_2367
+cpr:CPR_2369	CDS	complement(2601852..2602193)	rplQ; 50S ribosomal protein L17
+cpr:CPR_2370	CDS	complement(2602210..2603157)	rpoA; DNA-directed RNA polymerase, alpha subunit
+cpr:CPR_2371	CDS	complement(2603242..2603862)	rpsD_2; 30S ribosomal protein S4
+cpr:CPR_2372	CDS	complement(2603886..2604281)	rpsK; 30S ribosomal protein S11
+cpr:CPR_2373	CDS	complement(2604298..2604663)	rpsM; 30S ribosomal protein S13
+cpr:CPR_2374	CDS	complement(2604900..2605013)	rpmJ; 50S ribosomal protein L36
+cpr:CPR_2375	CDS	complement(2605026..2605244)	infA; translation initiation factor IF-1
+cpr:CPR_2376	CDS	complement(2605252..2605560)	conserved hypothetical protein
+cpr:CPR_2377	CDS	complement(2605619..2606368)	map_2; methionine aminopeptidase, type I
+cpr:CPR_2378	CDS	complement(2606368..2607018)	adk; adenylate kinase
+cpr:CPR_2379	CDS	complement(2607045..2608322)	secY; preprotein translocase, SecY subunit
+cpr:CPR_2380	CDS	complement(2608325..2608765)	rplO; 50S ribosomal protein L15
+cpr:CPR_2381	CDS	complement(2608799..2608972)	rpmD; 50S ribosomal protein L30
+cpr:CPR_2382	CDS	complement(2608984..2609481)	rpsE; 30S ribosomal protein S5
+cpr:CPR_2383	CDS	complement(2609502..2609861)	rplR; 50S ribosomal protein L18
+cpr:CPR_2384	CDS	complement(2609892..2610431)	rplF; 50S ribosomal protein L6
+cpr:CPR_2385	CDS	complement(2610528..2610926)	rpsH; 30S ribosomal protein S8
+cpr:CPR_2386	CDS	complement(2610960..2611184)	rpsN; 30S ribosomal protein S14
+cpr:CPR_2387	CDS	complement(2611162..2611701)	rplE; 50S ribosomal protein L5
+cpr:CPR_2388	CDS	complement(2611724..2612038)	rplX; 50S ribosomal protein L24
+cpr:CPR_2389	CDS	complement(2612062..2612430)	rplN; 50S ribosomal protein L14
+cpr:CPR_2390	CDS	complement(2612461..2612715)	rpsQ; 30S ribosomal protein S17
+cpr:CPR_2391	CDS	complement(2612737..2612946)	rpmC; 50S ribosomal protein L29
+cpr:CPR_2392	CDS	complement(2612946..2613380)	rplP; 50S ribosomal protein L16
+cpr:CPR_2393	CDS	complement(2613411..2614079)	rpsC; 30S ribosomal protein S3
+cpr:CPR_2394	CDS	complement(2614100..2614435)	rplV; 50S ribosomal protein L22
+cpr:CPR_2395	CDS	complement(2614463..2614744)	rpsS; 30S ribosomal protein S19
+cpr:CPR_2396	CDS	complement(2614815..2615648)	rplB; 50S ribosomal protein L2
+cpr:CPR_2397	CDS	complement(2615703..2615996)	rplW; 50S ribosomal protein L23
+cpr:CPR_2398	CDS	complement(2615996..2616610)	rplD; 50S ribosomal protein L4
+cpr:CPR_2399	CDS	complement(2616635..2617264)	rplC; 50S ribosomal protein L3
+cpr:CPR_2400	CDS	complement(2617347..2617655)	rpsJ; 30S ribosomal protein S10
+cpr:CPR_2401	CDS	2618119..2619171	IS1470, transposase
+cpr:CPR_2402	CDS	complement(2619514..2620707)	tuf_1; translation elongation factor Tu
+cpr:CPR_2403	CDS	complement(2620780..2622846)	fusA_2; translation elongation factor G
+cpr:CPR_2404	CDS	complement(2622927..2623397)	rpsG; 30S ribosomal protein S7
+cpr:CPR_2405	CDS	complement(2623557..2623937)	rpsL; 30S ribosomal protein S12
+cpr:CPR_2406	CDS	complement(2623995..2624234)	ribosomal protein L7AE family, homolog
+cpr:CPR_2407	CDS	complement(2624347..2627883)	rpoC; DNA-directed RNA polymerase, beta' subunit
+cpr:CPR_2408	CDS	complement(2627963..2631667)	rpoB; DNA-directed RNA polymerase, beta subunit
+cpr:CPR_2409	CDS	complement(2631972..2632337)	rplL; 50S ribosomal protein L7/L12
+cpr:CPR_2410	CDS	complement(2632392..2632892)	rplJ; 50S ribosomal protein L10
+cpr:CPR_2411	CDS	complement(2633109..2633798)	rplA; 50S ribosomal protein L1
+cpr:CPR_2412	CDS	complement(2633856..2634281)	rplK; 50S ribosomal protein L11
+cpr:CPR_2413	CDS	complement(2634356..2634877)	nusG; transcription termination/antitermination factor NusG
+cpr:CPR_2414	CDS	complement(2634915..2635139)	secE; preprotein translocase, SecE subunit
+cpr:CPR_2415	CDS	complement(2635193..2635351)	rpmG; 50S ribosomal protein L33
+cpr:CPR_2416	CDS	complement(2635525..2636718)	tuf_2; translation elongation factor Tu
+cpr:CPR_2417	tRNA	complement(2636785..2636860)	tRNA-Thr
+cpr:CPR_2418	CDS	complement(2636943..2637590)	sigH; RNA polymerase sigma-H factor
+cpr:CPR_2419	CDS	complement(2637672..2638181)	conserved hypothetical protein
+cpr:CPR_2420	CDS	complement(2638197..2639066)	RNA methyltransferase, TrmH family, group 3
+cpr:CPR_2421	CDS	complement(2639089..2639826)	thyX; thymidylate synthase, flavin-dependent
+cpr:CPR_2422	CDS	complement(2639842..2640252)	conserved hypothetical protein
+cpr:CPR_2423	CDS	complement(2640379..2640501)	hypothetical protein
+cpr:CPR_2424	CDS	complement(2640479..2641879)	cysS; cysteine--tRNA ligase
+cpr:CPR_2425	CDS	complement(2641984..2643696)	proS; prolyl-tRNA synthetase
+cpr:CPR_2426	CDS	complement(2644050..2644727)	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+cpr:CPR_2427	CDS	complement(2644741..2645847)	PIN/TRAM domain protein
+cpr:CPR_2428	CDS	2646159..2646560	conserved hypothetical protein
+cpr:CPR_2429	CDS	complement(2646594..2647658)	helix-hairpin-helix domain protein
+cpr:CPR_2430	CDS	complement(2647678..2649039)	radA; DNA repair protein RadA
+cpr:CPR_2431	CDS	complement(2649289..2650017)	nagB; glucosamine-6-phosphate deaminase
+cpr:CPR_2432	CDS	complement(2650014..2650736)	transcriptional regulator, GntR family
+cpr:CPR_2433	CDS	2651194..2651421	glutaredoxin-like protein, YruB-family
+cpr:CPR_2434	CDS	complement(2651544..2652992)	gapN; glyceraldehyde-3-phosphate dehydrogenase, NADP-dependent
+cpr:CPR_2435	CDS	complement(2653009..2653242)	glutaredoxin-like protein, YruB-family
+cpr:CPR_2436	CDS	complement(2653245..2654183)	trxB; thioredoxin-disulfide reductase
+cpr:CPR_2437	CDS	complement(2654458..2656902)	clpC; negative regulator of genetic competence MecB/ClpC
+cpr:CPR_2438	CDS	complement(2656927..2657940)	ATP:guanido phosphotransferase domain protein
+cpr:CPR_2439	CDS	complement(2657924..2658451)	conserved hypothetical protein
+cpr:CPR_2440	CDS	complement(2658471..2658926)	transcriptional repressor
+cpr:CPR_2441	CDS	2659143..2659796	putative zinc-dependent hydrolase
+cpr:CPR_2442	CDS	complement(2659911..2660120)	putative ferredoxin
+cpr:CPR_2443	CDS	complement(2660250..2661155)	PSP1 domain protein
+cpr:CPR_2444	CDS	complement(2661158..2662081)	putative DNA polymerase III, delta prime subunit
+cpr:CPR_2445	CDS	complement(2662103..2662432)	conserved hypothetical protein
+cpr:CPR_2446	CDS	complement(2662589..2662744)	hypothetical protein
+cpr:CPR_2447	CDS	complement(2662761..2663351)	guanylate kinase, homolog
+cpr:CPR_2448	CDS	complement(2663598..2665028)	Orn/Lys/Arg decarboxylase
+cpr:CPR_2449	CDS	complement(2665046..2665222)	putative csfB protein
+cpr:CPR_2450	CDS	2665378..2666547	amidohydrolase homolog
+cpr:CPR_2451	CDS	complement(2666576..2667073)	conserved hypothetical protein
+cpr:CPR_2452	CDS	2667348..2668292	putative cation transporter
+cpr:CPR_2453	CDS	2668384..2669265	LD-carboxypeptidase family protein
+cpr:CPR_2454	tRNA	complement(2669636..2669710)	tRNA-Cys
+cpr:CPR_2455	tRNA	complement(2669715..2669790)	tRNA-Phe
+cpr:CPR_2456	gene	2670289..2670738	CPR_2456
+cpr:CPR_2457	gene	2670909..2671340	CPR_2457
+cpr:CPR_2458	tRNA	complement(2672204..2672278)	tRNA-Asn
+cpr:CPR_2459	tRNA	complement(2675457..2675533)	tRNA-Ile
+cpr:CPR_2460	tRNA	complement(2675539..2675614)	tRNA-Ala
+cpr:CPR_2461	CDS	complement(2677794..2679170)	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+cpr:CPR_2462	CDS	2679481..2680524	radical SAM domain protein
+cpr:CPR_2463	CDS	complement(2680764..2682005)	pyridine nucleotide-disulphide oxidoreductase
+cpr:CPR_2464	CDS	complement(2682098..2682967)	LD-carboxypeptidase family protein
+cpr:CPR_2465	CDS	complement(2683159..2684562)	glyS; glycine--tRNA ligase
+cpr:CPR_2466	tRNA	complement(2685021..2685095)	tRNA-Asn
+cpr:CPR_2467	CDS	complement(2685250..2686755)	lysS; lysine--tRNA ligase
+cpr:CPR_2468	CDS	complement(2686781..2687257)	greA_2; transcription elongation factor GreA
+cpr:CPR_2469	CDS	complement(2687536..2688516)	putative dihydrouridine synthase
+cpr:CPR_2470	CDS	complement(2688523..2689302)	putative transcriptional activator
+cpr:CPR_2471	CDS	complement(2689505..2691175)	fhs; formate--tetrahydrofolate ligase
+cpr:CPR_2472	CDS	complement(2691376..2693181)	ATP-dependent metalloprotease FtsH
+cpr:CPR_2473	CDS	complement(2693256..2693807)	hpt_2; hypoxanthine phosphoribosyltransferase
+cpr:CPR_2474	CDS	complement(2693810..2695219)	tilS; tRNA(Ile)-lysidine synthetase
+cpr:CPR_2475	CDS	complement(2695434..2697824)	putative stage II sprulation protein E
+cpr:CPR_2476	tRNA	complement(2698146..2698234)	tRNA-Leu
+cpr:CPR_2477	tRNA	complement(2698251..2698327)	tRNA-Met
+cpr:CPR_2478	tRNA	complement(2698331..2698406)	tRNA-Met
+cpr:CPR_2479	tRNA	complement(2698414..2698502)	tRNA-Leu
+cpr:CPR_2480	tRNA	complement(2698519..2698595)	tRNA-Met
+cpr:CPR_2481	tRNA	complement(2698599..2698674)	tRNA-Met
+cpr:CPR_2482	tRNA	complement(2698681..2698769)	tRNA-Leu
+cpr:CPR_2483	CDS	complement(2699130..2699534)	RNA-binding protein
+cpr:CPR_2484	CDS	complement(2699594..2699986)	putative cell division protein FtsL
+cpr:CPR_2485	CDS	complement(2700251..2700385)	yabQ; spore cortex biosynthesis protein YabQ
+cpr:CPR_2486	CDS	complement(2700395..2700682)	yabP; sporulation protein YabP
+cpr:CPR_2487	CDS	complement(2700802..2701062)	S4 domain protein
+cpr:CPR_2488	CDS	complement(2701170..2701445)	hup; DNA-binding protein HU
+cpr:CPR_2489	CDS	complement(2701662..2703113)	MazG family protein
+cpr:CPR_2490	CDS	complement(2703144..2704676)	spoVB_3; stage V sporulation protein B
+cpr:CPR_2491	CDS	complement(2704869..2705417)	spoVT; stage V sprulation protein T
+cpr:CPR_2492	CDS	complement(2705612..2706640)	putative foldase protein PrsA
+cpr:CPR_2493	CDS	complement(2706741..2710229)	mfd; transcription-repair coupling factor
+cpr:CPR_2494	CDS	complement(2710278..2710844)	pth; peptidyl-tRNA hydrolase
+cpr:CPR_2495	CDS	complement(2710970..2712127)	PDZ domain protein
+cpr:CPR_2496	CDS	complement(2712148..2713557)	sensor histidine kinase
+cpr:CPR_2497	CDS	complement(2713557..2714243)	DNA-binding response regulator
+cpr:CPR_2498	CDS	complement(2714509..2715468)	prsA; ribose-phosphate pyrophosphokinase
+cpr:CPR_2499	CDS	complement(2715525..2716889)	glmU; UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+cpr:CPR_2500	CDS	complement(2717100..2717372)	stage V sporulation protein G
+cpr:CPR_2501	CDS	complement(2717483..2718286)	purR; pur operon repressor
+cpr:CPR_2502	CDS	2718646..2720019	murC; UDP-N-acetylmuramate--alanine ligase
+cpr:CPR_2503	CDS	2720229..2721248	sugar-binding transcriptional regulator, LacI family
+cpr:CPR_2504	CDS	2721363..2722181	punA; purine nucleoside phosphorylase I, inosine and guanosine-specific
+cpr:CPR_2505	CDS	2722262..2723488	nucleoside transporter, NupC family
+cpr:CPR_2506	CDS	complement(2723563..2724639)	metallopeptidase, family M24
+cpr:CPR_2507	CDS	2724807..2725505	Ser/Thr protein phosphatase family protein
+cpr:CPR_2508	CDS	complement(2725685..2726596)	heme/steroid binding domain protein
+cpr:CPR_2509	CDS	2727007..2728404	asnS; asparaginyl-tRNA synthetase
+cpr:CPR_2510	CDS	complement(2728518..2729999)	pepA; leucyl aminopeptidase
+cpr:CPR_2511	CDS	complement(2730145..2730696)	hypothetical protein
+cpr:CPR_2512	CDS	complement(2730816..2731325)	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein
+cpr:CPR_2513	CDS	2731434..2732042	HD domain protein
+cpr:CPR_2514	CDS	complement(2732100..2733491)	MATE efflux family protein
+cpr:CPR_2515	CDS	complement(2733868..2734866)	add; adenosine deaminase
+cpr:CPR_2516	CDS	complement(2735259..2737376)	nrdD; anaerobic ribonucleoside-triphosphate reductase
+cpr:CPR_2517	CDS	2737636..2738703	conserved hypothetical protein
+cpr:CPR_2518	CDS	2738963..2739808	degV family protein
+cpr:CPR_2519	CDS	2739811..2740251	transcriptional regulator, PadR family
+cpr:CPR_2520	CDS	complement(2740640..2740828)	putative ferredoxin
+cpr:CPR_2521	CDS	complement(2740971..2741825)	conserved hypothetical protein
+cpr:CPR_2522	CDS	complement(2741846..2742685)	putative lipoprotein
+cpr:CPR_2523	CDS	complement(2742675..2743445)	lgt_2; prolipoprotein diacylglyceryl transferase
+cpr:CPR_2524	CDS	complement(2743548..2744138)	conserved hypothetical protein
+cpr:CPR_2525	CDS	complement(2744269..2745891)	conserved hypothetical protein
+cpr:CPR_2526	CDS	complement(2745991..2746848)	ksgA; dimethyladenosine transferase
+cpr:CPR_2527	CDS	complement(2746860..2747408)	primase homolog
+cpr:CPR_2528	CDS	complement(2747549..2748571)	3D/G5 domain protein
+cpr:CPR_2529	CDS	complement(2748814..2749584)	hydrolase, TatD family
+cpr:CPR_2530	CDS	complement(2749603..2751102)	conserved hypothetical protein
+cpr:CPR_2531	CDS	2751198..2751878	cyclic nucleotide-binding domain protein
+cpr:CPR_2532	CDS	complement(2752141..2753685)	metG_1; methionine--tRNA ligase
+cpr:CPR_2533	CDS	complement(2753786..2755723)	metG_2; methionine--tRNA ligase
+cpr:CPR_2534	CDS	2756213..2756794	conserved hypothetical protein
+cpr:CPR_2535	CDS	2756829..2757338	putative membrane protein
+cpr:CPR_2536	CDS	complement(2757378..2759093)	Na+/H+ antiporter family protein
+cpr:CPR_2537	CDS	complement(2759516..2761129)	ABC1 domain protein
+cpr:CPR_2538	CDS	complement(2761261..2761599)	conserved hypothetical protein
+cpr:CPR_2539	CDS	complement(2761707..2762951)	pepP; Xaa-pro aminopeptidase
+cpr:CPR_2540	CDS	complement(2763099..2765696)	adhE; aldehyde-alcohol dehydrogenase
+cpr:CPR_2541	CDS	complement(2766122..2766640)	spore maturation protein B
+cpr:CPR_2542	CDS	complement(2766652..2767230)	spore maturation protein A
+cpr:CPR_2543	CDS	2767345..2767524	conserved hypothetical protein
+cpr:CPR_2544	CDS	complement(2767564..2768931)	MATE efflux family protein
+cpr:CPR_2545	CDS	complement(2769120..2769752)	putative membrane protein
+cpr:CPR_2546	CDS	complement(2769865..2770557)	membrane protein
+cpr:CPR_2547	CDS	complement(2770561..2770989)	hypothetical protein
+cpr:CPR_2548	CDS	complement(2771094..2772092)	putative catabolite control protein A
+cpr:CPR_2549	CDS	2772423..2772752	rhodanese-like domain protein
+cpr:CPR_2550	CDS	complement(2772809..2775928)	ileS; isoleucine--tRNA ligase
+cpr:CPR_2551	CDS	2776594..2776809	[2Fe-2S]-binding domain protein
+cpr:CPR_2552	CDS	complement(2776976..2777584)	hypothetical protein
+cpr:CPR_2553	CDS	complement(2777748..2779676)	ABC transporter, ATP-binding protein
+cpr:CPR_2554	CDS	complement(2779883..2780197)	hypothetical protein
+cpr:CPR_2555	CDS	2780357..2781532	putative methyltransferase
+cpr:CPR_2556	CDS	complement(2781897..2782244)	conserved hypothetical protein
+cpr:CPR_2557	CDS	complement(2782247..2783500)	oxidoreductase, pyridine nucleotide-disulphide family
+cpr:CPR_2558	CDS	complement(2783513..2784943)	FAD-dependent oxidoreductase
+cpr:CPR_2559	CDS	complement(2785109..2786611)	glpK; glycerol kinase
+cpr:CPR_2560	CDS	complement(2786631..2787191)	glpP; glycerol uptake operon antiterminator
+cpr:CPR_2561	CDS	complement(2787233..2787940)	glpF; glycerol uptake facilitator protein
+cpr:CPR_2562	CDS	complement(2788441..2789184)	comB; 2-phosphosulfolactate phosphatase
+cpr:CPR_2563	CDS	complement(2789211..2790146)	radical SAM protein, TIGR01212 family
+cpr:CPR_2564	CDS	complement(2790239..2791324)	putative lipoprotein
+cpr:CPR_2565	CDS	2791484..2792536	putative membrane protein
+cpr:CPR_2566	CDS	complement(2792588..2793904)	sleC; spore cortex-lytic enzyme SleC
+cpr:CPR_2567	CDS	complement(2794082..2795776)	cspB; protease CspB
+cpr:CPR_2568	CDS	complement(2795946..2796617)	DNA-binding protein
+cpr:CPR_2569	CDS	complement(2796619..2796993)	conserved hypothetical protein
+cpr:CPR_2570	CDS	complement(2797018..2797530)	peptidyl-prolyl cis-trans isomerase, cyclophilin-type
+cpr:CPR_2571	CDS	complement(2797771..2798040)	conserved hypothetical protein
+cpr:CPR_2572	CDS	complement(2798273..2799055)	murI; glutamate racemase
+cpr:CPR_2573	CDS	2799354..2801255	putative glutamine synthetase
+cpr:CPR_2574	CDS	complement(2801344..2801628)	conserved hypothetical protein
+cpr:CPR_2575	CDS	complement(2801866..2802507)	vanZ family protein
+cpr:CPR_2576	CDS	complement(2803122..2806325)	carB; carbamoyl-phosphate synthase, large subunit
+cpr:CPR_2577	CDS	complement(2806338..2807387)	carA; carbamoyl-phosphate synthase, small subunit
+cpr:CPR_2578	CDS	2808045..2808701	conserved domain protein
+cpr:CPR_2579	CDS	complement(2808956..2810428)	[Fe] hydrogenase
+cpr:CPR_2580	CDS	complement(2810497..2811114)	DNA-3-methyladenine glycosylase
+cpr:CPR_2581	CDS	complement(2811414..2811725)	PTS system, lactose/cellobiose-specific IIA component
+cpr:CPR_2582	CDS	complement(2811827..2813074)	proA; gamma-glutamyl phosphate reductase
+cpr:CPR_2583	CDS	complement(2813077..2813886)	proB; glutamate 5-kinase
+cpr:CPR_2584	CDS	complement(2813973..2814851)	oxidoreductase, short chain dehydrogenase/reductase family
+cpr:CPR_2585	CDS	complement(2814915..2815688)	oxidoreductase, short-chain dehydrogenase/reductase family
+cpr:CPR_2586	CDS	2815874..2817166	xanthine/uracil permease family protein
+cpr:CPR_2587	CDS	complement(2817231..2818874)	hybrid cluster protein
+cpr:CPR_2588	CDS	2819182..2820531	nucleoside recognition domain protein
+cpr:CPR_2589	CDS	complement(2820856..2821644)	conserved domain protein
+cpr:CPR_2590	CDS	2821776..2822363	maa; maltose transacetylase
+cpr:CPR_2591	CDS	2822415..2822888	msrA; methionine-S-sulfoxide reductase
+cpr:CPR_2592	CDS	complement(2822890..2824374)	N-6 DNA methylase
+cpr:CPR_2593	CDS	complement(2824503..2826659)	putative phage infection protein
+cpr:CPR_2594	CDS	complement(2826682..2828847)	putative phage infection protein
+cpr:CPR_2595	CDS	complement(2829419..2829757)	phnA family protein
+cpr:CPR_2596	CDS	complement(2830192..2831223)	conserved hypothetical protein
+cpr:CPR_2597	CDS	complement(2831349..2831717)	putative membrane protein
+cpr:CPR_2598	CDS	complement(2833499..2834608)	hypothetical protein
+cpr:CPR_2599	CDS	complement(2834857..2835111)	Uncharacterized conserved protein, YbeA family
+cpr:CPR_2600	CDS	complement(2835407..2835724)	phosphotransferase system enzyme II PtcA
+cpr:CPR_2601	CDS	complement(2835774..2837126)	cellobiose phosphotransferase enzyme IIC component homolog lin2832
+cpr:CPR_2602	CDS	complement(2837147..2837449)	PTS system, IIB component
+cpr:CPR_2603	CDS	complement(2837508..2838944)	6-phospho-beta-glucosidase bgla
+cpr:CPR_2604	CDS	complement(2839094..2839822)	transcriptional regulator, RpiR family
+cpr:CPR_2605	CDS	complement(2839856..2840749)	putative sugar kinase
+cpr:CPR_2606	CDS	complement(2840824..2841870)	purR3; sugar-binding transcriptional regulator, LacI family
+cpr:CPR_2607	CDS	complement(2841969..2844620)	endo-1,3(4)-beta-glucanase
+cpr:CPR_2608	CDS	2844984..2845655	conserved hypothetical protein
+cpr:CPR_2609	CDS	2845910..2846137	conserved hypothetical protein
+cpr:CPR_2610	CDS	complement(2846230..2846709)	conserved hypothetical protein TIGR00246
+cpr:CPR_2611	CDS	complement(2846955..2847326)	conserved hypothetical protein
+cpr:CPR_2612	CDS	complement(2847557..2848198)	conserved hypothetical protein
+cpr:CPR_2613	CDS	complement(2848697..2849197)	SEC-C domain protein
+cpr:CPR_2614	CDS	complement(2849340..2849894)	putative lipoprotein
+cpr:CPR_2615	CDS	complement(2849910..2850701)	metallo-beta-lactamase family protein
+cpr:CPR_2616	CDS	complement(2850724..2851977)	murA_2; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+cpr:CPR_2617	CDS	2852317..2852862	conserved hypothetical protein
+cpr:CPR_2618	CDS	2853056..2853535	conserved hypothetical protein
+cpr:CPR_2619	CDS	2853591..2854022	putative membrane protein
+cpr:CPR_2620	CDS	2854089..2855285	subtilase family protein
+cpr:CPR_2621	CDS	complement(2855288..2856340)	peptidase, M23/M37 family
+cpr:CPR_2622	CDS	2856571..2857572	putative DNA replication protein DnaD
+cpr:CPR_2623	CDS	2857569..2858564	putative DNA replication protein DnaC
+cpr:CPR_2624	tRNA	complement(2858655..2858730)	tRNA-Thr
+cpr:CPR_2625	tRNA	complement(2858734..2858810)	tRNA-Asp
+cpr:CPR_2626	tRNA	complement(2858822..2858897)	tRNA-Val
+cpr:CPR_2627	tRNA	complement(2858905..2858979)	tRNA-Glu
+cpr:CPR_2628	tRNA	complement(2858985..2859061)	tRNA-Asp
+cpr:CPR_2629	tRNA	complement(2859076..2859151)	tRNA-Val
+cpr:CPR_2630	tRNA	complement(2859158..2859232)	tRNA-Glu
+cpr:CPR_2631	tRNA	complement(2859240..2859316)	tRNA-Asp
+cpr:CPR_2632	tRNA	complement(2859330..2859405)	tRNA-Val
+cpr:CPR_2633	tRNA	complement(2859410..2859484)	tRNA-Glu
+cpr:CPR_2634	CDS	complement(2859718..2860251)	hypothetical protein
+cpr:CPR_2635	CDS	2860448..2861692	truA_2; pyridine nucleotide-disulphide oxidoreductase
+cpr:CPR_2636	gene	complement(2861814..2862573)	pseudogene
+cpr:CPR_2637	CDS	complement(2862596..2863336)	acyl-ACP thioesterase family protein
+cpr:CPR_2638	CDS	complement(2863469..2864035)	rubrerythrin
+cpr:CPR_2639	CDS	complement(2864323..2864514)	conserved hypothetical protein
+cpr:CPR_2640	CDS	complement(2864624..2865103)	MutT/NUDIX family protein
+cpr:CPR_2641	CDS	complement(2865231..2866517)	purA; adenylosuccinate synthase
+cpr:CPR_2642	CDS	2866997..2867677	sdhB_2; L-serine dehydratase, iron-sulfur-dependent, beta subunit
+cpr:CPR_2643	CDS	2867678..2868559	sdhA_2; L-serine dehydratase, iron-sulfur-dependent, alpha subunit
+cpr:CPR_2644	CDS	2868794..2869966	sugar isomerase, AgaS family
+cpr:CPR_2645	CDS	2869986..2870843	putative tagatose-1,6-bisphosphate aldolase
+cpr:CPR_2646	CDS	complement(2871114..2871839)	transcriptional regulator, GntR family
+cpr:CPR_2647	CDS	complement(2872185..2872985)	proC; pyrroline-5-carboxylate reductase
+cpr:CPR_2648	CDS	complement(2873164..2874483)	dnaB; replicative DNA helicase
+cpr:CPR_2649	CDS	complement(2874915..2876774)	ATP-dependent protease
+cpr:CPR_2650	CDS	complement(2876829..2877275)	rplI; 50S ribosomal protein L9
+cpr:CPR_2651	CDS	complement(2877277..2879235)	DHH family protein
+cpr:CPR_2652	CDS	complement(2879268..2880263)	putative membrane protein
+cpr:CPR_2653	CDS	complement(2880281..2880598)	conserved hypothetical protein
+cpr:CPR_2654	CDS	complement(2880881..2881123)	rpsR; 30S ribosomal protein S18
+cpr:CPR_2655	CDS	complement(2881154..2881606)	ssb; single-strand binding protein
+cpr:CPR_2656	CDS	complement(2881620..2881907)	rpsF; 30S ribosomal protein S6
+cpr:CPR_2657	CDS	complement(2882051..2882263)	conserved hypothetical protein
+cpr:CPR_2658	CDS	complement(2882300..2883160)	mechanosensitive ion channel family protein
+cpr:CPR_2659	CDS	complement(2883193..2883426)	conserved hypothetical protein
+cpr:CPR_2660	CDS	2883584..2884231	translocator protein, LysE family
+cpr:CPR_2661	CDS	2884243..2885403	cysteine desulfurase family protein
+cpr:CPR_2662	CDS	2885415..2886479	ytvI; sporulation integral membrane protein YtvI
+cpr:CPR_2663	CDS	2886529..2887119	yyaC_2; putative sporulation protein YyaC
+cpr:CPR_2664	CDS	complement(2887269..2887766)	conserved hypothetical protein
+cpr:CPR_2665	CDS	complement(2887815..2888675)	stage 0 sporulation protein J
+cpr:CPR_2666	CDS	complement(2888676..2889449)	soj; sporulation initiation inhibitor protein soj
+cpr:CPR_2667	CDS	complement(2889699..2890418)	gidB; 16S rRNA methyltransferase GidB
+cpr:CPR_2668	CDS	complement(2890595..2892487)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+cpr:CPR_2669	CDS	complement(2892502..2893878)	trmE; tRNA modification GTPase TrmE
+cpr:CPR_2670	CDS	complement(2894436..2895059)	jag; R3H domain protein
+cpr:CPR_2671	CDS	complement(2895101..2895817)	oxaA; membrane protein OxaA
+cpr:CPR_2672	CDS	complement(2895851..2896060)	conserved hypothetical protein TIGR00278
+cpr:CPR_2673	CDS	complement(2896032..2896409)	rnpA; ribonuclease P protein component
+cpr:CPR_2674	CDS	complement(2896470..2896604)	rpmH; 50S ribosomal protein L34
