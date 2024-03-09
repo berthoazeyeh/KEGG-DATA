@@ -1,0 +1,2259 @@
+cdv:CDVA01_0001	CDS	1..1653	dnaA; chromosomal replication initiation protein
+cdv:CDVA01_0002	CDS	2292..3479	dnaN; DNA polymerase III subunit beta
+cdv:CDVA01_0003	CDS	3519..4712	recF; recombination protein F
+cdv:CDVA01_0004	CDS	4702..5253	hypothetical protein
+cdv:CDVA01_0005	CDS	5368..7413	gyrB; DNA gyrase subunit B
+cdv:CDVA01_0006	CDS	complement(7469..7906)	hypothetical protein
+cdv:CDVA01_0007	CDS	complement(8167..8439)	hypothetical protein
+cdv:CDVA01_0008	CDS	complement(8444..8647)	hypothetical protein
+cdv:CDVA01_0009	CDS	8757..11327	gyrA; DNA gyrase subunit A
+cdv:CDVA01_0010	CDS	11327..11671	hypothetical protein
+cdv:CDVA01_t001	tRNA	11783..11859	tRNA-Ile
+cdv:CDVA01_t002	tRNA	11869..11941	tRNA-Ala
+cdv:CDVA01_0011	CDS	complement(12141..12863)	putative regulatory protein
+cdv:CDVA01_0012	CDS	complement(12957..14627)	lldP; L-lactate permease
+cdv:CDVA01_0013	CDS	15136..15597	hypothetical protein
+cdv:CDVA01_0014	CDS	15716..17329	putative membrane protein
+cdv:CDVA01_0015	CDS	17319..18965	putative transport system, ATP-binding protein
+cdv:CDVA01_t003	tRNA	19033..19109	tRNA-Ile
+cdv:CDVA01_t004	tRNA	19119..19191	tRNA-Ala
+cdv:CDVA01_0016	CDS	complement(19182..19520)	hypothetical protein
+cdv:CDVA01_0017	CDS	complement(19661..20059)	putative membrane protein
+cdv:CDVA01_t005	tRNA	20173..20245	tRNA-Ala
+cdv:CDVA01_0018	CDS	complement(20907..21086)	hypothetical protein
+cdv:CDVA01_0019	CDS	21324..22322	ABC transporter substrate-binding protein
+cdv:CDVA01_0020	CDS	22319..23350	ABC transporter permease protein
+cdv:CDVA01_0021	CDS	23351..24112	ABC transporter ATP-binding protein
+cdv:CDVA01_0022	CDS	complement(24160..24768)	hypothetical protein
+cdv:CDVA01_0023	CDS	24831..25373	ppiA; peptidyl-prolyl cis-trans isomerase A
+cdv:CDVA01_0024	CDS	complement(25463..25687)	transposase-like protein
+cdv:CDVA01_0025	CDS	25821..26438	putative membrane protein
+cdv:CDVA01_0026	CDS	27518..29317	thiC; thiamine biosynthesis protein ThiC
+cdv:CDVA01_0027	CDS	29301..29969	thiE; thiamine-phosphate pyrophosphorylase
+cdv:CDVA01_0028	CDS	29966..31054	thiO; putative thiamine biosynthesis oxidoreductase
+cdv:CDVA01_0029	CDS	31240..32025	thiG; thiazole synthase
+cdv:CDVA01_0030	CDS	32025..33035	thiF; thiamine biosynthesis protein
+cdv:CDVA01_0031	CDS	33032..33886	thiD; multifunctional thiamine-phosphate pyrophosphorylase
+cdv:CDVA01_0032	CDS	34006..34233	hypothetical protein
+cdv:CDVA01_0033	CDS	34795..38049	cas3; CRISPR-associated endonuclease
+cdv:CDVA01_0034	CDS	38053..38967	cas1; CRISPR-associated protein
+cdv:CDVA01_0035	CDS	38951..39280	cas2; CRISPR-associated protein
+cdv:CDVA01_0036	CDS	39968..40063	hypothetical protein
+cdv:CDVA01_0037	CDS	40138..40320	transposase-like protein
+cdv:CDVA01_0038	CDS	40349..41137	transposase-like protein
+cdv:CDVA01_0039	CDS	41540..41635	hypothetical protein
+cdv:CDVA01_0040	CDS	complement(41780..42049)	putative septation inhibitor protein
+cdv:CDVA01_0041	CDS	complement(42166..44187)	pknB; serine/threonine-protein kinase
+cdv:CDVA01_0042	CDS	complement(44184..45710)	pknA; serine/threonine-protein kinase
+cdv:CDVA01_0043	CDS	complement(45723..47183)	pbp2A; putative secreted penicillin-binding protein 2
+cdv:CDVA01_0044	CDS	complement(47180..48529)	ftsW1; cell division protein
+cdv:CDVA01_0045	CDS	complement(48530..49984)	ppp; putative serine/threonine protein phosphatase
+cdv:CDVA01_0046	CDS	complement(49984..50472)	putative secreted protein
+cdv:CDVA01_0047	CDS	complement(50486..51388)	hypothetical protein
+cdv:CDVA01_t006	tRNA	51575..51661	tRNA-Leu
+cdv:CDVA01_0048	CDS	complement(51869..52168)	hypothetical protein
+cdv:CDVA01_0049	CDS	complement(52575..53090)	putative membrane protein
+cdv:CDVA01_0050	CDS	complement(53095..53358)	putative regulatory protein
+cdv:CDVA01_0051	CDS	complement(53408..53800)	hypothetical protein
+cdv:CDVA01_0052	CDS	complement(53833..54357)	pab; phenazine biosynthesis-like domain-containing protein
+cdv:CDVA01_0053	CDS	complement(54380..55819)	putative membrane protein
+cdv:CDVA01_0054	CDS	complement(55812..56513)	ABC transporter ATP-binding protein
+cdv:CDVA01_0055	CDS	complement(56552..57211)	two-component system response regulator
+cdv:CDVA01_0056	CDS	complement(57211..58440)	two-component system sensor histidine kinase
+cdv:CDVA01_0057	CDS	58590..58880	hypothetical protein
+cdv:CDVA01_0058	CDS	58973..59137	hypothetical protein
+cdv:CDVA01_0059	CDS	complement(59134..59808)	opuBB; choline transport system permease protein
+cdv:CDVA01_0060	CDS	complement(59815..60456)	opuBD; choline transport system permease protein
+cdv:CDVA01_0061	CDS	complement(60447..61277)	opuBA; choline transport system ATP-binding protein
+cdv:CDVA01_0062	CDS	complement(61287..61895)	hypothetical protein
+cdv:CDVA01_0063	CDS	complement(61892..62452)	sigD; ECF-family sigma factor D
+cdv:CDVA01_0064	CDS	complement(62503..62901)	hypothetical protein
+cdv:CDVA01_0065	CDS	62979..64619	putative membrane protein
+cdv:CDVA01_0066	CDS	complement(64686..65453)	tipA; transcriptional activator
+cdv:CDVA01_0067	CDS	complement(65517..65684)	hypothetical protein
+cdv:CDVA01_0068	CDS	complement(65695..67041)	putative peptidase
+cdv:CDVA01_0069	CDS	67119..68114	bioB; biotin synthase
+cdv:CDVA01_0070	CDS	68114..68374	hypothetical protein
+cdv:CDVA01_0071	CDS	68762..69949	irp6A; ferrisiderophore receptor Irp6A
+cdv:CDVA01_0072	CDS	69950..70993	irp6B; membrane protein permease Irp6B
+cdv:CDVA01_0073	CDS	70995..71753	irp6C; ATP-binding protein Irp6C
+cdv:CDVA01_0074	CDS	71843..73321	putative lipoprotein
+cdv:CDVA01_0075	CDS	73339..73746	hypothetical protein
+cdv:CDVA01_0076	CDS	73761..75101	putative riboflavin biosynthesis protein
+cdv:CDVA01_0077	CDS	75124..75543	putative membrane protein
+cdv:CDVA01_0078	CDS	complement(75530..76597)	hypothetical protein
+cdv:CDVA01_0079	CDS	complement(76844..77602)	putative membrane protein
+cdv:CDVA01_0080	CDS	complement(77697..78479)	putative lipase
+cdv:CDVA01_0081	CDS	78576..79154	putative dehydrogenase
+cdv:CDVA01_0082	CDS	complement(79159..80898)	hypothetical protein
+cdv:CDVA01_0083	CDS	complement(81150..81461)	hypothetical protein
+cdv:CDVA01_0084	CDS	complement(81716..81904)	hypothetical protein
+cdv:CDVA01_0085	CDS	82181..82735	putative siderophore binding protein
+cdv:CDVA01_0086	CDS	complement(82732..83730)	cysR; ROK-family transcriptional regulator
+cdv:CDVA01_0087	CDS	84098..85468	piuB; iron-regulated membrane protein
+cdv:CDVA01_0088	CDS	85481..86704	hypothetical protein
+cdv:CDVA01_0089	CDS	86716..88329	hypothetical protein
+cdv:CDVA01_0090	CDS	88366..88803	MarR-family transcriptional regulator
+cdv:CDVA01_0091	CDS	complement(88781..89833)	putative membrane protein
+cdv:CDVA01_0092	CDS	complement(89838..90422)	hypothetical protein
+cdv:CDVA01_0093	CDS	90421..91191	putative membrane protein
+cdv:CDVA01_0094	CDS	complement(91181..93526)	ATP-dependent helicase
+cdv:CDVA01_0095	CDS	complement(93516..93887)	maa; maltose O-acetyltransferase
+cdv:CDVA01_0096	CDS	93907..94599	putative DNA repair protein
+cdv:CDVA01_0097	CDS	94621..95238	tagA; DNA-3-methyladenine glycosidase I
+cdv:CDVA01_0098	CDS	95243..95971	putative oxidoreductase
+cdv:CDVA01_0099	CDS	95982..96380	putative membrane protein
+cdv:CDVA01_0100	CDS	96646..97404	putative lipoprotein
+cdv:CDVA01_0101	CDS	97636..98310	transposase-like protein
+cdv:CDVA01_0102	CDS	98371..99177	transposase-like protein
+cdv:CDVA01_0103	CDS	complement(99530..100213)	hypothetical protein
+cdv:CDVA01_0104	CDS	100358..100558	hypothetical protein
+cdv:CDVA01_0105	CDS	100699..101025	hypothetical protein
+cdv:CDVA01_0106	CDS	101358..101657	hypothetical protein
+cdv:CDVA01_0107	CDS	101657..102481	hypothetical protein
+cdv:CDVA01_0108	CDS	complement(102802..103722)	hypothetical protein
+cdv:CDVA01_0109	CDS	103862..104488	hypothetical protein
+cdv:CDVA01_0110	CDS	complement(104496..106433)	putative endopeptidase
+cdv:CDVA01_0111	CDS	106534..107166	putative secreted protein
+cdv:CDVA01_0112	CDS	107163..108083	putative membrane protein
+cdv:CDVA01_0113	CDS	108073..108981	putative secreted protein
+cdv:CDVA01_0114	CDS	complement(109002..109439)	putative secreted protein
+cdv:CDVA01_0115	CDS	complement(109665..113090)	embC; arabinosyl transferase C
+cdv:CDVA01_0116	CDS	complement(113083..115083)	aftA; arabinofuranosyl transferase A
+cdv:CDVA01_0117	CDS	complement(115279..116040)	short chain dehydrogenase
+cdv:CDVA01_0118	CDS	complement(116060..117526)	dprE; decaprenylphosphoryl-beta-D-ribose 2-epimerase component
+cdv:CDVA01_0119	CDS	complement(117643..117789)	hypothetical protein
+cdv:CDVA01_0120	CDS	117920..118354	putative membrane protein
+cdv:CDVA01_0121	CDS	118351..118899	hypothetical protein
+cdv:CDVA01_0122	CDS	118911..119330	putative membrane protein
+cdv:CDVA01_0123	CDS	complement(119469..120386)	putative glycosyl transferase
+cdv:CDVA01_0124	CDS	120560..121525	iutA; ABC-type iron uptake system periplasmic component
+cdv:CDVA01_0125	CDS	121624..122358	iutB; ABC-type iron uptake system ATP-binding protein
+cdv:CDVA01_0126	CDS	122355..123254	iutC; ABC-type iron uptake system membrane protein
+cdv:CDVA01_0127	CDS	123251..124102	iutD; ABC-type iron uptake system membrane protein
+cdv:CDVA01_0128	CDS	124187..125224	iutE; ABC-type iron uptake system substrate-binding protein
+cdv:CDVA01_0129	CDS	complement(125328..126107)	ABC transporter ATP-binding protein
+cdv:CDVA01_0130	CDS	complement(126126..127031)	rfbA; O-antigen export system permease protein rfbA
+cdv:CDVA01_0131	CDS	127122..128315	hypothetical protein
+cdv:CDVA01_0132	CDS	complement(128312..129259)	putative quinone oxidoreductase
+cdv:CDVA01_t007	tRNA	129346..129433	tRNA-Ser
+cdv:CDVA01_0133	CDS	complement(129617..130651)	putative aminotransferase
+cdv:CDVA01_t008	tRNA	130760..130848	tRNA-Ser
+cdv:CDVA01_t009	tRNA	130896..130971	tRNA-Arg
+cdv:CDVA01_0134	CDS	131416..132990	putative membrane protein
+cdv:CDVA01_t010	tRNA	133067..133139	tRNA-Arg
+cdv:CDVA01_0135	CDS	133569..134954	putative secreted polysaccharide deacetylase
+cdv:CDVA01_0136	CDS	complement(134951..136315)	GntR family regulator
+cdv:CDVA01_0137	CDS	136406..137299	pdxS; pyridoxine biosynthesis protein
+cdv:CDVA01_0138	CDS	137293..137850	pdxT; glutamine amidotransferase involved in pyrodoxine biosynthesis
+cdv:CDVA01_0139	CDS	complement(137847..138779)	srtB; putative fimbrial associated sortase-like protein
+cdv:CDVA01_0140	CDS	139598..141151	spaD; putative surface-anchored fimbrial subunit
+cdv:CDVA01_0141	CDS	141318..142244	srtC; putative fimbrial associated sortase-like protein
+cdv:CDVA01_0142	CDS	142244..143071	spaE; putative surface-anchored fimbrial subunit
+cdv:CDVA01_0143	CDS	143171..146650	spaF; putative surface-anchored fimbrial subunit
+cdv:CDVA01_0144	CDS	146787..149885	putative surface-anchored fimbrial subunit
+cdv:CDVA01_0145	CDS	complement(150150..150452)	transposase-like protein
+cdv:CDVA01_0146	CDS	complement(150774..150968)	hypothetical protein
+cdv:CDVA01_0147	CDS	complement(151114..151443)	putative secreted protein
+cdv:CDVA01_0148	CDS	complement(151813..152925)	tyrA; Prephenate dehydrogenase
+cdv:CDVA01_0149	CDS	152861..153313	hypothetical protein
+cdv:CDVA01_0150	CDS	153310..153795	putative cytosine/adenosine deaminase
+cdv:CDVA01_t011	tRNA	153880..153970	tRNA-Ser
+cdv:CDVA01_0151	CDS	154280..156616	mmpL2; putative drug exporter of the RND superfamily
+cdv:CDVA01_0152	CDS	156931..158223	tgt; queuine tRNA-ribosyltransferase
+cdv:CDVA01_0153	CDS	158233..159117	gltX; glutamyl-Q tRNA(Asp) synthetase
+cdv:CDVA01_0154	CDS	159207..160595	gntP; gluconate permease
+cdv:CDVA01_0155	CDS	complement(160614..161108)	gntK; putative gluconokinase
+cdv:CDVA01_0156	CDS	complement(161105..162076)	idnD; L-idonate 5-dehydrogenase
+cdv:CDVA01_0157	CDS	complement(162079..162828)	gluconate 5-dehydrogenase
+cdv:CDVA01_t012	tRNA	complement(163107..163195)	tRNA-Ser
+cdv:CDVA01_0158	CDS	163546..164805	aspT; aspartate aminotransferase
+cdv:CDVA01_0159	CDS	164809..165360	hypothetical protein
+cdv:CDVA01_0160	CDS	165371..167506	dnaX; DNA polymerase III subunits gamma and tau
+cdv:CDVA01_0161	CDS	167579..167899	hypothetical protein
+cdv:CDVA01_0162	CDS	167903..168559	recR; recombination protein RecR
+cdv:CDVA01_0163	CDS	complement(168565..169317)	hypothetical protein
+cdv:CDVA01_0164	CDS	complement(169319..170581)	putative secreted protein
+cdv:CDVA01_0165	CDS	complement(170602..171723)	DNA polymerase III subunit epsilon
+cdv:CDVA01_0166	CDS	complement(171727..172491)	putative nitroreductase
+cdv:CDVA01_0167	CDS	complement(172527..174344)	leuA; 2-isopropylmalate synthase
+cdv:CDVA01_0168	CDS	174492..175523	putative regulatory protein
+cdv:CDVA01_0169	CDS	175729..176829	hypothetical protein
+cdv:CDVA01_0170	CDS	178309..179025	deoD; purine nucleoside phosphorylase
+cdv:CDVA01_0171	CDS	179022..180386	putative antibiotic resistance protein membrane protein
+cdv:CDVA01_0172	CDS	180421..181077	deoC; deoxyribose-phosphate aldolase
+cdv:CDVA01_0173	CDS	181085..182737	pmmB; phosphomannomutase
+cdv:CDVA01_0174	CDS	182784..183821	putative membrane protein
+cdv:CDVA01_0175	CDS	complement(183823..184659)	putative membrane protein
+cdv:CDVA01_0176	CDS	184850..186115	lysC; aspartate kinase
+cdv:CDVA01_0177	CDS	186462..186965	hypothetical protein
+cdv:CDVA01_0178	CDS	187292..189703	putative surface-anchored fimbrial subunit
+cdv:CDVA01_0179	CDS	189976..191007	aspartate-semialdehyde dehydrogenase
+cdv:CDVA01_0180	CDS	complement(191014..191580)	sigC; ECF-family sigma factor C
+cdv:CDVA01_0181	CDS	191708..193246	katA; catalase
+cdv:CDVA01_0182	CDS	complement(193236..194294)	ABC transporter ATP-binding protein
+cdv:CDVA01_0183	CDS	complement(194285..195838)	ABC transporter permease protein
+cdv:CDVA01_0184	CDS	complement(195835..196836)	ABC transporter substrate-binding protein
+cdv:CDVA01_0185	CDS	complement(196917..198287)	putative glycerol-3-phosphate transporter
+cdv:CDVA01_0186	CDS	complement(198416..199117)	two-component system response regulator
+cdv:CDVA01_0187	CDS	complement(199110..199907)	two-component system sensor histidine kinase
+cdv:CDVA01_0188	CDS	complement(200063..200365)	mnhG; putative monovalent cation/H+ antiporter subunit G
+cdv:CDVA01_0189	CDS	complement(200365..200631)	mnhF; putative monovalent cation/H+ antiporter subunit F
+cdv:CDVA01_0190	CDS	complement(200631..201008)	mnhE; putative monovalent cation/H+ antiporter subunit E
+cdv:CDVA01_0191	CDS	complement(201011..202534)	mnhD; putative monovalent cation/H+ antiporter subunit D
+cdv:CDVA01_0192	CDS	complement(202534..202959)	mnhC; putative monovalent cation/H+ antiporter subunit C
+cdv:CDVA01_0193	CDS	complement(202963..205875)	mnhB; pH adaptation potassium efflux system transmembrane protein subunit B
+cdv:CDVA01_0194	CDS	206045..207442	putative membrane protein
+cdv:CDVA01_0195	CDS	complement(207527..208417)	hypothetical protein
+cdv:CDVA01_t013	tRNA	complement(208645..208721)	tRNA-Pro
+cdv:CDVA01_0196	CDS	complement(208795..209691)	putative secreted protein
+cdv:CDVA01_0197	CDS	209728..210192	hypothetical protein
+cdv:CDVA01_0198	CDS	complement(210197..212581)	pbp1B; putative penicillin-binding secreted protein 1
+cdv:CDVA01_0199	CDS	212780..213127	whcA; putative transcriptional regulator
+cdv:CDVA01_0200	CDS	213135..213323	hypothetical protein
+cdv:CDVA01_0201	CDS	213325..213789	hypothetical protein
+cdv:CDVA01_0202	CDS	213838..214662	putative hydrolase
+cdv:CDVA01_0203	CDS	complement(214723..215406)	glxR; CRP/Fnr-family transcriptional regulator
+cdv:CDVA01_0204	CDS	complement(215753..215872)	putative secreted protein
+cdv:CDVA01_0205	CDS	215911..216666	nth; endonuclease III
+cdv:CDVA01_0206	CDS	216659..217219	putative secreted protein
+cdv:CDVA01_0207	CDS	217216..217959	hypothetical protein
+cdv:CDVA01_0208	CDS	217994..219178	putative serine protease
+cdv:CDVA01_0209	CDS	complement(219175..220140)	putative hydrolase
+cdv:CDVA01_0210	CDS	complement(220201..220701)	hypothetical protein
+cdv:CDVA01_0211	CDS	220829..221482	hypothetical protein
+cdv:CDVA01_0212	CDS	complement(221420..222277)	hypothetical protein
+cdv:CDVA01_0213	CDS	222748..223785	putative morphological differentiation-related protein
+cdv:CDVA01_0214	CDS	223778..224875	hypothetical protein
+cdv:CDVA01_0215	CDS	224872..225618	putative membrane protein
+cdv:CDVA01_0216	CDS	225618..226196	putative secreted protein
+cdv:CDVA01_0217	CDS	226414..226689	putative secreted protein
+cdv:CDVA01_0218	CDS	226686..227012	putative secreted protein
+cdv:CDVA01_0219	CDS	complement(227002..229338)	ATP-dependent RNA helicase
+cdv:CDVA01_0220	CDS	229609..229812	cspA; cold-shock protein A
+cdv:CDVA01_0221	CDS	229986..230603	ABC transporter ATP-binding protein
+cdv:CDVA01_0222	CDS	230600..231307	ABC transporter ATP-binding protein
+cdv:CDVA01_0223	CDS	231304..232551	putative ABC transporter permease protein
+cdv:CDVA01_0224	CDS	232548..234035	ABC-transport system solute-binding protein
+cdv:CDVA01_0225	CDS	234036..235796	ABC-transport system permease protein
+cdv:CDVA01_0226	CDS	complement(235774..237267)	hypothetical protein
+cdv:CDVA01_0227	CDS	237408..240302	topA; DNA topoisomerase I
+cdv:CDVA01_0228	CDS	complement(240222..241265)	hypothetical protein
+cdv:CDVA01_0229	CDS	complement(241373..243349)	dccT; metal-nicotianamine transporter YSL2
+cdv:CDVA01_0230	CDS	complement(243436..245499)	hypothetical protein
+cdv:CDVA01_0231	CDS	245579..246478	hypothetical protein
+cdv:CDVA01_0232	CDS	complement(246495..248021)	cya; adenylate cyclase
+cdv:CDVA01_0233	CDS	248020..249285	DNA polymerase III delta prime subunit
+cdv:CDVA01_t014	tRNA	249383..249458	tRNA-Thr
+cdv:CDVA01_0234	CDS	complement(250592..250801)	putative phage integrase
+cdv:CDVA01_0235	CDS	complement(250898..251356)	int8; tyrosine recombinase xerC
+cdv:CDVA01_0236	CDS	complement(251423..251545)	hypothetical protein
+cdv:CDVA01_0237	CDS	complement(251582..251791)	hypothetical protein
+cdv:CDVA01_0238	CDS	complement(251976..252185)	rhuM; putative DNA-binding protein
+cdv:CDVA01_0239	CDS	complement(252435..252680)	hypothetical protein
+cdv:CDVA01_0240	CDS	252883..253407	putative secreted protein
+cdv:CDVA01_0241	CDS	253560..253739	putative membrane protein
+cdv:CDVA01_0242	CDS	253758..253919	transposase-like protein
+cdv:CDVA01_0243	CDS	253932..254090	hypothetical protein
+cdv:CDVA01_0244	CDS	complement(254115..255272)	hypothetical protein
+cdv:CDVA01_0245	CDS	255408..256106	putative alkylated DNA repair protein
+cdv:CDVA01_0246	CDS	complement(256155..256979)	putative secreted protease
+cdv:CDVA01_0247	CDS	257232..257603	hypothetical protein
+cdv:CDVA01_0248	CDS	complement(257889..258407)	putative secreted protein
+cdv:CDVA01_0249	CDS	complement(258457..258621)	transposase-like protein
+cdv:CDVA01_0250	CDS	complement(258839..259474)	transposase-like protein
+cdv:CDVA01_0251	CDS	260088..267824	alpha-1,6-glucosidase, pullulanase-type
+cdv:CDVA01_0252	CDS	complement(267861..269513)	fadD3; acyl-CoA synthetase
+cdv:CDVA01_0253	CDS	269643..270431	putative secreted hydrolase
+cdv:CDVA01_0254	CDS	complement(270395..271267)	rmlA; glucose-1-phosphate thymidylyltransferase
+cdv:CDVA01_0255	CDS	complement(271279..272625)	rmlD; dTDP-4-dehydrorhamnose reductase
+cdv:CDVA01_0256	CDS	complement(272664..273656)	rmlB; dTDP-glucose or rhamnose-4,6-dehydratase
+cdv:CDVA01_0257	CDS	complement(273677..275029)	putative metallopeptidase
+cdv:CDVA01_0258	CDS	complement(275026..277020)	putative prolyl oligopeptidase family protein
+cdv:CDVA01_0259	CDS	complement(277109..278176)	cmtA; trehalose corynomycolyl transferase A
+cdv:CDVA01_0260	CDS	278644..280053	lpd; dihydrolipoamide dehydrogenase
+cdv:CDVA01_0261	CDS	complement(280261..281685)	ramB; HTH3-family transcriptional regulator
+cdv:CDVA01_0262	CDS	282136..282894	sdhB; succinate dehydrogenase iron-sulfur protein
+cdv:CDVA01_0263	CDS	282913..284928	sdhA; succinate dehydrogenase flavoprotein subunit
+cdv:CDVA01_0264	CDS	284928..285677	sdhC; succinate dehydrogenase reductase iron-sulfur subunit
+cdv:CDVA01_0265	CDS	285755..286105	hypothetical protein
+cdv:CDVA01_0266	CDS	286190..286285	hypothetical protein
+cdv:CDVA01_0267	CDS	286304..287572	putative membrane protein
+cdv:CDVA01_0268	CDS	287585..287860	putative secreted protein
+cdv:CDVA01_0269	CDS	287900..288355	hypothetical protein
+cdv:CDVA01_0270	CDS	complement(288352..289095)	hypothetical protein
+cdv:CDVA01_0271	CDS	complement(289101..289976)	putative oxidoreductase
+cdv:CDVA01_0272	CDS	complement(290055..290306)	pfl; formate C-acetyltransferase
+cdv:CDVA01_0273	CDS	complement(290356..292593)	pflB; formate C-acetyltransferase
+cdv:CDVA01_0274	CDS	complement(292804..292989)	hypothetical protein
+cdv:CDVA01_0275	CDS	complement(292991..293626)	hypothetical protein
+cdv:CDVA01_0276	CDS	complement(293642..294145)	hypothetical protein
+cdv:CDVA01_0277	CDS	294169..295272	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+cdv:CDVA01_0278	CDS	complement(295269..295634)	hypothetical protein
+cdv:CDVA01_0279	CDS	complement(295637..297343)	fadD6; acyl-CoA synthetase
+cdv:CDVA01_0280	CDS	complement(297405..299105)	fadD7; acyl-CoA synthetase
+cdv:CDVA01_0281	CDS	299189..300472	mshA; MshA glycosyltransferase
+cdv:CDVA01_0282	CDS	300531..301277	gpmA; phosphoglycerate mutase
+cdv:CDVA01_0283	CDS	301289..302443	two-component system sensor histidine kinase
+cdv:CDVA01_0284	CDS	302443..303123	two-component system response regulator
+cdv:CDVA01_0285	CDS	complement(303086..303955)	hypothetical protein
+cdv:CDVA01_0286	CDS	303988..304215	hypothetical protein
+cdv:CDVA01_0287	CDS	304221..304844	putative membrane protein
+cdv:CDVA01_0288	CDS	304878..305690	proC; pyrroline-5-carboxylate reductase
+cdv:CDVA01_0289	CDS	305946..306137	putative DNA-binding excisionase protein
+cdv:CDVA01_0290	CDS	306325..306426	hypothetical protein
+cdv:CDVA01_0291	CDS	306505..307374	putative secreted protein
+cdv:CDVA01_0292	CDS	complement(307340..308383)	hypothetical protein
+cdv:CDVA01_0293	CDS	308449..308691	hypothetical protein
+cdv:CDVA01_0294	CDS	308808..310124	hemA; glutamyl-tRNA reductase
+cdv:CDVA01_0295	CDS	310121..311005	hemC; porphobilinogen deaminase
+cdv:CDVA01_0296	CDS	311066..312736	hemD; uroporphyrin-III C-methyltransferase / uroporphyrinogen-III synthase
+cdv:CDVA01_0297	CDS	312733..313725	hemB; delta-aminolevulinic acid dehydratase
+cdv:CDVA01_0298	CDS	313739..314221	putative membrane protein
+cdv:CDVA01_0299	CDS	314214..316730	ctpA2; putative cation-transporting P-type ATPase
+cdv:CDVA01_0300	CDS	complement(316708..317826)	putative membrane protein
+cdv:CDVA01_0301	CDS	317889..318926	hemE; uroporphyrinogen decarboxylase
+cdv:CDVA01_0302	CDS	318942..320294	hemG; protoporphyrinogen oxidase
+cdv:CDVA01_0303	CDS	320350..321642	hemL; glutamate-1-semialdehyde aminotransferase
+cdv:CDVA01_0304	CDS	321639..322247	putative phosphoglycerate mutase
+cdv:CDVA01_0305	CDS	322248..322808	ccsX; thiol-disulfide isomerase/thioredoxin
+cdv:CDVA01_0306	CDS	322805..323596	ccdA1; cytochrome c-type biogenesis protein
+cdv:CDVA01_0307	CDS	323563..325197	ccsB; membrane protein required for cytochrome c biosynthesis
+cdv:CDVA01_0308	CDS	325206..326105	ccsA; cytochrome C biognesis protein
+cdv:CDVA01_0309	CDS	complement(326102..326218)	glyR; ArsR-family transcriptional regulator
+cdv:CDVA01_0310	CDS	326597..326938	hypothetical protein
+cdv:CDVA01_0311	CDS	complement(326913..327776)	menA; 1,4-dihydroxy-2-naphthoateoctaprenyltransferase
+cdv:CDVA01_0312	CDS	327918..329027	hypothetical protein
+cdv:CDVA01_0313	CDS	complement(328987..330096)	menE; O-succinylbenzoic acid-CoA ligase
+cdv:CDVA01_0314	CDS	complement(330107..330973)	menB; naphthoate synthase
+cdv:CDVA01_0315	CDS	330891..331940	menC; O-succinylbenzoate synthase
+cdv:CDVA01_0316	CDS	331924..333453	menD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+cdv:CDVA01_0317	CDS	333450..333842	hypothetical protein
+cdv:CDVA01_0318	CDS	333818..334843	pimB; putative glycosyl transferase
+cdv:CDVA01_0319	CDS	334821..335510	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+cdv:CDVA01_0320	CDS	complement(335497..336447)	ldh1; L-lactate dehydrogenase
+cdv:CDVA01_0321	CDS	complement(336458..337660)	putative FAD-linked oxidoreductase
+cdv:CDVA01_0322	CDS	337742..338734	putative polyprenyl diphosphate synthase component
+cdv:CDVA01_t015	tRNA	338786..338867	tRNA-Tyr
+cdv:CDVA01_t016	tRNA	339058..339130	tRNA-Thr
+cdv:CDVA01_t017	tRNA	339169..339243	tRNA-Met
+cdv:CDVA01_t018	tRNA	339269..339344	tRNA-Trp
+cdv:CDVA01_0323	CDS	339444..339749	secE; preprotein translocase subunit SecE
+cdv:CDVA01_0324	CDS	339844..340635	nusG; transcription antitermination protein NusG
+cdv:CDVA01_0325	CDS	340780..341208	rplK; 50S ribosomal protein L11
+cdv:CDVA01_0326	CDS	341275..341982	rplA; 50S ribosomal protein L1
+cdv:CDVA01_0327	CDS	342294..342809	rplJ; 50S ribosomal protein L10
+cdv:CDVA01_0328	CDS	342853..343233	rplL; 50S ribosomal protein L7/L12
+cdv:CDVA01_0329	CDS	343359..344828	ABC transporter substrate-binding protein
+cdv:CDVA01_0330	CDS	344829..345725	putative secreted protein
+cdv:CDVA01_0331	CDS	345718..346446	ABC transporter ATP-binding protein
+cdv:CDVA01_0332	CDS	346448..347311	ABC transporter permease protein
+cdv:CDVA01_0333	CDS	347304..349286	ABC transporter permease protein
+cdv:CDVA01_0334	CDS	349304..350158	putative surface-anchored membrane protein
+cdv:CDVA01_0335	CDS	350163..351182	putative secreted protein
+cdv:CDVA01_0336	CDS	351187..352125	putative secreted protein
+cdv:CDVA01_0337	CDS	352286..355816	rpoB; DNA-directed RNA polymerase subunit beta
+cdv:CDVA01_0338	CDS	356107..359874	rpoC; DNA-directed RNA polymerase subunit beta'
+cdv:CDVA01_0339	CDS	complement(360343..360555)	hypothetical protein
+cdv:CDVA01_0340	CDS	complement(360594..360731)	hypothetical protein
+cdv:CDVA01_0341	CDS	complement(361147..361263)	transposase-like protein
+cdv:CDVA01_0342	CDS	complement(361340..361558)	hypothetical protein
+cdv:CDVA01_0343	CDS	complement(362118..362444)	hypothetical protein
+cdv:CDVA01_0344	CDS	complement(362456..362584)	hypothetical protein
+cdv:CDVA01_0345	CDS	complement(362730..363194)	hypothetical protein
+cdv:CDVA01_0346	CDS	complement(363287..363694)	hypothetical protein
+cdv:CDVA01_0347	CDS	363869..365095	cstS; two-component system sensor histidine kinase
+cdv:CDVA01_0348	CDS	365100..365801	two-component system response regulator
+cdv:CDVA01_0349	CDS	365828..366802	ABC transporter ATP-binding protein
+cdv:CDVA01_0350	CDS	366823..367590	ABC transporter inner membrane protein
+cdv:CDVA01_0351	CDS	367660..368277	putative membrane protein
+cdv:CDVA01_0352	CDS	368274..369212	ABC transporter permease protein
+cdv:CDVA01_0353	CDS	complement(369209..369712)	pyruvate formate lyase activating enzyme
+cdv:CDVA01_0354	CDS	complement(369798..371582)	anaerobic ribonucleoside triphosphate reductase
+cdv:CDVA01_0355	CDS	371740..372093	hypothetical protein
+cdv:CDVA01_0356	CDS	372369..372740	rpsL; 30S ribosomal protein S12
+cdv:CDVA01_0357	CDS	372744..373211	rpsG; 30S ribosomal protein S7
+cdv:CDVA01_0358	CDS	373410..375590	fusA; elongation factor G
+cdv:CDVA01_0359	CDS	375908..377098	tuf; elongation factor Tu
+cdv:CDVA01_0360	CDS	377176..377733	putative membrane protein
+cdv:CDVA01_0361	CDS	378245..378550	rpsJ; 30S ribosomal protein S10
+cdv:CDVA01_0362	CDS	378583..379239	rplC; 50S ribosomal protein L3
+cdv:CDVA01_0363	CDS	379236..379889	rplD; 50S ribosomal protein L4
+cdv:CDVA01_0364	CDS	379889..380194	rplW; 50S ribosomal protein L23
+cdv:CDVA01_0365	CDS	380216..381058	rplB; 50S ribosomal protein L2
+cdv:CDVA01_0366	CDS	381075..381353	rpsS; 30S ribosomal protein S19
+cdv:CDVA01_0367	CDS	381357..381719	rplV; 50S ribosomal protein L22
+cdv:CDVA01_0368	CDS	381719..382465	rpsC; 30S ribosomal protein S3
+cdv:CDVA01_0369	CDS	382469..382885	rplP; 50S ribosomal protein L16
+cdv:CDVA01_0370	CDS	382885..383115	rpmC; 50S ribosomal protein L29
+cdv:CDVA01_0371	CDS	383118..383396	rpsQ; 30S ribosomal protein S17
+cdv:CDVA01_0372	CDS	383567..385204	macA; putative macrolide-specific efflux protein
+cdv:CDVA01_0373	CDS	385221..385937	ABC transporter ATP-binding protein
+cdv:CDVA01_0374	CDS	385934..387244	ABC transporter inner membrane protein
+cdv:CDVA01_0375	CDS	387440..387808	rplN2; 50S ribosomal protein L14
+cdv:CDVA01_0376	CDS	387811..388125	rplX2; 50S ribosomal protein L24
+cdv:CDVA01_0377	CDS	388128..388691	rplE1; 50S ribosomal protein L5
+cdv:CDVA01_0378	CDS	389394..390737	sdaC; serine transporter
+cdv:CDVA01_0379	CDS	390762..392138	sdaA; L-serine dehydratase 1
+cdv:CDVA01_0380	CDS	392217..393245	putative secreted amino acid hydrolase
+cdv:CDVA01_0381	CDS	complement(393242..394285)	moeZ; molybdopterin biosynthesis protein
+cdv:CDVA01_0382	CDS	complement(394285..395280)	moaE; putative bifunctional molybdopterim biosynthesis protein
+cdv:CDVA01_0383	CDS	complement(395576..396319)	hypothetical protein
+cdv:CDVA01_0384	CDS	complement(396333..398198)	molybdate transport system permease protein
+cdv:CDVA01_0385	CDS	complement(398244..398993)	molA; putative molybdate transport system solute-binding protein
+cdv:CDVA01_0386	CDS	399172..400521	transposase-like protein
+cdv:CDVA01_0387	CDS	complement(400480..401247)	narI; Nitrate reductase gamma subunit
+cdv:CDVA01_0388	CDS	complement(401261..401890)	Nitrate reductase delta subunit
+cdv:CDVA01_0389	CDS	complement(401942..403543)	narH; nitrate reductase beta subunit
+cdv:CDVA01_0390	CDS	complement(403543..407265)	narG; nitrate reductase alpha subunit
+cdv:CDVA01_0391	CDS	complement(407309..408640)	narK; putative nitrate transporter
+cdv:CDVA01_0392	CDS	complement(408974..410272)	putative nitrate transporter
+cdv:CDVA01_0393	CDS	410526..411020	moeY; putative competence-damage inducible protein
+cdv:CDVA01_0394	CDS	complement(411017..411631)	mob; putative molybdopterin-guanine dinucleotide biosynthesis protein A
+cdv:CDVA01_0395	CDS	complement(411609..412076)	moaC; molybdenum cofactor biosynthesis protein C
+cdv:CDVA01_0396	CDS	complement(412092..413318)	moeA2; putative molybdenum cofactor biosynthesis protein
+cdv:CDVA01_0397	CDS	complement(413342..414373)	moaA; molybdenum cofactor biosynthesis protein A
+cdv:CDVA01_0398	CDS	complement(416207..417127)	putative lysine biosynthesis protein
+cdv:CDVA01_0399	CDS	complement(417160..417993)	putative oligopeptide transport system ATP-binding protein
+cdv:CDVA01_0400	CDS	complement(417999..419987)	putative oligopeptide ABC transport system membrane protein
+cdv:CDVA01_0401	CDS	complement(419987..420952)	putative oligopeptide transport system integral membrane protein
+cdv:CDVA01_0402	CDS	complement(421195..422817)	putative transport system secreted protein
+cdv:CDVA01_0403	CDS	423153..423893	GntR family regulatory protein
+cdv:CDVA01_0404	CDS	423910..424794	putative regulatory protein sugar kinase
+cdv:CDVA01_0405	CDS	424823..425518	N-acetylmannosamine-6-phosphate 2-epimerase
+cdv:CDVA01_0406	CDS	425554..426690	putative deacetylase
+cdv:CDVA01_0407	CDS	426726..427505	putative isomerase
+cdv:CDVA01_0408	CDS	complement(427565..429601)	HtaA domain protein
+cdv:CDVA01_0409	CDS	complement(429699..430700)	putative secreted protein
+cdv:CDVA01_0410	CDS	431165..431563	rpsH; 30S ribosomal protein S8
+cdv:CDVA01_0411	CDS	431579..432115	rplF; 50S ribosomal protein L6
+cdv:CDVA01_0412	CDS	432118..432525	rplR; 50S ribosomal protein L18
+cdv:CDVA01_0413	CDS	432566..433192	rpsE; 30S ribosomal protein S5
+cdv:CDVA01_0414	CDS	433196..433381	rpmD; 50S ribosomal protein L30
+cdv:CDVA01_0415	CDS	433384..433830	rplO; 50S ribosomal protein L15
+cdv:CDVA01_0416	CDS	434007..434807	putative transport protein
+cdv:CDVA01_0417	CDS	complement(434808..435542)	hypothetical protein
+cdv:CDVA01_0418	CDS	complement(435530..437239)	putative amylase
+cdv:CDVA01_0419	CDS	complement(437242..438984)	putative glycosilase
+cdv:CDVA01_0420	CDS	439265..440500	putative sugar-binding secreted protein
+cdv:CDVA01_0421	CDS	440618..442021	putative sugar ABC transport system membrane protein
+cdv:CDVA01_0422	CDS	442021..442899	putative sugar ABC transport system membrane protein
+cdv:CDVA01_0423	CDS	442983..443705	ABC transport membrane protein
+cdv:CDVA01_0424	CDS	complement(443702..444955)	hypothetical protein
+cdv:CDVA01_0425	CDS	complement(445070..446206)	putative sugar ABC transport syste ATP-binding protein
+cdv:CDVA01_0426	CDS	446695..448017	secY; preprotein translocase subunit SecY
+cdv:CDVA01_0427	CDS	448017..448562	adk; adenylate kinase
+cdv:CDVA01_0428	CDS	448676..449470	mapA; methionine aminopeptidase
+cdv:CDVA01_0429	CDS	449796..451940	nanH; sialidase-1
+cdv:CDVA01_0430	CDS	452047..452796	putative secreted protein
+cdv:CDVA01_0431	CDS	453100..453318	infA; translation initiation factor IF-1
+cdv:CDVA01_0432	CDS	453504..453872	rpsM; 30S ribosomal protein S13
+cdv:CDVA01_0433	CDS	453876..454280	rpsK; 30S ribosomal protein S11
+cdv:CDVA01_0434	CDS	454304..454909	rpsD; 30S ribosomal protein S4
+cdv:CDVA01_0435	CDS	454991..456007	rpoA; DNA-directed RNA polymerase subunit alpha
+cdv:CDVA01_0436	CDS	456088..456561	rplQ; 50S ribosomal protein L17
+cdv:CDVA01_0437	CDS	456677..457543	truA; tRNA pseudouridine synthase A
+cdv:CDVA01_0438	CDS	457687..458985	hypothetical protein
+cdv:CDVA01_0439	CDS	459052..459516	putative membrane protein
+cdv:CDVA01_0440	CDS	complement(459497..460642)	aprN; peptidase S8 and S53, subtilisin, kexin, sedolisin
+cdv:CDVA01_0441	CDS	complement(460655..462070)	putative surface-anchored membrane protein
+cdv:CDVA01_0442	CDS	complement(462115..462375)	hypothetical protein
+cdv:CDVA01_0443	CDS	462380..465865	cell-division protein FtsK
+cdv:CDVA01_0444	CDS	465930..466919	hypothetical protein
+cdv:CDVA01_0445	CDS	467122..467439	hypothetical protein
+cdv:CDVA01_0446	CDS	467484..467771	ESAT-6-like protein
+cdv:CDVA01_0447	CDS	468196..468639	rplM; 50S ribosomal protein L13
+cdv:CDVA01_0448	CDS	468636..469169	rpsI; 30S ribosomal protein S9
+cdv:CDVA01_0449	CDS	469329..470681	pmmC; phosphomannomutase
+cdv:CDVA01_0450	CDS	470786..471085	hypothetical protein
+cdv:CDVA01_0451	CDS	471082..472407	hypothetical protein
+cdv:CDVA01_0452	CDS	472407..472661	hypothetical protein
+cdv:CDVA01_0453	CDS	complement(472680..473534)	hypothetical protein
+cdv:CDVA01_0454	CDS	473705..474853	alr; alanine racemase
+cdv:CDVA01_0455	CDS	474860..475354	hypothetical protein
+cdv:CDVA01_0456	CDS	475541..477226	putative membrane protein
+cdv:CDVA01_0457	CDS	477373..477846	putative secreted protein
+cdv:CDVA01_0458	CDS	477914..478582	hypothetical protein
+cdv:CDVA01_0459	CDS	478583..479074	putative ribosomal-protein-alanine acetyltransferase
+cdv:CDVA01_0460	CDS	479075..480127	gcp; O-sialoglycoprotein endopeptidase
+cdv:CDVA01_0461	CDS	480269..480565	groES; co-chaperonin GroES
+cdv:CDVA01_0462	CDS	480578..482197	groEL1; chaperonin GroEL
+cdv:CDVA01_0463	CDS	482409..482963	RNA polymerase sigma factor SigD
+cdv:CDVA01_0464	CDS	482960..483862	hypothetical protein
+cdv:CDVA01_0465	CDS	complement(483934..484320)	hypothetical protein
+cdv:CDVA01_0466	CDS	484477..485997	guaB; inosine 5-monophosphate dehydrogenase
+cdv:CDVA01_0467	CDS	486025..487170	inosine 5-monophosphate dehydrogenase
+cdv:CDVA01_0468	CDS	487302..488198	ciuA; putative iron transport system binding secreted protein
+cdv:CDVA01_0469	CDS	488280..489218	ciuB; putative iron transport system membrane protein
+cdv:CDVA01_0470	CDS	489218..490201	ciuC; putative iron transport system membrane protein
+cdv:CDVA01_0471	CDS	490205..491017	ciuD; putative iron transport system ATP-binding protein
+cdv:CDVA01_0472	CDS	491039..494362	ciuE; putative siderophore biosynthesis related protein
+cdv:CDVA01_0473	CDS	494402..495631	ciuF; major facilitator transporter
+cdv:CDVA01_0474	CDS	495631..496092	ciuG; conserved membrane protein
+cdv:CDVA01_0475	CDS	complement(496351..497247)	putative membrane protein
+cdv:CDVA01_0476	CDS	497311..497697	hypothetical protein
+cdv:CDVA01_0477	CDS	497755..498120	hypothetical protein
+cdv:CDVA01_0478	CDS	498271..498840	putative secreted protein
+cdv:CDVA01_0479	CDS	499140..499391	hypothetical protein
+cdv:CDVA01_0480	CDS	499434..501050	guaA; GMP synthase
+cdv:CDVA01_0481	CDS	complement(501126..501824)	hypothetical protein
+cdv:CDVA01_0482	CDS	501903..502358	hypothetical protein
+cdv:CDVA01_0483	CDS	complement(502377..503510)	putative membrane protein
+cdv:CDVA01_0484	CDS	503591..504811	putative two component system sensor kinase
+cdv:CDVA01_0485	CDS	504817..505512	putative two component system response regulator
+cdv:CDVA01_0486	CDS	505679..505975	putative secreted protein
+cdv:CDVA01_0487	CDS	506013..506243	iron complex transport system substrate-binding protein
+cdv:CDVA01_0488	CDS	complement(506288..506728)	putative membrane protein
+cdv:CDVA01_0489	CDS	506853..507020	hypothetical protein
+cdv:CDVA01_0490	CDS	507017..507535	hypothetical protein
+cdv:CDVA01_0491	CDS	507544..509082	hypothetical protein
+cdv:CDVA01_0492	CDS	complement(509086..509787)	hypothetical protein
+cdv:CDVA01_0493	CDS	509892..510770	hypothetical protein
+cdv:CDVA01_0494	CDS	complement(510787..512244)	mscS; small-conductance mechanosensitive channel
+cdv:CDVA01_0495	CDS	complement(512345..513022)	metI; D-methionine transport system permease protein
+cdv:CDVA01_0496	CDS	complement(513019..514041)	metN; methionine import ATP-binding protein
+cdv:CDVA01_0497	CDS	complement(514079..514951)	metQ1; D-methionine-binding lipoprotein
+cdv:CDVA01_0498	CDS	complement(515125..515997)	metQ2; D-methionine-binding lipoprotein
+cdv:CDVA01_0499	CDS	516191..519136	dnaE2; error-prone DNA polymerase
+cdv:CDVA01_0500	CDS	519127..519333	error-prone DNA polymerase
+cdv:CDVA01_0501	CDS	519374..519823	putative secreted protein
+cdv:CDVA01_0502	CDS	519820..521160	putative membrane protein
+cdv:CDVA01_0503	CDS	521228..522193	mntA; manganese ABC transporter substrate-binding lipoprotein
+cdv:CDVA01_0504	CDS	522262..523047	mntB; manganese ABC transporter ATP-binding protein
+cdv:CDVA01_0505	CDS	523037..523870	mntC; manganese transport system membrane protein
+cdv:CDVA01_0506	CDS	523867..524673	mntD; manganese transport system membrane protein
+cdv:CDVA01_0507	CDS	524688..525302	mntR; iron-dependent repressor ideR
+cdv:CDVA01_0508	CDS	525524..526369	folD; methylenetetrahydrofolate dehydrogenase
+cdv:CDVA01_0509	CDS	526362..526688	putative membrane protein
+cdv:CDVA01_0510	CDS	complement(526823..527935)	hypothetical protein
+cdv:CDVA01_0511	CDS	complement(528145..529248)	metX; homoserine O-acetyltransferase
+cdv:CDVA01_0512	CDS	complement(529375..529875)	htaC; cell-surface hemin receptor-like protein
+cdv:CDVA01_0513	CDS	530088..531863	htaA; cell-surface hemin receptor
+cdv:CDVA01_0514	CDS	531874..532935	hmuT; iron-related transport system receptor precursor protein
+cdv:CDVA01_0515	CDS	532919..533971	hmuU; iron-related transport system membrane protein
+cdv:CDVA01_0516	CDS	533992..534825	hmuV; iron complex transport system ATP-binding protein
+cdv:CDVA01_0517	CDS	535015..535992	htaB; cell-surface hemin receptor
+cdv:CDVA01_0518	CDS	complement(536101..537417)	metY; O-acetylhomoserineaminocarboxypropyltransferase
+cdv:CDVA01_0519	CDS	complement(537669..539882)	icd; isocitrate dehydrogenase
+cdv:CDVA01_0520	CDS	540123..541352	putative membrane protein
+cdv:CDVA01_0521	CDS	541363..542268	exoA; putative exodeoxyribonuclease
+cdv:CDVA01_0522	CDS	542414..542593	putative secreted protein
+cdv:CDVA01_0523	CDS	542776..543819	trpS; tryptophanyl-tRNA synthetase
+cdv:CDVA01_0524	CDS	543948..545108	putative membrane protein
+cdv:CDVA01_0525	CDS	complement(545213..546445)	D-alanyl-D-alanine carboxypeptidase
+cdv:CDVA01_0526	CDS	546480..547424	hypothetical protein
+cdv:CDVA01_0527	CDS	complement(547690..548922)	hypothetical protein
+cdv:CDVA01_0528	CDS	complement(548943..549782)	putative secreted protein
+cdv:CDVA01_0529	CDS	complement(549779..550060)	hypothetical protein
+cdv:CDVA01_0530	CDS	550116..550760	upp; uracil phosphoribosyltransferase
+cdv:CDVA01_0531	CDS	550955..551506	putative DNA-binding protein
+cdv:CDVA01_0532	CDS	551604..552794	metal-dependentamidase/aminoacylase/carboxypeptidase
+cdv:CDVA01_0533	CDS	552903..554309	lpdA; flavoprotein disulfide reductase
+cdv:CDVA01_0534	CDS	554831..558256	pyc; pyruvate carboxylase
+cdv:CDVA01_0535	CDS	complement(558346..559110)	hypothetical protein
+cdv:CDVA01_0536	CDS	complement(559125..559499)	hypothetical protein
+cdv:CDVA01_0537	CDS	complement(559763..561484)	accBC; acyl-CoA carboxylase, alpha subunit
+cdv:CDVA01_0538	CDS	complement(561741..562622)	sseA; putative thiosulfate sulfurtransferase
+cdv:CDVA01_0539	CDS	563153..564277	hypothetical protein
+cdv:CDVA01_0540	CDS	564472..566589	putative membrane protein
+cdv:CDVA01_0541	CDS	complement(567016..567603)	maf; Maf-like protein
+cdv:CDVA01_0542	CDS	complement(567631..568536)	rbsK; ribokinase
+cdv:CDVA01_0543	CDS	complement(568681..569736)	LacI-family transcriptional regulator
+cdv:CDVA01_0544	CDS	complement(570599..570859)	hypothetical protein
+cdv:CDVA01_0545	CDS	complement(570955..572613)	accD1; acyl-CoA carboxylase, beta subunit
+cdv:CDVA01_0546	CDS	572629..572904	hypothetical protein
+cdv:CDVA01_0547	CDS	complement(573095..574726)	pccB1; propionyl-CoA carboxylase complex B subunit
+cdv:CDVA01_0548	CDS	574878..575678	birA; biotin-protein ligase
+cdv:CDVA01_0549	CDS	575679..576143	hypothetical protein
+cdv:CDVA01_0550	CDS	576199..577404	purK; phosphoribosylaminoimidazole carboxylase ATPase subunit
+cdv:CDVA01_0551	CDS	577404..577904	purE; phosphoribosylaminoimidazole carboxylase catalytic subunit
+cdv:CDVA01_0552	CDS	577909..578370	hypothetical protein
+cdv:CDVA01_0553	CDS	complement(578362..579477)	hypD; hydrogenase isoenzyme formation protein
+cdv:CDVA01_0554	CDS	complement(579477..579734)	hypC; hydrogenase expression/formation protein HypC
+cdv:CDVA01_0555	CDS	579792..580862	hypE; hydrogenase expression/formation protein HypE
+cdv:CDVA01_0556	CDS	complement(580871..583105)	putative hydrogenase maturation protein
+cdv:CDVA01_0557	CDS	583469..584254	putative hydrogenase nickel incorporation protein
+cdv:CDVA01_0558	CDS	584489..585811	hydrogenase small subunit
+cdv:CDVA01_0559	CDS	585817..587562	putative uptake hydrogenase large subunit
+cdv:CDVA01_0560	CDS	587559..588713	hoxZ; Ni/Fe-hydrogenase B-type cytochrome subunit
+cdv:CDVA01_0561	CDS	588724..589236	putative hydrogenase maturation protease
+cdv:CDVA01_0562	CDS	complement(589233..589637)	hypA; putative hydrogenase nickel incorporation protein
+cdv:CDVA01_0563	CDS	589625..590668	putative reducing hydrogenase alpha subunit
+cdv:CDVA01_0564	CDS	590674..590931	putative hydrogenase operon protein
+cdv:CDVA01_0565	CDS	complement(590928..591590)	hypothetical protein
+cdv:CDVA01_0566	CDS	complement(591602..593170)	lytR1; membrane-bound protein
+cdv:CDVA01_0567	CDS	593294..594229	wbbL; putative lipopolysaccharide biosynthesis glycosyltransferase wbbL
+cdv:CDVA01_0568	CDS	594385..595473	putative mannose-1-phosphate guanyltransferase
+cdv:CDVA01_0569	CDS	595932..596231	whiB2; putative transcriptional regulator
+cdv:CDVA01_0570	CDS	complement(596305..596760)	hypothetical protein
+cdv:CDVA01_0571	CDS	596859..597272	hypothetical protein
+cdv:CDVA01_0572	CDS	597370..598746	pmmA; phosphomannomutase
+cdv:CDVA01_0573	CDS	598795..599802	hypothetical protein
+cdv:CDVA01_0574	CDS	599842..601011	manA; putative mannose-phosphate isomerase
+cdv:CDVA01_0575	CDS	complement(601037..601624)	putative secreted protein
+cdv:CDVA01_0576	CDS	601719..601964	hypothetical protein
+cdv:CDVA01_0577	CDS	602229..602582	hypothetical protein
+cdv:CDVA01_0578	CDS	602688..604124	sahH; S-adenosyl-L-homocysteine hydrolase
+cdv:CDVA01_0579	CDS	604124..604741	tmk; thymidylate kinase
+cdv:CDVA01_0580	CDS	604819..605496	mtrA; two-component system response regulator
+cdv:CDVA01_0581	CDS	605560..607071	mtrB; two-component system sensor histidine kinase
+cdv:CDVA01_0582	CDS	607064..608809	lpqB; lipoprotein LpqB
+cdv:CDVA01_0583	CDS	608830..609432	hypothetical protein
+cdv:CDVA01_0584	CDS	609568..610230	hypothetical protein
+cdv:CDVA01_0585	CDS	610408..612969	secA1; preprotein translocase subunit SecA
+cdv:CDVA01_0586	CDS	613021..613224	hypothetical protein
+cdv:CDVA01_0587	CDS	613633..614043	hypothetical protein
+cdv:CDVA01_0588	CDS	614055..614561	hypothetical protein
+cdv:CDVA01_0589	CDS	614783..615853	putative oxidoreductase
+cdv:CDVA01_0590	CDS	615868..617148	hypothetical protein
+cdv:CDVA01_0591	CDS	complement(617150..618157)	hypothetical protein
+cdv:CDVA01_0592	CDS	complement(618162..619382)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+cdv:CDVA01_0593	CDS	619451..620137	hypothetical protein
+cdv:CDVA01_0594	CDS	complement(620123..620626)	hypothetical protein
+cdv:CDVA01_0595	CDS	620672..621295	sigH; ECF-family sigma factor H
+cdv:CDVA01_0596	CDS	complement(621548..621892)	hypothetical protein
+cdv:CDVA01_0597	CDS	complement(622048..622122)	hypothetical protein
+cdv:CDVA01_0598	CDS	complement(622230..622490)	whcE; putative transcriptional regulator
+cdv:CDVA01_0599	CDS	623122..623583	putative membrane protein
+cdv:CDVA01_0600	CDS	complement(623577..624839)	putative secreted protein
+cdv:CDVA01_0601	CDS	complement(624836..626146)	putative ATP-dependent RNA helicase
+cdv:CDVA01_0602	CDS	626362..626589	hypothetical protein
+cdv:CDVA01_0603	CDS	626592..627470	hypothetical protein
+cdv:CDVA01_0604	CDS	627494..628351	hypothetical protein
+cdv:CDVA01_0605	CDS	628355..631537	putative ATP-dependent DNA helicase
+cdv:CDVA01_0606	CDS	631531..634761	DNA helicase II / ATP-dependent DNA helicase PcrA
+cdv:CDVA01_0607	CDS	634806..635894	membrane transporter
+cdv:CDVA01_0608	CDS	635926..636609	putative hydrolase
+cdv:CDVA01_0609	CDS	636602..638653	uvrD; putative DNA helicase II
+cdv:CDVA01_0610	CDS	complement(638598..639491)	hypothetical protein
+cdv:CDVA01_0611	CDS	639527..640048	hypothetical protein
+cdv:CDVA01_0612	CDS	complement(640045..641436)	hypothetical protein
+cdv:CDVA01_0613	CDS	641517..642569	putative secreted protein
+cdv:CDVA01_0614	CDS	complement(642581..643279)	putative secreted protein
+cdv:CDVA01_0615	CDS	complement(643330..643833)	hypothetical protein
+cdv:CDVA01_0616	CDS	644006..646969	putative membrane protein
+cdv:CDVA01_t019	tRNA	647110..647186	tRNA-Met
+cdv:CDVA01_0617	CDS	complement(647453..648022)	gltT1; sodium/glutamate symporter
+cdv:CDVA01_0618	CDS	complement(648552..649562)	putative protease
+cdv:CDVA01_0619	CDS	complement(649565..650521)	putative membrane protein
+cdv:CDVA01_0620	CDS	650777..650944	hypothetical protein
+cdv:CDVA01_0621	CDS	651200..652681	pycB; oxaloacetate decarboxylase
+cdv:CDVA01_0622	CDS	652694..654250	accD2; acyl-CoA carboxylase, beta subunit
+cdv:CDVA01_0623	CDS	654264..654527	hypothetical protein
+cdv:CDVA01_0624	CDS	654552..654920	putative decarboxylase
+cdv:CDVA01_0625	CDS	655123..656214	hypothetical protein
+cdv:CDVA01_0626	CDS	complement(656233..657021)	hisN; histidinolphosphate phosphatase
+cdv:CDVA01_0627	CDS	complement(657078..657893)	hypothetical protein
+cdv:CDVA01_0628	CDS	658073..659182	peptide chain release factor 2
+cdv:CDVA01_0629	CDS	complement(659179..660783)	putative membrane protein
+cdv:CDVA01_0630	CDS	660962..661651	ftsE; cell division ATP-binding protein
+cdv:CDVA01_0631	CDS	661668..662570	ftsX; cell division protein FtsX
+cdv:CDVA01_0632	CDS	662675..663166	smpB; tmRNA-binding protein
+cdv:CDVA01_0633	CDS	663757..663999	transposase-like protein
+cdv:CDVA01_0634	CDS	664085..664984	transposase-like protein
+cdv:CDVA01_0635	CDS	664981..665136	transposase-like protein
+cdv:CDVA01_0636	CDS	complement(665340..666689)	transposase-like protein
+cdv:CDVA01_0637	CDS	666786..669629	putative lantibiotic modifying enzyme
+cdv:CDVA01_0638	CDS	669617..671749	lantibiotic ABC transporter membrane protein
+cdv:CDVA01_0639	CDS	671749..672627	lantibiotic ABC transporter ATP-binding protein
+cdv:CDVA01_0640	CDS	672627..673424	lantibiotic ABC transporter membrane protein
+cdv:CDVA01_0641	CDS	complement(673590..673856)	transposase-like protein
+cdv:CDVA01_0642	CDS	674366..674737	transposase-like protein
+cdv:CDVA01_0643	CDS	674891..675172	transposase-like protein
+cdv:CDVA01_0644	CDS	675341..676048	transposase-like protein
+cdv:CDVA01_0645	CDS	complement(676271..676612)	hypothetical protein
+cdv:CDVA01_0646	CDS	complement(676646..677449)	hypothetical protein
+cdv:CDVA01_0647	CDS	complement(677571..677801)	transposase-like protein
+cdv:CDVA01_0648	CDS	complement(677866..678672)	transposase-like protein
+cdv:CDVA01_0649	CDS	complement(678669..679304)	integrase catalytic subunit
+cdv:CDVA01_0650	CDS	complement(679746..679910)	transposase-like protein
+cdv:CDVA01_0651	CDS	complement(679998..680234)	transposase-like protein
+cdv:CDVA01_0652	CDS	complement(680517..680774)	hypothetical protein
+cdv:CDVA01_r001	rRNA	680949..682456	16S ribosomal RNA
+cdv:CDVA01_r002	rRNA	682826..685913	23S ribosomal RNA
+cdv:CDVA01_r003	rRNA	686061..686181	5S ribosomal RNA
+cdv:CDVA01_0653	CDS	complement(686510..687718)	transposase-like protein
+cdv:CDVA01_0654	CDS	complement(688468..689196)	hypothetical protein
+cdv:CDVA01_0655	CDS	complement(689390..689788)	aminotransferase
+cdv:CDVA01_0656	CDS	complement(689793..690440)	hypothetical protein
+cdv:CDVA01_0657	CDS	complement(690445..692109)	putative ATP-dependent DNA helicase
+cdv:CDVA01_0658	CDS	complement(692155..694473)	putative DNA-binding protein
+cdv:CDVA01_0659	CDS	694540..694728	hypothetical protein
+cdv:CDVA01_0660	CDS	complement(694913..695536)	rpfA; resuscitation-promoting factor A
+cdv:CDVA01_0661	CDS	696217..696606	cspB; cold shock protein B
+cdv:CDVA01_0662	CDS	complement(696714..697238)	putative secreted protein
+cdv:CDVA01_0663	CDS	complement(697225..698091)	putative secreted protein
+cdv:CDVA01_0664	CDS	698131..698895	hypothetical protein
+cdv:CDVA01_0665	CDS	699069..700556	putative membrane protein
+cdv:CDVA01_0666	CDS	700636..701532	putative methyltransferase
+cdv:CDVA01_0667	CDS	complement(701529..702425)	hypothetical protein
+cdv:CDVA01_0668	CDS	complement(702446..703495)	hypothetical protein
+cdv:CDVA01_0669	CDS	complement(703550..703651)	hypothetical protein
+cdv:CDVA01_0670	CDS	complement(703697..704827)	serC; phosphoserine aminotransferase
+cdv:CDVA01_0671	CDS	705516..706808	gltA; type II citrate synthase
+cdv:CDVA01_0672	CDS	706975..707334	fkb; FKBP-type peptidyl-prolyl cis-trans isomerase
+cdv:CDVA01_0673	CDS	complement(707421..708926)	accDA; putative carboxyltransferase subunit of acetyl-CoA carboxylase
+cdv:CDVA01_0674	CDS	709019..709891	putative oxidoreductase
+cdv:CDVA01_0675	CDS	709891..710667	echA2; enoyl-CoA hydratase
+cdv:CDVA01_0676	CDS	complement(710978..712186)	transposase-like protein
+cdv:CDVA01_0677	CDS	712715..713056	hypothetical protein
+cdv:CDVA01_0678	CDS	713060..714712	mctC; monocarboxylic acid transporter
+cdv:CDVA01_0679	CDS	714846..715694	hypothetical protein
+cdv:CDVA01_0680	CDS	complement(715687..716595)	putative secreted protein
+cdv:CDVA01_0681	CDS	complement(716724..717923)	Na+/H+ antiporter-like protein
+cdv:CDVA01_0682	CDS	complement(718645..719211)	hypothetical protein
+cdv:CDVA01_0683	CDS	719544..719819	hypothetical protein
+cdv:CDVA01_0684	CDS	complement(720372..721310)	site-specific recombinase, phage integrase family protein
+cdv:CDVA01_0685	CDS	complement(721422..722522)	hypothetical protein
+cdv:CDVA01_0686	CDS	722710..723036	hypothetical protein
+cdv:CDVA01_0687	CDS	complement(723130..723294)	hypothetical protein
+cdv:CDVA01_0688	CDS	723319..724101	putative phage integrase
+cdv:CDVA01_0689	CDS	724415..725083	hypothetical protein
+cdv:CDVA01_0690	CDS	725175..725750	hypothetical protein
+cdv:CDVA01_0691	CDS	complement(726214..726768)	hypothetical protein
+cdv:CDVA01_0692	CDS	726763..727245	transposase-like protein
+cdv:CDVA01_0693	CDS	727293..728111	transposase-like protein
+cdv:CDVA01_0694	CDS	complement(729135..730241)	putative secreted protein
+cdv:CDVA01_0695	CDS	730451..731422	type II site-specific deoxyribonuclease
+cdv:CDVA01_0696	CDS	731409..732968	modification methylase SalI
+cdv:CDVA01_0697	CDS	complement(733099..733575)	hypothetical protein
+cdv:CDVA01_0698	CDS	733581..733796	transposase-like protein
+cdv:CDVA01_0699	CDS	733902..734852	transposase-like protein
+cdv:CDVA01_0700	CDS	735284..737038	hypothetical protein
+cdv:CDVA01_t020	tRNA	complement(737256..737328)	tRNA-Arg
+cdv:CDVA01_0701	CDS	737522..737797	hypothetical protein
+cdv:CDVA01_0702	CDS	737804..738556	precorrin 6A synthase
+cdv:CDVA01_0703	CDS	complement(738575..738832)	hypothetical protein
+cdv:CDVA01_0704	CDS	complement(738853..739356)	putative folate reductase
+cdv:CDVA01_0705	CDS	complement(739356..740168)	thyA; thymidylate synthase
+cdv:CDVA01_0706	CDS	complement(740262..741020)	cysQ; inositol monophosphate phosphatase
+cdv:CDVA01_0707	CDS	741059..745873	lhr; ATP-dependent helicase II
+cdv:CDVA01_0708	CDS	complement(745870..746499)	mug; TDG/mug DNA glycosylase family protein
+cdv:CDVA01_0709	CDS	746552..747358	putative endonuclease
+cdv:CDVA01_0710	CDS	complement(747341..749023)	putative membrane protein
+cdv:CDVA01_0711	CDS	749080..749493	putative membrane protein
+cdv:CDVA01_0712	CDS	complement(749578..751221)	pgi; glucose-6-phosphate isomerase
+cdv:CDVA01_0713	CDS	751424..752908	putative succinate-semialdehyde dehydrogenase
+cdv:CDVA01_0714	CDS	complement(752905..753237)	putative chorismate mutase
+cdv:CDVA01_0715	CDS	753318..755804	pcrA; putative ATP-dependent DNA helicase II
+cdv:CDVA01_0716	CDS	complement(755882..756673)	mepA; DNA-directed RNA polymerase subunit beta
+cdv:CDVA01_0717	CDS	756902..758458	hypothetical protein
+cdv:CDVA01_0718	CDS	758484..759104	purN; phosphoribosylglycinamide formyltransferase
+cdv:CDVA01_0719	CDS	759097..760674	purH; bifunctionalphosphoribosylaminoimidazolecarboxam ide formyltransferase/IMP cyclohydrolase
+cdv:CDVA01_0720	CDS	760695..760832	hypothetical protein
+cdv:CDVA01_0721	CDS	760927..761406	putative secreted protein
+cdv:CDVA01_0722	CDS	761575..762075	hypothetical protein
+cdv:CDVA01_0723	CDS	762112..763032	putative secreted protein
+cdv:CDVA01_0724	CDS	763080..763913	putative citrate lyase
+cdv:CDVA01_0725	CDS	complement(763910..764578)	amtR; TetR-family transcriptional regulator
+cdv:CDVA01_0726	CDS	complement(764703..765611)	hypothetical protein
+cdv:CDVA01_0727	CDS	complement(765810..766058)	rpsR; 30S ribosomal protein S18
+cdv:CDVA01_0728	CDS	complement(766073..766378)	rpsN; 30S ribosomal protein S14
+cdv:CDVA01_0729	CDS	complement(766382..766546)	rpmG; 50S ribosomal protein L33
+cdv:CDVA01_0730	CDS	complement(766550..766786)	rpmB; 50S ribosomal protein L28
+cdv:CDVA01_0731	CDS	767256..767522	rpmE; 50S ribosomal protein L31
+cdv:CDVA01_0732	CDS	767541..767714	rpmF; 50S ribosomal protein L32
+cdv:CDVA01_0733	CDS	767943..768635	mprA; two-component system response regulator MprA
+cdv:CDVA01_0734	CDS	768635..770176	mprB; two-component system sensor histidine kinase
+cdv:CDVA01_0735	CDS	770266..771552	putative serine protease
+cdv:CDVA01_0736	CDS	771591..772178	moaB; molybdopterin biosynthesis protein
+cdv:CDVA01_0737	CDS	772208..772393	hypothetical protein
+cdv:CDVA01_0738	CDS	complement(772479..772883)	mscL; large-conductance mechanosensitive channel
+cdv:CDVA01_0739	CDS	complement(772990..773673)	putative secreted protein
+cdv:CDVA01_0740	CDS	complement(773689..774273)	hypothetical protein
+cdv:CDVA01_0741	CDS	774402..775322	galU; UTP-glucose-1-phosphate uridylyltransferase
+cdv:CDVA01_0742	CDS	775419..776684	moeA1; putative molybdopterin biosynthesis protein
+cdv:CDVA01_0743	CDS	776720..777382	rimJ; ribosomal-protein-alanine N-acetyltransferase
+cdv:CDVA01_0744	CDS	777428..778645	hypothetical protein
+cdv:CDVA01_0745	CDS	778688..779101	putative membrane protein
+cdv:CDVA01_0746	CDS	779088..779750	putative membrane protein
+cdv:CDVA01_0747	CDS	complement(779759..781492)	putative membrane protein
+cdv:CDVA01_0748	CDS	781834..783747	betP; Choline-glycine betaine transporter
+cdv:CDVA01_0749	CDS	783826..785289	putative membrane protein
+cdv:CDVA01_0750	CDS	785399..786274	hypothetical protein
+cdv:CDVA01_0751	CDS	786298..788130	metS; methionyl-tRNA synthetase
+cdv:CDVA01_0752	CDS	788152..789006	tatD; putative deoxyribonuclease
+cdv:CDVA01_0753	CDS	789151..790308	rpfB; resuscitation-promoting factor B
+cdv:CDVA01_0754	CDS	790359..791246	dimethyladenosine transferase
+cdv:CDVA01_0755	CDS	791243..792178	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritolkinase
+cdv:CDVA01_0756	CDS	792178..793986	ABC transporter ATP-binding protein
+cdv:CDVA01_0757	CDS	794005..794328	hypothetical protein
+cdv:CDVA01_0758	CDS	794434..794823	putative secreted protein
+cdv:CDVA01_0759	CDS	794848..795387	RNA polymerase ECF-subfamily sigma factor
+cdv:CDVA01_0760	CDS	795396..796571	hypothetical protein
+cdv:CDVA01_0761	CDS	796612..797511	ppk2A; putative RNA polymerase sigma factor
+cdv:CDVA01_0762	CDS	complement(797587..798300)	ripM; putative riboflavin transporter
+cdv:CDVA01_0763	CDS	complement(798320..799120)	hypothetical protein
+cdv:CDVA01_0764	CDS	799220..800272	echA5; enoyl-CoA hydratase
+cdv:CDVA01_0765	CDS	complement(800269..801528)	hypothetical protein
+cdv:CDVA01_0766	CDS	complement(801564..802169)	TetR-family transcriptional regulator
+cdv:CDVA01_0767	CDS	complement(802266..802385)	hypothetical protein
+cdv:CDVA01_0768	CDS	complement(803165..804595)	gapB; glyceraldehyde-3-phosphate dehydrogenase
+cdv:CDVA01_0769	CDS	804859..805512	putative membrane protein
+cdv:CDVA01_0770	CDS	complement(805757..807391)	prfC; peptide chain release factor 3
+cdv:CDVA01_0771	CDS	complement(807403..808212)	putative oxydoreductase
+cdv:CDVA01_0772	CDS	complement(808244..808873)	pthB; Peptidyl-tRNA hydrolase
+cdv:CDVA01_0773	CDS	809067..810230	hypothetical protein
+cdv:CDVA01_0774	CDS	complement(810404..810958)	peptidyl-tRNA hydrolase
+cdv:CDVA01_0775	CDS	complement(811017..811634)	rplY; 50S ribosomal protein L25
+cdv:CDVA01_0776	CDS	complement(811855..813669)	putative hydrolase
+cdv:CDVA01_0777	CDS	complement(813793..814773)	prsA; ribose-phosphate pyrophosphokinase
+cdv:CDVA01_0778	CDS	complement(814782..816236)	glmU; putative UDP-N-acetylglucosamine pyrophosphorylase
+cdv:CDVA01_0779	CDS	complement(816322..817218)	LysR family transcriptional regulator
+cdv:CDVA01_0780	CDS	817306..818382	putative membrane protein
+cdv:CDVA01_0781	CDS	818407..819336	putative reductase
+cdv:CDVA01_0782	CDS	819407..820972	msbA1; lipid A export ATP-binding/permease protein
+cdv:CDVA01_0783	CDS	820973..822760	msbA2; lipid A export ATP-binding/permease protein
+cdv:CDVA01_t021	tRNA	822863..822934	tRNA-Gln
+cdv:CDVA01_0784	CDS	823033..823680	TetR family transcriptional regulator
+cdv:CDVA01_0785	CDS	823724..827524	mfd; transcription-repair coupling factor
+cdv:CDVA01_0786	CDS	827581..828006	hypothetical protein
+cdv:CDVA01_0787	CDS	828009..828491	hypothetical protein
+cdv:CDVA01_0788	CDS	complement(828502..829998)	lysI; L-lysine transport protein
+cdv:CDVA01_0789	CDS	830097..830795	hypothetical protein
+cdv:CDVA01_0790	CDS	830807..831583	putative secreted protein
+cdv:CDVA01_0791	CDS	831745..833022	eno; phosphopyruvate hydratase
+cdv:CDVA01_0792	CDS	833146..833676	hypothetical protein
+cdv:CDVA01_0793	CDS	833717..834283	hypothetical protein
+cdv:CDVA01_0794	CDS	834280..835230	putative exopolyphosphatase
+cdv:CDVA01_t022	tRNA	835314..835390	tRNA-Leu
+cdv:CDVA01_0795	CDS	836042..837049	ripA; AraC-family transcriptional regulator
+cdv:CDVA01_0796	CDS	837180..838010	putative membrane protein
+cdv:CDVA01_0797	CDS	complement(838080..838499)	putative secreted protein
+cdv:CDVA01_0798	CDS	complement(838499..839020)	greA; transcription elongation factor GreA
+cdv:CDVA01_0799	CDS	complement(839198..839665)	hypothetical protein
+cdv:CDVA01_0800	CDS	839967..840854	mca; putative N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase
+cdv:CDVA01_0801	CDS	840909..841250	hypothetical protein
+cdv:CDVA01_0802	CDS	841275..842072	uppS1; undecaprenyl pyrophosphate synthetase
+cdv:CDVA01_0803	CDS	842119..842619	hypothetical protein
+cdv:CDVA01_0804	CDS	complement(842616..843542)	coaA; pantothenate kinase
+cdv:CDVA01_0805	CDS	843753..845042	glyA; serine hydroxymethyltransferase
+cdv:CDVA01_0806	CDS	complement(845113..845457)	hypothetical protein
+cdv:CDVA01_0807	CDS	845522..846202	hypothetical protein
+cdv:CDVA01_0808	CDS	846283..846849	putative phosphinothricin N-acetyltransferase
+cdv:CDVA01_0809	CDS	complement(846854..848419)	major facilitator superfamily permease
+cdv:CDVA01_0810	CDS	complement(848421..849068)	mfsR; TetR-family transcriptional regulator
+cdv:CDVA01_0811	CDS	complement(849213..850616)	fum; fumarate hydratase
+cdv:CDVA01_0812	CDS	complement(850874..851890)	fbp; fructose 1,6-bisphosphatase II
+cdv:CDVA01_0813	CDS	852194..852772	hypothetical protein
+cdv:CDVA01_0814	CDS	complement(852782..853039)	xseB; exodeoxyribonuclease VII small subunit
+cdv:CDVA01_0815	CDS	complement(853068..854309)	xseA; exodeoxyribonuclease VII large subunit
+cdv:CDVA01_0816	CDS	854422..855417	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+cdv:CDVA01_0817	CDS	complement(855481..856272)	putative membrane protein
+cdv:CDVA01_0818	CDS	complement(856339..857757)	putative membrane protein
+cdv:CDVA01_0819	CDS	complement(857847..858017)	metPS; methionine and alanine importer, small subunit
+cdv:CDVA01_0820	CDS	complement(858017..859666)	metP; methionine and alanine importer, large subunit
+cdv:CDVA01_0821	CDS	860020..861105	GTP-dependent nucleic acid-binding protein EngD
+cdv:CDVA01_0822	CDS	complement(861182..862096)	putative membrane protein
+cdv:CDVA01_0823	CDS	862177..863070	2-dehydropantoate 2-reductase
+cdv:CDVA01_0824	CDS	863211..863804	putative membrane protein
+cdv:CDVA01_0825	CDS	complement(863819..864994)	putative chloride channel related membrane protein
+cdv:CDVA01_0826	CDS	865138..866517	ABC transporter ATP-binding protein
+cdv:CDVA01_0827	CDS	866514..867269	ABC transporter permease protein
+cdv:CDVA01_0828	CDS	867266..867724	hypothetical protein
+cdv:CDVA01_0829	CDS	867986..869575	putative peptide transport system secreted protein
+cdv:CDVA01_0830	CDS	869666..870592	putative peptide transport system membrane protein
+cdv:CDVA01_0831	CDS	870585..871538	dppC; putative peptide transport system membrane protein
+cdv:CDVA01_0832	CDS	871541..873223	dppD; putative peptide ABC transport system ATP-binding protein
+cdv:CDVA01_0833	CDS	873560..873862	hypothetical protein
+cdv:CDVA01_0834	CDS	873865..874560	ABC transporter ATP-binding protein
+cdv:CDVA01_0835	CDS	874562..875710	putative membrane protein
+cdv:CDVA01_0836	CDS	complement(877411..878139)	putative protease
+cdv:CDVA01_0837	CDS	complement(878140..878484)	arsC; arsenate reductase
+cdv:CDVA01_0838	CDS	complement(878481..879014)	hypothetical protein
+cdv:CDVA01_0839	CDS	complement(879018..879704)	putative secreted protein
+cdv:CDVA01_0840	CDS	880064..881974	putative GTP-binding elongation factor
+cdv:CDVA01_0841	CDS	881985..883514	putative secreted protein
+cdv:CDVA01_0842	CDS	883514..884395	mshB; MshB deacetylase
+cdv:CDVA01_0843	CDS	884422..884802	putative membrane protein
+cdv:CDVA01_0844	CDS	884852..885169	fdxA; ferredoxin
+cdv:CDVA01_0845	CDS	885202..886299	dapC; N-succinyldiaminopimelate aminotransferase
+cdv:CDVA01_0846	CDS	886346..887077	putative RNA pseudouridylate synthase
+cdv:CDVA01_0847	CDS	887112..887669	putative membrane protein
+cdv:CDVA01_0848	CDS	complement(887676..888851)	hypothetical protein
+cdv:CDVA01_0849	CDS	complement(888941..890353)	gabP; gamma-aminobutyrate permease
+cdv:CDVA01_0850	CDS	complement(890417..891391)	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+cdv:CDVA01_0851	CDS	complement(891402..892766)	aroP; aromatic amino acid transporter
+cdv:CDVA01_0852	CDS	complement(892836..893747)	putative succinyltransferase
+cdv:CDVA01_0853	CDS	893827..894924	dapE; succinyl-diaminopimelate desuccinylase
+cdv:CDVA01_0854	CDS	894932..895696	hypothetical protein
+cdv:CDVA01_0855	CDS	895689..896546	folP; dihydropteroate synthase
+cdv:CDVA01_0856	CDS	896543..897292	putative glucosyl-3-phosphoglycerate synthase
+cdv:CDVA01_0857	CDS	897297..897575	putative secreted protein
+cdv:CDVA01_0858	CDS	897662..897829	hypothetical protein
+cdv:CDVA01_0859	CDS	897856..898725	rrmA; putative SAM-dependent methyltransferase
+cdv:CDVA01_0860	CDS	complement(898783..900195)	putative hydrolase
+cdv:CDVA01_0861	CDS	complement(900205..900945)	alsD; alpha-acetolactate decarboxylase
+cdv:CDVA01_0862	CDS	complement(900998..902170)	glgA; glycogen synthase
+cdv:CDVA01_0863	CDS	902265..903491	glucose-1-phosphate adenylyltransferase
+cdv:CDVA01_0864	CDS	complement(903551..904228)	putative methyltransferase
+cdv:CDVA01_0865	CDS	904314..905033	sigE; ECF-family sigma factor E
+cdv:CDVA01_0866	CDS	905074..905487	cseE; anti-sigma factor CseE
+cdv:CDVA01_0867	CDS	905518..905961	tatB; twin arginine translocase protein B
+cdv:CDVA01_0868	CDS	complement(905964..907097)	putative ATP-binding protein
+cdv:CDVA01_0869	CDS	complement(907110..907706)	hypothetical protein
+cdv:CDVA01_0870	CDS	complement(907710..908999)	hypothetical protein
+cdv:CDVA01_0871	CDS	909125..909634	hypothetical protein
+cdv:CDVA01_0872	CDS	909685..910365	putative secreted protein
+cdv:CDVA01_0873	CDS	complement(910420..914133)	sucA; 2-oxoglutarate dehydrogenase, E1 subunit
+cdv:CDVA01_0874	CDS	complement(914296..918036)	ABC transporter ATP-binding protein
+cdv:CDVA01_0875	CDS	complement(918044..918874)	hypothetical protein
+cdv:CDVA01_0876	CDS	919101..919229	hypothetical protein
+cdv:CDVA01_0877	CDS	complement(919579..920391)	shikimate 5-dehydrogenase
+cdv:CDVA01_0878	CDS	920411..921991	putative type B carboxylesterase
+cdv:CDVA01_0879	CDS	922013..922822	hypothetical protein
+cdv:CDVA01_0880	CDS	922872..923678	hypothetical protein
+cdv:CDVA01_0881	CDS	complement(923687..924229)	hypothetical protein
+cdv:CDVA01_0882	CDS	924533..925450	putative aldose 1-epimerase
+cdv:CDVA01_0883	CDS	925487..927145	putative sodium:solute symporter
+cdv:CDVA01_0884	CDS	927158..927439	hypothetical protein
+cdv:CDVA01_0885	CDS	927439..928569	galT; galactose-1-phosphate uridylyltransferase
+cdv:CDVA01_0886	CDS	928553..929782	galK; galactokinase
+cdv:CDVA01_0887	CDS	complement(929837..932968)	putative helicase
+cdv:CDVA01_0888	CDS	complement(932979..933374)	NUDIX family hydrolase
+cdv:CDVA01_0889	CDS	933587..935635	deaD; ATP-dependent RNA helicase
+cdv:CDVA01_0890	CDS	935723..936133	putative secreted protein
+cdv:CDVA01_0891	CDS	complement(936265..936741)	putative membrane protein
+cdv:CDVA01_0892	CDS	complement(936790..937380)	hypothetical protein
+cdv:CDVA01_0893	CDS	complement(937420..938985)	putP; sodium/proline symporter
+cdv:CDVA01_0894	CDS	939211..942300	helZ; putative DNA/RNA helicase
+cdv:CDVA01_0895	CDS	942301..943122	hypothetical protein
+cdv:CDVA01_0896	CDS	943154..944275	exonuclease SbcD family protein
+cdv:CDVA01_0897	CDS	944275..946839	ATP-binding protein
+cdv:CDVA01_0898	CDS	complement(946916..947446)	hypothetical protein
+cdv:CDVA01_0899	CDS	947688..948170	rosR; MarR-family transcriptional regulator
+cdv:CDVA01_0900	CDS	948345..948476	hypothetical protein
+cdv:CDVA01_t023	tRNA	complement(948619..948694)	tRNA-Arg
+cdv:CDVA01_0901	CDS	complement(948813..949442)	hypothetical protein
+cdv:CDVA01_0902	CDS	complement(949444..950988)	putative iron-sulfur protein
+cdv:CDVA01_0903	CDS	complement(950985..951770)	putative oxididoreductase subunit
+cdv:CDVA01_0904	CDS	952208..953866	putative L-lactate permease
+cdv:CDVA01_0905	CDS	953878..955530	argS; arginyl-tRNA synthetase
+cdv:CDVA01_0906	CDS	955533..956861	lysA; diaminopimelate decarboxylase
+cdv:CDVA01_0907	CDS	956990..958378	hom; Homoserine dehydrogenase
+cdv:CDVA01_0908	CDS	958383..959309	thrB; homoserine kinase
+cdv:CDVA01_0909	CDS	complement(959371..961110)	fadD4; acyl-CoA synthetase
+cdv:CDVA01_0910	CDS	961472..963544	rho; transcription termination factor Rho
+cdv:CDVA01_0911	CDS	963544..964614	prfA; peptide chain release factor 1
+cdv:CDVA01_0912	CDS	964619..965437	hemK; methyltransferase
+cdv:CDVA01_0913	CDS	965545..966195	hypothetical protein
+cdv:CDVA01_0914	CDS	966196..967365	rfe; putative UDP-N-acetylmuramyl pentapeptide phosphotransferase
+cdv:CDVA01_0915	CDS	967383..967826	integral membrane protein
+cdv:CDVA01_0916	CDS	968312..969097	atpB; F0F1 ATP synthase subunit A
+cdv:CDVA01_0917	CDS	969183..969422	atpE; F0F1 ATP synthase subunit C
+cdv:CDVA01_0918	CDS	969450..970016	atpF; F0F1 ATP synthase subunit B
+cdv:CDVA01_0919	CDS	970022..970843	atpH; F0F1 ATP synthase subunit delta
+cdv:CDVA01_0920	CDS	970904..972532	atpA; F0F1 ATP synthase subunit alpha
+cdv:CDVA01_0921	CDS	972586..973563	atpG; F0F1 ATP synthase subunit gamma
+cdv:CDVA01_0922	CDS	973567..975012	atpD; F0F1 ATP synthase subunit beta
+cdv:CDVA01_0923	CDS	975026..975397	atpC; F0F1 ATP synthase subunit epsilon
+cdv:CDVA01_0924	CDS	975625..976092	putative secreted protein
+cdv:CDVA01_0925	CDS	976117..976806	hypothetical protein
+cdv:CDVA01_0926	CDS	976835..977119	hypothetical protein
+cdv:CDVA01_0927	CDS	complement(977197..977655)	putative methylmalonyl-CoA epimerase
+cdv:CDVA01_0928	CDS	977732..978058	hypothetical protein
+cdv:CDVA01_0929	CDS	complement(978061..978882)	frgC; iron-siderophore uptake system ATP-binding component
+cdv:CDVA01_0930	CDS	complement(978879..979838)	frgB; iron-siderophore uptake system transmembrane component
+cdv:CDVA01_0931	CDS	complement(979840..980847)	frgA; iron-siderophore uptake system transmembrane component
+cdv:CDVA01_0932	CDS	980895..981938	frgD; iron-siderophore uptake system exported solute-binding component
+cdv:CDVA01_0933	CDS	complement(982035..982418)	putative membrane protein
+cdv:CDVA01_0934	CDS	982571..983467	putative thioredoxin-like protein
+cdv:CDVA01_0935	CDS	983500..983799	hypothetical protein
+cdv:CDVA01_0936	CDS	complement(983872..986070)	glgB; 1,4-alpha-glucan branching enzyme
+cdv:CDVA01_0937	CDS	complement(986125..988161)	glgE; putative alpha-amylase
+cdv:CDVA01_0938	CDS	988277..989125	ABC transporter ATP-binding protein
+cdv:CDVA01_0939	CDS	989204..990013	NUDIX/MutT family hydrolase
+cdv:CDVA01_0940	CDS	990057..991241	hypothetical protein
+cdv:CDVA01_0941	CDS	991408..992211	etfB; electron transfer flavoprotein subunit beta
+cdv:CDVA01_0942	CDS	992229..993182	etfA; electron transfer flavoprotein subunit alpha
+cdv:CDVA01_0943	CDS	complement(993394..993588)	hypothetical protein
+cdv:CDVA01_0944	CDS	993641..994777	iscS; cysteine desulfurase
+cdv:CDVA01_0945	CDS	complement(994774..995622)	putative transferase
+cdv:CDVA01_0946	CDS	995779..996879	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+cdv:CDVA01_0947	CDS	996908..997975	hypothetical protein
+cdv:CDVA01_0948	CDS	complement(998019..998723)	DNA polymerase III subunit epsilon
+cdv:CDVA01_0949	CDS	998820..1000853	lig; DNA ligase
+cdv:CDVA01_0950	CDS	complement(1000916..1001578)	hypothetical protein
+cdv:CDVA01_0951	CDS	1001828..1002127	gatC; aspartyl/glutamyl-tRNA amidotransferase subunit C
+cdv:CDVA01_0952	CDS	1002127..1003611	gatA; aspartyl/glutamyl-tRNA amidotransferase subunit A
+cdv:CDVA01_0953	CDS	complement(1003713..1004204)	putative acetyltransferase
+cdv:CDVA01_0954	CDS	1004268..1005683	major facilitator family transmembrane efflux protein
+cdv:CDVA01_0955	CDS	complement(1005742..1006077)	hypothetical protein
+cdv:CDVA01_0956	CDS	1006245..1006385	hypothetical protein
+cdv:CDVA01_0957	CDS	1006480..1007520	iron ABC transporter membrane protein
+cdv:CDVA01_0958	CDS	1007520..1008317	putative iron ABC transport system ATP-binding protein
+cdv:CDVA01_0959	CDS	1008329..1009393	putative iron transport system exported solute-binding component
+cdv:CDVA01_0960	CDS	1009501..1010208	integral membrane protein
+cdv:CDVA01_0961	CDS	1010408..1011436	pfkA; 6-phosphofructokinase
+cdv:CDVA01_0962	CDS	1011544..1013049	gatB; aspartyl/glutamyl-tRNA amidotransferase subunit B
+cdv:CDVA01_0963	CDS	1013155..1014252	putative aldo/keto-reductase family protein
+cdv:CDVA01_0964	CDS	complement(1014281..1014967)	lysE; lysine exporter protein
+cdv:CDVA01_0965	CDS	1015038..1015919	lysG; LysR-family transcriptional regulator
+cdv:CDVA01_0966	CDS	complement(1015930..1017012)	hypothetical protein
+cdv:CDVA01_0967	CDS	1017150..1017836	putative secreted protein
+cdv:CDVA01_0968	CDS	1017916..1019043	putative membrane protein
+cdv:CDVA01_0969	CDS	complement(1019120..1020961)	ilvD; dihydroxy-acid dehydratase
+cdv:CDVA01_0970	CDS	complement(1021250..1021735)	putative low molecular weight protein antigen 6
+cdv:CDVA01_0971	CDS	1022122..1024080	ilvB; acetolactate synthase 1 catalytic subunit
+cdv:CDVA01_0972	CDS	1024096..1024620	ilvN; acetolactate synthase small subunit
+cdv:CDVA01_0973	CDS	1024740..1025753	ilvC; ketol-acid reductoisomerase
+cdv:CDVA01_0974	CDS	1025876..1026826	cation-efflux system integral membrane protein
+cdv:CDVA01_0975	CDS	1026879..1028687	hypothetical protein
+cdv:CDVA01_0976	CDS	1028794..1030224	hypothetical protein
+cdv:CDVA01_0977	CDS	1030387..1031982	serA; D-3-phosphoglycerate dehydrogenase
+cdv:CDVA01_0978	CDS	1032124..1033143	leuB; 3-isopropylmalate dehydrogenase
+cdv:CDVA01_0979	CDS	1033270..1033788	CBS domain-containing protein
+cdv:CDVA01_0980	CDS	1033813..1034457	CBS domain-containing protein
+cdv:CDVA01_0981	CDS	1034462..1034602	hypothetical protein
+cdv:CDVA01_0982	CDS	1034599..1034769	hypothetical protein
+cdv:CDVA01_0983	CDS	1034766..1034954	hypothetical protein
+cdv:CDVA01_0984	CDS	1035012..1035344	putative integral membrane protein
+cdv:CDVA01_0985	CDS	1035418..1036215	odx; oxaloacetate decarboxylase
+cdv:CDVA01_0986	CDS	1036238..1036882	hypothetical protein
+cdv:CDVA01_0987	CDS	complement(1036863..1037996)	menF; isochorismate synthase
+cdv:CDVA01_0988	CDS	1038035..1039519	gltS; glutamyl-tRNA synthetase
+cdv:CDVA01_0989	CDS	1039678..1040715	putative exported esterase/hydrolase
+cdv:CDVA01_t024	tRNA	1040817..1040888	tRNA-Gln
+cdv:CDVA01_t025	tRNA	1040922..1040997	tRNA-Glu
+cdv:CDVA01_0990	CDS	complement(1041071..1041262)	TetR family transcriptional regulator
+cdv:CDVA01_0991	CDS	1041361..1041888	MmpL family integral membrane protein
+cdv:CDVA01_0992	CDS	1041930..1042625	hypothetical protein
+cdv:CDVA01_0993	CDS	1042793..1044253	hypothetical protein
+cdv:CDVA01_0994	CDS	1044549..1044674	hypothetical protein
+cdv:CDVA01_t026	tRNA	1044945..1045020	tRNA-Glu
+cdv:CDVA01_0995	CDS	1045150..1047903	ppc; Phosphoenolpyruvate carboxylase
+cdv:CDVA01_0996	CDS	complement(1047913..1048302)	hypothetical protein
+cdv:CDVA01_0997	CDS	complement(1048346..1049338)	biotin synthase family transferase
+cdv:CDVA01_0998	CDS	1049419..1049976	hypothetical protein
+cdv:CDVA01_0999	CDS	complement(1049987..1050748)	ltbR; IclR-family transcriptional regulator
+cdv:CDVA01_1000	CDS	1050802..1052244	leuC; isopropylmalate isomerase large subunit
+cdv:CDVA01_1001	CDS	1052256..1052846	leuD; isopropylmalate isomerase small subunit
+cdv:CDVA01_1002	CDS	complement(1052925..1053935)	hypothetical protein
+cdv:CDVA01_1003	CDS	1054130..1055125	gpsA; NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+cdv:CDVA01_1004	CDS	1055148..1056245	ddl; D-alanyl-alanine synthetase A
+cdv:CDVA01_1005	CDS	complement(1056252..1057190)	putative secreted protein
+cdv:CDVA01_1006	CDS	1057282..1058271	thiL; thiamine monophosphate kinase
+cdv:CDVA01_1007	CDS	1058274..1058942	ung; uracil-DNA glycosylase
+cdv:CDVA01_1008	CDS	1058997..1060613	hypothetical protein
+cdv:CDVA01_1009	CDS	1060618..1062732	recG; ATP-dependent DNA helicase
+cdv:CDVA01_1010	CDS	1062760..1062981	putative biotin carboxyl carrier protein
+cdv:CDVA01_1011	CDS	1062978..1063556	putative DNA methylase
+cdv:CDVA01_1012	CDS	1063564..1064043	coaD; phosphopantetheine adenylyltransferase
+cdv:CDVA01_1013	CDS	1064130..1064594	putative secreted protein
+cdv:CDVA01_1014	CDS	complement(1064604..1065371)	artC; ABC transporter system ATP-binding protein
+cdv:CDVA01_1015	CDS	complement(1065375..1066319)	gluD; glutamate transport system permease protein
+cdv:CDVA01_1016	CDS	complement(1066377..1067270)	putative secreted protein
+cdv:CDVA01_1017	CDS	complement(1067340..1068272)	putative membrane protein
+cdv:CDVA01_t027	tRNA	complement(1068485..1068561)	tRNA-Leu
+cdv:CDVA01_1018	CDS	1068633..1071332	polA; DNA polymerase I
+cdv:CDVA01_1019	CDS	complement(1071382..1072011)	hypothetical protein
+cdv:CDVA01_1020	CDS	1072279..1073820	rpsA; 30S ribosomal protein S1
+cdv:CDVA01_1021	CDS	complement(1073904..1075316)	putative transport protein
+cdv:CDVA01_1022	CDS	complement(1075537..1076364)	putative transcription antiterminator
+cdv:CDVA01_1023	CDS	complement(1076476..1078506)	ptsG; PTS system, glucose-specific IIABC component
+cdv:CDVA01_1024	CDS	1078888..1079490	coaE; dephospho-CoA kinase
+cdv:CDVA01_1025	CDS	1079676..1080908	coenzyme PQQ synthesis protein E
+cdv:CDVA01_1026	CDS	1080958..1083054	uvrB; excinuclease ABC subunit B
+cdv:CDVA01_1027	CDS	1083283..1083723	putative stress related protein
+cdv:CDVA01_1028	CDS	complement(1083772..1086084)	putative helicase
+cdv:CDVA01_1029	CDS	complement(1086208..1087053)	hypothetical protein
+cdv:CDVA01_1030	CDS	complement(1087238..1087876)	putative hydrolase
+cdv:CDVA01_1031	CDS	1088017..1090899	uvrA; excinuclease ABC subunit A
+cdv:CDVA01_1032	CDS	1091244..1091690	infC; translation initiation factor IF-3
+cdv:CDVA01_1033	CDS	1091720..1091914	rpmI; 50S ribosomal protein L35
+cdv:CDVA01_1034	CDS	1091976..1092359	rplT; 50S ribosomal protein L20
+cdv:CDVA01_1035	CDS	complement(1092611..1093156)	putative secreted protein
+cdv:CDVA01_1036	CDS	1093404..1094222	tsnR; putative rRNA methyltransferase
+cdv:CDVA01_1037	CDS	1094306..1095409	pheS; phenylalanyl-tRNA synthetase subunit alpha
+cdv:CDVA01_1038	CDS	1095451..1097961	pheT; phenylalanyl-tRNA synthetase subunit beta
+cdv:CDVA01_1039	CDS	1098088..1099131	N-acetyl-gamma-glutamyl-phosphate reductase
+cdv:CDVA01_1040	CDS	1099206..1100366	argJ; bifunctional ornithine acetyltransferase/N-acetylglutamate synthase protein
+cdv:CDVA01_1041	CDS	1100403..1101335	argB; acetylglutamate kinase
+cdv:CDVA01_1042	CDS	1101328..1102569	argD; acetylornithine aminotransferase
+cdv:CDVA01_1043	CDS	1102598..1103557	argF; ornithine carbamoyltransferase
+cdv:CDVA01_1044	CDS	1103664..1104155	argR; arginine repressor
+cdv:CDVA01_1045	CDS	1104313..1105512	argG; argininosuccinate synthase
+cdv:CDVA01_1046	CDS	1105512..1106945	argH; argininosuccinate lyase
+cdv:CDVA01_1047	CDS	1107030..1107221	hypothetical protein
+cdv:CDVA01_1048	CDS	1107235..1108497	tyrS; tyrosyl-tRNA synthetase
+cdv:CDVA01_r004	rRNA	1109139..1110646	16S ribosomal RNA
+cdv:CDVA01_r005	rRNA	1111016..1114103	23S ribosomal RNA
+cdv:CDVA01_r006	rRNA	1114244..1114363	5S ribosomal RNA
+cdv:CDVA01_1049	CDS	1114463..1115539	hypothetical protein
+cdv:CDVA01_1050	CDS	1115577..1116572	hypothetical protein
+cdv:CDVA01_1051	CDS	1116793..1117614	putative cytotoxin/hemolysin
+cdv:CDVA01_1052	CDS	1117614..1118567	ppnK; inorganic polyphosphate/ATP-NAD kinase
+cdv:CDVA01_1053	CDS	1118683..1120422	DNA repair protein
+cdv:CDVA01_1054	CDS	1120533..1121726	hypothetical protein
+cdv:CDVA01_1055	CDS	1121751..1122701	putative secreted protein
+cdv:CDVA01_1056	CDS	1122723..1123361	hypothetical protein
+cdv:CDVA01_1057	CDS	1123364..1124299	xerD; site-specific tyrosine recombinase XerD
+cdv:CDVA01_1058	CDS	1124491..1125360	putative regulatory protein
+cdv:CDVA01_1059	CDS	1125403..1126221	scpA; segregation and condensation protein A
+cdv:CDVA01_1060	CDS	1126291..1126941	bioD1; dithiobiotin synthetase
+cdv:CDVA01_1061	CDS	complement(1126942..1128438)	putative proton-dependent oligopeptide transporter
+cdv:CDVA01_1062	CDS	1128498..1129811	bioA; adenosylmethionine-8-amino-7-oxononanoatetransaminase
+cdv:CDVA01_1063	CDS	1129824..1130492	bioD; dithiobiotin synthetase
+cdv:CDVA01_1064	CDS	1130609..1132183	putative Na+/H+ antiporter
+cdv:CDVA01_1065	CDS	1132202..1132756	scpB; segregation and condensation protein B
+cdv:CDVA01_1066	CDS	1132860..1133825	putative pseudouridine synthase B
+cdv:CDVA01_1067	CDS	1133827..1134552	cmk; cytidylate kinase
+cdv:CDVA01_1068	CDS	1134549..1136192	engA; GTP-binding protein EngA
+cdv:CDVA01_1069	CDS	1136424..1137809	dcuB; anaerobic C4-dicarboxylate transporter
+cdv:CDVA01_1070	CDS	complement(1137840..1138844)	putative methyltransferase
+cdv:CDVA01_1071	CDS	1138843..1140093	putative membrane protein
+cdv:CDVA01_t028	tRNA	1140198..1140274	tRNA-Pro
+cdv:CDVA01_1072	CDS	complement(1140868..1142055)	hypothetical protein
+cdv:CDVA01_1073	CDS	1142354..1144618	secA2; preprotein translocase subunit SecA
+cdv:CDVA01_1074	CDS	1144785..1145216	odhI; oxoglutarate dehydrogenase inhibitor
+cdv:CDVA01_1075	CDS	1145294..1146064	merR1; MerR-family transcriptional regulator
+cdv:CDVA01_1076	CDS	1146087..1146674	hypothetical protein
+cdv:CDVA01_1077	CDS	1146826..1147386	merR2; MerR-family transcriptional regulator
+cdv:CDVA01_1078	CDS	complement(1147462..1148874)	putative secreted protein
+cdv:CDVA01_1079	CDS	complement(1148906..1149784)	hypothetical protein
+cdv:CDVA01_1080	CDS	complement(1149781..1150833)	putative membrane protein
+cdv:CDVA01_1081	CDS	complement(1150830..1152224)	putative membrane protein
+cdv:CDVA01_1082	CDS	complement(1152249..1153607)	putative RNA helicase
+cdv:CDVA01_1083	CDS	complement(1153709..1155163)	gnd; 6-phosphogluconate dehydrogenase
+cdv:CDVA01_1084	CDS	1155272..1155730	hypothetical protein
+cdv:CDVA01_1085	CDS	complement(1155727..1156827)	magnesium/cobalt transporter CorA
+cdv:CDVA01_1086	CDS	1156834..1157463	hypothetical protein
+cdv:CDVA01_1087	CDS	complement(1157540..1158904)	ndh; NADH dehydrogenase
+cdv:CDVA01_1088	CDS	1159081..1160376	cyclopropane-fatty-acyl-phospholipid synthase
+cdv:CDVA01_1089	CDS	complement(1160391..1161227)	putative oxidoreductase
+cdv:CDVA01_1090	CDS	complement(1161270..1161842)	FAD linked oxidase domain-containing protein
+cdv:CDVA01_1091	CDS	complement(1161839..1162270)	putative oxidoreductase
+cdv:CDVA01_1092	CDS	1162906..1163880	putative sodium-dependent transport membrane protein
+cdv:CDVA01_1093	CDS	complement(1164282..1164464)	hypothetical protein
+cdv:CDVA01_1094	CDS	complement(1164482..1165180)	putative secreted protein
+cdv:CDVA01_1095	CDS	complement(1165355..1165462)	hypothetical protein
+cdv:CDVA01_1096	CDS	1165787..1166176	hypothetical protein
+cdv:CDVA01_1097	CDS	complement(1166254..1167057)	ppm1; putative polyprenol phosphate mannosyl transferase 1
+cdv:CDVA01_1098	CDS	complement(1167089..1168459)	ppm2; polyprenol-phosphate-mannose synthase
+cdv:CDVA01_1099	CDS	complement(1168652..1169182)	fxsA; FxsA
+cdv:CDVA01_1100	CDS	complement(1169221..1172847)	cobN; cobaltochelatase subunit CobN
+cdv:CDVA01_1101	CDS	1173223..1174407	hypothetical protein
+cdv:CDVA01_1102	CDS	1174404..1175054	cobH; precorrin-8X methylmutase
+cdv:CDVA01_1103	CDS	1175051..1176547	cobIJ; putative bifunctional cobalamin biosynthesis protein
+cdv:CDVA01_1104	CDS	complement(1176630..1177361)	cobK; cobalt-precorrin-6x reductase
+cdv:CDVA01_1105	CDS	complement(1177349..1178122)	cobM; precorrin-4 C11-methyltransferase
+cdv:CDVA01_1106	CDS	complement(1178150..1179430)	cobL; precorrin-6Y C5,15-methyltransferase
+cdv:CDVA01_1107	CDS	complement(1179453..1180229)	hypothetical protein
+cdv:CDVA01_1108	CDS	complement(1180226..1181365)	pepE; putative dipeptidase
+cdv:CDVA01_1109	CDS	complement(1181416..1184208)	putative helicase
+cdv:CDVA01_1110	CDS	1184309..1184779	cspR; putative rRNA methylase SpoU class
+cdv:CDVA01_1111	CDS	complement(1184865..1185959)	tatC; twin arginine translocase protein C
+cdv:CDVA01_1112	CDS	complement(1186032..1186298)	tatA; twin arginine translocase protein A
+cdv:CDVA01_1113	CDS	complement(1186333..1187292)	hypothetical protein
+cdv:CDVA01_1114	CDS	complement(1187357..1188334)	hypothetical protein
+cdv:CDVA01_1115	CDS	complement(1188359..1189798)	pafA2; proteasome accessory factor
+cdv:CDVA01_1116	CDS	complement(1189803..1189997)	pup; pupylation protein
+cdv:CDVA01_1117	CDS	complement(1190055..1191581)	pafA1; proteasome accessory factor
+cdv:CDVA01_1118	CDS	complement(1191578..1193107)	ATPase
+cdv:CDVA01_1119	CDS	complement(1193205..1194041)	hypothetical protein
+cdv:CDVA01_1120	CDS	complement(1194048..1195424)	putative aminopeptidase 2
+cdv:CDVA01_1121	CDS	1195469..1196374	hypothetical protein
+cdv:CDVA01_1122	CDS	1196468..1196737	putative virulence-associated protein
+cdv:CDVA01_1123	CDS	complement(1196797..1198449)	fhs; formate-tetrahydrofolate ligase
+cdv:CDVA01_1124	CDS	complement(1198586..1200160)	aspA; aspartate ammonia-lyase
+cdv:CDVA01_1125	CDS	complement(1200435..1201742)	dcuA; anaerobic C4-dicarboxylate transporter
+cdv:CDVA01_1126	CDS	complement(1202103..1202948)	hisG; ATP phosphoribosyltransferase
+cdv:CDVA01_1127	CDS	complement(1203030..1203293)	hisE; phosphoribosyl-ATP pyrophosphatase
+cdv:CDVA01_1128	CDS	complement(1203312..1204007)	putative hydrolase
+cdv:CDVA01_1129	CDS	complement(1204051..1207653)	metH; 5-methyltetrahydrofolate-homocysteinemethyltransferase
+cdv:CDVA01_1130	CDS	complement(1207729..1208124)	hypothetical protein
+cdv:CDVA01_1131	CDS	complement(1208125..1209369)	cysS2; cysteinyl-tRNA synthetase
+cdv:CDVA01_1132	CDS	complement(1209415..1210326)	uppP; undecaprenyl pyrophosphate phosphatase
+cdv:CDVA01_1133	CDS	1210446..1211444	lppL; putative prolipoprotein LppL
+cdv:CDVA01_1134	CDS	1211485..1212600	pyrD; dihydroorotate dehydrogenase 2
+cdv:CDVA01_1135	CDS	complement(1212769..1212882)	hypothetical protein
+cdv:CDVA01_1136	CDS	complement(1213018..1213575)	hypothetical protein
+cdv:CDVA01_t029	tRNA	1213750..1213838	tRNA-Leu
+cdv:CDVA01_1137	CDS	complement(1214030..1214185)	transposase-like protein
+cdv:CDVA01_1138	CDS	complement(1214182..1215408)	transposase-like protein
+cdv:CDVA01_1139	CDS	1216023..1216313	putative short chain dehydrogenase
+cdv:CDVA01_1140	CDS	1216316..1216522	hypothetical protein
+cdv:CDVA01_1141	CDS	complement(1216549..1217292)	thiosulfate sulfurtransferase
+cdv:CDVA01_1142	CDS	complement(1217406..1218509)	arginine/ornithine transport system ATPase
+cdv:CDVA01_1143	CDS	complement(1218596..1220803)	sbm; methylmalonyl-CoA mutase
+cdv:CDVA01_1144	CDS	complement(1220806..1222617)	putative methylmalonyl-CoA mutase small subunit
+cdv:CDVA01_1145	CDS	1222867..1223568	putative membrane protein
+cdv:CDVA01_1146	CDS	1223629..1224195	putative DNA-binding protein
+cdv:CDVA01_1147	CDS	complement(1224280..1225407)	hypothetical protein
+cdv:CDVA01_1148	CDS	complement(1225404..1225883)	hypothetical protein
+cdv:CDVA01_1149	CDS	complement(1225905..1226747)	hypothetical protein
+cdv:CDVA01_1150	CDS	complement(1226846..1226938)	hypothetical protein
+cdv:CDVA01_1151	CDS	complement(1227541..1228674)	hemH; ferrochelatase
+cdv:CDVA01_1152	CDS	complement(1228766..1230484)	rpfI; cell wall-associated hydrolase resuscitation promoting factor interacting protein
+cdv:CDVA01_1153	CDS	1231246..1234050	acn; aconitate hydratase
+cdv:CDVA01_1154	CDS	1234160..1234732	acnR; TetR-famlily transcriptional regulator
+cdv:CDVA01_1155	CDS	1234767..1235486	glutamine amidotransferase
+cdv:CDVA01_1156	CDS	1235575..1235844	hypothetical protein
+cdv:CDVA01_1157	CDS	1235861..1237225	hypothetical protein
+cdv:CDVA01_1158	CDS	complement(1237556..1239187)	uup; ABC transporter ATP-binding protein
+cdv:CDVA01_1159	CDS	complement(1239285..1239713)	nifS; metal-sulfur cluster biosynthetic protein
+cdv:CDVA01_1160	CDS	complement(1239710..1240159)	nifU; putative nitrogen fixation protein NifU-related protein
+cdv:CDVA01_1161	CDS	complement(1240163..1241443)	sufS; cysteine desulfurase
+cdv:CDVA01_1162	CDS	complement(1241443..1242201)	ABC transporter involved in Fe-S cluster assembly ATP-binding protein
+cdv:CDVA01_1163	CDS	complement(1242230..1243405)	sufD; ABC transporter involved in Fe-S cluster assembly permease protein
+cdv:CDVA01_1164	CDS	complement(1243408..1244862)	sufB; ABC transporter involved in Fe-S cluster assembly permease protein
+cdv:CDVA01_1165	CDS	complement(1244859..1245515)	sufR; DeoR family transcriptional regulator
+cdv:CDVA01_1166	CDS	1246022..1247911	putative membrane protein
+cdv:CDVA01_1167	CDS	1247936..1248889	spermidine/putrescine import ATP-binding protein potA
+cdv:CDVA01_1168	CDS	1248892..1249689	putative membrane protein
+cdv:CDVA01_1169	CDS	1249770..1250708	ctaA; cytochrome aa3 controlling protein
+cdv:CDVA01_1170	CDS	complement(1250826..1251773)	ctaB; protoheme IX farnesyltransferase
+cdv:CDVA01_1171	CDS	1252136..1254238	tkt; transketolase
+cdv:CDVA01_1172	CDS	1254362..1255444	tal; transaldolase
+cdv:CDVA01_1173	CDS	1255527..1257155	zwf; glucose-6-phosphate 1-dehydrogenase
+cdv:CDVA01_1174	CDS	1257180..1258139	opcA; oxppcycle protein OpcA
+cdv:CDVA01_1175	CDS	1258165..1258881	pgl; 6-phosphogluconolactonase
+cdv:CDVA01_1176	CDS	complement(1258949..1259182)	secG; preprotein translocase subunit SecG
+cdv:CDVA01_1177	CDS	complement(1259356..1260138)	tpi; triosephosphate isomerase
+cdv:CDVA01_1178	CDS	complement(1260250..1261467)	pgk; phosphoglycerate kinase
+cdv:CDVA01_1179	CDS	complement(1261598..1262602)	gapA; glyceraldehyde-3-phosphate dehydrogenase
+cdv:CDVA01_1180	CDS	complement(1262976..1263962)	hypothetical protein
+cdv:CDVA01_1181	CDS	complement(1264056..1265027)	hypothetical protein
+cdv:CDVA01_1182	CDS	complement(1265046..1265945)	hypothetical protein
+cdv:CDVA01_1183	CDS	complement(1265951..1268014)	uvrC; excinuclease ABC subunit C
+cdv:CDVA01_1184	CDS	complement(1268024..1268584)	hypothetical protein
+cdv:CDVA01_1185	CDS	complement(1268723..1269190)	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+cdv:CDVA01_1186	CDS	complement(1269191..1270507)	ribA; bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+cdv:CDVA01_1187	CDS	complement(1270544..1271152)	ribE; riboflavin synthase subunit alpha
+cdv:CDVA01_1188	CDS	complement(1271210..1272214)	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase
+cdv:CDVA01_1189	CDS	complement(1272309..1272983)	rpe; ribulose-phosphate 3-epimerase
+cdv:CDVA01_1190	CDS	complement(1273037..1274494)	hypothetical protein
+cdv:CDVA01_1191	CDS	complement(1274491..1275426)	fxbA; methionyl-tRNA formyltransferase
+cdv:CDVA01_1192	CDS	complement(1275463..1275972)	defB; peptide deformylase
+cdv:CDVA01_1193	CDS	complement(1276052..1278079)	priA; primosome assembly protein
+cdv:CDVA01_1194	CDS	complement(1278098..1279330)	metK; S-adenosylmethionine synthetase
+cdv:CDVA01_1195	CDS	complement(1279471..1280715)	dfp; bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+cdv:CDVA01_1196	CDS	complement(1280817..1281095)	rpoZ; DNA-directed RNA polymerase subunit omega
+cdv:CDVA01_1197	CDS	complement(1281169..1281744)	gmk; guanylate kinase
+cdv:CDVA01_1198	CDS	complement(1281748..1282071)	cihF; corynebacterial integration host factor
+cdv:CDVA01_1199	CDS	complement(1282420..1283268)	pyrF; orotidine 5'-phosphate decarboxylase
+cdv:CDVA01_1200	CDS	complement(1283265..1286621)	carB; carbamoyl phosphate synthase large subunit
+cdv:CDVA01_1201	CDS	complement(1286643..1287782)	carA; carbamoyl phosphate synthase small subunit
+cdv:CDVA01_1202	CDS	complement(1287938..1289284)	dihydroorotase
+cdv:CDVA01_1203	CDS	complement(1289313..1290254)	pyrB; aspartate carbamoyltransferase catalytic subunit
+cdv:CDVA01_1204	CDS	complement(1290254..1290826)	pyrR; pyrimidine regulatory protein
+cdv:CDVA01_1205	CDS	1291091..1292452	hypothetical protein
+cdv:CDVA01_1206	CDS	complement(1293358..1293957)	nusB; N utilization substance protein B
+cdv:CDVA01_1207	CDS	complement(1293975..1294538)	efp; elongation factor P
+cdv:CDVA01_1208	CDS	complement(1294640..1295731)	pepQ; putative metallopeptidase
+cdv:CDVA01_1209	CDS	complement(1295763..1296203)	aroD; 3-dehydroquinate dehydratase
+cdv:CDVA01_1210	CDS	complement(1296204..1297283)	aroB; 3-dehydroquinate synthase
+cdv:CDVA01_1211	CDS	complement(1297330..1297878)	aroK; shikimate kinase
+cdv:CDVA01_1212	CDS	complement(1297886..1299097)	aroC; chorismate synthase
+cdv:CDVA01_1213	CDS	complement(1299688..1300530)	aroE2; shikimate 5-dehydrogenase
+cdv:CDVA01_1214	CDS	complement(1300652..1301800)	putative secreted protein
+cdv:CDVA01_1215	CDS	complement(1301913..1302428)	holliday junction resolvase-like protein
+cdv:CDVA01_1216	CDS	complement(1302694..1305396)	alaS; Alanyl-tRNA synthetase
+cdv:CDVA01_1217	CDS	complement(1305522..1306880)	recombination factor protein RarA
+cdv:CDVA01_1218	CDS	complement(1306917..1308266)	hypothetical protein
+cdv:CDVA01_1219	CDS	complement(1308302..1310107)	aspS; aspartyl-tRNA synthetase
+cdv:CDVA01_1220	CDS	1310329..1311213	hypothetical protein
+cdv:CDVA01_1221	CDS	complement(1311295..1312863)	hypothetical protein
+cdv:CDVA01_1222	CDS	complement(1312960..1313964)	hypothetical protein
+cdv:CDVA01_1223	CDS	complement(1314028..1316049)	putative membrane protein
+cdv:CDVA01_1224	CDS	complement(1316068..1316802)	hypothetical protein
+cdv:CDVA01_1225	CDS	1316965..1317555	TetR family transcriptional regulator
+cdv:CDVA01_1226	CDS	1317600..1318988	sdaB; L-serine dehydratase
+cdv:CDVA01_1227	CDS	complement(1319060..1320331)	hisS; histidyl-tRNA synthetase
+cdv:CDVA01_1228	CDS	complement(1320372..1321028)	hypothetical protein
+cdv:CDVA01_1229	CDS	complement(1321038..1321535)	tpx; thiol peroxidase
+cdv:CDVA01_1230	CDS	1321679..1322521	ppiB; peptidyl-prolyl cis-trans isomerase B
+cdv:CDVA01_1231	CDS	1322679..1322960	putative secreted protein
+cdv:CDVA01_1232	CDS	complement(1323150..1324340)	transposase-like protein
+cdv:CDVA01_1233	CDS	1324556..1325905	transposase-like protein
+cdv:CDVA01_1234	CDS	complement(1326109..1326264)	transposase-like protein
+cdv:CDVA01_1235	CDS	complement(1326261..1327487)	transposase-like protein
+cdv:CDVA01_1236	CDS	complement(1327581..1328051)	transposase-like protein
+cdv:CDVA01_1237	CDS	complement(1328237..1330516)	rel; GTP pyrophosphokinase
+cdv:CDVA01_1238	CDS	complement(1330575..1331129)	apt; adenine phosphoribosyltransferase
+cdv:CDVA01_1239	CDS	complement(1331185..1332936)	hypothetical protein
+cdv:CDVA01_1240	CDS	complement(1333006..1334118)	secF; preprotein translocase subunit SecF
+cdv:CDVA01_1241	CDS	complement(1334105..1335898)	secD; preprotein translocase subunit SecD
+cdv:CDVA01_1242	CDS	complement(1336129..1336422)	hypothetical protein
+cdv:CDVA01_1243	CDS	complement(1336426..1337514)	ruvB; holliday junction DNA helicase RuvB
+cdv:CDVA01_1244	CDS	complement(1337532..1338143)	ruvA; holliday junction DNA helicase RuvA
+cdv:CDVA01_1245	CDS	complement(1338182..1338721)	ruvC; holliday junction resolvase
+cdv:CDVA01_1246	CDS	complement(1338856..1339608)	hypothetical protein
+cdv:CDVA01_1247	CDS	complement(1339623..1339745)	hypothetical protein
+cdv:CDVA01_1248	CDS	complement(1339846..1340700)	tesB; acyl-CoA thioesterase II
+cdv:CDVA01_1249	CDS	1340856..1342145	putative membrane protein
+cdv:CDVA01_1250	CDS	1342285..1342431	transposase-like protein
+cdv:CDVA01_1251	CDS	1342484..1342597	hypothetical protein
+cdv:CDVA01_1252	CDS	1342820..1343242	transposase-like protein
+cdv:CDVA01_1253	CDS	1343261..1343896	integrase catalytic subunit
+cdv:CDVA01_1254	CDS	1343893..1344699	integrase catalytic subunit
+cdv:CDVA01_1255	CDS	complement(1345039..1345275)	hypothetical protein
+cdv:CDVA01_1256	CDS	complement(1345638..1348547)	hypothetical protein
+cdv:CDVA01_1257	CDS	complement(1349274..1349759)	hypothetical protein
+cdv:CDVA01_1258	CDS	complement(1350149..1351135)	hypothetical protein
+cdv:CDVA01_1259	CDS	1351552..1352256	ccdA2; cytochrome c-type biogenesis protein
+cdv:CDVA01_1260	CDS	complement(1352737..1353210)	putative resolvase
+cdv:CDVA01_1261	CDS	complement(1353210..1353359)	hypothetical protein
+cdv:CDVA01_1262	CDS	complement(1353411..1354082)	transposase-like protein
+cdv:CDVA01_1263	CDS	complement(1354103..1354201)	hypothetical protein
+cdv:CDVA01_1264	CDS	complement(1354201..1354308)	hypothetical protein
+cdv:CDVA01_1265	CDS	complement(1354459..1354767)	transposase-like protein
+cdv:CDVA01_1266	CDS	1354925..1355683	6-carboxyhexanoate-CoA ligase
+cdv:CDVA01_1267	CDS	1355667..1356857	putative aminotransferase biotin synthesis related protein
+cdv:CDVA01_1268	CDS	complement(1356854..1357315)	putative secreted protein
+cdv:CDVA01_1269	CDS	complement(1357327..1358427)	pimA; putative glycosyltransferase
+cdv:CDVA01_1270	CDS	complement(1358445..1359386)	lipid A biosynthesis lauroyl acyltransferase
+cdv:CDVA01_1271	CDS	complement(1359413..1360066)	pgsA1; putative phosphatidyltransferase
+cdv:CDVA01_1272	CDS	complement(1360059..1360643)	hypothetical protein
+cdv:CDVA01_1273	CDS	complement(1360827..1362890)	thrS; threonyl-tRNA synthetase
+cdv:CDVA01_1274	CDS	complement(1363079..1364350)	ycdC; putative iron-dependent peroxidase
+cdv:CDVA01_1275	CDS	complement(1364393..1365007)	ycdB; putative secreted protein
+cdv:CDVA01_1276	CDS	complement(1365014..1365658)	hypothetical protein
+cdv:CDVA01_t030	tRNA	complement(1365869..1365940)	tRNA-Val
+cdv:CDVA01_t031	tRNA	1366215..1366290	tRNA-Gly
+cdv:CDVA01_t032	tRNA	1366305..1366379	tRNA-Val
+cdv:CDVA01_t033	tRNA	1366410..1366485	tRNA-Gly
+cdv:CDVA01_1277	CDS	1366537..1367334	hypothetical protein
+cdv:CDVA01_1278	CDS	1367392..1367802	msrB; peptide methionine sulfoxide reductase
+cdv:CDVA01_1279	CDS	complement(1367881..1368585)	hypothetical protein
+cdv:CDVA01_1280	CDS	1368792..1369391	hypothetical protein
+cdv:CDVA01_1281	CDS	1369410..1370633	rnd; ribonuclease D
+cdv:CDVA01_1282	CDS	complement(1370693..1372624)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+cdv:CDVA01_1283	CDS	complement(1372812..1374074)	hypothetical protein
+cdv:CDVA01_1284	CDS	complement(1374374..1375111)	hypothetical protein
+cdv:CDVA01_1285	CDS	complement(1375170..1375628)	dut2; deoxyuridine 5'-triphosphate nucleotidohydrolase
+cdv:CDVA01_1286	CDS	1375771..1376283	hypothetical protein
+cdv:CDVA01_1287	CDS	complement(1376319..1376612)	hypothetical protein
+cdv:CDVA01_1288	CDS	complement(1376805..1377689)	suhB; myo-inositol-1 or 4-monophosphatase
+cdv:CDVA01_1289	CDS	1377841..1378602	ppgK; polyphosphate glucokinase
+cdv:CDVA01_1290	CDS	1379067..1380587	RNA polymerase sigma factor A
+cdv:CDVA01_1291	CDS	complement(1380920..1381393)	putative membrane protein
+cdv:CDVA01_1292	CDS	complement(1381502..1383214)	hypothetical protein
+cdv:CDVA01_1293	CDS	complement(1383211..1383450)	hypothetical protein
+cdv:CDVA01_1294	CDS	1383510..1383998	hypothetical protein
+cdv:CDVA01_1295	CDS	1384041..1385576	putative transferase
+cdv:CDVA01_1296	CDS	1385587..1386024	D-tyrosyl-tRNA Tyr deacylase
+cdv:CDVA01_1297	CDS	1386108..1387097	sigB; RNA polymerase sigma factor B
+cdv:CDVA01_1298	CDS	1387322..1388002	dtxR; diphtheria toxin repressor
+cdv:CDVA01_1299	CDS	1388025..1389011	galE; UDP-glucose 4-epimerase
+cdv:CDVA01_1300	CDS	complement(1389061..1390104)	hypothetical protein
+cdv:CDVA01_1301	CDS	1390357..1391298	pac; proteasome assembly chaperone
+cdv:CDVA01_1302	CDS	1391331..1393865	putative helicase
+cdv:CDVA01_1303	CDS	complement(1393939..1394463)	ahpD; alkyl hydroperoxide reductase subunit
+cdv:CDVA01_1304	CDS	complement(1394466..1395062)	ahpC; alkyl hydroperoxide reductase subunit
+cdv:CDVA01_1305	CDS	1395288..1396226	oxyR; LysR-family transcriptional regulator
+cdv:CDVA01_1306	CDS	complement(1396282..1397247)	putative membrane protein
+cdv:CDVA01_1307	CDS	1397384..1401328	hrpA; ATP-dependent helicase
+cdv:CDVA01_1308	CDS	complement(1401391..1401846)	nrdR; transcriptional regulator NrdR
+cdv:CDVA01_1309	CDS	complement(1401944..1402279)	divS; cell wall hydrolase interfering with FtsZ ring assembly
+cdv:CDVA01_1310	CDS	1402621..1403334	lexA; LexA repressor
+cdv:CDVA01_1311	CDS	1403464..1403571	hypothetical protein
+cdv:CDVA01_1312	CDS	1403657..1404433	sugR; DeoR-family transcriptional regulator
+cdv:CDVA01_1313	CDS	complement(1404527..1406221)	ptsI; phosphoenolpyruvate:sugar phosphotransferase system enzyme I (PTS system)
+cdv:CDVA01_1314	CDS	1406489..1407292	fruR; DeoR-family transcriptional regulator
+cdv:CDVA01_1315	CDS	1407289..1408254	fruK; phosphofructokinase
+cdv:CDVA01_1316	gene	1408907..1409985	ptsF; pseudogene
+cdv:CDVA01_1318	CDS	1410597..1410863	ptsH; phosphocarrier protein Hpr
+cdv:CDVA01_1319	CDS	1411028..1412146	putative oxidoreductase
+cdv:CDVA01_1320	CDS	1412205..1412870	putative oxidoreductase
+cdv:CDVA01_1321	CDS	complement(1412932..1414218)	putative transport membrane protein
+cdv:CDVA01_1322	CDS	complement(1414301..1415911)	hflX; putative GTP-binding protein
+cdv:CDVA01_1323	CDS	1416058..1416813	hypothetical protein
+cdv:CDVA01_1324	CDS	1416888..1417412	hypothetical protein
+cdv:CDVA01_1325	CDS	complement(1417421..1418314)	dapF; Diaminopimelate epimerase
+cdv:CDVA01_1326	CDS	complement(1418311..1419219)	tRNA delta 2-isopentenylpyrophosphate transferase
+cdv:CDVA01_1327	CDS	complement(1419282..1419977)	hypothetical protein
+cdv:CDVA01_1328	CDS	1420175..1421503	hypothetical protein
+cdv:CDVA01_1329	CDS	1421592..1422716	hypothetical protein
+cdv:CDVA01_1330	CDS	complement(1422725..1423363)	putative membrane protein
+cdv:CDVA01_1331	CDS	complement(1423413..1425044)	miaB; 2-methylthioadenine synthase
+cdv:CDVA01_1332	CDS	complement(1425120..1425701)	recombination regulator RecX
+cdv:CDVA01_1333	CDS	complement(1425739..1426857)	recA; recombinase A
+cdv:CDVA01_1334	CDS	complement(1427113..1427304)	hypothetical protein
+cdv:CDVA01_1335	CDS	1427391..1427975	bioY; BioY family protein
+cdv:CDVA01_1336	CDS	1428039..1428731	bioM; methionine ABC transport system ATP-binding protein
+cdv:CDVA01_1337	CDS	1428728..1429342	bioN; methionine ABC transport system permease protein
+cdv:CDVA01_1338	CDS	complement(1429398..1430237)	hypothetical protein
+cdv:CDVA01_1339	CDS	complement(1430368..1430697)	clgR; HTH3-family transcriptional regulator
+cdv:CDVA01_1340	CDS	complement(1430786..1431283)	putative competence-damage inducible protein
+cdv:CDVA01_1341	CDS	complement(1431312..1431902)	pgsA2; putative phosphatidyltransferase
+cdv:CDVA01_1342	CDS	1431998..1432291	hypothetical protein
+cdv:CDVA01_1343	CDS	complement(1432374..1433381)	putative membrane protein
+cdv:CDVA01_1344	CDS	complement(1433662..1436715)	ftsK; cell division protein FtsK
+cdv:CDVA01_1345	CDS	complement(1436791..1437456)	hypothetical protein
+cdv:CDVA01_1346	CDS	complement(1437542..1439596)	hypothetical protein
+cdv:CDVA01_1347	CDS	complement(1439599..1440504)	dapA1; dihydrodipicolinate synthase
+cdv:CDVA01_1348	CDS	complement(1440586..1441344)	thyX2; FAD-dependent thymidylate synthase
+cdv:CDVA01_1349	CDS	complement(1441344..1442090)	dapB; dihydrodipicolinate reductase
+cdv:CDVA01_1350	CDS	complement(1442270..1444537)	pnp; polyribonucleotide nucleotidyltransferase
+cdv:CDVA01_1351	CDS	complement(1444730..1444999)	rpsO; 30S ribosomal protein S15
+cdv:CDVA01_1352	CDS	complement(1445171..1446130)	putative nucleoside hydrolase
+cdv:CDVA01_1353	CDS	complement(1446168..1447139)	bifunctional riboflavin kinase/FMN adenylyltransferase
+cdv:CDVA01_1354	CDS	1447162..1448064	truB; tRNA pseudouridine synthase B
+cdv:CDVA01_1355	CDS	complement(1448061..1448753)	pptA; phosphopantheteinyl transferase, iron-chelating complex subunit
+cdv:CDVA01_1356	CDS	complement(1448750..1449556)	hypothetical protein
+cdv:CDVA01_1357	CDS	complement(1449603..1450922)	dinF; DNA-damage-inducible protein F
+cdv:CDVA01_1358	CDS	complement(1451295..1451702)	hypothetical protein
+cdv:CDVA01_1359	CDS	complement(1451791..1452234)	rbfA; ribosome-binding factor A
+cdv:CDVA01_1360	CDS	complement(1452374..1455235)	infB; translation initiation factor IF-2
+cdv:CDVA01_1361	CDS	complement(1455346..1455678)	hypothetical protein
+cdv:CDVA01_1362	CDS	complement(1455934..1456932)	nusA; transcription elongation factor NusA
+cdv:CDVA01_1363	CDS	complement(1456929..1457483)	hypothetical protein
+cdv:CDVA01_1364	CDS	1457535..1458443	putative secreted protein
+cdv:CDVA01_1365	CDS	complement(1458522..1460279)	proS; prolyl-tRNA synthetase
+cdv:CDVA01_1366	CDS	1460311..1461057	hypothetical protein
+cdv:CDVA01_1367	CDS	complement(1461077..1461901)	putative uroporphyrinogen III methyltransferase
+cdv:CDVA01_1368	CDS	1461900..1463246	hypothetical protein
+cdv:CDVA01_1369	CDS	complement(1463250..1464374)	zrg; low-affinity zinc uptake protein
+cdv:CDVA01_1370	CDS	complement(1464394..1464903)	methylated DNA-protein cysteine methyltransferase
+cdv:CDVA01_1371	CDS	complement(1464893..1466272)	cobyrinic acid a,c-diamide synthase
+cdv:CDVA01_1372	CDS	complement(1466266..1466886)	cobIyrinic acid a,c-diamide adenosyltransferase
+cdv:CDVA01_1373	CDS	complement(1467010..1467822)	chlI1; putative magnesium chelatase
+cdv:CDVA01_1374	CDS	complement(1467776..1468861)	chlI2; magnesium chelatase subunit D
+cdv:CDVA01_1375	CDS	complement(1469059..1470558)	mqo; malate:quinone oxidoreductase
+cdv:CDVA01_1376	CDS	1470935..1471948	hypothetical protein
+cdv:CDVA01_1377	CDS	1472046..1473437	mtr; mycothione reductase
+cdv:CDVA01_1378	CDS	complement(1473495..1474934)	cobQ; cobyric acid synthase
+cdv:CDVA01_1379	CDS	complement(1474997..1475881)	mapB; methionine aminopeptidase
+cdv:CDVA01_1380	CDS	complement(1475928..1477784)	pbp2B; putative secreted penicillin-binding protein 2
+cdv:CDVA01_1381	CDS	complement(1477901..1479076)	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+cdv:CDVA01_1382	CDS	complement(1479182..1480396)	hypothetical protein
+cdv:CDVA01_1383	CDS	complement(1480441..1481604)	ispC; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+cdv:CDVA01_1384	CDS	1481842..1482360	hypothetical protein
+cdv:CDVA01_1385	CDS	complement(1482439..1483545)	hypothetical protein
+cdv:CDVA01_1386	CDS	1483706..1484098	hypothetical protein
+cdv:CDVA01_1387	CDS	complement(1484161..1485039)	cdsA; phosphatidate cytidylyltransferase
+cdv:CDVA01_1388	CDS	complement(1485163..1485720)	frr; ribosome recycling factor
+cdv:CDVA01_1389	CDS	complement(1485792..1486523)	pyrH; uridylate kinase
+cdv:CDVA01_1390	CDS	complement(1486744..1487571)	tsf; elongation factor Ts
+cdv:CDVA01_1391	CDS	complement(1487852..1488652)	rpsB; 30S ribosomal protein S2
+cdv:CDVA01_1392	CDS	1489031..1489552	putative secreted protein
+cdv:CDVA01_1393	CDS	complement(1489567..1490475)	xerC2; tyrosine recombinase xerC
+cdv:CDVA01_1394	CDS	complement(1490742..1491893)	hypothetical protein
+cdv:CDVA01_1395	CDS	complement(1491890..1493440)	hypothetical protein
+cdv:CDVA01_1396	CDS	complement(1493427..1493954)	hypothetical protein
+cdv:CDVA01_1397	CDS	complement(1494026..1494331)	hypothetical protein
+cdv:CDVA01_1398	CDS	complement(1494344..1495033)	rnhB; ribonuclease HII
+cdv:CDVA01_1399	CDS	complement(1495030..1495950)	lepB; signal peptidase I
+cdv:CDVA01_1400	CDS	complement(1496504..1497391)	chtB; hemin transporter associated protein
+cdv:CDVA01_1401	CDS	complement(1497609..1499918)	chtA; hemin transporter associated protein
+cdv:CDVA01_1402	CDS	complement(1500361..1500597)	putative secreted protein
+cdv:CDVA01_1403	CDS	complement(1501501..1501842)	rplS; 50S ribosomal protein L19
+cdv:CDVA01_1404	CDS	complement(1502016..1504292)	putative transcriptional accessory protein
+cdv:CDVA01_1405	CDS	complement(1504374..1504490)	hypothetical protein
+cdv:CDVA01_1406	CDS	complement(1504500..1505378)	trmD; tRNA guanine-N 1-methyltransferase
+cdv:CDVA01_1407	CDS	complement(1505378..1505878)	rimM; 16S rRNA-processing protein RimM
+cdv:CDVA01_1408	CDS	complement(1506008..1506481)	rpsP; 30S ribosomal protein S16
+cdv:CDVA01_1409	CDS	complement(1506715..1508331)	srp; signal recognition particle protein
+cdv:CDVA01_1410	CDS	complement(1508441..1510594)	glnD; PII uridylyl-transferase
+cdv:CDVA01_1411	CDS	complement(1510606..1510944)	glnK; nitrogen regulatory protein PII
+cdv:CDVA01_1412	CDS	complement(1511101..1511790)	amt; ammonium transporter
+cdv:CDVA01_1413	CDS	complement(1511919..1513469)	ftsY; cell division protein FtsY
+cdv:CDVA01_1414	CDS	complement(1513544..1517104)	hypothetical protein
+cdv:CDVA01_1415	CDS	complement(1517209..1520694)	smc; putative chromosome partition protein
+cdv:CDVA01_1416	CDS	complement(1520719..1521006)	putative acylphosphatase
+cdv:CDVA01_1417	CDS	complement(1521006..1522472)	putative amino acid carrier protein
+cdv:CDVA01_1418	CDS	complement(1522572..1523462)	mutM; formamidopyrimidine-DNA glycosylase
+cdv:CDVA01_1419	CDS	complement(1523480..1524229)	rnc; ribonuclease III
+cdv:CDVA01_1420	CDS	complement(1524226..1524756)	hypothetical protein
+cdv:CDVA01_1421	CDS	complement(1524797..1525519)	hypothetical protein
+cdv:CDVA01_1422	CDS	complement(1525679..1527025)	gdh; glutamate dehydrogenase
+cdv:CDVA01_1423	CDS	1527442..1528608	putative glycerate kinase
+cdv:CDVA01_1424	CDS	complement(1528578..1529006)	hypothetical protein
+cdv:CDVA01_1425	CDS	1529038..1530366	hypothetical protein
+cdv:CDVA01_1426	CDS	1530410..1531714	amiC; Metal-dependentamidase/aminoacylase/carboxypeptidase
+cdv:CDVA01_1427	CDS	1531837..1534266	glgP; glycogen phosphorylase
+cdv:CDVA01_1428	CDS	complement(1534332..1535753)	pyk; pyruvate kinase
+cdv:CDVA01_1429	CDS	complement(1535963..1536814)	lgt; prolipoprotein diacylglyceryl transferase
+cdv:CDVA01_1430	CDS	complement(1536885..1537691)	trpC2; indole-3-glycerol phosphate synthase
+cdv:CDVA01_1431	CDS	complement(1537810..1538439)	putative membrane protein
+cdv:CDVA01_1432	CDS	complement(1538486..1538836)	hisI; phosphoribosyl-AMP cyclohydrolase
+cdv:CDVA01_1433	CDS	complement(1538858..1539634)	hisF; imidazole glycerol phosphate synthase subunit HisF
+cdv:CDVA01_1434	CDS	complement(1539725..1540510)	impA; inositol monophosphate phosphatase
+cdv:CDVA01_1435	CDS	complement(1540507..1541262)	hisA; 1-5-phosphoribosyl-5-5-phosphoribosylamino methylideneamino imidazole-4-carboxamide isomerase
+cdv:CDVA01_1436	CDS	complement(1541333..1541965)	hisH; imidazole glycerol phosphate synthase subunit HisH
+cdv:CDVA01_1437	CDS	complement(1542032..1543444)	putative transport membrane protein
+cdv:CDVA01_1438	CDS	complement(1543606..1543821)	putative secreted protein
+cdv:CDVA01_1439	CDS	complement(1543824..1544432)	hisB; imidazoleglycerol-phosphate dehydratase
+cdv:CDVA01_1440	CDS	complement(1544514..1545614)	hisC; histidinol-phosphate aminotransferase
+cdv:CDVA01_1441	CDS	complement(1545653..1546984)	hisD; histidinol dehydrogenase
+cdv:CDVA01_1442	CDS	1547336..1548382	hypothetical protein
+cdv:CDVA01_1443	CDS	complement(1548386..1548946)	putative membrane protein
+cdv:CDVA01_1444	CDS	complement(1549121..1549783)	putative secreted protein
+cdv:CDVA01_1445	CDS	1550008..1550553	bioQ; TetR-family transcriptional regulator
+cdv:CDVA01_1446	CDS	1550575..1552782	glgX; glycogen operon protein
+cdv:CDVA01_1447	CDS	1552918..1554264	putative DNA polymerase III epsilon subunit
+cdv:CDVA01_1448	CDS	1554399..1555016	hypothetical protein
+cdv:CDVA01_1449	CDS	1555100..1556119	hypothetical protein
+cdv:CDVA01_1450	CDS	complement(1556382..1556759)	putative RNA-binding heat shock protein
+cdv:CDVA01_1451	CDS	complement(1556765..1556995)	putative secreted protein
+cdv:CDVA01_1452	CDS	complement(1557021..1557662)	hypothetical protein
+cdv:CDVA01_1453	CDS	complement(1557686..1558984)	ilvA; threonine dehydratase
+cdv:CDVA01_1454	CDS	complement(1559027..1562587)	dnaE; DNA polymerase III subunit alpha
+cdv:CDVA01_1455	CDS	1562710..1563609	rarD; putative RarD membrane protein
+cdv:CDVA01_1456	CDS	complement(1563583..1564128)	putative secreted protein
+cdv:CDVA01_1457	CDS	complement(1564136..1565062)	rluC; putative pseudouridine synthase
+cdv:CDVA01_1458	CDS	complement(1565059..1565514)	lspA; putative lipoprotein signal peptidase
+cdv:CDVA01_1459	CDS	1565644..1566609	putative secreted protein
+cdv:CDVA01_1460	CDS	complement(1566698..1567318)	putative secreted protein
+cdv:CDVA01_1461	CDS	1567495..1568436	ansA; L-asparaginase
+cdv:CDVA01_1462	CDS	complement(1568437..1569792)	dinX; DNA polymerase IV
+cdv:CDVA01_1463	CDS	complement(1569918..1573076)	ileS; isoleucyl-tRNA synthetase
+cdv:CDVA01_1464	CDS	complement(1573474..1574475)	ag84; antigen 84
+cdv:CDVA01_1465	CDS	complement(1574816..1575103)	putative membrane protein
+cdv:CDVA01_1466	CDS	complement(1575300..1575749)	sepF; cell division protein SepF
+cdv:CDVA01_1467	CDS	complement(1575859..1576599)	hypothetical protein
+cdv:CDVA01_1468	CDS	complement(1576599..1577834)	ftsZ; cell division protein FtsZ
+cdv:CDVA01_1469	CDS	complement(1578226..1578882)	putative cell division protein precursor
+cdv:CDVA01_1470	CDS	complement(1578879..1580312)	murC; UDP-N-acetylmuramate-L-alanine ligase
+cdv:CDVA01_1471	CDS	complement(1580330..1581409)	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+cdv:CDVA01_1472	CDS	complement(1581411..1582919)	ftsW2; cell division protein
+cdv:CDVA01_1473	CDS	complement(1582946..1584388)	murD; UDP-N-acetylmuramoyl-L-alanyl-D-glutamatesynthetase
+cdv:CDVA01_1474	CDS	complement(1584393..1585493)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+cdv:CDVA01_1475	CDS	complement(1585519..1587009)	murF; UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diamino pimelate-D-alanyl-D-alanyl ligase
+cdv:CDVA01_1476	CDS	complement(1587063..1588604)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase
+cdv:CDVA01_1477	CDS	complement(1588712..1590736)	pbp2C; putative penicillin-binding protein 2
+cdv:CDVA01_1478	CDS	complement(1590767..1591540)	hypothetical protein
+cdv:CDVA01_1479	CDS	complement(1591597..1592616)	mraW; S-adenosyl-methyltransferase MraW
+cdv:CDVA01_1480	CDS	complement(1592799..1593230)	mraZ; cell division protein MraZ
+cdv:CDVA01_1481	CDS	complement(1593778..1594170)	hypothetical protein
+cdv:CDVA01_1482	CDS	complement(1594291..1594845)	hypothetical protein
+cdv:CDVA01_1483	CDS	1594909..1595487	hypothetical protein
+cdv:CDVA01_1484	CDS	complement(1595484..1596467)	metF; 5,10-methylenetetrahydrofolate reductase
+cdv:CDVA01_1485	CDS	1596620..1597795	crtE; putative polyprenyl synthase
+cdv:CDVA01_1486	CDS	1597817..1599304	putative membrane protein
+cdv:CDVA01_1487	CDS	complement(1599305..1599673)	hypothetical protein
+cdv:CDVA01_1488	CDS	1599775..1601967	pknL; serine/threonine-protein kinase
+cdv:CDVA01_1489	CDS	complement(1602035..1603423)	aroG; phospho-2-dehydro-3-deoxyheptonate aldolase
+cdv:CDVA01_1490	CDS	complement(1603537..1604046)	hypothetical protein
+cdv:CDVA01_1491	CDS	complement(1604113..1604838)	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+cdv:CDVA01_1492	CDS	complement(1604890..1605843)	glk; glucose kinase
+cdv:CDVA01_1493	CDS	complement(1605974..1607107)	pimB'; putative glycosyl transferase
+cdv:CDVA01_1494	CDS	complement(1607128..1608171)	putative secreted protein
+cdv:CDVA01_1495	CDS	complement(1608311..1608985)	hypothetical protein
+cdv:CDVA01_1496	CDS	complement(1609357..1609452)	hypothetical protein
+cdv:CDVA01_1497	CDS	complement(1609705..1611327)	qcrB; ubiquinol-cytochrome C reductase cytochrome B subunit
+cdv:CDVA01_1498	CDS	complement(1611324..1612544)	qcrA; ubiquinol-cytochrome C reductase iron-sulfur protein
+cdv:CDVA01_1499	CDS	complement(1612541..1613434)	qcrC; ubiquinol-cytochrome C reductase cytochrome C subunit
+cdv:CDVA01_1500	CDS	complement(1613520..1614110)	ctaE; cytochrome C oxidase subunit III
+cdv:CDVA01_1501	CDS	complement(1614675..1615106)	ctaF; cytochrome C oxidase subunit
+cdv:CDVA01_1502	CDS	complement(1615130..1616218)	ctaC; cytochrome C oxidase subunit II
+cdv:CDVA01_1503	CDS	1616830..1618566	ltsA; putative asparagine synthetase
+cdv:CDVA01_1504	CDS	complement(1618658..1619002)	hypothetical protein
+cdv:CDVA01_1505	CDS	1619221..1619895	hypothetical protein
+cdv:CDVA01_1506	CDS	1619896..1620444	cobU; putative cobinamide kinase
+cdv:CDVA01_1507	CDS	1620494..1621564	cobT; nicotinate-nucleotide-dimethylbenzimidazolephosphoribosyltransferase
+cdv:CDVA01_1508	CDS	1621572..1622396	cobS; cobalamin synthase
+cdv:CDVA01_1509	CDS	complement(1622473..1623615)	ilvE; branched-chain amino acid aminotransferase
+cdv:CDVA01_1510	CDS	1623689..1625191	pepB; leucyl aminopeptidase
+cdv:CDVA01_1511	CDS	complement(1625255..1625650)	putative oxidoreductase
+cdv:CDVA01_1512	CDS	1625776..1627389	sucB; dihydrolipoamide acetyltransferase
+cdv:CDVA01_1513	CDS	1627506..1628258	lipB; lipoyltransferase
+cdv:CDVA01_1514	CDS	1628311..1629399	lipA; lipoyl synthase
+cdv:CDVA01_1515	CDS	1629462..1630235	hypothetical protein
+cdv:CDVA01_1516	CDS	complement(1630282..1630755)	putative membrane protein
+cdv:CDVA01_1517	CDS	1630952..1632388	glnA1; glutamine synthetase I
+cdv:CDVA01_1518	CDS	complement(1632443..1633315)	putative secreted protein
+cdv:CDVA01_1519	CDS	complement(1633768..1633977)	hypothetical protein
+cdv:CDVA01_1520	CDS	complement(1634090..1635442)	putative membrane protein
+cdv:CDVA01_1521	CDS	1635574..1636257	GntR family transcriptional regulator
+cdv:CDVA01_1522	CDS	1636279..1637538	MFS family transporter
+cdv:CDVA01_1523	CDS	complement(1637535..1638071)	hypothetical protein
+cdv:CDVA01_1524	CDS	complement(1638102..1638284)	hypothetical protein
+cdv:CDVA01_1525	CDS	complement(1638351..1639799)	thrC; threonine synthase
+cdv:CDVA01_1526	CDS	1639969..1640763	hypothetical protein
+cdv:CDVA01_1527	CDS	complement(1640760..1641029)	hypothetical protein
+cdv:CDVA01_1528	CDS	complement(1641098..1641745)	hmuO; heme oxygenase
+cdv:CDVA01_1529	CDS	complement(1641885..1645049)	glnE; glutamate-ammonia-ligase adenylyltransferase
+cdv:CDVA01_1530	CDS	complement(1645100..1646470)	glnA2; glutamine synthetase II
+cdv:CDVA01_1531	CDS	1646583..1648157	hypothetical protein
+cdv:CDVA01_1532	CDS	complement(1648167..1648358)	hypothetical protein
+cdv:CDVA01_1533	CDS	1648526..1649758	hypothetical protein
+cdv:CDVA01_1534	CDS	complement(1649763..1649978)	putative ribonuclease R
+cdv:CDVA01_1535	CDS	complement(1650730..1650951)	putative ribonuclease R
+cdv:CDVA01_1536	CDS	complement(1651138..1651812)	putative membrane protein
+cdv:CDVA01_1537	CDS	complement(1652295..1652456)	hypothetical protein
+cdv:CDVA01_1538	CDS	complement(1652468..1653595)	rnhA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+cdv:CDVA01_1539	CDS	complement(1653595..1654311)	hypothetical protein
+cdv:CDVA01_1540	CDS	complement(1654391..1655527)	hypothetical protein
+cdv:CDVA01_1541	CDS	complement(1655530..1656564)	hypothetical protein
+cdv:CDVA01_1542	CDS	1656595..1657239	pgp; putative phosphoglycolate phosphatase
+cdv:CDVA01_1543	CDS	1657223..1657723	ptpA; protein-tyrosine-phosphatase
+cdv:CDVA01_1544	CDS	1657716..1658585	hypothetical protein
+cdv:CDVA01_1545	CDS	complement(1658579..1659481)	putative cobalamin biosynthesis protein
+cdv:CDVA01_t034	tRNA	complement(1659545..1659620)	tRNA-Val
+cdv:CDVA01_1546	CDS	complement(1659711..1660148)	hypothetical protein
+cdv:CDVA01_1547	CDS	1660369..1663104	aceE; pyruvate dehydrogenase subunit E1
+cdv:CDVA01_1548	CDS	1663222..1663863	hypothetical protein
+cdv:CDVA01_1549	CDS	complement(1663892..1666279)	O-acetyltransferase oatA
+cdv:CDVA01_1550	CDS	1666321..1667550	aftC; arabinofuranosyl transferase C
+cdv:CDVA01_1551	CDS	complement(1667495..1668460)	putative alpha/beta hydrolase fold family protein
+cdv:CDVA01_1552	CDS	1668623..1668814	acpM; acyl carrier protein
+cdv:CDVA01_1553	CDS	1668851..1669660	putative N-acetylglucosamine related protein
+cdv:CDVA01_1554	CDS	complement(1669657..1670025)	hypothetical protein
+cdv:CDVA01_1555	CDS	complement(1670124..1670945)	hypothetical protein
+cdv:CDVA01_1556	CDS	complement(1670942..1671769)	putative membrane protein
+cdv:CDVA01_t035	tRNA	complement(1671782..1671854)	tRNA-Asn
+cdv:CDVA01_t036	tRNA	1672033..1672106	tRNA-Met
+cdv:CDVA01_1557	CDS	1672238..1672480	hypothetical protein
+cdv:CDVA01_1558	CDS	1672572..1673129	putative thiamine biosynthesis related protein
+cdv:CDVA01_1559	CDS	complement(1673178..1675076)	dnaG; DNA primase
+cdv:CDVA01_1560	CDS	complement(1675087..1676964)	glmS; glucosamine-fructose-6-phosphateaminotransferase
+cdv:CDVA01_1561	CDS	1677046..1677477	putative ribonuclease
+cdv:CDVA01_1562	CDS	1677455..1677706	hypothetical protein
+cdv:CDVA01_1563	CDS	complement(1677696..1678967)	dgt; deoxyguanosinetriphosphate triphosphohydrolase
+cdv:CDVA01_1564	CDS	complement(1678974..1679651)	putative secreted protein
+cdv:CDVA01_1565	CDS	1679705..1681696	putative secreted protein
+cdv:CDVA01_1566	CDS	complement(1681693..1682091)	DNA repair protein
+cdv:CDVA01_1567	CDS	complement(1682097..1682624)	hypothetical protein
+cdv:CDVA01_1568	CDS	complement(1682650..1684035)	glyS; glycyl-tRNA synthetase
+cdv:CDVA01_1569	CDS	1684346..1684723	znr; ArsR-family transcriptional regulator
+cdv:CDVA01_1570	CDS	1684901..1685329	zur; zinc uptake regulatory protein
+cdv:CDVA01_1571	CDS	complement(1685336..1686409)	pcl1; Fe 2+/Mn2+ transporter pcl1
+cdv:CDVA01_1572	CDS	complement(1686406..1687143)	undecaprenyl phosphate synthetase
+cdv:CDVA01_1573	CDS	complement(1687163..1687891)	recO; DNA repair protein
+cdv:CDVA01_1574	CDS	complement(1687891..1688808)	era; GTP-binding protein
+cdv:CDVA01_1575	CDS	complement(1688861..1689712)	pyridoxamine kinase
+cdv:CDVA01_1576	CDS	complement(1689723..1691051)	putative membrane protein
+cdv:CDVA01_1577	CDS	complement(1691048..1691638)	putative metalloprotease
+cdv:CDVA01_1578	CDS	complement(1691639..1692607)	phoH; phosphate starvation-inducible protein PhoH
+cdv:CDVA01_1579	CDS	complement(1692655..1693413)	sdrD; ribosomal RNA small subunit methyltransferase E
+cdv:CDVA01_1580	CDS	complement(1693415..1694542)	dnaJ2; chaperone protein cofactor 1
+cdv:CDVA01_1581	CDS	complement(1694616..1695653)	hrcA; heat-inducible transcription repressor
+cdv:CDVA01_1582	CDS	complement(1695693..1696826)	hemN; coproporphyrinogen III oxidase
+cdv:CDVA01_1583	CDS	complement(1696816..1697487)	hypothetical protein
+cdv:CDVA01_1584	CDS	complement(1697626..1700853)	putative surface-anchored membrane protein
+cdv:CDVA01_1585	CDS	complement(1700930..1702759)	fadD2; acyl-CoA synthetase
+cdv:CDVA01_1586	CDS	1702856..1705024	malQ; 4-alpha-glucanotransferase
+cdv:CDVA01_1587	CDS	complement(1705016..1705156)	hypothetical protein
+cdv:CDVA01_1588	CDS	complement(1705171..1705371)	hypothetical protein
+cdv:CDVA01_1589	CDS	complement(1705371..1707380)	dcp; peptidyl-dipeptidase
+cdv:CDVA01_1590	CDS	1707379..1708578	lipT2; putative type B carboxylesterase
+cdv:CDVA01_1591	CDS	complement(1708565..1709116)	idi; isopentenyl-diphosphate delta-isomerase
+cdv:CDVA01_1592	CDS	complement(1709135..1710736)	hypothetical protein
+cdv:CDVA01_1593	CDS	complement(1710737..1711402)	hypothetical protein
+cdv:CDVA01_1594	CDS	complement(1711577..1712734)	hypothetical protein
+cdv:CDVA01_1595	CDS	complement(1712915..1713430)	putative secreted protein
+cdv:CDVA01_1596	CDS	1713531..1715390	ywjA; iron-regulated ABC transporter
+cdv:CDVA01_1597	CDS	1715409..1716539	aecD; cystathionine beta-lyase
+cdv:CDVA01_1598	CDS	1716620..1717924	brnQ; branched-chain amino acid uptake carrier
+cdv:CDVA01_1599	CDS	1717934..1718887	hypothetical protein
+cdv:CDVA01_1600	CDS	complement(1718865..1720691)	ectP; ectoine, glycine betaine and proline transport system membrane protein
+cdv:CDVA01_1601	CDS	1720847..1722373	ABC transporter solute-binding protein
+cdv:CDVA01_1602	CDS	1722380..1723327	putative oligopeptide ABC transport system membrane protein
+cdv:CDVA01_1603	CDS	1723331..1724152	putative oligopeptide ABC transport system membrane protein
+cdv:CDVA01_1604	CDS	1724149..1725591	ABC transporter ATP-binding protein
+cdv:CDVA01_1605	CDS	complement(1725588..1725716)	hypothetical protein
+cdv:CDVA01_1606	CDS	complement(1725734..1726948)	putative prolyl aminopeptidase
+cdv:CDVA01_1607	CDS	1726949..1727614	hypothetical protein
+cdv:CDVA01_1608	CDS	1727611..1728999	putative xylulose kinase
+cdv:CDVA01_1609	CDS	complement(1728996..1729226)	hypothetical protein
+cdv:CDVA01_1610	CDS	1729395..1729553	hypothetical protein
+cdv:CDVA01_1611	CDS	1729563..1731176	putative oxidase
+cdv:CDVA01_1612	CDS	1731188..1731445	copper-sensing transcriptional repressor csoR
+cdv:CDVA01_1613	CDS	complement(1731431..1733008)	kefB; putative potassium-efflux system protein
+cdv:CDVA01_1614	CDS	1733002..1733220	putative secreted protein
+cdv:CDVA01_1615	CDS	1733322..1734725	antibiotic ABC transporter
+cdv:CDVA01_1616	CDS	1734722..1735660	iunH; inosine-uridine preferring nucleoside hydrolase
+cdv:CDVA01_1617	CDS	1735666..1736457	putative membrane protein
+cdv:CDVA01_1618	CDS	1736550..1737209	putative membrane protein
+cdv:CDVA01_1619	CDS	1737344..1740133	putative DNA methyltransferase
+cdv:CDVA01_1620	CDS	1740130..1741050	mrr; Mrr restriction system protein
+cdv:CDVA01_1621	CDS	complement(1741097..1741432)	transposase-like protein
+cdv:CDVA01_1622	CDS	complement(1741545..1742378)	hypothetical protein
+cdv:CDVA01_1623	CDS	complement(1742679..1744601)	lepA; GTP-binding elongation factor
+cdv:CDVA01_1624	CDS	1744634..1744783	hypothetical protein
+cdv:CDVA01_1625	CDS	1744790..1745347	hypothetical protein
+cdv:CDVA01_1626	CDS	1745508..1745771	rpsT; 30S ribosomal protein S20
+cdv:CDVA01_1627	CDS	complement(1745820..1746458)	threonine efflux protein
+cdv:CDVA01_1628	CDS	complement(1746860..1747834)	DNA polymerase III, delta subunit
+cdv:CDVA01_1629	CDS	complement(1747788..1749461)	putative membrane protein
+cdv:CDVA01_1630	CDS	complement(1749458..1750075)	putative secreted protein
+cdv:CDVA01_1631	CDS	complement(1750194..1751015)	hypothetical protein
+cdv:CDVA01_1632	CDS	complement(1751020..1751742)	gpmB; phosphoglycerate mutase
+cdv:CDVA01_1633	CDS	complement(1751749..1752216)	hypothetical protein
+cdv:CDVA01_1634	CDS	complement(1752239..1752925)	nadD; nicotinic acid mononucleotide adenylyltransferase
+cdv:CDVA01_1635	CDS	complement(1752949..1754235)	gamma-glutamyl phosphate reductase
+cdv:CDVA01_1636	CDS	complement(1754259..1755389)	proB; gamma-glutamyl kinase
+cdv:CDVA01_1637	CDS	complement(1755410..1755661)	putative membrane protein
+cdv:CDVA01_1638	CDS	complement(1755665..1757191)	obg; putative GTP-binding protein
+cdv:CDVA01_1639	CDS	complement(1757352..1757618)	rpmA; 50S ribosomal protein L27
+cdv:CDVA01_1640	CDS	complement(1757659..1757964)	rplU; 50S ribosomal protein L21
+cdv:CDVA01_1641	CDS	complement(1758139..1761027)	rne; ribonuclease E
+cdv:CDVA01_1642	CDS	complement(1761308..1761718)	ndk; nucleoside diphosphate kinase
+cdv:CDVA01_1643	CDS	1761802..1761930	hypothetical protein
+cdv:CDVA01_1644	CDS	1761927..1762289	hypothetical protein
+cdv:CDVA01_1645	CDS	1763236..1764240	fabH; 3-oxoacyl-(acyl carrier protein) synthase III
+cdv:CDVA01_1646	CDS	1764234..1765460	hypothetical protein
+cdv:CDVA01_1647	CDS	1765473..1766603	caiA; acyl-CoA dehydrogenase domain protein
+cdv:CDVA01_1648	CDS	1766942..1768099	permease of the major facilitator superfamily
+cdv:CDVA01_1649	CDS	complement(1768240..1768467)	transposase-like protein
+cdv:CDVA01_1650	CDS	1769132..1769296	transposase-like protein
+cdv:CDVA01_1651	CDS	1769739..1770374	integrase catalytic subunit
+cdv:CDVA01_1652	CDS	1770371..1771177	transposase-like protein
+cdv:CDVA01_1653	CDS	1771242..1771472	hypothetical protein
+cdv:CDVA01_1654	CDS	1771473..1772090	transposase-like protein
+cdv:CDVA01_1655	CDS	1771972..1772301	transposase-like protein
+cdv:CDVA01_1656	CDS	complement(1772628..1773041)	putative membrane protein
+cdv:CDVA01_1657	CDS	complement(1773038..1774534)	folC; dihydrofolate synthase / folylpolyglutamate synthase
+cdv:CDVA01_1658	CDS	complement(1774531..1777452)	valS; valyl-tRNA synthetase
+cdv:CDVA01_1659	CDS	complement(1777334..1778314)	mdh; malate dehydrogenase
+cdv:CDVA01_1660	CDS	1778797..1779549	TetR family regulatory protein
+cdv:CDVA01_1661	CDS	complement(1779586..1780878)	clpX; ATP-dependent protease ATP-binding subunit ClpX
+cdv:CDVA01_1662	CDS	complement(1781025..1783550)	pabB; para-aminobenzoate synthase component I
+cdv:CDVA01_1663	CDS	complement(1783645..1784274)	clpP2; ATP-dependent Clp protease proteolytic subunit
+cdv:CDVA01_1664	CDS	complement(1784292..1784891)	clpP1; ATP-dependent Clp protease proteolytic subunit
+cdv:CDVA01_1665	CDS	complement(1785057..1786403)	tig; trigger factor
+cdv:CDVA01_t037	tRNA	complement(1786484..1786560)	tRNA-Pro
+cdv:CDVA01_t038	tRNA	complement(1786900..1786974)	tRNA-Gly
+cdv:CDVA01_1666	CDS	1787229..1787465	hypothetical protein
+cdv:CDVA01_1667	CDS	1787612..1788394	putative secreted protein
+cdv:CDVA01_1668	CDS	complement(1788471..1788944)	rpi; ribose-5-phosphate isomerase
+cdv:CDVA01_1669	CDS	complement(1788976..1789596)	hypothetical protein
+cdv:CDVA01_1670	CDS	1789718..1792336	pepN; putative aminopeptidase
+cdv:CDVA01_1671	CDS	1792592..1793608	putative mechanosensitive ion channel protein
+cdv:CDVA01_1672	CDS	1793620..1794012	gblO; hemoglobin-like protein
+cdv:CDVA01_1673	CDS	complement(1794009..1794629)	hypothetical protein
+cdv:CDVA01_1674	CDS	complement(1794639..1795082)	hypothetical protein
+cdv:CDVA01_1675	CDS	complement(1795209..1796879)	ABC transporter ATP-binding protein
+cdv:CDVA01_1676	CDS	complement(1796977..1797465)	putative single-strand binding protein
+cdv:CDVA01_1677	CDS	complement(1797649..1799685)	putative membrane protein
+cdv:CDVA01_1678	CDS	1799912..1802197	carbon starvation protein
+cdv:CDVA01_1679	CDS	1802218..1802418	hypothetical protein
+cdv:CDVA01_1680	CDS	complement(1802450..1803655)	putative membrane protein
+cdv:CDVA01_t039	tRNA	complement(1803890..1803963)	tRNA-Arg
+cdv:CDVA01_1681	CDS	1804060..1805091	putative zinc-binding dehydrogenase
+cdv:CDVA01_1682	CDS	1805151..1805951	cmrA; corynebacterineae mycolate reductase A
+cdv:CDVA01_1683	CDS	1805970..1806602	orn; oligoribonuclease
+cdv:CDVA01_t040	tRNA	1806652..1806727	tRNA-His
+cdv:CDVA01_1684	CDS	1806780..1807550	dapA2; dihydrodipicolinate synthase
+cdv:CDVA01_1685	CDS	complement(1807551..1808804)	lppS; putative lipoprotein
+cdv:CDVA01_t041	tRNA	1809008..1809080	tRNA-Lys
+cdv:CDVA01_1686	CDS	complement(1809276..1809455)	putative secreted protein
+cdv:CDVA01_1687	CDS	1809635..1810084	hypothetical protein
+cdv:CDVA01_1688	CDS	complement(1810088..1810393)	hypothetical protein
+cdv:CDVA01_1689	CDS	complement(1810406..1810681)	hypothetical protein
+cdv:CDVA01_1690	CDS	1810770..1811243	bcp; bacterioferritin comigratory protein
+cdv:CDVA01_1691	CDS	1811244..1811888	fasR; TetR-family transcriptional regulator
+cdv:CDVA01_1692	CDS	complement(1811885..1812268)	acpS; 4'-phosphopantetheinyl transferase
+cdv:CDVA01_1693	CDS	complement(1812303..1821236)	fas; putative fatty acid synthase
+cdv:CDVA01_1694	CDS	complement(1821415..1821852)	hypothetical protein
+cdv:CDVA01_t042	tRNA	complement(1821925..1822006)	tRNA-Leu
+cdv:CDVA01_1695	CDS	1822099..1822470	hypothetical protein
+cdv:CDVA01_1696	CDS	1822498..1822854	putative membrane protein
+cdv:CDVA01_1697	CDS	complement(1822892..1823509)	putative deoxyribonucleotide triphosphate pyrophosphatase
+cdv:CDVA01_1698	CDS	complement(1823506..1824231)	rph; ribonuclease PH
+cdv:CDVA01_1699	CDS	complement(1824242..1825060)	putative secreted protein
+cdv:CDVA01_1700	CDS	complement(1825062..1825859)	murI; glutamate racemase
+cdv:CDVA01_1701	CDS	complement(1825856..1826428)	putative membrane protein
+cdv:CDVA01_1702	CDS	complement(1826425..1827357)	hypothetical protein
+cdv:CDVA01_1703	CDS	complement(1827357..1827893)	hypothetical protein
+cdv:CDVA01_1704	CDS	complement(1827910..1828251)	clpS; ATP-dependent Clp protease adaptor protein ClpS
+cdv:CDVA01_1705	CDS	1828312..1829625	nicotinate phosphoribosyltransferase
+cdv:CDVA01_1706	CDS	1829657..1831624	dinG; putative ATP-dependent DNA helicase
+cdv:CDVA01_1707	CDS	1831626..1832153	acetyltransferase GNAT family protein
+cdv:CDVA01_1708	CDS	1832809..1833342	hypothetical protein
+cdv:CDVA01_1709	CDS	complement(1833326..1834033)	hypothetical protein
+cdv:CDVA01_1710	CDS	complement(1834026..1835309)	serB; Phosphoserine phosphatase
+cdv:CDVA01_1711	CDS	complement(1835416..1837110)	ctaD; cytochrome C oxidase subunit I
+cdv:CDVA01_1712	CDS	complement(1837472..1838458)	nrdF1; ribonucleotide-diphosphate reductase subunit beta
+cdv:CDVA01_1713	CDS	1838770..1839255	ftn; putative ferritin
+cdv:CDVA01_1714	CDS	complement(1839307..1841454)	nrdE; ribonucleotide-diphosphate reductase subunit alpha
+cdv:CDVA01_1715	CDS	complement(1841516..1841941)	nrdI1; ribonucleotide reductase stimulatory protein
+cdv:CDVA01_1716	CDS	complement(1842035..1842268)	nrdH; glutaredoxin-like protein NrdH
+cdv:CDVA01_1717	CDS	1842570..1843442	crtB; putative phytoene synthase
+cdv:CDVA01_1718	CDS	1843435..1844961	crtI; phytoene dehydrogenase
+cdv:CDVA01_1719	CDS	complement(1845030..1845152)	rpmJ; 50S ribosomal protein L36
+cdv:CDVA01_1720	CDS	1845306..1846139	nadE; NAD synthetase
+cdv:CDVA01_1721	CDS	complement(1846136..1846573)	hypothetical protein
+cdv:CDVA01_1722	CDS	complement(1846620..1846745)	hypothetical protein
+cdv:CDVA01_1723	CDS	complement(1846931..1848319)	putative multicopper oxidase
+cdv:CDVA01_1724	CDS	complement(1848309..1849601)	putative membrane protein
+cdv:CDVA01_1725	CDS	complement(1849605..1850708)	putative membrane protein
+cdv:CDVA01_1726	CDS	1850806..1851471	putative DNA-biding protein
+cdv:CDVA01_t043	tRNA	complement(1851509..1851584)	tRNA-Ala
+cdv:CDVA01_1727	CDS	complement(1851672..1852406)	putative secreted protein
+cdv:CDVA01_1728	CDS	complement(1852456..1852908)	putative membrane protein
+cdv:CDVA01_1729	CDS	complement(1852947..1854584)	pgm; phosphoglucomutase
+cdv:CDVA01_1730	CDS	complement(1855245..1857809)	ABC transporter permease protein
+cdv:CDVA01_1731	CDS	complement(1857810..1858559)	ABC transporter ATP-binding protein
+cdv:CDVA01_1732	CDS	1858848..1859093	hypothetical protein
+cdv:CDVA01_r007	rRNA	complement(1859488..1859608)	5S ribosomal RNA
+cdv:CDVA01_r008	rRNA	complement(1859774..1862823)	23S ribosomal RNA
+cdv:CDVA01_r009	rRNA	complement(1863212..1864719)	16S ribosomal RNA
+cdv:CDVA01_1733	CDS	complement(1865254..1866510)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+cdv:CDVA01_1734	CDS	1866549..1867124	hypothetical protein
+cdv:CDVA01_1735	CDS	complement(1867177..1868022)	ramA; LuxR-family transcriptional regulator
+cdv:CDVA01_1736	CDS	1868705..1869640	cysK; cysteine synthase
+cdv:CDVA01_1737	CDS	1869747..1870313	serine acetyltransferase
+cdv:CDVA01_1738	CDS	complement(1870355..1870636)	hypothetical protein
+cdv:CDVA01_t044	tRNA	complement(1870727..1870802)	tRNA-Phe
+cdv:CDVA01_t045	tRNA	complement(1870822..1870898)	tRNA-Asp
+cdv:CDVA01_1739	CDS	complement(1871017..1872093)	hypothetical protein
+cdv:CDVA01_t046	tRNA	complement(1872264..1872337)	tRNA-Asp
+cdv:CDVA01_t047	tRNA	complement(1872364..1872439)	tRNA-Glu
+cdv:CDVA01_1740	CDS	complement(1872576..1875173)	hypothetical protein
+cdv:CDVA01_1741	CDS	complement(1875173..1877014)	modA2; putative DNA restriction-modification system, DNA methylase
+cdv:CDVA01_1742	CDS	complement(1877218..1877310)	hypothetical protein
+cdv:CDVA01_1743	CDS	1877453..1877629	transposase-like protein
+cdv:CDVA01_1744	CDS	1877669..1877998	transposase-like protein
+cdv:CDVA01_t048	tRNA	complement(1878296..1878371)	tRNA-Lys
+cdv:CDVA01_1745	CDS	1878863..1880398	putative cytochrome ubiquinol oxidase subunit
+cdv:CDVA01_1746	CDS	1880406..1881380	putative cytochrome ubiquinol oxidase subunit
+cdv:CDVA01_1747	CDS	1881377..1882948	ABC transporter ATP-binding protein
+cdv:CDVA01_1748	CDS	1882945..1884492	ABC transporter ATP-binding protein
+cdv:CDVA01_1749	CDS	complement(1884571..1886085)	cat1; succinyl-CoA:coenzyme A transferase
+cdv:CDVA01_1750	CDS	1886425..1887570	hypothetical protein
+cdv:CDVA01_1751	CDS	1887589..1888341	phoU; phosphate transport system regulator
+cdv:CDVA01_1752	CDS	complement(1888491..1888703)	hypothetical protein
+cdv:CDVA01_1753	CDS	complement(1888871..1889650)	pstB; phosphate transport system ATP-binding protein
+cdv:CDVA01_1754	CDS	complement(1889651..1890514)	pstA; phosphate transport system permease protein pstA 1
+cdv:CDVA01_1755	CDS	complement(1890528..1891553)	pstC; phosphate transport system permease protein pstC 2
+cdv:CDVA01_1756	CDS	complement(1891566..1892735)	pstS; phosphate-binding protein pstS
+cdv:CDVA01_1757	CDS	complement(1892923..1893834)	mshD; putative acetyltransferase
+cdv:CDVA01_1758	CDS	1893873..1894676	putative secreted protein
+cdv:CDVA01_1759	CDS	complement(1894706..1895728)	hypothetical protein
+cdv:CDVA01_1760	CDS	1895768..1896445	hypothetical protein
+cdv:CDVA01_1761	CDS	complement(1896452..1897348)	4-amino-4-deoxychorismate lyase
+cdv:CDVA01_1762	CDS	1897327..1898505	hypothetical protein
+cdv:CDVA01_1763	CDS	1898727..1898933	hypothetical protein
+cdv:CDVA01_1764	CDS	complement(1899065..1900129)	purM; phosphoribosylaminoimidazole synthetase
+cdv:CDVA01_1765	CDS	complement(1900189..1901757)	purF; amidophosphoribosyltransferase
+cdv:CDVA01_1766	CDS	complement(1901804..1902199)	hypothetical protein
+cdv:CDVA01_1767	CDS	1902193..1902309	hypothetical protein
+cdv:CDVA01_1768	CDS	complement(1902538..1903146)	putative membrane protein
+cdv:CDVA01_1769	CDS	1903465..1903890	nrdI2; ribonucleotide reductase stimulatory protein
+cdv:CDVA01_1770	CDS	1903887..1904912	nrdF2; ribonucleotide-diphosphate reductase subunit beta
+cdv:CDVA01_1771	CDS	1905010..1905135	hypothetical protein
+cdv:CDVA01_1772	CDS	1905647..1905916	transposase-like protein
+cdv:CDVA01_1773	CDS	complement(1906248..1906718)	gpx; Glutathione peroxidase
+cdv:CDVA01_1774	CDS	complement(1906720..1908849)	ptrB; oligopeptidase B
+cdv:CDVA01_1775	CDS	complement(1909140..1910033)	purC; phosphoribosylaminoimidazole-succinocarboxamidesynthase
+cdv:CDVA01_1776	CDS	complement(1910119..1911558)	purB; adenylosuccinate lyase
+cdv:CDVA01_1777	CDS	complement(1911558..1912694)	putative alanine-oxoisovalerate aminotransferase
+cdv:CDVA01_1778	CDS	complement(1912705..1913361)	trkA; K+ -uptake system protein
+cdv:CDVA01_1779	CDS	complement(1913354..1914688)	trkH; potassium uptake protein TrkH family
+cdv:CDVA01_1780	CDS	complement(1914772..1916058)	purD; phosphoribosylamine-glycine ligase
+cdv:CDVA01_1781	CDS	1916137..1916562	hypothetical protein
+cdv:CDVA01_1782	CDS	1916579..1917244	hypothetical protein
+cdv:CDVA01_1783	CDS	complement(1917258..1918817)	phoS; two-component system sensor histidine kinase
+cdv:CDVA01_1784	CDS	complement(1918853..1919563)	phoR; two-component system response regulator
+cdv:CDVA01_1785	CDS	1919945..1920388	putative secreted protein
+cdv:CDVA01_1786	CDS	1921067..1922566	putative membrane protein
+cdv:CDVA01_1787	CDS	1922553..1923173	TetR family regulatory protein
+cdv:CDVA01_1788	CDS	1923229..1925142	xanthine/uracil permeases family protein
+cdv:CDVA01_1789	CDS	complement(1925684..1927420)	poxB; pyruvate dehydrogenase
+cdv:CDVA01_1790	CDS	1927533..1928984	putative amino acid export carrier protein
+cdv:CDVA01_t049	tRNA	complement(1929179..1929254)	tRNA-Thr
+cdv:CDVA01_1791	CDS	1929383..1930927	thrE; amino acid export carrier protein
+cdv:CDVA01_1792	CDS	1930988..1931332	hypothetical protein
+cdv:CDVA01_1793	CDS	1931332..1932780	otsA; alpha,alpha-trehalose-phosphate synthase
+cdv:CDVA01_1794	CDS	1932808..1933290	putative secreted protein
+cdv:CDVA01_1795	CDS	1933280..1934038	otsB; trehalose-6-phosphate phophatase, biosynthetic
+cdv:CDVA01_1796	CDS	complement(1934001..1935128)	lacI; LacI-family transcriptional regulator
+cdv:CDVA01_1797	CDS	complement(1935150..1936091)	SpoU rRNA methylase family protein
+cdv:CDVA01_1798	CDS	complement(1936119..1937510)	cysS1; cysteinyl-tRNA synthetase
+cdv:CDVA01_1799	CDS	complement(1937529..1938011)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+cdv:CDVA01_1800	CDS	complement(1938004..1938738)	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+cdv:CDVA01_1801	CDS	complement(1938748..1939329)	carD; putative transcription factor
+cdv:CDVA01_1802	CDS	1939599..1940165	hypothetical protein
+cdv:CDVA01_1803	CDS	complement(1940269..1941669)	putative secreted protein
+cdv:CDVA01_1804	CDS	1942026..1943417	radA; DNA repair protein RadA
+cdv:CDVA01_1805	CDS	complement(1943445..1944161)	putative secreted protein
+cdv:CDVA01_1806	CDS	complement(1944231..1944860)	bca; beta-type carbonic anhydrase-like protein
+cdv:CDVA01_1807	CDS	1944991..1945878	mutY; A/G-specific adenine glycosylase
+cdv:CDVA01_1808	CDS	complement(1945875..1947152)	putative membrane protein
+cdv:CDVA01_1809	CDS	complement(1947259..1947429)	putative secreted protein
+cdv:CDVA01_1810	CDS	complement(1947460..1950096)	clpC; ATP-dependent Clp protease ATP-binding subunit
+cdv:CDVA01_1811	CDS	complement(1950544..1950999)	hypothetical protein
+cdv:CDVA01_1812	CDS	1951035..1951673	putative membrane protein
+cdv:CDVA01_1813	CDS	1951779..1952573	hypothetical protein
+cdv:CDVA01_1814	CDS	complement(1952589..1953872)	deoA; Thymidine phosphorylase
+cdv:CDVA01_1815	CDS	1954082..1954504	cdd; Cytidine deaminase
+cdv:CDVA01_1816	CDS	1954508..1955722	yutK; putative sodium/nucleoside cotransporter
+cdv:CDVA01_1817	CDS	complement(1955882..1956247)	hypothetical protein
+cdv:CDVA01_1818	CDS	complement(1956648..1958210)	lysS; lysyl-tRNA synthetase
+cdv:CDVA01_1819	CDS	1958592..1959572	transposase-like protein
+cdv:CDVA01_1820	CDS	complement(1959592..1960350)	putative membrane protein
+cdv:CDVA01_1821	CDS	complement(1960347..1961270)	ABC transporter ATP-binding protein
+cdv:CDVA01_1822	CDS	1961744..1962712	hypothetical protein
+cdv:CDVA01_1823	CDS	1962712..1962909	hypothetical protein
+cdv:CDVA01_1824	CDS	1962959..1964251	sodium/dicarboxylate symporter family protein
+cdv:CDVA01_1825	CDS	complement(1964248..1965027)	panC1; pantoate-beta-alanine ligase
+cdv:CDVA01_1826	CDS	complement(1965040..1965663)	hypothetical protein
+cdv:CDVA01_1827	CDS	complement(1965660..1966553)	putative secreted protein
+cdv:CDVA01_1828	CDS	complement(1966555..1967022)	putative secreted protein
+cdv:CDVA01_1829	CDS	complement(1967019..1967498)	folK; putative 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+cdv:CDVA01_1830	CDS	complement(1967508..1967873)	folX; Dihydroneopterin aldolase
+cdv:CDVA01_1831	CDS	complement(1967879..1968715)	putative dihydropteroate synthase
+cdv:CDVA01_1832	CDS	complement(1969156..1969728)	folE; GTP cyclohydrolase I
+cdv:CDVA01_1833	CDS	complement(1969736..1972201)	ftsH; cell division protein
+cdv:CDVA01_1834	CDS	complement(1972333..1972920)	hpt; hypoxanthine-guanine phosphoribosyltransferase
+cdv:CDVA01_1835	CDS	complement(1972941..1973819)	tilS; tRNA(Ile)-lysidine synthase
+cdv:CDVA01_1836	CDS	complement(1973812..1975092)	putative D-Ala D-Ala carboxypeptidase
+cdv:CDVA01_1837	CDS	1975127..1975603	ppa; inorganic pyrophosphatase
+cdv:CDVA01_1838	CDS	1975759..1976055	hypothetical protein
+cdv:CDVA01_1839	CDS	1976098..1976592	marR; multiple antibiotic resistance protein
+cdv:CDVA01_1840	CDS	1976593..1980396	tycC; tyrocidine synthetase 3
+cdv:CDVA01_1841	CDS	complement(1980393..1986011)	spaC; putative surface-anchored fimbrial subunit
+cdv:CDVA01_1842	CDS	complement(1986015..1986632)	spaB; putative surface-anchored fimbrial subunit
+cdv:CDVA01_1843	CDS	complement(1986622..1987491)	srtA; putative fimbrial associated sortase-like protein
+cdv:CDVA01_1844	CDS	complement(1987492..1989069)	spaA; putative surface-anchored fimbrial subunit
+cdv:CDVA01_1845	CDS	1989302..1990042	putative surface-exposed virulence protein bigA
+cdv:CDVA01_1846	CDS	1990218..1991486	lipY; putative exported lipase
+cdv:CDVA01_1847	CDS	complement(1991503..1992399)	ppK2B; polyphosphate kinase
+cdv:CDVA01_1848	CDS	complement(1992485..1993561)	putative secreted protein
+cdv:CDVA01_1849	CDS	complement(1993839..1993979)	hypothetical protein
+cdv:CDVA01_1850	CDS	complement(1994070..1994375)	transposase-like protein
+cdv:CDVA01_1851	CDS	complement(1994594..1996234)	groEL2; chaperonin GroEL
+cdv:CDVA01_1852	CDS	complement(1996592..1996762)	hypothetical protein
+cdv:CDVA01_1853	CDS	complement(1997009..1997272)	hypothetical protein
+cdv:CDVA01_1854	CDS	1997381..1998091	filamentation induced by cAMP protein Fic
+cdv:CDVA01_1855	CDS	complement(1998361..1999521)	hypothetical protein
+cdv:CDVA01_1856	CDS	complement(2000023..2000232)	transposase-like protein
+cdv:CDVA01_1857	CDS	complement(2000413..2000496)	hypothetical protein
+cdv:CDVA01_1858	CDS	complement(2000531..2000773)	transposase-like protein
+cdv:CDVA01_1859	CDS	complement(2000822..2000983)	transposase-like protein
+cdv:CDVA01_1860	CDS	complement(2001286..2002368)	putative oxidoreductase
+cdv:CDVA01_1861	gene	2002702..2005373	uvrA2; pseudogene
+cdv:CDVA01_1863	CDS	2005610..2006146	pfpI; protease I
+cdv:CDVA01_1864	CDS	complement(2006373..2006504)	hypothetical protein
+cdv:CDVA01_1865	CDS	complement(2006730..2006939)	transposase-like protein
+cdv:CDVA01_1866	CDS	2007201..2007827	putative secreted protein
+cdv:CDVA01_1867	CDS	2008307..2009680	tpdA; thiol precursor dipeptidase
+cdv:CDVA01_1868	CDS	2009863..2011023	putative membrane protein
+cdv:CDVA01_1869	CDS	complement(2010966..2012045)	putative carboxylate-amine ligase
+cdv:CDVA01_1870	CDS	complement(2012042..2012575)	putative secreted protein
+cdv:CDVA01_1871	CDS	2012780..2013343	defA; peptide deformylase
+cdv:CDVA01_1872	CDS	2013360..2014247	hypothetical protein
+cdv:CDVA01_1873	CDS	2014252..2014959	xthA; exodeoxyribonuclease III
+cdv:CDVA01_1874	CDS	2014956..2016389	cls; cardiolipin synthase
+cdv:CDVA01_1875	CDS	2016504..2016605	hypothetical protein
+cdv:CDVA01_1876	CDS	complement(2016620..2016745)	hypothetical protein
+cdv:CDVA01_1877	CDS	complement(2016881..2017024)	hypothetical protein
+cdv:CDVA01_1878	CDS	complement(2017101..2017838)	ABC transporter permease protein
+cdv:CDVA01_1879	CDS	complement(2017822..2018751)	ABC transporter ATP-binding protein
+cdv:CDVA01_1880	CDS	2018753..2020009	mphP; phenol hydroxylase P5 protein
+cdv:CDVA01_1881	CDS	2020006..2020953	glnH; putative extracellulare solute-binding protein
+cdv:CDVA01_1882	CDS	2020950..2023112	pknG; serine/threonine-protein kinase
+cdv:CDVA01_1883	CDS	complement(2023132..2024331)	ackA; acetate kinase
+cdv:CDVA01_1884	CDS	complement(2024332..2025699)	pta; phospho acetyltransferase
+cdv:CDVA01_1885	CDS	2025962..2027320	fpr; putative ferredoxin/ferredoxin-NADP reductase
+cdv:CDVA01_1886	CDS	complement(2027332..2028228)	purT; phosphoribosylglycinamide formyltransferase
+cdv:CDVA01_1887	CDS	2028260..2028760	putative purine phosphoribosyltransferase
+cdv:CDVA01_1888	CDS	2028790..2029677	hypothetical protein
+cdv:CDVA01_1889	CDS	complement(2029674..2031104)	putative membrane protein
+cdv:CDVA01_1890	CDS	complement(2031105..2031272)	putative secreted protein
+cdv:CDVA01_1891	CDS	complement(2031745..2033616)	Sdr family related adhesin
+cdv:CDVA01_1892	CDS	complement(2034034..2035323)	purA; adenylosuccinate synthetase
+cdv:CDVA01_1893	gene	2035418..2035627	putative beta-ketoacyl-ACP synthase gene fragment
+cdv:CDVA01_1894	CDS	2036081..2036218	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+cdv:CDVA01_1895	CDS	2036522..2039764	putative surface-anchored fimbrial subunit
+cdv:CDVA01_1896	CDS	2039954..2040790	hypothetical protein
+cdv:CDVA01_1897	CDS	complement(2040787..2041914)	putative membrane protein
+cdv:CDVA01_1898	CDS	2042028..2043161	putative secreted protein
+cdv:CDVA01_1899	CDS	complement(2043253..2044455)	putative membrane protein
+cdv:CDVA01_1900	CDS	2044847..2045758	hypothetical protein
+cdv:CDVA01_1901	CDS	2046044..2047099	hypothetical protein
+cdv:CDVA01_1902	CDS	2047352..2047813	hypothetical protein
+cdv:CDVA01_1903	CDS	2048078..2048386	transposase-like protein
+cdv:CDVA01_1904	CDS	2048386..2049120	transposase-like protein
+cdv:CDVA01_1905	CDS	complement(2049376..2050326)	hypothetical protein
+cdv:CDVA01_1906	CDS	2050804..2051004	transposase-like protein
+cdv:CDVA01_1907	CDS	complement(2051135..2052700)	methylase
+cdv:CDVA01_1908	CDS	complement(2052820..2053068)	hypothetical protein
+cdv:CDVA01_1909	CDS	2053460..2053639	hypothetical protein
+cdv:CDVA01_1910	CDS	2053833..2054126	transposase-like protein
+cdv:CDVA01_1911	CDS	2054257..2056248	serine-aspartate repeat-containing protein D
+cdv:CDVA01_1912	CDS	2056574..2057131	hypothetical protein
+cdv:CDVA01_1913	CDS	complement(2057349..2058383)	fda; fructose-bisphosphate aldolase
+cdv:CDVA01_1914	CDS	complement(2058502..2059620)	hypothetical protein
+cdv:CDVA01_1915	CDS	complement(2059641..2060309)	23S rRNA guanosine-2'-O-methyltransferase rlmB
+cdv:CDVA01_1916	CDS	complement(2060302..2060835)	pyrE; orotate phosphoribosyltransferase
+cdv:CDVA01_1917	CDS	complement(2060891..2061805)	hypothetical protein
+cdv:CDVA01_1918	CDS	complement(2061805..2062629)	sseB; thiosulfate sulfurtransferase
+cdv:CDVA01_1919	CDS	complement(2062778..2063023)	hypothetical protein
+cdv:CDVA01_1920	CDS	complement(2063043..2063432)	hypothetical protein
+cdv:CDVA01_1921	CDS	complement(2063459..2063587)	hypothetical protein
+cdv:CDVA01_1922	CDS	complement(2063725..2064186)	putative membrane protein
+cdv:CDVA01_1923	CDS	complement(2064547..2067096)	clpB; putative ATP-dependent protease regulatory subunit
+cdv:CDVA01_1924	CDS	complement(2067295..2067624)	rpfC; resuscitation-promoting factor C
+cdv:CDVA01_1925	CDS	2067752..2068540	ABC transporter ATP-binding protein
+cdv:CDVA01_1926	CDS	2068542..2070110	mdlB2; putative integral membrane transport protein
+cdv:CDVA01_1927	CDS	complement(2070345..2070467)	hypothetical protein
+cdv:CDVA01_1928	CDS	complement(2070603..2071940)	gltT2; sodium/glutamate symporter
+cdv:CDVA01_1929	CDS	complement(2072067..2073107)	putative integral membrane protein
+cdv:CDVA01_1930	CDS	2073122..2074216	putative oxidoreductase
+cdv:CDVA01_1931	CDS	complement(2074195..2075007)	putative hydrolase
+cdv:CDVA01_1932	CDS	2075122..2075361	hypothetical protein
+cdv:CDVA01_1933	CDS	2075349..2076479	hypothetical protein
+cdv:CDVA01_1934	CDS	complement(2076466..2077506)	adhA; alcohol dehydrogenase
+cdv:CDVA01_1935	CDS	complement(2077660..2079180)	aldA; aldehyde dehydrogenase
+cdv:CDVA01_1936	CDS	2079463..2081046	putative membrane anchored protein
+cdv:CDVA01_1937	CDS	complement(2081104..2081502)	hspR; heat shock protein regulator
+cdv:CDVA01_1938	CDS	complement(2081524..2082696)	dnaJ1; chaperone protein cofactor 1
+cdv:CDVA01_1939	CDS	complement(2082806..2083465)	grpE; chaperone protein cofactor GrpE
+cdv:CDVA01_1940	CDS	complement(2083465..2085300)	dnaK; molecular chaperone DnaK
+cdv:CDVA01_1941	CDS	2085703..2087007	hypothetical protein
+cdv:CDVA01_1942	CDS	2087057..2088379	perM; putative permease
+cdv:CDVA01_1943	CDS	complement(2088453..2089094)	ABC transporter ATP-binding protein
+cdv:CDVA01_1944	CDS	complement(2089081..2090709)	putative binding-protein-dependent integral membrane transport protein
+cdv:CDVA01_1945	CDS	complement(2090702..2091652)	putative binding-protein-dependent integral membrane transport protein
+cdv:CDVA01_1946	CDS	complement(2091701..2093305)	putative substrate-binding transport protein
+cdv:CDVA01_1947	CDS	complement(2093506..2095107)	pitB; phosphate-transport permease
+cdv:CDVA01_1948	CDS	complement(2095602..2095754)	hypothetical protein
+cdv:CDVA01_r010	rRNA	complement(2096008..2096127)	5S ribosomal RNA
+cdv:CDVA01_r011	rRNA	complement(2096298..2099347)	23S ribosomal RNA
+cdv:CDVA01_r012	rRNA	complement(2099736..2101243)	16S ribosomal RNA
+cdv:CDVA01_1949	CDS	2101958..2105674	purL; phosphoribosylformylglycinamidine synthase
+cdv:CDVA01_1950	CDS	complement(2105754..2106344)	nucleosidase
+cdv:CDVA01_1951	CDS	2106472..2106960	putative oxidoreductase
+cdv:CDVA01_1952	CDS	2107034..2109520	hypothetical protein
+cdv:CDVA01_1953	CDS	2109565..2110215	hypothetical protein
+cdv:CDVA01_1954	CDS	complement(2110308..2111399)	putative zinc-binding alcohol dehydrogenase
+cdv:CDVA01_1955	CDS	2111641..2112912	alaT; alanine aminotransferase
+cdv:CDVA01_1956	CDS	2112935..2114224	putative membrane protein
+cdv:CDVA01_1957	CDS	2114250..2117399	lysX; lysyl-tRNA synthetase 2
+cdv:CDVA01_1958	CDS	complement(2117506..2118183)	hypothetical protein
+cdv:CDVA01_1959	CDS	complement(2118146..2118766)	putative integral membrane protein
+cdv:CDVA01_1960	CDS	complement(2118791..2119996)	putative UDP-glucose 6-dehydrogenase
+cdv:CDVA01_1961	CDS	complement(2120002..2120565)	dcd; deoxycytidine triphosphate deaminase
+cdv:CDVA01_t050	tRNA	2120625..2120695	tRNA-Gly
+cdv:CDVA01_1962	CDS	complement(2121187..2121348)	hypothetical protein
+cdv:CDVA01_1963	CDS	complement(2122069..2122365)	phage-associated protein
+cdv:CDVA01_1964	CDS	complement(2122598..2122876)	hypothetical protein
+cdv:CDVA01_1965	CDS	2123136..2124122	hypothetical protein
+cdv:CDVA01_1966	CDS	complement(2124119..2124883)	DNA polymerase bacteriophage-type
+cdv:CDVA01_1967	CDS	2124978..2125136	hypothetical protein
+cdv:CDVA01_1968	CDS	complement(2125206..2126960)	cdtQ; ABC transport protein ATP-binding/permease protein
+cdv:CDVA01_1969	CDS	complement(2126963..2128744)	cdtP; ABC transport protein ATP-binding/permease protein
+cdv:CDVA01_1970	CDS	complement(2128797..2136716)	sidB; modular polyketide synthase
+cdv:CDVA01_1971	CDS	complement(2136713..2141890)	sidA; nonribosomal peptide synthase
+cdv:CDVA01_1972	CDS	2142278..2143777	ddpA; ABC-type peptide transporter solute-binding protein
+cdv:CDVA01_1973	CDS	2143790..2144743	ABC-type peptide/nickel transporter permease protein
+cdv:CDVA01_1974	CDS	2144740..2145561	ddpC; ABC-type peptide/nickel transporter permease protein
+cdv:CDVA01_1975	CDS	2145558..2146964	ddpD; ABC-type peptide/nickel transporter ATP-binding protein
+cdv:CDVA01_1976	CDS	2147073..2148377	ABC transporter permease protein
+cdv:CDVA01_1977	CDS	2148495..2148677	metE; 5-methyltetrahydropteroyltriglutamate-homocysteine methyltransferase
+cdv:CDVA01_1978	CDS	2148706..2149917	integral membrane transport protein
+cdv:CDVA01_1979	CDS	complement(2149914..2151392)	putative secreted protein
+cdv:CDVA01_1980	CDS	complement(2151394..2152185)	putative membrane protein
+cdv:CDVA01_1981	CDS	complement(2152208..2153890)	putative secreted protein
+cdv:CDVA01_1982	CDS	complement(2153896..2155047)	putative secreted glycosyl hydrolase
+cdv:CDVA01_1983	CDS	2155271..2158348	aftD; arabinofuranosyltransferase
+cdv:CDVA01_1984	CDS	complement(2158240..2159379)	putative integral membrane acyltransferase
+cdv:CDVA01_1985	CDS	2159392..2160486	putative integral membrane protein
+cdv:CDVA01_1986	CDS	2160477..2161889	putative integral membrane protein
+cdv:CDVA01_1987	CDS	complement(2161772..2162908)	hypothetical protein
+cdv:CDVA01_1988	CDS	2162968..2163702	hypothetical protein
+cdv:CDVA01_1989	CDS	complement(2163727..2165565)	pck; phosphoenolpyruvate carboxykinase
+cdv:CDVA01_1990	CDS	2166022..2166801	trmB; tRNA guanine-N7-methyltransferase
+cdv:CDVA01_1991	CDS	2166798..2167418	hypothetical protein
+cdv:CDVA01_1992	CDS	2167433..2169673	mmpL1; putative drug exporter of the RND superfamily
+cdv:CDVA01_1993	CDS	2169675..2170718	putative integral membrane protein
+cdv:CDVA01_1994	CDS	2170715..2171071	putative integral membrane protein
+cdv:CDVA01_1995	CDS	2171136..2171288	hypothetical protein
+cdv:CDVA01_1996	CDS	2171597..2171848	transposase-like protein
+cdv:CDVA01_1997	CDS	complement(2172263..2175262)	putative collagen-binding protein
+cdv:CDVA01_1998	CDS	complement(2175680..2176114)	hypothetical protein
+cdv:CDVA01_1999	CDS	complement(2176267..2176683)	endo-beta-N-acetylglucosaminidase F2
+cdv:CDVA01_2000	CDS	complement(2176839..2178389)	pccB2; propionyl-CoA carboxylase complex B subunit
+cdv:CDVA01_2001	CDS	complement(2178401..2183161)	pks13; polyketide synthase involved in mycolic acid biosynthesis
+cdv:CDVA01_2002	CDS	complement(2183260..2185074)	fadD1; acyl-CoA synthetase
+cdv:CDVA01_2003	CDS	complement(2185149..2186060)	elrF; envelope lipids regulation factor
+cdv:CDVA01_2004	CDS	complement(2186066..2186581)	putative secreted protein
+cdv:CDVA01_2005	CDS	complement(2186581..2188497)	cmtC; trehalose corynomycolyl transferase C
+cdv:CDVA01_2006	CDS	complement(2188858..2189874)	cmtB; trehalose corynomycolyl transferase B
+cdv:CDVA01_2007	CDS	complement(2190041..2191729)	aftB; arabinofuranosyltrasnferase
+cdv:CDVA01_2008	CDS	complement(2191738..2192715)	ubiA; phosphoribose diphosphate:decaprenyl-phosphate phosphoribosyltransferase
+cdv:CDVA01_2009	CDS	complement(2192712..2193206)	putative integral membrane protein
+cdv:CDVA01_2010	CDS	complement(2193206..2195191)	glfT; putative glycosyltransferase
+cdv:CDVA01_2011	CDS	complement(2195276..2195761)	putative integral membrane protein
+cdv:CDVA01_2012	CDS	complement(2195832..2197409)	gbsA; betaine aldehyde dehydrogenase
+cdv:CDVA01_2013	CDS	complement(2197476..2199701)	betT; high-affinity choline transport protein
+cdv:CDVA01_2014	CDS	2199973..2201766	betA; choline dehydrogenase
+cdv:CDVA01_2015	CDS	complement(2201952..2203115)	glf; UDP-galactopyranose mutase
+cdv:CDVA01_2016	CDS	complement(2203154..2203360)	hypothetical protein
+cdv:CDVA01_2017	CDS	complement(2203409..2203870)	hypothetical protein
+cdv:CDVA01_2018	CDS	complement(2203923..2204765)	putative DNA-binding protein
+cdv:CDVA01_2019	CDS	complement(2204812..2204955)	hypothetical protein
+cdv:CDVA01_2020	CDS	complement(2205010..2205285)	putative nucleotide-binding protein
+cdv:CDVA01_2021	CDS	2205756..2207576	putative secreted protein
+cdv:CDVA01_2022	CDS	complement(2207816..2208049)	hypothetical protein
+cdv:CDVA01_2023	CDS	2208359..2208481	transposase-like protein
+cdv:CDVA01_2024	CDS	2209009..2209350	transposase-like protein
+cdv:CDVA01_2025	CDS	complement(2209472..2209576)	hypothetical protein
+cdv:CDVA01_2026	CDS	complement(2209592..2209867)	hypothetical protein
+cdv:CDVA01_2027	CDS	2210113..2210502	hypothetical protein
+cdv:CDVA01_2028	CDS	2210492..2210767	hypothetical protein
+cdv:CDVA01_2029	CDS	2210923..2211072	putative secreted protein
+cdv:CDVA01_2030	CDS	complement(2211230..2212111)	spaI; putative surface-anchored fimbrial subunit
+cdv:CDVA01_2031	CDS	complement(2212113..2213159)	srtE; putative fimbrial associated sortase-like protein
+cdv:CDVA01_2032	CDS	complement(2213143..2214099)	srtD; putative fimbrial associated sortase-like protein
+cdv:CDVA01_2033	CDS	complement(2214289..2215956)	spaH; putative surface-anchored fimbrial subunit
+cdv:CDVA01_2034	CDS	complement(2216060..2220187)	spaG; putative surface-anchored fimbrial subunit
+cdv:CDVA01_2035	CDS	2220391..2220501	transposase-like protein
+cdv:CDVA01_2036	CDS	2220556..2220675	hypothetical protein
+cdv:CDVA01_2037	CDS	2220846..2221010	transposase-like protein
+cdv:CDVA01_2038	CDS	2221293..2221412	transposase-like protein
+cdv:CDVA01_2039	CDS	complement(2221736..2221852)	hypothetical protein
+cdv:CDVA01_2040	CDS	complement(2223351..2224871)	glpK; glycerol kinase
+cdv:CDVA01_2041	CDS	complement(2224890..2225630)	glpF; glycerol uptake facilitator protein
+cdv:CDVA01_2042	CDS	complement(2225630..2227354)	glpD; putative glycerol-3-phosphate dehydrogenase
+cdv:CDVA01_2043	CDS	complement(2227429..2227530)	hypothetical protein
+cdv:CDVA01_2044	CDS	complement(2227550..2229382)	putative acyltransferase
+cdv:CDVA01_2045	CDS	complement(2229395..2230222)	hypothetical protein
+cdv:CDVA01_2046	CDS	complement(2230252..2231511)	serS; seryl-tRNA synthetase
+cdv:CDVA01_2047	CDS	2231573..2232382	farR; GntR-family transcriptional regulator
+cdv:CDVA01_2048	CDS	2232384..2233385	putative secreted protein
+cdv:CDVA01_2049	CDS	2233392..2233739	hypothetical protein
+cdv:CDVA01_2050	CDS	2233814..2235061	hypothetical protein
+cdv:CDVA01_2051	CDS	complement(2235047..2235673)	putative phosphoglycerate mutase
+cdv:CDVA01_2052	CDS	complement(2235718..2236620)	pheA; prephenate dehydratase
+cdv:CDVA01_2053	CDS	2236656..2237792	putative amidase
+cdv:CDVA01_2054	CDS	2237789..2238505	putative integral membrane protein
+cdv:CDVA01_2055	CDS	complement(2238489..2240780)	putative nitric-oxide reductase
+cdv:CDVA01_2056	CDS	2240992..2242287	lytR2; membrane-bound protein
+cdv:CDVA01_2057	CDS	complement(2242416..2243906)	putative sodium/alanine symporter
+cdv:CDVA01_2058	CDS	2244097..2245890	putative integral membrane protein
+cdv:CDVA01_2059	CDS	complement(2245952..2246857)	hypothetical protein
+cdv:CDVA01_2060	CDS	complement(2246869..2247552)	glpQ; glycerophosphoryl diester phosphodiesterase
+cdv:CDVA01_2061	CDS	complement(2247697..2248653)	ldh2; L-lactate dehydrogenase
+cdv:CDVA01_2062	CDS	2248864..2249535	putative hydrolase of the HAD superfamily
+cdv:CDVA01_2063	CDS	complement(2249615..2250037)	hypothetical protein
+cdv:CDVA01_2064	CDS	2250140..2250325	hypothetical protein
+cdv:CDVA01_2065	CDS	complement(2250336..2250452)	hypothetical protein
+cdv:CDVA01_2066	CDS	2251609..2252208	sodA; manganese superoxide dismutase
+cdv:CDVA01_2067	CDS	2252457..2252993	putative oxidoreductase
+cdv:CDVA01_2068	CDS	complement(2252990..2254339)	putative membrane protein
+cdv:CDVA01_2069	CDS	complement(2254356..2255927)	hypothetical protein
+cdv:CDVA01_2070	CDS	2256040..2256672	hypothetical protein
+cdv:CDVA01_2071	CDS	2256794..2257111	hypothetical protein
+cdv:CDVA01_2072	CDS	complement(2257169..2257807)	hrrA; two component system response regulator protein
+cdv:CDVA01_2073	CDS	complement(2257889..2259331)	hrrS; two component system histidine kinase
+cdv:CDVA01_2074	CDS	2259870..2261279	uhpT; sugar phosphate antiporter
+cdv:CDVA01_2075	CDS	complement(2261342..2261494)	hypothetical protein
+cdv:CDVA01_2076	CDS	complement(2261501..2262322)	sortase-like protein
+cdv:CDVA01_2077	CDS	2262454..2263761	putative membrane protein
+cdv:CDVA01_2078	CDS	complement(2263628..2264254)	mcbR; methionine and cysteine biosynthesis regulator
+cdv:CDVA01_2079	CDS	complement(2264510..2264773)	putative membrane protein
+cdv:CDVA01_2080	CDS	complement(2265070..2265972)	hypothetical protein
+cdv:CDVA01_2081	CDS	2266211..2267260	hypothetical protein
+cdv:CDVA01_2082	CDS	2268003..2269211	transposase-like protein
+cdv:CDVA01_r013	rRNA	complement(2269471..2269590)	5S ribosomal RNA
+cdv:CDVA01_r014	rRNA	complement(2269754..2272803)	23S ribosomal RNA
+cdv:CDVA01_r015	rRNA	complement(2273192..2274699)	16S ribosomal RNA
+cdv:CDVA01_2083	CDS	complement(2275256..2276218)	putative integral membrane protein
+cdv:CDVA01_2084	CDS	complement(2276271..2277140)	ABC transporter ATP-binding protein
+cdv:CDVA01_2085	CDS	complement(2277137..2277511)	gntR; GntR-family transcriptional regulator
+cdv:CDVA01_2086	CDS	2277752..2279107	hypothetical protein
+cdv:CDVA01_2087	CDS	complement(2279180..2279944)	hypothetical protein
+cdv:CDVA01_2088	CDS	complement(2280115..2280579)	trxA; thioredoxin
+cdv:CDVA01_2089	CDS	2280712..2280915	putative cation transport protein
+cdv:CDVA01_2090	CDS	2281071..2283302	ctpA1; putative cation-transporting P-type ATPase
+cdv:CDVA01_2091	CDS	2283401..2284726	putative integral membrane transport protein
+cdv:CDVA01_2092	CDS	complement(2284730..2286250)	dnaB; replicative DNA helicase
+cdv:CDVA01_2093	CDS	complement(2286824..2287276)	rplI; 50S ribosomal protein L9
+cdv:CDVA01_2094	CDS	complement(2287407..2287988)	ssb1; single-stranded DNA-binding protein
+cdv:CDVA01_2095	CDS	complement(2288113..2288400)	rpsF; 30S ribosomal protein S6
+cdv:CDVA01_2096	CDS	complement(2288595..2288774)	putative secreted protein
+cdv:CDVA01_2097	CDS	complement(2288774..2290336)	putative integral membrane protein
+cdv:CDVA01_2098	CDS	complement(2290390..2292570)	pbp1A; putative penicillin-binding protein 1
+cdv:CDVA01_2099	CDS	complement(2292658..2293020)	hypothetical protein
+cdv:CDVA01_2100	CDS	2293139..2293591	uspR; MarR-family transcriptional regulator
+cdv:CDVA01_2101	CDS	2293601..2294566	uspA; universal stress protein
+cdv:CDVA01_2102	CDS	2294578..2295249	short chain dehydrogenase
+cdv:CDVA01_2103	CDS	2295261..2295734	putative integral membrane protein
+cdv:CDVA01_2104	CDS	complement(2295789..2297234)	putative DNA-binding protein
+cdv:CDVA01_2105	CDS	complement(2297392..2298330)	hypothetical protein
+cdv:CDVA01_2106	CDS	2298517..2299155	putative integral membrane protein
+cdv:CDVA01_2107	CDS	complement(2299291..2299782)	dps; DNA protection during starvation protein
+cdv:CDVA01_2108	CDS	2299870..2300724	putative DNA repair glycosylase
+cdv:CDVA01_2109	CDS	2300746..2302254	hypothetical protein
+cdv:CDVA01_2110	CDS	complement(2302267..2303394)	putative hydrolase
+cdv:CDVA01_2111	CDS	complement(2303482..2304228)	putative integral membrane protein
+cdv:CDVA01_2112	CDS	complement(2304285..2305346)	nifH; nitrogenase iron protein
+cdv:CDVA01_2113	CDS	complement(2305681..2306637)	hypothetical protein
+cdv:CDVA01_2114	CDS	complement(2306741..2307319)	hypothetical protein
+cdv:CDVA01_2115	CDS	complement(2307522..2309249)	hypothetical protein
+cdv:CDVA01_2116	CDS	complement(2309370..2310230)	hypothetical protein
+cdv:CDVA01_2117	CDS	complement(2310392..2311513)	hypothetical protein
+cdv:CDVA01_2118	CDS	complement(2311506..2312273)	hypothetical protein
+cdv:CDVA01_2119	CDS	complement(2312273..2314636)	putative type I restriction/modification system protein
+cdv:CDVA01_2120	CDS	complement(2314633..2315067)	putative type I restriction/modification system DNA methylase
+cdv:CDVA01_2121	CDS	complement(2315270..2318416)	hsdR; type I restriction enzyme, R subunit
+cdv:CDVA01_2122	CDS	complement(2318426..2319592)	hsdS; type I restriction enzyme, S subunit
+cdv:CDVA01_2123	CDS	complement(2319589..2321370)	hsdM; type I restriction enzyme M protein
+cdv:CDVA01_2124	CDS	complement(2321367..2321606)	hypothetical protein
+cdv:CDVA01_2125	CDS	complement(2321596..2323470)	DNA double-strand break repair rad50 ATPase
+cdv:CDVA01_2126	CDS	complement(2323467..2323904)	phage-associated protein
+cdv:CDVA01_2127	CDS	complement(2323904..2324875)	hypothetical protein
+cdv:CDVA01_2128	CDS	2325072..2325224	hypothetical protein
+cdv:CDVA01_2129	CDS	2325448..2326074	hypothetical protein
+cdv:CDVA01_2130	CDS	2326137..2326379	hypothetical protein
+cdv:CDVA01_2131	CDS	2326376..2326786	phage-associated protein
+cdv:CDVA01_2132	CDS	2326779..2327912	putative protein p51
+cdv:CDVA01_2133	CDS	2327938..2328492	putative protein p50
+cdv:CDVA01_2134	CDS	2328510..2328719	hypothetical protein
+cdv:CDVA01_2135	CDS	complement(2329166..2329474)	putative membrane protein
+cdv:CDVA01_2136	CDS	complement(2329754..2330719)	phosphoribosylaminoimidazole synthetase
+cdv:CDVA01_2137	CDS	2330940..2331086	hypothetical protein
+cdv:CDVA01_2138	CDS	complement(2331280..2331528)	hypothetical protein
+cdv:CDVA01_2139	CDS	complement(2331824..2333122)	hypothetical protein
+cdv:CDVA01_2140	CDS	complement(2333328..2335040)	hypothetical protein
+cdv:CDVA01_2141	CDS	complement(2335118..2335771)	sodC; Cu/Zn superoxide dismutase
+cdv:CDVA01_2142	CDS	complement(2336104..2338980)	leuS; leucyl-tRNA synthetase
+cdv:CDVA01_2143	CDS	complement(2339267..2339989)	hypothetical protein
+cdv:CDVA01_2144	CDS	complement(2340046..2340711)	hrtA; ABC transporter system involved in hemin toxicity ATP-binding protein
+cdv:CDVA01_2145	CDS	complement(2340708..2341742)	hrtB; ABC transporter system involved in hemin toxicity inner membrane protein
+cdv:CDVA01_2146	CDS	2342012..2343265	heme-responsive histidine kinase
+cdv:CDVA01_2147	CDS	2343262..2343861	chrA; two-component system response regulator involved in heme homeostasis
+cdv:CDVA01_2148	CDS	complement(2343858..2344403)	integral membrane protein
+cdv:CDVA01_2149	CDS	complement(2344500..2346401)	integral membrane protein
+cdv:CDVA01_2150	CDS	2346840..2347847	putative secreted protein
+cdv:CDVA01_2151	CDS	2348079..2349470	putative aldehyde dehydrogenase
+cdv:CDVA01_2152	CDS	2349638..2350432	putative phosphotransferase system protein
+cdv:CDVA01_2153	CDS	2350458..2352029	ulaA; ascorbate-specific PTS system enzyme IIC
+cdv:CDVA01_2154	CDS	complement(2352026..2352235)	hypothetical protein
+cdv:CDVA01_2155	CDS	complement(2352252..2353472)	cmtD; trehalose corynomycolyl transferase D
+cdv:CDVA01_2156	CDS	2353509..2354504	putative nucleoside hydrolase
+cdv:CDVA01_2157	CDS	2354600..2355358	putative integral membrane transport protein
+cdv:CDVA01_2158	CDS	2355454..2356056	putative integral membrane transport protein
+cdv:CDVA01_2159	CDS	2356075..2357241	ABC transporter ATP-binding protein
+cdv:CDVA01_2160	CDS	complement(2357255..2358034)	hypothetical protein
+cdv:CDVA01_2161	CDS	2358082..2358720	hypothetical protein
+cdv:CDVA01_2162	CDS	complement(2358728..2360221)	hypothetical protein
+cdv:CDVA01_2163	CDS	complement(2360285..2361151)	hypothetical protein
+cdv:CDVA01_2164	CDS	complement(2361337..2362581)	putative integral membrane transport protein
+cdv:CDVA01_2165	CDS	2362753..2363241	putative membrane protein
+cdv:CDVA01_2166	CDS	2363494..2364825	trpB1; tryptophan synthase subunit beta
+cdv:CDVA01_2167	CDS	2364828..2365409	trpE1; anthranilate synthase component I
+cdv:CDVA01_2168	CDS	2365490..2366383	trpE3; anthranilate synthase component I
+cdv:CDVA01_2169	CDS	2366380..2367024	trpG; anthranilate synthase component II
+cdv:CDVA01_2170	CDS	2367039..2368064	trpD; anthranilate phosphoribosyltransferase
+cdv:CDVA01_2171	CDS	2368054..2369511	trpC1; indole-3-glycerol phosphate synthase
+cdv:CDVA01_2172	CDS	2369572..2369949	irp4; iron-regulated membrane protein
+cdv:CDVA01_2173	CDS	2369946..2370806	panC2; pantoate-beta-alanine ligase
+cdv:CDVA01_2174	CDS	complement(2370803..2371594)	panB; 3-methyl-2-oxobutanoatehydroxymethyltransferase
+cdv:CDVA01_2175	CDS	2371932..2373158	trpB2; tryptophan synthase subunit beta
+cdv:CDVA01_2176	CDS	2373164..2374000	trpA; tryptophan synthase subunit alpha
+cdv:CDVA01_2177	CDS	2374040..2374417	putative iron-sulfur protein
+cdv:CDVA01_2178	CDS	2374438..2375406	putative integral membrane protein
+cdv:CDVA01_2179	CDS	2375403..2375729	hypothetical protein
+cdv:CDVA01_2180	CDS	complement(2375838..2376203)	azlD; branched-chain amino acid transport protein
+cdv:CDVA01_2181	CDS	complement(2376212..2376943)	azlC; branched-chain amino acid transport protein
+cdv:CDVA01_2182	CDS	complement(2376944..2377540)	hypothetical protein
+cdv:CDVA01_2183	CDS	complement(2377541..2379028)	cca; tRNA nucleotidyltransferase
+cdv:CDVA01_2184	CDS	2379168..2380040	hypothetical protein
+cdv:CDVA01_2185	CDS	2380040..2382751	putative secreted protein
+cdv:CDVA01_2186	CDS	2382860..2386189	putative integral membrane protein
+cdv:CDVA01_2187	CDS	2386348..2386950	sigM; ECF-family sigma factor E
+cdv:CDVA01_2188	CDS	2387088..2388032	trxB; thioredoxin reductase
+cdv:CDVA01_2189	CDS	2388047..2388370	trxC; thioredoxin
+cdv:CDVA01_2190	CDS	2388418..2389599	cwlM; putative hydrolase
+cdv:CDVA01_2191	CDS	complement(2389665..2390765)	parB; chromosome partitioning protein B
+cdv:CDVA01_2192	CDS	complement(2390772..2391806)	parA; chromosome partitioning protein A
+cdv:CDVA01_2193	CDS	complement(2391927..2392562)	gidB; 16S rRNA methyltransferase GidB
+cdv:CDVA01_2194	CDS	complement(2392720..2393673)	putative inner membrane protein translocase component YidC
+cdv:CDVA01_2195	CDS	complement(2393966..2394325)	rnpA; ribonuclease P
+cdv:CDVA01_2196	CDS	complement(2394357..2394500)	rpmH; 50S ribosomal protein L34
