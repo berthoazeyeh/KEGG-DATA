@@ -1,0 +1,1473 @@
+asm:MOUSESFB_0001	CDS	1..1359	dnaA; chromosomal replication initiator protein DnaA
+asm:MOUSESFB_0002	CDS	1589..2695	dnaN; DNA polymerase III, beta subunit
+asm:MOUSESFB_0003	CDS	2761..3861	recF; DNA replication and repair protein RecF
+asm:MOUSESFB_0004	CDS	3863..4120	orfX; hypothetical protein
+asm:MOUSESFB_0005	CDS	4152..6071	gyrB; DNA gyrase subunit B
+asm:MOUSESFB_0006	CDS	6090..8519	gyrA; DNA gyrase, A subunit
+asm:MOUSESFB_tRNA01	tRNA	8601..8677	tRNA-Met
+asm:MOUSESFB_tRNA02	tRNA	8679..8754	tRNA-Ala
+asm:MOUSESFB_0007	CDS	8838..9344	putative metal dependent phosphohydrolase
+asm:MOUSESFB_0008	CDS	9412..10698	serS; seryl-tRNA synthetase
+asm:MOUSESFB_0009	CDS	10727..12328	hypothetical protein
+asm:MOUSESFB_tRNA03	tRNA	12400..12490	tRNA-Ser
+asm:MOUSESFB_tRNA04	tRNA	12499..12589	tRNA-Ser
+asm:MOUSESFB_0010	CDS	12803..16198	addB; ATP-dependent nuclease subunit B
+asm:MOUSESFB_0011	CDS	16198..19779	addA; ATP-dependent deoxyribonuclease chain A
+asm:MOUSESFB_0012	CDS	complement(19769..20941)	polynucleotide adenylyltransferase
+asm:MOUSESFB_0013	CDS	21024..21992	yhaM; 3'-5' exoribonuclease YhaM
+asm:MOUSESFB_0014	CDS	21996..22835	hypothetical protein
+asm:MOUSESFB_tRNA05	tRNA	22891..22967	tRNA-Arg
+asm:MOUSESFB_0015	CDS	23175..23507	transcriptional regulator, PadR-like family
+asm:MOUSESFB_0016	CDS	23476..23874	hypothetical protein
+asm:MOUSESFB_0017	CDS	24091..24516	phnB; phnB protein
+asm:MOUSESFB_0018	CDS	24535..26040	rplK; ribosomal protein L11
+asm:MOUSESFB_0019	CDS	26353..27483	hsdM; putative type I restriction-modification system DNA methylase
+asm:MOUSESFB_0020	CDS	27530..30565	hsdR; type I site-specific deoxyribonuclease, HsdR family
+asm:MOUSESFB_0021	CDS	complement(30599..31135)	chrA; putative chromate transporter
+asm:MOUSESFB_0022	CDS	30822..31139	hypothetical protein
+asm:MOUSESFB_0023	CDS	complement(31136..31681)	chrA; chromate transport protein
+asm:MOUSESFB_0024	CDS	complement(31694..32674)	hypothetical protein
+asm:MOUSESFB_0025	CDS	complement(32828..34198)	algI; alginate O-acetylation protein
+asm:MOUSESFB_0026	CDS	complement(34218..35285)	hypothetical protein
+asm:MOUSESFB_0027	CDS	complement(35338..35823)	hypothetical protein
+asm:MOUSESFB_0028	CDS	complement(35836..37275)	proS; prolyl-tRNA synthetase
+asm:MOUSESFB_0029	CDS	37386..37985	cobW; putative cobalamin synthesis protein
+asm:MOUSESFB_tRNA06	tRNA	38054..38128	tRNA-Arg
+asm:MOUSESFB_0030	CDS	38250..39506	putative membrane CBS domain protein
+asm:MOUSESFB_0031	CDS	complement(39521..39967)	cytidine/deoxycytidylate deaminase family protein
+asm:MOUSESFB_tRNA07	tRNA	40038..40127	tRNA-Ser
+asm:MOUSESFB_0032	CDS	40479..41960	dnaX; putative DNA polymerase III subunits gamma and tau
+asm:MOUSESFB_0033	CDS	41998..42333	transcriptional regulatory protein
+asm:MOUSESFB_0034	CDS	42396..42992	recR; recombination protein recr
+asm:MOUSESFB_16sr01	rRNA	43168..44675	rrsA; 16S ribosomal RNA
+asm:MOUSESFB_23sr01	rRNA	44864..47755	rrlA; 23S ribosomal RNA
+asm:MOUSESFB_5sr01	rRNA	47813..47928	rrfA; 5S ribosomal RNA
+asm:MOUSESFB_tRNA08	tRNA	47934..48006	tRNA-Lys
+asm:MOUSESFB_0035	CDS	complement(48036..48377)	hypothetical protein
+asm:MOUSESFB_0036	CDS	complement(48378..49628)	putative membrane protein
+asm:MOUSESFB_0037	CDS	complement(49625..50335)	mtnN; MTA/SAH nucleosidase
+asm:MOUSESFB_0038	CDS	50458..51225	molybdopterin/thiamine biosynthesis family protein
+asm:MOUSESFB_16sr02	rRNA	51397..52904	rrsA; 16S ribosomal RNA
+asm:MOUSESFB_23sr02	rRNA	53093..55984	rrlA; 23S ribosomal RNA
+asm:MOUSESFB_5sr02	rRNA	56042..56157	rrfA; 5S ribosomal RNA
+asm:MOUSESFB_0039	CDS	complement(56182..57540)	FemAB family protein
+asm:MOUSESFB_0040	CDS	57656..58486	tpm; tetrapyrrole (Corrin/Porphyrin) methylase
+asm:MOUSESFB_0041	CDS	complement(58508..58750)	abrB; AbrB family transcriptional regulator
+asm:MOUSESFB_0042	CDS	complement(59182..59940)	putative peptidase M15D vanX D-ala-D-ala dipeptidase
+asm:MOUSESFB_0043	CDS	complement(59991..60992)	cell envelope-related function transcriptional attenuator
+asm:MOUSESFB_0044	CDS	complement(61069..62121)	putative acyltransferase
+asm:MOUSESFB_0045	CDS	62290..63405	glycosyltransferase
+asm:MOUSESFB_0046	CDS	63434..64543	glycosyl transferase group 1
+asm:MOUSESFB_0047	CDS	64545..65942	hypothetical protein
+asm:MOUSESFB_0048	CDS	complement(65980..66834)	hypothetical protein
+asm:MOUSESFB_0049	CDS	complement(66930..67919)	lytR; LytR family transcriptional regulator
+asm:MOUSESFB_0050	CDS	68075..68953	yihY; YihY family protein
+asm:MOUSESFB_0051	CDS	68961..70076	glycosyltransferase
+asm:MOUSESFB_0052	CDS	70093..71385	polysaccharide biosynthesis protein
+asm:MOUSESFB_0053	CDS	71494..72141	capsular polysaccharide biosynthesis protein
+asm:MOUSESFB_0054	CDS	72162..73193	mannose-1-phosphate guanylyltransferase (GDP)
+asm:MOUSESFB_0055	CDS	73254..74105	glycosyl transferase, group 1
+asm:MOUSESFB_0056	CDS	74207..74986	UTP-glucose-1-phosphate uridylyltransferase
+asm:MOUSESFB_0057	CDS	74991..75584	isochorismatase family protein
+asm:MOUSESFB_0058	CDS	75691..76035	single-strand binding protein family
+asm:MOUSESFB_0059	CDS	complement(76159..77376)	metallo-beta-lactamase family flavodoxin
+asm:MOUSESFB_0060	CDS	77635..77985	hypothetical protein
+asm:MOUSESFB_0061	CDS	78007..78372	acpS; holo-[acyl-carrier-protein] synthase
+asm:MOUSESFB_0062	CDS	78455..79063	membrane associated protein
+asm:MOUSESFB_0063	CDS	79086..80234	alr2; alanine racemase
+asm:MOUSESFB_0064	CDS	80359..80646	hypothetical protein
+asm:MOUSESFB_0065	CDS	80603..80956	ndoA; endoribonuclease EndoA
+asm:MOUSESFB_0066	CDS	81041..83737	alpha-N-acetylglucosaminidase family protein
+asm:MOUSESFB_0067	CDS	83860..84537	ftsE; cell division ATP-binding protein FtsE
+asm:MOUSESFB_0068	CDS	84537..85427	FtsX; putative cell division protein FtsX
+asm:MOUSESFB_0069	CDS	85509..86816	ctp; carboxyl-terminal protease
+asm:MOUSESFB_0070	CDS	86882..87457	putative C-terminal PDZ domain-containing protein
+asm:MOUSESFB_0071	CDS	87469..89451	uvrB; excinuclease ABC subunit B
+asm:MOUSESFB_0072	CDS	89460..92276	uvrA; excinuclease ABC, A subunit
+asm:MOUSESFB_0073	CDS	92633..93661	cell cycle protein
+asm:MOUSESFB_0074	CDS	93658..95064	peptidoglycan glycosyltransferase
+asm:MOUSESFB_0075	CDS	95147..96955	uvrC; excinuclease ABC, C subunit
+asm:MOUSESFB_0076	CDS	96981..97901	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+asm:MOUSESFB_0077	CDS	97903..98769	putative P-loop ATPase protein family
+asm:MOUSESFB_0078	CDS	98795..99784	putative transporter
+asm:MOUSESFB_0079	CDS	99800..100702	whiA; putative sporulation transcription regulator whiA
+asm:MOUSESFB_0080	CDS	100737..101618	hypothetical protein
+asm:MOUSESFB_0081	CDS	101731..103572	asnB; asparagine synthase (glutamine-hydrolyzing)
+asm:MOUSESFB_0082	CDS	103673..107212	dnaE; DNA polymerase III DnaE
+asm:MOUSESFB_0083	CDS	107241..108200	pfkA2; 6-phosphofructokinase
+asm:MOUSESFB_0084	CDS	108318..109649	pyk; pyruvate kinase
+asm:MOUSESFB_0085	CDS	complement(111270..112460)	phage integrase family site specific recombinase
+asm:MOUSESFB_0086	CDS	112695..113999	transporter
+asm:MOUSESFB_0087	CDS	114000..114587	hypothetical protein
+asm:MOUSESFB_0088	CDS	115839..116573	hypothetical protein
+asm:MOUSESFB_0089	CDS	complement(117316..117822)	phhB; putative pterin-4-alpha-carbinolamine dehydratase
+asm:MOUSESFB_0090	CDS	complement(117859..118473)	transcriptional regulator, XRE family
+asm:MOUSESFB_0091	CDS	118648..118866	toxin-antitoxin system, antitoxin component, Xre family
+asm:MOUSESFB_0092	CDS	complement(118873..119088)	transcriptional regulator
+asm:MOUSESFB_0093	CDS	119207..119407	transcriptional regulator, XRE family
+asm:MOUSESFB_0094	CDS	120233..120532	putative phage protein
+asm:MOUSESFB_0095	CDS	120532..121668	phage protein
+asm:MOUSESFB_0096	CDS	121684..122244	phage-associated protein
+asm:MOUSESFB_0097	CDS	122244..124163	DNA-directed DNA polymerase
+asm:MOUSESFB_0098	CDS	124179..126674	virulence-associated E family protein
+asm:MOUSESFB_0099	CDS	126969..127277	VRR-NUC domain-containing protein
+asm:MOUSESFB_0100	CDS	127229..128569	SNF2 domain protein
+asm:MOUSESFB_0101	CDS	128573..129007	phage protein
+asm:MOUSESFB_0102	CDS	128994..129206	transcriptional regulator, XRE family
+asm:MOUSESFB_0103	CDS	129284..130000	hypothetical protein
+asm:MOUSESFB_0104	CDS	130164..130586	prophage LambdaCh01, terminase, small subunit
+asm:MOUSESFB_0105	CDS	130583..131014	hypothetical protein
+asm:MOUSESFB_0106	CDS	131029..132276	PBSX family phage terminase large subunit
+asm:MOUSESFB_0107	CDS	complement(132317..132796)	hypothetical protein
+asm:MOUSESFB_0108	CDS	complement(132837..133151)	hypothetical protein
+asm:MOUSESFB_0109	CDS	133250..134575	phage portal protein, SPP1 family
+asm:MOUSESFB_0110	CDS	134568..136151	phage head morphogenesis protein, SPP1 gp7 family
+asm:MOUSESFB_0111	CDS	136385..136735	hypothetical protein
+asm:MOUSESFB_0112	CDS	136821..137498	hypothetical protein
+asm:MOUSESFB_0113	CDS	137695..138294	phage minor structural protein GP20
+asm:MOUSESFB_0114	CDS	138303..139361	putative prophage Lp2 protein 40
+asm:MOUSESFB_0115	CDS	139368..139748	hypothetical protein
+asm:MOUSESFB_0116	CDS	139742..140098	phage protein
+asm:MOUSESFB_0117	CDS	140143..140505	phage protein
+asm:MOUSESFB_0118	CDS	140502..140930	phage protein
+asm:MOUSESFB_0119	CDS	141125..142426	phage tail sheath protein
+asm:MOUSESFB_0120	CDS	142438..142914	phage protein
+asm:MOUSESFB_0121	CDS	142916..143347	phage XkdN-like protein
+asm:MOUSESFB_0122	CDS	146203..146904	LysM domain.
+asm:MOUSESFB_0123	CDS	146907..147866	tcdE; putative phage cell wall hydrolase
+asm:MOUSESFB_0124	CDS	147859..148179	phage protein
+asm:MOUSESFB_0125	CDS	148176..148583	phage protein
+asm:MOUSESFB_0126	CDS	148583..149653	putative phage tail protein
+asm:MOUSESFB_0127	CDS	149640..150329	phage protein
+asm:MOUSESFB_0128	CDS	150316..151080	hypothetical protein
+asm:MOUSESFB_0129	CDS	151085..151930	hypothetical protein
+asm:MOUSESFB_0130	CDS	152017..153639	hypothetical protein
+asm:MOUSESFB_0131	CDS	153833..154264	toxin secretion/phage lysis holin
+asm:MOUSESFB_0132	CDS	154409..155059	cwlH; N-acetylmuramoyl-L-alanine amidase CwlH
+asm:MOUSESFB_0133	CDS	complement(155106..155354)	hypothetical protein
+asm:MOUSESFB_0134	CDS	complement(155360..155596)	transcriptional regulator, putative
+asm:MOUSESFB_0135	CDS	complement(155604..155861)	hypothetical protein
+asm:MOUSESFB_0136	CDS	156687..158219	hypothetical protein
+asm:MOUSESFB_0137	CDS	158289..158981	lepB; signal peptidase I
+asm:MOUSESFB_0138	CDS	159064..161151	ATP-dependent DNA helicase
+asm:MOUSESFB_0139	CDS	complement(161148..162134)	hypothetical protein
+asm:MOUSESFB_0140	CDS	complement(162207..163421)	czcD; cobalt-zinc-cadmium resistance protein czcD
+asm:MOUSESFB_0141	CDS	163527..164726	lysC; aspartokinase
+asm:MOUSESFB_0142	CDS	164741..166021	lisA; diaminopimelate decarboxylase, lisA
+asm:MOUSESFB_0143	CDS	166089..167228	hypothetical protein
+asm:MOUSESFB_0144	CDS	167250..168530	aspartyl aminopeptidase
+asm:MOUSESFB_0145	CDS	complement(168543..169028)	ispF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+asm:MOUSESFB_0146	CDS	complement(169042..169773)	rluF; ribosomal large subunit pseudouridine synthase F
+asm:MOUSESFB_0147	CDS	complement(169822..170757)	hypothetical protein
+asm:MOUSESFB_0148	CDS	171038..171763	hypothetical protein
+asm:MOUSESFB_0149	CDS	complement(172196..172825)	hypothetical protein
+asm:MOUSESFB_0150	CDS	complement(172925..173284)	hypothetical protein
+asm:MOUSESFB_0151	CDS	173433..174281	hypothetical protein
+asm:MOUSESFB_0152	CDS	174626..175465	hypothetical protein
+asm:MOUSESFB_0153	CDS	175855..176751	hypothetical protein
+asm:MOUSESFB_0154	CDS	176773..177687	hypothetical protein
+asm:MOUSESFB_0155	CDS	177762..178769	hypothetical protein
+asm:MOUSESFB_0156	CDS	178952..180271	efflux transporter, RND family, MFP subunit
+asm:MOUSESFB_0157	CDS	180268..180927	antimicrobial peptide ABC superfamily ATP binding cassette transporter ABC protein
+asm:MOUSESFB_0158	CDS	181086..182159	ABC transporter, permease protein
+asm:MOUSESFB_0159	CDS	182152..182664	hypothetical protein
+asm:MOUSESFB_0160	CDS	182742..183824	putative ABC transporter, permease protein
+asm:MOUSESFB_0161	CDS	complement(183833..184246)	hypothetical protein
+asm:MOUSESFB_16sr03	rRNA	184498..186005	rrsA; 16S ribosomal RNA
+asm:MOUSESFB_23sr03	rRNA	186194..189085	rrlA; 23S ribosomal RNA
+asm:MOUSESFB_5sr03	rRNA	189143..189258	rrfA; 5S ribosomal RNA
+asm:MOUSESFB_0162	CDS	189325..190236	CAAX amino terminal protease family protein
+asm:MOUSESFB_0163	CDS	190484..191773	type I phosphodiesterase/nucleotide pyrophosphatase
+asm:MOUSESFB_0164	CDS	191736..192668	membrane-associated phospholipid phosphatase
+asm:MOUSESFB_0165	CDS	complement(192701..193417)	artP; arginine ABC transporter ATP-binding protein
+asm:MOUSESFB_0166	CDS	complement(193410..194054)	glnP; glutamine ABC transporter, permease/substrate-binding protein
+asm:MOUSESFB_0167	CDS	complement(194079..194882)	amino acid ABC transporter ATP-binding protein
+asm:MOUSESFB_0168	CDS	195051..195734	hypothetical protein
+asm:MOUSESFB_0169	CDS	complement(195765..197030)	cls; cardiolipin synthetase
+asm:MOUSESFB_0170	CDS	197828..201661	lacZ; beta-galactosidase
+asm:MOUSESFB_0171	CDS	complement(201711..202259)	putative acetyltransferase
+asm:MOUSESFB_0172	CDS	204811..205182	hypothetical protein
+asm:MOUSESFB_0173	CDS	206543..207385	hypothetical protein
+asm:MOUSESFB_0174	CDS	207631..208638	gap; glyceraldehyde-3-phosphate dehydrogenase
+asm:MOUSESFB_0175	CDS	208711..209904	pgk; phosphoglycerate kinase
+asm:MOUSESFB_0176	CDS	209956..210669	tpiA; triosephosphate isomerase
+asm:MOUSESFB_0177	CDS	210682..212214	gpmI; phosphoglyceromutase
+asm:MOUSESFB_0178	CDS	212237..213532	eno; phosphopyruvate hydratase
+asm:MOUSESFB_0179	CDS	213759..214595	aroE; shikimate 5-dehydrogenase
+asm:MOUSESFB_0180	CDS	214596..215027	aroQ; 3-dehydroquinate dehydratase, type II
+asm:MOUSESFB_0181	CDS	215037..215816	chorismate mutase
+asm:MOUSESFB_0182	CDS	215831..216061	secG; preprotein translocase subunit SecG
+asm:MOUSESFB_0183	CDS	216126..218204	rnr; ribonuclease R
+asm:MOUSESFB_0184	CDS	218210..218671	smpB; SsrA-binding protein
+asm:MOUSESFB_0185	CDS	219416..225121	hypothetical protein
+asm:MOUSESFB_0186	CDS	225238..226701	amino acid permease
+asm:MOUSESFB_0187	CDS	226816..227343	riboflavin biosynthesis protein RibD domain-containing protein
+asm:MOUSESFB_0188	CDS	227372..227860	acetyltransferase
+asm:MOUSESFB_0189	CDS	227930..228658	hypothetical protein
+asm:MOUSESFB_0190	CDS	228807..230651	PTS system mannitol-specific transporter subunit IIC
+asm:MOUSESFB_0191	CDS	230661..232760	putative transcription antiterminator
+asm:MOUSESFB_0192	CDS	232764..233897	mtlD; D-mannitol 1-phosphate 5-dehydrogenase
+asm:MOUSESFB_0193	CDS	234002..234673	N-acetylmuramoyl-L-alanine amidase
+asm:MOUSESFB_0194	CDS	234686..236023	matE; MATE efflux family protein
+asm:MOUSESFB_0195	CDS	236228..236512	arsR; ArsR family transcriptional regulator
+asm:MOUSESFB_0196	CDS	complement(236752..237471)	hypothetical protein
+asm:MOUSESFB_0197	CDS	complement(237681..239585)	nadE; NAD synthetase
+asm:MOUSESFB_0198	CDS	239679..240365	ung; uracil-DNA glycosylase
+asm:MOUSESFB_0199	CDS	240434..241495	alr; alanine racemase family protein
+asm:MOUSESFB_0200	CDS	241492..242115	hypothetical protein
+asm:MOUSESFB_0201	CDS	242181..243014	dapF; diaminopimelate epimerase
+asm:MOUSESFB_0202	CDS	243014..243736	fabG; 3-ketoacyl-(acyl-carrier-protein) reductase
+asm:MOUSESFB_0203	CDS	243814..244518	traX; putative F-pilin acetylation protein TraX
+asm:MOUSESFB_0204	CDS	244714..245859	hypothetical protein
+asm:MOUSESFB_0205	CDS	245985..248123	hypothetical protein
+asm:MOUSESFB_0206	CDS	complement(248158..249540)	ywdH; aldehyde dehydrogenase ywdH
+asm:MOUSESFB_0207	CDS	249664..251478	putative lipoprotein
+asm:MOUSESFB_0208	CDS	251546..252271	nagB; glucosamine-6-phosphate isomerase
+asm:MOUSESFB_0209	CDS	252352..252744	hypothetical protein
+asm:MOUSESFB_0210	CDS	252901..254091	wprA; putative cell wall-associated protease precursor
+asm:MOUSESFB_0211	CDS	254117..255625	hypothetical protein
+asm:MOUSESFB_0212	CDS	complement(255635..256492)	speE; spermidine synthase
+asm:MOUSESFB_0213	CDS	complement(256505..256918)	speD; S-adenosylmethionine decarboxylase proenzyme
+asm:MOUSESFB_0214	CDS	257244..258119	PP-loop domain-containing protein
+asm:MOUSESFB_0215	CDS	258482..259003	hypothetical protein
+asm:MOUSESFB_0216	CDS	complement(259016..259657)	membrane-spanning protein
+asm:MOUSESFB_0217	CDS	259721..261376	glnS; glutaminyl-tRNA synthetase
+asm:MOUSESFB_0218	CDS	261566..263701	amiB; putative N-acetylmuramoyl-L-alanine amidase
+asm:MOUSESFB_0219	CDS	263860..264936	lexA; putative LexA repressor
+asm:MOUSESFB_0220	CDS	265248..265433	hypothetical protein
+asm:MOUSESFB_0221	CDS	265444..267672	copper-translocating P-type ATPase
+asm:MOUSESFB_0222	CDS	267717..268214	nuclease of thermonuclease family
+asm:MOUSESFB_0223	CDS	268254..268427	heavy metal transport/detoxification protein
+asm:MOUSESFB_0224	CDS	268591..270702	hypothetical protein
+asm:MOUSESFB_0225	CDS	271436..274552	ileS; isoleucyl-tRNA synthetase
+asm:MOUSESFB_0226	CDS	274596..275594	alr; alanine racemase
+asm:MOUSESFB_0227	CDS	275695..276243	spmA; spore maturation protein A
+asm:MOUSESFB_0228	CDS	276254..276778	spmB; spore maturation protein B
+asm:MOUSESFB_0229	CDS	277066..277713	hypothetical protein
+asm:MOUSESFB_0230	CDS	278028..279275	Xaa-pro aminopeptidase
+asm:MOUSESFB_0231	CDS	279290..280084	lgt; prolipoprotein diacylglyceryl transferase
+asm:MOUSESFB_0232	CDS	complement(280128..280790)	hypothetical protein
+asm:MOUSESFB_0233	CDS	280979..282100	rpsA; 30S ribosomal protein S1
+asm:MOUSESFB_0234	CDS	282123..283577	pepD; aminoacyl-histidine dipeptidase
+asm:MOUSESFB_0235	CDS	283617..284417	putative membrane protein
+asm:MOUSESFB_0236	CDS	284503..284970	TspO and MBR like protein
+asm:MOUSESFB_0237	CDS	285003..286160	putative amidohydrolase
+asm:MOUSESFB_0238	CDS	286235..287278	putative acyltransferase 3
+asm:MOUSESFB_0239	CDS	287366..289045	hypothetical protein
+asm:MOUSESFB_0240	CDS	complement(289347..290648)	hypothetical protein
+asm:MOUSESFB_0241	CDS	290101..290535	hypothetical protein
+asm:MOUSESFB_0242	CDS	290698..293271	polA2; DNA polymerase I
+asm:MOUSESFB_0243	CDS	293243..293881	coaE; dephospho-CoA kinase
+asm:MOUSESFB_0244	CDS	293903..294454	slt; Slt family transglycosylase
+asm:MOUSESFB_tRNA09	tRNA	294513..294599	tRNA-Leu
+asm:MOUSESFB_0245	CDS	294666..295496	manA; mannose-6-phosphate isomerase, type 1
+asm:MOUSESFB_0246	CDS	complement(295513..295833)	hypothetical protein
+asm:MOUSESFB_0247	CDS	296071..297402	hypothetical protein
+asm:MOUSESFB_0248	CDS	297407..300142	hypothetical protein
+asm:MOUSESFB_16sr04	rRNA	300315..301822	rrsA; 16S ribosomal RNA
+asm:MOUSESFB_tRNA10	tRNA	301901..301977	tRNA-Ile
+asm:MOUSESFB_23sr04	rRNA	302097..304988	rrlA; 23S ribosomal RNA
+asm:MOUSESFB_5sr04	rRNA	305046..305161	rrfA; 5S ribosomal RNA
+asm:MOUSESFB_tRNA11	tRNA	305164..305238	tRNA-Asn
+asm:MOUSESFB_16sr05	rRNA	305323..306830	rrsA; 16S ribosomal RNA
+asm:MOUSESFB_23sr05	rRNA	307019..309910	rrlA; 23S ribosomal RNA
+asm:MOUSESFB_5sr05	rRNA	309968..310083	rrfA; 5S ribosomal RNA
+asm:MOUSESFB_0249	CDS	310150..310806	nanE; N-acylglucosamine-6-phosphate 2-epimerase
+asm:MOUSESFB_0250	CDS	310819..311652	polysaccharide deacetylase
+asm:MOUSESFB_0251	CDS	311738..312427	DNA-binding response regulator
+asm:MOUSESFB_0252	CDS	312417..313841	sensor histidine kinase
+asm:MOUSESFB_0253	CDS	313851..315353	putative lipoprotein
+asm:MOUSESFB_0254	CDS	315372..315950	yedF; SirA family protein
+asm:MOUSESFB_0255	CDS	complement(315985..316599)	endodeoxyribonuclease, RusA family protein
+asm:MOUSESFB_0256	CDS	316731..317735	gcp; O-sialoglycoprotein endopeptidase
+asm:MOUSESFB_0257	CDS	317753..318775	hydrolase, alpha/beta fold family
+asm:MOUSESFB_0258	CDS	318800..320020	putative serine protease
+asm:MOUSESFB_0259	CDS	complement(320064..321968)	ABC transporter, ATP-binding protein
+asm:MOUSESFB_0260	CDS	322145..322816	nanE; N-acetylmannosamine-6-phosphate epimerase
+asm:MOUSESFB_0261	CDS	322896..323762	nanA; N-acetylneuraminate lyase
+asm:MOUSESFB_0262	CDS	323782..325239	putative sodium:solute symporter
+asm:MOUSESFB_0263	CDS	325357..326295	ROK family transcriptional repressor, with glucokinase domain protein
+asm:MOUSESFB_0264	CDS	326320..326871	membrane protein
+asm:MOUSESFB_0265	CDS	327014..327430	fur; transcriptional regulator, Fur family
+asm:MOUSESFB_0266	CDS	complement(327433..328224)	zurM; hydrophobic membrane protein ZurM
+asm:MOUSESFB_0267	CDS	complement(328217..328897)	manganese/zinc/iron chelate uptake ABC transporter, Mzt family, ATP-binding protein
+asm:MOUSESFB_0268	CDS	328995..329876	manganese/zinc/iron chelate ABC transporter substrate-binding protein
+asm:MOUSESFB_0269	CDS	329885..330253	hypothetical protein
+asm:MOUSESFB_0270	CDS	330340..331335	rhomboid family protein
+asm:MOUSESFB_0271	CDS	331373..332056	putative rhomboid family protein
+asm:MOUSESFB_0272	CDS	332207..333295	hypothetical protein
+asm:MOUSESFB_0273	CDS	complement(333649..333828)	sspC1; small acid-soluble spore protein C1
+asm:MOUSESFB_0274	CDS	334173..335483	peptidase, M23/M37 family protein
+asm:MOUSESFB_0275	CDS	335636..336457	hypothetical protein
+asm:MOUSESFB_0276	CDS	336535..337836	tig; trigger factor protein
+asm:MOUSESFB_0277	CDS	337861..338445	clpP; ATP-dependent Clp protease, proteolytic subunit ClpP
+asm:MOUSESFB_0278	CDS	338477..339736	clpX; ATP-dependent Clp protease, ATP-binding subunit ClpX
+asm:MOUSESFB_0279	CDS	339766..340332	engB; ribosome biogenesis GTP-binding protein YsxC
+asm:MOUSESFB_0280	CDS	340440..340967	hypothetical protein
+asm:MOUSESFB_0281	CDS	341067..341453	hypothetical protein
+asm:MOUSESFB_0282	CDS	complement(341732..342235)	hypothetical protein
+asm:MOUSESFB_0283	CDS	complement(342235..342813)	dnaJ; molecular chaperone, DnaJ family
+asm:MOUSESFB_0284	CDS	complement(342806..343717)	hypothetical protein
+asm:MOUSESFB_0285	CDS	343851..344015	hypothetical protein
+asm:MOUSESFB_0286	CDS	344140..345330	IAA-like amino acid hydrolase
+asm:MOUSESFB_0287	CDS	345339..346328	rluC; ribosomal large subunit pseudouridine synthase C
+asm:MOUSESFB_0288	CDS	346407..347975	spoVB; stage V sporulation protein B
+asm:MOUSESFB_0289	CDS	complement(347993..349369)	spoVB; putative stage V sporulation protein B
+asm:MOUSESFB_0290	CDS	349173..349490	hypothetical protein
+asm:MOUSESFB_0291	CDS	349831..350535	phospholipase C zinc-binding
+asm:MOUSESFB_0292	CDS	350788..351102	ntpG; V-type sodium ATP synthase subunit G
+asm:MOUSESFB_0293	CDS	351093..353075	V-type ATPase 116 kDa subunit
+asm:MOUSESFB_0294	CDS	353106..353594	H+transporting two-sector ATPase C subunit
+asm:MOUSESFB_0295	CDS	353614..354192	atpC; H+transporting two-sector ATPase E subunit
+asm:MOUSESFB_0296	CDS	354204..355205	H+transporting two-sector ATPase C (AC39) subunit
+asm:MOUSESFB_0297	CDS	355198..355512	atpF; ATP synthase, subunit F
+asm:MOUSESFB_0298	CDS	355529..357307	atpA; V-type ATP synthase subunit A
+asm:MOUSESFB_0299	CDS	357345..358679	atpB; V-type ATP synthase subunit B
+asm:MOUSESFB_0300	CDS	358692..359324	atpD; V-type sodium ATP synthase subunit D
+asm:MOUSESFB_0301	CDS	359418..359954	lepB; signal peptidase I
+asm:MOUSESFB_0302	CDS	360068..361144	manC; putative mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+asm:MOUSESFB_0303	CDS	361172..361825	hypothetical protein
+asm:MOUSESFB_0304	CDS	361859..362527	rpe; ribulose-phosphate 3-epimerase
+asm:MOUSESFB_0305	CDS	362604..363155	hypothetical protein
+asm:MOUSESFB_0306	CDS	363148..363642	hypothetical protein
+asm:MOUSESFB_0307	CDS	363746..364369	rex; redox-sensing transcriptional repressor rex
+asm:MOUSESFB_0308	CDS	364379..365254	ogg; 8-oxoguanine-DNA-glycosylase
+asm:MOUSESFB_0309	CDS	365338..366726	hypothetical protein
+asm:MOUSESFB_0310	CDS	366824..367219	hypothetical protein
+asm:MOUSESFB_0311	CDS	367280..367660	uvrD1; superfamily I DNA and RNA helicase
+asm:MOUSESFB_0312	CDS	367678..367938	hypothetical protein
+asm:MOUSESFB_0313	CDS	complement(368145..368795)	hypothetical protein
+asm:MOUSESFB_0314	CDS	complement(368788..369072)	arsR; transcriptional regulator, ArsR family
+asm:MOUSESFB_0315	CDS	369298..369468	hypothetical protein
+asm:MOUSESFB_0316	CDS	369469..370374	hprK; HPr kinase/phosphorylase
+asm:MOUSESFB_0317	CDS	370451..371380	corA; putative magnesium and cobalt transport protein CorA
+asm:MOUSESFB_0318	CDS	371412..372809	peptidase M18
+asm:MOUSESFB_0319	CDS	372980..375280	hypothetical protein
+asm:MOUSESFB_0320	CDS	375384..376139	HAD-superfamily hydrolase
+asm:MOUSESFB_0321	CDS	376518..377489	putative PTS system mannose-specific EIIAB component
+asm:MOUSESFB_0322	CDS	377505..378317	PTS family mannose/fructose/sorbose porter component IIC
+asm:MOUSESFB_0323	CDS	378341..379258	manZ; PTS system, mannose/fructose/sorbose family, IID subunit
+asm:MOUSESFB_0324	CDS	379289..379663	manO; ManO protein
+asm:MOUSESFB_0325	CDS	complement(379690..380196)	hypothetical protein
+asm:MOUSESFB_tRNA12	tRNA	380341..380423	tRNA-Leu
+asm:MOUSESFB_0326	CDS	complement(380440..381030)	tetR; transcriptional regulator, TetR family
+asm:MOUSESFB_0327	CDS	381148..382923	myosin-cross-reactive antigen
+asm:MOUSESFB_0328	CDS	383060..384061	galE; UDP-glucose 4-epimerase
+asm:MOUSESFB_0329	CDS	384122..385180	ytvI; sporulation integral membrane protein YtvI
+asm:MOUSESFB_0330	CDS	385483..386391	membrane protease subunits, stomatin/prohibitin-like protein
+asm:MOUSESFB_0331	CDS	386566..387318	integral membrane protein
+asm:MOUSESFB_0332	CDS	complement(387375..388505)	putative transporter, major facilitator family
+asm:MOUSESFB_0333	CDS	388635..389192	adenylate cyclase
+asm:MOUSESFB_0334	CDS	389544..390416	iron compound ABC transporter, iron-binding protein
+asm:MOUSESFB_0335	CDS	390406..391425	iron chelate uptake ABC transporter, FeCT family, permease protein
+asm:MOUSESFB_0336	CDS	391521..392180	FhuC; putative ferrichrome transport ATP-binding protein FhuC
+asm:MOUSESFB_0337	CDS	392211..392855	deoxyadenosine kinase
+asm:MOUSESFB_0338	CDS	392929..393630	pnp; purine nucleoside phosphorylase
+asm:MOUSESFB_0339	CDS	394643..396859	hypothetical protein
+asm:MOUSESFB_0340	CDS	397041..397901	hypothetical protein
+asm:MOUSESFB_0341	CDS	397994..398674	ompR; two component transcriptional regulator, winged helix family
+asm:MOUSESFB_0342	CDS	398674..399924	histidine kinase
+asm:MOUSESFB_0343	CDS	400170..400901	hypothetical protein
+asm:MOUSESFB_0344	CDS	400932..401621	hypothetical protein
+asm:MOUSESFB_0345	CDS	401626..403392	putative lipoprotein
+asm:MOUSESFB_0346	CDS	complement(403422..406007)	calcium-translocating P-type ATPase, PMCA-type
+asm:MOUSESFB_0347	CDS	405241..405828	hypothetical protein
+asm:MOUSESFB_0348	CDS	406150..406584	hypothetical protein
+asm:MOUSESFB_0349	CDS	406960..407292	hypothetical protein
+asm:MOUSESFB_0350	CDS	408206..408628	prophage LambdaCh01, terminase, small subunit
+asm:MOUSESFB_0351	CDS	408625..409056	hypothetical protein
+asm:MOUSESFB_0352	CDS	409072..409332	hypothetical protein
+asm:MOUSESFB_0353	CDS	409346..409648	hypothetical protein
+asm:MOUSESFB_0354	CDS	409645..410886	PBSX family phage terminase large subunit
+asm:MOUSESFB_0355	CDS	410945..412156	phage portal protein, SPP1 family
+asm:MOUSESFB_0356	CDS	412234..413118	hypothetical protein
+asm:MOUSESFB_0357	CDS	413352..413702	yjcQ; YjcQ protein
+asm:MOUSESFB_0358	CDS	413852..414451	minor structural GP20 protein
+asm:MOUSESFB_0359	CDS	414460..415446	hypothetical protein
+asm:MOUSESFB_0360	CDS	415452..416102	hypothetical protein
+asm:MOUSESFB_0361	CDS	417264..417872	hypothetical protein
+asm:MOUSESFB_0362	CDS	417944..418498	rbr; rubrerythrin
+asm:MOUSESFB_0363	CDS	complement(418536..419915)	hypothetical protein
+asm:MOUSESFB_0364	CDS	420017..420994	hydrogenase maturation factor
+asm:MOUSESFB_0365	CDS	421017..421631	yggV; putative deoxyribonucleotide triphosphate pyrophosphatase
+asm:MOUSESFB_tRNA13	tRNA	421729..421804	tRNA-Pro
+asm:MOUSESFB_tRNA14	tRNA	421808..421881	tRNA-Gly
+asm:MOUSESFB_tRNA15	tRNA	421890..421965	tRNA-His
+asm:MOUSESFB_tRNA16	tRNA	421972..422047	tRNA-Gln
+asm:MOUSESFB_tRNA17	tRNA	422052..422127	tRNA-Lys
+asm:MOUSESFB_tRNA18	tRNA	422134..422218	tRNA-Leu
+asm:MOUSESFB_tRNA19	tRNA	422237..422312	tRNA-Gly
+asm:MOUSESFB_tRNA20	tRNA	422318..422391	tRNA-Gly
+asm:MOUSESFB_tRNA21	tRNA	422398..422474	tRNA-Arg
+asm:MOUSESFB_0366	CDS	422573..423472	gnd; 6-phosphogluconate dehydrogenase-like protein
+asm:MOUSESFB_0367	CDS	423497..424978	zwf; glucose-6-phosphate 1-dehydrogenase
+asm:MOUSESFB_0368	CDS	424979..425599	polyketide cyclase
+asm:MOUSESFB_0369	CDS	425721..426935	putative polysaccharide deacetylase domain protein
+asm:MOUSESFB_0370	CDS	426928..427632	ABC transporter related protein
+asm:MOUSESFB_0371	CDS	427633..429954	putative ABC transporter permease protein
+asm:MOUSESFB_0372	CDS	430059..432326	sleC; spore cortex-lytic enzyme, pre-pro-form
+asm:MOUSESFB_0373	CDS	432438..433052	putative lipoprotein
+asm:MOUSESFB_0374	CDS	433198..434541	nox; NADH oxidase
+asm:MOUSESFB_0375	CDS	complement(434580..435518)	ansB; N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase
+asm:MOUSESFB_0376	CDS	435807..436805	hypothetical protein
+asm:MOUSESFB_0377	CDS	436895..437524	membrane protein
+asm:MOUSESFB_0378	CDS	437527..438354	fumble domain protein
+asm:MOUSESFB_0379	CDS	438551..438958	hypothetical protein
+asm:MOUSESFB_0380	CDS	439028..439768	hypothetical protein
+asm:MOUSESFB_0381	CDS	complement(439791..440111)	putative ZIP zinc transporter family protein
+asm:MOUSESFB_0382	CDS	440017..440460	hypothetical protein
+asm:MOUSESFB_0383	CDS	440987..441625	cell wall-associated hydrolase
+asm:MOUSESFB_0384	CDS	441728..442468	hypothetical protein
+asm:MOUSESFB_0385	CDS	442789..443808	mreB; rod shape-determining protein MreB
+asm:MOUSESFB_0386	CDS	443942..444658	mreC; rod shape-determining protein MreC
+asm:MOUSESFB_0387	CDS	444663..445154	mreD; rod shape-determining protein MreD
+asm:MOUSESFB_0388	CDS	445229..447973	penicillin-binding protein 2
+asm:MOUSESFB_0389	CDS	447994..448632	minC; septum site-determining protein MinC
+asm:MOUSESFB_0390	CDS	448711..449502	minD; septum site-determining protein MinD
+asm:MOUSESFB_0391	CDS	449520..449792	minE; cell division topological specificity factor MinE
+asm:MOUSESFB_0392	CDS	449805..450905	ftsW; cell cycle protein FtsW
+asm:MOUSESFB_0393	CDS	450966..451796	peptidase M50
+asm:MOUSESFB_0394	CDS	452424..452735	rplU; 50S ribosomal protein L21
+asm:MOUSESFB_0395	CDS	452739..453086	hypothetical protein
+asm:MOUSESFB_0396	CDS	453076..453363	rpmA; 50S ribosomal protein L27
+asm:MOUSESFB_0397	CDS	453451..454743	obgE; GTPase ObgE
+asm:MOUSESFB_0398	CDS	454769..455371	nadD; nicotinic acid mononucleotide adenylyltransferase
+asm:MOUSESFB_0399	CDS	455375..455947	metal dependent phosphohydrolase
+asm:MOUSESFB_0400	CDS	455962..456852	rluA; pseudouridine synthase, RluA family
+asm:MOUSESFB_0401	CDS	complement(456880..457749)	dac; D-alanyl-D-alanine carboxypeptidase
+asm:MOUSESFB_0402	CDS	457914..458582	putative comE operon protein 1
+asm:MOUSESFB_0403	CDS	458918..459673	selD; selenide, water dikinase
+asm:MOUSESFB_0404	CDS	459685..461073	selA; L-seryl-tRNA(Sec) selenium transferase
+asm:MOUSESFB_0405	CDS	461036..462979	selB; selenocysteine-specific translation elongation factor
+asm:MOUSESFB_0406	CDS	463097..463780	hypothetical protein
+asm:MOUSESFB_0407	CDS	463879..464391	putative ABC-type antimicrobial peptide transport system, ATPase component
+asm:MOUSESFB_0408	CDS	complement(464395..465996)	putative peptidase M28
+asm:MOUSESFB_0409	CDS	466355..466882	ppiA; peptidyl-prolyl cis-trans isomerase, cyclophilin-type
+asm:MOUSESFB_0410	CDS	466900..468834	thrS; threonyl-tRNA synthetase
+asm:MOUSESFB_0411	CDS	469061..469348	groES; co-chaperonin GroES
+asm:MOUSESFB_0412	CDS	469369..470994	groL; chaperonin GroEL
+asm:MOUSESFB_0413	CDS	471103..472083	methyl-accepting chemotaxis sensory transducer
+asm:MOUSESFB_0414	CDS	472170..472559	general secretion pathway protein G
+asm:MOUSESFB_0415	CDS	472562..473260	type IV leader peptidase family protein
+asm:MOUSESFB_0416	CDS	473578..474543	oligopeptide ABC transporter, permease component
+asm:MOUSESFB_0417	CDS	474557..475486	binding-protein-dependent transport system inner membrane component
+asm:MOUSESFB_0418	CDS	475498..476484	oligopeptide/dipeptide ABC transporter, ATP-binding protein
+asm:MOUSESFB_0419	CDS	476477..477448	oligopeptide/dipeptide ABC transporter, ATP-binding protein
+asm:MOUSESFB_0420	CDS	477530..479311	extracellular solute-binding protein family 5
+asm:MOUSESFB_0421	CDS	479392..481143	extracellular solute-binding protein family 5
+asm:MOUSESFB_0422	CDS	complement(481172..481759)	spoVFB; dipicolinate synthase subunit B
+asm:MOUSESFB_0423	CDS	complement(481860..482342)	dihydrofolate reductase
+asm:MOUSESFB_0424	CDS	complement(482345..483172)	thyA; thymidylate synthase
+asm:MOUSESFB_0425	CDS	483329..484750	rhaB; rhamnulokinase
+asm:MOUSESFB_0426	CDS	484859..485854	aldo/keto reductase family oxidoreductase
+asm:MOUSESFB_0427	CDS	486010..487125	putative permease
+asm:MOUSESFB_0428	CDS	complement(487164..487538)	putative lyase/dioxygenase
+asm:MOUSESFB_0429	CDS	487693..491643	superfamily I DNA and RNA helicase and helicase subunits-like protein
+asm:MOUSESFB_0430	CDS	491758..496041	putative FHA domain containing protein
+asm:MOUSESFB_0431	CDS	496400..497914	hypothetical protein
+asm:MOUSESFB_0432	CDS	498000..498614	cmk; cytidylate kinase
+asm:MOUSESFB_0433	CDS	complement(498649..500013)	putative copper amine oxidase domain protein
+asm:MOUSESFB_0434	CDS	500274..500912	two-component response regulator
+asm:MOUSESFB_0435	CDS	500995..502272	histidine kinase
+asm:MOUSESFB_0436	CDS	504740..505423	hypothetical protein
+asm:MOUSESFB_0437	CDS	complement(505478..506053)	ric; putative iron-sulfur cluster repair di-iron protein
+asm:MOUSESFB_0438	CDS	complement(506143..506865)	scdA; putative ScdA product
+asm:MOUSESFB_0439	CDS	507144..508424	peptidase, M23/M37 family protein
+asm:MOUSESFB_0440	CDS	508621..509547	ytxC; putative sporulation protein YtxC
+asm:MOUSESFB_0441	CDS	509778..510296	infC2; putative translation initiation factor IF-3
+asm:MOUSESFB_0442	CDS	510330..510527	rpmI; ribosomal protein L35
+asm:MOUSESFB_0443	CDS	510547..510906	rplT1; ribosomal protein L20
+asm:MOUSESFB_0444	CDS	511073..512305	trkH; potassium uptake protein, TrkH family
+asm:MOUSESFB_0445	CDS	512328..513011	trkA; trk system potassium uptake protein trkA
+asm:MOUSESFB_0446	CDS	513062..513799	trmH; RNA methyltransferase, TrmH family
+asm:MOUSESFB_0447	CDS	513871..514899	pheS; phenylalanyl-tRNA synthetase, alpha subunit
+asm:MOUSESFB_0448	CDS	514918..517278	pheT; phenylalanyl-tRNA synthetase, beta subunit
+asm:MOUSESFB_0449	CDS	517300..518328	ldhD; D-lactate dehydrogenase
+asm:MOUSESFB_0450	CDS	518416..519126	hypothetical protein
+asm:MOUSESFB_0451	CDS	complement(519156..520247)	nagB; putative glucosamine-6-phosphate deaminase
+asm:MOUSESFB_0452	CDS	520716..521606	hypothetical protein
+asm:MOUSESFB_0453	CDS	521681..521914	hypothetical protein
+asm:MOUSESFB_0454	CDS	522020..522430	hypothetical protein
+asm:MOUSESFB_0455	CDS	complement(522469..523233)	dapB; dihydrodipicolinate reductase
+asm:MOUSESFB_0456	CDS	complement(523258..524136)	dapA; dihydrodipicolinate synthase
+asm:MOUSESFB_0457	CDS	complement(524141..525133)	asd; aspartate-semialdehyde dehydrogenase
+asm:MOUSESFB_0458	CDS	525329..525544	putative small acid-soluble spore protein
+asm:MOUSESFB_tRNA22	tRNA	525640..525715	tRNA-Phe
+asm:MOUSESFB_0459	CDS	complement(525746..526897)	dxr2; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+asm:MOUSESFB_0460	CDS	complement(526918..528750)	1-deoxyxylulose-5-phosphate synthase homolog
+asm:MOUSESFB_0461	CDS	529502..532459	peptidase M16 domain protein
+asm:MOUSESFB_0462	CDS	532574..533578	cotS; spore coat protein CotS
+asm:MOUSESFB_0463	CDS	533595..534323	spore coat protein
+asm:MOUSESFB_0464	CDS	534320..535366	cotS; putative spore coat protein S
+asm:MOUSESFB_0465	CDS	complement(535380..535850)	protein tyrosine phosphatase
+asm:MOUSESFB_0466	CDS	535992..536816	hypothetical protein
+asm:MOUSESFB_0467	CDS	537015..537566	phage-associated protein
+asm:MOUSESFB_0468	CDS	537941..538594	hypothetical protein
+asm:MOUSESFB_0469	CDS	539005..540777	recJ; single-stranded-DNA-specific exonuclease RecJ
+asm:MOUSESFB_0470	CDS	540788..542458	putative sensory transduction histidine kinase
+asm:MOUSESFB_0471	CDS	542506..543573	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+asm:MOUSESFB_0472	CDS	complement(543609..544193)	putative lipoprotein
+asm:MOUSESFB_0473	CDS	544243..545352	hypothetical protein
+asm:MOUSESFB_0474	CDS	545418..545861	hypothetical protein
+asm:MOUSESFB_0475	CDS	complement(545945..546331)	hypothetical protein
+asm:MOUSESFB_0476	CDS	546499..550833	hypothetical protein
+asm:MOUSESFB_0477	CDS	550857..556961	hypothetical protein
+asm:MOUSESFB_0478	CDS	557128..557646	hypothetical protein
+asm:MOUSESFB_0479	CDS	557705..558289	rbr; rubrerythrin
+asm:MOUSESFB_0480	CDS	complement(558324..559232)	cation diffusion facilitator family transporter
+asm:MOUSESFB_0481	CDS	559437..560741	matE; MATE efflux family protein
+asm:MOUSESFB_0482	CDS	560769..561473	transglycosylase
+asm:MOUSESFB_0483	CDS	561563..562150	nanE; N-acetylmannosamine-6-phosphate 2-epimerase
+asm:MOUSESFB_0484	CDS	complement(562182..562688)	hypothetical protein
+asm:MOUSESFB_0485	CDS	complement(562762..563493)	rpiR; transcriptional regulator, RpiR family
+asm:MOUSESFB_0486	CDS	563591..563938	hypothetical protein
+asm:MOUSESFB_0487	CDS	564061..566409	prtQ; peptidase, U32 family
+asm:MOUSESFB_0488	CDS	566426..568777	msh1; DNA mismatch repair MutS-like protein
+asm:MOUSESFB_0489	CDS	568858..569139	yqfC; sporulation protein YqfC
+asm:MOUSESFB_0490	CDS	569126..570331	yqfD; sporulation protein YqfD
+asm:MOUSESFB_0491	CDS	570473..572494	metal dependent phosphohydrolase
+asm:MOUSESFB_0492	CDS	572484..572981	putative metalloprotease
+asm:MOUSESFB_0493	CDS	573057..573707	dgkA; diacylglycerol kinase
+asm:MOUSESFB_0494	CDS	573730..574137	cdd; cytidine deaminase
+asm:MOUSESFB_0495	CDS	574374..575042	era; GTP-binding protein Era
+asm:MOUSESFB_0496	CDS	575175..575915	recO; DNA repair protein recO
+asm:MOUSESFB_0497	CDS	575917..576693	UBA/TS-N domain containing protein
+asm:MOUSESFB_0498	CDS	576861..579488	ppdK; pyruvate, phosphate dikinase
+asm:MOUSESFB_0499	CDS	complement(579523..580560)	cotS2; putative spore coat protein
+asm:MOUSESFB_0500	CDS	580852..582639	dnaG; DNA primase
+asm:MOUSESFB_0501	CDS	582683..583735	rpoD; putative RNA polymerase sigma factor
+asm:MOUSESFB_0502	CDS	583787..584491	trmA; putative SAM-dependent methyltransferase
+asm:MOUSESFB_0503	CDS	584515..585285	NIF3 family protein
+asm:MOUSESFB_0504	CDS	585303..586043	carboxymethylenebutenolidase-related protein
+asm:MOUSESFB_0505	CDS	586116..586508	hypothetical protein
+asm:MOUSESFB_0506	CDS	complement(586966..588351)	hypothetical protein
+asm:MOUSESFB_0507	CDS	588528..588941	hypothetical protein
+asm:MOUSESFB_0508	CDS	complement(588990..590444)	pncB; nicotinate phosphoribosyltransferase
+asm:MOUSESFB_0509	CDS	590595..592511	helicase, UvrD/REP family
+asm:MOUSESFB_0510	CDS	592631..593509	ilvE1; branched-chain amino acid aminotransferase
+asm:MOUSESFB_0511	CDS	594002..594523	sigV; RNA polymerase sigma factor SigV
+asm:MOUSESFB_0512	CDS	594516..595121	hypothetical protein
+asm:MOUSESFB_0513	CDS	595532..596503	hypothetical protein
+asm:MOUSESFB_0514	CDS	596767..597603	hypothetical protein
+asm:MOUSESFB_0515	CDS	597867..598577	hypothetical protein
+asm:MOUSESFB_0516	CDS	598780..599829	amino acid permease-associated region
+asm:MOUSESFB_0517	CDS	complement(600229..601386)	hypothetical protein
+asm:MOUSESFB_0518	CDS	601738..602799	selU; tRNA 2-selenouridine synthase
+asm:MOUSESFB_0519	CDS	602888..603949	hypothetical protein
+asm:MOUSESFB_0520	CDS	604067..605344	metallo-beta-lactamase family protein
+asm:MOUSESFB_0521	CDS	605511..609044	nifJ; pyruvate ferredoxin/flavodoxin oxidoreductase
+asm:MOUSESFB_0522	CDS	609162..610379	glycoside hydrolase family 3 protein
+asm:MOUSESFB_0523	CDS	610468..611052	hypothetical protein
+asm:MOUSESFB_0524	CDS	611198..611413	hypothetical protein
+asm:MOUSESFB_0525	CDS	611836..612480	HAD-superfamily subfamily IB hydrolase
+asm:MOUSESFB_0526	CDS	612486..613280	ilvE1; branched-chain-amino-acid aminotransferase
+asm:MOUSESFB_0527	CDS	613415..613870	cheW; chemotaxis protein CheW
+asm:MOUSESFB_0528	CDS	613975..614367	cheD; CheD proteinD
+asm:MOUSESFB_0529	CDS	614336..615370	cheB; response regulator receiver modulated CheB methylesterase
+asm:MOUSESFB_0530	CDS	615397..616167	cheR; CheR methyltransferase
+asm:MOUSESFB_0531	CDS	616193..618271	cheA; chemotaxis protein CheA
+asm:MOUSESFB_0532	CDS	618291..618896	cheC; chemotaxis protein CheC
+asm:MOUSESFB_0533	CDS	618908..619267	cheY; chemotaxis protein cheY
+asm:MOUSESFB_0534	CDS	619277..619705	cheW; chemotaxis signal transduction protein CheW
+asm:MOUSESFB_0535	CDS	619710..620729	fliM; flagellar motor switch protein FliM
+asm:MOUSESFB_0536	CDS	620701..621774	flagellar motor switch protein
+asm:MOUSESFB_0537	CDS	621835..622251	flgN; flgN family protein
+asm:MOUSESFB_0538	CDS	622288..624024	flgK; flagellar hook-associated protein FlgK
+asm:MOUSESFB_0539	CDS	624044..625015	flgL; flagellar hook-associated protein 3
+asm:MOUSESFB_0540	CDS	625120..625527	fliW; flagellar assembly factor FliW
+asm:MOUSESFB_0541	CDS	625535..625759	csrA; carbon storage regulator, CsrA
+asm:MOUSESFB_0542	CDS	625804..626184	fliS; flagellar protein fliS
+asm:MOUSESFB_0543	CDS	626202..628601	flagellar hook-associated protein
+asm:MOUSESFB_0544	CDS	628626..628964	hypothetical protein
+asm:MOUSESFB_0545	CDS	629000..629989	flgG; flagellar basal-body rod protein FlgG
+asm:MOUSESFB_0546	CDS	630234..631427	fliB(S); flagellin protein FliB(S)
+asm:MOUSESFB_0547	CDS	complement(631781..632875)	dac; D-alanyl-D-alanine carboxypeptidase
+asm:MOUSESFB_0548	CDS	633018..633599	hypothetical protein
+asm:MOUSESFB_0549	CDS	633556..633942	ytfJ; sporulation protein YtfJ
+asm:MOUSESFB_0550	CDS	634111..635352	2,5-didehydrogluconate reductase
+asm:MOUSESFB_0551	CDS	635372..636346	aldo/keto reductase
+asm:MOUSESFB_0552	CDS	636396..637373	alpha/beta family hydrolase
+asm:MOUSESFB_0553	CDS	637690..638022	hypothetical protein
+asm:MOUSESFB_0554	CDS	638165..638614	rpiB; ribose 5-phosphate isomerase B
+asm:MOUSESFB_0555	CDS	639007..639288	hypothetical protein
+asm:MOUSESFB_0556	CDS	639295..639912	gpk; guanylate kinase
+asm:MOUSESFB_0557	CDS	639935..640147	rpoZ; DNA-directed RNA polymerase, omega subunit
+asm:MOUSESFB_0558	CDS	640214..642436	priA; primosome assembly protein PriA
+asm:MOUSESFB_0559	CDS	642450..642896	def; peptide deformylase
+asm:MOUSESFB_0560	CDS	642943..643866	fmt; methionyl-tRNA formyltransferase
+asm:MOUSESFB_0561	CDS	643879..644559	putative zinc-dependent metalloprotease
+asm:MOUSESFB_0562	CDS	644556..645881	sun; ribosomal RNA small subunit methyltransferase B
+asm:MOUSESFB_0563	CDS	645874..646884	rlmN; radical SAM enzyme, Cfr family
+asm:MOUSESFB_0564	CDS	646899..647630	protein serine/threonine phosphatase
+asm:MOUSESFB_0565	CDS	647620..649602	protein kinase
+asm:MOUSESFB_0566	CDS	649684..650571	putative GTPase
+asm:MOUSESFB_0567	CDS	650579..651193	thi80; thiamine pyrophosphokinase
+asm:MOUSESFB_0568	CDS	651537..651956	hypothetical protein
+asm:MOUSESFB_0569	CDS	652122..652709	putative membrane protein
+asm:MOUSESFB_0570	CDS	652842..655394	putative calcium-translocating P-type ATPase, PMCA-type
+asm:MOUSESFB_0571	CDS	655825..656964	matE; MATE efflux family protein
+asm:MOUSESFB_0572	CDS	657091..657336	putative transcription factor
+asm:MOUSESFB_0573	CDS	complement(657921..658550)	splA; serine protease splA
+asm:MOUSESFB_0574	CDS	658756..659097	putative transcription factor
+asm:MOUSESFB_0575	CDS	complement(659530..660351)	splA; serine protease splA
+asm:MOUSESFB_0576	CDS	complement(660547..660795)	rpmB; 50S ribosomal protein L28
+asm:MOUSESFB_0577	CDS	660877..661218	asp; alkaline shock protein, putative
+asm:MOUSESFB_0578	CDS	661249..663264	recG; ATP-dependent DNA helicase RecG
+asm:MOUSESFB_0579	CDS	663275..663844	methyltransferase
+asm:MOUSESFB_0580	CDS	663837..664325	coaD; pantetheine-phosphate adenylyltransferase
+asm:MOUSESFB_0581	CDS	664330..664845	H+-ATPase subunit H
+asm:MOUSESFB_0582	CDS	664892..665680	Cof-like hydrolase
+asm:MOUSESFB_0583	CDS	complement(665930..666913)	nucleoside recognition domain protein
+asm:MOUSESFB_0584	CDS	complement(667024..668391)	hypothetical protein
+asm:MOUSESFB_0585	CDS	668394..669392	pta; phosphotransacetylase
+asm:MOUSESFB_0586	CDS	669435..670631	ackA; acetate kinase
+asm:MOUSESFB_0587	CDS	670729..671238	hypothetical protein
+asm:MOUSESFB_0588	CDS	671238..671420	rpmF; 50S ribosomal protein L32
+asm:MOUSESFB_0589	CDS	671479..672471	plsX; fatty acid/phospholipid synthesis protein PlsX
+asm:MOUSESFB_0590	CDS	672541..672771	acpP; acyl carrier protein
+asm:MOUSESFB_0591	CDS	672847..673530	rnc; ribonuclease III
+asm:MOUSESFB_0592	CDS	673722..673982	spoVS; stage V sporulation protein S
+asm:MOUSESFB_0593	CDS	complement(674040..674861)	endonuclease IV
+asm:MOUSESFB_0594	CDS	675012..675545	hypothetical protein
+asm:MOUSESFB_0595	CDS	675554..676771	NAD(FAD)-utilizing dehydrogenase
+asm:MOUSESFB_0596	CDS	676792..679344	4-hydroxy-3-methylbut-2-enyl diphosphate reductase/S1 RNA-binding domain protein
+asm:MOUSESFB_0597	CDS	679403..679987	rnhA; ribonuclease HI
+asm:MOUSESFB_0598	CDS	680066..681181	guaC; GMP reductase
+asm:MOUSESFB_0599	CDS	681486..682784	guanine-hypoxanthine permease
+asm:MOUSESFB_0600	CDS	682822..684354	guaA; GMP synthase (glutamine-hydrolyzing), C-terminal domain protein
+asm:MOUSESFB_0601	CDS	complement(684401..684991)	hypothetical protein
+asm:MOUSESFB_0602	CDS	685180..686370	fliB(S); flagellin protein FliB(S)
+asm:MOUSESFB_0603	CDS	686631..687701	phnD; phosphonate ABC transporter, periplasmic phosphonate-binding protein
+asm:MOUSESFB_0604	CDS	688016..688522	phosphonate ABC transporter, ATP-binding protein
+asm:MOUSESFB_0605	CDS	688519..689340	phosphonate ABC transporter, inner membrane subunit
+asm:MOUSESFB_0606	CDS	689353..690159	phosphonate ABC transporter, inner membrane subunit
+asm:MOUSESFB_0607	CDS	690162..691625	5'-nucleotidase domain protein
+asm:MOUSESFB_0608	CDS	691929..692777	2,5-didehydrogluconate reductase
+asm:MOUSESFB_0609	CDS	692809..693903	alpha3-beta1 integrin-binding protein
+asm:MOUSESFB_0610	CDS	complement(694092..695984)	PTS system, IIBC component
+asm:MOUSESFB_0611	CDS	complement(696004..696924)	putative 1-phosphofructokinase
+asm:MOUSESFB_0612	CDS	697123..697572	nusB; transcription antitermination protein NusB
+asm:MOUSESFB_0613	CDS	697562..698767	xseA; exodeoxyribonuclease VII large subunit
+asm:MOUSESFB_0614	CDS	698799..698969	xseB; exodeoxyribonuclease VII small subunit
+asm:MOUSESFB_0615	CDS	698974..699843	ispA; geranyltranstransferase
+asm:MOUSESFB_0616	CDS	699850..700671	hemolysin A
+asm:MOUSESFB_0617	CDS	700685..701506	ATP-NAD kinase
+asm:MOUSESFB_0618	CDS	701527..701991	argR; arginine repressor, ArgR
+asm:MOUSESFB_0619	CDS	702002..703666	recN; DNA repair protein RecN
+asm:MOUSESFB_0620	CDS	703755..704939	spoIVB; stage IV sporulation protein B
+asm:MOUSESFB_0621	CDS	705075..705707	spo0A; sporulation transcription factor Spo0A
+asm:MOUSESFB_0622	CDS	complement(705941..706342)	hypothetical protein
+asm:MOUSESFB_0623	CDS	706487..707143	deoC; deoxyribose-phosphate aldolase
+asm:MOUSESFB_0624	CDS	707505..708128	lipolytic protein G-D-S-L family
+asm:MOUSESFB_0625	CDS	708648..712034	smc; chromosome segregation protein SMC
+asm:MOUSESFB_0626	CDS	712050..712958	ftsY; signal recognition particle-docking protein FtsY
+asm:MOUSESFB_0627	CDS	713016..713354	putative DNA-binding protein
+asm:MOUSESFB_0628	CDS	713369..714733	ffh; signal recognition particle protein
+asm:MOUSESFB_0629	CDS	714779..715018	rpsP; 30S ribosomal protein S16
+asm:MOUSESFB_0630	CDS	715025..715546	rimM; 16S rRNA processing protein RimM
+asm:MOUSESFB_0631	CDS	715618..716211	trmD; tRNA (guanine-N(1)-)-methyltransferase
+asm:MOUSESFB_0632	CDS	716233..716592	rplS; 50S ribosomal protein L19
+asm:MOUSESFB_0633	CDS	716669..717529	rbgA; ribosomal biogenesis GTPase
+asm:MOUSESFB_0634	CDS	717543..718334	rnhB; ribonuclease HII
+asm:MOUSESFB_0635	CDS	718581..719552	NADH-dependent flavin oxidoreductase, oye family
+asm:MOUSESFB_0636	CDS	complement(719579..719941)	hypothetical protein
+asm:MOUSESFB_0637	CDS	720495..720812	hypothetical protein
+asm:MOUSESFB_0638	CDS	complement(720856..721230)	tetR; TetR family transcriptional regulator
+asm:MOUSESFB_0639	CDS	721730..722065	hypothetical protein
+asm:MOUSESFB_0640	CDS	723892..724698	hypothetical protein
+asm:MOUSESFB_0641	CDS	complement(724764..725138)	hypothetical protein
+asm:MOUSESFB_0642	CDS	complement(725304..726236)	ribose ABC transporter, ribose-binding protein
+asm:MOUSESFB_0643	CDS	complement(726233..727075)	ribose ABC transporter
+asm:MOUSESFB_0644	CDS	726663..727211	hypothetical protein
+asm:MOUSESFB_0645	CDS	complement(727188..728693)	ribose ABC transporter
+asm:MOUSESFB_0646	CDS	complement(728713..729108)	rbsD; D-ribose pyranase
+asm:MOUSESFB_0647	CDS	complement(729114..730043)	rbsK; ribokinase
+asm:MOUSESFB_0648	CDS	730186..732417	cas3; CRISPR-associated helicase Cas3 domain-containing protein
+asm:MOUSESFB_0649	CDS	732435..733115	cas5; CRISPR-associated protein Cas5 family
+asm:MOUSESFB_0650	CDS	733112..734947	csd1; CRISPR-associated protein, Csd1 family
+asm:MOUSESFB_0651	CDS	734950..735813	csh2; CRISPR-associated Csh2 family protein
+asm:MOUSESFB_0652	CDS	735827..736468	cas4; CRISPR-associated exonuclease, Cas4 family
+asm:MOUSESFB_0653	CDS	736637..737497	cas1; CRISPR-associated Cas1 family protein
+asm:MOUSESFB_0654	CDS	737510..737800	cas2; CRISPR-associated protein cas2
+asm:MOUSESFB_0655	CDS	737996..738205	hypothetical protein
+asm:MOUSESFB_0656	CDS	738669..739037	hypothetical protein
+asm:MOUSESFB_0657	CDS	739298..739723	hypothetical protein
+asm:MOUSESFB_0658	CDS	740383..742140	PTS system, IIABC component
+asm:MOUSESFB_0659	CDS	742166..743581	glycosyl hydrolase, family 1
+asm:MOUSESFB_0660	CDS	complement(743643..744377)	putative membrane protein
+asm:MOUSESFB_0661	CDS	complement(744436..744861)	hypothetical protein
+asm:MOUSESFB_0662	CDS	745121..745453	hypothetical protein
+asm:MOUSESFB_0663	CDS	745929..746534	hypothetical protein
+asm:MOUSESFB_0664	CDS	746573..746914	hypothetical protein
+asm:MOUSESFB_0665	CDS	747002..747556	tetR; transcriptional regulator, TetR family
+asm:MOUSESFB_0666	CDS	747705..748124	hypothetical protein
+asm:MOUSESFB_0667	CDS	748198..748629	yqeF; putative acyltransferase
+asm:MOUSESFB_0668	CDS	748822..750693	bglF1; PTS system, beta-glucoside-specific IIABC subunit
+asm:MOUSESFB_0669	CDS	752143..752982	licT; transcription antiterminator LicT
+asm:MOUSESFB_0670	CDS	753175..755202	putative PRD domain protein
+asm:MOUSESFB_0671	CDS	755344..755772	ulaC; ascorbate-specific phosphotransferase enzyme IIA component
+asm:MOUSESFB_0672	CDS	755793..757178	ulaA; ascorbate-specific PTS system enzyme IIC
+asm:MOUSESFB_0673	CDS	757241..757522	PTS system, lactose/cellobiose specific IIB subunit
+asm:MOUSESFB_0674	CDS	complement(757563..758888)	ubiG; putative 2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase
+asm:MOUSESFB_0675	CDS	complement(758992..760440)	cls; putative cardiolipin synthase
+asm:MOUSESFB_0676	CDS	760682..762112	chlI; Mg chelatase, subunit ChlI
+asm:MOUSESFB_0677	CDS	762125..763219	dprA; DNA protecting protein DprA
+asm:MOUSESFB_0678	CDS	763460..765424	topA; DNA topoisomerase
+asm:MOUSESFB_0679	CDS	765570..766295	rpsB; 30S ribosomal protein S2
+asm:MOUSESFB_0680	CDS	766311..767240	tsf; elongation factor Ts
+asm:MOUSESFB_0681	CDS	767319..768026	pyrH; uridylate kinase
+asm:MOUSESFB_0682	CDS	768146..768598	frr; ribosome recycling factor
+asm:MOUSESFB_0683	CDS	768609..769340	uppS; di-trans,poly-cis-decaprenylcistransferase
+asm:MOUSESFB_0684	CDS	769417..770115	cdsA; phosphatidate cytidylyltransferase
+asm:MOUSESFB_0685	CDS	770127..771167	rseP; RIP metalloprotease RseP
+asm:MOUSESFB_0686	CDS	771240..772247	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+asm:MOUSESFB_0687	CDS	772303..776496	polC; DNA polymerase III PolC
+asm:MOUSESFB_0688	CDS	776847..777308	rimP; ribosome maturation factor rimP
+asm:MOUSESFB_0689	CDS	777319..778479	nusA; transcription elongation factor NusA
+asm:MOUSESFB_0690	CDS	778469..778738	ylxR; cytosolic protein YlxR family protein
+asm:MOUSESFB_0691	CDS	778764..780908	infB; translation initiation factor IF-2
+asm:MOUSESFB_0692	CDS	780930..781286	rbfA; ribosome-binding factor A
+asm:MOUSESFB_0693	CDS	781279..782238	DHH subfamily 1 protein
+asm:MOUSESFB_0694	CDS	782235..783134	truB; tRNA pseudouridine synthase B
+asm:MOUSESFB_0695	CDS	783121..784044	ribF; bifunctional riboflavin kinase/FMN adenylyltransferase
+asm:MOUSESFB_0696	CDS	784145..784411	rpsO; ribosomal protein S15
+asm:MOUSESFB_0697	CDS	784494..786608	pnpA; polyribonucleotide nucleotidyltransferase
+asm:MOUSESFB_0698	CDS	786729..787016	PRC-barrel domain protein
+asm:MOUSESFB_0699	CDS	787041..788240	aspartate kinase I
+asm:MOUSESFB_0700	CDS	788354..789154	Clp protease
+asm:MOUSESFB_0701	CDS	789265..791541	ftsK; DNA translocase FtsK/SpoIIIE
+asm:MOUSESFB_0702	CDS	791633..792886	yliG; MiaB-like tRNA modifying enzyme YliG
+asm:MOUSESFB_0703	CDS	792886..793455	pgsA; CDP-diacylglycerol/glycerol-3-phosphate 3-phosphatidyltransferase
+asm:MOUSESFB_0704	CDS	793458..794531	recA; recombinase A
+asm:MOUSESFB_0705	CDS	794709..796283	phosphodiesterase
+asm:MOUSESFB_0706	CDS	796412..796672	spoVS; stage V sporulation protein S
+asm:MOUSESFB_0707	CDS	796773..797033	hpr; phosphocarrier protein
+asm:MOUSESFB_0708	CDS	797746..798687	xerC; site-specific tyrosine recombinase XerC
+asm:MOUSESFB_0709	CDS	complement(798707..799978)	aluminium resistance protein
+asm:MOUSESFB_0710	CDS	complement(799991..800911)	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+asm:MOUSESFB_0711	CDS	complement(800914..802743)	mutL; DNA mismatch repair protein MutL
+asm:MOUSESFB_0712	CDS	complement(802800..805361)	mutS; DNA mismatch repair protein MutS
+asm:MOUSESFB_0713	CDS	complement(805481..806761)	miaB; tRNA-i(6)A37 thiotransferase enzyme MiaB
+asm:MOUSESFB_0714	CDS	806947..807321	TM2 domain protein
+asm:MOUSESFB_0715	CDS	complement(807358..808443)	phosphatidylinositol-specific phospholipase C, X domain containing protein
+asm:MOUSESFB_0716	CDS	808710..809060	hypothetical protein
+asm:MOUSESFB_0717	CDS	809221..809595	gntR; transcriptional regulator, GntR family
+asm:MOUSESFB_0718	CDS	809596..810456	hypothetical protein
+asm:MOUSESFB_0719	CDS	810449..811102	hypothetical protein
+asm:MOUSESFB_0720	CDS	811211..811519	hypothetical protein
+asm:MOUSESFB_0721	CDS	811737..812930	aspB; aspartate aminotransferase
+asm:MOUSESFB_0722	CDS	complement(812957..814165)	uracil permease
+asm:MOUSESFB_0723	CDS	complement(814237..814788)	pyrR; uracil phosphoribosyltransferase
+asm:MOUSESFB_0724	CDS	complement(814957..815694)	putative hydrolase
+asm:MOUSESFB_0725	CDS	complement(815713..816663)	mae1; C4-dicarboxylate transporter/malic acid transporter
+asm:MOUSESFB_0726	CDS	complement(816762..817745)	putative spore coat protein
+asm:MOUSESFB_0727	CDS	complement(817777..818139)	hypothetical protein
+asm:MOUSESFB_0728	CDS	complement(818289..821111)	F5/8 type C domain protein
+asm:MOUSESFB_0729	CDS	complement(821143..822090)	glk; glucokinase
+asm:MOUSESFB_0730	CDS	complement(822102..823211)	sugar ABC transporter ATP-binding protein
+asm:MOUSESFB_0731	CDS	complement(823240..823776)	hypothetical protein
+asm:MOUSESFB_0732	CDS	complement(823797..824675)	ROK family protein
+asm:MOUSESFB_0733	CDS	complement(824758..826161)	extracellular solute-binding protein
+asm:MOUSESFB_0734	CDS	complement(826369..829500)	alpha-mannosidase
+asm:MOUSESFB_0735	CDS	complement(829523..830470)	sugar transport system
+asm:MOUSESFB_0736	CDS	complement(830490..831497)	ABC transporter
+asm:MOUSESFB_0737	CDS	complement(831617..833146)	DNA-binding response regulator, AraC family
+asm:MOUSESFB_0738	CDS	complement(833154..834893)	sensor histidine kinase
+asm:MOUSESFB_0739	CDS	835062..835745	putative membrane protein
+asm:MOUSESFB_0740	CDS	835761..837053	hypothetical protein
+asm:MOUSESFB_0741	CDS	complement(837074..839314)	alpha-glucosidase
+asm:MOUSESFB_0742	CDS	complement(839465..840043)	pdxT; GMP synthase (glutamine-hydrolyzing)
+asm:MOUSESFB_0743	CDS	complement(840050..840925)	pdxS; pyridoxal phosphate synthase yaaD subunit
+asm:MOUSESFB_0744	CDS	complement(841010..844132)	hsdR; type I site-specific deoxyribonuclease, HsdR family
+asm:MOUSESFB_0745	CDS	complement(844227..845414)	putative restriction endonuclease type I S subunit
+asm:MOUSESFB_0746	CDS	complement(845407..846981)	hsdM; type I restriction-modification system, M subunit
+asm:MOUSESFB_0747	CDS	complement(847085..849232)	cation transport ATPase
+asm:MOUSESFB_0748	CDS	complement(849511..850572)	hpaIIR; type II restriction endonuclease HpaII
+asm:MOUSESFB_0749	CDS	complement(850566..851459)	dcm; DNA-cytosine methyltransferase
+asm:MOUSESFB_0750	CDS	complement(851571..851798)	putative conjugative transposon regulatory protein
+asm:MOUSESFB_0751	CDS	complement(852494..853990)	sporulation stage IV
+asm:MOUSESFB_0752	CDS	complement(854136..855134)	gpsA; glycerol-3-phosphate dehydrogenase
+asm:MOUSESFB_0753	CDS	complement(855131..856495)	engA; ribosome-associated GTPase EngA
+asm:MOUSESFB_0754	CDS	complement(856832..857911)	putative peptidase M28
+asm:MOUSESFB_0755	CDS	complement(858308..858817)	putative phage repressor
+asm:MOUSESFB_0756	CDS	complement(858963..859631)	cwlH; N-acetylmuramoyl-L-alanine amidase CwlH
+asm:MOUSESFB_0757	CDS	complement(859747..860403)	phoU; phosphate uptake regulator, PhoU
+asm:MOUSESFB_0758	CDS	complement(860422..861174)	pstB; phosphate ABC transporter, ATPase subunit
+asm:MOUSESFB_0759	CDS	complement(861196..862083)	pstA; phosphate ABC transporter permease
+asm:MOUSESFB_0760	CDS	complement(862103..862969)	pstC; phosphate ABC transporter, inner membrane subunit PstC
+asm:MOUSESFB_0761	CDS	complement(863028..863939)	phosphate binding protein
+asm:MOUSESFB_0762	CDS	complement(864159..865328)	putative two-component sensor histidine kinase
+asm:MOUSESFB_0763	CDS	complement(865369..866094)	putative phosphate regulon DNA-binding response regulator
+asm:MOUSESFB_0764	CDS	complement(866112..866843)	hypothetical protein
+asm:MOUSESFB_0765	CDS	complement(867066..867335)	putative sporulation-like protein
+asm:MOUSESFB_0766	CDS	867454..869574	heavy metal translocating P-type ATPase
+asm:MOUSESFB_0767	CDS	complement(869610..870380)	sigG; sporulation sigma factor SigG
+asm:MOUSESFB_0768	CDS	complement(870639..871373)	sigE; sporulation sigma factor SigE
+asm:MOUSESFB_0769	CDS	complement(871361..872131)	spoIIGA; sporulation factor SpoIIGA
+asm:MOUSESFB_0770	CDS	complement(872336..873487)	ftsZ; cell division protein FtsZ
+asm:MOUSESFB_0771	CDS	complement(873636..874904)	glycosyltransferase
+asm:MOUSESFB_0772	CDS	complement(874960..876084)	pilT; putative twitching motility protein
+asm:MOUSESFB_0773	CDS	complement(876140..876829)	sigE1; sporulation sigma factor SigK
+asm:MOUSESFB_0774	CDS	complement(876867..878465)	putative peptidoglycan glycosyltransferase
+asm:MOUSESFB_0775	CDS	complement(878603..879844)	peptidase
+asm:MOUSESFB_0776	CDS	complement(879822..880487)	caffeoyl-CoA O-methyltransferase
+asm:MOUSESFB_0777	CDS	complement(880653..881687)	pabC; 4-amino-4-deoxychorismate lyase
+asm:MOUSESFB_0778	CDS	complement(881818..882159)	hypothetical protein
+asm:MOUSESFB_0779	CDS	complement(882208..884031)	beta-lactamase domain-containing protein
+asm:MOUSESFB_0780	CDS	complement(884045..884494)	fur; ferric uptake regulator, Fur family
+asm:MOUSESFB_0781	CDS	complement(884530..884994)	Holliday junction resolvase-like protein
+asm:MOUSESFB_0782	CDS	complement(885011..885286)	hypothetical protein
+asm:MOUSESFB_0783	CDS	complement(885356..887998)	alaS; alanyl-tRNA synthetase
+asm:MOUSESFB_0784	CDS	complement(888033..889106)	mnmA; tRNA-specific 2-thiouridylase MnmA
+asm:MOUSESFB_0785	CDS	complement(889131..890276)	nifS; cysteine desulfurase
+asm:MOUSESFB_0786	CDS	complement(890269..890715)	rrf2; RRF2 family protein
+asm:MOUSESFB_0787	CDS	complement(890843..891655)	accA; acetyl-CoA carboxylase carboxyltransferase subunit alpha
+asm:MOUSESFB_0788	CDS	complement(891642..892508)	accD; acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+asm:MOUSESFB_0789	CDS	complement(892508..893854)	acetyl-CoA carboxylase, biotin carboxylase
+asm:MOUSESFB_0790	CDS	complement(893868..894296)	fabZ; hydroxymyristoyl-[acyl carrier protein] dehydratase
+asm:MOUSESFB_0791	CDS	complement(894315..894800)	accB; acetyl-CoA carboxylase, biotin carboxyl carrier protein
+asm:MOUSESFB_0792	CDS	complement(894804..896042)	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase 2
+asm:MOUSESFB_0793	CDS	complement(896056..896796)	fabG; 3-oxoacyl-(acyl-carrier-protein) reductase
+asm:MOUSESFB_0794	CDS	complement(896799..897740)	fabD; malonyl CoA-acyl carrier protein transacylase
+asm:MOUSESFB_0795	CDS	complement(897765..898742)	fabH; 3-oxoacyl-(acyl carrier protein) synthase III
+asm:MOUSESFB_0796	CDS	complement(898830..900059)	glyA; serine hydroxymethyltransferase
+asm:MOUSESFB_0797	CDS	complement(900160..901926)	aspS; aspartyl-tRNA synthetase
+asm:MOUSESFB_0798	CDS	complement(901942..903201)	hisS; histidyl-tRNA synthetase
+asm:MOUSESFB_0799	CDS	complement(903194..903832)	beta-lactamase domain protein
+asm:MOUSESFB_0800	CDS	complement(903894..906059)	spoT; RelA/SpoT protein, (p)ppGpp synthetase/pyrophosphohydrolase
+asm:MOUSESFB_0801	CDS	complement(906192..906710)	apt; adenine phosphoribosyltransferase
+asm:MOUSESFB_0802	CDS	complement(906701..907561)	recJ2; putative single-stranded-DNA-specific exonuclease RecJ
+asm:MOUSESFB_0803	CDS	complement(907669..908529)	secF; preprotein translocase subunit SecF
+asm:MOUSESFB_0804	CDS	complement(908507..909826)	secD; protein-export membrane protein SecD
+asm:MOUSESFB_0805	CDS	complement(909856..911244)	heme biosynthesis
+asm:MOUSESFB_0806	CDS	complement(911341..911478)	hypothetical protein
+asm:MOUSESFB_0807	CDS	complement(911736..913625)	hypothetical protein
+asm:MOUSESFB_0808	CDS	complement(913756..914061)	yajC; preprotein translocase subunit YajC
+asm:MOUSESFB_0809	CDS	complement(914075..915208)	tgt; queuine tRNA-ribosyltransferase
+asm:MOUSESFB_0810	CDS	complement(915227..916249)	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+asm:MOUSESFB_0811	CDS	complement(916265..917254)	ruvB; Holliday junction DNA helicase RuvB
+asm:MOUSESFB_0812	CDS	complement(917259..917858)	ruvA; Holliday junction DNA helicase RuvA
+asm:MOUSESFB_0813	CDS	complement(917951..918526)	hypothetical protein
+asm:MOUSESFB_0814	CDS	complement(918637..919377)	hypothetical protein
+asm:MOUSESFB_0815	CDS	complement(919377..919724)	putative pyrophosphatase
+asm:MOUSESFB_0816	CDS	complement(919746..920399)	hypothetical protein
+asm:MOUSESFB_0817	CDS	complement(920403..922217)	GTP-binding protein
+asm:MOUSESFB_0818	CDS	922450..925341	mrcB; membrane carboxypeptidase MrcB
+asm:MOUSESFB_0819	CDS	complement(925682..926134)	phosphoesterase, putative
+asm:MOUSESFB_0820	CDS	complement(926202..926771)	hypothetical protein
+asm:MOUSESFB_0821	CDS	complement(926889..927737)	folD; methylenetetrahydrofolate dehydrogenase (NADP(+))
+asm:MOUSESFB_0822	CDS	complement(927787..928752)	putative glycosyltransferase
+asm:MOUSESFB_0823	CDS	928857..929984	glycosyl transferase, group 1
+asm:MOUSESFB_0824	CDS	930101..930817	polysaccharide deacetylase family protein
+asm:MOUSESFB_0825	CDS	complement(930875..931492)	permease
+asm:MOUSESFB_0826	CDS	complement(931665..932561)	hypothetical protein
+asm:MOUSESFB_tRNA23	tRNA	complement(932748..932822)	tRNA-Cys
+asm:MOUSESFB_tRNA24	tRNA	complement(932882..932957)	tRNA-Phe
+asm:MOUSESFB_tRNA25	tRNA	complement(932978..933054)	tRNA-Asp
+asm:MOUSESFB_0827	CDS	complement(933125..933988)	hslO; chaperonin HslO
+asm:MOUSESFB_0828	CDS	complement(934088..934501)	hypothetical protein
+asm:MOUSESFB_0829	CDS	complement(934586..935671)	putative serine protease
+asm:MOUSESFB_0830	CDS	complement(935778..936938)	iron-containing alcohol dehydrogenase
+asm:MOUSESFB_0831	CDS	complement(937036..937503)	hypothetical protein
+asm:MOUSESFB_0832	CDS	complement(937673..938578)	rluD; ribosomal large subunit pseudouridine synthase D
+asm:MOUSESFB_0833	CDS	complement(938652..939359)	putative cell-division initiation protein
+asm:MOUSESFB_0834	CDS	complement(939374..940150)	S4 domain protein
+asm:MOUSESFB_0835	CDS	complement(940154..940627)	hypothetical protein
+asm:MOUSESFB_0836	CDS	complement(940727..941491)	ftsQ; putative cell division protein FtsQ
+asm:MOUSESFB_0837	CDS	complement(941516..942676)	ftsW; cell division protein FtsW
+asm:MOUSESFB_0838	CDS	complement(942693..943664)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+asm:MOUSESFB_0839	CDS	complement(943718..945115)	UDP-N-acetylmuramoylalanyl-D-glutamyl-2
+asm:MOUSESFB_0840	CDS	complement(945117..946577)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+asm:MOUSESFB_0841	CDS	complement(946635..948713)	spoVD; stage V sporulation protein D
+asm:MOUSESFB_0842	CDS	complement(948867..949289)	ftsL; putative cell division protein FtsL
+asm:MOUSESFB_0843	CDS	complement(949323..950237)	mraW; S-adenosyl-methyltransferase MraW
+asm:MOUSESFB_0844	CDS	complement(950390..951646)	peptidase M16 domain protein
+asm:MOUSESFB_0845	CDS	complement(951647..952876)	peptidase
+asm:MOUSESFB_0846	CDS	complement(953166..953840)	hypothetical protein
+asm:MOUSESFB_0847	CDS	complement(954201..954821)	hypothetical protein
+asm:MOUSESFB_0848	CDS	complement(954825..955175)	hypothetical protein
+asm:MOUSESFB_0849	CDS	complement(955182..955520)	hypothetical protein
+asm:MOUSESFB_0850	CDS	complement(956775..958586)	ABC transporter, ATP-binding protein
+asm:MOUSESFB_0851	CDS	complement(958583..960232)	ABC-type multidrug/protein/lipid transport system, ATPase component
+asm:MOUSESFB_0852	CDS	960800..962539	iron hydrogenase
+asm:MOUSESFB_0853	CDS	complement(962536..963756)	GTP-binding protein
+asm:MOUSESFB_0854	CDS	complement(963731..965107)	thiH; thiamine biosynthesis protein ThiH
+asm:MOUSESFB_0855	CDS	complement(965126..966235)	bioB; biotin synthase
+asm:MOUSESFB_0856	CDS	complement(966342..967436)	engD; GTP-dependent nucleic acid-binding protein EngD
+asm:MOUSESFB_0857	CDS	967549..968358	nodB; chitooligosaccharide deacetylase
+asm:MOUSESFB_0858	CDS	complement(968360..969592)	rfc; O-antigen polymerase
+asm:MOUSESFB_0859	CDS	complement(969577..970731)	glycosyl transferase
+asm:MOUSESFB_0860	CDS	complement(970744..972018)	hypothetical protein
+asm:MOUSESFB_0861	CDS	complement(972012..972749)	glycosyl transferase, WecB/TagA/CpsF family
+asm:MOUSESFB_0862	CDS	complement(972758..973822)	TPR repeat-containing protein
+asm:MOUSESFB_0863	CDS	complement(973837..975573)	phosphoglucomutase/phosphomannomutase alpha/beta/subunit
+asm:MOUSESFB_0864	CDS	complement(975671..976291)	rplY_1; 50S ribosomal protein L25/general stress protein Ctc
+asm:MOUSESFB_0865	CDS	976418..977875	Orn/Lys/Arg decarboxylase major region
+asm:MOUSESFB_0866	CDS	complement(978064..978273)	rpsU; 30S ribosomal protein S21
+asm:MOUSESFB_0867	CDS	complement(978443..979585)	putative allergen V5/Tpx-1 related protein
+asm:MOUSESFB_0868	CDS	complement(979598..979939)	histidine triad (HIT) protein
+asm:MOUSESFB_0869	CDS	complement(979954..981258)	miaB; RNA modification enzyme, MiaB family
+asm:MOUSESFB_0870	CDS	complement(981284..982024)	rsmE; 16S ribosomal RNA methyltransferase RsmE
+asm:MOUSESFB_0871	CDS	complement(982046..982993)	prmA; ribosomal protein L11 methyltransferase
+asm:MOUSESFB_0872	CDS	983114..983464	hypothetical protein
+asm:MOUSESFB_0873	CDS	complement(983515..985752)	hypothetical protein
+asm:MOUSESFB_0874	CDS	985838..987064	rarA; recombination factor protein RarA
+asm:MOUSESFB_0875	CDS	complement(987094..988248)	dnaJ; chaperone protein DnaJ
+asm:MOUSESFB_0876	CDS	complement(988298..990127)	dnaK; chaperone protein DnaK
+asm:MOUSESFB_0877	CDS	complement(990162..990713)	grpE; heat shock protein GrpE
+asm:MOUSESFB_0878	CDS	complement(990745..991761)	hrcA; heat-inducible transcription repressor
+asm:MOUSESFB_0879	CDS	complement(991859..992986)	hemN; oxygen-independent coproporphyrinogen III oxidase
+asm:MOUSESFB_0880	CDS	complement(992988..994796)	lepA; GTP-binding protein LepA
+asm:MOUSESFB_0881	CDS	complement(995246..996244)	spoIIP; stage II sporulation protein P
+asm:MOUSESFB_0882	CDS	complement(996320..997267)	gpr; germination protease
+asm:MOUSESFB_0883	CDS	997424..997690	rpsT; 30S ribosomal protein S20
+asm:MOUSESFB_0884	CDS	complement(997725..998735)	holA; DNA polymerase III subunit delta
+asm:MOUSESFB_0885	CDS	complement(998743..1000359)	putative competence protein
+asm:MOUSESFB_0886	CDS	complement(1000524..1000886)	spoVAE; stage V sporulation protein AE
+asm:MOUSESFB_0887	CDS	complement(1000893..1001918)	spoVAD; stage V sporulation protein AD
+asm:MOUSESFB_0888	CDS	complement(1001935..1002414)	spoVAC; stage V sporulation protein AC
+asm:MOUSESFB_0889	CDS	1002590..1003708	hypothetical protein
+asm:MOUSESFB_0890	CDS	complement(1003712..1003918)	flbD; flagellar FlbD family protein
+asm:MOUSESFB_0891	CDS	complement(1003964..1004995)	flgD; flagellar hook assembly protein FlgD
+asm:MOUSESFB_0892	CDS	complement(1005013..1006485)	fliK; putative flagellar hook-length control protein
+asm:MOUSESFB_0893	CDS	complement(1006472..1006978)	fliJ; flagellar export protein FliJ
+asm:MOUSESFB_0894	CDS	complement(1006983..1008296)	fliI; flagellar protein export ATPase FliI
+asm:MOUSESFB_0895	CDS	complement(1008303..1009115)	putative flagellar biosynthesis/type III secretory pathway -like protein
+asm:MOUSESFB_0896	CDS	complement(1009099..1010112)	fliG; flagellar motor switch protein FliG
+asm:MOUSESFB_0897	CDS	complement(1010214..1010636)	flgC; flagellar basal body rod protein FlgC
+asm:MOUSESFB_0898	CDS	complement(1010657..1011019)	flgB; flagellar basal body rod protein FlgB
+asm:MOUSESFB_0899	CDS	complement(1011041..1011895)	flagellin domain-containing protein
+asm:MOUSESFB_0900	CDS	complement(1011906..1012253)	hypothetical protein
+asm:MOUSESFB_0901	CDS	1012440..1013840	sodium:dicarboxylate symporter family protein
+asm:MOUSESFB_0902	CDS	complement(1014017..1014436)	acetyltransferase
+asm:MOUSESFB_0903	CDS	complement(1014450..1014803)	licA; lichenan-specific phosphotransferase enzyme IIA component
+asm:MOUSESFB_0904	CDS	complement(1014830..1015171)	asp; alkaline shock protein
+asm:MOUSESFB_0905	CDS	complement(1015279..1015794)	spoIIIAH; putative stage III sporulation protein AH
+asm:MOUSESFB_0906	CDS	complement(1015847..1016431)	spoIIIAG; stage III sporulation protein AG
+asm:MOUSESFB_0907	CDS	complement(1016447..1017034)	spoIIIAF; putative stage III sporulation protein AF
+asm:MOUSESFB_0908	CDS	complement(1017047..1018243)	spoIIIAE; stage III sporulation protein AE
+asm:MOUSESFB_0909	CDS	complement(1018254..1018637)	spoIIIAD; stage III sporulation protein AD
+asm:MOUSESFB_0910	CDS	complement(1018646..1018843)	spoIIIAC; stage III sporulation protein AC
+asm:MOUSESFB_0911	CDS	complement(1018858..1019370)	spoIIIAB; putative stage III sporulation protein AB
+asm:MOUSESFB_0912	CDS	complement(1019382..1020197)	spoIIIAA; stage III sporulation protein AA
+asm:MOUSESFB_0913	CDS	complement(1020383..1020979)	efp; elongation factor P
+asm:MOUSESFB_0914	CDS	complement(1021020..1021415)	hypothetical protein
+asm:MOUSESFB_0915	CDS	complement(1021423..1021857)	hypothetical protein
+asm:MOUSESFB_0916	CDS	complement(1021790..1022569)	hypothetical protein
+asm:MOUSESFB_0917	CDS	complement(1022585..1022959)	hypothetical protein
+asm:MOUSESFB_0918	CDS	complement(1023031..1023471)	hypothetical protein
+asm:MOUSESFB_0919	CDS	complement(1023518..1023913)	hypothetical protein
+asm:MOUSESFB_0920	CDS	complement(1023906..1024373)	prepilin peptidase, putative
+asm:MOUSESFB_0921	CDS	complement(1024342..1025532)	putative type II secretion system protein
+asm:MOUSESFB_0922	CDS	complement(1025529..1026932)	type II secretion system protein E
+asm:MOUSESFB_0923	CDS	1027048..1028754	fibronectin-binding protein
+asm:MOUSESFB_0924	CDS	complement(1029042..1029518)	pyridoxamine 5'-phosphate oxidase-related FMN-binding
+asm:MOUSESFB_0925	CDS	complement(1029538..1030314)	fhuC; putative ferrichrome transport ATP-binding protein FhuC
+asm:MOUSESFB_0926	CDS	complement(1030321..1031310)	putative ferrichrome ABC transporter
+asm:MOUSESFB_0927	CDS	complement(1031303..1032220)	putative heme ABC transporter, heme-binding protein IsdE
+asm:MOUSESFB_0928	CDS	complement(1032330..1032893)	peroxiredoxin
+asm:MOUSESFB_0929	CDS	complement(1034058..1034363)	hypothetical protein
+asm:MOUSESFB_0930	CDS	complement(1034369..1035745)	glycosyl hydrolase, family 1
+asm:MOUSESFB_0931	CDS	complement(1035973..1037367)	PTS system, lactose/cellobiose family IIC subunit
+asm:MOUSESFB_0932	CDS	complement(1037414..1037791)	phosphotransferase system lactose/cellobiose-specific IIB subunit
+asm:MOUSESFB_0933	CDS	1038028..1039359	glycoside hydrolase, family 4
+asm:MOUSESFB_0934	CDS	complement(1039367..1040215)	sgbU; putative L-xylulose 5-phosphate 3-epimerase
+asm:MOUSESFB_0935	CDS	complement(1040223..1040804)	araD; L-ribulose-5-phosphate 4-epimerase
+asm:MOUSESFB_0936	CDS	complement(1040934..1041968)	FG-GAP repeat protein
+asm:MOUSESFB_0937	CDS	complement(1042030..1042338)	PTS system, lactose/cellobiose specific IIB subunit
+asm:MOUSESFB_0938	CDS	complement(1042344..1043807)	putative sugar-specific permease, SgaT/UlaA
+asm:MOUSESFB_0939	CDS	complement(1043816..1044136)	PTS system, IIA component
+asm:MOUSESFB_0940	CDS	complement(1044423..1045346)	ulaG; putative L-ascorbate-6-phosphate lactonase UlaG
+asm:MOUSESFB_0941	CDS	1045608..1046306	deoR; transcriptional regulator, DeoR family
+asm:MOUSESFB_0942	CDS	complement(1046643..1047392)	cutC; CutC family protein
+asm:MOUSESFB_0943	CDS	1047922..1048356	hemoglobin
+asm:MOUSESFB_0944	CDS	1048510..1049556	hypothetical protein
+asm:MOUSESFB_0945	CDS	1049578..1050873	PTS lactose/cellobiose IIC component
+asm:MOUSESFB_0946	CDS	complement(1050916..1051911)	putative penicillin amidase
+asm:MOUSESFB_0947	CDS	1052073..1053683	hypothetical protein
+asm:MOUSESFB_0948	CDS	1053873..1055264	sodium:dicarboxylate symporter family protein
+asm:MOUSESFB_0949	CDS	complement(1055366..1056127)	sigF; sporulation sigma factor SigF
+asm:MOUSESFB_0950	CDS	complement(1056140..1056604)	spoIIAB; anti-sigma F factor
+asm:MOUSESFB_0951	CDS	complement(1056597..1056941)	anti-sigma-factor antagonist
+asm:MOUSESFB_0952	CDS	complement(1057089..1057751)	MacB; putative macrolide export ATP-binding/permease protein MacB
+asm:MOUSESFB_0953	CDS	complement(1057874..1058815)	glutaminyl-peptide cyclotransferase
+asm:MOUSESFB_0954	CDS	complement(1058838..1060580)	oppA; putative oligopeptide transporter, periplasmic-binding protein
+asm:MOUSESFB_0955	CDS	complement(1060684..1064202)	hypothetical protein
+asm:MOUSESFB_0956	CDS	complement(1064722..1068063)	hypothetical protein
+asm:MOUSESFB_0957	CDS	complement(1068128..1071415)	hypothetical protein
+asm:MOUSESFB_0958	CDS	complement(1071469..1074723)	hypothetical protein
+asm:MOUSESFB_0959	CDS	complement(1074916..1075749)	polysaccharide deacetylase family protein
+asm:MOUSESFB_0960	CDS	complement(1075762..1076736)	yrbG; sodium/calcium exchanger protein
+asm:MOUSESFB_0961	CDS	1076904..1077650	putative flagellin-like protein
+asm:MOUSESFB_0962	CDS	complement(1077749..1078888)	putative aminotransferase class I and II
+asm:MOUSESFB_0963	CDS	complement(1078914..1081040)	mcp; putative methyl-accepting chemotaxis sensory transducer
+asm:MOUSESFB_0964	CDS	complement(1081184..1082581)	radA; DNA repair protein RadA
+asm:MOUSESFB_0965	CDS	complement(1082616..1083104)	putative transposase
+asm:MOUSESFB_0966	CDS	complement(1083209..1086784)	subtilisin like protease
+asm:MOUSESFB_0967	CDS	1086904..1088730	glmS; glucosamine--fructose-6-phosphate aminotransferase, isomerizing
+asm:MOUSESFB_0968	CDS	complement(1088748..1090355)	hypothetical protein
+asm:MOUSESFB_0969	CDS	complement(1090455..1091804)	hypothetical protein
+asm:MOUSESFB_0970	CDS	complement(1091949..1093649)	hypothetical protein
+asm:MOUSESFB_0971	CDS	complement(1093791..1095809)	hypothetical protein
+asm:MOUSESFB_0972	CDS	complement(1096001..1097023)	D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding protein
+asm:MOUSESFB_0973	CDS	1097334..1098161	hypothetical protein
+asm:MOUSESFB_0974	CDS	1098288..1098866	hypothetical protein
+asm:MOUSESFB_0975	CDS	1098894..1099688	hypothetical protein
+asm:MOUSESFB_0976	CDS	complement(1098971..1099381)	hypothetical protein
+asm:MOUSESFB_0977	CDS	complement(1099718..1100314)	putative dithiol-disulfide isomerase
+asm:MOUSESFB_0978	CDS	complement(1100451..1100999)	membrane protein
+asm:MOUSESFB_0979	CDS	1101116..1101463	hypothetical protein
+asm:MOUSESFB_0980	CDS	complement(1101619..1104213)	hypothetical protein
+asm:MOUSESFB_0981	CDS	complement(1104670..1106190)	hypothetical protein
+asm:MOUSESFB_0982	CDS	complement(1106383..1107231)	hypothetical protein
+asm:MOUSESFB_0983	CDS	complement(1108673..1109812)	aminotransferase class I and II
+asm:MOUSESFB_0984	CDS	complement(1109837..1110340)	ATP:corrinoid adenosyltransferase BtuR/CobO/CobP
+asm:MOUSESFB_0985	CDS	1110516..1111229	dapH; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+asm:MOUSESFB_0986	CDS	complement(1111265..1111936)	ssb; single-stranded DNA-binding protein
+asm:MOUSESFB_0987	CDS	complement(1112054..1112845)	polysaccharide deacetylase
+asm:MOUSESFB_0988	CDS	1112996..1113511	hypothetical protein
+asm:MOUSESFB_0989	CDS	complement(1113558..1114436)	beta-propeller fold protein
+asm:MOUSESFB_0990	CDS	complement(1114545..1115942)	bla; putative beta-lactamase class A-like protein
+asm:MOUSESFB_0991	CDS	complement(1116131..1118788)	valS; valyl-tRNA synthetase
+asm:MOUSESFB_0992	CDS	1118951..1119313	tetratricopeptide repeat protein
+asm:MOUSESFB_0993	CDS	complement(1119366..1120526)	transglutaminase-like enzyme, putative cysteine protease
+asm:MOUSESFB_0994	CDS	complement(1120541..1121005)	recX; recombination regulator RecX
+asm:MOUSESFB_0995	CDS	complement(1121008..1122264)	zinc protease
+asm:MOUSESFB_0996	CDS	complement(1122403..1123488)	hypothetical protein
+asm:MOUSESFB_0997	CDS	1123723..1124265	rbr; Rubrerythrin
+asm:MOUSESFB_0998	CDS	1124452..1125381	hypothetical protein
+asm:MOUSESFB_0999	CDS	1125433..1125813	hypothetical protein
+asm:MOUSESFB_1000	CDS	1125993..1126517	hypothetical protein
+asm:MOUSESFB_1001	CDS	1126697..1127221	hypothetical protein
+asm:MOUSESFB_1002	CDS	1127303..1127884	hypothetical protein
+asm:MOUSESFB_1003	CDS	complement(1132403..1133860)	putative extracellular solute-binding protein
+asm:MOUSESFB_1004	CDS	complement(1133914..1135908)	ligA; DNA ligase, NAD-dependent
+asm:MOUSESFB_1005	CDS	complement(1135911..1138106)	pcrA; ATP-dependent DNA helicase PcrA
+asm:MOUSESFB_1006	CDS	complement(1138119..1138835)	putative ribosomal small subunit pseudouridine synthase A
+asm:MOUSESFB_1007	CDS	complement(1138930..1139574)	lytic murein transglycosylase
+asm:MOUSESFB_1008	CDS	complement(1139643..1141673)	two component regulator three Y domain protein
+asm:MOUSESFB_1009	CDS	complement(1141849..1145316)	type ii restriction enzyme, methylase subunit
+asm:MOUSESFB_1010	CDS	complement(1145309..1148488)	hypothetical protein
+asm:MOUSESFB_1011	CDS	complement(1148560..1149912)	pgi; glucose-6-phosphate isomerase
+asm:MOUSESFB_1012	CDS	complement(1150266..1150907)	hypothetical protein
+asm:MOUSESFB_1013	CDS	complement(1150937..1152022)	NatB; ABC-type Na+ efflux pump, permease component
+asm:MOUSESFB_1014	CDS	complement(1152119..1153009)	natA; ATP-binding transport protein NatA
+asm:MOUSESFB_1015	CDS	complement(1153013..1153567)	hypothetical protein
+asm:MOUSESFB_1016	CDS	complement(1153572..1154012)	hypothetical protein
+asm:MOUSESFB_1017	CDS	1154210..1155010	hypothetical protein
+asm:MOUSESFB_1018	CDS	complement(1155074..1155343)	hypothetical protein
+asm:MOUSESFB_1019	CDS	complement(1155426..1155971)	thiJ; ThiJ family intracellular protease
+asm:MOUSESFB_1020	CDS	complement(1156129..1156572)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase Dut
+asm:MOUSESFB_1021	CDS	complement(1156645..1157547)	hypothetical protein
+asm:MOUSESFB_1022	CDS	complement(1157639..1160461)	hypothetical protein
+asm:MOUSESFB_1023	CDS	complement(1160661..1161338)	ampD; N-acetylmuramoyl-L-alanine amidase family 2
+asm:MOUSESFB_1024	CDS	complement(1161413..1162681)	matE; MATE efflux family protein
+asm:MOUSESFB_1025	CDS	complement(1162823..1164859)	putative ABC transporter, permease protein
+asm:MOUSESFB_1026	CDS	complement(1164856..1165641)	ABC-type antimicrobial peptide transport system, ATPase component
+asm:MOUSESFB_1027	CDS	complement(1165733..1166734)	histidine kinase
+asm:MOUSESFB_1028	CDS	complement(1166775..1167488)	ompR; two component transcriptional regulator, winged helix family
+asm:MOUSESFB_tRNA26	tRNA	complement(1167553..1167629)	tRNA-Arg
+asm:MOUSESFB_1029	CDS	complement(1167698..1168030)	cutA; cutA1 divalent ion tolerance protein
+asm:MOUSESFB_1030	CDS	complement(1168097..1168855)	flgG; flagellar basal body rod protein FlgG
+asm:MOUSESFB_1031	CDS	complement(1168888..1169649)	flgG; flagellar basal-body rod protein FlgG
+asm:MOUSESFB_1032	CDS	complement(1169957..1170745)	fliA; RNA polymerase sigma factor for flagellar operon
+asm:MOUSESFB_1033	CDS	complement(1170794..1171528)	hypothetical protein
+asm:MOUSESFB_1034	CDS	complement(1171536..1173074)	flhF; flagellar biosynthesis regulator FlhF
+asm:MOUSESFB_1035	CDS	complement(1173064..1175154)	flhA; flagellar biosynthesis protein FlhA
+asm:MOUSESFB_1036	CDS	complement(1175176..1177020)	fliR; bifunctional flagellar biosynthesis proteins FliR/FlhB
+asm:MOUSESFB_1037	CDS	complement(1177021..1177293)	fliQ; flagellar biosynthetic protein FliQ
+asm:MOUSESFB_1038	CDS	complement(1177293..1178003)	fliP; flagellar biosynthetic protein FliP
+asm:MOUSESFB_1039	CDS	1177705..1178130	hypothetical protein
+asm:MOUSESFB_1040	CDS	complement(1178037..1178324)	fliZ; putative flagellar biosynthesis protein FliZ
+asm:MOUSESFB_1041	CDS	complement(1178333..1178782)	fliL; flagellar basal body-associated protein FliL
+asm:MOUSESFB_1042	CDS	complement(1178787..1179497)	OmpA/MotB protein
+asm:MOUSESFB_1043	CDS	complement(1179523..1180323)	motA; chemotaxis MotA protein
+asm:MOUSESFB_1044	CDS	complement(1180481..1180897)	fcbC; 4-hydroxybenzoyl-CoA thioesterase
+asm:MOUSESFB_1045	CDS	complement(1180917..1182215)	purB; adenylosuccinate lyase
+asm:MOUSESFB_1046	CDS	complement(1182212..1183291)	gfo/Idh/MocA family oxidoreductase
+asm:MOUSESFB_1047	CDS	1183406..1184674	purA; adenylosuccinate synthetase
+asm:MOUSESFB_1048	CDS	complement(1185300..1185851)	scpB; segregation and condensation protein B
+asm:MOUSESFB_1049	CDS	complement(1185844..1186605)	scpA; segregation and condensation protein A
+asm:MOUSESFB_1050	CDS	complement(1186691..1187926)	type I restriction modification DNA specificity domain protein
+asm:MOUSESFB_1051	CDS	complement(1188064..1189275)	dacF; D-alanyl-D-alanine carboxypeptidase
+asm:MOUSESFB_1052	CDS	complement(1189366..1190685)	pdp; pyrimidine-nucleoside phosphorylase
+asm:MOUSESFB_1053	CDS	complement(1190679..1191851)	deoB; phosphopentomutase
+asm:MOUSESFB_1054	CDS	complement(1191873..1192490)	spoIIM; putative stage II sporulation protein M
+asm:MOUSESFB_1055	CDS	complement(1192574..1193107)	NUDIX family hydrolase
+asm:MOUSESFB_1056	CDS	1193410..1193709	hypothetical protein
+asm:MOUSESFB_1057	CDS	1193891..1194679	hypothetical protein
+asm:MOUSESFB_1058	CDS	complement(1195021..1198101)	sbcC; exonuclease SbcC
+asm:MOUSESFB_1059	CDS	complement(1198118..1199278)	sbcD; nuclease SbcCD, D subunit
+asm:MOUSESFB_1060	CDS	complement(1199289..1200533)	cinA; competence damage-inducible protein A
+asm:MOUSESFB_1061	CDS	complement(1200617..1201975)	integral membrane sensor signal transduction histidine kinase
+asm:MOUSESFB_1062	CDS	complement(1201977..1202639)	DNA-binding response regulator
+asm:MOUSESFB_1063	CDS	complement(1202792..1203715)	putative peptidase
+asm:MOUSESFB_1064	CDS	complement(1203825..1205024)	hypothetical protein
+asm:MOUSESFB_1065	CDS	complement(1205128..1208454)	cbpA; cellobiose phosphorylase
+asm:MOUSESFB_1066	CDS	complement(1208565..1210220)	putative ABC transporter ATP-binding protein
+asm:MOUSESFB_1067	CDS	complement(1210393..1211412)	periplasmic binding protein
+asm:MOUSESFB_1068	CDS	complement(1211384..1212139)	fhuC; putative iron compound ABC transporter, ATP-binding protein
+asm:MOUSESFB_1069	CDS	complement(1212133..1213113)	iron chelate uptake ABC transporter, FeCT family, permease protein
+asm:MOUSESFB_1070	CDS	complement(1213103..1214062)	putative iron compound ABC transporter, permease protein
+asm:MOUSESFB_1071	CDS	1214226..1215185	iron compound ABC transporter, iron compound-binding protein
+asm:MOUSESFB_1072	CDS	1215188..1216171	fhuB; putative ferrichrome transport system permease protein FhuB
+asm:MOUSESFB_1073	CDS	1216259..1217182	fhuG; putative ferrichrome transport system permease protein FhuG
+asm:MOUSESFB_1074	CDS	1217182..1217970	fhuC; ferrichrome transport ATP-binding protein FhuC
+asm:MOUSESFB_1075	CDS	1217960..1219192	major facilitator transporter
+asm:MOUSESFB_1076	CDS	complement(1219207..1219917)	transporter
+asm:MOUSESFB_1077	CDS	complement(1219910..1220605)	radical SAM-superfamily protein
+asm:MOUSESFB_1078	CDS	complement(1220721..1222796)	hypothetical protein
+asm:MOUSESFB_1079	CDS	complement(1222911..1223300)	cupin domain protein
+asm:MOUSESFB_1080	CDS	complement(1223474..1224016)	hypothetical protein
+asm:MOUSESFB_1081	CDS	1224360..1225028	putative manganese-containing catalase
+asm:MOUSESFB_1082	CDS	complement(1225088..1226266)	rbr; Rubrerythrin
+asm:MOUSESFB_1083	CDS	complement(1226557..1227891)	matE; MATE efflux family protein
+asm:MOUSESFB_1084	CDS	complement(1227893..1228330)	marR; transcriptional regulator, MarR family
+asm:MOUSESFB_1085	CDS	complement(1228639..1230105)	catalase
+asm:MOUSESFB_1086	CDS	complement(1230183..1230611)	fur; ferric uptake regulator, Fur family
+asm:MOUSESFB_1087	CDS	complement(1231108..1231548)	bioY; BioY family protein
+asm:MOUSESFB_1088	CDS	complement(1232150..1232362)	hypothetical protein
+asm:MOUSESFB_1089	CDS	complement(1233851..1234417)	tag; DNA-3-methyladenine glycosylase I
+asm:MOUSESFB_1090	CDS	complement(1234631..1235524)	trxB; thioredoxin reductase
+asm:MOUSESFB_1091	CDS	complement(1235826..1237166)	rumA1; 23S rRNA (uracil-5-)-methyltransferase RumA
+asm:MOUSESFB_1092	CDS	complement(1237215..1238366)	putative iron-containing alcohol dehydrogenase
+asm:MOUSESFB_1093	CDS	complement(1238453..1239118)	ppaX; pyrophosphatase PpaX
+asm:MOUSESFB_1094	CDS	1239316..1240998	putative Methyl-accepting chemotaxis protein
+asm:MOUSESFB_1095	CDS	1241022..1242806	mcp; putative methyl-accepting chemotaxis sensory transducer
+asm:MOUSESFB_1096	CDS	complement(1242831..1243970)	oadB; Na+ transporting oxaloacetate decarboxylase beta chain
+asm:MOUSESFB_1097	CDS	complement(1243984..1244343)	biotin/lipoyl attachment domain-containing protein
+asm:MOUSESFB_1098	CDS	complement(1244356..1244667)	sodium pump decarboxylase, gamma subunit subfamily
+asm:MOUSESFB_1099	CDS	complement(1244686..1246068)	pycB; pyruvate carboxylase subunit B
+asm:MOUSESFB_1100	CDS	complement(1246249..1246731)	hypothetical protein
+asm:MOUSESFB_1101	CDS	complement(1246746..1247177)	nifU; NifU family SUF system FeS assembly protein
+asm:MOUSESFB_1102	CDS	complement(1247179..1248405)	sufS; cysteine desulfurase, SufS family
+asm:MOUSESFB_1103	CDS	complement(1248407..1249450)	iron-regulated ABC-type transporter membrane component
+asm:MOUSESFB_1104	CDS	complement(1249455..1250840)	sufB; FeS assembly protein SufB
+asm:MOUSESFB_1105	CDS	complement(1250847..1251584)	sufC; FeS assembly ATPase SufC
+asm:MOUSESFB_1106	CDS	complement(1251754..1252380)	hypothetical protein
+asm:MOUSESFB_1107	CDS	complement(1252493..1253320)	HAD hydrolase, IIB family
+asm:MOUSESFB_1108	CDS	complement(1253349..1253984)	hypothetical protein
+asm:MOUSESFB_1109	CDS	complement(1254605..1254940)	hypothetical protein
+asm:MOUSESFB_1110	CDS	complement(1255057..1256292)	hypothetical protein
+asm:MOUSESFB_1111	CDS	complement(1256252..1257274)	aroB; 3-dehydroquinate synthase
+asm:MOUSESFB_1112	CDS	complement(1257298..1258431)	aroC; chorismate synthase
+asm:MOUSESFB_1113	CDS	complement(1258443..1259717)	aroA2; 3-phosphoshikimate 1-carboxyvinyltransferase
+asm:MOUSESFB_1114	CDS	complement(1259737..1260732)	aroA; phospho-2-dehydro-3-deoxyheptonate aldolase
+asm:MOUSESFB_1115	CDS	1260922..1263903	nrdJ; vitamin B12-dependent ribonucleotide reductase
+asm:MOUSESFB_1116	CDS	1263971..1264861	hypothetical protein
+asm:MOUSESFB_1117	CDS	complement(1264865..1265182)	hypothetical protein
+asm:MOUSESFB_1118	CDS	1265230..1265700	asnC; transcription regulator AsnC
+asm:MOUSESFB_1119	CDS	1265791..1265991	hypothetical protein
+asm:MOUSESFB_1120	CDS	complement(1266024..1267793)	hypothetical protein
+asm:MOUSESFB_1121	CDS	complement(1267801..1268475)	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+asm:MOUSESFB_1122	CDS	1268689..1269525	metallo-beta-lactamase domain protein
+asm:MOUSESFB_1123	CDS	1269589..1271025	gltX; glutamyl-tRNA synthetase, bacterial family
+asm:MOUSESFB_1124	CDS	complement(1271039..1271731)	hypothetical protein
+asm:MOUSESFB_1125	CDS	1271896..1272132	feoA; ferrous iron uptake protein feoa
+asm:MOUSESFB_1126	CDS	1272137..1273900	feoB; ferrous iron transport protein B
+asm:MOUSESFB_1127	CDS	complement(1274320..1276668)	glycosyltransferase 36
+asm:MOUSESFB_1128	CDS	complement(1276771..1277808)	hypothetical protein
+asm:MOUSESFB_1129	CDS	complement(1277818..1278651)	MscS mechanosensitive ion channel
+asm:MOUSESFB_1130	CDS	1279005..1281923	hypothetical protein
+asm:MOUSESFB_1131	CDS	1281952..1282353	nanA; hypothetical protein
+asm:MOUSESFB_1132	CDS	complement(1282391..1284118)	argS; arginyl-tRNA synthetase
+asm:MOUSESFB_1133	CDS	complement(1284087..1284731)	trmB; tRNA (guanine-N(7)-)-methyltransferase
+asm:MOUSESFB_1134	CDS	1284861..1285622	BirA; biotin-(acetyl-CoA carboxylase) ligase
+asm:MOUSESFB_1135	CDS	complement(1285631..1286110)	hypothetical protein
+asm:MOUSESFB_1136	CDS	complement(1286131..1286526)	putative peptidylprolyl isomerase
+asm:MOUSESFB_1137	CDS	complement(1286544..1287236)	hypothetical protein
+asm:MOUSESFB_1138	CDS	complement(1287251..1287562)	hypothetical protein
+asm:MOUSESFB_1139	CDS	complement(1287719..1288288)	cas5; putative CRISPR-associated protein Cas5 family
+asm:MOUSESFB_1140	CDS	1288443..1289336	rocF; arginase
+asm:MOUSESFB_1141	CDS	1289336..1289947	exonuclease
+asm:MOUSESFB_1142	CDS	1289964..1291310	gdhA; glutamate dehydrogenase
+asm:MOUSESFB_1143	CDS	complement(1291347..1291850)	hypothetical protein
+asm:MOUSESFB_1144	CDS	complement(1291928..1293067)	phosphofructokinase family protein
+asm:MOUSESFB_1145	CDS	complement(1293099..1293935)	uppP; undecaprenyl-diphosphatase
+asm:MOUSESFB_1146	CDS	complement(1294047..1295921)	putative tetratricopeptide repeat domain protein
+asm:MOUSESFB_1147	CDS	1296003..1296905	hypothetical protein
+asm:MOUSESFB_1148	CDS	1297180..1298271	murE; UDP-N-acetylmuramyl tripeptide synthetase
+asm:MOUSESFB_1149	CDS	1298289..1299014	glutamine amidotransferase
+asm:MOUSESFB_1150	CDS	1299059..1300303	putative copper amine oxidase domain protein
+asm:MOUSESFB_1151	CDS	complement(1300382..1303564)	hypothetical protein
+asm:MOUSESFB_1152	CDS	complement(1304256..1305239)	putative glycosyltransferase
+asm:MOUSESFB_1153	CDS	complement(1305440..1306336)	hypothetical protein
+asm:MOUSESFB_1154	CDS	complement(1306439..1308598)	hypothetical protein
+asm:MOUSESFB_1155	CDS	complement(1308745..1309869)	hypothetical protein
+asm:MOUSESFB_1156	CDS	complement(1309958..1310950)	rfbB; dTDP-glucose 4,6-dehydratase
+asm:MOUSESFB_1157	CDS	1311211..1312950	ade; adenine deaminase
+asm:MOUSESFB_1158	CDS	1313153..1314394	cytosine permease
+asm:MOUSESFB_1159	CDS	complement(1313593..1313928)	hypothetical protein
+asm:MOUSESFB_1160	CDS	1314397..1315665	cytosine deaminase
+asm:MOUSESFB_1161	CDS	1315831..1317237	glycosyl transferase, group 2 family protein
+asm:MOUSESFB_1162	CDS	complement(1317279..1320224)	hypothetical protein
+asm:MOUSESFB_1163	CDS	1320831..1321544	lspA; lipoprotein signal peptidase
+asm:MOUSESFB_1164	CDS	1321556..1322719	Na(+)/H(+) antiporter
+asm:MOUSESFB_1165	CDS	complement(1322751..1325177)	hypothetical protein
+asm:MOUSESFB_1166	CDS	complement(1325335..1326573)	dac; D-alanyl-D-alanine carboxypeptidase family protein
+asm:MOUSESFB_1167	CDS	complement(1326607..1327320)	pgdA; peptidoglycan N-acetylglucosamine deacetylase
+asm:MOUSESFB_1168	CDS	complement(1327479..1327955)	hypothetical protein
+asm:MOUSESFB_tRNA27	tRNA	complement(1328343..1328418)	tRNA-Trp
+asm:MOUSESFB_1169	CDS	1328534..1329016	putative ATPase
+asm:MOUSESFB_1170	CDS	1329021..1329731	glycoprotease family protein
+asm:MOUSESFB_1171	CDS	1329724..1330164	rimI; ribosomal-protein-alanine acetyltransferase
+asm:MOUSESFB_1172	CDS	complement(1330181..1330738)	riboflavin transporter
+asm:MOUSESFB_1173	CDS	complement(1330763..1332940)	RNA-binding S1 domain-containing protein
+asm:MOUSESFB_1174	CDS	complement(1332945..1333940)	prfB; peptide chain release factor 2
+asm:MOUSESFB_1175	CDS	complement(1334110..1336611)	secA; preprotein translocase, SecA subunit
+asm:MOUSESFB_1176	CDS	complement(1336753..1337286)	yfiA; SSU ribosomal protein S30P
+asm:MOUSESFB_1177	CDS	complement(1337528..1338187)	comF; putative ComF protein
+asm:MOUSESFB_1178	CDS	complement(1338160..1339053)	hypothetical protein
+asm:MOUSESFB_1179	CDS	complement(1339157..1341397)	recD; RecD/TraA family helicase
+asm:MOUSESFB_1180	CDS	1341504..1342649	nagA; N-acetylglucosamine-6-phosphate deacetylase
+asm:MOUSESFB_1181	CDS	complement(1342646..1343842)	metK; S-adenosylmethionine synthetase
+asm:MOUSESFB_tRNA28	tRNA	complement(1343916..1343991)	tRNA-Thr
+asm:MOUSESFB_tRNA29	tRNA	complement(1343995..1344070)	tRNA-Val
+asm:MOUSESFB_tRNA30	tRNA	complement(1344075..1344160)	tRNA-Tyr
+asm:MOUSESFB_tRNA31	tRNA	complement(1344168..1344243)	tRNA-Thr
+asm:MOUSESFB_1182	CDS	complement(1344383..1344682)	spoIIID; sporulation transcriptional regulator spoIIID
+asm:MOUSESFB_1183	CDS	complement(1344683..1345570)	putative peptidase M23B
+asm:MOUSESFB_1184	CDS	complement(1345632..1346606)	spoIID; sporulation stage II protein D
+asm:MOUSESFB_1185	CDS	complement(1346717..1347970)	murA2; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+asm:MOUSESFB_1186	CDS	complement(1348074..1349174)	wecB; UDP-N-acetylglucosamine 2-epimerase
+asm:MOUSESFB_1187	CDS	complement(1349201..1350226)	wecA; undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphatetransferase
+asm:MOUSESFB_1188	CDS	complement(1350308..1350955)	upp; uracil phosphoribosyltransferase
+asm:MOUSESFB_1189	CDS	complement(1350939..1351412)	tyrosine phosphatase
+asm:MOUSESFB_1190	CDS	complement(1351425..1352507)	Sua5/YciO/YrdC/YwlC family protein
+asm:MOUSESFB_1191	CDS	complement(1352539..1353615)	prfA; peptide chain release factor 1
+asm:MOUSESFB_1192	CDS	complement(1353706..1355439)	hemK; methyltransferase, HemK family
+asm:MOUSESFB_1193	CDS	complement(1355473..1356057)	tdk; thymidine kinase
+asm:MOUSESFB_1194	CDS	1356197..1356460	rpmE; 50S ribosomal protein L31
+asm:MOUSESFB_1195	CDS	complement(1356504..1357907)	rho; transcription termination factor Rho
+asm:MOUSESFB_1196	CDS	complement(1358079..1359689)	pyrG; CTP synthase
+asm:MOUSESFB_1197	CDS	1359939..1361060	UDP-glucuronosyltransferase
+asm:MOUSESFB_1198	CDS	complement(1361093..1361755)	spoIIR; stage II sporulation protein R
+asm:MOUSESFB_1199	CDS	complement(1361802..1362908)	Ger(x)C family germination protein
+asm:MOUSESFB_1200	CDS	complement(1362905..1364023)	spore germination protein
+asm:MOUSESFB_1201	CDS	complement(1364035..1365495)	gerA; GerA spore germination protein
+asm:MOUSESFB_1202	CDS	complement(1365790..1366650)	ipk; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+asm:MOUSESFB_1203	CDS	complement(1366750..1369350)	cphA; cyanophycin synthetase
+asm:MOUSESFB_1204	CDS	complement(1369350..1370171)	cphB; cyanophycinase
+asm:MOUSESFB_1205	CDS	complement(1370341..1371888)	LysM domain protein
+asm:MOUSESFB_1206	CDS	complement(1372040..1372285)	VEG protein-like protein
+asm:MOUSESFB_1207	CDS	complement(1372375..1373265)	yabG; sporulation peptidase YabG
+asm:MOUSESFB_1208	CDS	complement(1373329..1374114)	fabI; enoyl-(acyl carrier protein) reductase
+asm:MOUSESFB_1209	CDS	complement(1374231..1375238)	cotS; spore coat protein CotS
+asm:MOUSESFB_1210	CDS	1375355..1376425	glycosyl transferase group 1
+asm:MOUSESFB_1211	CDS	complement(1376481..1377395)	trxB; thioredoxin reductase
+asm:MOUSESFB_1212	CDS	complement(1377408..1378256)	degV; degV family protein
+asm:MOUSESFB_1213	CDS	complement(1378257..1378727)	hypothetical protein
+asm:MOUSESFB_1214	CDS	complement(1378798..1380201)	vanW; vanW family protein
+asm:MOUSESFB_1215	CDS	complement(1380304..1381206)	ddl2; D-alanine--D-alanine ligase
+asm:MOUSESFB_1216	CDS	complement(1381218..1381847)	nth; endonuclease III
+asm:MOUSESFB_1217	CDS	complement(1381831..1382565)	plsC; phospholipid/glycerol acyltransferase
+asm:MOUSESFB_1218	CDS	complement(1382569..1383579)	iron-sulfur cluster-binding protein
+asm:MOUSESFB_1219	CDS	complement(1383596..1384852)	CBS domain/MgtE intracellular domain protein
+asm:MOUSESFB_1220	CDS	complement(1384976..1385389)	hypothetical protein
+asm:MOUSESFB_1221	CDS	1385576..1386217	hypothetical protein
+asm:MOUSESFB_1222	CDS	1386241..1386630	hypothetical protein
+asm:MOUSESFB_1223	CDS	1386798..1387733	fbaA; fructose-1,6-bisphosphate aldolase, class II
+asm:MOUSESFB_1224	CDS	complement(1387754..1388416)	putative proton-coupled thiamine transporter YuaJ
+asm:MOUSESFB_1225	CDS	complement(1388571..1388858)	fliE; flagellar hook-basal body protein FliE
+asm:MOUSESFB_1226	CDS	complement(1388876..1390405)	fliF; flagellar MS-ring protein
+asm:MOUSESFB_1227	CDS	complement(1390512..1392629)	feoB; ferrous iron transport protein B
+asm:MOUSESFB_1228	CDS	complement(1392638..1392865)	hypothetical protein
+asm:MOUSESFB_1229	CDS	1393196..1394602	hypothetical protein
+asm:MOUSESFB_1230	CDS	complement(1394680..1395885)	hypothetical protein
+asm:MOUSESFB_1231	CDS	complement(1395921..1397993)	hypothetical protein
+asm:MOUSESFB_1232	CDS	complement(1398040..1399983)	hypothetical protein
+asm:MOUSESFB_1233	CDS	1399034..1399852	hypothetical protein
+asm:MOUSESFB_1234	CDS	complement(1400124..1401602)	peptidase M28
+asm:MOUSESFB_1235	CDS	complement(1401758..1403551)	pepF; oligoendopeptidase F
+asm:MOUSESFB_1236	CDS	complement(1403552..1404343)	alpha/beta hydrolase fold
+asm:MOUSESFB_1237	CDS	complement(1404509..1406305)	peptidase M3 family protein
+asm:MOUSESFB_1238	CDS	complement(1406295..1407332)	hypothetical protein
+asm:MOUSESFB_1239	CDS	complement(1407451..1408473)	LacI; transcriptional regulator, LacI family
+asm:MOUSESFB_1240	CDS	1408643..1411105	leuS; leucyl-tRNA synthetase
+asm:MOUSESFB_1241	CDS	1411157..1411486	HesB; HesB family protein
+asm:MOUSESFB_1242	CDS	1411724..1414936	putative helicase
+asm:MOUSESFB_1243	CDS	complement(1415207..1416199)	trpS; tryptophanyl-tRNA synthetase
+asm:MOUSESFB_1244	CDS	complement(1416256..1416426)	zinc finger domain-containing protein
+asm:MOUSESFB_1245	CDS	1416720..1417790	signal transduction protein
+asm:MOUSESFB_1246	CDS	1417848..1418552	Ser/Thr protein phosphatase family protein
+asm:MOUSESFB_1247	CDS	1418586..1419380	RelA/spoT family protein
+asm:MOUSESFB_1248	CDS	1419432..1421027	prfC; peptide chain release factor 3
+asm:MOUSESFB_1249	CDS	1421086..1421250	hypothetical protein
+asm:MOUSESFB_1250	CDS	1421384..1422205	alanine dehydrogenase/PNT domain protein
+asm:MOUSESFB_1251	CDS	complement(1422440..1423660)	tyrS; tyrosyl-tRNA synthetase
+asm:MOUSESFB_1252	CDS	complement(1423819..1432068)	cyclic beta 1-2 glucan synthetase
+asm:MOUSESFB_1253	CDS	1432371..1434977	iron-containing alcohol dehydrogenase
+asm:MOUSESFB_1254	CDS	complement(1434989..1435633)	npmA; 16S rRNA methylase
+asm:MOUSESFB_1255	CDS	complement(1435694..1437292)	AbgT putative transporter
+asm:MOUSESFB_1256	CDS	1437451..1438278	Cof-like hydrolase
+asm:MOUSESFB_1257	CDS	complement(1438289..1439644)	glmM; phosphoglucosamine mutase
+asm:MOUSESFB_1258	CDS	complement(1439660..1440187)	porG; pyruvate/ketoisovalerate oxidoreductase, gamma subunit
+asm:MOUSESFB_1259	CDS	complement(1440198..1440929)	thiamine pyrophosphate protein domain protein TPP-binding
+asm:MOUSESFB_1260	CDS	complement(1440913..1442013)	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
+asm:MOUSESFB_1261	CDS	complement(1442019..1442252)	4Fe-4S ferredoxin iron-sulfur binding domain protein
+asm:MOUSESFB_1262	CDS	complement(1442273..1443235)	membrane associated protein
+asm:MOUSESFB_1263	CDS	complement(1443196..1444056)	hypothetical protein
+asm:MOUSESFB_1264	CDS	1444143..1445105	hypothetical protein
+asm:MOUSESFB_1265	CDS	1445178..1445879	hypothetical protein
+asm:MOUSESFB_1266	CDS	complement(1445911..1446219)	trx; thioredoxin
+asm:MOUSESFB_1267	CDS	complement(1446226..1447419)	iadA; isoaspartyl dipeptidase
+asm:MOUSESFB_1268	CDS	complement(1447436..1449058)	phosphoenolpyruvate-protein phosphotransferase
+asm:MOUSESFB_1269	CDS	complement(1449250..1449762)	citX; putative citX protein
+asm:MOUSESFB_1270	CDS	complement(1449769..1450449)	cwlD; N-acetylmuramoyl-L-alanine amidase
+asm:MOUSESFB_1271	CDS	complement(1450575..1450967)	rpsI; 30S ribosomal protein S9
+asm:MOUSESFB_1272	CDS	complement(1450988..1451422)	rplM; ribosomal protein L13
+asm:MOUSESFB_1273	CDS	complement(1451534..1452274)	truA; pseudouridylate synthase I
+asm:MOUSESFB_1274	CDS	complement(1452286..1453077)	cobalt ABC transporter, permease protein
+asm:MOUSESFB_1275	CDS	complement(1453077..1453937)	cbiO1; cobalt import ATP-binding protein CbiO 1
+asm:MOUSESFB_1276	CDS	complement(1453913..1454752)	cbiO; cobalt transporter ATP-binding subunit
+asm:MOUSESFB_1277	CDS	complement(1454851..1455192)	rplQ; 50S ribosomal protein L17
+asm:MOUSESFB_1278	CDS	complement(1455207..1456151)	rpoA; DNA-directed RNA polymerase subunit alpha
+asm:MOUSESFB_1279	CDS	complement(1456205..1456831)	rpsD; 30S ribosomal protein S4
+asm:MOUSESFB_1280	CDS	complement(1456846..1457244)	rpsK; 30S ribosomal protein S11
+asm:MOUSESFB_1281	CDS	complement(1457262..1457630)	rpsM; 30S ribosomal protein S13
+asm:MOUSESFB_1282	CDS	complement(1457651..1457764)	rpl36; 50S ribosomal protein L36
+asm:MOUSESFB_1283	CDS	complement(1457785..1458003)	infA; translation initiation factor IF-1
+asm:MOUSESFB_1284	CDS	complement(1458042..1458785)	map; methionine aminopeptidase, type I
+asm:MOUSESFB_1285	CDS	complement(1458772..1459431)	adk; adenylate kinase
+asm:MOUSESFB_1286	CDS	complement(1459449..1460723)	secY; preprotein translocase, SecY subunit
+asm:MOUSESFB_1287	CDS	complement(1460729..1461169)	rplO; ribosomal protein L15
+asm:MOUSESFB_1288	CDS	complement(1461182..1461361)	rpmD; ribosomal protein L30
+asm:MOUSESFB_1289	CDS	complement(1461375..1461884)	rpsE; 30S ribosomal protein S5
+asm:MOUSESFB_1290	CDS	complement(1461894..1462250)	rplR; 50S ribosomal protein L18
+asm:MOUSESFB_1291	CDS	complement(1462279..1462821)	rplF; 50S ribosomal protein L6
+asm:MOUSESFB_1292	CDS	complement(1462846..1463244)	rpsH; ribosomal protein S8
+asm:MOUSESFB_1293	CDS	complement(1463269..1463439)	rpsZ; 30S ribosomal protein S14 type Z
+asm:MOUSESFB_1294	CDS	complement(1463478..1464041)	rplE; 50S ribosomal protein L5
+asm:MOUSESFB_1295	CDS	complement(1464038..1464346)	rplX; 50S ribosomal protein L24
+asm:MOUSESFB_1296	CDS	complement(1464362..1464730)	rplN; ribosomal protein L14
+asm:MOUSESFB_1297	CDS	complement(1464751..1465005)	rpsQ; 30S ribosomal protein S17
+asm:MOUSESFB_1298	CDS	complement(1465028..1465237)	rpmC; ribosomal protein L29
+asm:MOUSESFB_1299	CDS	complement(1465243..1465674)	rplP; 50S ribosomal protein L16
+asm:MOUSESFB_1300	CDS	complement(1465693..1466394)	rpsC; 30S ribosomal protein S3
+asm:MOUSESFB_1301	CDS	complement(1466375..1466713)	rplV; 50S ribosomal protein L22
+asm:MOUSESFB_1302	CDS	complement(1466736..1467014)	rpsS; 30S ribosomal protein S19
+asm:MOUSESFB_1303	CDS	complement(1467038..1467865)	rplB; ribosomal protein L2
+asm:MOUSESFB_1304	CDS	complement(1467890..1468195)	rplW; 50S ribosomal protein L23
+asm:MOUSESFB_1305	CDS	complement(1468192..1468818)	rplD; 50S ribosomal protein L4
+asm:MOUSESFB_1306	CDS	complement(1468845..1469474)	rplC; 50S ribosomal protein L3
+asm:MOUSESFB_1307	CDS	complement(1469532..1469843)	rpsJ; 30S ribosomal protein S10
+asm:MOUSESFB_1308	CDS	complement(1470029..1471222)	tuf; translation elongation factor Tu
+asm:MOUSESFB_1309	CDS	complement(1471238..1473298)	fusA; elongation factor G
+asm:MOUSESFB_1310	CDS	complement(1473405..1473899)	rpsG; 30S ribosomal protein S7
+asm:MOUSESFB_1311	CDS	complement(1473954..1474337)	rpsL; 30S ribosomal protein S12
+asm:MOUSESFB_1312	CDS	complement(1474475..1478047)	rpoC; DNA-directed RNA polymerase, beta' subunit
+asm:MOUSESFB_1313	CDS	complement(1478054..1481755)	rpoB; DNA-directed RNA polymerase subunit beta
+asm:MOUSESFB_1314	CDS	complement(1482055..1482423)	rplL; 50S ribosomal protein L7/L12
+asm:MOUSESFB_1315	CDS	complement(1482439..1482924)	rplJ; 50S ribosomal protein L10
+asm:MOUSESFB_1316	CDS	complement(1483099..1483794)	rplA; ribosomal protein L1
+asm:MOUSESFB_1317	CDS	complement(1483805..1484233)	rplK; ribosomal protein L11
+asm:MOUSESFB_1318	CDS	complement(1484259..1484783)	nusG; NusG antitermination factor
+asm:MOUSESFB_1319	CDS	complement(1484805..1484999)	secE; preprotein translocase subunit SecE
+asm:MOUSESFB_1320	CDS	complement(1485020..1485193)	rpmG; 50S ribosomal protein L33
+asm:MOUSESFB_1321	CDS	complement(1485275..1486486)	tuf; translation elongation factor Tu
+asm:MOUSESFB_1322	CDS	complement(1486631..1487272)	sigH; RNA polymerase sigma-H factor
+asm:MOUSESFB_1323	CDS	complement(1487289..1487840)	tet; tetracycline resistance protein
+asm:MOUSESFB_1324	CDS	complement(1487809..1488549)	RNA methyltransferase
+asm:MOUSESFB_1325	CDS	complement(1488564..1488977)	rnc; ribonuclease III
+asm:MOUSESFB_1326	CDS	complement(1489006..1490430)	cysS; cysteinyl-tRNA synthetase
+asm:MOUSESFB_1327	CDS	complement(1490443..1491126)	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+asm:MOUSESFB_1328	CDS	complement(1491246..1493684)	clpC; negative regulator of genetic competence ClpC/mecB
+asm:MOUSESFB_1329	CDS	complement(1493701..1494735)	ATP:guanido phosphotransferase
+asm:MOUSESFB_1330	CDS	complement(1494736..1495269)	mcsA; McsA protein
+asm:MOUSESFB_1331	CDS	complement(1495400..1495573)	4Fe-4S ferredoxin iron-sulfur binding domain protein
+asm:MOUSESFB_1332	CDS	complement(1495683..1496552)	PSP1 domain protein
+asm:MOUSESFB_1333	CDS	complement(1496552..1497370)	holB; DNA polymerase III subunit delta'
+asm:MOUSESFB_1334	CDS	complement(1497376..1498023)	tmk; dTMP kinase
+asm:MOUSESFB_1335	CDS	complement(1498020..1499474)	Orn/Lys/Arg decarboxylase family protein
+asm:MOUSESFB_1336	CDS	1499554..1500486	magnesium and cobalt transporter
+asm:MOUSESFB_1337	CDS	1500540..1501460	peptidase U61 LD-carboxypeptidase A
+asm:MOUSESFB_1338	CDS	1501572..1502963	murD; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+asm:MOUSESFB_1339	CDS	complement(1502981..1504378)	glyS; glycyl-tRNA synthetase
+asm:MOUSESFB_1340	CDS	complement(1504458..1505540)	clpX; ATP-dependent protease ATP-binding subunit ClpX
+asm:MOUSESFB_1341	CDS	complement(1505833..1507305)	lysS; lysyl-tRNA synthetase
+asm:MOUSESFB_1342	CDS	complement(1507328..1507807)	greA; transcription elongation factor GreA
+asm:MOUSESFB_1343	CDS	complement(1507895..1508869)	nifR; nitrogen regulation protein nifR3
+asm:MOUSESFB_1344	CDS	complement(1508932..1510788)	ftsH; ATP-dependent metalloprotease FtsH
+asm:MOUSESFB_1345	CDS	complement(1510900..1511439)	hpt_2; hypoxanthine phosphoribosyltransferase
+asm:MOUSESFB_1346	CDS	complement(1511429..1512886)	tilS; tRNA(Ile)-lysidine synthetase
+asm:MOUSESFB_1347	CDS	complement(1512986..1515340)	spoIIE; stage II sporulation protein E, protein serine/threonine phosphatase
+asm:MOUSESFB_tRNA32	tRNA	complement(1515483..1515559)	tRNA-Met
+asm:MOUSESFB_tRNA33	tRNA	complement(1515564..1515639)	tRNA-Met
+asm:MOUSESFB_tRNA34	tRNA	complement(1515646..1515734)	tRNA-Leu
+asm:MOUSESFB_1348	CDS	complement(1515814..1516236)	RNA binding S1 domain protein
+asm:MOUSESFB_1349	CDS	complement(1516272..1516556)	septum formation initiator
+asm:MOUSESFB_1350	CDS	complement(1516629..1517009)	yabQ; spore cortex biosynthesis protein YabQ
+asm:MOUSESFB_1351	CDS	complement(1517006..1517320)	yabP; sporulation protein YabP
+asm:MOUSESFB_1352	CDS	complement(1517390..1517629)	RNA-binding S4 domain protein
+asm:MOUSESFB_1353	CDS	complement(1517675..1517992)	hup1; DNA-binding protein HU 1
+asm:MOUSESFB_1354	CDS	complement(1518116..1519666)	stage V sporulation protein B transporter
+asm:MOUSESFB_1355	CDS	complement(1519767..1520315)	spoVT; stage V sporulation protein T
+asm:MOUSESFB_1356	CDS	complement(1520418..1521407)	prsA; foldase protein PrsA
+asm:MOUSESFB_1357	CDS	complement(1521444..1522481)	prsA; peptidylprolyl isomerase
+asm:MOUSESFB_1358	CDS	complement(1522492..1526001)	mfd; transcription-repair coupling factor
+asm:MOUSESFB_1359	CDS	complement(1526019..1526594)	pth; peptidyl-tRNA hydrolase
+asm:MOUSESFB_1360	CDS	complement(1526622..1527458)	htrA; serine protease Do
+asm:MOUSESFB_1361	CDS	complement(1527502..1528905)	sensory transduction histidine kinase
+asm:MOUSESFB_1362	CDS	complement(1528905..1529591)	OmpR; DNA-binding response regulator
+asm:MOUSESFB_1363	CDS	complement(1529770..1530747)	prs; ribose-phosphate pyrophosphokinase
+asm:MOUSESFB_1364	CDS	complement(1530765..1532171)	glmU; bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+asm:MOUSESFB_1365	CDS	complement(1532224..1533618)	asnC; asparaginyl-tRNA synthetase
+asm:MOUSESFB_1366	CDS	complement(1533629..1534285)	Ser/Thr protein phosphatase family protein
+asm:MOUSESFB_1367	CDS	complement(1534338..1535723)	murC; UDP-N-acetylmuramate--L-alanine ligase
+asm:MOUSESFB_1368	CDS	1535901..1536173	spoVG; putative septation protein spoVG
+asm:MOUSESFB_1369	CDS	complement(1536319..1537758)	pepA; leucyl aminopeptidase
+asm:MOUSESFB_1370	CDS	1537829..1538719	putative alpha/beta hydrolase
+asm:MOUSESFB_1371	CDS	complement(1538729..1540036)	hypothetical protein
+asm:MOUSESFB_1372	CDS	complement(1540121..1540954)	ksgA; dimethyladenosine transferase
+asm:MOUSESFB_1373	CDS	complement(1540941..1541501)	rnmV; ribonuclease M5
+asm:MOUSESFB_1374	CDS	complement(1541565..1542605)	yabE; putative cell wall shaping enzyme
+asm:MOUSESFB_1375	CDS	complement(1542663..1543487)	tatD; TatD family hydrolase
+asm:MOUSESFB_tRNA35	tRNA	1543616..1543690	tRNA-Glu
+asm:MOUSESFB_tRNA36	tRNA	1543704..1543779	tRNA-Val
+asm:MOUSESFB_tRNA37	tRNA	1543783..1543859	tRNA-Asp
+asm:MOUSESFB_tRNA38	tRNA	1543865..1543939	tRNA-Glu
+asm:MOUSESFB_1376	CDS	complement(1544014..1544937)	transketolase
+asm:MOUSESFB_1377	CDS	complement(1544952..1545770)	transketolase subunit A
+asm:MOUSESFB_1378	CDS	complement(1545807..1546604)	putative TonB-dependent receptor
+asm:MOUSESFB_1379	CDS	complement(1546639..1547136)	hypothetical protein
+asm:MOUSESFB_1380	CDS	complement(1547273..1548589)	sleC; spore cortex-lytic enzyme SleC
+asm:MOUSESFB_1381	CDS	complement(1548646..1549020)	hypothetical protein
+asm:MOUSESFB_1382	CDS	complement(1549022..1549813)	murI; glutamate racemase
+asm:MOUSESFB_1383	CDS	complement(1551809..1552873)	transporter
+asm:MOUSESFB_1384	CDS	1552966..1553892	radical SAM protein, TIGR01212 family
+asm:MOUSESFB_1385	CDS	1553973..1554524	putative membrane protein
+asm:MOUSESFB_1386	CDS	1554558..1556288	cbiO; cobalt import ATP-binding protein CbiO
+asm:MOUSESFB_1387	CDS	1556272..1557102	putative cobalt ABC transporter, permease protein
+asm:MOUSESFB_1388	CDS	complement(1557131..1557337)	bfd; BFD domain protein (2Fe-2S)-binding domain protein
+asm:MOUSESFB_1389	CDS	1557970..1559439	putative arylsulfatase
+asm:MOUSESFB_1390	CDS	1559467..1561023	metG; methionyl-tRNA synthetase
+asm:MOUSESFB_1391	CDS	1561291..1561734	rplI; 50S ribosomal protein L9
+asm:MOUSESFB_1392	CDS	1561781..1563703	lon; ATP-dependent proteinase La
+asm:MOUSESFB_1393	CDS	complement(1563707..1564261)	XRE family transcriptional regulator
+asm:MOUSESFB_1394	CDS	1564397..1565716	putative DNA helicase
+asm:MOUSESFB_1395	CDS	complement(1565780..1566169)	SPOUT methyltransferase
+asm:MOUSESFB_1396	CDS	complement(1566166..1566555)	rlmH; rRNA large subunit m3Psi methyltransferase RlmH
+asm:MOUSESFB_1397	CDS	complement(1566540..1567037)	SEC-C domain-containing protein domain-containing protein
+asm:MOUSESFB_1398	CDS	complement(1567225..1568004)	metallo-beta-lactamase family protein
+asm:MOUSESFB_1399	CDS	complement(1568021..1569307)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+asm:MOUSESFB_1400	CDS	complement(1569562..1569720)	hypothetical protein
+asm:MOUSESFB_1401	CDS	1569851..1570351	hypothetical protein
+asm:MOUSESFB_1402	CDS	1570415..1571605	subtilase family protein
+asm:MOUSESFB_1403	CDS	complement(1571635..1572819)	peptidase, M23/M37 family
+asm:MOUSESFB_1404	CDS	1572956..1573948	DnaD; putative DNA replication protein DnaD
+asm:MOUSESFB_1405	CDS	1573941..1574927	DnaC; putative DNA replication protein DnaC
+asm:MOUSESFB_1406	CDS	complement(1574940..1575260)	rpsR; ribosomal protein S18
+asm:MOUSESFB_1407	CDS	complement(1575247..1575678)	ssb; single-strand binding protein
+asm:MOUSESFB_1408	CDS	complement(1575689..1575973)	rpsF; ribosomal protein S6
+asm:MOUSESFB_1409	CDS	complement(1576065..1576307)	hypothetical protein
+asm:MOUSESFB_1410	CDS	1576368..1577546	cysteine desulfurase family protein
+asm:MOUSESFB_1411	CDS	1577568..1578344	soj; sporulation initiation inhibitor protein soj
+asm:MOUSESFB_1412	CDS	1578341..1579192	spo0J; putative spo0J
+asm:MOUSESFB_1413	CDS	complement(1579135..1579602)	hypothetical protein
+asm:MOUSESFB_1414	CDS	1579718..1580419	cwlH; N-acetylmuramoyl-L-alanine amidase CwlH
+asm:MOUSESFB_1415	CDS	complement(1580451..1581152)	gidB; 16S rRNA methyltransferase GidB
+asm:MOUSESFB_1416	CDS	complement(1581149..1583032)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+asm:MOUSESFB_1417	CDS	complement(1583040..1584404)	trmE; tRNA modification GTPase TrmE
+asm:MOUSESFB_1418	CDS	complement(1584456..1585148)	oxaA; putative membrane protein OxaA
+asm:MOUSESFB_1419	CDS	complement(1585217..1585432)	putative toxin-antitoxin system, toxin component
+asm:MOUSESFB_1420	CDS	complement(1585429..1585767)	rnpA; ribonuclease P
