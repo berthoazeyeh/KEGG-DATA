@@ -1,0 +1,2413 @@
+krh:KRH_00010	CDS	1..1695	dnaA; chromosomal replication initiator protein DnaA
+krh:KRH_00020	CDS	2304..3428	dnaN; DNA polymerase III beta subunit
+krh:KRH_00030	CDS	3433..4857	recF; DNA replication and repair protein RecF
+krh:KRH_00040	CDS	4850..5443	hypothetical protein
+krh:KRH_00050	CDS	5696..7756	gyrB; DNA gyrase subunit B
+krh:KRH_00060	CDS	7897..10539	gyrA; DNA gyrase subunit A
+krh:KRH_00070	CDS	10638..11021	hypothetical membrane protein
+krh:KRH_t00010	tRNA	11113..11189	tRNA-Ile
+krh:KRH_t00020	tRNA	11407..11479	tRNA-Ala
+krh:KRH_00080	CDS	complement(11498..11719)	hypothetical protein
+krh:KRH_00090	CDS	11743..13038	putative Nramp family transporter
+krh:KRH_00100	CDS	13143..14075	hypothetical protein
+krh:KRH_00110	CDS	14210..14764	peptidyl-prolyl cis-trans isomerase
+krh:KRH_00120	CDS	14784..15509	rhomboid family protein
+krh:KRH_00130	CDS	15883..17175	putative MFS transporter
+krh:KRH_00140	CDS	complement(17185..17877)	hypothetical membrane protein
+krh:KRH_00150	CDS	complement(17896..19050)	hypothetical protein
+krh:KRH_00160	CDS	19344..20006	hypothetical membrane protein
+krh:KRH_00170	CDS	complement(20034..21035)	putative zinc-containing alcohol dehydrogenase
+krh:KRH_00180	CDS	21173..22582	putative MFS transporter
+krh:KRH_00190	CDS	complement(22732..24393)	putative acetolactate synthase large subunit
+krh:KRH_00200	CDS	complement(24599..26029)	sugar transporter
+krh:KRH_00210	CDS	complement(26313..27578)	putative NagC family transcriptional regulator
+krh:KRH_00220	CDS	27932..28756	hypothetical membrane protein
+krh:KRH_00230	CDS	complement(29102..29512)	hypothetical protein
+krh:KRH_00240	CDS	complement(29562..31064)	putative amino acid transporter
+krh:KRH_00250	CDS	complement(31339..32787)	peptide transporter
+krh:KRH_00260	CDS	complement(32978..33808)	dkgA; 2,5-diketo-D-gluconate reductase A
+krh:KRH_00270	CDS	33954..34364	hypothetical protein
+krh:KRH_00280	CDS	complement(34457..35230)	hypothetical membrane protein
+krh:KRH_00290	CDS	complement(35301..35564)	hypothetical protein
+krh:KRH_00300	CDS	35689..36174	putative MarR family transcriptional regulator
+krh:KRH_00310	CDS	36244..38130	putative ABC transporter permease/ATP-binding protein
+krh:KRH_00320	CDS	38175..38762	hypothetical membrane protein
+krh:KRH_00330	CDS	38815..39978	putative ABC transporter ATP-binding protein
+krh:KRH_00340	CDS	39975..40727	putative ABC transporter permease protein
+krh:KRH_00350	CDS	40724..41401	putative ABC transporter permease protein
+krh:KRH_00360	CDS	41398..42366	putative ABC transporter substrate-binding protein
+krh:KRH_00370	CDS	42847..43389	hypothetical protein
+krh:KRH_00380	CDS	43813..44418	hypothetical protein
+krh:KRH_00390	CDS	complement(44506..45114)	hypothetical protein
+krh:KRH_00400	CDS	45274..45894	sodA; superoxide dismutase
+krh:KRH_00410	CDS	46004..46981	gyaR; glyoxylate reductase
+krh:KRH_00420	CDS	complement(47136..48314)	iscS; cysteine desulfurase
+krh:KRH_00430	CDS	48374..48706	hypothetical protein
+krh:KRH_00440	CDS	complement(48703..49602)	nadC; quinolinate phosphoribosyltransferase
+krh:KRH_00450	CDS	complement(49580..51382)	nadB; L-aspartate oxidase
+krh:KRH_00460	CDS	complement(51375..52715)	nadA; quinolinate synthetase A
+krh:KRH_00470	CDS	complement(52712..53506)	hypothetical protein
+krh:KRH_00480	CDS	53732..55294	abgT; aminobenzoyl-glutamate transport protein
+krh:KRH_00490	CDS	complement(55493..58375)	hypothetical membrane protein
+krh:KRH_00500	CDS	complement(58522..59982)	zwf; glucose-6-phosphate 1-dehydrogenase
+krh:KRH_00510	CDS	60484..61371	putative bacteriocin
+krh:KRH_00520	CDS	62304..63275	hypothetical protein
+krh:KRH_00530	CDS	63215..63487	hypothetical protein
+krh:KRH_00540	CDS	complement(63555..64685)	putative oxidoreductase
+krh:KRH_00550	CDS	complement(64827..65129)	hypothetical protein
+krh:KRH_00560	CDS	complement(65126..65716)	putative PfpI family peptidase
+krh:KRH_00570	CDS	65634..65786	hypothetical protein
+krh:KRH_00580	CDS	complement(65944..67194)	subtilisin family peptidase
+krh:KRH_00590	CDS	67759..68145	nrdI; putative NrdI protein
+krh:KRH_00600	CDS	68284..68379	hypothetical protein
+krh:KRH_00610	CDS	68383..68499	hypothetical protein
+krh:KRH_00620	CDS	68691..70067	sdaA; L-serine dehydratase
+krh:KRH_00630	CDS	70106..71203	putative arsenite resistance protein
+krh:KRH_00640	CDS	71450..71956	hypothetical protein
+krh:KRH_00650	CDS	72184..72357	hypothetical protein
+krh:KRH_00660	CDS	72366..73322	hypothetical membrane protein
+krh:KRH_00670	CDS	complement(73470..73691)	hypothetical protein
+krh:KRH_00680	CDS	73761..74357	2',5' RNA ligase family protein
+krh:KRH_00690	CDS	74392..75804	putative drug resistance efflux protein
+krh:KRH_00700	CDS	76049..77281	putative hydrolase
+krh:KRH_00710	CDS	77413..78582	hypothetical protein
+krh:KRH_00720	CDS	78613..79815	gcdH; putative glutaryl-CoA dehydrogenase
+krh:KRH_00730	CDS	complement(79947..80957)	hypothetical protein
+krh:KRH_00740	CDS	complement(80971..81294)	hypothetical protein
+krh:KRH_00750	CDS	81419..82777	citrate transporter
+krh:KRH_00760	CDS	complement(82851..83042)	hypothetical protein
+krh:KRH_00770	CDS	complement(83172..84122)	hypothetical protein
+krh:KRH_00780	CDS	84399..85271	hypothetical protein
+krh:KRH_00790	CDS	complement(85462..85812)	hypothetical protein
+krh:KRH_00800	CDS	complement(86025..87143)	hypothetical protein
+krh:KRH_00810	CDS	complement(87140..88135)	putative 2-hydroxy-3-oxopropionate reductase
+krh:KRH_00820	CDS	88300..88596	hypothetical protein
+krh:KRH_00830	CDS	88593..89606	hypothetical protein
+krh:KRH_00840	CDS	89821..91254	aldehyde dehydrogenase
+krh:KRH_00850	CDS	complement(91262..91945)	putative TetR family transcriptional regulator
+krh:KRH_00860	CDS	92058..93515	puo; putrescine oxidase
+krh:KRH_00870	CDS	93578..94438	hypothetical protein
+krh:KRH_00880	CDS	94435..95940	putative amino acid transporter
+krh:KRH_00890	CDS	complement(95968..96504)	putative TetR family transcriptional regulator
+krh:KRH_00900	CDS	complement(96658..98199)	putative amino acid transporter
+krh:KRH_00910	CDS	98314..98700	putative RNA-binding protein
+krh:KRH_00920	CDS	complement(98729..99436)	putative GntR family transcriptional regulator
+krh:KRH_00930	CDS	99644..101077	putative ethanolamine permease
+krh:KRH_00940	CDS	101099..102508	glnA; glutamine synthetase I
+krh:KRH_00950	CDS	102510..103250	hypothetical protein
+krh:KRH_00960	CDS	103282..104640	aldehyde dehydrogenase
+krh:KRH_00970	CDS	104698..105474	putative oxidoreductase
+krh:KRH_00980	CDS	complement(105699..107264)	hypothetical membrane protein
+krh:KRH_00990	CDS	107551..108858	hypothetical membrane protein
+krh:KRH_01000	CDS	108839..110212	hypothetical membrane protein
+krh:KRH_01010	CDS	110222..110713	hypothetical membrane protein
+krh:KRH_01020	CDS	complement(111018..112322)	hypothetical membrane protein
+krh:KRH_01030	CDS	112441..113721	putative MFS transporter
+krh:KRH_01040	CDS	113901..115400	MatE family protein
+krh:KRH_01050	CDS	115585..116574	hypothetical protein
+krh:KRH_01060	CDS	116626..117516	hypothetical protein
+krh:KRH_01070	CDS	117829..118794	hypothetical protein
+krh:KRH_01080	CDS	complement(118928..119665)	putative amino acid ABC transporter ATP-binding protein
+krh:KRH_01090	CDS	complement(119658..120332)	putative amino acid ABC transporter permease protein
+krh:KRH_01100	CDS	complement(120329..121126)	putative amino acid ABC transporter amino acid-binding protein
+krh:KRH_01110	CDS	complement(121171..122304)	putative cystathionine lyase
+krh:KRH_01120	CDS	complement(122484..123170)	pdx2; pyridoxal phosphate synthase component Pdx2
+krh:KRH_01130	CDS	complement(123167..124096)	pdx1; pyridoxal phosphate synthase component Pdx1
+krh:KRH_01140	CDS	124249..125421	hypothetical protein
+krh:KRH_01150	CDS	125418..127175	putative GntR family transcriptional regulator
+krh:KRH_01160	CDS	127278..127856	hypothetical membrane protein
+krh:KRH_01170	CDS	127936..128361	hypothetical protein
+krh:KRH_01180	CDS	complement(128583..131189)	copA; putative copper-transporting ATPase
+krh:KRH_01190	CDS	complement(131182..131391)	copZ; copper chaperone CopZ
+krh:KRH_01200	CDS	complement(131448..131774)	hypothetical protein
+krh:KRH_01210	CDS	131849..132181	hypothetical membrane protein
+krh:KRH_01220	CDS	complement(132256..132567)	hypothetical membrane protein
+krh:KRH_01230	CDS	complement(132772..133140)	hypothetical protein
+krh:KRH_01240	CDS	133281..133781	putative MarR family transcriptional regulator
+krh:KRH_01250	CDS	133817..134503	putative DtxR family transcriptional regulator
+krh:KRH_01260	CDS	complement(134616..134969)	hypothetical protein
+krh:KRH_01270	CDS	135129..135710	hypothetical protein
+krh:KRH_01280	CDS	complement(135835..136704)	mntB; putative manganese ABC transporter permease protein
+krh:KRH_01290	CDS	complement(136701..137648)	mntA; putative manganese ABC transporter ATP-binding protein
+krh:KRH_01300	CDS	complement(137645..138562)	mntC; manganese ABC transporter manganese-binding protein
+krh:KRH_01310	CDS	complement(138649..139122)	hypothetical membrane protein
+krh:KRH_01320	CDS	139312..141414	hypothetical protein
+krh:KRH_01330	CDS	141695..145303	putA; proline dehydrogenase/delta-1-pyrroline-5-carboxylate dehydrogenase
+krh:KRH_01340	CDS	complement(145519..145722)	hypothetical protein
+krh:KRH_01350	CDS	145801..146193	hypothetical protein
+krh:KRH_01360	CDS	complement(146221..146730)	hypothetical protein
+krh:KRH_01370	CDS	146844..147092	hypothetical protein
+krh:KRH_01380	CDS	147102..147359	hypothetical protein
+krh:KRH_01390	CDS	complement(147490..148857)	hypothetical protein
+krh:KRH_01400	CDS	complement(148981..149274)	hypothetical protein
+krh:KRH_01410	CDS	149585..150778	fdhA; glutathione-independent formaldehyde dehydrogenase
+krh:KRH_01420	CDS	complement(150892..153555)	UvrA-like protein
+krh:KRH_01430	CDS	complement(153595..154296)	putative TetR family transcriptional regulator
+krh:KRH_01440	CDS	154513..155943	putative oxidoreductase
+krh:KRH_01450	CDS	complement(155974..157023)	hypothetical protein
+krh:KRH_01460	CDS	157099..158550	putative MFS transporter
+krh:KRH_01470	CDS	158681..160696	hypothetical protein
+krh:KRH_01480	CDS	complement(160936..162498)	putative purine permease
+krh:KRH_01490	CDS	162598..163101	purine phosphoribosyltransferase
+krh:KRH_01500	CDS	complement(163321..164553)	ackA; acetate kinase
+krh:KRH_01510	CDS	complement(164688..166781)	pta; phosphate acetyltransferase
+krh:KRH_01520	CDS	166891..167304	hypothetical protein
+krh:KRH_01530	CDS	167321..168250	hypothetical protein
+krh:KRH_01540	CDS	complement(168337..169809)	putative hypoxanthine/guanine permease
+krh:KRH_01550	CDS	170026..171465	putative ferredoxin--NADP(+) reductase
+krh:KRH_01560	CDS	171631..172725	ssuD; alkanesulfonate monooxygenase
+krh:KRH_01570	CDS	complement(172764..174098)	FAD-linked oxidase
+krh:KRH_01580	CDS	174110..174346	hypothetical protein
+krh:KRH_01590	CDS	174384..175331	hypothetical protein
+krh:KRH_t00030	tRNA	175440..175512	tRNA-Glu
+krh:KRH_t00040	tRNA	175601..175674	tRNA-Asp
+krh:KRH_t00050	tRNA	175751..175823	tRNA-Phe
+krh:KRH_01600	CDS	176051..176533	hypothetical protein
+krh:KRH_01610	CDS	complement(176740..178629)	aglA; putative alpha-glucosidase
+krh:KRH_01620	CDS	179022..179984	hypothetical protein
+krh:KRH_01630	CDS	complement(180097..181242)	hypothetical protein
+krh:KRH_01640	CDS	complement(181247..182053)	xthA; exodeoxyribonuclease III
+krh:KRH_01650	CDS	182192..183451	cls; putative cardiolipin synthase
+krh:KRH_01660	CDS	complement(183711..185141)	putative FMNH2-dependent monooxygenase
+krh:KRH_01670	CDS	complement(185143..185907)	putative oxidoreductase
+krh:KRH_01680	CDS	186227..187618	Na(+)/H(+) antiporter
+krh:KRH_01690	CDS	complement(187840..188667)	nadE; NH(3)-dependent NAD(+) synthetase
+krh:KRH_01700	CDS	188804..189586	echA; enoyl-CoA hydratase
+krh:KRH_01710	CDS	189961..190362	putative molybdenum-pterin binding protein
+krh:KRH_01720	CDS	190362..191195	modA; putative molybdate ABC transporter molybdate-binding protein
+krh:KRH_01730	CDS	191192..193021	modB_modC; putative molybdate ABC transporter permease/ATP-binding protein
+krh:KRH_01740	CDS	complement(193174..193968)	hypothetical membrane protein
+krh:KRH_01750	CDS	complement(193965..194966)	putative ABC transporter ATP-binding protein
+krh:KRH_01760	CDS	complement(195117..195302)	hypothetical protein
+krh:KRH_01770	CDS	195624..195917	hypothetical protein
+krh:KRH_01780	CDS	195927..196559	hypothetical membrane protein
+krh:KRH_01790	CDS	complement(196761..197831)	hypothetical membrane protein
+krh:KRH_01800	CDS	complement(197895..198398)	hypothetical protein
+krh:KRH_01810	CDS	198507..199001	hypothetical protein
+krh:KRH_01820	CDS	complement(199038..199598)	putative acetyltransferase
+krh:KRH_01830	CDS	complement(199595..201637)	hypothetical protein
+krh:KRH_01840	CDS	202101..202859	3-hydroxyacyl-CoA dehydrogenase
+krh:KRH_01850	CDS	complement(203069..203998)	putative oxidoreductase
+krh:KRH_01860	CDS	complement(204135..205160)	hypothetical membrane protein
+krh:KRH_01870	CDS	complement(205259..205852)	putative TetR family transcriptional regulator
+krh:KRH_01880	CDS	205949..207181	drug resistance efflux protein
+krh:KRH_01890	CDS	207371..208741	hypothetical protein
+krh:KRH_01900	CDS	208748..209371	tdk; thymidine kinase
+krh:KRH_01910	CDS	209445..210005	pyrE; orotate phosphoribosyltransferase
+krh:KRH_01920	CDS	209998..210717	putative RNA methyltransferase
+krh:KRH_01930	CDS	210797..212176	putative lipase
+krh:KRH_01940	CDS	212425..213447	fbaA; fructose-bisphosphate aldolase class II
+krh:KRH_01950	CDS	213534..214928	putative amidohydrolase
+krh:KRH_01960	CDS	215037..216671	abgT; aminobenzoyl-glutamate transport protein
+krh:KRH_01970	CDS	216723..217184	hypothetical protein
+krh:KRH_01980	CDS	217379..218467	ald; alanine dehydrogenase
+krh:KRH_01990	CDS	complement(218672..220162)	aroP; putative aromatic amino acid transport protein
+krh:KRH_02000	CDS	220405..221577	hypothetical protein
+krh:KRH_02010	CDS	complement(221846..225706)	putative subtilisin family peptidase
+krh:KRH_02020	CDS	225970..227259	purA; adenylosuccinate synthetase
+krh:KRH_02030	CDS	complement(227332..228879)	lysP; lysine permease
+krh:KRH_02040	CDS	complement(229006..229341)	hypothetical membrane protein
+krh:KRH_02050	CDS	complement(229338..229730)	hypothetical membrane protein
+krh:KRH_02060	CDS	229872..230324	hypothetical membrane protein
+krh:KRH_02070	CDS	complement(230523..232523)	metalloendopeptidase
+krh:KRH_02080	CDS	232686..233369	hypothetical membrane protein
+krh:KRH_02090	CDS	complement(233485..234345)	hypothetical membrane protein
+krh:KRH_02100	CDS	complement(234535..235308)	paaG; putative enoyl-CoA hydratase PaaG
+krh:KRH_02110	CDS	complement(235518..236717)	paaE; putative phenylacetate-CoA oxygenase subunit PaaE
+krh:KRH_02120	CDS	complement(236720..237256)	paaD; putative phenylacetate-CoA oxygenase subunit PaaD
+krh:KRH_02130	CDS	complement(237307..238143)	paaC; putative phenylacetate-CoA oxygenase subunit PaaC
+krh:KRH_02140	CDS	complement(238140..238436)	paaB; putative phenylacetate-CoA oxygenase subunit PaaB
+krh:KRH_02150	CDS	complement(238439..239506)	paaA; putative phenylacetate-CoA oxygenase subunit PaaA
+krh:KRH_02160	CDS	239733..240143	paaI; putative thioesterase PaaI
+krh:KRH_02170	CDS	240140..241486	paaK; phenylacetate--CoA ligase
+krh:KRH_02180	CDS	241582..242205	putative TetR family transcriptional regulator
+krh:KRH_02190	CDS	242255..242668	putative acetyltransferase
+krh:KRH_02200	CDS	complement(242808..244922)	paaZ; putative phenylacetic acid degradation protein PaaZ
+krh:KRH_02210	CDS	245217..245669	putative esterase
+krh:KRH_02220	CDS	complement(245860..247146)	aceA; isocitrate lyase
+krh:KRH_02230	CDS	247622..249094	putative Xre family DNA-binding protein
+krh:KRH_02240	CDS	249243..249710	rraA; ribonuclease regulator
+krh:KRH_02250	CDS	complement(249946..250449)	hypothetical protein
+krh:KRH_02260	CDS	250481..250687	hypothetical protein
+krh:KRH_02270	CDS	complement(250982..251782)	hypothetical protein
+krh:KRH_02280	CDS	complement(252216..253082)	paaH; putative 3-hydroxybutyryl-CoA dehydrogenase PaaH
+krh:KRH_02290	CDS	complement(253079..254011)	paaF; putative enoyl-CoA hydratase PaaF
+krh:KRH_02300	CDS	complement(254019..255242)	paaJ; putative beta-ketoadipyl-CoA thiolase
+krh:KRH_02310	CDS	complement(255424..256848)	MFS transporter
+krh:KRH_02320	CDS	complement(257107..258318)	hypothetical protein
+krh:KRH_02330	CDS	258547..259299	bdhA; 3-hydroxybutyrate dehydrogenase
+krh:KRH_02340	CDS	259406..260137	scoA; succinyl-CoA--3-ketoacid CoA-transferase subunit A
+krh:KRH_02350	CDS	260134..260811	scoB; succinyl-CoA--3-ketoacid CoA-transferase subunit B
+krh:KRH_02360	CDS	260808..261998	acetyl-CoA acetyltransferase
+krh:KRH_02370	CDS	262346..262840	hypothetical membrane protein
+krh:KRH_02380	CDS	262837..263778	hypothetical membrane protein
+krh:KRH_02390	CDS	263985..265379	putative short-chain fatty acid transporter
+krh:KRH_02400	CDS	complement(265450..266370)	mmsB; 3-hydroxyisobutyrate dehydrogenase
+krh:KRH_02410	CDS	complement(266564..267955)	MFS transporter
+krh:KRH_02420	CDS	complement(268246..268740)	putative acetyltransferase
+krh:KRH_02430	CDS	complement(268936..269463)	putative TetR family transcriptional regulator
+krh:KRH_02440	CDS	269726..271135	bioB; biotin synthase
+krh:KRH_02450	CDS	271128..272669	bioA; adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+krh:KRH_02460	CDS	272735..273928	bioF; 8-amino-7-oxononanoate synthase
+krh:KRH_02470	CDS	274022..275017	bioD; dethiobiotin synthetase
+krh:KRH_02480	CDS	275534..278038	hypothetical protein
+krh:KRH_02490	CDS	complement(278289..279830)	putative sugar kinase
+krh:KRH_02500	CDS	280198..281382	putative transposase
+krh:KRH_02510	CDS	complement(281332..281523)	hypothetical protein
+krh:KRH_02520	CDS	complement(281636..283489)	Na(+)/H(+) antiporter
+krh:KRH_02530	CDS	complement(283499..284167)	putative transposase
+krh:KRH_02540	CDS	complement(284180..284335)	putative transposase
+krh:KRH_02550	CDS	complement(284432..284686)	hypothetical protein
+krh:KRH_02560	CDS	285393..287231	ilvD; dihydroxy-acid dehydratase
+krh:KRH_02570	CDS	287386..288873	sodium/alanine symporter
+krh:KRH_02580	CDS	complement(289029..290279)	hypothetical membrane protein
+krh:KRH_02590	CDS	290421..291005	hypothetical protein
+krh:KRH_02600	CDS	complement(291119..291835)	putative succinate dehydrogenase iron-sulfur protein
+krh:KRH_02610	CDS	complement(291835..292854)	hypothetical protein
+krh:KRH_02620	CDS	293137..293550	hypothetical membrane protein
+krh:KRH_02630	CDS	complement(293905..294456)	putative TetR family transcriptional regulator
+krh:KRH_02640	CDS	294540..294995	hypothetical membrane protein
+krh:KRH_02650	CDS	294992..296038	putative transposase
+krh:KRH_02660	CDS	complement(295972..296712)	hypothetical protein
+krh:KRH_02670	CDS	complement(296772..297326)	hypothetical protein
+krh:KRH_02680	CDS	297582..298646	putative zinc-containing alcohol dehydrogenase
+krh:KRH_02690	CDS	complement(298889..300379)	cls; putative cardiolipin synthase
+krh:KRH_02700	CDS	complement(300392..300907)	hypothetical protein
+krh:KRH_02710	CDS	complement(300963..303260)	purL; phosphoribosylformylglycinamidine synthase II
+krh:KRH_02720	CDS	complement(303403..304113)	purQ; phosphoribosylformylglycinamidine synthase I
+krh:KRH_02730	CDS	complement(304197..304454)	purS; phosphoribosylformylglycinamidine synthase PurS component
+krh:KRH_02740	CDS	complement(304603..305301)	hypothetical protein
+krh:KRH_02750	CDS	complement(305375..306745)	citrate transporter
+krh:KRH_02760	CDS	306919..308634	putative two-component histidine kinase
+krh:KRH_02770	CDS	308631..309287	putative CriR family two-component response regulator
+krh:KRH_02780	CDS	complement(309301..309660)	putative iron-sulfur protein
+krh:KRH_02790	CDS	complement(309657..310565)	hypothetical protein
+krh:KRH_02800	CDS	complement(310558..311073)	putative MarR family transcriptional regulator
+krh:KRH_02810	CDS	complement(311232..312518)	ask; aspartokinase
+krh:KRH_02820	CDS	complement(312673..313278)	recR; recombination protein RecR
+krh:KRH_02830	CDS	complement(313355..317149)	dnaX; DNA polymerase III gamma/tau subunit
+krh:KRH_t00060	tRNA	317460..317544	tRNA-Ser
+krh:KRH_02840	CDS	317690..318223	hypothetical protein
+krh:KRH_02850	CDS	318224..318514	hypothetical protein
+krh:KRH_02860	CDS	complement(318624..319016)	hypothetical protein
+krh:KRH_02870	CDS	complement(319281..321191)	hypothetical protein
+krh:KRH_02880	CDS	complement(321635..321964)	hypothetical protein
+krh:KRH_02890	CDS	complement(322005..322670)	putative TetR family transcriptional regulator
+krh:KRH_02900	CDS	complement(322821..323648)	hypothetical protein
+krh:KRH_02910	CDS	323771..324529	hypothetical membrane protein
+krh:KRH_02920	CDS	complement(324573..325439)	putative beta-lactamase
+krh:KRH_02930	CDS	325515..325703	hypothetical protein
+krh:KRH_02940	CDS	325794..326147	hypothetical protein
+krh:KRH_02950	CDS	complement(326185..326286)	putative AraC family transcriptional regulator
+krh:KRH_02960	CDS	complement(326362..326988)	putative AraC family transcriptional regulator
+krh:KRH_02970	CDS	327020..327376	hypothetical protein
+krh:KRH_02980	CDS	complement(327447..328811)	tgt; tRNA-guanine transglycosylase
+krh:KRH_02990	CDS	complement(328930..329715)	putative IclR family transcriptional regulator
+krh:KRH_03000	CDS	complement(329792..331039)	creatine amidinohydrolase
+krh:KRH_03010	CDS	complement(331209..332546)	proP; proline/betaine transporter
+krh:KRH_03020	CDS	complement(332751..333293)	hypothetical protein
+krh:KRH_03030	CDS	complement(333356..334528)	putative glycosidase
+krh:KRH_03040	CDS	complement(334682..335224)	idi; isopentenyl-diphosphate delta-isomerase
+krh:KRH_03050	CDS	335287..336267	putative pseudouridine synthase
+krh:KRH_03060	CDS	336486..337493	hypothetical protein
+krh:KRH_03070	CDS	complement(337742..338749)	putative DNA glycosylase
+krh:KRH_03080	CDS	338932..339441	hypothetical membrane protein
+krh:KRH_03090	CDS	339522..340310	putative esterase
+krh:KRH_03100	CDS	complement(340396..345732)	putative ATP-dependent DNA helicase
+krh:KRH_03110	CDS	complement(345722..346495)	hypothetical protein
+krh:KRH_03120	CDS	complement(346492..349566)	putative FAD-linked oxidase
+krh:KRH_03130	CDS	complement(349594..349920)	2Fe-2S ferredoxin
+krh:KRH_03140	CDS	complement(350030..350851)	hypothetical protein
+krh:KRH_03150	CDS	complement(351049..352161)	acyl-CoA desaturase
+krh:KRH_03160	CDS	complement(352232..353284)	putative NADPH oxidoreductase
+krh:KRH_t00070	tRNA	complement(353443..353532)	tRNA-Ser
+krh:KRH_03170	CDS	complement(353624..354100)	tadA; putative tRNA-specific adenosine deaminase
+krh:KRH_03180	CDS	complement(354106..354789)	hypothetical membrane protein
+krh:KRH_03190	CDS	complement(354841..356124)	hypothetical membrane protein
+krh:KRH_03200	CDS	complement(356121..357032)	putative ABC transporter ATP-binding protein
+krh:KRH_03210	CDS	357269..357904	upp; uracil phosphoribosyltransferase
+krh:KRH_03220	CDS	358162..358956	putative transcriptional regulator
+krh:KRH_03230	CDS	359068..359589	hypothetical protein
+krh:KRH_03240	CDS	complement(359561..359821)	hypothetical protein
+krh:KRH_03250	CDS	complement(359839..360900)	hypothetical protein
+krh:KRH_t00080	tRNA	complement(361026..361098)	tRNA-Arg
+krh:KRH_03260	CDS	361370..363235	pckG; GTP-dependent phosphoenolpyruvate carboxykinase
+krh:KRH_03270	CDS	363343..363873	putative Rrf2 family DNA-binding protein
+krh:KRH_03280	CDS	363931..365115	hmp; flavohemoprotein
+krh:KRH_03290	CDS	complement(365366..366775)	manB; phosphomannomutase
+krh:KRH_03300	CDS	366847..368085	manA; mannose-6-phosphate isomerase
+krh:KRH_03310	CDS	368159..368707	putative TetR family transcriptional regulator
+krh:KRH_03320	CDS	368821..369483	hypothetical protein
+krh:KRH_03330	CDS	369615..369899	acyP; acylphosphatase
+krh:KRH_03340	CDS	369988..370179	hypothetical protein
+krh:KRH_03350	CDS	370238..370927	hypothetical protein
+krh:KRH_03360	CDS	370702..371685	putative pyruvate kinase
+krh:KRH_03370	CDS	371682..371819	hypothetical protein
+krh:KRH_03380	CDS	372004..372813	hypothetical protein
+krh:KRH_03390	CDS	372958..373899	glpQ; putative glycerophosphoryl diester phosphodiesterase
+krh:KRH_03400	CDS	complement(374020..375417)	purB; adenylosuccinate lyase
+krh:KRH_03410	CDS	375641..376045	hypothetical protein
+krh:KRH_03420	CDS	376042..378117	hypothetical protein
+krh:KRH_03430	CDS	378241..379401	aroT; putative aromatic amino acid aminotransferase
+krh:KRH_03440	CDS	379468..380679	branched-chain alpha-keto acid dehydrogenase E1 alpha subunit
+krh:KRH_03450	CDS	380676..381650	branched-chain alpha-keto acid dehydrogenase E1 beta subunit
+krh:KRH_03460	CDS	381711..383288	dihydrolipoamide acyltransferase
+krh:KRH_03470	CDS	complement(383373..383942)	putative 3-methyladenine-DNA glycosylase I
+krh:KRH_03480	CDS	complement(384185..385231)	hypothetical membrane protein
+krh:KRH_03490	CDS	complement(385207..386466)	hypothetical membrane protein
+krh:KRH_03500	CDS	complement(386534..387250)	putative two-component response regulator
+krh:KRH_03510	CDS	complement(387314..388309)	hypothetical membrane protein
+krh:KRH_03520	CDS	388413..390122	fadD; long-chain fatty-acid--CoA ligase
+krh:KRH_03530	CDS	390182..391063	putative LysR family transcriptional regulator
+krh:KRH_03540	CDS	complement(391587..392072)	putative MarR family transcriptional regulator
+krh:KRH_03550	CDS	complement(392118..393197)	hypothetical membrane protein
+krh:KRH_03560	CDS	393236..394321	hypothetical protein
+krh:KRH_03570	CDS	394669..395514	putative citrate lyase beta chain
+krh:KRH_03580	CDS	complement(395534..396244)	putative phosphatase
+krh:KRH_03590	CDS	396348..398579	malQ; 4-alpha-glucanotransferase
+krh:KRH_03600	CDS	399167..399403	rpmB; 50S ribosomal protein L28
+krh:KRH_03610	CDS	399405..399572	rpmG; 50S ribosomal protein L33
+krh:KRH_03620	CDS	399577..399882	rpsN; 30S ribosomal protein S14
+krh:KRH_03630	CDS	399963..400247	hup; putative DNA-binding protein HU
+krh:KRH_03640	CDS	400549..401145	hypothetical membrane protein
+krh:KRH_03650	CDS	401255..401929	putative copper resistance protein
+krh:KRH_03660	CDS	complement(401985..402197)	hypothetical protein
+krh:KRH_03670	CDS	402214..402936	hypothetical protein
+krh:KRH_03680	CDS	402926..404194	Dyp-type peroxidase family protein
+krh:KRH_03690	CDS	404272..406434	hypothetical membrane protein
+krh:KRH_03700	CDS	406659..408731	hypothetical protein
+krh:KRH_03710	CDS	complement(409004..409990)	hypothetical protein
+krh:KRH_03720	CDS	410201..410851	hypothetical membrane protein
+krh:KRH_03730	CDS	complement(411086..412450)	putative sugar ABC transporter ATP-binding protein
+krh:KRH_03740	CDS	complement(412499..413335)	putative sugar ABC transporter permease protein
+krh:KRH_03750	CDS	complement(413342..414310)	putative ABC transporter permease protein
+krh:KRH_03760	CDS	complement(414307..415623)	putative sugar ABC transporter sugar-binding protein
+krh:KRH_03770	CDS	complement(415752..416672)	putative AEC family transporter
+krh:KRH_03780	CDS	complement(416695..417147)	panD; aspartate 1-decarboxylase precursor
+krh:KRH_t00090	tRNA	complement(417271..417344)	tRNA-Gly
+krh:KRH_03790	CDS	417597..418175	dcd; deoxycytidine triphosphate deaminase
+krh:KRH_03800	CDS	complement(418182..419612)	putative MFS transporter
+krh:KRH_03810	CDS	419819..422920	mrpA_mrpB; Na(+)/H(+) antiporter subunit A/B
+krh:KRH_03820	CDS	422917..423447	mrpC; Na(+)/H(+) antiporter subunit C
+krh:KRH_03830	CDS	423437..425074	mrpD; Na(+)/H(+) antiporter subunit D
+krh:KRH_03840	CDS	425071..425718	mrpE; putative Na(+)/H(+) antiporter subunit E
+krh:KRH_03850	CDS	425715..425984	mrpF; Na(+)/H(+) antiporter subunit F
+krh:KRH_03860	CDS	425981..426343	mrpG; Na(+)/H(+) antiporter subunit G
+krh:KRH_03870	CDS	426402..426746	hypothetical protein
+krh:KRH_03880	CDS	427005..427628	hypothetical membrane protein
+krh:KRH_03890	CDS	427625..429223	putative ABC transporter ATP-binding protein
+krh:KRH_03900	CDS	429220..430023	putative ABC transporter permease protein
+krh:KRH_03910	CDS	complement(430262..431200)	putative aminotransferase
+krh:KRH_03920	CDS	complement(431197..431823)	hypothetical protein
+krh:KRH_03930	CDS	complement(431820..432317)	protein-tyrosine-phosphatase
+krh:KRH_03940	CDS	complement(432352..433212)	putative TetR family transcriptional regulator
+krh:KRH_03950	CDS	433387..433635	hypothetical protein
+krh:KRH_03960	CDS	433692..434069	hypothetical membrane protein
+krh:KRH_03970	CDS	complement(434160..436151)	betP; glycine betaine transporter
+krh:KRH_03980	CDS	436478..438349	dnaK; chaperone protein DnaK
+krh:KRH_03990	CDS	438460..438975	grpE; GrpE protein
+krh:KRH_04000	CDS	439060..440091	heat shock protein DnaJ family protein
+krh:KRH_04010	CDS	440093..440599	hspR; putative heat shock protein HspR
+krh:KRH_04020	CDS	complement(440770..441549)	trmB; tRNA (guanine-N(7)-)-methyltransferase
+krh:KRH_04030	CDS	442001..443227	drug resistance efflux protein
+krh:KRH_04040	CDS	443590..445056	putative sodium/alanine symporter
+krh:KRH_04050	CDS	445316..446824	cycA; D-serine/D-alanine/glycine transporter
+krh:KRH_04060	CDS	446887..447747	hypothetical protein
+krh:KRH_04070	CDS	complement(447772..449298)	putative sodium/alanine symporter
+krh:KRH_04080	CDS	complement(449456..449851)	hypothetical protein
+krh:KRH_04090	CDS	450058..450840	ThiJ/PfpI family protein
+krh:KRH_04100	CDS	450837..451634	putative oxidoreductase
+krh:KRH_04110	CDS	451631..451780	hypothetical protein
+krh:KRH_04120	CDS	451823..452575	putative oxidoreductase
+krh:KRH_04130	CDS	452856..454463	putative DEAD-box RNA helicase
+krh:KRH_04140	CDS	complement(454591..455241)	putative phosphatase
+krh:KRH_04150	CDS	complement(455360..456034)	putative phosphatase
+krh:KRH_04160	CDS	456088..456687	hypothetical membrane protein
+krh:KRH_04170	CDS	456684..457310	putative acetyltransferase
+krh:KRH_04180	CDS	457303..457995	tag; 3-methyladenine-DNA glycosylase I
+krh:KRH_04190	CDS	complement(457971..458195)	hypothetical protein
+krh:KRH_04200	CDS	458374..461037	clpB; chaperone ClpB
+krh:KRH_04210	CDS	complement(461239..461607)	hypothetical protein
+krh:KRH_04220	CDS	461921..462121	hypothetical protein
+krh:KRH_04230	CDS	complement(462330..463487)	purM; aminoimidazole ribonucleotide synthetase
+krh:KRH_04240	CDS	complement(463484..465031)	purF; amidophosphoribosyltransferase
+krh:KRH_04250	CDS	complement(465044..465469)	hypothetical membrane protein
+krh:KRH_04260	CDS	complement(465466..465828)	hypothetical protein
+krh:KRH_04270	CDS	complement(465839..466840)	hypothetical protein
+krh:KRH_04280	CDS	466911..468278	purD; phosphoribosylamine--glycine ligase
+krh:KRH_04290	CDS	468275..469246	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase
+krh:KRH_04300	CDS	complement(469224..469619)	hypothetical protein
+krh:KRH_04310	CDS	complement(469586..470740)	putative two-component histidine kinase
+krh:KRH_04320	CDS	complement(470791..470994)	hypothetical protein
+krh:KRH_04330	CDS	471006..471764	putative NarL family two-component response regulator
+krh:KRH_04340	CDS	complement(472121..472843)	putative GntR family transcriptional regulator
+krh:KRH_04350	CDS	complement(472928..474598)	putative L-lactate permease
+krh:KRH_04360	CDS	474925..475767	hypothetical protein
+krh:KRH_04370	CDS	475764..477755	putative iron-sulfur protein
+krh:KRH_04380	CDS	477752..478396	hypothetical protein
+krh:KRH_04390	CDS	complement(478549..479808)	moeB; putative molybdopterin synthase sulfurylase MoeB
+krh:KRH_04400	CDS	complement(479805..481016)	thiG; thiazole biosynthesis protein ThiG
+krh:KRH_04410	CDS	complement(481019..481285)	thiS; putative thiamine biosynthesis protein ThiS
+krh:KRH_04420	CDS	complement(481378..482655)	thiO; putative thiamine biosynthesis oxidoreductase ThiO
+krh:KRH_04430	CDS	482893..483555	thiE; thiamine-phosphate pyrophosphorylase
+krh:KRH_04440	CDS	complement(483662..484234)	hypothetical protein
+krh:KRH_04450	CDS	complement(484231..485097)	putative phenazine biosynthesis protein
+krh:KRH_t00100	tRNA	complement(485183..485259)	tRNA-Pro
+krh:KRH_04460	CDS	485358..486605	putative MFS transporter
+krh:KRH_04470	CDS	complement(486719..489733)	putative FAD-linked oxidase
+krh:KRH_04480	CDS	complement(489744..490673)	hypothetical protein
+krh:KRH_04490	CDS	complement(490670..492811)	penicillin-binding protein
+krh:KRH_04500	CDS	492929..493123	hypothetical protein
+krh:KRH_04510	CDS	493143..493622	hypothetical protein
+krh:KRH_04520	CDS	493625..494539	hypothetical protein
+krh:KRH_04530	CDS	complement(494752..495429)	CRP/FNR family transcriptional regulator
+krh:KRH_04540	CDS	495685..496869	putative S1C family peptidase
+krh:KRH_04550	CDS	complement(497032..497496)	aroQ; 3-dehydroquinate dehydratase
+krh:KRH_04560	CDS	complement(497731..499680)	acs; acetate--CoA ligase
+krh:KRH_04570	CDS	499891..500727	nth; putative endonuclease III
+krh:KRH_04580	CDS	500739..501521	hypothetical protein
+krh:KRH_04590	CDS	complement(501618..503384)	putative DNA polymerase
+krh:KRH_04600	CDS	complement(503527..503973)	hypothetical protein
+krh:KRH_04610	CDS	504198..504869	hypothetical protein
+krh:KRH_04620	CDS	complement(504906..505673)	hypothetical membrane protein
+krh:KRH_04630	CDS	505812..506921	hypothetical protein
+krh:KRH_04640	CDS	506918..508135	hypothetical protein
+krh:KRH_04650	CDS	508132..508896	hypothetical protein
+krh:KRH_04660	CDS	508893..509498	hypothetical protein
+krh:KRH_04670	CDS	509641..510009	hypothetical protein
+krh:KRH_04680	CDS	510131..510628	hypothetical protein
+krh:KRH_04690	CDS	510615..510983	hypothetical protein
+krh:KRH_04700	CDS	complement(511119..513449)	putative ATP-dependent helicase
+krh:KRH_04710	CDS	513767..514198	hypothetical protein
+krh:KRH_04720	CDS	514201..515931	hypothetical protein
+krh:KRH_04730	CDS	516163..519105	topA; DNA topoisomerase I
+krh:KRH_04740	CDS	519194..520174	Ppx/GppA phosphatase family protein
+krh:KRH_04750	CDS	520171..520977	hypothetical protein
+krh:KRH_04760	CDS	521042..521497	putative acetyltransferase
+krh:KRH_04770	CDS	521651..522490	proC; pyrroline-5-carboxylate reductase
+krh:KRH_04780	CDS	522487..523623	putative glutamate--cysteine ligase
+krh:KRH_04790	CDS	complement(523788..524456)	ktrA; putative Ktr system potassium uptake protein KtrA
+krh:KRH_04800	CDS	complement(524449..525894)	ktrB; putative Ktr system potassium uptake protein KtrB
+krh:KRH_04810	CDS	526040..527251	putative acetoin utilization protein
+krh:KRH_04820	CDS	527339..528472	putative ArsR family transcriptional regulator
+krh:KRH_04830	CDS	528512..529852	gdhA; NADP-dependent glutamate dehydrogenase
+krh:KRH_04840	CDS	529884..530753	putative GntR family transcriptional regulator
+krh:KRH_04850	CDS	530909..531007	hypothetical protein
+krh:KRH_04860	CDS	531387..531611	hypothetical protein
+krh:KRH_04870	CDS	531656..532327	phosphoglycerate mutase family protein
+krh:KRH_04880	CDS	532331..533002	resA; cytochrome c biogenesis protein ResA
+krh:KRH_04890	CDS	532999..533757	ccdA; cytochrome c biogenesis protein CcdA
+krh:KRH_04900	CDS	533754..535445	resB; putative cytochrome c biogenesis protein ResB
+krh:KRH_04910	CDS	535486..536553	resC; putative cytochrome c biogenesis protein ResC
+krh:KRH_04920	CDS	complement(536701..537252)	hypothetical protein
+krh:KRH_04930	CDS	537541..537819	hypothetical protein
+krh:KRH_04940	CDS	complement(537826..538710)	menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+krh:KRH_04950	CDS	complement(538968..539480)	hypothetical protein
+krh:KRH_04960	CDS	complement(539492..541048)	menE; putative o-succinylbenzoate--CoA ligase
+krh:KRH_04970	CDS	complement(541057..542022)	menB; naphthoate synthase
+krh:KRH_04980	CDS	542202..542969	hypothetical membrane protein
+krh:KRH_04990	CDS	543004..545778	ATP-dependent helicase
+krh:KRH_05000	CDS	546271..547215	putative citrate lyase beta chain
+krh:KRH_05010	CDS	547613..548581	ldh; L-lactate dehydrogenase
+krh:KRH_05020	CDS	complement(548686..550224)	sodium/proline symporter
+krh:KRH_05030	CDS	complement(550512..551444)	gluQ; glutamyl-Q-tRNA(Asp) synthetase
+krh:KRH_05040	CDS	551627..552535	hypothetical protein
+krh:KRH_05050	CDS	complement(552444..553508)	hypothetical membrane protein
+krh:KRH_05060	CDS	complement(553813..555015)	gcdH; putative glutaryl-CoA dehydrogenase
+krh:KRH_05070	CDS	complement(555012..556190)	CaiB/BaiF family protein
+krh:KRH_05080	CDS	556313..557236	putative LysR family transcriptional regulator
+krh:KRH_05090	CDS	complement(557255..558130)	putative 3-hydroxyacyl-CoA dehydrogenase
+krh:KRH_05100	CDS	complement(558127..558957)	putative enoyl-CoA hydratase
+krh:KRH_05110	CDS	complement(558954..561203)	putative TRAP family transporter
+krh:KRH_05120	CDS	complement(561200..562408)	TRAP transporter solute receptor family protein
+krh:KRH_05130	CDS	complement(562709..562990)	hypothetical protein
+krh:KRH_05140	CDS	563188..563625	hypothetical protein
+krh:KRH_05150	CDS	563720..564148	cysteine synthase
+krh:KRH_05160	CDS	564191..564895	cysteine synthase
+krh:KRH_05170	CDS	564633..564818	cysteine synthase
+krh:KRH_05180	CDS	complement(564892..565314)	hypothetical protein
+krh:KRH_05190	CDS	complement(565347..566030)	hypothetical protein
+krh:KRH_05200	CDS	complement(565646..566854)	hypothetical membrane protein
+krh:KRH_05210	CDS	complement(566949..567950)	hypothetical protein
+krh:KRH_05220	CDS	complement(567966..568373)	hypothetical protein
+krh:KRH_05230	CDS	568589..570154	hsdM; type I restriction enzyme M protein
+krh:KRH_05240	CDS	570151..571347	hsdS; type I restriction enzyme S protein
+krh:KRH_05250	CDS	571344..572078	hypothetical protein
+krh:KRH_05260	CDS	572075..575209	hsdR; type I restriction enzyme R protein
+krh:KRH_05270	CDS	575309..576202	hypothetical protein
+krh:KRH_05280	CDS	577184..577627	putative Fur family transcriptional regulator
+krh:KRH_05290	CDS	577702..579228	katA; catalase
+krh:KRH_05300	CDS	579654..580121	hypothetical membrane protein
+krh:KRH_05310	CDS	complement(580193..580876)	hypothetical protein
+krh:KRH_05320	CDS	complement(580882..581493)	hypothetical protein
+krh:KRH_05330	CDS	581777..582790	menC; putative o-succinylbenzoate synthase
+krh:KRH_05340	CDS	583109..585334	putative phosphatase
+krh:KRH_05350	CDS	585635..587293	sirA; sulfite reductase
+krh:KRH_05360	CDS	587290..588153	cysH; adenosine 5'-phosphosulfate reductase
+krh:KRH_05370	CDS	588135..589070	cysD; sulfate adenylyltransferase subunit 2
+krh:KRH_05380	CDS	589073..590413	cysN; sulfate adenylyltransferase subunit 1
+krh:KRH_05390	CDS	590527..592530	menD; putative menaquinone biosynthesis protein MenD
+krh:KRH_05400	CDS	592756..593493	putative oxidoreductase
+krh:KRH_05410	CDS	complement(593503..594273)	putative amino acid ABC transporter amino acid-binding protein
+krh:KRH_05420	CDS	complement(594348..595928)	isochorismate synthase
+krh:KRH_05430	CDS	596084..597355	putative oxidoreductase
+krh:KRH_05440	CDS	597408..598427	putative polyprenyl diphosphate synthase
+krh:KRH_05450	CDS	598510..600291	NSS family transporter
+krh:KRH_05460	CDS	600288..600584	hypothetical protein
+krh:KRH_05470	CDS	complement(600678..601616)	hypothetical membrane protein
+krh:KRH_05480	CDS	complement(601666..603147)	hypothetical protein
+krh:KRH_05490	CDS	603370..604833	hypothetical protein
+krh:KRH_05500	CDS	complement(605120..606643)	katA; catalase
+krh:KRH_05510	CDS	complement(606636..607163)	putative Fur family transcriptional regulator
+krh:KRH_05520	CDS	607885..609624	putative RNA polymerase ECF-type sigma factor
+krh:KRH_05530	CDS	609683..610588	htpX; putative protease HtpX
+krh:KRH_05540	CDS	complement(610801..611292)	hypothetical protein
+krh:KRH_05550	CDS	complement(611342..612253)	hypothetical protein
+krh:KRH_t00110	tRNA	612499..612583	tRNA-Tyr
+krh:KRH_05560	CDS	612803..613204	trxA; thioredoxin
+krh:KRH_05570	CDS	complement(613445..614143)	hypothetical membrane protein
+krh:KRH_05580	CDS	complement(614254..615249)	hypothetical protein
+krh:KRH_05590	CDS	615473..617227	hypothetical membrane protein
+krh:KRH_05600	CDS	617363..619522	deaD; ATP-dependent DEAD-box RNA helicase DeaD
+krh:KRH_t00120	tRNA	619919..619990	tRNA-Thr
+krh:KRH_t00130	tRNA	620044..620117	tRNA-Met
+krh:KRH_05610	CDS	620295..620744	hadA; beta-hydroxyacyl-[acyl-carrier-protein] dehydratase subunit HadA
+krh:KRH_05620	CDS	620741..621223	hadB; beta-hydroxyacyl-[acyl-carrier-protein] dehydratase subunit HadB
+krh:KRH_05630	CDS	621235..622500	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+krh:KRH_05640	CDS	622553..622960	hypothetical protein
+krh:KRH_05650	CDS	complement(623046..624182)	asd; aspartate-semialdehyde dehydrogenase
+krh:KRH_05660	CDS	complement(624179..624331)	hypothetical protein
+krh:KRH_05670	CDS	complement(624418..624795)	hypothetical protein
+krh:KRH_05680	CDS	complement(624800..625351)	folA; dihydrofolate reductase
+krh:KRH_05690	CDS	complement(625465..626286)	thyA; thymidylate synthase
+krh:KRH_05700	CDS	complement(626365..627315)	mutT; putative NTP pyrophosphohydrolase MutT
+krh:KRH_05710	CDS	complement(627394..628305)	mshD; acetyltransferase MshD
+krh:KRH_05720	CDS	complement(628339..629028)	putative transcriptional regulator
+krh:KRH_05730	CDS	629176..629937	hypothetical membrane protein
+krh:KRH_05740	CDS	629942..630049	hypothetical protein
+krh:KRH_05750	CDS	630053..630673	hypothetical protein
+krh:KRH_05760	CDS	630670..631902	hypothetical protein
+krh:KRH_05770	CDS	complement(631999..633030)	6-phosphofructokinase
+krh:KRH_05780	CDS	633222..634175	ppk2; polyphosphate kinase 2
+krh:KRH_05790	CDS	634227..634808	hypothetical protein
+krh:KRH_05800	CDS	634850..636403	hypothetical membrane protein
+krh:KRH_05810	CDS	complement(636460..636825)	hypothetical membrane protein
+krh:KRH_05820	CDS	complement(636822..638033)	aspartate aminotransferase
+krh:KRH_t00140	tRNA	638264..638336	tRNA-Trp
+krh:KRH_05830	CDS	638400..638666	secE; preprotein translocase SecE subunit
+krh:KRH_05840	CDS	638713..639597	nusG; transcription antitermination protein NusG
+krh:KRH_05850	CDS	639729..640160	rplK; 50S ribosomal protein L11
+krh:KRH_05860	CDS	640248..640958	rplA; 50S ribosomal protein L1
+krh:KRH_05870	CDS	641153..642337	hypothetical protein
+krh:KRH_05880	CDS	complement(642438..643877)	putative molybdenum cofactor biosynthesis protein
+krh:KRH_05890	CDS	complement(643870..644133)	moaD; putative molybdopterin synthase small subunit MoaD
+krh:KRH_05900	CDS	complement(644137..645168)	moaA; molybdenum cofactor biosynthesis protein MoaA
+krh:KRH_05910	CDS	645276..646742	moeA; molybdopterin biosynthesis protein MoeA
+krh:KRH_05920	CDS	646739..647236	moaC; molybdenum cofactor biosynthesis protein MoaC
+krh:KRH_05930	CDS	647308..648495	putative molybdenum cofactor biosynthesis bifunctional protein
+krh:KRH_05940	CDS	648497..649333	FdhD protein homolog
+krh:KRH_05950	CDS	649603..650136	rplJ; 50S ribosomal protein L10
+krh:KRH_05960	CDS	650263..650649	rplL; 50S ribosomal protein L7/L12
+krh:KRH_05970	CDS	650674..650943	hypothetical protein
+krh:KRH_05980	CDS	651254..654148	gcvP; glycine dehydrogenase
+krh:KRH_05990	CDS	654148..655293	gcvT; aminomethyltransferase
+krh:KRH_06000	CDS	655443..656186	hypothetical protein
+krh:KRH_06010	CDS	656414..659923	rpoB; DNA-directed RNA polymerase beta subunit
+krh:KRH_06020	CDS	659989..663879	rpoC; DNA-directed RNA polymerase beta' subunit
+krh:KRH_06030	CDS	664067..664843	putative IclR family transcriptional regulator
+krh:KRH_06040	CDS	665025..665780	pcaH; protocatechuate 3,4-dioxygenase beta subunit
+krh:KRH_06050	CDS	665830..666405	pcaG; protocatechuate 3,4-dioxygenase alpha subunit
+krh:KRH_06060	CDS	666405..667877	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase
+krh:KRH_06070	CDS	667874..668665	pcaD; putative 3-oxoadipate enol-lactone hydrolase
+krh:KRH_06080	CDS	668820..669218	pcaC; 4-carboxymuconolactone decarboxylase
+krh:KRH_06090	CDS	669300..669998	pcaI; 3-oxoadipate CoA-transferase subunit A
+krh:KRH_06100	CDS	669995..670669	pcaJ; 3-oxoadipate CoA-transferase subunit B
+krh:KRH_06110	CDS	670956..671330	rpsL; 30S ribosomal protein S12
+krh:KRH_06120	CDS	671330..671800	rpsG; 30S ribosomal protein S7
+krh:KRH_06130	CDS	671881..673995	fusA; elongation factor G
+krh:KRH_06140	CDS	674153..675343	tuf; elongation factor Tu
+krh:KRH_06150	CDS	675908..676216	rpsJ; 30S ribosomal protein S10
+krh:KRH_06160	CDS	676233..676889	rplC; 50S ribosomal protein L3
+krh:KRH_06170	CDS	676895..677515	rplD; 50S ribosomal protein L4
+krh:KRH_06180	CDS	677512..677817	rplW; 50S ribosomal protein L23
+krh:KRH_06190	CDS	677849..678688	rplB; 50S ribosomal protein L2
+krh:KRH_06200	CDS	678701..678982	rpsS; 30S ribosomal protein S19
+krh:KRH_06210	CDS	679035..679400	rplV; 50S ribosomal protein L22
+krh:KRH_06220	CDS	679401..680234	rpsC; 30S ribosomal protein S3
+krh:KRH_06230	CDS	680234..680650	rplP; 50S ribosomal protein L16
+krh:KRH_06240	CDS	680654..680950	rpmC; 50S ribosomal protein L29
+krh:KRH_06250	CDS	680947..681234	rpsQ; 30S ribosomal protein S17
+krh:KRH_06260	CDS	681737..682105	rplN; 50S ribosomal protein L14
+krh:KRH_06270	CDS	682107..682445	rplX; 50S ribosomal protein L24
+krh:KRH_06280	CDS	682445..683014	rplE; 50S ribosomal protein L5
+krh:KRH_06290	CDS	683089..683487	rpsH; 30S ribosomal protein S8
+krh:KRH_06300	CDS	683519..684055	rplF; 50S ribosomal protein L6
+krh:KRH_06310	CDS	684058..684429	rplR; 50S ribosomal protein L18
+krh:KRH_06320	CDS	684459..685151	rpsE; 30S ribosomal protein S5
+krh:KRH_06330	CDS	685151..685357	rpmD; 50S ribosomal protein L30
+krh:KRH_06340	CDS	685360..685827	rplO; 50S ribosomal protein L15
+krh:KRH_06350	CDS	686016..687329	secY; preprotein translocase SecY subunit
+krh:KRH_06360	CDS	687452..688018	adk; adenylate kinase
+krh:KRH_06370	CDS	688171..689004	map; methionine aminopeptidase
+krh:KRH_06380	CDS	689091..690239	putative rRNA methyltransferase
+krh:KRH_06390	CDS	690480..690701	infA; translation initiation factor IF-1
+krh:KRH_06400	CDS	690787..690900	rpmJ; 50S ribosomal protein L36
+krh:KRH_06410	CDS	691059..691427	rpsM; 30S ribosomal protein S13
+krh:KRH_06420	CDS	691486..691890	rpsK; 30S ribosomal protein S11
+krh:KRH_06430	CDS	692038..693057	rpoA; DNA-directed RNA polymerase alpha subunit
+krh:KRH_06440	CDS	693129..693893	rplQ; 50S ribosomal protein L17
+krh:KRH_06450	CDS	693982..694977	truA; tRNA pseudouridine synthase TruA
+krh:KRH_06460	CDS	695245..695688	rplM; 50S ribosomal protein L13
+krh:KRH_06470	CDS	695721..696224	rpsI; 30S ribosomal protein S9
+krh:KRH_06480	CDS	696526..697617	ppk2; polyphosphate kinase 2
+krh:KRH_06490	CDS	697666..699021	glmM; phosphoglucosamine mutase
+krh:KRH_06500	CDS	complement(699090..699524)	mscL; large-conductance mechanosensitive channel
+krh:KRH_06510	CDS	complement(699632..700588)	coaA; pantothenate kinase
+krh:KRH_06520	CDS	700662..702545	glmS; glucosamine-6-phosphate synthase
+krh:KRH_06530	CDS	702743..703114	acpS; holo-[acyl-carrier-protein] synthase
+krh:KRH_06540	CDS	703107..705053	hypothetical protein
+krh:KRH_06550	CDS	705138..707315	glgX; glycogen debranching enzyme
+krh:KRH_06560	CDS	707475..709844	treY; maltooligosyl trehalose synthase
+krh:KRH_06570	CDS	709848..711668	treZ; malto-oligosyltrehalose trehalohydrolase
+krh:KRH_06580	CDS	712061..713152	putative NADPH-dependent L-glyceraldehyde 3-phosphate reductase
+krh:KRH_06590	CDS	713149..714018	putative amino acid transporter
+krh:KRH_06600	CDS	714269..715354	ino1; myo-inositol-1-phosphate synthase
+krh:KRH_06610	CDS	complement(715457..716254)	hypothetical protein
+krh:KRH_06620	CDS	complement(716265..717605)	mshA; putative glycosyltransferase MshA
+krh:KRH_06630	CDS	717873..719810	alr; alanine racemase
+krh:KRH_06640	CDS	720191..720907	deoD; purine nucleoside phosphorylase
+krh:KRH_06650	CDS	720913..722424	putative drug resistance efflux protein
+krh:KRH_06660	CDS	722507..723196	peptidase M22 family protein
+krh:KRH_06670	CDS	723193..723750	putative ribosomal-protein-alanine acetyltransferase
+krh:KRH_06680	CDS	723737..724819	gcp; O-sialoglycoprotein endopeptidase
+krh:KRH_06690	CDS	complement(724960..726141)	putative glutamate--cysteine ligase
+krh:KRH_06700	CDS	complement(726205..727479)	hypothetical protein
+krh:KRH_06710	CDS	727677..728663	putative ABC transporter substrate-binding protein
+krh:KRH_06720	CDS	728749..729753	putative ABC transporter permease protein
+krh:KRH_06730	CDS	729851..730906	putative ABC transporter permease protein
+krh:KRH_06740	CDS	730903..731658	putative ABC transporter ATP-binding protein
+krh:KRH_06750	CDS	732068..732364	groES; 10 kDa chaperonin
+krh:KRH_06760	CDS	732475..734061	groEL; 60 kDa chaperonin
+krh:KRH_06770	CDS	734439..736517	hypothetical membrane protein
+krh:KRH_06780	CDS	736642..738165	guaB; inosine-5'-monophosphate dehydrogenase
+krh:KRH_06790	CDS	738215..739336	IMP dehydrogenase family protein
+krh:KRH_06800	CDS	739390..740370	hypothetical protein
+krh:KRH_06810	CDS	740363..740956	hypothetical membrane protein
+krh:KRH_06820	CDS	740999..742597	guaA; GMP synthetase
+krh:KRH_06830	CDS	742655..746548	hypothetical protein
+krh:KRH_06840	CDS	746538..746780	hypothetical protein
+krh:KRH_06850	CDS	complement(746808..747479)	hypothetical protein
+krh:KRH_06860	CDS	complement(747806..748186)	hypothetical protein
+krh:KRH_06870	CDS	complement(748245..748862)	hypothetical protein
+krh:KRH_06880	CDS	748973..749881	galU; UTP--glucose-1-phosphate uridylyltransferase
+krh:KRH_06890	CDS	749896..750537	putative ribosomal-protein-alanine acetyltransferase
+krh:KRH_06900	CDS	750748..751674	hypothetical membrane protein
+krh:KRH_06910	CDS	751734..753713	hypothetical protein
+krh:KRH_06920	CDS	complement(753901..755697)	drug resistance efflux protein
+krh:KRH_06930	CDS	complement(755694..756314)	putative TetR family transcriptional regulator
+krh:KRH_06940	CDS	756459..757475	hypothetical protein
+krh:KRH_06950	CDS	757472..758710	putative glycosyltransferase
+krh:KRH_06960	CDS	758703..759653	hypothetical protein
+krh:KRH_06970	CDS	759650..760399	hypothetical protein
+krh:KRH_06980	CDS	760430..761614	putative amidohydrolase
+krh:KRH_06990	CDS	761750..762934	M20D family peptidase
+krh:KRH_07000	CDS	complement(762968..763897)	putative cation efflux protein
+krh:KRH_07010	CDS	complement(763897..764376)	putative ArsR family transcriptional regulator
+krh:KRH_07020	CDS	complement(764558..765199)	pcp; putative pyrrolidone-carboxylate peptidase
+krh:KRH_t00150	tRNA	complement(765366..765438)	tRNA-Ala
+krh:KRH_07030	CDS	765548..766720	hypothetical protein
+krh:KRH_07040	CDS	complement(766824..767903)	MscS family transporter
+krh:KRH_07050	CDS	complement(768079..769110)	putative metal ion transport protein
+krh:KRH_07060	CDS	769352..769870	hypothetical protein
+krh:KRH_07070	CDS	769867..770916	putative ABC transporter substrate-binding protein
+krh:KRH_07080	CDS	770981..772198	putative alanine aminotransferase
+krh:KRH_07090	CDS	complement(772212..772502)	xseB; exodeoxyribonuclease VII small subunit
+krh:KRH_07100	CDS	complement(772608..773921)	xseA; exodeoxyribonuclease VII large subunit
+krh:KRH_07110	CDS	773980..774906	hypothetical membrane protein
+krh:KRH_07120	CDS	774914..775969	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+krh:KRH_07130	CDS	complement(776131..777366)	hypothetical protein
+krh:KRH_07140	CDS	complement(777404..778015)	putative NarL family two-component response regulator
+krh:KRH_07150	CDS	complement(778012..779352)	putative two-component histidine kinase
+krh:KRH_07160	CDS	complement(779349..780110)	hypothetical membrane protein
+krh:KRH_07170	CDS	complement(780216..781142)	putative ABC transporter ATP-binding protein
+krh:KRH_07180	CDS	781279..782364	putative GTP-binding protein
+krh:KRH_07190	CDS	782767..783966	putative MFS transporter
+krh:KRH_07200	CDS	784226..784612	hypothetical protein
+krh:KRH_07210	CDS	784716..785246	hypothetical protein
+krh:KRH_07220	CDS	785351..785506	hypothetical protein
+krh:KRH_07230	CDS	785481..785807	putative Xre family DNA-binding protein
+krh:KRH_07240	CDS	785804..786298	hypothetical protein
+krh:KRH_07250	CDS	complement(786719..787270)	putative TetR family transcriptional regulator
+krh:KRH_07260	CDS	787354..787809	hypothetical membrane protein
+krh:KRH_07270	CDS	787806..788852	putative transposase
+krh:KRH_07280	CDS	complement(788786..789526)	hypothetical protein
+krh:KRH_07290	CDS	complement(789545..790555)	putative transposase
+krh:KRH_07300	CDS	complement(790906..792984)	hypothetical protein
+krh:KRH_07310	CDS	793505..793864	putative ArsR family transcriptional regulator
+krh:KRH_07320	CDS	793861..795774	putative cadmium-transporting ATPase
+krh:KRH_07330	CDS	795771..796079	hypothetical protein
+krh:KRH_07340	CDS	796304..796855	hypothetical protein
+krh:KRH_07350	CDS	complement(796877..797830)	hypothetical protein
+krh:KRH_07360	CDS	complement(797820..798122)	hypothetical protein
+krh:KRH_07370	CDS	complement(798192..798419)	hypothetical protein
+krh:KRH_07380	CDS	complement(798498..799508)	putative transposase
+krh:KRH_07390	CDS	799925..800956	hypothetical protein
+krh:KRH_07400	CDS	801343..803316	hypothetical protein
+krh:KRH_07410	CDS	complement(803593..804486)	putative beta-lactamase inhibitory protein
+krh:KRH_07420	CDS	complement(805002..805241)	hypothetical protein
+krh:KRH_07430	CDS	complement(806127..806690)	hypothetical protein
+krh:KRH_07440	CDS	806803..807018	putative Xre family DNA-binding protein
+krh:KRH_07450	CDS	807287..807532	hypothetical protein
+krh:KRH_07460	CDS	807483..811943	hypothetical protein
+krh:KRH_07470	CDS	complement(812559..813605)	mcrC; putative McrC protein
+krh:KRH_07480	CDS	complement(813602..815185)	mcrB; McrBC restriction endonuclease system protein McrB
+krh:KRH_07490	CDS	815543..815728	hypothetical protein
+krh:KRH_07500	CDS	816194..817624	DASS family transporter
+krh:KRH_07510	CDS	complement(817713..818462)	sdhB; succinate dehydrogenase iron-sulfur protein
+krh:KRH_07520	CDS	complement(818476..820467)	sdhA; succinate dehydrogenase flavoprotein subunit
+krh:KRH_07530	CDS	complement(820464..821186)	sdhC; succinate dehydrogenase cytochrome b subunit
+krh:KRH_07540	CDS	complement(821361..821966)	hypothetical protein
+krh:KRH_07550	CDS	822320..823918	putative L-lactate permease
+krh:KRH_07560	CDS	824033..824251	hypothetical protein
+krh:KRH_07570	CDS	complement(824368..825249)	hypothetical protein
+krh:KRH_07580	CDS	complement(825343..826125)	putative hydrolase
+krh:KRH_07590	CDS	complement(826334..826867)	hypothetical protein
+krh:KRH_07600	CDS	826887..827069	hypothetical protein
+krh:KRH_07610	CDS	827223..828233	adh; alcohol dehydrogenase
+krh:KRH_07620	CDS	complement(828333..829001)	hypothetical membrane protein
+krh:KRH_07630	CDS	829069..829668	putative TetR family transcriptional regulator
+krh:KRH_07640	CDS	complement(829791..831035)	putative esterase
+krh:KRH_07650	CDS	complement(831300..831935)	hypothetical protein
+krh:KRH_07660	CDS	832331..832816	hypothetical protein
+krh:KRH_07670	CDS	832891..833100	hypothetical protein
+krh:KRH_07680	CDS	complement(833220..834044)	hypothetical protein
+krh:KRH_07690	CDS	834092..835291	putative type III polyketide synthase
+krh:KRH_07700	CDS	835291..836037	hypothetical protein
+krh:KRH_07710	CDS	complement(836058..836870)	hypothetical protein
+krh:KRH_07720	CDS	complement(836874..837203)	hypothetical membrane protein
+krh:KRH_07730	CDS	837308..837694	hypothetical protein
+krh:KRH_07740	CDS	complement(837688..838332)	hypothetical protein
+krh:KRH_07750	CDS	complement(838467..839177)	hypothetical protein
+krh:KRH_07760	CDS	839427..839765	hypothetical protein
+krh:KRH_07770	CDS	839821..843204	putative formate dehydrogenase alpha subunit
+krh:KRH_07790	CDS	843201..844415	putative formate dehydrogenase iron-sulfur protein
+krh:KRH_07800	CDS	844412..845524	hypothetical protein
+krh:KRH_07810	CDS	845532..845732	hypothetical protein
+krh:KRH_07820	CDS	complement(845748..846785)	selD; selenide, water dikinase
+krh:KRH_t00160	tRNA	846859..846949	tRNA-Sec
+krh:KRH_07830	CDS	847192..848499	selA; selenocysteine synthase
+krh:KRH_07840	CDS	848499..850286	selB; selenocysteine-specific elongation factor
+krh:KRH_07850	CDS	850490..850816	hypothetical protein
+krh:KRH_07860	CDS	850987..851466	hypothetical membrane protein
+krh:KRH_07870	CDS	851533..852516	putative hydrolase
+krh:KRH_07880	CDS	852513..853430	hypothetical membrane protein
+krh:KRH_07890	CDS	853686..854258	mug; G/U mismatch-specific DNA glycosylase
+krh:KRH_07900	CDS	854336..855217	hypothetical membrane protein
+krh:KRH_07910	CDS	complement(855357..856715)	putative carboxylesterase
+krh:KRH_07920	CDS	complement(856708..857148)	hypothetical protein
+krh:KRH_07930	CDS	857259..857945	hypothetical membrane protein
+krh:KRH_07940	CDS	858245..859135	hypothetical protein
+krh:KRH_07950	CDS	859201..859875	hypothetical protein
+krh:KRH_07960	CDS	860135..860983	uracil-DNA glycosylase
+krh:KRH_07970	CDS	861108..861254	hypothetical protein
+krh:KRH_07980	CDS	861349..861735	hypothetical protein
+krh:KRH_07990	CDS	861895..862413	hypothetical protein
+krh:KRH_08000	CDS	complement(862777..863340)	hypothetical protein
+krh:KRH_08010	CDS	complement(863659..864645)	mdh; malate dehydrogenase
+krh:KRH_08020	CDS	864784..865281	tpx; thiol peroxidase
+krh:KRH_08030	CDS	complement(865521..867734)	icd; isocitrate dehydrogenase
+krh:KRH_08040	CDS	complement(867853..868302)	hypothetical membrane protein
+krh:KRH_08050	CDS	868740..870527	putative peptide ABC transporter peptide-binding protein
+krh:KRH_08060	CDS	870637..872172	putative peptide ABC transporter permease protein
+krh:KRH_08070	CDS	872169..873242	putative peptide ABC transporter permease protein
+krh:KRH_08080	CDS	complement(873254..873895)	hypothetical membrane protein
+krh:KRH_08090	CDS	874402..876147	putative ABC transporter ATP-binding protein
+krh:KRH_08100	CDS	876236..876934	hypothetical protein
+krh:KRH_08110	CDS	complement(876953..877438)	hypothetical protein
+krh:KRH_08120	CDS	877600..877896	gatC; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+krh:KRH_08130	CDS	877893..879500	gatA; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A
+krh:KRH_08140	CDS	879500..881005	gatB; aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+krh:KRH_08150	CDS	complement(881313..882617)	hypothetical protein
+krh:KRH_08160	CDS	882766..883608	hypothetical protein
+krh:KRH_08170	CDS	complement(883731..884009)	hypothetical protein
+krh:KRH_08180	CDS	complement(884197..884520)	branched-chain amino acid export protein small subunit
+krh:KRH_08190	CDS	complement(884501..885211)	branched-chain amino acid export protein large subunit
+krh:KRH_08200	CDS	885319..887334	putative S9C family peptidase
+krh:KRH_08210	CDS	887562..889469	typA; putative GTP-binding protein TypA
+krh:KRH_08220	CDS	889544..890377	mshB; N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase MshB
+krh:KRH_08230	CDS	890374..891027	hypothetical membrane protein
+krh:KRH_08240	CDS	891090..891413	7Fe ferredoxin
+krh:KRH_08250	CDS	891418..892563	dapC; succinyldiaminopimelate aminotransferase
+krh:KRH_08260	CDS	892684..894039	gltA; citrate synthase
+krh:KRH_08270	CDS	complement(894219..895235)	galE; UDP-glucose 4-epimerase
+krh:KRH_08280	CDS	complement(895499..896470)	dapD; tetrahydrodipicolinate N-succinyltransferase
+krh:KRH_08290	CDS	896595..897701	dapE; succinyl-diaminopimelate desuccinylase
+krh:KRH_08300	CDS	897723..898601	hypothetical protein
+krh:KRH_08310	CDS	898598..900076	hypothetical membrane protein
+krh:KRH_08320	CDS	900242..900409	hypothetical protein
+krh:KRH_08330	CDS	complement(900630..901001)	CrcB protein homolog
+krh:KRH_08340	CDS	complement(900998..901435)	CrcB protein homolog
+krh:KRH_08350	CDS	complement(901432..902064)	hypothetical protein
+krh:KRH_08360	CDS	902357..903007	hypothetical protein
+krh:KRH_08370	CDS	903046..903399	tatB; putative Sec-independent protein translocase protein TatB
+krh:KRH_08380	CDS	complement(903419..904615)	hypothetical protein
+krh:KRH_08390	CDS	complement(904612..905424)	hypothetical protein
+krh:KRH_08400	CDS	complement(905417..906715)	hypothetical protein
+krh:KRH_08410	CDS	906874..907875	hypothetical membrane protein
+krh:KRH_08420	CDS	complement(907973..909580)	pepP; putative Xaa-Pro aminopeptidase
+krh:KRH_08430	CDS	909697..910548	hypothetical protein
+krh:KRH_08440	CDS	complement(910558..911427)	putative methyltransferase
+krh:KRH_08450	CDS	complement(911433..913100)	putative DEAD-box RNA helicase
+krh:KRH_08460	CDS	complement(913419..913718)	hypothetical protein
+krh:KRH_08470	CDS	complement(913742..914419)	putative TetR family transcriptional regulator
+krh:KRH_08480	CDS	complement(914452..915765)	hemA; glutamyl-tRNA reductase
+krh:KRH_08490	CDS	915894..917117	hemE; uroporphyrinogen decarboxylase
+krh:KRH_08500	CDS	917114..918601	hemG; putative protoporphyrinogen oxidase
+krh:KRH_08510	CDS	918701..919417	hypothetical protein
+krh:KRH_08520	CDS	919419..920624	hemH; ferrochelatase
+krh:KRH_08530	CDS	920621..921565	hemC; porphobilinogen deaminase
+krh:KRH_08540	CDS	921562..922707	hypothetical protein
+krh:KRH_08550	CDS	922740..923744	hemB; delta-aminolevulinic acid dehydratase
+krh:KRH_08560	CDS	923816..925135	hemL; glutamate-1-semialdehyde aminotransferase
+krh:KRH_08570	CDS	complement(925254..925952)	dnaQ; putative DNA polymerase III epsilon subunit
+krh:KRH_08580	CDS	926400..930125	UvrD/Rep helicase family protein
+krh:KRH_08590	CDS	930122..933559	UvrD/Rep helicase family protein
+krh:KRH_08600	CDS	complement(933508..934902)	hypothetical protein
+krh:KRH_08610	CDS	934943..935917	nudC; putative NADH pyrophosphatase
+krh:KRH_08620	CDS	935914..937704	uvrD2; ATP-dependent DNA helicase UvrD2
+krh:KRH_08630	CDS	complement(937823..938644)	putative hydrolase
+krh:KRH_08640	CDS	complement(938641..940119)	monooxygenase
+krh:KRH_08650	CDS	940430..941437	putative LacI family transcriptional regulator
+krh:KRH_08660	CDS	complement(941583..942488)	hypothetical protein
+krh:KRH_08670	CDS	942638..943174	hypothetical protein
+krh:KRH_08680	CDS	complement(943515..945008)	hypothetical protein
+krh:KRH_08690	CDS	945531..946652	hypothetical protein
+krh:KRH_08700	CDS	946757..949708	hypothetical membrane protein
+krh:KRH_t00170	tRNA	949884..949960	tRNA-Met
+krh:KRH_08710	CDS	complement(950260..951858)	hypothetical protein
+krh:KRH_08720	CDS	complement(951861..952616)	hypothetical protein
+krh:KRH_08730	CDS	complement(952686..954704)	hypothetical protein
+krh:KRH_08740	CDS	954952..956580	S1C family peptidase
+krh:KRH_08750	CDS	complement(956692..957156)	putative RNA methyltransferase
+krh:KRH_08760	CDS	957274..958506	iscS; cysteine desulfurase
+krh:KRH_08770	CDS	958590..959741	putative tRNA uridine-sulfurtransferase
+krh:KRH_08780	CDS	959804..960217	chorismate mutase
+krh:KRH_08790	CDS	960214..961236	hypothetical protein
+krh:KRH_08800	CDS	961325..962011	mtrA; two-component response regulator MtrA
+krh:KRH_08810	CDS	962008..963870	mtrB; two-component histidine kinase MtrB
+krh:KRH_08820	CDS	963867..965666	hypothetical protein
+krh:KRH_08830	CDS	966118..966906	hypothetical protein
+krh:KRH_08840	CDS	967034..967729	hypothetical protein
+krh:KRH_08850	CDS	967881..970664	secA; preprotein translocase SecA subunit
+krh:KRH_08860	CDS	complement(970677..971126)	hypothetical protein
+krh:KRH_08870	CDS	complement(971272..972159)	hypothetical membrane protein
+krh:KRH_08880	CDS	972459..973025	hypothetical protein
+krh:KRH_08890	CDS	complement(973027..973242)	hypothetical protein
+krh:KRH_08900	CDS	973472..974146	hypothetical protein
+krh:KRH_08910	CDS	974143..975786	hypothetical protein
+krh:KRH_08920	CDS	975808..977391	putative two-component histidine kinase
+krh:KRH_08930	CDS	complement(977557..977856)	WhiB family regulatory protein
+krh:KRH_08940	CDS	978107..978538	hypothetical membrane protein
+krh:KRH_08950	CDS	complement(978562..983163)	hypothetical protein
+krh:KRH_08960	CDS	983216..984397	putative glycosyltransferase
+krh:KRH_08970	CDS	984560..985747	glf; UDP-galactopyranose mutase
+krh:KRH_08980	CDS	985876..987780	glfT; galactofuranosyltransferase
+krh:KRH_08990	CDS	987888..988754	putative ABC transporter permease protein
+krh:KRH_09000	CDS	988758..989684	putative ABC transporter ATP-binding protein
+krh:KRH_09010	CDS	complement(989765..991798)	hypothetical membrane protein
+krh:KRH_09020	CDS	991962..992627	putative glycosyltransferase
+krh:KRH_09030	CDS	992643..993122	hypothetical protein
+krh:KRH_09040	CDS	993332..993622	hypothetical protein
+krh:KRH_09050	CDS	993691..994377	hypothetical protein
+krh:KRH_09060	CDS	complement(994462..994797)	hypothetical protein
+krh:KRH_09070	CDS	complement(995145..995696)	hypothetical protein
+krh:KRH_09080	CDS	complement(995757..996185)	hypothetical protein
+krh:KRH_09090	CDS	complement(996276..998804)	hypothetical protein
+krh:KRH_09100	CDS	999068..999238	hypothetical protein
+krh:KRH_09110	CDS	complement(999292..999924)	putative resolvase
+krh:KRH_09120	CDS	complement(1000141..1000365)	hypothetical protein
+krh:KRH_09130	CDS	complement(1000443..1001141)	hypothetical protein
+krh:KRH_09140	CDS	complement(1001125..1001496)	hypothetical protein
+krh:KRH_09150	CDS	complement(1001501..1001671)	hypothetical protein
+krh:KRH_09160	CDS	complement(1001668..1001949)	hypothetical protein
+krh:KRH_09170	CDS	complement(1001981..1002190)	hypothetical protein
+krh:KRH_09180	CDS	complement(1002373..1002579)	hypothetical protein
+krh:KRH_09190	CDS	complement(1002774..1003880)	hypothetical protein
+krh:KRH_09200	CDS	complement(1003877..1004782)	hypothetical protein
+krh:KRH_09210	CDS	complement(1004779..1004934)	hypothetical protein
+krh:KRH_09220	CDS	complement(1005330..1005899)	hypothetical protein
+krh:KRH_09230	CDS	complement(1005896..1007281)	putative recombinase
+krh:KRH_09240	CDS	1007324..1008469	hypothetical protein
+krh:KRH_09250	CDS	1008466..1009323	hypothetical membrane protein
+krh:KRH_09260	CDS	1009320..1010264	hypothetical membrane protein
+krh:KRH_09270	CDS	1010306..1010530	hypothetical protein
+krh:KRH_09280	CDS	1010562..1010912	hypothetical protein
+krh:KRH_09290	CDS	1010890..1011444	hypothetical protein
+krh:KRH_09300	CDS	1011534..1012010	hypothetical protein
+krh:KRH_09310	CDS	1012249..1012608	hypothetical membrane protein
+krh:KRH_09320	CDS	complement(1012803..1012967)	hypothetical protein
+krh:KRH_09330	CDS	complement(1012995..1014167)	glgC; glucose-1-phosphate adenylyltransferase
+krh:KRH_09340	CDS	1014252..1015370	prfB; peptide chain release factor 2
+krh:KRH_09350	CDS	1015445..1015933	smpB; SsrA-binding protein
+krh:KRH_09360	CDS	complement(1015946..1016737)	putative ABC transporter ATP-binding protein
+krh:KRH_tm01	tmRNA	1017056..1017420	transfer-messenger RNA
+krh:KRH_09370	CDS	1017590..1018465	hypothetical membrane protein
+krh:KRH_09380	CDS	complement(1018590..1019390)	hisN; histidinol-phosphate phosphatase
+krh:KRH_09390	CDS	complement(1019395..1020510)	rsgA; putative ribosome small subunit-dependent GTPase A
+krh:KRH_09400	CDS	complement(1020515..1021852)	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+krh:KRH_09410	CDS	complement(1021867..1022403)	hypothetical protein
+krh:KRH_09420	CDS	1022612..1023292	sigH; RNA polymerase ECF-type sigma factor SigH
+krh:KRH_09430	CDS	1023296..1023562	anti-sigma factor
+krh:KRH_09440	CDS	complement(1023882..1024481)	hypothetical protein
+krh:KRH_09450	CDS	complement(1024611..1028435)	sucA; 2-oxoglutarate dehydrogenase E1 component
+krh:KRH_09460	CDS	1028679..1028861	hypothetical protein
+krh:KRH_09470	CDS	1028959..1030416	putative inosine-5'-monophosphate dehydrogenase
+krh:KRH_09480	CDS	1030543..1031520	putative ABC transporter substrate-binding protein
+krh:KRH_09490	CDS	1031534..1032418	putative ABC transporter ATP-binding protein
+krh:KRH_09500	CDS	1032415..1033332	putative ABC transporter permease protein
+krh:KRH_09510	CDS	complement(1033397..1034356)	hypothetical protein
+krh:KRH_09520	CDS	complement(1034353..1034799)	putative Fur family transcriptional regulator
+krh:KRH_09530	CDS	1035010..1035672	hypothetical protein
+krh:KRH_09540	CDS	1035719..1036150	HIT family protein
+krh:KRH_09550	CDS	complement(1036247..1040503)	hrpA; ATP-dependent RNA helicase HrpA
+krh:KRH_09560	CDS	1040537..1041529	putative ABC transporter substrate-binding protein
+krh:KRH_09570	CDS	1041535..1042503	putative ABC transporter permease protein
+krh:KRH_09580	CDS	1042508..1043416	putative ABC transporter ATP-binding protein
+krh:KRH_09590	CDS	1043413..1043793	hypothetical protein
+krh:KRH_09600	CDS	complement(1044204..1044836)	hypothetical membrane protein
+krh:KRH_09610	CDS	complement(1044833..1045045)	hypothetical protein
+krh:KRH_t00180	tRNA	complement(1045434..1045509)	tRNA-Arg
+krh:KRH_09620	CDS	1045714..1047384	argS; arginyl-tRNA synthetase
+krh:KRH_09630	CDS	1047389..1048840	lysA; diaminopimelate decarboxylase
+krh:KRH_09640	CDS	1049194..1050510	hom; homoserine dehydrogenase
+krh:KRH_09650	CDS	1050626..1051735	thrC; threonine synthase
+krh:KRH_09660	CDS	1051762..1052742	thrB; homoserine kinase
+krh:KRH_09670	CDS	1053037..1055190	rho; transcription termination factor Rho
+krh:KRH_09680	CDS	1055243..1056352	prfA; peptide chain release factor 1
+krh:KRH_09690	CDS	1056357..1057226	hemK; protein methyltransferase HemK
+krh:KRH_09700	CDS	1057333..1058397	hypothetical protein
+krh:KRH_09710	CDS	complement(1058663..1059631)	NAD-dependent epimerase/dehydratase family protein
+krh:KRH_09720	CDS	1059852..1060784	glfT; galactofuranosyltransferase
+krh:KRH_09730	CDS	1060771..1061631	putative glycosyltransferase
+krh:KRH_09740	CDS	1061661..1063682	putative polysaccharide biosynthesis protein
+krh:KRH_09750	CDS	1063907..1064929	putative undecaprenyl-phosphate glycosyltransferase
+krh:KRH_09760	CDS	1064926..1065408	hypothetical membrane protein
+krh:KRH_09770	CDS	1065405..1065785	hypothetical membrane protein
+krh:KRH_09780	CDS	1065816..1066607	atpB; ATP synthase subunit a
+krh:KRH_09790	CDS	1066722..1066925	atpE; ATP synthase subunit c
+krh:KRH_09800	CDS	1066986..1067522	atpF; ATP synthase subunit b
+krh:KRH_09810	CDS	1067522..1068334	atpH; ATP synthase delta chain
+krh:KRH_09820	CDS	1068506..1070131	atpA; ATP synthase alpha chain
+krh:KRH_09830	CDS	1070189..1071100	atpG; ATP synthase gamma chain
+krh:KRH_09840	CDS	1071143..1072609	atpD; ATP synthase beta chain
+krh:KRH_09850	CDS	1072613..1072891	atpC; ATP synthase epsilon chain
+krh:KRH_09860	CDS	1073037..1074320	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+krh:KRH_09870	CDS	complement(1074468..1074671)	cold shock protein
+krh:KRH_09880	CDS	complement(1075035..1075730)	hypothetical protein
+krh:KRH_09890	CDS	1075775..1075960	hypothetical protein
+krh:KRH_09900	CDS	complement(1076060..1077241)	hypothetical membrane protein
+krh:KRH_09910	CDS	1077509..1078402	hypothetical protein
+krh:KRH_09920	CDS	1078488..1079465	putative ABC transporter ATP-binding protein
+krh:KRH_09930	CDS	1079663..1081291	hypothetical membrane protein
+krh:KRH_09940	CDS	1081324..1081668	hypothetical protein
+krh:KRH_09950	CDS	1082040..1083881	hypothetical protein
+krh:KRH_09960	CDS	complement(1083982..1084599)	pncA; pyrazinamidase/nicotinamidase
+krh:KRH_09970	CDS	complement(1084614..1085951)	pncB; putative nicotinate phosphoribosyltransferase
+krh:KRH_09980	CDS	1086017..1086367	clpS; putative ATP-dependent Clp protease adaptor protein ClpS
+krh:KRH_09990	CDS	1086367..1086927	hypothetical protein
+krh:KRH_10000	CDS	1086996..1087889	murI; glutamate racemase
+krh:KRH_10010	CDS	1087915..1088754	hypothetical protein
+krh:KRH_10020	CDS	1088840..1089574	rph; ribonuclease PH
+krh:KRH_10030	CDS	1089564..1090241	nucleoside-triphosphatase
+krh:KRH_10040	CDS	1090245..1091105	hypothetical protein
+krh:KRH_10050	CDS	1091147..1091728	dnaQ; putative DNA polymerase III epsilon subunit
+krh:KRH_10060	CDS	complement(1091810..1092856)	hypothetical protein
+krh:KRH_10070	CDS	complement(1092929..1093708)	hypothetical protein
+krh:KRH_10080	CDS	complement(1094038..1094853)	hypothetical protein
+krh:KRH_10090	CDS	1095112..1096335	sbcD; nuclease SbcCD subunit D
+krh:KRH_10100	CDS	1096332..1099571	sbcC; nuclease SbcCD subunit C
+krh:KRH_10110	CDS	1099582..1100865	hypothetical membrane protein
+krh:KRH_10120	CDS	complement(1101175..1101858)	hypothetical protein
+krh:KRH_10130	CDS	complement(1101855..1102952)	mycothiol-dependent formaldehyde dehydrogenase
+krh:KRH_10140	CDS	complement(1103381..1104583)	hypothetical membrane protein
+krh:KRH_10150	CDS	complement(1104674..1105120)	putative MarR family transcriptional regulator
+krh:KRH_10160	CDS	complement(1105323..1106807)	mqo; putative malate--quinone oxidoreductase
+krh:KRH_10170	CDS	complement(1106918..1108525)	putative ABC transporter substrate-binding protein
+krh:KRH_t00190	tRNA	complement(1108589..1108673)	tRNA-Leu
+krh:KRH_10180	CDS	complement(1108785..1109258)	bcp; hydroperoxide peroxidase
+krh:KRH_10190	CDS	1109500..1110048	putative MarR family transcriptional regulator
+krh:KRH_t00200	tRNA	complement(1110317..1110392)	tRNA-Lys
+krh:KRH_10200	CDS	1110557..1111528	putative dehydrogenase
+krh:KRH_10210	CDS	1111797..1113674	ilvB; acetolactate synthase large subunit
+krh:KRH_10220	CDS	1113678..1114187	ilvN; acetolactate synthase small subunit
+krh:KRH_10230	CDS	1114303..1115328	ilvC; ketol-acid reductoisomerase
+krh:KRH_10240	CDS	1115557..1117110	metG; methionyl-tRNA synthetase
+krh:KRH_10250	CDS	1117457..1118536	leuB; 3-isopropylmalate dehydrogenase
+krh:KRH_10260	CDS	1118643..1119740	ilvE; branched-chain amino acid aminotransferase
+krh:KRH_10270	CDS	1119830..1120609	fumarylacetoacetate hydrolase family protein
+krh:KRH_10280	CDS	1120656..1122176	gltX; glutamyl-tRNA synthetase
+krh:KRH_t00210	tRNA	1122328..1122399	tRNA-Gln
+krh:KRH_t00220	tRNA	1122561..1122633	tRNA-Glu
+krh:KRH_10290	CDS	1122883..1124637	hypothetical protein
+krh:KRH_10300	CDS	1124634..1126298	hypothetical membrane protein
+krh:KRH_10310	CDS	complement(1126326..1127138)	putative IclR family transcriptional regulator
+krh:KRH_10320	CDS	1127290..1128726	leuC; 3-isopropylmalate dehydratase large subunit
+krh:KRH_10330	CDS	1128850..1129449	leuD; 3-isopropylmalate dehydratase small subunit
+krh:KRH_10340	CDS	1129547..1130866	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+krh:KRH_10350	CDS	1130982..1131788	putative acyltransferase
+krh:KRH_10360	CDS	1131785..1132855	gpsA; NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+krh:KRH_10370	CDS	1132852..1134003	ddl; D-alanine--D-alanine ligase
+krh:KRH_10380	CDS	complement(1134095..1134613)	hypothetical protein
+krh:KRH_10390	CDS	1134800..1135912	thiL; thiamine-monophosphate kinase
+krh:KRH_10400	CDS	1135902..1136849	hypothetical protein
+krh:KRH_10410	CDS	1136846..1139107	recG; ATP-dependent DNA helicase RecG
+krh:KRH_10420	CDS	1139104..1139736	hypothetical protein
+krh:KRH_10430	CDS	complement(1139933..1141111)	aminotransferase
+krh:KRH_10440	CDS	1141287..1141757	coaD; phosphopantetheine adenylyltransferase
+krh:KRH_10450	CDS	1141931..1142521	hypothetical protein
+krh:KRH_10460	CDS	1142524..1142727	rpmF; 50S ribosomal protein L32
+krh:KRH_10470	CDS	1142729..1143433	rnc; ribonuclease III
+krh:KRH_10480	CDS	1143441..1144370	mutM; formamidopyrimidine-DNA glycosylase/AP lyase
+krh:KRH_10490	CDS	1144530..1145240	hypothetical protein
+krh:KRH_10500	CDS	complement(1145342..1146559)	putative steroid dehydrogenase
+krh:KRH_10510	CDS	complement(1146736..1149465)	putative fatty-acid--CoA ligase
+krh:KRH_10520	CDS	complement(1149492..1150517)	putative 3-oxoacyl-[acyl-carrier-protein] synthase III
+krh:KRH_10530	CDS	1150779..1154423	smc; chromosome partition protein SMC
+krh:KRH_10540	CDS	complement(1154461..1155063)	hypothetical protein
+krh:KRH_10550	CDS	complement(1155140..1156468)	putative MFS transporter
+krh:KRH_10560	CDS	1156500..1157618	ftsY; signal recognition particle receptor
+krh:KRH_10570	CDS	1157851..1159200	amtB; ammonium transporter AmtB
+krh:KRH_10580	CDS	1159197..1159535	glnK; nitrogen regulatory protein PII
+krh:KRH_10590	CDS	1159721..1161286	ffh; signal recognition particle protein
+krh:KRH_10600	CDS	1161293..1161787	hypothetical protein
+krh:KRH_10610	CDS	1161784..1162653	hypothetical protein
+krh:KRH_10620	CDS	1162846..1163274	rpsP; 30S ribosomal protein S16
+krh:KRH_10630	CDS	1163271..1163519	hypothetical protein
+krh:KRH_10640	CDS	1163647..1164222	rimM; putative 16S rRNA processing protein RimM
+krh:KRH_10650	CDS	1164225..1165220	trmD; tRNA (guanine-N(1)-)-methyltransferase
+krh:KRH_10660	CDS	1165396..1165758	rplS; 50S ribosomal protein L19
+krh:KRH_10670	CDS	1165770..1166459	lepB; signal peptidase I
+krh:KRH_10680	CDS	1166535..1167311	lepB; signal peptidase I
+krh:KRH_10690	CDS	1167233..1168033	rnhB; ribonuclease HII
+krh:KRH_10700	CDS	1168361..1168795	hypothetical protein
+krh:KRH_10710	CDS	1169007..1170335	hypothetical protein
+krh:KRH_10720	CDS	1170686..1172245	hypothetical protein
+krh:KRH_10730	CDS	1172242..1173570	dprA; putative DNA processing protein
+krh:KRH_10740	CDS	1173542..1174678	xerC; tyrosine recombinase XerC
+krh:KRH_10750	CDS	1174885..1175388	hypothetical protein
+krh:KRH_10760	CDS	complement(1175802..1177073)	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II
+krh:KRH_10770	CDS	complement(1177184..1177429)	acpM; acyl carrier protein
+krh:KRH_10780	CDS	complement(1177579..1178646)	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III
+krh:KRH_10790	CDS	complement(1178709..1179620)	fabD; malonyl-CoA--acyl carrier protein transacylase
+krh:KRH_10800	CDS	complement(1179712..1180947)	putative CdaR family transcriptional regulator
+krh:KRH_10810	CDS	complement(1181052..1183790)	aceE; pyruvate dehydrogenase E1 component
+krh:KRH_10820	CDS	1184153..1184569	hypothetical protein
+krh:KRH_10830	CDS	1184608..1185069	putative peroxiredoxin
+krh:KRH_10840	CDS	1185071..1185976	NAD-dependent deacetylase
+krh:KRH_10850	CDS	complement(1186305..1187138)	ppgK; polyphosphate glucokinase
+krh:KRH_10860	CDS	complement(1187236..1188132)	map; methionine aminopeptidase
+krh:KRH_10870	CDS	1188226..1188492	hypothetical protein
+krh:KRH_10880	CDS	complement(1188643..1189482)	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+krh:KRH_10890	CDS	1189672..1191015	glnA; glutamine synthetase I
+krh:KRH_10900	CDS	1191023..1194094	glnE; glutamine-synthetase adenylyltransferase
+krh:KRH_10910	CDS	complement(1194234..1194866)	hypothetical protein
+krh:KRH_t00230	tRNA	complement(1195039..1195114)	tRNA-Arg
+krh:KRH_10920	CDS	1195347..1196051	ssb; single-stranded DNA-binding protein
+krh:KRH_10930	CDS	1196274..1197956	putative ABC transporter ATP-binding protein
+krh:KRH_10940	CDS	complement(1198438..1201287)	putative penicillin amidase
+krh:KRH_10950	CDS	complement(1201149..1203080)	putative siderophore biosynthesis protein
+krh:KRH_10960	CDS	complement(1203077..1205341)	putative siderophore biosynthesis protein
+krh:KRH_10970	CDS	complement(1205338..1206843)	ddc; putative L-2,4-diaminobutyrate decarboxylase
+krh:KRH_10980	CDS	1206973..1207743	hypothetical protein
+krh:KRH_10990	CDS	1207740..1209002	putative MFS transporter
+krh:KRH_11000	CDS	complement(1209265..1210155)	tesB; acyl-CoA thioesterase
+krh:KRH_11010	CDS	1210199..1210666	hypothetical protein
+krh:KRH_11020	CDS	1210663..1211373	hypothetical protein
+krh:KRH_11030	CDS	complement(1211463..1211873)	glbO; 2-on-2 hemoglobin
+krh:KRH_11040	CDS	complement(1212161..1214740)	pepN; aminopeptidase N
+krh:KRH_11050	CDS	1214998..1215510	rpiB; ribose-5-phosphate isomerase B
+krh:KRH_11060	CDS	1215526..1216446	putative DNA glycosylase
+krh:KRH_t00240	tRNA	complement(1216726..1216799)	tRNA-Gly
+krh:KRH_t00250	tRNA	1216987..1217059	tRNA-Pro
+krh:KRH_11070	CDS	1217162..1218508	tig; trigger factor
+krh:KRH_11080	CDS	1218736..1219389	clpP; ATP-dependent Clp protease proteolytic subunit
+krh:KRH_11090	CDS	1219439..1220101	clpP; ATP-dependent Clp protease proteolytic subunit
+krh:KRH_11100	CDS	1220251..1221546	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX
+krh:KRH_11110	CDS	1221577..1222179	hypothetical protein
+krh:KRH_11120	CDS	complement(1222353..1223384)	hypothetical protein
+krh:KRH_11130	CDS	complement(1223484..1224614)	hypothetical protein
+krh:KRH_11140	CDS	complement(1224667..1227252)	valS; valyl-tRNA synthetase
+krh:KRH_11150	CDS	1227662..1228462	putative oxidoreductase
+krh:KRH_11160	CDS	1228583..1229644	putative iron-siderophore ABC transporter substrate-binding protein
+krh:KRH_11170	CDS	1229650..1230744	putative iron-siderophore ABC transporter permease protein
+krh:KRH_11180	CDS	1230741..1231790	putative iron-siderophore ABC transporter permease protein
+krh:KRH_11190	CDS	1231895..1232833	putative iron-siderophore ABC transporter ATP-binding protein
+krh:KRH_11200	CDS	1232830..1233864	putative siderophore-interacting protein
+krh:KRH_11210	CDS	1233973..1235349	cysG; siroheme synthase CysG
+krh:KRH_11220	CDS	1235399..1235581	hypothetical protein
+krh:KRH_11230	CDS	1235722..1239033	ileS; isoleucyl-tRNA synthetase
+krh:KRH_11240	CDS	1239030..1240400	folC; folylpolyglutamate synthase
+krh:KRH_11250	CDS	1240446..1240889	hypothetical membrane protein
+krh:KRH_11260	CDS	1241005..1241418	ndk; nucleoside diphosphate kinase
+krh:KRH_11270	CDS	complement(1241495..1242079)	hypothetical membrane protein
+krh:KRH_11280	CDS	1242604..1246041	putative ribonuclease
+krh:KRH_11290	CDS	1246214..1247764	thiD; phosphomethylpyrimidine kinase
+krh:KRH_11300	CDS	1248011..1248322	rplU; 50S ribosomal protein L21
+krh:KRH_11310	CDS	1248364..1248618	rpmA; 50S ribosomal protein L27
+krh:KRH_11320	CDS	1248769..1250364	obg; GTP-binding protein Obg
+krh:KRH_11330	CDS	1250409..1251623	proB; glutamate 5-kinase
+krh:KRH_11340	CDS	1251719..1253026	proA; gamma-glutamyl phosphate reductase
+krh:KRH_11350	CDS	1253108..1253365	hypothetical protein
+krh:KRH_11360	CDS	1253383..1254141	nadD; nicotinate-nucleotide adenylyltransferase
+krh:KRH_11370	CDS	1254138..1255019	hypothetical protein
+krh:KRH_11380	CDS	1255049..1255468	hypothetical protein
+krh:KRH_t00260	tRNA	1255631..1255706	tRNA-Ala
+krh:KRH_11390	CDS	complement(1255766..1256440)	hypothetical membrane protein
+krh:KRH_11400	CDS	1256573..1256755	hypothetical protein
+krh:KRH_11410	CDS	1256801..1257013	hypothetical protein
+krh:KRH_11420	CDS	complement(1257125..1258012)	hypothetical membrane protein
+krh:KRH_11430	CDS	1258137..1258316	hypothetical protein
+krh:KRH_11440	CDS	1258313..1259272	hypothetical protein
+krh:KRH_11450	CDS	1259712..1263860	putative non-ribosomal peptide synthetase
+krh:KRH_11460	CDS	1263947..1265281	hypothetical membrane protein
+krh:KRH_11470	CDS	complement(1265457..1266233)	putative phosphopantetheinyl transferase
+krh:KRH_11480	CDS	complement(1266230..1266988)	putative type II thioesterase
+krh:KRH_11490	CDS	1267860..1268363	putative aminoacyl-tRNA deacylase
+krh:KRH_11500	CDS	1268509..1269390	hypothetical membrane protein
+krh:KRH_11510	CDS	1269594..1270745	hypothetical protein
+krh:KRH_11520	CDS	1270749..1272044	putative peroxidase
+krh:KRH_11530	CDS	1272280..1273056	putative MFS transporter
+krh:KRH_11540	CDS	1273071..1273613	putative MFS transporter
+krh:KRH_11550	CDS	1274150..1274614	hypothetical protein
+krh:KRH_11560	CDS	1274700..1278407	dnaE2; error-prone DNA polymerase
+krh:KRH_11570	CDS	1278483..1279553	hypothetical protein
+krh:KRH_11580	CDS	1279915..1280151	nrdH; NrdH-redoxin
+krh:KRH_11590	CDS	1280607..1281014	nrdI; NrdI protein
+krh:KRH_11600	CDS	1281011..1283170	nrdE; ribonucleoside-diphosphate reductase alpha subunit
+krh:KRH_11610	CDS	1283341..1284294	ornithine cyclodeaminase/mu-crystallin family protein
+krh:KRH_11620	CDS	1284403..1284693	hypothetical protein
+krh:KRH_t00270	tRNA	complement(1284937..1285011)	tRNA-Val
+krh:KRH_t00280	tRNA	complement(1285048..1285118)	tRNA-Cys
+krh:KRH_t00290	tRNA	complement(1285177..1285249)	tRNA-Gly
+krh:KRH_t00300	tRNA	1285537..1285608	tRNA-Val
+krh:KRH_11630	CDS	1285934..1286851	hypothetical protein
+krh:KRH_11640	CDS	1286900..1287649	def; peptide deformylase
+krh:KRH_11650	CDS	1287646..1288584	fmt; methionyl-tRNA formyltransferase
+krh:KRH_11660	CDS	1288581..1290242	putative rRNA methyltransferase
+krh:KRH_11670	CDS	1290302..1290967	rpe; ribulose-5-phosphate 3-epimerase
+krh:KRH_11680	CDS	1291334..1292056	putative PnuC family transporter
+krh:KRH_11690	CDS	1292221..1293525	ribG; diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase
+krh:KRH_11700	CDS	1293686..1295107	riboflavin synthase alpha chain/3,4-dihydroxy-2-butanone 4-phosphate synthase
+krh:KRH_11710	CDS	1295104..1295820	GTP cyclohydrolase II
+krh:KRH_11720	CDS	1295817..1296287	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+krh:KRH_11730	CDS	1296351..1296614	hisE; phosphoribosyl-ATP pyrophosphatase
+krh:KRH_11740	CDS	1296689..1297534	hisG; ATP phosphoribosyltransferase
+krh:KRH_11750	CDS	1297610..1298374	hisF; imidazole glycerol phosphate synthase subunit HisF
+krh:KRH_11760	CDS	1298374..1298754	hisI; phosphoribosyl-AMP cyclohydrolase
+krh:KRH_11770	CDS	1298756..1300306	trpE; anthranilate synthase component I
+krh:KRH_11780	CDS	1300341..1301072	hypothetical membrane protein
+krh:KRH_11790	CDS	1301201..1301446	hypothetical membrane protein
+krh:KRH_11800	CDS	1301593..1303752	trpC_trpB; indole-3-glycerol-phosphate synthase/tryptophan synthase beta chain
+krh:KRH_11810	CDS	1303749..1304606	trpA; tryptophan synthase alpha chain
+krh:KRH_11820	CDS	1304603..1305481	lgt; prolipoprotein diacylglyceryl transferase
+krh:KRH_11830	CDS	1305811..1310490	gltB; glutamate synthase large subunit
+krh:KRH_11840	CDS	1310483..1311946	gltD; glutamate synthase small subunit
+krh:KRH_11850	CDS	1312158..1313663	pyk; pyruvate kinase
+krh:KRH_t00310	tRNA	complement(1313867..1313951)	tRNA-Leu
+krh:KRH_11860	CDS	1314180..1314872	putative two-component response regulator
+krh:KRH_11870	CDS	1314918..1317800	polA; DNA polymerase I
+krh:KRH_11880	CDS	1317936..1319333	hypothetical protein
+krh:KRH_11890	CDS	1319493..1320974	rpsA; 30S ribosomal protein S1
+krh:KRH_11900	CDS	complement(1321128..1321796)	hypothetical protein
+krh:KRH_11910	CDS	1321923..1324421	BCCT family transporter
+krh:KRH_11920	CDS	1324423..1325013	coaE; dephospho-CoA kinase
+krh:KRH_11930	CDS	1325227..1327362	uvrB; UvrABC system protein B
+krh:KRH_11940	CDS	1327470..1328684	TerC family integral membrane protein
+krh:KRH_11950	CDS	1328955..1330262	TerC family integral membrane protein
+krh:KRH_11960	CDS	complement(1330476..1330976)	hypothetical membrane protein
+krh:KRH_11970	CDS	complement(1330973..1331710)	hypothetical protein
+krh:KRH_11980	CDS	complement(1331786..1334398)	putative helicase
+krh:KRH_11990	CDS	complement(1334539..1335531)	hypothetical membrane protein
+krh:KRH_12000	CDS	complement(1335528..1336277)	hypothetical protein
+krh:KRH_12010	CDS	1336401..1336925	putative MarR family transcriptional regulator
+krh:KRH_12020	CDS	1337043..1338923	drug resistance efflux protein
+krh:KRH_12030	CDS	1339057..1342062	uvrA; UvrABC system protein A
+krh:KRH_12040	CDS	1342059..1342748	putative phosphatase
+krh:KRH_12050	CDS	1342761..1343456	putative acyltransferase
+krh:KRH_12060	CDS	1343449..1345518	uvrC; UvrABC system protein C
+krh:KRH_12070	CDS	1345577..1346491	hypothetical protein
+krh:KRH_12080	CDS	1346519..1347592	hypothetical protein
+krh:KRH_12090	CDS	1347642..1348634	WhiA-like protein
+krh:KRH_12100	CDS	1348870..1349877	gap; glyceraldehyde-3-phosphate dehydrogenase
+krh:KRH_12110	CDS	1349955..1351187	pgk; phosphoglycerate kinase
+krh:KRH_12120	CDS	1351224..1352039	tpiA; triose-phosphate isomerase
+krh:KRH_12130	CDS	1352204..1352497	secG; protein-export membrane protein SecG
+krh:KRH_12140	CDS	complement(1352664..1353452)	pgl; 6-phosphogluconolactonase
+krh:KRH_12150	CDS	complement(1353449..1354483)	opcA; putative OxPP cycle protein OpcA
+krh:KRH_12160	CDS	complement(1354492..1356024)	zwf; glucose-6-phosphate 1-dehydrogenase
+krh:KRH_12170	CDS	complement(1356067..1357671)	pgi; putative glucose-6-phosphate isomerase
+krh:KRH_12180	CDS	complement(1357810..1358916)	tal; transaldolase
+krh:KRH_12190	CDS	complement(1359004..1361115)	tkt; transketolase
+krh:KRH_12200	CDS	1361525..1362439	putative protoheme IX farnesyltransferase
+krh:KRH_12210	CDS	1362522..1363439	putative dihydrodipicolinate synthase
+krh:KRH_12220	CDS	complement(1363489..1364517)	hypothetical membrane protein
+krh:KRH_12230	CDS	complement(1364612..1365406)	putative ABC transporter permease protein
+krh:KRH_12240	CDS	complement(1365403..1366395)	putative ABC transporter ATP-binding protein
+krh:KRH_12250	CDS	1366611..1367375	putative SufR family transcriptional regulator
+krh:KRH_12260	CDS	1367372..1368847	sufB; putative iron-sulfur cluster assembly protein SufB
+krh:KRH_12270	CDS	1368945..1370150	sufD; putative iron-sulfur cluster assembly protein SufD
+krh:KRH_12280	CDS	1370239..1371003	sufC; putative iron-sulfur cluster assembly protein SufC
+krh:KRH_12290	CDS	1371037..1371396	hypothetical protein
+krh:KRH_12300	CDS	1371666..1372907	lldD; putative L-lactate dehydrogenase
+krh:KRH_12310	CDS	complement(1372935..1373840)	hypothetical protein
+krh:KRH_12320	CDS	complement(1373981..1374724)	putative ABC transporter permease protein
+krh:KRH_12330	CDS	complement(1374721..1375482)	putative ABC transporter ATP-binding protein
+krh:KRH_12340	CDS	complement(1375483..1376115)	BioY family protein
+krh:KRH_12350	CDS	1376513..1378111	putative ABC transporter ATP-binding protein
+krh:KRH_12360	CDS	complement(1378172..1379281)	adh; alcohol dehydrogenase
+krh:KRH_12370	CDS	complement(1379337..1380314)	hypothetical protein
+krh:KRH_12380	CDS	complement(1380311..1380757)	hypothetical protein
+krh:KRH_12390	CDS	complement(1380798..1381280)	hypothetical membrane protein
+krh:KRH_12400	CDS	1381435..1382160	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+krh:KRH_12410	CDS	1382175..1382957	putative oxidoreductase
+krh:KRH_t00320	tRNA	1383144..1383229	tRNA-Leu
+krh:KRH_12420	CDS	complement(1383306..1384034)	hypothetical protein
+krh:KRH_12430	CDS	1384495..1386684	hypothetical membrane protein
+krh:KRH_12440	CDS	1386799..1387764	serB; phosphoserine phosphatase
+krh:KRH_12450	CDS	1387843..1388625	putative ABC transporter ATP-binding protein
+krh:KRH_12460	CDS	1388635..1389555	hypothetical membrane protein
+krh:KRH_12470	CDS	1389707..1390534	RNA methyltransferase
+krh:KRH_12480	CDS	complement(1390725..1392638)	subtilisin family peptidase
+krh:KRH_12490	CDS	complement(1393046..1393303)	rpmE2; 50S ribosomal protein L31 type B
+krh:KRH_12500	CDS	1393565..1394629	putative lipoate-protein ligase
+krh:KRH_12510	CDS	1394668..1395792	putative LytR family regulatory protein
+krh:KRH_12520	CDS	1395964..1397277	hypothetical protein
+krh:KRH_12530	CDS	1397274..1399064	putative glycosyltransferase
+krh:KRH_12540	CDS	1398943..1399119	hypothetical protein
+krh:KRH_12550	CDS	1399227..1400048	putative ABC transporter permease protein
+krh:KRH_12560	CDS	1400197..1401042	putative ABC transporter ATP-binding protein
+krh:KRH_12570	CDS	1401039..1402955	hypothetical protein
+krh:KRH_12580	CDS	1403038..1404285	UDP-N-acetyl-D-mannosamine dehydrogenase
+krh:KRH_12590	CDS	1404645..1404929	hypothetical protein
+krh:KRH_12600	CDS	1404926..1407592	putative glycosyltransferase
+krh:KRH_12610	CDS	complement(1407667..1409043)	hypothetical protein
+krh:KRH_12620	CDS	complement(1409126..1411129)	hypothetical protein
+krh:KRH_12630	CDS	complement(1411549..1412979)	hypothetical protein
+krh:KRH_12640	CDS	complement(1412972..1415443)	hypothetical protein
+krh:KRH_12650	CDS	complement(1415538..1417544)	hypothetical protein
+krh:KRH_12660	CDS	complement(1417628..1418977)	udg; UDP-glucose 6-dehydrogenase
+krh:KRH_12670	CDS	complement(1419007..1420164)	UDP-N-acetylglucosamine 2-epimerase
+krh:KRH_12680	CDS	1420494..1421261	hypothetical protein
+krh:KRH_12690	CDS	complement(1421327..1423024)	hypothetical protein
+krh:KRH_12700	CDS	complement(1423042..1424283)	hypothetical membrane protein
+krh:KRH_12710	CDS	complement(1424398..1427016)	pepN; aminopeptidase N
+krh:KRH_12720	CDS	complement(1427317..1428561)	glgC; glucose-1-phosphate adenylyltransferase
+krh:KRH_12730	CDS	1428902..1430095	putative glycosyltransferase
+krh:KRH_12740	CDS	complement(1430276..1430929)	putative TetR family transcriptional regulator
+krh:KRH_12750	CDS	1431012..1432139	hypothetical membrane protein
+krh:KRH_12760	CDS	1432787..1433155	hypothetical protein
+krh:KRH_12770	CDS	1433361..1433738	hypothetical protein
+krh:KRH_12780	CDS	1433830..1434126	hypothetical protein
+krh:KRH_12790	CDS	complement(1434415..1435470)	trpD; anthranilate phosphoribosyltransferase
+krh:KRH_12800	CDS	1435649..1436287	ctaE; cytochrome c oxidase subunit III
+krh:KRH_12810	CDS	1436346..1437137	qcrC; menaquinol-cytochrome c reductase cytochrome c subunit
+krh:KRH_12820	CDS	1437196..1438302	qcrA; menaquinol-cytochrome c reductase iron-sulfur protein
+krh:KRH_12830	CDS	1438302..1439969	qcrB; menaquinol-cytochrome c reductase cytochrome b subunit
+krh:KRH_12840	CDS	complement(1441320..1441724)	ctaF; putative cytochrome c oxidase subunit IV
+krh:KRH_12850	CDS	complement(1441721..1443442)	ctaD; cytochrome c oxidase subunit I
+krh:KRH_12860	CDS	complement(1443453..1444259)	ctaC; cytochrome c oxidase subunit II
+krh:KRH_12870	CDS	complement(1444588..1444956)	iscA; putative iron-sulfur cluster assembly protein IscA
+krh:KRH_12880	CDS	complement(1445043..1446455)	peptidase M20A family protein
+krh:KRH_12890	CDS	1446536..1447138	hypothetical membrane protein
+krh:KRH_12900	CDS	complement(1447312..1448403)	pyrD; dihydroorotate dehydrogenase
+krh:KRH_12910	CDS	complement(1448581..1449372)	uppS; undecaprenyl pyrophosphate synthase
+krh:KRH_12920	CDS	complement(1449454..1450212)	recO; DNA repair protein RecO
+krh:KRH_12930	CDS	complement(1450506..1452260)	leuA; 2-isopropylmalate synthase
+krh:KRH_12940	CDS	complement(1452431..1454032)	putative LytR family regulatory protein
+krh:KRH_12950	CDS	complement(1454102..1455148)	era; GTP-binding protein Era
+krh:KRH_12960	CDS	complement(1455201..1455707)	hypothetical protein
+krh:KRH_12970	CDS	complement(1455704..1456813)	PhoH-like protein
+krh:KRH_12980	CDS	1456856..1458052	hypothetical protein
+krh:KRH_12990	CDS	complement(1458351..1459112)	hypothetical protein
+krh:KRH_13000	CDS	complement(1459109..1460251)	dnaJ; chaperone protein DnaJ
+krh:KRH_13010	CDS	complement(1460318..1461331)	hrcA; heat-inducible transcriptional repressor HrcA
+krh:KRH_13020	CDS	1461506..1462384	hypothetical protein
+krh:KRH_13030	CDS	1462554..1462928	hypothetical membrane protein
+krh:KRH_13040	CDS	complement(1463016..1464260)	hemN; putative oxygen-independent coproporphyrinogen III oxidase
+krh:KRH_13050	CDS	complement(1464260..1466116)	lepA; elongation factor LepA
+krh:KRH_13060	CDS	1466201..1466797	hypothetical protein
+krh:KRH_13070	CDS	1467094..1467354	rpsT; 30S ribosomal protein S20
+krh:KRH_13080	CDS	complement(1467371..1467556)	hypothetical protein
+krh:KRH_13090	CDS	complement(1467614..1468627)	holA; DNA polymerase III delta subunit
+krh:KRH_13100	CDS	complement(1468978..1470075)	NADH-dependent flavin oxidoreductase
+krh:KRH_13110	CDS	complement(1470227..1472968)	putative ComEC/Rec2-related protein
+krh:KRH_13120	CDS	complement(1472965..1473984)	putative DNA-binding protein
+krh:KRH_13130	CDS	1474684..1474839	hypothetical protein
+krh:KRH_13140	CDS	complement(1475248..1477740)	hypothetical protein
+krh:KRH_13150	CDS	complement(1477774..1478781)	putative transposase
+krh:KRH_13160	CDS	complement(1479119..1480339)	hypothetical protein
+krh:KRH_13170	CDS	complement(1480339..1482849)	leuS; leucyl-tRNA synthetase
+krh:KRH_13180	CDS	1483032..1484087	putative hydrolase
+krh:KRH_13190	CDS	1484084..1485187	putative glycosyltransferase
+krh:KRH_13200	CDS	complement(1485650..1486531)	putative ABC transporter permease protein
+krh:KRH_13210	CDS	complement(1486528..1487706)	putative ABC transporter substrate-binding protein
+krh:KRH_13220	CDS	complement(1487703..1488407)	putative ABC transporter ATP-binding protein
+krh:KRH_13230	CDS	complement(1488470..1489555)	hypothetical protein
+krh:KRH_13240	CDS	complement(1489643..1490182)	hypothetical protein
+krh:KRH_13250	CDS	complement(1490436..1492841)	priA; putative primosomal protein n'
+krh:KRH_13260	CDS	complement(1492838..1494043)	metK; S-adenosylmethionine synthetase
+krh:KRH_13270	CDS	complement(1494053..1495471)	coaBC; putative phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase
+krh:KRH_13280	CDS	complement(1495468..1495938)	rpoZ; DNA-directed RNA polymerase omega subunit
+krh:KRH_13290	CDS	complement(1496012..1496638)	gmk; guanylate kinase
+krh:KRH_13300	CDS	complement(1496674..1496988)	hypothetical protein
+krh:KRH_13310	CDS	complement(1497158..1498069)	pyrF; orotidine 5'-phosphate decarboxylase
+krh:KRH_13320	CDS	complement(1498206..1501526)	carB; carbamoyl-phosphate synthase large chain
+krh:KRH_13330	CDS	complement(1501526..1502710)	carA; carbamoyl-phosphate synthase small chain
+krh:KRH_13340	CDS	complement(1502776..1503279)	hypothetical protein
+krh:KRH_13350	CDS	complement(1503304..1504614)	pyrC; dihydroorotase
+krh:KRH_13360	CDS	complement(1504622..1505611)	pyrB; aspartate carbamoyltransferase
+krh:KRH_13370	CDS	complement(1505602..1506285)	pyrR; bifunctional protein PyrR
+krh:KRH_13380	CDS	complement(1506400..1506816)	nusB; transcription antitermination protein NusB
+krh:KRH_13390	CDS	complement(1506813..1507376)	efp; elongation factor P
+krh:KRH_13400	CDS	complement(1507497..1508582)	aroB; 3-dehydroquinate synthase
+krh:KRH_13410	CDS	complement(1508579..1509136)	aroK; shikimate kinase
+krh:KRH_13420	CDS	complement(1509133..1510383)	aroC; chorismate synthase
+krh:KRH_13430	CDS	complement(1510523..1511449)	aroE; shikimate dehydrogenase
+krh:KRH_13440	CDS	complement(1511451..1512662)	hypothetical protein
+krh:KRH_13450	CDS	complement(1512743..1513240)	putative Holliday junction resolvase
+krh:KRH_13460	CDS	complement(1513240..1515927)	alaS; alanyl-tRNA synthetase
+krh:KRH_13470	CDS	complement(1515927..1516379)	hypothetical protein
+krh:KRH_13480	CDS	complement(1516382..1516864)	hypothetical protein
+krh:KRH_13490	CDS	complement(1517114..1517752)	rpsD; 30S ribosomal protein S4
+krh:KRH_13500	CDS	complement(1517976..1519496)	glpK; glycerol kinase
+krh:KRH_13510	CDS	complement(1519543..1520292)	glpF; glycerol uptake facilitator protein
+krh:KRH_13520	CDS	complement(1520350..1522080)	glpD; glycerol-3-phosphate dehydrogenase
+krh:KRH_13530	CDS	complement(1522210..1523880)	hypothetical protein
+krh:KRH_13540	CDS	complement(1523951..1524403)	dtd; D-tyrosyl-tRNA(Tyr) deacylase
+krh:KRH_13550	CDS	complement(1524527..1525753)	putative MFS transporter
+krh:KRH_13560	CDS	complement(1525792..1527606)	aspS; aspartyl-tRNA synthetase
+krh:KRH_13570	CDS	complement(1527790..1529148)	hisS; histidyl-tRNA synthetase
+krh:KRH_13580	CDS	1529694..1530944	hypothetical protein
+krh:KRH_13590	CDS	1531379..1532011	hypothetical protein
+krh:KRH_13600	CDS	complement(1532037..1534625)	relA; GTP pyrophosphokinase/guanosine-3',5'-bis (diphosphate) 3-pyrophosphohydrolase
+krh:KRH_13610	CDS	complement(1534870..1535904)	secF; protein-export membrane protein SecF
+krh:KRH_13620	CDS	complement(1535901..1537859)	secD; protein-export membrane protein SecD
+krh:KRH_13630	CDS	complement(1537955..1538416)	yajC; putative protein-export membrane protein YajC
+krh:KRH_13640	CDS	complement(1538582..1539682)	ruvB; Holliday junction DNA helicase RuvB
+krh:KRH_13650	CDS	complement(1539685..1540326)	ruvA; Holliday junction DNA helicase RuvA
+krh:KRH_13660	CDS	complement(1540592..1541260)	ruvC; Holliday junction endonuclease RuvC
+krh:KRH_13670	CDS	complement(1541265..1542026)	hypothetical protein
+krh:KRH_13680	CDS	complement(1542377..1543108)	hypothetical protein
+krh:KRH_13690	CDS	complement(1543118..1544431)	hypothetical protein
+krh:KRH_13700	CDS	complement(1544478..1545053)	HIT family protein
+krh:KRH_13710	CDS	complement(1545050..1547206)	thrS; threonyl-tRNA synthetase
+krh:KRH_13720	CDS	complement(1547472..1548392)	hypothetical protein
+krh:KRH_13730	CDS	1548718..1549212	hypothetical membrane protein
+krh:KRH_13740	CDS	1549383..1550588	hypothetical protein
+krh:KRH_13750	CDS	1550682..1551017	hypothetical protein
+krh:KRH_13760	CDS	complement(1551139..1551945)	putative polyprenol-phosphate mannosyltransferase
+krh:KRH_13770	CDS	complement(1552068..1553243)	hypothetical protein
+krh:KRH_13780	CDS	complement(1553293..1556118)	putative helicase
+krh:KRH_13790	CDS	complement(1556280..1557092)	tatC; Sec-independent protein translocase protein TatC
+krh:KRH_13800	CDS	complement(1557308..1557736)	tatA; putative Sec-independent protein translocase protein TatA
+krh:KRH_13810	CDS	complement(1557717..1558100)	hypothetical protein
+krh:KRH_13820	CDS	complement(1558126..1560333)	PafBC-homolog
+krh:KRH_13830	CDS	complement(1560334..1560729)	FKBP-type peptidyl-prolyl cis-trans isomerase
+krh:KRH_13840	CDS	complement(1560794..1561663)	FKBP-type peptidyl-prolyl cis-trans isomerase
+krh:KRH_13850	CDS	complement(1561905..1563314)	PafA-homolog
+krh:KRH_13860	CDS	complement(1563319..1563525)	putative Pup-homolog
+krh:KRH_13870	CDS	complement(1563660..1565387)	putative PafA-homolog
+krh:KRH_13880	CDS	complement(1565384..1567102)	putative ATPase
+krh:KRH_13890	CDS	complement(1567095..1568348)	hypothetical protein
+krh:KRH_13900	CDS	complement(1568582..1569817)	peptidase M50B family protein
+krh:KRH_13910	CDS	1569902..1570798	hypothetical protein
+krh:KRH_13920	CDS	complement(1571049..1572365)	mshC; cysteine--1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC
+krh:KRH_13930	CDS	complement(1572485..1573318)	uppP; undecaprenyl-diphosphatase
+krh:KRH_13940	CDS	complement(1573439..1573801)	hypothetical protein
+krh:KRH_13950	CDS	1573832..1574086	hypothetical protein
+krh:KRH_13960	CDS	complement(1574206..1575432)	putative acyl-CoA dehydrogenase
+krh:KRH_13970	CDS	complement(1575612..1576931)	putative hydrolase
+krh:KRH_13980	CDS	1577032..1577535	putative acetyltransferase
+krh:KRH_13990	CDS	complement(1577543..1577989)	hypothetical protein
+krh:KRH_14000	CDS	complement(1578085..1578897)	hypothetical protein
+krh:KRH_14010	CDS	complement(1578924..1579652)	hypothetical protein
+krh:KRH_14020	CDS	complement(1579803..1580237)	hypothetical protein
+krh:KRH_14030	CDS	complement(1580561..1581541)	nrdF; ribonucleoside-diphosphate reductase beta subunit
+krh:KRH_14040	CDS	1582031..1582213	hypothetical protein
+krh:KRH_14050	CDS	complement(1582308..1583450)	hypothetical protein
+krh:KRH_14060	CDS	1583631..1584539	putative thiosulfate sulfurtransferase
+krh:KRH_14070	CDS	1584536..1584985	SufE family protein
+krh:KRH_14080	CDS	complement(1585084..1586328)	hypothetical protein
+krh:KRH_14090	CDS	1586422..1586877	msrB; peptide methionine sulfoxide reductase MsrB
+krh:KRH_14100	CDS	1586984..1587586	hypothetical protein
+krh:KRH_14110	CDS	1587719..1588981	rnd; putative ribonuclease D
+krh:KRH_14120	CDS	complement(1589302..1589721)	hypothetical protein
+krh:KRH_14130	CDS	1590015..1590398	putative iron-sulfur protein
+krh:KRH_14140	CDS	complement(1590417..1592420)	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+krh:KRH_14150	CDS	complement(1592623..1595430)	acn; aconitase
+krh:KRH_14160	CDS	complement(1595598..1597034)	putative methyltransferase
+krh:KRH_14170	CDS	complement(1597031..1599004)	hypothetical membrane protein
+krh:KRH_14180	CDS	1599065..1599784	trkA; Trk system potassium uptake protein TrkA
+krh:KRH_14190	CDS	1599784..1600542	trkA; Trk system potassium uptake protein TrkA
+krh:KRH_14200	CDS	complement(1600448..1601155)	hypothetical membrane protein
+krh:KRH_14210	CDS	complement(1601152..1601520)	hypothetical protein
+krh:KRH_14220	CDS	complement(1601523..1602314)	hypothetical protein
+krh:KRH_14230	CDS	complement(1602468..1602929)	dut; deoxyuridine 5'-triphosphate nucleotidohydrolase
+krh:KRH_14240	CDS	1603351..1603821	hypothetical protein
+krh:KRH_14250	CDS	complement(1603722..1604147)	hypothetical protein
+krh:KRH_14260	CDS	1604467..1606002	hypothetical protein
+krh:KRH_14270	CDS	1606135..1606740	hypothetical protein
+krh:KRH_14280	CDS	complement(1606777..1607925)	hypothetical protein
+krh:KRH_14290	CDS	complement(1607922..1608641)	hypothetical protein
+krh:KRH_14300	CDS	complement(1608697..1610304)	putative protein kinase
+krh:KRH_14310	CDS	complement(1610317..1613007)	putative acetate--CoA ligase
+krh:KRH_14320	CDS	1613078..1615633	gyrA; DNA gyrase subunit A
+krh:KRH_14330	CDS	complement(1615951..1618059)	gyrB; DNA gyrase subunit B
+krh:KRH_14340	CDS	1618238..1618486	hypothetical protein
+krh:KRH_14350	CDS	complement(1618593..1619288)	menH; menaquinone biosynthesis methyltransferase MenH
+krh:KRH_14360	CDS	complement(1619321..1621039)	sigA; RNA polymerase sigma factor SigA
+krh:KRH_14370	CDS	complement(1621263..1622708)	hypothetical protein
+krh:KRH_14380	CDS	complement(1622990..1624285)	putative MFS transporter
+krh:KRH_14390	CDS	complement(1624345..1625274)	hypothetical protein
+krh:KRH_14400	CDS	1625493..1627013	pepA; aminopeptidase A
+krh:KRH_14410	CDS	1627187..1628554	lpd; dihydrolipoamide dehydrogenase
+krh:KRH_14420	CDS	1628674..1630899	dihydrolipoamide acyltransferase
+krh:KRH_14430	CDS	1631064..1631414	hypothetical membrane protein
+krh:KRH_14440	CDS	complement(1631510..1633450)	hypothetical protein
+krh:KRH_14450	CDS	1633759..1634481	lipB; lipoate-protein ligase B
+krh:KRH_14460	CDS	1634572..1635579	lipA; lipoyl synthase
+krh:KRH_14470	CDS	1635779..1636528	hypothetical membrane protein
+krh:KRH_14480	CDS	complement(1636711..1637157)	hypothetical membrane protein
+krh:KRH_14490	CDS	1637381..1638805	glnA; glutamine synthetase I
+krh:KRH_14500	CDS	complement(1638981..1640558)	hypothetical membrane protein
+krh:KRH_14510	CDS	1640755..1641354	orn; oligoribonuclease
+krh:KRH_t00330	tRNA	1641508..1641583	tRNA-His
+krh:KRH_14520	CDS	complement(1641773..1642957)	putative glutathione-dependent formaldehyde dehydrogenase
+krh:KRH_14530	CDS	complement(1643046..1643954)	putative oxidoreductase
+krh:KRH_14540	CDS	complement(1644068..1644721)	putative two-component response regulator
+krh:KRH_14550	CDS	complement(1644743..1645588)	hypothetical protein
+krh:KRH_14560	CDS	complement(1645585..1646766)	hypothetical protein
+krh:KRH_14570	CDS	complement(1646763..1647824)	putative glycosyltransferase
+krh:KRH_14580	CDS	complement(1647821..1648900)	hypothetical protein
+krh:KRH_14590	CDS	1649145..1649714	def; peptide deformylase
+krh:KRH_14600	CDS	complement(1649826..1650602)	hypothetical protein
+krh:KRH_rnpRNA01	ncRNA	complement(1650679..1650993)	ribonuclease P RNA component
+krh:KRH_14610	CDS	complement(1651164..1651892)	hypothetical protein
+krh:KRH_14620	CDS	complement(1652088..1652969)	hypothetical protein
+krh:KRH_14630	CDS	1653020..1653580	msrA; peptide methionine sulfoxide reductase MsrA
+krh:KRH_14640	CDS	1653680..1654615	cysK; cysteine synthase
+krh:KRH_14650	CDS	1654800..1655384	cysE; serine acetyltransferase
+krh:KRH_14660	CDS	complement(1655607..1657064)	gnd; 6-phosphogluconate dehydrogenase
+krh:KRH_t00340	tRNA	1657440..1657515	tRNA-Val
+krh:KRH_14670	CDS	1657860..1658417	hypothetical membrane protein
+krh:KRH_14680	CDS	complement(1658488..1659177)	hypothetical protein
+krh:KRH_14690	CDS	complement(1659209..1660105)	hypothetical protein
+krh:KRH_14700	CDS	complement(1660109..1661632)	hisD; histidinol dehydrogenase
+krh:KRH_14710	CDS	complement(1661896..1665450)	dnaE; DNA polymerase III alpha subunit
+krh:KRH_14720	CDS	complement(1665507..1666484)	rluD; pseudouridine synthase RluD
+krh:KRH_14730	CDS	complement(1666474..1667004)	lspA; signal peptidase II
+krh:KRH_14740	CDS	complement(1667009..1667755)	hypothetical protein
+krh:KRH_14750	CDS	complement(1667882..1668178)	hypothetical protein
+krh:KRH_14760	CDS	complement(1668182..1668703)	hypothetical protein
+krh:KRH_14770	CDS	complement(1668769..1669662)	hypothetical protein
+krh:KRH_14780	CDS	complement(1669659..1670384)	hypothetical protein
+krh:KRH_14790	CDS	complement(1670561..1671811)	ftsZ; cell division protein FtsZ
+krh:KRH_14800	CDS	complement(1672049..1673185)	ftsQ; putative cell division protein FtsQ
+krh:KRH_14810	CDS	complement(1673185..1674591)	murC; UDP-N-acetylmuramate--L-alanine ligase
+krh:KRH_14820	CDS	complement(1674620..1675753)	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+krh:KRH_14830	CDS	complement(1675750..1677111)	ftsW; cell division protein FtsW
+krh:KRH_14840	CDS	complement(1677111..1678652)	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+krh:KRH_14850	CDS	complement(1678731..1679864)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+krh:KRH_14860	CDS	complement(1679870..1681348)	murF; UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+krh:KRH_14870	CDS	complement(1681345..1682985)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+krh:KRH_14880	CDS	complement(1683107..1684960)	ftsI; peptidoglycan synthase FtsI precursor
+krh:KRH_14890	CDS	complement(1685046..1685657)	hypothetical protein
+krh:KRH_14900	CDS	complement(1685654..1686637)	mraW; methyltransferase MraW
+krh:KRH_14910	CDS	complement(1687084..1687515)	mraZ; MraZ protein
+krh:KRH_14920	CDS	complement(1687776..1688171)	hypothetical membrane protein
+krh:KRH_14930	CDS	complement(1688222..1689460)	dinB; DNA polymerase IV
+krh:KRH_14940	CDS	1689691..1690803	polyprenyl synthase
+krh:KRH_14950	CDS	complement(1690924..1691316)	hypothetical protein
+krh:KRH_14960	CDS	1691464..1692585	putative lysozyme
+krh:KRH_14970	CDS	1692590..1694446	serine/threonine protein kinase
+krh:KRH_14980	CDS	complement(1694532..1695926)	3-deoxy-D-arabino-heptulosonate 7-phosphate synthase
+krh:KRH_14990	CDS	complement(1695936..1696790)	putative acyltransferase
+krh:KRH_15000	CDS	1696920..1697711	putative esterase
+krh:KRH_15010	CDS	1697708..1698121	hypothetical membrane protein
+krh:KRH_15020	CDS	1698307..1700115	putative fatty-acid--CoA ligase
+krh:KRH_15030	CDS	complement(1700174..1701598)	mtr; mycothione reductase
+krh:KRH_15040	CDS	complement(1701713..1705162)	pyc; pyruvate carboxylase
+krh:KRH_15050	CDS	1705370..1706206	putative chromosome partitioning protein
+krh:KRH_15060	CDS	complement(1706418..1707035)	putative MerR family transcriptional regulator
+krh:KRH_15070	CDS	complement(1707180..1707692)	hypothetical protein
+krh:KRH_15080	CDS	complement(1707689..1708597)	putative MerR family transcriptional regulator
+krh:KRH_15090	CDS	complement(1708606..1709049)	hypothetical protein
+krh:KRH_15100	CDS	complement(1709083..1709469)	gcvH; glycine cleavage system H-protein
+krh:KRH_15110	CDS	1709654..1711054	ktrB; putative Ktr system potassium uptake protein KtrB
+krh:KRH_15120	CDS	1711204..1711893	ktrA; putative Ktr system potassium uptake protein KtrA
+krh:KRH_15130	CDS	complement(1711996..1713012)	putative ATP-binding protein
+krh:KRH_15140	CDS	1713085..1714797	putative CPA1 family transporter
+krh:KRH_15150	CDS	complement(1714928..1716130)	aminotransferase
+krh:KRH_15160	CDS	complement(1716158..1716703)	hypothetical protein
+krh:KRH_15170	CDS	1716929..1717696	hypothetical protein
+krh:KRH_15180	CDS	1717716..1718465	hypothetical membrane protein
+krh:KRH_t00350	tRNA	complement(1718533..1718609)	tRNA-Pro
+krh:KRH_15190	CDS	complement(1718679..1718846)	hypothetical protein
+krh:KRH_15200	CDS	complement(1718919..1720418)	engA; GTP-binding protein EngA
+krh:KRH_15210	CDS	complement(1720466..1721212)	cmk; cytidylate kinase
+krh:KRH_15220	CDS	complement(1721212..1722330)	tyrA; prephenate dehydrogenase
+krh:KRH_15230	CDS	complement(1722327..1723433)	pseudouridine synthase
+krh:KRH_15240	CDS	complement(1723441..1724133)	scpB; putative chromosome segregation and condensation protein ScpB
+krh:KRH_15250	CDS	complement(1724284..1725168)	scpA; putative chromosome segregation and condensation protein ScpA
+krh:KRH_15260	CDS	complement(1725197..1726090)	putative Soj/ParA-related protein
+krh:KRH_15270	CDS	complement(1726265..1727764)	dctA; C4-dicarboxylate transport protein
+krh:KRH_15280	CDS	complement(1727934..1729853)	prpE; propionate--CoA ligase
+krh:KRH_15290	CDS	1730035..1730694	putative GntR family transcriptional regulator
+krh:KRH_15300	CDS	1730753..1732285	prpD; 2-methylcitrate dehydratase
+krh:KRH_15310	CDS	1732288..1733199	prpB; 2-methylisocitrate lyase
+krh:KRH_15320	CDS	1733282..1734421	prpC; 2-methylcitrate synthase
+krh:KRH_15330	CDS	complement(1734480..1735460)	dac; putative D-alanyl-D-alanine carboxypeptidase
+krh:KRH_15340	CDS	complement(1735689..1736603)	xerD; tyrosine recombinase XerD
+krh:KRH_15350	CDS	complement(1736732..1737388)	nudF; ADP-ribose pyrophosphatase
+krh:KRH_15360	CDS	complement(1737392..1739089)	pyrG; CTP synthase
+krh:KRH_15370	CDS	complement(1739140..1740852)	recN; DNA repair protein RecN
+krh:KRH_15380	CDS	complement(1740849..1741931)	ppnK; inorganic polyphosphate/ATP-NAD kinase
+krh:KRH_15390	CDS	complement(1741987..1742754)	hypothetical protein
+krh:KRH_15400	CDS	complement(1742751..1743281)	hypothetical protein
+krh:KRH_15410	CDS	complement(1743271..1744317)	putative phosphatase
+krh:KRH_15420	CDS	complement(1744307..1746523)	hypothetical protein
+krh:KRH_15430	CDS	1746722..1747933	DAACS family transporter
+krh:KRH_r00010	rRNA	complement(1748520..1748639)	5S ribosomal RNA
+krh:KRH_r00020	rRNA	complement(1748808..1751932)	23S ribosomal RNA
+krh:KRH_r00030	rRNA	complement(1752303..1753835)	16S ribosomal RNA
+krh:KRH_15440	CDS	complement(1754423..1755733)	tyrS; tyrosyl-tRNA synthetase
+krh:KRH_15450	CDS	complement(1755747..1758050)	hypothetical protein
+krh:KRH_15460	CDS	complement(1758121..1758648)	apt; adenine phosphoribosyltransferase
+krh:KRH_15470	CDS	complement(1758684..1759394)	putative 3-methyladenine DNA glycosylase
+krh:KRH_15480	CDS	complement(1759391..1760836)	argH; argininosuccinate lyase
+krh:KRH_15490	CDS	complement(1761045..1762250)	argG; argininosuccinate synthase
+krh:KRH_15500	CDS	complement(1762337..1763851)	fadD; long-chain fatty-acid--CoA ligase
+krh:KRH_15510	CDS	1764060..1764491	hypothetical protein
+krh:KRH_15520	CDS	complement(1764718..1765212)	argR; arginine repressor ArgR
+krh:KRH_15530	CDS	complement(1765209..1766180)	argF; ornithine carbamoyltransferase
+krh:KRH_15540	CDS	complement(1766308..1767543)	argD; acetylornithine aminotransferase
+krh:KRH_15550	CDS	complement(1767540..1768490)	argB; acetylglutamate kinase
+krh:KRH_15560	CDS	complement(1768501..1769712)	argJ; glutamate N-acetyltransferase/amino-acid acetyltransferase
+krh:KRH_15570	CDS	complement(1769863..1770924)	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+krh:KRH_15580	CDS	1771134..1772111	qor; NADPH--quinone reductase
+krh:KRH_15590	CDS	complement(1772301..1772900)	hypothetical membrane protein
+krh:KRH_15600	CDS	complement(1772922..1775474)	pheT; phenylalanyl-tRNA synthetase beta chain
+krh:KRH_15610	CDS	complement(1775478..1776536)	pheS; phenylalanyl-tRNA synthetase alpha chain
+krh:KRH_15620	CDS	complement(1776923..1778452)	drug resistance efflux protein
+krh:KRH_15630	CDS	complement(1778449..1779060)	hypothetical protein
+krh:KRH_15640	CDS	complement(1779057..1780007)	putative RNA methyltransferase
+krh:KRH_15650	CDS	complement(1780016..1780402)	rplT; 50S ribosomal protein L20
+krh:KRH_15660	CDS	complement(1780498..1780695)	rpmI; 50S ribosomal protein L35
+krh:KRH_15670	CDS	complement(1780815..1781759)	infC; translation initiation factor IF-3
+krh:KRH_15680	CDS	1782093..1782542	hypothetical protein
+krh:KRH_15690	CDS	complement(1782821..1783678)	hypothetical protein
+krh:KRH_15700	CDS	complement(1783671..1784420)	hisA; 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino) methylideneamino] imidazole-4-carboxamide isomerase
+krh:KRH_15710	CDS	complement(1784602..1784763)	hypothetical protein
+krh:KRH_15720	CDS	complement(1784760..1785494)	hisH; imidazole glycerol phosphate synthase subunit HisH
+krh:KRH_15730	CDS	complement(1785550..1786197)	hisB; imidazoleglycerol-phosphate dehydratase
+krh:KRH_15740	CDS	complement(1786448..1787551)	hisC; histidinol-phosphate aminotransferase
+krh:KRH_15750	CDS	complement(1787574..1787945)	hypothetical protein
+krh:KRH_15760	CDS	1788551..1789309	lexA; LexA repressor
+krh:KRH_15770	CDS	complement(1789416..1791464)	putative ATP-dependent DNA helicase
+krh:KRH_15780	CDS	complement(1791461..1793119)	hflX; putative GTP-binding protein HflX
+krh:KRH_15790	CDS	1793205..1793861	putative methyltransferase
+krh:KRH_15800	CDS	complement(1793887..1794780)	dapF; diaminopimelate epimerase
+krh:KRH_15810	CDS	complement(1794842..1795783)	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+krh:KRH_15820	CDS	complement(1795790..1797331)	putative tRNA-thiotransferase
+krh:KRH_15830	CDS	complement(1797566..1798201)	recX; regulatory protein RecX
+krh:KRH_15840	CDS	complement(1798251..1799357)	recA; RecA protein
+krh:KRH_15850	CDS	complement(1799664..1799885)	hypothetical protein
+krh:KRH_15860	CDS	complement(1800029..1800361)	putative Xre family DNA-binding protein
+krh:KRH_15870	CDS	complement(1800606..1801136)	hypothetical protein
+krh:KRH_15880	CDS	complement(1801133..1801762)	pgsA; phosphatidylglycerophosphate synthase
+krh:KRH_15890	CDS	complement(1801759..1804665)	ftsK; cell division protein FtsK
+krh:KRH_15900	CDS	complement(1804749..1806443)	hypothetical protein
+krh:KRH_15910	CDS	complement(1806460..1807395)	dapA; dihydrodipicolinate synthase
+krh:KRH_15920	CDS	complement(1807406..1808041)	hypothetical membrane protein
+krh:KRH_15930	CDS	complement(1808038..1808799)	dapB; dihydrodipicolinate reductase
+krh:KRH_15940	CDS	complement(1808796..1810229)	putative M16B family peptidase
+krh:KRH_15950	CDS	complement(1810250..1812505)	gpsI; guanosine pentaphosphate synthetase/polynucleotide phosphorylase
+krh:KRH_15960	CDS	complement(1812807..1813076)	rpsO; 30S ribosomal protein S15
+krh:KRH_15970	CDS	1813459..1814175	mtn; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+krh:KRH_15980	CDS	1814309..1815145	dkgB; 2,5-diketo-D-gluconate reductase B
+krh:KRH_15990	CDS	complement(1815260..1816285)	ribC; flavokinase/FAD synthetase
+krh:KRH_16000	CDS	complement(1816333..1816803)	hypothetical membrane protein
+krh:KRH_16010	CDS	complement(1816853..1817224)	hypothetical membrane protein
+krh:KRH_16020	CDS	complement(1817224..1818363)	truB; tRNA pseudouridine synthase TruB
+krh:KRH_16030	CDS	complement(1818369..1818830)	rbfA; ribosome-binding factor A
+krh:KRH_16040	CDS	complement(1819044..1821947)	infB; translation initiation factor IF-2
+krh:KRH_16050	CDS	complement(1822073..1822405)	hypothetical protein
+krh:KRH_16060	CDS	complement(1822533..1823510)	nusA; transcription elongation protein NusA
+krh:KRH_16070	CDS	complement(1823661..1824152)	hypothetical protein
+krh:KRH_16080	CDS	1824240..1825316	hypothetical protein
+krh:KRH_16090	CDS	complement(1825479..1826285)	hypothetical membrane protein
+krh:KRH_16100	CDS	complement(1826307..1828127)	proS; prolyl-tRNA synthetase
+krh:KRH_16110	CDS	complement(1828228..1829082)	hypothetical protein
+krh:KRH_16120	CDS	complement(1829079..1830245)	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+krh:KRH_16130	CDS	complement(1830425..1831081)	putative ABC transporter permease protein
+krh:KRH_16140	CDS	complement(1831081..1832133)	putative ABC transporter ATP-binding protein
+krh:KRH_16150	CDS	complement(1832130..1833014)	putative ABC transporter substrate-binding protein
+krh:KRH_16160	CDS	complement(1833451..1834725)	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+krh:KRH_16170	CDS	complement(1834871..1835167)	hypothetical membrane protein
+krh:KRH_16180	CDS	complement(1835285..1836925)	actP; putative acetate permease
+krh:KRH_16190	CDS	complement(1836922..1837311)	hypothetical membrane protein
+krh:KRH_16200	CDS	complement(1837462..1838091)	hypothetical protein
+krh:KRH_16210	CDS	complement(1838171..1839148)	cdsA; phosphatidate cytidylyltransferase
+krh:KRH_16220	CDS	complement(1839148..1839705)	frr; ribosome recycling factor
+krh:KRH_16230	CDS	complement(1839826..1840557)	pyrH; uridylate kinase
+krh:KRH_16240	CDS	complement(1840818..1841648)	tsf; elongation factor Ts
+krh:KRH_16250	CDS	complement(1841761..1842618)	rpsB; 30S ribosomal protein S2
+krh:KRH_16260	CDS	1842988..1843551	hypothetical protein
+krh:KRH_t00360	tRNA	complement(1843740..1843813)	tRNA-Met
+krh:KRH_16270	CDS	complement(1843941..1845095)	putative glycosyltransferase
+krh:KRH_16280	CDS	complement(1845118..1846071)	hypothetical membrane protein
+krh:KRH_16290	CDS	complement(1846232..1847101)	hypothetical membrane protein
+krh:KRH_16300	CDS	complement(1847213..1847929)	putative ABC transporter ATP-binding protein
+krh:KRH_16310	CDS	complement(1848052..1849176)	hypothetical membrane protein
+krh:KRH_16320	CDS	1849402..1850922	two-component histidine kinase
+krh:KRH_16330	CDS	1850919..1851542	NarL family two-component response regulator
+krh:KRH_16340	CDS	complement(1851535..1852467)	hypothetical protein
+krh:KRH_16350	CDS	complement(1852418..1852786)	hypothetical protein
+krh:KRH_16360	CDS	complement(1852862..1853767)	putative hydrolase
+krh:KRH_16370	CDS	complement(1853764..1854471)	hypothetical membrane protein
+krh:KRH_16380	CDS	complement(1854667..1855944)	putative amidohydrolase
+krh:KRH_16390	CDS	complement(1856102..1856311)	hypothetical protein
+krh:KRH_16400	CDS	1856636..1857649	hypothetical protein
+krh:KRH_16410	CDS	1857901..1858230	hypothetical protein
+krh:KRH_16420	CDS	complement(1858232..1858783)	hypothetical protein
+krh:KRH_t00370	tRNA	complement(1859400..1859475)	tRNA-Asn
+krh:KRH_16430	CDS	complement(1859597..1861603)	dnaG; DNA primase
+krh:KRH_16440	CDS	complement(1861809..1863128)	dgt; deoxyguanosinetriphosphate triphosphohydrolase
+krh:KRH_16450	CDS	complement(1863134..1864318)	putative tRNA-dihydrouridine synthase
+krh:KRH_16460	CDS	complement(1864497..1865306)	hypothetical protein
+krh:KRH_16470	CDS	complement(1865328..1866635)	galK; galactokinase
+krh:KRH_16480	CDS	complement(1866744..1868234)	sugar transporter
+krh:KRH_16490	CDS	complement(1868440..1869405)	hypothetical protein
+krh:KRH_16500	CDS	complement(1869413..1870795)	glyQS; glycyl-tRNA synthetase
+krh:KRH_16510	CDS	complement(1871136..1872326)	putative acyl-CoA dehydrogenase
+krh:KRH_16520	CDS	1872473..1873048	putative MarR family transcriptional regulator
+krh:KRH_16530	CDS	complement(1873045..1873989)	mmsB; 3-hydroxyisobutyrate dehydrogenase
+krh:KRH_16540	CDS	complement(1874154..1875650)	mmsA; methylmalonate-semialdehyde dehydrogenase
+krh:KRH_16550	CDS	1875853..1876089	hypothetical protein
+krh:KRH_16560	CDS	complement(1876156..1876800)	phospholipase/carboxylesterase family protein
+krh:KRH_16570	CDS	1876957..1877748	hypothetical protein
+krh:KRH_16580	CDS	complement(1877885..1878700)	hypothetical protein
+krh:KRH_16590	CDS	complement(1878881..1880047)	metX; homoserine O-acetyltransferase
+krh:KRH_16600	CDS	complement(1880044..1881579)	metY; O-acetylhomoserine (thiol)-lyase
+krh:KRH_16610	CDS	1881878..1882516	hypothetical protein
+krh:KRH_16620	CDS	complement(1882652..1883416)	hypothetical membrane protein
+krh:KRH_16630	CDS	1883478..1884749	putative two-component histidine kinase
+krh:KRH_16640	CDS	1884746..1885558	putative NarL family two-component response regulator
+krh:KRH_16650	CDS	1885681..1886565	putative ABC transporter ATP-binding protein
+krh:KRH_16660	CDS	1886562..1887701	putative ABC transporter permease protein
+krh:KRH_16670	CDS	1887937..1890525	ptrB; putative protease II
+krh:KRH_16680	CDS	complement(1890938..1891063)	hypothetical protein
+krh:KRH_16690	CDS	complement(1891067..1891420)	hypothetical protein
+krh:KRH_16700	CDS	complement(1891417..1892526)	putative oxidoreductase
+krh:KRH_16710	CDS	complement(1892733..1893419)	rpf; resuscitation-promoting factor precursor
+krh:KRH_16720	CDS	complement(1893853..1894707)	suhB; inositol monophosphatase
+krh:KRH_16730	CDS	complement(1894716..1897016)	ligA; NAD(+)-dependent DNA ligase
+krh:KRH_16740	CDS	complement(1897207..1898286)	hypothetical protein
+krh:KRH_16750	CDS	complement(1898291..1899673)	putative 3-oxoacyl-[acyl-carrier-protein] reductase
+krh:KRH_16760	CDS	complement(1899723..1901099)	fadA; putative acetyl-CoA acyltransferase
+krh:KRH_16770	CDS	1901139..1901888	putative TetR family transcriptional regulator
+krh:KRH_16780	CDS	1901888..1904002	putative acyl-CoA oxidase
+krh:KRH_16790	CDS	complement(1904100..1905017)	putative serine/threonine protein phosphatase
+krh:KRH_16800	CDS	complement(1905014..1906174)	cya; adenylate cyclase
+krh:KRH_16810	CDS	complement(1906167..1906775)	hypothetical membrane protein
+krh:KRH_16820	CDS	complement(1906772..1907824)	birA; biotin protein ligase
+krh:KRH_16830	CDS	1907976..1908257	hypothetical protein
+krh:KRH_16840	CDS	1908393..1909976	pccB; propionyl-CoA carboxylase beta chain
+krh:KRH_16850	CDS	1909973..1910323	hypothetical protein
+krh:KRH_16860	CDS	1910388..1911515	hypothetical membrane protein
+krh:KRH_16870	CDS	1911633..1913369	hypothetical protein
+krh:KRH_16880	CDS	1913439..1914917	DAACS family transporter
+krh:KRH_16890	CDS	1915079..1916602	NAD(+)-dependent aldehyde dehydrogenase
+krh:KRH_16900	CDS	complement(1916599..1918026)	putative transposase
+krh:KRH_16910	CDS	1916696..1917100	hypothetical protein
+krh:KRH_16920	CDS	complement(1918066..1918812)	hypothetical protein
+krh:KRH_16930	CDS	1919263..1919415	hypothetical protein
+krh:KRH_16940	CDS	complement(1919572..1920435)	putative NAD(P)H--quinone oxidoreductase
+krh:KRH_16950	CDS	complement(1920703..1921392)	hypothetical protein
+krh:KRH_16960	CDS	complement(1921403..1921822)	hypothetical membrane protein
+krh:KRH_16970	CDS	1922234..1922872	Maf-like protein
+krh:KRH_16980	CDS	1922977..1924788	accA; acyl-CoA carboxylase alpha chain
+krh:KRH_16990	CDS	1925051..1926475	MFS transporter
+krh:KRH_17000	CDS	complement(1926564..1927997)	putative oxidoreductase
+krh:KRH_17010	CDS	1928064..1928876	punA; purine nucleoside phosphorylase
+krh:KRH_17020	CDS	1928982..1929407	hypothetical membrane protein
+krh:KRH_17030	CDS	complement(1929629..1930315)	rmlD; putative dTDP-6-deoxy-L-lyxo-4-hexulose reductase
+krh:KRH_17040	CDS	complement(1929891..1930871)	rmlC; putative dTDP-6-deoxy-D-xylo-4-hexulose 3,5-epimerase
+krh:KRH_17050	CDS	complement(1931173..1931886)	rmlB; putative dTDP-glucose 4,6-dehydratase
+krh:KRH_17060	CDS	complement(1931962..1935726)	mfd; transcription-repair coupling factor
+krh:KRH_17070	CDS	1936204..1937043	putative uroporphyrinogen-III synthase
+krh:KRH_17080	CDS	complement(1937016..1937975)	hypothetical protein
+krh:KRH_17090	CDS	complement(1938049..1939086)	putative glycosyltransferase
+krh:KRH_17100	CDS	1939325..1939996	putative polysaccharide biosynthesis protein
+krh:KRH_17110	CDS	1939986..1941152	hypothetical protein
+krh:KRH_17120	CDS	1941149..1942471	hypothetical membrane protein
+krh:KRH_17130	CDS	1942522..1943607	putative glycosyltransferase
+krh:KRH_17140	CDS	complement(1943580..1945070)	hypothetical membrane protein
+krh:KRH_17150	CDS	complement(1945126..1946901)	hypothetical protein
+krh:KRH_17160	CDS	complement(1947063..1948514)	putative glycosyltransferase
+krh:KRH_17170	CDS	1948894..1949394	hypothetical protein
+krh:KRH_17180	CDS	1949507..1950802	Na(+)/H(+) antiporter
+krh:KRH_17190	CDS	complement(1950870..1951496)	pth; peptidyl-tRNA hydrolase
+krh:KRH_17200	CDS	complement(1951655..1952290)	rplY; 50S ribosomal protein L25
+krh:KRH_17210	CDS	1952909..1954435	putative glycosyltransferase
+krh:KRH_17220	CDS	complement(1954451..1954639)	hypothetical protein
+krh:KRH_17230	CDS	1954775..1956424	putative lysozyme
+krh:KRH_17240	CDS	complement(1956690..1957670)	prs; phosphoribosylpyrophosphate synthase
+krh:KRH_17250	CDS	complement(1957725..1959200)	glmU; UDP-N-acetylglucosamine pyrophosphorylase/glucosamine-1-phosphate N-acetyltransferase
+krh:KRH_t00380	tRNA	complement(1959262..1959336)	tRNA-Gln
+krh:KRH_17260	CDS	complement(1959410..1960138)	hypothetical protein
+krh:KRH_17270	CDS	1960266..1962131	putative ABC transporter ATP-binding protein
+krh:KRH_17280	CDS	complement(1962141..1962908)	hypothetical protein
+krh:KRH_17290	CDS	complement(1962539..1963048)	hypothetical protein
+krh:KRH_17300	CDS	complement(1963045..1963179)	hypothetical protein
+krh:KRH_17310	CDS	complement(1963387..1964025)	hypothetical protein
+krh:KRH_17320	CDS	complement(1964338..1964643)	hypothetical protein
+krh:KRH_17330	CDS	complement(1964717..1966129)	flavin-containing amine oxidase
+krh:KRH_17340	CDS	complement(1966144..1966830)	putative TetR family transcriptional regulator
+krh:KRH_17350	CDS	1966994..1968349	putative amino acid transporter
+krh:KRH_17360	CDS	complement(1968339..1969787)	rnr; putative ribonuclease R
+krh:KRH_17370	CDS	complement(1969905..1970897)	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+krh:KRH_17380	CDS	complement(1970894..1972084)	ksgA; dimethyladenosine transferase
+krh:KRH_17390	CDS	complement(1972210..1973097)	putative deoxyribonuclease
+krh:KRH_17400	CDS	1973397..1974362	hypothetical protein
+krh:KRH_17410	CDS	1974359..1975804	hypothetical membrane protein
+krh:KRH_17420	CDS	1976062..1978335	hypothetical membrane protein
+krh:KRH_17430	CDS	complement(1978567..1979457)	hypothetical protein
+krh:KRH_17440	CDS	1979490..1981190	pmt; putative protein O-mannosyltransferase
+krh:KRH_17450	CDS	complement(1981174..1981884)	hypothetical membrane protein
+krh:KRH_17460	CDS	complement(1981892..1983160)	hypothetical protein
+krh:KRH_17470	CDS	complement(1983214..1983783)	hypothetical protein
+krh:KRH_17480	CDS	complement(1983789..1984472)	WhiB family regulatory protein
+krh:KRH_17490	CDS	1984589..1985296	hypothetical protein
+krh:KRH_17500	CDS	complement(1985369..1986094)	hypothetical membrane protein
+krh:KRH_17510	CDS	1986142..1987926	purK_purE; phosphoribosylaminoimidazole carboxylase
+krh:KRH_17520	CDS	1988276..1990012	putative LytR family regulatory protein
+krh:KRH_17530	CDS	1990025..1991098	hypothetical protein
+krh:KRH_17540	CDS	1991095..1991850	putative oxidoreductase
+krh:KRH_17550	CDS	complement(1991959..1993665)	hypothetical protein
+krh:KRH_17560	CDS	complement(1993785..1994759)	fbp; fructose 1,6-bisphosphatase class II
+krh:KRH_17570	CDS	1994932..1995726	hypothetical protein
+krh:KRH_17580	CDS	1995878..1996522	carbonic anhydrase
+krh:KRH_17590	CDS	1996732..1998138	fumC; fumarate hydratase class II
+krh:KRH_17600	CDS	1998470..2000212	poxB; pyruvate dehydrogenase
+krh:KRH_17610	CDS	complement(2000293..2000760)	hypothetical protein
+krh:KRH_17620	CDS	complement(2000790..2001329)	putative A24A family peptidase
+krh:KRH_17630	CDS	2001409..2002173	hypothetical protein
+krh:KRH_17640	CDS	complement(2002307..2003593)	putative PhoH-like protein
+krh:KRH_17650	CDS	complement(2004010..2004771)	short-chain Z-isoprenyl diphosphate synthase
+krh:KRH_17660	CDS	2004910..2005623	hypothetical membrane protein
+krh:KRH_17670	CDS	complement(2005773..2008058)	hypothetical protein
+krh:KRH_17680	CDS	complement(2008218..2008613)	hypothetical protein
+krh:KRH_17690	CDS	complement(2008610..2009521)	mca; mycothiol S-conjugate amidase Mca
+krh:KRH_17700	CDS	2009669..2010148	hypothetical protein
+krh:KRH_17710	CDS	2010314..2010811	greA; transcription elongation factor GreA
+krh:KRH_17720	CDS	2010968..2011195	hypothetical membrane protein
+krh:KRH_17730	CDS	complement(2011215..2012462)	putative threonine dehydratase
+krh:KRH_17740	CDS	complement(2012616..2013983)	hypothetical membrane protein
+krh:KRH_17750	CDS	2014049..2014660	hypothetical protein
+krh:KRH_17760	CDS	complement(2014897..2015694)	hypothetical membrane protein
+krh:KRH_t00390	tRNA	complement(2015798..2015874)	tRNA-Leu
+krh:KRH_17770	CDS	complement(2015949..2017334)	ndh; putative NADH dehydrogenase
+krh:KRH_17780	CDS	complement(2017406..2018761)	putative subtilisin family peptidase
+krh:KRH_17790	CDS	complement(2018866..2019819)	Ppx/GppA phosphatase family protein
+krh:KRH_17800	CDS	complement(2019884..2020429)	hypothetical protein
+krh:KRH_17810	CDS	complement(2020426..2020995)	hypothetical protein
+krh:KRH_17820	CDS	complement(2021143..2022426)	eno; enolase
+krh:KRH_17830	CDS	complement(2022532..2023626)	hypothetical protein
+krh:KRH_17840	CDS	complement(2023623..2024765)	add; adenosine deaminase
+krh:KRH_17850	CDS	complement(2024769..2026613)	hypothetical protein
+krh:KRH_17860	CDS	complement(2026724..2027110)	cdd; cytidine deaminase
+krh:KRH_17870	CDS	complement(2027204..2028313)	hypothetical protein
+krh:KRH_17880	CDS	complement(2028310..2029551)	M20D family peptidase
+krh:KRH_17890	CDS	complement(2029791..2030906)	mannose-1-phosphate guanylyltransferase
+krh:KRH_17900	CDS	2031367..2031744	sdhC; succinate dehydrogenase cytochrome b subunit
+krh:KRH_17910	CDS	2031749..2032234	sdhD; succinate dehydrogenase hydrophobic membrane anchor protein
+krh:KRH_17920	CDS	2032335..2034086	sdhA; succinate dehydrogenase flavoprotein subunit
+krh:KRH_17930	CDS	2034086..2034868	sdhB; succinate dehydrogenase iron-sulfur protein
+krh:KRH_17940	CDS	complement(2034943..2036112)	hypothetical membrane protein
+krh:KRH_17950	CDS	complement(2036099..2036632)	hypothetical protein
+krh:KRH_17960	CDS	complement(2036733..2037761)	trpS; tryptophanyl-tRNA synthetase
+krh:KRH_17970	CDS	complement(2037926..2038765)	exoA; putative exodeoxyribonuclease
+krh:KRH_17980	CDS	complement(2038871..2039398)	hypothetical membrane protein
+krh:KRH_17990	CDS	complement(2039707..2040597)	folD; methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+krh:KRH_18000	CDS	complement(2040599..2041873)	glyA; serine hydroxymethyltransferase
+krh:KRH_18010	CDS	2042164..2045517	putative beta-phosphoglucomutase/trehalose 6-phosphate phosphorylase
+krh:KRH_18020	CDS	2045698..2046255	hypothetical protein
+krh:KRH_18030	CDS	complement(2046339..2047949)	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+krh:KRH_18040	CDS	complement(2048161..2048718)	purN; glycinamide ribonucleotide transformylase
+krh:KRH_18050	CDS	2049072..2049704	hypothetical membrane protein
+krh:KRH_18060	CDS	complement(2049737..2051659)	hypothetical membrane protein
+krh:KRH_18070	CDS	2051736..2052920	mgtA; mannosyltransferase MgtA
+krh:KRH_18080	CDS	2053027..2053293	hypothetical protein
+krh:KRH_18090	CDS	2053290..2053586	hypothetical protein
+krh:KRH_18100	CDS	complement(2053912..2055498)	betA; putative choline oxidase
+krh:KRH_18110	CDS	complement(2055669..2057162)	betB; putative betaine aldehyde dehydrogenase
+krh:KRH_18120	CDS	complement(2057159..2059306)	betT; choline transporter
+krh:KRH_18130	CDS	complement(2059447..2062566)	hypothetical protein
+krh:KRH_18140	CDS	2062944..2065721	putative helicase
+krh:KRH_18150	CDS	2065783..2066949	hypothetical membrane protein
+krh:KRH_18160	CDS	2067672..2068544	purU; formyltetrahydrofolate deformylase
+krh:KRH_18170	CDS	complement(2068683..2069600)	sucD; succinyl-CoA synthetase alpha chain
+krh:KRH_18180	CDS	complement(2069632..2070801)	sucC; succinyl-CoA synthetase beta chain
+krh:KRH_18190	CDS	2071035..2071766	hypothetical membrane protein
+krh:KRH_18200	CDS	complement(2071800..2074256)	uvrD1; ATP-dependent DNA helicase UvrD1
+krh:KRH_18210	CDS	complement(2074343..2075083)	hypothetical protein
+krh:KRH_18220	CDS	2075183..2075884	hypothetical membrane protein
+krh:KRH_t00400	tRNA	complement(2076105..2076177)	tRNA-Arg
+krh:KRH_18230	CDS	2076239..2077165	hypothetical protein
+krh:KRH_18240	CDS	complement(2077218..2077505)	hypothetical membrane protein
+krh:KRH_18250	CDS	complement(2077704..2078627)	NlpC/P60 family protein
+krh:KRH_18260	CDS	complement(2078859..2079455)	hypothetical protein
+krh:KRH_18270	CDS	complement(2079968..2080669)	ideR; iron-dependent regulator IdeR
+krh:KRH_18280	CDS	2080989..2082110	serC; phosphoserine aminotransferase
+krh:KRH_18290	CDS	complement(2082370..2083593)	putative drug resistance efflux protein
+krh:KRH_18300	CDS	complement(2083647..2084330)	hypothetical protein
+krh:KRH_18310	CDS	complement(2084335..2084718)	cold shock protein
+krh:KRH_18320	CDS	2084863..2085132	hypothetical membrane protein
+krh:KRH_18330	CDS	2085387..2086100	OmpR family two-component response regulator
+krh:KRH_18340	CDS	2086105..2087577	two-component histidine kinase
+krh:KRH_18350	CDS	2087679..2087969	hypothetical protein
+krh:KRH_18360	CDS	complement(2087977..2089092)	rnhA; ribonuclease HI
+krh:KRH_18370	CDS	complement(2089249..2090883)	groEL; 60 kDa chaperonin
+krh:KRH_18380	CDS	complement(2091147..2091404)	hypothetical protein
+krh:KRH_18390	CDS	complement(2091489..2091713)	hypothetical protein
+krh:KRH_18400	CDS	2091775..2092458	ung; uracil-DNA glycosylase
+krh:KRH_18410	CDS	2092478..2093332	putative siderophore-interacting protein
+krh:KRH_18420	CDS	complement(2093349..2095460)	hypothetical membrane protein
+krh:KRH_18430	CDS	complement(2095586..2096668)	FemAB family protein
+krh:KRH_18440	CDS	complement(2096759..2098675)	hypothetical protein
+krh:KRH_18450	CDS	complement(2098958..2099239)	ptsH; phosphocarrier protein HPr
+krh:KRH_18460	CDS	complement(2099294..2101030)	ptsI; phosphoenolpyruvate--protein phosphotransferase
+krh:KRH_18470	CDS	complement(2101030..2103369)	putative fructose-specific phosphotransferase system enzyme II
+krh:KRH_18480	CDS	complement(2103416..2104597)	fruK; putative 1-phosphofructokinase
+krh:KRH_18490	CDS	complement(2104594..2105385)	putative DeoR family transcriptional regulator
+krh:KRH_18500	CDS	2105570..2107315	putative ABC transporter permease/ATP-binding protein
+krh:KRH_18510	CDS	2107312..2109243	putative ABC transporter permease/ATP-binding protein
+krh:KRH_18520	CDS	2109317..2109952	hypothetical protein
+krh:KRH_t00410	tRNA	2110066..2110142	tRNA-Thr
+krh:KRH_18530	CDS	complement(2110284..2111165)	hypothetical protein
+krh:KRH_18540	CDS	2111424..2112938	otsA; alpha,alpha-trehalose-phosphate synthase
+krh:KRH_18550	CDS	2112931..2113746	otsB; trehalose-phosphatase
+krh:KRH_18560	CDS	2113748..2115007	hypothetical protein
+krh:KRH_18570	CDS	complement(2115004..2115606)	putative TetR family transcriptional regulator
+krh:KRH_18580	CDS	complement(2115610..2117859)	hypothetical protein
+krh:KRH_18590	CDS	2117939..2118721	hypothetical protein
+krh:KRH_18600	CDS	2118915..2119559	putative acyltransferase
+krh:KRH_18610	CDS	2119588..2121264	putative FAD-linked oxidase
+krh:KRH_18620	CDS	complement(2121474..2123480)	acsA; putative acetoacetyl-CoA synthetase
+krh:KRH_r00040	rRNA	complement(2123641..2123760)	5S ribosomal RNA
+krh:KRH_r00050	rRNA	complement(2123929..2127053)	23S ribosomal RNA
+krh:KRH_r00060	rRNA	complement(2127424..2128956)	16S ribosomal RNA
+krh:KRH_18630	CDS	complement(2129476..2133624)	glgB; 1,4-alpha-glucan branching enzyme
+krh:KRH_18640	CDS	complement(2133688..2135457)	treS; trehalose synthase
+krh:KRH_18650	CDS	complement(2135552..2137720)	glgE; putative glucanase
+krh:KRH_18660	CDS	2138149..2140779	glgP; putative glycogen phosphorylase
+krh:KRH_18670	CDS	complement(2140862..2143018)	putative glycogen debranching enzyme
+krh:KRH_18680	CDS	complement(2143005..2143973)	rRNA methyltransferase
+krh:KRH_18690	CDS	complement(2144059..2145498)	cysS; cysteinyl-tRNA synthetase
+krh:KRH_18700	CDS	complement(2145783..2146322)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+krh:KRH_18710	CDS	complement(2146622..2147359)	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+krh:KRH_18720	CDS	complement(2147373..2147858)	hypothetical protein
+krh:KRH_18730	CDS	2148014..2148619	hypothetical protein
+krh:KRH_18740	CDS	complement(2148705..2149385)	regX3; two-component response regulator RegX3
+krh:KRH_18750	CDS	complement(2149382..2150575)	senX3; two-component histidine kinase SenX3
+krh:KRH_18760	CDS	2150799..2151497	phoU; putative phosphate transport system regulatory protein
+krh:KRH_18770	CDS	complement(2151591..2152349)	gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+krh:KRH_18780	CDS	2152439..2153209	hypothetical protein
+krh:KRH_18790	CDS	complement(2153315..2153665)	hypothetical membrane protein
+krh:KRH_18800	CDS	complement(2153675..2154805)	putative amino acid lyase
+krh:KRH_18810	CDS	2154901..2155557	tmk; thymidylate kinase
+krh:KRH_18820	CDS	2155554..2156681	holB; DNA polymerase III delta' subunit
+krh:KRH_18830	CDS	2156699..2158267	carboxylesterase
+krh:KRH_t00420	tRNA	2158354..2158429	tRNA-Thr
+krh:KRH_18840	CDS	complement(2158636..2161203)	cation-transporting ATPase
+krh:KRH_18850	CDS	complement(2161539..2162264)	hypothetical protein
+krh:KRH_18860	CDS	complement(2162318..2162536)	hypothetical protein
+krh:KRH_18870	CDS	complement(2162536..2164818)	cstA; carbon starvation protein
+krh:KRH_18880	CDS	complement(2164937..2165920)	putative oxidoreductase
+krh:KRH_t00430	tRNA	2166183..2166273	tRNA-Ser
+krh:KRH_18890	CDS	complement(2166342..2168045)	putative phosphoglucomutase
+krh:KRH_18900	CDS	complement(2168045..2168701)	deoC; deoxyribose-phosphate aldolase
+krh:KRH_18910	CDS	complement(2168793..2170088)	pdp; putative pyrimidine nucleoside phosphorylase
+krh:KRH_18920	CDS	2170263..2171480	nucleoside transporter
+krh:KRH_18930	CDS	2171514..2172449	deoR; deoxyribonucleoside regulator
+krh:KRH_18940	CDS	complement(2172496..2174493)	hypothetical protein
+krh:KRH_18950	CDS	complement(2174604..2176577)	subtilisin family peptidase
+krh:KRH_t00440	tRNA	complement(2176778..2176867)	tRNA-Ser
+krh:KRH_18960	CDS	2177255..2178247	putative glycosyltransferase
+krh:KRH_18970	CDS	2178305..2179777	hypothetical membrane protein
+krh:KRH_18980	CDS	complement(2179805..2180971)	putative glycosyltransferase
+krh:KRH_18990	CDS	complement(2181024..2183174)	putative ATP-dependent DNA helicase
+krh:KRH_19000	CDS	2183743..2184141	hypothetical protein
+krh:KRH_t00450	tRNA	complement(2184238..2184313)	tRNA-Lys
+krh:KRH_19010	CDS	2184544..2186385	glsA; glutaminase
+krh:KRH_19020	CDS	2186439..2187059	hypothetical protein
+krh:KRH_19030	CDS	2187391..2188008	hypothetical protein
+krh:KRH_19040	CDS	2188015..2189040	putative inorganic phosphate transporter
+krh:KRH_19050	CDS	complement(2189146..2189925)	pstB; phosphate ABC transporter ATP-binding protein
+krh:KRH_19060	CDS	complement(2189957..2191075)	pstA; phosphate ABC transporter permease protein
+krh:KRH_19070	CDS	complement(2191075..2192022)	pstC; phosphate ABC transporter permease protein
+krh:KRH_19080	CDS	complement(2192169..2193272)	pstS; phosphate ABC transporter phosphate-binding protein
+krh:KRH_19090	CDS	2193495..2194652	hypothetical membrane protein
+krh:KRH_19100	CDS	2194713..2196131	radA; DNA repair protein RadA
+krh:KRH_19110	CDS	2196417..2197490	hypothetical protein
+krh:KRH_19120	CDS	complement(2197774..2198511)	hypothetical protein
+krh:KRH_19130	CDS	2198510..2199520	mutY; putative adenine glycosylase
+krh:KRH_19140	CDS	complement(2199504..2200028)	putative acetyltransferase
+krh:KRH_19150	CDS	complement(2200139..2202757)	clpC; ATP-dependent Clp protease ATP-binding subunit ClpC
+krh:KRH_19160	CDS	complement(2203040..2203381)	LSR2-like protein
+krh:KRH_19170	CDS	complement(2203621..2203908)	hypothetical protein
+krh:KRH_19180	CDS	complement(2203958..2205490)	lysS; lysyl-tRNA synthetase
+krh:KRH_19190	CDS	complement(2205515..2206357)	panC; pantothenate synthetase
+krh:KRH_19200	CDS	complement(2206360..2207340)	hypothetical protein
+krh:KRH_19210	CDS	complement(2207393..2209405)	hypothetical membrane protein
+krh:KRH_19220	CDS	complement(2209402..2209866)	hypothetical protein
+krh:KRH_19230	CDS	complement(2209898..2210449)	hypothetical membrane protein
+krh:KRH_19240	CDS	complement(2210437..2210961)	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+krh:KRH_19250	CDS	complement(2210961..2211374)	folB; dihydroneopterin aldolase
+krh:KRH_19260	CDS	complement(2211382..2212437)	folP; dihydropteroate synthase
+krh:KRH_19270	CDS	complement(2212434..2213132)	folE; GTP cyclohydrolase I
+krh:KRH_19280	CDS	complement(2213133..2215262)	ftsH; ATP-dependent protease FtsH
+krh:KRH_19290	CDS	complement(2215527..2216078)	hpt; hypoxanthine phosphoribosyltransferase
+krh:KRH_19300	CDS	complement(2216075..2217154)	tilS; putative tRNA(Ile)-lysidine synthase
+krh:KRH_19310	CDS	complement(2217204..2217683)	hypothetical protein
+krh:KRH_19320	CDS	complement(2217718..2218821)	hypothetical protein
+krh:KRH_19330	CDS	complement(2218891..2220459)	dac; putative D-alanyl-D-alanine carboxypeptidase
+krh:KRH_19340	CDS	2220639..2221154	ppa; inorganic pyrophosphatase
+krh:KRH_19350	CDS	2221362..2222150	hypothetical protein
+krh:KRH_19360	CDS	complement(2222184..2222816)	hypothetical protein
+krh:KRH_19370	CDS	complement(2222869..2223705)	hypothetical protein
+krh:KRH_19380	CDS	complement(2224085..2225389)	serS; seryl-tRNA synthetase
+krh:KRH_19390	CDS	2225515..2226489	hypothetical protein
+krh:KRH_19400	CDS	complement(2226535..2227938)	putative gluconate permease
+krh:KRH_19410	CDS	complement(2227935..2228936)	pheA; prephenate dehydratase
+krh:KRH_19420	CDS	complement(2228933..2229268)	hypothetical protein
+krh:KRH_19430	CDS	complement(2229406..2230902)	putative L-asparagine permease
+krh:KRH_19440	CDS	2231364..2233040	putative hydrolase
+krh:KRH_19450	CDS	2233119..2234765	putative acetolactate synthase large subunit
+krh:KRH_19460	CDS	2234857..2236485	putative hydrolase
+krh:KRH_19470	CDS	complement(2236684..2238063)	aldehyde dehydrogenase
+krh:KRH_19480	CDS	2238390..2239865	gabD; succinate-semialdehyde dehydrogenase
+krh:KRH_19490	CDS	2239952..2241295	gabT; 4-aminobutyrate aminotransferase
+krh:KRH_19500	CDS	2241591..2243066	gabP; gamma-aminobutyrate permease
+krh:KRH_19510	CDS	2243102..2244658	amidase
+krh:KRH_19520	CDS	2244795..2246429	pgm; phosphoglucomutase
+krh:KRH_19530	CDS	2246493..2246636	hypothetical protein
+krh:KRH_19540	CDS	2246643..2246753	hypothetical protein
+krh:KRH_19550	CDS	2246929..2248011	hypothetical protein
+krh:KRH_19560	CDS	complement(2248064..2249629)	hypothetical membrane protein
+krh:KRH_19570	CDS	complement(2249774..2250556)	putative DtxR family transcriptional regulator
+krh:KRH_19580	CDS	complement(2250936..2251790)	putative 3-hydroxyacyl-CoA dehydrogenase
+krh:KRH_19590	CDS	2252045..2253460	putative uracil permease
+krh:KRH_19600	CDS	complement(2253729..2254799)	putative enoyl-CoA hydratase
+krh:KRH_19610	CDS	complement(2254911..2256107)	putative TDT family transporter
+krh:KRH_19620	CDS	2256224..2257126	putative LysR family transcriptional regulator
+krh:KRH_19630	CDS	complement(2257264..2259291)	putative ABC transporter ATP-binding protein
+krh:KRH_19640	CDS	complement(2259324..2260166)	putative ABC transporter permease protein
+krh:KRH_19650	CDS	complement(2260322..2261278)	putative ABC transporter permease protein
+krh:KRH_19660	CDS	complement(2261283..2262926)	putative ABC transporter substrate-binding protein
+krh:KRH_19670	CDS	complement(2263039..2263242)	hypothetical protein
+krh:KRH_19680	CDS	complement(2263480..2264376)	putative esterase
+krh:KRH_19690	CDS	complement(2264369..2265604)	hypothetical protein
+krh:KRH_19700	CDS	complement(2265610..2266131)	hypothetical protein
+krh:KRH_19710	CDS	complement(2266415..2267362)	putative fructokinase
+krh:KRH_19720	CDS	2267757..2269172	gap; glyceraldehyde-3-phosphate dehydrogenase
+krh:KRH_19730	CDS	complement(2269398..2270792)	putative M18 family peptidase
+krh:KRH_19740	CDS	complement(2270776..2271972)	hypothetical membrane protein
+krh:KRH_19750	CDS	complement(2272024..2272758)	hypothetical protein
+krh:KRH_19760	CDS	2272950..2273444	hypothetical protein
+krh:KRH_19770	CDS	2273441..2273767	putative 5-hydroxyisourate hydrolase
+krh:KRH_19780	CDS	2273841..2274725	putative uricase
+krh:KRH_19790	CDS	2274817..2276385	putative uric acid permease
+krh:KRH_19800	CDS	complement(2276571..2277332)	putative IclR family transcriptional regulator
+krh:KRH_19810	CDS	2277554..2279161	glcB; malate synthase
+krh:KRH_19820	CDS	2279158..2280588	hypothetical protein
+krh:KRH_19830	CDS	2280585..2281442	hypothetical protein
+krh:KRH_19840	CDS	complement(2281502..2282065)	putative acetyltransferase
+krh:KRH_19850	CDS	complement(2282121..2282597)	hypothetical membrane protein
+krh:KRH_19860	CDS	complement(2282753..2283799)	adhC; NADP-dependent alcohol dehydrogenase
+krh:KRH_19870	CDS	2283996..2284781	hyi; putative hydroxypyruvate isomerase
+krh:KRH_19880	CDS	2284975..2286105	putative glycerate kinase
+krh:KRH_19890	CDS	2286582..2287901	putative allantoinase
+krh:KRH_19900	CDS	2288039..2288818	hypothetical membrane protein
+krh:KRH_19910	CDS	complement(2288796..2289053)	hypothetical membrane protein
+krh:KRH_19920	CDS	2289373..2290308	hypothetical protein
+krh:KRH_19930	CDS	2290393..2291355	putative aldo-keto reductase
+krh:KRH_19940	CDS	2291500..2292054	putative PfpI family peptidase
+krh:KRH_19950	CDS	complement(2292216..2293310)	putative serine--pyruvate aminotransferase
+krh:KRH_19960	CDS	complement(2293520..2294713)	hypothetical protein
+krh:KRH_19970	CDS	complement(2294710..2294907)	putative Xre family DNA-binding protein
+krh:KRH_19980	CDS	complement(2295035..2296336)	putative MFS transporter
+krh:KRH_19990	CDS	complement(2296527..2296991)	hypothetical protein
+krh:KRH_20000	CDS	complement(2297059..2297997)	hypothetical protein
+krh:KRH_20010	CDS	complement(2297994..2299328)	hypothetical protein
+krh:KRH_20020	CDS	complement(2299325..2300767)	hypothetical protein
+krh:KRH_20030	CDS	2300859..2301227	putative GntR family transcriptional regulator
+krh:KRH_20040	CDS	2301391..2301780	hypothetical membrane protein
+krh:KRH_20050	CDS	2301785..2302405	mobA; putative molybdopterin-guanine dinucleotide biosynthesis protein MobA
+krh:KRH_20060	CDS	2302428..2303819	putative molybdenum cofactor biosynthesis protein
+krh:KRH_20070	CDS	complement(2303977..2304477)	hypothetical membrane protein
+krh:KRH_20080	CDS	complement(2304724..2309808)	gdh; NAD-dependent glutamate dehydrogenase
+krh:KRH_20090	CDS	2310145..2311002	putative formate transporter
+krh:KRH_20100	CDS	complement(2311172..2311717)	phosphoglycerate mutase family protein
+krh:KRH_20110	CDS	complement(2311993..2312436)	hypothetical protein
+krh:KRH_20120	CDS	2312535..2313170	hypothetical protein
+krh:KRH_20130	CDS	2313167..2314198	putative oxidoreductase
+krh:KRH_20140	CDS	2314326..2314886	hypothetical protein
+krh:KRH_20150	CDS	complement(2315024..2315500)	hypothetical protein
+krh:KRH_20160	CDS	2315558..2316256	hypothetical protein
+krh:KRH_20170	CDS	2316515..2317390	hypothetical membrane protein
+krh:KRH_t00460	tRNA	2317561..2317647	tRNA-Leu
+krh:KRH_20180	CDS	complement(2317784..2318272)	putative AsnC family transcriptional regulator
+krh:KRH_20190	CDS	2318488..2319621	aroT; putative aromatic amino acid aminotransferase
+krh:KRH_20200	CDS	2319629..2321065	aroP; putative aromatic amino acid transport protein
+krh:KRH_20210	CDS	complement(2321250..2322713)	hypothetical protein
+krh:KRH_20220	CDS	complement(2322829..2323227)	putative acetyltransferase
+krh:KRH_20230	CDS	complement(2323271..2323549)	hypothetical protein
+krh:KRH_20240	CDS	complement(2323593..2324684)	hypothetical membrane protein
+krh:KRH_20250	CDS	2324975..2326078	hypothetical protein
+krh:KRH_20260	CDS	complement(2326125..2326724)	putative methyltransferase
+krh:KRH_20270	CDS	2326884..2327633	hypothetical membrane protein
+krh:KRH_20280	CDS	2327948..2329324	glpT; glycerol-3-phosphate transporter
+krh:KRH_20290	CDS	2329514..2329960	hypothetical protein
+krh:KRH_20300	CDS	complement(2330116..2331345)	putative MFS transporter
+krh:KRH_20310	CDS	complement(2331480..2332229)	hypothetical membrane protein
+krh:KRH_20320	CDS	2332563..2333102	gntK; gluconokinase
+krh:KRH_20330	CDS	complement(2333316..2334452)	rumB; putative 23S rRNA (uracil-5-)-methyltransferase RumB
+krh:KRH_20340	CDS	2335039..2335683	hypothetical protein
+krh:KRH_20350	CDS	complement(2335652..2335921)	hypothetical membrane protein
+krh:KRH_20360	CDS	2336219..2338039	hypothetical protein
+krh:KRH_20370	CDS	complement(2338259..2341333)	hypothetical protein
+krh:KRH_20380	CDS	complement(2341339..2342418)	hypothetical protein
+krh:KRH_20390	CDS	complement(2342415..2343356)	hypothetical protein
+krh:KRH_20400	CDS	complement(2343353..2344567)	putative acyl-CoA dehydrogenase
+krh:KRH_20410	CDS	complement(2344560..2344814)	hypothetical protein
+krh:KRH_20420	CDS	complement(2344916..2345326)	acpS; holo-[acyl-carrier-protein] synthase
+krh:KRH_20430	CDS	complement(2345323..2346489)	putative esterase family protein
+krh:KRH_20440	CDS	complement(2346477..2348180)	hypothetical protein
+krh:KRH_20450	CDS	2348645..2349910	putative glycosyltransferase
+krh:KRH_20460	CDS	2349965..2351008	gmd; GDP-mannose 4,6-dehydratase
+krh:KRH_20470	CDS	2351035..2352072	fcl; GDP-L-fucose synthase
+krh:KRH_20480	CDS	complement(2352150..2352881)	hypothetical membrane protein
+krh:KRH_20490	CDS	complement(2353050..2354309)	hypothetical membrane protein
+krh:KRH_20500	CDS	complement(2354303..2355157)	putative glycosyltransferase
+krh:KRH_20510	CDS	2355528..2356172	hypothetical protein
+krh:KRH_20520	CDS	2356169..2357431	hypothetical membrane protein
+krh:KRH_20530	CDS	2357442..2359130	hypothetical protein
+krh:KRH_20540	CDS	2359218..2359754	hypothetical protein
+krh:KRH_20550	CDS	2359760..2360875	putative glycosyltransferase
+krh:KRH_20560	CDS	2361044..2361205	hypothetical protein
+krh:KRH_20570	CDS	2361322..2362518	serA; D-3-phosphoglycerate dehydrogenase
+krh:KRH_20580	CDS	2362820..2364529	DASS family transporter
+krh:KRH_20590	CDS	complement(2364797..2365414)	dps; DNA-binding protein Dps
+krh:KRH_20600	CDS	2365602..2367740	fadH; 2,4-dienoyl-CoA reductase
+krh:KRH_20610	CDS	2367895..2368716	hypothetical protein
+krh:KRH_20620	CDS	2368718..2369233	hypothetical protein
+krh:KRH_20630	CDS	2369237..2370820	pstP; serine/threonine protein phosphatase PstP
+krh:KRH_20640	CDS	2370817..2372595	rodA; putative cell division protein RodA
+krh:KRH_20650	CDS	2372592..2374034	pbpA; penicillin-binding protein PbpA
+krh:KRH_20660	CDS	2374031..2375767	serine/threonine protein kinase
+krh:KRH_20670	CDS	2375773..2377713	serine/threonine protein kinase
+krh:KRH_20680	CDS	complement(2377829..2378470)	trpG; anthranilate synthase component II
+krh:KRH_20690	CDS	2378659..2379354	hypothetical membrane protein
+krh:KRH_20700	CDS	2379351..2379677	hypothetical protein
+krh:KRH_20710	CDS	complement(2379789..2380343)	hypothetical protein
+krh:KRH_20720	CDS	complement(2380496..2381155)	putative oxidoreductase
+krh:KRH_20730	CDS	complement(2381377..2381904)	putative oxidoreductase
+krh:KRH_20740	CDS	complement(2382046..2382756)	putative alkylated DNA repair protein
+krh:KRH_20750	CDS	2383038..2384015	hypothetical protein
+krh:KRH_20760	CDS	complement(2384141..2384956)	putative hydrolase
+krh:KRH_20770	CDS	complement(2385097..2385810)	hypothetical membrane protein
+krh:KRH_20780	CDS	complement(2385810..2386631)	putative ABC transporter ATP-binding protein
+krh:KRH_20790	CDS	complement(2386754..2387116)	putative GntR family transcriptional regulator
+krh:KRH_20800	CDS	complement(2387266..2388162)	crtEb; lycopene elongase
+krh:KRH_20810	CDS	complement(2388131..2388484)	crtYf; C50 carotenoid epsilon cyclase
+krh:KRH_20820	CDS	complement(2388481..2389050)	crtYe; C50 carotenoid epsilon cyclase
+krh:KRH_20830	CDS	complement(2389050..2390915)	crtI; phytoene desaturase
+krh:KRH_20840	CDS	complement(2390912..2391823)	crtB; phytoene synthase
+krh:KRH_20850	CDS	complement(2391823..2392971)	crtE; geranylgeranyl pyrophosphate synthase
+krh:KRH_20860	CDS	complement(2392968..2393597)	putative MarR family transcriptional regulator
+krh:KRH_20870	CDS	complement(2393754..2394623)	hypothetical protein
+krh:KRH_20880	CDS	complement(2394669..2395709)	hypothetical protein
+krh:KRH_20890	CDS	2395933..2396262	hypothetical protein
+krh:KRH_20900	CDS	2396503..2397498	metF; 5,10-methylenetetrahydrofolate reductase
+krh:KRH_20910	CDS	2397661..2400099	metE; cobalamin-independent methionine synthase
+krh:KRH_20920	CDS	2400180..2401499	putative O-acetylhomoserine (thiol)-lyase
+krh:KRH_20930	CDS	2401625..2402869	metB; cystathionine gamma-synthase/cystathionine gamma-lyase
+krh:KRH_r00070	rRNA	complement(2402934..2403053)	5S ribosomal RNA
+krh:KRH_r00080	rRNA	complement(2403222..2406346)	23S ribosomal RNA
+krh:KRH_r00090	rRNA	complement(2406717..2408249)	16S ribosomal RNA
+krh:KRH_20940	CDS	complement(2408690..2410405)	putative fatty-acid--CoA ligase
+krh:KRH_20950	CDS	complement(2410449..2411708)	gcdH; putative glutaryl-CoA dehydrogenase
+krh:KRH_20960	CDS	complement(2411738..2413837)	fadB; fatty oxidation complex alpha subunit
+krh:KRH_20970	CDS	complement(2414008..2415294)	putative TetR family transcriptional regulator
+krh:KRH_20980	CDS	2415565..2417202	putative peptide ABC transporter peptide-binding protein
+krh:KRH_20990	CDS	2417291..2418217	putative peptide ABC transporter permease protein
+krh:KRH_21000	CDS	2418210..2419310	putative peptide ABC transporter permease protein
+krh:KRH_21010	CDS	2419307..2420995	putative peptide ABC transporter ATP-binding protein
+krh:KRH_21020	CDS	complement(2421124..2422038)	hypothetical protein
+krh:KRH_21030	CDS	complement(2422035..2422469)	hypothetical protein
+krh:KRH_21040	CDS	2422705..2423982	putative MFS transporter
+krh:KRH_21050	CDS	complement(2424069..2425640)	ansP; L-asparagine permease
+krh:KRH_21060	CDS	complement(2425760..2426095)	hypothetical protein
+krh:KRH_21070	CDS	2426200..2426697	putative acetyltransferase
+krh:KRH_21080	CDS	complement(2426682..2427326)	putative acetyltransferase
+krh:KRH_21090	CDS	complement(2427329..2427850)	putative MarR family transcriptional regulator
+krh:KRH_21100	CDS	complement(2427856..2428599)	putative NADH-dependent FMN reductase
+krh:KRH_21110	CDS	complement(2428698..2429891)	hypothetical protein
+krh:KRH_21120	CDS	2430057..2430815	hypothetical protein
+krh:KRH_21130	CDS	2430995..2432665	hypothetical protein
+krh:KRH_21140	CDS	2432662..2434404	accA; acyl-CoA carboxylase alpha chain
+krh:KRH_21150	CDS	2434401..2435075	putative GntR family transcriptional regulator
+krh:KRH_21160	CDS	complement(2434741..2436006)	hypothetical protein
+krh:KRH_21170	CDS	complement(2435225..2435380)	hypothetical protein
+krh:KRH_21180	CDS	complement(2436134..2437186)	hypothetical membrane protein
+krh:KRH_21190	CDS	complement(2437703..2438251)	hypothetical membrane protein
+krh:KRH_21200	CDS	complement(2438308..2439882)	hypothetical membrane protein
+krh:KRH_21210	CDS	2439979..2440674	putative TetR family transcriptional regulator
+krh:KRH_21220	CDS	complement(2440899..2441591)	hypothetical membrane protein
+krh:KRH_21230	CDS	complement(2441660..2443117)	hypothetical protein
+krh:KRH_21240	CDS	complement(2443250..2443705)	putative AsnC family transcriptional regulator
+krh:KRH_21250	CDS	2444137..2445339	branched-chain alpha-keto acid dehydrogenase E1 alpha subunit
+krh:KRH_21260	CDS	2445339..2446349	branched-chain alpha-keto acid dehydrogenase E1 beta subunit
+krh:KRH_21270	CDS	2446353..2447897	dihydrolipoamide acyltransferase
+krh:KRH_21280	CDS	complement(2448132..2449367)	hypothetical protein
+krh:KRH_21290	CDS	complement(2449419..2450030)	putative amino acid transporter
+krh:KRH_21300	CDS	2450155..2450769	putative oxidoreductase
+krh:KRH_21310	CDS	complement(2450880..2451368)	putative MarR family transcriptional regulator
+krh:KRH_21320	CDS	2451702..2452235	hypothetical protein
+krh:KRH_21330	CDS	2452305..2452910	hypothetical protein
+krh:KRH_21340	CDS	complement(2453026..2454210)	aminotransferase
+krh:KRH_21350	CDS	complement(2454207..2455244)	speB; putative agmatinase
+krh:KRH_21360	CDS	2455439..2456884	putative sodium/solute symporter
+krh:KRH_21370	CDS	2456881..2458530	putative acetolactate synthase large subunit
+krh:KRH_21380	CDS	complement(2458659..2459222)	hypothetical protein
+krh:KRH_21390	CDS	2459531..2461156	putative xanthine permease
+krh:KRH_21400	CDS	2461122..2461634	guaD; guanine deaminase
+krh:KRH_21410	CDS	complement(2461654..2462448)	xdhC; xanthine dehydrogenase accessory protein
+krh:KRH_21420	CDS	complement(2462450..2464828)	xdhB; xanthine dehydrogenase large subunit
+krh:KRH_21430	CDS	complement(2464825..2466348)	xdhA; xanthine dehydrogenase small subunit
+krh:KRH_21440	CDS	2466697..2467914	soxB; sarcosine oxidase beta subunit
+krh:KRH_21450	CDS	2467950..2468243	soxD; sarcosine oxidase delta subunit
+krh:KRH_21460	CDS	2468240..2471152	soxA; sarcosine oxidase alpha subunit
+krh:KRH_21470	CDS	2471145..2471834	soxG; sarcosine oxidase gamma subunit
+krh:KRH_21480	CDS	2471893..2472801	purU; formyltetrahydrofolate deformylase
+krh:KRH_21490	CDS	2472798..2473442	putative GntR family transcriptional regulator
+krh:KRH_21500	CDS	2473642..2474523	putative hydrolase
+krh:KRH_21510	CDS	2474640..2477939	putative lysyl-tRNA synthetase
+krh:KRH_21520	CDS	complement(2477914..2479395)	hypothetical membrane protein
+krh:KRH_21530	CDS	2480003..2481400	putative two-component histidine kinase
+krh:KRH_21540	CDS	2481402..2482058	putative NarL family two-component response regulator
+krh:KRH_21550	CDS	2482067..2483296	hypothetical protein
+krh:KRH_21560	CDS	2483643..2484863	putative MFS transporter
+krh:KRH_21570	CDS	2484900..2486186	cytochrome P450
+krh:KRH_21580	CDS	complement(2486373..2487554)	putative oxidoreductase
+krh:KRH_21590	CDS	complement(2487655..2489412)	peptidase M23B family protein
+krh:KRH_21600	CDS	complement(2489544..2490065)	hypothetical protein
+krh:KRH_21610	CDS	complement(2490193..2490780)	hypothetical protein
+krh:KRH_21620	CDS	2490797..2491225	hypothetical membrane protein
+krh:KRH_21630	CDS	complement(2491519..2492889)	aldehyde dehydrogenase
+krh:KRH_21640	CDS	2493135..2493404	hypothetical membrane protein
+krh:KRH_21650	CDS	2493459..2493734	hypothetical membrane protein
+krh:KRH_21660	CDS	complement(2493871..2494914)	putative nickel transporter
+krh:KRH_21670	CDS	complement(2494940..2496061)	ureD; urease accessory protein UreD
+krh:KRH_21680	CDS	complement(2496153..2496764)	ureG; urease accessory protein UreG
+krh:KRH_21690	CDS	complement(2496809..2497513)	ureF; urease accessory protein UreF
+krh:KRH_21700	CDS	complement(2497518..2498060)	ureE; urease accessory protein UreE
+krh:KRH_21710	CDS	complement(2498187..2499902)	ureC; urease alpha subunit
+krh:KRH_21720	CDS	complement(2499899..2500294)	ureB; urease beta subunit
+krh:KRH_21730	CDS	complement(2500363..2500665)	ureA; urease gamma subunit
+krh:KRH_21740	CDS	complement(2500997..2502523)	putative drug resistance efflux protein
+krh:KRH_21750	CDS	2502687..2503241	putative TetR family transcriptional regulator
+krh:KRH_21760	CDS	complement(2503505..2505727)	hypothetical membrane protein
+krh:KRH_21770	CDS	complement(2505727..2506422)	putative ABC transporter ATP-binding protein
+krh:KRH_21780	CDS	complement(2506824..2507723)	putative NarL family two-component response regulator
+krh:KRH_21790	CDS	complement(2507723..2508925)	putative two-component histidine kinase
+krh:KRH_21800	CDS	complement(2509109..2509708)	hypothetical membrane protein
+krh:KRH_21810	CDS	complement(2509705..2510784)	hypothetical membrane protein
+krh:KRH_21820	CDS	complement(2510781..2512325)	hypothetical membrane protein
+krh:KRH_21830	CDS	complement(2512533..2513966)	hypothetical protein
+krh:KRH_21840	CDS	complement(2513992..2515119)	gfo; putative glucose-fructose oxidoreductase
+krh:KRH_21850	CDS	complement(2515384..2516190)	putative hydrolase
+krh:KRH_21860	CDS	2516325..2516504	hypothetical protein
+krh:KRH_21870	CDS	complement(2516519..2516911)	hypothetical protein
+krh:KRH_21880	CDS	2517196..2517999	putative 3-mercaptopyruvate sulfurtransferase
+krh:KRH_21890	CDS	2518094..2518957	hypothetical protein
+krh:KRH_21900	CDS	2519304..2519960	hypothetical protein
+krh:KRH_21910	CDS	complement(2520025..2520666)	hypothetical membrane protein
+krh:KRH_21920	CDS	complement(2520774..2522198)	putative oxidoreductase
+krh:KRH_21930	CDS	2522306..2523001	putative enoyl-CoA hydratase
+krh:KRH_21940	CDS	complement(2523271..2523693)	hypothetical protein
+krh:KRH_21950	CDS	complement(2523907..2524422)	putative acetyltransferase
+krh:KRH_21960	CDS	2525165..2525545	hypothetical protein
+krh:KRH_21970	CDS	2525554..2526786	putative RNA polymerase ECF-type sigma factor
+krh:KRH_21980	CDS	complement(2526879..2527028)	hypothetical protein
+krh:KRH_21990	CDS	complement(2527410..2527988)	hypothetical protein
+krh:KRH_22000	CDS	complement(2528001..2528771)	hpaI; putative 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase
+krh:KRH_22010	CDS	complement(2528822..2529586)	hpaH; 2-oxo-hepta-3-ene-1,7-dioic acid hydratase
+krh:KRH_22020	CDS	complement(2529818..2530984)	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+krh:KRH_22030	CDS	complement(2531114..2532649)	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase
+krh:KRH_22040	CDS	complement(2532688..2533377)	putative GntR family transcriptional regulator
+krh:KRH_22050	CDS	complement(2533422..2534954)	putative 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase/5-carboxymethyl-2-oxo-hex-3-ene-1,7-dioate decarboxylase
+krh:KRH_22060	CDS	2535360..2537246	putative phenol 2-monooxygenase
+krh:KRH_22070	CDS	complement(2537317..2538117)	putative bacteriocin
+krh:KRH_22080	CDS	complement(2538120..2539208)	Dyp-type peroxidase family protein
+krh:KRH_22090	CDS	complement(2539225..2539554)	multidrug efflux transporter
+krh:KRH_22100	CDS	complement(2539551..2539913)	multidrug efflux transporter
+krh:KRH_22110	CDS	complement(2539910..2540419)	putative TetR family transcriptional regulator
+krh:KRH_22120	CDS	2540593..2541393	putative transposase
+krh:KRH_22130	CDS	2541197..2541901	putative transposase
+krh:KRH_22140	CDS	complement(2541962..2542975)	putative 2-nitropropane dioxygenase
+krh:KRH_22150	CDS	2542999..2543484	hypothetical protein
+krh:KRH_22160	CDS	complement(2543481..2543795)	hypothetical membrane protein
+krh:KRH_22170	CDS	complement(2544062..2545729)	drug resistance efflux protein
+krh:KRH_22180	CDS	complement(2545898..2546806)	surE; 5'-nucleotidase SurE
+krh:KRH_22190	CDS	complement(2546823..2547785)	hypothetical protein
+krh:KRH_22200	CDS	2547814..2548326	putative acetyltransferase
+krh:KRH_22210	CDS	complement(2548487..2549107)	hypothetical protein
+krh:KRH_22220	CDS	complement(2549137..2549556)	hypothetical protein
+krh:KRH_22230	CDS	2549844..2550335	putative heat shock protein
+krh:KRH_22240	CDS	complement(2550569..2551564)	cdsA; phosphatidate cytidylyltransferase
+krh:KRH_22250	CDS	complement(2551571..2552233)	putative phosphatidylinositol synthase
+krh:KRH_22260	CDS	2552487..2553050	hypothetical protein
+krh:KRH_22270	CDS	complement(2553118..2556759)	hypothetical membrane protein
+krh:KRH_22280	CDS	complement(2556895..2557560)	putative TetR family transcriptional regulator
+krh:KRH_22290	CDS	complement(2557650..2559182)	dsdA; D-serine dehydratase
+krh:KRH_22300	CDS	complement(2559232..2560488)	putative MFS transporter
+krh:KRH_22310	CDS	2560814..2562418	oxidoreductase
+krh:KRH_22320	CDS	complement(2562607..2562813)	cold shock protein
+krh:KRH_22330	CDS	complement(2563062..2564144)	putative oxidoreductase
+krh:KRH_22340	CDS	complement(2564382..2565788)	aldehyde dehydrogenase
+krh:KRH_22350	CDS	2565998..2567482	putative amino acid transporter
+krh:KRH_22360	CDS	2567652..2568983	tyramine oxidase
+krh:KRH_22370	CDS	complement(2569200..2570150)	putative AraC family transcriptional regulator
+krh:KRH_22380	CDS	2570352..2570792	putative thioesterase
+krh:KRH_22390	CDS	complement(2570832..2571635)	oxidoreductase
+krh:KRH_22400	CDS	complement(2571676..2573337)	putative hydrolase
+krh:KRH_22410	CDS	complement(2573363..2574763)	MFS transporter
+krh:KRH_22420	CDS	2575082..2575273	hypothetical protein
+krh:KRH_22430	CDS	2575277..2575453	hypothetical protein
+krh:KRH_22440	CDS	complement(2575450..2577183)	putative acyltransferase
+krh:KRH_22450	CDS	complement(2577248..2578456)	aminotransferase
+krh:KRH_22460	CDS	complement(2578929..2579600)	hypothetical membrane protein
+krh:KRH_22470	CDS	2579703..2580152	pyrimidine dimer DNA glycosylase
+krh:KRH_22480	CDS	2580217..2580786	hypothetical protein
+krh:KRH_22490	CDS	2580820..2582418	putative methylated-DNA--protein-cysteine methyltransferase/3-methyladenine-DNA glycosylase II
+krh:KRH_22500	CDS	2582415..2582918	putative methylated-DNA--protein-cysteine methyltransferase
+krh:KRH_22510	CDS	2583129..2583920	putative glycosyltransferase
+krh:KRH_22520	CDS	2584178..2584660	hypothetical membrane protein
+krh:KRH_22530	CDS	complement(2584780..2585217)	hypothetical membrane protein
+krh:KRH_22540	CDS	complement(2585214..2585636)	ohr; organic hydroperoxide resistance protein
+krh:KRH_22550	CDS	complement(2586008..2587084)	2,3-butanediol dehydrogenase
+krh:KRH_22560	CDS	2587393..2588232	phosphotransferase system enzyme IIAB component
+krh:KRH_22570	CDS	2588283..2589869	phosphotransferase system enzyme IIC component
+krh:KRH_22580	CDS	2589866..2590534	hypothetical protein
+krh:KRH_22590	CDS	2590531..2591163	putative acetyltransferase
+krh:KRH_22600	CDS	2591148..2591528	hypothetical protein
+krh:KRH_22610	CDS	complement(2591635..2592555)	hypothetical protein
+krh:KRH_22620	CDS	complement(2592622..2593209)	hypothetical protein
+krh:KRH_22630	CDS	2593393..2595612	katE; catalase HPII
+krh:KRH_22640	CDS	2595837..2596898	hypothetical protein
+krh:KRH_22650	CDS	2596925..2597320	hypothetical protein
+krh:KRH_22660	CDS	complement(2597445..2597612)	hypothetical protein
+krh:KRH_22670	CDS	2597873..2598787	hypothetical membrane protein
+krh:KRH_22680	CDS	2599039..2599398	hypothetical protein
+krh:KRH_22690	CDS	2599731..2600219	hypothetical protein
+krh:KRH_22700	CDS	complement(2600331..2600600)	hypothetical protein
+krh:KRH_22710	CDS	complement(2600812..2601756)	putative electron transfer flavoprotein alpha subunit
+krh:KRH_22720	CDS	complement(2601890..2602696)	putative electron transfer flavoprotein beta subunit
+krh:KRH_22730	CDS	complement(2602696..2603586)	putative citrate lyase beta chain
+krh:KRH_22740	CDS	complement(2603583..2604284)	hypothetical protein
+krh:KRH_22750	CDS	complement(2604281..2605462)	fadE; acyl-CoA dehydrogenase
+krh:KRH_22760	CDS	complement(2605596..2607665)	accA; acyl-CoA carboxylase alpha chain
+krh:KRH_22770	CDS	complement(2607677..2609350)	accD; acyl-CoA carboxylase beta chain
+krh:KRH_22780	CDS	2609411..2610022	putative TetR family transcriptional regulator
+krh:KRH_22790	CDS	2610027..2611196	fadE; acyl-CoA dehydrogenase
+krh:KRH_22800	CDS	2611275..2612897	putative fatty-acid--CoA ligase
+krh:KRH_22810	CDS	2612921..2613412	hypothetical protein
+krh:KRH_22820	CDS	2613643..2614371	hypothetical protein
+krh:KRH_22830	CDS	2614428..2614661	hypothetical protein
+krh:KRH_22840	CDS	complement(2614724..2615062)	hypothetical protein
+krh:KRH_22850	CDS	complement(2615072..2615272)	hypothetical protein
+krh:KRH_22860	CDS	complement(2615394..2616719)	phr; deoxyribodipyrimidine photo-lyase
+krh:KRH_22870	CDS	complement(2616923..2618257)	serine transporter
+krh:KRH_22880	CDS	2618471..2618902	putative MarR family transcriptional regulator
+krh:KRH_22890	CDS	complement(2618951..2620708)	hypothetical protein
+krh:KRH_22900	CDS	2620852..2621544	putative TetR family transcriptional regulator
+krh:KRH_22910	CDS	complement(2621780..2623234)	proY; putative proline-specific permease
+krh:KRH_22920	CDS	complement(2623231..2624391)	hutG; formiminoglutamate hydrolase
+krh:KRH_22930	CDS	2624626..2625411	putative IclR family transcriptional regulator
+krh:KRH_22940	CDS	complement(2625551..2625829)	hypothetical protein
+krh:KRH_22950	CDS	2626107..2627825	hutU; urocanate hydratase
+krh:KRH_22960	CDS	2627822..2628997	hutI; imidazolonepropionase
+krh:KRH_22970	CDS	2629111..2630430	hypothetical membrane protein
+krh:KRH_22980	CDS	2630547..2632076	hutH; histidine ammonia-lyase
+krh:KRH_22990	CDS	2632299..2632592	putative regulatory protein
+krh:KRH_23000	CDS	2632651..2633907	acetamidase
+krh:KRH_23010	CDS	complement(2634032..2634910)	putative hydrolase
+krh:KRH_23020	CDS	2635004..2637442	hypothetical protein
+krh:KRH_23030	CDS	2637509..2640769	hypothetical protein
+krh:KRH_23040	CDS	complement(2640952..2641515)	hypothetical protein
+krh:KRH_23050	CDS	complement(2641512..2641784)	hypothetical protein
+krh:KRH_23060	CDS	complement(2641781..2643007)	pit; inorganic phosphate transporter
+krh:KRH_23070	CDS	2643146..2644711	drug resistance efflux protein
+krh:KRH_23080	CDS	complement(2644890..2646344)	hypothetical membrane protein
+krh:KRH_23090	CDS	complement(2646692..2647174)	hypothetical protein
+krh:KRH_23100	CDS	complement(2647171..2648160)	NAD-dependent epimerase/dehydratase family protein
+krh:KRH_23110	CDS	2648320..2648556	hypothetical protein
+krh:KRH_23120	CDS	complement(2648650..2648811)	hypothetical protein
+krh:KRH_23130	CDS	complement(2648896..2651469)	putative para-aminobenzoate synthase component I
+krh:KRH_23140	CDS	complement(2651496..2651708)	hypothetical protein
+krh:KRH_23150	CDS	complement(2651739..2652758)	oxidoreductase
+krh:KRH_23160	CDS	complement(2652924..2653046)	rpmJ; 50S ribosomal protein L36
+krh:KRH_23170	CDS	complement(2653072..2654661)	putative two-component histidine kinase
+krh:KRH_23180	CDS	complement(2654658..2656103)	putative glycosyltransferase
+krh:KRH_23190	CDS	complement(2656090..2657187)	hypothetical protein
+krh:KRH_23200	CDS	complement(2657195..2657578)	putative two-component response regulator
+krh:KRH_23210	CDS	complement(2657700..2658338)	hypothetical protein
+krh:KRH_23220	CDS	complement(2658442..2659059)	hypothetical membrane protein
+krh:KRH_23230	CDS	2659200..2660120	mrr; Mrr restriction system protein
+krh:KRH_23240	CDS	complement(2660203..2661168)	hypothetical protein
+krh:KRH_23250	CDS	complement(2661314..2662588)	putative MFS transporter
+krh:KRH_23260	CDS	2662795..2663268	putative MarR family transcriptional regulator
+krh:KRH_23270	CDS	complement(2663293..2664963)	putative CdaR family transcriptional regulator
+krh:KRH_23280	CDS	2665362..2666858	mmsA; methylmalonate-semialdehyde dehydrogenase
+krh:KRH_23290	CDS	2666919..2668334	aminotransferase
+krh:KRH_23300	CDS	2668443..2669297	putative epoxide hydrolase
+krh:KRH_23310	CDS	complement(2669307..2671154)	recQ; ATP-dependent DNA helicase RecQ
+krh:KRH_23320	CDS	2671661..2672164	hypothetical protein
+krh:KRH_23330	CDS	complement(2672251..2673705)	hypothetical membrane protein
+krh:KRH_23340	CDS	complement(2673726..2675078)	dnaB; replicative DNA helicase
+krh:KRH_23350	CDS	complement(2675296..2675883)	hypothetical membrane protein
+krh:KRH_23360	CDS	complement(2675889..2676338)	rplI; 50S ribosomal protein L9
+krh:KRH_23370	CDS	complement(2676359..2676595)	rpsR; 30S ribosomal protein S18
+krh:KRH_23380	CDS	complement(2676662..2677294)	ssb; single-stranded DNA-binding protein
+krh:KRH_23390	CDS	complement(2677416..2677721)	rpsF; 30S ribosomal protein S6
+krh:KRH_23400	CDS	complement(2677852..2678313)	hypothetical membrane protein
+krh:KRH_23410	CDS	complement(2678321..2679496)	hypothetical protein
+krh:KRH_23420	CDS	complement(2679512..2680771)	hypothetical membrane protein
+krh:KRH_23430	CDS	complement(2681081..2682517)	tRNA nucleotidyltransferase
+krh:KRH_23440	CDS	2682744..2683262	putative NTP pyrophosphohydrolase
+krh:KRH_23450	CDS	2683328..2684983	hypothetical membrane protein
+krh:KRH_23460	CDS	2685049..2686857	hypothetical protein
+krh:KRH_23470	CDS	2687297..2688223	trxB; thioredoxin reductase
+krh:KRH_23480	CDS	2688303..2688638	trxA; thioredoxin
+krh:KRH_23490	CDS	2688757..2689992	putative N-acetylmuramoyl-L-alanine amidase
+krh:KRH_23500	CDS	complement(2690194..2691195)	parB; chromosome partitioning protein ParB
+krh:KRH_23510	CDS	complement(2692650..2693504)	parA; chromosome partitioning protein ParA
+krh:KRH_23520	CDS	complement(2693767..2694528)	gidB; methyltransferase GidB
+krh:KRH_23530	CDS	complement(2694525..2695079)	hypothetical protein
+krh:KRH_23540	CDS	complement(2695093..2696076)	OxaA family protein
+krh:KRH_23550	CDS	complement(2696073..2696495)	hypothetical protein
+krh:KRH_23560	CDS	complement(2696574..2696915)	rnpA; ribonuclease P protein component
+krh:KRH_23570	CDS	complement(2696944..2697081)	rpmH; 50S ribosomal protein L34
