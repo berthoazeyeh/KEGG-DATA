@@ -1,0 +1,2519 @@
+sun:SUN_0001	CDS	65..1393	dnaA; chromosome replication initiator protein DnaA
+sun:SUN_0002	CDS	1584..2651	dnaN; DNA polymerase III, beta subunit
+sun:SUN_0003	CDS	2663..4294	pyrG; CTP synthetase
+sun:SUN_0004	CDS	4295..5878	recJ; single-strand DNA-specific exonuclease
+sun:SUN_0005	CDS	5881..6087	conserved hypothetical protein
+sun:SUN_0006	CDS	complement(6135..7109)	conserved hypothetical protein
+sun:SUN_0007	CDS	complement(7187..8389)	iscS; cysteine desulfurase
+sun:SUN_0008	CDS	8705..9091	conserved hypothetical protein
+sun:SUN_0009	CDS	complement(9093..9671)	GTP cyclohydrolase I
+sun:SUN_0010	CDS	complement(9713..10693)	A/G-specific adenine glycosylase
+sun:SUN_0011	CDS	10775..12058	tig; trigger factor
+sun:SUN_0012	CDS	12345..12932	clpP; ATP-dependent Clp protease, proteolytic subunit
+sun:SUN_0013	CDS	12941..13465	formylmethionine deformylase
+sun:SUN_0014	CDS	13548..15131	Mg chelatase-related protein
+sun:SUN_0015	CDS	complement(15241..16308)	conserved hypothetical protein
+sun:SUN_0016	CDS	16431..17336	transcriptional regulator, LysR family
+sun:SUN_0017	CDS	complement(17337..17903)	molybdopterin-guanine dinucleotide biosynthesis protein A
+sun:SUN_0018	CDS	complement(17900..19021)	nucleoside:H+ symporter
+sun:SUN_0019	CDS	complement(19018..19515)	conserved hypothetical protein
+sun:SUN_0020	CDS	complement(19515..20297)	conserved hypothetical protein
+sun:SUN_0021	CDS	complement(20334..21548)	type II secretion system protein F
+sun:SUN_0022	CDS	complement(21668..22096)	hypothetical protein
+sun:SUN_0023	CDS	complement(22093..22635)	hypothetical protein
+sun:SUN_0024	CDS	complement(22644..23087)	type II secretion system protein G
+sun:SUN_0025	CDS	23148..24062	hypothetical protein
+sun:SUN_0026	CDS	24040..24972	hypothetical protein
+sun:SUN_0027	CDS	24969..25370	hypothetical protein
+sun:SUN_0028	CDS	25358..25873	hypothetical protein
+sun:SUN_0029	CDS	25857..26699	hypothetical protein
+sun:SUN_0030	CDS	26686..28722	type II secretion system protein D
+sun:SUN_0031	CDS	28722..30233	type II secretion system protein E
+sun:SUN_0032	CDS	30211..30852	hypothetical protein
+sun:SUN_0033	CDS	30907..33240	conserved hypothetical protein
+sun:SUN_0034	CDS	33313..33822	conserved hypothetical protein
+sun:SUN_0035	CDS	complement(33843..34448)	orotate phosphoribosyltransferase
+sun:SUN_0036	CDS	complement(34451..35008)	frr; ribosome recycling factor Frr
+sun:SUN_0037	CDS	complement(35140..35487)	preprotein translocase subunit G
+sun:SUN_0038	CDS	35597..36325	methyl transferase
+sun:SUN_0039	CDS	complement(36364..37050)	conserved hypothetical protein
+sun:SUN_r01	rRNA	37472..38980	rrnA_16S; 16S ribosomal RNA
+sun:SUN_t01	tRNA	39108..39183	trnA_Ala; tRNA-Ala
+sun:SUN_r02	rRNA	39618..42493	rrnA_23S; 23S ribosomal RNA
+sun:SUN_r03	rRNA	42683..42798	rrnA_5S; 5S ribosomal RNA
+sun:SUN_0040	gene	complement(42896..45826)	pseudogene
+sun:SUN_0041	CDS	46040..46231	rpmI; 50S ribosomal protein L35
+sun:SUN_0042	CDS	46342..46698	rplT; 50S ribosomal protein L20
+sun:SUN_0043	CDS	46898..48001	deoxyguanosinetriphosphate triphosphohydrolase
+sun:SUN_0044	CDS	48234..49766	conserved hypothetical protein
+sun:SUN_0045	CDS	50045..50635	conserved hypothetical protein
+sun:SUN_0046	CDS	50831..51202	conserved hypothetical protein
+sun:SUN_0047	CDS	51212..52687	conserved hypothetical protein
+sun:SUN_0048	CDS	52711..53130	hypothetical protein
+sun:SUN_0049	CDS	53157..54473	sulfur oxidation protein SoxC
+sun:SUN_0050	CDS	54454..55626	sulfur oxidation protein, cytochrome c subunit
+sun:SUN_0051	CDS	55666..56178	sulfur oxidation protein SoxY
+sun:SUN_0052	CDS	56258..56560	sulfur oxidation protein SoxZ
+sun:SUN_0053	CDS	56570..57691	conserved hypothetical protein
+sun:SUN_0054	CDS	57697..58137	conserved hypothetical protein
+sun:SUN_0055	CDS	58137..58583	conserved hypothetical protein
+sun:SUN_0056	CDS	58672..59427	hypothetical protein
+sun:SUN_0057	CDS	59564..60505	conserved hypothetical protein
+sun:SUN_0058	CDS	complement(60805..62172)	sulfur oxidation protein, flavocytochrome c
+sun:SUN_0059	CDS	complement(62240..62707)	hypothetical protein
+sun:SUN_0060	CDS	complement(62708..63124)	conserved hypothetical protein
+sun:SUN_0061	CDS	63286..64023	conserved hypothetical protein
+sun:SUN_0062	CDS	64025..65005	conserved hypothetical protein
+sun:SUN_0063	CDS	complement(65047..66114)	prfA; peptide chain release factor 1
+sun:SUN_0064	CDS	complement(66192..66461)	rpsT; 30S ribosomal protein S20
+sun:SUN_0065	CDS	66689..68026	glmM; phosphoglucosamine mutase
+sun:SUN_0066	CDS	68026..68466	lipoprotein signal peptidase II
+sun:SUN_0067	CDS	68473..69423	conserved hypothetical protein
+sun:SUN_0068	CDS	69420..70238	hypothetical protein
+sun:SUN_0069	CDS	complement(70235..70504)	conserved hypothetical protein
+sun:SUN_0070	CDS	complement(70572..71045)	moaC; molybdenum cofactor biosynthesis protein C
+sun:SUN_0071	CDS	71236..71922	conserved hypothetical protein
+sun:SUN_0072	CDS	71922..73388	ferredoxin-like protein
+sun:SUN_0073	CDS	73399..74571	sulfide-quinone reductase
+sun:SUN_0074	CDS	74628..75026	conserved hypothetical protein
+sun:SUN_0075	CDS	75195..75716	tpx; thiol peroxidase
+sun:SUN_0076	CDS	75744..76391	conserved hypothetical protein
+sun:SUN_0077	CDS	76411..76797	conserved hypothetical protein
+sun:SUN_0078	CDS	76799..77389	conserved hypothetical protein
+sun:SUN_0079	CDS	77476..77973	hypothetical protein
+sun:SUN_0080	CDS	complement(77975..78751)	UDP-N-acetylmuramate dehydrogenase
+sun:SUN_0081	CDS	complement(78788..79654)	conserved hypothetical protein
+sun:SUN_0082	CDS	79932..80975	recA; DNA recombination protein RecA
+sun:SUN_0083	CDS	81163..82437	phosphopyruvate hydratase
+sun:SUN_0084	CDS	82446..82697	conserved hypothetical protein
+sun:SUN_0085	CDS	82701..83411	conserved hypothetical protein
+sun:SUN_0086	CDS	complement(83408..84562)	Na+:H+ antiporter, NhaA family
+sun:SUN_0087	CDS	complement(84549..85466)	bioB; biotin synthase
+sun:SUN_0088	CDS	complement(85411..87609)	topA; DNA topoisomerase I
+sun:SUN_0089	CDS	complement(87723..88628)	hypothetical protein
+sun:SUN_0090	CDS	complement(88640..89206)	dcd; deoxycytidine triphosphate deaminase
+sun:SUN_0091	CDS	complement(89224..90045)	conserved hypothetical protein
+sun:SUN_0092	CDS	90194..92569	conserved hypothetical protein
+sun:SUN_0093	CDS	92566..93528	oxidoreductase
+sun:SUN_0094	CDS	93528..94097	acetyltransferase
+sun:SUN_0095	CDS	94094..95179	aminotransferase
+sun:SUN_0096	CDS	95176..96441	polysaccharide biosynthesis protein
+sun:SUN_0097	CDS	96431..97153	conserved hypothetical protein
+sun:SUN_0098	CDS	97146..98399	polysaccharide biosynthesis protein
+sun:SUN_0099	CDS	98443..99531	conserved hypothetical protein
+sun:SUN_0100	CDS	99528..100625	glycosyl transferase
+sun:SUN_0101	CDS	100622..101017	hypothetical protein
+sun:SUN_0102	CDS	101103..102095	glycosyl transferase
+sun:SUN_0103	CDS	102092..104212	oligosaccharide transferase
+sun:SUN_0104	CDS	104213..104812	undecaprenyl-phosphate galactose phosphotransferase
+sun:SUN_0105	CDS	104816..105916	aminotransferase
+sun:SUN_0106	CDS	105913..107694	sugar epimerase/dehydratase
+sun:SUN_0107	CDS	107745..108080	DNA uptake protein
+sun:SUN_0108	CDS	108167..109555	glutamyl-tRNA synthetase
+sun:SUN_0109	CDS	complement(109649..110284)	conserved hypothetical protein
+sun:SUN_0110	CDS	110356..110577	molybdenum cofactor biosynthesis protein D
+sun:SUN_0111	CDS	110581..111015	molybdenum cofactor biosynthesis protein E
+sun:SUN_0112	CDS	111122..112324	molybdopterin biosynthesis protein
+sun:SUN_0113	CDS	112678..113331	phage repressor protein
+sun:SUN_0114	CDS	complement(113421..113768)	conserved hypothetical protein
+sun:SUN_0115	CDS	113861..115825	conserved hypothetical protein
+sun:SUN_0116	CDS	115827..116177	conserved hypothetical protein
+sun:SUN_0117	CDS	complement(116274..117452)	Na+:H+ antiporter, NhaA family
+sun:SUN_0118	CDS	complement(117613..117954)	translation initiation factor SUI1
+sun:SUN_0119	CDS	complement(117964..119526)	sugar kinase
+sun:SUN_0120	CDS	complement(119610..120785)	oxidoreductase
+sun:SUN_0121	CDS	complement(120789..121076)	conserved hypothetical protein
+sun:SUN_0122	CDS	complement(121235..121972)	conserved hypothetical protein
+sun:SUN_t02	tRNA	122127..122202	trnB_Thr1; tRNA-Thr
+sun:SUN_t03	tRNA	122258..122342	trnB_Tyr; tRNA-Tyr
+sun:SUN_t04	tRNA	122365..122441	trnB_Gly; tRNA-Gly
+sun:SUN_t05	tRNA	122620..122694	trnB_Thr2; tRNA-Thr
+sun:SUN_0123	CDS	122838..124046	translation elongation factor Tu
+sun:SUN_0124	CDS	124101..124253	rpmG; 50S ribosomal protein L33
+sun:SUN_t06	tRNA	124314..124389	trnB_Trp; tRNA-Trp
+sun:SUN_0125	CDS	124407..124586	preprotein translocase subunit E
+sun:SUN_0126	CDS	124599..125129	nusG; transcriptional antitermination factor NusG
+sun:SUN_0127	CDS	125165..125590	rplK; 50S ribosomal protein L11
+sun:SUN_0128	CDS	125678..126382	rplA; 50S ribosomal protein L1
+sun:SUN_0129	CDS	126618..127103	rplJ; 50S ribosomal protein L10
+sun:SUN_0130	CDS	127190..127564	rplL; 50S ribosomal protein L7/L12
+sun:SUN_0131	CDS	127884..132041	rpoB; DNA-directed RNA polymerase, beta subunit
+sun:SUN_0132	CDS	132034..136563	rpoC; DNA-directed RNA polymerase, beta' subunit
+sun:SUN_0133	CDS	136772..137143	rpsL; 30S ribosomal protein S12
+sun:SUN_0134	CDS	137276..137743	rpsG; 30S ribosomal protein S7
+sun:SUN_0135	CDS	137755..139845	fusA; translation elongation factor G
+sun:SUN_0136	CDS	140017..140382	hypothetical protein
+sun:SUN_0137	CDS	complement(140388..140729)	conserved hypothetical protein
+sun:SUN_0138	CDS	complement(140783..141019)	hypothetical protein
+sun:SUN_0139	CDS	complement(141111..141488)	GTP cyclohydrolase I
+sun:SUN_0140	CDS	complement(141499..142914)	conserved hypothetical protein
+sun:SUN_0141	CDS	complement(142918..145239)	gyrB; DNA gyrase subunit B
+sun:SUN_0142	CDS	complement(145544..146557)	O-sialoglycoprotein endopeptidase
+sun:SUN_0143	CDS	complement(146637..147173)	conserved hypothetical protein
+sun:SUN_0144	CDS	complement(147216..148289)	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+sun:SUN_0145	CDS	complement(148293..149051)	phosphatidate cytidylyltransferase
+sun:SUN_0146	CDS	complement(149107..150450)	fibronectin/fibrinogen-binding protein
+sun:SUN_0147	CDS	150519..151799	leuC; 3-isopropylmalate dehydratase, large subunit
+sun:SUN_0148	CDS	151835..152128	conserved hypothetical protein
+sun:SUN_0149	CDS	152121..152489	conserved hypothetical protein
+sun:SUN_0150	CDS	152486..152890	conserved hypothetical protein
+sun:SUN_0151	CDS	complement(153099..153830)	succinate dehydrogenase/fumarate reductase, iron-sulfur protein
+sun:SUN_0152	CDS	complement(153827..155443)	succinate dehydrogenase/fumarate reductase, flavoprotein subunit
+sun:SUN_0153	CDS	complement(155440..156387)	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic component
+sun:SUN_0154	CDS	complement(156389..156757)	conserved hypothetical protein
+sun:SUN_0155	CDS	complement(156795..157958)	purT; phosphoribosylglycinamide formyltransferase 2
+sun:SUN_0156	CDS	complement(158118..158330)	rpsU; 30S ribosomal protein S21
+sun:SUN_0157	CDS	158469..159914	conserved hypothetical protein
+sun:SUN_0158	CDS	complement(159880..161109)	nitrous oxidase accessory protein NosD
+sun:SUN_0159	CDS	161183..161737	purN; phosphoribosylglycinamide formyltransferase
+sun:SUN_0160	CDS	complement(161744..162244)	2'-5' RNA ligase
+sun:SUN_0161	CDS	162301..162624	hypothetical protein
+sun:SUN_0162	CDS	162646..163971	sodium-driven multidrug efflux pump protein
+sun:SUN_0163	CDS	164035..164274	hypothetical protein
+sun:SUN_0164	CDS	164373..164885	shikimate kinase
+sun:SUN_0165	CDS	165437..166291	ispA; geranyltranstransferase
+sun:SUN_0166	CDS	166296..168275	transketolase
+sun:SUN_0167	CDS	complement(168357..169679)	multidrug-efflux transporter, MFS family
+sun:SUN_0168	CDS	169747..170376	Ham1 family protein
+sun:SUN_0169	CDS	170498..172318	invasion antigen B
+sun:SUN_0170	CDS	complement(172315..173781)	conserved hypothetical protein
+sun:SUN_0171	CDS	complement(173784..174977)	N-acetyl-L-amino acid amidohydrolase
+sun:SUN_0172	CDS	175324..176451	aminotransferase
+sun:SUN_0173	CDS	176451..177296	conserved hypothetical protein
+sun:SUN_0174	CDS	177304..178554	purA; adenylosuccinate synthetase
+sun:SUN_0175	CDS	178663..179214	conserved hypothetical protein
+sun:SUN_0176	CDS	179305..180423	carA; carbamoylphosphate synthase, small subunit
+sun:SUN_0177	CDS	180476..181516	ddlA; D-alanine-D-alanine ligase
+sun:SUN_0178	CDS	181741..183207	cytochrome c oxidase, cbb3-type, subunit I
+sun:SUN_0179	CDS	183219..183908	cytochrome c oxidase, cbb3-type, subunit II
+sun:SUN_0180	CDS	183914..184132	cytochrome c oxidase, cbb3-type, subunit IV
+sun:SUN_0181	CDS	184129..185019	cytochrome c oxidase, cbb3-type, subunit III
+sun:SUN_0182	CDS	185021..185251	conserved hypothetical protein
+sun:SUN_0183	CDS	185374..186009	conserved hypothetical protein
+sun:SUN_0184	CDS	185993..186541	conserved hypothetical protein
+sun:SUN_0185	CDS	186647..188977	conserved hypothetical protein
+sun:SUN_0186	CDS	188977..189558	conserved hypothetical protein
+sun:SUN_0187	CDS	189610..192345	ATP-dependent DNA helicase, UvrD/REP family
+sun:SUN_0188	CDS	192440..192865	rplM; 50S ribosomal protein L13
+sun:SUN_0189	CDS	192868..193257	rpsI; 30S ribosomal protein S9
+sun:SUN_0190	CDS	complement(193757..194578)	conserved hypothetical protein
+sun:SUN_0191	CDS	complement(194691..194855)	conserved hypothetical protein
+sun:SUN_0192	CDS	complement(194939..196390)	sulfide-quinone reductase
+sun:SUN_0193	CDS	196676..198856	oligopeptide ABC transporter, substrate-binding protein
+sun:SUN_0194	CDS	198857..199834	oligopeptide ABC transporter, permease
+sun:SUN_0195	CDS	199831..201228	oligopeptide ABC transporter, permease
+sun:SUN_0196	CDS	201225..202838	oligopeptide ABC transporter, ATP-binding protein
+sun:SUN_0197	CDS	202835..203479	HAD-superfamily hydrolase
+sun:SUN_0198	CDS	203572..204135	porC; pyruvate:ferredoxin oxidoreductase, gamma subunit
+sun:SUN_0199	CDS	204147..204602	porD; pyruvate:ferredoxin oxidoreductase, delta subunit
+sun:SUN_0200	CDS	204612..205844	porA; pyruvate:ferredoxin oxidoreductase, alpha subunit
+sun:SUN_0201	CDS	205847..206800	porB; pyruvate:ferredoxin oxidoreductase, beta subunit
+sun:SUN_0202	CDS	207072..207581	autoinducer-2 production protein LuxS
+sun:SUN_0203	CDS	207583..207888	conserved hypothetical protein
+sun:SUN_0204	CDS	207890..208657	conserved hypothetical protein
+sun:SUN_0205	CDS	complement(208693..209310)	riboflavin synthase, alpha subunit
+sun:SUN_0206	CDS	209424..211295	gidA; glucose inhibited division protein A
+sun:SUN_0207	CDS	211295..212152	conserved hypothetical protein
+sun:SUN_0208	CDS	212301..212837	ubiquinol-cytochrome c oxidoreductase, iron-sulfur subunit
+sun:SUN_0209	CDS	212848..214068	ubiquinol cytochrome c oxidoreductase, cytochrome b subunit
+sun:SUN_0210	CDS	214079..214984	ubiquinol cytochrome c oxidoreductase, cytochrome c1 subunit
+sun:SUN_0211	CDS	215281..216261	moaA; molybdenum cofactor biosynthesis protein A
+sun:SUN_0212	CDS	216261..217019	conserved hypothetical protein
+sun:SUN_0213	CDS	complement(217016..217753)	conserved hypothetical protein
+sun:SUN_0214	CDS	217892..219109	conserved hypothetical protein
+sun:SUN_0215	CDS	219208..219789	6-pyruvoyl-tetrahydropterin synthase
+sun:SUN_0216	CDS	complement(219791..221008)	moeA; molybdopterin biosynthesis protein MoeA
+sun:SUN_0217	CDS	221116..221541	hypothetical protein
+sun:SUN_0218	CDS	221525..222196	conserved hypothetical protein
+sun:SUN_0219	CDS	222290..222652	conserved hypothetical protein
+sun:SUN_0220	CDS	223169..223369	rpmE; 50S ribosomal protein L31
+sun:SUN_0221	CDS	223458..224270	conserved hypothetical protein
+sun:SUN_0222	CDS	224292..224996	RNA methyltransferase, TrmH family
+sun:SUN_0223	CDS	224983..225504	hypothetical protein
+sun:SUN_0224	CDS	225516..226739	aminotransferase, class I and II
+sun:SUN_0225	CDS	226743..228020	homoserine dehydrogenase
+sun:SUN_0226	CDS	228030..228530	conserved hypothetical protein
+sun:SUN_0227	CDS	complement(228588..228833)	conserved hypothetical protein
+sun:SUN_0228	CDS	228967..231078	formate dehydrogenase, alpha subunit
+sun:SUN_0229	CDS	231312..232223	hypothetical protein
+sun:SUN_0230	CDS	232495..232947	conserved hypothetical protein
+sun:SUN_0231	CDS	232940..233281	conserved hypothetical protein
+sun:SUN_0232	CDS	233316..234098	phytanoyl-CoA dioxygenase, PhyH family
+sun:SUN_0233	CDS	234216..234533	trxA; thioredoxin
+sun:SUN_0234	CDS	234737..235678	trxB; thioredoxin reductase
+sun:SUN_0235	CDS	235689..236456	dapB; dihydrodipicolinate reductase
+sun:SUN_0236	CDS	236458..237828	purF; amidophosphoribosyltransferase
+sun:SUN_0237	CDS	complement(237933..238601)	histidine biosynthesis bifunctional protein HisI
+sun:SUN_0238	CDS	complement(238696..239784)	conserved hypothetical protein
+sun:SUN_0239	CDS	complement(239826..240740)	ilvE; branched-chain amino acid aminotransferase
+sun:SUN_0240	CDS	complement(241006..241389)	conserved hypothetical protein
+sun:SUN_0241	CDS	241529..241894	conserved hypothetical protein
+sun:SUN_0242	CDS	242081..242431	conserved hypothetical protein
+sun:SUN_0243	CDS	242443..243114	nitric-oxide reductase, small subunit
+sun:SUN_0244	CDS	243104..244549	nitric-oxide reductase, large subunit
+sun:SUN_0245	CDS	244879..246594	cytochrome cd1 nitrite reductase
+sun:SUN_0246	CDS	246688..247800	hypothetical protein
+sun:SUN_0247	CDS	247832..249157	K+ transport system, NAD-binding component
+sun:SUN_0248	CDS	249139..250593	K+ transport system, membrane component
+sun:SUN_0249	CDS	250692..251792	heme d1 biosynthesis protein NirF
+sun:SUN_0250	CDS	251796..252212	conserved hypothetical protein
+sun:SUN_0251	CDS	complement(252233..253150)	conserved hypothetical protein
+sun:SUN_0252	CDS	complement(253140..254153)	ribonucleoside-diphosphate reductase, beta subunit
+sun:SUN_0253	CDS	254277..255308	glyceraldehyde-3-phosphate dehydrogenase
+sun:SUN_0254	CDS	255451..257547	nrdD; anaerobic ribonucleoside triphosphate reductase
+sun:SUN_0255	CDS	257547..257876	conserved hypothetical protein
+sun:SUN_0256	CDS	257876..258049	conserved hypothetical protein
+sun:SUN_0257	CDS	258039..258716	conserved hypothetical protein
+sun:SUN_0258	CDS	complement(258790..258993)	conserved hypothetical protein
+sun:SUN_0259	CDS	259164..261047	Ni-Fe hydrogenase, membrane subunit HycC/HyfB
+sun:SUN_0260	CDS	261044..261964	Ni-Fe hydrogenase, membrane subunit HycD/HyfD
+sun:SUN_0261	CDS	261968..262561	Ni-Fe hydrogenase, membrane subunit HyfE
+sun:SUN_0262	CDS	262558..263973	Ni-Fe hydrogenase, membrane subunit HyfF
+sun:SUN_0263	CDS	263970..265337	Ni-Fe hydrogenase, large subunit HycE
+sun:SUN_0264	CDS	265334..265840	Ni-Fe hydrogenase, small subunit HycG
+sun:SUN_0265	CDS	complement(265848..267251)	voltage-gated chloride channel
+sun:SUN_0266	CDS	267438..268229	oxidoreductase
+sun:SUN_0267	CDS	268243..269157	transcriptional regulator, AraC family
+sun:SUN_0268	CDS	complement(269164..269499)	cytochrome c, class I
+sun:SUN_0269	CDS	269836..270648	oxidoreductase
+sun:SUN_0270	CDS	270662..271744	cytochrome c peroxidase
+sun:SUN_0271	CDS	271830..272759	hypothetical protein
+sun:SUN_0272	CDS	272841..273425	conserved hypothetical protein
+sun:SUN_0273	CDS	273422..274669	outer membrane efflux protein
+sun:SUN_0274	CDS	274666..275376	efflux system, membrane fusion protein
+sun:SUN_0275	CDS	275386..278436	efflux transporter, RND superfamily
+sun:SUN_0276	CDS	278424..278669	conserved hypothetical protein
+sun:SUN_0277	CDS	278681..279838	efflux system, membrane fusion protein
+sun:SUN_0278	CDS	279835..280989	conserved hypothetical protein
+sun:SUN_0279	CDS	280976..282616	multidrug ABC transporter
+sun:SUN_0280	CDS	282613..283731	multidrug ABC transporter
+sun:SUN_0281	CDS	283728..284810	multidrug ABC transporter, permease
+sun:SUN_0282	CDS	284904..286748	conserved hypothetical protein
+sun:SUN_0283	CDS	286738..287640	patatin
+sun:SUN_0284	CDS	287627..288274	conserved hypothetical protein
+sun:SUN_0285	CDS	complement(288290..289429)	conserved hypothetical protein
+sun:SUN_0286	CDS	289693..290313	conserved hypothetical protein
+sun:SUN_0287	CDS	290313..291995	conserved hypothetical protein
+sun:SUN_0288	CDS	292059..292664	conserved hypothetical protein
+sun:SUN_0289	CDS	292657..293166	hypothetical protein
+sun:SUN_0290	CDS	293333..293656	cytochrome c, class I
+sun:SUN_0291	CDS	293657..294787	heme d1 biosynthesis protein NirJ
+sun:SUN_0292	CDS	294787..295524	uroporphyrin-III C-methyltransferase
+sun:SUN_0293	CDS	295621..296322	transcriptional regulator, Crp/Fnr family
+sun:SUN_0294	CDS	complement(296665..297657)	transcriptional regulator, AsnC family
+sun:SUN_0295	CDS	297779..298345	conserved hypothetical protein
+sun:SUN_0296	CDS	298435..298776	conserved hypothetical protein
+sun:SUN_0297	CDS	298782..300017	conserved hypothetical protein
+sun:SUN_0298	CDS	300138..300446	conserved hypothetical protein
+sun:SUN_0299	CDS	300766..303603	napA; periplasmic nitrate reductase, large subunit
+sun:SUN_0300	CDS	303608..304441	napG; periplasmic nitrate reductase, ferredoxin-type protein NapG
+sun:SUN_0301	CDS	304441..305244	napH; periplasmic nitrate reductase, iron-sulfur cluster-binding protein NapH
+sun:SUN_0302	CDS	305263..306231	napB; periplasmic nitrate reductase, small subunit
+sun:SUN_0303	CDS	306231..306743	napF; periplasmic nitrate reductase, ferredoxin-type protein NapF
+sun:SUN_0304	CDS	306854..307195	hypothetical protein
+sun:SUN_0305	CDS	307192..308145	napL; periplasmic nitrate reductase component NapL
+sun:SUN_0306	CDS	308156..308515	napD; periplasmic nitrate reductase component NapD
+sun:SUN_0307	CDS	308518..308832	conserved hypothetical protein
+sun:SUN_0308	CDS	309145..310581	aldehyde dehydrogenase
+sun:SUN_0309	CDS	310694..311176	conserved hypothetical protein
+sun:SUN_0310	CDS	311195..311665	conserved hypothetical protein
+sun:SUN_0311	CDS	311662..313128	serine protease
+sun:SUN_0312	CDS	313115..314764	ferredoxin--nitrite reductase
+sun:SUN_0313	CDS	315002..315472	peroxiredoxin family protein
+sun:SUN_0314	CDS	315804..316838	rpsB; 30S ribosomal protein S2
+sun:SUN_0315	CDS	316840..317901	tsf; translation elongation factor Ts
+sun:SUN_0316	CDS	318120..318770	ABC transporter, ATP-binding protein
+sun:SUN_0317	CDS	complement(318939..320033)	prfB; peptide chain release factor 2
+sun:SUN_0318	CDS	320107..320931	panC; pantoate--beta-alanine ligase
+sun:SUN_0319	CDS	complement(320932..322974)	cell division protein FtsI
+sun:SUN_0320	CDS	323062..324246	cell division protein FtsW
+sun:SUN_0321	CDS	324403..325419	murG; undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+sun:SUN_0322	CDS	325457..325849	conserved hypothetical protein
+sun:SUN_0323	CDS	325931..326359	hypothetical protein
+sun:SUN_0324	CDS	326560..327930	mannose-1-phosphate guanylyltransferase
+sun:SUN_0325	CDS	327931..328725	ABC transporter, permease
+sun:SUN_0326	CDS	328722..329948	ABC transporter, ATP-binding protein
+sun:SUN_0327	CDS	329938..331140	conserved hypothetical protein
+sun:SUN_0328	CDS	331137..334055	glycosyl transferase
+sun:SUN_0329	CDS	334055..335023	conserved hypothetical protein
+sun:SUN_0330	CDS	335178..336047	UbiA prenyltransferase family protein
+sun:SUN_0331	CDS	336047..336454	conserved hypothetical protein
+sun:SUN_0332	CDS	336451..337752	oxidoreductase
+sun:SUN_0333	CDS	337781..338512	short-chain dehydrogenase/reductase SDR
+sun:SUN_0334	CDS	338509..340188	hypothetical protein
+sun:SUN_0335	CDS	340534..344127	hypothetical protein
+sun:SUN_0336	CDS	complement(344353..346275)	conserved hypothetical protein
+sun:SUN_0337	CDS	complement(346272..348206)	conserved hypothetical protein
+sun:SUN_0338	CDS	complement(348458..349138)	conserved hypothetical protein
+sun:SUN_0339	CDS	complement(349151..350464)	hypothetical protein
+sun:SUN_0340	CDS	complement(350454..351794)	type I secretion membrane fusion protein
+sun:SUN_0341	CDS	complement(351781..353541)	type I secretion system ATPase
+sun:SUN_0342	CDS	353734..354771	gmd; GDP-mannose 4,6-dehydratase
+sun:SUN_0343	CDS	354749..355648	NAD-dependent epimerase/dehydratase
+sun:SUN_0344	CDS	355638..356792	glycosyl transferase
+sun:SUN_0345	CDS	356814..357932	glycosyl transferase
+sun:SUN_0346	CDS	358012..360585	alaS; alanyl-tRNA synthetase
+sun:SUN_0347	CDS	360587..361120	conserved hypothetical protein
+sun:SUN_0348	CDS	361157..361717	septum formation protein
+sun:SUN_0349	CDS	361718..362824	8-amino-7-oxononanoate synthase
+sun:SUN_0350	CDS	362838..364997	penicillin-binding protein 1A
+sun:SUN_0351	CDS	365015..366322	Na+:H+ antiporter, NhaP family
+sun:SUN_0352	CDS	complement(366344..366760)	hypothetical protein
+sun:SUN_0353	CDS	complement(366880..368310)	glnA; glutamine synthase
+sun:SUN_0354	CDS	complement(368381..369172)	histidinol-phosphatase, PHP family
+sun:SUN_0355	CDS	369280..370620	peptidase, U32 family
+sun:SUN_0356	CDS	370631..371125	purE; phosphoribosylaminoimidazole carboxylase, catalytic subunit
+sun:SUN_0357	CDS	371193..372101	ABC transporter, ATP-binding protein
+sun:SUN_0358	CDS	372094..372630	hypothetical protein
+sun:SUN_0359	CDS	372624..373508	glyQ; glycyl-tRNA synthetase, alpha subunit
+sun:SUN_0360	CDS	373609..374337	conserved hypothetical protein
+sun:SUN_0361	CDS	374369..375088	conserved hypothetical protein
+sun:SUN_0362	CDS	375133..376335	kdtA; 3-deoxy-D-manno-octulosonic-acid transferase
+sun:SUN_0363	CDS	complement(376364..376666)	conserved hypothetical protein
+sun:SUN_0364	CDS	376794..377081	conserved hypothetical protein
+sun:SUN_0365	CDS	377202..377939	ribosomal large subunit pseudouridine synthase, RluD subfamily
+sun:SUN_0366	CDS	378059..380197	conserved hypothetical protein
+sun:SUN_0367	CDS	380271..381629	ffh; signal recognition particle protein
+sun:SUN_0368	CDS	381818..382048	rpsP; 30S ribosomal protein S16
+sun:SUN_0369	CDS	382054..382296	conserved hypothetical protein
+sun:SUN_0370	CDS	382308..382844	16S rRNA processing protein RimM
+sun:SUN_0371	CDS	382844..383527	trmD; tRNA (guanine-N1-)-methyltransferase
+sun:SUN_0372	CDS	383531..383890	rplS; 50S ribosomal protein L19
+sun:SUN_0373	CDS	384119..384694	hypothetical protein
+sun:SUN_0374	CDS	384701..385627	hypothetical protein
+sun:SUN_0375	CDS	complement(385621..386082)	smpB; ssrA RNA-binding protein
+sun:SUN_0376	CDS	386244..386477	conserved hypothetical protein
+sun:SUN_0377	CDS	386478..387146	conserved hypothetical protein
+sun:SUN_0378	CDS	387271..387708	heat shock protein Hsp20
+sun:SUN_0379	CDS	387842..388267	heat shock protein Hsp20
+sun:SUN_0380	CDS	388355..388930	conserved hypothetical protein
+sun:SUN_0381	CDS	complement(388927..389694)	4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+sun:SUN_0382	CDS	389974..390597	hypothetical protein
+sun:SUN_0383	CDS	complement(390611..391444)	tRNA pseudouridine synthase B
+sun:SUN_0384	CDS	complement(391449..393515)	ATP-dependent DNA helicase, UvrD/REP family
+sun:SUN_0385	CDS	393736..394638	transcriptional regulator, LysR family
+sun:SUN_0386	CDS	complement(394653..395096)	conserved hypothetical protein
+sun:SUN_0387	CDS	complement(395112..395702)	conserved hypothetical protein
+sun:SUN_0388	CDS	complement(395720..396640)	cysteine synthase A
+sun:SUN_0389	CDS	complement(396680..397324)	carbonate dehydratase
+sun:SUN_0390	CDS	complement(397317..398339)	pyrC; dihydroorotase
+sun:SUN_0391	CDS	complement(398314..398622)	conserved hypothetical protein
+sun:SUN_0392	CDS	complement(398691..399992)	apolipoprotein N-acyltransferase
+sun:SUN_0393	CDS	400003..400293	preprotein translocase subunit YajC
+sun:SUN_0394	CDS	400280..401860	secD; preprotein translocase subunit D
+sun:SUN_0395	CDS	401860..402831	secF; preprotein translocase subunit F
+sun:SUN_0396	CDS	402924..403262	conserved hypothetical protein
+sun:SUN_0397	CDS	403284..405401	conserved hypothetical protein
+sun:SUN_0398	CDS	405398..406555	aminotransferase
+sun:SUN_0399	CDS	406561..408294	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+sun:SUN_0400	CDS	complement(408320..408679)	hypothetical protein
+sun:SUN_0401	CDS	408731..409060	hypothetical protein
+sun:SUN_0402	CDS	409197..410093	conserved hypothetical protein
+sun:SUN_0403	CDS	410041..410211	hypothetical protein
+sun:SUN_0404	CDS	410289..410564	hypothetical protein
+sun:SUN_0405	CDS	410598..411251	hypothetical protein
+sun:SUN_0406	CDS	411313..412104	hypothetical protein
+sun:SUN_0407	CDS	412118..413032	hypothetical protein
+sun:SUN_0408	CDS	413311..414444	aminotransferase
+sun:SUN_0409	CDS	414483..415082	conserved hypothetical protein
+sun:SUN_0410	CDS	415127..416440	murC; UDP-N-acetylmuramate-alanine ligase
+sun:SUN_0411	CDS	complement(416484..417038)	adenylate kinase
+sun:SUN_0412	CDS	417218..417976	fumarate reductase, cytochrome b subunit
+sun:SUN_0413	CDS	417973..419958	fumarate reductase, flavoprotein subunit
+sun:SUN_0414	CDS	419951..420685	fumarate reductase, iron-sulfur subunit
+sun:SUN_0415	CDS	complement(420689..421078)	diacylglycerol kinase
+sun:SUN_0416	CDS	421201..423417	DNA mismatch repair protein
+sun:SUN_0417	CDS	complement(423418..425055)	hypothetical protein
+sun:SUN_0418	CDS	complement(425070..426260)	hypothetical protein
+sun:SUN_0419	CDS	426420..426998	conserved hypothetical protein
+sun:SUN_0420	CDS	426998..428008	conserved hypothetical protein
+sun:SUN_0421	CDS	428029..428844	xerD; site-specific DNA tyrosine recombinase XerD
+sun:SUN_0422	CDS	429050..429373	conserved hypothetical protein
+sun:SUN_0423	CDS	429471..430091	transcriptional activator, Baf family
+sun:SUN_0424	CDS	430115..430735	ATP phosphoribosyltransferase
+sun:SUN_0425	CDS	430728..431474	conserved hypothetical protein
+sun:SUN_0426	CDS	complement(431497..431760)	rpsR; 30S ribosomal protein S18
+sun:SUN_0427	CDS	complement(431772..432269)	ssb; single strand DNA binding protein
+sun:SUN_0428	CDS	complement(432291..432674)	rpsF; 30S ribosomal protein S6
+sun:SUN_0429	CDS	complement(432813..434720)	conserved hypothetical protein
+sun:SUN_0430	CDS	complement(434917..435894)	conserved hypothetical protein
+sun:SUN_0431	CDS	complement(435894..437861)	ribonuclease
+sun:SUN_0432	CDS	complement(438024..439547)	mqo; malate:quinone oxidoreductase
+sun:SUN_0433	CDS	complement(439638..440468)	htpX; heat shock protein HtpX
+sun:SUN_0434	CDS	complement(440543..440950)	hypothetical protein
+sun:SUN_0435	CDS	441254..441892	conserved hypothetical protein
+sun:SUN_0436	CDS	441908..443374	pyruvate kinase
+sun:SUN_0437	CDS	443719..445071	transposase
+sun:SUN_0438	CDS	445345..446004	rubrerythrin
+sun:SUN_0439	CDS	446031..447473	catalase
+sun:SUN_0440	CDS	447470..447958	bacterioferritin
+sun:SUN_0441	CDS	complement(448001..448861)	conserved hypothetical protein
+sun:SUN_0442	CDS	complement(448889..449350)	conserved hypothetical protein
+sun:SUN_0443	CDS	449482..450507	ketol-acid reductoisomerase
+sun:SUN_0444	CDS	450863..451927	conserved hypothetical protein
+sun:SUN_0445	CDS	452008..452784	DNA processing protein A
+sun:SUN_0446	CDS	complement(452859..453377)	thioredoxin family protein
+sun:SUN_0447	CDS	453670..454755	glycosyl hydrolase, family 3
+sun:SUN_0448	CDS	complement(454782..455168)	conserved hypothetical protein
+sun:SUN_0449	CDS	complement(455169..456062)	hypothetical protein
+sun:SUN_0450	CDS	complement(456126..456767)	hypothetical protein
+sun:SUN_0451	CDS	complement(456778..457830)	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+sun:SUN_0452	CDS	complement(457831..458874)	tatC; twin-arginine translocation system component TatC
+sun:SUN_0453	CDS	complement(458874..459362)	tatB; twin-arginine translocation system component TatB
+sun:SUN_0454	CDS	complement(459406..460467)	oxygen-independent coproporphyrinogen III oxidase
+sun:SUN_0455	CDS	460606..461079	(di)nucleoside polyphosphate hydrolase
+sun:SUN_0456	CDS	461134..462339	aspartate kinase, monofunctional class
+sun:SUN_0457	CDS	462346..462891	conserved hypothetical protein
+sun:SUN_0458	CDS	462894..463511	DNA polymerase III, delta' subunit
+sun:SUN_0459	CDS	463696..464835	dihydropteroate synthase
+sun:SUN_0460	CDS	464839..465486	sanA; vancomycin resistance protein
+sun:SUN_0461	CDS	465483..467429	ligA; DNA ligase, NAD-dependent
+sun:SUN_0462	CDS	467426..468139	hemolysin A
+sun:SUN_0463	CDS	468172..468993	ribF; riboflavin biosynthesis regulatory protein RibF
+sun:SUN_0464	CDS	complement(468985..470808)	conserved hypothetical protein
+sun:SUN_0465	CDS	470983..471690	methyltransferase
+sun:SUN_0466	CDS	471981..473330	3-deoxy-7-phosphoheptulonate synthase, class II
+sun:SUN_0467	CDS	complement(473369..474559)	two-component sensor histidine kinase
+sun:SUN_0468	CDS	complement(474552..475205)	two-component response regulator
+sun:SUN_0469	CDS	complement(475282..476610)	conserved hypothetical protein
+sun:SUN_0470	CDS	complement(476607..477404)	aroE; shikimate 5-dehydrogenase
+sun:SUN_0471	CDS	complement(477408..478814)	anthranilate synthase component I
+sun:SUN_0472	CDS	complement(478818..479579)	conserved hypothetical protein
+sun:SUN_0473	CDS	complement(479680..482772)	cation/multidrug efflux transporter, RND superfamily
+sun:SUN_0474	CDS	483083..483784	hypothetical protein
+sun:SUN_0475	CDS	484168..484476	conserved hypothetical protein
+sun:SUN_0476	CDS	complement(484572..485069)	conserved hypothetical protein
+sun:SUN_0477	CDS	complement(485079..486329)	glyA; glycine hydroxymethyltransferase
+sun:SUN_0478	CDS	486623..487750	transposase
+sun:SUN_0479	CDS	487539..487946	hypothetical protein
+sun:SUN_0480	CDS	488164..489363	Na+:H+ antiporter, NhaA family
+sun:SUN_0481	CDS	489459..490478	membrane-bound lytic murein transglycosylase
+sun:SUN_0482	CDS	complement(490553..492196)	lysyl-tRNA synthetase
+sun:SUN_0483	CDS	complement(492342..492788)	fur; ferric uptake regulator
+sun:SUN_0484	CDS	complement(492801..493421)	colicin V production protein
+sun:SUN_0485	CDS	complement(493476..494534)	twitching motility protein PilT
+sun:SUN_0486	CDS	complement(494554..494895)	conserved hypothetical protein
+sun:SUN_0487	CDS	complement(494901..495191)	glutamyl-tRNA amidotransferase subunit C
+sun:SUN_0488	CDS	495729..496073	conserved hypothetical protein
+sun:SUN_0489	CDS	496085..497188	dapE; succinyl-diaminopimelate desuccinylase
+sun:SUN_0490	CDS	497193..497597	conserved hypothetical protein
+sun:SUN_0491	CDS	497661..498680	two-component sensor histidine kinase
+sun:SUN_0492	CDS	complement(498681..499526)	conserved hypothetical protein
+sun:SUN_0493	CDS	complement(499538..500005)	conserved hypothetical protein
+sun:SUN_0494	CDS	500188..501294	conserved hypothetical protein
+sun:SUN_0495	CDS	501291..501950	two-component response regulator
+sun:SUN_0496	CDS	501940..503094	two-component sensor histidine kinase
+sun:SUN_0497	CDS	503186..503746	conserved hypothetical protein
+sun:SUN_0498	CDS	503764..504243	sulfur oxidation protein SoxY
+sun:SUN_0499	CDS	504299..504637	sulfur oxidation protein SoxZ
+sun:SUN_0500	CDS	504641..505402	sulfur oxidation protein SoxA
+sun:SUN_0501	CDS	505412..507187	sulfur oxidation protein SoxB
+sun:SUN_0502	CDS	507343..508884	conserved hypothetical protein
+sun:SUN_0503	CDS	508893..509807	metallo-beta-lactamase family protein
+sun:SUN_0504	CDS	509804..510589	conserved hypothetical protein
+sun:SUN_0505	CDS	510586..511398	conserved hypothetical protein
+sun:SUN_0506	CDS	511395..511832	conserved hypothetical protein
+sun:SUN_0507	CDS	511946..512872	conserved hypothetical protein
+sun:SUN_0508	CDS	513145..513900	4Fe-4S ferredoxin
+sun:SUN_0509	CDS	513900..514847	conserved hypothetical protein
+sun:SUN_0510	CDS	514859..518212	molybdopterin oxidoreductase
+sun:SUN_0511	CDS	518364..519011	conserved hypothetical protein
+sun:SUN_0512	CDS	519015..520166	ferredoxin-like protein
+sun:SUN_0513	CDS	520163..520636	hypothetical protein
+sun:SUN_0514	CDS	520636..521097	conserved hypothetical protein
+sun:SUN_0515	CDS	521428..522708	malate oxidoreductase
+sun:SUN_0516	CDS	522715..524091	conserved hypothetical protein
+sun:SUN_0517	CDS	524088..525482	GTP-binding protein
+sun:SUN_0518	CDS	525487..526128	hypothetical protein
+sun:SUN_0519	CDS	complement(526120..526611)	phosphatidylglycerophosphatase A
+sun:SUN_0520	CDS	complement(526620..527798)	sulfate adenylyltransferase
+sun:SUN_0521	CDS	complement(527833..528714)	two-component response regulator
+sun:SUN_0522	CDS	complement(528711..529832)	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+sun:SUN_0523	CDS	530027..531139	mrp; ATP-binding protein Mrp
+sun:SUN_t07	tRNA	531257..531334	trnC_Pro; tRNA-Pro
+sun:SUN_0524	CDS	531409..531672	conserved hypothetical protein
+sun:SUN_0525	CDS	complement(531757..534027)	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase
+sun:SUN_0526	CDS	534685..536574	thiC; thiamine biosynthesis protein ThiC
+sun:SUN_0527	CDS	536664..537785	thiO; thiamine biosynthesis protein ThiO
+sun:SUN_0528	CDS	537782..537982	thiS; thiamine biosynthesis protein ThiS
+sun:SUN_0529	CDS	538023..538835	thiG; thiamine biosynthesis protein ThiG
+sun:SUN_0530	CDS	538951..539583	thiE; thiamine-phosphate pyrophosphorylase
+sun:SUN_0531	CDS	539573..540385	thiD; phosphomethylpyrimidine kinase
+sun:SUN_0532	CDS	540613..542673	TonB-dependent receptor
+sun:SUN_0533	CDS	542685..542939	conserved hypothetical protein
+sun:SUN_0534	CDS	542941..543549	pnuC; nicotinamide mononucleotide transporter
+sun:SUN_0535	CDS	543530..544252	conserved hypothetical protein
+sun:SUN_0536	CDS	complement(544322..546130)	glmS; glucosamine--fructose-6-phosphate aminotransferase
+sun:SUN_0537	CDS	complement(546131..548608)	glnD; nucleotidyltransferase
+sun:SUN_0538	CDS	548674..549747	conserved hypothetical protein
+sun:SUN_0539	CDS	549795..550364	anthranilate synthase component II
+sun:SUN_0540	CDS	550377..551468	conserved hypothetical protein
+sun:SUN_0541	CDS	551581..552891	ATP citrate synthase, subunit 1
+sun:SUN_0542	CDS	552907..554727	ATP citrate synthase, subunit 2
+sun:SUN_0543	CDS	complement(554853..556175)	alkaline phosphatase
+sun:SUN_r04	rRNA	556522..558030	rrnB_16S; 16S ribosomal RNA
+sun:SUN_t08	tRNA	558162..558238	trnC_Ile; tRNA-Ile
+sun:SUN_r05	rRNA	558576..561451	rrnB_23S; 23S ribosomal RNA
+sun:SUN_r06	rRNA	561641..561756	rrnB_5S; 5S ribosomal RNA
+sun:SUN_0544	CDS	562011..563405	argH; argininosuccinate lyase
+sun:SUN_0545	CDS	complement(563523..563876)	histidine triad family protein
+sun:SUN_0546	CDS	564008..565000	pheS; phenylalanyl-tRNA synthetase, alpha subunit
+sun:SUN_0547	CDS	564997..567330	pheT; phenylalanyl-tRNA synthetase, beta subunit
+sun:SUN_0548	CDS	567332..568165	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+sun:SUN_0549	CDS	568176..569459	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+sun:SUN_0550	CDS	569637..571295	rpsA; 30S ribosomal protein S1
+sun:SUN_0551	CDS	571384..572973	D-3-phosphoglycerate dehydrogenase
+sun:SUN_0552	CDS	573193..574611	outer membrane efflux protein
+sun:SUN_0553	CDS	574608..575402	acriflavin resistance protein, AcrA/AcrE family
+sun:SUN_0554	CDS	575409..577040	acriflavin resistance protein, AcrB/AcrD/AcrF family
+sun:SUN_0555	CDS	577040..578764	acriflavin resistance protein, AcrB/AcrD/AcrF family
+sun:SUN_0556	CDS	578877..579443	efp; translation elongation factor P
+sun:SUN_0557	CDS	579575..581545	conserved hypothetical protein
+sun:SUN_0558	CDS	581559..582545	enoyl-CoA hydratase/isomerase
+sun:SUN_0559	CDS	complement(582576..585659)	hypothetical protein
+sun:SUN_0560	CDS	complement(585798..586949)	hypothetical protein
+sun:SUN_0561	CDS	587145..587567	hypothetical protein
+sun:SUN_0562	CDS	587665..588465	acriflavin resistance protein, AcrA/AcrE family
+sun:SUN_0563	CDS	588551..589504	thioredoxin reductase
+sun:SUN_0564	CDS	589506..590066	thiJ; 4-methyl-5(beta-hydroxyethyl)-thiazole monophosphate synthesis protein
+sun:SUN_0565	CDS	590167..590457	hypothetical protein
+sun:SUN_0566	CDS	590485..590802	conserved hypothetical protein
+sun:SUN_0567	CDS	590939..594505	dnaE; DNA polymerase III, alpha subunit
+sun:SUN_0568	CDS	594610..595500	hypothetical protein
+sun:SUN_0569	CDS	595585..596646	conserved hypothetical protein
+sun:SUN_0570	CDS	596804..598987	isocitrate dehydrogenase, NADP-dependent
+sun:SUN_0571	CDS	599252..600214	malate dehydrogenase, NAD-dependent
+sun:SUN_0572	CDS	600219..601163	malate dehydrogenase, NAD-dependent
+sun:SUN_0573	CDS	601172..602023	fumarate/tartrate hydratase, alpha subunit
+sun:SUN_0574	CDS	602035..602592	fumarate/tartrate hydratase, beta subunit
+sun:SUN_0575	CDS	602803..604200	fumC; fumarate hydratase, class II
+sun:SUN_0576	CDS	604373..605548	sucC; succinyl-CoA synthase, beta subunit
+sun:SUN_0577	CDS	605548..606420	sucD; succinyl-CoA synthase, alpha subunit
+sun:SUN_0578	CDS	606649..606981	2-oxoglutarate ferredoxin oxidoreductase, delta subunit
+sun:SUN_0579	CDS	606981..608117	2-oxoglutarate ferredoxin oxidoreductase, alpha subunit
+sun:SUN_0580	CDS	608118..608975	2-oxoglutarate ferredoxin oxidoreductase, beta subunit
+sun:SUN_0581	CDS	608987..609541	2-oxoglutarate ferredoxin oxidoreductase, gamma subunit
+sun:SUN_0582	CDS	610324..611514	conserved hypothetical protein
+sun:SUN_0583	CDS	611515..613716	type III restriction enzyme, res subunit
+sun:SUN_0584	gene	613846..614289	pseudogene
+sun:SUN_0585	CDS	614560..615720	hypothetical protein
+sun:SUN_0586	CDS	615762..616553	conserved hypothetical protein
+sun:SUN_0587	CDS	616550..618334	molybdopterin oxidoreductase
+sun:SUN_0588	CDS	complement(618369..618617)	conserved hypothetical protein
+sun:SUN_0589	CDS	complement(618610..619647)	conserved hypothetical protein
+sun:SUN_0590	CDS	complement(619829..620131)	hypothetical protein
+sun:SUN_0591	CDS	620246..621472	acetylornithine/succinylornithine aminotransferase
+sun:SUN_0592	CDS	621469..622728	conserved hypothetical protein
+sun:SUN_0593	CDS	622736..623704	conserved hypothetical protein
+sun:SUN_0594	CDS	complement(623723..624127)	hypothetical protein
+sun:SUN_0595	CDS	complement(624182..624541)	holo-[acyl-carrier protein] synthase
+sun:SUN_0596	CDS	complement(624830..626182)	DNA repair protein RadA/Sms
+sun:SUN_0597	CDS	complement(626354..627220)	signal recognition particle receptor FtsY
+sun:SUN_0598	CDS	complement(627235..627870)	lipoprotein thioredoxin
+sun:SUN_0599	CDS	627956..628510	conserved hypothetical protein
+sun:SUN_0600	CDS	628592..630121	conserved hypothetical protein
+sun:SUN_0601	CDS	630208..630507	conserved hypothetical protein
+sun:SUN_0602	CDS	630519..631058	peptidyl-prolyl cis-trans isomerase
+sun:SUN_0603	CDS	631059..631964	conserved hypothetical protein
+sun:SUN_0604	CDS	complement(631961..633910)	ABC transporter, ATP-binding protein
+sun:SUN_0605	CDS	634066..635349	zinc metallopeptidase
+sun:SUN_0606	CDS	complement(635369..635923)	conserved hypothetical protein
+sun:SUN_0607	CDS	636046..636894	hemK; protoporphyrinogen oxidase
+sun:SUN_0608	CDS	636977..637456	conserved hypothetical protein
+sun:SUN_0609	CDS	637545..638072	conserved hypothetical protein
+sun:SUN_0610	CDS	638078..638917	apaH; bis(5'-nucleosyl)-tetraphosphatase (symmetrical)
+sun:SUN_0611	CDS	complement(638983..639459)	hypothetical protein
+sun:SUN_0612	CDS	complement(639472..639930)	conserved hypothetical protein
+sun:SUN_0613	CDS	complement(640247..641425)	glutathionylspermidine synthase
+sun:SUN_0614	CDS	complement(641429..642007)	conserved hypothetical protein
+sun:SUN_0615	CDS	complement(642158..643327)	cell division protein FtsZ
+sun:SUN_0616	CDS	complement(643358..644743)	ftsA; cell division protein FtsA
+sun:SUN_0617	CDS	complement(644740..646215)	conserved hypothetical protein
+sun:SUN_0618	CDS	646323..647645	bioA; adenosylmethionine--8-amino-7-oxononanoate transaminase
+sun:SUN_0619	CDS	complement(647655..649037)	hypothetical protein
+sun:SUN_0620	CDS	649180..649644	hypothetical protein
+sun:SUN_0621	CDS	649820..650197	hypothetical protein
+sun:SUN_0622	CDS	650219..651511	hypothetical protein
+sun:SUN_0623	CDS	complement(651501..653552)	hypothetical protein
+sun:SUN_0624	CDS	653696..654217	signal transduction sensor histidine kinase
+sun:SUN_0625	CDS	654233..654622	hypothetical protein
+sun:SUN_0626	CDS	654665..655213	phosphoglycerate/bisphosphoglycerate mutase
+sun:SUN_0627	CDS	655272..656879	conserved hypothetical protein
+sun:SUN_0628	CDS	656879..658249	conserved hypothetical protein
+sun:SUN_0629	CDS	complement(658218..658889)	two-component response regulator
+sun:SUN_0630	CDS	complement(659330..659725)	two-component response regulator
+sun:SUN_0631	CDS	complement(659927..660499)	conserved hypothetical protein
+sun:SUN_0632	CDS	660626..661549	S-adenosyl-methyltransferase MraW
+sun:SUN_0633	CDS	661827..664967	cation/multidrug efflux transporter, RND superfamily
+sun:SUN_0634	CDS	complement(665811..666782)	hemC; porphobilinogen deaminase
+sun:SUN_0635	CDS	complement(666908..667738)	conserved hypothetical protein
+sun:SUN_0636	CDS	complement(667677..668108)	conserved hypothetical protein
+sun:SUN_0637	CDS	complement(668110..669816)	proS; prolyl-tRNA synthetase
+sun:SUN_0638	CDS	complement(669813..671120)	hemA; glutamyl-tRNA reductase
+sun:SUN_0639	CDS	complement(671120..672016)	polyprenyl synthetase
+sun:SUN_0640	CDS	complement(672028..672300)	conserved hypothetical protein
+sun:SUN_0641	CDS	complement(672471..673388)	methylenetetrahydrofolate reductase
+sun:SUN_0642	CDS	673457..674080	phosphoserine phosphatase
+sun:SUN_0643	CDS	complement(674179..674772)	tellurite resistance protein TehB
+sun:SUN_0644	CDS	674822..675592	xthA; exodeoxyribonuclease III
+sun:SUN_0645	CDS	complement(675596..676069)	conserved hypothetical protein
+sun:SUN_0646	CDS	complement(676078..676707)	conserved hypothetical protein
+sun:SUN_0647	CDS	complement(676735..677205)	conserved hypothetical protein
+sun:SUN_0648	CDS	complement(677247..678350)	GTP-binding protein
+sun:SUN_0649	CDS	678491..680119	glutathione-regulated potassium-efflux system protein
+sun:SUN_0650	CDS	complement(680129..680590)	hypothetical protein
+sun:SUN_0651	CDS	complement(680657..682129)	leucyl aminopeptidase
+sun:SUN_0652	CDS	complement(682200..682613)	conserved hypothetical protein
+sun:SUN_0653	CDS	complement(682740..683969)	tryptophan synthase, beta chain
+sun:SUN_0654	CDS	complement(684047..685294)	hypothetical protein
+sun:SUN_0655	CDS	complement(685339..686439)	conserved hypothetical protein
+sun:SUN_0656	CDS	complement(686458..686997)	hypothetical protein
+sun:SUN_0657	CDS	complement(687071..687439)	conserved hypothetical protein
+sun:SUN_0658	CDS	687511..688197	conserved hypothetical protein
+sun:SUN_0659	CDS	complement(688173..688733)	apt; adenine phosphoribosyltransferase
+sun:SUN_0660	CDS	complement(688907..689812)	conserved hypothetical protein
+sun:SUN_0661	CDS	689980..690513	hypothetical protein
+sun:SUN_0662	CDS	complement(690884..691345)	rpiB; ribose 5-phosphate isomerase B
+sun:SUN_0663	CDS	complement(691381..692025)	peptidase, M50 family
+sun:SUN_0664	CDS	complement(692025..692990)	lepB; signal peptidase I
+sun:SUN_0665	CDS	complement(692994..693839)	folD; 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase
+sun:SUN_0666	CDS	693903..694268	conserved hypothetical protein
+sun:SUN_0667	CDS	694320..695738	hypothetical protein
+sun:SUN_0668	CDS	complement(695779..695997)	cspC; cold shock protein
+sun:SUN_0669	CDS	complement(696198..697148)	periplasmic nitrate reductase component NapL
+sun:SUN_0670	CDS	complement(697220..697720)	hypothetical protein
+sun:SUN_0671	CDS	complement(697745..698350)	hypothetical protein
+sun:SUN_0672	CDS	complement(698347..698811)	hypothetical protein
+sun:SUN_0673	CDS	complement(698896..699540)	hemolysin III
+sun:SUN_0674	CDS	complement(699554..701449)	glutamine-dependent NAD+ synthetase
+sun:SUN_0675	CDS	complement(701495..702022)	peptidyl-prolyl cis-trans isomerase
+sun:SUN_0676	CDS	702090..702782	pyrF; orotidine 5`-phosphate decarboxylase
+sun:SUN_t09	tRNA	703018..703108	trnD_Ser; tRNA-Ser
+sun:SUN_0677	CDS	complement(703424..704434)	transposase
+sun:SUN_0678	CDS	complement(704942..705469)	msrA; peptide-methionine (S)-S-oxide reductase
+sun:SUN_0679	CDS	705677..706105	thioredoxin
+sun:SUN_0680	CDS	706098..706769	two-component response regulator
+sun:SUN_0681	CDS	706792..707910	two-component sensor histidine kinase
+sun:SUN_0682	CDS	708078..708413	conserved hypothetical protein
+sun:SUN_0683	CDS	708464..708790	conserved hypothetical protein
+sun:SUN_0684	CDS	708954..709268	conserved hypothetical protein
+sun:SUN_0685	CDS	709397..709693	cytochrome c, class I
+sun:SUN_0686	CDS	complement(709778..710224)	hypothetical protein
+sun:SUN_0687	CDS	complement(710324..713437)	heavy metal efflux pump, CzcA family
+sun:SUN_0688	CDS	complement(713446..714648)	heavy metal efflux pump, CzcB family
+sun:SUN_0689	CDS	complement(714648..715847)	conserved hypothetical protein
+sun:SUN_0690	CDS	complement(716207..717094)	conserved hypothetical protein
+sun:SUN_0691	CDS	complement(717562..718095)	conserved hypothetical protein
+sun:SUN_0692	CDS	718368..718727	conserved hypothetical protein
+sun:SUN_0693	CDS	718724..719209	hypothetical protein
+sun:SUN_0694	CDS	complement(719378..720085)	conserved hypothetical protein
+sun:SUN_0695	CDS	720254..720706	conserved hypothetical protein
+sun:SUN_0696	CDS	720760..721302	conserved hypothetical protein
+sun:SUN_0697	CDS	721839..722141	hypothetical protein
+sun:SUN_0698	CDS	722264..722521	hypothetical protein
+sun:SUN_0699	CDS	722511..722894	conserved hypothetical protein
+sun:SUN_0700	CDS	722918..723805	hypothetical protein
+sun:SUN_0701	CDS	complement(723952..724167)	conserved hypothetical protein
+sun:SUN_0702	CDS	725138..725458	conserved hypothetical protein
+sun:SUN_0703	CDS	725451..725765	conserved hypothetical protein
+sun:SUN_0704	CDS	726032..726361	conserved hypothetical protein
+sun:SUN_0705	CDS	726426..726857	conserved hypothetical protein
+sun:SUN_0706	CDS	727099..727434	conserved hypothetical protein
+sun:SUN_0707	CDS	727434..727796	conserved hypothetical protein
+sun:SUN_0708	CDS	728274..728603	conserved hypothetical protein
+sun:SUN_0709	CDS	728600..729127	conserved hypothetical protein
+sun:SUN_0710	CDS	729244..729423	conserved hypothetical protein
+sun:SUN_0711	CDS	729546..730874	magnesium transporter
+sun:SUN_0712	CDS	730902..731954	conserved hypothetical protein
+sun:SUN_0713	CDS	731954..733297	ATP-dependent RNA helicase
+sun:SUN_0714	CDS	complement(733352..734101)	conserved hypothetical protein
+sun:SUN_0715	CDS	complement(734466..734861)	hypothetical protein
+sun:SUN_0716	CDS	complement(734919..735413)	asparaginase
+sun:SUN_0717	CDS	735496..736323	fabI; enoyl-[acyl-carrier protein] reductase (NADH)
+sun:SUN_0718	CDS	736383..736721	S23 ribosomal protein
+sun:SUN_0719	CDS	736714..737505	RNA methyltransferase, TrmA family
+sun:SUN_0720	CDS	737522..738796	conserved hypothetical protein
+sun:SUN_0721	CDS	738846..739184	hypothetical protein
+sun:SUN_0722	CDS	739215..741311	transcription accessory protein
+sun:SUN_0723	CDS	741440..741709	conserved hypothetical protein
+sun:SUN_0724	CDS	741709..741978	conserved hypothetical protein
+sun:SUN_0725	CDS	742233..743354	DNA double-strand break repair protein
+sun:SUN_0726	CDS	743341..745707	DNA double-strand break repair protein
+sun:SUN_0727	CDS	745707..746264	hypothetical protein
+sun:SUN_0728	CDS	746365..747687	transposase
+sun:SUN_0729	CDS	747982..748416	hypothetical protein
+sun:SUN_0730	CDS	748413..749696	conserved hypothetical protein
+sun:SUN_0731	CDS	749671..750201	conserved hypothetical protein
+sun:SUN_0732	CDS	750201..753218	conserved hypothetical protein
+sun:SUN_0733	CDS	753218..754702	conserved hypothetical protein
+sun:SUN_0734	CDS	754757..755833	death-on-curing family protein
+sun:SUN_0735	CDS	755751..756521	conserved hypothetical protein
+sun:SUN_0736	CDS	756647..757615	death-on-curing family protein
+sun:SUN_0737	CDS	757681..758076	hypothetical protein
+sun:SUN_0738	CDS	758347..758700	conserved hypothetical protein
+sun:SUN_0739	CDS	758893..759861	hypothetical protein
+sun:SUN_0740	CDS	759872..760234	conserved hypothetical protein
+sun:SUN_0741	CDS	760244..760726	hypothetical protein
+sun:SUN_0742	CDS	760730..761152	peptide chain release factor 2
+sun:SUN_0743	CDS	761149..761466	hypothetical protein
+sun:SUN_0744	CDS	761547..762539	conserved hypothetical protein
+sun:SUN_0745	CDS	complement(762613..763179)	ribosomal small subunit pseudouridine synthase A
+sun:SUN_0746	CDS	763449..764363	conserved hypothetical protein
+sun:SUN_0747	CDS	764367..764942	conserved hypothetical protein
+sun:SUN_0748	gene	complement(765326..766425)	pseudogene
+sun:SUN_0749	CDS	766696..767901	transposase
+sun:SUN_0750	CDS	768017..768949	hypothetical protein
+sun:SUN_0751	CDS	769059..770888	ubiD; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiD
+sun:SUN_0752	CDS	771056..771652	peroxiredoxin, AhpC/Tsa family
+sun:SUN_0753	CDS	771798..772214	peroxide stress regulator
+sun:SUN_0754	CDS	772239..772658	conserved hypothetical protein
+sun:SUN_0755	CDS	complement(772689..773372)	conserved hypothetical protein
+sun:SUN_0756	CDS	complement(773502..774554)	membrane-associated zinc metalloprotease
+sun:SUN_0757	CDS	774729..775904	hypothetical protein
+sun:SUN_0758	CDS	complement(776000..777505)	conserved hypothetical protein
+sun:SUN_0759	CDS	complement(777514..777774)	hypothetical protein
+sun:SUN_0760	CDS	complement(777999..778751)	metal ion ABC transporter, permease
+sun:SUN_0761	CDS	complement(778742..779623)	metal ion ABC transporter, substrate-binding protein
+sun:SUN_0762	CDS	complement(779633..781000)	conserved hypothetical protein
+sun:SUN_0763	CDS	complement(781110..781391)	hypothetical protein
+sun:SUN_0764	CDS	complement(781422..781676)	hypothetical protein
+sun:SUN_0765	CDS	complement(781736..783193)	multicopper oxidase
+sun:SUN_0766	CDS	complement(783417..784205)	hypothetical protein
+sun:SUN_0767	CDS	complement(784305..785537)	hypothetical protein
+sun:SUN_0768	CDS	complement(785524..786177)	two-component response regulator
+sun:SUN_0769	CDS	complement(786193..786603)	cytochrome c, class I
+sun:SUN_0770	CDS	complement(786607..786915)	hypothetical protein
+sun:SUN_0771	CDS	complement(786916..789969)	heavy metal efflux pump, CzcA family
+sun:SUN_0772	CDS	complement(789979..791115)	heavy metal efflux pump, CzcB family
+sun:SUN_0773	CDS	complement(791108..792283)	conserved hypothetical protein
+sun:SUN_0774	CDS	complement(792280..792615)	hypothetical protein
+sun:SUN_0775	CDS	complement(792679..792984)	hypothetical protein
+sun:SUN_0776	CDS	793146..794516	cytochrome c biogenesis protein
+sun:SUN_0777	CDS	complement(794530..796419)	cadmium-transporting P-type ATPase
+sun:SUN_0778	CDS	complement(796456..796770)	hypothetical protein
+sun:SUN_0779	CDS	complement(796852..797157)	hypothetical protein
+sun:SUN_0780	CDS	complement(797236..798309)	two-component sensor histidine kinase
+sun:SUN_0781	CDS	complement(798296..798934)	two-component response regulator
+sun:SUN_0782	CDS	complement(798962..799357)	hypothetical protein
+sun:SUN_0783	CDS	complement(799332..799526)	conserved hypothetical protein
+sun:SUN_0784	CDS	complement(799529..799921)	conserved hypothetical protein
+sun:SUN_0785	CDS	complement(800058..801272)	conserved hypothetical protein
+sun:SUN_0786	CDS	801355..801696	transcriptional regulator, AsrR family
+sun:SUN_0787	CDS	complement(801682..802830)	two-component sensor histidine kinase
+sun:SUN_0788	CDS	complement(802823..803476)	two-component response regulator
+sun:SUN_0789	CDS	complement(803519..805894)	heavy-metal transporting P-type ATPase
+sun:SUN_0790	CDS	complement(806117..806452)	hypothetical protein
+sun:SUN_0791	CDS	complement(806933..807268)	hypothetical protein
+sun:SUN_0792	CDS	807729..809240	multicopper oxidase
+sun:SUN_0793	CDS	complement(809635..811014)	hypothetical protein
+sun:SUN_0794	CDS	complement(811016..812014)	hypothetical protein
+sun:SUN_0795	CDS	812156..812524	transcriptional regulator, ArsR family
+sun:SUN_0796	CDS	812550..812876	hypothetical protein
+sun:SUN_0797	CDS	812873..813460	cytochrome c, class I
+sun:SUN_0798	CDS	complement(813574..814092)	conserved hypothetical protein
+sun:SUN_0799	CDS	814315..814701	conserved hypothetical protein
+sun:SUN_0800	CDS	814720..814929	conserved hypothetical protein
+sun:SUN_0801	CDS	814942..816657	copper resistance protein A
+sun:SUN_0802	CDS	816668..817372	copper resistance protein B
+sun:SUN_0803	CDS	complement(817369..818670)	conserved hypothetical protein
+sun:SUN_0804	CDS	complement(818703..818927)	ferrous iron transport protein A
+sun:SUN_0805	CDS	complement(818929..821052)	ferrous iron transport protein B
+sun:SUN_0806	CDS	complement(821304..822533)	hypothetical protein
+sun:SUN_0807	CDS	complement(822610..823179)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+sun:SUN_0808	CDS	complement(823509..824288)	7-alpha-hydroxysteroid dehydrogenase
+sun:SUN_0809	CDS	complement(824290..825183)	dapA; dihydrodipicolinate synthase
+sun:SUN_0810	CDS	complement(825203..826474)	peptidase, M16 family
+sun:SUN_0811	CDS	complement(826606..827670)	pyrD; dihydroorotate dehydrogenase
+sun:SUN_0812	CDS	827797..828111	conserved hypothetical protein
+sun:SUN_0813	CDS	828104..828457	hypothetical protein
+sun:SUN_0814	CDS	828605..829576	hypothetical protein
+sun:SUN_0815	CDS	829587..829949	conserved hypothetical protein
+sun:SUN_0816	CDS	829960..830529	hypothetical protein
+sun:SUN_0817	CDS	830645..831754	hypothetical protein
+sun:SUN_0818	CDS	complement(832099..832455)	hypothetical protein
+sun:SUN_0819	CDS	complement(832479..832982)	hypothetical protein
+sun:SUN_0820	CDS	complement(833342..834739)	cysS; cysteinyl-tRNA synthetase
+sun:SUN_0821	CDS	complement(834803..836209)	mviN; virulence factor MviN
+sun:SUN_0822	CDS	complement(836231..836623)	hypothetical protein
+sun:SUN_0823	CDS	836781..837338	ruvA; holliday junction DNA helicase RuvA
+sun:SUN_0824	CDS	837395..837877	serine protease inhibitor, ecotin
+sun:SUN_0825	CDS	complement(837887..838462)	hypothetical protein
+sun:SUN_0826	CDS	complement(838499..839197)	hypothetical protein
+sun:SUN_0827	CDS	complement(839321..839674)	hypothetical protein
+sun:SUN_0828	CDS	839786..840889	conserved hypothetical protein
+sun:SUN_0829	CDS	840886..842103	hypothetical protein
+sun:SUN_0830	CDS	842116..843000	conserved hypothetical protein
+sun:SUN_0831	CDS	843124..843855	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase
+sun:SUN_0832	CDS	843852..845309	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+sun:SUN_0833	CDS	complement(845563..846006)	hypothetical protein
+sun:SUN_0834	CDS	846064..846858	conserved hypothetical protein
+sun:SUN_0835	CDS	846937..847488	conserved hypothetical protein
+sun:SUN_0836	CDS	847571..849445	hypothetical protein
+sun:SUN_0837	CDS	849469..849945	GTP-binding protein
+sun:SUN_0838	CDS	849942..851120	conserved hypothetical protein
+sun:SUN_0839	CDS	851143..853014	C4-dicarboxylate transporter, permease
+sun:SUN_0840	CDS	complement(853018..853914)	diacylglycerol kinase
+sun:SUN_0841	CDS	complement(853925..854410)	hypothetical protein
+sun:SUN_0842	CDS	complement(854746..855804)	conserved hypothetical protein
+sun:SUN_0843	CDS	856188..857099	conserved hypothetical protein
+sun:SUN_0844	CDS	857173..857511	NADH-quinone oxidoreductase, chain A
+sun:SUN_0845	CDS	857546..857968	NADH-quinone oxidoreductase, chain B
+sun:SUN_0846	CDS	857969..859612	NADH-quinone oxidoreductase, chain D
+sun:SUN_0847	CDS	859623..860576	NADH-quinone oxidoreductase, chain H
+sun:SUN_0848	CDS	860577..861176	hypothetical protein
+sun:SUN_0849	CDS	861173..861646	NADH-quinone oxidoreductase, chain J
+sun:SUN_0850	CDS	861639..861935	NADH-quinone oxidoreductase, chain K
+sun:SUN_0851	CDS	861935..863785	NADH-quinone oxidoreductase, chain L
+sun:SUN_0852	CDS	863782..865221	NADH-quinone oxidoreductase, chain M
+sun:SUN_0853	CDS	865218..866534	NADH-quinone oxidoreductase, chain N
+sun:SUN_0854	CDS	866571..867941	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+sun:SUN_0855	CDS	complement(868075..868428)	thioredoxin
+sun:SUN_0856	CDS	868490..870091	ade; adenine deaminase
+sun:SUN_0857	CDS	870094..871377	xanthine/uracil permease
+sun:SUN_0858	CDS	871489..873756	signal transduction response regulator
+sun:SUN_0859	CDS	873886..874554	hypothetical protein
+sun:SUN_0860	CDS	complement(874576..876105)	conserved hypothetical protein
+sun:SUN_0861	CDS	876460..880053	5-oxoprolinase (ATP-hydrolyzing)
+sun:SUN_0862	CDS	880201..882609	hypothetical protein
+sun:SUN_0863	CDS	882767..884425	hypothetical protein
+sun:SUN_0864	CDS	884487..885119	phosphoesterase, Pap2 family
+sun:SUN_0865	CDS	885234..886673	conserved hypothetical protein
+sun:SUN_0866	CDS	886670..886969	anti-sigma factor antagonist
+sun:SUN_0867	CDS	886966..887322	anti-sigma regulatory factor
+sun:SUN_0868	CDS	887381..889024	conserved hypothetical protein
+sun:SUN_0869	CDS	889165..889893	hypothetical protein
+sun:SUN_0870	CDS	889890..890696	alpha-acetolactate decarboxylase
+sun:SUN_0871	CDS	890884..891450	conserved hypothetical protein
+sun:SUN_0872	CDS	complement(891464..892132)	transposase
+sun:SUN_0873	CDS	892131..892451	transposase
+sun:SUN_0874	CDS	892560..893024	hypothetical protein
+sun:SUN_0875	CDS	893064..894599	long-chain fatty-acid-CoA ligase
+sun:SUN_0876	CDS	complement(894701..895834)	carbon-nitrogen hydrolase family protein
+sun:SUN_0877	CDS	896080..897825	aspartate decarboxylase AsdA
+sun:SUN_0878	CDS	897928..898950	5-oxoprolinase (ATP-hydrolysing)
+sun:SUN_0879	CDS	complement(898833..900020)	ansB; L-asparaginase
+sun:SUN_0880	CDS	complement(900058..900993)	histidine decarboxylase
+sun:SUN_0881	CDS	complement(900990..902432)	hypothetical protein
+sun:SUN_0882	CDS	complement(902509..903237)	hypothetical protein
+sun:SUN_0883	CDS	complement(903309..905150)	phosphatidylserine decarboxylase
+sun:SUN_0884	CDS	complement(905266..906534)	conserved hypothetical protein
+sun:SUN_0885	CDS	complement(906540..907856)	conserved hypothetical protein
+sun:SUN_0886	CDS	complement(907894..909636)	dipeptidase
+sun:SUN_0887	CDS	909948..911171	conserved hypothetical protein
+sun:SUN_0888	CDS	911168..912541	hypothetical protein
+sun:SUN_0889	CDS	912635..913273	hypothetical protein
+sun:SUN_0890	CDS	913615..915225	5'-nucleotidase
+sun:SUN_0891	CDS	915386..916939	dipeptide ABC transporter, substrate-binding protein
+sun:SUN_0892	CDS	916936..917889	dipeptide ABC transporter, permease
+sun:SUN_0893	CDS	917886..918740	dipeptide ABC transporter, permease
+sun:SUN_0894	CDS	918737..919690	dipeptide ABC transporter, ATP-binding protein
+sun:SUN_0895	CDS	919675..920649	dipeptide ABC transporter, ATP-binding protein
+sun:SUN_0896	CDS	complement(920758..921702)	auxin efflux carrier
+sun:SUN_0897	CDS	921790..922776	ATPase, AAA family
+sun:SUN_0898	CDS	922776..922994	conserved hypothetical protein
+sun:SUN_0899	CDS	923112..923966	fructosamine kinase
+sun:SUN_0900	CDS	923968..924456	thioredoxin
+sun:SUN_0901	CDS	924559..925635	glutaminase
+sun:SUN_0902	CDS	925646..927082	hypothetical protein
+sun:SUN_0903	CDS	927114..928784	permease
+sun:SUN_0904	CDS	928850..929194	phnA; alkylphosphonate uptake protein PhnA
+sun:SUN_0905	CDS	complement(929215..930084)	hypothetical protein
+sun:SUN_0906	CDS	complement(930110..930697)	conserved hypothetical protein
+sun:SUN_0907	CDS	930909..935324	gltB; glutamate synthase (NADPH), large chain
+sun:SUN_0908	CDS	935396..936130	inositol monophosphatase family protein
+sun:SUN_0909	CDS	936135..937031	accD; acetyl-CoA carboxylase, carboxyl transferase subunit beta
+sun:SUN_0910	CDS	complement(937068..937409)	conserved hypothetical protein
+sun:SUN_0911	CDS	complement(937473..938045)	hypothetical protein
+sun:SUN_0912	CDS	938148..938582	cytochrome c
+sun:SUN_0913	CDS	complement(938762..941245)	hrpB; ATP-dependent helicase HrpB
+sun:SUN_0914	CDS	complement(941314..942030)	hypothetical protein
+sun:SUN_0915	CDS	942422..944170	conserved hypothetical protein
+sun:SUN_0916	CDS	944192..945538	conserved hypothetical protein
+sun:SUN_0917	CDS	945538..946281	conserved hypothetical protein
+sun:SUN_0918	CDS	946285..946872	conserved hypothetical protein
+sun:SUN_0919	CDS	946936..947337	rhodanese family protein
+sun:SUN_0920	CDS	complement(947356..947700)	dnaK suppressor protein DksA
+sun:SUN_0921	CDS	complement(947741..948373)	nfnB; NAD(P)H-flavin oxidoreductase
+sun:SUN_0922	CDS	complement(948480..949859)	transcriptional regulator, GntR family
+sun:SUN_0923	CDS	949959..950570	conserved hypothetical protein
+sun:SUN_0924	CDS	950560..951126	acetyltransferase, GNAT family
+sun:SUN_0925	CDS	951154..952008	transcriptional regulator, AraC family
+sun:SUN_0926	CDS	952109..952576	hypothetical protein
+sun:SUN_0927	CDS	952888..953454	isochorismatase hydrolase
+sun:SUN_0928	CDS	953467..954786	hypothetical protein
+sun:SUN_0929	CDS	954825..955034	hypothetical protein
+sun:SUN_0930	CDS	complement(955392..955952)	transcriptional regulator, TetR family
+sun:SUN_0931	CDS	956037..956498	conserved hypothetical protein
+sun:SUN_0932	CDS	956495..956797	hypothetical protein
+sun:SUN_0933	CDS	956778..957347	pyridoxamine 5'-phosphate oxidase
+sun:SUN_0934	CDS	957406..958020	hypothetical protein
+sun:SUN_0935	CDS	958017..958517	hypothetical protein
+sun:SUN_0936	CDS	958510..958872	hypothetical protein
+sun:SUN_0937	CDS	958862..959368	acetyltransferase
+sun:SUN_0938	CDS	959372..959743	conserved hypothetical protein
+sun:SUN_0939	CDS	959781..960230	conserved hypothetical protein
+sun:SUN_0940	CDS	complement(960220..960882)	transcriptional regulator, TetR family
+sun:SUN_0941	CDS	960978..961730	conserved hypothetical protein
+sun:SUN_0942	CDS	961727..962899	hypothetical protein
+sun:SUN_0943	CDS	962908..965166	efflux transporter, RND superfamily
+sun:SUN_0944	CDS	965227..965805	transcriptional regulator, TetR family
+sun:SUN_0945	CDS	965889..966410	conserved hypothetical protein
+sun:SUN_0946	CDS	966413..966820	conserved hypothetical protein
+sun:SUN_0947	CDS	967238..967627	conserved hypothetical protein
+sun:SUN_0948	CDS	967629..968012	hypothetical protein
+sun:SUN_0949	CDS	967996..968601	conserved hypothetical protein
+sun:SUN_0950	CDS	968602..969282	conserved hypothetical protein
+sun:SUN_0951	CDS	969294..969824	methylated-DNA-[protein]-cysteine S-methyltransferase
+sun:SUN_0952	CDS	969812..970642	conserved hypothetical protein
+sun:SUN_0953	CDS	970659..970991	hypothetical protein
+sun:SUN_0954	gene	971042..971795	pseudogene
+sun:SUN_0955	CDS	complement(971755..972732)	hypothetical protein
+sun:SUN_0956	CDS	972903..975656	hypothetical protein
+sun:SUN_0957	CDS	976064..976723	conserved hypothetical protein
+sun:SUN_0958	CDS	976720..977724	iron (III) ABC transporter, substrate-binding protein
+sun:SUN_0959	CDS	977727..979250	iron (III) ABC transporter, permease
+sun:SUN_0960	CDS	979247..979906	iron (III) ABC transporter, ATP-binding protein
+sun:SUN_0961	CDS	979981..980505	conserved hypothetical protein
+sun:SUN_0962	CDS	980511..981968	cca; polynucleotide adenylyltransferase/metal-dependent phosphohydrolase
+sun:SUN_0963	CDS	982048..984072	hypothetical protein
+sun:SUN_0964	CDS	984163..984504	conserved hypothetical protein
+sun:SUN_0965	CDS	complement(984506..985366)	lipA; lipoate synthase
+sun:SUN_0966	CDS	complement(985341..986144)	lipoate protein ligase
+sun:SUN_0967	CDS	986185..987936	acetyl-CoA synthetase
+sun:SUN_0968	CDS	987946..989178	pyruvate/2-oxoglutarate dehydrogenase complex, E2 component, dihydrolipoamide acetyltransferase
+sun:SUN_0969	CDS	989175..989423	acyl carrier protein ACP
+sun:SUN_0970	CDS	989436..990401	pyruvate/2-oxoglutarate dehydrogenase complex, E1 component, alpha subunit
+sun:SUN_0971	CDS	990533..991510	pyruvate/2-oxoglutarate dehydrogenase complex, E1 component, beta subunit
+sun:SUN_0972	CDS	complement(991654..993567)	hypothetical protein
+sun:SUN_0973	CDS	complement(993735..995081)	sodium:sulphate symporter
+sun:SUN_0974	CDS	995168..996583	oxoglutarate:malate translocator
+sun:SUN_0975	CDS	996625..998502	conserved hypothetical protein
+sun:SUN_0976	CDS	998684..999694	[pyruvate formate-lyase]-activating enzyme
+sun:SUN_0977	CDS	999833..1000636	conserved hypothetical protein
+sun:SUN_0978	CDS	1000638..1001252	L-isoaspartyl protein carboxyl methyltransferase
+sun:SUN_0979	CDS	complement(1001263..1002249)	mtlB; membrane-bound lytic murein transglycosylase
+sun:SUN_0980	CDS	complement(1002236..1003153)	citE; citrate lyase beta chain
+sun:SUN_0981	CDS	1003082..1004167	conserved hypothetical protein
+sun:SUN_0982	CDS	1004157..1005446	conserved hypothetical protein
+sun:SUN_0983	CDS	1005453..1006634	conserved hypothetical protein
+sun:SUN_0984	CDS	complement(1006759..1008435)	N-acetyl-beta-hexosaminidase
+sun:SUN_0985	CDS	1008423..1009121	hypothetical protein
+sun:SUN_0986	CDS	1009111..1009767	conserved hypothetical protein
+sun:SUN_0987	CDS	1009764..1010387	conserved hypothetical protein
+sun:SUN_0988	CDS	1010388..1012028	conserved hypothetical protein
+sun:SUN_0989	CDS	1012028..1012603	conserved hypothetical protein
+sun:SUN_0990	CDS	complement(1012640..1013797)	hypothetical protein
+sun:SUN_0991	CDS	complement(1014004..1015482)	deaD; ATP-dependent RNA helicase, DEAD-box family
+sun:SUN_0992	CDS	complement(1015743..1016372)	phosphoribosyltransferase
+sun:SUN_0993	CDS	1016480..1017664	conserved hypothetical protein
+sun:SUN_0994	CDS	1017661..1019376	DNA polymerase IV, family X
+sun:SUN_0995	CDS	complement(1019373..1019876)	metal-sulfur cluster biosynthetic enzyme
+sun:SUN_0996	CDS	complement(1019866..1020294)	sufE; Fe-S cluster assembly protein SufE
+sun:SUN_0997	CDS	complement(1020297..1021490)	sufD; Fe-S cluster assembly protein SufD
+sun:SUN_0998	CDS	complement(1021487..1022245)	sufC; Fe-S cluster assembly ATPase SufC
+sun:SUN_0999	CDS	complement(1022242..1023678)	sufB; Fe-S cluster assembly protein SufB
+sun:SUN_1000	CDS	complement(1023972..1024487)	conserved hypothetical protein
+sun:SUN_1001	CDS	1025335..1026783	cardiolipin synthetase
+sun:SUN_1002	CDS	complement(1026945..1027166)	conserved hypothetical protein
+sun:SUN_1003	CDS	complement(1027299..1028894)	phospholipase D/transphosphatidylase
+sun:SUN_1004	CDS	complement(1029039..1030910)	hypothetical protein
+sun:SUN_1005	CDS	complement(1030922..1031485)	conserved hypothetical protein
+sun:SUN_1006	CDS	1031601..1032491	5'-nucleotidase
+sun:SUN_1007	CDS	1032709..1033215	hypothetical protein
+sun:SUN_1008	CDS	complement(1033247..1034368)	tgt; queuine tRNA-ribosyltransferase
+sun:SUN_1009	CDS	1034454..1035887	conserved hypothetical protein
+sun:SUN_1010	CDS	1035951..1037003	aroB; 3-dehydroquinate synthase
+sun:SUN_1011	CDS	1037000..1038697	mechanosensitive ion channel
+sun:SUN_1012	CDS	1038694..1039947	tRNA modifying enzyme
+sun:SUN_1013	CDS	1039922..1041595	ATP-dependent zinc metalloproteinase
+sun:SUN_1014	CDS	1041599..1042111	conserved hypothetical protein
+sun:SUN_1015	CDS	complement(1042167..1044926)	conserved hypothetical protein
+sun:SUN_1016	CDS	complement(1045110..1045289)	hypothetical protein
+sun:SUN_1017	CDS	complement(1045348..1045704)	plasmid stabilization system protein
+sun:SUN_1018	CDS	complement(1045701..1045973)	prevent host death protein Phd
+sun:SUN_1019	CDS	1046320..1046577	conserved hypothetical protein
+sun:SUN_1020	CDS	1046803..1047657	hypothetical protein
+sun:SUN_1021	CDS	complement(1047824..1048591)	conserved hypothetical protein
+sun:SUN_1022	CDS	complement(1048670..1049224)	hypothetical protein
+sun:SUN_1023	CDS	complement(1049267..1049671)	hypothetical protein
+sun:SUN_1024	CDS	complement(1049771..1050037)	hypothetical protein
+sun:SUN_1025	CDS	complement(1050144..1050677)	conserved hypothetical protein
+sun:SUN_1026	CDS	complement(1050904..1051266)	hypothetical protein
+sun:SUN_1027	CDS	complement(1051677..1052897)	hypothetical protein
+sun:SUN_1028	CDS	complement(1052932..1055748)	conserved hypothetical protein
+sun:SUN_1029	CDS	1056251..1056808	conserved hypothetical protein
+sun:SUN_1030	CDS	1056795..1058147	amino acid transporter
+sun:SUN_1031	CDS	1058151..1058324	conserved hypothetical protein
+sun:SUN_1032	CDS	1058342..1059259	conserved hypothetical protein
+sun:SUN_1033	CDS	1059261..1060100	conserved hypothetical protein
+sun:SUN_1034	CDS	complement(1060097..1061422)	amino acid transporter
+sun:SUN_1035	CDS	1062281..1062703	conserved hypothetical protein
+sun:SUN_1036	CDS	complement(1062900..1063754)	protease IV
+sun:SUN_1037	CDS	complement(1063747..1064970)	amidohydrolase family protein
+sun:SUN_1038	CDS	1065082..1065570	3-dehydroquinate dehydratase II
+sun:SUN_1039	CDS	1065679..1066698	X-Pro dipeptidase
+sun:SUN_1040	CDS	1066718..1067218	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+sun:SUN_1041	CDS	1067215..1068303	flagellar biosynthesis protein FlhF
+sun:SUN_1042	CDS	1068293..1068769	hypothetical protein
+sun:SUN_1043	CDS	1068766..1069788	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+sun:SUN_1044	CDS	complement(1069834..1070445)	conserved hypothetical protein
+sun:SUN_1045	CDS	1070563..1071498	prsA; ribose-phosphate pyrophosphokinase
+sun:SUN_1046	CDS	1071627..1073438	lepA; GTP-binding protein LepA
+sun:SUN_1047	CDS	1073440..1073901	conserved hypothetical protein
+sun:SUN_1048	CDS	1074085..1074900	transcriptional regulator, Sir2 family
+sun:SUN_1049	CDS	1074913..1075488	transformation system protein
+sun:SUN_1050	CDS	complement(1075499..1076611)	conserved hypothetical protein
+sun:SUN_1051	CDS	complement(1076662..1077765)	carboxypeptidase G2
+sun:SUN_1052	CDS	1077870..1078769	conserved hypothetical protein
+sun:SUN_1053	CDS	1078788..1080218	conserved hypothetical protein
+sun:SUN_1054	CDS	1080392..1082971	conserved hypothetical protein
+sun:SUN_1055	CDS	complement(1083023..1083505)	conserved hypothetical protein
+sun:SUN_1056	CDS	1083746..1084414	hypothetical protein
+sun:SUN_1057	CDS	1084584..1085990	conserved hypothetical protein
+sun:SUN_1058	CDS	1086064..1087068	conserved hypothetical protein
+sun:SUN_1059	CDS	1087279..1087737	conserved hypothetical protein
+sun:SUN_1060	CDS	complement(1087782..1088156)	conserved hypothetical protein
+sun:SUN_1061	CDS	complement(1088423..1089229)	Mn2+/Zn2+ ABC transporter, permease
+sun:SUN_1062	CDS	complement(1089226..1090029)	Mn2+/Zn2+ ABC transporter, ATP-binding protein
+sun:SUN_1063	CDS	complement(1090037..1090903)	Mn2+/Zn2+ ABC transporter, substrate-binding protein
+sun:SUN_1064	CDS	1091018..1092031	conserved hypothetical protein
+sun:SUN_1065	CDS	1092041..1092451	conserved hypothetical protein
+sun:SUN_1066	CDS	1092448..1094529	hypothetical protein
+sun:SUN_1067	CDS	complement(1094520..1095182)	two-component response regulator
+sun:SUN_1068	CDS	1095480..1097252	conserved hypothetical protein
+sun:SUN_1069	CDS	1097359..1098375	hypothetical protein
+sun:SUN_1070	CDS	1098391..1098918	conserved hypothetical protein
+sun:SUN_1071	CDS	1098927..1099997	conserved hypothetical protein
+sun:SUN_1072	CDS	1099997..1100608	ABC transporter, ATP-binding protein
+sun:SUN_1073	CDS	1100602..1102185	hypothetical protein
+sun:SUN_1074	CDS	1102200..1102655	conserved hypothetical protein
+sun:SUN_1075	CDS	1102652..1103563	conserved hypothetical protein
+sun:SUN_1076	CDS	complement(1103586..1104320)	exonuclease
+sun:SUN_1077	CDS	1104431..1104889	conserved hypothetical protein
+sun:SUN_1078	CDS	1104891..1105724	conserved hypothetical protein
+sun:SUN_1079	CDS	1105717..1106532	phosphatidylserine decarboxylase
+sun:SUN_1080	CDS	1106548..1107456	general glycosylation pathway protein
+sun:SUN_1081	CDS	1107465..1108088	HAD-superfamily hydrolase
+sun:SUN_1082	CDS	complement(1108103..1108465)	hypothetical protein
+sun:SUN_1083	CDS	1108691..1108903	conserved hypothetical protein
+sun:SUN_1084	CDS	complement(1108938..1109447)	menG; regulator of ribonuclease activity A
+sun:SUN_1085	CDS	1109627..1110031	methylaspartate mutase, S subunit
+sun:SUN_1086	CDS	1110028..1111389	methylaspartate mutase, E subunit
+sun:SUN_1087	CDS	1111386..1112579	hypothetical protein
+sun:SUN_1088	CDS	1112582..1114150	conserved hypothetical protein
+sun:SUN_1089	gene	1115111..1115314	pseudogene
+sun:SUN_1090	CDS	1115435..1116394	ATPase, AAA family
+sun:SUN_1091	CDS	1116407..1118887	conserved hypothetical protein
+sun:SUN_1092	gene	1119061..1119231	pseudogene
+sun:SUN_1093	CDS	1119794..1120264	conserved hypothetical protein
+sun:SUN_1094	CDS	1120774..1120980	conserved hypothetical protein
+sun:SUN_1095	CDS	1121002..1121247	conserved hypothetical protein
+sun:SUN_1096	CDS	complement(1121260..1121706)	conserved hypothetical protein
+sun:SUN_1097	CDS	complement(1121703..1121870)	conserved hypothetical protein
+sun:SUN_1098	CDS	complement(1121905..1122402)	conserved hypothetical protein
+sun:SUN_1099	CDS	1122505..1123851	ATP-dependent peptidase, M41 family
+sun:SUN_1100	CDS	1123860..1124510	tRNA (guanosine-2'-O-)-methyltransferase
+sun:SUN_1101	CDS	1124565..1125470	conserved hypothetical protein
+sun:SUN_1102	CDS	complement(1125476..1126102)	upp; uracil phosphoribosyltransferase
+sun:SUN_1103	CDS	complement(1126255..1126572)	sulfite:cytochrome c oxidoreductase subunit B
+sun:SUN_1104	CDS	complement(1126584..1127789)	sulfite:cytochrome c oxidoreductase subunit A
+sun:SUN_1105	CDS	complement(1127906..1128271)	histidine triad family protein
+sun:SUN_1106	CDS	complement(1128271..1128711)	conserved hypothetical protein
+sun:SUN_1107	CDS	complement(1128717..1131992)	carB; carbamoylphosphate synthase, large subunit
+sun:SUN_1108	CDS	complement(1132067..1133176)	mreC; cell shape-determining protein MreC
+sun:SUN_1109	CDS	complement(1133166..1134200)	mreB; cell shape-determining protein MreB
+sun:SUN_1110	CDS	complement(1134231..1135451)	clpX; ATP-dependent Clp protease, ATP-binding subunit ClpX
+sun:SUN_1111	CDS	complement(1135461..1136243)	lpxA; acyl-[acyl-carrier-protein]--UDP-N-acetylglucosam O-acyltransferase
+sun:SUN_1112	CDS	complement(1136252..1136701)	fabZ; 3R-hydroxymyristoyl ACP dehydrase
+sun:SUN_1113	CDS	complement(1136763..1137845)	conserved hypothetical protein
+sun:SUN_1114	CDS	complement(1137945..1138994)	lpxB; lipid A disaccharide synthetase
+sun:SUN_1115	CDS	complement(1139044..1139730)	conserved hypothetical protein
+sun:SUN_1116	CDS	complement(1139777..1140109)	hypothetical protein
+sun:SUN_1117	CDS	complement(1140193..1140666)	hypothetical protein
+sun:SUN_1118	CDS	complement(1140737..1141855)	choloylglycine hydrolase
+sun:SUN_1119	CDS	complement(1141879..1143258)	Na+:H+ antiporter, NhaC family
+sun:SUN_1120	CDS	1143302..1144006	conserved hypothetical protein
+sun:SUN_1121	CDS	1144176..1145819	inorganic phosphate transporter, PiT family
+sun:SUN_1122	CDS	1145819..1147633	phosphate:Na+ symporter
+sun:SUN_1123	CDS	1147633..1147908	hypothetical protein
+sun:SUN_1124	CDS	complement(1147969..1149681)	myosin-crossreactive antigen
+sun:SUN_1125	CDS	complement(1149825..1150751)	conserved hypothetical protein
+sun:SUN_1126	CDS	1151089..1151727	methyltransferase
+sun:SUN_1127	CDS	complement(1151948..1152928)	conserved hypothetical protein
+sun:SUN_1128	CDS	complement(1152928..1154877)	metG; methionyl-tRNA synthetase
+sun:SUN_1129	CDS	1155047..1155562	hypothetical protein
+sun:SUN_1130	CDS	1155562..1155816	conserved hypothetical protein
+sun:SUN_1131	CDS	1155897..1157603	conserved hypothetical protein
+sun:SUN_1132	CDS	complement(1157613..1157810)	conserved hypothetical protein
+sun:SUN_1133	CDS	complement(1157810..1158664)	fbp; fructose-1,6-bisphosphatase
+sun:SUN_1134	CDS	complement(1158678..1159175)	molybdopterin-guanine dinucleotide biosynthesis protein B
+sun:SUN_1135	CDS	1159265..1159795	hypothetical protein
+sun:SUN_1136	CDS	complement(1159806..1161092)	lytic murein transglycosylase
+sun:SUN_1137	CDS	complement(1161098..1161373)	conserved hypothetical protein
+sun:SUN_1138	CDS	complement(1161370..1162656)	glutamyl-tRNA synthetase
+sun:SUN_1139	CDS	1162820..1165069	glnS; glutaminyl-tRNA synthetase
+sun:SUN_1140	CDS	complement(1165143..1165538)	conserved hypothetical protein
+sun:SUN_1141	CDS	1165809..1166840	riboflavin biosynthesis bifunctional protein RibBA
+sun:SUN_1142	CDS	complement(1166848..1167675)	conserved hypothetical protein
+sun:SUN_1143	CDS	1167895..1169550	hypothetical protein
+sun:SUN_1144	CDS	1169531..1170193	two-component response regulator
+sun:SUN_1145	CDS	1170341..1171780	conserved hypothetical protein
+sun:SUN_1146	CDS	1171794..1172108	conserved hypothetical protein
+sun:SUN_1147	CDS	1172108..1173784	sodium:solute symporter
+sun:SUN_1148	CDS	1173894..1175720	conserved hypothetical protein
+sun:SUN_1149	CDS	1175732..1176352	dnaQ; DNA polymerase III, epsilon subunit
+sun:SUN_1150	CDS	1176492..1178447	acs; acetyl-CoA synthetase
+sun:SUN_1151	CDS	complement(1178574..1179242)	uracil-DNA glycosylase
+sun:SUN_1152	CDS	complement(1179354..1180379)	tas; aldo/keto reductase-family protein
+sun:SUN_1153	CDS	1180465..1181235	hypothetical protein
+sun:SUN_1154	CDS	1181353..1183197	conserved hypothetical protein
+sun:SUN_1155	CDS	1183261..1183896	hypothetical protein
+sun:SUN_1156	CDS	1183928..1184359	conserved hypothetical protein
+sun:SUN_1157	CDS	1184827..1186743	sulfatase
+sun:SUN_1158	CDS	1187689..1188342	transcriptional regulator, TetR family
+sun:SUN_1159	CDS	1188399..1189007	methyltransferase
+sun:SUN_1160	CDS	1189009..1189605	conserved hypothetical protein
+sun:SUN_1161	CDS	complement(1189645..1190634)	conserved hypothetical protein
+sun:SUN_1162	CDS	complement(1190980..1191549)	cytochrome c family protein
+sun:SUN_1163	CDS	complement(1191644..1194241)	conserved hypothetical protein
+sun:SUN_1164	CDS	complement(1194245..1197706)	2-acyl-glycerophospho-ethanolamine acyltransferase; acyl-acyl-carrier protein synthetase
+sun:SUN_1165	CDS	complement(1197707..1198369)	transcriptional regulator, MerR family
+sun:SUN_1166	CDS	complement(1198480..1199412)	conserved hypothetical protein
+sun:SUN_1167	CDS	1199455..1200708	conserved hypothetical protein
+sun:SUN_1168	CDS	1201373..1202956	sulfate transporter
+sun:SUN_1169	CDS	1203055..1203741	conserved hypothetical protein
+sun:SUN_1170	CDS	complement(1203761..1204507)	carbonate dehydratase
+sun:SUN_1171	CDS	complement(1205112..1205645)	molybdenum cofactor biosynthesis protein B
+sun:SUN_1172	CDS	complement(1205707..1206522)	oxidoreductase
+sun:SUN_1173	CDS	1206592..1207374	patatin
+sun:SUN_1174	CDS	1207371..1207805	conserved hypothetical protein
+sun:SUN_1175	CDS	1207821..1208984	conserved hypothetical protein
+sun:SUN_1176	CDS	complement(1208995..1209363)	hypothetical protein
+sun:SUN_1177	CDS	1209489..1210001	hypothetical protein
+sun:SUN_1178	CDS	1210013..1210237	hypothetical protein
+sun:SUN_1179	CDS	1210234..1211313	chloromuconate cycloisomerase
+sun:SUN_1180	CDS	1211396..1212733	conserved hypothetical protein
+sun:SUN_1181	CDS	1212771..1213382	DNA methylase
+sun:SUN_1182	CDS	1213379..1214128	conserved hypothetical protein
+sun:SUN_1183	CDS	1214129..1214590	cytidine/deoxycytidylate deaminase family protein
+sun:SUN_1184	CDS	1214884..1215240	hypothetical protein
+sun:SUN_1185	CDS	1215425..1216108	two-component response regulator
+sun:SUN_1186	CDS	1216098..1217099	two-component sensor histidine kinase
+sun:SUN_1187	CDS	complement(1217250..1219319)	ATP-dependent DNA helicase, UvrD/REP family
+sun:SUN_1188	CDS	complement(1219320..1219658)	conserved hypothetical protein
+sun:SUN_1189	CDS	complement(1219745..1220308)	conserved hypothetical protein
+sun:SUN_1190	CDS	1220594..1221862	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sun:SUN_1191	CDS	1221868..1222341	adenylate cyclase
+sun:SUN_1192	CDS	complement(1222344..1226015)	conserved hypothetical protein
+sun:SUN_1193	CDS	complement(1226104..1227171)	tRNA pseudouridine synthase D
+sun:SUN_1194	CDS	1227329..1227799	conserved hypothetical protein
+sun:SUN_1195	CDS	1228105..1228782	gph; phosphoglycolate phosphatase
+sun:SUN_1196	CDS	1228793..1230229	conserved hypothetical protein
+sun:SUN_1197	CDS	1230274..1230882	endonuclease III
+sun:SUN_1198	CDS	complement(1230888..1231709)	thiamin-monophosphate kinase
+sun:SUN_1199	CDS	1231861..1232916	conserved hypothetical protein
+sun:SUN_1200	CDS	1233074..1234801	succinate dehydrogenase/fumarate reductase, flavoprotein subunit
+sun:SUN_1201	CDS	1234812..1235801	succinate dehydrogenase/fumarate reductase, iron-sulfur protein
+sun:SUN_1202	CDS	1235811..1236695	succinate dehydrogenase/fumarate reductase, subunit C
+sun:SUN_1203	CDS	1236818..1237255	cytochrome c
+sun:SUN_1204	CDS	1237336..1237722	conserved hypothetical protein
+sun:SUN_1205	CDS	complement(1237767..1238996)	signal transduction response regulator
+sun:SUN_1206	CDS	complement(1239344..1240102)	conserved hypothetical protein
+sun:SUN_1207	CDS	complement(1240171..1241118)	decarboxylase family protein
+sun:SUN_1208	CDS	complement(1241353..1242681)	pyruvate/2-oxoglutarate dehydrogenase complex, E3 component, dihydrolipoamide dehydrogenase
+sun:SUN_1209	CDS	complement(1242678..1244018)	pyruvate/2-oxoglutarate dehydrogenase complex, E2 component, dihydrolipoamide acetyltransferase
+sun:SUN_1210	CDS	complement(1244041..1245435)	pyruvate/2-oxoglutarate dehydrogenase complex, E3 component, dihydrolipoamide dehydrogenase
+sun:SUN_1211	CDS	complement(1245461..1246366)	fbaB; fructose-bisphosphate aldolase, class I
+sun:SUN_1212	CDS	complement(1246377..1247390)	glyceraldehyde 3-phosphate dehydrogenase
+sun:SUN_1213	CDS	complement(1247403..1248680)	phosphopyruvate hydratase
+sun:SUN_1214	CDS	complement(1248694..1251108)	ppsA; phosphoenolpyruvate synthase
+sun:SUN_1215	gene	complement(1251406..1252445)	pseudogene
+sun:SUN_1216	CDS	1252919..1253782	hypothetical protein
+sun:SUN_1217	CDS	1253876..1254172	mitomycin resistance protein
+sun:SUN_1218	CDS	1254169..1254561	conserved hypothetical protein
+sun:SUN_1219	CDS	1254599..1255015	hypothetical protein
+sun:SUN_1220	CDS	complement(1255351..1257285)	peptidoglycan glycosyltransferase
+sun:SUN_1221	CDS	complement(1257282..1257743)	conserved hypothetical protein
+sun:SUN_1222	CDS	complement(1257740..1258204)	acetyltransferase, GNAT family
+sun:SUN_1223	CDS	complement(1258201..1258842)	GTP-binding protein
+sun:SUN_1224	CDS	complement(1258839..1259312)	conserved hypothetical protein
+sun:SUN_1225	CDS	complement(1259355..1259867)	hypothetical protein
+sun:SUN_1226	CDS	complement(1259858..1260355)	phosphatase, YrbI family
+sun:SUN_1227	CDS	complement(1260352..1260924)	imidazoleglycerol-phosphate dehydratase
+sun:SUN_1228	CDS	complement(1260939..1261724)	conserved hypothetical protein
+sun:SUN_1229	CDS	complement(1261786..1262883)	membrane-bound lytic murein transglycosylase D
+sun:SUN_1230	CDS	complement(1262892..1263662)	hydrolase, TatD family
+sun:SUN_1231	CDS	1263806..1264597	hypothetical protein
+sun:SUN_1232	CDS	complement(1264578..1266116)	recN; DNA repair protein RecN
+sun:SUN_1233	CDS	complement(1266110..1267033)	NAD+ kinase
+sun:SUN_1234	CDS	1267213..1268235	cytochrome c peroxidase
+sun:SUN_1235	CDS	1268341..1269528	conserved hypothetical protein
+sun:SUN_1236	CDS	1269590..1270330	hypothetical protein
+sun:SUN_1237	CDS	1270334..1271152	HAD-superfamily hydrolase
+sun:SUN_1238	CDS	complement(1271158..1271508)	hypothetical protein
+sun:SUN_1239	CDS	complement(1271554..1272270)	nucleotidyltransferase
+sun:SUN_1240	CDS	complement(1272460..1273407)	aminoglycoside phosphotransferase
+sun:SUN_1241	CDS	complement(1273609..1274688)	conserved hypothetical protein
+sun:SUN_1242	CDS	1274823..1275410	hypothetical protein
+sun:SUN_1243	CDS	complement(1275508..1277034)	sodium:solute symporter
+sun:SUN_1244	CDS	complement(1277034..1277747)	conserved hypothetical protein
+sun:SUN_1245	CDS	complement(1277774..1278328)	conserved hypothetical protein
+sun:SUN_1246	CDS	complement(1278315..1278626)	conserved hypothetical protein
+sun:SUN_1247	CDS	1278737..1279021	hypothetical protein
+sun:SUN_1248	CDS	1279096..1279599	conserved hypothetical protein
+sun:SUN_1249	CDS	1279599..1280258	conserved hypothetical protein
+sun:SUN_1250	CDS	complement(1280370..1280789)	hypothetical protein
+sun:SUN_1251	CDS	complement(1280838..1281368)	hypothetical protein
+sun:SUN_1252	CDS	1281510..1282412	hypothetical protein
+sun:SUN_1253	CDS	complement(1282445..1282912)	conserved hypothetical protein
+sun:SUN_1254	CDS	complement(1282912..1284204)	hemL; glutamate-1-semialdehyde 2,1-aminomutase
+sun:SUN_1255	CDS	1284318..1285280	conserved hypothetical protein
+sun:SUN_1256	CDS	1285326..1285763	hypothetical protein
+sun:SUN_1257	CDS	1285945..1287042	C4-dicarboxylate transporter, substrate-binding protein
+sun:SUN_1258	CDS	complement(1287091..1287339)	conserved hypothetical protein
+sun:SUN_1259	CDS	complement(1287401..1287676)	acylphosphatase
+sun:SUN_1260	CDS	complement(1287679..1288116)	conserved hypothetical protein
+sun:SUN_1261	CDS	1288197..1288982	conserved hypothetical protein
+sun:SUN_1262	CDS	complement(1288995..1289783)	hypothetical protein
+sun:SUN_1263	CDS	1289946..1291034	tRNA pseudouridine synthase D
+sun:SUN_1264	CDS	complement(1291035..1291703)	transcriptional regulator, ExsB family
+sun:SUN_1265	CDS	1291758..1292201	conserved hypothetical protein
+sun:SUN_1266	CDS	1292211..1293143	calcium:H+/Na+ antiporter, CaCA family
+sun:SUN_1267	gene	1293626..1293823	pseudogene
+sun:SUN_1268	CDS	complement(1294728..1296653)	glgB; 1,4-alpha-glucan branching enzyme
+sun:SUN_1269	CDS	complement(1296653..1298134)	glycogen synthase
+sun:SUN_1270	CDS	complement(1298131..1298955)	conserved hypothetical protein
+sun:SUN_1271	CDS	complement(1298952..1300325)	glycogen synthase
+sun:SUN_1272	CDS	complement(1300322..1301323)	galT; galactose-1-phosphate uridylyltransferase
+sun:SUN_1273	CDS	complement(1301316..1303352)	4-alpha-glucanotransferase
+sun:SUN_1274	CDS	complement(1303361..1305388)	glycoside hydrolase
+sun:SUN_1275	CDS	complement(1305379..1307901)	mannose-1-phosphate guanylyltransferase
+sun:SUN_1276	CDS	complement(1307898..1309169)	glucose-6-phosphate isomerase
+sun:SUN_1277	CDS	complement(1309196..1310842)	pgm; phosphoglucomutase, alpha-D-glucose phosphate-specific
+sun:SUN_1278	CDS	complement(1310845..1312971)	glycogen/starch/alpha-glucan phosphorylase
+sun:SUN_1279	CDS	complement(1313026..1313406)	crcB; camphor resistance protein CrcB
+sun:SUN_1280	CDS	complement(1313406..1313756)	conserved hypothetical protein
+sun:SUN_1281	CDS	complement(1313802..1314446)	multiple antibiotic transporter, MarC family
+sun:SUN_1282	CDS	complement(1314783..1315367)	conserved hypothetical protein
+sun:SUN_1283	CDS	complement(1315383..1316369)	conserved hypothetical protein
+sun:SUN_1284	CDS	complement(1316441..1317139)	peroxiredoxin, AhpC/Tsa family
+sun:SUN_1285	CDS	complement(1317269..1318006)	conserved hypothetical protein
+sun:SUN_1286	CDS	complement(1318021..1319271)	conserved hypothetical protein
+sun:SUN_1287	CDS	complement(1319268..1320026)	conserved hypothetical protein
+sun:SUN_1288	CDS	complement(1320026..1321414)	conserved hypothetical protein
+sun:SUN_1289	CDS	complement(1321398..1324019)	H+-transporting P-type ATPase
+sun:SUN_1290	CDS	complement(1324090..1324782)	gpmA; phosphoglycerate mutase
+sun:SUN_1291	CDS	complement(1324782..1325327)	DedA family protein
+sun:SUN_1292	CDS	complement(1325331..1326887)	Na+:H+ antiporter, NhaP family
+sun:SUN_1293	CDS	complement(1326897..1328150)	Mn transporter
+sun:SUN_1294	CDS	complement(1328214..1329617)	RNA-metabolising metallo-beta-lactamase
+sun:SUN_1295	CDS	1329913..1331268	conserved hypothetical protein
+sun:SUN_1296	CDS	1331268..1332077	conserved hypothetical protein
+sun:SUN_1297	CDS	complement(1332247..1333620)	rhlE; ATP-dependent RNA helicase
+sun:SUN_1298	CDS	complement(1333836..1334753)	inorganic diphosphatase
+sun:SUN_t10	tRNA	1334883..1334958	trnE_Arg; tRNA-Arg
+sun:SUN_1299	CDS	complement(1335129..1335506)	thioredoxin
+sun:SUN_1300	CDS	complement(1335734..1336438)	conserved hypothetical protein
+sun:SUN_1301	CDS	complement(1336435..1337205)	conserved hypothetical protein
+sun:SUN_1302	CDS	1337755..1339176	hypothetical protein
+sun:SUN_1303	CDS	1339178..1339516	hypothetical protein
+sun:SUN_1304	CDS	complement(1340353..1341360)	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+sun:SUN_1305	CDS	complement(1341414..1341902)	greA; transcription elongation factor GreA
+sun:SUN_1306	CDS	1342014..1342808	surE; stationary-phase survival protein
+sun:SUN_1307	CDS	1342908..1343543	conserved hypothetical protein
+sun:SUN_1308	CDS	complement(1343552..1344436)	metallophosphoesterase
+sun:SUN_1309	CDS	complement(1344456..1347569)	cytochrome c biogenesis protein, CcmF/CycK/CcsA family
+sun:SUN_1310	CDS	1347781..1348131	conserved hypothetical protein
+sun:SUN_1311	CDS	1348144..1348659	conserved hypothetical protein
+sun:SUN_1312	CDS	1348668..1349213	conserved hypothetical protein
+sun:SUN_1313	CDS	complement(1349436..1349975)	hypothetical protein
+sun:SUN_1314	CDS	complement(1350040..1353738)	type II restriction-modification enzyme, R and M protein
+sun:SUN_1315	CDS	complement(1353822..1356518)	polA; DNA polymerase I
+sun:SUN_1316	CDS	complement(1357073..1359898)	uvrA; excinuclease ABC, A subunit
+sun:SUN_1317	CDS	complement(1360210..1362810)	conserved hypothetical protein
+sun:SUN_1318	CDS	complement(1362923..1363666)	conserved hypothetical protein
+sun:SUN_1319	CDS	complement(1363721..1364143)	conserved hypothetical protein
+sun:SUN_1320	CDS	complement(1364217..1365173)	tRNA-dihydrouridine synthase
+sun:SUN_1321	CDS	complement(1365190..1366224)	conserved hypothetical protein
+sun:SUN_1322	CDS	complement(1366234..1366590)	dnaK suppressor protein DksA
+sun:SUN_1323	CDS	complement(1366603..1367064)	conserved hypothetical protein
+sun:SUN_1324	CDS	1367149..1367853	hypothetical protein
+sun:SUN_1325	CDS	complement(1367855..1368469)	fumarylacetoacetate hydrolase
+sun:SUN_1326	CDS	complement(1368471..1369061)	hypothetical protein
+sun:SUN_1327	CDS	complement(1369107..1369706)	conserved hypothetical protein
+sun:SUN_1328	CDS	complement(1369823..1370650)	hypothetical protein
+sun:SUN_1329	CDS	1370761..1371081	cutA; divalent cation tolerance protein
+sun:SUN_1330	CDS	1371078..1371479	hypothetical protein
+sun:SUN_1331	CDS	complement(1371571..1373016)	conserved hypothetical protein
+sun:SUN_1332	CDS	complement(1373216..1374697)	conserved hypothetical protein
+sun:SUN_1333	CDS	1374892..1375116	conserved hypothetical protein
+sun:SUN_1334	CDS	1375204..1375836	conserved hypothetical protein
+sun:SUN_1335	CDS	1375833..1376462	conserved hypothetical protein
+sun:SUN_1336	CDS	1376449..1378050	conserved hypothetical protein
+sun:SUN_1337	CDS	1378051..1378629	conserved hypothetical protein
+sun:SUN_1338	CDS	complement(1378920..1380239)	sulfide dehydrogenase, flavocytochrome c
+sun:SUN_1339	CDS	1380435..1380806	thioesterase family protein
+sun:SUN_1340	CDS	1380919..1381998	conserved hypothetical protein
+sun:SUN_1341	CDS	1382024..1382722	K+ channel protein
+sun:SUN_1342	CDS	1382719..1384893	conserved hypothetical protein
+sun:SUN_1343	CDS	1384898..1386532	outer membrane efflux lipoprotein
+sun:SUN_1344	CDS	1386522..1386737	conserved hypothetical protein
+sun:SUN_1345	CDS	1386750..1387646	multidrug resistance efflux pump
+sun:SUN_1346	CDS	complement(1387733..1388113)	hypothetical protein
+sun:SUN_1347	CDS	1388198..1389700	phospholipase D/transphosphatidylase
+sun:SUN_1348	CDS	complement(1389786..1390922)	hypothetical protein
+sun:SUN_1349	CDS	complement(1391044..1391619)	hypothetical protein
+sun:SUN_1350	CDS	complement(1391718..1394288)	acnB; aconitate hydratase 2
+sun:SUN_1351	CDS	complement(1394450..1396729)	cell division protein FtsK
+sun:SUN_t11	tRNA	1396907..1396989	trnF_Leu; tRNA-Leu
+sun:SUN_t12	tRNA	1397032..1397108	trnF_Gly1; tRNA-Gly
+sun:SUN_t13	tRNA	1397131..1397205	trnF_Gly2; tRNA-Gly
+sun:SUN_1352	CDS	1397536..1398057	ubiX; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiX
+sun:SUN_1353	CDS	1398238..1398714	coaD; phosphopantetheine adenylyltransferase
+sun:SUN_1354	CDS	1398714..1399289	tmk; thymidylate kinase
+sun:SUN_1355	CDS	1399364..1400575	hisS; histidyl-tRNA synthetase
+sun:SUN_1356	CDS	complement(1400803..1401378)	hypothetical protein
+sun:SUN_1357	CDS	complement(1401375..1402286)	ABC transporter, substrate-binding protein
+sun:SUN_1358	CDS	complement(1402279..1403076)	ABC transporter, ATP-binding protein
+sun:SUN_1359	CDS	complement(1403073..1404176)	ABC transporter, permease
+sun:SUN_1360	CDS	1404247..1406127	speA; arginine decarboxylase
+sun:SUN_1361	CDS	1406124..1406825	serine O-acetyltransferase
+sun:SUN_1362	CDS	1406909..1408081	aspartate aminotransferase
+sun:SUN_1363	CDS	1408143..1410260	hypothetical protein
+sun:SUN_1364	CDS	complement(1410268..1410822)	conserved hypothetical protein
+sun:SUN_1365	CDS	1410900..1411883	conserved hypothetical protein
+sun:SUN_1366	CDS	1411958..1412230	prevent-host-death protein
+sun:SUN_1367	CDS	1412236..1412571	plasmid stabilization system protein
+sun:SUN_1368	CDS	1412581..1413819	saccharopine dehydrogenase
+sun:SUN_1369	CDS	1414000..1414755	conserved hypothetical protein
+sun:SUN_1370	CDS	1414756..1415463	conserved hypothetical protein
+sun:SUN_1371	CDS	complement(1415636..1416406)	conserved hypothetical protein
+sun:SUN_1372	CDS	1416468..1417604	cell shape-determining protein RodA
+sun:SUN_t14	tRNA	1417606..1417682	trnG_Met; tRNA-Met
+sun:SUN_1373	CDS	complement(1417772..1418641)	molybdenum cofactor biosynthesis protein
+sun:SUN_1374	CDS	complement(1418638..1419654)	hypothetical protein
+sun:SUN_1375	CDS	1419900..1422536	valS; valyl-tRNA synthetase
+sun:SUN_1376	CDS	1422538..1423122	conserved hypothetical protein
+sun:SUN_1377	CDS	complement(1423149..1425422)	conserved hypothetical protein
+sun:SUN_1378	CDS	complement(1425455..1426723)	DNA polymerase IV
+sun:SUN_1379	CDS	complement(1426795..1428906)	conserved hypothetical protein
+sun:SUN_1380	gene	complement(1429141..1430043)	pseudogene
+sun:SUN_1381	CDS	complement(1430417..1430830)	protein tyrosine phosphatase
+sun:SUN_1382	CDS	complement(1430827..1431156)	transcriptional regulator, ArsR family
+sun:SUN_1383	CDS	1431286..1432548	arsB; arsenic efflux pump protein
+sun:SUN_1384	CDS	complement(1432570..1433913)	magnesium transporter
+sun:SUN_1385	CDS	1434223..1435062	hypothetical protein
+sun:SUN_1386	CDS	complement(1436183..1438300)	ferrous iron transport protein B
+sun:SUN_1387	CDS	complement(1438297..1438557)	ferrous iron transport protein A
+sun:SUN_1388	CDS	complement(1438554..1439057)	conserved hypothetical protein
+sun:SUN_1389	CDS	complement(1439054..1439479)	conserved hypothetical protein
+sun:SUN_1390	CDS	1439601..1440269	two-component response regulator
+sun:SUN_1391	CDS	1440256..1441419	two-component sensor histidine kinase
+sun:SUN_1392	CDS	1441407..1441775	conserved hypothetical protein
+sun:SUN_1393	CDS	1441838..1442530	conserved hypothetical protein
+sun:SUN_1394	gene	complement(1442575..1442799)	pseudogene
+sun:SUN_1395	CDS	complement(1442833..1444770)	hypothetical protein
+sun:SUN_1396	CDS	complement(1444796..1445485)	hypothetical protein
+sun:SUN_1397	CDS	complement(1445489..1445830)	hypothetical protein
+sun:SUN_1398	CDS	complement(1446082..1446285)	hypothetical protein
+sun:SUN_1399	CDS	complement(1446400..1446777)	conserved hypothetical protein
+sun:SUN_1400	CDS	complement(1446958..1447671)	ABC transporter, ATP-binding protein
+sun:SUN_1401	CDS	complement(1447676..1448821)	ABC transporter, permease
+sun:SUN_1402	CDS	complement(1448818..1449960)	efflux system, membrane fusion protein
+sun:SUN_1403	CDS	complement(1450070..1451323)	outer membrane efflux protein
+sun:SUN_1404	CDS	complement(1451563..1452141)	hypothetical protein
+sun:SUN_1405	CDS	complement(1452143..1452460)	conserved hypothetical protein
+sun:SUN_1406	CDS	complement(1452483..1452866)	thioredoxin
+sun:SUN_1407	CDS	complement(1452866..1453198)	hypothetical protein
+sun:SUN_1408	CDS	complement(1453198..1454091)	cation efflux system protein CzcD
+sun:SUN_1409	CDS	complement(1454111..1454812)	conserved hypothetical protein
+sun:SUN_1410	CDS	complement(1455169..1455555)	cytochrome c, class I
+sun:SUN_1411	CDS	complement(1455740..1456627)	hypothetical protein
+sun:SUN_1412	CDS	1456987..1457928	hypothetical protein
+sun:SUN_1413	CDS	1458040..1459626	arylsulfatase
+sun:SUN_1414	CDS	1459806..1461500	metal-dependent hydrolase
+sun:SUN_1415	CDS	1461682..1462464	conserved hypothetical protein
+sun:SUN_1416	CDS	complement(1462662..1463372)	cytochrome c biogenesis protein
+sun:SUN_1417	CDS	complement(1463375..1464094)	hypothetical protein
+sun:SUN_1418	CDS	complement(1464087..1464335)	redox-active disulfide protein 2
+sun:SUN_1419	CDS	complement(1464347..1465294)	conserved hypothetical protein
+sun:SUN_1420	CDS	1465543..1466097	conserved hypothetical protein
+sun:SUN_1421	CDS	1466104..1466814	two-component response regulator
+sun:SUN_1422	CDS	1466818..1468059	two-component sensor histidine kinase
+sun:SUN_1423	CDS	complement(1468105..1469469)	conserved hypothetical protein
+sun:SUN_1424	CDS	complement(1469491..1469853)	conserved hypothetical protein
+sun:SUN_1425	CDS	complement(1469943..1470707)	hypothetical protein
+sun:SUN_1426	CDS	complement(1470717..1473824)	multidrug efflux transporter, RND superfamily
+sun:SUN_1427	CDS	complement(1473828..1474838)	conserved hypothetical protein
+sun:SUN_1428	CDS	complement(1474835..1476112)	conserved hypothetical protein
+sun:SUN_1429	CDS	complement(1476109..1476765)	transcriptional regulator, TetR family
+sun:SUN_1430	CDS	1477024..1477959	conserved hypothetical protein
+sun:SUN_1431	CDS	complement(1478160..1479749)	pckA; phosphoenolpyruvate carboxykinase [ATP]
+sun:SUN_1432	CDS	complement(1479884..1481224)	Na+-transporting oxaloacetate decarboxylase, beta subunit
+sun:SUN_1433	CDS	complement(1481227..1483014)	Na+-transporting oxaloacetate decarboxylase, alpha subunit
+sun:SUN_1434	CDS	complement(1483050..1483286)	Na+-transporting oxaloacetate decarboxylase, gamma subunit
+sun:SUN_1435	CDS	complement(1483426..1484808)	ATP-dependent RNA helicase, DEAD-box family
+sun:SUN_1436	CDS	complement(1484998..1485762)	bacA; undecaprenol kinase
+sun:SUN_1437	CDS	complement(1485772..1487541)	multidrug ABC transporter, ATP-binding protein
+sun:SUN_t15	tRNA	1487906..1487980	trnH_Gln; tRNA-Gln
+sun:SUN_t16	tRNA	1488039..1488115	trnH_Met; tRNA-Met
+sun:SUN_1438	CDS	complement(1488161..1489261)	site-specific recombinase, phage integrase family
+sun:SUN_1439	CDS	complement(1489306..1489530)	hypothetical protein
+sun:SUN_1440	CDS	complement(1489499..1490578)	hypothetical protein
+sun:SUN_1441	CDS	complement(1490787..1491041)	hypothetical protein
+sun:SUN_1442	CDS	complement(1491171..1492226)	hypothetical protein
+sun:SUN_1443	CDS	1492571..1492927	hypothetical protein
+sun:SUN_1444	CDS	1493124..1493942	hypothetical protein
+sun:SUN_1445	CDS	1494425..1495339	conserved hypothetical protein
+sun:SUN_1446	CDS	1495588..1496673	geranylgeranyl hydrogenase
+sun:SUN_1447	CDS	complement(1496683..1497636)	ribonuclease Z
+sun:SUN_1448	CDS	complement(1497633..1498190)	phosphatidylglycerophosphate synthase
+sun:SUN_1449	CDS	complement(1498195..1498419)	conserved hypothetical protein
+sun:SUN_1450	CDS	complement(1498421..1498846)	NUDIX hydrolase
+sun:SUN_1451	CDS	complement(1498843..1499193)	conserved hypothetical protein
+sun:SUN_1452	CDS	complement(1499222..1500439)	S-adenosylmethionine synthetase
+sun:SUN_1453	CDS	1500555..1501580	[pyruvate formate-lyase]-activating enzyme
+sun:SUN_1454	CDS	1501571..1501834	hypothetical protein
+sun:SUN_1455	CDS	complement(1501848..1502720)	conserved hypothetical protein
+sun:SUN_1456	CDS	complement(1502775..1503740)	conserved hypothetical protein
+sun:SUN_1457	CDS	complement(1503790..1504323)	conserved hypothetical protein
+sun:SUN_1458	CDS	1504389..1504997	conserved hypothetical protein
+sun:SUN_1459	CDS	complement(1505653..1508226)	clpB; ATP-dependent Clp protease, ATP-binding subunit ClpB
+sun:SUN_1460	CDS	1508463..1509830	carboxyl-terminal protease
+sun:SUN_1461	CDS	1509830..1510564	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase
+sun:SUN_1462	CDS	1510564..1510803	phosphoribosylformylglycinamidine synthase, small subunit
+sun:SUN_1463	CDS	1510805..1511476	phosphoribosylformylglycinamidine synthase, large subunit
+sun:SUN_1464	CDS	1511476..1512519	conserved hypothetical protein
+sun:SUN_1465	CDS	1512497..1513207	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+sun:SUN_1466	CDS	1513256..1513516	conserved hypothetical protein
+sun:SUN_1467	CDS	complement(1513808..1514551)	hypothetical protein
+sun:SUN_1468	CDS	complement(1514607..1516295)	conserved hypothetical protein
+sun:SUN_1469	CDS	complement(1516288..1516728)	conserved hypothetical protein
+sun:SUN_1470	CDS	complement(1516831..1517019)	conserved hypothetical protein
+sun:SUN_1471	CDS	complement(1517020..1517214)	hypothetical protein
+sun:SUN_1472	CDS	complement(1517244..1518227)	pfkA; 6-phosphofructokinase
+sun:SUN_1473	CDS	1518603..1519640	conserved hypothetical protein
+sun:SUN_1474	CDS	complement(1519637..1520227)	conserved hypothetical protein
+sun:SUN_1475	CDS	complement(1520246..1521841)	ABC transporter, ATP-binding protein
+sun:SUN_1476	CDS	1521996..1523204	sulfite:cytochrome c oxidoreductase subunit A
+sun:SUN_1477	CDS	1523201..1523530	sulfite:cytochrome c oxidoreductase subunit B
+sun:SUN_1478	CDS	complement(1523649..1524002)	arsenate reductase
+sun:SUN_1479	CDS	complement(1524007..1526337)	conserved hypothetical protein
+sun:SUN_1480	CDS	complement(1526554..1526997)	conserved hypothetical protein
+sun:SUN_1481	CDS	complement(1527074..1529515)	conserved hypothetical protein
+sun:SUN_1482	CDS	1529663..1531123	thiI; thiamin biosynthesis protein ThiI
+sun:SUN_1483	CDS	complement(1531234..1532781)	DNA recombination protein
+sun:SUN_1484	CDS	complement(1532783..1533307)	conserved hypothetical protein
+sun:SUN_1485	CDS	1533478..1536117	secA; preprotein translocase subunit A
+sun:SUN_1486	CDS	1536118..1537344	conserved hypothetical protein
+sun:SUN_1487	CDS	complement(1537345..1540008)	conserved hypothetical protein
+sun:SUN_1488	CDS	1539935..1540888	conserved hypothetical protein
+sun:SUN_1489	CDS	complement(1540977..1542611)	conserved hypothetical protein
+sun:SUN_1490	CDS	complement(1542625..1544541)	hypothetical protein
+sun:SUN_1491	CDS	complement(1544689..1545969)	nitrate transporter, NarK/NasA family
+sun:SUN_1492	CDS	1546196..1548115	ferredoxin--nitrite reductase
+sun:SUN_1493	CDS	1548247..1549854	molybdopterin oxidoreductase, iron sulfur subunit
+sun:SUN_1494	CDS	1550141..1550917	conserved hypothetical protein
+sun:SUN_1495	CDS	1551095..1551565	hypothetical protein
+sun:SUN_1496	CDS	complement(1551639..1552172)	conserved hypothetical protein
+sun:SUN_1497	CDS	1552319..1552618	hypothetical protein
+sun:SUN_1498	CDS	1552733..1553149	hypothetical protein
+sun:SUN_1499	CDS	1553225..1554001	conserved hypothetical protein
+sun:SUN_1500	CDS	1554543..1556867	nitrate reductase catalytic subunit
+sun:SUN_1501	CDS	1556920..1558113	conserved hypothetical protein
+sun:SUN_1502	CDS	complement(1558322..1559539)	conserved hypothetical protein
+sun:SUN_1503	CDS	complement(1559544..1560647)	conserved hypothetical protein
+sun:SUN_1504	CDS	complement(1560736..1561926)	conserved hypothetical protein
+sun:SUN_1505	CDS	1562292..1562738	xanthine phosphoribosyltransferase
+sun:SUN_1506	CDS	1562902..1564656	aspS; aspartyl-tRNA synthetase
+sun:SUN_1507	CDS	1564678..1565271	adenylate kinase
+sun:SUN_1508	CDS	1565495..1566748	conserved hypothetical protein
+sun:SUN_1509	CDS	1566915..1567760	acriflavin resistance protein, AcrA/AcrE family
+sun:SUN_1510	CDS	complement(1567973..1569784)	acriflavin resistance protein, AcrB/AcrD/AcrF family
+sun:SUN_1511	CDS	complement(1569781..1571502)	acriflavin resistance protein, AcrB/AcrD/AcrF family
+sun:SUN_1512	CDS	complement(1571567..1572490)	acetoin utilization protein
+sun:SUN_1513	CDS	complement(1572487..1572777)	hypothetical protein
+sun:SUN_1514	CDS	1572850..1573401	conserved hypothetical protein
+sun:SUN_1515	CDS	1573594..1574865	conserved hypothetical protein
+sun:SUN_1516	CDS	complement(1574866..1576041)	glycosyl transferase
+sun:SUN_1517	CDS	complement(1576038..1576292)	hypothetical protein
+sun:SUN_1518	CDS	complement(1576357..1576977)	HAD-superfamily hydrolase, subfamily IB
+sun:SUN_1519	CDS	complement(1577024..1577755)	short-chain dehydrogenase/reductase SDR
+sun:SUN_1520	CDS	complement(1577834..1579135)	oxidoreductase
+sun:SUN_1521	CDS	complement(1579132..1579539)	conserved hypothetical protein
+sun:SUN_1522	CDS	complement(1579539..1580408)	UbiA prenyltransferase family protein
+sun:SUN_1523	CDS	complement(1580505..1581110)	conserved hypothetical protein
+sun:SUN_1524	CDS	complement(1581117..1582166)	conserved hypothetical protein
+sun:SUN_1525	CDS	complement(1582167..1582937)	conserved hypothetical protein
+sun:SUN_1526	CDS	complement(1582930..1583916)	conserved hypothetical protein
+sun:SUN_1527	CDS	complement(1583944..1584207)	conserved hypothetical protein
+sun:SUN_1528	CDS	complement(1584182..1584499)	conserved hypothetical protein
+sun:SUN_1529	CDS	complement(1584604..1585863)	capsular polysaccharide biosynthesis protein
+sun:SUN_1530	CDS	complement(1585847..1586551)	conserved hypothetical protein
+sun:SUN_1531	CDS	complement(1586548..1587633)	hypothetical protein
+sun:SUN_1532	CDS	complement(1587780..1588652)	sulfotransferase
+sun:SUN_1533	CDS	complement(1588718..1589692)	hypothetical protein
+sun:SUN_1534	CDS	complement(1589701..1591173)	alginate O-acetyltransferase
+sun:SUN_1535	CDS	complement(1591173..1592120)	hypothetical protein
+sun:SUN_1536	CDS	1592395..1593690	hypothetical protein
+sun:SUN_1537	CDS	1593712..1594428	glycosyl transferase
+sun:SUN_1538	CDS	1594422..1594769	conserved hypothetical protein
+sun:SUN_1539	CDS	1594741..1595136	conserved hypothetical protein
+sun:SUN_1540	CDS	complement(1595211..1596173)	conserved hypothetical protein
+sun:SUN_1541	CDS	complement(1596170..1596712)	acetyltransferase
+sun:SUN_1542	CDS	complement(1596705..1596962)	hypothetical protein
+sun:SUN_1543	CDS	1597091..1598074	hypothetical protein
+sun:SUN_1544	CDS	1598074..1598997	hypothetical protein
+sun:SUN_1545	CDS	complement(1598981..1599403)	conserved hypothetical protein
+sun:SUN_1546	CDS	complement(1599396..1599683)	conserved hypothetical protein
+sun:SUN_1547	CDS	complement(1600174..1601625)	polysaccharide transporter
+sun:SUN_1548	CDS	complement(1601657..1602235)	acetyltransferase
+sun:SUN_1549	CDS	complement(1602232..1603935)	hypothetical protein
+sun:SUN_1550	CDS	complement(1603937..1605004)	conserved hypothetical protein
+sun:SUN_1551	CDS	complement(1605430..1606176)	conserved hypothetical protein
+sun:SUN_1552	CDS	complement(1606163..1607572)	dTDP-glucose 4,6-dehydratase
+sun:SUN_1553	gene	complement(1607574..1607940)	pseudogene
+sun:SUN_1554	CDS	complement(1607961..1608833)	glucose-1-phosphate thymidyltransferase
+sun:SUN_1555	CDS	complement(1608833..1610101)	UDP-glucose/GDP-mannose dehydrogenase
+sun:SUN_1556	CDS	complement(1610199..1611203)	glycosyl transferase
+sun:SUN_1557	CDS	complement(1611212..1611973)	polysaccharide export system outer membrane protein
+sun:SUN_1558	CDS	complement(1612040..1612774)	capsular polysaccharide biosynthesis protein
+sun:SUN_1559	CDS	complement(1612820..1615132)	capsular polysaccharide biosynthesis protein
+sun:SUN_1560	CDS	complement(1615290..1615946)	hypothetical protein
+sun:SUN_1561	CDS	complement(1616111..1616485)	transcriptional regulator, MerR family
+sun:SUN_1562	CDS	complement(1616494..1617369)	co-chaperone-curved DNA binding protein A
+sun:SUN_1563	CDS	1617484..1618260	tRNA/rRNA methyltransferase
+sun:SUN_1564	CDS	complement(1618634..1620166)	purH; bifunctional purine biosynthesis protein PurH
+sun:SUN_1565	CDS	complement(1620420..1622642)	phosphoribosylformylglycinamidine synthase II
+sun:SUN_1566	CDS	1622805..1623485	dUTP diphosphatase
+sun:SUN_1567	CDS	complement(1623543..1624199)	conserved hypothetical protein
+sun:SUN_1568	CDS	complement(1624241..1624570)	hypothetical protein
+sun:SUN_1569	CDS	complement(1624572..1625924)	tRNA modification GTPase TrmE
+sun:SUN_1570	CDS	complement(1626008..1626880)	conserved hypothetical protein
+sun:SUN_1571	CDS	complement(1626880..1628499)	conserved hypothetical protein
+sun:SUN_1572	CDS	complement(1628557..1628847)	ribonuclease P protein component
+sun:SUN_1573	CDS	complement(1628923..1629057)	rpmH; 50S ribosomal protein L34
+sun:SUN_1574	CDS	1629257..1630396	carboxynorspermidine decarboxylase
+sun:SUN_1575	CDS	complement(1630419..1634057)	hypothetical protein
+sun:SUN_1576	CDS	complement(1634057..1635844)	conserved hypothetical protein
+sun:SUN_1577	CDS	complement(1635893..1636780)	gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+)
+sun:SUN_1578	CDS	complement(1636777..1637484)	potassium channel protein
+sun:SUN_1579	CDS	complement(1637481..1639019)	potassium channel protein
+sun:SUN_1580	CDS	complement(1639042..1640475)	glutamyl-tRNA amidotransferase subunit B
+sun:SUN_1581	CDS	complement(1640574..1640843)	conserved hypothetical protein
+sun:SUN_1582	CDS	complement(1640853..1641578)	atpB; F0F1-type ATP synthase, A subunit
+sun:SUN_1583	CDS	complement(1641670..1642428)	conserved hypothetical protein
+sun:SUN_1584	CDS	complement(1642533..1643255)	ABC transporter, ATP-binding protein
+sun:SUN_1585	CDS	complement(1643256..1643663)	conserved hypothetical protein
+sun:SUN_1586	CDS	complement(1643769..1644746)	anthranilate phosphoribosyltransferase
+sun:SUN_1587	CDS	complement(1644809..1645054)	RNA-binding S4 protein
+sun:SUN_1588	CDS	complement(1645353..1646546)	tetrahydrodipicolinate N-succinyltransferase
+sun:SUN_1589	CDS	1647034..1648908	TonB-dependent receptor
+sun:SUN_1590	CDS	1649033..1649602	conserved hypothetical protein
+sun:SUN_1591	CDS	1649599..1650048	conserved hypothetical protein
+sun:SUN_1592	CDS	complement(1650029..1650529)	hypothetical protein
+sun:SUN_1593	CDS	complement(1650617..1651417)	hypothetical protein
+sun:SUN_1594	CDS	1651693..1652589	conserved hypothetical protein
+sun:SUN_1595	CDS	complement(1652776..1653183)	conserved hypothetical protein
+sun:SUN_1596	CDS	complement(1653180..1653635)	conserved hypothetical protein
+sun:SUN_1597	CDS	1653823..1654203	conserved hypothetical protein
+sun:SUN_1598	CDS	1654207..1655889	potassium uptake protein
+sun:SUN_1599	CDS	complement(1655931..1656722)	exonuclease
+sun:SUN_1600	CDS	complement(1656804..1657607)	hypothetical protein
+sun:SUN_1601	CDS	complement(1657714..1658220)	hypothetical protein
+sun:SUN_1602	CDS	complement(1658412..1659047)	hypothetical protein
+sun:SUN_1603	CDS	complement(1659056..1659451)	hypothetical protein
+sun:SUN_1604	CDS	complement(1659594..1660052)	conserved hypothetical protein
+sun:SUN_1605	CDS	1660429..1660698	transcriptional regulator, Cro/CI/xre family
+sun:SUN_1606	CDS	1660691..1661977	conserved hypothetical protein
+sun:SUN_t17	tRNA	complement(1662067..1662141)	trnI_Asn; tRNA-Asn
+sun:SUN_1607	CDS	complement(1662218..1663132)	MoaA/NifB/PqqE family protein
+sun:SUN_1608	CDS	complement(1663154..1664371)	conserved hypothetical protein
+sun:SUN_1609	CDS	complement(1664371..1666029)	conserved hypothetical protein
+sun:SUN_1610	CDS	complement(1666029..1667699)	hypothetical protein
+sun:SUN_1611	CDS	complement(1667788..1668648)	conserved hypothetical protein
+sun:SUN_1612	CDS	complement(1668736..1669020)	transcriptional regulator
+sun:SUN_1613	CDS	complement(1669150..1670190)	hemE; uroporphyrinogen decarboxylase
+sun:SUN_1614	CDS	complement(1670190..1670702)	conserved hypothetical protein
+sun:SUN_1615	CDS	complement(1670702..1671742)	aspartate-semialdehyde dehydrogenase
+sun:SUN_1616	CDS	complement(1671746..1674268)	gyrA; DNA gyrase subunit A
+sun:SUN_1617	CDS	1674511..1674951	biopolymer transport protein, ExbB/TolQ family
+sun:SUN_1618	CDS	1674961..1675338	biopolymer transport protein, ExbD/TolR family
+sun:SUN_1619	CDS	complement(1675481..1675798)	thioredoxin
+sun:SUN_1620	CDS	complement(1675877..1676206)	hypothetical protein
+sun:SUN_1621	CDS	complement(1676258..1677694)	conserved hypothetical protein
+sun:SUN_1622	CDS	1677913..1678650	conserved hypothetical protein
+sun:SUN_1623	CDS	complement(1678678..1679766)	hypothetical protein
+sun:SUN_1624	CDS	complement(1679912..1681378)	thrC; threonine synthase
+sun:SUN_1625	CDS	complement(1681442..1682641)	conserved hypothetical protein
+sun:SUN_1626	CDS	complement(1682677..1685553)	signal transduction protein
+sun:SUN_1627	CDS	complement(1685557..1686483)	cytochrome c peroxidase
+sun:SUN_1628	CDS	complement(1686506..1687357)	argB; acetylglutamate kinase
+sun:SUN_1629	CDS	complement(1687385..1688194)	tetraacyldisaccharide 4'-kinase
+sun:SUN_1630	CDS	complement(1688290..1689102)	conserved hypothetical protein
+sun:SUN_1631	CDS	1689119..1689724	metallo-beta-lactamase family protein
+sun:SUN_1632	CDS	complement(1689930..1691795)	Fe-S oxidoreductase
+sun:SUN_1633	CDS	complement(1691836..1692222)	conserved hypothetical protein
+sun:SUN_1634	CDS	complement(1692407..1693099)	two-component response regulator
+sun:SUN_1635	CDS	complement(1693228..1694079)	conserved hypothetical protein
+sun:SUN_1636	CDS	1694235..1694969	transcriptional regulator, Fis family
+sun:SUN_1637	CDS	1694950..1695651	conserved hypothetical protein
+sun:SUN_1638	CDS	1695756..1697063	ammonium transporter
+sun:SUN_1639	CDS	1697198..1697539	nitrogen regulatory protein P-II
+sun:SUN_1640	CDS	1698115..1699287	ammonium transporter
+sun:SUN_1641	CDS	1699300..1699641	nitrogen regulatory protein P-II
+sun:SUN_1642	CDS	1699722..1700255	hydrogenase formation/expression protease
+sun:SUN_1643	CDS	complement(1700245..1700994)	conserved hypothetical protein
+sun:SUN_1644	CDS	complement(1701170..1701511)	hydrogenase expression/synthesis protein HypA
+sun:SUN_1645	CDS	complement(1701504..1703141)	hydrogenase maturation protein HoxX
+sun:SUN_1646	CDS	complement(1703151..1704143)	hydrogenase expression/formation protein HypE
+sun:SUN_1647	CDS	complement(1704346..1705497)	hydrogenase expression/formation protein HypD
+sun:SUN_1648	CDS	complement(1705497..1705811)	hydrogenase expression/formation protein HupF/HypC
+sun:SUN_1649	CDS	complement(1705813..1706598)	hydrogenase accessory protein HypB
+sun:SUN_1650	CDS	complement(1706701..1707342)	conserved hypothetical protein
+sun:SUN_1651	CDS	1707456..1708112	transposase
+sun:SUN_1652	CDS	1708144..1710564	Ni-Fe hydrogenase, small subunit
+sun:SUN_1653	CDS	1710561..1712219	Ni-Fe hydrogenase, large subunit
+sun:SUN_1654	CDS	complement(1712212..1712655)	conserved hypothetical protein
+sun:SUN_1655	CDS	complement(1712658..1713188)	conserved hypothetical protein
+sun:SUN_1656	CDS	1713287..1713970	transcriptional regulator, MerR family
+sun:SUN_1657	CDS	1714036..1714368	hypothetical protein
+sun:SUN_1658	CDS	complement(1714369..1716591)	hydrogenase maturation protein HypF
+sun:SUN_1659	CDS	complement(1716660..1718585)	hypothetical protein
+sun:SUN_1660	CDS	complement(1718608..1719162)	hydrogenase formation/expression protease
+sun:SUN_1661	CDS	complement(1719190..1719927)	Ni-Fe hydrogenase, cytochrome b subunit
+sun:SUN_1662	CDS	complement(1719938..1721812)	Ni-Fe hydrogenase, large subunit
+sun:SUN_1663	CDS	complement(1721812..1723050)	Ni-Fe hydrogenase, small subunit
+sun:SUN_1664	CDS	complement(1723186..1724487)	Ni-Fe hydrogenase, large subunit HupV
+sun:SUN_1665	CDS	complement(1724484..1725380)	Ni-Fe hydrogenase, small subunit HupS
+sun:SUN_1666	CDS	complement(1725383..1725976)	transcriptional regulator, TetR family
+sun:SUN_1667	CDS	complement(1726054..1726611)	conserved hypothetical protein
+sun:SUN_1668	CDS	complement(1726598..1726966)	conserved hypothetical protein
+sun:SUN_1669	CDS	complement(1726938..1727888)	hemH; ferrochelatase
+sun:SUN_1670	CDS	1728232..1728951	kdsB; 3-deoxy-D-manno-octulosonate cytidylyltransferase
+sun:SUN_1671	CDS	complement(1729007..1730260)	general secretory pathway protein F
+sun:SUN_1672	CDS	complement(1730257..1731996)	general secretory pathway protein E
+sun:SUN_1673	CDS	complement(1732059..1732799)	conserved hypothetical protein
+sun:SUN_1674	CDS	complement(1732792..1733604)	conserved hypothetical protein
+sun:SUN_1675	CDS	complement(1733594..1735204)	general secretory pathway protein D
+sun:SUN_1676	CDS	complement(1735205..1735615)	hypothetical protein
+sun:SUN_1677	CDS	complement(1735615..1736268)	conserved hypothetical protein
+sun:SUN_1678	CDS	complement(1736265..1737806)	conserved hypothetical protein
+sun:SUN_1679	CDS	complement(1737985..1738887)	era; GTP-binding protein Era
+sun:SUN_1680	CDS	complement(1738966..1740294)	hslU; ATP-dependent protease HslVU, ATPase subunit HslU
+sun:SUN_1681	CDS	complement(1740418..1740948)	hslV; ATP-dependent protease HslVU, peptidase subunit HslV
+sun:SUN_1682	CDS	complement(1740951..1741394)	rplI; 50S ribosomal protein L9
+sun:SUN_1683	CDS	1741506..1743455	oligopeptidase A
+sun:SUN_1684	CDS	1743491..1744012	hypothetical protein
+sun:SUN_1685	CDS	complement(1744098..1745441)	argG; argininosuccinate synthase
+sun:SUN_1686	CDS	complement(1745496..1745834)	thioredoxin family protein
+sun:SUN_1687	CDS	1745928..1746704	pdxJ; pyridoxine 5-phosphate synthase
+sun:SUN_1688	CDS	1746701..1747633	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase
+sun:SUN_1689	CDS	complement(1747637..1747864)	hypothetical protein
+sun:SUN_1690	CDS	complement(1747861..1748502)	hypothetical protein
+sun:SUN_1691	CDS	1748635..1749030	msrB; peptide-methionine (R)-S-oxide reductase
+sun:SUN_1692	CDS	complement(1749047..1749853)	hypothetical protein
+sun:SUN_1693	CDS	complement(1749866..1750141)	phosphomannomutase
+sun:SUN_1694	CDS	1750188..1750631	GatB/Yqey domain protein
+sun:SUN_1695	CDS	complement(1750667..1751461)	indole-3-glycerol phosphate synthase
+sun:SUN_1696	CDS	complement(1751508..1752776)	conserved hypothetical protein
+sun:SUN_1697	CDS	complement(1752758..1753138)	conserved hypothetical protein
+sun:SUN_1698	CDS	complement(1753141..1753848)	conserved hypothetical protein
+sun:SUN_1699	CDS	1754092..1754799	arginine-tRNA-protein transferase
+sun:SUN_1700	CDS	complement(1754817..1755938)	FAD dependent oxidoreductase
+sun:SUN_1701	CDS	complement(1755959..1758007)	glyS; glycyl-tRNA synthetase, beta subunit
+sun:SUN_1702	CDS	complement(1758070..1758231)	hypothetical protein
+sun:SUN_1703	CDS	complement(1758231..1758725)	tRNA/rRNA methyltransferase
+sun:SUN_1704	CDS	complement(1758729..1759565)	purU; formyltetrahydrofolate deformylase
+sun:SUN_1705	CDS	complement(1759572..1760639)	leuB; 3-isopropylmalate dehydrogenase
+sun:SUN_1706	CDS	complement(1760636..1761133)	leuD; 3-isopropylmalate dehydratase, small subunit
+sun:SUN_1707	CDS	1761293..1763131	rpoD; RNA polymerase sigma 70 factor
+sun:SUN_1708	CDS	1763266..1764018	molybdenum cofactor biosynthesis protein
+sun:SUN_1709	CDS	1764027..1765211	transporter
+sun:SUN_1710	CDS	complement(1765206..1765718)	transcriptional regulator
+sun:SUN_1711	CDS	complement(1765962..1767152)	capsule polysaccharide export protein
+sun:SUN_1712	CDS	complement(1767142..1769163)	capsule polysaccharide export protein
+sun:SUN_1713	CDS	complement(1769167..1770117)	glycosyl transferase
+sun:SUN_1714	CDS	complement(1770117..1770650)	hypothetical protein
+sun:SUN_1715	CDS	complement(1770647..1771513)	rfbD; dTDP-4-dehydrorhamnose reductase
+sun:SUN_1716	CDS	complement(1771506..1772081)	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+sun:SUN_1717	CDS	complement(1772097..1772351)	hypothetical protein
+sun:SUN_1718	CDS	complement(1772369..1773118)	cysQ; 3(2),5 -bisphosphate nucleotidase
+sun:SUN_1719	CDS	complement(1773118..1773714)	cysC; adenylylsulfate kinase
+sun:SUN_1720	CDS	complement(1773704..1774429)	hypothetical protein
+sun:SUN_1721	CDS	complement(1774429..1775868)	cysN; sulfate adenylyltransferase subunit 1
+sun:SUN_1722	CDS	complement(1775870..1776781)	cysD; sulfate adenylyltransferase subunit 2
+sun:SUN_1723	gene	complement(1776778..1777008)	pseudogene
+sun:SUN_1724	gene	1777883..1778050	pseudogene
+sun:SUN_1725	CDS	1778047..1778415	conserved hypothetical protein
+sun:SUN_1726	gene	complement(1778756..1779175)	pseudogene
+sun:SUN_1727	CDS	1779583..1779840	hypothetical protein
+sun:SUN_1728	CDS	1779850..1780983	hypothetical protein
+sun:SUN_1729	CDS	complement(1781086..1781517)	transposase
+sun:SUN_1730	CDS	complement(1781683..1782303)	conserved hypothetical protein
+sun:SUN_1731	CDS	complement(1782399..1783286)	conserved hypothetical protein
+sun:SUN_1732	CDS	complement(1783295..1784170)	hypothetical protein
+sun:SUN_1733	CDS	complement(1784192..1788379)	hypothetical protein
+sun:SUN_1734	CDS	complement(1789057..1790361)	hypothetical protein
+sun:SUN_1735	CDS	complement(1790349..1794356)	glycosyl transferase
+sun:SUN_1736	CDS	1794489..1795400	hypothetical protein
+sun:SUN_1737	CDS	complement(1795404..1796498)	capsule polysaccharide export system inner membrane protein
+sun:SUN_1738	CDS	complement(1796501..1797166)	capsule polysaccharide export system ATP-binding protein
+sun:SUN_1739	CDS	complement(1797163..1797939)	capsule polysaccharide export system inner membrane protein
+sun:SUN_1740	CDS	complement(1797947..1798699)	polysaccharide export system outer membrane protein
+sun:SUN_1741	CDS	complement(1798830..1799603)	N-acetylmuramoyl-L-alanine amidase
+sun:SUN_1742	CDS	complement(1799641..1800873)	N-acetylmuramoyl-L-alanine amidase
+sun:SUN_1743	CDS	complement(1800875..1801984)	2-nitropropane dioxygenase
+sun:SUN_1744	CDS	complement(1801984..1803183)	tyrS; tyrosyl-tRNA synthetase
+sun:SUN_1745	CDS	complement(1803208..1805361)	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+sun:SUN_1746	CDS	complement(1805368..1805574)	DNA-directed RNA polymerase, omega subunit
+sun:SUN_1747	CDS	complement(1805680..1806387)	pyrH; uridylate kinase
+sun:SUN_1748	CDS	complement(1806468..1807850)	peptidase, M23/M37 family
+sun:SUN_1749	CDS	complement(1807847..1808662)	cell division protein FtsX
+sun:SUN_1750	CDS	complement(1808649..1809323)	cell division ATP-binding protein FtsE
+sun:SUN_1751	CDS	complement(1809316..1810503)	tRNA (guanine-N(7)-)-methyltransferase
+sun:SUN_1752	CDS	complement(1810520..1811119)	hypothetical protein
+sun:SUN_1753	CDS	complement(1811148..1812101)	rluD; ribosomal large subunit pseudouridine synthase D
+sun:SUN_1754	CDS	complement(1812156..1812953)	conserved hypothetical protein
+sun:SUN_1755	CDS	complement(1812956..1813690)	pfs; 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+sun:SUN_1756	CDS	complement(1813692..1814636)	fabD; malonyl CoA-acyl carrier protein transacylase
+sun:SUN_1757	CDS	1814750..1814917	rubredoxin
+sun:SUN_1758	CDS	complement(1814921..1816237)	hypothetical protein
+sun:SUN_1759	CDS	complement(1816436..1816942)	slyD; FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+sun:SUN_1760	CDS	complement(1817015..1818247)	proA; glutamate-5-semialdehyde dehydrogenase
+sun:SUN_1761	CDS	1818364..1819122	proC; pyrroline-5-carboxylate reductase
+sun:SUN_1762	CDS	complement(1819278..1820126)	conserved hypothetical protein
+sun:SUN_1763	CDS	complement(1820133..1820651)	peptidoglycan-associated lipoprotein
+sun:SUN_1764	CDS	complement(1820679..1821917)	Tol biopolymer transport system component TolB
+sun:SUN_1765	CDS	1822077..1822631	conserved hypothetical protein
+sun:SUN_1766	CDS	1822631..1823452	conserved hypothetical protein
+sun:SUN_1767	CDS	complement(1823449..1824243)	conserved hypothetical protein
+sun:SUN_1768	CDS	complement(1824240..1824626)	biopolymer transport protein, ExbD/TolR family
+sun:SUN_1769	CDS	complement(1824634..1825206)	biopolymer transport protein, ExbB/TolQ family
+sun:SUN_1770	CDS	complement(1825208..1825594)	atpC; F0F1-type ATP synthase, epsilon subunit
+sun:SUN_1771	CDS	complement(1825624..1827024)	atpD; F0F1-type ATP synthase, beta subunit
+sun:SUN_1772	CDS	complement(1827039..1827926)	atpG; F0F1-type ATP synthase, gamma subunit
+sun:SUN_1773	CDS	complement(1827939..1829453)	atpA; F0F1-type ATP synthase, alpha subunit
+sun:SUN_1774	CDS	complement(1829478..1830005)	atpH; F0F1-type ATP synthase, delta subunit
+sun:SUN_1775	CDS	complement(1830005..1830568)	atpF; F0F1-type ATP synthase, B subunit
+sun:SUN_1776	CDS	complement(1830582..1831004)	atpF'; F0F1-type ATP synthase, B' subunit
+sun:SUN_1777	CDS	complement(1831067..1831939)	chromosome partitioning protein ParB
+sun:SUN_1778	CDS	complement(1831941..1832726)	chromosome partitioning protein, ATPase ParA
+sun:SUN_1779	CDS	complement(1832723..1833358)	biotin-[acetyl-CoA-carboxylase] ligase
+sun:SUN_1780	CDS	complement(1833339..1834253)	fmt; methionyl-tRNA formyltransferase
+sun:SUN_1781	CDS	complement(1834254..1835027)	glutamate 5-kinase
+sun:SUN_1782	CDS	complement(1835033..1836154)	GTP-binding protein Obg
+sun:SUN_1783	CDS	complement(1836864..1837118)	rpmA; 50S ribosomal protein L27
+sun:SUN_1784	CDS	complement(1837138..1837443)	rplU; 50S ribosomal protein L21
+sun:SUN_1785	CDS	complement(1837530..1837925)	translation initiation inhibitor
+sun:SUN_1786	CDS	complement(1837936..1838277)	conserved hypothetical protein
+sun:SUN_1787	CDS	complement(1838316..1839011)	ThiF/MoeB/HesA family protein
+sun:SUN_1788	CDS	complement(1839023..1839844)	hydrolase, carbon-nitrogen family
+sun:SUN_1789	CDS	complement(1839844..1840056)	xseB; exodeoxyribonuclease VII, small subunit
+sun:SUN_1790	CDS	complement(1840114..1841211)	homoserine O-acetyltransferase
+sun:SUN_1791	CDS	complement(1841369..1842631)	O-acetylhomoserine sulfhydrylase
+sun:SUN_1792	CDS	complement(1842680..1842976)	plasmid maintenance system antidote protein
+sun:SUN_1793	CDS	complement(1842991..1843272)	plasmid maintenance system killer protein
+sun:SUN_1794	CDS	complement(1843378..1844823)	guaB; inosine-5'-monophosphate dehydrogenase
+sun:SUN_1795	CDS	complement(1844842..1846185)	glutamyl-tRNA amidotransferase subunit A
+sun:SUN_1796	CDS	complement(1846316..1849072)	ileS; isoleucyl-tRNA synthetase
+sun:SUN_1797	CDS	1849166..1849654	conserved hypothetical protein
+sun:SUN_t18	tRNA	1849746..1849821	trnJ_Lys1; tRNA-Lys
+sun:SUN_t19	tRNA	1849827..1849902	trnJ_Val1; tRNA-Val
+sun:SUN_t20	tRNA	1849916..1849992	trnJ_Asp1; tRNA-Asp
+sun:SUN_t21	tRNA	1850102..1850177	trnJ_Lys2; tRNA-Lys
+sun:SUN_t22	tRNA	1850214..1850289	trnJ_Pseudo; tRNA-Pseudo
+sun:SUN_t23	tRNA	1850300..1850375	trnJ_Val2; tRNA-Val
+sun:SUN_t24	tRNA	1850527..1850603	trnJ_Asp2; tRNA-Asp
+sun:SUN_t25	tRNA	1850644..1850730	trnJ_Leu; tRNA-Leu
+sun:SUN_1798	CDS	1850858..1851271	hypothetical protein
+sun:SUN_1799	CDS	complement(1851314..1851832)	hypothetical protein
+sun:SUN_1800	CDS	complement(1851848..1853140)	hisD; histidinol dehydrogenase
+sun:SUN_1801	CDS	complement(1853180..1854079)	conserved hypothetical protein
+sun:SUN_1802	CDS	complement(1854103..1855176)	fbaA; fructose-bisphosphate aldolase, class II
+sun:SUN_1803	CDS	complement(1855198..1855680)	hypothetical protein
+sun:SUN_1804	CDS	complement(1855740..1856387)	hypothetical protein
+sun:SUN_1805	CDS	complement(1856421..1857269)	peptidyl-prolyl cis-trans isomerase
+sun:SUN_1806	CDS	1857384..1858034	nth; endonuclease III
+sun:SUN_1807	CDS	complement(1858041..1858949)	conserved hypothetical protein
+sun:SUN_1808	CDS	complement(1859023..1860294)	pepD; aminoacyl-histidine dipeptidase
+sun:SUN_1809	CDS	1860428..1860646	hypothetical protein
+sun:SUN_1810	CDS	1860646..1860828	conserved hypothetical protein
+sun:SUN_1811	CDS	complement(1860957..1861169)	conserved hypothetical protein
+sun:SUN_1812	CDS	complement(1861218..1862249)	arginine kinase
+sun:SUN_1813	CDS	1862554..1863777	tryptophan synthase, beta chain
+sun:SUN_1814	CDS	complement(1863823..1864122)	conserved hypothetical protein
+sun:SUN_1815	CDS	1864219..1864800	cytochrome b
+sun:SUN_1816	CDS	1864845..1866680	ABC transporter, ATP-binding protein
+sun:SUN_1817	CDS	complement(1866692..1866955)	conserved hypothetical protein
+sun:SUN_1818	CDS	complement(1867337..1870846)	metH; 5-methyltetrahydrofolate--homocysteine methyltransferase
+sun:SUN_1819	CDS	1870992..1871447	signal transduction sensor histidine kinase
+sun:SUN_1820	CDS	complement(1871460..1871690)	conserved hypothetical protein
+sun:SUN_1821	CDS	complement(1871742..1872701)	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+sun:SUN_1822	CDS	complement(1872781..1873260)	ilvH; acetolactate synthase, small subunit
+sun:SUN_1823	CDS	complement(1873260..1874969)	ilvI; acetolactate synthase, large subunit
+sun:SUN_1824	CDS	1875112..1876641	two-component sensor histidine kinase
+sun:SUN_1825	CDS	1876631..1877320	two-component response regulator
+sun:SUN_1826	CDS	complement(1877526..1878458)	phosphatase, Ppx/GppA family
+sun:SUN_1827	CDS	complement(1878490..1879701)	tdeB; threonine dehydratase
+sun:SUN_1828	CDS	complement(1879758..1880852)	rhodanese family protein
+sun:SUN_1829	CDS	complement(1880853..1881884)	selD; selenide,water dikinase
+sun:SUN_1830	CDS	1882010..1882474	conserved hypothetical protein
+sun:SUN_1831	CDS	1882514..1882942	conserved hypothetical protein
+sun:SUN_1832	CDS	complement(1882961..1884076)	trmA; tRNA (uracil-5-)-methyltransferase
+sun:SUN_1833	CDS	1884457..1885566	hypothetical protein
+sun:SUN_1834	CDS	1885566..1887428	hypothetical protein
+sun:SUN_1835	CDS	1887412..1887717	hypothetical protein
+sun:SUN_1836	CDS	1888017..1889309	glmU; glucosamine-1-phosphate N-acetyltransferase/UDP-N-acetylglucosamine pyrophosphorylase
+sun:SUN_1837	CDS	1889311..1890579	dfp; DNA/pantothenate metabolism flavoprotein
+sun:SUN_1838	CDS	1890572..1891261	uppS; undecaprenyl diphosphate synthase
+sun:SUN_1839	CDS	1891258..1891998	type 4 prepilin peptidase
+sun:SUN_1840	CDS	1891991..1893016	conserved hypothetical protein
+sun:SUN_1841	CDS	1893027..1893749	truA; tRNA pseudouridine synthase A
+sun:SUN_1842	CDS	complement(1893741..1896881)	conserved hypothetical protein
+sun:SUN_1843	CDS	complement(1896894..1897868)	hypothetical protein
+sun:SUN_1844	CDS	complement(1897899..1898774)	conserved hypothetical protein
+sun:SUN_1845	CDS	complement(1898737..1899516)	conserved hypothetical protein
+sun:SUN_1846	CDS	complement(1899509..1900300)	conserved hypothetical protein
+sun:SUN_1847	CDS	1900580..1900936	cytochrome c, class I
+sun:SUN_1848	CDS	complement(1900958..1901959)	conserved hypothetical protein
+sun:SUN_1849	CDS	complement(1902020..1902454)	conserved hypothetical protein
+sun:SUN_1850	CDS	complement(1902458..1904002)	conserved hypothetical protein
+sun:SUN_1851	CDS	complement(1904019..1904456)	conserved hypothetical protein
+sun:SUN_1852	CDS	complement(1904457..1905245)	conserved hypothetical protein
+sun:SUN_1853	CDS	complement(1905254..1906117)	conserved hypothetical protein
+sun:SUN_1854	CDS	1906319..1907392	hypothetical protein
+sun:SUN_1855	CDS	1907411..1909543	adenylate cyclase/guanylate cyclase
+sun:SUN_1856	CDS	complement(1909519..1910916)	conserved hypothetical protein
+sun:SUN_1857	CDS	1911055..1914525	conserved hypothetical protein
+sun:SUN_1858	CDS	complement(1914560..1916338)	thiol:disulfide interchange protein DsbD
+sun:SUN_1859	CDS	1916468..1918402	conserved hypothetical protein
+sun:SUN_1860	CDS	1918399..1919331	thiamine biosynthesis lipoprotein
+sun:SUN_1861	CDS	complement(1919350..1919793)	conserved hypothetical protein
+sun:SUN_1862	CDS	complement(1919790..1920263)	conserved hypothetical protein
+sun:SUN_1863	CDS	complement(1920268..1920798)	conserved hypothetical protein
+sun:SUN_1864	CDS	complement(1920812..1922062)	conserved hypothetical protein
+sun:SUN_1865	CDS	1922266..1923795	conserved hypothetical protein
+sun:SUN_1866	CDS	1923792..1924142	conserved hypothetical protein
+sun:SUN_1867	CDS	1924153..1924551	CBS domain protein
+sun:SUN_1868	CDS	complement(1924554..1925753)	two-component sensor histidine kinase
+sun:SUN_1869	CDS	complement(1925710..1926363)	two-component response regulator
+sun:SUN_1870	CDS	complement(1926642..1926941)	chorismate mutase
+sun:SUN_1871	CDS	1927120..1928040	hypothetical protein
+sun:SUN_1872	CDS	complement(1928195..1930078)	dnaK; chaperone protein DnaK
+sun:SUN_1873	CDS	complement(1930300..1930854)	grpE; co-chaperone protein GrpE
+sun:SUN_1874	CDS	complement(1931206..1931475)	rpsO; 30S ribosomal protein S15
+sun:SUN_1875	CDS	1931642..1932040	transcriptional regulator, BadM/Rrf2 family
+sun:SUN_1876	CDS	1932132..1933178	conserved hypothetical protein
+sun:SUN_1877	CDS	complement(1933347..1933916)	recR; DNA recombination protein RecR
+sun:SUN_1878	CDS	complement(1933953..1934246)	conserved hypothetical protein
+sun:SUN_1879	CDS	1934330..1935463	dnaJ; co-chaperone protein DnaJ
+sun:SUN_1880	CDS	1935720..1936376	rubrerythrin
+sun:SUN_1881	CDS	complement(1936387..1937184)	conserved hypothetical protein
+sun:SUN_1882	CDS	complement(1937526..1937807)	DNA-binding protein HU
+sun:SUN_t26	tRNA	complement(1937989..1938073)	trnK_Leu; tRNA-Leu
+sun:SUN_1883	CDS	complement(1938173..1938478)	atpE; F0F1-type ATP synthase, C subunit
+sun:SUN_1884	CDS	complement(1938673..1938903)	hypothetical protein
+sun:SUN_1885	CDS	1939016..1939651	hypothetical protein
+sun:SUN_1886	CDS	complement(1939689..1941878)	pnp; polyribonucleotide nucleotidyltransferase
+sun:SUN_1887	CDS	complement(1941902..1942582)	conserved hypothetical protein
+sun:SUN_1888	CDS	complement(1942560..1942829)	heat shock protein
+sun:SUN_1889	CDS	complement(1942829..1944919)	organic solvent tolerance protein
+sun:SUN_1890	CDS	complement(1944912..1945364)	conserved hypothetical protein
+sun:SUN_1891	CDS	complement(1945373..1946641)	purD; phosphoribosylamine--glycine ligase
+sun:SUN_1892	CDS	complement(1947055..1947696)	uroporphyrinogen-III synthase
+sun:SUN_1893	CDS	complement(1947696..1948634)	cation efflux protein
+sun:SUN_1894	CDS	complement(1948721..1950583)	htpG; heat shock protein HtpG
+sun:SUN_1895	CDS	1950728..1951222	phosphoglycerate/bisphosphoglycerate mutase
+sun:SUN_1896	CDS	complement(1951224..1951559)	hypothetical protein
+sun:SUN_1897	CDS	complement(1951837..1953378)	guaA; GMP synthase (glutamine-hydrolyzing)
+sun:SUN_1898	CDS	complement(1953512..1954855)	Na+:H+ antiporter, NhaD family
+sun:SUN_1899	CDS	complement(1954899..1956350)	aspartate oxidase
+sun:SUN_1900	CDS	1956475..1956939	conserved hypothetical protein
+sun:SUN_1901	CDS	1956936..1958732	uvrC; excinuclease ABC, C subunit
+sun:SUN_1902	CDS	1958860..1959276	signal transduction sensor histidine kinase
+sun:SUN_1903	CDS	1959296..1960621	hypothetical protein
+sun:SUN_1904	CDS	1960625..1963822	two-component sensor histidine kinase/response regulator
+sun:SUN_1905	CDS	1963828..1964196	conserved hypothetical protein
+sun:SUN_1906	CDS	complement(1964300..1966720)	lon; ATP-dependent Lon protease
+sun:SUN_1907	CDS	complement(1966854..1967504)	conserved hypothetical protein
+sun:SUN_1908	CDS	1968430..1974012	hypothetical protein
+sun:SUN_1909	CDS	1974013..1974714	conserved hypothetical protein
+sun:SUN_1910	CDS	1974711..1975568	conserved hypothetical protein
+sun:SUN_1911	CDS	1975579..1976031	conserved hypothetical protein
+sun:SUN_1912	CDS	1976043..1976696	conserved hypothetical protein
+sun:SUN_1913	CDS	1976801..1977334	sigma 54 modulation protein/ribosomal protein S30EA
+sun:SUN_1914	CDS	1977485..1978234	conserved hypothetical protein
+sun:SUN_1915	CDS	complement(1978322..1980130)	recG; ATP-dependent DNA recombinase RecG
+sun:SUN_1916	CDS	complement(1980289..1981527)	processing protease
+sun:SUN_1917	CDS	complement(1981699..1982754)	conserved hypothetical protein
+sun:SUN_1918	CDS	complement(1982826..1983218)	nusB; transcription antitermination factor NusB
+sun:SUN_1919	CDS	complement(1983300..1983770)	ribE; riboflavin synthase, beta chain
+sun:SUN_1920	CDS	complement(1983882..1984682)	kdsA; 3-deoxy-8-phosphooctulonate synthase
+sun:SUN_1921	CDS	complement(1984701..1985603)	conserved hypothetical protein
+sun:SUN_1922	CDS	complement(1985695..1986435)	conserved hypothetical protein
+sun:SUN_1923	CDS	1986501..1987691	mechanosensitive ion channel MscS
+sun:SUN_1924	CDS	1987830..1989233	GTP-binding protein, Era/ThdF family
+sun:SUN_1925	CDS	1989493..1990452	trpS; tryptophanyl-tRNA synthetase
+sun:SUN_1926	CDS	complement(1990470..1991267)	glutamate racemase
+sun:SUN_1927	CDS	complement(1991280..1992605)	rho; transcription termination factor Rho
+sun:SUN_1928	CDS	1992815..1994176	gdhA; glutamate dehydrogenase (NADP+)
+sun:SUN_1929	CDS	complement(1994327..1994704)	conserved hypothetical protein
+sun:SUN_1930	CDS	1994788..1997205	heavy-metal transporting P-type ATPase
+sun:SUN_1931	CDS	1997354..1997605	conserved hypothetical protein
+sun:SUN_1932	CDS	1997822..1998403	conserved hypothetical protein
+sun:SUN_1933	CDS	1998416..1999456	galE; UDP-glucose 4-epimerase
+sun:SUN_1934	CDS	1999569..2000993	cpsG; phosphomannomutase
+sun:SUN_1935	CDS	2000990..2002204	glucose-6-phosphate isomerase
+sun:SUN_1936	CDS	2002339..2003166	galU; UTP--glucose-1-phosphate uridylyltransferase
+sun:SUN_1937	CDS	2003854..2005059	transposase
+sun:SUN_1938	CDS	complement(2005043..2005477)	hypothetical protein
+sun:SUN_1939	CDS	2006114..2007430	glycosyl transferase
+sun:SUN_1940	CDS	2007436..2007885	HAD-superfamily hydrolase
+sun:SUN_1941	gene	2007976..2008973	pseudogene
+sun:SUN_1942	gene	2008966..2010304	pseudogene
+sun:SUN_1943	CDS	complement(2010336..2012042)	multidrug ABC transporter, ATP-binding protein and permease
+sun:SUN_1944	CDS	complement(2012099..2012845)	glycosyl transferase
+sun:SUN_1945	CDS	complement(2012850..2013626)	conserved hypothetical protein
+sun:SUN_1946	CDS	2013876..2014610	conserved hypothetical protein
+sun:SUN_1947	CDS	2014614..2015846	conserved hypothetical protein
+sun:SUN_1948	CDS	2016409..2018013	conserved hypothetical protein
+sun:SUN_1949	gene	2018226..2018495	pseudogene
+sun:SUN_1950	CDS	2018811..2019422	hisH; amidotransferase HisH
+sun:SUN_1951	CDS	2019459..2020172	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide
+sun:SUN_1952	CDS	2020162..2020992	prmA; ribosomal protein L11 methyltransferase
+sun:SUN_1953	CDS	2020985..2023000	cell division protein FtsH
+sun:SUN_1954	CDS	2023001..2023720	CDP-diacylglycerol--serine O-phosphatidyltransferase
+sun:SUN_1955	CDS	complement(2023941..2025263)	transposase
+sun:SUN_1956	CDS	2025651..2027207	leuA; 2-isopropylmalate synthase
+sun:SUN_1957	CDS	complement(2027301..2028545)	serS; seryl-tRNA synthetase
+sun:SUN_1958	CDS	complement(2028731..2031109)	hypothetical protein
+sun:SUN_1959	CDS	complement(2031125..2031664)	hypothetical protein
+sun:SUN_1960	CDS	complement(2031923..2033908)	hypothetical protein
+sun:SUN_1961	gene	complement(2033994..2034593)	pseudogene
+sun:SUN_t27	tRNA	complement(2035273..2035349)	trnL_Met; tRNA-Met
+sun:SUN_1962	CDS	complement(2035413..2035655)	glutaredoxin
+sun:SUN_1963	CDS	2035845..2036105	groES; co-chaperonin GroES
+sun:SUN_1964	CDS	2036145..2037773	groEL; co-chaperonin GroEL
+sun:SUN_1965	CDS	complement(2037832..2039646)	hypothetical protein
+sun:SUN_1966	CDS	complement(2039700..2040968)	xseA; exodeoxyribonuclease VII, large subunit
+sun:SUN_1967	CDS	complement(2041045..2041782)	ubiE; ubiquinone/menaquinone biosynthesis methyltransferase
+sun:SUN_1968	CDS	complement(2041772..2042764)	riboflavin biosynthesis protein RibG
+sun:SUN_1969	CDS	complement(2042867..2043295)	conserved hypothetical protein
+sun:SUN_1970	CDS	complement(2043285..2043674)	ribosome-binding factor A
+sun:SUN_1971	CDS	complement(2043676..2046396)	infB; translation initiation factor IF-2
+sun:SUN_1972	CDS	complement(2046445..2046678)	conserved hypothetical protein
+sun:SUN_1973	CDS	complement(2046717..2047595)	thrB; homoserine kinase
+sun:SUN_1974	CDS	complement(2047610..2048077)	conserved hypothetical protein
+sun:SUN_1975	CDS	complement(2048058..2048942)	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+sun:SUN_1976	CDS	2049137..2050459	transposase
+sun:SUN_1977	CDS	complement(2050683..2052092)	peptidase, M23/M37 family
+sun:SUN_1978	CDS	complement(2052073..2053071)	phosphoesterase
+sun:SUN_1979	CDS	complement(2053074..2053892)	nadC; nicotinate-nucleotide pyrophosphorylase (carboxylating)
+sun:SUN_1980	CDS	complement(2053962..2054957)	nadA; quinolinate synthase
+sun:SUN_1981	CDS	2055085..2055696	conserved hypothetical protein
+sun:SUN_1982	CDS	2055697..2056026	conserved hypothetical protein
+sun:SUN_1983	CDS	2056166..2056837	two-component response regulator
+sun:SUN_1984	CDS	2056995..2057246	4Fe-4S ferredoxin
+sun:SUN_1985	CDS	2057254..2058777	guanosine pentaphosphate phosphohydrolase
+sun:SUN_1986	CDS	complement(2058774..2060525)	conserved hypothetical protein
+sun:SUN_1987	CDS	2060561..2061217	hypothetical protein
+sun:SUN_1988	CDS	2061271..2062407	hypothetical protein
+sun:SUN_1989	CDS	complement(2062167..2062928)	hypothetical protein
+sun:SUN_1990	CDS	2063425..2063826	conserved hypothetical protein
+sun:SUN_1991	CDS	2063827..2064783	multidrug resistance efflux pump
+sun:SUN_1992	CDS	2064795..2066189	outer membrane efflux lipoprotein
+sun:SUN_1993	CDS	2066190..2067419	Na+:H+ antiporter, NhaP family
+sun:SUN_1994	CDS	complement(2067416..2069539)	hypothetical protein
+sun:SUN_1995	CDS	2069625..2071724	pta; phosphate acetyltransferase
+sun:SUN_1996	CDS	2071721..2072911	acetate kinase
+sun:SUN_1997	CDS	complement(2072908..2075283)	conserved hypothetical protein
+sun:SUN_1998	CDS	2075390..2076226	prephenate dehydrogenase
+sun:SUN_1999	CDS	complement(2076318..2078216)	conserved hypothetical protein
+sun:SUN_2000	CDS	complement(2078246..2079805)	conserved hypothetical protein
+sun:SUN_2001	CDS	complement(2079802..2081376)	conserved hypothetical protein
+sun:SUN_2002	gene	complement(2081360..2083305)	pseudogene
+sun:SUN_2003	CDS	complement(2083306..2084223)	von Willebrand factor type A domain protein
+sun:SUN_2004	CDS	complement(2084210..2084617)	conserved hypothetical protein
+sun:SUN_2005	CDS	complement(2084663..2085493)	conserved hypothetical protein
+sun:SUN_2006	CDS	complement(2085615..2086562)	ATPase, AAA family
+sun:SUN_2007	CDS	complement(2086660..2087709)	hypothetical protein
+sun:SUN_2008	CDS	complement(2087743..2088414)	hypothetical protein
+sun:SUN_2009	CDS	complement(2088418..2088819)	hypothetical protein
+sun:SUN_2010	CDS	complement(2088829..2089200)	hypothetical protein
+sun:SUN_2011	CDS	complement(2089268..2090491)	conserved hypothetical protein
+sun:SUN_2012	CDS	complement(2090504..2091538)	conserved hypothetical protein
+sun:SUN_2013	CDS	complement(2091702..2092784)	hypothetical protein
+sun:SUN_2014	CDS	complement(2092794..2093744)	hypothetical protein
+sun:SUN_2015	CDS	complement(2093819..2094490)	hypothetical protein
+sun:SUN_2016	CDS	complement(2094494..2094895)	hypothetical protein
+sun:SUN_2017	CDS	complement(2094905..2095276)	hypothetical protein
+sun:SUN_2018	CDS	complement(2095317..2096426)	hypothetical protein
+sun:SUN_2019	CDS	complement(2096441..2097946)	hypothetical protein
+sun:SUN_2020	CDS	complement(2097950..2100772)	hypothetical protein
+sun:SUN_2021	CDS	complement(2100846..2101943)	hypothetical protein
+sun:SUN_2022	CDS	complement(2101940..2102641)	hypothetical protein
+sun:SUN_2023	CDS	complement(2102644..2103330)	hypothetical protein
+sun:SUN_2024	CDS	complement(2103341..2104237)	hypothetical protein
+sun:SUN_2025	CDS	complement(2104369..2105079)	hypothetical protein
+sun:SUN_2026	CDS	complement(2105114..2105776)	hypothetical protein
+sun:SUN_2027	CDS	complement(2105792..2106427)	hypothetical protein
+sun:SUN_2028	CDS	complement(2107031..2107720)	hypothetical protein
+sun:SUN_2029	CDS	complement(2107736..2109010)	hypothetical protein
+sun:SUN_2030	CDS	complement(2109007..2109930)	conserved hypothetical protein
+sun:SUN_2031	CDS	complement(2109946..2111118)	hypothetical protein
+sun:SUN_2032	CDS	complement(2111130..2111858)	hypothetical protein
+sun:SUN_2033	CDS	complement(2111869..2112528)	hypothetical protein
+sun:SUN_2034	CDS	complement(2112863..2113180)	hypothetical protein
+sun:SUN_2035	CDS	complement(2113191..2113598)	hypothetical protein
+sun:SUN_2036	CDS	complement(2113603..2115159)	5'-nucleotidase
+sun:SUN_2037	CDS	complement(2115256..2115954)	conserved hypothetical protein
+sun:SUN_2038	CDS	2116055..2117908	hypothetical protein
+sun:SUN_2039	CDS	2117905..2118618	conserved hypothetical protein
+sun:SUN_2040	gene	2118768..2119271	pseudogene
+sun:SUN_2041	CDS	complement(2119326..2122310)	transcription-repair coupling factor
+sun:SUN_2042	CDS	complement(2122326..2123492)	folC; folylpolyglutamate synthase
+sun:SUN_2043	CDS	complement(2123495..2124031)	conserved hypothetical protein
+sun:SUN_2044	CDS	complement(2124053..2126494)	leuS; leucyl-tRNA synthetase
+sun:SUN_2045	CDS	complement(2126687..2127568)	zinc metallopeptidase
+sun:SUN_2046	CDS	2127660..2129660	dnaX; DNA polymerase III, gamma/tau subunits
+sun:SUN_2047	CDS	complement(2129681..2130493)	conserved hypothetical protein
+sun:SUN_2048	CDS	complement(2130694..2131716)	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III
+sun:SUN_2049	CDS	complement(2131866..2132855)	plsX; fatty acid/phospholipid synthesis protein PlsX
+sun:SUN_2050	CDS	complement(2132861..2133022)	rpmF; 50S ribosomal protein L32
+sun:SUN_2051	CDS	complement(2133044..2133418)	conserved hypothetical protein
+sun:SUN_2052	CDS	complement(2133427..2133840)	ndk; nucleoside-diphosphate kinase
+sun:SUN_2053	CDS	complement(2134046..2134321)	4Fe-4S ferredoxin
+sun:SUN_2054	CDS	complement(2134465..2135625)	metK; S-adenosylmethionine synthetase
+sun:SUN_2055	CDS	complement(2135741..2137567)	dxs; 1-deoxy-D-xylulose 5-phosphate synthase
+sun:SUN_2056	CDS	complement(2137779..2138873)	hisC; histidinol-phosphate aminotransferase
+sun:SUN_2057	CDS	complement(2138949..2140007)	pheA; chorismate mutase/prephenate dehydratase
+sun:SUN_2058	CDS	complement(2140106..2141335)	lysA; diaminopimelate decarboxylase
+sun:SUN_2059	CDS	complement(2141443..2142528)	conserved hypothetical protein
+sun:SUN_2060	CDS	complement(2142525..2143094)	pth; peptidyl-tRNA hydrolase, PTH1 family
+sun:SUN_2061	CDS	complement(2143108..2143644)	rplY; 50S ribosomal protein L25
+sun:SUN_2062	CDS	complement(2143800..2144939)	twitching motility protein PilT
+sun:SUN_2063	CDS	complement(2144963..2145958)	transaldolase
+sun:SUN_2064	CDS	complement(2145952..2146698)	aat; leucyl/phenylalanyl-tRNA--protein transferase
+sun:SUN_2065	CDS	complement(2146842..2149031)	clpA; ATP-dependent Clp protease, ATP-binding subunit ClpA
+sun:SUN_2066	CDS	complement(2149042..2149341)	clpS; ATP-dependent Clp protease, adaptor protein ClpS
+sun:SUN_2067	CDS	2149407..2150039	dethiobiotin synthetase
+sun:SUN_2068	CDS	2150129..2151013	pyrB; aspartate carbamoyltransferase, catalytic subunit
+sun:SUN_2069	CDS	2151072..2152040	aminodeoxychorismate synthase subunit I
+sun:SUN_2070	CDS	complement(2152042..2152485)	hypothetical protein
+sun:SUN_2071	CDS	complement(2152478..2153020)	conserved hypothetical protein
+sun:SUN_2072	CDS	complement(2153001..2153579)	conserved hypothetical protein
+sun:SUN_2073	CDS	complement(2153693..2154073)	conserved hypothetical protein
+sun:SUN_2074	CDS	complement(2154070..2154297)	conserved hypothetical protein
+sun:SUN_2075	CDS	complement(2154294..2154875)	gidB; glucose inhibited division protein B
+sun:SUN_2076	CDS	complement(2154884..2155159)	conserved hypothetical protein
+sun:SUN_2077	CDS	complement(2155310..2155759)	conserved hypothetical protein
+sun:SUN_2078	CDS	complement(2155772..2156209)	conserved hypothetical protein
+sun:SUN_2079	CDS	complement(2156206..2156523)	conserved hypothetical protein
+sun:SUN_2080	CDS	complement(2156549..2158315)	ABC transporter, ATP-binding protein
+sun:SUN_2081	CDS	complement(2158371..2159264)	hypothetical protein
+sun:SUN_2082	CDS	complement(2159261..2160880)	conserved hypothetical protein
+sun:SUN_2083	CDS	complement(2161140..2161817)	hypothetical protein
+sun:SUN_2084	CDS	complement(2161829..2164528)	hypothetical protein
+sun:SUN_2085	CDS	complement(2164769..2165152)	hypothetical protein
+sun:SUN_2086	CDS	complement(2165240..2165917)	hypothetical protein
+sun:SUN_2087	CDS	complement(2165929..2168313)	hypothetical protein
+sun:SUN_2088	CDS	complement(2168543..2169124)	ribA; GTP cyclohydrolase II
+sun:SUN_2089	CDS	2169217..2170188	hemB; porphobilinogen synthase
+sun:SUN_2090	CDS	2170311..2171231	argF; ornithine carbamoyltransferase
+sun:SUN_2091	CDS	2171387..2172754	hemN; oxygen-independent coproporphyrinogen III oxidase
+sun:SUN_2092	CDS	2172768..2174069	anaerobic glycerol-3-phosphate dehydrogenase subunit C
+sun:SUN_2093	CDS	complement(2174066..2175310)	two-component sensor histidine kinase
+sun:SUN_2094	CDS	complement(2175307..2175975)	two-component response regulator
+sun:SUN_2095	CDS	complement(2176065..2177108)	conserved hypothetical protein
+sun:SUN_2096	CDS	complement(2177098..2178111)	ruvB; holliday junction DNA helicase RuvB
+sun:SUN_2097	CDS	complement(2178111..2178923)	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+sun:SUN_2098	CDS	2179326..2180069	trpA; tryptophan synthase, alpha chain
+sun:SUN_2099	CDS	2180149..2180934	lgt; prolipoprotein diacylglyceryl transferase
+sun:SUN_2100	CDS	2181003..2184404	CoA enzyme activase
+sun:SUN_2101	CDS	2184594..2186102	conserved hypothetical protein
+sun:SUN_2102	CDS	complement(2186104..2186952)	molybdenum ABC transporter, ATP-binding protein
+sun:SUN_2103	CDS	complement(2186949..2187644)	molybdenum ABC transporter, permease
+sun:SUN_2104	CDS	complement(2187637..2188038)	conserved hypothetical protein
+sun:SUN_2105	CDS	complement(2188045..2188806)	modA; molybdenum ABC transporter, substrate-binding protein
+sun:SUN_2106	CDS	complement(2188820..2189602)	modE; molybdenum transport regulatory protein
+sun:SUN_2107	gene	2190216..2190425	pseudogene
+sun:SUN_2108	CDS	2190471..2191823	transposase
+sun:SUN_2109	CDS	complement(2192067..2198225)	conserved hypothetical protein
+sun:SUN_2110	CDS	complement(2198222..2201560)	hypothetical protein
+sun:SUN_2111	CDS	complement(2201553..2203871)	hypothetical protein
+sun:SUN_2112	CDS	complement(2203881..2205755)	conserved hypothetical protein
+sun:SUN_2113	CDS	complement(2205774..2206244)	conserved hypothetical protein
+sun:SUN_2114	CDS	complement(2206231..2207031)	hypothetical protein
+sun:SUN_2115	CDS	complement(2207043..2207849)	hypothetical protein
+sun:SUN_2116	CDS	complement(2207846..2208394)	conserved hypothetical protein
+sun:SUN_2117	CDS	complement(2208391..2208960)	conserved hypothetical protein
+sun:SUN_2118	CDS	complement(2209725..2210864)	filamentation induced by cAMP protein Fic
+sun:SUN_2119	CDS	2211199..2211468	DNA-damage-inducible protein J
+sun:SUN_2120	CDS	2211461..2211730	conserved hypothetical protein
+sun:SUN_2121	CDS	2211886..2212158	conserved hypothetical protein
+sun:SUN_2122	CDS	2212163..2213707	ABC transporter
+sun:SUN_2123	CDS	complement(2213764..2214774)	alanine racemase
+sun:SUN_2124	CDS	2214940..2215968	peptidyl-arginine deiminase family protein
+sun:SUN_2125	CDS	2215984..2216856	hydrolase
+sun:SUN_2126	CDS	2216910..2217431	globin
+sun:SUN_2127	CDS	complement(2217474..2218082)	conserved hypothetical protein
+sun:SUN_2128	CDS	complement(2218039..2219328)	peptidase, M23/M37 family
+sun:SUN_2129	CDS	2219475..2220155	conserved hypothetical protein
+sun:SUN_2130	CDS	2220155..2221546	glcD; glycolate oxidase, subunit GlcD
+sun:SUN_2131	CDS	2221589..2222404	rbn; ribonuclease BN
+sun:SUN_2132	CDS	complement(2222412..2223671)	DNA uptake protein
+sun:SUN_2133	CDS	complement(2223690..2226158)	replicative DNA helicase DnaB, intein-containing
+sun:SUN_2134	CDS	complement(2226158..2227219)	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+sun:SUN_2135	CDS	complement(2227438..2229306)	primosomal replication factor Y
+sun:SUN_2136	CDS	complement(2229497..2229868)	conserved hypothetical protein
+sun:SUN_2137	CDS	2230055..2230834	glucose-1-phosphate cytidylyltransferase
+sun:SUN_2138	CDS	2230827..2231915	CDP-glucose 4,6-dehydratase
+sun:SUN_2139	CDS	2231896..2233068	conserved hypothetical protein
+sun:SUN_2140	CDS	2233065..2234858	acetolactate synthase, large subunit
+sun:SUN_2141	CDS	2234861..2235988	methyltransferase FkbM
+sun:SUN_2142	CDS	2235992..2236819	hypothetical protein
+sun:SUN_2143	CDS	2236819..2237736	sugar epimerase/dehydratase
+sun:SUN_2144	CDS	2237739..2239070	aminotransferase
+sun:SUN_2145	CDS	2239067..2239435	conserved hypothetical protein
+sun:SUN_2146	CDS	2239432..2240382	glycosyl transferase
+sun:SUN_2147	CDS	2240382..2242268	conserved hypothetical protein
+sun:SUN_2148	CDS	complement(2242280..2242609)	conserved hypothetical protein
+sun:SUN_2149	CDS	complement(2242730..2243056)	conserved hypothetical protein
+sun:SUN_2150	CDS	complement(2243178..2243828)	conserved hypothetical protein
+sun:SUN_2151	CDS	complement(2244011..2244535)	transferase, hexapeptide repeat family
+sun:SUN_2152	CDS	complement(2244545..2246632)	ppk; polyphosphate kinase
+sun:SUN_2153	CDS	complement(2246759..2248732)	uvrB; excinuclease ABC, B subunit
+sun:SUN_2154	CDS	complement(2249282..2250100)	DNA polymerase III, epsilon subunit
+sun:SUN_2155	CDS	complement(2250084..2250674)	phosphoribosylanthranilate isomerase
+sun:SUN_2156	CDS	complement(2250785..2251426)	rpe; ribulose-phosphate 3-epimerase
+sun:SUN_2157	CDS	complement(2251484..2253739)	hypothetical protein
+sun:SUN_2158	CDS	2253915..2254124	rpmB; 50S ribosomal protein L28
+sun:SUN_2159	CDS	2254158..2255288	potassium channel protein
+sun:SUN_2160	CDS	2255347..2256543	arginine biosynthesis bifunctional protein ArgJ
+sun:SUN_2161	CDS	2256606..2256830	conserved hypothetical protein
+sun:SUN_2162	CDS	2256920..2258281	dbpA; ATP-independent RNA helicase DbpA
+sun:SUN_2163	CDS	complement(2258278..2258895)	conserved hypothetical protein
+sun:SUN_2164	CDS	complement(2258902..2259840)	accA; acetyl-CoA carboxylase, carboxyl transferase subunit alpha
+sun:SUN_2165	CDS	complement(2259850..2261067)	3-oxoacyl-[acyl-carrier-protein] synthase I/II
+sun:SUN_2166	CDS	complement(2261169..2261396)	acpP; acyl carrier protein ACP
+sun:SUN_2167	CDS	complement(2261484..2262008)	conserved hypothetical protein
+sun:SUN_2168	CDS	complement(2262023..2262544)	signal transduction sensor histidine kinase
+sun:SUN_2169	CDS	complement(2262764..2263243)	conserved hypothetical protein
+sun:SUN_2170	CDS	complement(2263253..2264080)	ABC transporter, permease
+sun:SUN_2171	CDS	complement(2264080..2264553)	conserved hypothetical protein
+sun:SUN_2172	CDS	complement(2264540..2265178)	ABC transporter, ATP-binding protein
+sun:SUN_2173	CDS	complement(2265182..2266093)	ferredoxin-type protein, NapH/MauN family
+sun:SUN_2174	CDS	complement(2266147..2266674)	conserved hypothetical protein
+sun:SUN_2175	CDS	complement(2266677..2267246)	conserved hypothetical protein
+sun:SUN_2176	CDS	complement(2267239..2268063)	4Fe-4S ferredoxin
+sun:SUN_2177	CDS	complement(2268064..2269287)	nitrous oxidase accessory protein NosD
+sun:SUN_2178	CDS	complement(2269289..2270071)	conserved hypothetical protein
+sun:SUN_2179	CDS	complement(2270271..2272871)	nitrous-oxide reductase NosZ
+sun:SUN_2180	CDS	complement(2273132..2275144)	TonB-dependent copper receptor
+sun:SUN_2181	CDS	complement(2275239..2275967)	periplasmic protein TonB
+sun:SUN_2182	CDS	complement(2276049..2277449)	RNA-metabolising metallo-beta-lactamase
+sun:SUN_2183	CDS	2277589..2281557	cation-transporting P-tyep ATPase
+sun:SUN_2184	CDS	2281561..2282838	conserved hypothetical protein
+sun:SUN_2185	CDS	complement(2282847..2284133)	voltage-gated chloride channel
+sun:SUN_2186	CDS	complement(2284201..2285055)	two-component sensor histidine kinase
+sun:SUN_2187	CDS	complement(2285062..2285712)	two-component response regulator
+sun:SUN_2188	CDS	2285905..2286564	conserved hypothetical protein
+sun:SUN_2189	CDS	complement(2286673..2287416)	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+sun:SUN_2190	CDS	complement(2287519..2287863)	hypothetical protein
+sun:SUN_2191	CDS	complement(2287939..2289423)	phosphoglycerate mutase
+sun:SUN_2192	CDS	2289491..2290549	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+sun:SUN_2193	CDS	2290551..2291840	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+sun:SUN_t28	tRNA	2291884..2291959	trnM_Phe; tRNA-Phe
+sun:SUN_2194	CDS	2292302..2293759	hypothetical protein
+sun:SUN_2195	CDS	2294044..2295363	tRNA modifying enzyme
+sun:SUN_2196	CDS	2295510..2296481	tRNA-lysidine synthase
+sun:SUN_2197	CDS	complement(2296624..2297466)	site-specific recombinase, phage integrase family
+sun:SUN_2198	CDS	complement(2297466..2298086)	conserved hypothetical protein
+sun:SUN_2199	CDS	complement(2298093..2299352)	tRNA-i(6)A37 thiotransferase enzyme
+sun:SUN_2200	CDS	complement(2299485..2299724)	conserved hypothetical protein
+sun:SUN_2201	CDS	2299915..2301078	transcription termination factor NusA
+sun:SUN_2202	CDS	complement(2301266..2301955)	tpiA; triosephosphate isomerase
+sun:SUN_2203	CDS	complement(2302062..2303258)	pgk; phosphoglycerate kinase
+sun:SUN_2204	CDS	complement(2303272..2304267)	glyceraldehyde 3-phosphate dehydrogenase
+sun:SUN_2205	CDS	2304341..2304907	nicotinate-nucleotide adenylyltransferase
+sun:SUN_2206	CDS	2304904..2305251	conserved hypothetical protein
+sun:SUN_2207	CDS	complement(2305274..2305618)	hypothetical protein
+sun:SUN_2208	CDS	complement(2305640..2307337)	argS; arginyl-tRNA synthetase
+sun:SUN_2209	CDS	complement(2307439..2307666)	twin-arginine translocation system protein, TatA/E family
+sun:SUN_2210	CDS	complement(2307765..2308376)	gmk; guanylate kinase
+sun:SUN_2211	CDS	complement(2308376..2309275)	conserved hypothetical protein
+sun:SUN_2212	CDS	2309444..2309893	hypothetical protein
+sun:SUN_t29	tRNA	complement(2310288..2310364)	trnN_Arg; tRNA-Arg
+sun:SUN_2213	CDS	complement(2310403..2311104)	uracil-DNA glycosylase
+sun:SUN_2214	CDS	complement(2311094..2311414)	hypothetical protein
+sun:SUN_2215	CDS	complement(2311415..2312305)	ubiA; 4-hydroxybenzoate polyprenyltransferase
+sun:SUN_2216	CDS	complement(2312322..2312879)	CDP-diacylglycerol--serine O-phosphatidyltransferase
+sun:SUN_2217	CDS	2312957..2313862	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+sun:SUN_2218	CDS	complement(2313914..2315404)	nuoN; NADH-quinone oxidoreductase, chain N
+sun:SUN_2219	CDS	complement(2315404..2316936)	nuoM; NADH-quinone oxidoreductase, chain M
+sun:SUN_2220	CDS	complement(2316948..2318843)	nuoL; NADH-quinone oxidoreductase, chain L
+sun:SUN_2221	CDS	complement(2318846..2319148)	nuoK; NADH-quinone oxidoreductase, chain K
+sun:SUN_2222	CDS	complement(2319145..2319708)	nuoJ; NADH-quinone oxidoreductase, chain J
+sun:SUN_2223	CDS	complement(2319720..2320343)	nuoI; NADH-quinone oxidoreductase, chain I
+sun:SUN_2224	CDS	complement(2320353..2321384)	nuoH; NADH-quinone oxidoreductase, chain H
+sun:SUN_2225	CDS	complement(2321386..2323848)	NADH-quinone oxidoreductase, chain G
+sun:SUN_2226	CDS	complement(2323850..2326090)	NADH-quinone oxidoreductase, chain G
+sun:SUN_2227	CDS	complement(2326110..2328119)	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+sun:SUN_2228	CDS	complement(2328119..2328733)	hypothetical protein
+sun:SUN_2229	CDS	complement(2328746..2329975)	nuoD; NADH-quinone oxidoreductase, chain D
+sun:SUN_2230	CDS	complement(2329985..2330770)	nuoC; NADH-quinone oxidoreductase, chain C
+sun:SUN_2231	CDS	complement(2330770..2331288)	nuoB; NADH-quinone oxidoreductase, chain B
+sun:SUN_2232	CDS	complement(2331270..2331659)	nuoA; NADH-quinone oxidoreductase, chain A
+sun:SUN_2233	CDS	2331844..2332248	conserved hypothetical protein
+sun:SUN_2234	CDS	complement(2332455..2335664)	hypothetical protein
+sun:SUN_2235	CDS	complement(2335855..2336334)	conserved hypothetical protein
+sun:SUN_2236	CDS	complement(2336563..2338296)	ATPase, AAA family
+sun:SUN_2237	CDS	2338374..2338787	conserved hypothetical protein
+sun:SUN_2238	CDS	2338791..2340617	PTS system, EI component, phosphoenolpyruvate-protein kinase
+sun:SUN_2239	CDS	2340610..2341992	nagE; PTS system, IIBC component
+sun:SUN_2240	CDS	2342590..2342793	hypothetical protein
+sun:SUN_2241	CDS	2342951..2343925	hypothetical protein
+sun:SUN_2242	CDS	complement(2344000..2345052)	two-component sensor histidine kinase
+sun:SUN_2243	CDS	complement(2345039..2345656)	two-component response regulator
+sun:SUN_2244	CDS	complement(2345817..2346287)	crr; PTS system, IIA component
+sun:SUN_2245	CDS	complement(2346290..2347414)	nagA; N-acetylglucosamine-6-phosphate deacetylase
+sun:SUN_2246	CDS	complement(2347418..2348962)	long-chain fatty-acid-CoA ligase
+sun:SUN_2247	CDS	complement(2348964..2350184)	long-chain fatty acid transport protein
+sun:SUN_2248	CDS	complement(2350195..2351451)	hypothetical protein
+sun:SUN_2249	CDS	complement(2351540..2352430)	nfo; endonuclease IV
+sun:SUN_2250	CDS	complement(2352427..2352912)	conserved hypothetical protein
+sun:SUN_t30	tRNA	2353000..2353074	trnO_Glu1; tRNA-Glu
+sun:SUN_t31	tRNA	2353102..2353176	trnO_Glu2; tRNA-Glu
+sun:SUN_2251	CDS	complement(2353257..2354546)	outer membrane efflux protein
+sun:SUN_2252	CDS	complement(2354543..2357668)	multidrug efflux transporter, RND superfamily
+sun:SUN_2253	CDS	complement(2357668..2358804)	efflux system, membrane fusion protein
+sun:SUN_2254	CDS	complement(2358865..2359281)	hypothetical protein
+sun:SUN_t32	tRNA	complement(2359366..2359441)	trnP_Ala; tRNA-Ala
+sun:SUN_2255	CDS	complement(2359504..2359785)	ppiC; peptidyl-prolyl cis-trans isomerase C
+sun:SUN_2256	CDS	complement(2359866..2361518)	dnaG; DNA primase DnaG
+sun:SUN_2257	CDS	2361676..2362719	conserved hypothetical protein
+sun:SUN_2258	CDS	2362679..2363122	rnhA; ribonuclease HI
+sun:SUN_2259	CDS	2363173..2363844	rnc; ribonuclease III
+sun:SUN_2260	CDS	2363841..2364914	aroC; chorismate synthase
+sun:SUN_2261	CDS	2364925..2366253	hypothetical protein
+sun:SUN_2262	CDS	complement(2366250..2366816)	rnhB; ribonuclease HII
+sun:SUN_2263	CDS	complement(2367299..2368201)	hypothetical protein
+sun:SUN_2264	CDS	complement(2368198..2370099)	hypothetical protein
+sun:SUN_2265	CDS	2370513..2370989	conserved hypothetical protein
+sun:SUN_2266	CDS	complement(2371086..2372864)	recQ; ATP-dependent DNA helicase RecQ
+sun:SUN_2267	CDS	complement(2372924..2373559)	two-component response regulator
+sun:SUN_2268	CDS	complement(2373657..2374322)	phosphate transport system regulator
+sun:SUN_2269	CDS	complement(2374357..2375157)	pstB; phosphate ABC transporter, ATP-binding protein
+sun:SUN_2270	CDS	complement(2375168..2375977)	pstA; phosphate ABC transporter, permease
+sun:SUN_2271	CDS	complement(2375974..2376843)	pstC; phosphate ABC transporter, permease
+sun:SUN_2272	CDS	complement(2377026..2378027)	pstS; phosphate ABC transporter, substrate-binding protein
+sun:SUN_2273	CDS	complement(2378126..2378782)	two-component response regulator
+sun:SUN_2274	CDS	complement(2378912..2380456)	inorganic phosphate transporter, PiT family
+sun:SUN_2275	CDS	complement(2380552..2381700)	conserved hypothetical protein
+sun:SUN_2276	CDS	complement(2381883..2383220)	conserved hypothetical protein
+sun:SUN_2277	CDS	complement(2383345..2383878)	conserved hypothetical protein
+sun:SUN_2278	CDS	complement(2384204..2384515)	conserved hypothetical protein
+sun:SUN_2279	CDS	complement(2384519..2384887)	panD; aspartate decarboxylase
+sun:SUN_2280	CDS	complement(2385044..2385418)	2Fe-2S ferredoxin
+sun:SUN_2281	CDS	2385623..2386231	conserved hypothetical protein
+sun:SUN_2282	CDS	2386236..2386676	conserved hypothetical protein
+sun:SUN_2283	CDS	2386678..2386938	conserved hypothetical protein
+sun:SUN_2284	CDS	2386931..2388217	conserved hypothetical protein
+sun:SUN_2285	CDS	complement(2388290..2389588)	murE; UDP-N-acetylmuramoylananine-D-glutamate-2,6-diaminopimelate ligase
+sun:SUN_2286	CDS	complement(2389585..2390166)	conserved hypothetical protein
+sun:SUN_2287	CDS	complement(2390168..2390446)	conserved hypothetical protein
+sun:SUN_r07	rRNA	complement(2390926..2391041)	rrnC_5S; 5S ribosomal RNA
+sun:SUN_r08	rRNA	complement(2391231..2394106)	rrnC_23S; 23S ribosomal RNA
+sun:SUN_t33	tRNA	complement(2394541..2394616)	trnQ_Ala; tRNA-Ala
+sun:SUN_r09	rRNA	complement(2394744..2396252)	rrnC_16S; 16S ribosomal RNA
+sun:SUN_2288	CDS	2396625..2397449	thymidylate synthase, flavin-dependent
+sun:SUN_2289	CDS	2397625..2398296	hypothetical protein
+sun:SUN_2290	CDS	2398428..2400128	conserved hypothetical protein
+sun:SUN_2291	CDS	2400147..2400368	hypothetical protein
+sun:SUN_2292	CDS	2400620..2401297	hypothetical protein
+sun:SUN_2293	CDS	2401368..2402027	radC; DNA repair protein RadC
+sun:SUN_2294	CDS	2402541..2403680	site-specific recombinase, phage integrase family
+sun:SUN_2295	CDS	2403763..2404863	hypothetical protein
+sun:SUN_2296	CDS	2405065..2406078	cell division protein FtsZ
+sun:SUN_2297	CDS	2406084..2406515	hypothetical protein
+sun:SUN_2298	CDS	2406630..2408111	conserved hypothetical protein
+sun:SUN_2299	CDS	2408135..2409304	conserved hypothetical protein
+sun:SUN_2300	CDS	2409358..2409747	conserved hypothetical protein
+sun:SUN_2301	gene	2409966..2410690	pseudogene
+sun:SUN_2302	CDS	2410814..2411737	transcriptional regulator
+sun:SUN_2303	CDS	2411730..2412290	hypothetical protein
+sun:SUN_2304	CDS	2413004..2413366	hypothetical protein
+sun:SUN_2305	CDS	2413561..2415135	hypothetical protein
+sun:SUN_2306	CDS	complement(2415354..2415593)	transcriptional regulator, Xre family
+sun:SUN_2307	CDS	2415700..2416737	hypothetical protein
+sun:SUN_2308	CDS	2416978..2417868	conserved hypothetical protein
+sun:SUN_2309	CDS	2417997..2418590	hypothetical protein
+sun:SUN_2310	CDS	2418612..2418920	hypothetical protein
+sun:SUN_2311	CDS	2418929..2420455	hypothetical protein
+sun:SUN_t34	tRNA	2420551..2420638	trnR_Ser; tRNA-Ser
+sun:SUN_2312	CDS	2420811..2421368	conserved hypothetical protein
+sun:SUN_2313	gene	2421449..2421673	pseudogene
+sun:SUN_2314	gene	2421732..2421995	pseudogene
+sun:SUN_2315	CDS	2422108..2422434	hypothetical protein
+sun:SUN_2316	CDS	complement(2422800..2423501)	hypothetical protein
+sun:SUN_2317	CDS	complement(2423614..2424318)	hypothetical protein
+sun:SUN_2318	gene	complement(2424683..2425041)	pseudogene
+sun:SUN_2319	CDS	complement(2425549..2426628)	conserved hypothetical protein
+sun:SUN_2320	CDS	2426821..2427132	rpsJ; 30S ribosomal protein S10
+sun:SUN_2321	CDS	2427142..2427723	rplC; 50S ribosomal protein L3
+sun:SUN_2322	CDS	2427723..2428313	rplD; 50S ribosomal protein L4
+sun:SUN_2323	CDS	2428315..2428596	rplW; 50S ribosomal protein L23
+sun:SUN_2324	CDS	2428606..2429433	rplB; 50S ribosomal protein L2
+sun:SUN_2325	CDS	2429445..2429723	rpsS; 30S ribosomal protein S19
+sun:SUN_2326	CDS	2429726..2430064	rplV; 50S ribosomal protein L22
+sun:SUN_2327	CDS	2430066..2430764	rpsC; 30S ribosomal protein S3
+sun:SUN_2328	CDS	2430767..2431192	rplP; 50S ribosomal protein L16
+sun:SUN_2329	CDS	2431179..2431370	rpmC; 50S ribosomal protein L29
+sun:SUN_2330	CDS	2431381..2431629	rpsQ; 30S ribosomal protein S17
+sun:SUN_2331	CDS	2431629..2431997	rplN; 50S ribosomal protein L14
+sun:SUN_2332	CDS	2431997..2432230	rplX; 50S ribosomal protein L24
+sun:SUN_2333	CDS	2432235..2432780	rplE; 50S ribosomal protein L5
+sun:SUN_2334	CDS	2432780..2432965	rpsN; 30S ribosomal protein S14
+sun:SUN_2335	CDS	2432979..2433374	rpsH; 30S ribosomal protein S8
+sun:SUN_2336	CDS	2433384..2433920	rplF; 50S ribosomal protein L6
+sun:SUN_2337	CDS	2433932..2434288	rplR; 50S ribosomal protein L18
+sun:SUN_2338	CDS	2434298..2434756	rpsE; 30S ribosomal protein S5
+sun:SUN_2339	CDS	2434767..2435165	rplO; 50S ribosomal protein L15
+sun:SUN_2340	CDS	2435167..2436429	secY; preprotein translocase subunit Y
+sun:SUN_2341	CDS	2436429..2437187	map; methionine aminopeptidase
+sun:SUN_2342	CDS	2437211..2437429	infA; translation initiation factor IF-1
+sun:SUN_2343	CDS	2437704..2437817	rpmJ; 50S ribosomal protein L36
+sun:SUN_2344	CDS	2437820..2438182	rpsM; 30S ribosomal protein S13
+sun:SUN_2345	CDS	2438196..2438570	rpsK; 30S ribosomal protein S11
+sun:SUN_2346	CDS	2438573..2439199	rpsD; 30S ribosomal protein S4
+sun:SUN_2347	CDS	2439219..2440220	rpoA; DNA-directed RNA polymerase, alpha subunit
+sun:SUN_2348	CDS	2440252..2440602	rplQ; 50S ribosomal protein L17
+sun:SUN_2349	CDS	complement(2440820..2441557)	conserved hypothetical protein
+sun:SUN_2350	CDS	complement(2441577..2442071)	hypothetical protein
+sun:SUN_2351	CDS	complement(2442198..2442449)	hypothetical protein
+sun:SUN_2352	CDS	complement(2442467..2442904)	conserved hypothetical protein
+sun:SUN_2353	CDS	2443259..2443759	conserved hypothetical protein
+sun:SUN_2354	CDS	2443756..2445441	oxidoreductase
+sun:SUN_2355	CDS	2445735..2446535	conserved hypothetical protein
+sun:SUN_2356	CDS	2446733..2448550	GTP-binding protein TypA
+sun:SUN_2357	CDS	complement(2448701..2449909)	conserved hypothetical protein
+sun:SUN_2358	CDS	2449963..2450277	conserved hypothetical protein
+sun:SUN_2359	CDS	2450318..2450557	hypothetical protein
+sun:SUN_2360	CDS	2450557..2451552	purM; phosphoribosylformylglycinamidine cyclo-ligase
+sun:SUN_2361	CDS	complement(2451591..2453039)	sodium:alanine symporter
+sun:SUN_t35	tRNA	2453204..2453280	trnS_Pro; tRNA-Pro
+sun:SUN_t36	tRNA	2453323..2453398	trnS_His; tRNA-His
+sun:SUN_t37	tRNA	2453435..2453511	trnS_Arg1; tRNA-Arg
+sun:SUN_t38	tRNA	2453541..2453617	trnS_Arg2; tRNA-Arg
+sun:SUN_t39	tRNA	2453642..2453726	trnS_Leu; tRNA-Leu
+sun:SUN_2362	CDS	complement(2454284..2455465)	ATPase, AAA family
+sun:SUN_2363	CDS	complement(2455469..2456314)	RNA pseudouridine synthase
+sun:SUN_2364	CDS	complement(2456332..2457300)	arabinose-5-phosphate isomerase
+sun:SUN_2365	CDS	complement(2457383..2459488)	conserved hypothetical protein
+sun:SUN_2366	CDS	complement(2459427..2460281)	ksgA; dimethyladenosine transferase
+sun:SUN_2367	CDS	2460375..2461139	hisF; imidazoleglycerol phosphate synthase, cyclase subunit
+sun:SUN_2368	CDS	2461141..2461671	conserved hypothetical protein
+sun:SUN_2369	CDS	2461758..2462837	conserved hypothetical protein
+sun:SUN_2370	CDS	complement(2463365..2464294)	ribosomal large subunit pseudouridine synthase, RluD subfamily
+sun:SUN_2371	CDS	2464366..2465697	adenylosuccinate lyase
+sun:SUN_2372	CDS	2465949..2468318	nrdA; ribonucleoside-diphosphate reductase, alpha subunit
+sun:SUN_2373	CDS	2468613..2469029	hypothetical protein
+sun:SUN_2374	CDS	2469026..2469706	hypothetical protein
+sun:SUN_2375	CDS	2469720..2471261	phospholipase D/transphosphatidylase
+sun:SUN_2376	CDS	complement(2471288..2471896)	hypothetical protein
+sun:SUN_2377	CDS	complement(2471910..2472623)	conserved hypothetical protein
+sun:SUN_2378	CDS	2472612..2473112	hypothetical protein
+sun:SUN_2379	CDS	2473205..2474884	hypothetical protein
+sun:SUN_2380	CDS	2474877..2475566	two-component response regulator
+sun:SUN_2381	CDS	2475828..2477405	arylsulfatase
+sun:SUN_2382	CDS	2477522..2478301	conserved hypothetical protein
+sun:SUN_2383	CDS	2478311..2479285	non-specific acid phosphatase
+sun:SUN_2384	CDS	2479293..2480246	conserved hypothetical protein
+sun:SUN_2385	CDS	2480287..2480880	hypothetical protein
+sun:SUN_2386	CDS	2480972..2481943	ATPase, AAA family
+sun:SUN_2387	CDS	2481948..2482886	conserved hypothetical protein
+sun:SUN_2388	CDS	2482886..2483368	conserved hypothetical protein
+sun:SUN_2389	CDS	2483365..2484342	von Willebrand factor type A domain protein
+sun:SUN_2390	CDS	2484339..2485274	conserved hypothetical protein
+sun:SUN_2391	CDS	2485271..2485906	conserved hypothetical protein
+sun:SUN_2392	CDS	2485903..2487171	hypothetical protein
+sun:SUN_2393	CDS	2487416..2487931	hypothetical protein
+sun:SUN_2394	CDS	2488024..2490219	conserved hypothetical protein
+sun:SUN_2395	CDS	complement(2490222..2491505)	gltA; citrate synthase
+sun:SUN_2396	CDS	2491660..2491971	conserved hypothetical protein
+sun:SUN_2397	CDS	complement(2492333..2492857)	conserved hypothetical protein
+sun:SUN_2398	CDS	2492929..2493948	ribonucleoside-diphosphate reductase, beta subunit
+sun:SUN_2399	CDS	2493958..2494692	hydrolase
+sun:SUN_2400	CDS	2494756..2495391	pcm; L-isoaspartyl protein carboxyl methyltransferase
+sun:SUN_2401	CDS	2495511..2496146	hypothetical protein
+sun:SUN_2402	CDS	2496146..2497231	calcium:H+/Na+ antiporter, CaCA family
+sun:SUN_2403	CDS	complement(2497266..2498093)	conserved hypothetical protein
+sun:SUN_2404	CDS	complement(2498122..2499069)	ATPase, AAA family
+sun:SUN_2405	CDS	complement(2499066..2500205)	conserved hypothetical protein
+sun:SUN_2406	CDS	complement(2500186..2501724)	von Willebrand factor type A domain protein
+sun:SUN_2407	CDS	complement(2501721..2502644)	von Willebrand factor type A domain protein
+sun:SUN_2408	CDS	2502798..2504474	conserved hypothetical protein
+sun:SUN_2409	CDS	2504478..2505071	dephospho-CoA kinase
+sun:SUN_2410	CDS	2505068..2505814	dapF; diaminopimelate epimerase
+sun:SUN_2411	CDS	2505824..2506462	conserved hypothetical protein
+sun:SUN_t40	tRNA	2506510..2506585	trnT_Val; tRNA-Val
+sun:SUN_2412	CDS	2506759..2507988	site-specific recombinase, phage integrase family
+sun:SUN_2413	CDS	2507985..2508521	hypothetical protein
+sun:SUN_2414	CDS	2508722..2508904	phage-related protein
+sun:SUN_2415	CDS	2509130..2509513	hypothetical protein
+sun:SUN_2416	CDS	2509521..2510282	hypothetical protein
+sun:SUN_2417	CDS	complement(2510733..2510984)	hypothetical protein
+sun:SUN_2418	CDS	complement(2511030..2511248)	conserved hypothetical protein
+sun:SUN_2419	CDS	2511388..2511576	hypothetical protein
+sun:SUN_2420	CDS	2511576..2511845	hypothetical protein
+sun:SUN_2421	CDS	2511879..2512100	hypothetical protein
+sun:SUN_2422	gene	complement(2512508..2513305)	pseudogene
+sun:SUN_2423	gene	2513494..2514593	pseudogene
+sun:SUN_2424	CDS	2515135..2516184	hypothetical protein
+sun:SUN_2425	CDS	2516273..2518087	thrS; threonyl-tRNA synthetase
+sun:SUN_2426	CDS	2518084..2518635	infC; translation initiation factor IF-3
+sun:SUN_2427	CDS	complement(2518700..2520391)	ilvD; dihydroxy-acid dehydratase
+sun:SUN_t41	tRNA	2520577..2520651	trnU_Gly; tRNA-Gly
+sun:SUN_t42	tRNA	2520696..2520782	trnU_Leu; tRNA-Leu
+sun:SUN_t43	tRNA	2520795..2520870	trnU_Cys; tRNA-Cys
+sun:SUN_t44	tRNA	2520922..2521009	trnU_Ser; tRNA-Ser
+sun:SUN_2428	CDS	2522148..2522567	conserved hypothetical protein
+sun:SUN_2429	CDS	2522597..2523010	vsr; DNA mismatch endonuclease Vsr
+sun:SUN_2430	CDS	2523076..2524533	conserved hypothetical protein
+sun:SUN_2431	CDS	2524535..2527306	endonuclease
+sun:SUN_2432	CDS	2527293..2528264	conserved hypothetical protein
+sun:SUN_2433	CDS	2528257..2530311	conserved hypothetical protein
+sun:SUN_2434	CDS	2530311..2530988	5-methylcytosine-specific restriction enzyme A
+sun:SUN_2435	CDS	complement(2530993..2531886)	hypothetical protein
+sun:SUN_2436	CDS	complement(2531876..2533591)	hypothetical protein
+sun:SUN_2437	CDS	complement(2533578..2534555)	hypothetical protein
+sun:SUN_2438	CDS	complement(2534545..2535633)	cytosine-specific methyltransferase
+sun:SUN_2439	CDS	2535925..2536305	hypothetical protein
+sun:SUN_2440	CDS	complement(2536318..2536611)	hypothetical protein
+sun:SUN_2441	CDS	complement(2536653..2536886)	hypothetical protein
+sun:SUN_2442	CDS	2537174..2537419	transcriptional regulator, Xre family
+sun:SUN_2443	CDS	complement(2537416..2537862)	hypothetical protein
+sun:SUN_2444	CDS	complement(2537886..2538176)	transcriptional regulator, Xre family
+sun:SUN_2445	CDS	complement(2538163..2538510)	phage-related protein
+sun:SUN_2446	CDS	complement(2538536..2540143)	DNA relaxase TraI
+sun:SUN_2447	CDS	complement(2540140..2540493)	DNA transfer system protein TraJ
+sun:SUN_2448	CDS	complement(2540490..2540711)	hypothetical protein
+sun:SUN_2449	CDS	2540868..2541383	hypothetical protein
+sun:SUN_2450	CDS	complement(2541390..2541998)	hypothetical protein
+sun:SUN_2451	CDS	complement(2541992..2542492)	hypothetical protein
+sun:SUN_2452	CDS	complement(2542561..2543661)	site-specific recombinase, phage integrase family
+sun:SUN_2453	CDS	2544389..2545594	transposase
+sun:SUN_2454	CDS	complement(2545840..2546751)	conserved hypothetical protein
+sun:SUN_2455	CDS	complement(2546857..2547954)	choloylglycine hydrolase
+sun:SUN_2456	CDS	complement(2547976..2549856)	metal-dependent hydrolase
+sun:SUN_2457	CDS	complement(2550255..2553122)	hypothetical protein
+sun:SUN_2458	CDS	complement(2553132..2553731)	hypothetical protein
+sun:SUN_2459	CDS	complement(2553816..2554502)	two-component response regulator
+sun:SUN_2460	CDS	complement(2554495..2556108)	hypothetical protein
+sun:SUN_2461	gene	complement(2556634..2557820)	pseudogene
+sun:SUN_2462	CDS	2558665..2559114	hypothetical protein
+sun:SUN_2463	CDS	2559120..2559794	conserved hypothetical protein
+sun:SUN_2464	CDS	2560278..2560685	globin family protein
+sun:SUN_2465	CDS	complement(2560692..2561570)	msrA; peptide-methionine (S)-S-oxide reductase
+sun:SUN_2466	CDS	complement(2561719..2562198)	ruvC; crossover junction endodeoxyribonuclease RuvC
