@@ -1,0 +1,890 @@
+sdi:SDIMI_v3c00010	CDS	1..1338	dnaA; chromosomal replication initiation protein
+sdi:SDIMI_v3c00020	CDS	1466..2590	dnaN; DNA polymerase III subunit beta
+sdi:SDIMI_v3c00030	CDS	2656..4560	gyrB; DNA gyrase subunit B
+sdi:SDIMI_v3c00040	CDS	4580..7012	gyrA; DNA gyrase subunit A
+sdi:SDIMI_v3c00050	CDS	7015..8280	serS; seryl-tRNA synthetase
+sdi:SDIMI_v3c00060	CDS	8490..8915	tadA; tRNA-specific adenosine deaminase
+sdi:SDIMI_v3c00070	CDS	8951..10870	dnaX; DNA polymerase III subunits gamma and tau
+sdi:SDIMI_v3c00080	CDS	10870..11436	recR; recombination protein RecR
+sdi:SDIMI_v3c00090	CDS	11457..12086	tmk; thymidylate kinase
+sdi:SDIMI_v3c00100	CDS	12086..12832	holB; DNA polymerase III subunit delta'
+sdi:SDIMI_v3c00110	CDS	12832..13554	yabB; methyltransferase
+sdi:SDIMI_v3c00120	CDS	13547..14686	tilS; tRNA(Ile)-lysidine synthase
+sdi:SDIMI_v3c00130	CDS	14770..16629	ftsH; cell division protein FtsH
+sdi:SDIMI_v3c00140	CDS	16719..17570	hslO; heat shock protein 33
+sdi:SDIMI_v3c00150	CDS	17624..18631	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c00160	CDS	18729..19043	hypothetical protein
+sdi:SDIMI_v3c00170	CDS	19043..20029	dusB; tRNA-dihydrouridine synthase B
+sdi:SDIMI_v3c00180	CDS	20034..21545	lysS; lysyl-tRNA synthetase
+sdi:SDIMI_v3c00190	CDS	21545..22552	asnA; asparagine synthetase AsnA
+sdi:SDIMI_v3c00200	CDS	22604..23203	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+sdi:SDIMI_v3c00210	CDS	23329..23850	rpsF; 30S ribosomal protein S6
+sdi:SDIMI_v3c00220	CDS	23872..24318	ssbA; single-strand DNA-binding protein
+sdi:SDIMI_v3c00230	CDS	24335..24556	rpsR; 30S ribosomal protein S18
+sdi:SDIMI_v3c00240	CDS	24617..25063	rplI; 50S ribosomal protein L9
+sdi:SDIMI_v3c00250	CDS	25063..26415	dnaC; replicative DNA helicase
+sdi:SDIMI_v3c00260	CDS	26479..27822	hypothetical protein
+sdi:SDIMI_v3c00270	CDS	27855..29117	hypothetical protein
+sdi:SDIMI_v3c00280	CDS	29117..29782	ung; uracil-DNA glycosylase
+sdi:SDIMI_v3c00290	CDS	29798..30703	hypothetical protein
+sdi:SDIMI_v3c00300	CDS	30721..32052	cysS; cysteinyl-tRNA synthetase
+sdi:SDIMI_v3c00310	CDS	32052..32771	tRNA/rRNA methyltransferase
+sdi:SDIMI_v3c00320	CDS	32796..33428	hypothetical protein
+sdi:SDIMI_v3c00330	CDS	33457..33615	rpmG; 50s ribosomal protein L33
+sdi:SDIMI_v3c00340	CDS	33618..34028	hypothetical protein
+sdi:SDIMI_v3c00350	CDS	34040..34669	nusG; transcription antitermination protein NusG
+sdi:SDIMI_v3c00360	CDS	34735..35247	peptidyl-prolyl cis-trans isomerase
+sdi:SDIMI_v3c00370	CDS	35373..35807	rplK; 50S ribosomal protein L11
+sdi:SDIMI_v3c00380	CDS	35810..36496	rplA; 50S ribosomal protein L1
+sdi:SDIMI_v3c00390	CDS	36561..37358	HAD-superfamily hydrolase
+sdi:SDIMI_v3c00400	CDS	37446..37814	MerR family transcriptional regulator
+sdi:SDIMI_v3c00410	CDS	37830..38822	aldo/keto reductase
+sdi:SDIMI_v3c00420	CDS	39099..39599	rplJ; 50S ribosomal protein L10
+sdi:SDIMI_v3c00430	CDS	39666..40031	rplL; 50S ribosomal protein L7/L12
+sdi:SDIMI_v3c00440	CDS	40085..40660	acetyltransferase
+sdi:SDIMI_v3c00450	CDS	40841..44656	rpoB; DNA-directed RNA polymerase subunit beta
+sdi:SDIMI_v3c00460	CDS	44676..48425	rpoC; DNA-directed RNA polymerase subunit beta'
+sdi:SDIMI_v3c00470	CDS	48518..48943	rpiB; ribose-5-phosphate isomerase B
+sdi:SDIMI_v3c00480	CDS	48958..49581	upp; uracil phosphoribosyltransferase
+sdi:SDIMI_v3c00490	CDS	49661..50041	hypothetical protein
+sdi:SDIMI_v3c00500	CDS	50085..50858	atpB; F0F1 ATP synthase subunit A
+sdi:SDIMI_v3c00510	CDS	50880..51212	atpE; F0F1 ATP synthase subunit C
+sdi:SDIMI_v3c00520	CDS	51229..51747	atpF; F0F1 ATP synthase subunit B
+sdi:SDIMI_v3c00530	CDS	51752..52297	atpH; F0F1 ATP synthase subunit delta
+sdi:SDIMI_v3c00540	CDS	52308..53882	atpA; F0F1 ATP synthase subunit alpha
+sdi:SDIMI_v3c00550	CDS	53884..54735	atpG; F0F1 ATP synthase subunit gamma
+sdi:SDIMI_v3c00560	CDS	54750..56147	atpD; F0F1 ATP synthase subunit beta
+sdi:SDIMI_v3c00570	CDS	56147..56434	atpC; F0F1 ATP synthase subunit epsilon
+sdi:SDIMI_v3c00580	CDS	complement(56445..57374)	polA; DNA polymerase I
+sdi:SDIMI_v3c00590	CDS	complement(57388..57984)	hypothetical protein
+sdi:SDIMI_v3c00600	CDS	58146..61049	secA; preprotein translocase subunit SecA
+sdi:SDIMI_v3c00610	CDS	61190..61375	hypothetical protein
+sdi:SDIMI_v3c00620	CDS	61368..62096	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c00630	CDS	62065..63954	hypothetical protein
+sdi:SDIMI_v3c00640	CDS	64101..66086	uvrB; excinuclease ABC subunit B
+sdi:SDIMI_v3c00650	CDS	66098..68938	uvrA; excinuclease ABC subunit A
+sdi:SDIMI_v3c00660	CDS	68931..70028	folC; folylpolyglutamate synthase
+sdi:SDIMI_v3c00670	CDS	69991..70692	hypothetical protein
+sdi:SDIMI_v3c00680	CDS	70747..71676	hprK; HPr kinase/phosphorylase
+sdi:SDIMI_v3c00690	CDS	71669..73054	lgt; prolipoprotein diacylglyceryl transferase
+sdi:SDIMI_v3c00700	CDS	73038..73970	trxB; thioredoxin reductase
+sdi:SDIMI_v3c00710	CDS	74034..75386	lgt; prolipoprotein diacylglyceryl transferase
+sdi:SDIMI_v3c00720	CDS	75418..76365	hypothetical protein
+sdi:SDIMI_v3c00730	CDS	76368..76589	hypothetical protein
+sdi:SDIMI_v3c00740	CDS	complement(76628..77023)	hypothetical protein
+sdi:SDIMI_v3c00750	CDS	77107..77721	LemA family protein
+sdi:SDIMI_v3c00760	CDS	77739..78773	hypothetical protein
+sdi:SDIMI_v3c00770	CDS	78798..79826	hypothetical protein
+sdi:SDIMI_v3c00780	CDS	79910..80203	secG; preprotein translocase subunit SecG
+sdi:SDIMI_v3c00790	CDS	80233..82329	rnr; ribonuclease R
+sdi:SDIMI_v3c00800	CDS	82344..82784	smpB; SsrA-binding protein
+sdi:SDIMI_v3c00810	CDS	82898..83911	hypothetical protein
+sdi:SDIMI_v3c00820	CDS	complement(83953..84393)	hypothetical protein
+sdi:SDIMI_v3c00830	CDS	84939..86894	hypothetical protein
+sdi:SDIMI_v3c00840	CDS	86915..88348	mgtE; Mg2+ transport protein
+sdi:SDIMI_v3c00850	CDS	88359..89009	trmB; tRNA (guanine-N(7)-)-methyltransferase
+sdi:SDIMI_v3c00860	CDS	complement(89006..89557)	hypothetical protein
+sdi:SDIMI_v3c00870	CDS	89925..91304	ribose/galactose ABC transporter substrate-binding protein
+sdi:SDIMI_v3c00880	CDS	91371..92900	ribose/galactose ABC transporter ATP-binding protein
+sdi:SDIMI_v3c00890	CDS	92902..94953	ribose/galactose ABC transporter permease
+sdi:SDIMI_v3c00900	CDS	94943..95848	ribose/galactose ABC transporter permease
+sdi:SDIMI_v3c00910	CDS	95916..96635	deoD; purine nucleoside phosphorylase
+sdi:SDIMI_v3c00920	CDS	96743..97708	gcp; DNA-binding/iron metalloprotein/AP endonuclease
+sdi:SDIMI_v3c00930	CDS	97711..98490	transcriptional regulator
+sdi:SDIMI_v3c00940	CDS	98507..99616	hypothetical protein
+sdi:SDIMI_v3c00950	CDS	99682..101043	asnC; asparaginyl-tRNA synthetase
+sdi:SDIMI_v3c00960	CDS	101142..102110	cps; glycosyltransferase
+sdi:SDIMI_v3c00970	CDS	102123..102803	hypothetical protein
+sdi:SDIMI_v3c00980	CDS	102796..103977	transmembrane protein
+sdi:SDIMI_v3c00990	CDS	104040..106211	pcrA; ATP-dependent DNA helicase
+sdi:SDIMI_v3c01000	CDS	106300..106563	ptsH; phosphocarrier protein Hpr
+sdi:SDIMI_v3c01010	CDS	107091..108113	nrdF; ribonucleoside diphosphate reductase 2 betachain
+sdi:SDIMI_v3c01020	CDS	108120..108578	nrdI; ribonucleotide reductase
+sdi:SDIMI_v3c01030	CDS	108582..110747	nrdE; ribonucleotide-diphosphate reductase subunit alpha
+sdi:SDIMI_v3c01040	CDS	111075..111821	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c01050	CDS	111821..113860	hypothetical protein
+sdi:SDIMI_v3c01060	CDS	113877..114629	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c01070	CDS	114631..116550	hypothetical protein
+sdi:SDIMI_v3c01080	CDS	116642..118702	ABC transporter ATP-binding protein/permease
+sdi:SDIMI_v3c01090	CDS	118704..119351	hypothetical protein
+sdi:SDIMI_v3c01100	CDS	119439..121157	ptsI; phosphoenolpyruvate-protein phosphotransferase
+sdi:SDIMI_v3c01110	CDS	121281..121757	crr; PTS system glucose-specific IIA component
+sdi:SDIMI_v3c01120	CDS	121841..122821	CAAX amino terminal membrane bound protease
+sdi:SDIMI_v3c01130	CDS	122840..123733	rluC; ribosomal large subunit pseudouridine synthase C
+sdi:SDIMI_v3c01140	CDS	123770..125665	hypothetical protein
+sdi:SDIMI_v3c01150	CDS	125749..127362	hypothetical protein
+sdi:SDIMI_v3c01160	CDS	127374..129368	ligA; NAD-dependent DNA ligase
+sdi:SDIMI_v3c01170	CDS	129370..129660	gatC; glutamyl-tRNA(Gln) amidotransferase subunit C
+sdi:SDIMI_v3c01180	CDS	129662..131131	gatA; aspartyl/glutamyl-tRNA amidotransferase subunit A
+sdi:SDIMI_v3c01190	CDS	131124..132563	gatB; aspartyl/glutamyl-tRNA amidotransferase subunit B
+sdi:SDIMI_v3c01200	CDS	complement(132592..133287)	ktrA; potassium uptake protein KtrA
+sdi:SDIMI_v3c01210	CDS	133378..135036	ktrB; potassium uptake protein KtrB
+sdi:SDIMI_v3c01220	CDS	135196..137931	ctp; cation-transporting ATPase
+sdi:SDIMI_v3c01230	CDS	138018..139838	ABC transporter ATP-binding protein/permease
+sdi:SDIMI_v3t010	tRNA	139953..140028	tRNA-Asn
+sdi:SDIMI_v3t020	tRNA	140036..140111	tRNA-Glu
+sdi:SDIMI_v3t030	tRNA	140131..140206	tRNA-Val
+sdi:SDIMI_v3t040	tRNA	140215..140290	tRNA-Thr
+sdi:SDIMI_v3c01240	CDS	140367..140741	hypothetical protein
+sdi:SDIMI_v3t050	tRNA	140812..140887	tRNA-Lys
+sdi:SDIMI_v3t060	tRNA	140893..140977	tRNA-Leu
+sdi:SDIMI_v3c01250	CDS	141087..141188	hypothetical protein
+sdi:SDIMI_v3c01260	CDS	141247..142638	pyrP; uracil permease
+sdi:SDIMI_v3c01270	CDS	142852..143685	HAD superfamily hydrolase
+sdi:SDIMI_v3c01280	CDS	143699..144004	trxA; thioredoxin
+sdi:SDIMI_v3c01290	CDS	144018..144833	had; HAD superfamily hydrolase
+sdi:SDIMI_v3c01300	CDS	144963..147380	hypothetical protein
+sdi:SDIMI_v3c01310	CDS	147477..147602	hypothetical protein
+sdi:SDIMI_v3c01320	CDS	147660..148718	potA; spermidine/putrescine ABC transporter ATP-binding protein
+sdi:SDIMI_v3c01330	CDS	148711..149718	potB; spermidine/putrescine ABC transporter permease
+sdi:SDIMI_v3c01340	CDS	149685..152795	potC; spermidine/putrescine ABC transporter permease
+sdi:SDIMI_v3t070	tRNA	152892..152966	tRNA-Cys
+sdi:SDIMI_v3t080	tRNA	153130..153206	tRNA-Arg
+sdi:SDIMI_v3t090	tRNA	153248..153324	tRNA-Pro
+sdi:SDIMI_v3t100	tRNA	153352..153427	tRNA-Ala
+sdi:SDIMI_v3t110	tRNA	153433..153509	tRNA-Met
+sdi:SDIMI_v3t120	tRNA	153536..153612	tRNA-Met
+sdi:SDIMI_v3t130	tRNA	153654..153746	tRNA-Ser
+sdi:SDIMI_v3t140	tRNA	153754..153829	tRNA-Met
+sdi:SDIMI_v3t150	tRNA	153833..153909	tRNA-Asp
+sdi:SDIMI_v3t160	tRNA	153915..153990	tRNA-Phe
+sdi:SDIMI_v3t170	tRNA	154102..154178	tRNA-Ile
+sdi:SDIMI_v3c01350	CDS	154260..154358	hypothetical protein
+sdi:SDIMI_v3c01360	CDS	154398..157085	mgtA; Mg(2+) transport ATPase, P-type
+sdi:SDIMI_v3c01370	CDS	complement(157121..157837)	hypothetical protein
+sdi:SDIMI_v3c01380	CDS	157937..158923	hypothetical protein
+sdi:SDIMI_v3c01390	CDS	159053..161470	leuS; leucyl-tRNA synthetase
+sdi:SDIMI_v3c01400	CDS	161559..162083	hypothetical protein
+sdi:SDIMI_v3c01410	CDS	162165..166025	superfamily I DNA/RNA helicase
+sdi:SDIMI_v3c01420	CDS	166029..168296	hypothetical protein
+sdi:SDIMI_v3c01430	CDS	168299..169396	hypothetical protein
+sdi:SDIMI_v3c01440	CDS	169406..171214	ATPase AAA-2 domain-containing protein
+sdi:SDIMI_v3c01450	CDS	171237..171803	tpx; thiol peroxidase
+sdi:SDIMI_v3c01460	CDS	171894..173729	hypothetical protein
+sdi:SDIMI_v3c01470	CDS	complement(173726..174571)	folD; methylenetetrahydrofolate dehydrogenase/methylenetetrahydrofolate cyclohydrolase
+sdi:SDIMI_v3c01480	CDS	174615..176177	fhs; formate--tetrahydrofolate ligase
+sdi:SDIMI_v3c01490	CDS	176336..177889	treB; PTS system trehalose-specific IIBC component
+sdi:SDIMI_v3c01500	CDS	177876..179324	scrB; sucrose-6-phosphate hydrolase
+sdi:SDIMI_v3c01510	CDS	complement(179365..180723)	nox; NADH oxidase
+sdi:SDIMI_v3c01520	CDS	180849..181574	hypothetical protein
+sdi:SDIMI_v3c01530	CDS	181603..182328	nagB; glucosamine-6-phosphate deaminase
+sdi:SDIMI_v3c01540	CDS	182426..183175	tpiA; triosephosphate isomerase
+sdi:SDIMI_v3c01550	CDS	183186..184007	HAD family hydrolase
+sdi:SDIMI_v3c01560	CDS	184010..185596	pgm; phosphoglyceromutase
+sdi:SDIMI_v3c01570	CDS	complement(185608..186816)	hypothetical protein
+sdi:SDIMI_v3c01580	CDS	complement(186889..187869)	ycgT; thioredoxin reductase
+sdi:SDIMI_v3c01590	CDS	187938..188354	hypothetical protein
+sdi:SDIMI_v3c01600	CDS	188356..188922	glycoprotease
+sdi:SDIMI_v3c01610	CDS	188933..189415	hypothetical protein
+sdi:SDIMI_v3c01620	CDS	189524..189751	hypothetical protein
+sdi:SDIMI_v3c01630	CDS	189790..191880	ptsG; PTS system glucose-specific IIBC component
+sdi:SDIMI_v3t180	tRNA	191980..192070	tRNA-Ser
+sdi:SDIMI_v3c01640	CDS	192179..192763	hypothetical protein
+sdi:SDIMI_v3c01650	CDS	192766..194190	proS; prolyl-tRNA synthetase
+sdi:SDIMI_v3c01660	CDS	complement(194225..195316)	Fic family protein
+sdi:SDIMI_v3c01670	CDS	195542..196075	uncharacterized protein associated with RNAses G and E
+sdi:SDIMI_v3c01680	CDS	196162..197964	lepA; GTP-binding protein LepA
+sdi:SDIMI_v3c01690	CDS	197966..198394	acetyltransferase, GNAT family protein
+sdi:SDIMI_v3c01700	CDS	198633..199583	hypothetical protein
+sdi:SDIMI_v3c01710	CDS	199649..200506	hypothetical protein
+sdi:SDIMI_v3c01720	CDS	200481..201170	zinc metalloprotease
+sdi:SDIMI_v3c01730	CDS	201200..202171	hypothetical protein
+sdi:SDIMI_v3c01740	CDS	202187..202882	hypothetical protein
+sdi:SDIMI_v3c01750	CDS	202882..203694	hypothetical protein
+sdi:SDIMI_v3c01760	CDS	203710..204159	hypothetical protein
+sdi:SDIMI_v3c01770	CDS	204274..206097	typA; GTP-binding protein
+sdi:SDIMI_v3c01780	CDS	206211..207563	eno; enolase
+sdi:SDIMI_v3c01790	CDS	207679..208563	hypothetical protein
+sdi:SDIMI_v3c01800	CDS	208556..208978	yrrK; Holliday junction resolvase-like protein
+sdi:SDIMI_v3c01810	CDS	209009..209578	hprT; hypoxanthine-guanine phosphoribosyltransferase
+sdi:SDIMI_v3c01820	CDS	209650..210618	pfkA; 6-phosphofructokinase
+sdi:SDIMI_v3c01830	CDS	210648..212102	pyk; pyruvate kinase
+sdi:SDIMI_v3c01840	CDS	212286..212942	hypothetical protein
+sdi:SDIMI_v3c01850	CDS	213092..213289	hypothetical protein
+sdi:SDIMI_v3c01860	CDS	213415..214071	hypothetical protein
+sdi:SDIMI_v3c01870	CDS	214210..215646	pyk; pyruvate kinase
+sdi:SDIMI_v3c01880	CDS	215753..217687	thrS; threonyl-tRNA synthetase
+sdi:SDIMI_v3c01890	CDS	217716..218804	focA; formate/nitrite transporter
+sdi:SDIMI_v3c01900	CDS	219044..220561	arcD; arginine/ornithine antiporter
+sdi:SDIMI_v3c01910	CDS	220610..222418	ABC transporter ATP-binding protein/permease
+sdi:SDIMI_v3c01920	CDS	222428..222745	celC; PTS system cellobiose-specific IIA component
+sdi:SDIMI_v3c01930	CDS	222765..223724	glk; glucokinase
+sdi:SDIMI_v3c01940	CDS	223794..224969	hypothetical protein
+sdi:SDIMI_v3c01950	CDS	224971..227163	celB; PTS system cellobiose-specific component IIC
+sdi:SDIMI_v3c01960	CDS	227185..227484	celA; PTS system cellobiose-specific component IIB
+sdi:SDIMI_v3c01970	CDS	227542..228645	hypothetical protein
+sdi:SDIMI_v3c01980	CDS	228650..228913	hypothetical protein
+sdi:SDIMI_v3c01990	CDS	229012..230814	nagE; PTS system N-acetylglucosamine-specific IIBC component
+sdi:SDIMI_v3c02000	CDS	230865..231074	hypothetical protein
+sdi:SDIMI_v3c02010	CDS	231083..231760	hypothetical protein
+sdi:SDIMI_v3c02020	CDS	231959..232489	infC; translation initiation factor IF-3
+sdi:SDIMI_v3c02030	CDS	232509..232703	rpmI; 50S ribosomal protein L35
+sdi:SDIMI_v3c02040	CDS	232717..233082	rplT; 50S ribosomal protein L20
+sdi:SDIMI_v3c02050	CDS	233145..233465	hypothetical protein
+sdi:SDIMI_v3c02060	CDS	complement(233495..234508)	trpS; tryptophanyl-tRNA synthetase
+sdi:SDIMI_v3c02070	CDS	234605..235414	ppnK; inorganic polyphosphate/ATP-NAD kinase
+sdi:SDIMI_v3c02080	CDS	235414..235773	hypothetical protein
+sdi:SDIMI_v3c02090	CDS	complement(235785..236090)	hypothetical protein
+sdi:SDIMI_v3c02100	CDS	236270..237985	metallo-beta-lactamase superfamily hydrolase
+sdi:SDIMI_v3c02110	CDS	238077..241025	ftsK; DNA translocase
+sdi:SDIMI_v3c02120	CDS	241092..242858	uvrC; excinuclease ABC subunit C
+sdi:SDIMI_v3c02130	CDS	242924..243397	greA; transcription elongation factor GreA
+sdi:SDIMI_v3c02140	CDS	243447..244325	yabC; methyltransferase
+sdi:SDIMI_v3c02150	CDS	244366..244650	hypothetical protein
+sdi:SDIMI_v3c02160	CDS	244816..245301	rplU; 50S ribosomal protein L21
+sdi:SDIMI_v3c02170	CDS	245305..245616	hypothetical protein
+sdi:SDIMI_v3c02180	CDS	245618..245908	rpmA; 50S ribosomal protein L27
+sdi:SDIMI_v3c02190	CDS	245958..246803	hypothetical protein
+sdi:SDIMI_v3c02200	CDS	246814..248169	ytjP; dipeptidase PepV
+sdi:SDIMI_v3c02210	CDS	248169..248864	hypothetical protein
+sdi:SDIMI_v3c02220	CDS	249060..249902	rpsB; 30S ribosomal protein S2
+sdi:SDIMI_v3c02230	CDS	249914..250789	tsf; elongation factor Ts
+sdi:SDIMI_v3c02240	CDS	250791..251474	hypothetical protein
+sdi:SDIMI_v3c02250	CDS	251648..252577	hypothetical protein
+sdi:SDIMI_v3c02260	CDS	252649..253362	pyrH; uridylate kinase
+sdi:SDIMI_v3c02270	CDS	253379..253927	frr; ribosome recycling factor
+sdi:SDIMI_v3c02280	CDS	254067..254801	hypothetical protein
+sdi:SDIMI_v3c02290	CDS	254871..256367	hypothetical protein
+sdi:SDIMI_v3c02300	CDS	256427..257938	hypothetical protein
+sdi:SDIMI_v3c02310	CDS	257922..258758	aldose 1-epimerase family protein
+sdi:SDIMI_v3c02320	CDS	complement(258767..259840)	ispG; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+sdi:SDIMI_v3c02330	CDS	259971..260816	hypothetical protein
+sdi:SDIMI_v3c02340	CDS	260835..261575	scpA; segregation and condensation protein A
+sdi:SDIMI_v3c02350	CDS	261591..262151	scpB; chromosome condensation and segregation factor B
+sdi:SDIMI_v3c02360	CDS	262151..262897	rluB; ribosomal large subunit pseudouridine synthase B
+sdi:SDIMI_v3c02370	CDS	262903..263520	dck; deoxyadenosine/deoxycytidine kinase
+sdi:SDIMI_v3c02380	CDS	263604..264320	hypothetical protein
+sdi:SDIMI_v3c02390	CDS	264337..266616	hypothetical protein
+sdi:SDIMI_v3c02400	CDS	266618..267049	hypothetical protein
+sdi:SDIMI_v3c02410	CDS	267168..267920	putative chitin deacetylase
+sdi:SDIMI_v3c02420	CDS	267920..268246	hypothetical protein
+sdi:SDIMI_v3c02430	CDS	268402..270090	hypothetical protein
+sdi:SDIMI_v3c02440	CDS	complement(270156..272060)	pepO; endopeptidase O
+sdi:SDIMI_v3c02450	CDS	272178..273197	glpX; fructose 1,6-bisphosphatase II
+sdi:SDIMI_v3c02460	CDS	273243..274031	transmembrane protein
+sdi:SDIMI_v3c02470	CDS	complement(274065..274628)	ppa; inorganic pyrophosphatase
+sdi:SDIMI_v3c02480	CDS	complement(274688..275392)	hypothetical protein
+sdi:SDIMI_v3c02490	CDS	275727..276578	transmembrane protein
+sdi:SDIMI_v3c02500	CDS	276656..277678	mreB1; cell shape determining protein MreB
+sdi:SDIMI_v3c02510	CDS	complement(277956..278138)	hypothetical protein
+sdi:SDIMI_v3c02520	CDS	278230..278907	hypothetical protein
+sdi:SDIMI_v3c02530	CDS	278927..279589	cmk; cytidylate kinase
+sdi:SDIMI_v3c02540	CDS	279612..280925	engA; GTP-binding protein EngA
+sdi:SDIMI_v3c02550	CDS	280930..281934	gpsA; NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+sdi:SDIMI_v3c02560	CDS	281955..282230	hupB; DNA-binding protein HU-beta
+sdi:SDIMI_v3c02570	CDS	282282..282833	putative dnad-like replication protein
+sdi:SDIMI_v3c02580	CDS	complement(282808..283293)	recU; Holliday junction-specific endonuclease
+sdi:SDIMI_v3c02590	CDS	283377..283706	DivIVA domain-containing protein
+sdi:SDIMI_v3c02600	CDS	284119..284571	cinA; competence damage-inducible protein A
+sdi:SDIMI_v3c02610	CDS	284620..285660	recA; recombinase A
+sdi:SDIMI_v3c02620	CDS	complement(285686..287509)	hypothetical protein
+sdi:SDIMI_v3c02630	CDS	287651..289183	hypothetical protein
+sdi:SDIMI_v3c02640	CDS	289240..290583	ffh; signal recognition particle protein
+sdi:SDIMI_v3c02650	CDS	complement(290659..291558)	hypothetical protein
+sdi:SDIMI_v3c02660	CDS	291650..292114	yydA; rRNA large subunit methyltransferase
+sdi:SDIMI_v3c02670	CDS	292322..293281	rbgA; ribosomal biogenesis GTPase
+sdi:SDIMI_v3c02680	CDS	293275..293907	rnhB; ribonuclease HII
+sdi:SDIMI_v3c02690	CDS	293897..295576	manB; phosphoglucomutase/phosphomannomutase
+sdi:SDIMI_v3c02700	CDS	295686..297017	nox; NADH oxidase
+sdi:SDIMI_v3c02710	CDS	297032..298681	proton/glutamate symporter
+sdi:SDIMI_v3c02720	CDS	298861..299166	single-stranded DNA-binding protein
+sdi:SDIMI_v3c02730	CDS	299166..299918	DNA processing/uptake protein
+sdi:SDIMI_v3c02740	CDS	300131..302047	ABC transporter ATP-binding protein/permease
+sdi:SDIMI_v3c02750	CDS	302203..303792	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c02760	CDS	303863..305179	gid; tRNA (uracil-5-)-methyltransferase Gid
+sdi:SDIMI_v3c02770	CDS	305199..306794	hypothetical protein
+sdi:SDIMI_v3t190	tRNA	306848..306924	tRNA-Arg
+sdi:SDIMI_v3c02780	CDS	307010..307780	hypothetical protein
+sdi:SDIMI_v3c02790	CDS	307806..309056	hypothetical protein
+sdi:SDIMI_v3c02800	CDS	309366..309752	rpsP; 30S ribosomal protein S16
+sdi:SDIMI_v3c02810	CDS	309755..310015	hypothetical protein
+sdi:SDIMI_v3c02820	CDS	310008..310502	rimM; 16S rRNA processing protein rimM
+sdi:SDIMI_v3c02830	CDS	310502..311233	trmD; tRNA (guanine-N(1)-)-methyltransferase
+sdi:SDIMI_v3c02840	CDS	311236..311637	rplS; 50S ribosomal protein L19
+sdi:SDIMI_v3c02850	CDS	311746..312489	hypothetical protein
+sdi:SDIMI_v3c02860	CDS	312506..312865	hypothetical protein
+sdi:SDIMI_v3c02870	CDS	312884..314176	obgE; GTPase ObgE
+sdi:SDIMI_v3c02880	CDS	314178..314906	nadE; NH(3)-dependent NAD(+) synthetase
+sdi:SDIMI_v3c02890	CDS	314989..315480	hypothetical protein
+sdi:SDIMI_v3c02900	CDS	315594..315866	hypothetical protein
+sdi:SDIMI_v3c02910	CDS	315903..317402	hypothetical protein
+sdi:SDIMI_v3c02920	CDS	317384..318496	hemN; coproporphyrinogen III oxidase
+sdi:SDIMI_v3c02930	CDS	318498..318989	pncA; pyrazinamidase/nicotinamidase
+sdi:SDIMI_v3c02940	CDS	319052..319804	hypothetical protein
+sdi:SDIMI_v3c02950	CDS	319941..322088	clpB; ATP-dependent Clp protease, ATPase subunit ClpB
+sdi:SDIMI_v3c02960	CDS	322151..323170	hrcA; heat-inducible transcription repressor
+sdi:SDIMI_v3c02970	CDS	323173..323775	grpE; molecular chaperone GrpE (heat shock protein)
+sdi:SDIMI_v3c02980	CDS	323810..325609	dnaK; molecular chaperone DnaK
+sdi:SDIMI_v3c02990	CDS	325666..326793	dnaJ; molecular chaperone DnaJ
+sdi:SDIMI_v3c03000	CDS	326875..328275	hypothetical protein
+sdi:SDIMI_v3c03010	CDS	328287..329414	mnmA; tRNA-specific 2-thiouridylase MnmA
+sdi:SDIMI_v3c03020	CDS	329463..330092	hypothetical protein
+sdi:SDIMI_v3c03030	CDS	330138..332213	hypothetical protein
+sdi:SDIMI_v3c03040	CDS	332219..333184	fmt; methionyl-tRNA formyltransferase
+sdi:SDIMI_v3c03050	CDS	333279..333836	efp; elongation factor P
+sdi:SDIMI_v3c03060	CDS	333865..334155	hypothetical protein
+sdi:SDIMI_v3c03070	CDS	334323..334814	msrAB; peptide methionine sulfoxide reductase MsrA/MsrB
+sdi:SDIMI_v3c03080	CDS	335013..336923	hypothetical protein
+sdi:SDIMI_v3c03090	CDS	336994..338001	hypothetical protein
+sdi:SDIMI_v3c03100	CDS	338018..339274	hypothetical protein
+sdi:SDIMI_v3c03110	CDS	339298..340254	hypothetical protein
+sdi:SDIMI_v3c03120	CDS	340364..341686	hypothetical protein
+sdi:SDIMI_v3c03130	CDS	341725..342357	hypothetical protein
+sdi:SDIMI_v3c03140	CDS	342406..343695	tig; trigger factor
+sdi:SDIMI_v3c03150	CDS	343794..346169	lonA; class III heat-shock ATP-dependent LonA protease
+sdi:SDIMI_v3c03160	CDS	346257..348134	ABC transporter ATP-binding protein/permease
+sdi:SDIMI_v3c03170	CDS	348191..349441	yrvN; recombination factor protein RarA
+sdi:SDIMI_v3c03180	CDS	349471..350250	hypothetical protein
+sdi:SDIMI_v3c03190	CDS	complement(350280..352817)	hypothetical protein
+sdi:SDIMI_v3c03200	CDS	complement(352934..355384)	hypothetical protein
+sdi:SDIMI_v3c03210	CDS	355517..360667	efflux ABC transporter, permease protein
+sdi:SDIMI_v3c03220	CDS	360778..361305	hypothetical protein
+sdi:SDIMI_v3c03230	CDS	361418..366601	transmembrane protein
+sdi:SDIMI_v3c03240	CDS	complement(366624..367046)	hypothetical protein
+sdi:SDIMI_v3c03250	CDS	367114..367689	DJ-1 family protein
+sdi:SDIMI_v3c03260	CDS	367846..369192	nusA; transcription elongation factor NusA
+sdi:SDIMI_v3c03270	CDS	369199..369468	ylxR; putative RNA-binding protein
+sdi:SDIMI_v3c03280	CDS	369459..369767	putative 50S ribosomal protein L7Ae
+sdi:SDIMI_v3c03290	CDS	369784..371646	infB; translation initiation factor IF-2
+sdi:SDIMI_v3c03300	CDS	371649..371993	rbfA; ribosome-binding factor A
+sdi:SDIMI_v3c03310	CDS	complement(372024..372701)	hypothetical protein
+sdi:SDIMI_v3c03320	CDS	372801..373517	rsmE; 16S ribosomal RNA methyltransferase RsmE
+sdi:SDIMI_v3c03330	CDS	373520..374701	hypothetical protein
+sdi:SDIMI_v3c03340	CDS	374703..376037	hypothetical protein
+sdi:SDIMI_v3c03350	CDS	complement(376044..376574)	hypothetical protein
+sdi:SDIMI_v3c03360	CDS	376694..377617	truB; tRNA pseudouridine synthase B
+sdi:SDIMI_v3c03370	CDS	377610..378338	ribC; bifunctional riboflavin kinase/FMN adenylyltransferase
+sdi:SDIMI_v3c03380	CDS	378471..378737	rpsO; 30S ribosomal protein S15
+sdi:SDIMI_v3c03390	CDS	378888..379439	hypothetical protein
+sdi:SDIMI_v3c03400	CDS	379636..380556	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+sdi:SDIMI_v3c03410	CDS	380592..381344	hypothetical protein
+sdi:SDIMI_v3t200	tRNA	381433..381506	tRNA-Gly
+sdi:SDIMI_v3c03420	CDS	381574..382278	hypothetical protein
+sdi:SDIMI_v3c03430	CDS	complement(382275..383066)	putative choline kinase
+sdi:SDIMI_v3c03440	CDS	383129..383734	rdgB; dITP/XTP pyrophosphatase
+sdi:SDIMI_v3c03450	CDS	383747..384265	cspR; RNA methyltransferase
+sdi:SDIMI_v3c03460	CDS	384306..385673	ATP-dependent RNA helicase
+sdi:SDIMI_v3c03470	CDS	385740..387284	two-component regulator system yien regulator component protein
+sdi:SDIMI_v3c03480	CDS	387304..388971	two-component regulator system yiem receptor component protein
+sdi:SDIMI_v3c03490	CDS	388987..389349	hypothetical protein
+sdi:SDIMI_v3c03500	CDS	389562..390458	hypothetical protein
+sdi:SDIMI_v3c03510	CDS	390477..391790	hypothetical protein
+sdi:SDIMI_v3c03520	CDS	391793..393802	hypothetical protein
+sdi:SDIMI_v3c03530	CDS	393983..395518	fib; fibril protein
+sdi:SDIMI_v3c03540	CDS	395598..396038	hypothetical protein
+sdi:SDIMI_v3c03550	CDS	396112..397830	hypothetical protein
+sdi:SDIMI_v3c03560	CDS	397915..398190	hypothetical protein
+sdi:SDIMI_v3c03570	CDS	398190..401954	secDF; bifunctional preprotein translocase subunit SecD/SecF
+sdi:SDIMI_v3c03580	CDS	401968..402480	apt; adenine phosphoribosyltransferase
+sdi:SDIMI_v3c03590	CDS	402613..404931	relA; GTP pyrophosphokinase
+sdi:SDIMI_v3c03600	CDS	405040..405135	hypothetical protein
+sdi:SDIMI_v3c03610	CDS	405681..407435	hypothetical protein
+sdi:SDIMI_v3c03620	CDS	407435..408166	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c03630	CDS	408329..409147	hypothetical protein
+sdi:SDIMI_v3c03640	CDS	409246..409950	fruR; DeoR family transcriptional regulator
+sdi:SDIMI_v3c03650	CDS	409955..410893	fruK; 1-phosphofructokinase
+sdi:SDIMI_v3c03660	CDS	410906..413179	fruA; PTS system fructose-specific IIABC component
+sdi:SDIMI_v3c03670	CDS	413254..413961	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c03680	CDS	413963..414751	hypothetical protein
+sdi:SDIMI_v3c03690	CDS	414820..416055	hisS; histidyl-tRNA synthetase
+sdi:SDIMI_v3c03700	CDS	416059..417777	aspS; aspartyl-tRNA synthetase
+sdi:SDIMI_v3c03710	CDS	417871..418659	hypothetical protein
+sdi:SDIMI_v3c03720	CDS	418799..419077	hypothetical protein
+sdi:SDIMI_v3c03730	CDS	419245..419772	hypothetical protein
+sdi:SDIMI_v3c03740	CDS	419774..421579	pepF; oligoendopeptidase F
+sdi:SDIMI_v3c03750	CDS	complement(421604..422299)	hypothetical protein
+sdi:SDIMI_v3c03760	CDS	422368..423066	hypothetical protein
+sdi:SDIMI_v3c03770	CDS	423312..426041	DEAD/DEAH family helicase
+sdi:SDIMI_v3c03780	CDS	complement(426067..426618)	DNA-3-methyladenine glycosidase I
+sdi:SDIMI_v3c03790	CDS	426883..428238	hypothetical protein
+sdi:SDIMI_v3c03800	CDS	428271..429584	hypothetical protein
+sdi:SDIMI_v3c03810	CDS	429608..430987	hypothetical protein
+sdi:SDIMI_v3c03820	CDS	complement(431013..431189)	hypothetical protein
+sdi:SDIMI_v3c03830	CDS	complement(431320..432282)	guaC; guanosine 5'-monophosphate oxidoreductase
+sdi:SDIMI_v3c03840	CDS	complement(432372..432974)	acpD; azoreductase
+sdi:SDIMI_v3c03850	CDS	433089..433712	udk; uridine kinase
+sdi:SDIMI_v3c03860	CDS	433906..435840	parE; DNA topoisomerase IV subunit B
+sdi:SDIMI_v3c03870	CDS	435874..436854	hypothetical protein
+sdi:SDIMI_v3c03880	CDS	436866..439439	parC; DNA topoisomerase IV subunit A
+sdi:SDIMI_v3c03890	CDS	439557..439805	hypothetical protein
+sdi:SDIMI_v3c03900	CDS	439842..440264	hypothetical protein
+sdi:SDIMI_v3c03910	CDS	440245..442452	recD; exodeoxyribonuclease V subunit alpha
+sdi:SDIMI_v3c03920	CDS	442671..443813	nagA; N-acetylglucosamine-6-phosphate deacetylase
+sdi:SDIMI_v3c03930	CDS	443803..444378	hypothetical protein
+sdi:SDIMI_v3c03940	CDS	444371..445351	oxioreductase
+sdi:SDIMI_v3c03950	CDS	445353..446015	deoC; deoxyribose-phosphate aldolase
+sdi:SDIMI_v3c03960	CDS	446094..447941	hypothetical protein
+sdi:SDIMI_v3c03970	CDS	447989..449758	ptsG; PTS system glucose-specific IIBC component
+sdi:SDIMI_v3c03980	CDS	complement(449771..450949)	dfp; pantothenate metabolism flavoprotein
+sdi:SDIMI_v3c03990	CDS	451072..451236	rpsU; 30S ribosomal protein S21
+sdi:SDIMI_v3c04000	CDS	451320..451889	hypothetical protein
+sdi:SDIMI_v3c04010	CDS	451956..452507	ruvA; Holliday junction DNA helicase RuvA
+sdi:SDIMI_v3c04020	CDS	452497..453441	ruvB; Holliday junction DNA helicase RuvB
+sdi:SDIMI_v3c04030	CDS	453514..454029	hypothetical protein
+sdi:SDIMI_v3c04040	CDS	454621..455136	hypothetical protein
+sdi:SDIMI_v3c04050	CDS	455197..456198	hypothetical protein
+sdi:SDIMI_v3c04060	CDS	456170..456982	hypothetical protein
+sdi:SDIMI_v3c04070	CDS	complement(456995..457828)	hypothetical protein
+sdi:SDIMI_v3c04080	CDS	457919..458854	hypothetical protein
+sdi:SDIMI_v3c04090	CDS	458899..459483	yqeG; putative phosphatase HAD-superfamily/subfamily IIIa protein
+sdi:SDIMI_v3c04100	CDS	459470..460768	yqeH; GTP-binding protein YqeH
+sdi:SDIMI_v3c04110	CDS	460858..463407	endo-beta-N-acetylglucosaminidase
+sdi:SDIMI_v3c04120	CDS	463412..464104	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c04130	CDS	464094..464945	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c04140	CDS	465026..465988	glk; glucokinase
+sdi:SDIMI_v3c04150	CDS	466020..466214	hypothetical protein
+sdi:SDIMI_v3c04160	CDS	466329..467438	hypothetical protein
+sdi:SDIMI_v3c04170	CDS	467542..469509	tkt; transketolase
+sdi:SDIMI_v3c04180	CDS	469563..469781	hypothetical protein
+sdi:SDIMI_v3c04190	CDS	469905..470582	hypothetical protein
+sdi:SDIMI_v3c04200	CDS	complement(470617..471429)	plsY; glycerol-3-phosphate acyltransferase PlsY
+sdi:SDIMI_v3c04210	CDS	471564..472247	hypothetical protein
+sdi:SDIMI_v3c04220	CDS	472260..472559	hypothetical protein
+sdi:SDIMI_v3c04230	CDS	472711..473361	hypothetical protein
+sdi:SDIMI_v3c04240	CDS	473374..474087	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c04250	CDS	474087..475019	hypothetical protein
+sdi:SDIMI_v3c04260	CDS	475235..475522	hypothetical protein
+sdi:SDIMI_v3c04270	CDS	475509..476399	ribC_ribF; riboflavin kinase/FAD synthetase
+sdi:SDIMI_v3c04280	CDS	476630..478144	hypothetical protein
+sdi:SDIMI_v3c04290	CDS	478222..479127	nfo; endonuclease IV
+sdi:SDIMI_v3c04300	CDS	complement(479152..479580)	hypothetical protein
+sdi:SDIMI_v3c04310	CDS	479646..480611	hypothetical protein
+sdi:SDIMI_v3c04320	CDS	480651..481052	nusB; transcription antitermination protein NusB
+sdi:SDIMI_v3c04330	CDS	481067..482551	hypothetical protein
+sdi:SDIMI_v3c04340	CDS	482570..483835	xseA; exodeoxyribonuclease VII large subunit
+sdi:SDIMI_v3c04350	CDS	483840..484043	hypothetical protein
+sdi:SDIMI_v3c04360	CDS	complement(484069..484788)	nagB; glucosamine-6-phosphate deaminase
+sdi:SDIMI_v3c04370	CDS	485049..486701	dxs; 1-deoxy-D-xylulose-5-phosphate synthase
+sdi:SDIMI_v3c04380	CDS	486689..487591	hypothetical protein
+sdi:SDIMI_v3c04390	CDS	487606..488427	yqxC; rRNA methyltransferase
+sdi:SDIMI_v3c04400	CDS	488387..489721	dinB; DNA polymerase IV
+sdi:SDIMI_v3c04410	CDS	489737..490351	hypothetical protein
+sdi:SDIMI_v3c04420	CDS	490474..491214	hypothetical protein
+sdi:SDIMI_v3c04430	CDS	complement(491251..492087)	dehydrogenase
+sdi:SDIMI_v3c04440	CDS	complement(492164..492595)	MerR family transcriptional regulator
+sdi:SDIMI_v3c04450	CDS	complement(492600..493178)	coaE; dephospho-CoA kinase
+sdi:SDIMI_v3c04460	CDS	complement(493243..494739)	hypothetical protein
+sdi:SDIMI_v3c04470	CDS	complement(495086..495517)	hypothetical protein
+sdi:SDIMI_v3c04480	CDS	complement(495795..496073)	hypothetical protein
+sdi:SDIMI_v3c04490	CDS	complement(496095..496547)	hypothetical protein
+sdi:SDIMI_v3c04500	CDS	complement(496638..497477)	hypothetical protein
+sdi:SDIMI_v3c04510	CDS	complement(498227..498412)	hypothetical protein
+sdi:SDIMI_v3c04520	CDS	complement(498798..498902)	hypothetical protein
+sdi:SDIMI_v3c04530	CDS	complement(498930..499160)	hypothetical protein
+sdi:SDIMI_v3c04540	CDS	complement(499160..499552)	hypothetical protein
+sdi:SDIMI_v3c04550	CDS	complement(499949..500413)	hypothetical protein
+sdi:SDIMI_v3c04560	CDS	complement(500562..500687)	hypothetical protein
+sdi:SDIMI_v3c04570	CDS	complement(500829..501869)	hypothetical protein
+sdi:SDIMI_v3c04580	CDS	complement(501882..502160)	hypothetical protein
+sdi:SDIMI_v3c04590	CDS	complement(502281..502586)	hypothetical protein
+sdi:SDIMI_v3c04600	CDS	complement(502679..503173)	hypothetical protein
+sdi:SDIMI_v3c04610	CDS	complement(503260..504714)	hypothetical protein
+sdi:SDIMI_v3c04620	CDS	complement(504735..505688)	holA; DNA polymerase III subunit delta
+sdi:SDIMI_v3c04630	CDS	505818..506060	rpsT; 30S ribosomal protein S20
+sdi:SDIMI_v3c04640	CDS	complement(506089..508164)	DNA uptake protein
+sdi:SDIMI_v3c04650	CDS	complement(508121..508657)	hypothetical protein
+sdi:SDIMI_v3c04660	CDS	complement(508722..511373)	valS; valyl-tRNA synthetase
+sdi:SDIMI_v3c04670	CDS	complement(511769..512617)	hypothetical protein
+sdi:SDIMI_v3c04680	CDS	complement(512721..513602)	hypothetical protein
+sdi:SDIMI_v3c04690	CDS	complement(513586..514482)	hypothetical protein
+sdi:SDIMI_v3c04700	CDS	complement(514575..514934)	hypothetical protein
+sdi:SDIMI_v3c04710	CDS	complement(515098..515664)	hypothetical protein
+sdi:SDIMI_v3c04720	CDS	complement(515693..516634)	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c04730	CDS	complement(516639..518396)	transmembrane protein
+sdi:SDIMI_v3c04740	CDS	complement(518401..520299)	hypothetical protein
+sdi:SDIMI_v3c04750	CDS	520728..521171	hypothetical protein
+sdi:SDIMI_v3c04760	CDS	complement(521209..523302)	hypothetical protein
+sdi:SDIMI_v3c04770	CDS	complement(523318..524445)	lipolytic enzyme, GDSL family
+sdi:SDIMI_v3c04780	CDS	complement(524445..525377)	hypothetical protein
+sdi:SDIMI_v3c04790	CDS	complement(525810..528701)	ctp; cation-transporting ATPase
+sdi:SDIMI_v3c04800	CDS	complement(528803..530032)	glyA; serine hydroxymethyltransferase
+sdi:SDIMI_v3c04810	CDS	complement(530186..530290)	hypothetical protein
+sdi:SDIMI_v3c04820	CDS	complement(530356..530706)	hypothetical protein
+sdi:SDIMI_v3c04830	CDS	complement(530863..531066)	hypothetical protein
+sdi:SDIMI_v3c04840	CDS	complement(531030..531611)	hypothetical protein
+sdi:SDIMI_v3c04850	CDS	complement(531589..531714)	hypothetical protein
+sdi:SDIMI_v3c04860	CDS	complement(531865..532365)	anaerobic ribonucleoside-triphosphate reductase activating protein
+sdi:SDIMI_v3c04870	CDS	complement(532365..534488)	nrdD; anaerobic ribonucleoside-triphosphate reductase
+sdi:SDIMI_v3c04880	CDS	complement(534658..536097)	6-phospho-beta-glucosidase
+sdi:SDIMI_v3c04890	CDS	complement(536099..537748)	treB; PTS system trehalose-specific IIBC component
+sdi:SDIMI_v3c04900	CDS	complement(537823..538575)	hypothetical protein
+sdi:SDIMI_v3c04910	CDS	complement(538620..539099)	acetyltransferase, GNAT family
+sdi:SDIMI_v3c04920	CDS	complement(539156..540070)	scrK; fructokinase
+sdi:SDIMI_v3c04930	CDS	complement(540075..541526)	scrB; sucrose-6-phosphate hydrolase
+sdi:SDIMI_v3c04940	CDS	complement(541553..543388)	scrA; PTS system sucrose-specific IIABC component
+sdi:SDIMI_v3c04950	CDS	complement(543416..544114)	shypothetical protein
+sdi:SDIMI_v3c04960	CDS	complement(544155..545828)	scrA; PTS system sucrose-specific IIABC component
+sdi:SDIMI_v3c04970	CDS	546466..547302	dehydrogenase
+sdi:SDIMI_v3c04980	CDS	complement(547412..547723)	celC; PTS system cellobiose-specific IIA component
+sdi:SDIMI_v3c04990	CDS	complement(547725..548279)	hypothetical protein
+sdi:SDIMI_v3c05000	CDS	complement(548290..549120)	GntR family transcriptional regulator
+sdi:SDIMI_v3c05010	CDS	complement(549131..550339)	gluconate kinase
+sdi:SDIMI_v3c05020	CDS	complement(550332..551450)	outer surface protein
+sdi:SDIMI_v3c05030	CDS	complement(551443..552195)	2-keto-3-deoxy-6-phosphogluconate aldolase
+sdi:SDIMI_v3c05040	CDS	complement(552200..553252)	L-seryl-tRNA selenocysteine synthase
+sdi:SDIMI_v3c05050	CDS	complement(553242..554348)	dihydroorotase
+sdi:SDIMI_v3c05060	CDS	complement(554351..554851)	hypothetical protein
+sdi:SDIMI_v3c05070	CDS	complement(554829..555260)	hypothetical protein
+sdi:SDIMI_v3c05080	CDS	complement(555264..555542)	hypothetical protein
+sdi:SDIMI_v3c05090	CDS	complement(555544..556947)	celB; PTS system cellobiose-specific component IIC
+sdi:SDIMI_v3c05100	CDS	complement(556947..557246)	hypothetical protein
+sdi:SDIMI_v3c05110	CDS	557378..558208	dehydrogenase
+sdi:SDIMI_v3c05120	CDS	complement(558245..558598)	hypothetical protein
+sdi:SDIMI_v3c05130	CDS	complement(558598..560223)	treA; trehalose-6-phosphate hydrolase
+sdi:SDIMI_v3c05140	CDS	complement(560237..561796)	treB; PTS system trehalose-specific IIBC component
+sdi:SDIMI_v3c05150	CDS	complement(561852..562799)	lacI; LacI family transcriptional regulator
+sdi:SDIMI_v3c05160	CDS	complement(562921..563958)	NADH:flavin oxidoreductase/NADH oxidase
+sdi:SDIMI_v3c05170	CDS	complement(563980..564843)	HAD family hydrolase
+sdi:SDIMI_v3c05180	CDS	565095..565742	Nitroreductase
+sdi:SDIMI_v3c05190	CDS	complement(565810..566400)	engB; GTP-binding protein YsxC
+sdi:SDIMI_v3c05200	CDS	complement(566422..566745)	hypothetical protein
+sdi:SDIMI_v3c05210	CDS	complement(566795..567352)	hypothetical protein
+sdi:SDIMI_v3c05220	CDS	complement(567355..567888)	hypothetical protein
+sdi:SDIMI_v3c05230	CDS	complement(568056..568643)	NADPH dehydrogenase
+sdi:SDIMI_v3c05240	CDS	complement(568705..571395)	hypothetical protein
+sdi:SDIMI_v3c05250	CDS	complement(571417..574194)	hypothetical protein
+sdi:SDIMI_v3c05260	CDS	complement(575374..575820)	hypothetical protein
+sdi:SDIMI_v3c05270	CDS	complement(575835..576350)	hypothetical protein
+sdi:SDIMI_v3c05280	CDS	576750..577745	yqkD; hydrolase
+sdi:SDIMI_v3c05290	CDS	complement(577943..578179)	hypothetical protein
+sdi:SDIMI_v3c05300	CDS	complement(578289..578816)	hypothetical protein
+sdi:SDIMI_v3c05310	CDS	complement(578901..580592)	treB; PTS system trehalose-specific IIBC component
+sdi:SDIMI_v3c05320	CDS	complement(580597..581958)	bgl; 6-phospho-beta-glucosidase
+sdi:SDIMI_v3c05330	CDS	582077..582829	hypothetical protein
+sdi:SDIMI_v3c05340	CDS	complement(582859..583683)	aldo/keto reductase
+sdi:SDIMI_v3c05350	CDS	complement(583891..584868)	hypothetical protein
+sdi:SDIMI_v3c05360	CDS	complement(584923..585678)	hypothetical protein
+sdi:SDIMI_v3c05370	CDS	complement(585762..586547)	hypothetical protein
+sdi:SDIMI_v3c05380	CDS	complement(586648..587244)	hypothetical protein
+sdi:SDIMI_v3c05390	CDS	complement(587479..588894)	bgl; 6-phospho-beta-glucosidase
+sdi:SDIMI_v3c05400	CDS	complement(588896..591502)	PTS system beta-glucoside IIABC component
+sdi:SDIMI_v3c05410	CDS	complement(591605..592339)	hypothetical protein
+sdi:SDIMI_v3c05420	CDS	complement(593378..595153)	hypothetical protein
+sdi:SDIMI_v3c05430	CDS	complement(595163..596050)	dam; adenine specific DNA methyltransferase
+sdi:SDIMI_v3c05440	CDS	complement(596040..596735)	DNA methylase
+sdi:SDIMI_v3c05450	CDS	complement(596836..598107)	hypothetical protein
+sdi:SDIMI_v3c05460	CDS	complement(598553..599455)	murQ; N-acetylmuramic acid 6-phosphate etherase
+sdi:SDIMI_v3c05470	CDS	complement(599469..601202)	murP; PTS system N-acetylmuramic acid-specific EIIBC component
+sdi:SDIMI_v3c05480	CDS	complement(601295..602077)	RpiR family transcriptional regulator
+sdi:SDIMI_v3c05490	CDS	complement(602355..603554)	hypothetical protein
+sdi:SDIMI_v3c05500	CDS	complement(603555..604664)	hypothetical protein
+sdi:SDIMI_v3c05510	CDS	complement(604795..606084)	alaS; alanyl-tRNA synthetase
+sdi:SDIMI_v3c05520	CDS	complement(606161..607528)	ykbA; amino acid permease
+sdi:SDIMI_v3c05530	CDS	complement(607518..608546)	putative hydrolase
+sdi:SDIMI_v3c05540	CDS	608751..610088	mutH; DNA mismatch repair protein MutH
+sdi:SDIMI_v3c05550	CDS	complement(610151..611071)	hypothetical protein
+sdi:SDIMI_v3c05560	CDS	complement(611250..611759)	hypothetical protein
+sdi:SDIMI_v3c05570	CDS	complement(612281..614881)	hypothetical protein
+sdi:SDIMI_v3c05580	CDS	complement(614874..616133)	ydiP; DNA-methyltransferase
+sdi:SDIMI_v3c05590	CDS	complement(616193..619228)	type III restriction enzyme, res subunit
+sdi:SDIMI_v3c05600	CDS	complement(619307..619567)	hypothetical protein
+sdi:SDIMI_v3c05610	CDS	complement(619623..620477)	glucokinase
+sdi:SDIMI_v3c05620	CDS	complement(620501..621235)	methyltransferase
+sdi:SDIMI_v3c05630	CDS	complement(621248..621511)	hypothetical protein
+sdi:SDIMI_v3c05640	CDS	complement(621564..622358)	hypothetical protein
+sdi:SDIMI_v3c05650	CDS	complement(622656..623309)	mtn; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+sdi:SDIMI_v3c05660	CDS	complement(623317..624411)	nadD; nicotinic acid mononucleotide adenylyltransferase
+sdi:SDIMI_v3c05670	CDS	complement(624416..625273)	HAD family hydrolase
+sdi:SDIMI_v3c05680	CDS	complement(625343..627076)	hypothetical protein
+sdi:SDIMI_v3c05690	CDS	627274..628719	beta-glucosidase
+sdi:SDIMI_v3c05700	CDS	628745..629497	glpF; glycerol uptake facilitator protein
+sdi:SDIMI_v3c05710	CDS	complement(629540..631366)	PTS system beta-glucoside-specific transporter subunit IIABC
+sdi:SDIMI_v3c05720	CDS	complement(631473..632285)	hypothetical protein
+sdi:SDIMI_v3c05730	CDS	complement(632304..632549)	hypothetical protein
+sdi:SDIMI_v3c05740	CDS	complement(632909..633532)	hypothetical protein
+sdi:SDIMI_v3c05750	CDS	complement(633626..636793)	hypothetical protein
+sdi:SDIMI_v3c05760	CDS	complement(636949..637491)	hypothetical protein
+sdi:SDIMI_v3c05770	CDS	complement(637583..639850)	hypothetical protein
+sdi:SDIMI_v3c05780	CDS	complement(639893..640621)	hypothetical protein
+sdi:SDIMI_v3c05790	CDS	640742..641626	ispH; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+sdi:SDIMI_v3c05800	CDS	complement(641654..642448)	hypothetical protein
+sdi:SDIMI_v3c05810	CDS	complement(642441..643136)	trmK; tRNA: m1A22 methyltransferase
+sdi:SDIMI_v3c05820	CDS	complement(643138..644529)	rpoD; RNA polymerase sigma factor RpoD
+sdi:SDIMI_v3c05830	CDS	complement(644529..646481)	dnaG; DNA primase
+sdi:SDIMI_v3c05840	CDS	complement(646498..647865)	glyS; glycyl-tRNA synthetase
+sdi:SDIMI_v3c05850	CDS	complement(647969..648751)	recO; DNA repair protein recO
+sdi:SDIMI_v3c05860	CDS	complement(648760..649662)	era; GTP-binding protein Era
+sdi:SDIMI_v3c05870	CDS	complement(649675..650817)	hypothetical protein
+sdi:SDIMI_v3c05880	CDS	complement(650851..651534)	hypothetical protein
+sdi:SDIMI_v3c05890	CDS	complement(651587..652324)	hypothetical protein
+sdi:SDIMI_v3c05900	CDS	complement(652344..653063)	hypothetical protein
+sdi:SDIMI_v3c05910	CDS	complement(653075..653485)	cdd; cytidine deaminase
+sdi:SDIMI_v3c05920	CDS	complement(653499..653909)	diacylglycerol kinase
+sdi:SDIMI_v3c05930	CDS	complement(653981..654454)	yqfG; metalloprotease
+sdi:SDIMI_v3c05940	CDS	complement(654470..654847)	hypothetical protein
+sdi:SDIMI_v3c05950	CDS	complement(654847..656886)	bacteriocin ABC transporter
+sdi:SDIMI_v3c05960	CDS	complement(656966..657451)	rimP; ribosome maturation factor RimP
+sdi:SDIMI_v3c05970	CDS	complement(657521..661972)	polC; DNA polymerase III subunit alpha (PolC)
+sdi:SDIMI_v3c05980	CDS	complement(661998..663221)	rseP; inner membrane zinc metalloprotease
+sdi:SDIMI_v3c05990	CDS	complement(663225..664352)	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+sdi:SDIMI_v3c06000	CDS	complement(664354..665460)	cdsA; phosphatidate cytidylyltransferase
+sdi:SDIMI_v3c06010	CDS	complement(665450..666067)	uppS; undecaprenyl pyrophosphate synthase
+sdi:SDIMI_v3c06020	CDS	complement(666179..667243)	pepQ; Xaa-Pro dipeptidase
+sdi:SDIMI_v3c06030	CDS	complement(667816..668139)	ArsR family transcriptional regulator
+sdi:SDIMI_v3c06040	CDS	668256..669062	hypothetical protein
+sdi:SDIMI_v3t210	tRNA	complement(669157..669245)	tRNA-Leu
+sdi:SDIMI_v3t220	tRNA	complement(669264..669339)	tRNA-Lys
+sdi:SDIMI_v3t230	tRNA	complement(669358..669432)	tRNA-Gln
+sdi:SDIMI_v3t240	tRNA	complement(669438..669521)	tRNA-Tyr
+sdi:SDIMI_v3t250	tRNA	complement(669534..669609)	tRNA-Thr
+sdi:SDIMI_v3c06050	CDS	complement(669903..671213)	deoA; thymidine phosphorylase
+sdi:SDIMI_v3c06060	CDS	complement(671238..672104)	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+sdi:SDIMI_v3c06070	CDS	complement(672107..672577)	dfrA; dihydrofolate reductase
+sdi:SDIMI_v3c06080	CDS	complement(672577..673446)	thyA; thymidylate synthase
+sdi:SDIMI_v3c06090	CDS	complement(673517..674092)	hypothetical protein
+sdi:SDIMI_v3c06100	CDS	complement(674940..675260)	acpS; holo-[acyl-carrier-protein] synthase
+sdi:SDIMI_v3c06110	CDS	complement(675263..676756)	hypothetical protein
+sdi:SDIMI_v3c06120	CDS	676859..677737	rnhC; ribonuclease HIII
+sdi:SDIMI_v3c06130	CDS	complement(677884..678354)	comEB; deoxycytidylate deaminase
+sdi:SDIMI_v3c06140	CDS	complement(678370..679674)	putative rhomboid-like transmembrane protein
+sdi:SDIMI_v3c06150	CDS	complement(679687..680601)	rluD; ribosomal large subunit pseudouridylate synthase D
+sdi:SDIMI_v3c06160	CDS	complement(680582..681358)	lsp; lipoprotein signal peptidase
+sdi:SDIMI_v3c06170	CDS	complement(681371..684079)	ileS; isoleucyl-tRNA synthetase
+sdi:SDIMI_v3c06180	CDS	complement(684320..685894)	hypothetical protein
+sdi:SDIMI_v3c06190	CDS	complement(685933..686280)	hypothetical protein
+sdi:SDIMI_v3c06200	CDS	complement(686280..687137)	RpiR family transcriptional regulator
+sdi:SDIMI_v3c06210	CDS	complement(687140..688162)	hypothetical protein
+sdi:SDIMI_v3c06220	CDS	complement(688149..689135)	hypothetical protein
+sdi:SDIMI_v3c06230	CDS	complement(689138..690427)	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c06240	CDS	complement(690440..691375)	hypothetical protein
+sdi:SDIMI_v3c06250	CDS	complement(691442..693754)	oppA; oligopeptide ABC transporter substrate-binding protein
+sdi:SDIMI_v3c06260	CDS	complement(693770..695932)	oppF; oligopeptide ABC transporter ATP-binding protein
+sdi:SDIMI_v3c06270	CDS	complement(695937..697826)	oppD; oligopeptide ABC transporter ATP-binding protein
+sdi:SDIMI_v3c06280	CDS	complement(697837..698799)	oppC; oligopeptide ABC transporter permease
+sdi:SDIMI_v3c06290	CDS	complement(698813..700039)	oppB; oligopeptide ABC transporter permease
+sdi:SDIMI_v3c06300	CDS	700109..700591	hypothetical protein
+sdi:SDIMI_v3c06310	CDS	complement(701012..701329)	hypothetical protein
+sdi:SDIMI_v3c06320	CDS	complement(701333..702598)	ftsZ; cell division protein FtsZ
+sdi:SDIMI_v3c06330	CDS	complement(702618..704027)	ftsA; cell division protein FtsA
+sdi:SDIMI_v3c06340	CDS	complement(704029..704973)	mraW; S-adenosyl-methyltransferase MraW
+sdi:SDIMI_v3c06350	CDS	complement(704973..705404)	mraZ; cell division protein MraZ
+sdi:SDIMI_v3c06360	CDS	complement(705524..705850)	hypothetical protein
+sdi:SDIMI_v3c06370	CDS	complement(705939..706115)	rpmF; 50S ribosomal protein L32
+sdi:SDIMI_v3c06380	CDS	complement(706133..706633)	hypothetical protein
+sdi:SDIMI_v3c06390	CDS	complement(706633..709041)	pheT; phenylalanyl-tRNA synthetase subunit beta
+sdi:SDIMI_v3c06400	CDS	complement(709056..710102)	pheS; phenylalanyl-tRNA synthetase subunit alpha
+sdi:SDIMI_v3c06410	CDS	complement(710226..710735)	hypothetical protein
+sdi:SDIMI_v3r010	rRNA	complement(710797..710901)	5S ribosomal RNA
+sdi:SDIMI_v3r020	rRNA	complement(711018..713925)	23S ribosomal RNA
+sdi:SDIMI_v3r030	rRNA	complement(714226..715734)	16S ribosomal RNA
+sdi:SDIMI_v3c06420	CDS	complement(716105..717361)	hypothetical protein
+sdi:SDIMI_v3c06430	CDS	complement(717484..718899)	gapN; glyceraldehyde-3-phosphate dehydrogenase
+sdi:SDIMI_v3c06440	CDS	complement(718918..719655)	spoU; RNA methyltransferase, TrmH family
+sdi:SDIMI_v3c06450	CDS	complement(719657..720772)	hypothetical protein
+sdi:SDIMI_v3c06460	CDS	complement(720791..721294)	dUTP diphosphatase
+sdi:SDIMI_v3c06470	CDS	complement(721361..722641)	pgi; glucose-6-phosphate isomerase
+sdi:SDIMI_v3c06480	CDS	complement(722658..722984)	hypothetical protein
+sdi:SDIMI_v3c06490	CDS	723073..723312	NifU-like domain-containing protein
+sdi:SDIMI_v3c06500	CDS	723327..723782	hypothetical protein
+sdi:SDIMI_v3c06510	CDS	complement(723779..724537)	hypothetical protein
+sdi:SDIMI_v3c06520	CDS	complement(724555..725967)	sufB; FeS assembly protein SufB
+sdi:SDIMI_v3c06530	CDS	complement(725971..726405)	sufU; FeS assembly protein
+sdi:SDIMI_v3c06540	CDS	complement(726423..727637)	sufS; cysteine desulfurase
+sdi:SDIMI_v3c06550	CDS	complement(727637..728407)	sufD; FeS assembly protein SufD
+sdi:SDIMI_v3c06560	CDS	complement(728407..729150)	sufC; FeS assembly ATPase SufC
+sdi:SDIMI_v3c06570	CDS	729293..731578	hypothetical protein
+sdi:SDIMI_v3c06580	CDS	731578..733287	hypothetical protein
+sdi:SDIMI_v3c06590	CDS	733354..733755	hit; histidine triad protein
+sdi:SDIMI_v3c06600	CDS	complement(733770..734738)	yhaM; 3'-5' exoribonuclease YhaM
+sdi:SDIMI_v3c06610	CDS	complement(734808..736736)	hypothetical protein
+sdi:SDIMI_v3c06620	CDS	complement(736818..737525)	hypothetical protein
+sdi:SDIMI_v3c06630	CDS	complement(737552..738853)	gid; tRNA (uracil-5-)-methyltransferase Gid
+sdi:SDIMI_v3c06640	CDS	complement(738853..739515)	cutC; copper homeostasis protein
+sdi:SDIMI_v3c06650	CDS	complement(739517..740650)	metK; S-adenosylmethionine synthetase
+sdi:SDIMI_v3c06660	CDS	complement(740842..741807)	hypothetical protein
+sdi:SDIMI_v3c06670	CDS	complement(741873..742238)	hypothetical protein
+sdi:SDIMI_v3c06680	CDS	complement(742502..743266)	ymdB; putative metallophosphatase
+sdi:SDIMI_v3c06690	CDS	complement(743266..743589)	hypothetical protein
+sdi:SDIMI_v3c06700	CDS	complement(743582..744568)	ftsY; signal recognition particle-docking protein FtsY
+sdi:SDIMI_v3c06710	CDS	744649..745533	hypothetical protein
+sdi:SDIMI_v3c06720	CDS	complement(745559..746251)	phoU; phosphate transport system regulator PhoU
+sdi:SDIMI_v3c06730	CDS	complement(746263..747132)	pstB; phosphate ABC transporter ATP-binding protein
+sdi:SDIMI_v3c06740	CDS	complement(747135..749264)	pstA; phosphate ABC transporter permease
+sdi:SDIMI_v3c06750	CDS	complement(749258..750442)	pstS; phosphate ABC transporter substrate-binding protein
+sdi:SDIMI_v3c06760	CDS	complement(750464..753415)	smc; chromosome condensation and segregation SMC ATPase
+sdi:SDIMI_v3c06770	CDS	complement(753548..754240)	rnc; ribonuclease III
+sdi:SDIMI_v3c06780	CDS	complement(754240..755244)	plsX; glycerol-3-phosphate acyltransferase PlsX
+sdi:SDIMI_v3c06790	CDS	complement(755318..755536)	hypothetical protein
+sdi:SDIMI_v3c06800	CDS	complement(755577..759326)	ABC transporter permease
+sdi:SDIMI_v3c06810	CDS	complement(759353..760105)	hypothetical protein
+sdi:SDIMI_v3c06820	CDS	complement(760187..761830)	yloV; dihydroxyacetone/glyceraldehyde kinase
+sdi:SDIMI_v3c06830	CDS	complement(761954..762265)	hypothetical protein
+sdi:SDIMI_v3c06840	CDS	762484..762684	rpmB; 50S ribosomal protein L28
+sdi:SDIMI_v3t260	tRNA	762747..762829	tRNA-Leu
+sdi:SDIMI_v3c06850	CDS	complement(762870..763487)	thiN; thiamine pyrophosphokinase
+sdi:SDIMI_v3c06860	CDS	complement(763477..764151)	rpe; ribulose-phosphate 3-epimerase
+sdi:SDIMI_v3c06870	CDS	complement(764151..765041)	engC; ribosome biogenesis GTPase
+sdi:SDIMI_v3c06880	CDS	complement(765043..766053)	serine/threonine protein kinase
+sdi:SDIMI_v3c06890	CDS	complement(766104..766862)	prpC; phosphorylated protein phosphatase
+sdi:SDIMI_v3c06900	CDS	complement(766852..767925)	yloN; ribosomal RNA large subunit methyltransferase N
+sdi:SDIMI_v3c06910	CDS	complement(767985..770417)	hypothetical protein
+sdi:SDIMI_v3c06920	CDS	complement(770470..771723)	sunL; RNA-binding Sun protein
+sdi:SDIMI_v3c06930	CDS	complement(771723..772607)	gmk; guanylate kinase
+sdi:SDIMI_v3c06940	CDS	complement(772600..773175)	N6-adenine-specific methylase
+sdi:SDIMI_v3c06950	CDS	773247..773855	def; peptide deformylase
+sdi:SDIMI_v3c06960	CDS	774052..775851	metallo-beta-lactamase family protein
+sdi:SDIMI_v3c06970	CDS	775855..777525	putative permease
+sdi:SDIMI_v3c06980	CDS	777581..778534	hypothetical protein
+sdi:SDIMI_v3c06990	CDS	778586..779509	hypothetical protein
+sdi:SDIMI_v3c07000	CDS	complement(779595..780365)	hypothetical protein
+sdi:SDIMI_v3c07010	CDS	complement(780407..781183)	hypothetical protein
+sdi:SDIMI_v3c07020	CDS	complement(781264..782460)	pgk; phosphoglycerate kinase
+sdi:SDIMI_v3c07030	CDS	complement(782484..782996)	hypothetical protein
+sdi:SDIMI_v3c07040	CDS	complement(783055..784068)	gap; glyceraldehyde-3-phosphate dehydrogenase
+sdi:SDIMI_v3c07050	CDS	complement(784189..785088)	dnaI; primosomal protein DnaI
+sdi:SDIMI_v3c07060	CDS	complement(785089..786363)	dnaB; chromosome replication initiation and membrane attachment protein
+sdi:SDIMI_v3c07070	CDS	complement(786514..787347)	mutM; formamidopyrimidine-DNA glycosylase
+sdi:SDIMI_v3c07080	CDS	complement(787360..790056)	polA; DNA polymerase I
+sdi:SDIMI_v3c07090	CDS	complement(790108..793104)	dnaE; DNA polymerase III subunit alpha
+sdi:SDIMI_v3c07100	CDS	complement(793166..793570)	hypothetical protein
+sdi:SDIMI_v3c07110	CDS	complement(793585..793878)	hypothetical protein
+sdi:SDIMI_v3c07120	CDS	complement(793859..795052)	thiI; thiamine biosynthesis protein ThiI
+sdi:SDIMI_v3c07130	CDS	complement(795064..796818)	hypothetical protein
+sdi:SDIMI_v3c07140	CDS	797088..797705	rpsD; 30S ribosomal protein S4
+sdi:SDIMI_v3c07150	CDS	complement(797738..798241)	sua5; tRNA threonylcarbamoyladenosine biosynthesis protein
+sdi:SDIMI_v3c07160	CDS	complement(798241..799041)	short-chain dehydrogenase/reductase SDR
+sdi:SDIMI_v3c07170	CDS	complement(799028..799684)	pgsA; CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+sdi:SDIMI_v3c07180	CDS	799790..800518	hypothetical protein
+sdi:SDIMI_v3c07190	CDS	complement(800547..801278)	hypothetical protein
+sdi:SDIMI_v3c07200	CDS	complement(801284..802534)	tyrS; tyrosyl-tRNA synthetase
+sdi:SDIMI_v3c07210	CDS	complement(802537..803037)	hypothetical protein
+sdi:SDIMI_v3c07220	CDS	complement(803053..803403)	hypothetical protein
+sdi:SDIMI_v3c07230	CDS	complement(803487..804179)	hypothetical protein
+sdi:SDIMI_v3c07240	CDS	complement(804192..805118)	hypothetical protein
+sdi:SDIMI_v3c07250	CDS	complement(805150..806193)	pncB; nicotinate phosphoribosyltransferase
+sdi:SDIMI_v3c07260	CDS	complement(806183..806767)	putative tRNA-binding protein
+sdi:SDIMI_v3c07270	CDS	806847..807698	degV; DegV family protein
+sdi:SDIMI_v3c07280	CDS	807689..808516	degV; DegV family protein
+sdi:SDIMI_v3c07290	CDS	808529..809389	degV; DegV family protein
+sdi:SDIMI_v3t270	tRNA	complement(809420..809495)	tRNA-Trp
+sdi:SDIMI_v3t280	tRNA	complement(809540..809615)	tRNA-Trp
+sdi:SDIMI_v3c07300	CDS	complement(809662..810102)	fur; Fur family transcriptional regulator
+sdi:SDIMI_v3c07310	CDS	complement(810106..810330)	putative acyl carrier protein
+sdi:SDIMI_v3c07320	CDS	complement(810356..810781)	hypothetical protein
+sdi:SDIMI_v3c07330	CDS	complement(810759..811718)	hypothetical protein
+sdi:SDIMI_v3t290	tRNA	complement(812090..812165)	tRNA-His
+sdi:SDIMI_v3c07340	CDS	complement(812249..815113)	hypothetical protein
+sdi:SDIMI_v3c07350	CDS	complement(815183..816451)	hypothetical protein
+sdi:SDIMI_v3c07360	CDS	complement(816530..817720)	ackA; acetate kinase
+sdi:SDIMI_v3c07370	CDS	complement(817720..818703)	eutD; phosphotransacetylase
+sdi:SDIMI_v3c07380	CDS	complement(818706..819137)	coaD; phosphopantetheine adenylyltransferase
+sdi:SDIMI_v3c07390	CDS	819240..819977	putative transcriptional regulator
+sdi:SDIMI_v3c07400	CDS	complement(820005..820919)	pldB; lysophospholipase
+sdi:SDIMI_v3c07410	CDS	complement(820995..821948)	ldh; L-lactate dehydrogenase
+sdi:SDIMI_v3c07420	CDS	complement(822104..822508)	rpsI; 30S ribosomal protein S9
+sdi:SDIMI_v3c07430	CDS	complement(822508..822963)	rplM; 50S ribosomal protein L13
+sdi:SDIMI_v3c07440	CDS	complement(823129..824172)	hypothetical protein
+sdi:SDIMI_v3c07450	CDS	complement(824176..828318)	ABC transporter permease
+sdi:SDIMI_v3c07460	CDS	complement(828322..830334)	hypothetical protein
+sdi:SDIMI_v3c07470	CDS	complement(830475..831173)	hypothetical protein
+sdi:SDIMI_v3c07480	CDS	complement(831298..835683)	ABC transporter permease
+sdi:SDIMI_v3c07490	CDS	complement(835984..836721)	truA; tRNA pseudouridine synthase A
+sdi:SDIMI_v3c07500	CDS	complement(836724..837617)	cbiQ; cobalt ABC transporter permease
+sdi:SDIMI_v3c07510	CDS	complement(837636..838853)	cbiO; cobalt ABC transporter ATP-binding subunit
+sdi:SDIMI_v3c07520	CDS	complement(838841..840043)	cbiO; cobalt ABC transporter ATP-binding subunit
+sdi:SDIMI_v3c07530	CDS	complement(840188..840547)	rplQ; 50S ribosomal protein L17
+sdi:SDIMI_v3c07540	CDS	complement(840562..841515)	rpoA; DNA-directed RNA polymerase subunit alpha
+sdi:SDIMI_v3c07550	CDS	complement(841524..841916)	rpsK; 30S ribosomal protein S11
+sdi:SDIMI_v3c07560	CDS	complement(841934..842299)	rpsM; 30S ribosomal protein S13
+sdi:SDIMI_v3c07570	CDS	complement(842357..842470)	rpmJ; 50S ribosomal protein L36
+sdi:SDIMI_v3c07580	CDS	complement(842533..842760)	infA; translation initiation factor IF-1
+sdi:SDIMI_v3c07590	CDS	complement(842760..843533)	map; methionine aminopeptidase
+sdi:SDIMI_v3c07600	CDS	complement(843535..844170)	adk; adenylate kinase
+sdi:SDIMI_v3c07610	CDS	complement(844189..845619)	secY; preprotein translocase subunit SecY
+sdi:SDIMI_v3c07620	CDS	complement(845620..846057)	rplO; 50S ribosomal protein L15
+sdi:SDIMI_v3c07630	CDS	complement(846075..846719)	rpsE; 30S ribosomal protein S5
+sdi:SDIMI_v3c07640	CDS	complement(846737..847087)	rplR; 50S ribosomal protein L18
+sdi:SDIMI_v3c07650	CDS	complement(847111..847653)	rplF; 50S ribosomal protein L6
+sdi:SDIMI_v3c07660	CDS	complement(847670..848059)	rpsH; 30S ribosomal protein S8
+sdi:SDIMI_v3c07670	CDS	complement(848078..848263)	rpsN; 30S ribosomal protein S14
+sdi:SDIMI_v3c07680	CDS	complement(848283..848837)	rplE; 50S ribosomal protein L5
+sdi:SDIMI_v3c07690	CDS	complement(848855..849172)	rplX; 50S ribosomal protein L24
+sdi:SDIMI_v3c07700	CDS	complement(849186..849554)	rplN; 50S ribosomal protein L14
+sdi:SDIMI_v3c07710	CDS	complement(849573..849830)	rpsQ; 30S ribosomal protein S17
+sdi:SDIMI_v3c07720	CDS	complement(849833..850681)	rpmC; 50S ribosomal protein L29
+sdi:SDIMI_v3c07730	CDS	complement(850681..851094)	rplP; 50S ribosomal protein L16
+sdi:SDIMI_v3c07740	CDS	complement(851097..851804)	rpsC; 30S ribosomal protein S3
+sdi:SDIMI_v3c07750	CDS	complement(851821..852156)	rplV; 50S ribosomal protein L22
+sdi:SDIMI_v3c07760	CDS	complement(852181..852450)	rpsS; 30S ribosomal protein S19
+sdi:SDIMI_v3c07770	CDS	complement(852463..853305)	rplB; 50S ribosomal protein L2
+sdi:SDIMI_v3c07780	CDS	complement(853365..853649)	rplW; 50S ribosomal protein L23
+sdi:SDIMI_v3c07790	CDS	complement(853649..854275)	rplD; 50S ribosomal protein L4
+sdi:SDIMI_v3c07800	CDS	complement(854296..855018)	rplC; 50S ribosomal protein L3
+sdi:SDIMI_v3c07810	CDS	complement(855070..855378)	rpsJ; 30S ribosomal protein S10
+sdi:SDIMI_v3c07820	CDS	complement(855539..860500)	efflux ABC transporter, permease protein
+sdi:SDIMI_v3c07830	CDS	complement(860570..861298)	hypothetical protein
+sdi:SDIMI_v3c07840	CDS	complement(861360..862337)	hypothetical protein
+sdi:SDIMI_v3c07850	CDS	complement(862382..865057)	alaS; alanyl-tRNA synthetase
+sdi:SDIMI_v3c07860	CDS	complement(865112..865369)	hypothetical protein
+sdi:SDIMI_v3c07870	CDS	complement(865423..866889)	guaB; inosine 5'-monophosphate dehydrogenase
+sdi:SDIMI_v3c07880	CDS	complement(866902..868443)	guaA; GMP synthase
+sdi:SDIMI_v3c07890	CDS	complement(868606..870498)	pdhD; pyruvate dehydrogenase E3 component
+sdi:SDIMI_v3c07900	CDS	complement(870512..871849)	pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase)
+sdi:SDIMI_v3c07910	CDS	complement(871873..872862)	pdhB; pyruvate dehydrogenase E1 component subunit beta
+sdi:SDIMI_v3c07920	CDS	complement(872862..873974)	pdhA; pyruvate dehydrogenase E1 component subunit alpha
+sdi:SDIMI_v3c07930	CDS	complement(873984..874979)	lplA; lipoate protein ligase A
+sdi:SDIMI_v3c07940	CDS	875159..876031	yitU; phosphatase
+sdi:SDIMI_v3c07950	CDS	complement(876059..877837)	pepF; oligoendopeptidase F
+sdi:SDIMI_v3c07960	CDS	complement(877884..879221)	pepA; leucyl aminopeptidase
+sdi:SDIMI_v3c07970	CDS	complement(879269..879856)	hypothetical protein
+sdi:SDIMI_v3c07980	CDS	complement(879938..881125)	tufA; elongation factor Tu
+sdi:SDIMI_v3c07990	CDS	complement(881240..883309)	fusA; elongation factor G
+sdi:SDIMI_v3c08000	CDS	complement(883333..883800)	rpsG; 30S ribosomal protein S7
+sdi:SDIMI_v3c08010	CDS	complement(883853..884272)	rpsL; 30S ribosomal protein S12
+sdi:SDIMI_v3c08020	CDS	complement(884382..885140)	hypothetical protein
+sdi:SDIMI_v3c08030	CDS	885222..886346	hypothetical protein
+sdi:SDIMI_v3c08040	CDS	complement(886371..886565)	hypothetical protein
+sdi:SDIMI_v3c08050	CDS	complement(886642..887322)	hypothetical protein
+sdi:SDIMI_v3c08060	CDS	complement(887363..889894)	hypothetical protein
+sdi:SDIMI_v3c08070	CDS	complement(889907..892117)	hypothetical protein
+sdi:SDIMI_v3c08080	CDS	complement(892432..893730)	hypothetical protein
+sdi:SDIMI_v3c08090	CDS	complement(893723..894559)	prmC; N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+sdi:SDIMI_v3c08100	CDS	complement(894562..895647)	prfA; peptide chain release factor 1
+sdi:SDIMI_v3c08110	CDS	complement(895657..896259)	tdk; thymidine kinase
+sdi:SDIMI_v3c08120	CDS	complement(896274..897221)	DHH family protein
+sdi:SDIMI_v3c08130	CDS	complement(897231..899081)	hypothetical protein
+sdi:SDIMI_v3c08140	CDS	complement(899170..899460)	rpmE; 50S ribosomal protein L31
+sdi:SDIMI_v3c08150	CDS	complement(899623..900150)	hprT; hypoxanthine-guanine phosphoribosyltransferase
+sdi:SDIMI_v3c08160	CDS	complement(900174..901652)	pbuG; xanthine/uracil permease
+sdi:SDIMI_v3c08170	CDS	complement(901920..902747)	transmembrane protein
+sdi:SDIMI_v3c08180	CDS	complement(902797..902970)	hypothetical protein
+sdi:SDIMI_v3c08190	CDS	complement(903005..903895)	fbaA; fructose-bisphosphate aldolase
+sdi:SDIMI_v3c08200	CDS	complement(904001..904507)	hypothetical protein
+sdi:SDIMI_v3c08210	CDS	complement(904557..906149)	pyrG; CTP synthetase
+sdi:SDIMI_v3c08220	CDS	complement(906214..906681)	rpoE; DNA directed RNA polymerase subunit delta
+sdi:SDIMI_v3c08230	CDS	complement(906702..907892)	HD superfamily phosphohydrolase
+sdi:SDIMI_v3c08240	CDS	complement(907905..909332)	gltX; glutamyl-tRNA synthetase
+sdi:SDIMI_v3c08250	CDS	complement(909334..909807)	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+sdi:SDIMI_v3c08260	CDS	complement(909878..910975)	engD; GTP-dependent nucleic acid-binding protein EngD
+sdi:SDIMI_v3c08270	CDS	complement(910977..911162)	hypothetical protein
+sdi:SDIMI_v3c08280	CDS	complement(911152..912027)	parB; site-specific DNA-binding protein
+sdi:SDIMI_v3c08290	CDS	complement(912014..912787)	parA; chromosome partitioning protein ParA
+sdi:SDIMI_v3c08300	CDS	complement(912828..913523)	gidB; 16S rRNA methyltransferase GidB
+sdi:SDIMI_v3c08310	CDS	complement(913574..915148)	amino acid permease
+sdi:SDIMI_v3c08320	CDS	complement(915135..916679)	amino acid permease
+sdi:SDIMI_v3c08330	CDS	complement(916681..918552)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+sdi:SDIMI_v3c08340	CDS	complement(918573..920087)	metS; methionyl-tRNA synthetase
+sdi:SDIMI_v3c08350	CDS	complement(920089..920601)	hprT; hypoxanthine-guanine phosphoribosyltransferase
+sdi:SDIMI_v3c08360	CDS	complement(920594..921898)	purB; adenylosuccinate lyase
+sdi:SDIMI_v3c08370	CDS	complement(921913..923202)	purA; adenylosuccinate synthetase
+sdi:SDIMI_v3c08380	CDS	complement(923213..923773)	pth; peptidyl-tRNA hydrolase
+sdi:SDIMI_v3c08390	CDS	complement(923775..924812)	prs; ribose-phosphate pyrophosphokinase
+sdi:SDIMI_v3c08400	CDS	925129..926661	ABC transporter ATP-binding protein
+sdi:SDIMI_v3c08410	CDS	complement(926709..927389)	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+sdi:SDIMI_v3c08420	CDS	complement(927389..928180)	ksgA; dimethyladenosine transferase
+sdi:SDIMI_v3c08430	CDS	complement(928182..928712)	primase-like protein
+sdi:SDIMI_v3c08440	CDS	928807..929850	mreB2; cell shape determining protein MreB
+sdi:SDIMI_v3c08450	CDS	929962..930972	mreB3; cell shape determining protein MreB
+sdi:SDIMI_v3c08460	CDS	931041..932696	argS; arginyl-tRNA synthetase
+sdi:SDIMI_v3c08470	CDS	932907..934745	ABC transporter ATP-binding protein/permease
+sdi:SDIMI_v3c08480	CDS	934759..936600	ABC transporter ATP-binding protein/permease
+sdi:SDIMI_v3c08490	CDS	936725..937756	mreB4; cell shape determining protein MreB
+sdi:SDIMI_v3c08500	CDS	937811..938863	mreB5; cell shape determining protein MreB
+sdi:SDIMI_v3c08510	CDS	938962..939423	hypothetical protein
+sdi:SDIMI_v3c08520	CDS	939495..940553	mreB6; cell shape determining protein MreB
+sdi:SDIMI_v3c08530	CDS	complement(940586..941380)	tatD; Mg-dependent DNase
+sdi:SDIMI_v3c08540	CDS	complement(941388..942740)	trmE; tRNA modification GTPase TrmE
+sdi:SDIMI_v3c08550	CDS	complement(942788..943348)	hypothetical protein
+sdi:SDIMI_v3c08560	CDS	complement(943326..944534)	yidC; inner membrane protein translocase component YidC
+sdi:SDIMI_v3c08570	CDS	complement(944550..944879)	rnpA; ribonuclease P (protein C5)
+sdi:SDIMI_v3c08580	CDS	complement(944888..945022)	rpmH; 50S ribosomal protein L34
