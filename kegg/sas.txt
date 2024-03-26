@@ -1,0 +1,2702 @@
+sas:pSAS01	CDS	pSAS:12..638	putative ABC transporter ATP binding protein
+sas:pSAS02	gene	pSAS:join(876..1178,1182..1502,1506..2144)	pseudogene
+sas:pSAS03	CDS	pSAS:complement(2179..2487)	hypothetical protein
+sas:pSAS04	CDS	pSAS:2527..3387	replication protein
+sas:pSAS05	CDS	pSAS:3474..3815	putative regulatory protein
+sas:pSAS06	CDS	pSAS:3834..4073	putative membrane protein
+sas:pSAS07	CDS	pSAS:4274..4459	hypothetical protein
+sas:pSAS08	CDS	pSAS:complement(4678..5421)	replication-associated protein
+sas:pSAS09	gene	pSAS:join(5832..6104,6103..6333)	pseudogene
+sas:pSAS10	gene	pSAS:join(6330..6383,6383..6505,6504..6578,6578..6655,6659..6793)	pseudogene
+sas:pSAS11	CDS	pSAS:7998..8627	cadD; cadmium resistance transporter
+sas:pSAS12	CDS	pSAS:8646..8993	cadC; putative cadmium efflux system regulatory protein
+sas:pSAS13	CDS	pSAS:9466..10440	hypothetical protein
+sas:pSAS14	CDS	pSAS:complement(10560..11375)	potential ATP-binding protein
+sas:pSAS15	gene	pSAS:complement(join(11368..12192,12191..12811))	pseudogene
+sas:pSAS16	CDS	pSAS:complement(12783..13376)	tnpR; transposon resolvase
+sas:pSAS17	CDS	pSAS:complement(13640..14020)	blaI; penicillinase repressor
+sas:pSAS18	CDS	pSAS:complement(14010..15767)	blaR1; putative beta-lactamase regulatory protein
+sas:pSAS19	CDS	pSAS:15874..16719	blaZ; beta-lactamase precursor
+sas:pSAS20	gene	pSAS:17088..17621	bin; pseudogene
+sas:pSAS21	CDS	pSAS:17861..18010	putative membrane protein
+sas:pSAS22	CDS	pSAS:18035..18328	putative bacteriocin precursor
+sas:pSAS23	CDS	pSAS:18403..20337	hypothetical bacteriocin immunity protein
+sas:pSAS24	CDS	pSAS:20341..20646	putative exported protein
+sas:SAS0001	CDS	517..1878	chromosomal replication initiator protein DnaA
+sas:SAS0002	CDS	2156..3289	DNA polymerase III, beta chain
+sas:SAS0003	CDS	3670..3915	conserved hypothetical protein
+sas:SAS0004	CDS	3912..5024	DNA replication and repair protein RecF
+sas:SAS0005	CDS	5037..6968	DNA gyrase subunit B
+sas:SAS0006	CDS	7005..9668	DNA gyrase subunit A
+sas:SAS0007	CDS	complement(9755..10585)	conserved hypothetical protein
+sas:SAS0008	CDS	10893..12407	putative histidine ammonia-lyase
+sas:SAS0009	CDS	12786..14072	seryl-tRNA synthetase
+sas:SAS0010	CDS	14724..15419	putative membrane protein
+sas:SAS0011	CDS	15416..15745	putative membrane protein
+sas:SAS0012	CDS	16108..17076	putative hydrolase
+sas:SAS0013	CDS	17321..18307	putative membrane protein
+sas:SAS0014	CDS	18322..20289	putative membrane protein
+sas:SAS0015	CDS	20286..20732	50S ribosomal protein L9
+sas:SAS0016	CDS	20764..22164	DnaB-like helicase
+sas:SAS0017	CDS	22443..23726	putative adenylosuccinate synthetase
+sas:tRNA-Glu-1	tRNA	24156..24230	tRNA-Glu
+sas:tRNA-Asp-1	tRNA	24238..24310	tRNA-Asp
+sas:SAS0018	CDS	24924..25631	response regulator protein
+sas:SAS0019	CDS	25644..27470	sensor kinase protein
+sas:SAS0020	CDS	27463..28797	putative exported protein
+sas:SAS0021	CDS	28798..29586	putative exported protein
+sas:SAS0022	CDS	29975..30775	metallo-beta-lactamase superfamily protein
+sas:SAS0023	CDS	30961..33321	putative 5'-nucleotidase
+sas:SAS0024	CDS	33689..34168	conserved hypothetical protein
+sas:SAS0025	CDS	complement(34546..37584)	putative type I restriction enzyme protein
+sas:SAS0026	CDS	complement(37588..38898)	putative type I restriction enzyme specificity protein
+sas:SAS0027	CDS	complement(38891..40678)	putative type I restriction enzyme methylase protein
+sas:SAS0028	CDS	complement(40866..41087)	hypothetical protein
+sas:SAS0029	CDS	complement(41101..41604)	conserved hypothetical protein
+sas:SAS0030	CDS	complement(41620..41931)	hypothetical protein
+sas:SAS0031	CDS	complement(42024..42365)	hypothetical protein
+sas:SAS0032	CDS	complement(42831..44456)	ccrB; site-specific recombinase
+sas:SAS0033	CDS	complement(44478..45827)	ccrA1; site-specific recombinase
+sas:SAS0034	CDS	complement(46015..47784)	putative membrane protein
+sas:SAS0035	CDS	complement(47784..48080)	hypothetical protein
+sas:SAS0036	CDS	complement(48253..49740)	hypothetical protein
+sas:SAS0037	CDS	49912..50616	hypothetical protein
+sas:SAS0038	CDS	50640..51482	hypothetical protein
+sas:SAS0040	CDS	51926..52234	hypothetical protein
+sas:SAS0043	CDS	52820..53458	putative fusidic acid resistance protein
+sas:SAS0044	CDS	54144..54773	conserved hypothetical protein
+sas:SAS0046	CDS	complement(55452..55880)	conserved hypothetical protein
+sas:SAS0047	CDS	55960..56889	hypothetical protein
+sas:SAS0048	CDS	57181..58476	hypothetical protein
+sas:SAS0049	gene	complement(58948..59577)	pseudogene
+sas:SAS0050	gene	complement(59745..59855)	pseudogene
+sas:SAS0051	CDS	60231..60956	seh; enterotoxin H
+sas:SAS0052	gene	61523..61711	pseudogene
+sas:SAS0053	CDS	61852..62325	acetyltransferase (GNAT) family protein
+sas:SAS0054	CDS	complement(62876..63631)	putative membrane protein
+sas:SAS0055	CDS	complement(63631..63897)	conserved hypothetical protein
+sas:SAS0056	CDS	64028..65095	hypothetical protein
+sas:SAS0057	CDS	65126..66460	metallo-beta-lactamase superfamily protein
+sas:SAS0058	CDS	66479..67672	putative oxidoreductase
+sas:SAS0059	CDS	complement(68339..69325)	conserved hypothetical protein
+sas:SAS0060	CDS	69634..69837	hypothetical protein
+sas:SAS0061	CDS	69886..70182	hypothetical protein
+sas:SAS0062	CDS	complement(70254..71474)	putative membrane protein
+sas:SAS0063	CDS	complement(71467..72024)	conserved hypothetical protein
+sas:SAS0064	CDS	72131..72991	LysR-family regulatory protein
+sas:SAS0065	CDS	complement(73346..73879)	conserved hypothetical protein
+sas:SAS0066	CDS	73979..74713	LysR-family regulatory protein
+sas:SAS0067	CDS	75138..75749	putative membrane protein
+sas:SAS0068	CDS	76016..79168	hypothetical protein
+sas:SAS0069	CDS	79225..79707	putative membrane protein
+sas:SAS0070	gene	join(79912..80313,80313..80897)	plc; pseudogene
+sas:SAS0072	CDS	81118..81888	putative lipoprotein
+sas:SAS0073	CDS	81940..82710	putative lipoprotein
+sas:SAS0074	CDS	82989..83753	putative lipoprotein
+sas:SAS0075	CDS	83756..85132	hypothetical protein
+sas:SAS0076	CDS	85132..85458	hypothetical protein
+sas:SAS0077	CDS	85462..85773	hypothetical protein
+sas:SAS0078	CDS	86025..88262	putative regulatory protein
+sas:SAS0079	CDS	88413..89591	putative peptidase
+sas:SAS0080	CDS	89593..90981	putative transporter protein
+sas:SAS0081	CDS	complement(91468..93135)	putative Na+/Pi-cotransporter protein
+sas:SAS0082	CDS	complement(93453..95228)	putative myosin-crossreactive antigen
+sas:SAS0083	CDS	95579..96052	putative membrane protein
+sas:SAS0084	CDS	96314..97906	L-lactate permease 1
+sas:SAS0085	CDS	complement(98235..99713)	immunoglobulin G binding protein A precursor
+sas:SAS0086	CDS	complement(100134..100886)	putative regulatory protein
+sas:SAS0087	CDS	complement(101255..102253)	putative siderophore transport system permease
+sas:SAS0088	CDS	complement(102250..103245)	putative siderophore transport system permease
+sas:SAS0089	CDS	complement(103261..104253)	lipoprotein
+sas:SAS0090	CDS	104484..105464	pyridoxal-phosphate dependent enzyme
+sas:SAS0091	CDS	105461..106471	putative ornithine cyclodeaminase
+sas:SAS0092	CDS	106492..108246	putative siderophore biosynthesis protein
+sas:SAS0093	CDS	108239..109495	putative transport protein
+sas:SAS0094	CDS	109485..111221	putative siderophore biosynthesis protein
+sas:SAS0095	CDS	111202..112980	putative siderophore biosynthesis protein
+sas:SAS0096	CDS	112955..113731	putative aldolase
+sas:SAS0097	CDS	113731..114933	pyridoxal-dependent decarboxylase decarboxylase
+sas:SAS0098	CDS	114937..115701	hypothetical protein
+sas:SAS0099	CDS	115897..116304	putative membrane protein
+sas:SAS0100	CDS	116354..116980	putative membrane protein
+sas:SAS0101	CDS	117192..117968	putative short chain dehydrogenase
+sas:SAS0101a	CDS	complement(118017..118166)	hypothetical protein
+sas:SAS0102	CDS	118313..119284	NAD dependent epimerase/dehydratase family protein
+sas:SAS0103	CDS	119247..119939	putative sugar transferase
+sas:SAS0104	CDS	120149..121315	galactosyl transferase
+sas:SAS0105	CDS	121296..122534	putative membrane protein
+sas:SAS0106	CDS	122524..123954	polysaccharide biosynthesis protein
+sas:SAS0107	CDS	124222..124821	superoxide dismutase
+sas:SAS0108	CDS	125189..125914	putative surface anchored protein
+sas:SAS0109	CDS	complement(126105..126845)	GntR family regulatory protein
+sas:SAS0110	CDS	127096..127803	putative purine nucleoside phosphorylase
+sas:SAS0111	CDS	127810..129162	putative transport system protein
+sas:SAS0112	CDS	129243..129905	deoxyribose-phosphate aldolase
+sas:SAS0113	CDS	129933..131111	putative phosphopentomutase
+sas:SAS0114	CDS	complement(131242..132057)	binding-protein-dependent transport systems membrane component
+sas:SAS0115	CDS	complement(132054..132854)	binding-protein-dependent transport system membrane component
+sas:SAS0116	CDS	complement(132856..133629)	putative ABC transport ATP-binding protein
+sas:SAS0117	CDS	complement(133843..134799)	putative lipoprotein
+sas:SAS0118	CDS	135028..136572	putative exported protein
+sas:SAS0119	CDS	136623..138158	putative nucleotidase
+sas:SAS0120	gene	138209..138439	pseudogene
+sas:SAS0121	gene	join(138752..139225,139225..139572)	pseudogene
+sas:SAS0122	gene	join(140437..140484,140488..140697,140697..140921)	pseudogene
+sas:SAS0123	CDS	141371..143980	putative aldehyde-alcohol dehydrogenase
+sas:SAS0124	CDS	144318..144986	capsular polysaccharide synthesis enzyme
+sas:SAS0125	CDS	145002..145688	capsular polysaccharide synthesis enzyme
+sas:SAS0126	CDS	145691..146455	capsular polysaccharide synthesis enzyme
+sas:SAS0127	CDS	146475..148298	capsular polysaccharide synthesis enzyme
+sas:SAS0128	CDS	148288..149316	capsular polysaccharide synthesis enzyme
+sas:SAS0129	CDS	149329..150438	capsular polysaccharide synthesis enzyme
+sas:SAS0130	CDS	150442..151566	capsular polysaccharide synthesis enzyme
+sas:SAS0131	CDS	151569..152648	capsular polysaccharide synthesis enzyme
+sas:SAS0132	CDS	152641..154035	capsular polysaccharide synthesis enzyme
+sas:SAS0133	CDS	154032..154589	capsular polysaccharide synthesis enzyme
+sas:SAS0134	CDS	154598..155836	capsular polysaccharide synthesis enzyme
+sas:SAS0135	CDS	155870..157075	capsular polysaccharide synthesis enzyme
+sas:SAS0136	CDS	157086..157643	capsular polysaccharide synthesis enzyme
+sas:SAS0137	CDS	157643..158530	capsular polysaccharide synthesis enzyme
+sas:SAS0138	CDS	158584..159846	capsular polysaccharide synthesis enzyme
+sas:SAS0139	CDS	159893..161068	capsular polysaccharide synthesis enzyme
+sas:SAS0140	CDS	complement(161133..161459)	conserved hypothetical protein
+sas:SAS0141	CDS	complement(161466..161849)	putative membrane protein
+sas:SAS0142	CDS	162276..163763	putative aldehyde dehydrogenase
+sas:SAS0143	CDS	164409..165368	putative cation efflux system protein
+sas:SAS0144	CDS	165436..165702	hypothetical protein
+sas:SAS0145	CDS	complement(165662..165865)	hypothetical protein
+sas:SAS0146	CDS	166043..166555	conserved hypothetical protein
+sas:SAS0147	CDS	166897..167637	putative ABC transporter ATP-binding protein
+sas:SAS0148	CDS	167651..168625	putative lipoprotein
+sas:SAS0149	CDS	168622..169383	putative transport system permease
+sas:SAS0150	CDS	169396..170427	conserved hypothetical protein
+sas:SAS0151	CDS	170644..171003	conserved hypothetical protein
+sas:SAS0152	CDS	171078..172202	putative D-isomer specific 2-hydroxyacid dehydrogenase
+sas:SAS0153	CDS	172588..173838	putative transporter protein
+sas:SAS0154	CDS	174285..181460	putative non-ribosomal peptide synthetase
+sas:SAS0155	CDS	181473..182117	4'-phosphopantetheinyl transferase superfamily protein
+sas:SAS0156	CDS	complement(182445..182939)	putative membrane protein
+sas:SAS0157	CDS	complement(183194..183958)	putative amino acid kinase
+sas:SAS0158	CDS	complement(183974..185215)	putative arginine biosynthesis bifunctional protein
+sas:SAS0159	CDS	complement(185227..186261)	putative N-acetyl-gamma-glutamyl-phosphate reductase
+sas:SAS0160	CDS	complement(186297..187481)	putative ornithine aminotransferase precursor
+sas:SAS0161	CDS	complement(187734..189089)	putative branched-chain amino acid transport system carrier protein
+sas:SAS0162	CDS	complement(189365..189922)	putative isochorismatase
+sas:SAS0163	CDS	complement(189989..191629)	putative thiamine pyrophosphate enzyme
+sas:SAS0164	CDS	complement(191902..193947)	glucose-specific PTS transporter protein, IIABC component
+sas:SAS0165	CDS	194532..195587	conserved hypothetical protein
+sas:SAS0166	CDS	195584..196483	conserved hypothetical protein
+sas:SAS0167	CDS	196495..197949	sucrose-specific PTS tranporter protein
+sas:SAS0168	CDS	197949..198827	RpiR family transcriptional regulator
+sas:SAS0169	CDS	complement(199021..199302)	putative membrane protein
+sas:SAS0170	CDS	199515..202304	putative type I restriction enzyme
+sas:SAS0171	CDS	complement(202451..203050)	putative membrane protein
+sas:SAS0172	CDS	203176..203931	putative membrane protein
+sas:SAS0173	CDS	203928..204608	ABC transporter, ATP-binding protein
+sas:SAS0174	CDS	204605..205783	putative permease protein
+sas:SAS0175	CDS	205990..206211	putative membrane protein
+sas:SAS0176	CDS	206249..207967	putative membrane protein
+sas:SAS0177	CDS	208026..208469	putative membrane protein
+sas:SAS0178	CDS	208481..209203	ATP-binding transport protein
+sas:SAS0179	CDS	209190..209366	putative membrane protein
+sas:SAS0180	CDS	complement(209413..209601)	hypothetical protein
+sas:SAS0181	CDS	complement(210076..211668)	ABC transporter ATP-binding protein
+sas:SAS0182	CDS	211796..213103	putative transport system permease
+sas:SAS0183	CDS	213109..214272	putative transport system permease
+sas:SAS0184	CDS	214289..216064	RGD-containing lipoprotein
+sas:SAS0185	CDS	216102..218108	putative gamma-glutamyltranspeptidase
+sas:SAS0186	CDS	complement(218421..219194)	putative membrane protein
+sas:SAS0187	CDS	complement(219384..220010)	putative phosphodiesterase
+sas:SAS0188	CDS	220219..220797	putative peptidase
+sas:SAS0189	CDS	221180..222277	putative ABC transporter, ATP-binding protein
+sas:SAS0190	CDS	222290..223561	putative extracellular sugar-binding lipoprotein
+sas:SAS0191	CDS	223564..224832	putative sugar transport system permease
+sas:SAS0192	CDS	224834..225673	putative sugar transport system permease
+sas:SAS0193	CDS	225744..226823	putative oxidoreductase
+sas:SAS0194	CDS	226848..227888	putative oxidoreductase
+sas:SAS0195	CDS	227943..228911	conserved hypothetical protein
+sas:SAS0196	CDS	complement(229272..229766)	putative membrane protein
+sas:SAS0197	CDS	229999..231378	putative sugar phosphate transport protein
+sas:SAS0198	CDS	complement(231737..232495)	putative response regulator
+sas:SAS0199	CDS	complement(232488..234044)	putative sensor kinase protein
+sas:SAS0200	CDS	complement(234041..235009)	putative lipoprotein
+sas:SAS0201	CDS	235597..237846	formate acetyltransferase
+sas:SAS0202	CDS	237869..238624	putative pyruvate formate-lyase activating enzyme
+sas:SAS0203	CDS	238614..238922	hypothetical protein
+sas:SAS0204	CDS	238960..240723	putative membrane protein
+sas:SAS0205	CDS	complement(240887..241231)	hypothetical protein
+sas:SAS0206	CDS	241421..243322	staphylocoagulase precursor
+sas:SAS0207	CDS	complement(243925..245109)	putative thiolase
+sas:SAS0208	CDS	complement(245139..247400)	putative fatty oxidation complex protein
+sas:SAS0209	CDS	complement(247587..248798)	putative acyl-CoA dehydrogenase
+sas:SAS0210	CDS	complement(248910..250415)	putative acyl-CoA synthetase
+sas:SAS0211	CDS	complement(250441..252003)	putative acetyl-CoA transferase
+sas:SAS0212	CDS	252459..253601	putative membrane protein
+sas:SAS0213	CDS	complement(253915..255390)	putative extracellular solute-binding lipoprotein
+sas:SAS0214	CDS	complement(255588..255944)	conserved hypothetical protein
+sas:SAS0215	CDS	complement(256101..256274)	putative membrane protein
+sas:SAS0216	CDS	complement(256300..257445)	flavohemoprotein
+sas:SAS0217	CDS	258018..258971	L-lactate dehydrogenase 1
+sas:SAS0218	CDS	complement(259291..260820)	putative PTS transport system, IIBC component
+sas:SAS0219	CDS	261182..262117	putative inosine-uridine preferring nucleoside hydrolase
+sas:SAS0219a	CDS	262153..262323	hypothetical protein
+sas:SAS0220	CDS	262433..264550	putative PTS multi-domain regulator
+sas:SAS0221	CDS	264535..265002	putative PTS transport system, IIA component
+sas:SAS0222	CDS	265025..265303	putative PTS transport system, IIB component
+sas:SAS0223	CDS	265530..266789	putative PTS transport system, IIC component
+sas:SAS0224	CDS	266807..267862	putative zinc-binding dehydrogenase
+sas:SAS0225	CDS	267864..268010	hypothetical protein
+sas:SAS0226	CDS	268034..269077	putative zinc-binding dehydrogenase
+sas:SAS0227	CDS	269605..270321	conserved hypothetical protein
+sas:SAS0228	CDS	270314..271339	putative zinc-binding dehydrogenase
+sas:SAS0229	CDS	271361..273055	hypothetical protein
+sas:SAS0230	CDS	complement(273367..273501)	hypothetical protein
+sas:SAS0230a	CDS	273703..273828	hypothetical protein
+sas:SAS0231	CDS	274081..275250	putative teichoic acid biosynthesis protein
+sas:SAS0232	CDS	275526..276242	conserved hypothetical protein
+sas:SAS0233	CDS	276235..277260	putative zinc-binding dehydrogenase
+sas:SAS0234	CDS	277282..278970	hypothetical protein
+sas:SAS0235	CDS	279003..280724	putative glycosyl transferase
+sas:SAS0236	CDS	280868..281542	cell wall metabolism protein
+sas:SAS0237	CDS	281786..283540	autolysin sensor kinase protein
+sas:SAS0238	CDS	283543..284283	autolysin response regulator protein
+sas:SAS0239	CDS	284396..284839	holin-like protein
+sas:SAS0240	CDS	284832..285533	holin-like protein
+sas:SAS0241	CDS	complement(285641..286345)	GntR family regulatory protein
+sas:SAS0242	CDS	286494..287285	putative PTS transport system protein
+sas:SAS0243	CDS	287301..288737	6-phospho-beta-glucosidase
+sas:SAS0244	CDS	complement(289230..289991)	conserved hypothetical protein
+sas:SAS0245	CDS	complement(290242..291156)	putative ribokinase
+sas:SAS0246	CDS	complement(291184..291588)	putative ribose transport protein
+sas:SAS0247	CDS	complement(291603..292484)	putative sugar transport protein
+sas:SAS0248	CDS	complement(292716..293714)	LacI family regulatory protein
+sas:SAS0248a	CDS	293932..294045	hypothetical protein
+sas:SAS0249	CDS	294095..294487	hypothetical protein
+sas:SAS0250	CDS	complement(294615..295991)	putative transport protein
+sas:SAS0251	CDS	296225..297217	putative choloylglycine hydrolase
+sas:SAS0252	CDS	297543..298493	peptidoglycan hydrolase
+sas:SAS0253	CDS	complement(298545..299204)	putative ABC transporter ATP-binding protein
+sas:SAS0254	CDS	complement(299218..300138)	putative membrane protein
+sas:SAS0255	CDS	complement(300135..301301)	putative membrane protein
+sas:SAS0256	CDS	complement(301369..302892)	putative exported protein
+sas:SAS0257	CDS	complement(303223..304125)	putative exported protein
+sas:SAS0258	CDS	304364..304657	conserved hypothetical protein
+sas:SAS0259	CDS	304740..307769	putative membrane protein
+sas:SAS0260	CDS	307769..308227	putative membrane protein
+sas:SAS0261	CDS	308199..308441	conserved hypothetical protein
+sas:SAS0262	CDS	308454..309788	putative membrane protein
+sas:SAS0263	CDS	309810..314249	putative membrane protein
+sas:SAS0264	CDS	314279..314671	hypothetical protein
+sas:SAS0265	CDS	314687..315001	hypothetical protein
+sas:SAS0266	CDS	314998..315675	hypothetical protein
+sas:SAS0267	CDS	315675..315992	hypothetical protein
+sas:SAS0268	CDS	316002..317846	hypothetical protein
+sas:SAS0269	CDS	317857..318351	conserved hypothetical protein
+sas:SAS0270	CDS	318562..319245	putative membrane protein
+sas:SAS0271	CDS	319392..320003	putative membrane protein
+sas:SAS0272	CDS	320202..320702	conserved hypothetical cytosolic protein
+sas:SAS0273	CDS	320713..321213	conserved hypothetical protein
+sas:SAS0274	CDS	321224..321724	conserved hypothetical protein
+sas:SAS0275	CDS	321735..322235	conserved hypothetical protein
+sas:SAS0276	CDS	322246..322746	conserved hypothetical protein
+sas:SAS0277	CDS	322757..323257	conserved hypothetical protein
+sas:SAS0278	CDS	323268..323768	conserved hypothetical protein
+sas:SAS0279	CDS	323779..324267	conserved hypothetical protein
+sas:SAS0280	CDS	324892..325266	putative lipoprotein
+sas:SAS0281	CDS	325416..325814	putative membrane protein
+sas:SAS0282	CDS	complement(326064..326888)	putative formate/nitrite transporter
+sas:SAS0283	CDS	complement(327127..328434)	putative amino acid transport system
+sas:SAS0284	CDS	329018..329908	putative exported protein
+sas:SAS0285	CDS	330158..331207	putative membrane protein
+sas:SAS0286	CDS	331220..331897	ABC transporter ATP-binding protein
+sas:SAS0287	CDS	332105..333136	putative membrane protein
+sas:SAS0288	CDS	333479..334597	PfkB family carbohydrate kinase
+sas:SAS0289	CDS	334572..335495	putative membrane protein
+sas:SAS0290	CDS	335506..336726	putative nucleoside permease
+sas:SAS0291	CDS	complement(336832..338364)	sodium:solute symporter family protein
+sas:SAS0292	CDS	complement(338404..339285)	putative N-acetylneuraminate lyase
+sas:SAS0293	CDS	339443..340303	putative ROK family protein
+sas:SAS0294	CDS	complement(340580..341380)	putative transcription regulator
+sas:SAS0295	CDS	341521..342189	conserved hypothetical protein
+sas:SAS0296	CDS	complement(342320..343633)	putative membrane protein
+sas:SAS0297	CDS	344051..346123	lipase precursor
+sas:SAS0298	CDS	complement(346365..347192)	hypothetical protein
+sas:SAS0299	CDS	complement(347265..348464)	NADH:flavin oxidoreductase / NADH oxidase family protein
+sas:SAS0300	CDS	348766..349767	putative bacterial luciferase family protein
+sas:SAS0301	CDS	349801..350133	putative glycine cleavage H-protein
+sas:SAS0302	CDS	350134..350934	conserved hypothetical protein
+sas:SAS0303	CDS	350921..351868	conserved hypothetical protein
+sas:SAS0304	CDS	351846..352868	putative lipoate-protein ligase A
+sas:SAS0305	CDS	353181..354209	putative reductase
+sas:SAS0306	CDS	complement(354302..355648)	putative membrane protein
+sas:SAS0307	CDS	complement(355663..355947)	putative PTS transport system protein
+sas:SAS0308	CDS	complement(355949..356392)	putative PTS transport system IIA component
+sas:SAS0309	CDS	complement(356397..358352)	putative PTS multidomain regulator
+sas:SAS0310	CDS	358564..358983	MarR family regulatory protein
+sas:SAS0311	CDS	359090..360445	putative membrane protein
+sas:SAS0312	CDS	360552..360992	hypothetical protein
+sas:SAS0313	CDS	complement(361075..362433)	putative glycerol-3-phosphate transporter
+sas:SAS0314	CDS	362745..363671	putative dioxygenase
+sas:SAS0315	CDS	363685..364746	putative luciferase-like monooxygenase
+sas:SAS0316	CDS	364760..365326	NADH-dependent FMN reductase
+sas:SAS0317	CDS	complement(365386..366381)	putative membrane protein
+sas:SAS0318	CDS	366686..367231	putative acetyltransferase
+sas:SAS0319	CDS	367498..368352	putative lipoprotein
+sas:SAS0320	CDS	368349..369578	putative Sec-independent exported protein
+sas:SAS0321	CDS	369556..371271	putative membrane protein
+sas:SAS0322	CDS	complement(371363..372064)	putative Sec-independent protein translocase protein
+sas:SAS0323	CDS	complement(372081..372296)	putative Sec-independent protein translocase protein
+sas:SAS0324	CDS	complement(372404..372793)	conserved hypothetical protein
+sas:SAS0325	CDS	373033..373236	putative DNA-binding protein
+sas:SAS0326	CDS	373233..373946	putative membrane protein
+sas:SAS0327	CDS	373971..374813	ABC transporter ATP-binding protein
+sas:SAS0328	CDS	374813..375442	putative membrane protein
+sas:SAS0329	CDS	complement(375832..376965)	putative membrane protein
+sas:SAS0330	CDS	377504..378685	acetyl-CoA acetyltransferase
+sas:SAS0331	CDS	complement(378768..379520)	conserved hypothetical protein
+sas:SAS0332	CDS	complement(379563..381791)	5-methyltetrahydropteroyltriglutamate--homocyst eine methyltransferase
+sas:SAS0333	CDS	complement(381788..383629)	conserved hypothetical protein
+sas:SAS0334	CDS	complement(383598..384758)	Cys/Met metabolism PLP-dependent enzyme
+sas:SAS0335	CDS	complement(384755..385858)	Cys/Met metabolism PLP-dependent enzyme
+sas:SAS0336	CDS	386522..387367	putative DNA-binding protein
+sas:SAS0337	CDS	387524..388405	putative membrane protein
+sas:SAS0338	CDS	388435..388638	conserved hypothetical protein
+sas:SAS0339	CDS	388650..389747	putative GTP-binding protein
+sas:SAS0340	CDS	complement(389833..390024)	hypothetical protein
+sas:SAS0341	CDS	390268..390564	30S ribosomal protein S6
+sas:SAS0342	CDS	390585..391088	putative single-strand DNA-binding protein
+sas:SAS0343	CDS	391140..391382	30S ribosomal protein S18
+sas:SAS0344	CDS	complement(391648..392640)	hypothetical protein
+sas:SAS0345	gene	complement(join(392920..393048,393048..393185))	pseudogene
+sas:SAS0347	CDS	393545..394156	putative exported protein
+sas:SAS0348	CDS	394525..394926	putative exported protein
+sas:SAS0349	CDS	395074..395646	putative lipoprotein
+sas:SAS0350	CDS	complement(395784..396047)	hypothetical protein
+sas:SAS0351	CDS	396341..396592	putative membrane protein
+sas:SAS0352	CDS	complement(396631..396840)	hypothetical protein
+sas:SAS0353	CDS	397018..397599	phosphoglycerate mutase family protein
+sas:SAS0354	CDS	complement(397665..398048)	putative membrane protein
+sas:SAS0354a	CDS	398136..398234	hypothetical protein
+sas:SAS0355	CDS	complement(398303..398929)	putative lipoprotein
+sas:SAS0356	CDS	complement(399002..400612)	hypothetical protein
+sas:SAS0357	CDS	complement(400727..402250)	alkyl hydroperoxide reductase subunit F
+sas:SAS0358	CDS	complement(402266..402835)	alkyl hydroperoxide reductase subunit C
+sas:SAS0359	CDS	403327..404082	nitroreductase family protein
+sas:SAS0360	CDS	complement(404163..405551)	putative sodium:dicarboxylate symporter protein
+sas:SAS0360a	CDS	405636..405734	hypothetical protein
+sas:SAS0361	CDS	complement(406725..407681)	putative DNA-binding protein
+sas:SAS0362	CDS	complement(407799..408461)	hypothetical protein
+sas:SAS0363	CDS	complement(408604..409011)	hypothetical protein
+sas:SAS0364	CDS	409524..410102	putative xanthine phosphoribosyltransferase
+sas:SAS0365	CDS	410102..411370	putative xanthine permease
+sas:SAS0366	CDS	411408..412874	putative inosine-5'-monophosphate dehydrogenase
+sas:SAS0367	CDS	412899..414440	putative GMP synthase
+sas:SAS0368	CDS	414952..416058	hypothetical protein
+sas:SAS0369	CDS	416502..416687	putative membrane protein
+sas:SAS0370	CDS	complement(416684..417076)	hypothetical protein
+sas:SAS0371	CDS	complement(417098..417577)	putative exported protein
+sas:SAS0372	CDS	complement(417703..417960)	putative membrane protein
+sas:SAS0373	CDS	418503..418835	putative membrane protein
+sas:SAS0375	CDS	419940..421766	hypothetical protein
+sas:SAS0376	CDS	complement(422304..422726)	hypothetical protein
+sas:SAS0377	CDS	complement(423051..423599)	hypothetical protein
+sas:SAS0378	CDS	complement(423580..423741)	hypothetical protein
+sas:SAS0379	CDS	424095..424502	conserved hypothetical protein
+sas:SAS0380	CDS	424549..425031	conserved hypothetical protein
+sas:SAS0381	CDS	425231..425920	conserved hypothetical protein
+sas:SAS0381a	CDS	complement(426094..426201)	hypothetical protein
+sas:SAS0382	CDS	complement(426195..426554)	putative membrane protein
+sas:SAS0383	CDS	complement(426573..427418)	conserved hypothetical protein
+sas:SAS0384	CDS	427890..428570	exotoxin
+sas:SAS0385	CDS	428856..429551	exotoxin
+sas:SAS0386	CDS	429842..430912	exotoxin
+sas:SAS0387	CDS	431277..432224	exotoxin
+sas:SAS0388	CDS	432588..433292	exotoxin 3
+sas:SAS0389	CDS	433738..434436	exotoxin
+sas:SAS0390	CDS	434858..435553	exotoxin 1
+sas:SAS0391	CDS	435886..436590	exotoxin
+sas:SAS0392	CDS	436969..437667	exotoxin 5
+sas:SAS0393	CDS	438026..438709	exotoxin 4
+sas:SAS0393a	CDS	438787..438918	hypothetical protein
+sas:SAS0394	CDS	438971..440527	putative restriction enzyme modification protein
+sas:SAS0395	CDS	440520..441779	putative restriction and modification system specificity protein
+sas:SAS0396	CDS	442185..442877	exotoxin
+sas:SAS0397	CDS	442899..444401	putative exported protein
+sas:SAS0398	CDS	complement(444508..444816)	putative exported protein
+sas:SAS0399	CDS	445152..445964	putative lipoprotein
+sas:SAS0400	CDS	446012..446782	putative membrane protein
+sas:SAS0401	CDS	446814..447605	putative lipoprotein
+sas:SAS0402	CDS	447657..448454	putative lipoprotein
+sas:SAS0403	CDS	448633..449448	putative lipoprotein
+sas:SAS0404	CDS	449438..450763	hypothetical protein
+sas:SAS0405	CDS	450760..451083	hypothetical protein
+sas:SAS0406	CDS	451102..451416	hypothetical protein
+sas:SAS0407	CDS	complement(451700..451894)	putative membrane protein
+sas:SAS0408	CDS	452092..453294	putative cobalamin synthesis protein
+sas:SAS0409	CDS	453563..453691	hypothetical protein
+sas:SAS0410	CDS	454880..456364	putative NADH-Ubiquinone/plastoquinone (complex I) protein
+sas:SAS0411	CDS	456377..459082	hypothetical protein
+sas:SAS0412	CDS	459244..459606	conserved hypothetical protein
+sas:SAS0413	CDS	complement(459835..460182)	putative membrane protein
+sas:SAS0414	CDS	460289..460963	putative membrane protein
+sas:SAS0415	CDS	461000..461734	conserved hypothetical protein
+sas:SAS0415a	CDS	461912..462025	hypothetical protein
+sas:SAS0416	CDS	462187..463527	sodium:neurotransmitter symporter family protein
+sas:SAS0417	CDS	463744..464649	pyridoxal-phosphate dependent enzyme
+sas:SAS0418	CDS	464642..465784	putative Cys/Met metabolism PLP-dependent enzyme
+sas:SAS0419	CDS	466081..467106	ABC transporter ATP-binding protein
+sas:SAS0420	CDS	467110..467769	putative transport system membrane protein
+sas:SAS0421	CDS	467806..468648	putative lipoprotein
+sas:SAS0422	CDS	468980..469984	putative exported protein
+sas:SAS0423	CDS	complement(470169..470438)	putative membrane protein
+sas:SAS0424	CDS	470578..470982	MutT domain containing protein
+sas:SAS0425	CDS	470972..471457	putative acetyltransferase
+sas:SAS0426	CDS	complement(471626..472408)	putative membrane protein
+sas:SAS0427	CDS	complement(472405..473523)	putative membrane protein
+sas:SAS0428	CDS	complement(473638..474522)	LysR family regulatory protein
+sas:SAS0429	CDS	474704..479203	glutamate synthase, large subunit
+sas:SAS0430	CDS	479221..480684	glutamate synthase, small subunit
+sas:tRNA-Ser-1	tRNA	480953..481045	tRNA-Ser
+sas:SAS0431	CDS	481515..482942	sugar-specific PTS transport system, IIBC component
+sas:SAS0432	CDS	483006..484646	putative glycosyl hydrolase
+sas:SAS0433	CDS	484671..485399	GntR family regulatory protein
+sas:SAS0433a	CDS	485839..485904	hypothetical protein
+sas:SAS0434	CDS	486042..486566	acetyltransferase (GNAT) family protein
+sas:SAS0435	CDS	486635..488332	DNA polymerase III, tau subunit
+sas:SAS0436	CDS	488422..488739	conserved hypothetical protein
+sas:SAS0437	CDS	488746..489342	putative recombination protein
+sas:SAS0438	CDS	496066..497403	Orn/Lys/Arg decarboxylase family protein
+sas:SAS0439	CDS	497405..498022	putative thymidylate kinase
+sas:SAS0440	CDS	498050..498379	conserved hypothetical protein
+sas:SAS0441	CDS	498593..499519	putative DNA polymerase III, delta' subunit
+sas:SAS0442	CDS	499520..500323	conserved hypothetical protein
+sas:SAS0443	CDS	500340..500687	conserved hypothetical protein
+sas:SAS0444	CDS	500961..501686	conserved hypothetical protein
+sas:SAS0445	CDS	501679..501927	conserved hypothetical protein
+sas:SAS0446	CDS	501929..502768	tetrapyrrole (corrin/porphyrin) methylase family protein
+sas:SAS0447	CDS	503053..505026	putative methionyl-tRNA synthetase
+sas:SAS0448	CDS	505057..505830	putative TatD related DNase
+sas:SAS0449	CDS	505997..506533	conserved hypothetical protein
+sas:SAS0450	CDS	506544..507437	ribosomal RNA adenine dimethylase
+sas:SAS0451	CDS	507537..507800	conserved hypothetical protein
+sas:SAS0452	CDS	508110..508958	conserved hypothetical protein
+sas:SAS0453	CDS	508972..509796	putative pur operon repressor
+sas:SAS0454	CDS	509813..510193	putative regulatory protein
+sas:SAS0455	CDS	510265..510567	stage V sporulation protein G
+sas:SAS0456	CDS	510911..512263	putative UDP-N-acetylglucosamine pyrophosphorylase
+sas:SAS0457	CDS	512410..513375	ribose-phosphate pyrophosphokinase
+sas:SAS0458	CDS	513525..514178	putative 50S ribosomal protein L25
+sas:SAS0459	CDS	514458..515030	putative peptidyl-tRNA hydrolase
+sas:SAS0460	CDS	515030..518536	putative transcription-repair coupling factor
+sas:SAS0461	CDS	518526..520052	putative polysaccharide biosynthesis protein
+sas:SAS0462	CDS	520052..521245	putative tetrapyrrole (corrin/porphyrin) methylases
+sas:SAS0463	CDS	521242..521505	S4 domain containing protein
+sas:SAS0464	CDS	521523..521915	putative cell division protein
+sas:SAS0465	CDS	522020..522421	putative RNA binding protein
+sas:SAS0466	CDS	522601..523896	conserved hypothetical protein
+sas:SAS0467	CDS	523901..524440	putative hypoxanthine phosphoribosyltransferase
+sas:SAS0468	CDS	524697..526790	putative cell division protein
+sas:SAS0469	CDS	527019..527900	putative chaperonin
+sas:SAS0470	CDS	528079..529011	putative O-acetylserine (thiol)-lyase
+sas:SAS0471	CDS	529227..530030	dihydropteroate synthase
+sas:SAS0472	CDS	530008..530373	dihydroneopterin aldolase
+sas:SAS0473	CDS	530370..530846	putative 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+sas:SAS0474	CDS	531385..532872	lysyl-tRNA synthetase
+sas:tRNA-Val-1	tRNA	533557..533632	tRNA-Val
+sas:tRNA-Thr-1	tRNA	533649..533724	tRNA-Thr
+sas:tRNA-Lys-1	tRNA	533731..533803	tRNA-Lys
+sas:tRNA-Gly-1	tRNA	533837..533911	tRNA-Gly
+sas:tRNA-Leu-1	tRNA	533919..534007	tRNA-Leu
+sas:tRNA-Arg-1	tRNA	534013..534089	tRNA-Arg
+sas:tRNA-Pro-1	tRNA	534110..534183	tRNA-Pro
+sas:tRNA-Ala-1	tRNA	534207..534282	tRNA-Ala
+sas:tRNA-Ile-1	tRNA	536050..536126	tRNA-Ile
+sas:SAS0475	CDS	complement(545308..546690)	GntR family regulatory protein
+sas:SAS0476	CDS	546794..547681	putative pyridoxine biosynthesis protein
+sas:SAS0477	CDS	547685..548245	SNO glutamine amidotransferase family protein
+sas:SAS0478	CDS	complement(548451..549665)	nucleoside permease
+sas:SAS0479	CDS	549823..550284	putative DNA-binding protein
+sas:SAS0480	CDS	550303..550869	conserved hypothetical protein
+sas:SAS0481	CDS	550859..551866	putative phosphotransferase
+sas:SAS0482	CDS	551880..554336	putative stress response-related Clp ATPase
+sas:SAS0483	CDS	554820..556184	putative DNA repair protein
+sas:SAS0484	CDS	556209..557282	putative membrane protein
+sas:SAS0485	CDS	557839..559293	putative glutamyl-tRNA synthetase
+sas:SAS0486	CDS	559716..560363	serine acetyltransferase
+sas:SAS0487	CDS	560347..561747	cysteinyl-tRNA synthetase
+sas:SAS0488	CDS	561740..562144	conserved hypothetical protein
+sas:SAS0489	CDS	562152..562898	SpoU rRNA Methylase family protein
+sas:SAS0490	CDS	562898..563422	conserved hypothetical protein
+sas:SAS0491	CDS	563503..564072	putative DNA-binding protein
+sas:SAS0492	CDS	564187..564330	50S ribosomal protein L33 type 3
+sas:SAS0493	CDS	564386..564568	preprotein translocase SecE subunit
+sas:SAS0494	CDS	564581..565129	transcription antitermination protein
+sas:SAS0495	CDS	565310..565732	50S ribosomal protein L11
+sas:SAS0496	CDS	565940..566632	50S ribosomal protein L1
+sas:SAS0497	CDS	566904..567404	50S ribosomal protein L10
+sas:SAS0498	CDS	567447..567815	50S ribosomal protein L7/L12
+sas:SAS0499	CDS	567990..568598	conserved hypothetical protein
+sas:SAS0500	CDS	568813..572364	DNA-directed RNA polymerase beta chain protein
+sas:SAS0501	CDS	572501..576124	DNA-directed RNA polymerase beta' chain protein
+sas:SAS0502	CDS	576204..576515	putative ribosomal protein
+sas:SAS0503	CDS	576613..577026	30S ribosomal protein S12
+sas:SAS0504	CDS	577092..577562	30S ribosomal protein S7
+sas:SAS0505	CDS	577685..579766	translation elongation factor G
+sas:SAS0506	CDS	579983..581167	translation elongation factor Tu
+sas:SAS0507	CDS	complement(581449..582624)	putative peptidase
+sas:SAS0508	CDS	582795..583982	putative 2-amino-3-ketobutyrate coenzyme A ligase
+sas:SAS0509	CDS	584249..585127	ThiJ/PfpI family protein
+sas:SAS0510	CDS	585286..586923	putative L-ribulokinase
+sas:SAS0511	CDS	587137..588102	conserved hypothetical protein
+sas:SAS0512	CDS	588437..589513	putative aminotransferase
+sas:SAS0513	CDS	589764..590447	haloacid dehalogenase-like hydrolase
+sas:SAS0514	CDS	complement(590563..591225)	putative deoxyadenosine kinase protein
+sas:SAS0515	CDS	complement(591218..591835)	putative deoxyadenosine kinase protein
+sas:SAS0516	CDS	591902..592372	putative deaminase
+sas:SAS0517	CDS	592519..593388	putative haloacid dehalogenase-like hydrolase
+sas:SAS0518	CDS	593409..593975	conserved hypothetical protein
+sas:SAS0519	CDS	594406..597279	putative surface anchored protein
+sas:SAS0520	CDS	597646..601743	putative surface anchored protein
+sas:SAS0521	CDS	602137..605562	bone sialoprotein-binding protein
+sas:SAS0522	CDS	605681..607153	putative glycosyl transferase
+sas:SAS0523	CDS	complement(607277..608767)	putative glycosyl transferase
+sas:SAS0524	CDS	complement(609049..609927)	conserved hypothetical protein
+sas:SAS0525	CDS	complement(609940..610605)	conserved hypothetical protein
+sas:SAS0526	CDS	complement(610619..610978)	conserved hypothetical protein
+sas:SAS0527	CDS	611257..612015	putative glucosamine-6-phosphate isomerase
+sas:SAS0528	CDS	612092..612724	putative hexulose-6-phosphate synthase
+sas:SAS0529	CDS	612726..613274	putative 6-phospho-3-hexuloisomerase
+sas:SAS0530	CDS	613387..614034	putative haloacid dehalogenase-like hydrolase
+sas:SAS0531	CDS	614536..615936	putative proline/betaine transporter
+sas:SAS0532	CDS	616187..616480	putative membrane protein
+sas:SAS0533	CDS	616480..617856	putative AMP-binding enzyme
+sas:SAS0534	CDS	617858..618997	putative ketoacyl-CoA thiolase
+sas:SAS0535	CDS	618972..619337	hypothetical protein
+sas:SAS0536	CDS	619340..619609	hypothetical protein
+sas:SAS0537	CDS	complement(619810..619977)	hypothetical protein
+sas:SAS0538	CDS	complement(620484..621314)	conserved hypothetical protein
+sas:SAS0539	CDS	621498..622154	putative uracil-DNA glycosylase
+sas:SAS0540	CDS	622155..622535	hypothetical protein
+sas:SAS0541	CDS	622668..623036	putative membrane protein
+sas:SAS0542	CDS	623157..624641	putative amino acid permease
+sas:SAS0543	CDS	complement(624782..625234)	putative membrane protein
+sas:SAS0544	CDS	complement(625247..626011)	putative membrane protein
+sas:SAS0545	CDS	626322..626519	hypothetical protein
+sas:SAS0546	CDS	complement(626560..627312)	conserved hypothetical protein
+sas:SAS0547	CDS	627480..628466	putative phosphate acetyltransferase
+sas:SAS0548	CDS	628469..629305	lipoate-protein ligase A protein
+sas:SAS0549	CDS	629892..630812	mevalonate kinase
+sas:SAS0550	CDS	630817..631800	mevalonate diphosphate decarboxylase
+sas:SAS0551	CDS	631813..632889	phosphomevalonate kinase
+sas:SAS0552	CDS	633066..633407	hypothetical protein
+sas:SAS0553	CDS	complement(633459..634781)	pyridine nucleotide-disulphide oxidoreductase protein
+sas:SAS0554	CDS	complement(634768..635208)	putative DNA-binding protein
+sas:SAS0555	CDS	635833..637242	putative membrane protein
+sas:SAS0556	CDS	637246..637872	putative membrane protein
+sas:SAS0557	CDS	638008..638640	putative membrane protein
+sas:SAS0558	CDS	638728..639345	putative membrane protein
+sas:SAS0559	CDS	639420..640049	putative membrane protein
+sas:SAS0560	gene	join(640245..640670,640672..640866)	pseudogene
+sas:SAS0562	CDS	640997..641638	putative membrane protein
+sas:SAS0563	CDS	641685..642314	putative membrane protein
+sas:SAS0564	CDS	642767..643396	putative membrane protein
+sas:SAS0565	CDS	643511..644161	putative membrane protein
+sas:SAS0566	CDS	644198..644833	putative membrane protein
+sas:SAS0567	CDS	645068..645694	putative membrane protein
+sas:SAS0568	CDS	645964..646902	aldo/keto reductase family protein
+sas:SAS0569	CDS	647113..647649	conserved hypothetical protein
+sas:SAS0570	CDS	647818..648294	putative acetyltransferase
+sas:SAS0571	CDS	648334..649629	putative phosphohydrolase
+sas:SAS0572	CDS	649672..650178	conserved hypothetical protein
+sas:SAS0573	CDS	650677..651687	alcohol dehydrogenase
+sas:SAS0573a	CDS	651764..651871	hypothetical protein
+sas:SAS0574	CDS	651952..652380	conserved hypothetical protein
+sas:SAS0575	CDS	652377..654038	putative arginyl-tRNA synthetase
+sas:SAS0576	CDS	654429..655064	putative DNA repair protein
+sas:SAS0577	CDS	655315..656202	putative transport system lipoprotein
+sas:SAS0578	CDS	656351..657301	FecCD transport family protein
+sas:SAS0579	CDS	657356..658075	haloacid dehalogenase-like hydrolase
+sas:SAS0580	CDS	658059..658859	putative hydrolase
+sas:SAS0581	CDS	658995..659501	putative exported protein
+sas:SAS0582	CDS	659663..660379	putative membrane protein
+sas:SAS0583	CDS	660548..661336	putative esterase
+sas:SAS0584	CDS	complement(661586..661960)	staphylococcal accessory regulator A
+sas:SAS0585	CDS	complement(662908..663837)	putative membrane protein
+sas:SAS0586	CDS	complement(664032..664256)	hypothetical protein
+sas:SAS0587	CDS	complement(664273..664476)	hypothetical protein
+sas:SAS0588	CDS	664635..665195	phage integrase family protein
+sas:SAS0589	CDS	665214..667616	putative NADH-Ubiquinone/plastoquinone (complex I) oxidoreductase protein
+sas:SAS0590	CDS	667603..668028	putative membrane protein
+sas:SAS0591	CDS	668025..668369	putative membrane protein
+sas:SAS0592	CDS	668359..669855	putative NADH-Ubiquinone/plastoquinone (complex I) oxidoreductase protein
+sas:SAS0593	CDS	669856..670338	putative membrane protein
+sas:SAS0594	CDS	670335..670637	putative membrane protein
+sas:SAS0595	CDS	670612..671049	putative membrane protein
+sas:SAS0596	CDS	671389..673431	sodium/hydrogen exchanger family protein
+sas:SAS0597	CDS	complement(674592..675521)	ABC transporter extracellular binding protein
+sas:SAS0598	CDS	complement(675518..676354)	ABC transporter permease protein
+sas:SAS0599	CDS	complement(676348..677091)	ABC transporter ATP-binding protein
+sas:SAS0600	CDS	677213..677857	putative metalloregulator
+sas:SAS0601	CDS	complement(677937..678689)	putative membrane protein
+sas:SAS0602	CDS	678925..679689	teichoic acid biosynthesis protein
+sas:SAS0603	CDS	complement(679750..680544)	teichoic acid ABC transporter ATP-binding protein
+sas:SAS0604	CDS	680870..681703	teichoic acid ABC transporter permease protein
+sas:SAS0605	CDS	681802..682905	teichoic acid biosynthesis protein
+sas:SAS0606	CDS	682902..683963	putative glycosyl transferase
+sas:SAS0607	CDS	684026..684424	glycerol-3-phosphate cytidylyltransferase
+sas:SAS0608	CDS	complement(684541..685836)	penicillin-binding protein 4
+sas:SAS0609	CDS	686257..687984	ABC transporter ATP-binding protein
+sas:SAS0610a	CDS	688053..688133	hypothetical protein
+sas:SAS0610	CDS	688341..689570	putative Na+ dependent nucleoside transporter
+sas:SAS0611	CDS	690095..690928	putative membrane protein
+sas:SAS0612	CDS	691210..692007	ferrichrome transport ATP-binding protein
+sas:SAS0613	CDS	692043..693047	ferrichrome transport permease
+sas:SAS0614	CDS	693044..694060	ferrichrome transport permease
+sas:SAS0615	CDS	694294..695262	putative dihydroxyacetone kinase
+sas:SAS0616	CDS	695304..695888	putative dihydroxyacetone kinase
+sas:SAS0617	CDS	695881..696243	conserved hypothetical protein
+sas:SAS0618	CDS	696359..696856	hypothetical protein
+sas:SAS0619	CDS	697313..698380	putative membrane protein
+sas:SAS0620	CDS	698531..699574	putative esterase
+sas:SAS0621	CDS	699903..700331	hypothetical protein
+sas:SAS0622	CDS	complement(700540..701046)	putative acetyltransferase
+sas:SAS0623	CDS	701159..702082	hypothetical protein
+sas:SAS0624	CDS	702098..702772	putative response regulator protein
+sas:SAS0625	CDS	702765..703805	putative sensor histidine kinase protein
+sas:SAS0626	CDS	703949..704710	putative ABC transporter protein
+sas:SAS0627	CDS	704700..706589	putative ABC transporter permease
+sas:SAS0628	CDS	707314..707931	conserved hypothetical protein
+sas:SAS0629	CDS	707947..708954	putative phosphate transport protein
+sas:SAS0630	CDS	complement(709542..710339)	putative exported protein
+sas:SAS0631	CDS	710700..711344	putative membrane protein
+sas:SAS0632	CDS	712041..714191	AraC family regulatory protein
+sas:SAS0633	CDS	714271..714696	hypothetical protein
+sas:SAS0634	CDS	714886..715602	conserved hypothetical protein
+sas:SAS0635	CDS	715602..716075	conserved hypothetical protein
+sas:SAS0636	CDS	716428..717072	hypothetical protein
+sas:SAS0637	CDS	717188..718054	LysR family regulatory protein
+sas:SAS0638	CDS	718393..719613	putative sugar efflux transporter
+sas:SAS0639	CDS	719610..720098	putative membrane protein
+sas:SAS0640	CDS	complement(720197..720886)	putative membrane protein
+sas:SAS0641	CDS	721013..721456	putative acetyltransferase
+sas:SAS0642	CDS	721523..721918	putative lipoprotein
+sas:SAS0643	CDS	722056..722355	hypothetical protein
+sas:SAS0644	CDS	722435..722977	putative acetyltransferase
+sas:SAS0645	CDS	complement(723073..723639)	conserved hypothetical protein
+sas:SAS0646	CDS	complement(723641..724099)	conserved hypothetical protein
+sas:SAS0647	CDS	complement(724102..724785)	putative exported protein
+sas:SAS0648	CDS	complement(724957..725832)	putative undecaprenol kinase
+sas:SAS0649	CDS	726051..727682	ABC transporter ATP-binding protein
+sas:SAS0650	CDS	727679..729352	ABC transporter ATP-binding protein
+sas:SAS0651	CDS	complement(729479..729922)	MarR family regulatory protein
+sas:SAS0652	CDS	730149..731075	putative cobalamin synthesis protein
+sas:SAS0653	CDS	731178..732086	aldo/keto reductase family protein
+sas:SAS0654	CDS	732121..732408	putative membrane protein
+sas:SAS0655	CDS	732691..734244	putative sodium:sulfate symporter protein
+sas:SAS0656	CDS	734330..735703	putative DNA photolyase
+sas:SAS0657	CDS	complement(735858..736142)	putative membrane protein
+sas:SAS0658	CDS	complement(736139..736759)	putative membrane protein
+sas:SAS0659	CDS	complement(736942..737364)	conserved hypothetical protein
+sas:SAS0660	CDS	737573..738739	fluoroquinolone resistance protein
+sas:SAS0661	CDS	739020..739484	putative exported protein
+sas:SAS0662	CDS	739657..740139	conserved hypothetical protein
+sas:SAS0663	CDS	740392..741153	DeoR ramily regulatory protein
+sas:SAS0664	CDS	741150..742070	putative phosphofructokinase
+sas:SAS0665	CDS	742076..744034	PTS transport system, fructose-specific IIABC component
+sas:SAS0666	CDS	744342..745523	putative N-acetylglucosamine-6-phosphate deacetylase
+sas:SAS0667	CDS	745744..747093	putative membrane protein
+sas:SAS0668	CDS	747315..748154	aldo/keto reductase family protein
+sas:SAS0669	CDS	748286..749269	putative glucosyl transferase
+sas:SAS0670	CDS	complement(749341..750396)	histidine kinase protein
+sas:SAS0671	CDS	complement(750396..751082)	response regulator protein
+sas:SAS0672	CDS	complement(751057..751530)	putative membrane protein
+sas:SAS0673	CDS	complement(751873..752313)	putative lipoprotein
+sas:SAS0674	CDS	complement(752593..753177)	putative membrane protein
+sas:SAS0675	CDS	complement(753276..753989)	putative radical activating enzyme
+sas:SAS0676	CDS	complement(753993..754412)	putative 6-pyruvoyl tetrahydropterin synthase
+sas:SAS0677	CDS	complement(754414..755082)	conserved hypothetical protein
+sas:SAS0678	CDS	755433..756026	glutamine amidotransferase class-I protein
+sas:SAS0679	CDS	756010..757161	para-aminobenzoate synthase component
+sas:SAS0680	CDS	757161..757769	putative para-aminobenzoate synthetase component
+sas:SAS0681	CDS	757835..758041	putative membrane protein
+sas:SAS0682	CDS	758129..758839	conserved hypothetical protein
+sas:SAS0683	CDS	758823..759827	conserved hypothetical protein
+sas:SAS0684	CDS	760301..762241	putative sulfatase
+sas:SAS0685	CDS	762518..764395	ABC transporter ATP-binding protein
+sas:SAS0686	CDS	764407..766188	putative ATP-dependent DNA helicase
+sas:SAS0687	CDS	766410..767387	ABC transporter ATP-binding protein
+sas:SAS0688	CDS	767380..768894	ABC transporter permease protein
+sas:SAS0689	CDS	769134..770192	putative aminotransferase
+sas:SAS0690	CDS	770487..771029	conserved hypothetical protein
+sas:SAS0691	CDS	complement(771710..772627)	putative diacylglycerol kinase protein
+sas:SAS0692	CDS	complement(772896..774401)	putative proton-dependent oligopeptide transport protein
+sas:SAS0693	CDS	complement(774742..775242)	conserved hypothetical protein
+sas:SAS0694	CDS	complement(775262..776128)	putative membrane protein
+sas:SAS0695	CDS	776929..777327	conserved hypothetical protein
+sas:SAS0696	CDS	777290..779395	ribonucleoside-diphosphate reductase alpha chain
+sas:SAS0697	CDS	779513..780484	ribonucleoside-diphosphate reductase beta chain
+sas:SAS0698	CDS	781192..782163	FecCD transport family protein
+sas:SAS0699	CDS	782150..783106	FecCD transport family protein
+sas:SAS0700	CDS	783103..783864	ABC transporter ATP-binding protein
+sas:SAS0701	CDS	783983..785011	lipoprotein
+sas:SAS0702	CDS	complement(785328..785642)	hypothetical protein
+sas:SAS0703	CDS	complement(785660..786583)	putative UDP-N-acetylenolpyruvoylglucosamine reductase
+sas:SAS0704	CDS	complement(786710..787228)	hypothetical protein
+sas:SAS0705	CDS	787348..788226	putative lipoprotein
+sas:SAS0706	CDS	788380..788700	conserved hypothetical protein
+sas:SAS0707	CDS	789125..790249	putative glycerate kinase
+sas:SAS0708	CDS	complement(790431..791657)	putative peptidase T
+sas:SAS0709	CDS	complement(791671..792165)	putative membrane protein
+sas:SAS0710	CDS	complement(792183..792944)	putative membrane protein
+sas:SAS0711	CDS	complement(793140..794210)	putative membrane protein
+sas:SAS0712	CDS	794528..795583	putative glycosyl transferase
+sas:SAS0713	CDS	complement(795755..796396)	putative membrane protein
+sas:SAS0714	CDS	796540..797406	conserved hypothetical protein
+sas:SAS0715	CDS	797770..798852	putative helicase
+sas:SAS0716	CDS	798845..799519	conserved hypothetical protein
+sas:SAS0717	CDS	799580..800152	putative S30EA family ribosomal protein
+sas:SAS0718	CDS	800566..803097	preprotein translocase SecA subunit
+sas:SAS0719	CDS	join(803412..803483,803485..804522)	peptide chain release factor 2
+sas:SAS0720	CDS	804931..805770	putative exported protein
+sas:SAS0721	CDS	805944..806594	putative phosphohydrolase
+sas:SAS0722	CDS	806591..806827	putative membrane protein
+sas:SAS0723	CDS	807090..809081	excinuclease ABC subunit B
+sas:SAS0724	CDS	809089..811935	excinuclease ABC subunit A
+sas:SAS0725	CDS	812542..813474	HPr kinase/phosphatase
+sas:SAS0726	CDS	813480..814319	prolipoprotein diacylglyceryl transferase
+sas:SAS0727	CDS	814327..814812	putative acetyltransferase
+sas:SAS0728	CDS	814820..816259	conserved hypothetical protein
+sas:SAS0729	CDS	816326..817261	putative thioredoxin reductase
+sas:SAS0730	CDS	818026..818937	conserved hypothetical protein
+sas:SAS0731	CDS	818934..819929	conserved hypothetical protein
+sas:SAS0732	CDS	820040..820984	conserved hypothetical protein
+sas:tRNA-Arg-2	tRNA	complement(821299..821370)	tRNA-Arg
+sas:SAS0733	CDS	821557..822144	putative ATP-dependent Clp protease proteolytic subunit
+sas:SAS0734	CDS	complement(822387..823289)	conserved hypothetical protein
+sas:SAS0736	CDS	823992..824621	putative exported protein
+sas:SAS0737	CDS	825318..826331	glycolytic operon regulator
+sas:SAS0738	CDS	826384..827394	glyceraldehyde 3-phosphate dehydrogenase 1
+sas:SAS0739	CDS	827533..828723	phosphoglycerate kinase
+sas:SAS0740	CDS	828845..829606	triosephosphate isomerase
+sas:SAS0741	CDS	829609..831126	putative 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+sas:SAS0742	CDS	831256..832560	putative enolase
+sas:SAS0743	CDS	832899..833357	putative membrane protein
+sas:SAS0744	CDS	833424..833657	putative protein-export membrane protein
+sas:SAS0745	CDS	833773..834513	putative carboxylesterase
+sas:SAS0746	CDS	834547..836919	putative ribonuclease R
+sas:SAS0747	CDS	836941..837405	putative tmRNA-binding protein
+sas:SAS0749	CDS	complement(838270..838998)	putative lipoprotein
+sas:SAS0750	CDS	839596..840117	putative membrane protein
+sas:SAS0751	CDS	840256..840786	putative acetyltransferase
+sas:SAS0752	CDS	841049..843835	clumping factor
+sas:SAS0753	CDS	844056..845582	putative exported protein
+sas:SAS0754	CDS	845933..846955	putative exported protein
+sas:SAS0755	CDS	847290..847811	putative exported protein
+sas:SAS0756	CDS	848152..848838	thermonuclease precursor
+sas:SAS0757	CDS	849195..849395	putative cold shock protein
+sas:SAS0758	CDS	complement(849891..850109)	hypothetical protein
+sas:SAS0759	CDS	complement(850171..850455)	hypothetical protein
+sas:SAS0760	CDS	complement(850543..851112)	putative exported protein
+sas:SAS0761	CDS	complement(851300..851488)	putative membrane protein
+sas:SAS0762	CDS	complement(851517..851777)	putative membrane protein
+sas:SAS0763	CDS	852117..852320	hypothetical protein
+sas:SAS0764	CDS	complement(852317..852553)	hypothetical protein
+sas:SAS0765	CDS	852777..853358	phosphoglycerate mutase family protein
+sas:SAS0766	CDS	complement(853407..854024)	putative LysE type translocator protein
+sas:SAS0767	CDS	complement(854179..854673)	hypothetical protein
+sas:SAS0767a	CDS	854881..854931	hypothetical protein
+sas:SAS0768	CDS	complement(855072..855494)	OsmC-like protein
+sas:SAS0769	CDS	855642..856358	putative type I 3-dehydroquinase
+sas:SAS0770	CDS	856441..856980	nitroreductase family protein
+sas:SAS0771	CDS	complement(857130..857450)	putative thioredoxin
+sas:SAS0772	CDS	857594..857950	conserved hypothetical protein
+sas:SAS0773	CDS	858108..858488	glycine cleavage system H protein
+sas:SAS0774	CDS	858667..859545	conserved hypothetical protein
+sas:SAS0775	CDS	complement(859569..859811)	hypothetical protein
+sas:SAS0776	CDS	860286..860672	hypothetical protein
+sas:SAS0777	CDS	860665..860961	putative thioredoxin
+sas:SAS0779	CDS	861211..862236	ABC transporter ATP-binding protein
+sas:SAS0780	CDS	862229..862924	ABC transporter permease protein
+sas:SAS0781	CDS	862942..863763	putative lipoprotein
+sas:SAS0782	CDS	864117..864311	conserved hypothetical protein
+sas:SAS0783	CDS	complement(864544..865395)	putative membrane protein
+sas:SAS0784	CDS	865723..866484	ABC transporter ATP-binding protein
+sas:SAS0785	CDS	866582..867889	conserved hypothetical protein
+sas:SAS0786	CDS	868004..869245	putative selenocysteine lyase
+sas:SAS0787	CDS	869235..869699	NifU-like protein
+sas:SAS0788	CDS	869850..871247	conserved hypothetical protein
+sas:SAS0788a	CDS	871434..871571	hypothetical protein
+sas:SAS0789	CDS	complement(871577..871891)	putative membrane protein
+sas:SAS0790	CDS	872256..873296	putative membrane protein
+sas:SAS0791	CDS	873310..874377	putative dioxygenase
+sas:SAS0792	CDS	874553..875401	conserved hypothetical protein
+sas:SAS0793	CDS	875414..876241	putative membrane protein
+sas:SAS0794	CDS	876268..877587	putative 5'-nucleotidase
+sas:SAS0795	CDS	877671..878588	putative lipoic acid synthetase
+sas:SAS0796	CDS	878718..879101	conserved hypothetical protein
+sas:SAS0797	CDS	complement(879180..879446)	conserved hypothetical protein
+sas:SAS0798	CDS	879544..879978	conserved hypothetical protein
+sas:SAS0799	CDS	879978..880757	haloacid dehalogenase-like hydrolase
+sas:SAS0800	CDS	880790..881749	D-isomer specific 2-hydroxyacid dehydrogenase
+sas:SAS0801	CDS	882161..882313	putative membrane protein
+sas:SAS0802	CDS	882329..883786	D-alanine-D-alanyl carrier protein ligase
+sas:SAS0803	CDS	883783..884997	putative activated D-alanine transport protein
+sas:SAS0804	CDS	885015..885251	D-alanyl carrier protein
+sas:SAS0805	CDS	885248..886423	putative lipoteichoic acid biosynthesis protein
+sas:SAS0806	CDS	complement(886686..886928)	conserved hypothetical protein
+sas:SAS0807	CDS	887029..887352	conserved hypothetical protein
+sas:SAS0808	CDS	complement(887411..888475)	putative pyridine nucleotide-disulphide oxidoreductase
+sas:SAS0809	CDS	888792..889028	conserved hypothetical protein
+sas:SAS0810	CDS	889041..889400	conserved hypothetical protein
+sas:SAS0811	CDS	889854..891062	putative pyridine nucleotide-disulphide oxidoreductase
+sas:SAS0812	CDS	891193..892668	cytosol aminopeptidase family protein
+sas:SAS0813	CDS	893079..894395	putative transporter protein
+sas:SAS0814	CDS	894414..894788	conserved hypothetical protein
+sas:SAS0815	CDS	complement(894844..895998)	hypothetical protein
+sas:SAS0816	CDS	complement(896247..896603)	Na+/H+ antiporter subunit
+sas:SAS0817	CDS	complement(896581..896874)	Na+/H+ antiporter subunit
+sas:SAS0818	CDS	complement(896874..897353)	Na+/H+ antiporter subunit
+sas:SAS0819	CDS	complement(897355..898851)	Na+/H+ antiporter subunit
+sas:SAS0820	CDS	complement(898844..899185)	Na+/H+ antiporter subunit
+sas:SAS0821	CDS	complement(899185..899613)	Na+/H+ antiporter subunit
+sas:SAS0822	CDS	complement(899606..902011)	Na+/H+ antiporter subunit
+sas:SAS0823	CDS	complement(902142..902525)	conserved hypothetical protein
+sas:SAS0824	CDS	902589..903182	putative cyclophilin type peptidyl-prolyl cis-trans isomerase
+sas:SAS0825	CDS	903597..903974	putative S1 RNA binding domain
+sas:SAS0826	CDS	904336..905463	NADH:flavin oxidoreductase / NADH oxidase family protein
+sas:SAS0827	CDS	905771..906961	ornithine aminotransferase
+sas:SAS0828	CDS	907070..908314	putative NAD-specific glutamate dehydrogenase
+sas:SAS0829	CDS	complement(908704..909633)	putative glycerophosphoryl diester phosphodiesterase
+sas:SAS0830	CDS	complement(909875..911254)	putative argininosuccinate lyase
+sas:SAS0831	CDS	complement(911244..912449)	putative argininosuccinate synthase
+sas:SAS0832	CDS	912800..914131	putative glucose-6-phosphate isomerase
+sas:SAS0833	CDS	914456..915031	putative membrane protein
+sas:SAS0834	CDS	915036..915560	putative signal peptidase Ia
+sas:SAS0835	CDS	915576..916151	signal peptidase Ib
+sas:SAS0836	CDS	916311..919787	conserved hypothetical protein
+sas:SAS0837	CDS	919788..923441	conserved hypothetical protein
+sas:SAS0838	CDS	923607..924509	fumarylacetoacetate (FAA) hydrolase family protein
+sas:SAS0839	CDS	924838..925227	putative membrane protein
+sas:SAS0840	CDS	complement(925399..926715)	coenzyme A disulfide reductase
+sas:SAS0841	CDS	complement(926767..927591)	putative haloacid dehalogenase-like hydrolase
+sas:SAS0842	CDS	927705..928013	conserved hypothetical protein
+sas:SAS0843	CDS	complement(928010..928102)	hypothetical protein
+sas:SAS0844	CDS	928561..930375	putative membrane protein
+sas:SAS0845	CDS	930578..933187	putative ATPase subunit of an ATP-dependent protease
+sas:SAS0846	CDS	complement(933246..934115)	LysR family regulatory protein
+sas:SAS0847	CDS	934225..935370	hypothetical protein
+sas:SAS0848	CDS	935354..935995	hypothetical protein
+sas:SAS0849	CDS	935988..937106	putative membrane protein
+sas:SAS0850	CDS	937090..937605	conserved hypothetical protein
+sas:SAS0851	CDS	937916..938350	putative exported protein
+sas:SAS0852	CDS	complement(938607..938792)	putative membrane protein
+sas:SAS0853	CDS	939087..940028	putative 3-oxoacyl-[acyl-carrier-protein] synthase III
+sas:SAS0854	CDS	940040..941284	3-oxoacyl-[acyl-carrier-protein] synthase II
+sas:SAS0855	CDS	complement(941339..941710)	putative membrane protein
+sas:SAS0856	CDS	941953..942879	putative oligopeptide transport system permease protein
+sas:SAS0857	CDS	942879..943949	putative oligopeptide transport system permease protein
+sas:SAS0858	CDS	943965..945047	putative oligopeptide transport ATP-binding protein
+sas:SAS0859	CDS	945037..945978	putative oligopeptide transport ATP-binding protein
+sas:SAS0860	CDS	945997..947652	transport system extracellular binding lipoprotein
+sas:SAS0861	CDS	947864..949579	transport system extracellular binding lipoprotein
+sas:SAS0862	CDS	949630..950616	putative oligopeptide transport ATP-binding protein
+sas:SAS0863	CDS	950619..951599	putative oligopeptide transport ATP-binding protein
+sas:SAS0864	CDS	951592..952554	putative oligopeptide transport system permease protein
+sas:SAS0865	CDS	952566..953447	putative oligopeptide transport system permease protein
+sas:SAS0866	CDS	complement(953489..954478)	putative tryptophanyl-tRNA synthetase
+sas:SAS0867	CDS	954773..955168	conserved hypothetical protein
+sas:SAS0868	CDS	955539..956258	regulatory protein
+sas:SAS0869	CDS	956379..957365	hypothetical protein
+sas:SAS0870	CDS	957413..959221	putative oligopeptidase
+sas:SAS0871	CDS	complement(959681..960487)	conserved hypothetical protein
+sas:SAS0872	CDS	complement(960510..960875)	protozoan/cyanobacterial globin family protein
+sas:SAS0873	CDS	complement(960979..961572)	conserved hypothetical protein
+sas:SAS0874	CDS	961758..962105	conserved hypothetical protein
+sas:SAS0875	CDS	962122..962757	conserved hypothetical protein
+sas:SAS0876	CDS	962774..963583	conserved hypothetical protein
+sas:SAS0877	CDS	963580..964434	putative RNA pseudouridylate synthase
+sas:SAS0878	CDS	964455..965840	putative divalent cation transport protein
+sas:SAS0879	CDS	965850..967694	putative cation transport protein
+sas:SAS0880	CDS	967972..968742	enoyl-[acyl-carrier-protein] reductase [NADH]
+sas:SAS0881	CDS	complement(968937..970022)	putative membrane protein
+sas:SAS0882	CDS	970364..971932	sodium:alanine symporter family protein
+sas:SAS0883	CDS	972077..972835	conserved hypothetical protein
+sas:SAS0884	CDS	973029..973538	conserved hypothetical protein
+sas:SAS0885	CDS	complement(973651..974841)	putative membrane protein
+sas:SAS0886	CDS	complement(974819..975994)	conserved hypothetical protein
+sas:SAS0887	CDS	976427..977911	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-dia minopimelate ligase
+sas:SAS0888	CDS	977901..978152	hypothetical protein
+sas:SAS0889	CDS	978152..979714	peptide chain release factor 3
+sas:SAS0890	CDS	980016..980819	putative membrane protein
+sas:SAS0891	CDS	complement(981108..982313)	phage integrase
+sas:SAS0892	CDS	982440..983063	putative membrane protein
+sas:SAS0893	CDS	complement(983050..983172)	hypothetical phage protein
+sas:SAS0894	CDS	complement(983262..983657)	hypothetical phage protein
+sas:SAS0895	CDS	complement(983686..984120)	putative lipoprotein
+sas:SAS0896	CDS	complement(984138..984599)	hypothetical phage protein
+sas:SAS0897	CDS	complement(984612..984941)	putative phage regulatory protein
+sas:SAS0898	CDS	985093..985293	putative phage regulatory protein
+sas:SAS0899	CDS	985377..985553	hypothetical phage protein
+sas:SAS0900	CDS	complement(985550..985789)	hypothetical phage protein
+sas:SAS0901	CDS	985836..986051	hypothetical phage protein
+sas:SAS0902	CDS	986076..986339	putative DNA-binding protein
+sas:SAS0903	CDS	986351..986512	hypothetical phage protein
+sas:SAS0904	gene	join(986605..986862,986862..986900)	pseudogene
+sas:SAS0905	CDS	986905..987165	hypothetical phage protein
+sas:SAS0906	CDS	987179..987541	hypothetical phage protein
+sas:SAS0907	CDS	987538..988704	hypothetical phage protein
+sas:SAS0908	CDS	988730..989287	hypothetical phage protein
+sas:SAS0909	CDS	989347..991308	putative DNA polymerase
+sas:SAS0910	CDS	991321..991506	hypothetical phage protein
+sas:SAS0911	CDS	991506..991907	putative DNA-binding protein
+sas:SAS0912	CDS	991907..992161	hypothetical phage protein
+sas:SAS0913	CDS	992167..992409	hypothetical phage protein
+sas:SAS0914	CDS	992423..992629	hypothetical phage protein
+sas:SAS0915	CDS	992632..993036	hypothetical phage protein
+sas:SAS0916	CDS	993033..993380	hypothetical phage protein
+sas:SAS0917	CDS	993377..993685	hypothetical phage protein
+sas:SAS0918	CDS	993678..993926	hypothetical phage protein
+sas:SAS0919	CDS	993919..994455	hypothetical phage protein
+sas:SAS0920	CDS	994492..994665	hypothetical phage protein
+sas:SAS0921	CDS	994682..994876	hypothetical phage protein
+sas:SAS0922	CDS	994876..995400	hypothetical phage protein
+sas:SAS0923	CDS	995448..995600	hypothetical phage protein
+sas:SAS0923a	CDS	995594..995665	hypothetical phage protein
+sas:SAS0924	CDS	995668..995868	putative exported phage protein
+sas:SAS0925	CDS	complement(995895..996101)	hypothetical phage protein
+sas:SAS0926	CDS	996156..998603	hypothetical phage protein
+sas:SAS0927	CDS	998944..999234	hypothetical phage protein
+sas:SAS0928	CDS	999224..1000591	hypothetical phage protein
+sas:SAS0929	CDS	1000604..1001041	phage regulatory protein
+sas:SAS0930	CDS	1001202..1001522	hypothetical phage protein
+sas:SAS0931	CDS	1001648..1001953	terminase small subunit
+sas:SAS0932	CDS	1001934..1003634	terminase large subunit
+sas:SAS0933	CDS	1003639..1004877	portal protein
+sas:SAS0934	CDS	1004861..1005634	phage protease
+sas:SAS0935	CDS	1005646..1006809	hypothetical phage protein
+sas:SAS0936	CDS	1006878..1007156	hypothetical phage protein
+sas:SAS0937	CDS	1007168..1007500	hypothetical phage protein
+sas:SAS0938	CDS	1007527..1007898	hypothetical phage protein
+sas:SAS0939	CDS	1007899..1008294	hypothetical phage protein
+sas:SAS0940	CDS	1008329..1008970	major tail protein
+sas:SAS0941	CDS	1009062..1009517	major tail protein
+sas:SAS0942	CDS	1009575..1009925	hypothetical phage protein
+sas:SAS0943	CDS	1009967..1010125	hypothetical phage protein
+sas:SAS0944	CDS	1010139..1016339	hypothetical phage protein
+sas:SAS0945	CDS	1016339..1017163	hypothetical phage protein
+sas:SAS0946	CDS	1017172..1018755	hypothetical phage protein
+sas:SAS0947	CDS	1018755..1019045	hypothetical phage protein
+sas:SAS0948	CDS	1019061..1020971	hypothetical phage protein
+sas:SAS0949	CDS	1020971..1022437	hypothetical phage protein
+sas:SAS0950	CDS	1022437..1022826	hypothetical phage protein
+sas:SAS0951	CDS	1022819..1022983	hypothetical phage protein
+sas:SAS0952	CDS	1023029..1023328	hypothetical phage protein
+sas:SAS0953	CDS	1023464..1023766	holin
+sas:SAS0954	CDS	1023777..1025231	amidase
+sas:SAS0955	CDS	1025807..1028116	putative protease
+sas:SAS0956	CDS	1028133..1029491	putative sodium transport protein
+sas:SAS0957	CDS	1029627..1031141	putative 5'-nucleotidase
+sas:tRNA-Ser-2	tRNA	complement(1031321..1031409)	tRNA-Ser
+sas:tRNA-Asn-1	tRNA	complement(1031412..1031486)	tRNA-Asn
+sas:SAS0958	CDS	complement(1031628..1032197)	putative regulatory protein
+sas:SAS0959	CDS	1032398..1032625	conserved hypothetical protein
+sas:SAS0960	CDS	complement(1032706..1033692)	putative lipoate-protein ligase A
+sas:SAS0961	CDS	1033891..1034067	hypothetical protein
+sas:SAS0962	CDS	1034082..1034684	putative membrane protein
+sas:SAS0963	CDS	1034895..1035002	hypothetical protein
+sas:SAS0964	CDS	<1035643..1035924	putative exported protein
+sas:SAS0965	gene	join(1035968..1036306,1036306..1037931)	pseudogene
+sas:SAS0967	CDS	1037934..1038254	putative exported protein
+sas:SAS0968	CDS	1038251..1038892	ABC transporter ATP-binding protein
+sas:SAS0969	CDS	complement(1038980..1039270)	putative membrane protein
+sas:SAS0970	CDS	1039611..1039898	hypothetical protein
+sas:SAS0971	CDS	1039904..1041385	putative glycosyl transferases
+sas:SAS0972	CDS	complement(1041474..1041830)	putative membrane protein
+sas:SAS0973	CDS	1042318..1043277	transport system extracellular binding lipoprotein
+sas:SAS0974	CDS	complement(1043323..1043439)	hypothetical protein
+sas:SAS0975	CDS	complement(1043518..1043733)	putative membrane protein
+sas:SAS0976	CDS	1043898..1044449	acetyltransferase (GNAT) family protein
+sas:SAS0977	CDS	complement(1044500..1045438)	UbiA prenyltransferase family protein
+sas:SAS0978	CDS	1045611..1046981	putative chorismate binding enzyme
+sas:SAS0979	CDS	1046968..1048641	putative menaquinone biosynthesis bifunctional protein
+sas:SAS0980	CDS	1048628..1049431	putative hydrolase
+sas:SAS0981	CDS	1049424..1050245	putative naphthoate synthase
+sas:SAS0982	CDS	complement(1050483..1050812)	hypothetical protein
+sas:SAS0983	CDS	complement(1050850..1052031)	cysteine protease precursor
+sas:SAS0984	CDS	complement(1052113..1053114)	glutamyl endopeptidase precursor
+sas:SAS0985	CDS	complement(1053642..1054796)	putative aminotransferase
+sas:SAS0986	CDS	complement(1054992..1056002)	putative membrane protein
+sas:SAS0987	CDS	1056155..1056574	MarR family regulatory protein
+sas:SAS0988	CDS	complement(1056781..1060533)	bifunctional autolysin precursor
+sas:SAS0989	CDS	complement(1060761..1061195)	acetyltransferase (GNAT) family protein
+sas:SAS0990	CDS	complement(1061350..1061820)	conserved hypothetical protein
+sas:SAS0991	CDS	complement(1061868..1063085)	putative exported protein
+sas:SAS0992	CDS	1063536..1064729	autolysis and methicillin resistant-related protein
+sas:SAS0993	CDS	complement(1065266..1065556)	putative quinol oxidase polypeptide IV
+sas:SAS0994	CDS	complement(1065553..1066158)	putative quinol oxidase polypeptide III
+sas:SAS0995	CDS	complement(1066148..1068136)	putative quinol oxidase polypeptide I
+sas:SAS0996	CDS	complement(1068136..1069236)	putative quinol oxidase polypeptide II precursor
+sas:SAS0997	CDS	complement(1069808..1070125)	putative exported protein
+sas:SAS0999	CDS	complement(1070908..1071768)	FolD bifunctional protein [includes: methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase]
+sas:SAS1000	CDS	1071969..1072451	putative phosphoribosylaminoimidazole carboxylase catalytic subunit
+sas:SAS1001	CDS	1072438..1073562	putative phosphoribosylaminoimidazole carboxylase ATPase subunit
+sas:SAS1002	CDS	1073566..1074270	putative phosphoribosylaminoimidazole-succinocarboxamide synthase
+sas:SAS1003	CDS	1074270..1074533	conserved hypothetical protein
+sas:SAS1004	CDS	1074535..1075206	putative phosphoribosylformylglycinamidine synthase I
+sas:SAS1005	CDS	1075199..1077388	putative phosphoribosylformylglycinamidine synthase II
+sas:SAS1006	CDS	1077367..1078851	putative amidophosphoribosyltransferase precursor
+sas:SAS1007	CDS	1078844..1079872	putative phosphoribosylformylglycinamidine cyclo-ligase
+sas:SAS1008	CDS	1079875..1080441	putative phosphoribosylglycinamide formyltransferase
+sas:SAS1009	CDS	1080456..1081934	putative bifunctional purine biosynthesis protein [includes: phosphoribosylaminoimidazolecarboxamide formyltransferase and IMP cyclohydrolase]
+sas:SAS1010	CDS	1081956..1083203	putative phosphoribosylamine--glycine ligase
+sas:SAS1011	CDS	complement(1083468..1084289)	putative cobalt transport protein
+sas:SAS1012	CDS	complement(1084267..1085667)	ABC transporter ATP-binding protein
+sas:SAS1013	CDS	complement(1085682..1086257)	putative membrane protein
+sas:SAS1014	CDS	complement(1086841..1086975)	hypothetical protein
+sas:SAS1015	CDS	1087127..1088422	putative membrane protein
+sas:SAS1016	CDS	1088847..1090019	conserved hypothetical protein
+sas:SAS1017	CDS	1090073..1090615	hypothetical protein
+sas:SAS1018	CDS	1090769..1091035	histidine-containing phosphocarrier protein (HPr)
+sas:SAS1019	CDS	1091038..1092756	phosphoenolpyruvate-protein phosphotransferase
+sas:SAS1020	CDS	complement(1092993..1093226)	putative glutaredoxin
+sas:SAS1021	CDS	1093424..1094785	putative cytochrome ubiquinol oxidase
+sas:SAS1022	CDS	1094782..1095801	putative membrane protein
+sas:SAS1023	CDS	1095934..1096596	putative potassium transport protein
+sas:SAS1024	CDS	complement(1096945..1098642)	conserved hypothetical protein
+sas:SAS1025	CDS	complement(1098642..1098860)	conserved hypothetical protein
+sas:SAS1026	CDS	complement(1099342..1099893)	putative polypeptide deformylase 2
+sas:SAS1027	CDS	1100258..1100884	putative lipoprotein
+sas:SAS1028	CDS	1101055..1102167	putative pyruvate dehydrogenase E1 component, alpha subunit
+sas:SAS1029	CDS	1102171..1103148	putative pyruvate dehydrogenase E1 component, beta subunit
+sas:SAS1030	CDS	1103239..1104531	dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+sas:SAS1031	CDS	1104535..1105941	dihydrolipoamide dehydrogenase
+sas:SAS1032	CDS	1106109..1106384	conserved hypothetical protein
+sas:SAS1033	CDS	1106528..1107067	putative DNA-binding protein
+sas:SAS1034	CDS	1107080..1108174	putative ABC transport ATP-binding protein
+sas:SAS1035	CDS	1108167..1108964	putative ABC transport system permease protein
+sas:SAS1036	CDS	1108970..1109779	putative ABC transport system permease protein
+sas:SAS1037	CDS	1109779..1110852	ABC transporter extracellular binding protein
+sas:SAS1038	CDS	1110926..1111945	putative membrane protein
+sas:SAS1039	CDS	1112228..1112647	putative membrane protein
+sas:SAS1040	CDS	complement(1112729..1114081)	putative manganese transport protein
+sas:SAS1041	CDS	complement(1114265..1114879)	conserved hypothetical protein
+sas:SAS1042	CDS	1115036..1115863	inositol monophosphatase family protein
+sas:SAS1043	CDS	complement(1116017..1116208)	putative membrane protein
+sas:SAS1044	CDS	1116310..1118157	BipA family GTPase
+sas:SAS1045	CDS	complement(1118297..1118464)	conserved hypothetical protein
+sas:SAS1046	CDS	complement(1118466..1118948)	conserved hypothetical protein
+sas:SAS1047	CDS	1119089..1119364	conserved hypothetical protein
+sas:SAS1048	CDS	1119678..1120904	putative cell division protein
+sas:SAS1049	CDS	1121458..1124910	putative pyruvate carboxylase
+sas:SAS1050	CDS	complement(1125050..1125961)	putative heme A synthase
+sas:SAS1051	CDS	1126401..1127312	putative protoheme IX farnesyltransferase
+sas:SAS1052	CDS	1127337..1127798	putative membrane protein
+sas:SAS1053	CDS	1128125..1129162	putative membrane protein
+sas:SAS1054	CDS	1129178..1129612	conserved hypothetical protein
+sas:SAS1055	CDS	complement(1129675..1130601)	putative exported protein
+sas:SAS1056	CDS	1130840..1131094	conserved hypothetical protein
+sas:SAS1057	CDS	complement(1131097..1131486)	conserved hypothetical protein
+sas:SAS1058	CDS	1131556..1132098	putative methylase
+sas:SAS1059	CDS	1132100..1132582	putative phosphopantetheine adenylyltransferase
+sas:SAS1060	CDS	complement(1132644..1133783)	conserved hypothetical protein
+sas:SAS1061	CDS	1133910..1134467	conserved hypothetical protein
+sas:SAS1062	CDS	1134547..1134720	50S ribosomal protein L32
+sas:SAS1063	CDS	complement(1134874..1136811)	iron-regulated heme-iron binding protein
+sas:SAS1064	CDS	complement(1137014..1138066)	iron-regulated heme-iron binding protein
+sas:SAS1065	CDS	1138275..1138958	putative surface anchored protein
+sas:SAS1066	CDS	1138958..1140034	putative membrane protein
+sas:SAS1067	CDS	1140031..1140909	putative transport system extracellular binding lipoprotein
+sas:SAS1068	CDS	1140919..1141887	iron/heme permease
+sas:SAS1069	CDS	1141949..1142683	sortase B
+sas:SAS1070	CDS	1142702..1143025	conserved hypothetical protein
+sas:SAS1070a	CDS	1143062..1143169	hypothetical protein
+sas:SAS1071	CDS	1143409..1144149	SpoU rRNA Methylase family protein
+sas:SAS1072	CDS	1144530..1145588	putative phenylalanyl-tRNA synthetase alpha chain
+sas:SAS1073	CDS	1145588..1147990	putative phenylalanyl-tRNA synthetase beta chain
+sas:SAS1074	CDS	complement(1148225..1149163)	putative ribonuclease
+sas:SAS1075	CDS	1149533..1149799	conserved hypothetical protein
+sas:SAS1076	CDS	1149800..1150321	putative membrane protein
+sas:SAS1077	CDS	1150394..1152106	DNA polymerase X family protein
+sas:SAS1078	CDS	1152116..1154464	MutS family DNA mismatch repair protein
+sas:SAS1079	CDS	1154637..1154951	thioredoxin
+sas:SAS1080	CDS	1155275..1157056	putative excinuclease ABC subunit C
+sas:SAS1081	CDS	1157380..1157994	putative succinate dehydrogenase cytochrome b558
+sas:SAS1082	CDS	1158046..1159812	putative succinate dehydrogenase flavoprotein subunit
+sas:SAS1083	CDS	1159812..1160627	putative succinate dehydrogenase iron-sulfur protein
+sas:SAS1084	CDS	1160863..1161663	putative glutamate racemase
+sas:SAS1085	CDS	1161675..1162262	conserved hypothetical protein
+sas:SAS1086	CDS	1162255..1162758	conserved hypothetical protein
+sas:SAS1087	CDS	1162886..1163053	hypothetical protein
+sas:SAS1088	CDS	1163247..1163564	putative exported protein
+sas:SAS1089	CDS	complement(1163934..1164332)	hypothetical protein
+sas:SAS1090	CDS	1165003..1165509	putative membrane protein
+sas:SAS1091	CDS	1165768..1166265	fibrinogen-binding protein precursor
+sas:SAS1092	CDS	1166419..1166769	putative exported protein
+sas:SAS1093	CDS	1167086..1167409	hypothetical protein
+sas:SAS1094	CDS	complement(1167534..1167719)	putative membrane protein
+sas:SAS1095	CDS	complement(1167926..1168174)	putative membrane protein
+sas:SAS1096	CDS	complement(1168338..1168571)	hypothetical protein
+sas:SAS1097	CDS	complement(1169048..1170007)	alpha-hemolysin precursor
+sas:SAS1097a	CDS	1170680..1170826	hypothetical protein
+sas:SAS1098	CDS	1170810..1171007	hypothetical protein
+sas:SAS1099	CDS	complement(1171451..1172167)	exotoxin
+sas:SAS1100	CDS	complement(1172275..1173000)	exotoxin
+sas:SAS1101	CDS	complement(1173095..1173820)	exotoxin
+sas:SAS1102	CDS	1174258..1175259	ornithine carbamoyltransferase
+sas:SAS1103	CDS	1175282..1176214	putative carbamate kinase
+sas:SAS1104	CDS	1176386..1177942	putative membrane protein
+sas:SAS1105	CDS	1178249..1178476	putative membrane protein
+sas:SAS1106	CDS	complement(1178782..1179729)	putative membrane protein
+sas:SAS1107	CDS	1179978..1180166	putative DNA-binding protein
+sas:tRNA-Arg-3	tRNA	complement(1180641..1180714)	tRNA-Arg
+sas:SAS1107a	CDS	1181078..1181212	antibacterial protein
+sas:SAS1108	CDS	1181269..1181403	antibacterial protein
+sas:SAS1109	CDS	1181536..1182222	putative haloacid dehalogenase-like hydrolase
+sas:SAS1110	CDS	complement(1182331..1182771)	acetyltransferase (GNAT) family protein
+sas:SAS1111	CDS	1182966..1184579	conserved hypothetical protein
+sas:SAS1112	CDS	1184723..1185154	conserved hypothetical protein
+sas:SAS1113	CDS	1185170..1186105	MraW methylase family protein
+sas:SAS1114	CDS	1186119..1186520	putative cell division protein
+sas:SAS1115	CDS	1186501..1188735	penicillin-binding protein 1
+sas:SAS1116	CDS	1189027..1189992	phospho-N-acetylmuramoyl-pentapeptide-transfera se
+sas:SAS1117	CDS	1189994..1191343	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+sas:SAS1118	CDS	1191356..1192678	putative cell division protein
+sas:SAS1119	CDS	1192784..1194196	putative cell division protein
+sas:SAS1120	CDS	1194229..1195401	cell division protein FtsZ
+sas:SAS1121	CDS	1195661..1196452	conserved hypothetical protein
+sas:SAS1122	CDS	1196470..1197144	conserved hypothetical protein
+sas:SAS1123	CDS	1197141..1197704	hypothetical protein
+sas:SAS1124	CDS	1197716..1198006	putative membrane protein
+sas:SAS1125	CDS	1198089..1198895	conserved hypothetical protein
+sas:SAS1126	CDS	1198919..1199536	conserved hypothetical protein
+sas:SAS1127	CDS	1199757..1202510	isoleucyl-tRNA synthetase
+sas:SAS1128	CDS	1202800..1203597	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+sas:SAS1129	gene	1204084..1204269	pseudogene
+sas:SAS1130	CDS	1204450..1204941	lipoprotein signal peptidase
+sas:SAS1131	CDS	1204941..1205858	putative RNA pseudouridylate synthase
+sas:SAS1132	CDS	1206258..1206785	putative pyrimidine operon regulatory protein
+sas:SAS1133	CDS	1207003..1208310	putative uracil permease
+sas:SAS1134	CDS	1208338..1209219	putative aspartate carbamoyltransferase
+sas:SAS1135	CDS	1209237..1210511	putative dihydroorotase
+sas:SAS1136	CDS	1210513..1211613	putative carbamoyl-phosphate synthase, pyrimidine-specific, small chain
+sas:SAS1137	CDS	1211606..1214779	putative carbamoyl-phosphate synthase, pyrimidine-specific, large chain
+sas:SAS1138	CDS	1214886..1215581	putative orotidine 5'-phosphate decarboxylase
+sas:SAS1139	CDS	1215581..1216192	putative orotate phosphoribosyltransferase
+sas:SAS1140	CDS	1216222..1216434	hypothetical protein
+sas:SAS1141	CDS	1216871..1217272	conserved hypothetical protein
+sas:SAS1142	CDS	complement(1217535..1219232)	conserved hypothetical protein
+sas:SAS1143	CDS	1219507..1220130	putative guanylate kinase
+sas:SAS1144	CDS	1220130..1220348	conserved hypothetical protein
+sas:SAS1145	CDS	1220564..1221763	putative flavoprotein
+sas:SAS1146	CDS	1221763..1224171	primosomal protein n'
+sas:SAS1147	CDS	1224674..1225627	putative lipoprotein
+sas:SAS1148	CDS	complement(1225790..1226068)	putative membrane protein
+sas:SAS1149	CDS	1226292..1226780	putative polypeptide deformylase
+sas:SAS1150	CDS	1226773..1227708	methionyl-tRNA formyltransferase
+sas:SAS1151	CDS	1227705..1229012	hypothetical protein
+sas:SAS1152	CDS	1229015..1230109	conserved hypothetical protein
+sas:SAS1153	CDS	1230116..1230859	putative protein phosphatase
+sas:SAS1154	CDS	1230856..1232850	serine/threonine-protein kinase
+sas:SAS1155	CDS	1233078..1233953	conserved hypothetical protein
+sas:SAS1156	CDS	1233954..1234598	putative ribulose-phosphate 3-epimerase
+sas:SAS1157	CDS	1234605..1235246	conserved hypothetical protein
+sas:SAS1158	CDS	complement(1235627..1235815)	50S ribosomal protein L28
+sas:SAS1159	CDS	1236258..1236632	conserved hypothetical protein
+sas:SAS1160	CDS	1236647..1238293	conserved hypothetical protein
+sas:SAS1161	CDS	1238483..1240543	ATP-dependent DNA helicase
+sas:SAS1162	CDS	1240761..1241318	conserved hypothetical protein
+sas:SAS1163	CDS	1241323..1242309	putative fatty acid synthesis protein
+sas:SAS1164	CDS	1242302..1243228	putative malonyl CoA-acyl carrier protein transacylase
+sas:SAS1165	CDS	1243215..1243955	3-oxoacyl-[acyl-carrier protein] reductase
+sas:SAS1166	CDS	1244325..1244558	acyl carrier protein
+sas:SAS1167	CDS	1244674..1245405	putative ribonuclease III
+sas:SAS1168	CDS	1245552..1249118	putative chromosome partition protein
+sas:SAS1169	CDS	1249118..1250368	putative cell division protein
+sas:SAS1170	CDS	1250355..1250687	putative DNA-binding protein
+sas:SAS1171	CDS	1250713..1252080	signal recognition particle protein
+sas:SAS1172	CDS	1252515..1252790	30S ribosomal protein S16
+sas:SAS1173	CDS	1252978..1253481	16S rRNA processing protein
+sas:SAS1174	CDS	1253481..1254218	putative tRNA (guanine-7-)-methyltransferase
+sas:SAS1175	CDS	1254321..1254671	50S ribosomal protein L19
+sas:SAS1176	CDS	complement(1255140..1257746)	putative membrane protein
+sas:SAS1177	CDS	1258147..1259031	putative GTPase protein
+sas:SAS1178	CDS	1259015..1259782	putative ribonuclease HII
+sas:SAS1179	CDS	1259891..1261057	putative CoA synthetase protein
+sas:SAS1180	CDS	1261079..1261987	putative succinyl-CoA ligase
+sas:SAS1181	CDS	1262214..1263332	putative cell wall hydrolase
+sas:SAS1182	CDS	1263360..1264604	FemAB family protein
+sas:SAS1183	CDS	1264777..1265649	SMF family protein
+sas:SAS1184	CDS	1265829..1267898	DNA topoisomerase I
+sas:SAS1185	CDS	1268054..1269361	conserved hypothetical protein
+sas:SAS1186	CDS	1269778..1270674	putative integrase/recombinase
+sas:SAS1187	CDS	1270671..1271216	putative ATP-dependent protease
+sas:SAS1188	CDS	1271282..1272685	putative ATP-dependent protease ATP-binding subunit
+sas:SAS1189	CDS	1272710..1273483	putative regulatory protein
+sas:SAS1190	CDS	1273825..1274592	30S ribosomal protein S2
+sas:SAS1191	CDS	1274774..1275655	elongation factor Ts
+sas:SAS1192	CDS	1275792..1276514	putative uridylate kinase
+sas:SAS1193	CDS	1276533..1277087	ribosome recycling factor
+sas:SAS1194	CDS	1277460..1278230	undecaprenyl pyrophosphate synthetase
+sas:SAS1195	CDS	1278237..1279019	putative phosphatidate cytidylyltransferase
+sas:SAS1196	CDS	1279231..1280517	putative membrane protein
+sas:SAS1197	CDS	1280537..1282240	prolyl-tRNA synthetase
+sas:SAS1198	CDS	1282498..1286814	DNA polymerase III PolC-type
+sas:SAS1199	CDS	1287104..1287571	conserved hypothetical protein
+sas:SAS1200	CDS	1287592..1288767	putative N utilization substance protein A
+sas:SAS1201	CDS	1288788..1289072	conserved hypothetical protein
+sas:SAS1202	CDS	1289069..1289386	putative ribosomal protein
+sas:SAS1203	CDS	1289391..1291508	translation initiation factor IF-2
+sas:SAS1204	CDS	1291894..1292244	putative ribosome-binding factor A
+sas:SAS1205	CDS	1292414..1293331	putative tRNA pseudouridine synthase B
+sas:SAS1206	CDS	1293346..1294317	putative riboflavin biosynthesis protein
+sas:SAS1207	CDS	1294432..1294701	30S ribosomal protein S15
+sas:SAS1208	CDS	1295069..1297165	polyribonucleotide nucleotidyltransferase
+sas:SAS1209	CDS	1297401..1299074	conserved hypothetical protein
+sas:SAS1210	CDS	1299331..1301700	putative DNA translocase (FtsK/SpoIIIE family protein)
+sas:SAS1211	CDS	1301705..1302418	conserved hypothetical protein
+sas:SAS1212	CDS	1302449..1303714	conserved hypothetical protein
+sas:SAS1213	CDS	1303714..1305000	putative protease
+sas:SAS1214	CDS	1305000..1305704	putative short chain dehydrogenase
+sas:SAS1215	CDS	1305809..1306636	putative membrane protein
+sas:SAS1216	CDS	1306655..1307047	putative DNA-binding protein
+sas:SAS1217	CDS	1307081..1307659	putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+sas:SAS1218	CDS	1307886..1309037	conserved hypothetical protein
+sas:SAS1219	CDS	1309202..1310245	recombinase A
+sas:SAS1220	CDS	1310599..1312158	putative exported protein
+sas:SAS1221	CDS	complement(1312455..1312670)	hypothetical protein
+sas:SAS1222	CDS	1312844..1313641	conserved hypothetical protein
+sas:SAS1223	CDS	1313781..1315541	putative pyruvate flavodoxin/ferredoxin oxidoreductase
+sas:SAS1224	CDS	1315542..1316408	conserved hypothetical protein
+sas:SAS1225	CDS	1316502..1316795	conserved hypothetical protein
+sas:SAS1226	CDS	1316929..1318473	conserved hypothetical protein
+sas:SAS1227	CDS	1318474..1318839	conserved hypothetical protein
+sas:SAS1228	CDS	1318866..1319357	putative membrane protein
+sas:SAS1229	CDS	1319660..1322278	DNA mismatch repair protein MutS
+sas:SAS1230	CDS	1322291..1324300	DNA mismatch repair protein MutL
+sas:SAS1231	CDS	1324315..1324848	putative glycerol uptake operon antiterminator regulatory protein
+sas:SAS1231a	CDS	complement(1324885..1324983)	hypothetical protein
+sas:SAS1232	CDS	1325323..1326141	putative glycerol uptake facilitator protein
+sas:SAS1233	CDS	1326270..1327766	glycerol kinase
+sas:SAS1234	CDS	1327876..1329597	aerobic glycerol-3-phosphate dehydrogenase
+sas:SAS1235	CDS	1329747..1330661	putative hydrolase
+sas:SAS1236	CDS	1330679..1331614	putative tRNA delta 2-isopentenylpyrophosphate transferase
+sas:SAS1237	CDS	1331629..1331862	conserved hypothetical protein
+sas:SAS1238	CDS	complement(1332084..1332560)	putative glutathione peroxidase
+sas:SAS1239	CDS	1332672..1333910	conserved hypothetical protein
+sas:SAS1240	CDS	1333929..1335167	conserved hypothetical protein
+sas:SAS1241	CDS	1335411..1335779	glutamine synthetase repressor
+sas:SAS1242	CDS	1335798..1337138	glutamine synthetase
+sas:SAS1243	CDS	1337641..1337838	hypothetical protein
+sas:SAS1244	CDS	1338539..1338745	conserved hypothetical protein
+sas:SAS1245	CDS	1339042..1339248	hypothetical protein
+sas:SAS1246	gene	join(1340487..1340558,1340558..1340671)	pseudogene
+sas:SAS1246a	CDS	1341182..1341286	hypothetical protein
+sas:SAS1247	CDS	1341415..1341666	hypothetical protein
+sas:SAS1249	CDS	1342141..1342575	hypothetical protein
+sas:SAS1250	CDS	1342863..1343075	hypothetical protein
+sas:SAS1251	CDS	1343195..1343464	hypothetical protein
+sas:SAS1252	CDS	1343477..1343599	hypothetical protein
+sas:SAS1253	gene	join(1343655..1343837,1343841..1344317)	pseudogene
+sas:SAS1254	CDS	1344328..1344522	hypothetical protein
+sas:SAS1255	CDS	1344808..1344918	hypothetical protein
+sas:SAS1256	CDS	complement(1345083..1346108)	conserved hypothetical protein
+sas:SAS1257	CDS	1346378..1346575	hypothetical protein
+sas:SAS1258	CDS	1346632..1348113	putative cardiolipin synthase
+sas:SAS1259	CDS	1348288..1349196	ABC transporter ATP-binding protein
+sas:SAS1260	CDS	1349165..1349896	putative membrane protein
+sas:SAS1261	CDS	1349900..1350991	sensor kinase protein
+sas:SAS1262	CDS	1350988..1351590	response regulator
+sas:SAS1263	CDS	complement(1351703..1351891)	putative membrane protein
+sas:SAS1264	CDS	1352030..1352563	thermonuclease
+sas:SAS1265	CDS	complement(1352706..1353560)	putative exported protein
+sas:SAS1266	CDS	1353876..1354466	hypothetical protein
+sas:SAS1267	CDS	complement(1354520..1355914)	putative aspartate kinase
+sas:SAS1268	CDS	1356093..1357373	putative homoserine dehydrogenase
+sas:SAS1269	CDS	1357379..1358440	threonine synthase
+sas:SAS1270	CDS	1358442..1359356	homoserine kinase
+sas:SAS1271	CDS	1359414..1360217	haloacid dehalogenase-like hydrolase
+sas:SAS1272	CDS	complement(1360510..1360824)	hypothetical protein
+sas:SAS1273	CDS	complement(1361042..1362496)	amino acid permease
+sas:SAS1274	CDS	1362700..1364217	catalase
+sas:SAS1275	CDS	1364308..1364457	50S ribosomal protein L33 type 2
+sas:SAS1276	CDS	1364911..1365180	30S ribosomal protein S14
+sas:SAS1277	CDS	1365337..1366314	putative GMP reductase
+sas:SAS1278	CDS	1366489..1367352	hypothetical protein
+sas:SAS1279	CDS	complement(1367732..1368355)	DNA damage-inducible repressor
+sas:SAS1280	CDS	1368495..1368731	putative membrane protein
+sas:SAS1281	CDS	1368867..1369106	conserved hypothetical protein
+sas:SAS1282	CDS	1369227..1371215	putative transketolase
+sas:SAS1283	CDS	1371493..1371735	putative exported protein
+sas:SAS1284	CDS	1371914..1372381	putative membrane protein
+sas:SAS1285	CDS	1372505..1373626	putative exonuclease
+sas:SAS1286	CDS	1373630..1376659	putative exonuclease
+sas:SAS1287	CDS	complement(1376730..1377092)	large-conductance mechanosensitive channel
+sas:SAS1288	CDS	1377296..1378942	glycine betaine transporter 1
+sas:SAS1289	CDS	1379834..1382539	aconitate hydratase
+sas:SAS1290	CDS	1382719..1383186	conserved hypothetical protein
+sas:SAS1292	CDS	complement(1383393..1383689)	conserved hypothetical protein
+sas:SAS1293	CDS	complement(1384064..1384672)	putative membrane protein
+sas:SAS1294	CDS	1384872..1386869	topoisomerase IV subunit B
+sas:SAS1295	CDS	1386869..1389271	topoisomerase IV subunit A
+sas:SAS1296	CDS	1389521..1390981	sodium:alanine symporter family protein
+sas:SAS1297	CDS	1391481..1392332	transcription antiterminator
+sas:SAS1298	CDS	1392379..1392474	hypothetical protein
+sas:SAS1299	CDS	1392467..1393675	putative membrane protein
+sas:SAS1300	CDS	1394156..1396678	putative membrane protein
+sas:SAS1301	CDS	complement(1396881..1397390)	peptide methionine sulfoxide reductase I
+sas:SAS1302	CDS	1397527..1398510	putative membrane protein
+sas:SAS1303	CDS	complement(1398598..1398786)	putative 4-oxalocrotonate tautomerase
+sas:SAS1304	CDS	1398931..1400193	ImpB/MucB/SamB family protein
+sas:SAS1305	CDS	complement(1400329..1401420)	prephenate dehydrogenase
+sas:SAS1306	CDS	1401585..1402616	putative peptidase
+sas:SAS1307	CDS	1403108..1404514	anthranilate synthase component I
+sas:SAS1308	CDS	1404511..1405077	anthranilate synthase component II
+sas:SAS1309	CDS	1405083..1406081	anthranilate phosphoribosyltransferase
+sas:SAS1310	CDS	1406083..1406865	indole-3-glycerol phosphate synthase
+sas:SAS1311	CDS	1406865..1407497	N-(5'phosphoribosyl)anthranilate (PRA) isomerase
+sas:SAS1312	CDS	1407490..1408704	tryptophan synthase beta chain
+sas:SAS1313	CDS	1408697..1409425	tryptophan synthase alpha chain
+sas:SAS1314	CDS	1409747..1411009	factor essential for expression of methicillin resistance
+sas:SAS1315	CDS	1411028..1412287	putative methicillin resistance expression factor
+sas:SAS1316	CDS	1412576..1413232	putative membrane protein
+sas:SAS1318	gene	join(1413553..1413669,1413671..1414270)	pseudogene
+sas:SAS1319	CDS	complement(1414319..1414792)	hypothetical protein
+sas:SAS1320	CDS	complement(1414916..1415617)	putative oligopeptide transporter ATPase
+sas:SAS1321	CDS	complement(1415610..1416383)	putative oligopeptide transporter ATPase
+sas:SAS1322	CDS	complement(1416370..1417200)	putative oligopeptide transport system permease
+sas:SAS1323	CDS	complement(1417193..1418179)	putative oligopeptide transport system permease
+sas:SAS1324	CDS	complement(1418483..1418827)	putative membrane protein
+sas:SAS1325	CDS	1419032..1420846	putative peptidase
+sas:SAS1326	CDS	complement(1420985..1421626)	putative phosphate transport system protein
+sas:SAS1327	CDS	complement(1421633..1422484)	ABC transporter ATP-binding protein
+sas:SAS1328	CDS	complement(1422531..1423448)	ABC transporter permease protein
+sas:SAS1329	CDS	complement(1423450..1424376)	ABC transporter permease protein
+sas:SAS1330	CDS	complement(1424567..1425550)	phosphate-binding lipoprotein
+sas:SAS1331	gene	1426098..1426391	pseudogene
+sas:SAS1332	CDS	complement(1426526..1427428)	conserved hypothetical protein
+sas:SAS1333	CDS	1427575..1429176	ABC transporter ATP-binding protein
+sas:SAS1334	CDS	1430043..1431248	aspartokinase II
+sas:SAS1335	CDS	1431312..1432301	aspartate semialdehyde dehydrogenase
+sas:SAS1336	CDS	1432303..1433190	dihydrodipicolinate synthase
+sas:SAS1337	CDS	1433187..1433909	dihydrodipicolinate reductase
+sas:SAS1338	CDS	1433936..1434655	putative tetrahydrodipicolinate acetyltransferase
+sas:SAS1339	CDS	1434798..1435949	putative peptidase
+sas:SAS1340	CDS	1435954..1437039	putative alanine racemase
+sas:SAS1341	CDS	1437029..1438294	diaminopimelate decarboxylase
+sas:SAS1342	CDS	complement(1438534..1438935)	putative membrane protein
+sas:SAS1343	CDS	complement(1439132..1439332)	cold shock protein
+sas:SAS1344	CDS	complement(1439503..1439811)	hypothetical protein
+sas:SAS1345	CDS	1439974..1440243	putative acylphosphatase
+sas:SAS1346	CDS	1440268..1440891	putative membrane protein
+sas:SAS1347	CDS	1440923..1442059	conserved hypothetical protein
+sas:SAS1348	gene	complement(join(1442115..1442330,1442330..1442596))	pseudogene
+sas:SAS1350	CDS	complement(1443072..1444415)	putative branched-chain amino acid transporter protein
+sas:SAS1351	CDS	complement(1444640..1446526)	conserved hypothetical protein
+sas:SAS1352	CDS	complement(1446540..1447331)	conserved hypothetical protein
+sas:SAS1353	CDS	complement(1447512..1447715)	conserved hypothetical protein
+sas:SAS1354	CDS	complement(1447744..1448553)	hypothetical protein
+sas:SAS1355	CDS	complement(1449133..1450401)	dihydrolipoamide succinyltransferase E2 component of 2-oxoglutarate dehydrogenase complex
+sas:SAS1356	CDS	complement(1450415..1453213)	2-oxoglutarate dehydrogenase E1 component
+sas:SAS1357	CDS	complement(1453497..1454852)	sensor kinase protein
+sas:SAS1358	CDS	complement(1454849..1455508)	response regulator protein
+sas:SAS1358a	CDS	complement(1455979..1456152)	hypothetical protein
+sas:SAS1359	CDS	complement(1456295..1456909)	putative membrane protein
+sas:SAS1360	CDS	complement(1456926..1457996)	putative UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyr ophosphoryl-undecaprenol N-acetylglucosamine transferase
+sas:SAS1361	CDS	complement(1458008..1458517)	putative acetyltransferase
+sas:SAS1362	gene	1459026..1459604	pseudogene
+sas:SAS1363	CDS	complement(1459705..1461195)	putative protease
+sas:SAS1364	CDS	complement(1461387..1461608)	conserved hypothetical protein
+sas:SAS1365	CDS	complement(1461608..1462108)	PTS system, glucose-specific IIA component
+sas:SAS1366	CDS	complement(1462120..1462548)	conserved hypothetical protein
+sas:SAS1367	CDS	complement(1462541..1463074)	peptide methionine sulfoxide reductase II
+sas:SAS1368	CDS	complement(1463160..1463999)	conserved hypothetical protein
+sas:SAS1369	CDS	complement(1464014..1464493)	dihydrofolate reductase type I
+sas:SAS1370	CDS	complement(1464693..1465649)	thymidylate synthase
+sas:SAS1371	CDS	complement(1466073..1466510)	conserved hypothetical protein
+sas:SAS1372	CDS	complement(1466526..1467650)	conserved hypothetical protein
+sas:SAS1373	CDS	complement(1467689..1467940)	hypothetical protein
+sas:SAS1374	CDS	complement(1467952..1468146)	conserved hypothetical protein
+sas:SAS1375	CDS	1468391..1469095	putative membrane protein
+sas:SAS1375a	CDS	<1469127..1469261	hypothetical protein
+sas:SAS1376	CDS	1469635..1470036	conserved hypothetical protein
+sas:SAS1377	gene	complement(join(1470095..1475716,1475715..1496960))	ebh; pseudogene
+sas:SAS1379	CDS	complement(1497358..1498749)	transporter protein
+sas:SAS1380	CDS	complement(1498906..1500228)	amino acid permease
+sas:SAS1381	CDS	complement(1500259..1501299)	putative threonine dehydratase
+sas:SAS1382	CDS	complement(1501394..1502512)	alanine dehydrogenase 2
+sas:SAS1383	CDS	complement(1502988..1503866)	putative 5'-3' exonuclease
+sas:SAS1384	CDS	complement(1503886..1507326)	hypothetical protein
+sas:SAS1385	CDS	1507629..1508969	putative membrane protein
+sas:SAS1386	CDS	complement(1509540..1509872)	putative exported protein
+sas:SAS1387	CDS	complement(1509956..1511101)	conserved hypothetical protein
+sas:SAS1388	CDS	complement(1511752..1512096)	conserved hypothetical protein
+sas:SAS1389	CDS	complement(1512110..1512673)	conserved hypothetical protein
+sas:SAS1390	CDS	complement(1512666..1513016)	conserved hypothetical protein
+sas:SAS1391	CDS	complement(1513070..1513249)	hypothetical protein
+sas:SAS1392	CDS	1513555..1514181	putative recombination protein U
+sas:SAS1393	CDS	1514178..1516361	penicillin-binding protein 2
+sas:SAS1394	CDS	complement(1516925..1517266)	putative exported protein
+sas:SAS1395	CDS	complement(1517271..1517930)	putative endonuclease
+sas:SAS1396	CDS	complement(1517920..1518606)	conserved hypothetical protein
+sas:SAS1397	CDS	complement(1518934..1520226)	putative asparaginyl-tRNA synthetase
+sas:SAS1398	CDS	complement(1520548..1523241)	conserved hypothetical protein
+sas:SAS1399	CDS	complement(1523265..1524236)	BirA bifunctional protein [includes: biotin operon repressor; biotin--[acetyl-CoA-carboxylase] synthetase
+sas:SAS1400	CDS	complement(1524223..1525425)	poly A polymerase family protein
+sas:SAS1401	CDS	complement(1525430..1526572)	putative glycosyl transferase
+sas:SAS1402	CDS	complement(1526814..1527131)	conserved hypothetical protein
+sas:SAS1403	CDS	complement(1527467..1528165)	putative membrane protein
+sas:SAS1404	CDS	complement(1528219..1528806)	putative membrane protein
+sas:SAS1405	CDS	complement(1528796..1529371)	conserved hypothetical protein
+sas:SAS1406	CDS	complement(1529385..1530629)	conserved hypothetical protein
+sas:SAS1407	CDS	complement(1530636..1531934)	3-phosphoshikimate 1-carboxyvinyltransferase
+sas:SAS1408	CDS	complement(1531944..1533008)	putative 3-dehydroquinate synthase
+sas:SAS1409	CDS	complement(1533034..1534200)	chorismate synthase
+sas:SAS1409a	CDS	complement(1534588..1534788)	hypothetical protein
+sas:SAS1410	CDS	complement(1534998..1535447)	putative nucleoside diphosphate kinase
+sas:SAS1411	CDS	complement(1535539..1536498)	putative heptaprenyl diphosphate synthase component II
+sas:SAS1412	CDS	complement(1536500..1537225)	putative 2-heptaprenyl-1,4-naphthoquinone methyltransferase
+sas:SAS1413	CDS	complement(1537228..1537800)	hypothetical protein
+sas:SAS1414	CDS	complement(1538231..1538503)	DNA-binding protein HU
+sas:SAS1415	CDS	complement(1538674..1539672)	glycerol-3-phosphate dehydrogenase [NAD(P)+]
+sas:SAS1416	CDS	complement(1539689..1540999)	putative GTPase
+sas:SAS1417	CDS	complement(1541221..1542396)	putative 30S ribosomal protein S1
+sas:SAS1418	CDS	complement(1543094..1543753)	cytidylate kinase
+sas:SAS1419	CDS	1543830..1544798	putative L-asparaginase
+sas:SAS1420	CDS	complement(1544913..1545899)	putative pyridine nucleotide-disulphide oxidoreductase
+sas:SAS1421	CDS	complement(1546301..1547761)	cell surface elastin binding protein
+sas:SAS1422	CDS	complement(1547914..1549293)	DEAD/DEAH box helicase family protein
+sas:SAS1423	CDS	complement(1549283..1550236)	hypothetical protein
+sas:SAS1424	CDS	1550344..1550592	ferredoxin
+sas:SAS1425	CDS	complement(1550698..1551243)	putative membrane protein
+sas:SAS1426	CDS	complement(1551653..1552567)	putative lipoprotein
+sas:SAS1427	CDS	complement(1552624..1553541)	putative lipoprotein
+sas:SAS1428	CDS	complement(1553599..1554504)	putative lipoprotein
+sas:SAS1429	CDS	complement(1554595..1556757)	hypothetical protein
+sas:SAS1430	CDS	complement(1556769..1557677)	putative lipoprotein
+sas:SAS1431	CDS	complement(1557922..1559688)	sensor kinase protein
+sas:SAS1432	CDS	complement(1559654..1560397)	response regulator protein
+sas:SAS1433	CDS	complement(1560512..1561249)	ribosomal large subunit pseudouridine synthase B
+sas:SAS1434	CDS	complement(1561242..1561784)	conserved hypothetical protein
+sas:SAS1435	CDS	complement(1561777..1562532)	conserved hypothetical protein
+sas:SAS1436	CDS	1562600..1563106	conserved hypothetical protein
+sas:SAS1437	CDS	complement(1563184..1564071)	integrase/recombinase
+sas:SAS1438	CDS	complement(1564120..1564569)	iron uptake regulatory protein
+sas:SAS1439	CDS	complement(1564674..1565216)	putative ADP-ribose pyrophosphatase
+sas:SAS1440	CDS	1565298..1566206	aldo/keto reductase family protein
+sas:SAS1441	CDS	complement(1566422..1566670)	hypothetical protein
+sas:SAS1442	CDS	complement(1566686..1567444)	putative short chain dehydrogenase
+sas:SAS1443	CDS	1567583..1568398	putative pyrroline-5-carboxylate reductase
+sas:SAS1444	CDS	complement(1568501..1569421)	conserved hypothetical protein
+sas:SAS1445	CDS	1569734..1571218	putative glucose-6-phosphate 1-dehydrogenase
+sas:SAS1446	CDS	1571448..1572314	AraC family regulatory protein
+sas:SAS1447	CDS	complement(1572396..1574045)	alpha-D-1,4-glucosidase
+sas:SAS1448	CDS	complement(1574061..1575080)	maltose operon transcriptional repressor
+sas:SAS1449	CDS	complement(1575274..1575645)	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+sas:SAS1450	CDS	complement(1575864..1577270)	6-phosphogluconate dehydrogenase, decarboxylating
+sas:SAS1451	CDS	complement(1577338..1578471)	putative peptidase
+sas:SAS1452	CDS	complement(1579040..1580020)	putative membrane protein
+sas:SAS1453	CDS	complement(1580034..1580471)	conserved hypothetical protein
+sas:SAS1454	CDS	complement(1580822..1582096)	lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex
+sas:SAS1455	CDS	complement(1582109..1583092)	2-oxoisovalerate dehydrogenase beta subunit
+sas:SAS1456	CDS	complement(1583092..1584084)	2-oxoisovalerate dehydrogenase alpha subunit
+sas:SAS1457	CDS	complement(1584100..1585521)	putative dihydrolipoamide dehydrogenase
+sas:SAS1458	CDS	complement(1585672..1587351)	putative DNA repair protein
+sas:SAS1459	CDS	complement(1587367..1587819)	arginine repressor
+sas:SAS1460	CDS	complement(1588251..1589132)	putative geranyltranstransferase
+sas:SAS1461	CDS	complement(1589110..1589340)	putative exodeoxyribonuclease VII small subunit
+sas:SAS1462	CDS	complement(1589333..1590670)	putative exodeoxyribonuclease VII large subunit
+sas:SAS1463	CDS	complement(1590687..1591076)	putative N utilization substance protein B
+sas:SAS1464	CDS	complement(1591136..1591498)	conserved hypothetical protein
+sas:SAS1465	CDS	complement(1591513..1592868)	biotin carboxylase subunit of acetyl-CoA carboxylase
+sas:SAS1466	CDS	complement(1592868..1593332)	biotin carboxyl carrier protein of acetyl-CoA carboxylase
+sas:SAS1467	CDS	complement(1593806..1594363)	putative elongation factor P
+sas:SAS1468	CDS	complement(1594389..1595450)	putative peptidase
+sas:SAS1469	CDS	1595555..1596136	putative lipoprotein
+sas:SAS1470	CDS	1596150..1596368	putative exported protein
+sas:SAS1471	CDS	complement(1596432..1597262)	lipoate-protein ligase A protein
+sas:SAS1472	CDS	1597420..1597806	putative membrane protein
+sas:SAS1473	CDS	complement(1598171..1599643)	putative glycine cleavage system P-protein
+sas:SAS1474	CDS	complement(1599636..1600991)	putative glycine cleavage system P-protein
+sas:SAS1475	CDS	complement(1601002..1602093)	putative aminomethyltransferase
+sas:SAS1476	CDS	complement(1602252..1602776)	putative shikimate kinase
+sas:SAS1477	CDS	complement(1603009..1603506)	putative membrane protein
+sas:SAS1478	CDS	complement(1603424..1603723)	putative exported protein
+sas:SAS1479	CDS	complement(1603710..1604144)	putative exported protein
+sas:SAS1480	CDS	complement(1604134..1604445)	putative exported protein
+sas:SAS1481	CDS	complement(1604459..1605529)	putative membrane protein
+sas:SAS1482	CDS	complement(1605501..1606475)	hypothetical protein
+sas:SAS1483	CDS	complement(1606527..1607150)	metallo-beta-lactamase superfamily protein
+sas:SAS1484	CDS	complement(1607147..1607476)	conserved hypothetical protein
+sas:SAS1485	CDS	complement(1607476..1608462)	glucokinase
+sas:SAS1486	CDS	complement(1608459..1608662)	conserved hypothetical protein
+sas:SAS1487	CDS	complement(1608643..1610106)	putative membrane protein
+sas:SAS1488	CDS	complement(1610118..1610657)	5-formyltetrahydrofolate cyclo-ligase family protein
+sas:SAS1489	CDS	complement(1610866..1611015)	50S ribosomal protein L33 type 1
+sas:SAS1490	CDS	complement(1611128..1613203)	penicillin-binding protein PBP2B
+sas:SAS1491	CDS	complement(1613324..1613923)	superoxide dismutase
+sas:SAS1492	CDS	complement(1614199..1614609)	zinc-specific metalloregulatory protein
+sas:SAS1493	CDS	complement(1614596..1615459)	ABC transporter permease protein
+sas:SAS1494	CDS	complement(1615501..1616286)	ABC transporter ATP-binding protein
+sas:SAS1495	CDS	complement(1616412..1617302)	putative endonuclease
+sas:SAS1496	CDS	complement(1617312..1618658)	putative helicase
+sas:SAS1497	CDS	complement(1618772..1619872)	conserved hypothetical protein
+sas:SAS1498	CDS	complement(1619875..1620552)	conserved hypothetical protein
+sas:SAS1499	CDS	complement(1620683..1621789)	RNA polymerase sigma factor
+sas:SAS1500	CDS	complement(1622013..1623830)	DNA primase
+sas:SAS1501	CDS	complement(1623891..1624709)	conserved hypothetical protein
+sas:SAS1502	gene	complement(join(1624720..1625349,1625351..1625353))	pseudogene
+sas:SAS1503	CDS	1625678..1627069	putative glycyl-tRNA synthetase
+sas:SAS1504	CDS	complement(1627220..1627972)	putative recombination protein O
+sas:SAS1505	CDS	complement(1627994..1628893)	putative GTP-binding protein
+sas:SAS1506	CDS	complement(1628894..1629298)	cytidine deaminase
+sas:SAS1507	CDS	complement(1629309..1629653)	putative diacylglycerol kinase
+sas:SAS1508	CDS	complement(1629656..1630123)	conserved hypothetical protein
+sas:SAS1509	CDS	complement(1630124..1631071)	PhoH-like protein
+sas:SAS1510	CDS	complement(1631375..1632073)	hypothetical protein
+sas:SAS1511	CDS	complement(1632090..1633079)	putative exported protein
+sas:SAS1512	CDS	complement(1633097..1633804)	putative membrane protein
+sas:SAS1513	CDS	complement(1634024..1634200)	30S ribosomal protein S21
+sas:SAS1514	CDS	complement(1634493..1635839)	conserved hypothetical protein
+sas:SAS1515	CDS	complement(1635846..1636598)	conserved hypothetical protein
+sas:SAS1516	CDS	complement(1636600..1637538)	putative methyltransferase
+sas:SAS1517	CDS	complement(1637542..1638681)	chaperone protein
+sas:SAS1518	CDS	complement(1638817..1640649)	chaperone protein
+sas:SAS1519	CDS	complement(1640718..1641344)	GrpE protein (Hsp-70 cofactor)
+sas:SAS1520	CDS	complement(1641376..1642353)	heat-inducible transcription repressor
+sas:SAS1521	CDS	complement(1642454..1643578)	putative oxygen-independent coproporphyrinogen III oxidase
+sas:SAS1522	CDS	complement(1644144..1645967)	putative GTP-binding protein
+sas:SAS1523	CDS	1646313..1646564	putative 30S ribosomal protein S20
+sas:SAS1524	CDS	complement(1646609..1647583)	conserved hypothetical protein
+sas:SAS1525	CDS	complement(1647640..1649841)	putative membrane protein
+sas:SAS1526	CDS	complement(1649846..1650307)	putative deaminase
+sas:SAS1527	CDS	complement(1650399..1651076)	putative membrane protein
+sas:SAS1528	CDS	complement(1651125..1651841)	conserved hypothetical protein
+sas:SAS1529	CDS	complement(1651844..1652197)	conserved hypothetical protein
+sas:SAS1530	CDS	complement(1652198..1652782)	conserved hypothetical protein
+sas:SAS1531	CDS	complement(1652772..1653341)	conserved hypothetical protein
+sas:SAS1532	CDS	complement(1653344..1653634)	conserved hypothetical protein
+sas:SAS1533	CDS	complement(1653638..1654444)	shikimate 5-dehydrogenase
+sas:SAS1534	CDS	complement(1654458..1655558)	putative GTPase
+sas:SAS1535	CDS	complement(1655559..1656086)	conserved hypothetical protein
+sas:SAS1536	CDS	complement(1656106..1656792)	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+sas:SAS1537	CDS	1657106..1657375	putative membrane protein
+sas:SAS1538	CDS	complement(1657577..1658266)	putative enterotoxin
+sas:SAS1539	CDS	complement(1659036..1660256)	hypothetical phage protein
+sas:SAS1540	CDS	complement(1660543..1661772)	putative membrane protein
+sas:SAS1541	CDS	complement(1661784..1662536)	conserved hypothetical protein
+sas:SAS1542	CDS	complement(1662536..1663897)	putative biotin carboxylase subunit of acetyl-CoA carboxylase
+sas:SAS1543	CDS	complement(1663911..1664360)	putative biotin carboxyl carrier protein of acetyl-CoA carboxylase
+sas:SAS1544	CDS	complement(1664362..1665372)	conserved hypothetical protein
+sas:SAS1545	CDS	complement(1665362..1666096)	conserved hypothetical protein
+sas:SAS1546	CDS	complement(1666422..1666898)	transcription elongation factor
+sas:SAS1547	CDS	complement(1666926..1667549)	uridine kinase
+sas:SAS1548	CDS	complement(1667549..1668817)	putative peptidase
+sas:SAS1549	CDS	complement(1668829..1669752)	putative peptidase
+sas:SAS1550	CDS	complement(1669755..1670393)	putative O-methyltransferase
+sas:SAS1551	CDS	complement(1670678..1670986)	conserved hypothetical protein
+sas:SAS1552	CDS	complement(1671001..1671429)	conserved hypothetical protein
+sas:SAS1553	CDS	complement(1671433..1671693)	conserved hypothetical protein
+sas:SAS1554	CDS	complement(1671756..1674386)	putative alanyl-tRNA synthetase
+sas:SAS1555	CDS	complement(1674729..1677206)	conserved hypothetical protein
+sas:SAS1556	CDS	complement(1677208..1677876)	conserved hypothetical protein
+sas:SAS1557	CDS	complement(1678457..1679575)	conserved hypothetical protein
+sas:SAS1558	CDS	complement(1679576..1680718)	putative cysteine desulfurase
+sas:SAS1559	CDS	1681030..1682043	putative oxygenase
+sas:SAS1560	CDS	complement(1682280..1682426)	hypothetical protein
+sas:SAS1561	CDS	complement(1682466..1682648)	conserved hypothetical protein
+sas:SAS1562	CDS	complement(1682748..1683170)	conserved hypothetical protein
+sas:SAS1563	CDS	1683255..1684529	putative ATPase
+sas:SAS1564	CDS	complement(1684690..1685463)	conserved hypothetical protein
+sas:SAS1565	CDS	complement(1685677..1685778)	hypothetical protein
+sas:SAS1566	CDS	complement(1685924..1687690)	aspartyl-tRNA synthetase
+sas:SAS1567	CDS	complement(1687706..1688968)	histidyl-tRNA synthetase
+sas:SAS1568	CDS	complement(1689429..1690304)	putative N-acetylmuramoyl-L-alanine amidase
+sas:SAS1569	CDS	complement(1690301..1690753)	conserved hypothetical protein
+sas:SAS1570	CDS	complement(1690765..1692975)	GTP pyrophosphokinase
+sas:SAS1571	CDS	complement(1693382..1693900)	adenine phosphoribosyltransferase
+sas:SAS1572	CDS	complement(1693922..1696195)	putative single-stranded-DNA-specific exonuclease
+sas:SAS1573	CDS	complement(1696398..1698677)	putative protein-export membrane protein
+sas:SAS1574	CDS	complement(1698952..1699212)	putative exported protein
+sas:SAS1575	CDS	complement(1699231..1700370)	queuine tRNA-ribosyltransferase
+sas:SAS1576	CDS	complement(1700393..1701418)	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+sas:SAS1577	CDS	complement(1701420..1702424)	Holliday junction DNA helicase
+sas:SAS1578	CDS	complement(1702456..1703058)	Holliday junction DNA helicase RuvA
+sas:SAS1579	CDS	complement(1703072..1703530)	putative DNA-binding protein
+sas:SAS1580	CDS	complement(1703540..1704832)	Spo0B-associated GTP-binding protein
+sas:SAS1581	CDS	complement(1705317..1705601)	50S ribosomal protein L27
+sas:SAS1582	CDS	complement(1705613..1705933)	conserved hypothetical protein
+sas:SAS1583	CDS	complement(1705939..1706247)	50S ribosomal protein L21
+sas:SAS1584	CDS	complement(1706609..1707139)	putative membrane protein
+sas:SAS1585	CDS	complement(1707139..1707981)	putative rod shape-determining protein
+sas:SAS1585a	CDS	complement(1708180..1708299)	hypothetical protein
+sas:SAS1586	CDS	complement(1708373..1708846)	putative membrane protein
+sas:SAS1587	CDS	1708988..1709203	putative membrane protein
+sas:SAS1588	CDS	complement(1709320..1709604)	putative membrane protein
+sas:SAS1589	CDS	complement(1709672..1710358)	DNA repair protein RadC
+sas:SAS1590	CDS	complement(1710355..1711062)	type III leader peptidase family protein
+sas:SAS1591	CDS	complement(1711332..1712603)	putative folylpolyglutamate synthase
+sas:SAS1592	CDS	complement(1712616..1715246)	valyl-tRNA synthetase
+sas:SAS1593	CDS	1715649..1716209	DNA-3-methyladenine glycosylase I
+sas:SAS1594	CDS	complement(1716432..1717505)	putative membrane protein
+sas:SAS1595	CDS	complement(1717539..1717628)	hypothetical protein
+sas:SAS1596	CDS	complement(1717701..1718987)	glutamate-1-semialdehyde 2,1-aminomutase
+sas:SAS1597	CDS	complement(1719035..1720009)	delta-aminolevulinic acid dehydratase
+sas:SAS1598	CDS	complement(1720012..1720680)	uroporphyrinogen III synthase
+sas:SAS1599	CDS	complement(1720702..1721628)	porphobilinogen deaminase
+sas:SAS1600	CDS	complement(1721670..1722485)	putative membrane protein
+sas:SAS1601	CDS	complement(1722507..1723853)	glutamyl-tRNA reductase
+sas:SAS1602	CDS	complement(1724070..1724660)	putative GTP-binding protein
+sas:SAS1603	CDS	complement(1724814..1726076)	ATP-dependent Clp protease ATP-binding subunit ClpX
+sas:SAS1604	CDS	complement(1726227..1727528)	trigger factor (prolyl isomerase)
+sas:SAS1605	CDS	complement(1727691..1728620)	hypothetical protein
+sas:SAS1606	CDS	complement(1728639..1729247)	conserved hypothetical protein
+sas:SAS1607	CDS	complement(1729389..1729745)	50S ribosomal protein L20
+sas:SAS1608	CDS	complement(1729792..1729992)	50S ribosomal protein L35
+sas:SAS1609	CDS	complement(1730021..1730548)	translation initiation factor IF-3
+sas:SAS1610	CDS	complement(1730777..1732270)	lysine-specific permease
+sas:SAS1611	CDS	complement(1732696..1734633)	threonyl-tRNA synthetase
+sas:SAS1612	CDS	complement(1735045..1735965)	putative primosomal protein
+sas:SAS1613	CDS	complement(1735965..1737365)	chromosome replication initiation/membrane attachment protein
+sas:SAS1614	CDS	complement(1737366..1737836)	conserved hypothetical protein
+sas:SAS1615	CDS	complement(1738047..1739072)	glyceraldehyde 3-phosphate dehydrogenase 2
+sas:SAS1616	CDS	complement(1739242..1739865)	putative dephospho-CoA kinase
+sas:SAS1617	CDS	complement(1739881..1740753)	formamidopyrimidine-DNA glycosylase
+sas:SAS1618	CDS	complement(1740769..1743399)	DNA polymerase I
+sas:SAS1619	CDS	complement(1743693..1745180)	putative membrane protein
+sas:SAS1620	CDS	complement(1745679..1747343)	alkaline phosphatase synthesis sensor protein
+sas:SAS1621	CDS	complement(1747340..1748044)	alkaline phosphatase synthesis transcriptional regulatory protein
+sas:SAS1622	CDS	complement(1748434..1749702)	isocitrate dehydrogenase
+sas:SAS1623	CDS	complement(1749751..1750872)	citrate synthase II
+sas:SAS1624	CDS	1751220..1752581	putative D-serine/D-alanine/glycine transporter
+sas:SAS1625	CDS	complement(1752929..1754686)	pyruvate kinase
+sas:SAS1626	CDS	complement(1754708..1755676)	6-phosphofructokinase
+sas:SAS1627	CDS	complement(1755945..1756889)	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+sas:SAS1628	CDS	complement(1756889..1757746)	acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+sas:SAS1629	CDS	complement(1757941..1759170)	NAD-dependent malic enzyme
+sas:SAS1630	CDS	complement(1759620..1762817)	DNA polymerase III alpha subunit
+sas:SAS1631	CDS	complement(1762838..1763779)	conserved hypothetical protein
+sas:SAS1632	CDS	complement(1764233..1765531)	putative DNA-binding protein
+sas:SAS1633	CDS	1765736..1766149	putative universal stress protein
+sas:SAS1634	CDS	complement(1766454..1767143)	metallo-beta-lactamase superfamily protein
+sas:SAS1635	CDS	1767318..1768373	putative metallopeptidase
+sas:SAS1636	CDS	complement(1768689..1769807)	alanine dehydrogenase 1
+sas:SAS1637	CDS	1769948..1770448	putative universal stress protein
+sas:SAS1638	CDS	complement(1770694..1771896)	acetate kinase
+sas:SAS1639	CDS	complement(1771984..1772931)	conserved hypothetical protein
+sas:SAS1640	CDS	complement(1773054..1773548)	putative thiol peroxidase
+sas:SAS1641	CDS	complement(1773646..1774416)	putative membrane protein
+sas:SAS1642	CDS	complement(1774460..1775683)	putative thiamine biosynthesis protein
+sas:SAS1643	CDS	complement(1775683..1776822)	aminotransferase class-V protein
+sas:SAS1644	CDS	complement(1777194..1778888)	putative septation ring formation regulator
+sas:SAS1645	CDS	1779025..1779489	conserved hypothetical protein
+sas:SAS1646	CDS	1779733..1780335	30S ribosomal protein S4
+sas:SAS1647	CDS	complement(1780551..1781294)	conserved hypothetical protein
+sas:SAS1648	CDS	1781374..1781820	OsmC-like protein
+sas:SAS1649	CDS	1781934..1783094	putative soluble hydrogenase subunit
+sas:SAS1650	CDS	1783081..1784685	D-3-phosphoglycerate dehydrogenase
+sas:SAS1651	CDS	complement(1784835..1785965)	haloacid dehalogenase-like hydrolase
+sas:SAS1652	CDS	complement(1786072..1787538)	PTS system IIBC component
+sas:SAS1653	CDS	complement(1787666..1788283)	putative acyltransferase
+sas:SAS1654	CDS	1788455..1789729	putative protease
+sas:SAS1655	CDS	complement(1789823..1791085)	tyrosyl-tRNA synthetase
+sas:SAS1656	CDS	1791467..1792372	putative transglycosylase
+sas:SAS1657	CDS	complement(1792575..1795262)	haptoglobin-binding surface anchored protein
+sas:SAS1657a	CDS	1795255..1795350	hypothetical protein
+sas:SAS1658	CDS	complement(1795596..1797263)	formate--tetrahydrofolate ligase
+sas:SAS1659	CDS	complement(1797703..1799409)	acetyl-coenzyme A synthetase
+sas:SAS1660	CDS	1799578..1800210	acetoin utilization protein
+sas:SAS1661	CDS	1800235..1801404	histone deacetylase family protein
+sas:SAS1662	CDS	complement(1801502..1802491)	catabolite control protein A
+sas:SAS1663	CDS	complement(1803031..1804122)	DAHP synthetase-chorismate mutase
+sas:SAS1664	CDS	complement(1804822..1805868)	putative membrane protein
+sas:SAS1665	CDS	complement(1805942..1806433)	putative exported protein
+sas:SAS1666	CDS	complement(1806507..1807820)	UDP-N-acetylmuramate--alanine ligase
+sas:SAS1667	CDS	complement(1807844..1811668)	FtsK/SpoIIIE family protein
+sas:SAS1668	CDS	complement(1811689..1812285)	conserved hypothetical protein
+sas:SAS1669	CDS	complement(1812314..1813171)	conserved hypothetical protein
+sas:SAS1670	CDS	complement(1813271..1813582)	putative thioredoxin
+sas:SAS1671	CDS	complement(1813647..1814723)	putative aminopeptidase
+sas:SAS1672	CDS	1814810..1815121	putative membrane protein
+sas:SAS1673	CDS	complement(1815246..1816088)	metallo-beta-lactamase superfamily protein
+sas:SAS1674	CDS	complement(1816558..1817202)	putative methyltransferase
+sas:SAS1675	CDS	complement(1817217..1818008)	conserved hypothetical protein
+sas:SAS1676	CDS	complement(1818559..1819407)	putative D-alanine aminotransferase
+sas:SAS1677	CDS	complement(1819411..1820820)	putative peptidase
+sas:SAS1678	CDS	complement(1821513..1821935)	putative exported protein
+sas:SAS1679	CDS	complement(1821952..1822647)	RNA pseudouridine synthase
+sas:SAS1680	CDS	complement(1822644..1824305)	putative polysaccharide biosynthesis protein
+sas:SAS1681	CDS	1824712..1825980	putative exported protein
+sas:SAS1682	CDS	complement(1826097..1832657)	putative surface anchored protein
+sas:SAS1683	CDS	complement(1832983..1833294)	conserved hypothetical protein
+sas:SAS1684	CDS	complement(1833316..1835736)	leucyl-tRNA synthetase
+sas:SAS1685	CDS	complement(1836027..1837208)	putative membrane protein
+sas:SAS1686	CDS	1837318..1838271	conserved hypothetical protein
+sas:SAS1687	CDS	1838268..1838831	conserved hypothetical protein
+sas:SAS1688	CDS	complement(1838951..1839451)	repressor of toxins
+sas:SAS1689	CDS	complement(1839926..1840753)	conserved hypothetical protein
+sas:SAS1690	CDS	1840987..1841988	proline dehydrogenase
+sas:SAS1691	CDS	complement(1842110..1842574)	6,7-dimethyl-8-ribityllumazine synthase
+sas:SAS1692	CDS	complement(1842587..1843768)	riboflavin biosynthesis protein
+sas:SAS1693	CDS	complement(1843779..1844411)	riboflavin synthase alpha chain
+sas:SAS1694	CDS	complement(1844418..1845461)	bifunctional riboflavin biosynthesis protein
+sas:SAS1695	CDS	complement(1845942..1847444)	hypothetical protein
+sas:SAS1696	CDS	1847967..1848281	arsenical resistance operon repressor 2
+sas:SAS1697	CDS	1848281..1849573	arsenical pump membrane protein 2
+sas:SAS1698	CDS	complement(1849660..1850514)	putative exported protein
+sas:SAS1699	CDS	complement(1850790..1851014)	hypothetical protein
+sas:SAS1700	CDS	1851213..1851683	putative DNA-binding protein
+sas:SAS1701	CDS	1851796..1852239	hypothetical protein
+sas:SAS1702	CDS	complement(1852226..1852669)	putative membrane protein
+sas:SAS1703	gene	join(1852965..1853042,1853045..1853599)	pseudogene
+sas:SAS1704	CDS	complement(1854039..1854752)	putative transaldolase
+sas:SAS1705	CDS	1855012..1855314	putative membrane protein
+sas:SAS1706	CDS	1855492..1855935	CrcB-like protein
+sas:SAS1707	CDS	1855932..1856285	CrcB-like protein
+sas:SAS1708	CDS	1856477..1856656	hypothetical protein
+sas:SAS1709	CDS	complement(1856668..1857501)	aldo/keto reductase family protein
+sas:SAS1710	CDS	complement(1857713..1858624)	putative exported protein
+sas:SAS1711	CDS	complement(1858746..1859939)	S-adenosylmethionine synthetase
+sas:SAS1712	CDS	1860311..1861903	phosphoenolpyruvate carboxykinase
+sas:SAS1712a	CDS	1862027..1862203	hypothetical protein
+sas:SAS1713	CDS	complement(1862281..1863051)	conserved hypothetical protein
+sas:SAS1714	CDS	complement(1863032..1863511)	conserved hypothetical protein
+sas:SAS1715	CDS	1863571..1863828	conserved hypothetical protein
+sas:SAS1716	CDS	complement(1863825..1864826)	hypothetical protein
+sas:SAS1717	CDS	complement(1864831..1866309)	AMP-binding enzyme
+sas:SAS1718	CDS	complement(1866468..1866950)	putative lipoprotein
+sas:SAS1719	CDS	1867262..1867876	putative lipoprotein
+sas:SAS1720	CDS	1867957..1868952	putative membrane protein
+sas:SAS1721	CDS	1869026..1869652	putative lipoprotein
+sas:SAS1722	CDS	1869693..1870034	hypothetical protein
+sas:SAS1723	CDS	1870135..1870707	hypothetical protein
+sas:SAS1724	CDS	complement(1870995..1871462)	hypothetical protein
+sas:SAS1725	CDS	complement(1871836..1872012)	putative membrane protein
+sas:SAS1726	CDS	complement(1872023..1872406)	putative membrane protein
+sas:SAS1727	gene	complement(1872598..1872807)	pseudogene
+sas:SAS1727a	gene	complement(join(1872849..1873010,1873034..1873153))	pseudogene
+sas:SAS1728	gene	complement(join(1874023..1874307,1874311..1874400))	pseudogene
+sas:SAS1729	gene	complement(join(1874921..1877674,1877677..1879032))	pseudogene
+sas:SAS1731	CDS	complement(1879882..1881081)	putative restriction modification DNA specificity protein
+sas:SAS1732	CDS	complement(1881074..1882630)	putative type I restriction enzyme modification protein
+sas:SAS1733	CDS	complement(1882993..1883712)	serine protease
+sas:SAS1734	CDS	complement(1883833..1884552)	serine protease
+sas:SAS1735	CDS	complement(1884610..1885332)	serine protease
+sas:SAS1736	CDS	complement(1885457..1886164)	serine protease
+sas:SAS1737	CDS	complement(1886600..1886818)	hypothetical protein
+sas:SAS1738	CDS	1887128..1887694	putative exported protein
+sas:SAS1739	CDS	complement(1888168..1888878)	putative lantibiotic ABC transporter protein
+sas:SAS1740	CDS	complement(1888863..1889624)	putative lantibiotic ABC transporter protein
+sas:SAS1741	CDS	complement(1889621..1890313)	putative lantibiotic transport ATP-binding protein
+sas:SAS1742	CDS	complement(1890336..1891709)	putative lantibiotic leader peptide processing serine protease
+sas:SAS1743	CDS	complement(1891719..1892252)	putative lantibiotic modifying enzyme
+sas:SAS1744	CDS	complement(1892253..1893497)	putative lantibiotic biosynthesis protein
+sas:SAS1745	CDS	complement(1893490..1896483)	putative lantibiotic biosynthesis protein
+sas:SAS1746	CDS	complement(1896548..1896691)	lantibiotic precursor
+sas:SAS1747a	CDS	complement(1897428..1897571)	lantibiotic precursor
+sas:SAS1748	CDS	complement(1897813..1898796)	hlgB; gamma-hemolysin component B precursor
+sas:SAS1749	CDS	complement(1898798..1899733)	hlgA; gamma-hemolysin component A precursor
+sas:SAS1750	CDS	1900630..1901085	hypothetical protein
+sas:SAS1751	CDS	1901098..1901886	hypothetical protein (pseudogene)
+sas:tRNA-Ser-3	tRNA	complement(1903131..1903219)	tRNA-Ser
+sas:tRNA-Glu-2	tRNA	complement(1903274..1903345)	tRNA-Glu
+sas:tRNA-Asn-2	tRNA	complement(1903347..1903421)	tRNA-Asn
+sas:tRNA-Gly-2	tRNA	complement(1903436..1903509)	tRNA-Gly
+sas:tRNA-His-1	tRNA	complement(1903525..1903600)	tRNA-His
+sas:tRNA-Phe-1	tRNA	complement(1903614..1903686)	tRNA-Phe
+sas:tRNA-Asp-2	tRNA	complement(1903703..1903778)	tRNA-Asp
+sas:tRNA-Met-1	tRNA	complement(1903800..1903873)	tRNA-Met
+sas:SAS1752	CDS	complement(1904343..1904897)	hypothetical protein
+sas:SAS1753	CDS	complement(1905219..1906619)	putative protoporphyrinogen oxidase
+sas:SAS1754	CDS	complement(1906643..1907566)	ferrochelatase
+sas:SAS1755	CDS	complement(1907624..1908661)	uroporphyrinogen decarboxylase
+sas:SAS1756	CDS	1908924..1909427	signal transduction protein
+sas:SAS1757	CDS	complement(1909551..1910774)	putative transporter protein
+sas:SAS1758	CDS	complement(1910767..1911507)	ABC transporter ATP-binding protein
+sas:SAS1759	CDS	1911641..1912063	HIT-family protein
+sas:SAS1760	CDS	1912205..1912570	putative exported protein
+sas:SAS1760a	CDS	1912548..1912754	hypothetical protein
+sas:SAS1761	CDS	1913303..1913860	putative membrane protein
+sas:SAS1762	CDS	1914065..1915027	putative peptidyl-prolyl cis-isomerase
+sas:SAS1763	CDS	complement(1915148..1916089)	conserved hypothetical protein
+sas:SAS1764	CDS	complement(1916086..1919022)	putative membrane protein
+sas:SAS1765	CDS	complement(1919012..1920208)	putative DNA repair exonuclease
+sas:SAS1766	CDS	complement(1921090..1921434)	conserved hypothetical protein
+sas:SAS1767	CDS	complement(1921503..1922627)	putative membrane protein
+sas:SAS1768	CDS	complement(1922806..1923270)	putative DNA-binding protein
+sas:SAS1769	CDS	complement(1923626..1924249)	putative response regulator
+sas:SAS1770	CDS	complement(1924271..1925383)	putative histidine kinase
+sas:SAS1771	CDS	1925546..1926367	RNA pseudouridylate synthase
+sas:SAS1772	CDS	complement(1926828..1928213)	fumarate hydratase, class-II
+sas:SAS1773	CDS	complement(1928409..1928804)	putative membrane protein
+sas:SAS1774	CDS	1928923..1929075	putative membrane protein
+sas:SAS1775	CDS	1929082..1929345	hypothetical protein
+sas:SAS1776	CDS	complement(1929410..1929562)	putative membrane protein
+sas:SAS1777	CDS	complement(1929587..1930186)	putative membrane protein
+sas:SAS1778	CDS	complement(1930345..1930815)	SpoU rRNA methylase family protein
+sas:SAS1779	CDS	complement(1930820..1931947)	putative iron-sulphur protein
+sas:SAS1780	CDS	complement(1932098..1932826)	glutamine transport ATP-binding protein
+sas:SAS1781	CDS	complement(1932813..1934270)	putative extracellular glutamine-binding protein
+sas:SAS1782	CDS	complement(1934528..1935589)	putative membrane protein
+sas:tRNA-Leu-2	tRNA	complement(1936137..1936220)	tRNA-Leu
+sas:tRNA-Gly-3	tRNA	complement(1936349..1936423)	tRNA-Gly
+sas:tRNA-Cys	tRNA	complement(1936431..1936504)	tRNA-Cys
+sas:tRNA-Gln-1	tRNA	complement(1936510..1936581)	tRNA-Gln
+sas:tRNA-His-2	tRNA	complement(1936593..1936665)	tRNA-His
+sas:tRNA-Trp	tRNA	complement(1936668..1936741)	tRNA-Trp
+sas:tRNA-Tyr-1	tRNA	complement(1936757..1936837)	tRNA-Tyr
+sas:tRNA-Thr-2	tRNA	complement(1936843..1936918)	tRNA-Thr
+sas:tRNA-Phe-2	tRNA	complement(1936926..1936998)	tRNA-Phe
+sas:tRNA-Asp-3	tRNA	complement(1937017..1937092)	tRNA-Asp
+sas:tRNA-Met-2	tRNA	complement(1937102..1937175)	tRNA-Met
+sas:tRNA-Ser-4	tRNA	complement(1937190..1937282)	tRNA-Ser
+sas:tRNA-Asp-4	tRNA	complement(1937321..1937396)	tRNA-Asp
+sas:tRNA-Ser-5	tRNA	complement(1937407..1937496)	tRNA-Ser
+sas:tRNA-Met-3	tRNA	complement(1937506..1937579)	tRNA-Met
+sas:tRNA-Met-4	tRNA	complement(1937605..1937681)	tRNA-Met
+sas:tRNA-Ala-2	tRNA	complement(1937703..1937778)	tRNA-Ala
+sas:tRNA-Pro-2	tRNA	complement(1937796..1937869)	tRNA-Pro
+sas:tRNA-Arg-4	tRNA	complement(1937879..1937952)	tRNA-Arg
+sas:tRNA-Leu-3	tRNA	complement(1937971..1938059)	tRNA-Leu
+sas:tRNA-Gly-4	tRNA	complement(1938070..1938144)	tRNA-Gly
+sas:tRNA-Leu-4	tRNA	complement(1938148..1938229)	tRNA-Leu
+sas:tRNA-Lys-2	tRNA	complement(1938233..1938308)	tRNA-Lys
+sas:tRNA-Thr-3	tRNA	complement(1938314..1938389)	tRNA-Thr
+sas:tRNA-Val-2	tRNA	complement(1938406..1938481)	tRNA-Val
+sas:tRNA-Ala-3	tRNA	complement(1941894..1941969)	tRNA-Ala
+sas:tRNA-Ile-2	tRNA	complement(1941988..1942064)	tRNA-Ile
+sas:SAS1783	CDS	complement(1944450..1944896)	putative peroxide operon regulator
+sas:SAS1784	CDS	complement(1944993..1945943)	conserved hypothetical protein
+sas:SAS1785	CDS	complement(1945949..1946401)	AhpC/TSA family protein
+sas:SAS1786	CDS	1946485..1947774	putative glutamate-1-semialdehyde 2,1-aminomutase
+sas:SAS1787	CDS	1948067..1949161	putative membrane protein
+sas:SAS1788	CDS	complement(1949353..1951089)	ABC transporter ATP-binding protein
+sas:SAS1789	CDS	complement(1951380..1951922)	conserved hypothetical protein
+sas:SAS1790	CDS	complement(1952224..1953261)	HhH-GPD superfamily base excision DNA repair protein
+sas:SAS1791	CDS	1953413..1954390	putative membrane protein
+sas:SAS1792	CDS	complement(1954651..1955487)	putative membrane protein
+sas:SAS1793	CDS	complement(1955496..1957013)	putative membrane protein
+sas:SAS1794	CDS	complement(1957028..1957342)	conserved hypothetical protein
+sas:SAS1795	CDS	complement(1957320..1958138)	putative regulatory protein
+sas:SAS1796	CDS	complement(1958399..1959208)	putative transglycosylase
+sas:SAS1797	CDS	complement(1959547..1960062)	ThiJ/PfpI family protein
+sas:SAS1798	CDS	complement(1960193..1960354)	conserved hypothetical protein
+sas:SAS1799	CDS	1960578..1961729	conserved hypothetical protein
+sas:SAS1800	CDS	complement(1961989..1962519)	conserved hypothetical protein
+sas:SAS1801	CDS	complement(1962608..1963855)	putative aminopeptidase
+sas:SAS1802	CDS	complement(1963867..1964082)	conserved hypothetical protein
+sas:SAS1803	CDS	1964214..1964678	low molecular weight phosphotyrosine protein phosphatase
+sas:SAS1804	CDS	1964685..1964960	putative exported protein
+sas:SAS1805	CDS	1965238..1966449	putative membrane protein
+sas:SAS1806	CDS	complement(1966561..1967190)	putative response regulator
+sas:SAS1807	CDS	complement(1967180..1968223)	histidine kinase sensor
+sas:SAS1808	CDS	complement(1968220..1968921)	putative membrane protein
+sas:SAS1809	CDS	complement(1968936..1969322)	hypothetical protein
+sas:SAS1810	CDS	complement(1969539..1970297)	putative metallopeptidase
+sas:SAS1811	CDS	1970828..1971814	putative membrane protein
+sas:SAS1811a	CDS	complement(1972112..1972228)	hypothetical protein
+sas:SAS1812	CDS	complement(1972304..1972717)	hypothetical protein
+sas:SAS1813	CDS	complement(1972943..1973674)	conserved hypothetical protein
+sas:SAS1814	CDS	complement(1973676..1974989)	Mur ligase family protein
+sas:SAS1815	CDS	1975281..1975781	ferritin
+sas:SAS1816	CDS	1976171..1976725	putative exonuclease
+sas:SAS1817	CDS	complement(1976792..1977862)	ImpB/MucB/SamB family protein
+sas:SAS1818	CDS	complement(1978109..1978639)	putative membrane protein
+sas:SAS1819	CDS	complement(1978809..1980170)	putative RNA methyltransferase
+sas:SAS1820	CDS	complement(1980251..1981198)	conserved hypothetical protein
+sas:SAS1822	CDS	complement(1981852..1983279)	glutamyl-tRNA amidotransferase subunit B
+sas:SAS1823	CDS	complement(1983292..1984749)	glutamyl-tRNA amidotransferase subunit A
+sas:SAS1824	CDS	complement(1984751..1985053)	glutamyl-tRNA amidotransferase subunit C
+sas:SAS1825	CDS	1985420..1986958	high affinity proline permease
+sas:SAS1826	CDS	complement(1987047..1988246)	putative lipoprotein
+sas:SAS1827	CDS	complement(1988259..1990262)	DNA ligase
+sas:SAS1828	CDS	complement(1990266..1992458)	ATP-dependent DNA helicase
+sas:SAS1829	CDS	complement(1992455..1993147)	PcrB family protein
+sas:SAS1830	CDS	complement(1993319..1993621)	putative DNA-binding protein
+sas:SAS1831	CDS	complement(1993730..1995025)	adenylosuccinate lyase
+sas:SAS1832	CDS	1995886..1997052	staphopain protease
+sas:SAS1833	CDS	1997083..1997409	hypothetical protein
+sas:SAS1834	CDS	complement(1997701..1997874)	conserved hypothetical protein
+sas:SAS1835	CDS	complement(1997855..1998457)	putative membrane protein
+sas:SAS1836	CDS	complement(1998728..1999549)	putative NAD synthetase
+sas:SAS1837	CDS	complement(1999542..2001011)	conserved hypothetical protein
+sas:SAS1838	CDS	2001195..2002271	putative oxygenase
+sas:SAS1839	CDS	2002291..2003085	putative prephenate dehydratase
+sas:SAS1840	CDS	complement(2003275..2004837)	putative sodium:sulfate symporter
+sas:SAS1841	CDS	complement(2005042..2006139)	hypothetical protein
+sas:SAS1842	CDS	2006511..2007071	isochorismatase family protein
+sas:SAS1843	CDS	2007118..2008053	manganese-dependent inorganic pyrophosphatase
+sas:SAS1844	CDS	2008473..2009852	putative aldehyde dehydrogenase
+sas:SAS1845	CDS	complement(2009972..2011000)	conserved hypothetical protein
+sas:SAS1846	CDS	2011270..2011671	hypothetical protein
+sas:SAS1847	gene	complement(join(2011686..2011868,2011868..2011897))	pseudogene
+sas:SAS1848	CDS	complement(2012244..2012417)	putative exported protein
+sas:SAS1849	CDS	2012868..2013908	hypothetical protein
+sas:SAS1850	CDS	complement(2013965..2014807)	putative exported protein
+sas:SAS1851	CDS	complement(2014804..2015361)	putative membrane protein
+sas:SAS1852	CDS	complement(2015421..2015945)	putative membrane protein
+sas:SAS1853	CDS	2016066..2016629	hypothetical protein
+sas:SAS1854	CDS	complement(2016695..2017435)	putative membrane protein
+sas:SAS1855	CDS	complement(2017435..2018307)	putative ABC transporter ATP-binding protein
+sas:SAS1856	CDS	complement(2018304..2018984)	putative membrane protein
+sas:SAS1857	CDS	complement(2018985..2019881)	putative ABC transporter ATP-binding protein
+sas:SAS1858	CDS	complement(2019878..2020333)	GntR family regulatory protein
+sas:SAS1859	CDS	complement(2020517..2020693)	putative membrane protein
+sas:SAS1859.1	CDS	complement(2020936..2021034)	hypothetical protein
+sas:SAS1860	CDS	2021234..2022520	conserved hypothetical protein
+sas:SAS1861	gene	complement(join(2022844..2023149,2023148..2024893))	pseudogene
+sas:SAS1862	gene	join(2025282..2025464,2068063..2068872)	hlb; pseudogene
+sas:SAS1863a	CDS	2025851..2026030	putative membrane protein
+sas:SAS1864	CDS	2026054..2026362	putative membrane protein
+sas:SAS1865	CDS	2026410..2026601	putative membrane protein
+sas:SAS1866	CDS	complement(2026654..2027004)	putative exported protein
+sas:SAS1867	gene	complement(2027516..2027851)	pseudogene
+sas:SAS1868	CDS	complement(2028502..2028993)	staphylokinase precursor
+sas:SAS1869	CDS	complement(2029184..2029939)	autolysin
+sas:SAS1870	CDS	complement(2029951..2030205)	holin
+sas:SAS1871	CDS	complement(2030417..2030602)	putative membrane protein
+sas:SAS1872	CDS	complement(2030702..2031475)	enterotoxin type A precursor
+sas:SAS1873	CDS	complement(2031848..2032222)	putative membrane protein
+sas:SAS1874	CDS	complement(2032278..2032565)	hypothetical phage protein
+sas:SAS1875	CDS	complement(2032611..2032763)	hypothetical phage protein
+sas:SAS1876	CDS	complement(2032756..2036538)	hypothetical phage protein
+sas:SAS1877	CDS	complement(2036554..2038044)	hypothetical phage protein
+sas:SAS1878	CDS	complement(2038044..2042693)	putative membrane protein
+sas:SAS1879	CDS	complement(2042749..2042871)	hypothetical phage protein
+sas:SAS1880	CDS	complement(2042931..2043377)	hypothetical phage protein
+sas:SAS1881	CDS	complement(2043442..2044395)	hypothetical phage protein
+sas:SAS1882	CDS	complement(2044396..2044776)	hypothetical phage protein
+sas:SAS1883	CDS	complement(2044773..2045150)	hypothetical phage protein
+sas:SAS1884	CDS	complement(2045150..2045482)	hypothetical phage protein
+sas:SAS1885	CDS	complement(2045472..2045804)	hypothetical phage protein
+sas:SAS1886	CDS	complement(2045813..2045971)	hypothetical phage protein
+sas:SAS1887	CDS	complement(2046007..2047254)	putative capsid protein
+sas:SAS1888	CDS	complement(2047342..2047938)	putative prohead protease
+sas:SAS1889	CDS	complement(2047919..2049169)	putative portal protein
+sas:SAS1890	CDS	complement(2049175..2049375)	hypothetical phage protein
+sas:SAS1891	CDS	complement(2049389..2051083)	putative terminase-large subunit
+sas:SAS1892	CDS	complement(2051086..2051553)	hypothetical phage protein
+sas:SAS1893	CDS	complement(2051682..2052035)	hypothetical phage protein
+sas:SAS1894	CDS	complement(2052042..2052494)	hypothetical phage protein
+sas:SAS1895	CDS	complement(2052609..2053079)	hypothetical phage protein
+sas:SAS1896	CDS	complement(2053102..2053305)	putative exported protein
+sas:SAS1897	CDS	complement(2053302..2053952)	hypothetical phage protein
+sas:SAS1898	CDS	complement(2053959..2054111)	hypothetical phage protein
+sas:SAS1899	CDS	complement(2054111..2054260)	hypothetical phage protein
+sas:SAS1899a	gene	complement(2054257..2054343)	pseudogene
+sas:SAS1900	gene	complement(2054337..2054588)	pseudogene
+sas:SAS1901	CDS	complement(2054601..2055005)	hypothetical phage protein
+sas:SAS1902	CDS	complement(2055014..2055232)	hypothetical phage protein
+sas:SAS1903	CDS	complement(2055239..2056132)	putative phage regulatory protein
+sas:SAS1904	CDS	complement(2056162..2056632)	putative single-strand DNA-binding protein
+sas:SAS1905	CDS	complement(2056633..2057118)	hypothetical phage protein
+sas:SAS1906	CDS	complement(2057331..2058251)	hypothetical phage protein
+sas:SAS1907	CDS	complement(2058253..2060202)	hypothetical phage protein
+sas:SAS1908	CDS	complement(2060205..2060483)	hypothetical phage protein
+sas:SAS1909	CDS	complement(2060477..2060737)	hypothetical phage protein
+sas:SAS1910	CDS	complement(2060830..2060991)	putative exported protein
+sas:SAS1911	CDS	complement(2060988..2061308)	hypothetical phage protein
+sas:SAS1912	CDS	2061364..2061999	hypothetical phage protein
+sas:SAS1912a	CDS	complement(2062014..2062154)	hypothetical phage protein
+sas:SAS1913	CDS	complement(2062185..2062382)	hypothetical phage protein
+sas:SAS1914	gene	complement(join(2062398..2062754,2062754..2063143))	pseudogene
+sas:SAS1916	CDS	2063200..2063739	hypothetical phage protein
+sas:SAS1917	CDS	complement(2063763..2064044)	hypothetical phage protein
+sas:SAS1918	CDS	complement(2064041..2064265)	putative regulatory protein
+sas:SAS1919	CDS	2064424..2065194	putative repressor
+sas:SAS1920	CDS	2065390..2066118	enterotoxin
+sas:SAS1921	CDS	2066142..2066870	enterotoxin
+sas:SAS1922	CDS	2066954..2067991	integrase
+sas:SAS1924	CDS	complement(2069110..2070126)	putative leukocidin F subunit
+sas:SAS1925	CDS	complement(2070148..2071200)	putative leukocidin S subunit
+sas:SAS1926	CDS	2071636..2072859	putative peptidase
+sas:SAS1927	CDS	complement(2073231..2074076)	hypothetical protein
+sas:SAS1928	CDS	complement(2074138..2075049)	putative ferrichrome-binding protein precursor
+sas:SAS1929	CDS	2075210..2076517	putative sodium transport protein
+sas:SAS1930	CDS	complement(2077371..2077796)	putative GNAT family acetyltransferase
+sas:SAS1931	CDS	complement(2077920..2078438)	putative membrane protein
+sas:SAS1932	CDS	complement(2078674..2079264)	putative terminase small subunit
+sas:SAS1933	CDS	complement(2079261..2079476)	hypothetical protein
+sas:SAS1934	gene	join(2079534..2079878,2079880..2080080)	pseudogene
+sas:SAS1935	CDS	complement(2080175..2081791)	60 kDa chaperonin
+sas:SAS1936	CDS	complement(2081867..2082151)	10 kDa chaperonin
+sas:SAS1937	CDS	2082326..2083069	putative membrane protein
+sas:SAS1938	CDS	complement(2083094..2084236)	membrane anchored protein
+sas:SAS1939	CDS	2084433..2085059	conserved hypothetical protein
+sas:SAS1940	CDS	2085420..2086205	putative carbon-nitrogen hydrolase
+sas:SAS1940a	CDS	complement(2086804..2086941)	delta-hemolysin precursor
+sas:SAS1941	CDS	2087174..2087737	putative autoinducer processing protein
+sas:SAS1942	CDS	2087741..2087881	autoinducer peptide precursor
+sas:SAS1943	CDS	2087906..2089198	autoinducer sensor protein
+sas:SAS1944	CDS	2089217..2089933	autoinducer sensor protein response regulator protein
+sas:SAS1945	CDS	complement(2090302..2091261)	putative fructokinase
+sas:SAS1946	CDS	complement(2091258..2092742)	sucrose-6-phosphate hydrolase
+sas:SAS1947	CDS	complement(2092891..2093841)	sucrose operon repressor
+sas:SAS1948	CDS	complement(2094024..2095274)	ammonium transporter family protein
+sas:SAS1949	CDS	complement(2095482..2095706)	conserved hypothetical protein
+sas:SAS1950	CDS	complement(2095766..2096845)	putative membrane protein
+sas:SAS1951	CDS	complement(2097149..2097784)	conserved hypothetical protein
+sas:SAS1952	CDS	2098037..2099965	ABC transporter ATP-binding protein
+sas:SAS1953	CDS	2100327..2101937	putative membrane protein
+sas:SAS1954	CDS	complement(2102039..2103064)	putative glycoprotease
+sas:SAS1955	CDS	complement(2103057..2103521)	putative acetyltransferase
+sas:SAS1956	CDS	complement(2103494..2104156)	conserved hypothetical protein
+sas:SAS1957	CDS	complement(2104137..2104631)	conserved hypothetical protein
+sas:SAS1958	CDS	2105109..2106797	putative dihydroxy-acid dehydratase
+sas:SAS1959	CDS	2106825..2108594	acetolactate synthase large subunit
+sas:SAS1960	gene	2108594..2108848	pseudogene
+sas:SAS1961	CDS	2108985..2109989	ketol-acid reductoisomerase
+sas:SAS1962	CDS	2110019..2111548	2-isopropylmalate synthase
+sas:SAS1963	CDS	2111551..2112597	3-isopropylmalate dehydrogenase
+sas:SAS1964	CDS	2112611..2113981	3-isopropylmalate dehydratase large subunit
+sas:SAS1965	CDS	2113982..2114554	3-isopropylmalate dehydratase small subunit
+sas:SAS1966	CDS	2114569..2115837	threonine dehydratase biosynthetic
+sas:tRNA-Gly-5	tRNA	complement(2121632..2121705)	tRNA-Gly
+sas:tRNA-Leu-5	tRNA	complement(2121724..2121809)	tRNA-Leu
+sas:SAS1967	CDS	complement(2122456..2122911)	conserved hypothetical protein
+sas:SAS1968	CDS	complement(2122904..2125054)	putative RNA binding protein
+sas:SAS1969	CDS	complement(2125487..2126257)	RNA polymerase sigma-B factor
+sas:SAS1970	CDS	complement(2126232..2126711)	anti-sigma B factor
+sas:SAS1971	CDS	complement(2126713..2127039)	anti-sigma B factor antagonist
+sas:SAS1972	CDS	complement(2127158..2128159)	putative sigma factor sigB regulation protein
+sas:SAS1973	CDS	complement(2128508..2128870)	conserved hypothetical protein
+sas:SAS1974	CDS	complement(2128867..2129037)	hypothetical protein
+sas:SAS1975	CDS	complement(2129122..2130270)	alanine racemase
+sas:SAS1976	CDS	complement(2130336..2130695)	holo-[acyl-carrier protein] synthase
+sas:SAS1977	CDS	complement(2130699..2131190)	putative membrane protein
+sas:SAS1978	CDS	complement(2131177..2132760)	putative membrane protein
+sas:SAS1979	CDS	complement(2132753..2133232)	conserved hypothetical protein
+sas:SAS1980	CDS	complement(2133441..2134001)	putative potassium-transporting ATPase C chain
+sas:SAS1981	CDS	complement(2134021..2136048)	putative potassium-transporting ATPase B chain
+sas:SAS1982	CDS	complement(2136067..2137743)	putative potassium-transporting ATPase a chain
+sas:SAS1983	CDS	2138015..2140672	sensor kinase protein
+sas:SAS1984	CDS	2140672..2141367	response regulator protein
+sas:SAS1985	CDS	complement(2141736..2143256)	putative helicase
+sas:SAS1986	CDS	complement(2143773..2145131)	putative UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanyl ligase
+sas:SAS1987	CDS	complement(2145146..2146216)	D-alanine--D-alanine ligase
+sas:SAS1988	CDS	2146513..2147715	putative membrane protein
+sas:SAS1989	CDS	complement(2147978..2148115)	hypothetical protein
+sas:SAS1990	CDS	complement(2148243..2148452)	hypothetical protein
+sas:SAS1991	CDS	complement(2148464..2148757)	conserved hypothetical protein
+sas:SAS1992	CDS	2148923..2150407	putative cardiolipin synthetase
+sas:SAS1993	CDS	2150435..2151082	conserved hypothetical protein
+sas:SAS1994	CDS	complement(2151696..2152568)	putative membrane protein
+sas:SAS1995	CDS	complement(2152654..2153295)	putative thiamine-phosphate pyrophosphorylase
+sas:SAS1996	CDS	complement(2153288..2154088)	putative hydroxyethylthiazole kinase
+sas:SAS1997	CDS	complement(2154072..2154902)	putative phosphomethylpyrimidine kinase
+sas:SAS1998	CDS	complement(2154895..2155584)	transcriptional activator
+sas:SAS1998b	CDS	2155847..2156092	hypothetical protein
+sas:SAS1999	CDS	complement(2156108..2156803)	putative exported protein
+sas:SAS2000	CDS	complement(2157192..2157587)	putative single strand DNA-binding protein
+sas:SAS2001	CDS	2157781..2158221	conserved hypothetical protein
+sas:SAS2002	CDS	complement(2158279..2158719)	putative hydroxymyristoyl-(acyl carrier protein) dehydratase
+sas:SAS2003	CDS	complement(2158753..2160018)	putative UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sas:SAS2004	CDS	complement(2160129..2160362)	putative membrane protein
+sas:SAS2005	CDS	complement(2160924..2161328)	ATP synthase epsilon chain
+sas:SAS2006	CDS	complement(2161348..2162760)	ATP synthase beta chain
+sas:SAS2007	CDS	complement(2162782..2163648)	ATP synthase gamma chain
+sas:SAS2008	CDS	complement(2163679..2165187)	ATP synthase alpha chain
+sas:SAS2009	CDS	complement(2165209..2165748)	putative ATP synthase delta chain
+sas:SAS2010	CDS	complement(2165748..2166269)	putative ATP synthase subunit b
+sas:SAS2011	CDS	complement(2166466..2166678)	ATP synthase subunit c
+sas:SAS2012	CDS	complement(2166721..2167449)	ATP synthase subunit a
+sas:SAS2013	CDS	complement(2167470..2167823)	putative ATP synthase protein I
+sas:SAS2014	CDS	complement(2167990..2169120)	UDP-GlcNAc 2-epimerase
+sas:SAS2015	CDS	complement(2169141..2169770)	uracil phosphoribosyltransferase
+sas:SAS2016	CDS	complement(2169798..2171036)	serine hydroxymethyltransferase
+sas:SAS2017	CDS	complement(2171063..2171587)	conserved hypothetical protein
+sas:SAS2018	CDS	complement(2171694..2172113)	putative low molecular weight protein-tyrosine-phosphatase
+sas:SAS2019	CDS	complement(2172110..2173156)	conserved hypothetical protein
+sas:SAS2020	CDS	complement(2173240..2174076)	conserved hypothetical protein
+sas:SAS2021	CDS	complement(2174063..2175139)	peptide chain release factor 1
+sas:SAS2022	CDS	complement(2175140..2175739)	putative thymidine kinase
+sas:SAS2023	CDS	complement(2176086..2176340)	putative 50S ribosomal protein L31
+sas:SAS2024	CDS	complement(2176458..2177774)	transcription termination factor
+sas:SAS2025	CDS	complement(2178021..2179448)	aldehyde dehydrogenase family protein
+sas:SAS2026	CDS	complement(2179686..2180024)	conserved hypothetical protein
+sas:SAS2027	CDS	complement(2180110..2181369)	putative UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sas:SAS2028	CDS	complement(2181835..2182695)	putative tagatose-bisphosphate aldolase
+sas:SAS2029	CDS	2182913..2183434	conserved hypothetical protein
+sas:SAS2030	CDS	complement(2183543..2185153)	putative CTP synthase
+sas:SAS2031	CDS	complement(2185489..2186019)	DNA-directed RNA polymerase delta subunit
+sas:SAS2032	CDS	complement(2186131..2186991)	putative acetyltransferase
+sas:SAS2033	CDS	2187415..2188218	hypothetical protein
+sas:SAS2034	CDS	complement(2188348..2189019)	hypothetical protein
+sas:SAS2035	CDS	complement(2189418..2190611)	hypothetical protein
+sas:SAS2036	CDS	complement(2190611..2191795)	putative peptidase
+sas:SAS2037	CDS	2192106..2192576	autoinducer-2 production protein
+sas:SAS2038	CDS	complement(2192728..2193078)	putative membrane protein
+sas:SAS2039	CDS	complement(2193092..2194393)	putative pyrimidine-nucleoside phosphorylase
+sas:SAS2040	CDS	complement(2194674..2195336)	putative deoxyribose-phosphate aldolase
+sas:SAS2041	CDS	2195651..2196361	putative purine nucleoside phosphorylase
+sas:SAS2042	CDS	complement(2196482..2196925)	putative non-heme iron-containing ferritin
+sas:SAS2043	CDS	complement(2197125..2197538)	conserved hypothetical protein
+sas:SAS2044	CDS	complement(2197996..2199369)	hypothetical protein
+sas:SAS2045	CDS	complement(2200041..2200271)	putative membrane protein
+sas:SAS2046	CDS	complement(2200302..2201240)	putative mannose-6-phosphate isomerase
+sas:SAS2047	CDS	complement(2201676..2202341)	conserved hypothetical protein
+sas:SAS2048	CDS	2202493..2202813	zinc and cobalt transport repressor protein
+sas:SAS2049	CDS	2202815..2203795	zinc resistance protein
+sas:SAS2050	CDS	2204061..2205152	putative membrane protein
+sas:SAS2051	CDS	complement(2205585..2205665)	hypothetical protein
+sas:SAS2052	gene	join(2205996..2206202,2206206..2206373,2206369..2206527)	pseudogene
+sas:SAS2052a	CDS	2206964..2207056	hypothetical protein
+sas:SAS2053	CDS	complement(2207186..2208043)	haloacid dehalogenase-like hydrolase
+sas:SAS2054	CDS	complement(2208111..2208893)	ABC transporter ATP-binding protein
+sas:SAS2055	CDS	complement(2209125..2210930)	glucosamine--fructose-6-phosphate aminotransferase [isomerizing]
+sas:SAS2056	CDS	2211398..2211553	hypothetical protein
+sas:SAS2057	CDS	2211611..2213149	PTS system, mannitol-specific IIBC component
+sas:SAS2058	CDS	2213184..2215316	putative transcriptional antiterminator
+sas:SAS2059	CDS	2215328..2215762	PTS system, mannitol-specific IIA component
+sas:SAS2060	CDS	2215762..2216868	putative mannitol-1-phosphate 5-dehydrogenase
+sas:SAS2061	gene	complement(join(2217188..2219305,2219309..2224693))	fmtB; pseudogene
+sas:SAS2063	CDS	complement(2224979..2226334)	putative phosphoglucosamine mutase
+sas:SAS2064	CDS	complement(2226361..2227293)	putative exported protein
+sas:SAS2065	CDS	complement(2227295..2228104)	putative membrane protein
+sas:SAS2066	CDS	complement(2228293..2229201)	arginase
+sas:tRNA-Lys-3	tRNA	complement(2229336..2229411)	tRNA-Lys
+sas:tRNA-Gln-2	tRNA	complement(2229415..2229489)	tRNA-Gln
+sas:tRNA-Tyr-2	tRNA	complement(2229499..2229582)	tRNA-Tyr
+sas:tRNA-Val-3	tRNA	complement(2229612..2229687)	tRNA-Val
+sas:tRNA-Glu-3	tRNA	complement(2229695..2229766)	tRNA-Glu
+sas:tRNA-Asn-3	tRNA	complement(2229768..2229842)	tRNA-Asn
+sas:SAS2067	CDS	complement(2235396..2236460)	conserved hypothetical protein
+sas:SAS2068	CDS	complement(2236608..2238050)	putative transport protein
+sas:SAS2069	CDS	complement(2238373..2238840)	putative membrane protein
+sas:SAS2070	CDS	complement(2238945..2240288)	putative transport protein
+sas:SAS2071	CDS	complement(2240465..2241148)	putative membrane protein
+sas:SAS2072	CDS	complement(2241167..2242354)	putative UTP--glucose-1-phosphate uridylyltransferase
+sas:SAS2073	CDS	complement(2242398..2242913)	putative membrane protein
+sas:SAS2074	CDS	2243090..2243350	conserved hypothetical protein
+sas:SAS2075	CDS	complement(2243482..2244852)	putative membrane protein
+sas:SAS2076	CDS	complement(2245088..2246056)	FecCD transport family protein
+sas:SAS2077	CDS	complement(2246053..2247084)	FecCD transport family protein
+sas:SAS2078	CDS	complement(2247096..2248079)	putative transport system binding lipoprotein
+sas:SAS2079	CDS	complement(2248471..2249541)	hypothetical protein
+sas:SAS2080	CDS	complement(2249548..2251305)	hypothetical protein
+sas:SAS2081	CDS	complement(2251292..2252485)	putative membrane protein
+sas:SAS2082	CDS	2252587..2254563	hypothetical protein
+sas:SAS2083	CDS	complement(2254723..2255232)	alkaline shock protein 23
+sas:SAS2084	CDS	complement(2255295..2255534)	putative membrane protein
+sas:SAS2085	CDS	complement(2255547..2256083)	putative membrane protein
+sas:SAS2086	CDS	complement(2256258..2257820)	glycine betaine transporter 2
+sas:SAS2087	CDS	complement(2258128..2259135)	putative zinc-binding dehydrogenase
+sas:SAS2088	CDS	complement(2259369..2260373)	putative zinc-binding dehydrogenase
+sas:SAS2089	CDS	complement(2260653..2261522)	putative exported protein
+sas:SAS2090	CDS	complement(2261788..2263200)	6-phospho-beta-galactosidase
+sas:SAS2091	CDS	complement(2263218..2264930)	PTS system, lactose-specific IIBC component
+sas:SAS2092	CDS	complement(2264936..2265247)	PTS system, lactose-specific IIA component
+sas:SAS2093	CDS	complement(2265269..2266249)	tagatose 1,6-diphosphate aldolase
+sas:SAS2094	CDS	complement(2266253..2267185)	tagatose-6-phosphate kinase
+sas:SAS2095	CDS	complement(2267198..2267713)	galactose-6-phosphate isomerase LacB subunit
+sas:SAS2096	CDS	complement(2267729..2268157)	galactose-6-phosphate isomerase LacA subunit
+sas:SAS2097	CDS	complement(2268525..2269280)	lactose phosphotransferase system repressor
+sas:SAS2098	CDS	2269531..2270262	Sir2 family protein
+sas:SAS2099	CDS	2270311..2270460	hypothetical protein
+sas:SAS2100	CDS	complement(2270553..2271161)	hypothetical protein
+sas:SAS2100a	CDS	complement(2271423..2271548)	hypothetical protein
+sas:SAS2101	CDS	complement(2271767..2272615)	aldo/keto reductase family protein
+sas:SAS2102	CDS	complement(2272685..2273101)	MerR family regulatory protein
+sas:SAS2103	CDS	2273510..2275957	hyaluronate lyase precursor 2
+sas:SAS2104	CDS	2276146..2276571	putative exported protein
+sas:SAS2105	CDS	complement(2276958..2277662)	conserved hypothetical protein
+sas:SAS2106	CDS	complement(2277699..2279363)	putative acetolactate synthase
+sas:SAS2107	CDS	2279611..2279736	hypothetical protein
+sas:SAS2107a	CDS	complement(2279810..2279992)	hypothetical protein
+sas:SAS2107b	CDS	complement(2280027..2280113)	hypothetical protein
+sas:SAS2108	CDS	complement(2280339..2280731)	30S ribosomal protein S9
+sas:SAS2109	CDS	complement(2280751..2281188)	50S ribosomal protein L13
+sas:SAS2110	CDS	complement(2281428..2282231)	putative tRNA pseudouridine synthase
+sas:SAS2111	CDS	complement(2282236..2283042)	putative cobalt transport protein
+sas:SAS2112	CDS	complement(2283032..2283892)	ABC transporter ATP-binding protein
+sas:SAS2113	CDS	complement(2283889..2284698)	ABC transporter ATP-binding protein
+sas:SAS2114	CDS	complement(2285236..2285604)	50S ribosomal protein L17
+sas:SAS2115	CDS	complement(2285621..2286565)	DNA-directed RNA polymerase alpha chain
+sas:SAS2116	CDS	complement(2286640..2287029)	30S ribosomal protein S11
+sas:SAS2117	CDS	complement(2287053..2287418)	30S ribosomal protein S13
+sas:SAS2118	CDS	complement(2287441..2287554)	50S ribosomal protein L36
+sas:SAS2119	CDS	complement(2287586..2287804)	translation initiation factor IF-1
+sas:SAS2120	CDS	complement(2287997..2288644)	adenylate kinase
+sas:SAS2121	CDS	complement(2288661..2289953)	preprotein translocase SecY subunit
+sas:SAS2122	CDS	complement(2289953..2290393)	50S ribosomal protein L15
+sas:SAS2123	CDS	complement(2290410..2290589)	50S ribosomal protein L30
+sas:SAS2124	CDS	complement(2290606..2291106)	30S ribosomal protein S5
+sas:SAS2125	CDS	complement(2291127..2291486)	50S ribosomal protein L18
+sas:SAS2126	CDS	complement(2291517..2292053)	50S ribosomal protein L6
+sas:SAS2127	CDS	complement(2292078..2292476)	30S ribosomal protein S8
+sas:SAS2128	CDS	complement(2292508..2292693)	30S ribosomal protein S14
+sas:SAS2129	CDS	complement(2292716..2293255)	50S ribosomal protein L5
+sas:SAS2130	CDS	complement(2293282..2293599)	50S ribosomal protein L24
+sas:SAS2131	CDS	complement(2293635..2294003)	50S ribosomal protein L14
+sas:SAS2132	CDS	complement(2294035..2294298)	30S ribosomal protein S17
+sas:SAS2133	CDS	complement(2294322..2294531)	50S ribosomal protein L29
+sas:SAS2134	CDS	complement(2294521..2294955)	50S ribosomal protein L16
+sas:SAS2135	CDS	complement(2294958..2295611)	30S ribosomal protein S3
+sas:SAS2136	CDS	complement(2295635..2295988)	50S ribosomal protein L22
+sas:SAS2137	CDS	complement(2296017..2296295)	30S ribosomal protein S19
+sas:SAS2138	CDS	complement(2296362..2297195)	50S ribosomal protein L2
+sas:SAS2139	CDS	complement(2297228..2297503)	50S ribosomal protein L23
+sas:SAS2140	CDS	complement(2297503..2298126)	50S ribosomal protein L4
+sas:SAS2141	CDS	complement(2298153..2298815)	50S ribosomal protein L3
+sas:SAS2142	CDS	complement(2298843..2299151)	30S ribosomal protein S10
+sas:SAS2143	CDS	2299502..2299897	putative membrane protein
+sas:SAS2144	CDS	complement(2300088..2301422)	xanthine/uracil permeases family protein
+sas:SAS2145	CDS	complement(2301535..2303670)	putative DNA topoisomerase
+sas:SAS2146	CDS	2303857..2304744	acetyltransferase (GNAT) family protein
+sas:SAS2147	CDS	2304925..2305788	glucose uptake protein
+sas:SAS2148	CDS	complement(2306207..2307115)	putative membrane protein
+sas:SAS2149	CDS	2307248..2307412	conserved hypothetical protein
+sas:SAS2150	CDS	2307657..2307974	putative membrane protein
+sas:SAS2151	CDS	complement(2308158..2311325)	AcrB/AcrD/AcrF family protein
+sas:SAS2152	CDS	complement(2311442..2312707)	putative peptidoglycan pentaglycine interpeptide biosynthesis protein
+sas:SAS2153	CDS	2313096..2313347	putative membrane protein
+sas:SAS2154	CDS	complement(2313339..2314103)	hypothetical protein
+sas:SAS2155	CDS	2314265..2314705	MarR family regulatory protein
+sas:SAS2156	CDS	2314698..2315909	putative transporter protein
+sas:SAS2157	CDS	complement(2316011..2316361)	hypothetical protein
+sas:SAS2158	CDS	complement(2316939..2317961)	putative molybdenum cofactor biosynthesis protein A
+sas:SAS2159	CDS	complement(2317981..2318580)	putative molybdopterin-guanine dinucleotide biosynthesis protein A
+sas:SAS2160	CDS	complement(2318587..2318820)	putative molybdopterin-synthase small subunit
+sas:SAS2161	CDS	complement(2318826..2319272)	putative molybdopterin-synthase large subunit
+sas:SAS2162	CDS	complement(2319286..2319771)	putative molybdopterin-guanine dinucleotide biosynthesis protein B
+sas:SAS2163	CDS	complement(2319768..2321027)	putative molybdenum cofactor biosynthesis protein
+sas:SAS2164	CDS	2321090..2321584	putative molybdenum cofactor biosynthesis protein C
+sas:SAS2165	CDS	complement(2321586..2322092)	putative molybdenum cofactor biosynthesis protein B
+sas:SAS2166	CDS	complement(2322123..2323127)	putative molybdopterin synthase sulfurylase
+sas:SAS2167	CDS	complement(2323297..2323902)	putative molybdenum transport ATP-binding protein
+sas:SAS2168	CDS	complement(2323903..2324574)	putative molybdenum transport system permease protein
+sas:SAS2169	CDS	complement(2324588..2325370)	putative molybdate-binding lipoprotein precursor
+sas:SAS2170	CDS	2325660..2326457	FdhD/NarQ family protein
+sas:SAS2171	CDS	complement(2326629..2327399)	acetyltransferase (GNAT) family protein
+sas:SAS2172	CDS	complement(2327476..2328030)	BioY family protein
+sas:SAS2173	CDS	complement(2328151..2329092)	putative inosine-uridine preferring nucleoside hydrolase
+sas:SAS2174	CDS	complement(2329490..2330398)	putative ferrichrome-binding lipoprotein precursor
+sas:SAS2175	CDS	complement(2330612..2331766)	conserved hypothetical protein
+sas:SAS2176	CDS	complement(2331813..2331905)	hypothetical protein
+sas:SAS2177	CDS	complement(2331983..2332888)	putative membrane protein
+sas:SAS2178	CDS	2333148..2333450	urease gamma subunit
+sas:SAS2179	CDS	2333464..2333874	urease beta subunit
+sas:SAS2180	CDS	2333871..2335586	urease alpha subunit
+sas:SAS2181	CDS	2335599..2336051	urease accessory protein UreE
+sas:SAS2182	CDS	2336044..2336733	urease accessory protein UreF
+sas:SAS2183	CDS	2336746..2337360	urease accessory protein UreG
+sas:SAS2184	CDS	2337360..2338196	urease accessory protein UreD
+sas:SAS2185	CDS	complement(2338385..2338732)	staphylococcal accessory regulator A homologue
+sas:SAS2186	CDS	complement(2339160..2339486)	hypothetical protein
+sas:SAS2187	CDS	complement(2339550..2340293)	hypothetical protein
+sas:SAS2188	CDS	complement(2340320..2342275)	putative transcriptional regulator
+sas:SAS2189	CDS	2342885..2343694	putative exported protein
+sas:SAS2190	CDS	complement(2343711..2343932)	hypothetical protein
+sas:SAS2191	CDS	complement(2344127..2345527)	putative Na+/H+ antiporter
+sas:SAS2192	CDS	complement(2345622..2346704)	putative dehydrogenase
+sas:SAS2193	CDS	2346952..2347374	putative membrane protein
+sas:SAS2194	CDS	2347611..2348111	putative exported protein
+sas:SAS2195	CDS	2348207..2348416	putative membrane protein
+sas:SAS2196	CDS	2348473..2349426	putative D-isomer specific 2-hydroxyacid dehydrogenase
+sas:SAS2197	CDS	complement(2349507..2350631)	putative monooxygenase
+sas:SAS2198	CDS	complement(2351356..2352132)	putative N-acetylmuramoyl-L-alanine amidase
+sas:SAS2199	CDS	complement(2352154..2352405)	putative membrane protein
+sas:SAS2200	CDS	complement(2352615..2353088)	conserved hypothetical protein
+sas:SAS2201	CDS	complement(2353088..2356042)	putative bifunctional protein
+sas:SAS2202	CDS	complement(2356644..2357591)	putative exported protein
+sas:SAS2203	CDS	complement(2357724..2358521)	inositol monophosphatase family protein
+sas:SAS2204	CDS	2358906..2359598	DeoR family regulatory protein
+sas:SAS2205	gene	2359810..2360145	pseudogene
+sas:SAS2206	CDS	complement(2360245..2360982)	putative membrane protein
+sas:SAS2207	CDS	2361031..2361360	hypothetical protein
+sas:SAS2208	CDS	2361805..2362677	putative transcription regulator
+sas:SAS2209	CDS	complement(2363064..2364443)	putative amino acid permease
+sas:SAS2210	CDS	2364723..2365079	putative membrane protein
+sas:SAS2211	CDS	2365076..2365261	putative membrane protein
+sas:SAS2212	CDS	complement(2365357..2365548)	putative membrane protein
+sas:SAS2213	CDS	complement(2365559..2366194)	haloacid dehalogenase-like hydrolase
+sas:SAS2214	CDS	complement(2366269..2367186)	sodium/bile acid symporter family protein
+sas:SAS2215	CDS	2367454..2367984	hypothetical protein
+sas:SAS2216	CDS	complement(2368050..2369654)	PTS system, arbutin-like IIBC component
+sas:SAS2217	CDS	2369984..2370748	putative transcription regulator
+sas:SAS2218	CDS	complement(2370806..2371312)	hypothetical protein
+sas:SAS2219	CDS	complement(2371479..2372858)	putative transport protein
+sas:SAS2220	CDS	complement(2373017..2373586)	putative membrane protein
+sas:SAS2221	CDS	complement(2374073..2374954)	putative short chain dehydrogenase
+sas:SAS2222	CDS	complement(2375065..2376186)	putative peptidase
+sas:SAS2223	CDS	complement(2376462..2377700)	putative imidazolonepropionase
+sas:SAS2224	CDS	complement(2377700..2379361)	urocanate hydratase
+sas:SAS2225	CDS	2379521..2380405	LysR family regulatory protein
+sas:SAS2226	CDS	complement(2380898..2381833)	arginase family protein
+sas:SAS2227	CDS	2382123..2383382	putative membrane protein
+sas:SAS2228	CDS	complement(2383448..2384134)	putative ribose 5-phosphate isomerase
+sas:SAS2229	CDS	2384308..2384961	conserved hypothetical protein
+sas:SAS2230	CDS	complement(2385197..2386216)	putative aldose 1-epimerase
+sas:SAS2231	CDS	complement(2386246..2386572)	putative membrane protein
+sas:SAS2232	CDS	complement(2386790..2388022)	putative membrane protein
+sas:SAS2233	CDS	complement(2388015..2388914)	ABC transporter ATP-binding protein
+sas:SAS2234	CDS	complement(2389145..2389765)	putative membrane protein
+sas:SAS2234a	CDS	2389757..2389879	hypothetical protein
+sas:SAS2234a.1	CDS	2389945..2390076	hypothetical protein
+sas:SAS2235	CDS	2390164..2390772	putative 3-methylpurine glycosylase
+sas:SAS2236	CDS	2391109..2392317	putative permease
+sas:SAS2237	CDS	complement(2392365..2393414)	isopentenyl-diphosphate delta-isomerase
+sas:SAS2238	CDS	complement(2393445..2394392)	CorA-like Mg2+ transporter protein
+sas:SAS2239	CDS	2394489..2394980	hypothetical protein
+sas:SAS2240	CDS	2394977..2395396	hypothetical protein
+sas:SAS2241	CDS	complement(2395504..2396424)	hypothetical protein
+sas:SAS2242	CDS	2396632..2397270	putative membrane protein
+sas:SAS2243	CDS	complement(2397516..2399447)	putative transport protein
+sas:SAS2244	CDS	complement(2399460..2400107)	putative exported protein
+sas:SAS2245	CDS	2400228..2400779	TetR family regulatory protein
+sas:SAS2246	CDS	complement(2401009..2402217)	teicoplanin resistance associated membrane protein
+sas:SAS2247	CDS	complement(2402486..2403868)	teicoplanin resistance associated membrane protein
+sas:SAS2248	CDS	complement(2404108..2404563)	MarR family regulatory protein
+sas:SAS2249	CDS	2404758..2405726	putative membrane protein
+sas:SAS2250	CDS	complement(2405957..2406622)	ABC transporter ATP-binding protein
+sas:SAS2251	CDS	complement(2406622..2407677)	putative permease protein
+sas:SAS2252	CDS	2407813..2408487	response regulator protein
+sas:SAS2253	CDS	2408480..2409853	sensor kinase protein
+sas:SAS2254	CDS	2410016..2410459	hypothetical protein
+sas:SAS2255	CDS	2410456..2410911	putative membrane protein
+sas:SAS2256	CDS	complement(2410977..2412512)	putative malate:quinone oxidoreductase 1
+sas:SAS2257	CDS	complement(2412836..2414434)	putative L-lactate permease 2
+sas:SAS2258	CDS	2414751..2416424	hypothetical protein
+sas:SAS2259	CDS	complement(2416578..2417192)	putative lipoprotein
+sas:SAS2260	CDS	complement(2417506..2418021)	acetyltransferase (GNAT) family protein
+sas:SAS2261	CDS	2418212..2419216	putative zinc-binding dehydrogenase
+sas:SAS2262	CDS	2419459..2420706	putative membrane protein
+sas:SAS2263	CDS	complement(2420982..2421383)	putative acetyltransferase (GNAT) family protein
+sas:SAS2264	CDS	complement(2421419..2422453)	pyridine nucleotide-disulphide oxidoreductase family protein
+sas:SAS2265	CDS	complement(2422685..2423116)	putative membrane protein
+sas:SAS2266	CDS	complement(2423323..2424600)	putative membrane protein
+sas:SAS2267	CDS	2424761..2425384	TetR family regulatory protein
+sas:SAS2268	CDS	2425430..2426374	CorA-like Mg2+ transporter protein
+sas:SAS2269	CDS	complement(2426459..2427901)	PTS system, sucrose-specific IIBC component
+sas:SAS2270	CDS	2428084..2428467	conserved hypothetical protein
+sas:SAS2271	CDS	2429955..2432060	AraC family regulatory protein
+sas:SAS2272	CDS	2432131..2432553	conserved hypothetical protein
+sas:SAS2273	CDS	2432818..2433174	putative exported protein
+sas:SAS2274	CDS	complement(2433445..2434722)	putative proton/sodium-glutamate symport protein
+sas:SAS2275	CDS	complement(2434904..2435269)	putative exported protein
+sas:SAS2276	CDS	2435667..2436113	MarR family regulatory protein
+sas:SAS2277	CDS	2436335..2436757	putative small heat shock protein
+sas:SAS2278	CDS	complement(2436864..2438033)	nitrite transport protein
+sas:SAS2278a	CDS	2438104..2438223	hypothetical protein
+sas:SAS2279	gene	join(2438402..2438923,2438922..2439317)	pseudogene
+sas:SAS2281	CDS	2439296..2440036	MerR family regulatory protein
+sas:SAS2282	CDS	complement(2440294..2440947)	putative response regulator
+sas:SAS2283	CDS	complement(2440970..2442004)	putative histidine kinase
+sas:SAS2284	CDS	complement(2442028..2442480)	hypothetical protein
+sas:SAS2285	CDS	complement(2442500..2443177)	putative nitrate reductase gamma chain
+sas:SAS2286	CDS	complement(2443170..2443745)	respiratory nitrate reductase delta chain
+sas:SAS2287	CDS	complement(2443738..2445297)	nitrate reductase beta chain
+sas:SAS2288	CDS	complement(2445287..2448976)	nitrate reductase alpha chain
+sas:SAS2289	CDS	complement(2449284..2450261)	tetrapyrrole (corrin/porphyrin) methylase family protein
+sas:SAS2290	CDS	complement(2450252..2450566)	assimilatory nitrite reductase small subunit
+sas:SAS2291	CDS	complement(2450570..2452975)	nitrite reductase large subunit
+sas:SAS2292	CDS	complement(2453041..2453772)	conserved hypothetical protein
+sas:SAS2293	CDS	complement(2454001..2454528)	acetyltransferase (GNAT) family protein
+sas:SAS2294	CDS	complement(2454772..2455596)	putative nitrite transporter
+sas:SAS2295	CDS	complement(2455813..2455995)	putative membrane protein
+sas:SAS2296	CDS	complement(2456079..2456546)	hypothetical protein
+sas:SAS2297	CDS	complement(2456732..2458282)	putative solute binding lipoprotein
+sas:SAS2298	CDS	complement(2458576..2458842)	conserved hypothetical protein
+sas:SAS2299	CDS	complement(2458842..2459093)	conserved hypothetical protein
+sas:SAS2300	CDS	complement(2459366..2459965)	putative lipoprotein
+sas:SAS2301	CDS	complement(2459984..2460346)	putative lipoprotein
+sas:SAS2302	CDS	2460601..2461851	FemAB family protein
+sas:SAS2303	CDS	complement(2461948..2462679)	ABC transporter ATP-binding protein
+sas:SAS2304	CDS	complement(2462676..2463395)	transport system membrane protein
+sas:SAS2305	CDS	complement(2463376..2464155)	extracellular solute-binding lipoprotein
+sas:SAS2306	CDS	complement(2464276..2465715)	putative transport system protein
+sas:SAS2307	CDS	complement(2466147..2466833)	putative phosphoglycerate mutase
+sas:SAS2308	CDS	complement(2467160..2468026)	cation efflux family protein
+sas:SAS2309	CDS	2468724..2470037	IgG-binding protein
+sas:SAS2310	CDS	2470573..2471502	gamma-hemolysin component A precursor
+sas:SAS2311	CDS	2472070..2473017	gamma-hemolysin component C precursor
+sas:SAS2312	CDS	2473019..2473996	gamma-hemolysin component C precursor
+sas:SAS2313	CDS	complement(2474048..2474515)	putative membrane protein
+sas:SAS2314	CDS	complement(2474526..2475218)	putative 6-carboxyhexanoate--CoA ligase
+sas:SAS2315	CDS	complement(2475229..2476344)	putative 8-amino-7-oxononanoate synthase
+sas:SAS2316	CDS	complement(2476322..2477329)	putative biotin synthase
+sas:SAS2317	CDS	complement(2477331..2478689)	putative adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+sas:SAS2318	CDS	complement(2478667..2479353)	putative dethiobiotin synthetase
+sas:SAS2319	CDS	complement(2479806..2481539)	ABC transporter ATP-binding protein
+sas:SAS2320	CDS	complement(2481564..2483348)	ABC transporter ATP-binding protein
+sas:SAS2320a	CDS	complement(2483877..2483984)	hypothetical protein
+sas:SAS2322	CDS	2484015..2484269	hypothetical protein
+sas:SAS2323	CDS	complement(2484252..2484638)	putative membrane protein
+sas:SAS2324	CDS	2484896..2486038	putative glycerate kinase
+sas:SAS2325	CDS	2486098..2486757	putative membrane protein
+sas:SAS2326	CDS	2486939..2488150	putative transporter protein
+sas:SAS2327	CDS	complement(2488273..2488746)	hypothetical protein
+sas:SAS2328	CDS	2488859..2489515	hypothetical protein
+sas:SAS2329	CDS	complement(2489578..2490384)	hypothetical protein
+sas:SAS2330	CDS	2490670..2492079	putative amino acid permease
+sas:SAS2331	CDS	2492217..2494295	sodium/hydrogen exchanger family protein
+sas:SAS2332	CDS	complement(2494435..2496264)	putative membrane protein
+sas:SAS2333	CDS	2496496..2497992	putative exported protein
+sas:SAS2334	CDS	complement(2498084..2498935)	hypothetical protein
+sas:SAS2335	CDS	complement(2499257..2500192)	putative ketopantoate reductase
+sas:SAS2336	CDS	complement(2500418..2501818)	putative transport protein
+sas:SAS2337	CDS	complement(2502112..2502807)	putative glycine betaine/carnitine/choline transport system permease protein
+sas:SAS2338	CDS	complement(2502807..2503748)	putative glycine betaine/carnitine/choline-binding lipoprotein precursor
+sas:SAS2339	CDS	complement(2503765..2504400)	putative glycine betaine/carnitine/choline transport system permease protein
+sas:SAS2340	CDS	complement(2504397..2505623)	putative glycine betaine/carnitine/choline transport ATP-binding protein
+sas:SAS2341	CDS	complement(2506293..2506892)	conserved hypothetical protein
+sas:SAS2342	CDS	2507072..2508709	putative amino acid permease
+sas:SAS2343	CDS	2509016..2510368	putative carboxylesterase
+sas:SAS2344	CDS	complement(2510430..2511617)	putative transport protein
+sas:SAS2345	CDS	complement(2512013..2512789)	putative membrane protein
+sas:SAS2346	CDS	complement(2512782..2513444)	ABC transporter ATP-binding protein
+sas:SAS2347	CDS	complement(2513692..2514768)	conserved hypothetical protein
+sas:SAS2348	CDS	complement(2515124..2515390)	conserved hypothetical protein
+sas:SAS2349	CDS	complement(2515390..2515647)	conserved hypothetical protein
+sas:SAS2350	CDS	2516006..2516461	putative lipoprotein
+sas:SAS2351	CDS	complement(2516629..2518206)	putative membrane protein
+sas:SAS2352	CDS	2518402..2519151	putative membrane protein
+sas:SAS2352a	CDS	complement(2519300..2519425)	hypothetical protein
+sas:SAS2353	CDS	complement(2519513..2520706)	putative transport protein
+sas:SAS2354	CDS	complement(2520718..2521467)	oligopeptide transporter putative ATPase domain
+sas:SAS2355	CDS	complement(2521460..2522275)	oligopeptide transporter putative ATPase domain
+sas:SAS2356	CDS	complement(2522272..2523141)	oligopeptide transporter putative membrane permease
+sas:SAS2357	CDS	complement(2523138..2524073)	oligopeptide transporter putative membrane permease
+sas:SAS2358	CDS	complement(2524086..2525684)	oligopeptide transporter putative substrate binding domain
+sas:SAS2359	CDS	complement(2525824..2527128)	conserved hypothetical protein
+sas:SAS2360	CDS	complement(2527121..2527939)	conserved hypothetical protein
+sas:SAS2361	CDS	complement(2527950..2528771)	conserved hypothetical protein
+sas:SAS2362	CDS	complement(2529646..2530008)	hypothetical protein
+sas:SAS2363	CDS	complement(2530271..2531089)	putative short chain dehydrogenase
+sas:SAS2364	CDS	2531324..2532862	putative transport protein
+sas:SAS2365	CDS	complement(2532974..2533396)	conserved hypothetical protein
+sas:SAS2366	CDS	complement(2533848..2534267)	putative membrane protein
+sas:SAS2367	CDS	complement(2534285..2534704)	putative membrane protein
+sas:SAS2368	CDS	complement(2534731..2535141)	putative exported protein
+sas:SAS2369	CDS	complement(2535409..2535831)	putative exported protein
+sas:SAS2370	CDS	complement(2536082..2536777)	putative short chain dehydrogenase
+sas:SAS2371	CDS	2537066..2537347	hypothetical protein
+sas:SAS2372	CDS	complement(2537607..2537798)	hypothetical protein
+sas:SAS2373	CDS	complement(2538338..2539153)	putative exported protein
+sas:SAS2374	CDS	complement(2539267..2540085)	putative exported protein
+sas:SAS2375	CDS	complement(2540200..2540961)	putative lipoprotein
+sas:SAS2376	CDS	complement(2541264..2544125)	putative helicase
+sas:SAS2377	CDS	complement(2544127..2544519)	putative NUDIX hydrolase
+sas:SAS2378	CDS	2544801..2546459	putative phosphomannomutase
+sas:SAS2379	CDS	2546743..2547009	putative exported protein
+sas:SAS2380	CDS	2547153..2547461	putative membrane protein
+sas:SAS2381	CDS	complement(2547569..2547802)	putative membrane protein
+sas:SAS2382	CDS	complement(2547783..2548976)	putative membrane protein
+sas:SAS2383	CDS	complement(2549359..2553474)	putative cell wall-anchored protein
+sas:SAS2384	CDS	complement(2553779..2554138)	putative staphylococcal accessory regulator
+sas:SAS2385	CDS	2554459..2555202	putative staphylococcal accessory regulator
+sas:SAS2386	CDS	complement(2555414..2556280)	UTP--glucose-1-phosphate uridylyltransferase
+sas:SAS2387	CDS	complement(2556460..2559333)	fnbB; fibronectin-binding protein precursor
+sas:SAS2388	CDS	complement(2560014..2563061)	fibronectin-binding protein precursor
+sas:SAS2389	CDS	complement(2563196..2563396)	hypothetical protein
+sas:SAS2390	CDS	complement(2563530..2564888)	putative gluconate permease
+sas:SAS2391	CDS	complement(2565005..2566558)	putative gluconokinase
+sas:SAS2392	CDS	complement(2566582..2567262)	gluconate operon transcriptional repressor
+sas:SAS2393	CDS	complement(2567416..2568180)	MerR family regulatory protein
+sas:SAS2394	CDS	complement(2568345..2569037)	conserved hypothetical protein
+sas:SAS2395	CDS	complement(2569268..2569756)	hypothetical protein
+sas:SAS2396	CDS	complement(2569823..2571646)	putative membrane protein
+sas:SAS2396a	CDS	complement(2572158..2572361)	hypothetical protein
+sas:SAS2397	CDS	complement(2572555..2573832)	putative transporter protein
+sas:SAS2398	CDS	2574379..2574990	DedA family protein
+sas:SAS2399	CDS	2575508..2576203	ABC transporter ATP-binding protein
+sas:SAS2400	CDS	2576205..2576975	putative membrane protein
+sas:SAS2401	CDS	2577349..2579313	conserved hypothetical protein
+sas:SAS2401a	CDS	2579459..2579536	hypothetical protein
+sas:SAS2402	CDS	2579655..2580734	putative membrane protein
+sas:SAS2403	CDS	complement(2580839..2581435)	putative phospholipase/carboxylesterase
+sas:SAS2404	CDS	complement(2581463..2582422)	putative dioxygenase
+sas:SAS2405	CDS	complement(2582499..2582933)	MarR family regulatory protein
+sas:SAS2406	CDS	2583150..2583443	acetyltransferase (GNAT) family protein
+sas:SAS2407	gene	join(2583617..2583931,2583931..2584422)	pseudogene
+sas:SAS2409	CDS	complement(2584543..2585214)	nitroreductase family protein
+sas:SAS2410	CDS	2585484..2586476	D-specific D-2-hydroxyacid dehydrogenase
+sas:SAS2411	CDS	complement(2586723..2587523)	putative haloacid dehalogenase-like hydrolase
+sas:SAS2412	CDS	2587844..2588479	ABC transport system, ATP-binding protein
+sas:SAS2413	CDS	2588485..2589216	putative membrane protein
+sas:SAS2414	CDS	complement(2589378..2589998)	sortase A
+sas:SAS2415	CDS	2590192..2590683	acetyltransferase (GNAT) family protein
+sas:SAS2415a	CDS	complement(2591249..2591419)	hypothetical protein
+sas:SAS2416	CDS	complement(2591598..2592497)	putative L-serine dehydratase, alpha chain
+sas:SAS2417	CDS	complement(2592511..2593191)	putative L-serine dehydratase, beta chain
+sas:SAS2418	CDS	complement(2593194..2594237)	putative membrane protein
+sas:SAS2419	CDS	2594787..2594990	putative membrane protein
+sas:SAS2420	CDS	2595182..2596108	putative membrane protein
+sas:SAS2421	CDS	complement(2596189..2597157)	putative exported protein
+sas:SAS2422	CDS	complement(2597290..2597634)	conserved hypothetical protein
+sas:SAS2423	CDS	complement(2597676..2598086)	hypothetical protein
+sas:SAS2424	CDS	complement(2598451..2600517)	PTS system, glucose-specific IIABC component
+sas:SAS2425	CDS	complement(2600818..2602557)	thiamine pyrophosphate enzyme
+sas:SAS2426	CDS	complement(2602604..2603293)	putative membrane protein
+sas:SAS2427	CDS	complement(2603286..2603681)	putative membrane protein
+sas:SAS2428	CDS	complement(2603894..2604772)	LysR family regulatory protein
+sas:SAS2429	CDS	2604939..2605157	hypothetical protein
+sas:SAS2430	CDS	2605547..2605978	putative exported protein
+sas:SAS2431	CDS	complement(2606116..2607396)	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+sas:SAS2432	CDS	2607650..2608816	3-hydroxy-3-methylglutaryl coenzyme A synthase
+sas:SAS2433	CDS	complement(2608986..2609507)	putative 6-O-methylguanine DNA methyltransferase
+sas:SAS2434	CDS	2609916..2612021	putative ATP-dependent protease ATP-binding subunit ClpL
+sas:SAS2435	CDS	complement(2612090..2612260)	putative membrane protein
+sas:SAS2436	CDS	complement(2612273..2614267)	putative ferrous iron transport protein B
+sas:SAS2437	CDS	complement(2614279..2614506)	hypothetical protein
+sas:SAS2438	CDS	complement(2614722..2617211)	putative transport protein
+sas:SAS2439	CDS	2617356..2617904	TetR family regulatory protein
+sas:SAS2440	CDS	complement(2618259..2619803)	aldehyde dehydrogenase family protein
+sas:SAS2441	CDS	complement(2619993..2620592)	putative acetyltransferase
+sas:SAS2442	CDS	2620822..2621022	putative exported protein
+sas:SAS2443	CDS	2621262..2623670	putative copper importing ATPase A
+sas:SAS2444	CDS	2624019..2624225	putative heavy-metal-associated protein
+sas:SAS2445	CDS	complement(2624315..2625313)	D-isomer specific 2-hydroxyacid dehydrogenase
+sas:SAS2446	CDS	complement(2625336..2626490)	putative aminotransferase
+sas:SAS2447	CDS	complement(2626917..2628425)	squalene synthase
+sas:SAS2448	CDS	complement(2628437..2629300)	squalene desaturase
+sas:SAS2449	CDS	complement(2629337..2630464)	putative glycosyl transferase
+sas:SAS2450	CDS	complement(2630470..2631963)	putative phytoene dehydrogenase related protein
+sas:SAS2451	CDS	complement(2631956..2632453)	putative membrane protein
+sas:SAS2452	CDS	complement(2632619..2633386)	secretory antigen precursor
+sas:SAS2453	CDS	complement(2633747..2635558)	putative membrane protein
+sas:SAS2454	CDS	complement(2636070..2636558)	acetyltransferase (GNAT) family protein
+sas:SAS2455	CDS	complement(2636834..2637535)	immunodominant antigen A
+sas:SAS2456	CDS	complement(2638143..2639198)	putative membrane protein
+sas:SAS2457	CDS	2639344..2639547	hypothetical protein
+sas:SAS2458	CDS	2639608..2640177	TetR family regulatory protein
+sas:SAS2459	CDS	2640375..2640875	hypothetical protein
+sas:SAS2460	CDS	2641095..2641325	conserved hypothetical protein
+sas:SAS2461	CDS	complement(2641488..2641865)	putative glyoxalase
+sas:SAS2462	CDS	complement(2641882..2642703)	conserved hypothetical protein
+sas:SAS2463	CDS	complement(2642723..2643022)	hypothetical protein
+sas:SAS2464	CDS	2643154..2643711	TetR family regulatory protein
+sas:SAS2465	CDS	2643704..2644408	putative short chain dehydrogenase
+sas:SAS2466	CDS	2644506..2645516	conserved hypothetical protein
+sas:SAS2467	CDS	2645536..2646354	putative hydrolase
+sas:SAS2468	CDS	complement(2646501..2647391)	cobalamin synthesis protein/P47K family protein
+sas:SAS2469	CDS	complement(2647488..2648834)	putative membrane protein
+sas:SAS2470	CDS	complement(2648822..2649928)	hypothetical protein
+sas:SAS2471	CDS	complement(2650223..2650519)	conserved hypothetical protein
+sas:SAS2472	CDS	complement(2650507..2650875)	hypothetical protein
+sas:SAS2473	CDS	complement(2650890..2651168)	hypothetical protein
+sas:SAS2474	CDS	complement(2651507..2652373)	conserved hypothetical protein
+sas:SAS2475	CDS	2652591..2653655	putative dihydroorotate dehydrogenase
+sas:SAS2476	CDS	2653810..2654085	putative membrane protein
+sas:SAS2477	CDS	complement(2654271..2654993)	conserved hypothetical protein
+sas:SAS2478	CDS	2655347..2655796	conserved hypothetical protein
+sas:SAS2479	CDS	complement(2655877..2656464)	putative DNA-binding protein
+sas:SAS2480	CDS	2656607..2658289	conserved hypothetical protein
+sas:SAS2481	gene	complement(join(2658387..2659022,2659026..2659031))	pseudogene
+sas:SAS2482	CDS	complement(2659104..2659487)	putative aspartate 1-decarboxylase precursor
+sas:SAS2483	CDS	complement(2659489..2660340)	putative pantoate--beta-alanine ligase
+sas:SAS2484	CDS	complement(2660333..2661151)	putative 3-methyl-2-oxobutanoate hydroxymethyltransferase
+sas:SAS2485	CDS	2661224..2662084	putative ketopantoate reductase
+sas:SAS2486	CDS	complement(2662170..2662874)	putative alpha-acetolactate decarboxylase
+sas:SAS2487	CDS	complement(2663152..2664111)	L-lactate dehydrogenase 2
+sas:SAS2488	CDS	2664798..2666246	amino acid permease family protein
+sas:SAS2489	CDS	complement(2666326..2667669)	putative aminotransferase
+sas:SAS2490	CDS	2667921..2668337	putative membrane protein
+sas:SAS2491	CDS	2668460..2669350	fructose-bisphosphate aldolase class I
+sas:SAS2492	CDS	complement(2669544..2671040)	putative malate:quinone oxidoreductase 2
+sas:SAS2493	CDS	2671465..2671665	putative membrane protein
+sas:SAS2494	CDS	complement(2671725..2673344)	putative AMP-binding enzyme
+sas:SAS2495	CDS	complement(2673517..2673960)	hypothetical protein
+sas:SAS2496	CDS	complement(2674240..2674452)	hypothetical protein
+sas:SAS2497	CDS	complement(2674730..2676439)	putative choline dehydrogenase
+sas:SAS2498	CDS	complement(2676700..2678190)	putative betaine aldehyde dehydrogenase
+sas:SAS2499	CDS	2678440..2679006	conserved hypothetical protein
+sas:SAS2500	CDS	complement(2679194..2679880)	metallo-beta-lactamase superfamily protein
+sas:SAS2501	CDS	complement(2680139..2681761)	choline transporter
+sas:SAS2502	CDS	complement(2682280..2682816)	putative anaerobic ribonucleotide reductase activating protein
+sas:SAS2503	CDS	complement(2682813..2684663)	anaerobic ribonucleoside-triphosphate reductase
+sas:SAS2504	CDS	complement(2684909..2686279)	putative transporter protein
+sas:SAS2505	CDS	complement(2686755..2687360)	conserved hypothetical protein
+sas:SAS2506	CDS	complement(2687423..2689303)	putative sulfite reductase [NADPH] flavoprotein alpha-component
+sas:SAS2507	CDS	complement(2689698..2690195)	putative glutathione peroxidase
+sas:SAS2508	CDS	complement(2691619..2693619)	putative membrane protein
+sas:SAS2509	CDS	complement(2693616..2694371)	ABC transporter ATP-binding protein
+sas:SAS2510	CDS	complement(2694479..2695366)	sensor kinase protein
+sas:SAS2511	CDS	complement(2695377..2696042)	response regulator protein
+sas:SAS2512	CDS	complement(2696068..2696268)	putative membrane protein
+sas:SAS2513	CDS	2696466..2697890	alkaline phosphatase III precursor
+sas:SAS2513a	CDS	complement(2697950..2698051)	hypothetical protein
+sas:SAS2514	CDS	complement(2698173..2698628)	putative regulatory protein
+sas:SAS2515	CDS	complement(2698873..2699634)	putative esterase
+sas:SAS2516	CDS	complement(2699750..2702467)	fibrinogen and keratin-10 binding surface anchored protein
+sas:SAS2517	CDS	complement(2702817..2703521)	putative regulatory protein
+sas:SAS2518	CDS	complement(2703620..2704588)	carbamate kinase
+sas:SAS2519	CDS	complement(2704578..2706014)	arginine/ornithine antiporter
+sas:SAS2520	CDS	complement(2706099..2707109)	putative ornithine carbamoyltransferase
+sas:SAS2521	CDS	complement(2707142..2708377)	arginine deiminase
+sas:SAS2522	CDS	complement(2708724..2709173)	arginine repressor family protein
+sas:SAS2523	CDS	complement(2709540..2711069)	zinc metalloproteinase aureolysin precursor
+sas:SAS2524	CDS	complement(2711493..2712020)	immunodominant antigen B
+sas:SAS2525	CDS	2712263..2712736	putative exported protein
+sas:SAS2526	CDS	2712976..2714850	transcriptional regulator (antiterminator)
+sas:SAS2527	CDS	2714927..2716879	putative PTS transport system, IIABC component
+sas:SAS2528	CDS	2716893..2717831	mannose-6-phosphate isomerase
+sas:SAS2529	CDS	complement(2717943..2720924)	putative membrane protein
+sas:SAS2530	CDS	2721135..2722994	putative exported protein
+sas:SAS2531	CDS	complement(2723259..2723819)	isochorismatase family protein
+sas:SAS2532	CDS	complement(2723988..2725895)	putative surface anchored protein
+sas:SAS2533	CDS	complement(2726137..2727495)	conserved hypothetical protein
+sas:SAS2534	CDS	complement(2727488..2728996)	hypothetical protein
+sas:SAS2535	CDS	complement(2729014..2731404)	preprotein translocase SecA subunit-like protein
+sas:SAS2536	CDS	complement(2731394..2732353)	hypothetical protein
+sas:SAS2537	CDS	complement(2732331..2733899)	conserved hypothetical protein
+sas:SAS2538	CDS	complement(2733889..2735442)	conserved hypothetical protein
+sas:SAS2539	CDS	complement(2735453..2736664)	preprotein translocase SecY subunit-like protein
+sas:SAS2540	CDS	complement(2736794..2743621)	putative cell wall-anchored protein
+sas:SAS2541	CDS	complement(2744166..2744858)	conserved hypothetical protein
+sas:SAS2542	CDS	2745171..2746115	putative lipoprotein
+sas:SAS2543	CDS	2746102..2746404	conserved hypothetical protein
+sas:SAS2544	CDS	2746558..2746917	conserved hypothetical protein
+sas:SAS2545	CDS	complement(2747002..2747613)	conserved hypothetical protein
+sas:SAS2546	CDS	complement(2747692..2748168)	hypothetical protein
+sas:SAS2547	CDS	complement(2748171..2748671)	acetyltransferase (GNAT) family protein
+sas:SAS2548	CDS	complement(2748906..2749673)	putative capsule synthesis protein
+sas:SAS2549	CDS	complement(2749670..2750362)	putative capsule synthesis protein
+sas:SAS2550	CDS	complement(2750379..2751041)	putative capsule synthesis protein
+sas:SAS2551	CDS	complement(2751890..2752450)	ica operon transcriptional regulator
+sas:SAS2552	CDS	2752614..2753852	glucosaminyltransferase
+sas:SAS2553	CDS	2753816..2754121	intercellular adhesion protein D
+sas:SAS2554	CDS	2754118..2754990	intercellular adhesion protein B
+sas:SAS2555	CDS	2754977..2756029	intercellular adhesion protein C
+sas:SAS2556	CDS	complement(2756475..2758520)	lipase precursor
+sas:SAS2557	CDS	complement(2759610..2760242)	putative histidine biosynthesis bifunctional protein
+sas:SAS2558	CDS	complement(2760239..2760997)	HisF cyclase-like protein
+sas:SAS2559	CDS	complement(2760994..2761698)	putative phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+sas:SAS2560	CDS	complement(2761691..2762269)	putative amidotransferase
+sas:SAS2561	CDS	complement(2762266..2762844)	putative imidazoleglycerol-phosphate dehydratase
+sas:SAS2562	CDS	complement(2762813..2763826)	putative aminotransferase
+sas:SAS2563	CDS	complement(2763842..2765098)	putative histidinol dehydrogenase
+sas:SAS2564	CDS	complement(2765085..2765699)	putative ATP phosphoribosyltransferase
+sas:SAS2565	CDS	complement(2765717..2766535)	hypothetical protein
+sas:SAS2566	CDS	complement(2766839..2767963)	putative lipoprotein
+sas:SAS2567	CDS	complement(2768081..2768578)	hypothetical protein
+sas:SAS2568	CDS	complement(2768625..2769458)	ABC transporter permease protein
+sas:SAS2569	CDS	complement(2769455..2771167)	ABC transporter ATP-binding protein
+sas:SAS2570	CDS	complement(2771220..2771774)	putative membrane protein
+sas:SAS2571	CDS	complement(2771803..2772651)	conserved hypothetical protein
+sas:SAS2572	CDS	2773031..2773546	conserved hypothetical protein
+sas:SAS2573	CDS	complement(2773657..2773821)	putative membrane protein
+sas:SAS2574	CDS	complement(2774026..2775000)	conserved hypothetical protein
+sas:SAS2575	CDS	2775241..2776197	conserved hypothetical protein
+sas:SAS2576	CDS	2776349..2776987	pyrrolidone-carboxylate peptidase
+sas:SAS2577	CDS	2777091..2777555	conserved hypothetical protein
+sas:SAS2578	CDS	complement(2777716..2781267)	collagen adhesin precursor
+sas:SAS2579	CDS	2781645..2783063	sodium:sulfate symporter family protein
+sas:SAS2579a	CDS	complement(2783191..2783274)	hypothetical protein
+sas:SAS2580	CDS	complement(2783476..2784384)	putative membrane protein
+sas:SAS2581	CDS	2784606..2785181	putative DNA-binding protein
+sas:SAS2582	CDS	2785347..2786363	putative nickel transport protein
+sas:SAS2583	CDS	2786600..2787400	putative N-acetyltransferase
+sas:SAS2584	CDS	complement(2787534..2788046)	putative membrane protein
+sas:SAS2585	CDS	2788329..2789087	ABC transporter ATP-binding protein
+sas:SAS2586	CDS	2789077..2790957	ABC transporter permease protein
+sas:SAS2586a	CDS	2791050..2791241	putative membrane protein
+sas:SAS2587	CDS	2791607..2791834	cold shock protein
+sas:SAS2588	CDS	complement(2791952..2792521)	putative membrane protein
+sas:SAS2589	CDS	complement(2792781..2793176)	putative membrane protein
+sas:SAS2590	CDS	complement(2793244..2793597)	putative membrane protein
+sas:SAS2591	CDS	complement(2793914..2794753)	putative DNA-binding protein
+sas:SAS2592	CDS	complement(2794796..2795515)	putative glucose inhibited division protein B
+sas:SAS2593	CDS	complement(2795515..2797392)	glucose inhibited division protein A
+sas:SAS2594	CDS	complement(2797459..2798838)	probable tRNA modification GTPase
+sas:SAS2595	CDS	complement(2798977..2799324)	ribonuclease P protein component
+sas:SAS2596	CDS	complement(2799451..2799588)	50S ribosomal protein L34
