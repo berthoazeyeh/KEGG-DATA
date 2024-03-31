@@ -1,0 +1,2297 @@
+smn:SMA_p0001	CDS	pSMA198:1..1194	rep; Replication initiator protein
+smn:SMA_p0002	CDS	pSMA198:1191..1775	orfX; OrfX
+smn:SMA_p0003	CDS	pSMA198:1961..2818	ydeE; Transcriptional regulator, AraC family
+smn:SMA_p0004	CDS	pSMA198:2943..3524	orf1; Orf1
+smn:SMA_p0005	CDS	pSMA198:3540..4130	yoeC; putative plasmid associated integrase/recombinase
+smn:SMA_p0006	CDS	pSMA198:4452..4910	Transposase
+smn:SMA_p0007	CDS	pSMA198:complement(5009..5446)	putative universal stress protein
+smn:SMA_p0008	CDS	pSMA198:complement(5455..7032)	mntH; Manganese transport protein MntH
+smn:SMA_p0009	CDS	pSMA198:complement(7344..7823)	Transposase TnpA
+smn:SMA_p0010	CDS	pSMA198:complement(7851..8045)	Transposase TnpA
+smn:SMA_p0011	CDS	pSMA198:complement(8090..8365)	Transposase
+smn:SMA_p0012	CDS	pSMA198:8496..8960	yoeC; putative plasmid associated integrase/recombinase
+smn:SMA_p0013	CDS	pSMA198:9133..9264	Hypothetical protein
+smn:SMA_p0014	CDS	pSMA198:9513..9878	mobC; Mobilization protein
+smn:SMA_p0015	CDS	pSMA198:9857..11089	rlx; Mobilization protein
+smn:SMA_p0016	CDS	pSMA198:11086..11712	putative mobilization protein
+smn:SMA_p0017	CDS	pSMA198:11729..12331	putative mobilization protein
+smn:SMA_0001	CDS	1..1356	dnaA; Replication initiation protein DnaA
+smn:SMA_0002	CDS	1514..2650	dnaN; DNA polymerase III beta subunit
+smn:SMA_0003	CDS	2781..3476	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+smn:SMA_0004	CDS	3451..3645	yyzM; Hypothetical protein
+smn:SMA_0005	CDS	3779..4894	GTP-binding and nucleic acid-binding protein YchF
+smn:SMA_0006	CDS	4971..5540	pth; Peptidyl-tRNA hydrolase
+smn:SMA_0007	CDS	5533..9042	mfd; Transcription-repair coupling factor
+smn:SMA_0008	CDS	9141..9257	Hypothetical protein
+smn:SMA_0009	CDS	9456..9728	hslR; S4-domain-containing heat shock protein
+smn:SMA_0010	CDS	9715..10086	Cell division protein DivIC
+smn:SMA_0011	CDS	10088..10207	Hypothetical protein
+smn:SMA_0012	CDS	10223..11509	Hypothetical protein
+smn:SMA_0013	CDS	11514..12779	tils; tRNA(Ile)-lysidine synthase
+smn:SMA_0014	CDS	12757..13326	hpt; Hypoxanthine-guanine phosphoribosyltransferase
+smn:SMA_0015	CDS	13348..15330	ftsH; ATP-dependent zinc metalloprotease FtsH
+smn:SMA_0016	gene	complement(15572..16784)	pseudogene
+smn:SMA_0017	gene	complement(17053..17232)	pseudogene
+smn:SMA_0018	CDS	complement(17225..17911)	Transposase
+smn:SMA_0019	CDS	complement(17960..18217)	Hypothetical protein
+smn:SMA_rRNA_01	rRNA	18899..20399	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+smn:SMA_tRNA_01	tRNA	20478..20550	tRNA-Ala
+smn:SMA_rRNA_02	rRNA	20695..23595	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+smn:SMA_rRNA_03	rRNA	23676..23791	5S RNA
+smn:SMA_tRNA_02	tRNA	23796..23868	tRNA-Val
+smn:SMA_tRNA_03	tRNA	23891..23963	tRNA-Asp
+smn:SMA_tRNA_04	tRNA	23967..24039	tRNA-Lys
+smn:SMA_tRNA_05	tRNA	24049..24130	tRNA-Leu
+smn:SMA_tRNA_06	tRNA	24143..24215	tRNA-Thr
+smn:SMA_tRNA_07	tRNA	24231..24302	tRNA-Gly
+smn:SMA_tRNA_08	tRNA	24310..24395	tRNA-Leu
+smn:SMA_tRNA_09	tRNA	24412..24485	tRNA-Arg
+smn:SMA_tRNA_10	tRNA	24491..24564	tRNA-Pro
+smn:SMA_tRNA_11	tRNA	24570..24643	tRNA-Met
+smn:SMA_tRNA_12	tRNA	24665..24738	tRNA-Met
+smn:SMA_tRNA_13	tRNA	24762..24851	tRNA-Pseudo-TGA
+smn:SMA_tRNA_14	tRNA	24865..24938	tRNA-Met
+smn:SMA_tRNA_15	tRNA	24944..25016	tRNA-Phe
+smn:SMA_tRNA_16	tRNA	25037..25107	tRNA-Gly
+smn:SMA_tRNA_17	tRNA	25140..25213	tRNA-Ile
+smn:SMA_tRNA_18	tRNA	25224..25311	tRNA-Pseudo-GCT
+smn:SMA_0020	CDS	25386..26213	mreC; Rod shape-determining protein MreC
+smn:SMA_0021	CDS	26248..26721	Rod shape-determining protein MreD
+smn:SMA_0022	CDS	26824..28302	Secreted antigen GbpB/SagA/PcsB, putative peptidoglycan hydrolase
+smn:SMA_0023	CDS	28445..29413	prs1; Ribose-phosphate pyrophosphokinase 1
+smn:SMA_0024	CDS	29607..30782	patA; Aromatic amino acid aminotransferase gamma
+smn:SMA_0025	CDS	30772..31527	reqO; DNA recombination and repair protein RecO
+smn:SMA_0026	CDS	31675..32694	plsX; Phosphate:acyl-ACP acyltransferase PlsX
+smn:SMA_0027	CDS	32710..32952	acpP; Acyl carrier protein
+smn:SMA_0028	CDS	33077..33787	purC; Phosphoribosylaminoimidazole-succinocarboxamide synthase
+smn:SMA_0029	CDS	33839..37564	purL; Phosphoribosylformylglycinamidine synthase
+smn:SMA_0030	CDS	37733..39196	purF; Amidophosphoribosyltransferase
+smn:SMA_0031	CDS	39241..40260	purM; Phosphoribosylformylglycinamidine cyclo-ligase
+smn:SMA_0032	CDS	40260..40811	purN; Phosphoribosylglycinamide formyltransferase
+smn:SMA_0033	CDS	40865..41029	Hypothetical protein
+smn:SMA_0034	CDS	41037..42584	purH; IMP cyclohydrolase/Phosphoribosylaminoimidazolecarboxamide formyltransferase
+smn:SMA_0035	gene	complement(42846..43246)	pseudogene
+smn:SMA_0036	CDS	complement(43250..44006)	Transposase
+smn:SMA_0037	CDS	44470..44901	yfkJ; Low molecular weight protein tyrosine phosphatase
+smn:SMA_0038	CDS	44921..45301	MORN motif family protein
+smn:SMA_0039	CDS	45298..47091	oatA; Acyltransferase family
+smn:SMA_0040	CDS	complement(47452..47586)	Hypothetical protein
+smn:SMA_0041	CDS	48017..49501	thrC; Threonine synthase
+smn:SMA_0042	CDS	49561..50853	norM; Multi antimicrobial extrusion (MATE) family transporter
+smn:SMA_0043	CDS	51037..53067	ydfJ; putative antibiotic transport-associated protein
+smn:SMA_0044	gene	53285..54172	ydfH; pseudogene
+smn:SMA_0045	CDS	54256..54879	Two component transcriptional regulator, LuxR family
+smn:SMA_0046	gene	54953..55846	pseudogene
+smn:SMA_0047	gene	55968..56425	pseudogene
+smn:SMA_0048	CDS	complement(56568..56693)	Hypothetical protein
+smn:SMA_0049	CDS	56756..57064	rpsJ; SSU ribosomal protein S10p (S20e)
+smn:SMA_0050	CDS	57142..57768	rplC; LSU ribosomal protein L3p (L3e)
+smn:SMA_0051	CDS	57792..58415	rplD; LSU ribosomal protein L4p (L1e)
+smn:SMA_0052	CDS	58415..58711	rplW; LSU ribosomal protein L23p (L23Ae)
+smn:SMA_0053	CDS	58729..59562	rplB; LSU ribosomal protein L2p (L8e)
+smn:SMA_0054	CDS	59659..59937	rpsS; SSU ribosomal protein S19p (S15e)
+smn:SMA_0055	CDS	59953..60297	rplV; LSU ribosomal protein L22p (L17e)
+smn:SMA_0056	CDS	60310..60963	rpsC; SSU ribosomal protein S3p (S3e)
+smn:SMA_0057	CDS	60967..61380	rplP; LSU ribosomal protein L16p (L10e)
+smn:SMA_0058	CDS	61390..61596	rpmC; LSU ribosomal protein L29p (L35e)
+smn:SMA_0059	CDS	61624..61884	rpsQ; SSU ribosomal protein S17p (S11e)
+smn:SMA_0060	CDS	61909..62277	rplN; LSU ribosomal protein L14p (L23e)
+smn:SMA_0061	CDS	62357..62662	rplX; LSU ribosomal protein L24p (L26e)
+smn:SMA_0062	CDS	62691..63233	rplE; LSU ribosomal protein L5p (L11e)
+smn:SMA_0063	CDS	63251..63436	rpsH; SSU ribosomal protein S14p (S29e) Zinc-dependent
+smn:SMA_0064	CDS	63643..64041	rpsH; SSU ribosomal protein S8p (S15Ae)
+smn:SMA_0065	CDS	64185..64721	rplF; LSU ribosomal protein L6p (L9e)
+smn:SMA_0066	CDS	64825..65181	rplR; LSU ribosomal protein L18p (L5e)
+smn:SMA_0067	CDS	65200..65694	rpsE; SSU ribosomal protein S5p (S2e)
+smn:SMA_0068	CDS	65709..65891	rpmD; LSU ribosomal protein L30p (L7e)
+smn:SMA_0069	CDS	66030..66470	rplO; LSU ribosomal protein L15p (L27Ae)
+smn:SMA_0070	CDS	66486..67790	secY; Preprotein translocase SecY subunit
+smn:SMA_0071	CDS	67887..68528	adk; Adenylate kinase
+smn:SMA_0072	CDS	68648..68866	infA; Translation initiation factor 1
+smn:SMA_0073	CDS	68892..69008	LSU ribosomal protein L36p
+smn:SMA_0074	CDS	69027..69392	rpsM; SSU ribosomal protein S13p (S18e)
+smn:SMA_0075	CDS	69410..69793	rpsK; SSU ribosomal protein S11p (S14e)
+smn:SMA_0076	CDS	69842..70780	rpoA; DNA-directed RNA polymerase alpha subunit
+smn:SMA_0077	CDS	70795..71181	rplQ; LSU ribosomal protein L17p
+smn:SMA_0078	gene	complement(71501..71680)	pseudogene
+smn:SMA_0079	CDS	complement(71673..72146)	Hypothetical protein
+smn:SMA_0080	gene	72468..72788	pseudogene
+smn:SMA_0081	CDS	72792..73349	Transposase
+smn:SMA_0082	CDS	complement(73383..73907)	IS1167, transposase
+smn:SMA_rRNA_04	rRNA	74379..75879	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+smn:SMA_tRNA_19	tRNA	75958..76030	tRNA-Ala
+smn:SMA_rRNA_05	rRNA	76175..79075	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+smn:SMA_rRNA_06	rRNA	79156..79271	5S RNA
+smn:SMA_tRNA_20	tRNA	79276..79348	tRNA-Val
+smn:SMA_tRNA_21	tRNA	79371..79443	tRNA-Asp
+smn:SMA_tRNA_22	tRNA	79447..79519	tRNA-Lys
+smn:SMA_tRNA_23	tRNA	79529..79610	tRNA-Leu
+smn:SMA_tRNA_24	tRNA	79623..79695	tRNA-Thr
+smn:SMA_tRNA_25	tRNA	79711..79782	tRNA-Gly
+smn:SMA_tRNA_26	tRNA	79790..79875	tRNA-Leu
+smn:SMA_tRNA_27	tRNA	79892..79965	tRNA-Arg
+smn:SMA_tRNA_28	tRNA	79971..80044	tRNA-Pro
+smn:SMA_rRNA_07	rRNA	80189..81689	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+smn:SMA_tRNA_29	tRNA	81768..81840	tRNA-Ala
+smn:SMA_rRNA_08	rRNA	81985..84885	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+smn:SMA_rRNA_09	rRNA	84966..85081	5S RNA
+smn:SMA_tRNA_30	tRNA	85086..85158	tRNA-Val
+smn:SMA_tRNA_31	tRNA	85174..85244	tRNA-Gly
+smn:SMA_tRNA_32	tRNA	85273..85346	tRNA-Ile
+smn:SMA_tRNA_33	tRNA	85357..85428	tRNA-Glu
+smn:SMA_tRNA_34	tRNA	85438..85527	tRNA-Pseudo-TGA
+smn:SMA_tRNA_35	tRNA	85541..85614	tRNA-Met
+smn:SMA_tRNA_36	tRNA	85620..85692	tRNA-Phe
+smn:SMA_tRNA_37	tRNA	85710..85790	tRNA-Tyr
+smn:SMA_tRNA_38	tRNA	85795..85865	tRNA-Trp
+smn:SMA_tRNA_39	tRNA	85877..85949	tRNA-His
+smn:SMA_tRNA_40	tRNA	85960..86031	tRNA-Gln
+smn:SMA_tRNA_41	tRNA	86039..86122	tRNA-Leu
+smn:SMA_0083	CDS	86629..87477	ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+smn:SMA_0084	CDS	87553..87999	adcR; Transcriptional repressor AdcR for Zn(2+)-responsive expression
+smn:SMA_0085	CDS	87996..88706	adcC; Zinc ABC transporter, ATP-binding protein AdcC
+smn:SMA_0086	CDS	88696..89514	adcB; Zinc ABC transporter, inner membrane permease protein AdcB
+smn:SMA_0087	CDS	complement(89588..90844)	tyrS; Tyrosyl-tRNA synthetase
+smn:SMA_0088	CDS	91004..93328	pbpF; Multimodular transpeptidase-transglycosylase
+smn:SMA_0089	CDS	93671..97243	rpoB; DNA-directed RNA polymerase beta subunit
+smn:SMA_0090	CDS	97421..101059	rpoC; DNA-directed RNA polymerase beta' subunit
+smn:SMA_0091	CDS	101229..101558	DNA binding protein
+smn:SMA_0092	CDS	101668..102609	comGA; Late competence protein ComGA, access of DNA to ComEA
+smn:SMA_0093	CDS	102491..103576	comGB; Late competence protein ComGB, access of DNA to ComEA
+smn:SMA_0094	CDS	103576..103869	comGC; Late competence protein ComGC, access of DNA to ComEA
+smn:SMA_0095	CDS	103853..104284	comGD; Late competence protein ComGD, access of DNA to ComEA
+smn:SMA_0096	CDS	104289..104531	comGE; Late competence protein ComGE
+smn:SMA_0097	CDS	104485..104952	comGF; Late competence protein ComGF, access of DNA to ComEA
+smn:SMA_0098	CDS	104924..105229	comGG; Late competence protein ComGG
+smn:SMA_0099	CDS	105311..106267	ytxK; Adenine-specific methyltransferase
+smn:SMA_0100	CDS	106320..107519	ackA; Acetate kinase
+smn:SMA_0101	CDS	107681..107881	Transcriptional regulator, Cro/CI family
+smn:SMA_0102	CDS	107891..108100	Hypothetical protein
+smn:SMA_0103	CDS	108113..108565	Hypothetical protein
+smn:SMA_0104	CDS	108577..109212	Membrane-bound protease, CAAX family
+smn:SMA_0105	CDS	109391..110290	Transcriptional regulator
+smn:SMA_0106	CDS	110764..112026	purD; Phosphoribosylamine--glycine ligase
+smn:SMA_0107	CDS	112016..112465	ybbK; Hypothetical protein
+smn:SMA_0108	CDS	112465..112953	purE; Phosphoribosylaminoimidazole carboxylase catalytic subunit
+smn:SMA_0109	CDS	112940..114031	purK; Phosphoribosylaminoimidazole carboxylase ATPase subunit
+smn:SMA_0110	CDS	114051..114329	Hypothetical protein
+smn:SMA_0111	CDS	114363..115661	purB; Adenylosuccinate lyase
+smn:SMA_0112	CDS	complement(115771..116541)	proC; Pyrroline-5-carboxylate reductase
+smn:SMA_0113	CDS	complement(116602..117669)	pepA; Glutamyl aminopeptidase
+smn:SMA_0114	CDS	117763..118080	Hypothetical protein
+smn:SMA_0115	CDS	118073..118390	ytpP; Thioredoxin
+smn:SMA_0116	CDS	118399..119025	ytpR; tRNA binding domain protein
+smn:SMA_0117	gene	complement(119116..119334)	pseudogene
+smn:SMA_0118	CDS	119455..119850	ssb2; Single-stranded DNA-binding protein
+smn:SMA_0119	CDS	120000..121043	yeeE; putative transport system permease protein
+smn:SMA_0120	CDS	121046..121273	yeeD; Hypothetical protein
+smn:SMA_0121	CDS	121401..122207	yidA; Hydrolase, haloacid dehalogenase-like family
+smn:SMA_0122	CDS	122361..123326	rbsB; Periplasmic fructose-binding protein component of signal transduction system LevT
+smn:SMA_0123	CDS	123326..124642	yxjM; Fructose sensor histidine kinase
+smn:SMA_0124	CDS	124639..125322	yfiK; Fructose response regulator of fruA and EII fructose/mannose
+smn:SMA_0125	CDS	125315..126619	Periplasmic fructose-binding protein component of signal transduction system LevQ
+smn:SMA_0126	CDS	126787..127215	PTS system, fructose-and mannose-inducible IIA component
+smn:SMA_0127	CDS	127234..127728	manX; PTS system, fructose-and mannose-inducible IIB component
+smn:SMA_0128	CDS	127940..128788	manY; PTS system, fructose-and mannose-inducible IIC component
+smn:SMA_0129	CDS	128790..129623	manZ; PTS system, fructose-and mannose-inducible IID component
+smn:SMA_0130	CDS	129651..129935	PTS system, fructose-and mannose-inducible putative EII component
+smn:SMA_0131	CDS	130532..132508	ydeY; ABC transporter permease protein
+smn:SMA_0132	CDS	132508..133311	phnC; Methionine ABC transporter ATP-binding protein
+smn:SMA_0133	CDS	133521..133805	groS; Heat shock protein 60 family co-chaperone GroES
+smn:SMA_0134	CDS	133871..135499	groL; Heat shock protein 60 family chaperone GroEL
+smn:SMA_0135	CDS	135665..136570	rgg; Positive transcriptional regulator, MutR family
+smn:SMA_0136	CDS	137483..138739	tnpA; IS1167, transposase
+smn:SMA_0137	CDS	139113..140732	Hypothetical protein
+smn:SMA_0138	CDS	complement(140823..141683)	yhcT; Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YhcT type
+smn:SMA_0139	CDS	complement(141741..141938)	Hypothetical protein
+smn:SMA_0140	CDS	142577..142825	Hypothetical protein
+smn:SMA_0141	CDS	142831..142956	Hypothetical protein
+smn:SMA_0142	CDS	complement(143665..144873)	oxlT; Major facilitator:Oxalate:Formate Antiporter
+smn:SMA_0143	CDS	complement(145081..145425)	ISSdy1, transposase OrfB
+smn:SMA_0144	gene	complement(145393..145506)	pseudogene
+smn:SMA_0145	gene	145460..145771	ps201; pseudogene
+smn:SMA_0146	CDS	145942..148266	pbpF; Multimodular transpeptidase-transglycosylase
+smn:SMA_0147	CDS	148318..148470	LSU ribosomal protein L33p
+smn:SMA_0148	CDS	148542..148718	Preprotein translocase subunit SecE
+smn:SMA_0149	CDS	148917..149456	nusG; Transcription antitermination protein NusG
+smn:SMA_0150	CDS	complement(149546..150259)	Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family
+smn:SMA_0151	CDS	150369..151214	yjjU; Predicted esterase of the alpha-beta hydrolase superfamily
+smn:SMA_0152	CDS	151347..153848	leuS; Leucyl-tRNA synthetase
+smn:SMA_0153	gene	153920..155032	galM; pseudogene
+smn:SMA_0154	CDS	155250..155471	Hypothetical protein
+smn:SMA_0155	CDS	155520..156839	ykgC; putative Dihydrolipoamide dehydrogenase; Mercuric ion reductase; PF00070 family, FAD-dependent NAD(P)-disulphide oxidoreductase
+smn:SMA_0156	CDS	complement(157111..157977)	rgg; Positive transcriptional regulator, MutR family
+smn:SMA_0157	CDS	158185..159369	aspC; Aspartate aminotransferase
+smn:SMA_0158	CDS	159372..160010	Hypothetical protein
+smn:SMA_0159	CDS	159977..160936	Hypothetical protein
+smn:SMA_0160	CDS	160938..162209	bacD; Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain protein
+smn:SMA_0161	CDS	162251..163504	Major facilitator superfamily MFS_1
+smn:SMA_0162	CDS	163506..164732	Hypothetical protein
+smn:SMA_0163	CDS	complement(165025..165360)	Hypothetical protein
+smn:SMA_0164	CDS	165341..166206	Integrase
+smn:SMA_tRNA_42	tRNA	complement(166288..166360)	tRNA-Lys
+smn:SMA_0165	gene	complement(166367..166550)	pseudogene
+smn:SMA_0166	CDS	complement(166676..167944)	yrvN; Chromosome segregation helicase
+smn:SMA_0167	CDS	complement(167934..168428)	ypeA; Acetyltransferase, GNAT family
+smn:SMA_0168	CDS	168492..168962	Hypothetical protein
+smn:SMA_0169	CDS	168964..169863	Hypothetical protein
+smn:SMA_0170	CDS	170194..171147	prmA; Ribosomal protein L11 methyltransferase
+smn:SMA_0171	CDS	171148..171891	rsmE; Ribosomal RNA small subunit methyltransferase E
+smn:SMA_0172	CDS	172054..173071	malR; Maltose operon transcriptional repressor MalR, LacI family
+smn:SMA_0173	CDS	173337..175520	PTS system, maltose and glucose-specific IIC IIB and IIA components
+smn:SMA_0174	CDS	175609..176439	Exodeoxyribonuclease III
+smn:SMA_0175	CDS	complement(176723..177760)	yhfE; Deblocking aminopeptidase
+smn:SMA_0176	CDS	complement(177868..178347)	nrdI; Ribonucleotide reduction protein NrdI
+smn:SMA_0177	gene	178596..178817	pseudogene
+smn:SMA_0178	gene	178818..178910	pseudogene
+smn:SMA_0179	CDS	178927..179055	PTS system, cellobiose-specific IIA component
+smn:SMA_0180	gene	179150..180215	pseudogene
+smn:SMA_0181	CDS	180268..180993	gmuR; Regulatory protein, GntR:Bacterial regulatory protein, GntR
+smn:SMA_0182	CDS	181069..182019	pmi; Mannose-6-phosphate isomerase (EC 5.3.1.8)
+smn:SMA_0183	CDS	182760..184052	msmE; ABC-type sugar transport system, periplasmic component
+smn:SMA_0184	CDS	184168..185013	yurN; Sugar ABC transporter, permease protein
+smn:SMA_0185	CDS	185044..185877	amyC; Sugar transport system permease protein
+smn:SMA_0186	CDS	185911..186348	Hypothetical protein
+smn:SMA_0187	CDS	186385..186504	Hypothetical protein
+smn:SMA_0188	gene	186491..188563	agaR; pseudogene
+smn:SMA_0189	CDS	188639..189352	gmuR; Transcriptional regulator
+smn:SMA_0190	gene	189374..190246	bglK; pseudogene
+smn:SMA_0191	gene	190255..190893	pseudogene
+smn:SMA_192	CDS	190999..191856	cah; Acetyl xylan esterase 1; Cephalosporin-C deacetylase
+smn:SMA_0193	CDS	192133..194352	relA; GTP pyrophosphokinase, (p)ppGpp synthetase I
+smn:SMA_0194	CDS	194412..194855	dtd; D-tyrosyl-tRNA(Tyr) deacylase
+smn:SMA_0195	CDS	194944..195792	lrp; Leucine rich protein
+smn:SMA_0196	CDS	195893..197026	msmK; Multiple sugar ABC transporter, ATP-binding protein
+smn:SMA_0197	CDS	complement(197164..197934)	lacR; Lactose phosphotransferase system repressor
+smn:SMA_0198	CDS	198232..198657	lacA; Galactose-6-phosphate isomerase, LacA subunit
+smn:SMA_0199	CDS	198674..199189	lacB1; Galactose-6-phosphate isomerase, LacB subunit
+smn:SMA_0200	CDS	199201..200133	lacC; Tagatose-6-phosphate kinase
+smn:SMA_0201	CDS	200139..201116	lacD2; Tagatose 1,6-diphosphate aldolase
+smn:SMA_0202	CDS	201129..201602	PTS system, galactose-specific IIA component
+smn:SMA_0203	CDS	201616..201918	PTS system, galactose-specific IIB component
+smn:SMA_0204	CDS	201954..203354	PTS system, galactose-specific IIC component
+smn:SMA_0205	CDS	203464..204360	lacX; LacX protein, plasmid
+smn:SMA_0206	CDS	204562..205398	lacT; Beta-glucoside bgl operon antiterminator, BglG family
+smn:SMA_0207	CDS	205409..206809	lacG; 6-phospho-beta-galactosidase
+smn:SMA_0208	gene	206900..207469	lacT; pseudogene
+smn:SMA_0209	CDS	207516..207833	lacF; PTS system, lactose-specific IIA component
+smn:SMA_0210	CDS	207833..209533	lacE; PTS system, lactose-specific IIB component/PTS system, lactose-specific IIC component
+smn:SMA_0211	CDS	209636..211042	lacG2; 6-phospho-beta-galactosidase
+smn:SMA_0212	CDS	complement(211145..211600)	putative transposase
+smn:SMA_0213	gene	211662..211772	pseudogene
+smn:SMA_0214	gene	211775..212572	pseudogene
+smn:SMA_0215	CDS	complement(212616..213449)	msmR; MSM (multiple sugar metabolism) operon regulatory protein
+smn:SMA_0216	CDS	213559..215721	aga; Alpha-galactosidase
+smn:SMA_0217	CDS	215733..217004	msmE; Multiple sugar ABC transporter, substrate-binding protein
+smn:SMA_0218	CDS	217017..217883	msmF; Multiple sugar ABC transporter, membrane-spanning permease protein MsmF
+smn:SMA_0219	CDS	217893..218726	msmG; Multiple sugar ABC transporter, membrane-spanning permease protein MsmG
+smn:SMA_0220	CDS	218839..220284	gtfA; Sucrose phosphorylase
+smn:SMA_0221	CDS	220406..222016	dexB; Glucan 1,6-alpha-glucosidase
+smn:SMA_0222	CDS	complement(222073..223071)	galR; Galactose operon repressor, GalR-LacI family of transcriptional regulators
+smn:SMA_0223	CDS	223222..224394	galK; Galactokinase
+smn:SMA_0224	CDS	224414..225883	galT; Galactose-1-phosphate uridylyltransferase
+smn:SMA_0225	CDS	225893..226891	galE; UDP-glucose 4-epimerase
+smn:SMA_0226	CDS	226951..227820	rimI; Hypothetical protein
+smn:SMA_0227	CDS	227916..228287	yajC; Preprotein translocase subunit YajC
+smn:SMA_0228	CDS	228441..229190	uppS; Undecaprenyl pyrophosphate synthetase
+smn:SMA_0229	CDS	229203..229997	cdsA; Phosphatidate cytidylyltransferase
+smn:SMA_0230	CDS	230099..231361	yaeL; Membrane-associated zinc metalloprotease
+smn:SMA_0231	CDS	231523..233379	proS; Prolyl-tRNA synthetase Bacterial type
+smn:SMA_0232	CDS	233557..237951	polC; DNA polymerase III alpha subunit
+smn:SMA_0233	CDS	238065..238517	ykoM; Transcriptional regulator, MarR family
+smn:SMA_0234	CDS	238624..239169	yieF; Hypothetical protein
+smn:SMA_0235	CDS	complement(239230..239844)	def; Peptide deformylase
+smn:SMA_0236	CDS	complement(239912..240556)	nsr; Predicted N-ribosylNicotinamide CRP-like regulator
+smn:SMA_0237	CDS	240650..241810	Hypothetical protein
+smn:SMA_0238	gene	241823..242044	pseudogene
+smn:SMA_0239	CDS	complement(242165..242545)	yyaH; Possible glyoxylase family protein (Lactoylglutathione lyase)
+smn:SMA_0240	CDS	complement(242563..243409)	Hypothetical protein
+smn:SMA_0241	CDS	243723..243992	rpsO; SSU ribosomal protein S15p (S13e)
+smn:SMA_0242	gene	244633..245118	adhE; pseudogene
+smn:SMA_0243	CDS	245112..247157	adhE; Alcohol dehydrogenase; Acetaldehyde dehydrogenase
+smn:SMA_0244	CDS	247230..247394	Hypothetical protein
+smn:SMA_0245	CDS	247596..247829	Hypothetical protein
+smn:SMA_0246	CDS	248033..250216	pnp; Polyribonucleotide nucleotidyltransferase
+smn:SMA_0247	CDS	250261..251016	Hypothetical protein
+smn:SMA_0248	CDS	251032..251649	cysE; Serine acetyltransferase
+smn:SMA_0249	CDS	251708..253054	cysS; Cysteinyl-tRNA synthetase
+smn:SMA_0250	CDS	253047..253451	mrnC; COG1939: Ribonuclease III family protein
+smn:SMA_0251	CDS	253514..254263	yacO; TrmH family tRNA/rRNA methyltransferase YacO
+smn:SMA_0252	CDS	254313..254825	Hypothetical protein
+smn:SMA_0253	CDS	254993..255853	DegV family protein in cluster with TrmH family tRNA/rRNA methyltransferase YacO
+smn:SMA_0254	CDS	255984..256940	2-dehydropantoate 2-reductase
+smn:SMA_0255	CDS	257142..257588	LSU ribosomal protein L13p (L13Ae)
+smn:SMA_0256	CDS	257611..258003	rpsI; SSU ribosomal protein S9p (S16e)
+smn:SMA_0257	CDS	complement(258113..258334)	Integrase
+smn:SMA_0258	gene	complement(258281..258400)	pseudogene
+smn:SMA_0259	CDS	258782..259477	Methylase
+smn:SMA_0260	CDS	259481..263875	Type II restriction endonuclease
+smn:SMA_0261	gene	263878..264012	pseudogene
+smn:SMA_0262	CDS	264038..267796	yobI; DNA-binding protein
+smn:SMA_0263	CDS	267812..269263	recG; ATP-dependent DNA helicase RecG
+smn:SMA_0264	CDS	269455..270318	Hypothetical protein
+smn:SMA_0265	CDS	270478..270765	Hypothetical protein
+smn:SMA_0266	CDS	270828..271622	nisX1; Transposase TnpA
+smn:SMA_0267	CDS	272367..272762	Negative transcriptional regulator-copper transport operon
+smn:SMA_0268	gene	272749..273225	actP1; pseudogene
+smn:SMA_0269	CDS	273374..273580	Copper chaperone
+smn:SMA_0270	CDS	273719..275830	copB; Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase
+smn:SMA_0271	CDS	276537..277151	Cadmium resistance protein
+smn:SMA_0272	CDS	277163..277501	Cadmium efflux system accessory protein
+smn:SMA_0273	CDS	277548..277682	Hypothetical protein
+smn:SMA_0274	CDS	277711..278031	Hypothetical protein
+smn:SMA_rRNA_10	rRNA	278783..280283	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+smn:SMA_tRNA_43	tRNA	280362..280434	tRNA-Ala
+smn:SMA_rRNA_11	rRNA	280579..283479	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+smn:SMA_rRNA_12	rRNA	283560..283675	5S RNA
+smn:SMA_tRNA_44	tRNA	283681..283754	tRNA-Asn
+smn:SMA_0275	CDS	283912..284397	Competence-specific sigma factor ComX
+smn:SMA_0276	CDS	284537..284803	ACT domain containing transcriptional regulators, related to GcvR of E.coli
+smn:SMA_0277	CDS	284815..286152	Hypothetical protein
+smn:SMA_0278	CDS	286377..287081	gpmB; Phosphoglycerate mutase family
+smn:SMA_0279	CDS	287065..287838	vanYB; D-alanyl-D-alanine carboxypeptidase
+smn:SMA_0280	CDS	287835..288416	acmA; putative N-acetyl-muramidase
+smn:SMA_0281	CDS	288550..289584	hrcA; Heat-inducible transcription repressor HrcA
+smn:SMA_0282	CDS	289626..290165	grpE; Heat shock protein GrpE
+smn:SMA_0283	CDS	290248..292077	dnaK; Chaperone protein DnaK
+smn:SMA_0284	CDS	292380..293534	dnaJ; Chaperone protein DnaJ
+smn:SMA_0285	CDS	293653..294402	truA; tRNA pseudouridine synthase A
+smn:SMA_0286	CDS	294392..295159	pdxK; Phosphomethylpyrimidine kinase
+smn:SMA_0287	CDS	295146..295613	Substrate-specific component PdxU2 of predicted pyridoxin-related ECF transporter
+smn:SMA_0288	CDS	295642..296205	Hypothetical protein YwlG
+smn:SMA_0289	CDS	complement(296248..297090)	Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+smn:SMA_0290	CDS	297338..298621	tig; Cell division trigger factor
+smn:SMA_0291	CDS	298813..299385	rpoE; DNA-directed RNA polymerase delta subunit
+smn:SMA_0292	CDS	299658..301262	pyrG; CTP synthase
+smn:SMA_0293	CDS	301380..302315	yqkD; Hydrolase of the alpha/beta superfamily
+smn:SMA_tRNA_45	tRNA	302368..302453	tRNA-Leu
+smn:SMA_0294	CDS	complement(302517..303773)	tnpA; IS1167, transposase
+smn:SMA_0295	CDS	304084..304965	fba; Fructose-bisphosphate aldolase class II
+smn:SMA_0296	gene	complement(305174..305467)	pseudogene
+smn:SMA_0297	CDS	305800..307494	Hypothetical protein
+smn:SMA_0298	CDS	307626..309089	Hypothetical protein
+smn:SMA_0299	CDS	309089..310195	cbbX; AAA+ class-like ATPase
+smn:SMA_0300	CDS	complement(310816..312165)	2-haloalkanoic acid dehalogenase
+smn:SMA_0301	CDS	complement(312165..312413)	Hypothetical protein
+smn:SMA_0302	CDS	complement(312508..313188)	Transposase
+smn:SMA_0303	gene	313239..313568	usp45; pseudogene
+smn:SMA_0304	CDS	complement(313621..314400)	putative transcriptional regulator
+smn:SMA_0305	CDS	314491..316395	zosA; Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase
+smn:SMA_0306	CDS	316396..316788	Ring-infected erythrocyte surface antigen precursor
+smn:SMA_0307	gene	complement(317122..317424)	pseudogene
+smn:SMA_0308	CDS	complement(317403..318083)	Transposase
+smn:SMA_0309	CDS	318426..318785	cadC; Cadmium efflux system accessory protein
+smn:SMA_0310	CDS	318782..320899	cadA; Cadmium-transporting ATPase
+smn:SMA_0311	CDS	complement(321185..321865)	Transposase
+smn:SMA_0312	CDS	complement(322380..322583)	Hypothetical protein
+smn:SMA_0313	CDS	complement(322656..323222)	General stress protein, Gls24 family
+smn:SMA_0314	CDS	complement(323237..323407)	Hypothetical protein
+smn:SMA_0315	CDS	complement(323420..323986)	Hypothetical protein
+smn:SMA_0316	CDS	complement(324049..324288)	Hypothetical protein
+smn:SMA_0317	CDS	324805..326568	67kDa Myosin-crossreactive streptococcal antigen
+smn:SMA_0318	CDS	326799..327254	Hypothetical protein
+smn:SMA_0319	CDS	complement(327756..328814)	Integrase
+smn:SMA_0320	gene	complement(329042..329173)	pseudogene
+smn:SMA_0321	CDS	complement(329163..330218)	tra905; IS1191, transposase, IS256 family
+smn:SMA_0322	CDS	complement(330490..330984)	Acetyltransferase
+smn:SMA_0323	CDS	331200..331643	Lysine decarboxylase family
+smn:SMA_0324	CDS	complement(331721..332392)	opuCD; Osmotically activated L-carnitine/choline ABC transporter, permease protein OpuCD
+smn:SMA_0325	CDS	complement(332393..333318)	opuBC; Osmotically activated L-carnitine/choline ABC transporter, substrate-binding protein OpuCC
+smn:SMA_0326	CDS	complement(333315..333986)	opuCB; Osmotically activated L-carnitine/choline ABC transporter, permease protein OpuCB
+smn:SMA_0327	CDS	complement(333988..335175)	opuCA; Osmotically activated L-carnitine/choline ABC transporter, ATP-binding protein OpuCA
+smn:SMA_0328	gene	complement(335384..336398)	ybhE; pseudogene
+smn:SMA_0329	CDS	complement(336625..337800)	tra905; IS1191, transposase, IS256 family
+smn:SMA_tRNA_46	tRNA	338402..338474	tRNA-Thr
+smn:SMA_0330	CDS	338694..338882	rpmB; LSU ribosomal protein L28p
+smn:SMA_0331	CDS	338999..339364	putative alkaline-shock protein
+smn:SMA_0332	CDS	339364..341028	Dihydroxyacetone kinase family protein
+smn:SMA_0333	CDS	341299..343020	ilvD; Dihydroxy-acid dehydratase
+smn:SMA_0334	CDS	343154..344857	ilvB; Acetolactate synthase large subunit
+smn:SMA_0335	CDS	344850..345332	ilvH; Acetolactate synthase small subunit
+smn:SMA_0336	CDS	345402..346424	ilvC; Ketol-acid reductoisomerase
+smn:SMA_0337	CDS	346556..347806	ilvA; Threonine dehydratase
+smn:SMA_0338	CDS	348005..348889	ybbK; putative stomatin/prohibitin-family membrane protease subunit YbbK
+smn:SMA_0339	CDS	complement(348981..349100)	Hypothetical protein
+smn:SMA_0340	CDS	complement(349196..349804)	Hypothetical protein
+smn:SMA_0341	CDS	complement(349980..350720)	artM; Amino acid transport ATP-binding protein
+smn:SMA_0342	CDS	complement(350720..352291)	glnP; Amino acid ABC transporter, glutamine-binding protein/permease protein
+smn:SMA_0343	CDS	352428..354320	Hypothetical protein
+smn:SMA_0344	CDS	354372..355211	uppP; Undecaprenyl-diphosphatase
+smn:SMA_0345	CDS	355312..356067	mecA; Negative regulator of genetic competence MecA
+smn:SMA_0346	CDS	356069..357232	tagO; Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+smn:SMA_0347	CDS	357345..358115	sufC; Iron-sulfur cluster assembly ATPase protein SufC
+smn:SMA_0348	CDS	358189..359451	sufD; Iron-sulfur cluster assembly protein SufD
+smn:SMA_0349	CDS	359453..360685	csd; Cysteine desulfurase, SufS subfamily
+smn:SMA_0350	CDS	360672..361109	nifU; putative iron-sulfur cluster assembly scaffold protein for SUF system, SufE2
+smn:SMA_0351	CDS	361122..362540	sufB; Iron-sulfur cluster assembly protein SufB
+smn:SMA_0352	CDS	complement(362589..363827)	dacA; D-alanyl-D-alanine carboxypeptidase
+smn:SMA_0353	CDS	364000..365655	oppA; Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA
+smn:SMA_0354	CDS	365766..366680	oppB; Oligopeptide transport system permease protein OppB
+smn:SMA_0355	CDS	366691..367722	dppC; Oligopeptide transport system permease protein OppC
+smn:SMA_0356	CDS	367734..368780	oppD; Oligopeptide transport ATP-binding protein OppD
+smn:SMA_0357	CDS	368780..369709	oppF; Oligopeptide transport ATP-binding protein OppF
+smn:SMA_rRNA_13	rRNA	370234..371734	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+smn:SMA_tRNA_47	tRNA	371813..371885	tRNA-Ala
+smn:SMA_rRNA_14	rRNA	372030..374930	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+smn:SMA_rRNA_15	rRNA	375011..375126	5S RNA
+smn:SMA_tRNA_48	tRNA	375132..375205	tRNA-Asn
+smn:SMA_0358	CDS	375363..375851	Competence-specific sigma factor ComX
+smn:SMA_0359	CDS	complement(376049..377410)	yclM; Aspartokinase
+smn:SMA_0360	CDS	377504..378151	yniC; Hydrolase, haloacid dehalogenase-like family
+smn:SMA_0361	CDS	378361..379149	paaG; Trans-2,cis-3-Decenoyl-ACP isomerase
+smn:SMA_0362	CDS	379232..379699	fabT; Transcriptional regulator of fatty acid biosynthesis FabT
+smn:SMA_0363	CDS	379702..380676	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase, KASIII
+smn:SMA_0364	CDS	380739..380963	acpP; Acyl carrier protein
+smn:SMA_0365	CDS	381126..382094	Enoyl-[acyl-carrier-protein] reductase [FMN]
+smn:SMA_0366	CDS	382141..383061	fabD; Malonyl CoA-acyl carrier protein transacylase
+smn:SMA_0367	CDS	383071..383805	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+smn:SMA_0368	CDS	383867..385099	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase, KASII
+smn:SMA_0369	CDS	385099..385587	accB; Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+smn:SMA_0370	CDS	385584..386006	fabZ; (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+smn:SMA_0371	CDS	386103..387473	accC; Biotin carboxylase of acetyl-CoA carboxylase
+smn:SMA_0372	CDS	387482..388348	accD; Acetyl-coenzyme A carboxyl transferase beta chain
+smn:SMA_0373	CDS	388345..389118	accA; Acetyl-coenzyme A carboxyl transferase alpha chain
+smn:SMA_0374	CDS	complement(389252..390529)	serS; Seryl-tRNA synthetase
+smn:SMA_0375	CDS	complement(390780..391151)	putative regulator of the mannose operon, ManO
+smn:SMA_0376	CDS	complement(391227..392138)	manZ; PTS system, mannose-specific IID component
+smn:SMA_0377	CDS	complement(392153..392956)	manY; PTS system, mannose-specific IIC component
+smn:SMA_0378	CDS	complement(393116..394108)	manX; PTS system, mannose-specific IIB component / PTS system, mannose-specific IIA component
+smn:SMA_0379	CDS	complement(394435..395247)	yitU; Hydrolase (HAD superfamily)
+smn:SMA_0380	CDS	395337..395921	putative transmembrane protein
+smn:SMA_0381	CDS	396066..396665	Membrane protein, putative
+smn:SMA_0382	CDS	396770..398191	yieG; Guanine-hypoxanthine permease
+smn:SMA_0383	CDS	398376..398819	ATPase YjeE, predicted to have essential role in cell wall biosynthesis
+smn:SMA_0384	CDS	398812..399324	yhhY; Acetyltransferase
+smn:SMA_0385	CDS	399335..400477	brpA; Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F2
+smn:SMA_0386	CDS	complement(400560..400862)	Hypothetical protein
+smn:SMA_0387	CDS	complement(400859..401278)	hit; Histidine triad (HIT) nucleotide-binding protein, similarity with At5g48545 and yeast YDL125C (HNT1)
+smn:SMA_0388	CDS	401342..402067	ecsA; ABC transporter, ATP-binding protein EcsA
+smn:SMA_0389	CDS	402069..403103	ecsB; ABC transporter, permease protein EscB
+smn:SMA_0390	CDS	403168..403962	ytmP; Aminoglycoside phosphotransferase family protein
+smn:SMA_0391	CDS	403962..404600	trmB; tRNA (guanine-N(7)-)-methyltransferase
+smn:SMA_tRNA_49	tRNA	404642..404726	tRNA-Ser
+smn:SMA_0392	gene	404932..406003	pseudogene
+smn:SMA_0393	gene	405963..407030	pseudogene
+smn:SMA_0394	gene	407005..408093	bcsA; pseudogene
+smn:SMA_0395	gene	408047..408280	pseudogene
+smn:SMA_0396	CDS	408381..408563	Hypothetical protein
+smn:SMA_0397	CDS	408484..409017	rimP; COG0779: clustered with transcription termination protein NusA
+smn:SMA_0398	CDS	409093..410292	nusA; Transcription termination protein NusA
+smn:SMA_0399	CDS	410312..410608	ylxR; COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+smn:SMA_0400	CDS	410601..410903	Ribosomal protein L7Ae family protein
+smn:SMA_0401	CDS	410923..413649	infB; Translation initiation factor 2
+smn:SMA_0402	CDS	414335..414685	rbfA; Ribosome-binding factor A
+smn:SMA_0403	CDS	414797..415339	fas6; Conserved hypothetical protein
+smn:SMA_0404	CDS	415352..415900	Hypothetical protein
+smn:SMA_0405	CDS	416042..416473	copY; Negative transcriptional regulator-copper transport operon
+smn:SMA_0406	CDS	416497..418746	copA; Copper-translocating P-type ATPase
+smn:SMA_0407	CDS	418768..418971	Copper chaperone
+smn:SMA_0408	CDS	419071..419688	yvgT; Integral membrane protein (Rhomboid family)
+smn:SMA_0409	CDS	419691..420503	yxeH; Hydrolase (HAD superfamily)
+smn:SMA_0410	CDS	complement(420556..421116)	Transcriptional regulator, TetR family
+smn:SMA_0411	CDS	421250..422095	DegV family protein
+smn:SMA_0412	CDS	complement(422120..422635)	Hypothetical protein
+smn:SMA_0413	CDS	complement(422641..423222)	Hypothetical protein
+smn:SMA_0414	gene	423646..425223	pseudogene
+smn:SMA_0415	CDS	425363..426511	N-acetylglucosamine-6-phosphate deacetylase
+smn:SMA_0416	CDS	427136..428053	glyQ; Glycyl-tRNA synthetase alpha chain
+smn:SMA_0417	CDS	428053..430092	glyS; Glycyl-tRNA synthetase beta chain
+smn:SMA_0418	CDS	430271..430528	Hypothetical protein
+smn:SMA_0419	CDS	430667..430807	Transcriptional antiterminator of lichenan operon, BglG family
+smn:SMA_0420	CDS	431024..431335	Transcriptional antiterminator of lichenan operon, BglG family
+smn:SMA_0421	CDS	431320..431781	Transcriptional antiterminator of lichenan operon, BglG family
+smn:SMA_0422	CDS	431993..433978	tkt; Transketolase
+smn:SMA_0423	CDS	434116..434418	Hypothetical protein
+smn:SMA_0424	CDS	434434..435168	natA; Methionine ABC transporter ATP-binding protein
+smn:SMA_0425	CDS	435173..436798	ABC transporter permease protein
+smn:SMA_0426	CDS	436899..437702	proB; Glutamate 5-kinase
+smn:SMA_0427	CDS	437717..438967	proA; Gamma-glutamyl phosphate reductase
+smn:SMA_0428	CDS	439000..439104	Hypothetical protein
+smn:SMA_0429	CDS	439094..440068	rsmH; rRNA small subunit methyltransferase H
+smn:SMA_0430	CDS	440071..440394	Cell division protein FtsL
+smn:SMA_0431	CDS	440404..442668	pbpX; Cell division protein FtsI [Peptidoglycan synthetase]
+smn:SMA_0432	CDS	442675..443688	mraY; Phospho-N-acetylmuramoyl-pentapeptide-transferase
+smn:SMA_0433	CDS	complement(443725..444981)	tnpA; IS1167, transposase
+smn:SMA_0434	CDS	445307..446650	cshB; DEAD-box ATP-dependent RNA helicase CshB
+smn:SMA_0435	CDS	446836..447660	patH; Cysteine ABC transporter, substrate-binding protein
+smn:SMA_0436	CDS	447735..448538	yxeN; Cysteine ABC transporter, permease protein
+smn:SMA_0437	CDS	448538..449281	tcyN; ABC-type multidrug transport system, ATPase component
+smn:SMA_0438	CDS	449373..449597	Hypothetical protein
+smn:SMA_0439	CDS	449661..450575	trxB; Thioredoxin reductase
+smn:SMA_0440	CDS	450843..452303	pncB; Nicotinate phosphoribosyltransferase
+smn:SMA_0441	CDS	452300..453124	nadE; NAD synthetase
+smn:SMA_0442	CDS	453343..454680	pepC; Aminopeptidase C
+smn:SMA_0443	CDS	complement(454765..456996)	ponA; Multimodular transpeptidase-transglycosylase/Penicillin-binding protein 1A/1B (PBP1)
+smn:SMA_0444	CDS	complement(456983..457591)	recU; Recombination protein RecU
+smn:SMA_0445	CDS	457667..458185	Hypothetical protein
+smn:SMA_0446	CDS	458312..458653	gpsB; Cell division protein GpsB, coordinates the switch between cylindrical and septal cell wall synthesis by re-localization of PBP1
+smn:SMA_0447	CDS	459282..460454	ypsC; Predicted N6-adenine-specific DNA methylase
+smn:SMA_0448	CDS	460513..462042	Hypothetical protein
+smn:SMA_0449	CDS	462106..462402	butA; 2,3-butanediol dehydrogenase, S-alcohol forming, (R)-acetoin-specific/Acetoin (diacetyl) reductase
+smn:SMA_0450	CDS	complement(462306..462824)	insM; Transposase
+smn:SMA_0451	CDS	complement(462860..463150)	Transposase
+smn:SMA_0452	CDS	complement(463203..463487)	Hypothetical protein
+smn:SMA_0453	CDS	complement(463611..464096)	luxS; S-ribosylhomocysteine lyase/Autoinducer-2 production protein LuxS
+smn:SMA_0454	CDS	464247..465854	Hydrolase (HAD superfamily)
+smn:SMA_0455	CDS	466106..466723	gmk; Guanylate kinase
+smn:SMA_0456	CDS	466747..467061	rpoZ; DNA-directed RNA polymerase omega subunit
+smn:SMA_0457	CDS	467183..469573	priA; Helicase PriA essential for oriC/DnaA-independent DNA replication
+smn:SMA_0458	gene	469619..470569	pseudogene
+smn:SMA_0459	CDS	470559..471881	rsmB; Ribosomal RNA small subunit methyltransferase B
+smn:SMA_0460	CDS	471919..472656	Protein serine/threonine phosphatase PrpC, regulation of stationary phase
+smn:SMA_0461	CDS	472656..474572	Serine/threonine protein kinase PrkC, regulator of stationary phase
+smn:SMA_0462	CDS	474683..475378	Transporter associated with VraSR
+smn:SMA_0463	CDS	475375..476400	vraS; Sensor histidine kinase VraS
+smn:SMA_0464	CDS	476384..477028	Two component transcriptional regulator VraR
+smn:SMA_0465	CDS	477147..478547	ppiB; Streptococcal lipoprotein rotamase A; Peptidyl-prolyl cis-trans isomerase
+smn:SMA_0466	CDS	478547..478903	yugI; General stress protein 13
+smn:SMA_0467	CDS	complement(479023..479952)	cysK; Cysteine synthase
+smn:SMA_0468	CDS	complement(480056..480682)	yvyE; Protein co-occurring with transport systems (COG1739)
+smn:SMA_0469	CDS	480739..482040	ComF operon protein A, DNA transporter ATPase
+smn:SMA_0470	CDS	482037..482699	comFC; ComF operon protein C
+smn:SMA_0471	CDS	482775..483323	yhbH; Ribosomal subunit interface protein
+smn:SMA_0472	CDS	complement(483379..483546)	Hypothetical protein
+smn:SMA_rRNA_16	rRNA	483849..485349	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+smn:SMA_tRNA_50	tRNA	485428..485500	tRNA-Ala
+smn:SMA_rRNA_17	rRNA	485645..488545	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+smn:SMA_rRNA_18	rRNA	488626..488741	5S RNA
+smn:SMA_tRNA_51	tRNA	488746..488818	tRNA-Val
+smn:SMA_tRNA_52	tRNA	488841..488913	tRNA-Asp
+smn:SMA_tRNA_53	tRNA	488917..488989	tRNA-Lys
+smn:SMA_tRNA_54	tRNA	488999..489080	tRNA-Leu
+smn:SMA_tRNA_55	tRNA	489093..489165	tRNA-Thr
+smn:SMA_tRNA_56	tRNA	489189..489262	tRNA-Ile
+smn:SMA_tRNA_57	tRNA	489273..489344	tRNA-Glu
+smn:SMA_0473	CDS	complement(489628..489939)	Hypothetical protein
+smn:SMA_0474	CDS	complement(489998..490531)	Cysteinyl-tRNA synthetase related protein
+smn:SMA_0475	CDS	complement(490618..491394)	recX; Regulatory protein RecX
+smn:SMA_0476	CDS	491466..492410	Hypothetical protein
+smn:SMA_0477	CDS	492410..493768	ygcA; RNA methyltransferase, TrmA family
+smn:SMA_0478	CDS	493762..493905	Hypothetical protein
+smn:SMA_0479	CDS	494471..494896	Maturase-related protein
+smn:SMA_0480	CDS	495098..495675	Hypothetical protein
+smn:SMA_0481	CDS	495912..497762	cadA; Probable cadmium-transporting ATPase
+smn:SMA_0482	CDS	497839..498069	Copper chaperone
+smn:SMA_0483	CDS	498085..498363	Hypothetical protein
+smn:SMA_0484	CDS	498391..499044	flp; Transcriptional regulator, Crp/Fnr family
+smn:SMA_0485	CDS	499053..499274	Hypothetical protein
+smn:SMA_0486	CDS	complement(499290..499970)	Transposase
+smn:SMA_0487	CDS	500033..500500	Hypothetical protein
+smn:SMA_0488	CDS	complement(500546..501217)	flp; Transcriptional regulator, Crp/Fnr family
+smn:SMA_0489	CDS	501375..502142	nrdI; Ribonucleotide reduction protein NrdI
+smn:SMA_0490	CDS	502176..504332	nrdE; Ribonucleotide reductase of class Ib (aerobic), alpha subunit
+smn:SMA_0491	CDS	504342..505295	nrdF; Ribonucleotide reductase of class Ib (aerobic), beta subunit
+smn:SMA_0492	CDS	505660..506151	tpx; Thiol peroxidase, Tpx-type
+smn:SMA_0493	CDS	506226..507176	nrdF; Ribonucleotide reductase of class Ib (aerobic), beta subunit
+smn:SMA_0494	gene	507207..507824	ldh; pseudogene
+smn:SMA_0495	CDS	507936..508508	pat; Phosphinothricin N-acetyltransferase
+smn:SMA_tRNA_58	tRNA	508640..508710	tRNA-Thr
+smn:SMA_0496	CDS	complement(508754..509461)	Nicotinamide mononucleotide transport (NMT) family protein
+smn:SMA_0497	CDS	complement(509468..510106)	Deoxyadenosine kinase/Deoxyguanosine kinase
+smn:SMA_0498	gene	complement(510489..510925)	pseudogene
+smn:SMA_0499	gene	complement(511040..511783)	pseudogene
+smn:SMA_0500	CDS	512000..512254	Hypothetical protein
+smn:SMA_0501	CDS	512256..512573	Hypothetical protein
+smn:SMA_0502	CDS	512825..513403	Acetyltransferase
+smn:SMA_0503	CDS	513403..513966	Hypothetical protein
+smn:SMA_0504	CDS	513979..516630	valS; Valyl-tRNA synthetase
+smn:SMA_0505	CDS	complement(517144..517446)	Hypothetical protein
+smn:SMA_0506	CDS	complement(517443..517733)	Hypothetical protein
+smn:SMA_0507	CDS	complement(517850..517990)	Hypothetical protein
+smn:SMA_0508	gene	518427..519011	pseudogene
+smn:SMA_0509	CDS	519111..520187	yyaQ; Hypothetical protein
+smn:SMA_0510	CDS	520311..521526	ABC transporter membrane-spanning permease-macrolide efflux
+smn:SMA_0511	CDS	521898..522890	asnA; Aspartate--ammonia ligase
+smn:SMA_0512	CDS	complement(523024..523593)	Hypothetical protein
+smn:SMA_0513	CDS	complement(523627..523782)	Hypothetical protein
+smn:SMA_0514	CDS	523906..524454	ylbH; Ribosomal RNA small subunit methyltransferase D
+smn:SMA_0515	CDS	524487..524984	coaD; Phosphopantetheine adenylyltransferase
+smn:SMA_0516	CDS	524962..526047	ylbL; Lon-like protease with PDZ domain
+smn:SMA_0517	CDS	526176..526430	Hypothetical protein
+smn:SMA_0518	CDS	complement(526500..526991)	insI1; ISSth4, transposase, IS30 family, truncated
+smn:SMA_0519	CDS	527055..527189	Aquaporin Z
+smn:SMA_0520	CDS	527341..527661	aqpZ; Aquaporin Z
+smn:SMA_0521	CDS	527875..528384	Hypothetical protein
+smn:SMA_0522	CDS	528497..529822	yunD; 5'-nucleotidase family protein in cluster with NagD-like phosphatase
+smn:SMA_0523	CDS	529854..530432	yutD; Hypothetical protein
+smn:SMA_0524	CDS	530454..531560	rlmN; Ribosomal RNA large subunit methyltransferase N
+smn:SMA_0525	CDS	531560..532081	VanZF-related protein
+smn:SMA_0526	CDS	532263..534008	yheI; ABC transporter, ATP-binding/permease protein
+smn:SMA_0527	CDS	533998..535743	ABC transporter, ATP-binding/permease protein
+smn:SMA_0528	CDS	536084..536962	yvfR; putative ATPase
+smn:SMA_0529	CDS	536959..537690	yvfS; ABC transporter permease protein
+smn:SMA_0530	CDS	537687..538778	yvfT; putative sensor histidine kinase
+smn:SMA_0531	CDS	538780..539376	yvfU; DNA-binding response regulator
+smn:SMA_0532	CDS	539498..539656	Hypothetical protein
+smn:SMA_0533	CDS	540298..541461	Hypothetical protein
+smn:SMA_0534	CDS	542401..542694	Isochorismate pyruvate-lyase
+smn:SMA_0535	CDS	542708..544063	trpE; Anthranilate synthase, aminase component
+smn:SMA_0536	CDS	544060..544629	trpG; Anthranilate synthase, amidotransferase Component, Para-aminobenzoate synthase, amidotransferase component
+smn:SMA_0537	CDS	544644..545648	trpD; Anthranilate phosphoribosyltransferase
+smn:SMA_0538	CDS	545645..546412	trpC; Indole-3-glycerol phosphate synthase
+smn:SMA_0539	CDS	546399..546980	trpF; Phosphoribosylanthranilate isomerase
+smn:SMA_0540	CDS	546977..548179	trpB; Tryptophan synthase beta chain
+smn:SMA_0541	CDS	548183..548965	trpA; Tryptophan synthase alpha chain
+smn:SMA_0542	CDS	complement(549034..550374)	mntH; Manganese transport protein MntH
+smn:SMA_0543	CDS	complement(550457..551107)	pppA; Late competence protein ComC, processing protease
+smn:SMA_0544	CDS	551237..551767	dps; Non-specific DNA-binding protein Dps / Iron-binding ferritin-like antioxidant protein / Ferroxidase
+smn:SMA_0545	CDS	551939..552148	Hypothetical protein
+smn:SMA_0546	CDS	552141..553109	glcK; Glucokinase
+smn:SMA_0547	CDS	553120..553509	yqhL; Rhodanese-like domain protein
+smn:SMA_0548	CDS	553524..554570	Hypothetical protein
+smn:SMA_0549	CDS	complement(554558..555151)	agaR; Alpha-galactosidase
+smn:SMA_0550	CDS	complement(555323..555682)	aga; Alpha-galactosidase
+smn:SMA_0551	CDS	complement(555673..556323)	aga; Alpha-galactosidase
+smn:SMA_0552	CDS	complement(556441..556689)	Hypothetical protein
+smn:SMA_0553	CDS	complement(556951..557178)	Hypothetical protein
+smn:SMA_0554	gene	complement(557171..558475)	gmuC; pseudogene
+smn:SMA_0555	CDS	558601..559445	Hypothetical protein
+smn:SMA_0556	CDS	559590..561434	typA; GTP-binding protein TypA/BipA
+smn:SMA_0557	CDS	561557..561829	Hypothetical protein
+smn:SMA_0558	CDS	561952..563307	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+smn:SMA_0559	CDS	563310..564386	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+smn:SMA_0560	CDS	564387..565676	divIB; Division initiation protein
+smn:SMA_0561	CDS	565812..567185	ftsA; Cell division protein FtsA
+smn:SMA_0562	CDS	567206..568531	ftsZ; Cell division protein FtsZ
+smn:SMA_0563	CDS	568531..569205	Hypothetical protein YggS
+smn:SMA_0564	CDS	569220..569828	sepF; FtsZ-interacting protein related to cell division
+smn:SMA_0565	CDS	569832..570086	Hypothetical protein
+smn:SMA_0566	CDS	570088..570879	ylmH; Hypothetical protein, contains S4-like RNA binding domain
+smn:SMA_0567	CDS	570890..571657	divIVA; Cell division initiation protein DivIVA
+smn:SMA_0568	CDS	571966..574764	ileS; Isoleucyl-tRNA synthetase
+smn:SMA_0569	CDS	complement(574864..575166)	Hypothetical protein
+smn:SMA_0570	CDS	complement(575237..575683)	Mutator mutT protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+smn:SMA_0571	CDS	complement(575965..578250)	clpE; ATP-dependent Clp protease, ATP-binding subunit ClpE
+smn:SMA_0572	CDS	complement(578392..578943)	Hypothetical protein
+smn:SMA_0573	gene	complement(578946..579110)	pseudogene
+smn:SMA_0574	CDS	579484..580464	argF; Ornithine carbamoyltransferase
+smn:SMA_0575	CDS	580600..580830	Hypothetical protein
+smn:SMA_0576	CDS	581084..581770	glnP; ABC transporter membrane-spanning permease-glutamine transport
+smn:SMA_0577	CDS	581770..582504	Glutamine transport ATP-binding protein GlnQ
+smn:SMA_0578	CDS	582869..583345	Ferrous iron transport protein A
+smn:SMA_0579	CDS	583342..585480	feoB; Ferrous iron transport protein B
+smn:SMA_0580	CDS	585485..585625	Hypothetical protein
+smn:SMA_0581	CDS	585772..586626	folD; Methylenetetrahydrofolate dehydrogenase (NADP+)/Methenyltetrahydrofolate cyclohydrolase
+smn:SMA_0582	CDS	586623..587459	yjeF; YjeF protein, C-terminal domain
+smn:SMA_0583	CDS	587809..588441	Cell wall protein precursor, similar to choline binding protein
+smn:SMA_0584	CDS	588438..588560	Hypothetical protein
+smn:SMA_0585	CDS	588591..588833	Group B streptococcus secreted protein
+smn:SMA_0586	CDS	588846..589052	putative 40K cell wall protein precursor
+smn:SMA_0587	gene	589127..589678	pseudogene
+smn:SMA_0588	CDS	590027..591355	xseA; Exodeoxyribonuclease VII large subunit
+smn:SMA_0589	CDS	591345..591560	xseB; Exodeoxyribonuclease VII small subunit
+smn:SMA_0590	CDS	591560..592429	fps; Octaprenyl-diphosphate synthase/Dimethylallyltransferase/Geranyltranstransferase (farnesyldiphosphate synthase)/Geranylgeranyl pyrophosphate synthetase
+smn:SMA_0591	CDS	592422..593246	yqxC; RNA binding methyltransferase FtsJ like
+smn:SMA_0592	CDS	593233..593703	argR2; Arginine repressor ArgR, putative
+smn:SMA_0593	CDS	593717..595375	recN; DNA repair protein RecN
+smn:SMA_0594	CDS	595512..596348	Hypothetical protein, DegV family
+smn:SMA_0595	CDS	596341..597189	ypmR; Lipase/Acylhydrolase with GDSL-like motif
+smn:SMA_0596	CDS	597158..597760	ypmS; Unchacterized protein YpmS
+smn:SMA_0597	CDS	597855..598130	hup; DNA-binding protein HU
+smn:SMA_0598	CDS	598317..598523	Hypothetical protein
+smn:SMA_0599	CDS	598648..598851	Hypothetical protein
+smn:SMA_0600	CDS	599250..600791	dtpT; Di-/tripeptide transporter
+smn:SMA_0601	CDS	complement(600900..601835)	pyrD; Dihydroorotate dehydrogenase, catalytic subunit
+smn:SMA_0602	gene	complement(601934..602780)	pseudogene
+smn:SMA_0603	CDS	602937..603251	ziaR; Transcriptional repressor smtb-like
+smn:SMA_0604	CDS	603254..605137	cadA; Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase
+smn:SMA_0605	CDS	605295..605615	sugE; Quaternary ammonium compound-resistance protein SugE
+smn:SMA_0606	CDS	605832..606524	gpmA; Phosphoglycerate mutase
+smn:SMA_0607	CDS	606800..607321	yrxA; Transcriptional repressor for NAD biosynthesis in gram-positives
+smn:SMA_0608	CDS	607597..608151	Substrate-specific component NiaX of predicted niacin ECF transporter
+smn:SMA_0609	CDS	608307..610460	Cell division protein FtsI [Peptidoglycan synthetase]
+smn:SMA_0610	CDS	610526..611122	recR; Recombination protein RecR
+smn:SMA_0611	CDS	611359..612405	ddl; D-alanine--D-alanine ligase
+smn:SMA_0612	CDS	complement(612510..613070)	Substrate-specific component FolT of folate ECF transporter
+smn:SMA_0613	CDS	613314..614678	murF; UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+smn:SMA_0614	gene	614691..615845	pseudogene
+smn:SMA_0615	CDS	615996..617540	prfC; Peptide chain release factor 3
+smn:SMA_0616	CDS	617942..619522	Cold-shock DEAD-box protein A
+smn:SMA_0617	CDS	complement(619565..619837)	yhbQ; COG2827: putative endonuclease containing a URI domain
+smn:SMA_0618	CDS	complement(619812..620573)	yabB; COG4123: Predicted O-methyltransferase
+smn:SMA_0619	CDS	620681..621427	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+smn:SMA_0620	CDS	621522..622187	comEA; Late competence protein ComEA, DNA receptor
+smn:SMA_0621	CDS	622180..624411	comEC; Late competence protein ComEC, DNA transport
+smn:SMA_0622	CDS	624459..625520	yqenN; DNA polymerase III delta subunit
+smn:SMA_0623	CDS	625609..626217	sodA; Manganese superoxide dismutase
+smn:SMA_0624	CDS	626368..627093	yebC; Hypothetical protein
+smn:SMA_0625	CDS	complement(627125..628153)	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+smn:SMA_0626	gene	628328..628828	pseudogene
+smn:SMA_0627	CDS	628956..629660	nagB; Glucosamine-6-phosphate deaminase
+smn:SMA_0628	CDS	629736..630452	ytzG; Ribosomal small subunit pseudouridine synthase A
+smn:SMA_0629	CDS	630505..631476	Competence protein CoiA
+smn:SMA_0630	CDS	631466..633268	pepB; Oligoendopeptidase F
+smn:SMA_0631	gene	633342..633860	pseudogene
+smn:SMA_0632	CDS	633882..634493	gph; Hydrolase, haloacid dehalogenase-like family
+smn:SMA_0633	CDS	634547..635248	yrrM; O-methyltransferase family protein [C1]
+smn:SMA_0634	CDS	635318..636349	prsA; Foldase protein PrsA 1 precursor
+smn:SMA_0635	CDS	636718..639336	alaS; Alanyl-tRNA synthetase
+smn:SMA_0636	CDS	639382..639570	Hypothetical protein
+smn:SMA_0637	CDS	639763..640197	Transposase
+smn:SMA_0638	gene	640369..640914	pseudogene
+smn:SMA_0639	CDS	641158..641940	Aliphatic amidase AmiE
+smn:SMA_0640	CDS	641952..643130	mtnE; Glutamine-dependent 2-keto-4-methylthiobutyrate transaminase
+smn:SMA_0641	CDS	643243..644265	argC; N-acetyl-gamma-glutamyl-phosphate reductase
+smn:SMA_0642	CDS	644337..645530	argJ; Glutamate N-acetyltransferase/N-acetylglutamate synthase
+smn:SMA_0643	CDS	645544..646278	argB; Acetylglutamate kinase
+smn:SMA_0644	CDS	646304..647434	argD; Acetylornithine aminotransferase
+smn:SMA_0645	CDS	647533..648090	NAD(P)H oxidoreductase YRKL, putative NADPH-quinone reductase (modulator of drug activity B), Flavodoxin 2
+smn:SMA_0646	CDS	648246..648812	Integral membrane protein
+smn:SMA_0647	CDS	complement(648842..649408)	thiT; Substrate-specific component ThiT of thiamin ECF transporter
+smn:SMA_0648	CDS	complement(649677..650639)	nrdF; Ribonucleotide reductase of class Ib (aerobic), beta subunit
+smn:SMA_0649	CDS	complement(651218..653377)	nrdE; Ribonucleotide reductase of class Ib (aerobic), alpha subunit
+smn:SMA_0650	CDS	complement(653455..653682)	nrdH; Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib
+smn:SMA_0651	CDS	653970..656633	acn; Aconitate hydratase
+smn:SMA_0652	CDS	656637..657755	citZ; Citrate synthase
+smn:SMA_0653	CDS	657784..658959	icd; Isocitrate dehydrogenase [NADP]
+smn:SMA_0654	CDS	659045..659848	Hypothetical protein
+smn:SMA_0655	gene	660137..660947	pseudogene
+smn:SMA_0656	CDS	660948..661871	ccpB; Sugar-binding transcriptional regulator, LacI family
+smn:SMA_0657	CDS	661910..662704	ydcF; Hypothetical protein
+smn:SMA_0658	CDS	662776..663156	aldR; Endoribonuclease L-PSP
+smn:SMA_0659	CDS	complement(663258..665855)	Activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+smn:SMA_0660	CDS	complement(665871..667646)	hgdC; Activator of (R)-2-hydroxyglutaryl-CoA dehydratase
+smn:SMA_0661	CDS	667937..668548	Transcriptional regulator, TetR family
+smn:SMA_0662	CDS	668640..669404	Acid-resistant locus arl7 (Fragment)
+smn:SMA_0663	CDS	669430..669573	Hypothetical protein
+smn:SMA_0664	gene	669564..670319	pseudogene
+smn:SMA_0665	CDS	670818..671708	hybJ; Hypothetical ATP-binding protein
+smn:SMA_0666	CDS	671705..672682	ybhK; Hypothetical protein
+smn:SMA_0667	CDS	672679..673590	whiA; Cytoplasmic hypothetical protein
+smn:SMA_0668	CDS	673613..675010	pepDA; Dipeptidase
+smn:SMA_0669	CDS	675426..675827	rgg; Positive transcriptional regulator MutR family
+smn:SMA_0670	CDS	675839..676036	Hypothetical protein
+smn:SMA_0671	CDS	676040..677125	MF superfamily transporter
+smn:SMA_0672	CDS	677295..678809	adcA; Candidate zinc-binding lipoprotein AdcA
+smn:SMA_0673	gene	678990..679682	pseudogene
+smn:SMA_0674	gene	679651..680152	pseudogene
+smn:SMA_0675	CDS	680248..680538	Hypothetical protein
+smn:SMA_0676	CDS	680741..681196	Hypothetical protein
+smn:SMA_0677	CDS	681136..681354	Hypothetical protein
+smn:SMA_0678	CDS	681548..682264	flgJ; Peptidoglycan hydrolase, Autolysin2
+smn:SMA_0679	gene	complement(682375..682503)	pseudogene
+smn:SMA_0680	CDS	complement(682505..682678)	Transposase
+smn:SMA_0681	CDS	complement(682685..683371)	Probable transposase for insertion-like sequence element IS1161
+smn:SMA_0682	CDS	complement(683518..683760)	rpmE2; LSU ribosomal protein L31p
+smn:SMA_0683	CDS	complement(683920..684864)	nrnA; 3'-to-5' oligoribonuclease A, Bacillus type
+smn:SMA_0684	CDS	complement(684861..684989)	Hypothetical protein
+smn:SMA_0685	CDS	685321..685584	ptsH; Phosphocarrier protein of PTS system
+smn:SMA_0686	CDS	685589..687322	ptsI; Phosphoenolpyruvate-protein phosphotransferase of PTS system
+smn:SMA_0687	CDS	687724..689154	gapN; Non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase (NADP)
+smn:SMA_0688	gene	complement(689168..689293)	pseudogene
+smn:SMA_0689	gene	689317..690573	pseudogene
+smn:SMA_0690	CDS	690791..691276	Phosphoenolpyruvate carboxykinase [ATP]
+smn:SMA_0691	CDS	691385..691558	Phosphoenolpyruvate carboxykinase [ATP]
+smn:SMA_0692	CDS	691555..691923	Phosphoenolpyruvate carboxykinase [ATP]
+smn:SMA_0693	CDS	691869..691979	Hypothetical protein
+smn:SMA_0694	CDS	692285..692569	Serine endopeptidase ScpC
+smn:SMA_0695	CDS	692560..693126	Serine endopeptidase ScpC
+smn:SMA_0696	CDS	complement(693189..694274)	yfmL; ATP-dependent RNA helicase YfmL
+smn:SMA_0697	CDS	694426..695046	udk; Uridine kinase
+smn:SMA_0698	CDS	695426..696988	leuA; 2-isopropylmalate synthase
+smn:SMA_0699	CDS	697039..698076	leuB; 3-isopropylmalate dehydrogenase
+smn:SMA_0700	CDS	698073..698351	Hypothetical protein
+smn:SMA_0701	CDS	698397..699785	leuC; 3-isopropylmalate dehydratase large subunit
+smn:SMA_0702	CDS	699798..700388	leuD; 3-isopropylmalate dehydratase small subunit
+smn:SMA_0703	CDS	700538..701035	ytsP; GAF domain-containing protein
+smn:SMA_0704	CDS	701035..702714	dnaX; DNA polymerase III subunits gamma and tau
+smn:SMA_0705	CDS	702782..703297	Transposase
+smn:SMA_0706	CDS	703333..704130	insK; Transposase
+smn:SMA_0707	CDS	704479..704673	Hypothetical protein
+smn:SMA_0708	CDS	complement(704654..705613)	birA; Biotin-protein ligase/Biotin operon repressor
+smn:SMA_0709	CDS	706176..707366	metK; S-adenosylmethionine synthetase
+smn:SMA_0710	CDS	707628..708887	murA2; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+smn:SMA_0711	CDS	708973..709527	Ribosomal-protein-S5p-alanine acetyltransferase
+smn:SMA_0712	CDS	709520..710803	Cytosolic protein containing multiple CBS domains
+smn:SMA_0713	CDS	710921..711781	map; Methionine aminopeptidase
+smn:SMA_0714	CDS	711783..712712	yfkH; Ribonuclease
+smn:SMA_0715	CDS	complement(712726..713151)	GtrA family protein
+smn:SMA_0716	CDS	713296..713805	Substrate-specific component QueT (COG4708) of predicted queuosine-regulated ECF transporter
+smn:SMA_0717	CDS	713912..715870	ligA; DNA ligase
+smn:SMA_0718	CDS	715889..716908	dagK; Transcription regulator [contains diacylglycerol kinase catalytic domain]
+smn:SMA_0719	gene	716926..717868	pseudogene
+smn:SMA_0720	CDS	complement(717877..719133)	tnpA; Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_0721	gene	719181..720146	glgP; pseudogene
+smn:SMA_0722	CDS	720459..720668	atpE; ATP synthase C chain
+smn:SMA_0723	CDS	720707..721420	atpB; ATP synthase A chain
+smn:SMA_0724	CDS	721438..721935	atpF; ATP synthase B chain
+smn:SMA_0725	CDS	721935..722471	atpH; ATP synthase delta chain
+smn:SMA_0726	CDS	722487..723992	atpA; ATP synthase alpha chain
+smn:SMA_0727	CDS	724007..724885	atpG; ATP synthase gamma chain
+smn:SMA_0728	CDS	724952..726358	atpD; ATP synthase beta chain
+smn:SMA_0729	CDS	726371..726787	atpC; ATP synthase epsilon chain
+smn:SMA_0730	CDS	726852..727088	Hypothetical protein
+smn:SMA_0731	CDS	727139..728425	murA2; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+smn:SMA_0732	CDS	728428..728616	Competence-associated EpuA protein
+smn:SMA_0733	CDS	728731..729597	endA; DNA-entry nuclease (Competence-specific nuclease)
+smn:SMA_0734	CDS	730460..731566	pheS; Phenylalanyl-tRNA synthetase alpha chain
+smn:SMA_0735	CDS	731602..732126	paiA; Acetyltransferase, GNAT family
+smn:SMA_0736	CDS	732198..734603	pheT; Phenylalanyl-tRNA synthetase beta chain
+smn:SMA_0737	CDS	734753..737995	rexB; ATP-dependent nuclease, subunit B
+smn:SMA_0738	CDS	737985..741617	addA; ATP-dependent nuclease, subunit A
+smn:SMA_0739	CDS	complement(741710..742855)	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+smn:SMA_0740	CDS	743063..743797	Histidinol-phosphatase
+smn:SMA_0741	CDS	complement(743858..744034)	Hypothetical protein
+smn:SMA_0742	CDS	744222..745109	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+smn:SMA_0743	CDS	745248..746486	ynbA; GTP-binding protein YnbA
+smn:SMA_0744	CDS	746479..747117	Cystathionine beta-lyase
+smn:SMA_0745	CDS	747157..748086	rnz; Ribonuclease Z
+smn:SMA_0746	CDS	748083..748841	Short chain dehydrogenase
+smn:SMA_0747	CDS	748883..751090	recJ; Single-stranded-DNA-specific exonuclease RecJ
+smn:SMA_0748	CDS	751237..751341	Hypothetical protein
+smn:SMA_0749	CDS	751652..751777	Hypothetical protein
+smn:SMA_0750	CDS	complement(751868..752485)	Hypothetical protein
+smn:SMA_0751	CDS	complement(752350..752898)	Hypothetical protein
+smn:SMA_0752	CDS	complement(753024..753728)	Hypothetical protein
+smn:SMA_0753	gene	754003..754982	cbh; pseudogene
+smn:SMA_0754	CDS	754999..755526	Hypothetical protein
+smn:SMA_0755	CDS	755669..756187	apt; Adenine phosphoribosyltransferase
+smn:SMA_0756	CDS	756294..757238	metA; Homoserine O-succinyltransferase
+smn:SMA_0757	CDS	757329..758003	dnaD; Chromosome replication initiation protein DnaD
+smn:SMA_0758	CDS	758003..758653	nth; Endonuclease III
+smn:SMA_0759	CDS	758707..759393	putative tRNA-m1A22 methylase
+smn:SMA_0760	CDS	759380..760168	Hypothetical protein
+smn:SMA_0761	CDS	760180..761283	Glycine/D-amino acid oxidases family
+smn:SMA_0762	CDS	761342..762211	rmlA; Glucose-1-phosphate thymidylyltransferase
+smn:SMA_0763	CDS	762211..762804	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+smn:SMA_0764	CDS	762845..763894	rmlB; dTDP-glucose 4,6-dehydratase
+smn:SMA_0765	CDS	764031..764453	relA; Guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase
+smn:SMA_0766	CDS	764573..765055	Mutator mutT protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+smn:SMA_0767	CDS	765148..766335	Hypothetical protein
+smn:SMA_0768	CDS	766325..767560	ypiA; TPR-repeat-containing protein
+smn:SMA_0769	CDS	767544..767720	Hypothetical protein
+smn:SMA_0770	CDS	767842..768144	ybzH; Transcriptional regulator, ArsR family
+smn:SMA_0771	CDS	768243..769430	yqiG; NADH-dependent oxidoreductase
+smn:SMA_0772	CDS	769821..771497	alsS; Acetolactate synthase, catabolic
+smn:SMA_0773	CDS	771576..772295	aldC; Alpha-acetolactate decarboxylase
+smn:SMA_0774	CDS	772701..774104	yfnA; Cationic amino acid transporter-APC Superfamily
+smn:SMA_0775	CDS	complement(774155..775810)	Fibronectin/fibrinogen-binding protein
+smn:SMA_0776	CDS	complement(775954..776811)	ybhD; Transcriptional regulators, LysR family
+smn:SMA_0777	CDS	776994..777767	glnQ; Glutamine transport ATP-binding protein
+smn:SMA_0778	CDS	777783..779336	Glutamate ABC transporter, periplasmic glutamine-binding protein
+smn:SMA_0779	gene	779351..779453	pseudogene
+smn:SMA_0780	CDS	779466..781103	rocB; Arginine utilization protein RocB
+smn:SMA_0781	CDS	781421..782422	ABC transporter substrate-binding protein
+smn:SMA_0782	CDS	782443..783312	ABC transporter permease protein
+smn:SMA_0783	CDS	783309..784067	ABC transporter ATP-binding protein
+smn:SMA_0784	CDS	784243..784515	Hypothetical protein
+smn:SMA_0785	CDS	784565..784882	Hypothetical protein
+smn:SMA_0786	CDS	784833..784946	Hypothetical protein
+smn:SMA_0787	CDS	784987..785441	Hypothetical protein
+smn:SMA_0788	CDS	785666..787327	Zn-dependent hydrolase, RNA-metabolising, CPSF 100 kDa analog
+smn:SMA_0789	CDS	787484..788197	putative Zn-dependent protease
+smn:SMA_0790	CDS	788289..790208	ydiF; ABC transporter ATP-binding protein YdiF
+smn:SMA_0791	CDS	790442..790888	marR; Transcriptional regulator MarR family
+smn:SMA_0792	CDS	790881..792633	ABC transporter, ATP-binding/permease protein
+smn:SMA_0793	gene	792633..794513	pseudogene
+smn:SMA_0794	CDS	794645..794923	Hypothetical protein
+smn:SMA_0795	gene	794924..795061	pseudogene
+smn:SMA_0796	CDS	795194..796162	acoA; Acetoin dehydrogenase E1 component alpha-subunit
+smn:SMA_0797	CDS	796194..797198	Acetoin dehydrogenase E1 component beta-subunit
+smn:SMA_0798	CDS	797213..798607	acoC; Dihydrolipoamide acetyltransferase component (E2) of acetoin dehydrogenase complex
+smn:SMA_0799	CDS	798753..800498	lpdA; Dihydrolipoamide dehydrogenase of acetoin dehydrogenase
+smn:SMA_0800	CDS	800615..801061	Iron compound ABC uptake transporter ATP-binding protein PiuD
+smn:SMA_0801	CDS	801162..802224	Iron compound ABC uptake transporter substrate-binding protein PiuA
+smn:SMA_0802	gene	complement(802330..802755)	pseudogene
+smn:SMA_0803	gene	802726..803115	pseudogene
+smn:SMA_0804	CDS	803214..804203	lplA; Lipoate-protein ligase A
+smn:SMA_0805	CDS	complement(804291..804833)	Hypothetical protein
+smn:SMA_0806	CDS	complement(804891..805199)	Hypothetical protein
+smn:SMA_0807	gene	complement(805371..806203)	pseudogene
+smn:SMA_0808	gene	806204..806515	pseudogene
+smn:SMA_0809	CDS	complement(806547..807329)	COG2110, Macro domain, possibly ADP-ribose binding module
+smn:SMA_0810	CDS	complement(807459..807719)	Hypothetical protein
+smn:SMA_0811	CDS	807944..808189	glpE; Rhodanese family protein
+smn:SMA_0812	CDS	808186..809841	putative NAD(FAD)-dependent dehydrogenase
+smn:SMA_0813	CDS	809834..810133	Rhodanese-like domain protein
+smn:SMA_0814	CDS	810191..810841	HD domain protein
+smn:SMA_0815	CDS	810901..811368	Conserved domain protein
+smn:SMA_0816	CDS	811608..812066	yybC; Hypothetical integral membrane protein
+smn:SMA_0817	CDS	812221..815010	pacL; Cation-transporting ATPase, E1-E2 family
+smn:SMA_0818	CDS	815132..816370	Hypothetical protein
+smn:SMA_0819	CDS	816373..816516	Hypothetical protein
+smn:SMA_0820	gene	816522..816935	dkgA; pseudogene
+smn:SMA_0821	CDS	817038..817349	4-carboxymuconolactone decarboxylase
+smn:SMA_0822	gene	817417..817812	pseudogene
+smn:SMA_0823	CDS	817955..818824	Hypothetical protein
+smn:SMA_0824	CDS	818945..819445	Hypothetical protein
+smn:SMA_0825	CDS	819533..820225	2-haloalkanoic acid dehalogenase
+smn:SMA_0826	CDS	complement(820299..820970)	putative regulatory protein
+smn:SMA_0827	CDS	complement(821050..821922)	yeiE; LysR family transcriptional regulator YeiE
+smn:SMA_0828	CDS	822023..823048	yeiH; putative membrane protein YeiH
+smn:SMA_0829	CDS	823250..824626	ssdA; Succinate-semialdehyde dehydrogenase [NAD]; Succinate-semialdehyde dehydrogenase [NADP+]
+smn:SMA_0830	CDS	complement(824782..825279)	putative low temperature requirement A protein
+smn:SMA_0831	CDS	complement(825496..825717)	Hypothetical protein
+smn:SMA_0832	CDS	825789..827786	uvrC; Excinuclease ABC subunit C
+smn:SMA_0833	CDS	827819..828145	Hypothetical protein
+smn:SMA_0834	CDS	828271..830001	Hypothetical protein
+smn:SMA_0835	CDS	830159..830761	Oxygen-insensitive NAD(P)H nitroreductase/Dihydropteridine reductase
+smn:SMA_0836	CDS	830922..832328	pepV; Xaa-His dipeptidase
+smn:SMA_0837	CDS	832459..832641	Hypothetical protein
+smn:SMA_0838	CDS	832655..833035	Hypothetical protein
+smn:SMA_0839	CDS	833321..834373	ABC transporter permease component
+smn:SMA_0840	CDS	834378..835058	ABC transporter ATP-binding protein
+smn:SMA_0841	CDS	835205..835789	Hypothetical protein
+smn:SMA_0842	CDS	complement(835907..837280)	GTPase and tRNA-U34 5-formylation enzyme TrmE
+smn:SMA_0843	CDS	837701..838546	Membrane protein
+smn:SMA_0844	CDS	838654..839328	rpiA; Ribose 5-phosphate isomerase A
+smn:SMA_0845	CDS	839492..840703	deoB; Phosphopentomutase
+smn:SMA_0846	CDS	840713..841525	punA; Purine nucleoside phosphorylase
+smn:SMA_0847	CDS	841862..842566	yfeJ; Glutamine amidotransferase, class I
+smn:SMA_0848	CDS	842550..842831	Chloride channel protein
+smn:SMA_0849	CDS	842876..843316	Chloride channel protein
+smn:SMA_0850	CDS	843273..843980	deoD; Purine nucleoside phosphorylase
+smn:SMA_0851	CDS	843980..844768	Histidine protein kinase
+smn:SMA_0852	CDS	844834..844998	Hypothetical protein
+smn:SMA_0853	gene	845026..845609	pseudogene
+smn:SMA_0854	CDS	complement(845650..846558)	mtaR; Methionine biosynthesis and transport regulator MtaR, LysR family
+smn:SMA_0855	CDS	846852..848333	Exopolysaccharide biosynthesis transcriptional activator EpsA
+smn:SMA_0856	CDS	848334..849065	cpsB; Tyrosine-protein phosphatase CpsB
+smn:SMA_0857	CDS	849074..849763	Tyrosine-protein kinase transmembrane modulator EpsC
+smn:SMA_0858	CDS	849778..850518	Tyrosine-protein kinase EpsD
+smn:SMA_0859	CDS	850557..851933	Undecaprenyl-phosphate galactosephosphotransferase
+smn:SMA_0860	CDS	851936..853399	Hypothetical protein
+smn:SMA_0861	CDS	853408..854523	glf; UDP-galactopyranose mutase
+smn:SMA_0862	CDS	854534..855703	Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase
+smn:SMA_0863	CDS	855706..856851	Glycosyltransferase
+smn:SMA_0864	CDS	856898..857899	Receptor polysaccharide phosphotransferase wefC
+smn:SMA_0865	gene	857957..858205	pseudogene
+smn:SMA_0866	gene	858209..858316	epsF; pseudogene
+smn:SMA_0867	CDS	858346..859458	epsF; Glycosyltransferase
+smn:SMA_0868	CDS	859474..860403	yefJ; Glycosyl transferase, family 2
+smn:SMA_0869	CDS	860400..861641	Hypothetical protein
+smn:SMA_0870	CDS	861634..863088	Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids
+smn:SMA_0871	CDS	863090..864196	rfaG; Glycosyl transferase, group 1
+smn:SMA_0872	CDS	complement(864384..864548)	IS1167, transposase, ISL3 family, truncated
+smn:SMA_0873	CDS	complement(864582..865595)	tnpA; Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_0874	gene	complement(865657..866216)	pseudogene
+smn:SMA_0875	CDS	866388..867242	dTDP-4-dehydrorhamnose reductase
+smn:SMA_0876	CDS	867431..869005	Hypothetical protein
+smn:SMA_0877	CDS	complement(868997..869212)	Hypothetical protein
+smn:SMA_0878	CDS	869425..870231	pyrK; Dihydroorotate dehydrogenase electron transfer subunit
+smn:SMA_0879	CDS	870241..871185	pyrDB; Dihydroorotate dehydrogenase, catalytic subunit
+smn:SMA_0880	CDS	871406..872098	pyrF; Orotidine 5'-phosphate decarboxylase
+smn:SMA_0881	CDS	872143..872466	Inorganic pyrophosphatase
+smn:SMA_0882	CDS	872481..873110	pyrE; Orotate phosphoribosyltransferase
+smn:SMA_0883	CDS	873188..873688	Phospholipid-binding protein
+smn:SMA_0884	CDS	873706..874359	ung; Uracil-DNA glycosylase, family 1
+smn:SMA_0885	CDS	874372..875094	Peptidase E
+smn:SMA_0886	CDS	875060..876373	pyrC; Dihydroorotase
+smn:SMA_0887	CDS	complement(876393..877031)	plsY; Acyl-phosphate:glycerol-3-phosphate O-acyltransferase PlsY
+smn:SMA_0888	CDS	complement(877050..877199)	Hypothetical protein
+smn:SMA_0889	CDS	877252..879201	parE; Topoisomerase IV subunit B
+smn:SMA_0890	CDS	879297..881708	parC; Topoisomerase IV subunit A
+smn:SMA_0891	CDS	881835..882857	ilvE; Branched-chain amino acid aminotransferase
+smn:SMA_0892	CDS	882924..883154	Hypothetical protein
+smn:SMA_tRNA_59	tRNA	883216..883296	tRNA-Tyr
+smn:SMA_tRNA_60	tRNA	883330..883401	tRNA-Gln
+smn:SMA_0893	CDS	883529..884725	rps1; SSU ribosomal protein S1p
+smn:SMA_tRNA_61	tRNA	884793..884864	tRNA-Arg
+smn:SMA_0894	CDS	complement(885292..885987)	LrgA-associated membrane protein LrgB
+smn:SMA_0895	CDS	complement(885980..886360)	Antiholin-like protein LrgA
+smn:SMA_0896	CDS	complement(886533..887144)	Immunoreactive protein Se23.5
+smn:SMA_0897	CDS	complement(887764..888537)	ABC transporter, ATP-binding protein
+smn:SMA_0898	CDS	complement(888546..889244)	ABC-type multidrug transport system, ATPase component
+smn:SMA_0899	CDS	complement(889246..889614)	Transcriptional regulator, GntR family
+smn:SMA_0900	CDS	889792..892899	dnaE; DNA polymerase III alpha subunit
+smn:SMA_0901	CDS	892991..894007	pfkA; 6-phosphofructokinase
+smn:SMA_0902	CDS	894089..895591	pyk; Pyruvate kinase
+smn:SMA_0903	CDS	895959..896516	spsB; Signal peptidase I
+smn:SMA_0904	CDS	896714..898528	glmS; Glucosamine--fructose-6-phosphate aminotransferase [isomerizing]
+smn:SMA_0905	gene	899051..900829	pseudogene
+smn:SMA_0906	gene	900855..902027	pseudogene
+smn:SMA_0907	CDS	complement(902036..902584)	Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_0908	CDS	complement(902649..903344)	Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_0909	gene	903345..903476	pseudogene
+smn:SMA_0910	CDS	903648..904496	Hypothetical protein
+smn:SMA_0911	CDS	904524..905069	Substrate-specific component MtsA of methionine-regulated ECF transporter
+smn:SMA_0912	CDS	905263..906246	Rhodanese domain protein, Firmicutes subgroup
+smn:SMA_0913	CDS	906391..908061	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+smn:SMA_0914	CDS	908061..908894	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+smn:SMA_0915	CDS	909054..909257	cspA; Cold shock protein
+smn:SMA_0916	CDS	complement(909332..910588)	Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_0917	CDS	910636..911463	Mannitol operon activator, BglG family
+smn:SMA_0918	CDS	911652..911981	phnA; Alkylphosphonate utilization operon protein PhnA
+smn:SMA_0919	CDS	912167..912808	ABC transporter membrane-spanning permease-glutamine transport
+smn:SMA_0920	CDS	912820..913449	glnQ; ABC-type polar amino acid transport system, ATPase component
+smn:SMA_0921	CDS	913473..914315	Amino acid ABC transporter, amino acid-binding protein
+smn:SMA_0922	CDS	complement(914385..915602)	Cobalt-zinc-cadmium resistance protein
+smn:SMA_0923	CDS	complement(915718..916671)	insI1; Transposase IS1239
+smn:SMA_0924	CDS	complement(916861..918189)	Sodium/glycine symporter GlyP
+smn:SMA_0925	CDS	918348..918542	Hypothetical protein
+smn:SMA_0926	CDS	918640..918876	6-phospho-beta-glucosidase
+smn:SMA_0927	CDS	918836..920100	6-phospho-beta-glucosidase
+smn:SMA_0928	gene	920164..920779	pseudogene
+smn:SMA_0929	CDS	920782..921405	gpmB; Phosphoglycerate mutase family
+smn:SMA_0930	CDS	921398..921925	cobC; Phosphoglycerate mutase family
+smn:SMA_0931	CDS	922092..923210	Permease
+smn:SMA_0932	CDS	923217..924056	UDP-galactose:(galactosyl) LPS alpha1,2-galactosyltransferase WaaW
+smn:SMA_0933	CDS	924103..924783	radC; DNA repair protein RadC
+smn:SMA_0934	CDS	complement(924920..925567)	rex; Redox-sensitive transcriptional regulator (AT-rich DNA-binding protein)
+smn:SMA_0935	CDS	complement(925713..926060)	Hypothetical protein
+smn:SMA_0936	CDS	complement(926050..927177)	iscS1; Cysteine desulfurase
+smn:SMA_0937	CDS	complement(927185..928156)	prs; Ribose-phosphate pyrophosphokinase
+smn:SMA_0938	CDS	complement(928242..928811)	Adenylate cyclase
+smn:SMA_0939	CDS	928941..929609	yjbM; GTP pyrophosphokinase
+smn:SMA_0940	CDS	929584..930420	NAD kinase
+smn:SMA_0941	CDS	930417..931307	yjbO; Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YjbO type
+smn:SMA_0942	CDS	931324..932322	pta; Phosphate acetyltransferase
+smn:SMA_0943	CDS	932390..933145	Short chain dehydrogenase
+smn:SMA_0944	CDS	complement(933175..933573)	Hypothetical protein
+smn:SMA_0945	gene	933746..934584	pseudogene
+smn:SMA_0946	CDS	934711..935145	Hypothetical protein
+smn:SMA_0947	gene	935217..935849	pseudogene
+smn:SMA_0948	gene	935972..936277	pseudogene
+smn:SMA_0949	gene	936278..937390	pseudogene
+smn:SMA_0950	gene	complement(937452..937586)	pseudogene
+smn:SMA_0951	CDS	complement(937587..938108)	ABC transporter, ATP-binding protein Vex2
+smn:SMA_0952	gene	complement(938122..939696)	pseudogene
+smn:SMA_0953	CDS	940046..941029	guaC; GMP reductase
+smn:SMA_0954	CDS	complement(941121..942377)	tnpA; Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_0955	gene	942394..942570	pseudogene
+smn:SMA_0956	gene	942594..942905	pseudogene
+smn:SMA_0957	CDS	942935..943027	Hypothetical protein
+smn:SMA_0958	CDS	943399..943980	xpt; Xanthine phosphoribosyltransferase
+smn:SMA_0959	CDS	943973..945262	pbuX; Xanthine permease
+smn:SMA_0960	CDS	complement(945311..946249)	apbE; Hypothetical similar to thiamin biosynthesis lipoprotein ApbE
+smn:SMA_0961	CDS	complement(946381..946566)	4-oxalocrotonate tautomerase; Xylose transport system permease protein xylH
+smn:SMA_0962	CDS	complement(946671..946880)	Hypothetical protein
+smn:SMA_0963	CDS	947341..947931	tdk; Thymidine kinase
+smn:SMA_0964	CDS	947970..949049	prfA; Peptide chain release factor 1
+smn:SMA_0965	CDS	949049..949879	Methylase of polypeptide chain release factors
+smn:SMA_0966	CDS	949872..950471	YrdC/Sua5 family protein, required for threonylcarbamoyladenosine (t(6)A) formation in tRNA
+smn:SMA_0967	CDS	950575..951825	glyA; Serine hydroxymethyltransferase
+smn:SMA_0968	CDS	951870..952847	Pseudouridylate synthases, 23S RNA-specific
+smn:SMA_0969	CDS	952847..953449	pvaA; Pneumococcal vaccine antigen A homolog
+smn:SMA_0970	CDS	953489..955213	ABC transporter, ATP-binding/permease protein
+smn:SMA_0971	CDS	955215..956951	ABC transporter, ATP-binding/permease protein
+smn:SMA_0972	CDS	complement(957090..958544)	amyA; Cytoplasmic alpha-amylase
+smn:SMA_0973	gene	958704..958910	pseudogene
+smn:SMA_0974	CDS	958858..959124	Hypothetical protein
+smn:SMA_0975	CDS	959167..959298	Hypothetical protein
+smn:SMA_0976	CDS	complement(959359..959967)	Immunoreactive protein Se23.5
+smn:SMA_0977	CDS	960335..961897	guaA; GMP synthase [glutamine-hydrolyzing]
+smn:SMA_0978	CDS	962122..964155	Type III restriction-modification system methylation subunit
+smn:SMA_0979	CDS	964157..966943	hsdR; Type III restriction-modification system DNA endonuclease res
+smn:SMA_0980	CDS	966945..967721	Hypothetical protein
+smn:SMA_0981	gene	complement(967711..967839)	pseudogene
+smn:SMA_0982	CDS	967853..969109	tnpA; Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_0983	CDS	969352..969672	Hypothetical protein
+smn:SMA_0984	CDS	969672..970742	FtsK/SpoIIIE family
+smn:SMA_0985	CDS	970744..971331	Hypothetical protein
+smn:SMA_0986	CDS	971459..972070	repB; Replication protein RepB
+smn:SMA_0987	CDS	972063..972269	Hypothetical protein
+smn:SMA_0988	CDS	972271..973503	int; site-specific recombinase, phage integrase family
+smn:SMA_0989	gene	complement(973728..974675)	pseudogene
+smn:SMA_0990	CDS	974905..975294	surface protein D
+smn:SMA_0991	CDS	975349..975876	Hypothetical protein
+smn:SMA_0992	CDS	975966..977291	Na+ driven multidrug efflux pump
+smn:SMA_0993	gene	977514..977681	pseudogene
+smn:SMA_0994	CDS	977824..979419	Type I restriction-modification system, DNA-methyltransferase subunit M
+smn:SMA_0995	CDS	979421..980005	Type I restriction-modification system, specificity subunit S
+smn:SMA_0996	CDS	980012..982957	hsdR; Type I restriction-modification system, restriction subunit R
+smn:SMA_0997	CDS	complement(983002..983937)	Integrase
+smn:SMA_0998	CDS	complement(983991..985601)	Type I restriction-modification system, specificity subunit S
+smn:SMA_0999	CDS	985844..986542	Transcriptional regulator in cluster with beta-lactamase, GntR family
+smn:SMA_1000	CDS	986561..986725	Hypothetical protein
+smn:SMA_1001	CDS	complement(986855..987475)	Transcriptional regulator
+smn:SMA_1002	gene	987446..987736	yhhX; pseudogene
+smn:SMA_1003	CDS	complement(987801..988058)	YoeB toxin protein
+smn:SMA_1004	CDS	complement(988051..988233)	YefM protein (antitoxin to YoeB)
+smn:SMA_1005	CDS	988335..988667	Signal recognition particle associated protein
+smn:SMA_1006	CDS	988738..990303	ffh; Signal recognition particle, subunit Ffh SRP54
+smn:SMA_1007	CDS	990859..991557	Hypothetical protein
+smn:SMA_1008	CDS	991545..991775	Duplicated ATPase component BL0693 of energizing module of predicted ECF transporter
+smn:SMA_1009	CDS	991882..992400	Duplicated ATPase component BL0693 of energizing module of predicted ECF transporter
+smn:SMA_1010	CDS	992678..993748	xerC; Tyrosine recombinase XerC
+smn:SMA_1011	CDS	complement(993856..994536)	Pleiotropic regulator of exopolysaccharide synthesis, competence and biofilm formation Ftr, XRE family
+smn:SMA_1012	CDS	complement(994619..995566)	Two-component system histidine kinase
+smn:SMA_1013	CDS	complement(995563..996261)	Two-component response regulator YvcP
+smn:SMA_1014	CDS	complement(996313..998292)	ABC transporter ATP-binding protein
+smn:SMA_1015	CDS	complement(998294..999046)	ABC transporter ATP-binding protein
+smn:SMA_1016	CDS	complement(999541..1000371)	Hypothetical protein
+smn:SMA_1017	CDS	complement(1000404..1001741)	tRNA:m(5)U-54 MTase gid
+smn:SMA_1018	gene	complement(1001953..1002673)	pseudogene
+smn:SMA_1019	gene	complement(1002673..1003321)	pseudogene
+smn:SMA_1020	CDS	complement(1003458..1005599)	topA; DNA topoisomerase I
+smn:SMA_1021	CDS	complement(1005694..1006536)	smf; Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+smn:SMA_1022	CDS	complement(1006610..1007161)	maa; Maltose O-acetyltransferase
+smn:SMA_1023	CDS	complement(1007163..1007942)	rnhB; Ribonuclease HII
+smn:SMA_1024	CDS	complement(1007929..1008783)	rbgA; 50S ribosomal subunit maturation GTPase RbgA
+smn:SMA_1025	CDS	1009027..1009437	Hypothetical protein
+smn:SMA_1026	CDS	complement(1009630..1009947)	Hypothetical protein
+smn:SMA_1027	CDS	complement(1010120..1010269)	Hypothetical protein
+smn:SMA_1028	CDS	complement(1010465..1012003)	ABC transporter ATP-binding protein
+smn:SMA_1029	CDS	complement(1012173..1012727)	Substrate-specific component PdxU of predicted pyridoxine ECF transporter
+smn:SMA_1030	CDS	complement(1012724..1013584)	Pyridoxal kinase
+smn:SMA_1031	CDS	1013710..1014969	Predicted transcriptional regulator of pyridoxine metabolism
+smn:SMA_1032	CDS	complement(1015050..1015985)	dapA; Dihydrodipicolinate synthase
+smn:SMA_1033	CDS	complement(1016088..1017164)	asd; Aspartate-semialdehyde dehydrogenase
+smn:SMA_1034	CDS	complement(1017511..1019094)	cls; Cardiolipin synthetase
+smn:SMA_1035	CDS	complement(1019213..1020883)	fhs; Formate--tetrahydrofolate ligase
+smn:SMA_1036	CDS	complement(1021017..1021130)	Hypothetical protein
+smn:SMA_1037	CDS	1021424..1022110	Phosphopantothenoylcysteine synthetase
+smn:SMA_1038	CDS	1022103..1022648	Phosphopantothenoylcysteine decarboxylase
+smn:SMA_1039	CDS	1022760..1023332	Substrate-specific component PanT of predicted pantothenate ECF transporter
+smn:SMA_1040	CDS	1023575..1025290	pgcA; Phosphoglucomutase
+smn:SMA_1041	CDS	complement(1025472..1026731)	Mn2+ and Fe2+ transporters of the NRAMP family
+smn:SMA_1042	CDS	complement(1026904..1027881)	Extracellular protein
+smn:SMA_1043	CDS	complement(1027960..1028373)	Hypothetical protein YaeR with similarity to glyoxylase family
+smn:SMA_1044	CDS	complement(1028431..1029177)	Sortase A, LPXTG specific
+smn:SMA_1045	CDS	complement(1029179..1031635)	gyrA; DNA gyrase subunit A
+smn:SMA_1046	CDS	1032112..1032441	Transposase
+smn:SMA_1047	CDS	1032438..1032824	Probable transposase for insertion-like sequence element IS1161
+smn:SMA_1048	CDS	1032993..1033982	ldh; L-lactate dehydrogenase
+smn:SMA_1049	CDS	complement(1034043..1035410)	NADH oxidase H2O-forming
+smn:SMA_1050	CDS	complement(1035541..1035918)	Transposase
+smn:SMA_1051	CDS	complement(1035897..1036148)	Hypothetical protein
+smn:SMA_1052	gene	complement(1036280..1036435)	pseudogene
+smn:SMA_1053	gene	complement(1036399..1036671)	pseudogene
+smn:SMA_1054	gene	complement(1036630..1036782)	pseudogene
+smn:SMA_1055	CDS	complement(1036854..1037810)	putative deoxyribose-specific ABC transporter, permease protein
+smn:SMA_1056	CDS	complement(1037812..1038864)	putative deoxyribose-specific ABC transporter, permease protein
+smn:SMA_1057	CDS	complement(1038857..1040395)	putative deoxyribose-specific ABC transporter, ATP-binding protein
+smn:SMA_1058	CDS	complement(1040559..1041623)	Nucleoside-binding protein
+smn:SMA_1059	CDS	complement(1041812..1042474)	deoC; Deoxyribose-phosphate aldolase
+smn:SMA_1060	CDS	complement(1042705..1042821)	Hypothetical protein
+smn:SMA_1061	CDS	complement(1042965..1043558)	Ribosomal RNA small subunit methyltransferase C
+smn:SMA_1062	CDS	1043672..1044592	coaA; Pantothenate kinase
+smn:SMA_1063	CDS	1044682..1044918	rpsT; SSU ribosomal protein S20p
+smn:SMA_1064	CDS	complement(1045055..1046395)	ciaH; Two component system sensor histidine kinase CiaH
+smn:SMA_1065	CDS	complement(1046385..1047059)	ciaR; Two component system response regulator CiaR
+smn:SMA_1066	CDS	complement(1047257..1049800)	pepN; Lysyl aminopeptidase
+smn:SMA_1067	gene	complement(1049973..1050077)	pseudogene
+smn:SMA_1068	CDS	1050101..1051357	tnpA; putative transposase
+smn:SMA_1069	CDS	complement(1051441..1052094)	phoU; Phosphate transport system regulatory protein PhoU
+smn:SMA_1070	CDS	complement(1052125..1052883)	pstB1; Phosphate transport ATP-binding protein PstB
+smn:SMA_1071	CDS	complement(1052895..1053698)	pstB2; Phosphate transport ATP-binding protein PstB
+smn:SMA_1072	CDS	complement(1053709..1054596)	Phosphate transport system permease protein PstA
+smn:SMA_1073	CDS	complement(1054586..1055503)	Phosphate transport system permease protein PstC
+smn:SMA_1074	CDS	complement(1055513..1056379)	pstS1; Phosphate ABC transporter, periplasmic phosphate-binding protein PstS
+smn:SMA_1075	CDS	complement(1056523..1057833)	tRNA and rRNA cytosine-C5-methylase
+smn:SMA_1076	CDS	complement(1057942..1058247)	Hypothetical prtoein
+smn:SMA_1077	CDS	complement(1058204..1058380)	Hypothetical protein
+smn:SMA_1078	CDS	complement(1058509..1059864)	gor; Glutathione reductase
+smn:SMA_1079	CDS	complement(1059877..1060248)	putative bacterocin transport accessory protein, Bta
+smn:SMA_1080	CDS	complement(1060385..1060648)	Hypothetical protein
+smn:SMA_1081	CDS	complement(1060785..1061610)	Predicted divalent heavy-metal cations transporter
+smn:SMA_1082	CDS	complement(1061719..1062276)	DNA-3-methyladenine glycosylase
+smn:SMA_1083	CDS	complement(1062294..1063052)	suhB; Inositol-1-monophosphatase
+smn:SMA_1084	CDS	complement(1063042..1063317)	Hypothetical protein
+smn:SMA_1085	CDS	complement(1063401..1063805)	spxA; Transcriptional regulator SpxA1
+smn:SMA_1086	CDS	complement(1063848..1064789)	Riboflavin kinase/FMN adenylyltransferase
+smn:SMA_1087	CDS	complement(1064796..1065674)	truB; tRNA pseudouridine synthase
+smn:SMA_1088	CDS	complement(1065760..1067115)	Hypothetical protein
+smn:SMA_1089	CDS	complement(1067108..1067347)	Hypothetical protein
+smn:SMA_1090	CDS	complement(1067429..1067773)	Acetyltransferase, GNAT family
+smn:SMA_1091	CDS	complement(1067912..1069426)	Hypothetical protein
+smn:SMA_1092	CDS	complement(1069506..1070102)	Type I restriction-modification system specificity subunit
+smn:SMA_1093	gene	complement(1070281..1070418)	pseudogene
+smn:SMA_1094	CDS	complement(1070412..1070945)	ABC transporter ATP-binding protein YvcR
+smn:SMA_1095	CDS	1071086..1071634	Transcriptional regulator, TetR family
+smn:SMA_1096	CDS	1071780..1073036	tnpA; IS1167, transposase
+smn:SMA_1097	CDS	complement(1073097..1073588)	tpx; Thiol peroxidase, Tpx-type
+smn:SMA_1098	CDS	complement(1073813..1074583)	Hypothetical protein
+smn:SMA_1099	CDS	complement(1074780..1076060)	O-acetylhomoserine sulfhydrylase/O-succinylhomoserine sulfhydrylase
+smn:SMA_1100	CDS	complement(1076214..1076597)	thiE; Thiamin-phosphate pyrophosphorylase
+smn:SMA_1101	CDS	1076651..1077304	Transporter, putative
+smn:SMA_1102	gene	1077305..1077914	pseudogene
+smn:SMA_1103	CDS	complement(1077973..1080288)	pcrA; ATP-dependent DNA helicase UvrD/PcrA
+smn:SMA_1104	CDS	complement(1080515..1081000)	pdxT; Pyridoxine biosynthesis glutamine amidotransferase, glutaminase subunit
+smn:SMA_1105	CDS	complement(1081012..1081824)	Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit
+smn:SMA_1106	gene	complement(1081796..1081888)	pseudogene
+smn:SMA_1107	CDS	1082008..1083393	Predicted transcriptional regulator of pyridoxine metabolism
+smn:SMA_1108	CDS	1083892..1085220	Sodium/glycine symporter GlyP
+smn:SMA_1109	CDS	1085416..1085865	Hypothetical protein
+smn:SMA_1110	gene	complement(1085899..1086261)	pseudogene
+smn:SMA_1111	CDS	complement(1086353..1087009)	N-Acetylneuraminate cytidylyltransferase/Platelet activating factor
+smn:SMA_1112	gene	complement(1087021..1087833)	pseudogene
+smn:SMA_1113	CDS	complement(1087830..1088648)	Hydrolase (HAD superfamily)
+smn:SMA_1114	CDS	complement(1088786..1089322)	maa; Maltose O-acetyltransferase
+smn:SMA_1115	gene	complement(1089250..1090090)	pseudogene
+smn:SMA_1116	CDS	1090272..1090499	Short-chain dehydrogenase/oxidoreductase
+smn:SMA_1117	gene	complement(1090502..1091115)	bglA; pseudogene
+smn:SMA_1118	CDS	complement(1091214..1092785)	ubiB; Ubiquinone biosynthesis monooxygenase UbiB
+smn:SMA_1119	CDS	complement(1092794..1093087)	Hypothetical protein
+smn:SMA_1120	CDS	1093539..1094462	Transcriptional regulator, AraC family
+smn:SMA_1121	CDS	complement(1094655..1095452)	insK; Transposase
+smn:SMA_1122	CDS	complement(1095488..1096003)	Transposase
+smn:SMA_1123	CDS	complement(1096079..1097980)	bglP; PTS system, beta-glucoside-specific IIB component/PTS system, beta-glucoside-specific IIC component/PTS system, beta-glucoside-specific IIA component
+smn:SMA_1124	gene	complement(1098170..1098292)	pseudogene
+smn:SMA_1125	CDS	1098316..1098744	IS1193, transposase, ISL3 family
+smn:SMA_1126	CDS	complement(1098703..1098870)	Beta-glucoside bgl operon antiterminator, BglG family
+smn:SMA_1127	CDS	complement(1099067..1100599)	clcA; Voltage-gated chloride channel family protein
+smn:SMA_1128	CDS	complement(1100753..1101826)	potD; ABC transporter, periplasmic spermidine putrescine-binding protein PotD
+smn:SMA_1129	CDS	complement(1101819..1102607)	potC; Spermidine Putrescine ABC transporter permease component potC
+smn:SMA_1130	CDS	complement(1102604..1103398)	potB; Spermidine Putrescine ABC transporter permease component PotB
+smn:SMA_1131	CDS	complement(1103382..1104536)	potA; Putrescine transport ATP-binding protein PotA
+smn:SMA_1132	CDS	complement(1104564..1105475)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+smn:SMA_1133	CDS	complement(1105595..1106074)	folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridinepyrophosphokinase
+smn:SMA_1134	CDS	complement(1106071..1106433)	folB; Dihydroneopterin aldolase
+smn:SMA_1135	CDS	complement(1106500..1107300)	folP; Dihydropteroate synthase
+smn:SMA_1136	CDS	complement(1107338..1107901)	folE; GTP cyclohydrolase I type 1
+smn:SMA_1137	CDS	complement(1107938..1109191)	folC; Dihydrofolate synthase/Folylpolyglutamate synthase
+smn:SMA_1138	CDS	complement(1109804..1110682)	Amino acid ABC transporter, periplasmic amino acid-binding protein
+smn:SMA_1139	CDS	complement(1110716..1111462)	Amino acid ABC transporter, ATP-binding protein
+smn:SMA_1140	CDS	complement(1111468..1112145)	glnP; Glutamine transport system permease protein GlnP
+smn:SMA_1141	CDS	complement(1112105..1112788)	ABC transporter membrane-spanning permease-glutamine transport
+smn:SMA_1142	CDS	complement(1112952..1113323)	Para-aminobenzoate synthase, aminase component/Aminodeoxychorismate lyase
+smn:SMA_1143	CDS	complement(1113490..1114668)	padB; Para-aminobenzoate synthase, aminase component/Aminodeoxychorismate lyase
+smn:SMA_1144	CDS	complement(1114668..1115558)	RarD protein
+smn:SMA_1145	CDS	complement(1115545..1116411)	thrB; Homoserine kinase
+smn:SMA_1146	CDS	complement(1116469..1117755)	hom; Homoserine dehydrogenase
+smn:SMA_1147	CDS	1117978..1118928	Polysaccharide deacetylase
+smn:SMA_1148	CDS	complement(1118999..1119178)	Hypothetical protein
+smn:SMA_1149	gene	1119506..1120101	pseudogene
+smn:SMA_1150	CDS	complement(1120475..1120864)	IS1191, transposase, IS256 family
+smn:SMA_1151	CDS	complement(1121015..1121527)	IS1191, transposase, IS256 family
+smn:SMA_1152	gene	complement(1121635..1121823)	pseudogene
+smn:SMA_1153	CDS	complement(1122051..1123256)	int; Site-specific recombinase, phage integrase family
+smn:SMA_1154	CDS	complement(1123259..1123507)	Hypothetical protein
+smn:SMA_1155	CDS	complement(1123777..1124001)	Hypothetical protein
+smn:SMA_1156	CDS	complement(1124249..1125145)	lacX; LacX protein, plasmid
+smn:SMA_1157	CDS	complement(1125233..1126639)	lacG2; 6-phospho-beta-galactosidase
+smn:SMA_1158	CDS	complement(1126742..1128442)	lacE; PTS system, lactose-specific IIB component/PTS system, lactose-specific IIC component
+smn:SMA_1159	CDS	complement(1128442..1128759)	lacF; PTS system, lactose-specific IIA component
+smn:SMA_1160	CDS	complement(1128787..1129767)	lacD; Tagatose 1,6-diphosphate aldolase
+smn:SMA_1161	CDS	complement(1129770..1130702)	lacC; Tagatose-6-phosphate kinase (EC 2.7.1.144)
+smn:SMA_1162	CDS	complement(1130714..1131229)	lacB; Galactose-6-phosphate isomerase, LacB subunit
+smn:SMA_1163	CDS	complement(1131263..1131688)	lacA1; Galactose-6-phosphate isomerase, LacA subunit
+smn:SMA_1164	CDS	complement(1131932..1132882)	glcK; Glucokinase
+smn:SMA_1165	CDS	1133063..1133824	lacR; Lactose phosphotransferase system repressor
+smn:SMA_1166	CDS	1133855..1134259	2-haloalkanoic acid dehalogenase
+smn:SMA_1167	gene	1134262..1134546	pseudogene
+smn:SMA_1168	CDS	complement(1134675..1135202)	Hypothetical protein
+smn:SMA_1169	CDS	complement(1135199..1135372)	Hypothetical protein
+smn:SMA_1170	CDS	complement(1135699..1136880)	int; Integrase
+smn:SMA_1171	CDS	complement(1136870..1137130)	Hypothetical protein
+smn:SMA_1172	CDS	complement(1137134..1137613)	Replication protein RepB
+smn:SMA_1173	CDS	complement(1137627..1141235)	Hypothetical protein
+smn:SMA_1174	CDS	complement(1141512..1141877)	rplL; LSU ribosomal protein L7/L12 (P1/P2)
+smn:SMA_1175	CDS	complement(1141957..1142460)	rplJ; LSU ribosomal protein L10p (P0)
+smn:SMA_1176	gene	1142767..1143048	pseudogene
+smn:SMA_1177	CDS	1143049..1143216	Hypothetical protein
+smn:SMA_1178	CDS	1143644..1145752	clpC; putative ATP-dependent Clp proteinase (ATP-binding subunit)
+smn:SMA_1179	CDS	1146055..1146507	Endonuclease III
+smn:SMA_1180	CDS	1146598..1147242	Membrane protein, putative
+smn:SMA_1181	CDS	complement(1147327..1148274)	ybgG; Homocysteine S-methyltransferase
+smn:SMA_1182	CDS	complement(1148287..1149663)	Amino acid permease
+smn:SMA_1183	CDS	complement(1149962..1150555)	engB; GTP-binding protein EngB
+smn:SMA_1184	CDS	complement(1150566..1151795)	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX
+smn:SMA_1185	CDS	complement(1151828..1151998)	Hypothetical protein
+smn:SMA_1186	CDS	complement(1152015..1152509)	dhfR; Dihydrofolate reductase
+smn:SMA_1187	CDS	complement(1152597..1153436)	thyA; Thymidylate synthase
+smn:SMA_1188	CDS	1153758..1154936	Hydroxymethylglutaryl-CoA synthase
+smn:SMA_1189	CDS	1154911..1156194	mvaA; Hydroxymethylglutaryl-CoA reductase
+smn:SMA_1190	CDS	1156370..1156813	Hypothetical protein
+smn:SMA_1191	CDS	1156803..1157459	yqfA; Hemolysin III
+smn:SMA_1192	CDS	complement(1157499..1158497)	fni; Isopentenyl-diphosphate delta-isomerase, FMN-dependent
+smn:SMA_1193	CDS	complement(1158539..1159546)	Phosphomevalonate kinase
+smn:SMA_1194	CDS	complement(1159533..1160483)	Diphosphomevalonate decarboxylase
+smn:SMA_1195	CDS	complement(1160465..1161343)	mvk; Mevalonate kinase
+smn:SMA_1196	CDS	complement(1161635..1162312)	Glutathione S-transferase, omega
+smn:SMA_1197	CDS	complement(1162345..1162905)	Cysteine ABC transporter, substrate-binding protein
+smn:SMA_1198	CDS	complement(1163057..1163815)	putative amino acid ABC transporter, ATP-binding protein
+smn:SMA_1199	CDS	complement(1163836..1164516)	Hypothetical protein
+smn:SMA_1200	CDS	complement(1164526..1165218)	Hypothetical protein
+smn:SMA_1201	CDS	complement(1165228..1166106)	Hypothetical protein
+smn:SMA_1202	CDS	complement(1166133..1167134)	Hypothetical protein
+smn:SMA_1203	CDS	1167714..1168619	Transcriptional regulator, LysR family
+smn:SMA_1204	CDS	1168683..1169522	Oxidoreductase, aldo/keto reductase family
+smn:SMA_1205	gene	complement(1169602..1170228)	res; pseudogene
+smn:SMA_1206	gene	complement(1170191..1170502)	mod; pseudogene
+smn:SMA_1207	gene	complement(1170518..1170757)	pseudogene
+smn:SMA_1208	CDS	complement(1171157..1172812)	hsdM; Type I restriction-modification system, DNA-methyltransferase subunit M
+smn:SMA_1209	CDS	complement(1172908..1174083)	Type I restriction-modification system, specificity subunit S
+smn:SMA_1210	CDS	complement(1174139..1177225)	hsdR; Type I restriction-modification system, restriction subunit R
+smn:SMA_1211	CDS	complement(1177218..1177817)	putative DNA binding protein HsdIA
+smn:SMA_1212	CDS	complement(1178466..1179695)	Two component system histidine kinase
+smn:SMA_1213	CDS	complement(1179704..1180384)	Two-component response regulator
+smn:SMA_1214	CDS	complement(1180414..1181037)	GTP pyrophosphokinase
+smn:SMA_1215	CDS	complement(1181173..1181799)	L-proline glycine betaine binding ABC transporter protein ProX/Osmotic adaptation
+smn:SMA_1216	CDS	complement(1181792..1182565)	L-proline glycine betaine ABC transport system permease protein ProV
+smn:SMA_1217	CDS	complement(1182578..1183498)	L-proline glycine betaine binding ABC transporter protein ProX/Osmotic adaptation
+smn:SMA_1218	CDS	complement(1183488..1184123)	L-proline glycine betaine binding ABC transporter protein ProX/Osmotic adaptation
+smn:SMA_1219	CDS	complement(1184113..1184565)	Hypothetical protein
+smn:SMA_1220	gene	complement(1184555..1185489)	pseudogene
+smn:SMA_1221	CDS	complement(1185803..1187575)	Multidrug ABC exporter (DrugE2) family, ATP binding/membrane-spanning protein
+smn:SMA_1222	CDS	complement(1187565..1189379)	Lipid A export ATP-binding/permease protein MsbA
+smn:SMA_1223	CDS	complement(1189383..1189823)	Transcriptional regulator, MarR family
+smn:SMA_1224	CDS	complement(1189999..1190409)	def; Peptide deformylase
+smn:SMA_1225	CDS	complement(1190484..1190915)	rimI; Acetyltransferase, GNAT family
+smn:SMA_1226	CDS	complement(1191193..1192545)	gdh; NADP-specific glutamate dehydrogenase
+smn:SMA_1227	CDS	1192976..1193473	Membrane protein, putative
+smn:SMA_1228	CDS	complement(1193529..1194020)	queF; NADPH dependent preQ0 reductase
+smn:SMA_1229	CDS	complement(1194033..1194746)	queE; Queuosine Biosynthesis QueE Radical SAM
+smn:SMA_1230	CDS	complement(1194739..1195185)	queD; Queuosine biosynthesis QueD, PTPS-I
+smn:SMA_1231	CDS	complement(1195178..1195837)	queC; Queuosine Biosynthesis QueC ATPase
+smn:SMA_1232	CDS	complement(1196082..1197848)	ABC transporter, ATP-binding/permease protein
+smn:SMA_1233	CDS	complement(1197851..1199590)	ABC transporter, ATP-binding/permease protein
+smn:SMA_1234	CDS	complement(1199668..1201539)	COG0488: ATPase components of ABC transporters with duplicated ATPase domains
+smn:SMA_1235	CDS	complement(1201536..1202741)	tRNA nucleotidyltransferase
+smn:SMA_1236	CDS	complement(1202738..1203505)	dapB; Dihydrodipicolinate reductase
+smn:SMA_1237	CDS	complement(1203525..1204373)	DegV family protein
+smn:SMA_1238	CDS	complement(1204373..1204753)	Hypothetical protein
+smn:SMA_1239	CDS	complement(1204880..1205548)	flgJ; Peptidoglycan hydrolase, Autolysin2
+smn:SMA_1240	gene	complement(1205974..1206924)	pseudogene
+smn:SMA_1241	CDS	complement(1207130..1208986)	5,10-methylenetetrahydrofolate reductase/Homolog of homocysteine-binding domain
+smn:SMA_1242	CDS	complement(1209000..1211234)	metE; 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+smn:SMA_1243	CDS	complement(1211451..1213421)	fruA; PTS system, fructose-specific IIA component/PTS system, fructose-specific IIB component/PTS system, fructose-specific IIC component
+smn:SMA_1244	CDS	complement(1213418..1214329)	fruK; 1-phosphofructokinase
+smn:SMA_1245	CDS	complement(1214326..1215075)	fruR; Transcriptional repressor of the fructose operon, DeoR family
+smn:SMA_1246	CDS	complement(1215327..1216337)	trxB; Thioredoxin reductase
+smn:SMA_1247	CDS	complement(1216338..1216850)	Glutamate-rich protein grpB
+smn:SMA_1248	CDS	complement(1216902..1217639)	trmD; tRNA (Guanine-N1)-methyltransferase
+smn:SMA_1249	CDS	complement(1217629..1218147)	rimM; 16S rRNA processing protein RimM
+smn:SMA_tRNA_62	tRNA	complement(1218229..1218300)	tRNA-Glu
+smn:SMA_tRNA_63	tRNA	complement(1218331..1218402)	tRNA-Gln
+smn:SMA_1250	CDS	complement(1218594..1221200)	Probable cation-transporting ATPase
+smn:SMA_1251	CDS	complement(1221429..1221671)	KH domain RNA binding protein YlqC
+smn:SMA_1252	CDS	complement(1221696..1221968)	rpsP; SSU ribosomal protein S16p
+smn:SMA_1253	gene	complement(1222122..1222559)	pseudogene
+smn:SMA_1254	gene	complement(1222519..1222992)	pseudogene
+smn:SMA_1255	CDS	complement(1223088..1223837)	Protein-L-isoD(D-D) O-methyltransferase
+smn:SMA_1256	CDS	complement(1223891..1224444)	Hypothetical protein
+smn:SMA_1257	CDS	complement(1224529..1225761)	ABC transporter permease protein
+smn:SMA_1258	CDS	complement(1225773..1226483)	ABC transporter ATP-binding protein
+smn:SMA_1259	CDS	complement(1226483..1227712)	Periplasmic component of efflux system
+smn:SMA_1260	CDS	complement(1227957..1231136)	carB; Carbamoyl-phosphate synthase large chain
+smn:SMA_1261	CDS	complement(1231305..1232393)	carA; Carbamoyl-phosphate synthase small chain
+smn:SMA_1262	CDS	complement(1232473..1233399)	pyrB; Aspartate carbamoyltransferase
+smn:SMA_1263	CDS	complement(1233404..1234666)	pyrP; Uracil permease
+smn:SMA_1264	CDS	complement(1234698..1235219)	pyrR; Uracil phosphoribosyltransferase/Pyrimidine operon regulatory protein PyrR
+smn:SMA_1265	CDS	complement(1235474..1236370)	Ribosomal large subunit pseudouridine synthase D
+smn:SMA_1266	CDS	complement(1236354..1236827)	lspA; Lipoprotein signal peptidase
+smn:SMA_1267	CDS	complement(1236824..1237741)	Cysteine and methionine metabolism regulator CmbR, LysR family
+smn:SMA_1268	CDS	complement(1237963..1238256)	rpmA; LSU ribosomal protein L27p
+smn:SMA_1269	CDS	complement(1238278..1238613)	Potential ribosomal protein
+smn:SMA_1270	CDS	complement(1238626..1238940)	rplU; LSU ribosomal protein L21p
+smn:SMA_1271	CDS	complement(1239134..1239679)	Hypothetical protein
+smn:SMA_1272	CDS	complement(1239670..1240884)	capA; Capsule biosynthesis protein CapA
+smn:SMA_1273	CDS	complement(1240990..1242204)	Thiamine biosynthesis protein ThiI
+smn:SMA_1274	CDS	complement(1242242..1243387)	Cysteine desulfurase
+smn:SMA_1275	CDS	1243584..1244048	Histone acetyltransferase Gcn5
+smn:SMA_1276	CDS	1244187..1245431	folC; Dihydrofolate synthase/Folylpolyglutamate synthase
+smn:SMA_1277	CDS	complement(1245468..1246385)	L-lactate dehydrogenase
+smn:SMA_1278	CDS	complement(1246483..1246821)	putative transcriptional regulator
+smn:SMA_1279	CDS	complement(1246833..1247939)	tyrA; Prephenate dehydrogenase
+smn:SMA_1280	CDS	complement(1248020..1249186)	aroC; Chorismate synthase
+smn:SMA_1281	CDS	complement(1249188..1250255)	aroB; 3-dehydroquinate synthase
+smn:SMA_1282	CDS	complement(1250278..1251147)	aroE; Shikimate/quinate 5-dehydrogenase I beta
+smn:SMA_1283	CDS	complement(1251137..1251814)	aroD; 3-dehydroquinate dehydratase I
+smn:SMA_1284	CDS	complement(1251811..1252983)	LSU m5C1962 methyltransferase RlmI
+smn:SMA_1285	CDS	1253112..1253822	Hypothetical protein
+smn:SMA_1286	CDS	1254064..1255184	putative integrase
+smn:SMA_1287	CDS	1255384..1257531	ltaS1; Lipoteichoic acid synthase LtaS Type IIc
+smn:SMA_1288	CDS	complement(1257658..1257828)	Hypothetical protein
+smn:SMA_1289	CDS	complement(1257919..1259196)	Maturase-related protein
+smn:SMA_1290	CDS	complement(1259790..1260149)	rplT; LSU ribosomal protein L20p
+smn:SMA_1291	CDS	complement(1260201..1260401)	rpmI; LSU ribosomal protein L35p
+smn:SMA_1292	CDS	complement(1260439..1260969)	infC; Translation initiation factor 3
+smn:SMA_1293	CDS	complement(1261135..1261815)	cmk; Cytidylate kinase
+smn:SMA_1294	CDS	complement(1261831..1262325)	Hypothetical protein
+smn:SMA_1295	CDS	1262370..1262567	Hypothetical protein
+smn:SMA_1296	CDS	complement(1262557..1263045)	Pore forming protein EbsA
+smn:SMA_1297	CDS	complement(1263099..1264316)	Tripeptide aminopeptidase
+smn:SMA_1298	CDS	complement(1264526..1265107)	Hypothetical protein
+smn:SMA_1299	CDS	complement(1265120..1267177)	N-acetylmuramoyl-L-alanine amidase
+smn:SMA_1300	CDS	complement(1267335..1268675)	Glucan-binding protein B, putative
+smn:SMA_1301	CDS	complement(1268761..1269687)	csbB; Bactoprenol glucosyl transferase
+smn:SMA_1302	CDS	complement(1269797..1271062)	Glycosyltransferase
+smn:SMA_1303	CDS	complement(1271065..1273101)	Lipopolysaccharide biosynthesis protein
+smn:SMA_1304	CDS	complement(1273212..1275665)	Phosphoglycerol transferase
+smn:SMA_1305	CDS	complement(1275684..1276643)	putative CDP-glycosylpolyol phosphate:glycosylpolyol glycosylpolyolphosphotransferase
+smn:SMA_1306	CDS	complement(1276658..1277620)	Beta-1,3-glucosyltransferase
+smn:SMA_1307	CDS	complement(1277634..1278932)	Membrane protein
+smn:SMA_1308	CDS	complement(1278929..1280197)	Heteropolysaccharide repeat unit export protein
+smn:SMA_1309	CDS	complement(1280190..1280525)	Membrane protein
+smn:SMA_1310	CDS	complement(1280527..1281222)	Glycosyltransferase involved in cell wall biogenesis
+smn:SMA_1311	CDS	complement(1281234..1282028)	Glycosyl transferase, family 2
+smn:SMA_1312	CDS	complement(1282025..1283722)	Alpha-L-Rha alpha-1,2-L-rhamnosyltransferase/alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+smn:SMA_1313	CDS	complement(1283719..1284735)	putative glycosyltransferase-possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+smn:SMA_1314	CDS	complement(1284764..1285972)	ABC-transporter (ATP-binding protein)-possibly involved in cell wall localization and side chain formation of rhamnose-glucose polysaccharide
+smn:SMA_1315	CDS	complement(1285972..1286778)	Rhamnose-containing polysacharide translocation permease
+smn:SMA_1316	CDS	complement(1286775..1287710)	Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+smn:SMA_1317	CDS	complement(1287700..1288854)	Alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase
+smn:SMA_1318	CDS	complement(1289066..1289920)	dTDP-4-dehydrorhamnose reductase
+smn:SMA_1319	gene	complement(1290009..1290149)	pseudogene
+smn:SMA_1320	CDS	complement(1290228..1290563)	Probably aromatic ring hydroxylating enzyme; PaaD-like protein involved in Fe-S cluster assembly
+smn:SMA_1321	CDS	complement(1290585..1291688)	rpoD; RNA polymerase sigma factor RpoD
+smn:SMA_1322	CDS	complement(1291697..1293505)	dnaG; DNA primase
+smn:SMA_1323	CDS	1293826..1294203	mscL; Large-conductance mechanosensitive channel
+smn:SMA_1324	CDS	complement(1294265..1294471)	rpsU; SSU ribosomal protein S21p
+smn:SMA_1325	CDS	1294765..1295280	Transposase
+smn:SMA_1326	CDS	1295316..1296113	Transposase
+smn:SMA_1327	CDS	complement(1296161..1296982)	Amino acid ABC transporter, amino acid-binding/permease protein
+smn:SMA_1328	CDS	complement(1297098..1298210)	aspC; Aspartate aminotransferase
+smn:SMA_1329	CDS	complement(1298296..1299111)	Amino acid ABC transporter, amino acid-binding/permease protein
+smn:SMA_1330	CDS	complement(1299123..1299968)	Amino acid ABC transporter, amino acid-binding/permease protein
+smn:SMA_1331	CDS	complement(1300131..1302395)	malP; Maltodextrin phosphorylase
+smn:SMA_1332	CDS	complement(1302385..1303926)	malQ; 4-alpha-glucanotransferase (amylomaltase)
+smn:SMA_1333	CDS	complement(1304111..1305136)	malR; Maltose operon transcriptional repressor MalR, LacI family
+smn:SMA_1334	CDS	1305459..1306718	Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE
+smn:SMA_1335	CDS	1306852..1308219	Maltose/maltodextrin ABC transporter, permease protein MalF
+smn:SMA_1336	CDS	1308219..1309055	Maltose/maltodextrin ABC transporter, permease protein MalG
+smn:SMA_1337	CDS	complement(1309157..1309621)	MutT/nudix family protein
+smn:SMA_1338	CDS	complement(1309712..1311703)	uvrB; Excinuclease ABC subunit B
+smn:SMA_1339	CDS	1311891..1314128	glnP; Glutamine ABC transporter, glutamine-binding protein/permease protein
+smn:SMA_1340	CDS	1314128..1314868	Glutamine transport ATP-binding protein GlnQ
+smn:SMA_1341	CDS	1315411..1316319	ABC transporter ATP-binding protein
+smn:SMA_1342	CDS	1316286..1316846	ABC transporter ATP-binding protein
+smn:SMA_1343	CDS	complement(1317041..1317223)	Hypothetical protein
+smn:SMA_1344	CDS	complement(1317625..1318938)	obg; COG0536: GTP-binding protein Obg
+smn:SMA_1345	CDS	complement(1319024..1319152)	Hypothetical protein
+smn:SMA_1346	CDS	complement(1319234..1319962)	Ribosomal small subunit pseudouridine synthase A
+smn:SMA_1347	CDS	complement(1320087..1321733)	oppA; Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA
+smn:SMA_1348	gene	1321909..1322628	pseudogene
+smn:SMA_1349	CDS	1322883..1323077	amino acid ABC transporter, ATP-binding protein
+smn:SMA_1350	CDS	1323105..1323377	Amino acid ABC transporter, ATP-binding protein
+smn:SMA_1351	CDS	complement(1323445..1324242)	Transposase
+smn:SMA_1352	CDS	complement(1324278..1324793)	Transposase
+smn:SMA_1353	gene	1324940..1326290	pseudogene
+smn:SMA_1354	CDS	1326578..1327111	copB; Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase
+smn:SMA_1355	CDS	1327111..1328001	Transcription regulator [contains diacylglycerol kinase catalytic domain]
+smn:SMA_1356	CDS	complement(1328057..1328488)	Universal stress protein family
+smn:SMA_1357	CDS	complement(1328558..1328980)	mntH; Manganese transport protein MntH
+smn:SMA_1358	gene	complement(1328891..1329103)	pseudogene
+smn:SMA_1359	CDS	1329516..1330151	Transposase
+smn:SMA_1360	CDS	1330330..1330992	ybbL; YbbL ABC transporter ATP-binding protein
+smn:SMA_1361	CDS	1330994..1331773	ybbM; YbbM seven transmembrane helix protein
+smn:SMA_1362	gene	complement(1331906..1332103)	pseudogene
+smn:SMA_1363	CDS	complement(1332072..1332917)	Glycine betaine ABC transporter glycine betaine-binding protein
+smn:SMA_1364	CDS	complement(1333028..1333534)	ISSth1, transposase (orf2), IS3 family
+smn:SMA_1365	CDS	complement(1333624..1333845)	ISSth1, transposase (orf1), IS3 family
+smn:SMA_1366	CDS	complement(1334513..1336222)	Hypothetical protein
+smn:SMA_1367	CDS	1336531..1337079	putative transposase
+smn:SMA_1368	gene	1337108..1337398	pseudogene
+smn:SMA_1369	CDS	1337537..1337761	Hypothetical protein
+smn:SMA_1370	gene	complement(1337893..1338302)	pseudogene
+smn:SMA_1371	CDS	complement(1338303..1338524)	Hypothetical protein
+smn:SMA_1372	CDS	complement(1338925..1340679)	Site-specific recombinase
+smn:SMA_1373	CDS	complement(1341140..1341364)	Hypothetical protein
+smn:SMA_1374	CDS	complement(1341644..1342381)	mcdG; putative ABC transporter involved in peptide antibiotic resistance, similar to ScnG
+smn:SMA_1375	CDS	complement(1342444..1343208)	mcdE; putative ABC transporter involved in peptide antibiotic resistance, similar to ScnE
+smn:SMA_1376	CDS	complement(1343210..1344118)	mcdF; putative ABC transporter involved in peptide antibiotic resistance, similar to ScnF
+smn:SMA_1377	CDS	complement(1344225..1346297)	mcdT; putative ABC transporter, cleavage of the leader peptide and export of mature macedocin, similar to ScnT
+smn:SMA_1378	CDS	complement(1346324..1349110)	mcdM; putative lantibiotic modifying enzyme, similar to ScnM
+smn:SMA_1379	CDS	complement(1349130..1349291)	mcdA1; putative type-A lantibiotic, similar to ScnA1
+smn:SMA_1380	CDS	complement(1349756..1349911)	mcdA2; Lantibiotic macedocin precursor
+smn:SMA_1381	CDS	complement(1349940..1350095)	mcdA; Lantibiotic macedocin precursor
+smn:SMA_1382	CDS	1350339..1351514	tnp; IS1191, transposase, IS256 family
+smn:SMA_1383	CDS	1351629..1352327	mcdR; putative response regulator, similar to ScnR
+smn:SMA_1384	CDS	1352344..1353705	mcdK; putative histidine kinase, similar to ScnK
+smn:SMA_1385	CDS	complement(1353785..1355650)	putative relaxase
+smn:SMA_1386	CDS	complement(1355637..1356002)	Hypothetical protein
+smn:SMA_1387	CDS	complement(1356012..1356371)	Hypothetical protein
+smn:SMA_1388	CDS	complement(1356781..1358289)	Hypothetical protein
+smn:SMA_1389	CDS	1358444..1359136	Pleiotropic regulator of exopolysaccharide synthesis, competence and biofilm formation Ftr, XRE family
+smn:SMA_1390	CDS	1359139..1359273	Hypothetical protein
+smn:SMA_1391	CDS	1359275..1360693	ImpB/MucB/SamB family protein
+smn:SMA_1392	CDS	1360690..1361058	Hypothetical protein
+smn:SMA_1393	CDS	1361045..1361332	Hypothetical protein
+smn:SMA_1394	CDS	complement(1361388..1361738)	Hypothetical protein
+smn:SMA_1395	CDS	complement(1361832..1362113)	Hypothetical protein
+smn:SMA_1396	CDS	complement(1362158..1362553)	Hypothetical protein
+smn:SMA_1397	CDS	complement(1362557..1362784)	Hypothetical protein
+smn:SMA_1398	CDS	complement(1362838..1363926)	Hypothetical protein
+smn:SMA_1399	CDS	complement(1363966..1364604)	Hypothetical protein
+smn:SMA_1400	CDS	complement(1364830..1365315)	Thioredoxin domain-containing protein
+smn:SMA_1401	CDS	complement(1365327..1365485)	Hypothetical protein
+smn:SMA_1402	CDS	complement(1365554..1366150)	Salavaricin two-component response regulator
+smn:SMA_1403	CDS	complement(1366128..1367639)	Possible two-component sensor histidine kinase
+smn:SMA_1404	CDS	complement(1367629..1368339)	Hypothetical protein
+smn:SMA_1405	CDS	complement(1368352..1369074)	Hypothetical protein
+smn:SMA_1406	CDS	complement(1369058..1369966)	bcrA; Bacitracin transport ATP-binding protein BcrA
+smn:SMA_1407	CDS	complement(1369941..1371983)	ABC-type multidrug transport system, ATPase and permease component
+smn:SMA_1408	CDS	complement(1371997..1374510)	Lantibiotic mersacidin modifying enzyme
+smn:SMA_1409	CDS	complement(1374591..1374767)	Columbicin A-like bacteriocin peptide
+smn:SMA_1410	CDS	complement(1374906..1375196)	Hypothetical protein
+smn:SMA_1411	CDS	complement(1375209..1375508)	Hypothetical protein
+smn:SMA_1412	CDS	complement(1375578..1382399)	SNF2 family protein
+smn:SMA_1413	CDS	complement(1382450..1383001)	Hypothetical protein
+smn:SMA_1414	CDS	complement(1382985..1383176)	Hypothetical protein
+smn:SMA_1415	CDS	complement(1383177..1388081)	Agglutinin receptor
+smn:SMA_1416	CDS	complement(1388275..1389666)	Hypothetical protein
+smn:SMA_1417	CDS	complement(1389660..1390514)	Abortive infection protein AbiGII
+smn:SMA_1418	CDS	complement(1390511..1391104)	Abortive infection protein AbiGI
+smn:SMA_1419	CDS	complement(1391226..1394030)	Conserved domain protein
+smn:SMA_1420	CDS	complement(1394027..1396375)	TrsE-like protein
+smn:SMA_1421	CDS	complement(1396332..1396685)	Hypothetical protein
+smn:SMA_1422	CDS	complement(1396748..1397602)	Hypothetical protein
+smn:SMA_1423	CDS	complement(1397619..1397861)	Hypothetical protein
+smn:SMA_1424	CDS	complement(1397879..1399699)	Hypothetical protein
+smn:SMA_1425	CDS	complement(1399699..1400187)	Hypothetical protein
+smn:SMA_1426	CDS	complement(1400264..1400845)	Hypothetical protein
+smn:SMA_1427	CDS	complement(1400848..1401081)	Hypothetical protein
+smn:SMA_1428	CDS	complement(1401091..1401474)	Hypothetical protein
+smn:SMA_1429	CDS	complement(1401484..1401912)	Hypothetical protein
+smn:SMA_1430	CDS	complement(1401896..1403251)	Modification methylase HgiDII
+smn:SMA_1431	CDS	complement(1403415..1403519)	Hypothetical protein
+smn:SMA_1432	CDS	complement(1403512..1404336)	Hypothetical protein
+smn:SMA_1433	CDS	complement(1404333..1404506)	Hypothetical protein
+smn:SMA_1434	gene	complement(1404582..1404713)	pseudogene
+smn:SMA_1435	CDS	complement(1404716..1406077)	RNA methyltransferase, TrmA family
+smn:SMA_1436	CDS	complement(1406187..1407569)	Cell envelope-related transcriptional Regulator, LytR family
+smn:SMA_1437	CDS	complement(1407695..1408519)	Prephenate dehydratase
+smn:SMA_1438	CDS	complement(1408516..1408992)	aroK; Shikimate kinase I
+smn:SMA_1439	CDS	complement(1408985..1410268)	5-Enolpyruvylshikimate-3-phosphate synthase
+smn:SMA_1440	CDS	complement(1410486..1412321)	lepA; Translation elongation factor LepA
+smn:SMA_1441	CDS	complement(1415882..1416931)	CRISPR-associated protein Cas7
+smn:SMA_1442	CDS	complement(1416928..1417251)	CRISPR-associated protein Cas2
+smn:SMA_1443	CDS	complement(1417253..1418164)	CRISPR-associated protein Cas1
+smn:SMA_1444	CDS	complement(1418337..1421729)	CRISPR-associated protein, Csn1 family
+smn:SMA_1445	CDS	complement(1421835..1422251)	ndk; Nucleoside diphosphate kinase
+smn:SMA_1446	CDS	complement(1422584..1422754)	Hypothetical protein
+smn:SMA_1447	CDS	complement(1422756..1423436)	COG4478, integral membrane protein
+smn:SMA_1448	CDS	complement(1423426..1424199)	putative hydrolase
+smn:SMA_1449	gene	complement(1424260..1424898)	pseudogene
+smn:SMA_1450	CDS	complement(1424883..1425611)	Acyl-ACP thioesterase
+smn:SMA_1451	CDS	complement(1425616..1426746)	hemN; putative coproporphyrinogen III oxidase of BS HemN-type, oxygen-independent, in heat shock gene cluster
+smn:SMA_1452	CDS	1426885..1427400	Transposase
+smn:SMA_1453	CDS	1427436..1428233	Transposase
+smn:SMA_1454	CDS	complement(1428293..1429645)	glmM; Phosphoglucosamine mutase
+smn:SMA_1455	CDS	complement(1429787..1430743)	ybbR; Hypothetical secreted protein, similar to YbbR Bacillus subtilis
+smn:SMA_1456	CDS	complement(1430740..1431585)	ybbP; Hypothetical protein YbbP, contains nucleotide-binding domain of DisA bacterial checkpoint controller
+smn:SMA_1457	CDS	1431691..1433034	Hypothetical protein
+smn:SMA_1458	CDS	1433036..1433824	putative amidotransferase similar to cobyric acid synthase
+smn:SMA_1459	CDS	1434092..1435348	IS1167, transposase
+smn:SMA_1460	CDS	complement(1435477..1436775)	eno; Enolase
+smn:SMA_1461	CDS	1436985..1437434	Hypothetical protein
+smn:SMA_1462	CDS	complement(1437431..1438546)	glxK; Glycerate kinase
+smn:SMA_1463	CDS	1438620..1439114	NUDIX family hydrolase
+smn:SMA_1464	CDS	complement(1439162..1445038)	pulA; Pullulanase
+smn:SMA_1465	CDS	complement(1445078..1446016)	Pullulanase
+smn:SMA_1466	CDS	complement(1446249..1446563)	hisE; Phosphoribosyl-ATP pyrophosphatase
+smn:SMA_1467	CDS	complement(1446586..1446906)	hisI; Phosphoribosyl-AMP cyclohydrolase
+smn:SMA_1468	CDS	complement(1446903..1447661)	hisF; Imidazole glycerol phosphate synthase cyclase subunit
+smn:SMA_1469	CDS	complement(1447665..1448384)	hisA; Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+smn:SMA_1470	CDS	complement(1448436..1449044)	hisH; Imidazole glycerol phosphate synthase amidotransferase subunit
+smn:SMA_1471	CDS	complement(1449115..1449699)	hisB; Imidazoleglycerol-phosphate dehydratase
+smn:SMA_1472	CDS	complement(1449734..1450378)	serB; Phosphoserine phosphatase
+smn:SMA_1473	CDS	complement(1450371..1451648)	hisD; Histidinol dehydrogenase
+smn:SMA_1474	CDS	complement(1451645..1452292)	hisG; ATP phosphoribosyltransferase catalytic subunit
+smn:SMA_1475	CDS	complement(1452292..1453260)	hisZ; ATP phosphoribosyltransferase regulatory subunit
+smn:SMA_1476	CDS	complement(1453287..1454345)	hisC; Histidinol-phosphate aminotransferase
+smn:SMA_1477	CDS	complement(1454837..1455001)	5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+smn:SMA_1478	gene	complement(1454976..1455515)	pseudogene
+smn:SMA_1479	CDS	complement(1455596..1457320)	ezrA; Septation ring formation regulator EzrA
+smn:SMA_1480	CDS	complement(1457426..1459378)	gyrB; DNA gyrase subunit B
+smn:SMA_1481	CDS	complement(1459379..1459939)	Hydrolase, haloacid dehalogenase-like family
+smn:SMA_1482	CDS	complement(1460041..1461252)	Cell division protein FtsW
+smn:SMA_tRNA_64	tRNA	complement(1461536..1461607)	tRNA-Arg
+smn:SMA_1483	CDS	complement(1461665..1462012)	rplS; LSU ribosomal protein L19p
+smn:SMA_1484	CDS	complement(1462223..1463443)	Chloride channel protein
+smn:SMA_1485	CDS	complement(1463457..1463735)	Chorismate mutase
+smn:SMA_1486	CDS	complement(1463776..1464468)	Hypothetical protein
+smn:SMA_1487	CDS	complement(1464566..1465117)	sufB; Iron-sulfur cluster assembly protein SufB
+smn:SMA_1488	CDS	complement(1465178..1465618)	sufB; Iron-sulfur cluster assembly protein SufB
+smn:SMA_1489	CDS	complement(1466217..1466660)	Flavodoxin
+smn:SMA_1490	CDS	complement(1466702..1467721)	add; Adenosine deaminase
+smn:SMA_1491	gene	complement(1467860..1468012)	pseudogene
+smn:SMA_1492	CDS	complement(1468123..1469469)	asnS; Asparaginyl-tRNA synthetase
+smn:SMA_1493	CDS	complement(1469488..1469931)	Hypothetical protein
+smn:SMA_1494	CDS	complement(1469935..1471116)	Aspartate aminotransferase
+smn:SMA_1495	CDS	complement(1471113..1471583)	Hypothetical protein
+smn:SMA_1496	CDS	complement(1471614..1474118)	dinG; DnaQ family exonuclease/DinG family helicase
+smn:SMA_1497	gene	1474218..1474922	pseudogene
+smn:SMA_1498	gene	complement(1475006..1475425)	pseudogene
+smn:SMA_1499	gene	complement(1475419..1475759)	pseudogene
+smn:SMA_1500	gene	complement(1475825..1477004)	pseudogene
+smn:SMA_1501	CDS	1477183..1477425	Hypothetical protein
+smn:SMA_1502	CDS	1477422..1478057	Hydroxyacylglutathione hydrolase
+smn:SMA_1503	CDS	1478060..1478776	Carboxymethylenebutenolidase-related protein
+smn:SMA_1504	CDS	complement(1478816..1479745)	ftsX; Cell division protein FtsX
+smn:SMA_1505	CDS	complement(1479738..1480430)	ftsE; Cell division transporter, ATP-binding protein FtsE
+smn:SMA_1506	CDS	complement(1480478..1481573)	prfB; Peptide chain release factor 2; programmed frameshift-containing
+smn:SMA_1507	gene	complement(1481871..1482176)	pseudogene
+smn:SMA_1508	gene	complement(1482124..1482300)	pseudogene
+smn:SMA_1509	CDS	1482366..1483223	Hypothetical protein
+smn:SMA_1510	CDS	complement(1483289..1485970)	mgtA; Calcium-transporting ATPase
+smn:SMA_1511	CDS	complement(1486326..1486712)	Hypothetical protein
+smn:SMA_1512	CDS	complement(1486781..1487668)	Integral membrane protein
+smn:SMA_1513	CDS	1487749..1489050	Deoxyguanosinetriphosphate triphosphohydrolase
+smn:SMA_1514	CDS	1489182..1489991	yidA; Phosphatase YidA
+smn:SMA_1515	CDS	1489991..1491205	UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+smn:SMA_1516	CDS	1491205..1492443	tRNA-dependent lipid II-Ala--L-alanine ligase
+smn:SMA_1517	CDS	complement(1492486..1493043)	Transposase
+smn:SMA_1518	CDS	complement(1493197..1493469)	Hypothetical protein
+smn:SMA_1519	CDS	complement(1493718..1494476)	tpiA; Triosephosphate isomerase
+smn:SMA_1520	CDS	complement(1494663..1495859)	tuf; Translation elongation factor Tu
+smn:SMA_1521	CDS	complement(1496024..1496809)	insI1; Transposase IS1239
+smn:SMA_1522	CDS	complement(1497080..1498039)	Hypothetical protein
+smn:SMA_1523	CDS	complement(1498023..1498532)	RNA polymerase sigma factor, ECF subfamily
+smn:SMA_1524	CDS	complement(1498603..1499901)	ftsW; Cell division protein FtsW
+smn:SMA_1525	CDS	complement(1499995..1502820)	ppc; Phosphoenolpyruvate carboxylase
+smn:SMA_1526	CDS	1503159..1504958	pepF; Oligoendopeptidase F
+smn:SMA_1527	CDS	1504951..1505436	gpo; Glutathione peroxidase family protein
+smn:SMA_1528	CDS	1505578..1506432	Lysozyme
+smn:SMA_1529	CDS	1506578..1507564	at1; Autolysin
+smn:SMA_1530	CDS	1507641..1508124	Transcriptional regulator
+smn:SMA_1531	CDS	1508147..1508776	gpmB; Phosphoglycerate mutase family 5
+smn:SMA_1532	CDS	complement(1508820..1509728)	2-haloalkanoic acid dehalogenase
+smn:SMA_1533	CDS	complement(1509772..1509990)	Hypothetical protein
+smn:SMA_1534	CDS	1510058..1511548	lysS; Lysyl-tRNA synthetase (class II)
+smn:SMA_1535	gene	1512021..1512341	pseudogene
+smn:SMA_1536	CDS	complement(1512598..1513353)	Conserved hypothetical protein
+smn:SMA_1537	CDS	1513503..1513646	Hypothetical protein
+smn:SMA_1538	CDS	1513764..1514291	bioY; Substrate-specific component BioY of biotin ECF transporter
+smn:SMA_1539	CDS	complement(1514337..1514549)	Bacterial seryl-tRNA synthetase related
+smn:SMA_1540	CDS	complement(1514750..1514965)	putative transposase
+smn:SMA_1541	CDS	complement(1514958..1515056)	Hypothetical protein
+smn:SMA_1542	CDS	complement(1515053..1515220)	Transposase
+smn:SMA_1543	CDS	1515831..1516160	Hypothetical protein
+smn:SMA_1544	CDS	complement(1516216..1517505)	Peptidase, U32 family large subunit [C1]
+smn:SMA_1545	CDS	complement(1517637..1518563)	Peptidase, U32 family small subunit [C1]
+smn:SMA_1546	CDS	1518832..1519116	Hypothetical protein
+smn:SMA_1547	CDS	complement(1519286..1519759)	Hypothetical protein
+smn:SMA_1548	CDS	complement(1519756..1520175)	putative methyl-accepting chemotaxis domain-containing protein
+smn:SMA_1549	CDS	complement(1520199..1520981)	Prolipoprotein diacylglyceryl transferase
+smn:SMA_1550	CDS	complement(1520981..1521922)	hprK; HPr kinase/phosphorylase
+smn:SMA_1551	CDS	complement(1522258..1522536)	pspC; Phage shock protein C, putative; stress-responsive transcriptional regulator
+smn:SMA_1552	CDS	complement(1522642..1523085)	putative metallopeptidase (Zinc) SprT family
+smn:SMA_1553	CDS	complement(1523072..1525204)	Transcription accessory protein (S1 RNA-binding domain)
+smn:SMA_1554	CDS	1525421..1525555	Hypothetical protein
+smn:SMA_1555	CDS	1525561..1526463	Possible permease
+smn:SMA_1556	CDS	1526463..1527275	ABC transporter, substrate-binding protein
+smn:SMA_1557	CDS	1527238..1527471	Hypothetical protein
+smn:SMA_1558	gene	complement(1527562..1528202)	pseudogene
+smn:SMA_1559	CDS	complement(1528525..1528692)	Hypothetical protein
+smn:SMA_1560	CDS	complement(1528699..1530168)	ftsY; Signal recognition particle receptor protein FtsY (=alpha subunit)
+smn:SMA_1561	CDS	complement(1530181..1530999)	Hydrolase (HAD superfamily)
+smn:SMA_1562	CDS	complement(1530999..1531796)	Hydrolase (HAD superfamily)
+smn:SMA_1563	gene	1531941..1532760	pseudogene
+smn:SMA_1564	CDS	complement(1532826..1533236)	NUDIX family hydrolase
+smn:SMA_1565	CDS	complement(1533253..1536792)	smc; Chromosome partition protein Smc
+smn:SMA_1566	CDS	complement(1536923..1537609)	rnc; Ribonuclease III
+smn:SMA_1567	CDS	complement(1537893..1538021)	Hypothetical protein
+smn:SMA_1568	CDS	complement(1538110..1538919)	Zn-dependent hydrolase (beta-lactamase superfamily)
+smn:SMA_1569	CDS	complement(1538920..1540272)	Two-component sensor kinase SA14-24
+smn:SMA_1570	CDS	complement(1540265..1540975)	Two-component response regulator SA14-24
+smn:SMA_1571	CDS	1541280..1542044	Glutamate transport ATP-binding protein
+smn:SMA_1572	CDS	1542055..1542867	Amino acid ABCtransporter substrate-binding protein
+smn:SMA_1573	CDS	1542884..1543588	Amino acid ABC transporter permease
+smn:SMA_1574	CDS	1543600..1544247	Amino acid ABC transporter integral membrane protein
+smn:SMA_1575	CDS	complement(1544339..1544947)	Hypothetical protein
+smn:SMA_1576	CDS	complement(1545195..1545497)	Hypothetical protein
+smn:SMA_1577	CDS	complement(1545739..1546737)	resE; Sensor histidine kinase
+smn:SMA_1578	CDS	1546785..1548041	tnpA; Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_1579	CDS	complement(1548050..1548694)	Sensor histidine kinase
+smn:SMA_1580	CDS	complement(1548639..1549331)	Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+smn:SMA_1581	CDS	complement(1549437..1550315)	Hypothetical protein
+smn:SMA_1582	gene	complement(1550406..1550603)	pseudogene
+smn:SMA_1583	CDS	complement(1550606..1551604)	Pectate lyase, secreted, polysaccharide lyase family
+smn:SMA_1584	CDS	complement(1551659..1552225)	Hypothetical protein
+smn:SMA_1585	CDS	complement(1552625..1554571)	thrS; Threonyl-tRNA synthetase
+smn:SMA_1586	CDS	complement(1554920..1556254)	Glycosyltransferase LafA, responsible for the formation of Glc-DAG
+smn:SMA_1587	CDS	complement(1556256..1557254)	Glycosyltransferase LafB, responsible for the formation of Gal-Glc-DAG
+smn:SMA_1588	CDS	complement(1557350..1558351)	ccpA; Catabolite control protein A
+smn:SMA_1589	CDS	1558680..1559765	pepQ; Proline dipeptidase
+smn:SMA_1590	CDS	complement(1559799..1560125)	Small multidrug resistance protein
+smn:SMA_1591	gene	1560339..1560464	pseudogene
+smn:SMA_1592	CDS	1560673..1560801	Hypothetical protein
+smn:SMA_1593	CDS	1560835..1561098	Hypothetical protein
+smn:SMA_1594	CDS	1561224..1561901	yfkO; Oxygen-insensitive NAD(P)H nitroreductase/Dihydropteridine reductase
+smn:SMA_1595	CDS	complement(1562048..1562506)	bglH; 6-phospho-beta-glucosidase
+smn:SMA_1596	CDS	complement(1562464..1562886)	bglA; 6-phospho-beta-glucosidase
+smn:SMA_1597	CDS	complement(1562877..1563839)	bglP; PTS system, beta-glucoside-specific IIB component/PTS system, beta-glucoside-specific IIC component/PTS system, beta-glucoside-specific IIA component
+smn:SMA_1598	CDS	complement(1563846..1564046)	bglP; PTS system, beta-glucoside-specific IIB component/PTS system, beta-glucoside-specific IIC component/PTS system, beta-glucoside-specific IIA component
+smn:SMA_1599	CDS	1564213..1564896	yfeT; Transcriptional regulator
+smn:SMA_1600	gene	complement(1564992..1565111)	pseudogene
+smn:SMA_1601	CDS	1565128..1566384	tnpA; Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_1602	CDS	complement(1566459..1566926)	smpB; tmRNA-binding protein SmpB
+smn:SMA_1603	CDS	complement(1566960..1569305)	rnr1; 3'-to-5' exoribonuclease RNase R 1
+smn:SMA_1604	CDS	complement(1569531..1569767)	Preprotein translocase subunit SecG
+smn:SMA_1605	CDS	complement(1569895..1570041)	LSU ribosomal protein L33p
+smn:SMA_1606	CDS	complement(1570038..1571214)	pmrA; Multidrug resistance efflux pump PmrA
+smn:SMA_1607	CDS	complement(1571361..1571960)	coaE; Dephospho-CoA kinase
+smn:SMA_1608	CDS	complement(1571945..1572835)	mutM; Formamidopyrimidine-DNA glycosylase
+smn:SMA_1609	CDS	complement(1573209..1574105)	era; GTP-binding protein Era
+smn:SMA_1610	CDS	complement(1574164..1574571)	dgkA; Diacylglycerol kinase
+smn:SMA_1611	CDS	complement(1574552..1575049)	Metal-dependent hydrolase
+smn:SMA_1612	CDS	complement(1575292..1575810)	Alpha-amylase
+smn:SMA_1613	CDS	complement(1575807..1576037)	Hypothetical protein
+smn:SMA_1614	CDS	complement(1576228..1577298)	phoH; Phosphate starvation-inducible protein PhoH, predicted ATPase
+smn:SMA_1615	CDS	complement(1577388..1578557)	Hypothetical protein
+smn:SMA_1616	CDS	complement(1578883..1579098)	Hypothetical protein
+smn:SMA_1617	CDS	complement(1579095..1579604)	msrA; Peptide methionine sulfoxide reductase MsrA
+smn:SMA_1618	CDS	complement(1579888..1580754)	S1 RNA binding domain
+smn:SMA_1619	CDS	complement(1580811..1581368)	frr; Ribosome recycling factor
+smn:SMA_1620	CDS	complement(1581421..1582158)	pyrH; Uridylate kinase
+smn:SMA_1621	CDS	complement(1582366..1583055)	rplA; LSU ribosomal protein L1p (L10Ae)
+smn:SMA_1622	CDS	complement(1583210..1583635)	rplK; LSU ribosomal protein L11p (L12e)
+smn:SMA_1623	CDS	1583981..1584334	Integral membrane protein
+smn:SMA_1624	CDS	complement(1584366..1586771)	ftsK; Cell division protein FtsK
+smn:SMA_1625	CDS	1586865..1587005	Hypothetical protein
+smn:SMA_1626	CDS	1586959..1587795	ppiB; Peptidyl-prolyl cis-trans isomerase
+smn:SMA_1627	CDS	1587948..1588598	ideR; Iron-dependent transcriptional regulator IdeR
+smn:SMA_1628	CDS	complement(1588646..1589338)	mtnN; 5'-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+smn:SMA_1629	CDS	complement(1589422..1589751)	Hypothetical protein
+smn:SMA_1630	CDS	complement(1589757..1590305)	nudF; ADP-ribose pyrophosphatase
+smn:SMA_1631	CDS	complement(1590511..1591893)	glmU; N-acetylglucosamine-1-phosphate uridyltransferase/Glucosamine-1-phosphate N-acetyltransferase
+smn:SMA_1632	CDS	complement(1592037..1592999)	yulF; NAD-dependent oxidoreductase
+smn:SMA_1633	CDS	complement(1593023..1593466)	Hypothetical protein
+smn:SMA_1634	CDS	complement(1593482..1594183)	Hypothetical protein
+smn:SMA_1635	CDS	complement(1594318..1595016)	3-Ketoacyl-ACP reductase
+smn:SMA_1636	CDS	complement(1595009..1595245)	Hypothetical protein
+smn:SMA_1637	CDS	complement(1595315..1596148)	Hypothetical protein
+smn:SMA_1638	CDS	complement(1596132..1596470)	Transcriptional regulator, PadR family
+smn:SMA_1639	CDS	complement(1597061..1598293)	femB; Aminoacyltransferase FemB
+smn:SMA_1640	CDS	complement(1598490..1600493)	metG; Methionyl-tRNA synthetase
+smn:SMA_1641	gene	complement(1600612..1601925)	pseudogene
+smn:SMA_1642	CDS	1602052..1602600	Transcriptional regulator, TetR/AcrR family, putative
+smn:SMA_1643	CDS	complement(1602589..1603227)	Conserved hypothetical protein, possible hemolysis inducing protein
+smn:SMA_1644	CDS	complement(1603217..1603495)	sdpR; Transcriptional regulator, ArsR family
+smn:SMA_1645	CDS	1603706..1604536	exoA; Exodeoxyribonuclease III
+smn:SMA_1646	CDS	1604742..1605227	Hypothetical protein
+smn:SMA_1647	CDS	1605562..1606050	Hypothetical protein
+smn:SMA_1648	CDS	complement(1606165..1606521)	Arsenate reductase
+smn:SMA_1649	CDS	complement(1606534..1607019)	ogt; Methylated-DNA--protein-cysteine methyltransferase
+smn:SMA_1650	CDS	complement(1607078..1607305)	Hypothetical protein
+smn:SMA_1651	CDS	complement(1607404..1608582)	serA; D-3-phosphoglycerate dehydrogenase
+smn:SMA_1652	CDS	complement(1608628..1609176)	Acetyltransferase
+smn:SMA_1653	CDS	complement(1609247..1610338)	serC; Phosphoserine aminotransferase
+smn:SMA_1654	CDS	1610474..1611112	cutC; Cytoplasmic copper homeostasis protein CutC
+smn:SMA_1655	CDS	complement(1611243..1611584)	Nitrogen regulatory protein P-II
+smn:SMA_1656	CDS	complement(1611641..1612876)	nrgA; Ammonium transporter
+smn:SMA_1657	CDS	complement(1613274..1614140)	rsmI; rRNA small subunit methyltransferase I
+smn:SMA_1658	CDS	complement(1614147..1614467)	DNA replication intiation control protein YabA
+smn:SMA_1659	CDS	complement(1614460..1615260)	Signal peptidase-like protein
+smn:SMA_1660	CDS	complement(1615257..1616132)	holB; DNA polymerase III delta prime subunit
+smn:SMA_1661	CDS	complement(1616143..1616778)	tmk; Thymidylate kinase
+smn:SMA_1662	CDS	complement(1616965..1617624)	acuB; Acetoin utilization AcuB protein
+smn:SMA_1663	CDS	complement(1617798..1618508)	livF; Branched-chain amino acid transport ATP-binding protein LivF
+smn:SMA_1664	CDS	complement(1618508..1619272)	livG; Branched-chain amino acid transport ATP-binding protein LivG
+smn:SMA_1665	CDS	complement(1619272..1620225)	livM; Branched-chain amino acid transport system permease protein LivM
+smn:SMA_1666	CDS	complement(1620229..1621113)	livH; High-affinity branched-chain amino acid transport system permease protein LivH
+smn:SMA_1667	CDS	complement(1621165..1622346)	livJ; Branched-chain amino acid ABC transporter, amino acid-binding protein
+smn:SMA_1668	CDS	complement(1622459..1623145)	Hypothetical protein
+smn:SMA_1669	CDS	complement(1623242..1623832)	clpP; ATP-dependent Clp protease proteolytic subunit
+smn:SMA_1670	CDS	complement(1623964..1624857)	Permease of the drug/metabolite transporter (DMT) superfamily
+smn:SMA_1671	CDS	1624970..1625839	LysR family transcriptional regulator
+smn:SMA_1672	CDS	complement(1625905..1626534)	upp; Uracil phosphoribosyltransferase
+smn:SMA_1673	CDS	complement(1626693..1627856)	Aspartate aminotransferase
+smn:SMA_1674	CDS	complement(1627858..1628952)	metB; Cystathionine gamma-synthase
+smn:SMA_1675	CDS	complement(1629204..1630838)	Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids
+smn:SMA_1676	CDS	1630935..1632386	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+smn:SMA_1677	CDS	1632563..1633345	fhuC; Ferrichrome transport ATP-binding protein FhuC
+smn:SMA_1678	CDS	1633367..1634299	fhuD; Ferrichrome-binding periplasmic protein precursor
+smn:SMA_1679	CDS	1634377..1635399	fhuB; ABC-type Fe3+-siderophore transport system, permease component
+smn:SMA_1680	CDS	1635396..1636397	fhuG; ABC-type Fe3+-siderophore transport system, permease 2 component
+smn:SMA_1681	CDS	complement(1636459..1637115)	Hypothetical protein
+smn:SMA_1682	CDS	complement(1637108..1637623)	Hypothetical protein
+smn:SMA_1683	CDS	1637733..1638464	yaaA; Hypothetical protein YaaA
+smn:SMA_1684	CDS	complement(1638522..1639493)	Hypothetical protein
+smn:SMA_1685	CDS	complement(1639523..1640704)	Hypothetical protein
+smn:SMA_1686	CDS	complement(1640914..1641846)	ppaC; Manganese-dependent inorganic pyrophosphatase
+smn:SMA_1687	CDS	complement(1641995..1642642)	Hypothetical protein
+smn:SMA_1688	CDS	complement(1642696..1643484)	act; Pyruvate formate-lyase activating enzyme
+smn:SMA_1689	CDS	complement(1643556..1644887)	Hemolysins and related proteins containing CBS domains
+smn:SMA_1690	CDS	1645096..1645884	abcX; ABC transporter ATP binding protein
+smn:SMA_1691	CDS	complement(1645919..1647943)	nhaK; Na+/H+ antiporter
+smn:SMA_1692	CDS	complement(1647993..1648316)	Hypothetical protein
+smn:SMA_1693	CDS	complement(1648322..1648885)	ytgB; SAM-dependent methyltransferase, MraW methylase family
+smn:SMA_1694	CDS	complement(1648882..1649823)	COG1242: Predicted Fe-S oxidoreductase
+smn:SMA_1695	CDS	complement(1649929..1650585)	Membrane-associated phospholipid phosphatase
+smn:SMA_1696	CDS	complement(1650707..1651120)	Bacterial/Archaeal Transporter family protein
+smn:SMA_1697	CDS	complement(1651209..1651778)	ribU; Substrate-specific component RibU of riboflavin ECF transporter
+smn:SMA_1698	CDS	complement(1651771..1651875)	Hypothetical protein
+smn:SMA_1699	CDS	complement(1652214..1652759)	yibK; RNA methyltransferase, TrmH family
+smn:SMA_1700	CDS	complement(1652895..1653074)	Hypothetical protein
+smn:SMA_1701	CDS	complement(1653161..1653915)	putative short-chain dehydrogenase
+smn:SMA_1702	CDS	1654308..1654478	Hypothetical protein
+smn:SMA_1703	CDS	complement(1654521..1656368)	Hypothetical protein
+smn:SMA_1704	CDS	1656627..1658030	trkA; Trk system potassium uptake protein TrkA
+smn:SMA_1705	CDS	1658034..1659473	trkH; Potassium uptake protein TrkH
+smn:SMA_1706	CDS	complement(1659494..1659757)	Alpha-hemolysin family protein
+smn:SMA_1707	CDS	complement(1659754..1660479)	rluB; Ribosomal large subunit pseudouridine synthase B
+smn:SMA_1708	CDS	complement(1660561..1661127)	scpB; Segregation and condensation protein B
+smn:SMA_1709	CDS	complement(1661183..1661887)	scpA; Segregation and condensation protein A
+smn:SMA_1710	CDS	complement(1661887..1662627)	Tyrosine recombinase XerD
+smn:SMA_1711	CDS	complement(1662620..1663087)	CBS domain containing protein
+smn:SMA_1712	CDS	complement(1663084..1663605)	Phosphoesterase
+smn:SMA_1713	CDS	complement(1663587..1664603)	Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific)
+smn:SMA_1714	CDS	complement(1664621..1665430)	murI; Glutamate racemase
+smn:SMA_1715	CDS	complement(1665605..1665847)	Hypothetical protein
+smn:SMA_1716	gene	1665915..1666082	pseudogene
+smn:SMA_1717	CDS	complement(1666159..1667403)	Diaminopimelate decarboxylase
+smn:SMA_1718	CDS	complement(1667531..1668223)	ybhL; Membrane protein
+smn:SMA_1719	CDS	complement(1668272..1668775)	HD family hydrolase
+smn:SMA_1720	CDS	complement(1668863..1669603)	rRNA methylase
+smn:SMA_1721	CDS	1669639..1669917	acyP; Acylphosphate phosphohydrolase, putative
+smn:SMA_1722	CDS	1670007..1670927	oxaA; Inner membrane protein translocase component YidC, OxaA protein
+smn:SMA_1723	CDS	complement(1671084..1671980)	Transposase
+smn:SMA_1724	CDS	complement(1672105..1672587)	greA; Transcription elongation factor GreA
+smn:SMA_1725	CDS	complement(1672671..1674392)	Protein YceG like
+smn:SMA_1726	gene	complement(1674489..1674677)	pseudogene
+smn:SMA_1727	gene	complement(1674747..1674952)	pseudogene
+smn:SMA_1728	CDS	complement(1674979..1676151)	Transposase and inactivated derivative
+smn:SMA_1729	CDS	complement(1676105..1676311)	Hypothetical protein
+smn:SMA_1730	CDS	complement(1676362..1676712)	Degenerate transposase
+smn:SMA_1731	CDS	complement(1676693..1676878)	IS66 family element, Orf1
+smn:SMA_1732	CDS	complement(1676957..1677271)	putative arylalkylamine n-acetyltransferase
+smn:SMA_1733	CDS	1677436..1678692	tnpA; Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_1734	CDS	complement(1678747..1680078)	murC; UDP-N-acetylmuramate--alanine ligase
+smn:SMA_1735	CDS	complement(1680113..1680709)	Hypothetical protein
+smn:SMA_1736	CDS	complement(1680978..1684067)	SWF/SNF family helicase
+smn:SMA_1737	CDS	complement(1684211..1685521)	GTP-binding protein EngA
+smn:SMA_1738	CDS	complement(1685673..1686575)	dnaI; Helicase loader DnaI
+smn:SMA_1739	CDS	complement(1686586..1687746)	Helicase loader DnaB
+smn:SMA_1740	CDS	complement(1687730..1688227)	nrdR; Ribonucleotide reductase transcriptional regulator NrdR
+smn:SMA_1741	CDS	complement(1688416..1689900)	Transmembrane histidine kinase CsrS
+smn:SMA_1742	CDS	complement(1689900..1690592)	Response regulator CsrR
+smn:SMA_1743	CDS	complement(1690825..1691361)	COG1399 protein in cluster with ribosomal protein L32p, Firmicutes subfamily
+smn:SMA_1744	CDS	complement(1691486..1692388)	htpX; Heat shock protein HtpX
+smn:SMA_1745	CDS	complement(1692515..1693066)	lemA; LemA protein
+smn:SMA_1746	CDS	1693374..1694108	Methyltransferase GidB
+smn:SMA_1747	CDS	1694175..1695548	ktrB; Potassium uptake protein, integral membrane component, KtrB
+smn:SMA_1748	CDS	1695560..1696231	ktrA; Potassium uptake protein, integral membrane component, KtrA
+smn:SMA_1749	CDS	complement(1696285..1697115)	Transmembrane component MtsC of energizing module of methionine-regulated ECF transporter
+smn:SMA_1750	CDS	complement(1697108..1698784)	Duplicated ATPase component MtsB of energizing module of methionine-regulated ECF transporter
+smn:SMA_1751	CDS	complement(1698840..1699388)	Substrate-specific component MtsA of methionine-regulated ECF transporter
+smn:SMA_1752	CDS	complement(1699385..1700239)	Hypothetical protein
+smn:SMA_1753	CDS	complement(1700390..1701616)	sstT; Serine/threonine transporter sstT
+smn:SMA_1754	CDS	1701951..1703324	braB; Branched-chain amino acid transport system carrier protein
+smn:SMA_1755	CDS	complement(1703385..1704014)	Rrf2-linked NADH-flavin reductase
+smn:SMA_1756	CDS	1704198..1704638	Rrf2 family transcriptional regulator, group III
+smn:SMA_1757	CDS	complement(1704669..1705361)	metI; Methionine ABC transporter permease protein
+smn:SMA_1758	CDS	complement(1705362..1706426)	metN; Methionine ABC transporter ATP-binding protein
+smn:SMA_1759	CDS	complement(1706407..1707789)	dapE; Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
+smn:SMA_1760	CDS	complement(1707998..1708924)	metQ; Methionine ABC transporter substrate-binding protein
+smn:SMA_1761	CDS	complement(1709011..1709853)	tcyK; Cysteine ABC transporter, substrate-binding protein
+smn:SMA_1762	CDS	complement(1709973..1711118)	Aminoacylase/N-acyl-L-amino acid amidohydrolase/hippurate hydrolase
+smn:SMA_1763	CDS	complement(1711115..1711912)	tcyJ; Cysteine ABC transporter, substrate-binding protein
+smn:SMA_1764	CDS	complement(1711973..1712659)	yvdE; Glutamine amidotransferase, class I
+smn:SMA_1765	CDS	complement(1712847..1713563)	Hypothetical protein
+smn:SMA_1766	gene	complement(1713800..1714640)	pseudogene
+smn:SMA_1767	CDS	complement(1714757..1715479)	Transcriptional regulator, MerR family
+smn:SMA_1768	CDS	complement(1715565..1716659)	Hypothetical protein
+smn:SMA_1769	CDS	complement(1716716..1718462)	Hypothetical protein
+smn:SMA_1770	CDS	complement(1718522..1719259)	ubiG; Methyltransferase
+smn:SMA_1771	CDS	complement(1719345..1719698)	Iojap-like protein
+smn:SMA_1772	CDS	complement(1719730..1720323)	yqeK; Hydrolase (HAD superfamily), YqeK
+smn:SMA_1773	CDS	complement(1720313..1720951)	nadD; Nicotinate-nucleotide adenylyltransferase
+smn:SMA_1774	CDS	complement(1721028..1721360)	yqeI; RNA binding protein
+smn:SMA_1775	CDS	complement(1721483..1722601)	yqeH; GTP-binding protein YqeH, required for biogenesis of 30S ribosome subunit
+smn:SMA_1776	CDS	complement(1722601..1723161)	Hydrolase, HAD subfamily IIIA
+smn:SMA_1777	CDS	complement(1723256..1724644)	lmrB; Transport protein
+smn:SMA_1778	CDS	complement(1724653..1725069)	slyA; Transcriptional regulator
+smn:SMA_1779	CDS	complement(1725215..1726123)	Drug/metabolite transporter (DMT) superfamily protein
+smn:SMA_1780	CDS	complement(1726283..1727725)	gatB; Aspartyl-tRNA amidotransferase subunit B, Glutamyl-tRNA amidotransferase subunit B
+smn:SMA_1781	CDS	complement(1727725..1729191)	gatA; Aspartyl-tRNA amidotransferase subunit A, Glutamyl-tRNA amidotransferase subunit A
+smn:SMA_1782	CDS	complement(1729191..1729493)	gatC; Aspartyl-tRNA amidotransferase subunit C, Glutamyl-tRNA amidotransferase subunit C
+smn:SMA_1783	gene	complement(1729597..1729725)	pseudogene
+smn:SMA_1784	CDS	1729742..1730998	tnpA; Transposase, IS204/IS1001/IS1096/IS1165
+smn:SMA_1785	CDS	complement(1731040..1731588)	Nicotinamidase
+smn:SMA_1786	CDS	complement(1731613..1732398)	codY; GTP-sensing transcriptional pleiotropic repressor CodY
+smn:SMA_1787	CDS	1732411..1732623	Hypothetical protein
+smn:SMA_1788	CDS	complement(1732764..1733978)	yfbQ; Aspartate aminotransferase
+smn:SMA_1789	CDS	complement(1734015..1735781)	yhdW; Glycerophosphoryl diester phosphodiesterase
+smn:SMA_1790	CDS	1736099..1736551	Universal stress protein family
+smn:SMA_1791	CDS	complement(1736626..1738029)	Hydrolase (HAD superfamily)
+smn:SMA_1792	CDS	1738100..1739062	ansA; L-asparaginase
+smn:SMA_1793	CDS	complement(1739127..1739330)	Predicted transcriptional regulator
+smn:SMA_1794	CDS	complement(1739343..1739846)	Hypothetical protein
+smn:SMA_1795	gene	complement(1739874..1740325)	pseudogene
+smn:SMA_1796	CDS	1740713..1741969	tnpA; IS1167, transposase
+smn:SMA_1797	CDS	complement(1742244..1744259)	recG; ATP-dependent DNA helicase RecG
+smn:SMA_1798	CDS	complement(1744346..1745452)	alr; Alanine racemase
+smn:SMA_1799	CDS	complement(1745513..1745872)	acpS; Holo-[acyl-carrier protein] synthase
+smn:SMA_1800	CDS	complement(1745993..1747048)	3-deoxy-7-phosphoheptulonate synthase
+smn:SMA_1801	CDS	complement(1747052..1748083)	3-deoxy-7-phosphoheptulonate synthase
+smn:SMA_1802	CDS	complement(1748180..1750708)	secA; Protein export cytoplasm protein SecA ATPase RNA helicase
+smn:SMA_1803	CDS	complement(1750994..1751875)	scrK; Fructokinase
+smn:SMA_1804	CDS	complement(1752029..1753924)	scrA; PTS system, sucrose-specific IIB component/PTS system, sucrose-specific IIC component/PTS system, sucrose-specific IIA component
+smn:SMA_1805	CDS	1754123..1755562	scrB; Sucrose-6-phosphate hydrolase
+smn:SMA_1806	CDS	1755564..1756526	scrR; Sucrose operon repressor ScrR, LacI family
+smn:SMA_1807	CDS	complement(1756632..1757060)	nusB; Transcription termination protein NusB
+smn:SMA_1808	CDS	complement(1757053..1757442)	Alkaline shock protein
+smn:SMA_1809	CDS	complement(1757521..1758081)	efp; Translation elongation factor P
+smn:SMA_1810	CDS	complement(1758206..1758661)	comEB; dCMP deaminase; Late competence protein ComEB
+smn:SMA_1811	CDS	complement(1758683..1759744)	Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP-specific)
+smn:SMA_1812	CDS	complement(1759903..1762728)	uvrA; Excinuclease ABC subunit A
+smn:SMA_1813	CDS	1763047..1763991	corA; Magnesium and cobalt transport protein CorA
+smn:SMA_1814	CDS	1764301..1764957	Integral membrane protein
+smn:SMA_1815	gene	complement(1765003..1765453)	pseudogene
+smn:SMA_1816	CDS	complement(1765455..1765664)	Predicted transcriptional regulator
+smn:SMA_1817	gene	complement(1765667..1766191)	pseudogene
+smn:SMA_1818	CDS	complement(1766284..1766523)	rpsR; SSU ribosomal protein S18p
+smn:SMA_1819	CDS	complement(1766584..1767084)	ssb1; Single-stranded DNA-binding protein 1
+smn:SMA_1820	CDS	complement(1767096..1767386)	rpsF; SSU ribosomal protein S6p
+smn:SMA_1821	CDS	complement(1767611..1767775)	Hypothetical protein
+smn:SMA_1822	CDS	1768202..1768462	Transposase
+smn:SMA_1823	gene	1768459..1769312	pseudogene
+smn:SMA_1824	CDS	complement(1769568..1770569)	Glycosyltransferase
+smn:SMA_1825	CDS	1770897..1771577	Transposase
+smn:SMA_1826	gene	1771633..1771758	pseudogene
+smn:SMA_1827	gene	complement(1771850..1772016)	pseudogene
+smn:SMA_1828	CDS	1773205..1774359	yfhQ; A/G-specific adenine glycosylase
+smn:SMA_1829	CDS	1774588..1774830	Gfa-like protein
+smn:SMA_1830	gene	complement(1774875..1776082)	pseudogene
+smn:SMA_1831	CDS	1776317..1776787	Fumarate reductase, flavoprotein subunit precursor
+smn:SMA_1832	gene	1776790..1776936	pseudogene
+smn:SMA_1833	CDS	1776950..1779364	ifcA; Fumarate reductase flavoprotein subunit
+smn:SMA_1834	CDS	complement(1779557..1779985)	Hypothetical protein
+smn:SMA_1835	CDS	complement(1780094..1780513)	Hypothetical protein
+smn:SMA_1836	CDS	complement(1780601..1781644)	adhB; Alcohol dehydrogenase
+smn:SMA_1837	CDS	complement(1782052..1782366)	trxA; Thioredoxin
+smn:SMA_1838	CDS	1782628..1783125	Phosphatidylglycerophosphatase B
+smn:SMA_1839	CDS	complement(1783205..1784065)	nadC; Nicotinate-nucleotide pyrophosphorylase
+smn:SMA_1840	CDS	complement(1784093..1784368)	nadB; L-aspartate oxidase
+smn:SMA_1841	CDS	complement(1784399..1784962)	nadB; L-aspartate oxidase
+smn:SMA_1842	CDS	complement(1784962..1785336)	nadB; L-aspartate oxidase
+smn:SMA_1843	gene	complement(1785302..1785397)	pseudogene
+smn:SMA_1844	gene	1785634..1786555	nadA; pseudogene
+smn:SMA_1845	CDS	1786722..1787978	tnpA; IS1167, transposase
+smn:SMA_1846	CDS	complement(1788038..1790374)	mutS2; Recombination inhibitory protein MutS2
+smn:SMA_1847	CDS	complement(1790480..1791028)	Colicin V production protein
+smn:SMA_1848	CDS	complement(1791031..1791339)	Hypothetical protein
+smn:SMA_1849	CDS	1791461..1792363	rnhC; Ribonuclease HIII
+smn:SMA_1850	CDS	1792380..1792973	lepB; Signal peptidase I
+smn:SMA_1851	CDS	1793091..1795568	yrrC; RecD-like DNA helicase YrrC
+smn:SMA_1852	CDS	1795803..1796306	putative membrane protein precursor
+smn:SMA_1853	CDS	complement(1796362..1797459)	dinB; DNA polymerase IV
+smn:SMA_1854	CDS	1797685..1800009	pfl; Pyruvate formate-lyase
+smn:SMA_1855	CDS	1800069..1800506	Hypothetical protein
+smn:SMA_1856	CDS	complement(1800875..1801489)	Hypothetical protein
+smn:SMA_1857	CDS	complement(1801587..1802507)	Beta-lactamase, class C
+smn:SMA_1858	CDS	complement(1802504..1803250)	C3-degrading proteinase
+smn:SMA_1859	CDS	complement(1803578..1804834)	tnpA; IS1193, transposase, ISL3 family
+smn:SMA_1860	gene	1804858..1805022	pseudogene
+smn:SMA_1861	CDS	complement(1805017..1805862)	gla; Aquaporin (Major Intrinsic Protein Family)
+smn:SMA_1862	CDS	1805984..1808275	pepX; Xaa-Pro dipeptidyl-peptidase
+smn:SMA_1863	CDS	complement(1808597..1810249)	phoR; Phosphate regulon sensor protein PhoR (SphS)
+smn:SMA_1864	CDS	complement(1810242..1810919)	phoB; Phosphate regulon transcriptional regulatory protein PhoB (SphR)
+smn:SMA_1865	CDS	complement(1810916..1811569)	phoU; Phosphate transport system regulatory protein PhoU
+smn:SMA_1866	CDS	complement(1811566..1812315)	pstB3; Phosphate transport ATP-binding protein PstB
+smn:SMA_1867	CDS	complement(1812308..1813186)	Phosphate transport system permease protein PstA
+smn:SMA_1868	CDS	complement(1813189..1814034)	Phosphate transport system permease protein PstC
+smn:SMA_1869	CDS	complement(1814045..1814926)	pstS2; Phosphate ABC transporter, periplasmic phosphate-binding protein PstS
+smn:SMA_1870	CDS	1815178..1815477	Transcriptional regulatory protein
+smn:SMA_1871	CDS	complement(1815522..1816226)	mta; Transcriptional regulator, MerR family
+smn:SMA_1872	CDS	complement(1816329..1816916)	polC; DNA polymerase III alpha subunit; DNA polymerase III epsilon chain
+smn:SMA_1873	CDS	complement(1816989..1817522)	Transcriptional regulator OrfX
+smn:SMA_1874	CDS	1817744..1818916	NAD(FAD)-utilizing dehydrogenase
+smn:SMA_1875	CDS	1819046..1819315	rpsN; SSU ribosomal protein S14p (S29e)
+smn:SMA_1876	gene	1819446..1819652	pseudogene
+smn:SMA_1877	CDS	complement(1819641..1819967)	Hypothetical protein
+smn:SMA_1878	CDS	complement(1819957..1820652)	Branched-chain amino acid transport protein AzlC
+smn:SMA_1879	CDS	complement(1820746..1821756)	gcp; putative O-sialoglycoprotein endopeptidase
+smn:SMA_1880	CDS	complement(1821766..1822206)	rimI; Ribosomal-protein-S18p-alanine acetyltransferase
+smn:SMA_1881	CDS	complement(1822190..1822879)	Inactive homolog of metal-dependent proteases, putative molecular chaperone
+smn:SMA_1882	CDS	1823060..1823290	Hypothetical protein
+smn:SMA_1883	CDS	1823292..1824974	Metallo-beta-lactamase superfamily protein
+smn:SMA_1884	gene	complement(1825239..1825865)	pseudogene
+smn:SMA_1885	CDS	complement(1826058..1827497)	gltB; Glutamate synthase [NADPH] small chain
+smn:SMA_1886	CDS	complement(1827499..1832016)	Glutamate synthase [NADPH] large chain
+smn:SMA_1887	CDS	complement(1832194..1833540)	glnA; Glutamine synthetase type I
+smn:SMA_1888	CDS	complement(1833590..1833961)	glnR; Transcriptional regulator, repressor of the glutamine synthetase, MerR family
+smn:SMA_1889	CDS	complement(1834050..1834586)	Hypothetical protein
+smn:SMA_1890	CDS	complement(1834816..1836012)	pgk; Phosphoglycerate kinase
+smn:SMA_1891	CDS	complement(1836200..1837213)	gap; NAD-dependent glyceraldehyde-3-phosphate dehydrogenase
+smn:SMA_1892	CDS	complement(1837419..1839497)	fusA; Translation elongation factor G
+smn:SMA_1893	CDS	complement(1839696..1840166)	rpsG; SSU ribosomal protein S7p (S5e)
+smn:SMA_1894	CDS	complement(1840187..1840600)	rpsL; SSU ribosomal protein S12p (S23e)
+smn:SMA_1895	gene	complement(1840624..1840824)	pseudogene
+smn:SMA_1896	CDS	complement(1840887..1841699)	purR; PurR: transcription regulator associated with purine metabolism
+smn:SMA_1897	CDS	complement(1841856..1842794)	CMP-binding-factor 1
+smn:SMA_1898	CDS	complement(1842784..1844058)	rmuC; DNA recombination protein RmuC
+smn:SMA_1899	CDS	complement(1844060..1844689)	thiN; Thiamin pyrophosphokinase
+smn:SMA_1900	CDS	complement(1844686..1845345)	rpe; Ribulose-phosphate 3-epimerase
+smn:SMA_1901	CDS	complement(1845352..1846224)	Ribosome small subunit-stimulated GTPase EngC
+smn:SMA_tRNA_65	tRNA	1846352..1846435	tRNA-Leu
+smn:SMA_tRNA_66	tRNA	1846492..1846580	tRNA-Ser
+smn:SMA_1902	CDS	complement(1846666..1846923)	Hypothetical protein
+smn:SMA_1903	CDS	complement(1847053..1847367)	Histidine kinase of the competence regulon ComD
+smn:SMA_1904	CDS	complement(1847499..1847645)	Hypothetical protein
+smn:SMA_1905	CDS	complement(1847941..1848252)	Conserved hypothetical protein
+smn:SMA_1906	CDS	complement(1848264..1848413)	Hypothetical protein
+smn:SMA_1907	CDS	complement(1848423..1848602)	Hypothetical protein
+smn:SMA_1908	CDS	complement(1848544..1848723)	Hypothetical protein
+smn:SMA_1909	CDS	1848944..1849084	Hypothetical protein
+smn:SMA_1910	CDS	complement(1849102..1850409)	Histidine kinase of the competence regulon ComD
+smn:SMA_1911	CDS	complement(1850417..1851148)	Response regulator of the competence regulon ComE
+smn:SMA_1912	CDS	complement(1851165..1851491)	BlpS protein
+smn:SMA_1913	CDS	complement(1851651..1852505)	nisX1; Transposase
+smn:SMA_1914	CDS	complement(1852502..1852762)	Transposase
+smn:SMA_1915	CDS	complement(1852920..1853051)	Hypothetical protein
+smn:SMA_1916	gene	complement(1853159..1853266)	pseudogene
+smn:SMA_1917	CDS	complement(1853573..1854742)	Multidrug-efflux transporter
+smn:SMA_1918	CDS	complement(1854735..1855790)	MccB-like protein
+smn:SMA_1919	CDS	1856233..1857201	IS1191, transposase, IS256 family
+smn:SMA_1920	CDS	complement(1857707..1857895)	Hypothetical protein
+smn:SMA_1921	CDS	complement(1857915..1858214)	Bacteriocin-like peptide J BlpJ
+smn:SMA_1922	gene	complement(1858340..1858592)	pseudogene
+smn:SMA_1923	CDS	complement(1858585..1859019)	Bacteriocin immunity protein BlpY
+smn:SMA_1924	CDS	complement(1859189..1859500)	Hypothetical protein
+smn:SMA_1925	CDS	complement(1859588..1859818)	Hypothetical protein
+smn:SMA_1926	gene	1860060..1862203	pseudogene
+smn:SMA_1927	CDS	1862215..1863609	Competence-stimulating peptide ABC transporter permease protein ComB
+smn:SMA_1928	CDS	complement(1863743..1864615)	Dimethyladenosine transferase
+smn:SMA_1929	CDS	complement(1864685..1865149)	Hypothetical protein
+smn:SMA_1930	CDS	complement(1865206..1865775)	Ribonuclease M5
+smn:SMA_1931	CDS	complement(1865768..1866538)	putative deoxyribonuclease YcfH
+smn:SMA_1932	CDS	complement(1866675..1867076)	Collagen-binding protein A
+smn:SMA_1933	gene	complement(1867087..1867260)	pseudogene
+smn:SMA_1934	CDS	complement(1867205..1868266)	cna; Collagen adhesin precursor
+smn:SMA_1935	CDS	complement(1868276..1870072)	zosA; Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase
+smn:SMA_1936	gene	1870257..1870641	pseudogene
+smn:SMA_1937	CDS	complement(1870696..1871634)	Sortase A, LPXTG specific
+smn:SMA_1938	CDS	complement(1871779..1873215)	Autotransporter adhesin
+smn:SMA_1939	CDS	complement(1873306..1878318)	Ribonucleases G and E
+smn:SMA_1940	CDS	complement(1878359..1878952)	spsB; Signal peptidase I
+smn:SMA_1941	CDS	complement(1878939..1879196)	Hypothetical protein
+smn:SMA_1942	gene	complement(1879324..1879437)	pseudogene
+smn:SMA_1943	CDS	complement(1879838..1880158)	Methlytransferase, UbiE/COQ5 family
+smn:SMA_1944	CDS	complement(1880160..1880660)	Manganese ABC transporter, periplasmic-binding protein SitA
+smn:SMA_1945	CDS	complement(1880916..1882187)	Malate Na(+) symporter
+smn:SMA_1946	CDS	complement(1882209..1883831)	mleS; Malolactic enzyme
+smn:SMA_1947	CDS	1883988..1884869	mleR; Malolactic regulator
+smn:SMA_1948	gene	complement(1884978..1885133)	pseudogene
+smn:SMA_1949	CDS	complement(1885250..1886524)	dltD; Poly(glycerophosphate chain) D-alanine transfer protein DltD
+smn:SMA_1950	CDS	complement(1886517..1886756)	dltC; D-alanine--poly(phosphoribitol) ligase subunit 2
+smn:SMA_1951	CDS	complement(1886787..1888049)	dltB; D-alanyl transfer protein DltB
+smn:SMA_1952	CDS	complement(1888046..1889584)	dltA; D-alanine--poly(phosphoribitol) ligase subunit 1
+smn:SMA_1953	CDS	complement(1889599..1889721)	Hypothetical protein
+smn:SMA_1954	CDS	complement(1889973..1890224)	Hypothetical protein
+smn:SMA_1955	CDS	complement(1890295..1890504)	Hypothetical protein
+smn:SMA_1956	CDS	complement(1890621..1891244)	atpD; V-type ATP synthase subunit D
+smn:SMA_1957	CDS	complement(1891278..1892672)	atpB; V-type ATP synthase subunit B
+smn:SMA_1958	gene	complement(1892674..1894002)	atpA; pseudogene
+smn:SMA_1959	CDS	complement(1893972..1894238)	Hypothetical protein
+smn:SMA_1960	CDS	complement(1894356..1894490)	rpmH; LSU ribosomal protein L34p
+smn:SMA_1961	CDS	complement(1894918..1896270)	Hypothetical protein
+smn:SMA_1962	CDS	complement(1896422..1896835)	Conserved hypothetical protein
+smn:SMA_1963	CDS	complement(1896883..1897677)	Transposase TnpA
+smn:SMA_1964	gene	1898184..1898915	pseudogene
+smn:SMA_1965	CDS	complement(1899065..1901182)	copB; Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase
+smn:SMA_1966	CDS	complement(1901322..1901528)	Copper chaperone
+smn:SMA_1967	CDS	complement(1901676..1903241)	Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase
+smn:SMA_1968	CDS	complement(1903303..1903530)	Hypothetical protein
+smn:SMA_1969	CDS	complement(1903593..1903892)	copA; Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase
+smn:SMA_1970	CDS	complement(1903868..1904068)	Hypothetical protein
+smn:SMA_1971	CDS	complement(1904081..1904485)	Negative transcriptional regulator-copper transport operon
+smn:SMA_1972	gene	complement(1904693..1905082)	pseudogene
+smn:SMA_1973	CDS	complement(1905049..1905150)	Hypothetical protein
+smn:SMA_1974	gene	1905225..1905572	pseudogene
+smn:SMA_1975	CDS	complement(1905674..1906528)	nisX1; Transposase
+smn:SMA_1976	CDS	complement(1906525..1906785)	Transposase
+smn:SMA_1977	CDS	complement(1906806..1907432)	ltrBE1; Tn5252, relaxase
+smn:SMA_1978	CDS	complement(1907419..1907784)	Hypothetical protein
+smn:SMA_1979	gene	complement(1907794..1908153)	pseudogene
+smn:SMA_1980	CDS	1908479..1908625	Hypothetical protein
+smn:SMA_1981	CDS	complement(1908819..1910060)	Maturase-related protein
+smn:SMA_1982	CDS	complement(1910881..1912449)	ubiB; Ubiquinone biosynthesis monooxygenase UbiB
+smn:SMA_1983	CDS	complement(1912459..1912731)	Hypothetical protein
+smn:SMA_1984	CDS	complement(1912891..1913223)	Hypothetical protein
+smn:SMA_1985	CDS	complement(1913255..1913443)	IS1381, transposase OrfA
+smn:SMA_1986	gene	complement(1913402..1913503)	pseudogene
+smn:SMA_1987	gene	complement(1913506..1913664)	pseudogene
+smn:SMA_1988	CDS	complement(1913781..1914071)	Transposase
+smn:SMA_1989	gene	1914093..1914368	pseudogene
+smn:SMA_1990	CDS	complement(1914481..1938363)	Hypothetical protein
+smn:SMA_1991	CDS	complement(1938715..1939509)	nisX1; Transposase
+smn:SMA_1992	CDS	complement(1939611..1939859)	Hypothetical protein
+smn:SMA_1993	CDS	complement(1940042..1941010)	Hypothetical protein
+smn:SMA_1994	CDS	complement(1941057..1941503)	Conserved hypothetical protein
+smn:SMA_1995	CDS	complement(1941622..1941846)	Hypothetical protein
+smn:SMA_1996	gene	complement(1941897..1942694)	pseudogene
+smn:SMA_1997	CDS	complement(1942698..1943063)	Hypothetical protein
+smn:SMA_1998	CDS	complement(1943184..1943768)	Resolvase
+smn:SMA_1999	CDS	complement(1943874..1944671)	Hypothetical protein
+smn:SMA_2000	CDS	complement(1944707..1946335)	Hypothetical protein
+smn:SMA_2001	CDS	complement(1946307..1946681)	Hypothetical protein
+smn:SMA_2002	CDS	1946680..1946907	Hypothetical protein
+smn:SMA_2003	CDS	complement(1946989..1947288)	Hypothetical protein
+smn:SMA_2004	CDS	complement(1947346..1951983)	Hypothetical protein
+smn:SMA_2005	CDS	complement(1952032..1953768)	topB; DNA topoisomerase III
+smn:SMA_2006	gene	complement(1953909..1954043)	pseudogene
+smn:SMA_2007	CDS	complement(1954030..1954305)	Hypothetical protein
+smn:SMA_2008	CDS	complement(1954387..1954524)	Hypothetical protein
+smn:SMA_2009	CDS	complement(1954560..1956626)	Hypothetical protein
+smn:SMA_2010	CDS	complement(1956626..1957117)	Hypothetical protein
+smn:SMA_2011	CDS	complement(1957135..1957938)	Hypothetical protein
+smn:SMA_2012	CDS	complement(1957938..1958213)	Hypothetical protein
+smn:SMA_2013	CDS	complement(1958229..1958615)	ssb2; Single-stranded DNA-binding protein
+smn:SMA_2014	CDS	complement(1958628..1959233)	Hypothetical protein
+smn:SMA_2015	CDS	complement(1959255..1961918)	Hypothetical protein
+smn:SMA_2016	CDS	complement(1962004..1962258)	Hypothetical protein
+smn:SMA_2017	CDS	complement(1962448..1964814)	Hypothetical protein
+smn:SMA_2018	CDS	complement(1964789..1965145)	Hypothetical protein
+smn:SMA_2019	CDS	complement(1965202..1965954)	Hypothetical protein
+smn:SMA_2020	CDS	complement(1966013..1966585)	Hypothetical protein
+smn:SMA_2021	CDS	complement(1966665..1966892)	Hypothetical protein
+smn:SMA_2022	CDS	complement(1967084..1970428)	Hypothetical protein
+smn:SMA_2023	CDS	complement(1970569..1973964)	Hypothetical protein
+smn:SMA_2024	CDS	complement(1973988..1974797)	Extracellular protein
+smn:SMA_2025	CDS	complement(1974810..1975136)	Hypothetical protein
+smn:SMA_2026	CDS	complement(1975377..1975535)	Hypothetical protein
+smn:SMA_2027	gene	complement(1975528..1975824)	pseudogene
+smn:SMA_2028	CDS	complement(1975815..1976438)	Hypothetical protein
+smn:SMA_2029	CDS	complement(1976443..1976604)	Hypothetical protein
+smn:SMA_2030	CDS	complement(1976787..1977188)	Hypothetical protein
+smn:SMA_2031	CDS	complement(1977199..1977654)	Response regulator of the LytR/AlgR family
+smn:SMA_2032	CDS	complement(1977668..1978507)	ABC-type multidrug transport system, permease component
+smn:SMA_2033	CDS	complement(1978509..1979360)	Zinc ABC transporter, ATP-binding protein ZnuC
+smn:SMA_2034	CDS	complement(1979483..1980490)	jag; RNA-binding protein Jag
+smn:SMA_2035	CDS	complement(1980503..1981318)	Inner membrane protein translocase component YidC, short form OxaI-like
+smn:SMA_2036	CDS	complement(1981302..1981661)	rnpA; Ribonuclease P protein component
+smn:SMA_2037	CDS	complement(1981790..1983184)	argH; Argininosuccinate lyase
+smn:SMA_2038	CDS	complement(1983638..1984888)	argG; Argininosuccinate synthase
+smn:SMA_2039	CDS	complement(1985051..1986217)	Cyanate permease
+smn:SMA_2040	CDS	complement(1986393..1987850)	gltX; Glutamyl-tRNA synthetase
+smn:SMA_2041	gene	complement(1988036..1988323)	pseudogene
+smn:SMA_2042	gene	complement(1988270..1988443)	pseudogene
+smn:SMA_2043	CDS	complement(1988499..1989179)	Transposase
+smn:SMA_2044	CDS	complement(1989563..1990513)	Magnesium transporter, CorA family
+smn:SMA_2045	CDS	complement(1990644..1991024)	Hypothetical protein
+smn:SMA_2046	CDS	complement(1991092..1991196)	Hypothetical protein
+smn:SMA_2047	CDS	complement(1991311..1991805)	Carbonic anhydrase
+smn:SMA_2048	CDS	complement(1991931..1993232)	radA; DNA repair protein RadA
+smn:SMA_2049	CDS	complement(1993310..1993812)	Hypothetical protein
+smn:SMA_2050	CDS	complement(1993843..1994289)	dut; Deoxyuridine 5'-triphosphate nucleotidohydrolase
+smn:SMA_2051	gene	complement(1994383..1995376)	pseudogene
+smn:SMA_2052	CDS	complement(1995564..1996331)	Hypothetical protein
+smn:SMA_2053	CDS	1996526..1997542	gpsA; Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+smn:SMA_2054	CDS	1997602..1998516	cap4C; UTP--glucose-1-phosphate uridylyltransferase
+smn:SMA_2055	CDS	complement(1998563..1999234)	GlpG protein (membrane protein of glp regulon)
+smn:SMA_2056	CDS	complement(1999231..1999758)	5-formyltetrahydrofolate cyclo-ligase
+smn:SMA_2057	CDS	complement(2000042..2001208)	dapL; N-acetyl-L,L-diaminopimelate deacetylase
+smn:SMA_2058	gene	complement(2001242..2001357)	pseudogene
+smn:SMA_2059	CDS	complement(2001427..2002125)	dapH; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+smn:SMA_2060	CDS	complement(2002406..2003359)	Hypothetical protein
+smn:SMA_2061	CDS	complement(2003391..2003783)	Prophage Lp1 protein 6
+smn:SMA_2062	CDS	complement(2003823..2004281)	Hypothetical protein
+smn:SMA_2063	CDS	complement(2004296..2004790)	Hypothetical protein
+smn:SMA_2064	CDS	complement(2004951..2006300)	pgi; Glucose-6-phosphate isomerase
+smn:SMA_2065	CDS	2006348..2006536	Hypothetical protein
+smn:SMA_2066	CDS	complement(2006739..2007245)	tadA; tRNA-specific adenosine deaminase
+smn:SMA_2067	CDS	complement(2007245..2008021)	Metal-dependent hydrolase
+smn:SMA_2068	CDS	complement(2008081..2008611)	bioY; Substrate-specific component BioY of biotin ECF transporter
+smn:SMA_2069	CDS	complement(2008615..2008923)	Hypothetical protein
+smn:SMA_2070	CDS	complement(2009061..2010203)	tgt; tRNA-guanine transglycosylase
+smn:SMA_2071	CDS	complement(2010272..2010379)	Hypothetical protein
+smn:SMA_2072	CDS	2010474..2011232	Hypothetical membrane protein
+smn:SMA_2073	CDS	complement(2011308..2011805)	perR; Peroxide stress regulator PerR, FUR family
+smn:SMA_2074	CDS	2012071..2012607	padC; Phenolic acid decarboxylase
+smn:SMA_2075	gene	2012672..2013226	pseudogene
+smn:SMA_2076	CDS	complement(2013264..2013686)	Succinyl-CoA synthetase, alpha subunit-related enzyme
+smn:SMA_2077	CDS	complement(2013955..2016591)	polA; DNA polymerase I
+smn:SMA_2078	CDS	complement(2016993..2017937)	Malate permease
+smn:SMA_2079	CDS	complement(2018074..2019378)	Hypothetical protein
+smn:SMA_2080	CDS	2019677..2020433	Hypothetical protein
+smn:SMA_2081	gene	2020437..2020837	pseudogene
+smn:SMA_2082	CDS	complement(2020900..2022192)	purA; Adenylosuccinate synthetase
+smn:SMA_2083	CDS	2022688..2024940	gshAB; Glutathione biosynthesis bifunctional protein gshAB
+smn:SMA_2084	CDS	2025063..2025890	Hypothetical protein
+smn:SMA_2085	CDS	2025920..2027194	putative toxic anion resistance protein
+smn:SMA_2086	CDS	2027307..2028173	hslO; Chaperonin (heat shock protein 33)
+smn:SMA_2087	CDS	2028166..2029143	dus1; tRNA dihydrouridine synthase 1
+smn:SMA_2088	CDS	complement(2029217..2031658)	clpA; ATP-dependent Clp protease ATP-binding subunit ClpA
+smn:SMA_2089	CDS	complement(2031655..2032116)	ctsR; Transcriptional regulator CtsR
+smn:SMA_2090	CDS	2032506..2032709	Hypothetical protein
+smn:SMA_2091	CDS	2032826..2033290	Small multidrug export protein
+smn:SMA_2092	CDS	complement(2033428..2034465)	tsf; Translation elongation factor Ts
+smn:SMA_2093	CDS	complement(2034576..2035432)	rpsB; SSU ribosomal protein S2p (SAe)
+smn:SMA_tRNA_67	tRNA	complement(2035658..2035728)	tRNA-Cys
+smn:SMA_2094	CDS	2035866..2036819	yocD; Muramoyltetrapeptide carboxypeptidase
+smn:SMA_2095	gene	complement(2037091..2037955)	pseudogene
+smn:SMA_2096	CDS	complement(2038303..2040198)	Neutral endopeptidase O
+smn:SMA_2097	CDS	2040334..2041314	Predicted dehydrogenase and related protein
+smn:SMA_2098	CDS	2041567..2041731	Hypothetical protein
+smn:SMA_2099	gene	complement(2041716..2042441)	treA; pseudogene
+smn:SMA_2100	CDS	2042629..2043231	Transcriptional regulator
+smn:SMA_2101	CDS	complement(2044199..2045197)	ruvB; Holliday junction DNA helicase RuvB
+smn:SMA_2102	CDS	complement(2045694..2046308)	nrdG; Ribonucleotide reductase of class III (anaerobic), activating protein
+smn:SMA_2103	CDS	complement(2046349..2046855)	Acetyltransferase
+smn:SMA_2104	CDS	complement(2046867..2047013)	Hypothetical protein
+smn:SMA_2105	CDS	complement(2047252..2049468)	nrdD; Ribonucleotide reductase of class III (anaerobic), large subunit
+smn:SMA_2106	CDS	complement(2049570..2051159)	Competence-induced protein Ccs4
+smn:SMA_2107	CDS	complement(2051275..2051409)	Hypothetical protein
+smn:SMA_2108	CDS	complement(2051422..2051739)	Hypothetical protein
+smn:SMA_2109	CDS	complement(2051772..2052191)	yggF; putative Holliday junction resolvase
+smn:SMA_2110	CDS	complement(2052188..2052457)	Hypothetical protein possible functionally linked with Alanyl-tRNA synthetase
+smn:SMA_2111	CDS	complement(2052779..2053177)	spxA2; Transcriptional regulator SpxA2
+smn:SMA_2112	CDS	complement(2053446..2054600)	recA; RecA protein
+smn:SMA_2113	CDS	complement(2054650..2055909)	cinA; Competence/damage-inducible protein CinA
+smn:SMA_2114	CDS	complement(2056067..2056504)	Facilitator superfamily protein
+smn:SMA_2115	CDS	complement(2056443..2056673)	Facilitator superfamily protein
+smn:SMA_2116	CDS	complement(2056631..2057005)	Facilitator superfamily protein
+smn:SMA_2117	CDS	complement(2057387..2057689)	Hypothetical protein
+smn:SMA_2118	CDS	complement(2057708..2057851)	Hypothetical protein
+smn:SMA_2119	CDS	2058112..2058768	Hypothetical protein
+smn:SMA_2120	CDS	complement(2058873..2059466)	ruvA; Holliday junction DNA helicase RuvA
+smn:SMA_2121	CDS	complement(2059468..2061411)	mutL; DNA mismatch repair protein MutL
+smn:SMA_2122	CDS	complement(2061528..2064098)	mutS; DNA mismatch repair protein MutS
+smn:SMA_2123	CDS	complement(2064085..2064441)	Hypothetical protein
+smn:SMA_2124	CDS	complement(2064438..2064875)	argR2; Arginine repressor ArgR, putative
+smn:SMA_2125	CDS	2065065..2066756	argS; Arginyl-tRNA synthetase
+smn:SMA_2126	CDS	2066868..2067161	Hypothetical protein
+smn:SMA_2127	gene	complement(2067203..2068695)	pseudogene
+smn:SMA_2128	CDS	complement(2069043..2069915)	Transporter
+smn:SMA_2129	CDS	complement(2069999..2070937)	Integral membrane protein
+smn:SMA_2130	CDS	complement(2070930..2072678)	aspS; Aspartyl-tRNA synthetase
+smn:SMA_2131	CDS	complement(2072836..2074113)	hisS; Histidyl-tRNA synthetase
+smn:SMA_2132	CDS	2074298..2074639	Probably aromatic ring hydroxylating enzyme, evidenced by COGnitor; PaaD-like protein involved in Fe-S cluster assembly
+smn:SMA_2133	CDS	complement(2074719..2076425)	ilvD; Dihydroxy-acid dehydratase
+smn:SMA_2134	CDS	2076699..2076875	rpmF; LSU ribosomal protein L32p
+smn:SMA_2135	CDS	2076891..2077040	rpmG2; LSU ribosomal protein L33p
+smn:SMA_2136	gene	2077114..2077398	pseudogene
+smn:SMA_2137	CDS	2077598..2077837	Hypothetical protein
+smn:SMA_2138	CDS	2077917..2078483	Hypothetical protein
+smn:SMA_2139	CDS	2078495..2078665	Hypothetical protein
+smn:SMA_2140	CDS	2078678..2079295	General stress protein, Gls24 family
+smn:SMA_2141	CDS	2079512..2079823	Hypothetical protein
+smn:SMA_2142	CDS	complement(2080005..2080463)	Transcriptional regulator, MarR family
+smn:SMA_2143	CDS	complement(2080468..2080632)	Hypothetical protein
+smn:SMA_2144	CDS	complement(2080629..2080868)	Hypothetical protein
+smn:SMA_2145	CDS	2081146..2081472	Transcriptional regulator, PadR family
+smn:SMA_2146	gene	2081459..2081915	pseudogene
+smn:SMA_2147	gene	2082039..2082938	pseudogene
+smn:SMA_2148	CDS	complement(2082977..2083330)	Hypothetical protein
+smn:SMA_2149	CDS	complement(2083550..2086228)	Phage infection protein
+smn:SMA_2150	CDS	2086330..2086902	Transcriptional regulator, TetR family
+smn:SMA_2151	CDS	complement(2087276..2087887)	rpsD; SSU ribosomal protein S4p (S9e)
+smn:SMA_2152	CDS	complement(2088154..2088426)	Hypothetical protein
+smn:SMA_2153	CDS	complement(2088465..2089826)	dnaC; Replicative DNA helicase
+smn:SMA_2154	CDS	complement(2089863..2090315)	rplI; LSU ribosomal protein L9p
+smn:SMA_2155	CDS	complement(2090315..2092291)	Phosphoesterase, DHH family protein
+smn:SMA_2156	CDS	complement(2092378..2094282)	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+smn:SMA_2157	CDS	complement(2094599..2095720)	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+smn:SMA_2158	CDS	2095959..2096630	sdaAB; L-serine dehydratase, beta subunit
+smn:SMA_2159	CDS	2096642..2097514	sdaAA; L-serine dehydratase, alpha subunit
+smn:SMA_2160	CDS	2097614..2098249	Phosphoglycolate phosphatase
+smn:SMA_2161	CDS	complement(2098279..2098935)	Immunodominant antigen A
+smn:SMA_2162	CDS	complement(2099142..2099735)	ygeR; Aggregation promoting factor
+smn:SMA_2163	CDS	complement(2099868..2100665)	ABC transporter permease
+smn:SMA_2164	CDS	complement(2100658..2101500)	ABC transporter ATP-binding protein
+smn:SMA_2165	CDS	complement(2101476..2102318)	ABC transporter ATP-binding protein
+smn:SMA_2166	CDS	complement(2102315..2102869)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+smn:SMA_2167	CDS	complement(2102879..2103823)	Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system
+smn:SMA_2168	CDS	complement(2103887..2105176)	Peptidase, M16 family
+smn:SMA_2169	CDS	complement(2105177..2106421)	Zinc protease
+smn:SMA_2170	CDS	complement(2107377..2107700)	Hypothetical protein
+smn:SMA_2171	CDS	complement(2108554..2108757)	cspA; Cold shock protein CspA
+smn:SMA_2172	CDS	complement(2109019..2109348)	Phage protein
+smn:SMA_2173	gene	complement(2109507..2109887)	pseudogene
+smn:SMA_2174	CDS	complement(2110173..2110265)	Hypothetical protein
+smn:SMA_2175	CDS	complement(2110301..2110618)	Hypothetical protein
+smn:SMA_2176	gene	2110840..2111214	pseudogene
+smn:SMA_2177	CDS	2111290..2112126	Inegral membrane protein
+smn:SMA_2178	gene	complement(2112224..2112850)	pseudogene
+smn:SMA_2179	gene	2113092..2113838	pseudogene
+smn:SMA_2180	CDS	2113962..2114339	Hypothetical protein
+smn:SMA_2181	CDS	2114342..2115436	recF; DNA recombination and repair protein RecF
+smn:SMA_2182	CDS	complement(2115499..2116365)	putative sugar uptake protein
+smn:SMA_2183	CDS	complement(2116606..2118087)	guaB; Inosine-5'-monophosphate dehydrogenase
+smn:SMA_2184	CDS	complement(2118346..2119368)	trpS; Tryptophanyl-tRNA synthetase
+smn:SMA_2185	CDS	2119847..2120719	Hypothetical protein
+smn:SMA_2186	CDS	2120802..2122424	ABC transporter ATP-binding protein
+smn:SMA_2187	CDS	2122519..2125113	ABC transporter, permease protein
+smn:SMA_tRNA_68	tRNA	complement(2125179..2125252)	tRNA-Asn
+smn:SMA_tRNA_69	tRNA	complement(2125283..2125354)	tRNA-Glu
+smn:SMA_2188	CDS	2126024..2126287	insI1; Transposase
+smn:SMA_2189	CDS	2126280..2126573	Transposase
+smn:SMA_tRNA_70	tRNA	2126816..2126889	tRNA-Arg
+smn:SMA_2190	CDS	complement(2127031..2127510)	rlmH; LSU m3Psi methyltransferase RlmH
+smn:SMA_2191	CDS	2127721..2128986	htrA; Serine protease, DegP/HtrA, do-like
+smn:SMA_2192	CDS	2129056..2129832	Chromosome (plasmid) partitioning protein ParB

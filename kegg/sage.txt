@@ -1,0 +1,2233 @@
+sage:EN72_00005	CDS	211..1572	chromosomal replication initiator protein DnaA
+sage:EN72_00010	CDS	1727..2863	DNA polymerase III subunit beta
+sage:EN72_00015	CDS	2921..3223	diacylglycerol kinase
+sage:EN72_00020	CDS	3220..3813	diacylglycerol kinase
+sage:EN72_00025	CDS	3823..4020	hypothetical protein
+sage:EN72_00035	CDS	4583..5698	GTP-binding protein
+sage:EN72_00040	CDS	5782..6357	peptidyl-tRNA hydrolase
+sage:EN72_00045	CDS	6354..9851	transcription-repair coupling factor
+sage:EN72_00050	CDS	10142..10414	hypothetical protein
+sage:EN72_00055	CDS	10401..10772	septum formation initiation protein
+sage:EN72_00060	CDS	10775..10909	recombinase
+sage:EN72_00065	CDS	10909..12195	beta-lactamase
+sage:EN72_00070	CDS	12197..13471	tRNA(Ile)-lysidine synthase
+sage:EN72_00075	CDS	13476..14018	hypoxanthine phosphoribosyltransferase
+sage:EN72_00080	CDS	14041..16017	cell division protein FtsH
+sage:EN72_00085	rRNA	16508..18060	16S ribosomal RNA
+sage:EN72_00090	tRNA	18112..18184	tRNA-Ala
+sage:EN72_00095	rRNA	18338..21243	23S ribosomal RNA
+sage:EN72_00100	rRNA	21316..21431	5S ribosomal RNA
+sage:EN72_00105	tRNA	21435..21507	tRNA-Val
+sage:EN72_00110	tRNA	21510..21582	tRNA-Asp
+sage:EN72_00115	tRNA	21585..21657	tRNA-Lys
+sage:EN72_00120	tRNA	21667..21748	tRNA-Leu
+sage:EN72_00125	tRNA	21759..21831	tRNA-Thr
+sage:EN72_00130	tRNA	21867..21938	tRNA-Gly
+sage:EN72_00135	tRNA	21947..22031	tRNA-Leu
+sage:EN72_00140	tRNA	22043..22116	tRNA-Arg
+sage:EN72_00145	tRNA	22124..22197	tRNA-Pro
+sage:EN72_00150	rRNA	22342..23894	16S ribosomal RNA
+sage:EN72_00155	tRNA	23946..24018	tRNA-Ala
+sage:EN72_00160	rRNA	24172..27077	23S ribosomal RNA
+sage:EN72_00165	rRNA	27150..27265	5S ribosomal RNA
+sage:EN72_00170	tRNA	27269..27341	tRNA-Val
+sage:EN72_00175	tRNA	27344..27416	tRNA-Asp
+sage:EN72_00180	tRNA	27419..27491	tRNA-Lys
+sage:EN72_00185	tRNA	27501..27582	tRNA-Leu
+sage:EN72_00190	tRNA	27593..27665	tRNA-Thr
+sage:EN72_00195	tRNA	27701..27772	tRNA-Gly
+sage:EN72_00200	tRNA	27781..27865	tRNA-Leu
+sage:EN72_00205	tRNA	27877..27950	tRNA-Arg
+sage:EN72_00210	tRNA	27958..28031	tRNA-Pro
+sage:EN72_00215	tRNA	28047..28120	tRNA-Met
+sage:EN72_00220	tRNA	28140..28213	tRNA-Met
+sage:EN72_00225	tRNA	28229..28318	tRNA-Ser
+sage:EN72_00230	tRNA	28329..28402	tRNA-Met
+sage:EN72_00235	tRNA	28405..28477	tRNA-Phe
+sage:EN72_00240	tRNA	28498..28568	tRNA-Gly
+sage:EN72_00245	tRNA	28603..28679	tRNA-Ile
+sage:EN72_00250	tRNA	28690..28777	tRNA-Ser
+sage:EN72_00255	CDS	29013..30356	peptidoglycan hydrolase
+sage:EN72_00260	CDS	30480..31448	ribose-phosphate pyrophosphokinase
+sage:EN72_00265	CDS	31556..32731	aromatic amino acid aminotransferase
+sage:EN72_00270	CDS	32721..33482	DNA recombination protein RecO
+sage:EN72_00275	CDS	33545..34423	CAAX protease
+sage:EN72_00280	CDS	34501..35493	phosphate acyltransferase
+sage:EN72_00285	CDS	35504..35743	acyl carrier protein
+sage:EN72_00290	CDS	35867..36571	phosphoribosylaminoimidazole-succinocarboxamide synthase
+sage:EN72_00295	CDS	36694..40419	phosphoribosylformylglycinamidine synthase
+sage:EN72_00300	CDS	40653..42107	amidophosphoribosyltransferase
+sage:EN72_00305	CDS	42135..43157	phosphoribosylaminoimidazole synthetase
+sage:EN72_00310	CDS	43325..43873	phosphoribosylglycinamide formyltransferase
+sage:EN72_00315	CDS	43896..44648	GNAT family acetyltransferase
+sage:EN72_00320	CDS	44668..46215	IMP cyclohydrolase
+sage:EN72_00325	CDS	46408..47307	zoocin A
+sage:EN72_00330	CDS	47454..48758	peptigoglycan-binding protein LysM
+sage:EN72_00335	CDS	49005..49703	N-acetylmannosamine-6-phosphate 2-epimerase
+sage:EN72_00340	CDS	49750..51066	sugar ABC transporter substrate-binding protein
+sage:EN72_00345	CDS	51154..52041	acetylneuraminate ABC transporter permease
+sage:EN72_00350	CDS	52051..52881	sugar ABC transporter permease
+sage:EN72_00355	CDS	52894..53337	hypothetical protein
+sage:EN72_00360	CDS	53357..54019	hypothetical protein
+sage:EN72_00365	CDS	54016..54933	N-acetylneuraminate lyase
+sage:EN72_00370	CDS	54950..55831	ROK family transcriptional regulator
+sage:EN72_00375	CDS	55839..56816	acetyl xylan esterase
+sage:EN72_00380	CDS	complement(56839..57642)	RpiR family transcriptional regulator
+sage:EN72_00385	CDS	57924..59189	phosphoribosylamine--glycine ligase
+sage:EN72_00395	CDS	59470..59958	phosphoribosyl carboxyaminoimidazole mutase
+sage:EN72_00400	CDS	59945..61036	phosphoribosylaminoimidazole carboxylase
+sage:EN72_00405	CDS	61090..62481	membrane protein
+sage:EN72_00410	CDS	62506..63804	adenylosuccinate lyase
+sage:EN72_00415	CDS	63956..64867	Cro/Cl family transcriptional regulator
+sage:EN72_00420	CDS	65164..66162	ATP-dependent DNA helicase RuvB
+sage:EN72_00425	CDS	66314..66751	phosphotyrosine protein phosphatase
+sage:EN72_00430	CDS	66758..67138	membrane protein
+sage:EN72_00435	CDS	67135..68913	acyltransferase
+sage:EN72_00445	CDS	69183..71825	acetaldehyde dehydrogenase
+sage:EN72_00450	CDS	72004..73020	adhP; ethanol-active dehydrogenase/acetaldehyde-active reductase
+sage:EN72_00455	CDS	73140..74630	threonine synthase
+sage:EN72_00460	CDS	74735..76015	sodium:solute symporter
+sage:EN72_00465	CDS	76221..76529	30S ribosomal protein S10
+sage:EN72_00470	CDS	76634..77260	50S ribosomal protein L3
+sage:EN72_00475	CDS	77284..77907	50S ribosomal protein L4
+sage:EN72_00480	CDS	77907..78203	50S ribosomal protein L23
+sage:EN72_00485	CDS	78221..79054	rplB; 50S ribosomal protein L2
+sage:EN72_00490	CDS	79153..79431	30S ribosomal protein S19
+sage:EN72_00495	CDS	79447..79791	50S ribosomal protein L22
+sage:EN72_00500	CDS	79804..80457	30S ribosomal protein S3
+sage:EN72_00505	CDS	80461..80874	50S ribosomal protein L16
+sage:EN72_00510	CDS	80884..81090	50S ribosomal protein L29
+sage:EN72_00515	CDS	81116..81376	30S ribosomal protein S17
+sage:EN72_00520	CDS	81401..81769	50S ribosomal protein L14
+sage:EN72_00525	CDS	81849..82154	50S ribosomal protein L24
+sage:EN72_00530	CDS	82178..82720	50S ribosomal protein L5
+sage:EN72_00535	CDS	82738..82923	rpsN; 30S ribosomal protein S14
+sage:EN72_00540	CDS	83078..83476	30S ribosomal protein S8
+sage:EN72_00545	CDS	83586..84122	50S ribosomal protein L6
+sage:EN72_00550	CDS	84223..84579	50S ribosomal protein L18
+sage:EN72_00555	CDS	84598..85092	30S ribosomal protein S5
+sage:EN72_00560	CDS	85107..85286	50S ribosomal protein L30
+sage:EN72_00565	CDS	85411..85851	50S ribosomal protein L15
+sage:EN72_00570	CDS	85872..87176	preprotein translocase subunit SecY
+sage:EN72_00575	CDS	87271..87909	adenylate kinase
+sage:EN72_00580	CDS	88025..88243	translation initiation factor IF-1
+sage:EN72_00585	CDS	88403..88768	30S ribosomal protein S13
+sage:EN72_00590	CDS	88786..89169	30S ribosomal protein S11
+sage:EN72_00595	CDS	89219..90157	DNA-directed RNA polymerase subunit alpha
+sage:EN72_00600	CDS	90172..90558	50S ribosomal protein L17
+sage:EN72_00605	rRNA	91145..92697	16S ribosomal RNA
+sage:EN72_00610	tRNA	92749..92821	tRNA-Ala
+sage:EN72_00615	rRNA	92975..95880	23S ribosomal RNA
+sage:EN72_00620	rRNA	95953..96068	5S ribosomal RNA
+sage:EN72_00625	tRNA	96072..96144	tRNA-Val
+sage:EN72_00630	tRNA	96147..96219	tRNA-Asp
+sage:EN72_00635	tRNA	96222..96294	tRNA-Lys
+sage:EN72_00640	tRNA	96304..96385	tRNA-Leu
+sage:EN72_00645	tRNA	96396..96468	tRNA-Thr
+sage:EN72_00650	tRNA	96497..96573	tRNA-Ile
+sage:EN72_00655	tRNA	96581..96652	tRNA-Glu
+sage:EN72_00660	tRNA	96666..96755	tRNA-Ser
+sage:EN72_00665	tRNA	96766..96839	tRNA-Met
+sage:EN72_00670	tRNA	96842..96914	tRNA-Phe
+sage:EN72_00675	tRNA	96926..97006	tRNA-Tyr
+sage:EN72_00680	tRNA	97013..97083	tRNA-Trp
+sage:EN72_00685	tRNA	97098..97170	tRNA-His
+sage:EN72_00690	tRNA	97101..97171	tRNA-His
+sage:EN72_00695	tRNA	97177..97248	tRNA-Gln
+sage:EN72_00700	tRNA	97259..97342	tRNA-Leu
+sage:EN72_00705	gene	97756..98180	pseudogene
+sage:EN72_00715	CDS	99335..99886	hypothetical protein
+sage:EN72_00720	CDS	100106..100525	hypothetical protein
+sage:EN72_00725	CDS	100725..101204	competence protein ComX
+sage:EN72_00730	CDS	101326..102018	phosphoglycerate mutase
+sage:EN72_00735	CDS	102015..102767	D-alanyl-D-alanine carboxypeptidase
+sage:EN72_00740	CDS	102764..103339	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+sage:EN72_00745	CDS	103434..104516	HrcA family transcriptional regulator
+sage:EN72_00750	CDS	104519..105091	heat shock protein GrpE
+sage:EN72_00755	CDS	105272..107101	dnaK; molecular chaperone DnaK
+sage:EN72_00760	CDS	107390..108529	molecular chaperone DnaJ
+sage:EN72_00765	CDS	108643..109890	GntR family transcriptional regulator
+sage:EN72_00770	CDS	109961..110737	pseudouridine synthase
+sage:EN72_00775	CDS	110700..111458	phosphomethylpyrimidine kinase
+sage:EN72_00780	CDS	111468..111932	membrane protein
+sage:EN72_00785	CDS	111929..112498	hypothetical protein
+sage:EN72_00790	CDS	complement(112535..113377)	mechanosensitive ion channel protein
+sage:EN72_00795	CDS	113534..114817	tig; trigger factor
+sage:EN72_00800	CDS	115006..115581	DNA-directed RNA polymerase subunit delta
+sage:EN72_00805	CDS	115854..117458	CTP synthetase
+sage:EN72_00810	CDS	117567..118493	hypothetical protein
+sage:EN72_00815	tRNA	118540..118625	tRNA-Leu
+sage:EN72_00820	CDS	118688..119134	deoxyuridine 5'-triphosphate nucleotidohydrolase
+sage:EN72_00825	CDS	119296..120660	DNA repair protein RadA
+sage:EN72_00830	CDS	120796..121293	carbonate dehydratase
+sage:EN72_00835	CDS	121447..122766	pyridine nucleotide-disulfide oxidoreductase
+sage:EN72_00840	CDS	122975..124429	glutamyl-tRNA synthetase
+sage:EN72_00845	CDS	complement(124469..125437)	D-ribose transporter subunit RbsB
+sage:EN72_00850	CDS	complement(125490..126431)	rbsC; ribose ABC transporter permease
+sage:EN72_00855	CDS	complement(126433..127911)	D-ribose transporter ATP-binding protein
+sage:EN72_00860	CDS	complement(127927..128325)	ribose pyranase
+sage:EN72_00865	CDS	complement(128300..129211)	ribokinase
+sage:EN72_00870	CDS	complement(129204..130190)	LacI family transcriptional regulator
+sage:EN72_00875	CDS	130372..131460	permease
+sage:EN72_00880	CDS	131460..132146	hemin ABC transporter ATP-binding protein
+sage:EN72_00885	CDS	132177..132848	transcriptional regulator
+sage:EN72_00890	CDS	132832..133911	histidine kinase
+sage:EN72_00895	CDS	134065..135255	argininosuccinate synthase
+sage:EN72_00900	CDS	135274..136662	argininosuccinate lyase
+sage:EN72_00905	CDS	136803..137684	fructose-bisphosphate aldolase
+sage:EN72_00910	CDS	complement(137768..138685)	ABC transporter ATP-binding protein
+sage:EN72_00915	CDS	138924..139112	50S ribosomal protein L28
+sage:EN72_00920	CDS	139244..139609	hypothetical protein
+sage:EN72_00925	CDS	139609..141273	hypothetical protein
+sage:EN72_00930	CDS	141421..142305	protease
+sage:EN72_00940	CDS	complement(142881..143171)	hypothetical protein
+sage:EN72_00945	CDS	complement(143513..144253)	ABC transporter
+sage:EN72_00950	CDS	complement(144263..145813)	glutamine ABC transporter substrate-binding protein
+sage:EN72_00955	CDS	145949..147832	membrane protein
+sage:EN72_00960	CDS	147878..148717	UDP pyrophosphate phosphatase
+sage:EN72_00965	CDS	148837..149592	adapter protein mecA
+sage:EN72_00970	CDS	149594..150754	UDP-N-acetylglucosamine:UDP-P N-acetylglucosaminyl-1-P transferase
+sage:EN72_00975	CDS	150919..151689	iron ABC transporter ATP-binding protein
+sage:EN72_00980	CDS	151726..152988	Fe-S cluster assembly protein SufD
+sage:EN72_00985	CDS	152990..154222	cysteine desulfurase
+sage:EN72_00990	CDS	154209..154652	nitrogen fixation protein NifU
+sage:EN72_00995	CDS	154752..156170	Fe-S cluster assembly protein SufB
+sage:EN72_01000	CDS	complement(156242..157429)	D-alanyl-D-alanine carboxypeptidase
+sage:EN72_01005	CDS	complement(157582..158817)	peptidase M15
+sage:EN72_01010	CDS	159058..160713	ABC transporter substrate-binding protein
+sage:EN72_01015	CDS	160832..161746	peptide ABC transporter permease
+sage:EN72_01020	CDS	161756..162787	peptide ABC transporter permease
+sage:EN72_01025	CDS	162800..163846	peptide ABC transporter ATP-binding protein
+sage:EN72_01030	CDS	163846..164778	peptide ABC transporter substrate-binding protein
+sage:EN72_01035	rRNA	165175..166727	16S ribosomal RNA
+sage:EN72_01040	tRNA	166779..166851	tRNA-Ala
+sage:EN72_01045	rRNA	167005..169910	23S ribosomal RNA
+sage:EN72_01050	rRNA	169983..170098	5S ribosomal RNA
+sage:EN72_01055	tRNA	170104..170177	tRNA-Asn
+sage:EN72_01060	CDS	170317..171168	ipk; 4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+sage:EN72_01065	CDS	171254..171697	MarR family transcriptional regulator
+sage:EN72_01070	CDS	171700..172410	zinc ABC transporter ATP-binding protein
+sage:EN72_01075	CDS	172400..173212	zinc ABC transporter permease
+sage:EN72_01080	CDS	complement(173423..174454)	hypothetical protein
+sage:EN72_01085	CDS	complement(175033..176292)	tyrosine--tRNA ligase
+sage:EN72_01090	CDS	176403..178700	transglycosylase
+sage:EN72_01095	CDS	179224..182799	DNA-directed RNA polymerase subunit beta
+sage:EN72_01100	CDS	182916..186566	DNA-directed RNA polymerase subunit beta'
+sage:EN72_01105	CDS	186680..187045	dipicolinate synthase
+sage:EN72_01110	CDS	187218..188189	competence protein CglA
+sage:EN72_01115	CDS	188254..189126	type II secretory pathway protein
+sage:EN72_01120	CDS	189123..189452	competence protein ComG
+sage:EN72_01125	CDS	complement(189547..189936)	hypothetical protein
+sage:EN72_01130	CDS	complement(189969..190352)	transposase
+sage:EN72_01135	CDS	190369..190701	competence protein
+sage:EN72_01140	CDS	190673..190972	Type II secretory pathway, pseudopilin PulG
+sage:EN72_01145	CDS	190926..191387	competence protein ComGF
+sage:EN72_01150	CDS	191365..191736	hypothetical protein
+sage:EN72_01155	CDS	191851..192825	adenine methyltransferase
+sage:EN72_01160	CDS	192857..194050	acetate kinase
+sage:EN72_01165	CDS	194202..194408	transcriptional regulator
+sage:EN72_01170	CDS	194708..195100	hypothetical protein
+sage:EN72_01175	CDS	195169..195834	CAAX protease
+sage:EN72_01180	CDS	complement(195855..196625)	pyrroline-5-carboxylate reductase
+sage:EN72_01185	CDS	complement(196695..197762)	glutamyl aminopeptidase
+sage:EN72_01190	CDS	complement(197947..198186)	hypothetical protein
+sage:EN72_01195	CDS	198346..198630	hypothetical protein
+sage:EN72_01200	CDS	198627..198950	thioredoxin
+sage:EN72_01205	CDS	198983..199609	tRNA-binding protein
+sage:EN72_01210	CDS	complement(199663..200379)	SAM-dependent methyltransferase
+sage:EN72_01215	CDS	200460..200855	single-stranded DNA-binding protein
+sage:EN72_01220	CDS	200979..201623	haloacid dehalogenase
+sage:EN72_01225	CDS	201650..203395	sensor protein LytS
+sage:EN72_01230	CDS	203376..204116	chemotaxis protein CheY
+sage:EN72_01235	CDS	204286..204741	murein hydrolase transporter LrgA
+sage:EN72_01240	CDS	204743..205471	antiholin LrgB
+sage:EN72_01245	CDS	205714..207342	nickel ABC transporter substrate-binding protein
+sage:EN72_01250	CDS	207455..208432	ABC transporter permease
+sage:EN72_01255	CDS	208429..209250	peptide ABC transporter permease
+sage:EN72_01260	CDS	209262..210065	ATPase
+sage:EN72_01265	CDS	210049..210675	nickel ABC transporter ATP-binding protein
+sage:EN72_01270	CDS	210958..212988	PTS system trehalose-specific transporter subunits IIBCA
+sage:EN72_01275	CDS	213210..214835	alpha-amylase
+sage:EN72_01280	CDS	215051..217087	transcription antiterminator BglG
+sage:EN72_01285	CDS	217090..217374	PTS lactose transporter subunit IIB
+sage:EN72_01290	CDS	217387..218742	PTS ascorbate transporter subunit IIC
+sage:EN72_01295	CDS	218745..219602	carbohydrate degradation protein
+sage:EN72_01300	CDS	219599..220528	transketolase
+sage:EN72_01305	CDS	220637..221896	oxidoreductase
+sage:EN72_01310	CDS	221984..222253	30S ribosomal protein S15
+sage:EN72_01315	CDS	222634..224763	polynucleotide phosphorylase
+sage:EN72_01320	CDS	224765..225517	hypothetical protein
+sage:EN72_01325	CDS	225526..226110	serine acetyltransferase
+sage:EN72_01330	CDS	226120..226302	hypothetical protein
+sage:EN72_01335	CDS	226299..227642	cysteinyl-tRNA synthetase
+sage:EN72_01340	CDS	227635..228021	Mini-ribonuclease 3
+sage:EN72_01345	CDS	228124..228879	rRNA methyltransferase
+sage:EN72_01350	CDS	228876..229394	DNA-binding protein
+sage:EN72_01355	CDS	229487..230347	hypothetical protein
+sage:EN72_01360	CDS	231228..231674	50S ribosomal protein L13
+sage:EN72_01365	CDS	231695..232087	30S ribosomal protein S9
+sage:EN72_01370	CDS	complement(232214..233368)	integrase
+sage:EN72_01375	CDS	complement(233432..234022)	Cro/Cl family transcriptional regulator
+sage:EN72_01380	CDS	234177..234482	hypothetical protein
+sage:EN72_01385	CDS	234619..234900	DNA-binding protein
+sage:EN72_01390	CDS	234913..235152	hypothetical protein
+sage:EN72_01395	CDS	235165..235491	replication initiation factor
+sage:EN72_01400	CDS	235495..236124	hypothetical protein
+sage:EN72_01405	CDS	236309..236446	replication initiation protein
+sage:EN72_01410	CDS	236437..237312	replication initiation protein
+sage:EN72_01415	CDS	237348..237782	hypothetical protein
+sage:EN72_01420	CDS	238099..239355	recombinase
+sage:EN72_01425	CDS	239523..239993	hypothetical protein
+sage:EN72_01430	CDS	complement(240298..240633)	addiction module toxin RelE
+sage:EN72_01435	CDS	complement(240623..240910)	XRE family transcriptional regulator
+sage:EN72_01440	CDS	241417..241707	type VII secretion protein EsxA
+sage:EN72_01445	gene	241809..242215	pseudogene
+sage:EN72_01450	gene	242215..242774	pseudogene
+sage:EN72_01455	CDS	242747..243427	hypothetical protein
+sage:EN72_01460	CDS	243412..243798	hypothetical protein
+sage:EN72_01465	CDS	243832..244113	hypothetical protein
+sage:EN72_01480	CDS	244956..245816	MutR family transcriptional regulator
+sage:EN72_01485	CDS	245889..247070	FMN adenylyltransferase
+sage:EN72_01490	CDS	complement(247132..247782)	amino acid ABC transporter permease
+sage:EN72_01495	CDS	complement(247783..248709)	glycine/betaine ABC transporter substrate-binding protein
+sage:EN72_01500	CDS	complement(248712..249347)	choline ABC transporter permease
+sage:EN72_01505	CDS	complement(249347..250492)	glycine/betaine ABC transporter ATP-binding protein
+sage:EN72_01510	rRNA	250911..252463	16S ribosomal RNA
+sage:EN72_01515	tRNA	252515..252587	tRNA-Ala
+sage:EN72_01520	rRNA	252741..255646	23S ribosomal RNA
+sage:EN72_01525	rRNA	255719..255834	5S ribosomal RNA
+sage:EN72_01530	tRNA	255838..255910	tRNA-Val
+sage:EN72_01535	tRNA	255916..255986	tRNA-Gly
+sage:EN72_01540	tRNA	256023..256099	tRNA-Ile
+sage:EN72_01545	tRNA	256107..256178	tRNA-Glu
+sage:EN72_01550	tRNA	256192..256281	tRNA-Ser
+sage:EN72_01555	tRNA	256292..256365	tRNA-Met
+sage:EN72_01560	tRNA	256368..256440	tRNA-Phe
+sage:EN72_01565	tRNA	256452..256532	tRNA-Tyr
+sage:EN72_01570	tRNA	256539..256609	tRNA-Trp
+sage:EN72_01575	tRNA	256624..256696	tRNA-His
+sage:EN72_01580	tRNA	256703..256774	tRNA-Gln
+sage:EN72_01585	tRNA	256785..256868	tRNA-Leu
+sage:EN72_01590	CDS	257178..257636	hypothetical protein
+sage:EN72_01595	CDS	257700..259334	hypothetical protein
+sage:EN72_01600	CDS	259353..259625	hypothetical protein
+sage:EN72_01605	CDS	259635..259985	hypothetical protein
+sage:EN72_01610	CDS	260846..261427	membrane protein
+sage:EN72_01615	CDS	261430..261648	XRE family transcriptional regulator
+sage:EN72_01620	CDS	262221..262781	GNAT family acetyltransferase
+sage:EN72_01625	CDS	262881..263459	GNAT family acetyltransferase
+sage:EN72_01630	CDS	263502..264182	acetyltransferase
+sage:EN72_01635	CDS	complement(264442..265389)	hypothetical protein
+sage:EN72_01640	CDS	complement(265386..265877)	RNA polymerase sigma70 factor
+sage:EN72_01650	CDS	complement(266457..267065)	TetR family transcriptional regulator
+sage:EN72_01655	CDS	complement(267089..268186)	antibiotic ABC transporter permease
+sage:EN72_01660	CDS	complement(268189..268905)	glycosyl transferase family 2
+sage:EN72_01665	CDS	complement(269169..269852)	hypothetical protein
+sage:EN72_01670	CDS	complement(269873..270184)	PadR family transcriptional regulator
+sage:EN72_01675	CDS	270376..271083	peptidase
+sage:EN72_01680	CDS	271361..272509	N-acetylglucosamine-6-phosphate deacetylase
+sage:EN72_01685	CDS	272628..273170	membrane protein
+sage:EN72_01690	CDS	273483..274397	glyQ; glycyl-tRNA ligase
+sage:EN72_01695	CDS	274397..275038	FMN-dependent NADH-azoreductase
+sage:EN72_01700	CDS	275042..277081	glycyl-tRNA synthase subunit beta
+sage:EN72_01705	CDS	277093..277350	hypothetical protein
+sage:EN72_01710	CDS	277439..277702	membrane protein
+sage:EN72_01715	CDS	277817..279325	glpK; glycerol kinase
+sage:EN72_01720	CDS	279338..281167	alpha-glycerophosphate oxidase
+sage:EN72_01725	CDS	281179..281877	glycerol transporter
+sage:EN72_01730	CDS	281965..283302	NADH peroxidase
+sage:EN72_01735	CDS	283293..284723	trans-acting positive regulator
+sage:EN72_01740	CDS	284848..286833	transketolase
+sage:EN72_01745	CDS	287046..287351	hypothetical protein
+sage:EN72_01750	CDS	287371..288105	3-dehydroquinate dehydratase
+sage:EN72_01755	CDS	288109..289713	ABC transporter permease
+sage:EN72_01760	CDS	complement(289921..291306)	PTS cellobiose transporter subunit IIC
+sage:EN72_01765	CDS	291447..292250	gamma-glutamyl kinase
+sage:EN72_01770	CDS	292260..293513	gamma-glutamyl phosphate reductase
+sage:EN72_01775	CDS	293596..294543	16S rRNA methyltransferase
+sage:EN72_01780	CDS	294558..294884	cell division protein FtsL
+sage:EN72_01785	CDS	294888..297146	penicillin-binding protein
+sage:EN72_01790	CDS	297148..298158	phospho-N-acetylmuramoyl-pentapeptide-transferase
+sage:EN72_01795	CDS	298256..299593	DEAD/DEAH box helicase
+sage:EN72_01800	CDS	299731..300543	amino acid ABC transporter substrate-binding protein
+sage:EN72_01805	CDS	300638..301441	amino acid ABC transporter permease
+sage:EN72_01810	CDS	301441..302184	amino acid ABC transporter ATP-binding protein
+sage:EN72_01815	CDS	302306..302530	amino acid ABC transporter
+sage:EN72_01820	CDS	302599..303513	thioredoxin reductase
+sage:EN72_01825	CDS	303671..305131	nicotinate phosphoribosyltransferase
+sage:EN72_01830	CDS	305128..305949	NAD synthetase
+sage:EN72_01835	CDS	306062..307396	aminopeptidase C
+sage:EN72_01840	CDS	complement(307442..309688)	penicillin-binding protein
+sage:EN72_01845	CDS	complement(309675..310274)	Holliday junction resolvase
+sage:EN72_01850	CDS	310349..310867	hypothetical protein
+sage:EN72_01855	CDS	310988..311320	cell division protein GpsB
+sage:EN72_11495	ncRNA	311335..311718	bacterial RNase P
+sage:EN72_01860	CDS	311790..312944	N-6 DNA methylase
+sage:EN72_01865	CDS	312957..314420	hypothetical protein
+sage:EN72_01870	CDS	complement(314645..315127)	S-ribosylhomocysteinase
+sage:EN72_01875	CDS	315316..316923	ribonuclease
+sage:EN72_01880	CDS	317052..317948	multidrug ABC transporter ATP-binding protein
+sage:EN72_01885	CDS	317935..318675	ABC transporter
+sage:EN72_01890	CDS	318672..319757	histidine kinase
+sage:EN72_01895	CDS	319759..320349	transcriptional regulator
+sage:EN72_01900	CDS	320399..321103	hypothetical protein
+sage:EN72_01905	CDS	321270..321899	guanylate kinase
+sage:EN72_01910	CDS	321922..322236	DNA-directed RNA polymerase subunit omega
+sage:EN72_01915	CDS	322310..324700	primosomal protein DnaI
+sage:EN72_01920	CDS	324747..325682	methionyl-tRNA formyltransferase
+sage:EN72_01925	CDS	325672..326994	16S rRNA methyltransferase
+sage:EN72_01930	CDS	327032..327769	protein phosphatase
+sage:EN72_01935	CDS	327769..329724	serine/threonine protein kinase
+sage:EN72_01940	CDS	329885..330580	transporter
+sage:EN72_01945	CDS	330577..331596	histidine kinase
+sage:EN72_01950	CDS	331589..332230	LuxR family transcriptional regulator
+sage:EN72_01955	CDS	332272..333672	peptidylprolyl isomerase
+sage:EN72_01960	CDS	333674..334030	hypothetical protein
+sage:EN72_01965	CDS	complement(334077..334853)	pyruvate formate lyase-activating protein
+sage:EN72_01970	CDS	334974..335729	DeoR faimly transcriptional regulator
+sage:EN72_01975	CDS	335848..336831	DeoR faimly transcriptional regulator
+sage:EN72_01980	CDS	337035..337358	PTS cellobiose transporter subunit IIA
+sage:EN72_01985	CDS	337375..337695	cytochrome C biogenesis protein CcmE
+sage:EN72_01990	CDS	337697..338998	PTS cellobiose transporter subunit IIC
+sage:EN72_01995	CDS	339179..341635	formate acetyltransferase
+sage:EN72_02000	CDS	341645..342313	fructose-6-phosphate aldolase
+sage:EN72_02005	CDS	342381..343469	glycerol dehydrogenase
+sage:EN72_02010	CDS	complement(343621..344547)	cysteine synthase
+sage:EN72_02015	CDS	complement(344638..345282)	Xaa-Pro dipeptidase
+sage:EN72_02020	CDS	345338..346627	competence protein
+sage:EN72_02025	gene	346627..347292	pseudogene
+sage:EN72_02030	CDS	347369..347923	ribosome-associated factor Y
+sage:EN72_02035	rRNA	348245..349797	16S ribosomal RNA
+sage:EN72_02040	tRNA	349849..349921	tRNA-Ala
+sage:EN72_02045	rRNA	350075..352980	23S ribosomal RNA
+sage:EN72_02050	rRNA	353053..353168	5S ribosomal RNA
+sage:EN72_02055	tRNA	353174..353247	tRNA-Asn
+sage:EN72_02060	CDS	complement(353463..354815)	aspartate kinase
+sage:EN72_02065	CDS	354909..355559	HAD family hydrolase
+sage:EN72_02070	CDS	355696..356487	enoyl-CoA hydratase
+sage:EN72_02075	CDS	356583..357017	MarR family transcriptional regulator
+sage:EN72_02080	CDS	357017..357988	3-oxoacyl-ACP synthase
+sage:EN72_02085	CDS	358046..358270	acyl carrier protein
+sage:EN72_02090	CDS	358425..359384	2-nitropropane dioxygenase
+sage:EN72_02095	CDS	359404..360330	ACP S-malonyltransferase
+sage:EN72_02100	CDS	360339..361073	3-ketoacyl-ACP reductase
+sage:EN72_02105	CDS	361089..362321	3-oxoacyl-ACP synthase
+sage:EN72_02110	CDS	362287..362823	acetyl-CoA carboxylase
+sage:EN72_02115	CDS	362820..363242	hydroxymyristoyl-ACP dehydratase
+sage:EN72_02120	CDS	363280..364650	acetyl-CoA carboxylase
+sage:EN72_02125	CDS	364659..365534	acetyl-CoA carboxylase subunit beta
+sage:EN72_02130	CDS	365527..366300	acetyl-CoA carboxylase subunit alpha
+sage:EN72_02135	CDS	366770..367402	ribonuclease P
+sage:EN72_02140	CDS	complement(367448..368725)	serine--tRNA ligase
+sage:EN72_02145	CDS	369091..370083	membrane protein
+sage:EN72_02150	CDS	complement(370121..370483)	ManO
+sage:EN72_02155	CDS	complement(370602..371513)	PTS system mannose family transporter subunit IID
+sage:EN72_02160	CDS	complement(371528..372340)	PTS mannose transporter subunit IIC
+sage:EN72_02165	CDS	complement(372373..373395)	PTS system mannost-specific transporter subunits IIAB
+sage:EN72_02170	CDS	complement(373697..374509)	HAD family hydrolase
+sage:EN72_02175	CDS	374598..375182	hypothetical protein
+sage:EN72_02180	CDS	375272..375883	membrane protein
+sage:EN72_02185	CDS	375986..377407	guanine permease
+sage:EN72_02190	CDS	377490..377999	hydrolase
+sage:EN72_02195	CDS	377992..378513	GNAT family acetyltransferase
+sage:EN72_02200	CDS	378522..379829	transporter
+sage:EN72_02205	CDS	complement(379893..380189)	hypothetical protein
+sage:EN72_02210	CDS	complement(380186..380605)	histidine triad protein
+sage:EN72_02215	CDS	380941..381444	hypothetical protein
+sage:EN72_02220	CDS	complement(381496..381681)	hypothetical protein
+sage:EN72_02225	CDS	381753..382478	multidrug ABC transporter ATP-binding protein
+sage:EN72_02230	CDS	382480..383514	multidrug ABC transporter permease
+sage:EN72_02235	CDS	383572..384372	aminoglycoside phosphotransferase
+sage:EN72_02240	CDS	384362..384997	tRNA (guanine-N7)-methyltransferase
+sage:EN72_02245	tRNA	385041..385128	tRNA-Ser
+sage:EN72_02250	CDS	385580..385963	ribosome maturation factor RimP
+sage:EN72_02255	CDS	385990..387150	transcription elongation factor NusA
+sage:EN72_02260	CDS	387172..387468	hypothetical protein
+sage:EN72_02265	CDS	387461..387763	hypothetical protein
+sage:EN72_02270	CDS	387783..390566	translation initiation factor IF-2
+sage:EN72_02275	CDS	390657..391025	ribosome-binding factor A
+sage:EN72_02280	CDS	complement(391109..392113)	esterase
+sage:EN72_02285	CDS	392277..392693	uracil phosphoribosyltransferase
+sage:EN72_02290	CDS	392706..394940	ATPase P
+sage:EN72_02295	CDS	394981..395187	carbonate dehydratase
+sage:EN72_02300	CDS	395297..395911	membrane protein
+sage:EN72_02305	CDS	395926..396738	haloacid dehalogenase
+sage:EN72_02310	CDS	396851..399493	DNA polymerase I
+sage:EN72_02315	CDS	399523..399963	CoA-binding protein
+sage:EN72_02320	CDS	400045..400524	Fur family transcriptional regulator
+sage:EN72_02325	CDS	400677..402242	cell surface protein
+sage:EN72_02330	CDS	402355..403041	transcriptional regulator
+sage:EN72_02335	CDS	403043..404080	histidine kinase
+sage:EN72_02340	CDS	complement(404094..404834)	membrane protein
+sage:EN72_02345	CDS	405021..406163	tgt; queuine tRNA-ribosyltransferase
+sage:EN72_02350	CDS	406270..406581	hypothetical protein
+sage:EN72_02355	CDS	406588..407127	biotin biosynthesis protein BioY
+sage:EN72_02360	CDS	407266..408042	metal-dependent hydrolase
+sage:EN72_02365	CDS	408042..408548	adenosine deaminase
+sage:EN72_02375	CDS	408820..410169	pgi; glucose-6-phosphate isomerase
+sage:EN72_02380	CDS	410491..411018	5-formyltetrahydrofolate cyclo-ligase
+sage:EN72_02385	CDS	411009..411686	membrane protein
+sage:EN72_02390	CDS	411818..412861	membrane protein
+sage:EN72_02395	CDS	complement(412952..413851)	UTP--glucose-1-phosphate uridylyltransferase
+sage:EN72_02400	CDS	complement(413888..414904)	glycerol-3-phosphate dehydrogenase
+sage:EN72_02405	CDS	415074..415403	rnpA; ribonuclease P
+sage:EN72_02410	CDS	415416..416231	membrane protein
+sage:EN72_02415	CDS	416239..417060	Jag protein
+sage:EN72_02420	rRNA	417400..418952	16S ribosomal RNA
+sage:EN72_02425	tRNA	419004..419076	tRNA-Ala
+sage:EN72_02430	rRNA	419230..422135	23S ribosomal RNA
+sage:EN72_02435	rRNA	422208..422323	5S ribosomal RNA
+sage:EN72_02440	tRNA	422327..422399	tRNA-Val
+sage:EN72_02445	tRNA	422405..422475	tRNA-Gly
+sage:EN72_02450	tRNA	422512..422588	tRNA-Ile
+sage:EN72_02455	tRNA	422596..422667	tRNA-Glu
+sage:EN72_02460	CDS	complement(422782..423315)	hypothetical protein
+sage:EN72_02465	CDS	complement(423399..424175)	recX; recombination regulator RecX
+sage:EN72_02470	CDS	424274..425629	RNA methyltransferase
+sage:EN72_02475	CDS	425898..426359	purine nucleoside phosphorylase
+sage:EN72_02480	CDS	426502..426930	GNAT family acetyltransferase
+sage:EN72_02485	CDS	427118..430819	reticulocyte-binding protein
+sage:EN72_02490	CDS	431021..431929	glycosyl transferase family 2
+sage:EN72_02495	CDS	432526..433491	ribonucleoside-diphosphate reductase subunit beta
+sage:EN72_02500	CDS	433492..433905	ribonucleotide reductase
+sage:EN72_02505	CDS	433907..436075	ribonucleotide-diphosphate reductase subunit alpha
+sage:EN72_02510	CDS	436138..439305	cell surface protein
+sage:EN72_02515	CDS	439318..439707	hypothetical protein
+sage:EN72_02520	CDS	complement(439751..440182)	hypothetical protein
+sage:EN72_02525	CDS	complement(440421..440705)	hypothetical protein
+sage:EN72_02530	CDS	complement(440792..441109)	4-carboxymuconolactone decarboxylase
+sage:EN72_02535	CDS	complement(441133..441528)	LytTR family transcriptional regulator
+sage:EN72_02540	CDS	complement(441538..441927)	MerR family transcriptional regulator
+sage:EN72_02545	CDS	complement(441943..442980)	molecular chaperone GroES
+sage:EN72_02550	CDS	complement(443090..443944)	2,5-diketo-D-gluconic acid reductase
+sage:EN72_02555	CDS	complement(444029..444892)	cation transporter
+sage:EN72_02560	CDS	445024..445548	TetR family transcriptional regulator
+sage:EN72_02565	CDS	complement(445743..446936)	AraC family transcriptional regulator
+sage:EN72_02570	CDS	447179..449260	cell surface protein
+sage:EN72_02575	gene	450019..450317	pseudogene
+sage:EN72_02580	tRNA	complement(450453..450523)	tRNA-Thr
+sage:EN72_02585	gene	complement(450594..451428)	pseudogene
+sage:EN72_02590	CDS	451739..451993	hypothetical protein
+sage:EN72_02595	CDS	452102..452413	hypothetical protein
+sage:EN72_02600	CDS	452681..453250	GNAT family acetyltransferase
+sage:EN72_02605	CDS	453348..453932	GNAT family acetyltransferase
+sage:EN72_02610	CDS	453929..454495	shikimate kinase
+sage:EN72_02615	CDS	454495..457146	valS; valine--tRNA ligase
+sage:EN72_02620	CDS	457317..458276	oxidoreductase
+sage:EN72_02625	CDS	458437..459300	magnesium transporter CorA
+sage:EN72_02630	CDS	complement(459347..460522)	transposase
+sage:EN72_02635	CDS	460828..461892	MmcQ family protein
+sage:EN72_02640	CDS	462006..462998	asparagine synthetase AsnA
+sage:EN72_02645	CDS	complement(463043..463492)	bacteriocin transport accessory protein
+sage:EN72_02650	gene	463458..464161	pseudogene
+sage:EN72_02655	CDS	464173..464463	hypothetical protein
+sage:EN72_02660	CDS	464460..464945	phosphopantetheine adenylyltransferase
+sage:EN72_02665	CDS	464935..466008	peptidase S16
+sage:EN72_02670	gene	466083..467415	pseudogene
+sage:EN72_02675	CDS	467484..468062	transcriptional regulator
+sage:EN72_02680	CDS	468113..469219	ribosomal RNA large subunit methyltransferase N
+sage:EN72_02685	CDS	469219..469734	teicoplanin resistance protein VanZ
+sage:EN72_02690	CDS	469913..471658	multidrug ABC transporter ATP-binding protein
+sage:EN72_02695	CDS	471648..473387	multidrug ABC transporter ATP-binding protein
+sage:EN72_02700	CDS	473515..474081	anthranilate synthase subunit II
+sage:EN72_02705	CDS	complement(474147..474686)	biotin biosynthesis protein BioY
+sage:EN72_02710	CDS	complement(474687..475679)	biotin synthase
+sage:EN72_02715	gene	475804..476318	pseudogene
+sage:EN72_02720	CDS	476308..477423	acetyl-CoA acetyltransferase
+sage:EN72_02725	CDS	477416..478645	long-chain fatty acid--CoA ligase
+sage:EN72_02730	CDS	478758..479390	endonuclease III
+sage:EN72_02735	CDS	complement(479391..479786)	type IV prepilin peptidase
+sage:EN72_02740	CDS	479941..480150	hypothetical protein
+sage:EN72_02745	CDS	480147..481115	glucokinase
+sage:EN72_02750	CDS	481127..481507	NADH dehydrogenase
+sage:EN72_02755	CDS	481739..483580	GTP-binding protein TypA
+sage:EN72_02760	CDS	483625..483870	membrane protein
+sage:EN72_02765	CDS	484000..485355	murD; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+sage:EN72_02770	CDS	485358..486434	UDP-diphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+sage:EN72_02775	CDS	486438..487574	cell division protein FtsQ
+sage:EN72_02780	CDS	487846..489219	cell division protein FtsA
+sage:EN72_02785	CDS	489241..490521	cell division protein FtsZ
+sage:EN72_02790	CDS	490527..491201	cell division protein
+sage:EN72_02795	CDS	491213..491818	cell division protein SepF
+sage:EN72_02800	CDS	491821..492075	membrane protein
+sage:EN72_02805	CDS	492077..492865	RNA-binding protein
+sage:EN72_02810	CDS	492875..493645	cell division protein DivIVA
+sage:EN72_02815	CDS	493930..496722	ileS; isoleucine--tRNA ligase
+sage:EN72_02820	CDS	complement(496839..497141)	ribose 5-phosphate isomerase
+sage:EN72_02825	CDS	complement(497205..497660)	NUDIX hydrolase
+sage:EN72_02830	CDS	complement(497846..500107)	Clp protease ClpX
+sage:EN72_02835	CDS	500405..500635	hypothetical protein
+sage:EN72_02840	CDS	500777..501469	glutamine ABC transporter permease
+sage:EN72_02845	CDS	501462..502196	glnQ; glutamine ABC transporter ATP-binding protein
+sage:EN72_02850	CDS	502483..504177	phosphoglucomutase
+sage:EN72_02855	CDS	504316..505170	5,10-methylene-tetrahydrofolate cyclohydrolase
+sage:EN72_02860	CDS	505167..506003	carbohydrate kinase
+sage:EN72_02865	CDS	506129..507469	exodeoxyribonuclease VII large subunit
+sage:EN72_02870	CDS	507447..507662	exodeoxyribonuclease VII small subunit
+sage:EN72_02875	CDS	507662..508534	geranyl transferase
+sage:EN72_02880	CDS	508527..509354	cell division protein FtsJ
+sage:EN72_02885	CDS	509341..509814	ArgR family transcriptional regulator
+sage:EN72_02890	CDS	509826..511484	DNA recombination protein RecN
+sage:EN72_02895	CDS	511597..512433	hypothetical protein
+sage:EN72_02900	CDS	512426..513265	GDSL family lipase
+sage:EN72_02905	CDS	513240..513842	membrane protein
+sage:EN72_02910	CDS	513945..514220	DNA-binding protein
+sage:EN72_02915	CDS	514417..514614	hypothetical protein
+sage:EN72_02920	CDS	complement(514658..515590)	dihydroorotate dehydrogenase
+sage:EN72_02925	CDS	complement(515777..517012)	peptidoglycan branched peptide synthesis protein
+sage:EN72_02930	CDS	complement(517031..518242)	UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+sage:EN72_02935	CDS	complement(518255..519490)	UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase
+sage:EN72_02940	CDS	complement(519475..520287)	sugar phosphatase
+sage:EN72_02945	CDS	complement(520358..521674)	phosphohydrolase
+sage:EN72_02950	CDS	521738..522136	hypothetical protein
+sage:EN72_02955	CDS	522480..525164	ATPase
+sage:EN72_02960	CDS	complement(525209..526069)	phosphoesterase
+sage:EN72_02965	CDS	526221..528152	fructose 1,6-bisphosphatase
+sage:EN72_02970	CDS	528242..529366	epoxyqueuosine reductase
+sage:EN72_02975	CDS	529520..530533	peptide chain release factor 2
+sage:EN72_02980	CDS	530552..531244	cell division protein FtsE
+sage:EN72_02985	CDS	531228..532157	cell division protein FtsX
+sage:EN72_02990	CDS	complement(532210..532920)	thioesterase
+sage:EN72_02995	CDS	complement(532917..533615)	hypothetical protein
+sage:EN72_03000	CDS	533783..534547	acetoin reductase
+sage:EN72_03005	CDS	534655..537162	ATP-dependent DNA helicase
+sage:EN72_03010	CDS	537248..538441	aspartate aminotransferase
+sage:EN72_03015	CDS	538462..539808	asnC; asparagine--tRNA ligase
+sage:EN72_03020	CDS	complement(539848..540405)	hypothetical protein
+sage:EN72_03025	CDS	complement(540402..541385)	nucleoside hydrolase
+sage:EN72_03030	CDS	complement(541631..542044)	OsmC/Ohr family protein
+sage:EN72_03035	CDS	542198..543088	ATPase P
+sage:EN72_03040	CDS	543085..544059	hypothetical protein
+sage:EN72_03045	CDS	544056..544967	sporulation protein
+sage:EN72_03050	CDS	544982..546379	peptidase C69
+sage:EN72_03055	CDS	546521..548041	zinc-binding protein AdcA
+sage:EN72_03060	CDS	complement(548154..548414)	50S ribosomal protein L31 type B
+sage:EN72_03065	CDS	complement(548523..549458)	phosphoesterase
+sage:EN72_03070	CDS	549724..550746	adenosine deaminase
+sage:EN72_03075	CDS	550805..551248	flavodoxin
+sage:EN72_03080	CDS	551325..551600	hypothetical protein
+sage:EN72_03085	CDS	551593..552789	voltage-gated chloride channel protein
+sage:EN72_03090	CDS	553369..553716	rplS; 50S ribosomal protein L19
+sage:EN72_03095	tRNA	553827..553898	tRNA-Arg
+sage:EN72_03100	CDS	complement(553941..555020)	integrase
+sage:EN72_03105	CDS	complement(555144..556037)	hypothetical protein
+sage:EN72_03110	CDS	complement(556209..556766)	GTP pyrophosphokinase
+sage:EN72_03115	CDS	complement(556768..557565)	repressor
+sage:EN72_03130	CDS	complement(558066..558290)	hypothetical protein
+sage:EN72_03145	CDS	complement(558654..559349)	hypothetical protein
+sage:EN72_03150	CDS	559404..559613	hypothetical protein
+sage:EN72_03155	CDS	complement(559602..559988)	hypothetical protein
+sage:EN72_03160	CDS	560062..560253	XRE family transcriptional regulator
+sage:EN72_03165	CDS	560320..561240	hypothetical protein
+sage:EN72_03170	CDS	561237..561692	antirepressor
+sage:EN72_03190	CDS	complement(562119..562427)	hypothetical protein
+sage:EN72_03195	CDS	562533..562763	hypothetical protein
+sage:EN72_03210	CDS	564175..564615	hypothetical protein
+sage:EN72_03215	CDS	564732..565646	replication protein
+sage:EN72_03220	CDS	565656..566498	DNA replication protein
+sage:EN72_03240	CDS	566975..567457	hypothetical protein
+sage:EN72_03245	CDS	567458..568132	single-stranded DNA-binding protein
+sage:EN72_03250	CDS	568125..568541	single-stranded DNA-binding protein
+sage:EN72_03255	CDS	568544..568744	hypothetical protein
+sage:EN72_03260	CDS	568734..569222	hypothetical protein
+sage:EN72_03265	CDS	569203..569493	hypothetical protein
+sage:EN72_03270	CDS	569560..569856	hypothetical protein
+sage:EN72_03290	CDS	570358..570858	hypothetical protein
+sage:EN72_03295	CDS	570879..571178	membrane protein
+sage:EN72_03300	CDS	571196..571462	hypothetical protein
+sage:EN72_03305	CDS	571854..572288	ArpU family transcriptional regulator
+sage:EN72_03310	tRNA	573169..573256	tRNA-Ser
+sage:EN72_03315	CDS	573601..573981	hypothetical protein
+sage:EN72_03320	CDS	573971..575245	terminase
+sage:EN72_03325	CDS	575245..576570	portal protein
+sage:EN72_03330	CDS	576539..577465	hypothetical protein
+sage:EN72_03340	CDS	577599..577925	hypothetical protein
+sage:EN72_03345	CDS	578040..578609	phage capsid scaffolding protein
+sage:EN72_03350	CDS	578628..579518	hypothetical protein
+sage:EN72_03355	CDS	579530..579811	hypothetical protein
+sage:EN72_03360	CDS	579820..580161	hypothetical protein
+sage:EN72_03365	CDS	580158..580469	hypothetical protein
+sage:EN72_03370	CDS	580466..580867	hypothetical protein
+sage:EN72_03375	CDS	580871..581281	hypothetical protein
+sage:EN72_03380	CDS	581294..581800	hypothetical protein
+sage:EN72_03385	CDS	581816..582133	hypothetical protein
+sage:EN72_03390	CDS	582106..582567	hypothetical protein
+sage:EN72_03395	CDS	582560..584752	hypothetical protein
+sage:EN72_03400	CDS	584754..586283	hypothetical protein
+sage:EN72_03405	CDS	586274..590092	N-acetylmuramoyl-L-alanine amidase
+sage:EN72_03410	CDS	590105..592096	hypothetical protein
+sage:EN72_03415	CDS	592110..592436	hypothetical protein
+sage:EN72_03420	CDS	592411..592623	hypothetical protein
+sage:EN72_03425	CDS	592636..592938	hypothetical protein
+sage:EN72_03430	CDS	592940..593191	holin
+sage:EN72_03440	CDS	593321..594652	lysin
+sage:EN72_03445	CDS	594787..595683	histidine kinase
+sage:EN72_03450	CDS	595677..595976	hypothetical protein
+sage:EN72_03455	CDS	596086..596286	hypothetical protein
+sage:EN72_03460	CDS	596398..596577	hypothetical protein
+sage:EN72_03465	CDS	complement(596677..597258)	integrase
+sage:EN72_03470	CDS	complement(597294..597560)	integrase
+sage:EN72_03475	CDS	597560..597964	transposase
+sage:EN72_03480	CDS	598126..598326	transposase
+sage:EN72_03485	CDS	598351..598608	transposase
+sage:EN72_03490	CDS	600019..601296	ABC transporter permease
+sage:EN72_03495	CDS	601306..601962	multidrug ABC transporter ATP-binding protein
+sage:EN72_03500	CDS	601962..603338	peptide ABC transporter permease
+sage:EN72_03505	CDS	603435..604088	transcriptional regulator
+sage:EN72_03510	gene	604085..605403	pseudogene
+sage:EN72_03515	CDS	complement(605455..606066)	transposase
+sage:EN72_03520	CDS	606280..606480	hypothetical protein
+sage:EN72_03525	CDS	607135..608340	rod shape-determining protein RodA
+sage:EN72_03530	CDS	608459..609019	DNA gyrase subunit B
+sage:EN72_03535	CDS	609020..610972	gyrB; DNA gyrase subunit B
+sage:EN72_03540	CDS	611066..612790	septation ring formation regulator EzrA
+sage:EN72_03545	CDS	612884..613525	phosphoserine phosphatase
+sage:EN72_03550	gene	complement(613546..614031)	pseudogene
+sage:EN72_03555	CDS	complement(614044..614499)	hypothetical protein
+sage:EN72_03560	CDS	614697..616004	enolase
+sage:EN72_03565	CDS	complement(616112..617176)	endonuclease
+sage:EN72_03570	CDS	617405..618688	3-phosphoshikimate 1-carboxyvinyltransferase
+sage:EN72_03575	CDS	618681..619193	shikimate kinase
+sage:EN72_03580	CDS	619250..620623	LytR family transcriptional regulator
+sage:EN72_03585	CDS	620724..622079	RNA methyltransferase
+sage:EN72_03590	CDS	622601..623119	hypothetical protein
+sage:EN72_03595	CDS	623473..623787	conjugal transfer protein
+sage:EN72_03600	CDS	623803..624189	conjugal transfer protein
+sage:EN72_03605	CDS	624218..625603	cell division protein FtsK
+sage:EN72_03610	CDS	625781..626986	Cro/Cl family transcriptional regulator
+sage:EN72_03615	CDS	627029..627250	conjugal transfer protein
+sage:EN72_03620	CDS	627367..627864	antirestriction protein ArdA
+sage:EN72_03625	CDS	627839..628345	membrane protein
+sage:EN72_03630	CDS	628329..630776	ATP/GTP-binding protein
+sage:EN72_03635	CDS	630779..632956	membrane protein
+sage:EN72_03640	CDS	632953..633954	peptidase P60
+sage:EN72_03645	CDS	633951..634883	conjugal transfer protein
+sage:EN72_03650	CDS	635260..637179	tetracycline resistance protein tetM
+sage:EN72_03655	CDS	complement(637525..637878)	DNA-binding protein
+sage:EN72_03660	CDS	638383..638805	DNA-binding protein
+sage:EN72_03665	CDS	638802..639032	hypothetical protein
+sage:EN72_03670	CDS	639493..639696	excisionase
+sage:EN72_03675	CDS	639778..640995	integrase
+sage:EN72_03680	CDS	complement(641460..641990)	TetR family transcriptional regulator
+sage:EN72_03685	CDS	642160..647214	cell wall anchor protein
+sage:EN72_03690	CDS	647527..648741	amidohydrolase
+sage:EN72_03695	CDS	648980..650848	XRE family transcriptional regulator
+sage:EN72_03700	CDS	651258..651827	hypothetical protein
+sage:EN72_03705	gene	complement(651866..653821)	pseudogene
+sage:EN72_03715	CDS	complement(654052..654615)	hypothetical protein
+sage:EN72_03720	CDS	complement(654620..655741)	hypothetical protein
+sage:EN72_03725	CDS	complement(655734..656057)	hypothetical protein
+sage:EN72_03735	CDS	656453..658738	hypothetical protein
+sage:EN72_03740	CDS	659022..659303	nuclease
+sage:EN72_03745	CDS	659284..660660	DEAD/DEAH box helicase
+sage:EN72_03750	CDS	660653..661150	hypothetical protein
+sage:EN72_03755	CDS	661543..662580	S-adenosylmethionine synthetase
+sage:EN72_03760	CDS	662582..662947	HNH endonuclease
+sage:EN72_03765	CDS	663236..663691	hypothetical protein
+sage:EN72_03770	CDS	663663..664919	lactate dehydrogenase
+sage:EN72_03775	CDS	664916..666169	cytosine methyltransferase
+sage:EN72_03780	CDS	666247..666501	hypothetical protein
+sage:EN72_03785	CDS	666512..666961	hypothetical protein
+sage:EN72_03790	CDS	667012..667485	terminase
+sage:EN72_03795	gene	667482..669073	pseudogene
+sage:EN72_03800	CDS	669129..669431	plasmid stabilization protein
+sage:EN72_03805	CDS	669431..669736	plasmid stabilization protein
+sage:EN72_03810	CDS	669753..670025	hypothetical protein
+sage:EN72_03815	CDS	670106..671395	portal protein
+sage:EN72_03820	CDS	671388..672086	peptidase
+sage:EN72_03825	CDS	672100..673308	capsid protein
+sage:EN72_03830	CDS	673305..673562	DNA packaging protein
+sage:EN72_03835	CDS	673562..673900	head-tail adaptor protein
+sage:EN72_03840	CDS	673893..674261	hypothetical protein
+sage:EN72_03845	CDS	674270..674596	hypothetical protein
+sage:EN72_03850	CDS	674599..675168	phage tail protein
+sage:EN72_03855	CDS	675180..675599	hypothetical protein
+sage:EN72_03860	CDS	675894..679013	hypothetical protein
+sage:EN72_03865	CDS	679010..679735	phage tail protein
+sage:EN72_03870	CDS	679735..682650	carbamoylsarcosine amidase
+sage:EN72_03875	CDS	682663..684519	hypothetical protein
+sage:EN72_03880	CDS	684537..684935	holin
+sage:EN72_03900	CDS	687124..688365	serine recombinase
+sage:EN72_03905	CDS	688421..689614	recombinase
+sage:EN72_03910	CDS	689684..690457	hypothetical protein
+sage:EN72_03915	gene	690471..691976	pseudogene
+sage:EN72_03920	CDS	692217..692438	hypothetical protein
+sage:EN72_03925	CDS	692556..693293	acid phosphatase
+sage:EN72_03930	CDS	693614..694132	hypothetical protein
+sage:EN72_03935	CDS	complement(694261..694449)	hypothetical protein
+sage:EN72_03940	CDS	complement(694478..694786)	TetR family transcriptional regulator
+sage:EN72_03945	CDS	694969..695298	cell surface protein
+sage:EN72_03950	CDS	complement(695418..696167)	transposase
+sage:EN72_03955	CDS	complement(696287..696562)	transposase
+sage:EN72_03960	CDS	complement(697219..697566)	molecular chaperone
+sage:EN72_03965	gene	complement(697760..698968)	pseudogene
+sage:EN72_03970	CDS	699351..701015	cell surface protein
+sage:EN72_03975	CDS	701104..702027	collagen-binding protein
+sage:EN72_03980	CDS	702029..702946	sortase
+sage:EN72_03985	CDS	702903..703754	sortase
+sage:EN72_03990	CDS	703800..706508	cell surface protein
+sage:EN72_03995	CDS	706783..707352	sortase
+sage:EN72_04000	CDS	707601..708206	hypothetical protein
+sage:EN72_04005	CDS	708420..708578	amidase
+sage:EN72_04020	CDS	710825..711094	hypothetical protein
+sage:EN72_04025	CDS	711155..712306	beta-lactamase
+sage:EN72_04030	CDS	712506..713498	sugar ABC transporter ATP-binding protein
+sage:EN72_04035	CDS	713501..714319	antibiotic ABC transporter permease
+sage:EN72_04040	CDS	714321..715106	multidrug ABC transporter permease
+sage:EN72_04045	CDS	715731..716036	cylX protein
+sage:EN72_04050	CDS	716036..716884	CylD
+sage:EN72_04055	CDS	716881..717603	3-oxoacyl-ACP reductase
+sage:EN72_04060	CDS	717596..717901	acyl carrier protein
+sage:EN72_04065	CDS	717885..718361	3-hydroxymyristoyl-ACP dehydratase
+sage:EN72_04070	CDS	718351..719280	ABC transporter ATP-binding protein
+sage:EN72_04075	CDS	719273..720151	ABC transporter permease
+sage:EN72_04080	CDS	720148..722151	cylE protein
+sage:EN72_04085	CDS	722148..723101	cylF protein
+sage:EN72_04090	CDS	723098..725305	cylI protein
+sage:EN72_04095	CDS	725310..726521	cylJ protein
+sage:EN72_04100	CDS	726490..727065	CylK protein
+sage:EN72_04105	CDS	727408..727749	hypothetical protein
+sage:EN72_04110	CDS	727783..728298	hypothetical protein
+sage:EN72_04115	CDS	728350..731007	peptidase S8
+sage:EN72_04120	CDS	731053..734298	hypothetical protein
+sage:EN72_04125	CDS	734482..735567	peptidase M13
+sage:EN72_04130	CDS	735588..736406	peptidase M13
+sage:EN72_04135	CDS	736545..737576	hypothetical protein
+sage:EN72_04140	CDS	737611..738630	hypothetical protein
+sage:EN72_04145	CDS	738665..739726	hypothetical protein
+sage:EN72_04150	CDS	739850..741079	ABC transporter substrate-binding protein
+sage:EN72_04155	CDS	741089..741532	hypothetical protein
+sage:EN72_04160	CDS	741617..741883	hypothetical protein
+sage:EN72_04165	CDS	741984..742112	permease
+sage:EN72_04170	CDS	742121..742441	permease
+sage:EN72_04175	gene	742538..743208	pseudogene
+sage:EN72_04180	CDS	complement(743265..744710)	hypothetical protein
+sage:EN72_04185	CDS	744971..745756	DNA-entry nuclease
+sage:EN72_04190	CDS	complement(745834..746472)	cytochrome O ubiquinol oxidase
+sage:EN72_04195	CDS	746689..747345	methionine ABC transporter ATP-binding protein
+sage:EN72_04200	CDS	747342..748115	membrane protein
+sage:EN72_04205	CDS	748279..749097	phosphate ABC transporter ATPase
+sage:EN72_04210	CDS	complement(749134..750018)	LysR family transcriptional regulator
+sage:EN72_04215	CDS	750211..751269	membrane protein
+sage:EN72_04220	CDS	751283..752275	lactate dehydrogenase
+sage:EN72_04225	CDS	752481..754031	glucuronide permease
+sage:EN72_04230	CDS	754098..755123	2-dehydro-3-deoxygluconokinase
+sage:EN72_04235	CDS	755140..756939	beta-glucuronidase
+sage:EN72_04240	CDS	756968..757639	GntR family transcriptional regulator
+sage:EN72_04245	CDS	757756..758373	2-dehydro-3-deoxyphosphogluconate aldolase
+sage:EN72_04250	CDS	758390..759790	glucuronate isomerase
+sage:EN72_04255	CDS	759808..760854	mannonate dehydratase
+sage:EN72_04260	CDS	760978..761817	D-mannonate oxidoreductase
+sage:EN72_04265	CDS	761970..762782	haloacid dehalogenase
+sage:EN72_04270	CDS	762798..764588	beta-hexosaminidase
+sage:EN72_04275	CDS	complement(764646..765731)	dipeptidase
+sage:EN72_04280	CDS	765941..766945	catabolite control protein A
+sage:EN72_04285	CDS	767077..768543	alpha-amylase
+sage:EN72_04290	CDS	768588..769586	glycosyl transferase family 1
+sage:EN72_04295	CDS	769588..770922	1,2-diacylglycerol 3-glucosyltransferase
+sage:EN72_04300	CDS	771379..773322	threonyl-tRNA synthase
+sage:EN72_04305	CDS	773544..774248	PhoP family transcriptional regulator
+sage:EN72_04310	CDS	774346..775365	hypothetical protein
+sage:EN72_04315	CDS	775532..776098	peptidase
+sage:EN72_04320	CDS	complement(776147..776797)	glutamine ABC transporter permease
+sage:EN72_04325	CDS	complement(776809..777504)	glutamine ABC transporter permease
+sage:EN72_04330	CDS	complement(777517..778317)	glutamine ABC transporter substrate-binding protein
+sage:EN72_04335	CDS	complement(778329..779084)	ABC transporter
+sage:EN72_04340	CDS	779424..780134	PhoP family transcriptional regulator
+sage:EN72_04345	CDS	780127..781476	histidine kinase
+sage:EN72_04350	CDS	781480..782289	metallohydrolase
+sage:EN72_04355	CDS	782292..782660	membrane protein
+sage:EN72_04360	CDS	782836..783522	ribonuclease III
+sage:EN72_04365	CDS	783530..787069	recombinase RecF
+sage:EN72_04370	CDS	787160..787957	HAD family hydrolase
+sage:EN72_04375	CDS	787957..788781	haloacid dehalogenase
+sage:EN72_04380	CDS	788781..790391	cell division protein FtsY
+sage:EN72_04385	CDS	complement(790428..791240)	phosphate ABC transporter substrate-binding protein
+sage:EN72_04390	CDS	complement(791240..792142)	membrane protein
+sage:EN72_04395	CDS	complement(792148..792276)	ABC transporter ATP-binding protein
+sage:EN72_04400	CDS	792409..793452	luciferase
+sage:EN72_04405	CDS	793557..795719	S1 RNA-binding protein
+sage:EN72_04410	CDS	795682..796140	protein SprT-like protein
+sage:EN72_04415	CDS	796221..796484	membrane protein
+sage:EN72_04425	CDS	796712..797647	serine kinase
+sage:EN72_04430	CDS	797640..798413	prolipoprotein diacylglyceryl transferase
+sage:EN72_04435	CDS	798428..798826	general stress protein
+sage:EN72_04440	CDS	798823..799254	gas vesicle protein
+sage:EN72_04445	CDS	complement(799295..799570)	membrane protein
+sage:EN72_04450	CDS	799925..800836	peptidase U32
+sage:EN72_04455	CDS	800966..802252	protease
+sage:EN72_04460	CDS	802379..802591	seryl-tRNA synthetase
+sage:EN72_04465	CDS	802715..803512	membrane protein
+sage:EN72_04470	CDS	complement(803614..804954)	manganese transporter
+sage:EN72_04475	CDS	805683..806792	riboflavin biosynthesis protein RibD
+sage:EN72_04480	CDS	806773..807423	riboflavin synthase subunit alpha
+sage:EN72_04485	CDS	807441..808634	GTP cyclohydrolase
+sage:EN72_04490	CDS	808649..809119	ribH; 6,7-dimethyl-8-ribityllumazine synthase
+sage:EN72_04495	CDS	complement(809194..810684)	lysyl-tRNA synthetase
+sage:EN72_04500	CDS	810859..811761	HAD family hydrolase
+sage:EN72_04505	CDS	complement(811797..812438)	phosphoglycerate mutase
+sage:EN72_04510	CDS	complement(812460..812933)	prolyl-tRNA synthetase
+sage:EN72_04515	CDS	813228..813845	epimerase
+sage:EN72_04520	CDS	complement(813878..814726)	N-acetylmuramoyl-L-alanine amidase
+sage:EN72_04525	CDS	814882..815406	membrane protein
+sage:EN72_04530	CDS	815390..815779	hypothetical protein
+sage:EN72_04535	CDS	complement(815838..817637)	oligoendopeptidase F
+sage:EN72_04540	CDS	817846..820641	phosphoenolpyruvate carboxylase
+sage:EN72_04545	CDS	820747..822015	cell division protein FtsW
+sage:EN72_04550	CDS	822367..823563	tuf; elongation factor Tu
+sage:EN72_04555	CDS	823744..824502	triosephosphate isomerase
+sage:EN72_04560	CDS	824679..825371	phosphoglycerate mutase
+sage:EN72_04565	CDS	825500..827545	penicillin-binding protein 2B
+sage:EN72_04570	CDS	827560..828156	recombinase
+sage:EN72_04575	CDS	828297..829343	D-alanine--D-alanine ligase
+sage:EN72_04580	CDS	829490..830857	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+sage:EN72_04585	CDS	831044..832264	MFS transporter
+sage:EN72_04590	CDS	832393..833079	membrane protein
+sage:EN72_04595	CDS	833258..834796	cell surface protein
+sage:EN72_04600	CDS	834973..836517	peptide chain release factor 3
+sage:EN72_04605	CDS	836603..836983	helicase
+sage:EN72_04610	CDS	837104..837838	ABC transporter ATP-binding protein
+sage:EN72_04615	CDS	837831..838493	ABC transporter permease
+sage:EN72_04620	CDS	838509..839339	membrane protein
+sage:EN72_04625	CDS	839574..841160	RNA helicase
+sage:EN72_04630	CDS	complement(841345..841611)	hypothetical protein
+sage:EN72_04635	CDS	complement(841604..842368)	hypothetical protein
+sage:EN72_04640	CDS	842503..843243	acyl-phosphate glycerol 3-phosphate acyltransferase
+sage:EN72_04645	CDS	843343..843996	competence protein CelA
+sage:EN72_04650	CDS	843980..846217	competence protein ComEC
+sage:EN72_04655	CDS	846343..847152	HAD family hydrolase
+sage:EN72_04660	CDS	847163..848107	LacI family transcriptional regulator
+sage:EN72_04665	CDS	complement(848166..849158)	GDXG lipolytic enzyme family protein
+sage:EN72_04670	CDS	849334..850062	methyltransferase
+sage:EN72_04675	CDS	850116..851153	DNA polymerase III subunit delta
+sage:EN72_04680	CDS	851233..851841	superoxide dismutase
+sage:EN72_04685	CDS	852179..853030	transcription antiterminator BglG
+sage:EN72_04690	CDS	853023..854891	PTS beta-glucoside transporter subunit IIABC
+sage:EN72_04695	CDS	854908..856335	6-phospho-beta-glucosidase
+sage:EN72_04700	CDS	complement(856404..857498)	PucR family transcriptional regulator
+sage:EN72_04705	CDS	857665..858807	glycerate kinase
+sage:EN72_04710	CDS	858832..860088	gluconate:proton symporter
+sage:EN72_04715	CDS	860189..861253	hypothetical protein
+sage:EN72_04720	CDS	complement(861308..861586)	MarR family transcriptional regulator
+sage:EN72_04725	CDS	complement(861832..862860)	S-adenosylmethionine tRNA ribosyltransferase
+sage:EN72_04730	CDS	863013..863693	membrane protein
+sage:EN72_04735	CDS	863844..864545	glucosamine-6-phosphate deaminase
+sage:EN72_04740	CDS	complement(864617..865573)	hypothetical protein
+sage:EN72_04745	CDS	865669..866388	16S rRNA pseudouridylate synthase
+sage:EN72_04750	CDS	866461..867612	MFS transporter
+sage:EN72_04755	CDS	867664..868611	competence protein CoiA
+sage:EN72_04760	CDS	868627..870432	oligopeptidase PepB
+sage:EN72_04765	CDS	870627..871253	HAD family hydrolase
+sage:EN72_04770	CDS	871327..872034	methyltransferase
+sage:EN72_04775	CDS	872095..873024	foldase
+sage:EN72_04780	CDS	873266..873751	hypothetical protein
+sage:EN72_04785	CDS	873767..876385	alaS; alanine--tRNA ligase
+sage:EN72_04790	CDS	876467..877183	membrane protein
+sage:EN72_04795	CDS	877271..878089	glycosyl transferase
+sage:EN72_04800	CDS	878290..878478	hypothetical protein
+sage:EN72_04805	CDS	878511..878804	hypothetical protein
+sage:EN72_04810	CDS	878849..879064	XRE family transcriptional regulator
+sage:EN72_04815	CDS	879064..879825	membrane protein
+sage:EN72_04820	CDS	complement(879910..880473)	thiamine transporter
+sage:EN72_04825	CDS	complement(880714..881673)	ribonucleotide-diphosphate reductase subunit beta
+sage:EN72_04830	CDS	complement(881876..884035)	ribonucleotide-diphosphate reductase subunit alpha
+sage:EN72_04835	CDS	complement(884113..884337)	glutaredoxin
+sage:EN72_04840	CDS	884720..884983	phosphocarrier protein HPr
+sage:EN72_04845	CDS	884988..886721	phosphoenolpyruvate-protein phosphotransferase
+sage:EN72_04850	CDS	886871..888298	glyceraldehyde-3-phosphate dehydrogenase
+sage:EN72_04855	CDS	888438..889691	polysaccharide deacetylase
+sage:EN72_04860	CDS	complement(889724..890806)	RNA helicase
+sage:EN72_04865	CDS	890951..891580	uridine kinase
+sage:EN72_04870	CDS	891667..892164	GAF domain-containing protein
+sage:EN72_04875	CDS	892164..893828	DNA polymerase III subunits gamma and tau
+sage:EN72_04880	CDS	893917..894111	membrane protein
+sage:EN72_04885	CDS	complement(894092..895027)	GntR family transcriptional regulator
+sage:EN72_04890	CDS	895212..896408	S-adenosylmethionine synthetase
+sage:EN72_04895	CDS	896395..896670	hypothetical protein
+sage:EN72_04900	CDS	896928..899189	hypothetical protein
+sage:EN72_04905	CDS	899256..899801	hypothetical protein
+sage:EN72_04910	CDS	900197..900763	hydroxyethylthiazole permease
+sage:EN72_04915	CDS	900760..901314	ABC transporter permease
+sage:EN72_04920	CDS	901318..902604	ABC transporter ATP-binding protein
+sage:EN72_04925	CDS	902592..903260	ABC transporter
+sage:EN72_04930	CDS	903344..904024	thiaminase
+sage:EN72_04935	CDS	904026..904823	phosphomethylpyrimidine kinase
+sage:EN72_04940	CDS	904825..905595	hydroxyethylthiazole kinase
+sage:EN72_04945	CDS	905609..906280	thiamine-phosphate synthase
+sage:EN72_04950	CDS	906407..907666	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sage:EN72_04955	CDS	907768..908322	GNAT family acetyltransferase
+sage:EN72_04960	CDS	908315..909598	hypothetical protein
+sage:EN72_04965	CDS	909621..910481	methionine aminopeptidase
+sage:EN72_04970	CDS	910483..911403	ribonuclease BN
+sage:EN72_04975	CDS	complement(911420..911875)	sugar translocase
+sage:EN72_04980	CDS	912057..912566	queuosine transporter QueT
+sage:EN72_04985	CDS	912706..914664	ligA; NAD-dependent DNA ligase LigA
+sage:EN72_04990	CDS	914676..915695	lipid kinase
+sage:EN72_04995	CDS	915699..917999	glycogen debranching protein
+sage:EN72_05000	CDS	918205..920073	glycogen branching protein
+sage:EN72_05005	CDS	920115..921254	glgC; glucose-1-phosphate adenylyltransferase
+sage:EN72_05010	CDS	921244..922377	glucose-1-phosphate adenylyltransferase
+sage:EN72_05015	CDS	922374..923804	glycogen synthase
+sage:EN72_05020	CDS	924136..924336	ATP F0F1 synthase subunit C
+sage:EN72_05025	CDS	924369..925085	ATP synthase F0F1 subunit A
+sage:EN72_05030	CDS	925103..925600	ATP synthase F0F1 subunit B
+sage:EN72_05035	CDS	925600..926136	ATP synthase F0F1 subunit delta
+sage:EN72_05040	CDS	926152..927657	ATP F0F1 synthase subunit alpha
+sage:EN72_05045	CDS	927673..928554	ATP synthase F0F1 subunit gamma
+sage:EN72_05050	CDS	928628..930034	ATP synthase subunit beta
+sage:EN72_05055	CDS	930047..930460	ATP synthase F0F1 subunit epsilon
+sage:EN72_05060	CDS	930525..930755	membrane protein
+sage:EN72_05065	CDS	930818..932089	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sage:EN72_05070	CDS	932091..932282	DNA-directed RNA polymerase subunit beta
+sage:EN72_05075	CDS	932357..933214	DNA-entry nuclease
+sage:EN72_05080	CDS	933506..934546	pheS; phenylalanine--tRNA ligase
+sage:EN72_05085	CDS	934629..935150	GNAT family acetyltransferase
+sage:EN72_05090	CDS	935204..937609	phenylalanyl-tRNA synthase subunit beta
+sage:EN72_05095	CDS	complement(937678..938580)	YpfJ protein, zinc metalloprotease superfamily
+sage:EN72_05100	CDS	938758..941991	ATP-dependent helicase
+sage:EN72_05105	CDS	941981..945604	ATP-dependent helicase/nuclease subunit A
+sage:EN72_05110	CDS	945617..946534	magnesium transporter
+sage:EN72_05115	CDS	complement(946567..947943)	tRNA modification GTPase MnmE
+sage:EN72_05120	CDS	948071..949981	multidrug ABC transporter ATP-binding protein
+sage:EN72_05125	CDS	950131..951099	pyruvate dehydrogenase
+sage:EN72_05130	CDS	951174..952172	pyruvate dehydrogenase
+sage:EN72_05135	CDS	952299..953687	iron ABC transporter ATP-binding protein
+sage:EN72_05140	CDS	953747..955504	dihydrolipoyl dehydrogenase
+sage:EN72_05145	CDS	955602..956591	lipoate--protein ligase
+sage:EN72_05150	CDS	complement(956699..957484)	glutamine amidotransferase
+sage:EN72_05155	CDS	complement(957484..958827)	UDP-N-acetylmuramyl peptide synthase
+sage:EN72_05160	CDS	958967..959818	membrane protein
+sage:EN72_05165	CDS	959821..960780	hypothetical protein
+sage:EN72_05170	CDS	960834..962186	glmM; phosphoglucosamine mutase
+sage:EN72_05175	CDS	962309..962680	hypothetical protein
+sage:EN72_05180	CDS	962705..963085	hypothetical protein
+sage:EN72_05185	CDS	963177..964307	coproporphyrinogen III oxidase
+sage:EN72_05190	CDS	964311..965048	acyl-ACP thioesterase
+sage:EN72_05195	CDS	965049..965819	HAD family hydrolase
+sage:EN72_05200	CDS	965809..966465	membrane protein
+sage:EN72_05205	CDS	966853..970965	CRISPR-associated protein Csn1
+sage:EN72_05210	CDS	970967..971836	CRISPR-associated protein Cas1
+sage:EN72_05215	CDS	971833..972174	CRISPR-associated protein Cas2
+sage:EN72_05220	CDS	972161..972826	CRISPR-associated protein Csn2
+sage:EN72_05225	CDS	974995..975255	hypothetical protein
+sage:EN72_05230	CDS	975566..975982	nucleoside diphosphate kinase
+sage:EN72_05235	CDS	976118..977950	elongation factor 4
+sage:EN72_05240	CDS	978197..980830	internalin
+sage:EN72_05245	CDS	980930..981589	phosphohydrolase
+sage:EN72_05250	CDS	981598..982062	GNAT family acetyltransferase
+sage:EN72_05255	CDS	982062..982496	peptide methionine sulfoxide reductase
+sage:EN72_05260	CDS	982648..985440	haloacid dehalogenase
+sage:EN72_05265	CDS	985440..986543	hypothetical protein
+sage:EN72_05270	CDS	complement(986664..987302)	chloramphenicol acetyltransferase
+sage:EN72_05275	CDS	988013..988624	membrane protein
+sage:EN72_05280	CDS	complement(988661..989443)	hypothetical protein
+sage:EN72_05285	CDS	complement(989455..990153)	ABC transporter
+sage:EN72_05290	CDS	complement(990154..990522)	GntR family transcriptional regulator
+sage:EN72_05295	CDS	990667..993771	dnaE; DNA polymerase III DnaE
+sage:EN72_05300	CDS	993852..994874	6-phosphofructokinase
+sage:EN72_05305	CDS	994923..996425	pyruvate kinase
+sage:EN72_05310	CDS	996596..997153	signal peptidase
+sage:EN72_05315	CDS	997422..999236	glucosamine--fructose-6-phosphate aminotransferase
+sage:EN72_05320	CDS	999399..999728	protein PhnA
+sage:EN72_05325	CDS	999863..1000504	amino acid ABC transporter permease
+sage:EN72_05330	CDS	1000514..1001143	amino acid ABC transporter ATPase
+sage:EN72_05335	CDS	1001157..1001990	amino acid ABC transporter substrate-binding protein
+sage:EN72_05340	CDS	complement(1002074..1002307)	30S ribosomal protein S20
+sage:EN72_05345	CDS	complement(1002376..1003296)	pantothenate kinase
+sage:EN72_05350	CDS	1003402..1003992	methyltransferase
+sage:EN72_05355	CDS	1004318..1004707	cytidine deaminase
+sage:EN72_05360	CDS	1004772..1005821	membrane protein
+sage:EN72_05365	CDS	1005966..1007501	heme ABC transporter ATP-binding protein
+sage:EN72_05370	CDS	1007494..1008555	branched-chain amino acid ABC transporter permease
+sage:EN72_05375	CDS	1008557..1009513	sugar ABC transporter permease
+sage:EN72_05380	CDS	1009718..1011088	NADH oxidase
+sage:EN72_05385	CDS	complement(1011209..1012198)	lactate dehydrogenase
+sage:EN72_05390	CDS	1012437..1014896	DNA gyrase subunit A
+sage:EN72_05395	CDS	1014903..1015646	sortase
+sage:EN72_05400	CDS	1015662..1016075	lyase
+sage:EN72_05405	CDS	1016228..1017190	hypothetical protein
+sage:EN72_05410	CDS	complement(1017252..1018379)	sodium:proton antiporter
+sage:EN72_05415	CDS	1018639..1019022	transposase
+sage:EN72_05420	CDS	1019055..1019444	hypothetical protein
+sage:EN72_05425	CDS	complement(1019510..1021072)	GMP synthase
+sage:EN72_05430	CDS	1021285..1021983	GntR family transcriptional regulator
+sage:EN72_05435	CDS	1022097..1023431	tRNA (uracil-5-)-methyltransferase
+sage:EN72_05440	CDS	1023509..1024252	GNAT family acetyltransferase
+sage:EN72_05445	CDS	1024385..1025233	O-sialoglycoprotein endopeptidase
+sage:EN72_05450	CDS	complement(1025265..1025753)	hypothetical protein
+sage:EN72_05455	CDS	1025919..1026881	peptidase S41
+sage:EN72_05460	CDS	1026907..1027659	bacteriocin ABC transporter ATP-binding protein
+sage:EN72_05465	CDS	1027661..1029616	ABC transporter permease
+sage:EN72_05470	CDS	1029726..1030394	PhoB family transcriptional regulator
+sage:EN72_05475	CDS	1030391..1031329	histidine kinase
+sage:EN72_05480	CDS	complement(1031372..1032442)	xerS; site-specific tyrosine recombinase XerS
+sage:EN72_05485	CDS	1032895..1034556	ABC transporter substrate-binding protein
+sage:EN72_05490	CDS	complement(1034589..1035362)	membrane protein
+sage:EN72_05495	CDS	complement(1035352..1036038)	DNA-binding protein
+sage:EN72_05500	CDS	complement(1036105..1037670)	signal recognition particle
+sage:EN72_05505	CDS	complement(1037688..1038020)	DNA-binding protein
+sage:EN72_05510	CDS	complement(1038109..1039422)	histidine kinase
+sage:EN72_05515	CDS	complement(1039406..1040086)	transcriptional regulator
+sage:EN72_05520	CDS	complement(1040248..1042797)	aminopeptidase N
+sage:EN72_05525	CDS	complement(1042943..1043596)	PhoU family transcriptional regulator
+sage:EN72_05530	CDS	complement(1043630..1044388)	phosphate ABC transporter ATP-binding protein
+sage:EN72_05535	CDS	complement(1044400..1045203)	phosphate ABC transporter ATP-binding protein
+sage:EN72_05540	CDS	complement(1045215..1046102)	phosphate ABC transporter permease
+sage:EN72_05545	CDS	complement(1046092..1047009)	phosphate ABC transporter permease
+sage:EN72_05550	CDS	complement(1047055..1047915)	phosphate-binding protein
+sage:EN72_05555	CDS	complement(1048100..1049410)	23S rRNA methyltransferase
+sage:EN72_05560	CDS	complement(1049478..1050242)	myo-inositol-1-monophosphatase
+sage:EN72_05565	CDS	complement(1050232..1050513)	hypothetical protein
+sage:EN72_05570	CDS	complement(1050506..1050919)	arsenate reductase
+sage:EN72_05575	CDS	complement(1050962..1051894)	riboflavin biosynthesis protein RibF
+sage:EN72_05580	CDS	complement(1051907..1052791)	truB; tRNA pseudouridine synthase B
+sage:EN72_05585	CDS	complement(1052883..1053314)	GNAT family acetyltransferase
+sage:EN72_05590	CDS	complement(1053327..1054598)	hypothetical protein
+sage:EN72_05595	CDS	complement(1054632..1055222)	restriction endonuclease subunit S
+sage:EN72_05600	CDS	complement(1055329..1056207)	CAAX protease
+sage:EN72_05605	CDS	complement(1056313..1058943)	ABC transporter permease
+sage:EN72_05610	CDS	complement(1058955..1059656)	macrolide ABC transporter ATP-binding protein
+sage:EN72_05615	CDS	complement(1059793..1061913)	DNA topoisomerase I
+sage:EN72_05620	CDS	complement(1062008..1062850)	DNA protecting protein DprA
+sage:EN72_05625	CDS	complement(1062988..1064016)	ferrichrome ABC transporter substrate-binding protein
+sage:EN72_05630	CDS	complement(1064078..1064839)	iron ABC transporter ATP-binding protein
+sage:EN72_05635	CDS	complement(1064836..1065810)	iron ABC transporter permease
+sage:EN72_05640	CDS	complement(1065807..1066769)	iron ABC transporter permease
+sage:EN72_05645	CDS	complement(1066951..1067556)	galactoside O-acetyltransferase
+sage:EN72_05650	CDS	complement(1067577..1068338)	ribonuclease HII
+sage:EN72_05655	CDS	complement(1068325..1069176)	rbgA; GTPase
+sage:EN72_05660	CDS	complement(1069452..1070024)	cell surface protein
+sage:EN72_05665	CDS	complement(1070225..1071709)	carbon starvation protein CstA
+sage:EN72_05670	CDS	complement(1071865..1072599)	LytR family transcriptional regulator
+sage:EN72_05675	CDS	complement(1072611..1074350)	histidine kinase
+sage:EN72_05685	CDS	complement(1075101..1075307)	hypothetical protein
+sage:EN72_05690	CDS	complement(1075742..1076272)	hypothetical protein
+sage:EN72_05695	CDS	complement(1076269..1076985)	hypothetical protein
+sage:EN72_05700	CDS	complement(1076990..1077439)	cell division protein FtsK
+sage:EN72_05705	CDS	complement(1077835..1078722)	hypothetical protein
+sage:EN72_05710	CDS	complement(1079239..1079655)	hypothetical protein
+sage:EN72_05715	CDS	complement(1079852..1080142)	hypothetical protein
+sage:EN72_05720	CDS	complement(1080135..1081019)	hypothetical protein
+sage:EN72_05725	gene	complement(1081025..1081767)	pseudogene
+sage:EN72_05730	CDS	complement(1081811..1082056)	hypothetical protein
+sage:EN72_05740	CDS	complement(1082487..1082780)	hypothetical protein
+sage:EN72_05755	CDS	complement(1083447..1084283)	hypothetical protein
+sage:EN72_05760	CDS	complement(1084547..1084861)	hypothetical protein
+sage:EN72_05765	CDS	complement(1084890..1085435)	hypothetical protein
+sage:EN72_05770	CDS	complement(1085441..1086727)	hypothetical protein
+sage:EN72_05775	CDS	complement(1086727..1087083)	hypothetical protein
+sage:EN72_05780	CDS	complement(1087092..1087427)	hypothetical protein
+sage:EN72_05785	CDS	complement(1087440..1091849)	cell division protein FtsK
+sage:EN72_05790	CDS	complement(1091856..1093133)	Ukp protein
+sage:EN72_05795	CDS	complement(1093133..1093375)	hypothetical protein
+sage:EN72_05800	CDS	complement(1093359..1093832)	hypothetical protein
+sage:EN72_05805	CDS	complement(1093841..1096858)	phage infection protein
+sage:EN72_05810	CDS	complement(1096940..1097230)	type VII secretion protein EsxA
+sage:EN72_05815	CDS	complement(1097398..1097688)	type VII secretion protein EsxA
+sage:EN72_05820	CDS	complement(1097805..1098587)	hypothetical protein
+sage:EN72_05825	CDS	complement(1098584..1098907)	hypothetical protein
+sage:EN72_05830	CDS	complement(1099033..1102215)	carbamoyl-phosphate synthase large chain
+sage:EN72_05835	CDS	complement(1102246..1103322)	carbamoyl phosphate synthase small subunit
+sage:EN72_05840	CDS	complement(1103336..1104259)	aspartate carbamoyltransferase catalytic subunit
+sage:EN72_05845	CDS	complement(1104424..1105740)	dihydroorotase
+sage:EN72_05850	CDS	complement(1105728..1106357)	orotate phosphoribosyltransferase
+sage:EN72_05855	CDS	complement(1106370..1107071)	orotidine 5'-phosphate decarboxylase
+sage:EN72_05860	CDS	complement(1107284..1108516)	membrane protein
+sage:EN72_05865	CDS	complement(1108556..1110097)	heme ABC transporter ATP-binding protein
+sage:EN72_05870	CDS	complement(1110228..1110566)	ribonucleoside-triphosphate reductase
+sage:EN72_05875	CDS	complement(1110736..1111812)	aspartate-semialdehyde dehydrogenase
+sage:EN72_05880	CDS	complement(1112021..1113061)	fibronectin-binding protein
+sage:EN72_05885	CDS	complement(1113147..1113536)	hypothetical protein
+sage:EN72_05890	CDS	complement(1113569..1113952)	transposase
+sage:EN72_05895	CDS	complement(1114607..1116202)	hypothetical protein
+sage:EN72_05900	CDS	complement(1116321..1117991)	formate--tetrahydrofolate ligase
+sage:EN72_05905	CDS	complement(1118080..1119099)	lipoate--protein ligase
+sage:EN72_05910	CDS	complement(1119126..1120004)	deacetylase SIR2
+sage:EN72_05915	CDS	complement(1119973..1120791)	Appr-1-p processing protein
+sage:EN72_05920	CDS	complement(1120784..1121116)	glycine cleavage system protein H
+sage:EN72_05925	CDS	complement(1121145..1122131)	luciferase
+sage:EN72_05930	CDS	complement(1122128..1123327)	NADH-dependent flavin oxidoreductase
+sage:EN72_05935	CDS	complement(1123320..1124156)	lipoate--protein ligase
+sage:EN72_05940	CDS	1124295..1124996	phosphopantothenate--cysteine ligase
+sage:EN72_05945	CDS	1124989..1125531	phosphopantothenoylcysteine decarboxylase
+sage:EN72_05950	CDS	1125577..1126149	pantothenic acid transporter pant
+sage:EN72_05955	CDS	1126259..1127977	phosphoglucomutase
+sage:EN72_05960	CDS	complement(1128001..1128240)	hypothetical protein
+sage:EN72_05965	CDS	complement(1128254..1129987)	sugar ABC transporter ATP-binding protein
+sage:EN72_05970	CDS	complement(1129988..1131709)	multidrug ABC transporter ATP-binding protein
+sage:EN72_05975	CDS	complement(1131721..1132323)	hypothetical protein
+sage:EN72_05980	CDS	complement(1132325..1133302)	hypothetical protein
+sage:EN72_05985	CDS	complement(1133307..1134563)	glyA; serine hydroxymethyltransferase
+sage:EN72_05990	CDS	complement(1134655..1135251)	tRNA threonylcarbamoyl adenosine modification protein
+sage:EN72_05995	CDS	complement(1135244..1136074)	SAM-dependent methyltransferase
+sage:EN72_06000	CDS	complement(1136074..1137153)	peptide chain release factor 1
+sage:EN72_06005	CDS	complement(1137188..1137757)	thymidine kinase
+sage:EN72_06010	CDS	1137895..1138077	4-oxalocrotonate tautomerase
+sage:EN72_06015	CDS	1138226..1139164	thiamine biosynthesis protein ApbE
+sage:EN72_06020	CDS	1139182..1139784	NADPH-dependent FMN reductase
+sage:EN72_06025	CDS	1139808..1141043	NADPH-dependent FMN reductase
+sage:EN72_06030	CDS	1141142..1141930	formate transporter
+sage:EN72_06035	CDS	complement(1142029..1143303)	xanthine permease
+sage:EN72_06040	CDS	complement(1143303..1143884)	xanthine phosphoribosyltransferase
+sage:EN72_06045	CDS	complement(1144139..1145122)	guanosine 5'-monophosphate oxidoreductase
+sage:EN72_06050	CDS	complement(1145325..1146665)	multidrug MFS transporter
+sage:EN72_06055	CDS	1146957..1147628	hypothetical protein
+sage:EN72_06060	CDS	complement(1147699..1149699)	portal protein
+sage:EN72_06065	CDS	complement(1149834..1150595)	hypothetical protein
+sage:EN72_06070	CDS	complement(1150657..1151649)	eutD; phosphotransacetylase
+sage:EN72_06075	CDS	complement(1151675..1152559)	pseudouridine synthase
+sage:EN72_06080	CDS	complement(1152556..1153392)	ATP-NAD kinase
+sage:EN72_06085	CDS	complement(1153367..1154038)	GTP pyrophosphokinase
+sage:EN72_06090	CDS	1154148..1154720	adenylate cyclase
+sage:EN72_06095	CDS	1154897..1155871	ribose-phosphate pyrophosphokinase
+sage:EN72_06100	CDS	1155875..1156990	cysteine desulfurase
+sage:EN72_06105	CDS	1156992..1157339	cysteine desulfurase
+sage:EN72_06110	CDS	1157494..1158132	Rex family transcripional regulator
+sage:EN72_06115	CDS	complement(1158145..1158825)	hypothetical protein
+sage:EN72_06120	CDS	complement(1158921..1160054)	membrane protein
+sage:EN72_06125	CDS	complement(1160145..1161332)	6-phospho-beta-glucosidase
+sage:EN72_06130	CDS	complement(1161553..1162086)	PadR family transcriptional regulator
+sage:EN72_06135	CDS	complement(1162076..1163623)	hypothetical protein
+sage:EN72_06140	CDS	complement(1163616..1164407)	hypothetical protein
+sage:EN72_06145	gene	1165342..1165530	pseudogene
+sage:EN72_06155	CDS	1165707..1166063	integrase
+sage:EN72_06165	CDS	complement(1166514..1167128)	lipase
+sage:EN72_06170	CDS	complement(1167229..1168050)	hydrolase
+sage:EN72_06175	CDS	1168674..1169603	AraC family transcriptional regulator
+sage:EN72_06180	CDS	complement(1169660..1171192)	ribonuclease HII
+sage:EN72_06185	CDS	complement(1171301..1172374)	spermidine/putrescine ABC transporter substrate-binding protein
+sage:EN72_06190	CDS	complement(1172367..1173143)	spermidine/purescine ABC transporter permease
+sage:EN72_06195	CDS	complement(1173140..1173934)	spermidine/putrescine ABC transporter permease
+sage:EN72_06200	CDS	complement(1173918..1175072)	spermidine/putrescine ABC transporter ATP-binding protein
+sage:EN72_06205	CDS	complement(1175121..1176023)	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+sage:EN72_06210	CDS	complement(1176167..1176655)	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+sage:EN72_06215	CDS	complement(1176652..1177014)	dihydroneopterin aldolase
+sage:EN72_06220	CDS	complement(1177016..1177819)	dihydropteroate synthase
+sage:EN72_06225	CDS	complement(1177823..1178386)	GTP cyclohydrolase
+sage:EN72_06230	CDS	complement(1178405..1179667)	dihydrofolate synthase
+sage:EN72_06235	CDS	complement(1179669..1180556)	multidrug DMT transporter
+sage:EN72_06240	CDS	complement(1180543..1181409)	serine kinase
+sage:EN72_06245	CDS	complement(1181411..1182694)	homoserine dehydrogenase
+sage:EN72_06250	CDS	1182871..1183758	deacetylase
+sage:EN72_06255	CDS	complement(1183781..1185328)	choline transporter
+sage:EN72_06260	CDS	complement(1185471..1186847)	succinate-semialdehyde dehydrogenase
+sage:EN72_06265	CDS	complement(1186921..1187928)	membrane protein
+sage:EN72_06270	CDS	complement(1188036..1188722)	hypothetical protein
+sage:EN72_06275	CDS	1189201..1190481	kinase
+sage:EN72_06280	CDS	1190678..1190875	transcriptional regulator
+sage:EN72_06285	CDS	1190975..1191508	hypothetical protein
+sage:EN72_06290	CDS	complement(1191584..1192078)	thiol peroxidase
+sage:EN72_06295	CDS	complement(1192151..1192810)	DNA alkylation repair protein
+sage:EN72_06300	CDS	complement(1192810..1193574)	hydrolase
+sage:EN72_06305	CDS	complement(1193579..1194220)	GntR family transcriptional regulator
+sage:EN72_06310	CDS	complement(1194385..1194936)	general stress protein
+sage:EN72_06315	CDS	complement(1194958..1195155)	hypothetical protein
+sage:EN72_06320	CDS	complement(1195202..1195744)	stress response regulator Gls24
+sage:EN72_06325	CDS	complement(1195800..1195994)	membrane protein
+sage:EN72_06330	CDS	complement(1196004..1196585)	membrane protein
+sage:EN72_06335	CDS	complement(1196600..1196848)	membrane protein
+sage:EN72_06340	CDS	complement(1196896..1197141)	membrane protein
+sage:EN72_06345	CDS	complement(1197451..1199730)	ATP-dependent DNA helicase PcrA
+sage:EN72_06350	CDS	complement(1199836..1200222)	thioesterase
+sage:EN72_06355	CDS	complement(1200355..1201680)	uracil permease
+sage:EN72_06360	CDS	1202277..1203623	sodium:alanine symporter
+sage:EN72_06365	CDS	1203687..1204922	cation transporter
+sage:EN72_06370	CDS	1205081..1205473	LrgA
+sage:EN72_06375	CDS	1205454..1206149	membrane protein
+sage:EN72_06380	CDS	1206218..1206841	hypothetical protein
+sage:EN72_06385	tRNA	complement(1207102..1207173)	tRNA-Arg
+sage:EN72_06390	CDS	complement(1207246..1208556)	rpsA; 30S ribosomal protein S1
+sage:EN72_06395	tRNA	complement(1208571..1208645)	tRNA-Gln
+sage:EN72_06400	tRNA	complement(1208651..1208731)	tRNA-Tyr
+sage:EN72_06405	CDS	complement(1208792..1209022)	hypothetical protein
+sage:EN72_06410	CDS	complement(1209106..1210128)	branched-chain amino acid aminotransferase
+sage:EN72_06415	CDS	complement(1210242..1212701)	DNA topoisomerase IV subunit A
+sage:EN72_06420	CDS	complement(1212835..1214784)	gyrB; DNA gyrase subunit B
+sage:EN72_06425	CDS	1214898..1215536	glycerol-3-phosphate acyltransferase
+sage:EN72_06430	CDS	complement(1215602..1216255)	uracil-DNA glycosylase
+sage:EN72_06435	CDS	complement(1216354..1216839)	hypothetical protein
+sage:EN72_06440	CDS	complement(1216953..1218194)	acylneuraminate cytidylyltransferase
+sage:EN72_06445	CDS	complement(1218205..1218834)	NeuD protein
+sage:EN72_06450	CDS	complement(1218831..1219985)	UDP-N-acetylglucosamine 2-epimerase
+sage:EN72_06455	CDS	complement(1220068..1221087)	N-acetyl neuramic acid synthetase NeuB
+sage:EN72_06460	CDS	complement(1221087..1222487)	capsid assembly protein
+sage:EN72_06465	CDS	complement(1222484..1223419)	capsular biosynthesis protein
+sage:EN72_06470	CDS	complement(1223439..1224386)	hypothetical protein
+sage:EN72_06475	CDS	complement(1224460..1225182)	glycosyl transferase
+sage:EN72_06480	CDS	complement(1225194..1226192)	hypothetical protein
+sage:EN72_06485	CDS	complement(1226149..1227246)	capsular biosynthesis protein CpsH
+sage:EN72_06490	CDS	complement(1227233..1227724)	multidrug MFS transporter
+sage:EN72_06495	CDS	complement(1227724..1228173)	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase
+sage:EN72_06500	CDS	complement(1228197..1229585)	galactosyl transferase
+sage:EN72_06505	CDS	complement(1229598..1230296)	tyrosine protein kinase
+sage:EN72_06510	CDS	complement(1230307..1230999)	capsular biosynthesis protein CpsC
+sage:EN72_06515	CDS	complement(1231008..1231739)	tyrosine protein phosphatase
+sage:EN72_06520	CDS	complement(1231745..1233202)	LytR family transcriptional regulator
+sage:EN72_06525	CDS	1233392..1234315	LysR family transcriptional regulator
+sage:EN72_06530	CDS	complement(1234340..1235107)	LytR family transcriptional regulator
+sage:EN72_06535	CDS	complement(1235116..1235826)	purine nucleoside phosphorylase
+sage:EN72_06540	CDS	complement(1235810..1237066)	voltage-gated chloride channel family protein
+sage:EN72_06545	CDS	complement(1237068..1237877)	purine nucleoside phosphorylase
+sage:EN72_06550	CDS	complement(1237916..1238323)	arsenate reductase
+sage:EN72_06555	CDS	complement(1238374..1239585)	phosphopentomutase
+sage:EN72_06560	CDS	complement(1239642..1240313)	ribose 5-phosphate isomerase
+sage:EN72_06565	gene	complement(1240551..1241261)	pseudogene
+sage:EN72_06570	CDS	complement(1241351..1242139)	acetyl esterase
+sage:EN72_06575	CDS	complement(1242196..1243857)	ribonuclease J
+sage:EN72_06580	CDS	complement(1244153..1244914)	phosphonate ABC transporter ATP-binding protein
+sage:EN72_06585	CDS	complement(1244914..1245777)	branched-chain amino acid ABC transporter permease
+sage:EN72_06590	CDS	complement(1245790..1246794)	peptide ABC transporter substrate-binding protein
+sage:EN72_06595	CDS	1247153..1248808	dihydroorotate dehydrogenase
+sage:EN72_06600	CDS	complement(1248862..1249581)	alpha-acetolactate decarboxylase
+sage:EN72_06605	CDS	complement(1249595..1251277)	acetolactate synthase
+sage:EN72_06610	CDS	complement(1251387..1252613)	hypothetical protein
+sage:EN72_06615	CDS	complement(1252603..1253793)	membrane protein
+sage:EN72_06620	CDS	complement(1253885..1254346)	DNA mismatch repair protein MutT
+sage:EN72_06625	CDS	complement(1254336..1254818)	DNA mismatch repair protein MutT
+sage:EN72_06630	CDS	1255036..1258254	hyaluronate lyase
+sage:EN72_06635	CDS	complement(1258306..1259352)	dTDP-glucose 4,6-dehydratase
+sage:EN72_06640	CDS	complement(1259559..1260152)	dTDP-4-dehydrorhamnose 3,5-epimerase
+sage:EN72_06645	CDS	complement(1260152..1261021)	glucose-1-phosphate thymidylyltransferase
+sage:EN72_06650	CDS	complement(1261080..1262183)	FAD-dependent oxidoreductase
+sage:EN72_06655	CDS	complement(1262192..1262980)	hypothetical protein
+sage:EN72_06660	CDS	complement(1262970..1263653)	SAM-dependent methyltransferase
+sage:EN72_06665	CDS	complement(1263757..1264437)	DNA replication protein DnaD
+sage:EN72_06670	CDS	complement(1264555..1265073)	adenine phosphoribosyltransferase
+sage:EN72_06675	CDS	complement(1265196..1267760)	hypothetical protein
+sage:EN72_06680	CDS	complement(1267912..1270110)	single-stranded DNA exonuclease
+sage:EN72_06685	CDS	complement(1270107..1270868)	short-chain dehydrogenase
+sage:EN72_06690	CDS	complement(1270870..1271799)	ribonuclease Z
+sage:EN72_06695	CDS	complement(1271841..1272488)	cystathionine beta-lyase
+sage:EN72_06700	CDS	complement(1272481..1273719)	GTP-binding protein HflX
+sage:EN72_06705	CDS	complement(1273810..1274700)	tRNA delta(2)-isopentenylpyrophosphate transferase
+sage:EN72_06715	CDS	complement(1275029..1275946)	ethanolamine utilization protein EutK
+sage:EN72_06720	CDS	complement(1276081..1279839)	amylopullulanase
+sage:EN72_06725	CDS	complement(1280008..1280742)	hypothetical protein
+sage:EN72_06730	CDS	complement(1280757..1281341)	uracil-DNA glycosylase
+sage:EN72_06735	CDS	complement(1281438..1282844)	dipeptidase PepV
+sage:EN72_06740	CDS	complement(1282891..1283493)	nitroreductase
+sage:EN72_06745	gene	1283663..1285444	pseudogene
+sage:EN72_06750	CDS	complement(1285486..1287267)	excinuclease ABC subunit C
+sage:EN72_06755	CDS	1287426..1288193	hypothetical protein
+sage:EN72_06760	CDS	complement(1288252..1289592)	multidrug transporter MatE
+sage:EN72_06765	CDS	complement(1289692..1290108)	bleomycin resistance protein
+sage:EN72_06770	CDS	complement(1290112..1290609)	hypothetical protein
+sage:EN72_06775	CDS	1290831..1291427	lipoprotein
+sage:EN72_06780	CDS	1291616..1291906	transposase
+sage:EN72_06785	CDS	1291942..1292721	transposase
+sage:EN72_06790	CDS	1292945..1293235	transposase
+sage:EN72_06795	CDS	1293489..1293773	DNA-binding protein
+sage:EN72_06800	CDS	1293805..1294077	transposase
+sage:EN72_06805	CDS	1294123..1294356	integrase
+sage:EN72_06810	CDS	complement(1294555..1297023)	histidine triad (HIT) protein
+sage:EN72_06815	CDS	complement(1297036..1297956)	adhesion protein
+sage:EN72_06820	CDS	complement(1298192..1301644)	peptidase C5
+sage:EN72_06825	CDS	complement(1302180..1303217)	hypothetical protein
+sage:EN72_06830	CDS	1303445..1303735	transposase
+sage:EN72_06835	CDS	1303789..1304532	transposase
+sage:EN72_06840	gene	complement(1304658..1306473)	pseudogene
+sage:EN72_06845	CDS	1306889..1308124	hypothetical protein
+sage:EN72_06850	CDS	complement(1308326..1309507)	integrase
+sage:EN72_06855	CDS	complement(1309525..1309758)	hypothetical protein
+sage:EN72_06860	CDS	complement(1309762..1310328)	Replication protein RepB
+sage:EN72_06865	CDS	complement(1310463..1310771)	hypothetical protein
+sage:EN72_06870	CDS	complement(1310768..1311076)	hypothetical protein
+sage:EN72_06875	CDS	complement(1311078..1311587)	cell division protein FtsK
+sage:EN72_06880	CDS	complement(1311651..1312154)	hypothetical protein
+sage:EN72_06885	CDS	complement(1312154..1312468)	hypothetical protein
+sage:EN72_06890	CDS	complement(1312703..1313908)	hypothetical protein
+sage:EN72_06895	CDS	complement(1313960..1314451)	hypothetical protein
+sage:EN72_06900	CDS	complement(1314465..1316381)	Type II restriction modification system
+sage:EN72_06905	CDS	complement(1316549..1318057)	hypothetical protein
+sage:EN72_06910	CDS	complement(1318158..1319651)	recombinase
+sage:EN72_06915	CDS	complement(1319644..1320693)	recombinase
+sage:EN72_06920	CDS	complement(1320733..1321122)	hypothetical protein
+sage:EN72_06925	CDS	complement(1321155..1321538)	transposase
+sage:EN72_06930	CDS	complement(1321543..1322175)	hypothetical protein
+sage:EN72_06935	CDS	complement(1322175..1323845)	recombinase
+sage:EN72_06945	CDS	complement(1324644..1325054)	sigma factor
+sage:EN72_06950	CDS	complement(1325322..1325837)	hypothetical protein
+sage:EN72_06955	CDS	1326032..1326433	Cro/Cl family transcriptional regulator
+sage:EN72_06960	CDS	1326442..1326990	toxin
+sage:EN72_06965	CDS	1326999..1327481	membrane protein
+sage:EN72_06970	CDS	1327474..1328547	toxin Fic
+sage:EN72_06975	CDS	1328717..1329073	mobilization protein
+sage:EN72_06980	CDS	1329075..1330406	endonuclease
+sage:EN72_06985	CDS	complement(1331303..1331827)	hypothetical protein
+sage:EN72_06990	CDS	complement(1332044..1332775)	SAM-dependent methlyltransferase
+sage:EN72_06995	CDS	complement(1333509..1335122)	tetronasin resistance transmembrane protein
+sage:EN72_07000	CDS	complement(1335148..1336029)	ABC transporter
+sage:EN72_07005	CDS	complement(1336113..1336739)	TetR family transcriptional regulator
+sage:EN72_07015	CDS	complement(1337297..1337953)	DNA-binding protein
+sage:EN72_07020	CDS	complement(1337997..1345640)	DNA helicase
+sage:EN72_07025	CDS	complement(1345713..1346168)	arsenic ABC transporter ATPase
+sage:EN72_07030	CDS	complement(1346158..1346394)	hypothetical protein
+sage:EN72_07035	CDS	complement(1346431..1347003)	hypothetical protein
+sage:EN72_07040	CDS	complement(1347068..1348015)	restriction endonuclease subunit M
+sage:EN72_07045	CDS	complement(1348008..1349729)	DNA topoisomerase
+sage:EN72_07050	CDS	complement(1349822..1350805)	hypothetical protein
+sage:EN72_07055	CDS	complement(1350798..1351409)	hypothetical protein
+sage:EN72_07060	CDS	complement(1351484..1352344)	bacteriocin
+sage:EN72_07065	CDS	complement(1352359..1353942)	copper amine oxidase
+sage:EN72_07070	CDS	complement(1353929..1354168)	hypothetical protein
+sage:EN72_07075	CDS	complement(1354183..1356762)	hypothetical protein
+sage:EN72_07080	CDS	complement(1356770..1359013)	conjugal transfer protein TraE
+sage:EN72_07085	CDS	complement(1359084..1359494)	conjugal transfer protein
+sage:EN72_07090	CDS	complement(1359496..1359786)	hypothetical protein
+sage:EN72_07095	CDS	complement(1359796..1360659)	membrane protein
+sage:EN72_07100	CDS	complement(1360670..1360885)	conjugal transfer protein
+sage:EN72_07105	CDS	complement(1360887..1361198)	single-stranded DNA-binding protein
+sage:EN72_07110	CDS	complement(1361422..1362039)	hypothetical protein
+sage:EN72_07115	CDS	complement(1362107..1362529)	polyketide cyclase
+sage:EN72_07120	CDS	complement(1362567..1363085)	hypothetical protein
+sage:EN72_07125	CDS	complement(1363149..1363328)	hypothetical protein
+sage:EN72_07130	CDS	complement(1363609..1363884)	hypothetical protein
+sage:EN72_07135	CDS	complement(1363903..1365699)	conjugal transfer protein TraG
+sage:EN72_07140	CDS	complement(1365692..1366426)	antirepressor
+sage:EN72_07145	CDS	complement(1366423..1366905)	conjugal transfer protein
+sage:EN72_07150	CDS	complement(1366898..1367725)	nucleoside triphosphate hydrolase
+sage:EN72_07155	CDS	complement(1367722..1368495)	hypothetical protein
+sage:EN72_07160	CDS	complement(1368603..1370189)	hypothetical protein
+sage:EN72_07165	CDS	complement(1370247..1372490)	hypothetical protein
+sage:EN72_07170	CDS	complement(1372540..1373091)	hypothetical protein
+sage:EN72_07175	CDS	complement(1373075..1373266)	calcium-binding protein
+sage:EN72_07180	CDS	complement(1373267..1378162)	glucan-binding protein
+sage:EN72_07185	CDS	1378155..1378406	hypothetical protein
+sage:EN72_07190	CDS	1378441..1379031	abortive phage infection protein
+sage:EN72_07195	CDS	1379028..1379873	abortive phage infection protein
+sage:EN72_07200	CDS	complement(1379959..1382760)	amidase
+sage:EN72_07205	CDS	complement(1382762..1385092)	ATPase AAA
+sage:EN72_07210	CDS	complement(1385070..1385423)	hypothetical protein
+sage:EN72_07215	CDS	complement(1385485..1386339)	conjugal transfer protein TrbL
+sage:EN72_07220	CDS	complement(1386358..1386600)	membrane protein
+sage:EN72_07225	CDS	complement(1386618..1388435)	conjugal transfer protein TraG
+sage:EN72_07230	CDS	complement(1388435..1388923)	hypothetical protein
+sage:EN72_07235	CDS	complement(1389000..1389584)	CAAX protease
+sage:EN72_07240	CDS	complement(1389587..1389820)	hypothetical protein
+sage:EN72_07245	CDS	complement(1389829..1390212)	arsenate reductase
+sage:EN72_07250	CDS	complement(1390223..1390651)	hypothetical protein
+sage:EN72_07255	CDS	complement(1390635..1391990)	methyltransferase
+sage:EN72_07265	CDS	complement(1392139..1392957)	replication initiator protein
+sage:EN72_07275	CDS	complement(1393342..1393707)	rplL; 50S ribosomal protein L7/L12
+sage:EN72_07280	CDS	complement(1393771..1394271)	50S ribosomal protein L10
+sage:EN72_07285	CDS	1394719..1396827	Clp protease ClpX
+sage:EN72_07290	CDS	complement(1396921..1397865)	mmuM; homocysteine methyltransferase
+sage:EN72_07295	CDS	complement(1397870..1399246)	amino acid permease
+sage:EN72_07300	CDS	complement(1399376..1400026)	hypothetical protein
+sage:EN72_07305	CDS	complement(1400184..1400507)	hypothetical protein
+sage:EN72_07310	CDS	1400779..1401408	TetR family transcriptional regulator
+sage:EN72_07315	CDS	complement(1401389..1401985)	engB; GTP-binding protein
+sage:EN72_07320	CDS	complement(1401996..1403222)	ATP-dependent protease
+sage:EN72_07325	CDS	complement(1403252..1403422)	membrane protein
+sage:EN72_07330	CDS	complement(1403440..1403934)	dihydrofolate reductase
+sage:EN72_07335	CDS	complement(1404014..1404853)	thymidylate synthase
+sage:EN72_07340	CDS	1404902..1406179	DNA-binding protein
+sage:EN72_07345	CDS	1406181..1407464	3-hydroxy-3-methylglutaryl-CoA reductase
+sage:EN72_07350	CDS	1407556..1408005	hypothetical protein
+sage:EN72_07355	CDS	1407998..1408654	hemolysin III
+sage:EN72_07360	CDS	1408741..1409655	DeoR faimly transcriptional regulator
+sage:EN72_07365	CDS	1409756..1410610	hypothetical protein
+sage:EN72_07370	CDS	complement(1410656..1410874)	hypothetical protein
+sage:EN72_07375	CDS	complement(1410942..1411937)	isopentenyl pyrophosphate isomerase
+sage:EN72_07380	CDS	complement(1411934..1412926)	phosphomevalonate kinase
+sage:EN72_07385	CDS	complement(1412919..1413863)	diphosphomevalonate decarboxylase
+sage:EN72_07390	CDS	complement(1413845..1414723)	mevalonate kinase
+sage:EN72_07395	CDS	complement(1414839..1416068)	histidine kinase
+sage:EN72_07400	CDS	complement(1416068..1416754)	transcriptional regulator
+sage:EN72_07405	CDS	complement(1416756..1417382)	GTP pyrophosphokinase
+sage:EN72_07410	CDS	complement(1417490..1419244)	ABC transporter
+sage:EN72_07415	CDS	complement(1419234..1421051)	multidrug ABC transporter ATP-binding protein
+sage:EN72_07420	CDS	complement(1421098..1421538)	MarR family transcriptional regulator
+sage:EN72_07425	CDS	1421807..1423879	5'-nucleotidase
+sage:EN72_07430	CDS	complement(1423916..1424326)	peptide deformylase
+sage:EN72_07435	CDS	complement(1424396..1425745)	glutamate dehydrogenase
+sage:EN72_07440	CDS	1425913..1426422	membrane protein
+sage:EN72_07445	CDS	complement(1426463..1428232)	multidrug ABC transporter ATPase
+sage:EN72_07450	CDS	complement(1428237..1429976)	multidrug ABC transporter ATP-binding protein
+sage:EN72_07455	CDS	complement(1430043..1430516)	acetyltransferase
+sage:EN72_07460	CDS	complement(1430513..1432381)	antibiotic ABC transporter ATP-binding protein
+sage:EN72_07465	CDS	complement(1432392..1433600)	tRNA CCA-pyrophosphorylase
+sage:EN72_07470	CDS	complement(1433785..1434633)	hypothetical protein
+sage:EN72_07475	CDS	complement(1434633..1435013)	transposase
+sage:EN72_07480	CDS	complement(1435085..1435618)	hypothetical protein
+sage:EN72_07485	CDS	complement(1435669..1436163)	hypothetical protein
+sage:EN72_07490	CDS	complement(1436352..1438316)	PTS fructose transporter subunit IIC
+sage:EN72_07495	CDS	complement(1438313..1439224)	phosphofructokinase
+sage:EN72_07500	CDS	complement(1439221..1440030)	DeoR faimly transcriptional regulator
+sage:EN72_07505	CDS	complement(1440095..1441330)	peptidoglycan branched peptide synthesis protein
+sage:EN72_07510	CDS	complement(1441474..1443108)	choline-binding protein
+sage:EN72_07515	CDS	complement(1443320..1444243)	2-dehydropantoate 2-reductase
+sage:EN72_07520	CDS	complement(1444256..1445326)	membrane protein
+sage:EN72_07525	CDS	complement(1445463..1446455)	ferredoxin-NADP reductase
+sage:EN72_07530	CDS	complement(1446436..1447191)	tRNA (guanine-N1)-methyltransferase
+sage:EN72_07535	CDS	complement(1447178..1447696)	16S rRNA processing protein RimM
+sage:EN72_07540	tRNA	complement(1447759..1447830)	tRNA-Glu
+sage:EN72_07545	tRNA	complement(1447839..1447910)	tRNA-Gln
+sage:EN72_07550	CDS	complement(1448018..1449529)	transcriptional regulator
+sage:EN72_07555	CDS	complement(1449661..1449903)	RNA-binding protein
+sage:EN72_07560	CDS	complement(1449913..1450185)	rpsP; 30S ribosomal protein S16
+sage:EN72_07565	CDS	complement(1450314..1451561)	membrane protein
+sage:EN72_07570	CDS	complement(1451576..1452286)	macrolide ABC transporter ATP-binding protein
+sage:EN72_07575	CDS	complement(1452289..1453533)	ABC transporter substrate-binding protein
+sage:EN72_07580	CDS	complement(1453742..1455340)	carbamoyl phosphate synthase large subunit
+sage:EN72_07585	CDS	complement(1455396..1456466)	carbamoyl phosphate synthase small subunit
+sage:EN72_07590	CDS	complement(1456515..1457036)	phosphoribosyl transferase
+sage:EN72_07595	CDS	complement(1457212..1458102)	pseudouridine synthase
+sage:EN72_07600	CDS	complement(1458086..1458550)	lipoprotein signal peptidase
+sage:EN72_07605	CDS	complement(1458559..1459464)	LysR family transcriptional regulator
+sage:EN72_07610	CDS	complement(1459680..1459973)	50S ribosomal protein L27
+sage:EN72_07615	CDS	complement(1459995..1460333)	hypothetical protein
+sage:EN72_07620	CDS	complement(1460340..1460654)	50S ribosomal protein L21
+sage:EN72_07625	CDS	complement(1460844..1462022)	metallophosphatase
+sage:EN72_07630	CDS	complement(1462124..1463338)	thiamine biosynthesis protein ThiI
+sage:EN72_07635	CDS	complement(1463340..1464485)	aminotransferase V
+sage:EN72_07640	CDS	1464732..1465184	hypothetical protein
+sage:EN72_07645	CDS	complement(1465228..1466577)	glutathione reductase
+sage:EN72_07650	CDS	complement(1466752..1467087)	hypothetical protein
+sage:EN72_07655	CDS	complement(1467171..1468337)	chorismate synthase
+sage:EN72_07660	CDS	complement(1468338..1469405)	3-dehydroquinate synthase
+sage:EN72_07665	CDS	complement(1469499..1470176)	aroD; 3-dehydroquinate dehydratase
+sage:EN72_07670	CDS	complement(1470176..1471333)	SAM-dependent methyltransferase
+sage:EN72_07675	CDS	1471468..1473612	alkaline phosphatase
+sage:EN72_07680	CDS	complement(1473854..1474213)	50S ribosomal protein L20
+sage:EN72_07685	CDS	complement(1474271..1474471)	rpmI; 50S ribosomal protein L35
+sage:EN72_07690	CDS	complement(1474511..1475041)	translation initiation factor IF-3
+sage:EN72_07695	CDS	complement(1475202..1475885)	cytidylate kinase
+sage:EN72_07700	CDS	complement(1475896..1476420)	membrane protein
+sage:EN72_07705	CDS	1476466..1476663	ferredoxin
+sage:EN72_07710	CDS	complement(1476650..1477141)	EbsA
+sage:EN72_07715	CDS	complement(1477170..1478390)	peptidase T
+sage:EN72_07720	CDS	complement(1478525..1480159)	polysaccharide biosynthesis protein
+sage:EN72_07725	CDS	1480283..1481737	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase
+sage:EN72_07730	CDS	1481893..1482687	iron ABC transporter ATP-binding protein
+sage:EN72_07735	CDS	1482711..1483643	ferrichrome ABC transporter substrate-binding protein
+sage:EN72_07740	CDS	1483659..1484684	ferrichrome ABC transporter permease
+sage:EN72_07745	CDS	1484681..1485682	ferrichrome ABC transporter permease
+sage:EN72_07750	CDS	complement(1485711..1486364)	hypothetical protein
+sage:EN72_07755	CDS	complement(1486424..1487359)	inorganic pyrophosphatase
+sage:EN72_07760	CDS	complement(1487476..1488264)	pflA; pyruvate formate lyase-activating enzyme 1
+sage:EN72_07765	CDS	complement(1488332..1489666)	hypothetical protein
+sage:EN72_07770	CDS	complement(1489846..1490412)	SAM-dependent methyltransferase
+sage:EN72_07775	CDS	complement(1490405..1491340)	hypothetical protein
+sage:EN72_07780	CDS	complement(1491433..1492074)	phosphatase
+sage:EN72_07785	CDS	complement(1492055..1492639)	membrane protein
+sage:EN72_07790	CDS	complement(1492940..1493866)	cell surface protein
+sage:EN72_07795	CDS	complement(1493863..1494747)	sortase
+sage:EN72_07800	CDS	complement(1494747..1495625)	sortase
+sage:EN72_07805	CDS	complement(1495737..1497818)	cell wall anchor protein
+sage:EN72_07810	gene	complement(1497937..1500626)	pseudogene
+sage:EN72_07815	CDS	1500910..1501890	hypothetical protein
+sage:EN72_07820	CDS	complement(1502490..1503629)	glycosyl transferase
+sage:EN72_07825	CDS	complement(1503619..1504467)	glycosyl transferase family 2
+sage:EN72_07830	CDS	complement(1504464..1505888)	polysaccharide biosynthesis protein
+sage:EN72_07835	CDS	complement(1505888..1507252)	membrane protein
+sage:EN72_07840	CDS	complement(1507254..1508201)	glycosyl transferase family 2
+sage:EN72_07845	CDS	complement(1508210..1509145)	glycosyl transferase family 2
+sage:EN72_07850	CDS	complement(1509147..1510205)	nucleotide sugar dehydratase
+sage:EN72_07855	CDS	complement(1510205..1510927)	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+sage:EN72_07860	CDS	complement(1510927..1511751)	hypothetical protein
+sage:EN72_07865	CDS	complement(1511776..1513509)	hypothetical protein
+sage:EN72_07870	CDS	complement(1513502..1513855)	hypothetical protein
+sage:EN72_07875	CDS	complement(1513852..1514583)	glycosyl transferase family 2
+sage:EN72_07880	CDS	complement(1514585..1515526)	alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+sage:EN72_07885	CDS	complement(1515516..1516670)	glycosyl transferase
+sage:EN72_07890	CDS	complement(1516787..1517641)	dTDP-4-dehydrorhamnose reductase
+sage:EN72_07895	CDS	complement(1517731..1518072)	aromatic ring hydroxylase
+sage:EN72_07900	CDS	complement(1518181..1519290)	RNA polymerase sigma factor RpoD
+sage:EN72_07905	CDS	complement(1519298..1521172)	DNA primase
+sage:EN72_07910	CDS	1521296..1521673	mscL; large-conductance mechanosensitive channel
+sage:EN72_07915	CDS	complement(1521770..1521946)	30S ribosomal protein S21
+sage:EN72_07920	CDS	complement(1522050..1522553)	Fe-S-oxidoreductase
+sage:EN72_07925	CDS	complement(1522636..1523442)	amino acid ABC transporter substrate-binding protein
+sage:EN72_07930	CDS	complement(1523767..1524759)	ammonium transporter
+sage:EN72_07935	CDS	1524890..1526017	pyridine nucleotide-disulfide oxidoreductase
+sage:EN72_07940	CDS	complement(1526054..1527040)	sulfurtransferase
+sage:EN72_07945	CDS	1527203..1527508	hypothetical protein
+sage:EN72_07950	gene	complement(1527663..1528945)	pseudogene
+sage:EN72_07955	CDS	complement(1529535..1530008)	hypothetical protein
+sage:EN72_07960	CDS	complement(1530423..1532687)	maltose phosphorylase
+sage:EN72_07965	CDS	complement(1532699..1534195)	4-alpha-glucanotransferase
+sage:EN72_07970	CDS	complement(1534316..1535344)	LacI family transcriptional regulator
+sage:EN72_07975	CDS	1535600..1536847	sugar ABC transporter substrate-binding protein
+sage:EN72_07980	CDS	1536945..1538315	sugar ABC transporter permease
+sage:EN72_07985	CDS	1538315..1539151	sugar ABC transporter permease
+sage:EN72_07990	CDS	1539382..1540854	peptide ABC transporter permease
+sage:EN72_07995	CDS	complement(1540899..1541363)	NUDIX hydrolase
+sage:EN72_08000	CDS	complement(1541447..1541635)	hypothetical protein
+sage:EN72_08005	CDS	complement(1541646..1542971)	accessory Sec system glycosyltransferase GtfB
+sage:EN72_08010	CDS	complement(1542964..1544472)	glycosyl transferase family 4
+sage:EN72_08015	CDS	complement(1544486..1546873)	preprotein translocase subunit SecA
+sage:EN72_08020	CDS	complement(1546860..1547852)	Accessory Sec system protein Asp3
+sage:EN72_08025	CDS	complement(1547849..1549408)	hypothetical protein
+sage:EN72_08030	CDS	complement(1549415..1550959)	Accessory secretory protein Asp1
+sage:EN72_08035	CDS	complement(1550959..1552188)	preprotein translocase subunit SecY
+sage:EN72_08040	CDS	complement(1552312..1553508)	glycosyl transferase family 8
+sage:EN72_08045	CDS	complement(1553569..1554444)	glycosyl transferase family 2
+sage:EN72_08050	CDS	complement(1554437..1555621)	glycosyl transferase family 8
+sage:EN72_08055	CDS	complement(1555611..1556852)	glycosyltransferase
+sage:EN72_08060	CDS	complement(1556849..1558054)	glycosyltransferase
+sage:EN72_08065	CDS	complement(1558063..1559070)	beta-1,6-galactofuranosyltransferase
+sage:EN72_08070	CDS	complement(1559401..1559526)	cell wall anchor protein
+sage:EN72_08075	CDS	1559570..1561204	hypothetical protein
+sage:EN72_08080	CDS	1563464..1564957	transcriptional regulator
+sage:EN72_08085	CDS	complement(1565055..1567046)	excinuclease ABC subunit B
+sage:EN72_08090	CDS	complement(1567107..1568027)	CAAX protease
+sage:EN72_08095	CDS	1568210..1570393	amino acid ABC transporter permease
+sage:EN72_08100	CDS	1570393..1571133	peptide ABC transporter ATP-binding protein
+sage:EN72_08105	CDS	1571282..1571632	hypothetical protein
+sage:EN72_08110	CDS	complement(1571717..1571884)	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sage:EN72_08115	CDS	complement(1571910..1573223)	obgE; GTPase CgtA
+sage:EN72_08125	CDS	1573590..1574831	aminopeptidase T
+sage:EN72_08130	CDS	complement(1574866..1575444)	cell surface protein
+sage:EN72_08135	gene	complement(1575554..1577593)	pseudogene
+sage:EN72_08140	CDS	complement(1577678..1578400)	16S rRNA pseudouridylate synthase
+sage:EN72_08145	CDS	complement(1578591..1579433)	2,5-diketo-D-gluconic acid reductase
+sage:EN72_08150	CDS	1579700..1580374	NAD(P)H nitroreductase
+sage:EN72_08155	CDS	1580462..1580854	lactoylglutathione lyase
+sage:EN72_08160	CDS	1580983..1581909	bactoprenol glucosyl transferase
+sage:EN72_08165	CDS	1582038..1583426	amino acid transporter
+sage:EN72_08170	CDS	complement(1583510..1583977)	single-stranded DNA-binding protein
+sage:EN72_08175	CDS	complement(1583980..1586385)	ribonuclease R
+sage:EN72_08180	CDS	complement(1586498..1586734)	preprotein translocase subunit SecG
+sage:EN72_08185	CDS	complement(1586924..1588093)	multidrug transporter
+sage:EN72_08190	CDS	complement(1588289..1589935)	membrane protein
+sage:EN72_08195	CDS	complement(1589925..1590626)	ABC transporter ATP-binding protein
+sage:EN72_08200	CDS	complement(1590751..1591344)	dephospho-CoA kinase
+sage:EN72_08205	CDS	complement(1591335..1592156)	5-hydroxymethyluracil DNA glycosylase
+sage:EN72_08210	CDS	complement(1592305..1593153)	transcriptional regulator
+sage:EN72_08215	CDS	1593370..1594959	transglutaminase
+sage:EN72_08225	CDS	complement(1595222..1595416)	hypothetical protein
+sage:EN72_08230	CDS	1595415..1595609	hypothetical protein
+sage:EN72_08240	CDS	complement(1596932..1597321)	hypothetical protein
+sage:EN72_08245	CDS	complement(1597558..1598457)	era; GTPase Era
+sage:EN72_08250	CDS	complement(1598499..1598897)	UDP kinase
+sage:EN72_08255	CDS	complement(1598878..1599375)	metalloprotease
+sage:EN72_08260	CDS	complement(1599769..1600575)	methyltransferase
+sage:EN72_08265	CDS	complement(1600899..1601375)	DNA mismatch repair protein MutT
+sage:EN72_08270	CDS	1601567..1602370	nucleotidyltransferase
+sage:EN72_08275	CDS	complement(1602462..1603448)	phosphate starvation-inducible protein PhoH
+sage:EN72_08280	CDS	complement(1603572..1605344)	hypothetical protein
+sage:EN72_08285	CDS	complement(1605501..1605716)	hypothetical protein
+sage:EN72_08290	CDS	complement(1605713..1606222)	methionine sulfoxide reductase A
+sage:EN72_08295	CDS	complement(1606360..1607214)	S1 RNA-binding protein
+sage:EN72_08300	CDS	complement(1607332..1607889)	ribosome-recycling factor
+sage:EN72_08305	CDS	complement(1607904..1608632)	pyrH; uridylate kinase
+sage:EN72_08310	CDS	complement(1608753..1609433)	peptide ABC transporter ATP-binding protein
+sage:EN72_08315	CDS	complement(1609420..1610208)	peptide ABC transporter ATP-binding protein
+sage:EN72_08320	CDS	complement(1610196..1611002)	peptide ABC transporter permease
+sage:EN72_08325	CDS	complement(1611002..1611946)	peptide ABC transporter permease
+sage:EN72_08330	CDS	complement(1611933..1613549)	nickel ABC transporter substrate-binding protein
+sage:EN72_08335	CDS	complement(1613940..1614629)	50S ribosomal protein L1
+sage:EN72_08340	CDS	complement(1614733..1615158)	50S ribosomal protein L11
+sage:EN72_08345	CDS	complement(1615369..1616751)	quinolone resistance protein
+sage:EN72_08350	CDS	complement(1616759..1617973)	amidohydrolase
+sage:EN72_08355	CDS	1618232..1619137	LysR family transcriptional regulator
+sage:EN72_08360	CDS	complement(1619580..1621295)	aminobenzoate synthetase
+sage:EN72_08365	CDS	complement(1621377..1623827)	cell division protein FtsK
+sage:EN72_08370	CDS	1623993..1624796	peptidylprolyl isomerase
+sage:EN72_08375	CDS	complement(1624848..1625681)	manganese ABC transporter substrate-binding protein
+sage:EN72_08380	CDS	complement(1625683..1626399)	manganese ABC transporter ATP-binding protein
+sage:EN72_08385	CDS	complement(1626570..1627496)	manganese ABC transporter substrate-binding protein
+sage:EN72_08390	CDS	1627663..1628310	MarR family transcriptional regulator
+sage:EN72_08395	CDS	complement(1628350..1629039)	5'-methylthioadenosine nucleosidase
+sage:EN72_08400	CDS	complement(1629049..1629318)	hypothetical protein
+sage:EN72_08405	CDS	complement(1629318..1629872)	ADP-ribose pyrophosphatase
+sage:EN72_08410	CDS	complement(1629893..1631272)	glmU; bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+sage:EN72_08415	CDS	complement(1631516..1631929)	bleomycin resistance protein
+sage:EN72_08420	CDS	complement(1631942..1632319)	glyoxalase
+sage:EN72_08425	CDS	complement(1632408..1633364)	NAD(P)-dependent oxidoreductase
+sage:EN72_08430	CDS	complement(1633361..1633813)	RNA-binding protein
+sage:EN72_08435	CDS	complement(1634052..1634750)	fabG; 3-ketoacyl-ACP reductase
+sage:EN72_08440	CDS	complement(1634743..1634979)	methionyl-tRNA synthetase
+sage:EN72_08445	CDS	complement(1635069..1635317)	aminoacyl-tRNA synthetase
+sage:EN72_08450	CDS	complement(1635553..1636086)	GNAT family acetyltransferase
+sage:EN72_08455	CDS	complement(1636330..1637742)	glycosyl transferase family 2
+sage:EN72_08460	CDS	complement(1637882..1640041)	hypothetical protein
+sage:EN72_08465	CDS	complement(1640048..1641493)	hypothetical protein
+sage:EN72_08470	CDS	complement(1641486..1642163)	membrane protein
+sage:EN72_08475	CDS	complement(1642214..1642825)	molecular chaperone
+sage:EN72_08480	CDS	complement(1643274..1644611)	branched-chain amino acid ABC transporter substrate-binding protein
+sage:EN72_08485	CDS	complement(1644807..1646804)	methionine--tRNA ligase
+sage:EN72_08490	CDS	1646947..1647822	tellurite resistance protein TehB
+sage:EN72_08495	CDS	complement(1647980..1648675)	membrane protein
+sage:EN72_08500	CDS	1649011..1650228	PTS lactose transporter subunit IIC
+sage:EN72_08505	CDS	1650212..1651054	acyltransferase
+sage:EN72_08510	CDS	1651131..1651958	exodeoxyribonuclease
+sage:EN72_08515	CDS	complement(1651999..1652355)	arsenate reductase
+sage:EN72_08520	CDS	complement(1652357..1652833)	cysteine methyltransferase
+sage:EN72_08525	CDS	complement(1652890..1654071)	phosphoglycerate dehydrogenase
+sage:EN72_08530	CDS	complement(1654134..1654682)	GNAT family acetyltransferase
+sage:EN72_08535	CDS	complement(1654750..1655841)	MFS transporter
+sage:EN72_08540	CDS	1655974..1656609	copper homeostasis protein CutC
+sage:EN72_08545	CDS	complement(1656879..1657748)	16S rRNA methyltransferase
+sage:EN72_08550	CDS	complement(1657748..1658074)	DNA replication initiation control protein YabA
+sage:EN72_08555	CDS	complement(1658105..1658968)	DNA polymerase III subunit delta'
+sage:EN72_08560	CDS	complement(1658988..1659623)	thymidylate kinase
+sage:EN72_08565	CDS	complement(1659712..1660371)	hypothetical protein
+sage:EN72_08570	CDS	complement(1660390..1661100)	amino acid ABC transporter ATPase
+sage:EN72_08575	CDS	complement(1661100..1661864)	branched-chain amino acid ABC transporter ATP-binding protein
+sage:EN72_08580	CDS	complement(1661865..1662818)	branched-chain amino acid ABC transporter permease
+sage:EN72_08585	CDS	complement(1662821..1663690)	ABC transporter permease
+sage:EN72_08590	CDS	complement(1663796..1664962)	branched-chain amino acid ABC transporter substrate-binding protein
+sage:EN72_08595	CDS	complement(1665116..1665361)	hypothetical protein
+sage:EN72_08600	CDS	complement(1665461..1666051)	Clp protease
+sage:EN72_08605	CDS	complement(1666176..1666805)	uracil phosphoribosyltransferase
+sage:EN72_08610	CDS	complement(1666916..1668085)	cysteine desulfurase
+sage:EN72_08615	CDS	complement(1668221..1668769)	RNA methyltransferase
+sage:EN72_08620	CDS	complement(1668942..1670294)	amino acid-polyamine-organocation (APC) family permease
+sage:EN72_08625	CDS	1670500..1671849	potassium transporter TrkA
+sage:EN72_08630	CDS	1671854..1673293	potassium transporter KefA
+sage:EN72_08635	CDS	complement(1673317..1673568)	membrane protein
+sage:EN72_08640	CDS	complement(1673568..1674290)	pseudouridine synthase
+sage:EN72_08645	CDS	complement(1674280..1674864)	segregation protein A
+sage:EN72_08650	CDS	complement(1674861..1675568)	scpA; segregation and condensation protein A
+sage:EN72_08655	CDS	complement(1675568..1676308)	recombinase XerD
+sage:EN72_08660	CDS	complement(1676298..1676771)	hypothetical protein
+sage:EN72_08665	CDS	complement(1676768..1677289)	metallophosphoesterase
+sage:EN72_08670	CDS	complement(1677271..1678245)	deoxyribonucleotide triphosphate pyrophosphatase
+sage:EN72_08675	CDS	complement(1678242..1679036)	glutamate racemase
+sage:EN72_08680	CDS	complement(1679211..1679450)	hypothetical protein
+sage:EN72_08685	CDS	complement(1679608..1680150)	membrane protein
+sage:EN72_08690	CDS	complement(1680212..1680733)	DNA-binding protein
+sage:EN72_08695	CDS	complement(1680801..1681490)	membrane protein
+sage:EN72_08700	CDS	complement(1681513..1682016)	HAD family hydrolase
+sage:EN72_08705	CDS	complement(1682054..1682797)	RNA methyltransferase
+sage:EN72_08710	CDS	1682829..1683107	acylphosphatase
+sage:EN72_08715	CDS	1683192..1684124	membrane protein
+sage:EN72_08720	CDS	complement(1684334..1684999)	amino acid ABC transporter permease
+sage:EN72_08725	CDS	complement(1685023..1685880)	ABC transporter substrate-binding protein
+sage:EN72_08730	CDS	complement(1686041..1687501)	amidase
+sage:EN72_08735	CDS	complement(1687605..1688087)	transcription elongation factor GreA
+sage:EN72_08740	CDS	complement(1688160..1689962)	aminodeoxychorismate lyase
+sage:EN72_08745	CDS	complement(1690049..1690552)	GNAT family acetyltransferase
+sage:EN72_08750	CDS	complement(1690638..1691969)	UDP-N-acetylmuramate--alanine ligase
+sage:EN72_08755	CDS	complement(1691979..1692596)	hypothetical protein
+sage:EN72_08765	CDS	complement(1692761..1695859)	RNA helicase
+sage:EN72_08770	CDS	complement(1696014..1697324)	engA; GTP-binding protein Der
+sage:EN72_08775	CDS	complement(1697372..1698274)	primosomal protein DnaI
+sage:EN72_08780	CDS	complement(1698271..1699446)	helicase loader
+sage:EN72_08785	CDS	complement(1699446..1699925)	NrdR family transcriptional regulator
+sage:EN72_08790	CDS	complement(1700074..1701579)	ATPase
+sage:EN72_08795	CDS	complement(1701569..1702258)	PhoB family transcriptional regulator
+sage:EN72_08800	CDS	complement(1702493..1703026)	DNA-binding protein
+sage:EN72_08805	CDS	complement(1703131..1704021)	heat shock protein HtpX
+sage:EN72_08810	CDS	complement(1704042..1704596)	membrane protein
+sage:EN72_08815	CDS	1704724..1705437	16S rRNA methyltransferase
+sage:EN72_08820	CDS	1705452..1706831	ATPase V
+sage:EN72_08825	CDS	1706844..1707515	potassium transporter Trk
+sage:EN72_08830	CDS	complement(1707550..1708380)	cobalt ABC transporter permease
+sage:EN72_08835	gene	complement(1708373..1710049)	pseudogene
+sage:EN72_08840	CDS	complement(1710066..1710614)	hypothetical protein
+sage:EN72_08845	CDS	complement(1710783..1711991)	serine/threonine protein kinase
+sage:EN72_08850	CDS	1712167..1713534	branched-chain amino acid transporter
+sage:EN72_08855	CDS	1713648..1714703	alcohol dehydrogenase
+sage:EN72_08860	CDS	complement(1714752..1715444)	methionine ABC transporter permease
+sage:EN72_08865	CDS	complement(1715441..1716511)	methionine ABC transporter ATP-binding protein
+sage:EN72_08870	CDS	complement(1716504..1717880)	peptidase M20
+sage:EN72_08875	CDS	complement(1718014..1718838)	O-sialoglycoprotein endopeptidase
+sage:EN72_08880	CDS	complement(1718979..1719812)	amino acid ABC transporter substrate-binding protein
+sage:EN72_08885	CDS	complement(1719914..1720258)	gamma-glutamyl hydrolase
+sage:EN72_08890	CDS	complement(1720304..1720693)	hypothetical protein
+sage:EN72_08895	CDS	complement(1720726..1721109)	transposase
+sage:EN72_08900	CDS	complement(1721114..1721464)	hypothetical protein
+sage:EN72_08905	CDS	complement(1721619..1722335)	hypothetical protein
+sage:EN72_08910	CDS	complement(1722453..1723439)	DhaKLM operon coactivator DhaQ
+sage:EN72_08915	CDS	complement(1723449..1723985)	dihydroxyacetone kinase
+sage:EN72_08925	CDS	1724159..1725148	dihydroxyacetone kinase
+sage:EN72_08930	CDS	1725186..1725764	dihydroxyacetone kinase
+sage:EN72_08935	CDS	1725764..1726138	PTS system mannnose-specific family transporter subunit IIA
+sage:EN72_08940	CDS	1726148..1726861	glycerol transporter
+sage:EN72_08945	CDS	complement(1727126..1727530)	cupin
+sage:EN72_08950	CDS	complement(1727669..1728382)	MerR family transcriptional regulator
+sage:EN72_08955	CDS	complement(1728475..1729584)	hypothetical protein
+sage:EN72_08960	CDS	complement(1729581..1729832)	hypothetical protein
+sage:EN72_08965	CDS	complement(1729855..1730589)	SAM-dependent methyltransferase
+sage:EN72_08970	CDS	complement(1730655..1731011)	ribosomal silencing factor RsfS
+sage:EN72_08975	CDS	complement(1731013..1731534)	Isochorismatase
+sage:EN72_08980	CDS	complement(1731597..1732184)	hypothetical protein
+sage:EN72_08985	CDS	complement(1732181..1732813)	nadD; nicotinic acid mononucleotide adenylyltransferase
+sage:EN72_08990	CDS	complement(1732943..1733260)	RNA-binding protein
+sage:EN72_08995	CDS	complement(1733353..1734471)	GTPase
+sage:EN72_09000	CDS	complement(1734471..1735031)	HAD family hydrolase
+sage:EN72_09005	CDS	complement(1735115..1736029)	multidrug DMT transporter
+sage:EN72_09010	CDS	complement(1736159..1737601)	glutamyl-tRNA amidotransferase
+sage:EN72_09015	CDS	complement(1737601..1739067)	gatA; glutamyl-tRNA amidotransferase
+sage:EN72_09020	CDS	complement(1739067..1739369)	glutamyl-tRNA amidotransferase
+sage:EN72_09025	CDS	complement(1739507..1742152)	pyruvate phosphate dikinase
+sage:EN72_09030	CDS	complement(1742165..1742995)	phosphotransferase
+sage:EN72_09035	CDS	complement(1743006..1743518)	inosine-5-monophosphate dehydrogenase
+sage:EN72_09040	CDS	1743825..1744790	3-hydroxybutyryl-CoA dehydrogenase
+sage:EN72_09045	CDS	complement(1744837..1745385)	isochorismatase
+sage:EN72_09050	CDS	complement(1745452..1746237)	transcriptional repressor CodY
+sage:EN72_09055	CDS	complement(1746363..1747574)	aminotransferase
+sage:EN72_09060	CDS	1747841..1748293	universal stress protein UspA
+sage:EN72_09065	CDS	complement(1748349..1749731)	haloacid dehalogenase
+sage:EN72_09070	CDS	1749800..1750762	asparaginase
+sage:EN72_09075	CDS	complement(1750797..1751675)	shikimate dehydrogenase
+sage:EN72_09080	CDS	complement(1751773..1752687)	aldo/keto reductase
+sage:EN72_09085	CDS	complement(1752978..1754993)	ATP-dependent DNA helicase RecG
+sage:EN72_09090	CDS	complement(1755073..1756611)	hypothetical protein
+sage:EN72_09095	CDS	complement(1756704..1757804)	alanine racemase
+sage:EN72_09100	CDS	complement(1757801..1758160)	4'-phosphopantetheinyl transferase
+sage:EN72_09105	CDS	complement(1758185..1759192)	phospho-2-dehydro-3-deoxyheptonate aldolase
+sage:EN72_09110	CDS	complement(1759318..1761846)	preprotein translocase subunit SecA
+sage:EN72_09115	CDS	complement(1761955..1762902)	mannose-6-phosphate isomerase
+sage:EN72_09120	CDS	complement(1763023..1763904)	fructokinase
+sage:EN72_09125	CDS	complement(1763972..1765891)	PTS sucrose transporter subunit IIABC
+sage:EN72_09130	CDS	1766076..1767515	sucrose-6-phosphate hydrolase
+sage:EN72_09135	CDS	1767517..1768479	LacI family transcriptional regulator
+sage:EN72_09140	CDS	complement(1768566..1769000)	antitermination protein NusB
+sage:EN72_09145	CDS	complement(1768993..1769382)	hypothetical protein
+sage:EN72_09150	CDS	complement(1769471..1770031)	elongation factor P
+sage:EN72_09155	CDS	1770612..1770842	hypothetical protein
+sage:EN72_09160	CDS	complement(1771614..1771844)	hypothetical protein
+sage:EN72_09170	CDS	complement(1772040..1772480)	hypothetical protein
+sage:EN72_09185	CDS	complement(1773082..1773534)	competence protein ComE
+sage:EN72_09190	CDS	complement(1773546..1774613)	X-Pro aminopeptidase
+sage:EN72_09195	CDS	complement(1774713..1775429)	membrane protein
+sage:EN72_09200	CDS	complement(1775431..1776930)	multidrug transporter
+sage:EN72_09205	CDS	complement(1777266..1780094)	excinuclease ABC subunit A
+sage:EN72_09210	CDS	complement(1780225..1780896)	membrane protein
+sage:EN72_09215	CDS	complement(1780921..1781865)	magnesium transporter
+sage:EN72_09220	CDS	complement(1782035..1782274)	30S ribosomal protein S18
+sage:EN72_09225	CDS	complement(1782319..1782810)	single-stranded DNA-binding protein
+sage:EN72_09230	CDS	complement(1782822..1783109)	30S ribosomal protein S6
+sage:EN72_09235	CDS	1784202..1785326	adenine glycosylase
+sage:EN72_09240	CDS	1785503..1786096	transcriptional regulator
+sage:EN72_09245	CDS	complement(1786142..1786456)	thioredoxin
+sage:EN72_09250	CDS	complement(1786537..1787037)	phosphoesterase
+sage:EN72_09255	CDS	complement(1787041..1789380)	DNA mismatch repair protein MutS
+sage:EN72_09260	CDS	complement(1789465..1790007)	colicin V production protein
+sage:EN72_09265	CDS	complement(1790010..1790321)	hypothetical protein
+sage:EN72_09270	CDS	1790432..1791325	ribonuclease HIII
+sage:EN72_09275	CDS	1791341..1791934	signal peptidase
+sage:EN72_09280	CDS	1792063..1794483	exodeoxyribonuclease V subunit alpha
+sage:EN72_09285	CDS	1794596..1795078	hypothetical protein
+sage:EN72_09290	CDS	complement(1795149..1796258)	DNA polymerase IV
+sage:EN72_09295	CDS	1796428..1798740	formate acetyltransferase
+sage:EN72_09300	CDS	1798840..1799214	FMN-binding protein
+sage:EN72_09305	CDS	complement(1799249..1800178)	beta-lactamase
+sage:EN72_09310	CDS	complement(1800175..1800930)	peptidase
+sage:EN72_09315	CDS	1801055..1801951	sodium:solute symporter
+sage:EN72_09320	CDS	complement(1802029..1802877)	glycerol ABC transporter permease
+sage:EN72_09325	CDS	complement(1803046..1803498)	universal stress protein UspA
+sage:EN72_09330	CDS	complement(1803516..1804718)	multidrug MFS transporter
+sage:EN72_09335	CDS	1804874..1805533	Crp/Fnr family transcriptional regulator
+sage:EN72_09340	CDS	1805557..1807842	x-prolyl-dipeptidyl aminopeptidase
+sage:EN72_09345	CDS	1807846..1808205	hypothetical protein
+sage:EN72_09350	CDS	1808251..1809231	farnesyl pyrophosphate synthetase
+sage:EN72_09355	CDS	complement(1809316..1811064)	cysteine ABC transporter ATP-binding protein
+sage:EN72_09360	CDS	complement(1811057..1812775)	cysteine ABC transporter ATP-binding protein
+sage:EN72_09365	CDS	complement(1812775..1813794)	cytochrome C oxidase assembly protein
+sage:EN72_09370	CDS	complement(1813795..1815222)	cytochrome D ubiquinol oxidase subunit I
+sage:EN72_09375	CDS	complement(1815325..1816533)	NADH dehydrogenase
+sage:EN72_09380	CDS	complement(1816546..1817445)	1,4-dihydroxy-2-naphthoate prenyltransferase
+sage:EN72_09385	CDS	complement(1817854..1818459)	hypothetical protein
+sage:EN72_09390	CDS	1818878..1820458	restriction endonuclease subunit M
+sage:EN72_09395	gene	complement(1821082..1822853)	pseudogene
+sage:EN72_09400	CDS	complement(1822991..1824976)	transketolase
+sage:EN72_09405	CDS	complement(1825025..1825669)	transaldolase
+sage:EN72_09410	CDS	complement(1825687..1826376)	allulose-6-phosphate 3-epimerase
+sage:EN72_09415	CDS	complement(1826388..1827491)	PTS fructose transporter subunit IIC
+sage:EN72_09420	CDS	complement(1827504..1827953)	PTS fructose transporter subunit IIA
+sage:EN72_09425	CDS	complement(1827967..1828278)	PTS fructose transporter subunit IIB
+sage:EN72_09430	CDS	complement(1828292..1830181)	PTS fructose transporter subunit IIA
+sage:EN72_09435	CDS	complement(1830392..1830700)	transcriptional regulator
+sage:EN72_09440	CDS	complement(1830733..1831032)	hypothetical protein
+sage:EN72_09445	CDS	complement(1831043..1831216)	transcriptional regulator
+sage:EN72_09450	CDS	1831336..1831437	short-chain dehydrogenase
+sage:EN72_09455	CDS	1831804..1832154	short-chain dehydrogenase
+sage:EN72_09460	CDS	1832160..1832897	hypothetical protein
+sage:EN72_09470	CDS	complement(1833430..1833960)	hypothetical protein
+sage:EN72_09475	CDS	complement(1834002..1834793)	phenazine biosynthesis protein PhzF
+sage:EN72_09480	CDS	complement(1834803..1835213)	acetyltransferase
+sage:EN72_09490	CDS	1836143..1836442	hypothetical protein
+sage:EN72_09495	CDS	1836603..1837793	cyclopropane-fatty-acyl-phospholipid synthase
+sage:EN72_09500	CDS	complement(1837863..1838588)	MerR family transcriptional regulator
+sage:EN72_09505	CDS	complement(1838715..1839302)	DNA polymerase III subunit epsilon
+sage:EN72_09510	CDS	complement(1839346..1839882)	hypothetical protein
+sage:EN72_09515	CDS	1840017..1841189	hypothetical protein
+sage:EN72_09520	CDS	complement(1841232..1842014)	galactose-1-phosphate uridylyltransferase
+sage:EN72_09525	CDS	1842173..1842442	30S ribosomal protein S14
+sage:EN72_09530	CDS	complement(1842803..1843828)	threonine aldolase
+sage:EN72_09535	CDS	complement(1843947..1844957)	tRNA threonylcarbamoyladenosine biosynthesis protein Gcp
+sage:EN72_09540	CDS	complement(1845033..1845440)	alanine acetyltransferase
+sage:EN72_09545	CDS	complement(1845442..1846134)	peptidase M22
+sage:EN72_09550	CDS	1846313..1846543	hypothetical protein
+sage:EN72_09555	CDS	1846597..1848276	ribonuclease J
+sage:EN72_09560	CDS	complement(1848438..1848947)	amidase
+sage:EN72_09565	CDS	complement(1849095..1850441)	glutamine synthetase
+sage:EN72_09570	CDS	complement(1850475..1850846)	MerR family transcriptional regulator
+sage:EN72_09575	CDS	complement(1850926..1851465)	membrane protein
+sage:EN72_09580	CDS	complement(1851728..1852924)	phosphoglycerate kinase
+sage:EN72_09585	CDS	complement(1853059..1853928)	5'-nucleotidase
+sage:EN72_09590	CDS	complement(1854137..1855147)	glyceraldehyde-3-phosphate dehydrogenase
+sage:EN72_09595	CDS	complement(1855352..1857430)	fusA; elongation factor G
+sage:EN72_09600	CDS	complement(1857585..1858055)	30S ribosomal protein S7
+sage:EN72_09605	CDS	complement(1858077..1858490)	30S ribosomal protein S12
+sage:EN72_09610	CDS	complement(1858709..1859521)	purine operon repressor
+sage:EN72_09615	CDS	complement(1859618..1860559)	3'-5' exonuclease
+sage:EN72_09620	CDS	complement(1860549..1861823)	recombinase RmuC
+sage:EN72_09625	CDS	complement(1861825..1862457)	thiamine pyrophosphokinase
+sage:EN72_09630	CDS	complement(1862450..1863112)	ribulose-phosphate 3-epimerase
+sage:EN72_09635	CDS	complement(1863119..1863991)	ribosome biogenesis GTPase RsgA
+sage:EN72_09640	CDS	complement(1864147..1864998)	rRNA (guanine-N1)-methyltransferase
+sage:EN72_09645	CDS	complement(1865002..1865874)	16S rRNA methyltransferase
+sage:EN72_09650	CDS	complement(1865902..1866351)	histidine triad protein
+sage:EN72_09655	CDS	complement(1866355..1866921)	DNA primase
+sage:EN72_09660	CDS	complement(1866908..1867690)	hydrolase TatD
+sage:EN72_09665	CDS	complement(1867872..1868153)	hypothetical protein
+sage:EN72_09670	CDS	complement(1868163..1868555)	hypothetical protein
+sage:EN72_09675	CDS	complement(1868546..1869838)	hypothetical protein
+sage:EN72_09680	CDS	complement(1869838..1870230)	hypothetical protein
+sage:EN72_09685	CDS	complement(1870405..1871667)	cytochrome C552
+sage:EN72_09690	CDS	complement(1871660..1871899)	alanine-phosphoribitol ligase
+sage:EN72_09695	CDS	complement(1871914..1873179)	D-alanyl-lipoteichoic acid biosynthesis protein
+sage:EN72_09700	CDS	complement(1873176..1874711)	alanine-phosphoribitol ligase
+sage:EN72_09705	CDS	complement(1874724..1874846)	D-alanyl-lipoteichoic acid biosynthesis protein
+sage:EN72_09710	CDS	complement(1874857..1876044)	histidine kinase
+sage:EN72_09715	CDS	complement(1876044..1876718)	chemotaxis protein CheY
+sage:EN72_09720	CDS	complement(1877074..1877208)	50S ribosomal protein L34
+sage:EN72_09725	CDS	complement(1877392..1878747)	membrane protein
+sage:EN72_09730	CDS	complement(1878993..1880720)	glycine/betaine ABC transporter permease
+sage:EN72_09735	CDS	complement(1880739..1881962)	glycine/betaine ABC transporter ATP-binding protein
+sage:EN72_09740	CDS	complement(1882338..1884716)	phosphoketolase
+sage:EN72_09745	CDS	complement(1884806..1885897)	ascorbate 6-phosphate lactonase
+sage:EN72_09750	CDS	complement(1886214..1887893)	ascorbate 6-phosphate lactonase
+sage:EN72_09755	CDS	complement(1887959..1888720)	AP endonuclease
+sage:EN72_09760	CDS	complement(1888740..1890257)	carbohydrate kinase
+sage:EN72_09765	CDS	complement(1890323..1891312)	amidohydrolase
+sage:EN72_09770	CDS	complement(1891334..1892785)	PTS galactitol transporter subunit IIC
+sage:EN72_09775	CDS	complement(1892883..1893839)	dihydrofolate reductase
+sage:EN72_09780	CDS	complement(1893858..1894877)	hypothetical protein
+sage:EN72_09785	CDS	complement(1895112..1896095)	LacI family transcriptional regulator
+sage:EN72_09790	CDS	complement(1896259..1896906)	transaldolase
+sage:EN72_09795	CDS	complement(1896917..1897633)	araD; ribulose 5-phosphate epimerase
+sage:EN72_09800	CDS	complement(1897635..1898498)	xylulose 5-phosphate 3-epimerase
+sage:EN72_09805	CDS	complement(1898502..1899167)	ulaD; 3-keto-L-gulonate-6-phosphate decarboxylase
+sage:EN72_09810	CDS	complement(1899280..1899765)	PTS system ascorbate-specific transporter subunit IIA
+sage:EN72_09815	CDS	complement(1899832..1900110)	PTS system ascorbate-specific transporter subunit IIB
+sage:EN72_09820	CDS	complement(1900138..1901577)	PTS system ascorbate-specific transporter subunit IIC
+sage:EN72_09825	CDS	complement(1901745..1902362)	membrane protein
+sage:EN72_09830	CDS	1902701..1902994	hypothetical protein
+sage:EN72_09835	CDS	complement(1903017..1904309)	adenylosuccinate synthetase
+sage:EN72_09840	CDS	complement(1904679..1905701)	transcriptional regulator
+sage:EN72_09845	CDS	1906063..1906737	DNA-binding protein
+sage:EN72_09850	CDS	1906907..1909159	bifunctional glutamate--cysteine ligase/glutathione synthetase
+sage:EN72_09855	CDS	1909283..1910101	membrane protein
+sage:EN72_09860	CDS	1910098..1911354	toxic anion resistance protein
+sage:EN72_09865	CDS	1911494..1912369	molecular chaperone Hsp33
+sage:EN72_09870	CDS	1912353..1913330	hypothetical protein
+sage:EN72_09875	CDS	1913451..1914092	deoxynucleoside kinase
+sage:EN72_09880	CDS	1914106..1914597	acetyltransferase
+sage:EN72_09885	CDS	complement(1914817..1917264)	Clp protease ClpX
+sage:EN72_09890	CDS	complement(1917261..1917725)	CtsR family transcriptional regulator
+sage:EN72_09895	CDS	1917898..1918359	small multidrug export protein
+sage:EN72_09900	CDS	complement(1918519..1919559)	elongation factor Ts
+sage:EN72_09905	CDS	complement(1919653..1920423)	30S ribosomal protein S2
+sage:EN72_09910	CDS	1920700..1921260	alkyl hydroperoxide reductase
+sage:EN72_09915	CDS	1921278..1922810	NADH dehydrogenase
+sage:EN72_09920	tRNA	1922945..1923015	tRNA-Cys
+sage:EN72_09925	CDS	complement(1923087..1925156)	sodium:hydrogen antiporter
+sage:EN72_09930	CDS	complement(1925158..1925394)	hypothetical protein
+sage:EN72_09935	CDS	1925561..1926514	peptidase S66
+sage:EN72_09940	CDS	complement(1926564..1928459)	endopeptidase
+sage:EN72_09945	CDS	1928607..1929590	oxidoreductase
+sage:EN72_09950	CDS	complement(1929636..1930799)	MFS transporter
+sage:EN72_09955	CDS	1930911..1931555	Crp/Fnr family transcriptional regulator
+sage:EN72_09960	CDS	1931621..1932235	peptide deformylase
+sage:EN72_09965	CDS	complement(1932306..1933307)	transcriptional regulator
+sage:EN72_09970	CDS	complement(1933386..1935290)	oligohyaluronate lyase
+sage:EN72_09975	CDS	complement(1935370..1936185)	PTS system N-acetylgalactosamine-specific transporter subunit IID
+sage:EN72_09980	CDS	complement(1936172..1937038)	PTS system N-acetylgalactosamine-specific transporter subunit IIC
+sage:EN72_09985	CDS	complement(1937074..1937568)	PTS N-acetylgalactosamine transporter subunit IIB
+sage:EN72_09990	CDS	complement(1937623..1938819)	glucuronyl hydrolase
+sage:EN72_09995	CDS	complement(1938822..1939256)	PTS mannose transporter subunit IIA
+sage:EN72_10000	CDS	1939535..1940347	gluconate 5-dehydrogenase
+sage:EN72_10005	CDS	1940364..1941005	hypothetical protein
+sage:EN72_10010	CDS	1941031..1942038	2-keto-3-deoxygluconate kinase
+sage:EN72_10015	CDS	1942050..1942688	keto-deoxy-phosphogluconate aldolase
+sage:EN72_10020	CDS	complement(1942735..1943349)	hypothetical protein
+sage:EN72_10025	CDS	complement(1943482..1943907)	MarR family transcriptional regulator
+sage:EN72_10030	CDS	complement(1944033..1948439)	polC; DNA polymerase III PolC
+sage:EN72_10035	CDS	complement(1948562..1949146)	N-acetylmuramoyl-L-alanine amidase
+sage:EN72_10040	CDS	complement(1949271..1951124)	prolyl-tRNA synthetase
+sage:EN72_10045	CDS	complement(1951216..1952475)	metalloprotease RseP
+sage:EN72_10050	CDS	complement(1952506..1953300)	phosphatidate cytidylyltransferase
+sage:EN72_10055	CDS	complement(1953315..1954067)	UDP pyrophosphate synthase
+sage:EN72_10060	CDS	complement(1954234..1954575)	preprotein translocase subunit YajC
+sage:EN72_10065	CDS	complement(1954652..1954996)	bacteriocin transport accessory protein
+sage:EN72_10070	CDS	complement(1955187..1956350)	malate dehydrogenase
+sage:EN72_10075	CDS	complement(1956375..1957712)	malate permease
+sage:EN72_10080	CDS	1957866..1959392	histidine kinase
+sage:EN72_10085	CDS	1959394..1960074	chemotaxis protein CheY
+sage:EN72_10090	CDS	complement(1960095..1961090)	UDP-glucose 4-epimerase
+sage:EN72_10095	CDS	complement(1961178..1962785)	glucan 1,6-alpha-glucosidase
+sage:EN72_10100	CDS	complement(1962914..1964047)	sugar ABC transporter ATP-binding protein
+sage:EN72_10105	CDS	complement(1964148..1964999)	Fis family transcriptional regulator
+sage:EN72_10110	CDS	complement(1965094..1965990)	protein lacX
+sage:EN72_10115	CDS	complement(1966044..1967021)	tagatose-bisphosphate aldolase
+sage:EN72_10120	CDS	complement(1967023..1967955)	tagatose-6-phosphate kinase
+sage:EN72_10125	CDS	complement(1967966..1968481)	galactose-6-phosphate isomerase
+sage:EN72_10130	CDS	complement(1968502..1968927)	galactose-6-phosphate isomerase
+sage:EN72_10135	CDS	complement(1969174..1971624)	sialidase
+sage:EN72_10140	CDS	complement(1971865..1973313)	PTS galactitol transporter subunit IIC
+sage:EN72_10145	CDS	complement(1973353..1973658)	PTS fructose transporter subunit IIB
+sage:EN72_10150	CDS	complement(1973660..1974133)	PTS galactose transporter subunit IIA
+sage:EN72_10155	CDS	1974342..1975118	DeoR faimly transcriptional regulator
+sage:EN72_10160	CDS	complement(1975400..1977982)	histidine triad protein
+sage:EN72_10165	CDS	complement(1978009..1978932)	adhesion protein
+sage:EN72_10170	CDS	complement(1979187..1979630)	tyrosyl-tRNA deacylase
+sage:EN72_10175	CDS	complement(1979640..1981856)	GTP pyrophosphokinase
+sage:EN72_10180	CDS	1982116..1984518	cpdB; 2', 3'-cyclic nucleotide 2'-phosphodiesterase
+sage:EN72_10185	CDS	1984675..1985130	ribonucleotide reductase
+sage:EN72_10190	CDS	1985141..1986178	peptidase M42
+sage:EN72_10195	CDS	1986178..1986675	zeta toxin
+sage:EN72_10205	CDS	complement(1986897..1987934)	iron ABC transporter substrate-binding protein
+sage:EN72_10210	CDS	complement(1987946..1988719)	chemotaxis protein CheY
+sage:EN72_10215	CDS	complement(1988723..1990372)	histidine kinase
+sage:EN72_10220	CDS	complement(1990510..1991337)	PTS mannnose transporter subunit IID
+sage:EN72_10225	CDS	complement(1991334..1992143)	PTS mannnose transporter subunit IIC
+sage:EN72_10230	CDS	complement(1992159..1992650)	PTS sorbose transporter subunit IIB
+sage:EN72_10235	CDS	complement(1992668..1993093)	PTS mannnose transporter subunit IIA
+sage:EN72_10240	CDS	complement(1993340..1994374)	alanine racemase
+sage:EN72_10245	CDS	complement(1994603..1995757)	membrane protein
+sage:EN72_10250	CDS	complement(1995763..1996611)	ABC transporter
+sage:EN72_10255	CDS	1997142..1997324	hypothetical protein
+sage:EN72_10260	CDS	complement(1997395..1998729)	histidine kinase
+sage:EN72_10265	CDS	complement(1998726..1999478)	accessory gene regulator AgrA
+sage:EN72_10270	CDS	complement(1999694..2000524)	exodeoxyribonuclease III
+sage:EN72_10275	CDS	complement(2000563..2002746)	PTS system glucose/maltose-specific transporter subunit IIBCA
+sage:EN72_10280	CDS	complement(2002904..2004559)	histidine kinase
+sage:EN72_10285	CDS	complement(2004552..2005229)	ArsR family transcriptional regulator
+sage:EN72_10290	CDS	complement(2005229..2005885)	PhoU family transcriptional regulator
+sage:EN72_10295	CDS	complement(2005882..2006631)	pstB; phosphate ABC transporter ATP-binding protein
+sage:EN72_10300	CDS	complement(2006624..2007502)	phosphate ABC transporter permease
+sage:EN72_10305	CDS	complement(2007504..2008349)	phosphate ABC transporter permease
+sage:EN72_10310	CDS	complement(2008364..2009245)	phosphate ABC transporter substrate-binding protein
+sage:EN72_10315	CDS	complement(2009446..2010033)	hypothetical protein
+sage:EN72_10320	CDS	complement(2010030..2010770)	16S rRNA methyltransferase
+sage:EN72_10325	CDS	complement(2010770..2011723)	ribosomal protein L11 methyltransferase
+sage:EN72_10330	CDS	complement(2011720..2012028)	hypothetical protein
+sage:EN72_10335	CDS	2012302..2013018	MerR family transcriptional regulator
+sage:EN72_10340	CDS	complement(2013057..2013527)	GNAT family acetyltransferase
+sage:EN72_10345	CDS	complement(2013499..2013957)	DNA mismatch repair protein MutT
+sage:EN72_10350	CDS	complement(2013950..2014258)	RNA-binding protein
+sage:EN72_10355	CDS	complement(2014301..2014771)	hypothetical protein
+sage:EN72_10360	CDS	complement(2014845..2015372)	hypothetical protein
+sage:EN72_10365	CDS	complement(2015375..2015563)	DNA-binding protein
+sage:EN72_10370	CDS	2016168..2016659	GNAT family acetyltransferase
+sage:EN72_10375	CDS	2016652..2017920	recombinase RarA
+sage:EN72_10380	tRNA	2018183..2018255	tRNA-Lys
+sage:EN72_10385	CDS	complement(2018356..2019477)	integrase
+sage:EN72_10390	CDS	complement(2019527..2019853)	hypothetical protein
+sage:EN72_10395	CDS	complement(2020046..2020678)	hypothetical protein
+sage:EN72_10400	CDS	complement(2020759..2021535)	cell wall anchor protein
+sage:EN72_10405	CDS	complement(2021553..2022092)	hypothetical protein
+sage:EN72_10410	CDS	complement(2022110..2023513)	amidase
+sage:EN72_10415	CDS	complement(2023545..2025662)	membrane protein
+sage:EN72_10420	CDS	complement(2025675..2028176)	conjugal transfer protein
+sage:EN72_10425	CDS	complement(2028198..2028608)	conjugal transfer protein
+sage:EN72_10430	CDS	complement(2028612..2028878)	hypothetical protein
+sage:EN72_10435	CDS	complement(2028899..2029852)	hypothetical protein
+sage:EN72_10440	CDS	complement(2029853..2030332)	hypothetical protein
+sage:EN72_10445	CDS	complement(2030329..2030544)	hypothetical protein
+sage:EN72_10450	CDS	complement(2030548..2031030)	antirestriction protein
+sage:EN72_10455	CDS	complement(2031077..2031349)	hypothetical protein
+sage:EN72_10460	CDS	complement(2031474..2031689)	Cro/Cl family transcriptional regulator
+sage:EN72_10465	CDS	complement(2031673..2032050)	hypothetical protein
+sage:EN72_10470	CDS	complement(2032066..2033298)	Cro/Cl family transcriptional regulator
+sage:EN72_10475	CDS	complement(2033585..2035303)	cell division protein FtsK
+sage:EN72_10480	CDS	complement(2035323..2035784)	hypothetical protein
+sage:EN72_10485	CDS	complement(2035806..2036102)	hypothetical protein
+sage:EN72_10490	CDS	complement(2036162..2038972)	cell surface protein
+sage:EN72_10495	CDS	complement(2039071..2041299)	hypothetical protein
+sage:EN72_10500	CDS	complement(2041315..2041578)	hypothetical protein
+sage:EN72_10505	CDS	complement(2041598..2042059)	hypothetical protein
+sage:EN72_10510	CDS	complement(2042044..2042355)	hypothetical protein
+sage:EN72_10515	CDS	complement(2042348..2042779)	XRE family transcriptional regulator
+sage:EN72_10520	CDS	2043709..2044050	hypothetical protein
+sage:EN72_10525	CDS	2044051..2044455	hypothetical protein
+sage:EN72_10530	CDS	2044549..2044737	hypothetical protein
+sage:EN72_10535	CDS	complement(2044775..2045131)	hypothetical protein
+sage:EN72_10540	CDS	complement(2045135..2045473)	hypothetical protein
+sage:EN72_10545	CDS	complement(2045470..2045763)	XRE family transcriptional regulator
+sage:EN72_10550	CDS	complement(2046284..2046589)	hypothetical protein
+sage:EN72_10555	CDS	complement(2046573..2046974)	hypothetical protein
+sage:EN72_10560	CDS	complement(2046962..2048170)	hypothetical protein
+sage:EN72_10565	CDS	complement(2048172..2048504)	hypothetical protein
+sage:EN72_10580	CDS	2049563..2049880	hypothetical protein
+sage:EN72_10595	CDS	2050626..2050835	type VII secretion protein EsxA
+sage:EN72_10600	CDS	2050936..2051319	hypothetical protein
+sage:EN72_10615	CDS	2052018..2052326	hypothetical protein
+sage:EN72_10625	CDS	2052620..2052814	damage-inducible protein J
+sage:EN72_10630	CDS	complement(2052933..2053238)	hypothetical protein
+sage:EN72_10635	gene	complement(2053495..2053892)	pseudogene
+sage:EN72_10640	CDS	complement(2054054..2054908)	streptomycin resistance protein
+sage:EN72_10645	CDS	complement(2055087..2055479)	hypothetical protein
+sage:EN72_10650	CDS	complement(2055921..2056529)	hypothetical protein
+sage:EN72_10655	CDS	complement(2056516..2056851)	PadR family transcriptional regulator
+sage:EN72_10660	CDS	complement(2057373..2057861)	GNAT family acetyltransferase
+sage:EN72_10665	CDS	complement(2058030..2058791)	membrane protein
+sage:EN72_10670	CDS	complement(2058788..2059690)	ABC transporter ATP-binding protein
+sage:EN72_10675	CDS	complement(2059687..2059893)	hypothetical protein
+sage:EN72_10680	CDS	complement(2059895..2060971)	XRE family transcriptional regulator
+sage:EN72_10690	CDS	complement(2061220..2061834)	phosphoesterase
+sage:EN72_10695	CDS	2062048..2062365	hypothetical protein
+sage:EN72_10700	CDS	2062362..2062922	DNA-binding protein
+sage:EN72_10705	CDS	2063227..2064090	CAAX protease
+sage:EN72_10710	CDS	complement(2064247..2064549)	rhodanese
+sage:EN72_10715	CDS	complement(2064722..2065489)	hypothetical protein
+sage:EN72_10720	CDS	2066258..2066797	topology modulation protein
+sage:EN72_10725	CDS	2066998..2068083	glycerol dehydrogenase
+sage:EN72_10730	CDS	complement(2068248..2068955)	cyclic nucleotide-binding protein
+sage:EN72_10735	CDS	complement(2069302..2071146)	homocysteine methyltransferase
+sage:EN72_10740	CDS	complement(2071191..2073428)	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+sage:EN72_10745	CDS	complement(2073798..2074121)	branched-chain amino acid permease
+sage:EN72_10750	CDS	complement(2074111..2074803)	branched-chain amino acid transporter
+sage:EN72_10755	CDS	2075126..2079841	serine protease
+sage:EN72_10760	CDS	2080074..2080760	regulator
+sage:EN72_10765	CDS	2080757..2082145	histidine kinase
+sage:EN72_10770	CDS	2082238..2082846	chromosome assembly protein
+sage:EN72_10775	CDS	complement(2082936..2085437)	leucyl-tRNA synthetase
+sage:EN72_10780	CDS	2085814..2087061	MFS transporter
+sage:EN72_10785	CDS	complement(2087104..2087949)	serine protease
+sage:EN72_10790	CDS	complement(2088087..2088626)	antitermination protein NusG
+sage:EN72_10795	CDS	complement(2088741..2091293)	peptidoglycan linked protein
+sage:EN72_10800	CDS	complement(2091605..2091778)	secE; preprotein translocase subunit SecE
+sage:EN72_10805	CDS	complement(2092015..2094336)	penicillin-binding protein
+sage:EN72_10810	CDS	2094380..2095264	pseudouridylate synthase
+sage:EN72_10815	CDS	complement(2095289..2096929)	hypothetical protein
+sage:EN72_10820	CDS	complement(2097099..2098310)	phosphopentomutase
+sage:EN72_10825	CDS	complement(2098377..2099048)	deoxyribose-phosphate aldolase
+sage:EN72_10830	CDS	complement(2099078..2100280)	Na+ dependent nucleoside transporter domain-containing protein
+sage:EN72_10835	CDS	complement(2100301..2101080)	uridine phosphorylase
+sage:EN72_10840	CDS	2101239..2101976	GntR family transcriptional regulator
+sage:EN72_10845	CDS	2101989..2102351	hypothetical protein
+sage:EN72_10850	CDS	complement(2102386..2104008)	groEL; molecular chaperone GroEL
+sage:EN72_10855	CDS	complement(2104104..2104388)	molecular chaperone GroES
+sage:EN72_10860	CDS	complement(2104563..2105366)	ABC transporter ATP-binding protein
+sage:EN72_10865	CDS	complement(2105371..2106267)	ABC transporter permease
+sage:EN72_10870	CDS	complement(2106283..2107245)	ABC transporter substrate-binding protein
+sage:EN72_10875	CDS	complement(2107710..2108507)	HAD family hydrolase
+sage:EN72_10880	CDS	2108693..2109553	glyoxalase
+sage:EN72_10885	CDS	2109596..2110327	hypothetical protein
+sage:EN72_10890	CDS	complement(2110684..2111301)	ribonucleoside-triphosphate reductase activating protein
+sage:EN72_10895	CDS	complement(2111374..2111865)	GNAT family acetyltransferase
+sage:EN72_10900	CDS	complement(2111874..2112806)	Gfo/Idh/MocA family oxidoreductase
+sage:EN72_10905	CDS	complement(2112819..2112962)	30S ribosomal protein S10
+sage:EN72_10910	CDS	complement(2113037..2115235)	ribonucleoside-triphosphate reductase
+sage:EN72_10915	CDS	complement(2115333..2116874)	membrane protein
+sage:EN72_10925	CDS	complement(2117125..2117442)	hypothetical protein
+sage:EN72_10930	CDS	complement(2117468..2117878)	Holliday junction resolvase
+sage:EN72_10935	CDS	complement(2117887..2118153)	hypothetical protein
+sage:EN72_10940	CDS	complement(2118355..2118753)	ArsR family transcriptional regulator
+sage:EN72_10945	CDS	complement(2118969..2120108)	recombinase RecA
+sage:EN72_10950	CDS	complement(2120182..2121441)	damage-inducible protein CinA
+sage:EN72_10955	CDS	complement(2121530..2122081)	3-methyladenine DNA glycosylase
+sage:EN72_10960	CDS	complement(2122104..2122694)	ATP-dependent DNA helicase RuvA
+sage:EN72_10965	CDS	complement(2122696..2123928)	MFS transporter
+sage:EN72_10970	CDS	complement(2123960..2125933)	DNA mismatch repair protein MutL
+sage:EN72_10975	CDS	2126159..2126362	cold-shock protein
+sage:EN72_10980	CDS	complement(2126419..2128995)	DNA mismatch repair protein MutS
+sage:EN72_10985	CDS	complement(2129052..2129489)	arginine repressor
+sage:EN72_10990	CDS	2129711..2131402	arginine--tRNA ligase
+sage:EN72_10995	CDS	2131490..2131798	bacteriocin
+sage:EN72_11000	CDS	complement(2131825..2132697)	membrane protein
+sage:EN72_11005	CDS	complement(2132805..2133749)	tyrosyl-tRNA synthetase
+sage:EN72_11010	CDS	complement(2133739..2135490)	aspS; aspartate--tRNA ligase
+sage:EN72_11015	CDS	complement(2135583..2136863)	histidyl-tRNA synthase
+sage:EN72_11020	CDS	2137083..2137265	50S ribosomal protein L32
+sage:EN72_11025	CDS	2137281..2137430	50S ribosomal protein L33
+sage:EN72_11030	CDS	2137723..2138337	cadmium transporter
+sage:EN72_11035	CDS	2138349..2138687	ArsR family transcriptional regulator
+sage:EN72_11040	CDS	2138738..2140153	hypothetical protein
+sage:EN72_11045	CDS	2140474..2140923	RNA polymerase subunit sigma-70
+sage:EN72_11050	CDS	2141126..2141446	hypothetical protein
+sage:EN72_11055	CDS	2141446..2142546	cell division protein FtsK
+sage:EN72_11060	CDS	2142543..2143148	hypothetical protein
+sage:EN72_11065	CDS	2143354..2143959	Replication protein RepB
+sage:EN72_11070	CDS	2143952..2144200	hypothetical protein
+sage:EN72_11075	CDS	2144290..2144541	integrase
+sage:EN72_11080	CDS	2144697..2145554	integrase
+sage:EN72_11085	CDS	complement(2145688..2146077)	hypothetical protein
+sage:EN72_11090	CDS	complement(2146110..2146493)	transposase
+sage:EN72_11095	CDS	2146774..2147445	peptidase
+sage:EN72_11100	CDS	2147530..2148201	histidine kinase
+sage:EN72_11105	CDS	2148185..2149549	histidine kinase
+sage:EN72_11110	CDS	complement(2149657..2151210)	hypothetical protein
+sage:EN72_11115	CDS	complement(2151304..2152230)	carbamate kinase
+sage:EN72_11120	CDS	complement(2152242..2153240)	ornithine carbamoyltransferase
+sage:EN72_11125	CDS	2153343..2154638	histidine kinase
+sage:EN72_11130	CDS	2154635..2155468	chemotaxis protein CheY
+sage:EN72_11135	CDS	2155690..2156412	glycine/betaine ABC transporter ATP-binding protein
+sage:EN72_11140	CDS	2156415..2157929	glycine/betaine ABC transporter permease
+sage:EN72_11145	CDS	complement(2158008..2160548)	membrane protein
+sage:EN72_11150	CDS	complement(2160532..2161281)	hypothetical protein
+sage:EN72_11155	CDS	complement(2161409..2161765)	membrane protein
+sage:EN72_11160	CDS	complement(2161832..2164150)	membrane protein
+sage:EN72_11165	CDS	2164289..2164828	TetR family transcriptional regulator
+sage:EN72_11170	CDS	complement(2164914..2165210)	hypothetical protein
+sage:EN72_11175	CDS	complement(2165913..2166110)	hypothetical protein
+sage:EN72_11180	CDS	complement(2166224..2166583)	ArpU family transcriptional regulator
+sage:EN72_11185	CDS	complement(2166576..2166938)	hypothetical protein
+sage:EN72_11190	CDS	complement(2167339..2167827)	hypothetical protein
+sage:EN72_11195	CDS	complement(2167901..2168440)	hypothetical protein
+sage:EN72_11200	CDS	complement(2168621..2168839)	hypothetical protein
+sage:EN72_11205	CDS	complement(2169115..2170740)	DNA primase
+sage:EN72_11210	CDS	complement(2170760..2171608)	hypothetical protein
+sage:EN72_11215	CDS	complement(2171609..2171881)	hypothetical protein
+sage:EN72_11220	CDS	complement(2171884..2172213)	hypothetical protein
+sage:EN72_11225	CDS	complement(2172210..2172572)	hypothetical protein
+sage:EN72_11230	CDS	complement(2172585..2172779)	hypothetical protein
+sage:EN72_11235	CDS	complement(2172776..2173108)	hypothetical protein
+sage:EN72_11240	CDS	complement(2173120..2173302)	hypothetical protein
+sage:EN72_11245	CDS	complement(2173556..2173798)	phage antirepressor protein
+sage:EN72_11250	CDS	complement(2173825..2174442)	antirepressor
+sage:EN72_11255	CDS	complement(2174452..2175204)	antirepressor
+sage:EN72_11260	CDS	complement(2175241..2175429)	Cro/Cl family transcriptional regulator
+sage:EN72_11265	CDS	2175591..2176376	repressor
+sage:EN72_11270	CDS	2176476..2176685	hypothetical protein
+sage:EN72_11275	CDS	2177205..2178170	hypothetical protein
+sage:EN72_11280	CDS	2178509..2179675	integrase
+sage:EN72_11285	CDS	complement(2179782..2180393)	30S ribosomal protein S4
+sage:EN72_11290	CDS	complement(2180723..2181010)	hypothetical protein
+sage:EN72_11295	CDS	complement(2181022..2182377)	DNA helicase
+sage:EN72_11300	CDS	complement(2182420..2182872)	50S ribosomal protein L9
+sage:EN72_11305	CDS	complement(2182878..2184860)	phosphoesterase
+sage:EN72_11310	CDS	complement(2184927..2186828)	tRNA uridine 5-carboxymethylaminomethyl modification protein
+sage:EN72_11315	CDS	complement(2186998..2187609)	membrane protein
+sage:EN72_11320	CDS	complement(2187641..2188762)	thiouridylase
+sage:EN72_11325	CDS	2189008..2189676	serine dehydratase
+sage:EN72_11330	CDS	2189691..2190563	serine dehydratase
+sage:EN72_11335	CDS	complement(2190697..2191371)	transglycosylase
+sage:EN72_11340	CDS	complement(2191477..2192016)	peptidoglycan-binding protein LysM
+sage:EN72_11345	CDS	complement(2192232..2193026)	cobalt ABC transporter permease
+sage:EN72_11350	CDS	complement(2193019..2193861)	cbiO; cobalt transporter ATP-binding subunit
+sage:EN72_11355	CDS	complement(2193837..2194676)	cbiO; cobalt transporter ATP-binding subunit
+sage:EN72_11360	CDS	complement(2194676..2195218)	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+sage:EN72_11365	CDS	complement(2195341..2196624)	peptidase M16
+sage:EN72_11370	CDS	complement(2196626..2197870)	peptidase M16
+sage:EN72_11375	CDS	2198109..2198462	hypothetical protein
+sage:EN72_11380	CDS	2198465..2199574	recombinase RecF
+sage:EN72_11385	CDS	complement(2199586..2200452)	sugar transporter
+sage:EN72_11390	CDS	complement(2200508..2201170)	Cro/Cl family transcriptional regulator
+sage:EN72_11395	CDS	complement(2201245..2202726)	inosine-5-monophosphate dehydrogenase
+sage:EN72_11400	CDS	complement(2202883..2203368)	arginine repressor
+sage:EN72_11405	CDS	complement(2203378..2204058)	ArcR family transcriptional regulator
+sage:EN72_11410	CDS	2204266..2204970	tRNA synthetase subunit beta
+sage:EN72_11415	CDS	2205237..2206469	arginine deiminase
+sage:EN72_11420	CDS	2206475..2206906	acetyltransferase
+sage:EN72_11425	CDS	2206922..2207935	ornithine carbamoyltransferase
+sage:EN72_11430	CDS	2207998..2209425	amino acid APC transporter
+sage:EN72_11435	CDS	2209446..2210402	carbamate kinase
+sage:EN72_11440	CDS	complement(2210522..2211547)	tryptophan--tRNA ligase
+sage:EN72_11445	CDS	complement(2211655..2212347)	membrane protein
+sage:EN72_11450	CDS	2212591..2213463	membrane protein
+sage:EN72_11455	CDS	2213529..2215148	ABC transporter ATP-binding protein
+sage:EN72_11460	CDS	2215271..2217850	copper ABC transporter permease
+sage:EN72_11465	tRNA	complement(2217917..2217990)	tRNA-Asn
+sage:EN72_11470	tRNA	complement(2218020..2218091)	tRNA-Glu
+sage:EN72_11475	tRNA	2218283..2218356	tRNA-Arg
+sage:EN72_11480	CDS	complement(2218429..2218908)	rRNA methyltransferase
+sage:EN72_11485	CDS	2219109..2220338	serine protease

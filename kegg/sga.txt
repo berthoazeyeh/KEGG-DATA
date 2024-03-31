@@ -1,0 +1,2350 @@
+sga:GALLO_0001	CDS	170..1525	dnaA; Chromosomal replication initiator protein DnaA
+sga:GALLO_0002	CDS	1683..2819	dnaN; DNA polymerase III (beta subunit)
+sga:GALLO_0003	CDS	2950..3834	putative diacylglycerol kinase
+sga:GALLO_0004	CDS	3846..4040	conserved hypothetical protein
+sga:GALLO_0005	CDS	4174..5289	putative GTP-binding protein
+sga:GALLO_0006	CDS	5367..5936	pth; peptidyl-tRNA hydrolase
+sga:GALLO_0007	CDS	5941..9441	mfd; Transcription repair coupling factor
+sga:GALLO_0008	CDS	9566..10093	putative transcriptional regulator
+sga:GALLO_0009	CDS	10232..10504	conserved hypothetical protein (S4 domain protein)
+sga:GALLO_0010	CDS	10491..10862	divIC; putative cell-division initiation protein DivIC
+sga:GALLO_0011	CDS	10864..10983	conserved hypothetical protein
+sga:GALLO_0012	CDS	10999..12285	conserved hypothetical exported protein
+sga:GALLO_0013	CDS	12290..13555	conserved hypothetical protein
+sga:GALLO_0014	CDS	13560..14102	hprT; hypoxanthine-guanine phosphoribosyltransferase
+sga:GALLO_0015	CDS	14124..16106	ftsH; cell-division protein FtsH
+sga:GALLO_0016	CDS	complement(16122..17810)	transposase
+sga:GALLO_r0001	rRNA	18419..19955	rRNA-16s; 16S ribosomal RNA
+sga:GALLO_t0001	tRNA	20018..20090	tRNA-Ala
+sga:GALLO_r0002	rRNA	20237..23133	rRNA-23s; 23S ribosomal RNA
+sga:GALLO_r0003	rRNA	23219..23332	rRNA-5s; 5S ribosomal RNA
+sga:GALLO_t0002	tRNA	23336..23408	tRNA-Val
+sga:GALLO_t0003	tRNA	23431..23503	tRNA-Asp
+sga:GALLO_t0004	tRNA	23507..23579	tRNA-Lys
+sga:GALLO_t0005	tRNA	23589..23670	tRNA-Leu
+sga:GALLO_t0006	tRNA	23685..23757	tRNA-Thr
+sga:GALLO_t0007	tRNA	23773..23844	tRNA-Gly
+sga:GALLO_t0008	tRNA	23852..23937	tRNA-Leu
+sga:GALLO_t0009	tRNA	23954..24027	tRNA-Arg
+sga:GALLO_t0010	tRNA	24033..24106	tRNA-Pro
+sga:GALLO_t0011	tRNA	24112..24185	tRNA-Met
+sga:GALLO_t0012	tRNA	24207..24280	tRNA-Met
+sga:GALLO_t0013	tRNA	24304..24393	tRNA-Ser
+sga:GALLO_t0014	tRNA	24407..24480	tRNA-Met
+sga:GALLO_t0015	tRNA	24486..24558	tRNA-Phe
+sga:GALLO_t0016	tRNA	24575..24645	tRNA-Gly
+sga:GALLO_t0017	tRNA	24678..24751	tRNA-Ile
+sga:GALLO_t0018	tRNA	24762..24849	tRNA-Ser
+sga:GALLO_0017	CDS	24924..25751	mreC; putative cell shape-determining protein MreC
+sga:GALLO_0018	CDS	25753..26259	mreD; putative cell shape-determining protein MreD
+sga:GALLO_0019	CDS	26361..27743	putative glucan-binding protein
+sga:GALLO_0020	CDS	27886..28854	prs; phosphoribosylpyrophosphate synthetase
+sga:GALLO_0021	CDS	29057..30232	putative aminotransferase
+sga:GALLO_0022	CDS	30222..30977	recO; putative DNA repair and homologous recombination RecO
+sga:GALLO_0023	CDS	31149..32144	plsX; putative fatty acid/phospholipid synthesis protein PlsX
+sga:GALLO_0024	CDS	32161..32403	putative acyl carrier protein
+sga:GALLO_0025	CDS	32528..33238	purC; phosphoribosylaminoimidazole succinocarboxamide synthetase
+sga:GALLO_0026	CDS	33290..37015	purL; putative phosphoribosylformylglycinamidine synthetase
+sga:GALLO_0027	CDS	37184..38647	purF; glutamine phosphoribosylpyrophosphate amidotransferase
+sga:GALLO_0028	CDS	38692..39711	purM; phosphoribosylaminoimidazole synthetase
+sga:GALLO_0029	CDS	39711..40262	purN; phosphoribosylglycinamide formyltransferase
+sga:GALLO_0030	CDS	40370..41125	putative acetyltransferase, GNAT family
+sga:GALLO_0031	CDS	41183..42730	purD; phosphoribosylaminoimidazole carboxy formyl formyltransferase
+sga:GALLO_0032	CDS	43736..44998	purD; phosphoribosylglycinamide synthetase
+sga:GALLO_0033	CDS	44988..45437	conserved hypothetical protein
+sga:GALLO_0034	CDS	45437..45925	purE; phosphoribosylaminoimidazole carboxylase I
+sga:GALLO_0035	CDS	45912..46985	purK; phosphoribosylaminoimidazole carboxylase II
+sga:GALLO_0036	CDS	46957..48042	hypothetical protein
+sga:GALLO_0037	CDS	48344..49642	purB; adenylosuccinate lyase
+sga:GALLO_0038	CDS	49789..50688	putative transcriptional regulator, Cro/CI family
+sga:GALLO_0039	CDS	51930..52361	putative protein tyrosine-phosphatase
+sga:GALLO_0040	CDS	52381..52761	conserved hypothetical protein
+sga:GALLO_0041	CDS	52758..54551	putative acyltransferase family
+sga:GALLO_0042	CDS	54920..56404	thrC; putative threonine synthase
+sga:GALLO_0043	CDS	56464..57756	putative MATE family multidrug efflux pumps
+sga:GALLO_0044	CDS	57883..59997	putative membrane export protein
+sga:GALLO_0045	CDS	60041..61231	putative two-component sensor histidine kinase
+sga:GALLO_0046	CDS	61231..61854	putative two-component response regulator
+sga:GALLO_0047	CDS	61927..62820	putative transcriptional regulator, LysR family
+sga:GALLO_0048	CDS	62941..63399	conserved hypothetical protein
+sga:GALLO_0049	CDS	63730..64038	rpsJ; ribosomal protein S10
+sga:GALLO_0050	CDS	64148..64774	rplC; ribosomal protein L3
+sga:GALLO_0051	CDS	64798..65421	rplD; ribosomal protein L4
+sga:GALLO_0052	CDS	65421..65717	rplW; ribosomal protein L23
+sga:GALLO_0053	CDS	65735..66568	rlbB; ribosomal protein L2
+sga:GALLO_0054	CDS	66666..66944	rpsS; ribosomal protein S19
+sga:GALLO_0055	CDS	66960..67304	rplV; ribosomal protein L22
+sga:GALLO_0056	CDS	67317..67970	rspC; ribosomal protein S3
+sga:GALLO_0057	CDS	67974..68387	rlpP; ribosomal protein L16
+sga:GALLO_0058	CDS	68397..68603	rpmC; ribosomal protein L29
+sga:GALLO_0059	CDS	68631..68891	rpsQ; ribosomal protein S17
+sga:GALLO_0060	CDS	68916..69284	rplN; ribosomal protein L14
+sga:GALLO_0061	CDS	69364..69669	rplX; ribosomal protein L24
+sga:GALLO_0062	CDS	69698..70240	rplE; ribosomal protein L5
+sga:GALLO_0063	CDS	70258..70443	rpsN; ribosomal protein S14
+sga:GALLO_0064	CDS	70650..71048	rpsH; ribosomal protein S8
+sga:GALLO_0065	CDS	71192..71728	rplF; ribosomal protein L6
+sga:GALLO_0066	CDS	71832..72188	rplR; ribosomal protein L18
+sga:GALLO_0067	CDS	72207..72701	rpsE; ribosomal protein S5
+sga:GALLO_0068	CDS	72716..72898	rpmQ; ribosomal protein L30
+sga:GALLO_0069	CDS	73037..73477	rplO; ribosomal protein L15
+sga:GALLO_0070	CDS	73493..74797	secY; preprotein translocase, SecY subunit
+sga:GALLO_0071	CDS	74894..75535	adk; adenylate kinase
+sga:GALLO_0072	CDS	75654..75872	infA; translation initiation factor IF-1
+sga:GALLO_0073	CDS	75898..76014	rpmJ; ribosomal protein L36
+sga:GALLO_0074	CDS	76033..76398	rpsM; ribosomal protein S13
+sga:GALLO_0075	CDS	76416..76799	rpsK; ribosomal protein S11
+sga:GALLO_0076	CDS	76848..77786	rpoA; RNA polymerase (alpha subunit)
+sga:GALLO_0077	CDS	77801..78187	rplQ; ribosomal protein L17
+sga:GALLO_r0004	rRNA	79431..80967	rRNA-16s; 16S ribosomal RNA
+sga:GALLO_t0019	tRNA	81030..81102	tRNA-Ala
+sga:GALLO_r0005	rRNA	81249..84145	rRNA-23s; 23S ribosomal RNA
+sga:GALLO_r0006	rRNA	84231..84344	rRNA-5s; 5S ribosomal RNA
+sga:GALLO_t0020	tRNA	84348..84420	tRNA-Val
+sga:GALLO_t0021	tRNA	84436..84506	tRNA-Gly
+sga:GALLO_t0022	tRNA	84535..84608	tRNA-Ile
+sga:GALLO_t0023	tRNA	84619..84690	tRNA-Glu
+sga:GALLO_t0024	tRNA	84700..84789	tRNA-Ser
+sga:GALLO_t0025	tRNA	84803..84876	tRNA-Met
+sga:GALLO_t0026	tRNA	84882..84954	tRNA-Phe
+sga:GALLO_t0027	tRNA	84972..85052	tRNA-Tyr
+sga:GALLO_t0028	tRNA	85057..85127	tRNA-Trp
+sga:GALLO_t0029	tRNA	85139..85211	tRNA-His
+sga:GALLO_t0030	tRNA	85222..85293	tRNA-Gln
+sga:GALLO_t0031	tRNA	85301..85384	tRNA-Leu
+sga:GALLO_0078	CDS	85891..86739	ispE; putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+sga:GALLO_0079	CDS	86815..87261	putative transcriptional regulator, MarR family
+sga:GALLO_0080	CDS	87258..87968	putative cation ABC transporter, ATP-binding protein
+sga:GALLO_0081	CDS	87958..88776	putative cation ABC transporter (permease)
+sga:GALLO_0082	CDS	complement(88852..90108)	tyrS; tyrosyl-tRNA synthetase
+sga:GALLO_0083	CDS	90268..92592	putative transglycosylase, penicillin-binding protein
+sga:GALLO_0084	CDS	92935..96507	rpoB; RNA polymerase (beta subunit)
+sga:GALLO_0085	CDS	96685..100323	rpoC; RNA polymerase (beta' subunit)
+sga:GALLO_0086	CDS	100494..100862	conserved hypothetical protein
+sga:GALLO_0087	CDS	100933..101874	putative competence protein ComGA
+sga:GALLO_0088	CDS	101756..102841	putative competence protein ComGB
+sga:GALLO_0089	CDS	102841..103134	Putative competence protein ComGC
+sga:GALLO_0090	CDS	103118..103549	putative competence protein
+sga:GALLO_0091	CDS	103503..103796	conserved hypothetical protein
+sga:GALLO_0092	CDS	103750..104217	conserved hypothetical protein
+sga:GALLO_0093	CDS	104189..104503	conserved hypothetical protein
+sga:GALLO_0094	CDS	104576..105532	conserved hypothetical protein
+sga:GALLO_0095	CDS	105585..106784	ack; acetate kinase
+sga:GALLO_0096	CDS	106946..107146	putative transcription regulator
+sga:GALLO_0097	CDS	107156..107365	hypothetical protein
+sga:GALLO_0098	CDS	107378..107830	conserved hypothetical protein
+sga:GALLO_0099	CDS	107842..108480	conserved membrane protein
+sga:GALLO_0100	CDS	complement(108540..109310)	proI; putative pyrroline-5-carboxylate reductase
+sga:GALLO_0101	CDS	complement(109371..110438)	putative glutamyl aminopeptidase
+sga:GALLO_0102	CDS	110556..110729	hypothetical protein
+sga:GALLO_0103	CDS	110726..110848	conserved hypothetical protein
+sga:GALLO_0104	CDS	110841..111158	putative thioredoxin H1
+sga:GALLO_0105	CDS	111167..111793	putative tRNA binding domain protein
+sga:GALLO_0106	gene	complement(111880..112038)	pseudogene
+sga:GALLO_0107	gene	complement(111992..112585)	pseudogene
+sga:GALLO_0108	CDS	112697..113092	ssbB; single-strand DNA-binding protein
+sga:GALLO_0109	CDS	113242..114285	hypothetical transporter component
+sga:GALLO_0110	CDS	114288..114515	conserved hypothetical protein
+sga:GALLO_0111	CDS	114643..115443	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0112	CDS	115642..119547	putative extracellular fructan hydrolase, cell wall bound protein (LPXTG motif)
+sga:GALLO_0113	CDS	119712..120677	putative ABC transporter, sugar binding protein
+sga:GALLO_0114	CDS	120677..121993	putative two-component sensor histidine kinase
+sga:GALLO_0115	CDS	121990..122673	putative two-component response regulator
+sga:GALLO_0116	CDS	122660..123967	Putative sugar-binding lipoprotein
+sga:GALLO_0117	CDS	124133..124561	Putative PTS system, sugar-specific enzyme IIA component
+sga:GALLO_0118	CDS	124580..125074	Putative PTS system, mannose-specific IIB component
+sga:GALLO_0119	CDS	125151..125999	Putative PTS system, mannose-specific IIC component
+sga:GALLO_0120	CDS	126001..126834	putative PTS system, mannose-specific IID component
+sga:GALLO_0121	CDS	126862..127146	putative PTS associated protein
+sga:GALLO_0122	CDS	127742..129718	putative ABC transporter substrate binding/membrane-spanning protein
+sga:GALLO_0123	CDS	129718..130521	putative ABC transporter ATP binding protein
+sga:GALLO_0124	CDS	130734..131018	groES; Co-chaperonin GroES (HSP10)
+sga:GALLO_0125	CDS	131086..132714	groEL; Chaperonin GroEL (HSP60 family)
+sga:GALLO_0126	CDS	132907..133764	putative transcriptional regulator MutR family
+sga:GALLO_0127	CDS	134910..136529	conserved hypothetical protein
+sga:GALLO_0128	CDS	complement(136620..137480)	putative ribosomal large subunit pseudouridine synthase, RluD subfamily
+sga:GALLO_0129	CDS	complement(137538..137735)	conserved hypothetical protein
+sga:GALLO_0130	CDS	137921..140245	pbpF; penicillin-binding protein 2C
+sga:GALLO_0131	CDS	140297..140449	ribosomal protein L33
+sga:GALLO_0132	CDS	140521..140697	secE; preprotein translocase, SecE subunit
+sga:GALLO_0133	CDS	140897..141436	nusG; transcription antitermination factor
+sga:GALLO_0134	CDS	complement(141526..142239)	putative ion transport protein
+sga:GALLO_0135	CDS	142348..143193	putative hydrolase
+sga:GALLO_0136	CDS	143326..145827	leuS; leucyl-tRNA synthetase
+sga:GALLO_0137	CDS	146083..147114	putative aldose 1-epimerase
+sga:GALLO_0138	CDS	147331..147555	conserved hypothetical protein
+sga:GALLO_0139	CDS	complement(147613..148179)	Putative NADPH-quinone reductase
+sga:GALLO_0140	CDS	148368..149102	putative cinnamoyl ester hydrolase
+sga:GALLO_t0032	tRNA	complement(149236..149311)	tRNA-Lys
+sga:GALLO_0141	CDS	complement(149274..149501)	conserved hypothetical protein
+sga:GALLO_0142	CDS	complement(149627..150895)	putative ATPase, AAA family
+sga:GALLO_0143	CDS	complement(150885..151379)	putative acetyltransferase, GNAT family
+sga:GALLO_0144	CDS	151443..151913	conserved hypothetical protein
+sga:GALLO_0145	CDS	152108..152581	putative acetyltransferase, GNAT family
+sga:GALLO_0146	CDS	152644..153597	prmA; putative ribosomal protein L11 methyltransferase
+sga:GALLO_0147	CDS	153598..154341	conserved hypothetical protein
+sga:GALLO_0148	CDS	154504..155520	putative transcriptional regulator, LacI family
+sga:GALLO_0149	CDS	155786..157969	putative PTS system, glucose-specific IIABC component
+sga:GALLO_0150	CDS	158073..158888	putative endonuclease/exonuclease/phosphatase family protein
+sga:GALLO_0151	CDS	complement(159253..160290)	putative glutamyl aminopeptidase
+sga:GALLO_0152	CDS	complement(160398..160877)	putative NrdI Flavodoxin like protein
+sga:GALLO_0153	CDS	161120..161440	Putative PTS system, lactose/cellobiose-specific, EIIB component
+sga:GALLO_0154	CDS	161457..161777	Putative PTS system, lactose/cellobiose-specific, IIA component
+sga:GALLO_0155	CDS	complement(162386..163786)	putative beta-glucosidase
+sga:GALLO_0156	CDS	163937..165205	putative PTS system, cellobiose-specific IIC component
+sga:GALLO_0157	CDS	165258..165983	Putative transcriptonal regulator: GntR family
+sga:GALLO_0158	CDS	166059..167009	Putative mannose-6-phosphate isomerase, class I
+sga:GALLO_0159	CDS	complement(167335..167736)	panD; Putative aspartate 1-decarboxylase
+sga:GALLO_0160	CDS	complement(167749..168591)	panC; Putative pantoate--beta-alanine ligase
+sga:GALLO_0161	CDS	complement(168615..169442)	panB; Putative Ketopantoate hydroxymethyltransferase
+sga:GALLO_0162	CDS	complement(169628..171091)	putative mannanase
+sga:GALLO_0163	CDS	171629..172921	putative sugar ABC transporter, sugar binding lipoprotein
+sga:GALLO_0164	CDS	173035..173919	putative sugar ABC transporter, permease protein
+sga:GALLO_0165	CDS	173919..174746	putative sugar ABC transporter, permease protein
+sga:GALLO_0166	CDS	174780..175364	hypothetical protein
+sga:GALLO_0167	CDS	175361..177592	Putative alpha-galactosidase
+sga:GALLO_0168	CDS	177668..178381	putative transcriptional regulator, gntR family
+sga:GALLO_0169	CDS	178415..179278	putative transcriptional regulator
+sga:GALLO_0170	CDS	179287..179925	putative lipase/acylhydrolase
+sga:GALLO_0171	CDS	179941..180897	putative acetyl xylan esterase (AXE1)
+sga:GALLO_0172	CDS	181175..183382	relA; GTP pyrophosphokinase (stringent response)
+sga:GALLO_0173	CDS	183442..183885	putative D-tyrosyl-tRNA(Tyr) deacylase
+sga:GALLO_0174	CDS	183974..184822	putative transcriptional regulator
+sga:GALLO_0175	CDS	184923..186056	putative multiple sugar-binding ABC transporter, ATP-binding protein
+sga:GALLO_0176	CDS	complement(186383..187153)	Putative PTS system, lactose-specific, repressor
+sga:GALLO_0177	CDS	187462..187887	Putative galactose-6-phosphate isomerase, LacA subunit
+sga:GALLO_0178	CDS	187904..188419	Putative galactose-6-phosphate isomerase, LacB subunit
+sga:GALLO_0179	CDS	188431..189363	Putative tagatose-6-phosphate kinase
+sga:GALLO_0180	CDS	189370..190347	Putative tagatose-bisphosphate aldolase
+sga:GALLO_0181	CDS	190360..190833	Putative PTS system, mannitol/fructose-specific IIA component
+sga:GALLO_0182	CDS	190847..191149	Putative PTS system, mannitol/fructose-specific IIB component
+sga:GALLO_0183	CDS	191185..192585	Putative PTS system, mannitol/fructose-specific, IIC component
+sga:GALLO_0184	CDS	192695..193591	putative aldose 1-epimerase
+sga:GALLO_0185	CDS	193796..194632	putative transcriptional antiterminator
+sga:GALLO_0186	CDS	194643..196043	putative beta-glucosidase / beta-galactosidase
+sga:GALLO_0187	CDS	196056..196367	putative PTS system, lactose/cellobiose-specific IIA component
+sga:GALLO_0188	CDS	196609..198288	Putative PTS system, lactose/cellobiose-specific, EIIBC subunit
+sga:GALLO_0189	CDS	198319..199929	putative endo-Beta-1,4-Galactanase
+sga:GALLO_0190	CDS	complement(200025..200858)	Putative transcription regulator, AraC family
+sga:GALLO_0191	CDS	200969..203146	Putative alpha-galactosidase (melibiase)
+sga:GALLO_0192	CDS	203143..204414	Putative multiple sugar-binding ABC transporter, sugar-binding protein MsmE precursor
+sga:GALLO_0193	CDS	204427..205293	Putative multiple sugar-binding ABC transporter (permease protein MsmF)
+sga:GALLO_0194	CDS	205306..206139	Putative multiple sugar-binding ABC transporter, permease protein (MsmG)
+sga:GALLO_0195	CDS	206528..207973	putative sucrose phosphorylase
+sga:GALLO_0196	CDS	208092..209702	putative dextran glucosidase
+sga:GALLO_0197	CDS	complement(209749..210756)	galR; galactose repressor
+sga:GALLO_0198	CDS	210907..212079	galK; galactokinase
+sga:GALLO_0199	CDS	212099..213568	galT; galactose-1-P-uridyl transferase
+sga:GALLO_0200	CDS	213578..214576	galE2; UDP-glucose 4-epimerase
+sga:GALLO_0201	gene	complement(214544..215659)	pseudogene
+sga:GALLO_0202	gene	complement(215628..216257)	pseudogene
+sga:GALLO_0203	CDS	216401..217270	putative acetyltransferase, GNAT family
+sga:GALLO_0204	CDS	217366..217737	yajC; preprotein translocase subunit YajC
+sga:GALLO_0205	CDS	217891..218640	uppS; undecaprenyl diphosphate synthase
+sga:GALLO_0206	CDS	218653..219447	cdsA; phosphatidate cytidylyltransferase
+sga:GALLO_0207	CDS	219548..220810	putative peptidase family M50
+sga:GALLO_0208	CDS	220972..222828	proS; prolyl-tRNA synthetase
+sga:GALLO_0209	CDS	223007..227401	polC; DNA polymerase III (alpha subunit)
+sga:GALLO_0210	CDS	227515..227967	transcriptional regulator, MarR family
+sga:GALLO_0211	CDS	228074..228619	putative NADPH-dependent FMN reductase
+sga:GALLO_0212	CDS	complement(228745..228978)	hypothetical protein
+sga:GALLO_0213	CDS	complement(229250..229864)	putative polypeptide deformylase
+sga:GALLO_0214	CDS	complement(229932..230576)	conserved hypothetical protein
+sga:GALLO_0215	CDS	230670..231830	Major Facilitator Superfamily protein
+sga:GALLO_0216	CDS	231843..232697	putative transcription regulator
+sga:GALLO_0217	CDS	complement(232817..233200)	glyoxylase family protein
+sga:GALLO_0218	CDS	complement(233218..234063)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0219	CDS	234377..234646	rpsO; ribosomal protein S15
+sga:GALLO_0220	CDS	235131..237812	putative alcohol-acetaldehyde dehydrogenase
+sga:GALLO_0221	CDS	237885..238238	predicted membrane protein
+sga:GALLO_0222	CDS	238251..238484	conserved hypothetical protein
+sga:GALLO_0223	CDS	238688..240871	pnpA; polynucleotide phosphorylase (PNPase)
+sga:GALLO_0224	CDS	240915..241670	conserved hypothetical protein
+sga:GALLO_0225	CDS	241686..242303	cysE; putative serine acetyltransferase
+sga:GALLO_0226	CDS	242362..243708	cysS; cysteinyl-tRNA synthetase
+sga:GALLO_0227	CDS	243701..244105	conserved hypothetical protein
+sga:GALLO_0228	CDS	244168..244917	putative RNA methyltransferase, TrmH family
+sga:GALLO_0229	CDS	244969..245481	conserved hypothetical protein
+sga:GALLO_0230	CDS	245644..246504	conserved hypothetical protein
+sga:GALLO_0231	CDS	246682..247308	putative transcriptional regulator
+sga:GALLO_0232	CDS	247443..248399	panE; putative 2-dehydropantoate 2-reductase
+sga:GALLO_0233	CDS	248602..249048	rplM; ribosomal protein L13
+sga:GALLO_0234	CDS	249071..249463	rpsI; ribosomal protein S9
+sga:GALLO_r0007	rRNA	250046..251582	rRNA-16s; 16S ribosomal RNA
+sga:GALLO_t0033	tRNA	251645..251717	tRNA-Ala
+sga:GALLO_r0008	rRNA	251864..254760	rRNA-23s; 23S ribosomal RNA
+sga:GALLO_r0009	rRNA	254846..254958	rRNA-5s; 5S ribosomal RNA
+sga:GALLO_t0034	tRNA	254963..255035	tRNA-Val
+sga:GALLO_t0035	tRNA	255058..255130	tRNA-Asp
+sga:GALLO_t0036	tRNA	255134..255206	tRNA-Lys
+sga:GALLO_t0037	tRNA	255216..255297	tRNA-Leu
+sga:GALLO_t0038	tRNA	255312..255384	tRNA-Thr
+sga:GALLO_t0039	tRNA	255400..255471	tRNA-Gly
+sga:GALLO_t0040	tRNA	255479..255564	tRNA-Leu
+sga:GALLO_t0041	tRNA	255581..255654	tRNA-Arg
+sga:GALLO_t0042	tRNA	255660..255733	tRNA-Pro
+sga:GALLO_r0010	rRNA	255859..257395	rRNA-16s; 16S ribosomal RNA
+sga:GALLO_t0043	tRNA	257458..257530	tRNA-Ala
+sga:GALLO_r0011	rRNA	257677..260573	rRNA-23s; 23S ribosomal RNA
+sga:GALLO_r0012	rRNA	260659..260772	rRNA-5s; 5S ribosomal RNA
+sga:GALLO_t0044	tRNA	260777..260850	tRNA-Asn
+sga:GALLO_0235	CDS	261011..261493	comX1; putative sigma factor ComX1
+sga:GALLO_0236	CDS	261633..261899	conserved hypothetical protein
+sga:GALLO_0237	CDS	261911..263248	conserved hypothetical protein
+sga:GALLO_0238	CDS	263472..264176	Phosphoglycerate mutase family protein
+sga:GALLO_0239	CDS	264160..264933	putative D-alanyl-D-alanine carboxypeptidase
+sga:GALLO_0240	CDS	264930..265511	putative peptidoglycan hydrolase
+sga:GALLO_0241	CDS	265646..266680	hrcA; transcriptional repressor of class I heat-shock genes
+sga:GALLO_0242	CDS	266723..267262	grpE; heat shock protein GrpE (HSP-70 cofactor)
+sga:GALLO_0243	CDS	267345..269174	dnaK; heat shock protein 70, chaperone protein DnaK
+sga:GALLO_0244	CDS	269294..269908	ThiJ/PfpI family protein
+sga:GALLO_0245	CDS	270015..271157	dnaJ; heat-shock protein DnaJ
+sga:GALLO_0246	CDS	271276..272025	truA; tRNA pseudouridylate synthase I
+sga:GALLO_0247	CDS	272015..272782	pdxK; putative phosphomethylpyrimidine kinase
+sga:GALLO_0248	CDS	272769..273236	conserved hypothetical protein
+sga:GALLO_0249	CDS	273265..273828	conserved hypothetical protein
+sga:GALLO_0250	CDS	complement(273876..274718)	mechanosensitive ion channel family protein
+sga:GALLO_0251	CDS	274966..276249	tig; trigger factor (prolyl isomerase)
+sga:GALLO_0252	CDS	276440..277012	rpoE; RNA polymerase (delta subunit)
+sga:GALLO_0253	CDS	277285..278889	pyrG; CTP synthetase
+sga:GALLO_0254	CDS	279006..279941	putative alpha/beta hydrolase
+sga:GALLO_t0045	tRNA	279994..280079	tRNA-Leu
+sga:GALLO_0255	CDS	280292..281173	fba; fructose-bisphosphate aldolase
+sga:GALLO_t0046	tRNA	281284..281356	tRNA-Thr
+sga:GALLO_0256	CDS	281598..281807	hypothetical protein
+sga:GALLO_0257	CDS	281844..282944	Putative DNA methylase
+sga:GALLO_0258	CDS	283135..283389	conserved hypothetical protein
+sga:GALLO_0259	CDS	283367..283531	hypothetical protein
+sga:GALLO_0260	CDS	283603..283764	hypothetical protein
+sga:GALLO_0261	CDS	283771..284751	putative replication initiation protein Rep
+sga:GALLO_0262	CDS	284738..285082	hypothetical protein
+sga:GALLO_0263	CDS	285079..285753	hypothetical protein
+sga:GALLO_0264	CDS	285773..286321	hypothetical protein
+sga:GALLO_0265	CDS	286314..286448	hypothetical protein
+sga:GALLO_0266	CDS	286441..286920	hypothetical protein
+sga:GALLO_0267	CDS	286940..287068	hypothetical protein
+sga:GALLO_0268	CDS	287193..287351	hypothetical protein
+sga:GALLO_0269	CDS	287664..287978	hypothetical protein
+sga:GALLO_0270	CDS	288112..288873	Putative transposon related peptidoglycan linked protein (LPXTG motif)
+sga:GALLO_0271	CDS	288939..291506	Putative transposon related peptidoglycan linked protein (LPXTG motif)
+sga:GALLO_0272	CDS	291717..294818	Putative transposon related peptidoglycan linked protein (LPXTG motif)
+sga:GALLO_0273	CDS	295062..295289	conserved hypothetical protein
+sga:GALLO_0274	CDS	295393..295962	hypothetical protein
+sga:GALLO_0275	CDS	296021..296773	conserved hypothetical protein, transposon related
+sga:GALLO_0276	CDS	296809..297309	hypothetical protein
+sga:GALLO_0277	CDS	297313..297879	hypothetical protein
+sga:GALLO_0278	CDS	298138..298491	hypothetical protein
+sga:GALLO_0279	CDS	298439..300829	conserved hypothetical protein, transposon related
+sga:GALLO_0280	CDS	300831..301424	conserved hypothetical protein
+sga:GALLO_0281	CDS	301439..301687	hypothetical protein
+sga:GALLO_0282	CDS	301726..304425	conserved hypothetical protein, transposon related
+sga:GALLO_0283	gene	304442..304606	pseudogene
+sga:GALLO_0284	gene	304607..305059	pseudogene
+sga:GALLO_0285	CDS	305043..305255	putative single strand binding protein
+sga:GALLO_0286	CDS	305274..305549	hypothetical protein
+sga:GALLO_0287	CDS	305549..306379	conserved hypothetical protein
+sga:GALLO_0288	CDS	306398..306892	putative conjugative transposon protein
+sga:GALLO_0289	CDS	306892..308922	Putative TraG protein
+sga:GALLO_0290	CDS	309332..310075	hypothetical protein
+sga:GALLO_0291	CDS	310152..310505	hypothetical protein
+sga:GALLO_0292	CDS	310559..311041	Conserved hypothetical protein
+sga:GALLO_0293	CDS	311064..312812	putative DNA topoisomerase
+sga:GALLO_0294	CDS	312865..317214	conserved hypothetical protein, transposon associated
+sga:GALLO_0295	CDS	317263..317556	Hypothetical protein, transposon associated
+sga:GALLO_0296	CDS	317869..318243	putative mobilisation protein
+sga:GALLO_0297	CDS	318215..319834	putative relaxase
+sga:GALLO_0298	CDS	319939..320127	hypothetical protein
+sga:GALLO_0299	CDS	320137..320862	sortase protein
+sga:GALLO_0300	CDS	321162..322493	DDE transposase
+sga:GALLO_0301	CDS	322902..323090	rpmB; ribosomal protein L28
+sga:GALLO_0302	CDS	323207..323572	conserved hypothetical protein
+sga:GALLO_0303	CDS	323572..325236	conserved hypothetical protein
+sga:GALLO_0304	CDS	325502..327223	ilvD; dihydroxy-acid dehydratase
+sga:GALLO_0305	CDS	327357..329060	ilvB; acetolactate synthase (large subunit)
+sga:GALLO_0306	CDS	329053..329535	ilvH; acetolactate synthase (small subunit)
+sga:GALLO_0307	CDS	329605..330627	ilvC; alpha-keto-beta-hydroxylacil reductoisomerase
+sga:GALLO_0308	CDS	330760..332010	ilvA; threonine dehydratase
+sga:GALLO_0309	CDS	332225..333109	conserved hypothetical protein
+sga:GALLO_0310	CDS	complement(333197..333316)	conserved hypothetical protein
+sga:GALLO_0311	CDS	complement(333413..334021)	conserved hypothetical protein
+sga:GALLO_0312	CDS	complement(334197..334937)	putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_0313	CDS	complement(334937..336508)	putative ABC transporter amino acid-binding protein/amino acid ABC transporter permease protein
+sga:GALLO_0314	CDS	336644..338536	conserved hypothetical protein
+sga:GALLO_0315	CDS	338588..339427	uppP; putative undecaprenol kinase
+sga:GALLO_0316	CDS	339528..340283	mecA; putative negative regulator of competence
+sga:GALLO_0317	CDS	340285..341448	putative glycosyl transferase
+sga:GALLO_0318	CDS	341562..342332	sufC; putative FeS assembly ATPase SufC
+sga:GALLO_0319	CDS	342406..343668	sufD; putative FeS assembly protein SufD
+sga:GALLO_0320	CDS	343670..344902	sufS; putative cysteine desulfurase (Selenocysteine lyase)
+sga:GALLO_0321	CDS	344889..345326	putative NifU family protein
+sga:GALLO_0322	CDS	345339..346757	sufB; putative FeS cluster formation protein SufB
+sga:GALLO_0323	CDS	complement(346806..348044)	dacA; putative penicillin-binding protein 5 (D-alanyl-D-alanine carboxypeptidase)
+sga:GALLO_0324	CDS	348218..349873	putative oligopeptide ABC transporter, substrate-binding protein
+sga:GALLO_0325	CDS	349984..350898	putative oligopeptide ABC transporter, permease protein
+sga:GALLO_0326	CDS	350909..351940	putative oligopeptide ABC transporter, permease protein
+sga:GALLO_0327	CDS	351952..352998	putative oligopeptide ABC transporter, ATP-binding protein
+sga:GALLO_0328	CDS	352998..353927	putative oligopeptide ABC transporter, ATP-binding protein
+sga:GALLO_r0013	rRNA	354435..355971	rRNA-16s; 16S ribosomal RNA
+sga:GALLO_t0047	tRNA	356034..356106	tRNA-Ala
+sga:GALLO_r0014	rRNA	356253..359149	rRNA-23s; 23S ribosomal RNA
+sga:GALLO_r0015	rRNA	359235..359348	rRNA-5s; 5S ribosomal RNA
+sga:GALLO_t0048	tRNA	359353..359426	tRNA-Asn
+sga:GALLO_0329	CDS	359584..360072	putative transcriptional regulator ComX1
+sga:GALLO_0330	CDS	complement(360184..361806)	putative beta-1,4-endoglucanase V (cellulase)
+sga:GALLO_0331	CDS	complement(362255..363616)	putative aspartate kinase
+sga:GALLO_0332	CDS	363710..364357	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0333	CDS	364568..365356	putative enoyl-CoA hydratase
+sga:GALLO_0334	CDS	365472..365906	putative transcriptional regulator, MarR family
+sga:GALLO_0335	CDS	365909..366883	putative 3-oxoacyl-[acyl-carrier-protein] synthase III
+sga:GALLO_0336	CDS	366946..367170	acpA; acyl carrier protein
+sga:GALLO_0337	CDS	367333..368289	putative dioxygenases related to 2-nitropropane dioxygenase
+sga:GALLO_0338	CDS	368350..369270	fabD; malonyl CoA-acyl carrier protein transacylase
+sga:GALLO_0339	CDS	369280..370014	fabG; beta-ketoacyl-acyl carrier protein reductase
+sga:GALLO_0340	CDS	370077..371309	fabF; beta-ketoacyl-acyl carrier protein synthase II
+sga:GALLO_0341	CDS	371309..371797	accB; acetyl-CoA carboxylase (biotin carboxyl carrier subunit)
+sga:GALLO_0342	CDS	371794..372216	fabZ; putative hydroxymyristoyl-[acyl carrier protein] dehydratase
+sga:GALLO_0343	CDS	372312..373682	accC; acetyl-CoA carboxylase (biotin carboxylase subunit)
+sga:GALLO_0344	CDS	373691..374557	accD; acetyl-CoA carboxylase (beta subunit)
+sga:GALLO_0345	CDS	374554..375327	accA; acetyl-CoA carboxylase (alpha subunit)
+sga:GALLO_0346	CDS	complement(375460..376737)	serS; seryl-tRNA synthetase
+sga:GALLO_0347	CDS	complement(376988..377359)	conserved hypothetical protein
+sga:GALLO_0348	CDS	complement(377436..378347)	putative PTS system, mannose-specific IID component
+sga:GALLO_0349	gene	complement(378373..379164)	pseudogene
+sga:GALLO_0350	CDS	complement(379324..380316)	putative PTS system, mannose-specific IIAB component
+sga:GALLO_0351	CDS	complement(380644..381456)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0352	CDS	381546..382130	conserved hypothetical protein
+sga:GALLO_0353	CDS	382275..382874	conserved hypothetical membrane protein
+sga:GALLO_0354	CDS	382979..384400	putative permease
+sga:GALLO_0355	CDS	384585..385028	conserved hypothetical ATP/GTP binding protein-P-loop hydrolase
+sga:GALLO_0356	CDS	385021..385533	putative acetyltransferase, GNAT family
+sga:GALLO_0357	CDS	385544..386701	putative transcriptional regulator, LytR family
+sga:GALLO_0358	CDS	complement(386819..387121)	conserved hypothetical protein
+sga:GALLO_0359	CDS	complement(387118..387537)	putative histidine triad (HIT) protein
+sga:GALLO_0360	CDS	387601..388326	putative ABC transporter, ATP-binding protein
+sga:GALLO_0361	CDS	388328..389362	putative ABC transporter, ATP-binding protein
+sga:GALLO_0362	CDS	389427..390221	conserved hypothetical protein
+sga:GALLO_0363	CDS	390221..390859	Putative methyltransferase
+sga:GALLO_t0049	tRNA	390901..390985	tRNA-Ser
+sga:GALLO_0364	CDS	391202..392227	putative diguanylate cyclase (GGDEF domain)
+sga:GALLO_0365	CDS	392233..393300	putative glycosyltransferase
+sga:GALLO_0366	CDS	393287..395512	putative glycosyltransferases (cellulose synthase)
+sga:GALLO_0367	CDS	395509..397449	Predicted membrane protein
+sga:GALLO_0368	CDS	397653..398186	conserved hypothetical protein
+sga:GALLO_0369	CDS	398271..399461	nusA; Transcription termination factor NusA
+sga:GALLO_0370	CDS	399481..399777	conserved hypothetical protein
+sga:GALLO_0371	CDS	399770..400072	putative ribosomal protein L7A family
+sga:GALLO_0372	CDS	400092..402818	infB; translation initiation factor IF-2
+sga:GALLO_0373	CDS	403674..404024	rbfA; ribosome-binding factor A
+sga:GALLO_0374	CDS	404129..404665	IS861, transposase OrfA
+sga:GALLO_0375	CDS	404641..405480	IS861, transposase OrfB
+sga:GALLO_0376	CDS	405573..406115	conserved hypothetical protein
+sga:GALLO_0377	CDS	406128..406676	conserved hypothetical protein
+sga:GALLO_0378	CDS	406818..407249	putative transcriptional repressor CopY
+sga:GALLO_0379	CDS	407273..409510	putative cation-transporting ATP-ase, P-type
+sga:GALLO_0380	CDS	409532..409735	putative cation-transporting ATP-ase, cation chaperone
+sga:GALLO_0381	CDS	409838..410455	conserved membrane protein
+sga:GALLO_0382	CDS	410458..411270	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0383	CDS	complement(411306..412382)	conserved hypothetical protein
+sga:GALLO_0384	CDS	complement(412383..412976)	putative transcriptional regulator, TetR family
+sga:GALLO_0385	CDS	complement(413126..413683)	Transcriptional regulator, TetR family
+sga:GALLO_0386	CDS	413817..414662	conserved hypothetical protein
+sga:GALLO_0387	CDS	complement(414687..415202)	conserved hypothetical protein
+sga:GALLO_0388	CDS	complement(415208..415789)	conserved hypothetical secreted protein
+sga:GALLO_0389	CDS	416131..417762	putative Na+/Pi-cotransporter
+sga:GALLO_0390	CDS	417897..419045	nagA; N-acetylglucosamine-6-phosphate deacetylase
+sga:GALLO_0391	CDS	419479..420396	glyQ; glycyl-tRNA synthetase (alpha subunit)
+sga:GALLO_0392	CDS	420396..422435	glyS; glycyl-tRNA synthetase (beta subunit)
+sga:GALLO_0393	CDS	422614..422871	conserved hypothetical protein
+sga:GALLO_0394	CDS	423010..424491	putative transcription antiterminator BglG family
+sga:GALLO_0395	CDS	424481..424903	Putative PTS system, EIIA component
+sga:GALLO_0396	CDS	424918..425355	Putative PTS system, EIIA component
+sga:GALLO_0397	CDS	425361..425660	Putative PTS system, lactose/cellobiose-specific, IIB subunit
+sga:GALLO_0398	CDS	425688..427046	Putative PTS system, ascorbate family, IIC component
+sga:GALLO_0399	CDS	427060..427713	Transaldolase
+sga:GALLO_0400	CDS	427803..429788	tkt; Transketolase
+sga:GALLO_0401	CDS	429928..430230	conserved hypothetical protein
+sga:GALLO_0402	CDS	430246..430980	Putative ABC transporter (ATP-binding protein)
+sga:GALLO_0403	CDS	430985..432610	Putative ABC transporter (permease protein)
+sga:GALLO_0404	CDS	complement(432668..434521)	Putative PTS system, beta-glucoside specific, IIABC components
+sga:GALLO_0405	CDS	complement(434658..435527)	Putative Transcriptional regulator
+sga:GALLO_0406	CDS	435680..437101	Putative phospho-beta-glucosidase
+sga:GALLO_0407	CDS	437210..438013	proB; glutamate 5-kinase
+sga:GALLO_0408	CDS	438028..439278	proA; gamma-glutamyl phosphate reductase
+sga:GALLO_0409	CDS	439428..440378	mraW; S-adenosyl-dependent methyltransferase MraW
+sga:GALLO_0410	CDS	440381..440704	ftsL; cell division protein FtsL
+sga:GALLO_0411	CDS	440714..442978	pbpB; penicillin-binding protein 2B
+sga:GALLO_0412	CDS	442985..443998	mraY; phospho-N-acetylmuramoyl-pentapeptide transferase
+sga:GALLO_0413	CDS	444197..445540	putative ATP-dependent RNA helicase, DEAD/DEAH box family
+sga:GALLO_0414	CDS	445726..446550	putative amino acid ABC transporter substrate binding protein
+sga:GALLO_0415	CDS	446625..447428	putative amino acid ABC transporter permease protein
+sga:GALLO_0416	CDS	447428..448171	putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_0417	CDS	448262..448486	conserved hypothetical protein
+sga:GALLO_0418	CDS	448550..449464	putative thioredoxin reductase
+sga:GALLO_0419	CDS	complement(449762..450922)	putative phage integrase
+sga:GALLO_0420	CDS	complement(451112..452065)	hypothetical protein, phage associated
+sga:GALLO_0421	CDS	complement(452305..452856)	hypothetical protein, phage associated
+sga:GALLO_0422	CDS	complement(452912..453292)	hypothetical protein, phage associated
+sga:GALLO_0423	CDS	453342..453530	hypothetical protein, phage associated
+sga:GALLO_0424	CDS	complement(453533..454126)	hypothetical protein, phage associated
+sga:GALLO_0425	CDS	complement(454126..454560)	hypothetical protein, phage associated
+sga:GALLO_0426	CDS	complement(454732..455259)	hypothetical protein, phage associated
+sga:GALLO_0427	CDS	complement(455295..456395)	hypothetical protein, phage associated
+sga:GALLO_0428	CDS	complement(456376..456792)	putative cI-like repressor
+sga:GALLO_0429	CDS	456957..457181	putative cro repressor
+sga:GALLO_0430	CDS	457238..458014	putative prophage antirepressor
+sga:GALLO_0431	CDS	458225..458374	hypothetical protein, phage associated
+sga:GALLO_0432	CDS	complement(458357..458839)	hypothetical protein, phage associated
+sga:GALLO_0433	CDS	458940..459191	hypothetical protein, phage associated
+sga:GALLO_0434	CDS	459230..459370	hypothetical protein, phage associated
+sga:GALLO_0435	CDS	459380..459607	hypothetical protein, phage associated
+sga:GALLO_0436	CDS	459594..459827	hypothetical protein, phage associated
+sga:GALLO_0437	CDS	459814..461106	hypothetical protein, phage associated
+sga:GALLO_0438	CDS	461121..461456	hypothetical protein, phage associated
+sga:GALLO_0439	CDS	461456..462565	hypothetical protein, phage associated
+sga:GALLO_0440	CDS	462592..463185	hypothetical protein, phage associated
+sga:GALLO_0441	CDS	463196..464779	putative DEAD box family helicase, phage associated
+sga:GALLO_0442	CDS	464792..467065	hypothetical protein, phage associated
+sga:GALLO_0443	CDS	467352..467603	hypothetical protein, phage associated
+sga:GALLO_0444	CDS	467854..468249	conserved phage associated protein
+sga:GALLO_0445	CDS	468246..468476	putative phage associated protein
+sga:GALLO_0446	CDS	468469..468621	putative phage associated protein
+sga:GALLO_0447	CDS	468618..468827	hypothetical protein
+sga:GALLO_0448	CDS	469179..469592	putative transcriptional activator-phage associated
+sga:GALLO_0449	gene	469987..470424	pseudogene
+sga:GALLO_0450	CDS	470421..471812	putative phage terminase, large subunit
+sga:GALLO_0451	CDS	471825..473300	putative phage portal protein
+sga:GALLO_0452	CDS	473281..474672	putative conserved phage protein
+sga:GALLO_t0050	tRNA	474989..475075	tRNA-Ser
+sga:GALLO_0453	CDS	475248..475883	putative phage scaffold protein
+sga:GALLO_0454	CDS	475896..476261	putative phage structural protein
+sga:GALLO_0455	CDS	476265..477311	putative phage head protein
+sga:GALLO_0456	CDS	477326..477469	putative phage conserved unknown protein
+sga:GALLO_0457	CDS	477487..477843	putative phage conserved unknown protein
+sga:GALLO_0458	CDS	477840..478118	putative phage conserved unknown protein
+sga:GALLO_0459	CDS	478115..478459	putative phage conserved unknown protein
+sga:GALLO_0460	CDS	478467..478826	putative phage conserved unknown protein
+sga:GALLO_0461	CDS	478841..479419	putative phage conserved unknown protein
+sga:GALLO_0462	CDS	479481..479945	putative phage conserved unknown protein
+sga:GALLO_0463	CDS	480020..480250	putative phage conserved unknown protein
+sga:GALLO_0464	CDS	480270..484688	putative phage conserved unknown protein
+sga:GALLO_0465	CDS	484702..485541	putative phage conserved unknown protein
+sga:GALLO_0466	CDS	485555..490531	putative phage conserved unknown protein
+sga:GALLO_0467	CDS	490535..490711	putative phage conserved unknown protein
+sga:GALLO_0468	CDS	490711..491193	putative phage conserved unknown protein
+sga:GALLO_0469	CDS	491183..491356	putative phage conserved unknown protein
+sga:GALLO_0470	CDS	491375..491650	putative phage conserved unknown protein
+sga:GALLO_0471	CDS	491647..491973	Phage lysis protein, holin
+sga:GALLO_0472	CDS	491979..493103	putative phage-associated cell wall hydrolase
+sga:GALLO_0473	CDS	493402..493941	putative phage-associated protein
+sga:GALLO_0474	CDS	493945..494790	conserved hypothetical protein
+sga:GALLO_0475	CDS	495041..495649	conserved hypothetical protein
+sga:GALLO_0476	CDS	496603..498063	pncB; nicotinate phosphoribosyltransferase
+sga:GALLO_0477	CDS	498060..498884	nadE; NAD-synthetase
+sga:GALLO_0478	CDS	499103..500440	putative cysteine aminopeptidase C
+sga:GALLO_0479	CDS	complement(500525..502744)	ponA; penicillin-binding proteins 1A
+sga:GALLO_0480	CDS	complement(502740..503348)	recU; recombination protein RecU
+sga:GALLO_0481	CDS	503423..503941	conserved hypothetical protein
+sga:GALLO_0482	CDS	504068..504409	conserved hypothetical protein
+sga:GALLO_0483	CDS	505039..506211	Putative RNA methylase family
+sga:GALLO_0484	CDS	506339..507796	conserved hypothetical protein
+sga:GALLO_0485	CDS	508092..508856	putative short chain dehydrogenase
+sga:GALLO_0486	CDS	complement(508938..509423)	luxS; putative S-Ribosylhomocysteinase (LuxS autoinducer 2 synthase)
+sga:GALLO_0487	CDS	509574..511181	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0488	CDS	511433..512050	gmk; Guanylate kinase
+sga:GALLO_0489	CDS	512077..512388	rpoZ; DNA-directed RNA polymerase omega chain
+sga:GALLO_0490	CDS	512510..514900	priA; primosomal replication factor Y
+sga:GALLO_0491	CDS	514961..515896	fmt; methionyl-tRNA formyltransferase
+sga:GALLO_0492	CDS	515886..517208	putative RNA-binding Sun protein
+sga:GALLO_0493	CDS	517246..517983	stp; serine/threonine protein phosphatase Stp1
+sga:GALLO_0494	CDS	517983..519860	prkC; putative protein kinase
+sga:GALLO_0495	CDS	519971..520666	conserved hypothetical protein
+sga:GALLO_0496	CDS	520663..521688	putative two-component sensor histidine kinase
+sga:GALLO_0497	CDS	521672..522316	putative two-component response regulator
+sga:GALLO_0498	CDS	522435..523835	putative HAD-superfamily hydrolase / phosphatase and peptidyl-prolyl isomerase
+sga:GALLO_0499	CDS	523835..524191	putative RNA binding protein
+sga:GALLO_0500	CDS	complement(524305..525234)	cysK; cysteine synthetase
+sga:GALLO_0501	CDS	complement(525338..525964)	conserved hypothetical protein
+sga:GALLO_0502	CDS	526021..527235	putative competence protein ComFA
+sga:GALLO_0503	CDS	527232..527894	putative competence protein ComFC
+sga:GALLO_0504	CDS	527970..528518	Ribosome-associated protein Y
+sga:GALLO_r0016	rRNA	529028..530564	rRNA-16s; 16S ribosomal RNA
+sga:GALLO_t0051	tRNA	530627..530699	tRNA-Ala
+sga:GALLO_r0017	rRNA	530846..533742	rRNA-23s; 23S ribosomal RNA
+sga:GALLO_r0018	rRNA	533828..533941	rRNA-5s; 5S ribosomal RNA
+sga:GALLO_t0052	tRNA	533945..534017	tRNA-Val
+sga:GALLO_t0053	tRNA	534040..534112	tRNA-Asp
+sga:GALLO_t0054	tRNA	534116..534188	tRNA-Lys
+sga:GALLO_t0055	tRNA	534198..534279	tRNA-Leu
+sga:GALLO_t0056	tRNA	534294..534366	tRNA-Thr
+sga:GALLO_t0057	tRNA	534391..534464	tRNA-Ile
+sga:GALLO_t0058	tRNA	534475..534546	tRNA-Glu
+sga:GALLO_0505	CDS	complement(534824..535135)	conserved hypothetical protein
+sga:GALLO_0506	CDS	complement(535194..535727)	conserved hypothetical protein
+sga:GALLO_0507	CDS	complement(535814..536590)	recX; putative RecA regulator RecX
+sga:GALLO_0508	CDS	536659..537606	conserved domain protein
+sga:GALLO_0509	CDS	537606..538958	putative RNA methyltransferase, TrmA family
+sga:GALLO_0510	CDS	complement(539170..539589)	putative transcriptional regulator, AraC family
+sga:GALLO_0511	CDS	complement(539647..540486)	IS861, transposase OrfB
+sga:GALLO_0512	CDS	complement(540462..540998)	IS861, transposase OrfA
+sga:GALLO_0513	CDS	complement(540998..541564)	hypothetical protein
+sga:GALLO_0514	CDS	complement(541676..541825)	hypothetical protein
+sga:GALLO_0515	CDS	541942..542916	conserved hypothetical protein (secreted)
+sga:GALLO_0516	CDS	543028..543600	putative acetyltransferase (GNAT) family
+sga:GALLO_t0059	tRNA	543727..543797	tRNA-Thr
+sga:GALLO_0517	CDS	complement(543842..544429)	putative transporter
+sga:GALLO_0518	CDS	complement(544556..545194)	putative deoxynucleoside kinase
+sga:GALLO_0519	CDS	complement(545577..546083)	putative acetyltransferase (GNAT) family
+sga:GALLO_0520	gene	complement(546129..546425)	pseudogene
+sga:GALLO_0521	CDS	complement(546552..547073)	conserved hypothetical protein
+sga:GALLO_0522	gene	547178..547459	pseudogene
+sga:GALLO_0523	CDS	548107..548361	conserved hypothetical protein
+sga:GALLO_0524	CDS	548363..548680	conserved hypothetical protein
+sga:GALLO_0525	CDS	548927..549496	conserved hypothetical protein
+sga:GALLO_0526	CDS	549489..550067	product acetyltransferase, GNAT family
+sga:GALLO_0527	CDS	550067..550630	conserved hypothetical protein
+sga:GALLO_0528	CDS	550643..553294	valS; valyl-tRNA synthetase
+sga:GALLO_0529	CDS	553630..555522	conserved hypothetical protein
+sga:GALLO_0530	CDS	555717..556802	conserved hypothetical protein
+sga:GALLO_0531	CDS	556916..558130	putative efflux protein
+sga:GALLO_0532	CDS	complement(558351..558899)	putative transcriptional regulator
+sga:GALLO_0533	CDS	559035..559829	conserved hypothetical protein
+sga:GALLO_0534	CDS	560178..561170	putative aspartate--ammonia ligase
+sga:GALLO_0535	CDS	complement(561299..562051)	conserved hypothetical secreted protein
+sga:GALLO_0536	CDS	complement(562224..563066)	conserved hypothetical secreted protein
+sga:GALLO_0537	CDS	563201..563740	Conserved hypothetical Protein
+sga:GALLO_0538	CDS	563773..564270	coaD; Phosphopantetheine adenylyltransferase
+sga:GALLO_0539	CDS	564248..565333	conserved hypothetical protein
+sga:GALLO_0540	CDS	565462..565716	conserved hypothetical membrane protein
+sga:GALLO_0541	CDS	565900..566559	putative aquaporin Z-water channel protein
+sga:GALLO_0542	CDS	566698..567207	hypothetical secreted protein
+sga:GALLO_0543	CDS	567319..568644	putative phosphoesterase
+sga:GALLO_0544	CDS	568676..569254	conserved hypothetical protein
+sga:GALLO_0545	CDS	569276..570382	conserved hypothetical protein
+sga:GALLO_0546	CDS	570385..570903	conserved hypothetical protein
+sga:GALLO_0547	CDS	571078..572823	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_0548	CDS	572813..574558	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_0549	CDS	574899..575777	putative ABC transporter, ATP-binding protein
+sga:GALLO_0550	CDS	575774..576505	putative ABC transporter, permease protein
+sga:GALLO_0551	CDS	576505..577593	putative sensor histidine kinase
+sga:GALLO_0552	CDS	577595..578191	putative two-component response regulator
+sga:GALLO_0553	CDS	complement(578390..578683)	conserved hypothetical protein
+sga:GALLO_0554	CDS	578903..579373	hypothetical protein
+sga:GALLO_0555	CDS	579354..579620	hypothetical protein
+sga:GALLO_0556	CDS	579610..580761	conserved hypothetical protein
+sga:GALLO_0557	CDS	580765..585216	putative FtsK/SpoIIIE family protein
+sga:GALLO_0558	CDS	585223..588054	conserved cell wall bound protein
+sga:GALLO_0559	CDS	588140..588556	hypothetical protein
+sga:GALLO_0560	CDS	588568..588849	hypothetical protein
+sga:GALLO_0561	CDS	588849..589511	hypothetical protein
+sga:GALLO_0562	CDS	589501..591045	conserved hypothetical protein
+sga:GALLO_0563	CDS	591042..591776	conserved hypothetical protein
+sga:GALLO_0564	CDS	591786..592244	hypothetical protein
+sga:GALLO_0565	CDS	592244..592699	conserved hypothetical protein
+sga:GALLO_0566	CDS	592812..593807	hypothetical protein
+sga:GALLO_0567	CDS	593809..594546	conserved hypothetical protein
+sga:GALLO_0568	CDS	594557..595288	hypothetical protein
+sga:GALLO_0569	CDS	595303..595731	hypothetical protein
+sga:GALLO_0570	CDS	595733..596194	conserved hypothetical protein
+sga:GALLO_0571	CDS	596148..596909	conserved hypothetical protein
+sga:GALLO_0572	CDS	596954..597628	conserved hypothetical protein
+sga:GALLO_0573	gene	597852..598217	pseudogene
+sga:GALLO_0574	CDS	598304..598993	conserved hypothetical protein
+sga:GALLO_0575	CDS	complement(599163..599354)	hypothetical protein
+sga:GALLO_0576	CDS	complement(599344..599940)	Conserved hypothetical protein
+sga:GALLO_0577	CDS	600128..602380	putative collagen-binding protein, peptidoglycan linked protein (LPXTG motif)
+sga:GALLO_0578	CDS	603299..603616	conserved hypothetical protein
+sga:GALLO_0579	CDS	603749..604054	conserved hypothetical protein
+sga:GALLO_0580	CDS	604124..604852	conserved hypothetical membrane protein
+sga:GALLO_0581	CDS	605011..606174	putative permease
+sga:GALLO_0582	CDS	606878..607165	putative chorismate mutase
+sga:GALLO_0583	CDS	607179..608534	trpE; anthranilate synthase component I
+sga:GALLO_0584	CDS	608531..609100	trpG; para-aminobenzoate synthase glutamine amidotransferase (subunit B) / anthranilate synthase (subunit II)
+sga:GALLO_0585	CDS	609115..610119	trpD; anthranilate phosphoribosyltransferase
+sga:GALLO_0586	CDS	610116..610883	trpC; indol-3-glycerol phosphate synthase
+sga:GALLO_0587	CDS	610870..611451	trpF; phosphoribosyl anthranilate isomerase
+sga:GALLO_0588	CDS	611448..612650	trpB; tryptophan synthase (beta subunit)
+sga:GALLO_0589	CDS	612654..613436	trpA; tryptophan synthase (alpha subunit)
+sga:GALLO_0590	CDS	complement(613501..614841)	putative metal ion (Mn2+; iron) transporter (Nramp family)
+sga:GALLO_0591	CDS	complement(614924..615574)	putative peptidase
+sga:GALLO_0592	CDS	615704..616234	putative peroxide resistance protein Dpr
+sga:GALLO_0593	CDS	616405..616614	conserved hypothetical protein
+sga:GALLO_0594	CDS	616607..617575	glcK; glucokinase
+sga:GALLO_0595	CDS	617586..617966	conserved hypothetical protein with Rhodanese-like domain
+sga:GALLO_0596	CDS	617981..619027	conserved hypothetical protein
+sga:GALLO_0597	CDS	619203..621047	putative conserved GTP-binding protein
+sga:GALLO_0598	CDS	621169..621441	conserved hypothetical protein
+sga:GALLO_0599	CDS	621564..622919	murD; UDP-N-acetylmuramoylalanyl-D-glutamate ligase
+sga:GALLO_0600	CDS	622922..623998	murG; UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+sga:GALLO_0601	CDS	623999..625279	ftsQ; cell division protein FtsQ
+sga:GALLO_0602	CDS	625415..626782	ftsA; cell division protein FtsA
+sga:GALLO_0603	CDS	626803..628125	ftsZ; cell division protein FtsZ
+sga:GALLO_0604	CDS	628125..628799	conserved hypothetical protein
+sga:GALLO_0605	CDS	628814..629422	conserved hypothetical protein
+sga:GALLO_0606	CDS	629426..629680	conserved hypothetical protein
+sga:GALLO_0607	CDS	629688..630473	conserved hypothetical protein
+sga:GALLO_0608	CDS	630484..631251	divIVA; cell division initiation protein DivIVA
+sga:GALLO_0609	CDS	631562..634360	ileS; isoleucyl-tRNA synthetase
+sga:GALLO_0610	CDS	complement(634461..634763)	conserved hypothetical protein
+sga:GALLO_0611	CDS	complement(634835..635281)	conserved hypothetical protein, MutT/nudix family
+sga:GALLO_0612	CDS	complement(635561..637849)	ATP-dependent Clp protease, ATP-binding subunit
+sga:GALLO_0613	CDS	complement(637990..638517)	conserved hypothetical transmembrane protein
+sga:GALLO_0614	CDS	complement(638545..638742)	putative transcriptional regulator
+sga:GALLO_0615	CDS	638938..639918	argF; ornithine carbamoyltransferase
+sga:GALLO_0616	CDS	640053..640283	Conserved hypothetical protein
+sga:GALLO_0617	CDS	640537..641223	Putative amino acid ABC transporter, permease protein
+sga:GALLO_0618	CDS	641223..641957	Putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_0619	CDS	642324..642800	putative ferrous iron transport protein A
+sga:GALLO_0620	CDS	642797..644935	putative ferrous iron transport protein B
+sga:GALLO_0621	CDS	644940..645080	conserved hypothetical protein
+sga:GALLO_0622	CDS	645227..646081	folD; methylenetetrahydrofolate dehydrogenase and methenyltetrahydrofolate cyclohydrolase
+sga:GALLO_0623	CDS	646078..646914	Conserved hypothetical protein
+sga:GALLO_0624	CDS	647152..647775	conserved hypothetical lipoprotein
+sga:GALLO_0625	CDS	647796..650489	putative cell wall associated protein
+sga:GALLO_0626	CDS	650564..651115	conserved hypothetical secreted protein
+sga:GALLO_0627	CDS	651511..652839	putative exonuclease VII, large subunit
+sga:GALLO_0628	CDS	652829..653044	putative exonuclease VII small subunit
+sga:GALLO_0629	CDS	653044..653913	ispA; putative farnesyl diphosphate synthase
+sga:GALLO_0630	CDS	653906..654730	conserved hypothetical protein
+sga:GALLO_0631	CDS	654717..655187	Putative arginine repressor ArgR
+sga:GALLO_0632	CDS	655201..656859	recN; DNA repair and genetic recombination protein RecN
+sga:GALLO_0633	CDS	656996..657832	Conserved hypothetical protein
+sga:GALLO_0634	CDS	657825..658673	putative lipase/acylhydrolase, GDSL family
+sga:GALLO_0635	CDS	658642..659244	conserved hypothetical protein
+sga:GALLO_0636	CDS	659339..659614	hup; DNA-binding protein HU
+sga:GALLO_0637	CDS	659801..660007	conserved hypothetical protein
+sga:GALLO_0638	CDS	660419..661903	putative dipeptide/tripeptide permease
+sga:GALLO_0639	CDS	complement(662011..662946)	pyrD; dihydroorotate dehydrogenase (catalytic subunit)
+sga:GALLO_0640	CDS	complement(663046..664041)	putative oxidoreductase
+sga:GALLO_0641	CDS	664209..664523	putative transcriptional regulator, ArsR family
+sga:GALLO_0642	CDS	664526..666409	putative heavy metal-transporting E1-E2 ATPase
+sga:GALLO_0643	CDS	666568..666888	putative small multidrug resistance protein
+sga:GALLO_0644	CDS	667105..667797	gpmA; putative 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+sga:GALLO_0645	CDS	complement(668240..668806)	putative transcriptional regulator
+sga:GALLO_0646	CDS	669055..669576	putative transcriptional regulator
+sga:GALLO_0647	CDS	669773..670327	conserved hypothetical protein
+sga:GALLO_0648	CDS	670482..672623	pbp2b; Penicillin binding protein, transpeptidase (2B)
+sga:GALLO_0649	CDS	672692..673288	recR; recombination protein RecR
+sga:GALLO_0650	CDS	673527..674573	ddl; D-alanyl-D-alanine ligase
+sga:GALLO_0651	CDS	complement(674678..675238)	conserved hypothetical transmembrane protein
+sga:GALLO_0652	CDS	675482..676846	murF; UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanine ligase
+sga:GALLO_0653	CDS	676859..678013	putative oligosaccharide repeat unit polymerase
+sga:GALLO_0654	CDS	678164..679708	prfC; putative peptide chain release factor 3:Small GTP-binding protein domain
+sga:GALLO_0655	CDS	680110..681690	putative ATP-dependent RNA helicase
+sga:GALLO_0656	CDS	complement(681734..682018)	conserved hypothetical protein
+sga:GALLO_0657	CDS	complement(681981..682754)	conserved hypothetical protein
+sga:GALLO_0658	CDS	682862..683608	putative 1-acyl-sn-glycerol-3-phosphate acyltransferase
+sga:GALLO_0659	CDS	683703..684368	comEA; putative exogenous DNA-binding protein
+sga:GALLO_0660	CDS	684361..686592	comEC; putative late competence protein required for DNA binding and uptake
+sga:GALLO_0661	CDS	686666..687703	holA; hypothetical DNA polymerase III subunit delta
+sga:GALLO_0662	CDS	687792..688400	sodA; superoxide dismutase
+sga:GALLO_0663	CDS	688552..689277	conserved hypothetical protein
+sga:GALLO_0664	CDS	complement(689309..690337)	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+sga:GALLO_0665	CDS	690513..691013	conserved hypothetical protein
+sga:GALLO_0666	CDS	691141..691845	nagB; N-acetylglucosamine-6-phosphate isomerase
+sga:GALLO_0667	CDS	691921..692637	rluB; ribosomal small subunit pseudouridine synthase A
+sga:GALLO_0668	CDS	692692..693663	putative competence protein CoiA
+sga:GALLO_0669	CDS	693653..695455	putative oligoendopeptidase
+sga:GALLO_0670	CDS	695529..696047	putative acetyltransferase, GNAT family
+sga:GALLO_0671	CDS	696069..696680	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0672	CDS	696734..697435	putative O-methyltransferase
+sga:GALLO_0673	CDS	697504..698613	putative peptidylprolyl isomerase
+sga:GALLO_0674	CDS	698983..701601	alaS; alanyl-tRNA synthetase
+sga:GALLO_0675	CDS	701647..701835	hypothetical protein
+sga:GALLO_0676	CDS	701987..702769	putative amidohydrolase
+sga:GALLO_0677	CDS	702781..703959	putative aspartate aminotransferase
+sga:GALLO_0678	CDS	704160..704993	putative ABC transporter; ATP-binding protein
+sga:GALLO_0679	CDS	704983..705675	putative ABC transporter, permease protein
+sga:GALLO_0680	CDS	705813..706835	argC; N-acetylglutamate gamma-semialdehyde dehydrogenase
+sga:GALLO_0681	CDS	706907..708100	argJ; bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+sga:GALLO_0682	CDS	708114..708848	argB; N-acetylglutamate 5-phosphotransferase
+sga:GALLO_0683	CDS	708874..710004	argD; N-acetylornithine aminotransferase
+sga:GALLO_0684	CDS	710103..710660	putative protein associated to oxidoreductase
+sga:GALLO_0685	CDS	710933..712042	putative NADH:flavin oxidoreductase
+sga:GALLO_0686	CDS	712060..712737	conserved hypothetical protein
+sga:GALLO_0687	CDS	complement(712789..714465)	putative transposase
+sga:GALLO_0688	CDS	714636..715115	Putative transcriptional regulator, MerR family
+sga:GALLO_0689	CDS	715205..716128	conserved hypothetical integral membrane protein
+sga:GALLO_0690	CDS	716493..716708	putative transcriptional regulator, Cro/CI family
+sga:GALLO_0691	CDS	716705..717472	conserved hypothetical membrane spanning protein
+sga:GALLO_0692	CDS	717994..719049	ribD; riboflavin-specific deaminase
+sga:GALLO_0693	CDS	719049..719651	ribE; riboflavin synthase (alpha subunit)
+sga:GALLO_0694	CDS	719652..720830	ribA; GTP cyclohydrolase II / 3,4-dihydroxy-2-butanone 4-phosphate synthase
+sga:GALLO_0695	CDS	720842..721303	ribH; riboflavin synthase (beta subunit)
+sga:GALLO_0696	CDS	721629..722135	putative serine rich lipoprotein
+sga:GALLO_0697	CDS	complement(722411..723271)	putative transcription regulator, LysR family
+sga:GALLO_0698	CDS	723456..724316	putative oxidoreductase, aldo/keto reductase family
+sga:GALLO_0699	CDS	724470..725333	putative oxidoreductase, aldo/keto reductase family
+sga:GALLO_0700	gene	725579..725845	pseudogene
+sga:GALLO_0701	gene	725846..726493	pseudogene
+sga:GALLO_0702	CDS	726521..727078	conserved hypothetical membrane protein
+sga:GALLO_0703	CDS	complement(727108..727674)	conserved hypothetical membrane protein
+sga:GALLO_0704	CDS	complement(727942..728904)	nrdF; ribonucleoside-diphosphate reductase (minor subunit)
+sga:GALLO_0705	CDS	complement(729480..731639)	nrdE; ribonucleoside-diphosphate reductase (major subunit)
+sga:GALLO_0706	CDS	complement(731705..731932)	putative glutaredoxin
+sga:GALLO_0707	CDS	732220..734883	citB; aconitate hydratase
+sga:GALLO_0708	CDS	734887..736005	citA; citrate synthase
+sga:GALLO_0709	CDS	736034..737209	icd; isocitrate dehydrogenase
+sga:GALLO_0710	CDS	737289..738092	conserved hypothetical protein
+sga:GALLO_0711	CDS	738382..739191	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0712	CDS	739192..740115	Putative transcriptional regulator, LacI family
+sga:GALLO_0713	CDS	740154..740948	conserved hypothetical protein
+sga:GALLO_0714	CDS	741020..741400	conserved hypothetical protein
+sga:GALLO_0715	gene	complement(741501..744098)	pseudogene
+sga:GALLO_0716	CDS	complement(744114..745889)	putative CoA enzyme activase-subunit I
+sga:GALLO_0717	CDS	746182..746793	putative transcriptional regulator, TetR family
+sga:GALLO_0718	CDS	746882..747646	conserved hypothetical protein
+sga:GALLO_0719	CDS	747672..749036	conserved hypothetical protein
+sga:GALLO_0720	CDS	749309..751366	conserved hypothetical protein
+sga:GALLO_0721	CDS	751380..752279	conserved hypothetical protein
+sga:GALLO_0722	CDS	752299..754125	conserved hypothetical secreted protein
+sga:GALLO_0723	CDS	754154..755554	putative glycosyltransferase
+sga:GALLO_0724	CDS	755554..757035	conserved hypothetical membrane protein
+sga:GALLO_0725	CDS	757025..758803	conserved hypothetical secreted protein
+sga:GALLO_0726	CDS	758790..759518	conserved hypothetical protein
+sga:GALLO_0727	CDS	759545..760210	conserved hypothetical protein
+sga:GALLO_0728	CDS	760245..761258	galE; UDP-glucose 4-epimerase
+sga:GALLO_0729	CDS	761430..762320	conserved hypothetical protein
+sga:GALLO_0730	CDS	762317..763294	conserved hypothetical protein
+sga:GALLO_0731	CDS	763291..764202	conserved hypothetical protein
+sga:GALLO_0732	CDS	764225..765637	putative dipeptidase
+sga:GALLO_0733	gene	complement(766009..766932)	pseudogene
+sga:GALLO_0734	gene	complement(766947..767165)	pseudogene
+sga:GALLO_0735	CDS	767436..768308	putative transcriptional regulator MutR family
+sga:GALLO_0736	CDS	768312..769397	putative transporter
+sga:GALLO_0737	CDS	769566..771080	putative metal (zinc) ABC transporter, zinc-binding protein
+sga:GALLO_0738	CDS	771291..772025	conserved hypothetical protein
+sga:GALLO_0739	CDS	772060..772740	conserved hypothetical protein
+sga:GALLO_0740	CDS	772913..773629	putative peptidoglycan hydrolase
+sga:GALLO_0741	CDS	complement(773731..773973)	rpmE; ribosomal protein L31
+sga:GALLO_0742	CDS	complement(774133..775077)	conserved hypothetical protein, DHH family
+sga:GALLO_0743	gene	complement(775074..775220)	pseudogene
+sga:GALLO_0744	CDS	775533..775796	ptsH; histidine-containing phosphocarrier protein of the PTS (HPr protein)
+sga:GALLO_0745	CDS	775801..777534	ptsI; Phosphoenolpyruvate-protein phosphotransferase system, enzyme I
+sga:GALLO_0746	CDS	777937..779367	putative Nadp Dependent Aldehyde Dehydrogenase
+sga:GALLO_0747	CDS	779552..781195	putative carboxykinase
+sga:GALLO_0748	CDS	781501..786222	putative cell envelope proteinase A (LPXTG motif)
+sga:GALLO_0749	CDS	complement(786319..787404)	putative ATP-dependent RNA helicase, DEAD/DEAH box family
+sga:GALLO_0750	CDS	787557..788177	udk; uridine kinase
+sga:GALLO_0751	CDS	788333..789109	putative secreted protein
+sga:GALLO_0752	CDS	complement(789140..789934)	putative transcriptional regulator, LacI family
+sga:GALLO_0753	CDS	789997..791697	putative alpha amylase, neopullulanase
+sga:GALLO_0754	CDS	791707..793161	putative sugar ABC transporter substrate-binding protein
+sga:GALLO_0755	CDS	793172..794482	putative sugar ABC transporter, permease protein
+sga:GALLO_0756	CDS	794479..795306	putative sugar ABC transporter, permease protein
+sga:GALLO_0757	CDS	795317..797449	putative secreted alpha-amylase
+sga:GALLO_0758	CDS	797838..799400	leuA; 2-isopropylmalate synthase
+sga:GALLO_0759	CDS	799451..800488	leuB; 3-isopropylmalate dehydrogenase
+sga:GALLO_0760	CDS	800485..800763	conserved hypothetical protein
+sga:GALLO_0761	CDS	800809..802197	leuC; 3-isopropylmalate dehydratase large subunit
+sga:GALLO_0762	CDS	802210..802800	leuD; 3-isopropylmalate dehydratase small subunit
+sga:GALLO_0763	CDS	802948..803445	conserved hypothetical protein
+sga:GALLO_0764	CDS	803445..805124	dnaX; DNA polymerase III, gamma and tau subunits
+sga:GALLO_0765	CDS	805193..805729	IS861, transposase OrfA
+sga:GALLO_0766	CDS	805705..806544	IS861, transposase OrfB
+sga:GALLO_0767	CDS	806906..807142	Conserved hypothetical protein
+sga:GALLO_0768	CDS	complement(807123..808055)	birA; putative transcriptional repressor of the biotin operon / biotin acetyl-CoA-carboxylase synthetase
+sga:GALLO_0769	CDS	808651..809841	metK; S-adenosylmethionine synthetase
+sga:GALLO_0770	CDS	complement(809874..810440)	Transcriptional regulator, TetR family
+sga:GALLO_0771	CDS	810610..811734	putative hydrolase
+sga:GALLO_0772	CDS	811964..813223	murAB; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sga:GALLO_0773	CDS	813308..813862	putative acetyltransferase, GNAT family
+sga:GALLO_0774	CDS	813855..815138	Conserved hypothetical protein
+sga:GALLO_0775	CDS	815256..816116	map; methionine aminopeptidase
+sga:GALLO_0776	CDS	816118..817050	putative Ribonuclease BN protein
+sga:GALLO_0777	CDS	complement(817065..817493)	Conserved hypothetical membrane protein
+sga:GALLO_0778	CDS	817638..818147	conserved hypothetical membrane spanning protein
+sga:GALLO_0779	CDS	818252..820210	ligA; DNA ligase (NAD-dependent)
+sga:GALLO_0780	CDS	820229..821248	conserved hypothetical protein
+sga:GALLO_0781	CDS	821266..823578	putative pullulanase
+sga:GALLO_0782	CDS	823648..825549	putative glycogen branching enzyme
+sga:GALLO_0783	CDS	825551..826693	putative glucose-1-phosphate adenylyltransferase
+sga:GALLO_0784	CDS	826683..827819	putative glucose-1-phosphate adenylyltransferase
+sga:GALLO_0785	CDS	827816..829246	putative glycogen synthase
+sga:GALLO_0786	CDS	829264..831660	putative glycogen phosphorylase
+sga:GALLO_0787	CDS	831963..832166	atpE; F0F1 ATP synthase c chain
+sga:GALLO_0788	CDS	832205..832918	atpB; F0F1 ATP synthase a chain
+sga:GALLO_0789	CDS	832940..833437	atpF; F0F1 ATP synthase b chain
+sga:GALLO_0790	CDS	833437..833973	atpH; F0F1 ATP synthase delta chain
+sga:GALLO_0791	CDS	833989..835494	atpA; F0F1 ATP synthase alpha chain
+sga:GALLO_0792	CDS	835509..836387	atpG; F0F1 ATP synthase gamma chain
+sga:GALLO_0793	CDS	836454..837860	atpD; F0F1 ATP synthase beta chain
+sga:GALLO_0794	CDS	837873..838289	atpC; F0F1 ATP synthase epsilon chain
+sga:GALLO_0795	CDS	838354..838590	conserved hypothetical integral membrane protein
+sga:GALLO_0796	CDS	838653..839927	murAA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sga:GALLO_0797	CDS	839930..840118	conserved hypothetical protein
+sga:GALLO_0798	CDS	840233..841099	conserved hypothetical secreted protein
+sga:GALLO_0799	CDS	841296..842429	pheS; phenylalanyl-tRNA synthetase alpha subunit
+sga:GALLO_0800	CDS	842465..842989	putative acetyltransferase, GNAT family
+sga:GALLO_0801	CDS	843060..845465	pheT; phenylalanyl-tRNA synthetase beta subunit
+sga:GALLO_0802	CDS	845615..848857	rexB; ATP-dependent deoxyribonuclease (subunit B)
+sga:GALLO_0803	CDS	848847..852479	rexA; ATP-dependent deoxyribonuclease (subunit A)
+sga:GALLO_0804	CDS	complement(852584..853729)	conserved hypothetical protein
+sga:GALLO_0805	CDS	853936..854670	conserved hypothetical protein
+sga:GALLO_0806	CDS	854684..855307	putative hydrolases
+sga:GALLO_0807	CDS	complement(855384..855560)	conserved hypothetical protein
+sga:GALLO_0808	CDS	855748..856635	MiaA; tRNA isopentenylpyrophosphate transferase
+sga:GALLO_0809	CDS	856774..858012	putative conserved GTP binding protein
+sga:GALLO_0810	CDS	858005..858643	conserved hypothetical protein
+sga:GALLO_0811	CDS	858683..859612	rnz; Ribonuclease Z (RNase Z) (tRNase Z) (tRNA 3 endonuclease)
+sga:GALLO_0812	CDS	859609..860367	putative short chain dehydrogenase
+sga:GALLO_0813	CDS	860409..862616	recJ; single-stranded-DNA-specific exonuclease RecJ
+sga:GALLO_0814	CDS	862783..864048	hypothetical secreted protein
+sga:GALLO_0815	CDS	864248..864511	conserved hypothetical protein
+sga:GALLO_0816	CDS	complement(864604..865953)	conserved hypothetical protein
+sga:GALLO_0817	CDS	complement(866051..866830)	conserved hypothetical membrane protein
+sga:GALLO_0818	CDS	867142..868122	bsh; putative bile salt (choloylglycine) hydrolase
+sga:GALLO_0819	CDS	868139..868666	conserved hypothetical protein
+sga:GALLO_0820	CDS	868837..869562	putative Putative ABC-type transport system, ATP binding component
+sga:GALLO_0821	CDS	869564..870670	Putative ABC-type multidrug transport system, permease component
+sga:GALLO_0822	CDS	870712..871326	transcriptional regulator, TetR family
+sga:GALLO_0823	CDS	871494..872012	apt; adenine phosphoribosyltransferase
+sga:GALLO_0824	CDS	872119..873063	metA; homoserine O-succinyltransferase
+sga:GALLO_0825	CDS	873154..873828	dnaD; DNA-remodelling protein DnaD
+sga:GALLO_0826	CDS	873828..874478	nth; endonuclease III (DNA repair)
+sga:GALLO_0827	CDS	874542..875228	conserved hypothetical protein
+sga:GALLO_0828	CDS	875215..876003	conserved hypothetical protein
+sga:GALLO_0829	CDS	876190..877059	rmlA; putative Glucose-1-phosphate thymidylyltransferase
+sga:GALLO_0830	CDS	877059..877652	rmlC; putative dTDP 4-keto 6-deoxyglucose 3,5-epimerase
+sga:GALLO_0831	CDS	877825..878874	rmlB; dTDP-glucose 4,6-dehydratase
+sga:GALLO_0832	CDS	879012..879434	conserved hypothetical protein
+sga:GALLO_0833	CDS	879554..880036	putative 7,8-dihydro-8-oxoguanine-triphosphatase (MutT)
+sga:GALLO_0834	CDS	880129..881316	hypothetical membrane protein
+sga:GALLO_0835	CDS	881306..882541	tetratricopeptide repeat family protein
+sga:GALLO_0836	CDS	882823..883125	putative transcriptional regulator, ArsR family
+sga:GALLO_0837	CDS	883225..884412	putative NADH-dependent oxidoreductase
+sga:GALLO_0838	CDS	884803..886479	alsS; acetolactate synthase
+sga:GALLO_0839	CDS	886558..887277	alsD; alpha-acetolactate decarboxylase
+sga:GALLO_0840	CDS	887837..889240	putative amino acid permease
+sga:GALLO_0841	CDS	complement(889291..890946)	fbp; putative fibronectin/fibrinogen-binding protein
+sga:GALLO_0842	gene	complement(891090..891773)	pseudogene
+sga:GALLO_0843	gene	complement(891767..891946)	pseudogene
+sga:GALLO_0844	CDS	892129..892902	putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_0845	CDS	892918..894471	putative amino acid ABC transporter, amino acid-binding/permease protein
+sga:GALLO_0846	CDS	894486..895322	putative aminohydrolase
+sga:GALLO_0847	CDS	895394..896479	Putative aminotransferase
+sga:GALLO_0848	CDS	896457..897422	putative dehydrogenase
+sga:GALLO_0849	CDS	897412..899037	putative peptidase
+sga:GALLO_0850	CDS	899355..900356	putative ABC transporter, substrate-binding protein
+sga:GALLO_0851	CDS	900377..901246	putative ABC transporter, permease protein
+sga:GALLO_0852	CDS	901243..902001	putative ABC transporter; ATP-binding protein
+sga:GALLO_0853	CDS	902153..902425	conserved hypothetical protein
+sga:GALLO_0854	CDS	902432..902776	hypothetical protein
+sga:GALLO_0855	gene	902778..903599	pseudogene
+sga:GALLO_0856	gene	903521..904306	pseudogene
+sga:GALLO_0857	CDS	904296..904802	hypothetical protein
+sga:GALLO_0858	CDS	905029..906690	conserved hypothetical protein
+sga:GALLO_0859	CDS	906847..907560	putative protease
+sga:GALLO_0860	CDS	907652..909571	putative ABC transporter, ATP-binding protein
+sga:GALLO_0861	CDS	909617..910474	putative transcriptional regulator, MutR family
+sga:GALLO_0862	CDS	910555..911763	putative transporter
+sga:GALLO_0863	CDS	911999..912445	Putative transcriptional regulator, MarR family
+sga:GALLO_0864	CDS	912438..914189	Putative ABC-type multidrug transport system, ATPase and permease components
+sga:GALLO_0865	CDS	914189..916066	Putative ABC-type multidrug transport system, ATPase and permease components
+sga:GALLO_0866	CDS	916198..916614	conserved hypothetical protein
+sga:GALLO_0867	CDS	916754..917719	acoA; putative acetoin dehydrogenase E1 component (TPP-dependent alpha subunit)
+sga:GALLO_0868	CDS	917751..918755	putative pyruvate/2-oxoglutarate dehydrogenase, E1 beta subunit
+sga:GALLO_0869	CDS	918770..920164	putative pyruvate/2-oxoglutarate dehydrogenase, dihydrolipoamide acetyltransferase E2 subunit
+sga:GALLO_0870	CDS	920310..922055	putative Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component
+sga:GALLO_0871	CDS	922226..923182	putative ferrichrome ABC transporter, permease protein
+sga:GALLO_0872	CDS	923175..924140	putative ferrichrome ABC transporter, permease protein
+sga:GALLO_0873	CDS	924137..924892	putative ferrichrome ABC transporter, ATP-binding protein
+sga:GALLO_0874	CDS	924913..925974	putative ferrichrome ABC transporter, substrate-binding protein
+sga:GALLO_0875	CDS	complement(926057..926944)	conserved hypothetical integral membrane protein
+sga:GALLO_0876	CDS	927039..928442	putative transcriptional regulator, GntR family
+sga:GALLO_0877	CDS	928541..929530	putative lipoate-protein ligase
+sga:GALLO_0878	CDS	complement(929624..930229)	conserved serine rich protein
+sga:GALLO_0879	CDS	complement(930287..930595)	conserved hypothetical protein
+sga:GALLO_0880	CDS	complement(930749..931621)	putative transcriptional regulator, LysR family
+sga:GALLO_0881	CDS	931837..932697	conserved hypothetical protein
+sga:GALLO_0882	CDS	932690..933856	putative aminotransferase
+sga:GALLO_0883	CDS	933860..934336	conserved hypothetical secreted protein
+sga:GALLO_0884	CDS	934336..934686	conserved hypothetical protein
+sga:GALLO_0885	CDS	934775..935266	conserved hypothetical protein
+sga:GALLO_0886	CDS	935399..936763	putative MATE family multidrug efflux pumps
+sga:GALLO_0887	CDS	936860..937540	conserved hypothetical protein
+sga:GALLO_0888	CDS	937681..938844	putative major facilitator superfamily protein
+sga:GALLO_0889	CDS	938953..939930	conserved hypothetical protein
+sga:GALLO_0890	CDS	complement(940012..942504)	conserved hypothetical secreted protein
+sga:GALLO_0891	CDS	complement(942776..943960)	putative major facilitator superfamily protein
+sga:GALLO_0892	CDS	complement(943991..945481)	putative reductase
+sga:GALLO_0893	CDS	945595..946473	putative transcriptional regulator, AraC family
+sga:GALLO_0894	CDS	946703..947317	putative oxidoreductase
+sga:GALLO_0895	CDS	947335..948111	conserved hypothetical protein
+sga:GALLO_0896	CDS	complement(948142..948924)	conserved hypothetical protein
+sga:GALLO_0897	CDS	complement(949054..949314)	conserved hypothetical protein
+sga:GALLO_0898	CDS	949458..949784	conserved hypothetical protein
+sga:GALLO_0899	CDS	949781..951436	putative coenzyme A disulfide reductase
+sga:GALLO_0900	CDS	951429..951728	putative rhodanese family protein
+sga:GALLO_0901	CDS	951786..952436	putative hydrolase, HD family
+sga:GALLO_0902	CDS	952497..952964	putative acetyltransferase, GNAT family
+sga:GALLO_0903	CDS	953199..953657	conserved hypothetical protein
+sga:GALLO_0904	CDS	953819..955006	conserved hypothetical protein
+sga:GALLO_0905	CDS	955042..955926	putative transcriptional regulator
+sga:GALLO_0906	CDS	956078..956842	putative carboxymuconolactone decarboxylase family protein
+sga:GALLO_0907	CDS	956865..957725	putative short-chain dehydrogenase
+sga:GALLO_0908	CDS	957726..958094	conserved hypothetical protein
+sga:GALLO_0909	CDS	958113..958697	putative oxidoreductase
+sga:GALLO_0910	CDS	958795..959187	putative transcriptional regulator (MerR family)
+sga:GALLO_0911	CDS	959199..960044	putative oxidoreductase, aldo/keto reductase family
+sga:GALLO_0912	CDS	960147..960470	putative gamma-carboxymuconolactone decarboxylase
+sga:GALLO_0913	CDS	960498..960923	conserved hypothetical protein
+sga:GALLO_0914	CDS	961067..961936	conserved hypothetical protein
+sga:GALLO_0915	CDS	962290..962790	conserved hypothetical protein
+sga:GALLO_0916	CDS	962955..964262	putative PTS system, cellobiose-specific IIC component
+sga:GALLO_0917	CDS	964268..965746	putative phospho-beta-glucosidase
+sga:GALLO_0918	CDS	965748..966050	putative PTS system, cellobiose/lactose-specific IIB component
+sga:GALLO_0919	CDS	966054..966365	putative PTS system, cellobiose/lactose-specific IIA component
+sga:GALLO_0920	CDS	966457..968307	putative transcription antiterminator
+sga:GALLO_0921	CDS	968360..969052	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_0922	CDS	complement(969127..969798)	putative transcription regulator, Crp family
+sga:GALLO_0923	CDS	complement(969873..970745)	putative transcriptional regulator, LysR family
+sga:GALLO_0924	CDS	970849..971871	putative conserved integral membrane protein
+sga:GALLO_0925	CDS	972075..973451	putative aldehyde dehydrogenase
+sga:GALLO_0926	CDS	complement(973556..974737)	conserved hypothetical protein
+sga:GALLO_0927	CDS	974858..976657	uvrC; excinuclease ABC (subunit C)
+sga:GALLO_0928	CDS	976644..977015	conserved hypothetical protein
+sga:GALLO_0929	CDS	977141..978871	conserved hypothetical protein
+sga:GALLO_0930	CDS	979029..979631	putative NAD(P)H-flavin oxidoreductase
+sga:GALLO_0931	CDS	979792..981198	putative Xaa-His dipeptidase
+sga:GALLO_0932	CDS	981288..981872	Conserved hypothetical protein
+sga:GALLO_0933	CDS	complement(981951..983741)	tanA; putative tannase (serine rich protein)
+sga:GALLO_0934	CDS	983864..984535	Putative regulatory protein
+sga:GALLO_0935	CDS	complement(984599..985972)	trmE; tRNA modification GTPase TrmE:Small GTP-binding protein domain
+sga:GALLO_0936	CDS	986238..986912	putative ribose-5-phosphate isomerase A
+sga:GALLO_0937	CDS	987076..988287	drm; phosphopentomutase
+sga:GALLO_0938	CDS	988297..989109	punA; purine nucleoside phosphorylase
+sga:GALLO_0939	CDS	989160..989864	conserved hypothetical protein
+sga:GALLO_0940	CDS	989848..991137	Putative (voltage-gated) chloride channel family protein
+sga:GALLO_0941	CDS	991094..991801	deoD; purine nucleoside phosphorylase
+sga:GALLO_0942	CDS	991801..992577	conserved hypothetical protein
+sga:GALLO_0943	CDS	complement(992612..993520)	putative transcriptional regulator, LysR family
+sga:GALLO_0944	CDS	993815..995296	cpsA; putative capsular polysaccharide biosynthesis transcriptional regulator, LytR family
+sga:GALLO_0945	CDS	995297..996028	cpsB; Putative capsular polysaccharide biosynthesis protein CpsB
+sga:GALLO_0946	CDS	996037..996726	cpsC; Putative capsular polysaccharide biosynthesis protein CpsC
+sga:GALLO_0947	CDS	996741..997481	cpsD; Putative capsular polysaccharide biosynthesis protein CpsD
+sga:GALLO_0948	CDS	997520..998896	cpsE; Putative undecaprenyl-phosphate glycosyl-1-phosphate transferase CpsE
+sga:GALLO_0949	CDS	998929..1000104	cpsF; putative rhamnosyl transferase
+sga:GALLO_0950	CDS	1000147..1001337	cpsH; putative polysaccharide repeating unit polymerase
+sga:GALLO_0951	CDS	1001343..1002320	cpsI; Putative glycosyl transferase
+sga:GALLO_0952	CDS	1002322..1003557	cpsJ; putative sugar transferase
+sga:GALLO_0953	CDS	1003550..1004968	cpsK; putative repeat unit transporter (flippase)
+sga:GALLO_0954	CDS	1004961..1006124	cpsL; putative CDP-glycerol:polyglycerol phosphate glycero-phosphotransferase
+sga:GALLO_0955	CDS	1006134..1007300	cpsM; putative glycerol-3-phosphate cytidylyltransferase
+sga:GALLO_0956	CDS	complement(1007382..1007567)	hypothetical protein
+sga:GALLO_0957	CDS	complement(1007586..1009511)	putative transcriptional regulator-antiterminator
+sga:GALLO_0958	CDS	1009705..1010160	putative PTS system, fructose-specific IIA component
+sga:GALLO_0959	CDS	1010162..1010470	putative PTS system, fructose-specific IIB component
+sga:GALLO_0960	CDS	1010495..1011586	putative PTS system, fructose-specific IIC component
+sga:GALLO_0961	CDS	1011638..1014304	putative glycosyl hydrolase
+sga:GALLO_0962	CDS	1014532..1015743	conserved hypothetical protein
+sga:GALLO_0963	CDS	1015802..1016353	IS861, transposase OrfA
+sga:GALLO_0964	CDS	1016329..1017168	IS861, transposase OrfB
+sga:GALLO_0965	CDS	complement(1017314..1017484)	hypothetical protein
+sga:GALLO_0966	CDS	1017819..1018625	pyrK; dihydroorotate dehydrogenase (electron transfer subunit)
+sga:GALLO_0967	CDS	1018635..1019579	pyrD; dihydroorotate dehydrogenase B
+sga:GALLO_0968	CDS	1019799..1020491	pyrF; orotidine 5'-phosphate decarboxylase
+sga:GALLO_0969	CDS	1020536..1020826	conserved hypothetical protein
+sga:GALLO_0970	CDS	1020874..1021503	pyrE; orotate phosphoribosyltransferase
+sga:GALLO_0971	CDS	1021582..1022070	conserved hypothetical protein
+sga:GALLO_0972	CDS	1022088..1022741	ung; uracil-DNA glycosylase
+sga:GALLO_0973	CDS	1022754..1023476	conserved hypothetical protein
+sga:GALLO_0974	CDS	1023484..1024755	pyrC; dihydroorotase
+sga:GALLO_0975	CDS	complement(1024775..1025413)	conserved hypothetical protein
+sga:GALLO_0976	CDS	1025634..1027583	parE; Putative DNA topoisomerase IV subunit B
+sga:GALLO_0977	CDS	1027599..1028633	conserved hypothetical protein
+sga:GALLO_0978	CDS	1028645..1031104	parC; DNA topoisomerase IV subunit A
+sga:GALLO_0979	CDS	1031231..1032253	putative amino acid aminotransferase class IV
+sga:GALLO_0980	CDS	1032320..1032550	conserved hypothetical protein
+sga:GALLO_t0060	tRNA	1032612..1032692	tRNA-Tyr
+sga:GALLO_t0061	tRNA	1032726..1032800	tRNA-Gln
+sga:GALLO_0981	CDS	1032925..1034121	30S ribosomal protein S1 homolog
+sga:GALLO_t0062	tRNA	1034193..1034264	tRNA-Arg
+sga:GALLO_0982	CDS	complement(1034701..1035396)	Putative LrgB-like protein (control of murein hydrolase activity)
+sga:GALLO_0983	CDS	complement(1035389..1035769)	Putative LrgA protein family (control of murein hydrolase activity)
+sga:GALLO_0984	CDS	complement(1035942..1036553)	Conserved hypothetical protein
+sga:GALLO_0985	CDS	complement(1037173..1037946)	Putative ABC transporter, permease protein
+sga:GALLO_0986	CDS	complement(1037955..1038653)	Putative ABC transporter, ATP-binding protein
+sga:GALLO_0987	CDS	complement(1038655..1039023)	Putative transcriptional regulator, GntR family
+sga:GALLO_0988	CDS	1039201..1042308	dnaE; DNA polymerase III, subunit alpha
+sga:GALLO_0989	CDS	1042399..1043415	pfkA; 6-phosphofructokinase (PFK)
+sga:GALLO_0990	CDS	1043497..1044999	pyk; Pyruvate kinsase
+sga:GALLO_0991	CDS	1045368..1045925	sip; signal peptidase I
+sga:GALLO_0992	CDS	1046122..1047936	glmS; glucosamine-fructose-6-phosphate aminotransferase
+sga:GALLO_0993	CDS	1048462..1050231	putative PTS system, mannitol-specific IIBC component
+sga:GALLO_0994	CDS	1050257..1052209	Putative transcriptional regulator, antiterminator BglG family
+sga:GALLO_0995	CDS	1052212..1052649	Putative PTS system, mannitol-specific, IIA component
+sga:GALLO_0996	CDS	1052668..1053813	mtlD; Putative mannitol-1-phosphate 5-dehydrogenase
+sga:GALLO_0997	CDS	1053999..1054334	conserved hypothetical protein
+sga:GALLO_0998	CDS	1054520..1055161	Putative amino acid ABC transporter, permease protein
+sga:GALLO_0999	CDS	1055173..1055802	Putative amino acid uptake ABC transporter, ATP-binding protein
+sga:GALLO_1000	CDS	1055826..1056668	Putative amino acid ABC transporter, substrate binding protein
+sga:GALLO_1001	CDS	complement(1056764..1057981)	putative cation efflux family protein
+sga:GALLO_1002	CDS	complement(1058155..1059483)	Putative sodium/amino acid (Alanine) symporter
+sga:GALLO_1003	CDS	1059934..1061397	Putative glycoside hydrolase (beta-glucosidase)
+sga:GALLO_1004	CDS	1061461..1062075	Putative phosphoglycerate/bisphosphoglycerate mutase
+sga:GALLO_1005	CDS	1062078..1062701	Putative phosphoglycerate mutase-like protein
+sga:GALLO_1006	CDS	1062694..1063296	Putative phosphoglycerate/bisphosphoglycerate mutase
+sga:GALLO_1007	CDS	1063405..1064523	Putative conserved membrane protein
+sga:GALLO_1008	CDS	1064530..1065369	Putative glycosyltransferase
+sga:GALLO_1009	CDS	1065416..1066096	radC; Putaitve DNA repair protein (RadC)
+sga:GALLO_1010	CDS	complement(1066246..1066893)	conserved hypothetical protein
+sga:GALLO_1011	CDS	complement(1067039..1067386)	Conserved hypothetical protein
+sga:GALLO_1012	CDS	complement(1067388..1068503)	Putative cysteine desulfurase
+sga:GALLO_1013	CDS	complement(1068511..1069482)	prs; Putative ribose-phosphate pyrophosphokinase
+sga:GALLO_1014	CDS	complement(1069568..1070137)	conserved hypothetical protein
+sga:GALLO_1015	CDS	1070267..1070935	Putative GTP pyrophosphokinase (RelA)
+sga:GALLO_1016	CDS	1070910..1071746	Putative inorganic polyphosphate/ATP-NAD kinase
+sga:GALLO_1017	CDS	1071743..1072633	Putative ribosomal large subunit pseudouridine synthase
+sga:GALLO_1018	CDS	1072650..1073648	pta; phosphotransacetylase
+sga:GALLO_1019	CDS	1073716..1074471	putative short chain dehydrogenase
+sga:GALLO_1020	CDS	complement(1074502..1074888)	conserved hypothetical protein
+sga:GALLO_1021	CDS	1075073..1075912	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1022	CDS	1076079..1077497	Putative beta-glucosidase
+sga:GALLO_1023	CDS	complement(1077556..1078212)	Putative ABC transporter, ATP binding protein
+sga:GALLO_1024	CDS	complement(1078226..1079776)	Putative ABC transporter, permease protein
+sga:GALLO_1025	CDS	1080163..1081146	guaC; Putative guanosine 5'-monophosphate oxidoreductase
+sga:GALLO_1026	CDS	complement(1081196..1081834)	Putative acyl carrier protein phosphodiesterase
+sga:GALLO_1027	CDS	1081917..1082855	putative transcription regulator
+sga:GALLO_1028	CDS	1082872..1083414	putative membrane protein
+sga:GALLO_1029	CDS	1083787..1084368	xpt; Putative xanthine phosphoribosyltransferase
+sga:GALLO_1030	CDS	1084370..1085650	Putative xanthine permease (symporter)
+sga:GALLO_1031	CDS	complement(1085699..1086637)	putative iron-sulfur cluster assembly/repair protein
+sga:GALLO_1032	CDS	complement(1086771..1086956)	4-oxalocrotonate tautomerase
+sga:GALLO_1033	CDS	complement(1087061..1087270)	conserved hypothetical protein
+sga:GALLO_1034	CDS	1087739..1088320	tdk; thymidine kinase
+sga:GALLO_1035	CDS	1088359..1089438	prfA; peptide chain release factor 1
+sga:GALLO_1036	CDS	1089438..1090268	putative methyltransferase
+sga:GALLO_1037	CDS	1090261..1090860	Putative translation factor (SUA5)
+sga:GALLO_1038	CDS	1090964..1092214	glyA; serine hydroxymethyltransferase
+sga:GALLO_1039	CDS	1092259..1093236	conserved hypothetical protein
+sga:GALLO_1040	CDS	1093236..1093838	Conserved hypothetical protein
+sga:GALLO_1041	CDS	1093878..1095602	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_1042	CDS	1095604..1097340	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_1043	CDS	complement(1097479..1098933)	putative alpha-amylase
+sga:GALLO_1044	CDS	1099089..1099712	conserved hypothetical protein
+sga:GALLO_1045	CDS	complement(1099747..1100355)	conserved hypothetical protein
+sga:GALLO_1046	CDS	1101007..1101840	Putative transcription antiterminator (LacT)
+sga:GALLO_1047	CDS	1101860..1102183	Putative PTS system, lactose-specific IIA component
+sga:GALLO_1048	CDS	1102176..1103879	Putative PTS system, lactose-specific IIBC component
+sga:GALLO_1049	CDS	1103967..1105373	Putative phospho-beta-galactosidase
+sga:GALLO_1050	CDS	1105519..1107081	guaA; putative bifunctional GMP synthase/glutamine amidotransferase
+sga:GALLO_1051	CDS	1107369..1108115	hypothetical methyltransferase
+sga:GALLO_1052	CDS	1108386..1108601	putative transcriptional regulator, AbrB family
+sga:GALLO_1053	CDS	1108598..1109992	putative glycosyltransferase
+sga:GALLO_1054	CDS	1110288..1111178	rggA; putative transcriptional activator, Rgg/GadR/MutR family
+sga:GALLO_1055	CDS	1111239..1115807	gtfA; putative glucosyltransferase
+sga:GALLO_1056	CDS	1116156..1117019	rggB; putative transcriptional activator, Rgg/GadR/MutR family
+sga:GALLO_1057	CDS	1117112..1121350	gtfB; putative glucosyltransferase-T
+sga:GALLO_1058	CDS	1121519..1123201	putative glucan-binding protein, peptidoglycan linked (LPXTG motif)
+sga:GALLO_1059	CDS	1123291..1124637	putative MATE family multidrug efflux pumps
+sga:GALLO_1060	CDS	1124732..1126006	hypothetical protein
+sga:GALLO_1061	CDS	1126067..1126228	conserved hypothetical protein
+sga:GALLO_1062	CDS	1126372..1128120	conserved hypothetical protein
+sga:GALLO_1063	CDS	1128333..1130303	conserved hypothetical protein
+sga:GALLO_1064	CDS	1130300..1132129	putative ATP-dependent DNA helicase
+sga:GALLO_1065	CDS	1132192..1132890	putative transcriptional regulator, GntR family
+sga:GALLO_1066	CDS	1132994..1133269	conserved hypothetical protein
+sga:GALLO_1067	CDS	1133271..1133579	hypothetical protein
+sga:GALLO_1068	CDS	1133569..1135254	conserved hypothetical protein
+sga:GALLO_1069	CDS	1135238..1135837	hypothetical protein
+sga:GALLO_1070	CDS	1135869..1136477	Hypothetical protein
+sga:GALLO_1071	CDS	complement(1136660..1137508)	putative transcriptional regulator, RpiR family
+sga:GALLO_1072	CDS	1137678..1138661	putative oxidoreductase
+sga:GALLO_1073	CDS	1138666..1139190	conserved hypothetical protein
+sga:GALLO_1074	CDS	1139211..1140269	putative oxidoreductase
+sga:GALLO_1075	CDS	complement(1140384..1140641)	putative addiction module toxin, Txe/YoeB family
+sga:GALLO_1076	CDS	complement(1140634..1140900)	Conserved hypothetical protein
+sga:GALLO_1077	CDS	1141064..1141396	Conserved hypothetical protein
+sga:GALLO_1078	CDS	1141467..1143032	ffh; signal recognition particle protein
+sga:GALLO_1079	CDS	complement(1143098..1144114)	putative transcriptional regulator, AraC family
+sga:GALLO_1080	CDS	1144288..1146027	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_1081	CDS	1146024..1147757	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_1082	CDS	1147772..1148359	conserved hypothetitical protein
+sga:GALLO_1083	CDS	1148432..1149130	putative ABC transporter, permease protein
+sga:GALLO_1084	CDS	1149123..1150508	putative ABC transporter, ATP-binding protein
+sga:GALLO_1085	CDS	1150827..1151897	xerC; putative tyrosine recombinase XerC
+sga:GALLO_1086	CDS	complement(1152001..1152681)	putative transcriptional regulator
+sga:GALLO_1087	CDS	complement(1152765..1153712)	putative two-component sensor histidine kinase
+sga:GALLO_1088	CDS	complement(1153709..1154371)	putative two-component response regulator
+sga:GALLO_1089	CDS	complement(1154459..1156438)	putative ABC transporter, permease protein
+sga:GALLO_1090	CDS	complement(1156440..1157192)	putative ABC transporter, ATP-binding protein
+sga:GALLO_1091	CDS	complement(1157688..1158518)	conserved hypothetical protein
+sga:GALLO_1092	CDS	complement(1158551..1159888)	gid; glucose-inhibited division protein
+sga:GALLO_1093	CDS	complement(1160065..1160547)	conserved hypothetical protein
+sga:GALLO_1094	CDS	complement(1160564..1161283)	conserved hypothetical protein
+sga:GALLO_1095	CDS	complement(1161283..1161948)	conserved hypothetical protein
+sga:GALLO_1096	CDS	complement(1162096..1164237)	topA; DNA topoisomerase I
+sga:GALLO_1097	CDS	complement(1164332..1164979)	putative DNA processing protein, Smf family
+sga:GALLO_1098	CDS	complement(1165054..1165605)	putative hexose O-acetyltransferase
+sga:GALLO_1099	CDS	complement(1165607..1166386)	rnhB; ribonuclease HII
+sga:GALLO_1100	CDS	complement(1166373..1167227)	putative conserved GTP-binding protein
+sga:GALLO_1101	CDS	1167471..1167881	conserved hypothetical protein
+sga:GALLO_1102	CDS	complement(1168091..1168408)	conserved hypothetical protein
+sga:GALLO_1103	CDS	complement(1168864..1170231)	putative lantibiotic biosynthesis sensor histidine kinase
+sga:GALLO_1104	CDS	complement(1170224..1170910)	putative lantibiotic biosynthesis DNA-binding response regulator
+sga:GALLO_1105	CDS	complement(1170960..1171634)	putative lantibiotic transport-associated permease protein
+sga:GALLO_1106	CDS	complement(1171627..1172346)	putative lantibiotic ABC transporter, membrane protein
+sga:GALLO_1107	CDS	complement(1172349..1173038)	putative lantibiotic ABC transporter, ATP-binding protein
+sga:GALLO_1108	CDS	complement(1173136..1174674)	putative ABC transporter, ATP-binding protein
+sga:GALLO_1109	CDS	complement(1174844..1175398)	hypothetical conserved membrane protein
+sga:GALLO_1110	CDS	complement(1175395..1176255)	putative pyridoxine kinase family protein
+sga:GALLO_1111	CDS	1176381..1177643	putative transcriptional regulator, GntR family
+sga:GALLO_1112	CDS	complement(1177724..1178659)	dapA; dihydrodipicolinate synthase
+sga:GALLO_1113	CDS	complement(1178762..1179838)	asd; aspartate-semialdehyde dehydrogenase
+sga:GALLO_1114	CDS	complement(1180176..1181759)	putative cardiolipin synthetase
+sga:GALLO_1115	CDS	complement(1181879..1183549)	Formate--tetrahydrofolate ligase
+sga:GALLO_1116	CDS	complement(1183683..1184690)	putative glycosyl transferase family 2
+sga:GALLO_1117	CDS	complement(1184731..1185963)	conserved hypothetical secreted lipoprotein
+sga:GALLO_1118	CDS	complement(1185997..1186389)	hypothetical protein
+sga:GALLO_1119	CDS	complement(1186370..1187278)	putative exopolysaccharide biosynthesis related protein
+sga:GALLO_1120	CDS	1187424..1188110	putative phosphopantothenoylcysteine Synthetase chain A
+sga:GALLO_1121	CDS	1188103..1188648	putative flavoprotein family protein
+sga:GALLO_1122	CDS	1188760..1189332	conserved hypothetical membrane protein
+sga:GALLO_1123	CDS	1189575..1191290	putative phosphoglucomutase/phosphomannomutase
+sga:GALLO_1124	CDS	complement(1191476..1192735)	conserved integral membrane protein
+sga:GALLO_1125	CDS	complement(1192910..1193878)	conserved hypothetical protein
+sga:GALLO_1126	CDS	complement(1193966..1194379)	putative glyoxylase
+sga:GALLO_1127	CDS	complement(1194437..1195183)	srtA; sortase
+sga:GALLO_1128	CDS	complement(1195185..1197641)	gyrA; DNA gyrase A subunit
+sga:GALLO_1129	CDS	1197849..1198838	ldhA; lactate dehydrogenase
+sga:GALLO_1130	CDS	complement(1198898..1200265)	nox; NADH oxidase
+sga:GALLO_1131	CDS	complement(1200395..1201234)	IS861, transposase OrfB
+sga:GALLO_1132	CDS	complement(1201210..1201746)	IS861, transposase OrfA
+sga:GALLO_1133	CDS	complement(1201818..1202774)	Putative ABC transporter sugar permease protein
+sga:GALLO_1134	CDS	complement(1202776..1203828)	Putative ABC transporter sugar permease protein
+sga:GALLO_1135	CDS	complement(1203821..1205359)	Putative ABC transporter, ATP-binding protein
+sga:GALLO_1136	CDS	complement(1205523..1206587)	Putative ABC transporter, substrat-binding protein
+sga:GALLO_1137	CDS	complement(1206776..1207438)	dra; deoxyribose-phosphate aldolase
+sga:GALLO_1138	CDS	complement(1207929..1208522)	conserved hypothetical protein
+sga:GALLO_1139	CDS	1208636..1209556	coaA; pantothenate kinase
+sga:GALLO_1140	CDS	1209637..1209882	rpsT; Ribosomal protein subunit S20
+sga:GALLO_1141	CDS	complement(1210018..1211358)	putative two-component sensor histidine kinase
+sga:GALLO_1142	CDS	complement(1211348..1212022)	putative two-component response regulator
+sga:GALLO_1143	CDS	complement(1212220..1214763)	Putative Aminopeptidase N
+sga:GALLO_1144	CDS	complement(1214986..1215639)	Putative phosphate uptake regulator
+sga:GALLO_1145	CDS	complement(1215670..1216428)	Putative phosphate ABC transporter, ATP-binding protein
+sga:GALLO_1146	CDS	complement(1216440..1217243)	Putative phosphate ABC transporter, ATP-binding protein
+sga:GALLO_1147	CDS	complement(1217254..1218141)	Putative phosphate ABC transporter, permease protein
+sga:GALLO_1148	CDS	complement(1218131..1219048)	Putative phosphate ABC transporter, permease protein
+sga:GALLO_1149	CDS	complement(1219058..1219924)	Putative ABC transporter, phosphate-binding protein
+sga:GALLO_1150	CDS	complement(1220067..1221377)	putative RNA methylase, NOL1/NOP2/sun family
+sga:GALLO_1151	CDS	complement(1221520..1222485)	conserved hypothetical protein
+sga:GALLO_1152	CDS	complement(1222697..1224052)	Putative glutathione reductase
+sga:GALLO_1153	CDS	complement(1224065..1224397)	hypothetical thiredoxin like protein
+sga:GALLO_1154	CDS	complement(1224514..1224837)	conserved hypothetical protein
+sga:GALLO_1155	CDS	complement(1224974..1225798)	putative transporter
+sga:GALLO_1156	CDS	complement(1225912..1226469)	conserved hypothetical protein
+sga:GALLO_1157	CDS	complement(1226487..1227245)	Putative inositol monophosphatase family protein
+sga:GALLO_1158	CDS	complement(1227235..1227510)	conserved hypothetical protein
+sga:GALLO_1159	CDS	complement(1227653..1228057)	putative transcriptional regulator, ArsC family
+sga:GALLO_1160	CDS	complement(1228100..1229032)	ribF; putative riboflavin kinase / FAD synthetase
+sga:GALLO_1161	CDS	complement(1229048..1229926)	Putative tRNA pseudouridine synthase B
+sga:GALLO_1162	CDS	complement(1230012..1231367)	Conserved hypothetical protein
+sga:GALLO_1163	CDS	complement(1231360..1231599)	Conserved hypothetical protein
+sga:GALLO_1164	CDS	complement(1231681..1232112)	putative acetyltransferase (GNAT) family
+sga:GALLO_1165	CDS	complement(1232164..1233504)	Conserved hypothetical protein
+sga:GALLO_1166	CDS	complement(1233585..1234181)	conserved hypothetical protein
+sga:GALLO_1167	CDS	complement(1234361..1235755)	Putative ABC transporter, ATP-binding protein
+sga:GALLO_1168	CDS	complement(1235752..1236441)	Putative ABC transporter, permease protein
+sga:GALLO_1169	CDS	complement(1236441..1237025)	Putative ABC transporter, permease protein
+sga:GALLO_1170	CDS	complement(1237110..1238774)	Puative ABC transporter, ATP-binding protein
+sga:GALLO_1171	CDS	complement(1238767..1240542)	Putative ABC transporter ATP-binding protein
+sga:GALLO_1172	CDS	complement(1240752..1243394)	Putative ABC transporter, permease protein
+sga:GALLO_1173	CDS	complement(1243405..1244106)	Putative ABC transporter ATP-binding protein
+sga:GALLO_1174	CDS	1244247..1244795	Putative transcriptional regulator, TetR family
+sga:GALLO_1175	CDS	complement(1245128..1245634)	Putative thiol peroxydase
+sga:GALLO_1176	CDS	complement(1245844..1246599)	conserved hypothetical protein
+sga:GALLO_1177	CDS	complement(1246796..1248076)	Putative O-acetylhomoserine sulfhydrylase
+sga:GALLO_1178	CDS	complement(1248188..1248820)	thiE; Putative thiamin-phosphate pyrophosphorylase
+sga:GALLO_1179	CDS	complement(1248813..1249610)	thiM; Putative hydroxyethylthiazole kinase
+sga:GALLO_1180	CDS	complement(1249611..1250408)	thiD; Putative phosphomethylpyrimidine kinase
+sga:GALLO_1181	CDS	complement(1250401..1251087)	tenA; putative thiaminase II
+sga:GALLO_1182	CDS	complement(1251074..1251727)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1183	CDS	complement(1251731..1252447)	conserved hypothetical protein
+sga:GALLO_1184	CDS	complement(1252447..1253025)	thiW; Conserved membrane protein
+sga:GALLO_1185	CDS	1253444..1254307	putative transcriptional activator Rgg/GadR/MutR
+sga:GALLO_1186	CDS	1254625..1255860	putative efflux protein
+sga:GALLO_1187	CDS	complement(1255919..1258234)	Putative ATP-dependent DNA helicase (DNA helicase II)
+sga:GALLO_1188	CDS	complement(1258373..1258945)	putative glutamine amidotransferase family protein
+sga:GALLO_1189	CDS	complement(1258957..1259832)	pdxS; Putative pyridoxine biosynthesis protein
+sga:GALLO_1190	CDS	1259937..1261337	putative transcriptional regulator, GntR family
+sga:GALLO_1191	CDS	1261838..1263166	Sodium:alanine symporter family protein
+sga:GALLO_1192	CDS	complement(1263212..1263580)	conserved hypothetical protein
+sga:GALLO_1193	CDS	complement(1263610..1263879)	conserved hypothetical protein
+sga:GALLO_1194	CDS	complement(1264027..1264506)	putative transcriptional regulator
+sga:GALLO_1195	CDS	complement(1264506..1265081)	Conserved hypothetical protein
+sga:GALLO_1196	CDS	complement(1265212..1266033)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1197	CDS	complement(1266146..1268920)	putative cell surface protein
+sga:GALLO_1198	CDS	complement(1269055..1269627)	putative transcriptional regulator, TetR family
+sga:GALLO_1199	CDS	complement(1269708..1270148)	Hypothetical protein
+sga:GALLO_1200	CDS	complement(1270179..1271630)	putative drug resistance transporter
+sga:GALLO_1201	CDS	complement(1271809..1273314)	Putative beta-glucosidase (glycoside hydrolase, family 1)
+sga:GALLO_1202	CDS	complement(1273406..1274062)	putative lipase/acylhydrolase, GDSL family
+sga:GALLO_1203	CDS	complement(1274059..1274886)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1204	CDS	complement(1274883..1275701)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1205	CDS	complement(1275838..1276404)	Putative maltose O-acetyltransferase
+sga:GALLO_1206	CDS	complement(1276401..1277165)	putative transcriptional regulator, AraC family
+sga:GALLO_1207	CDS	1277351..1278190	putative short chain dehydrogenase
+sga:GALLO_1208	CDS	complement(1278236..1279327)	conserved hypothetical protein
+sga:GALLO_1209	CDS	complement(1279417..1280742)	putative PTS system, lactose/cellobiose-specific IIC component
+sga:GALLO_1210	CDS	complement(1280783..1281298)	Conserved hypothetical protein
+sga:GALLO_1211	CDS	complement(1281313..1281627)	Putative PTS system, lactose/cellobiose-specific IIA component
+sga:GALLO_1212	CDS	complement(1281635..1283623)	Putative transcription antiterminator BglG family
+sga:GALLO_1213	CDS	complement(1283672..1283989)	Putative PTS system, lactose/cellobiose-specific IIB component
+sga:GALLO_1214	CDS	complement(1284243..1284476)	hypothetical protein
+sga:GALLO_1215	CDS	complement(1284588..1284914)	hypothetical protein
+sga:GALLO_1216	CDS	complement(1285108..1285347)	conserved hypothetical protein
+sga:GALLO_1217	CDS	complement(1285422..1286855)	Putative phospho-beta-glucosidase
+sga:GALLO_1218	CDS	complement(1286955..1288526)	conserved hypothetical protein
+sga:GALLO_1219	CDS	complement(1288535..1288828)	conserved hypothetical protein
+sga:GALLO_1220	CDS	1289281..1290204	Putative transcriptional regulator, AraC family
+sga:GALLO_1221	CDS	complement(1290385..1292304)	putative PTS system, beta-glucoside-specific IIABC component
+sga:GALLO_1222	CDS	complement(1292666..1293505)	Putative transcription anti-terminator, BglG family
+sga:GALLO_1223	CDS	complement(1293702..1295234)	Putative (voltage-gated) chloride channel family protein
+sga:GALLO_1224	CDS	complement(1295389..1296462)	spermidine/putrescine ABC transporter, spermidine/putrescine-binding protein
+sga:GALLO_1225	CDS	complement(1296455..1297243)	spermidine/putrescine ABC transporter, permease protein
+sga:GALLO_1226	CDS	complement(1297240..1298055)	spermidine/putrescine ABC transporter permease protein
+sga:GALLO_1227	CDS	complement(1298018..1299172)	spermidine/putrescine ABC transporter, ATP-binding protein
+sga:GALLO_1228	CDS	complement(1299200..1300102)	murB; UDP-N-acetylenolpyruvoylglucosamine
+sga:GALLO_1229	CDS	complement(1300231..1300710)	folK; putative 7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase
+sga:GALLO_1230	CDS	complement(1300707..1301069)	folB; putative dihydroneopterin aldolase
+sga:GALLO_1231	CDS	complement(1301136..1301936)	folP; putative dihydropteroate synthase
+sga:GALLO_1232	CDS	complement(1301974..1302537)	folE; putative GTP cyclohydrolase I
+sga:GALLO_1233	CDS	complement(1302575..1303828)	folC; putative folyl-polyglutamate synthetase
+sga:GALLO_1234	CDS	complement(1304442..1305320)	Putative amino acid ABC transporter, substrate binding protein
+sga:GALLO_1235	CDS	complement(1305354..1306118)	Putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_1236	CDS	complement(1306106..1306801)	putative amino acid ABC transporter, permease protein
+sga:GALLO_1237	CDS	complement(1306743..1307426)	putative amino acid ABC transporter, permease protein
+sga:GALLO_1238	CDS	complement(1307675..1309393)	putative anthranilate/para-aminobenzoate synthase
+sga:GALLO_1239	CDS	complement(1309409..1310341)	putative membrane protein
+sga:GALLO_1240	CDS	complement(1310283..1311149)	thrB; Homoserine kinase
+sga:GALLO_1241	CDS	complement(1311207..1312493)	hom; homoserine dehydrogenase
+sga:GALLO_1242	CDS	1312695..1313666	hypothetical polysaccharide deacetylase
+sga:GALLO_1243	CDS	complement(1313663..1315351)	transposase
+sga:GALLO_1244	CDS	1316012..1316608	Putative transcriptional regulator, TetR family
+sga:GALLO_1245	CDS	complement(1316688..1317152)	hypothetical secreted protein
+sga:GALLO_1246	CDS	1317270..1317470	putative transcriptional regulator
+sga:GALLO_1247	CDS	complement(1317571..1317939)	rplL; Ribosomal protein L12
+sga:GALLO_1248	CDS	complement(1318008..1318511)	rplJ; ribosomal protein L10
+sga:GALLO_1249	CDS	1319051..1321159	ATP-dependent Clp protease, ATP-binding subunit
+sga:GALLO_1250	CDS	1321266..1321913	conserved hypothetical protein
+sga:GALLO_1251	CDS	1322004..1322690	conserved hypothetical membrane protein
+sga:GALLO_1252	CDS	complement(1322730..1323677)	Putative homocysteine S-methyltransferase
+sga:GALLO_1253	CDS	complement(1323690..1325066)	Putative amino acid permease
+sga:GALLO_1254	CDS	complement(1325365..1325958)	putative GTP-binding protein
+sga:GALLO_1255	CDS	complement(1325969..1327198)	clpX; ATP-dependent Clp protease ATP-binding subunit clpX
+sga:GALLO_1256	CDS	complement(1327231..1327401)	conserved hypothetical protein
+sga:GALLO_1257	CDS	complement(1327418..1327912)	dfrA; dihydrofolate reductase
+sga:GALLO_1258	CDS	complement(1328000..1328839)	ThyA; thymidylate synthase
+sga:GALLO_1259	CDS	1329161..1330339	putative hydroxymethylglutaryl-CoA synthase
+sga:GALLO_1260	CDS	1330332..1331597	putative hydroxymethylglutaryl-CoA reductase
+sga:GALLO_1261	CDS	1331774..1332217	conserved hypothetical protein
+sga:GALLO_1262	CDS	1332207..1332863	Conserved hypothetical protein
+sga:GALLO_1263	CDS	complement(1332910..1333908)	putative isopentenyl-diphosphate delta-isomerase
+sga:GALLO_1264	CDS	complement(1333950..1334957)	putative phosphomevalonate kinase
+sga:GALLO_1265	CDS	complement(1334944..1335894)	putative diphosphomevalonate decarboxylase
+sga:GALLO_1266	CDS	complement(1335876..1336754)	putative mevalonate kinase
+sga:GALLO_1267	CDS	complement(1337047..1338090)	conserved hypothetical protein
+sga:GALLO_1268	CDS	complement(1338107..1339063)	conserved hypothetical protein
+sga:GALLO_1269	CDS	complement(1339208..1339693)	putative acetyltransferase, GNAT family
+sga:GALLO_1270	CDS	complement(1339703..1340557)	putative amino acid ABC transporter, substrate binding protein
+sga:GALLO_1271	CDS	complement(1340709..1341467)	putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_1272	CDS	complement(1341488..1342168)	putative amino acid ABC transporter, permease protein
+sga:GALLO_1273	CDS	complement(1342178..1342870)	putative amino acid ABC transporter, permease protein
+sga:GALLO_1274	CDS	complement(1342880..1343758)	putative amino acid ABC transporter, substrate binding protein
+sga:GALLO_1275	CDS	complement(1343785..1344786)	conserved hypothetical protein
+sga:GALLO_1276	CDS	complement(1344943..1345131)	hypothetical protein
+sga:GALLO_1277	CDS	1345367..1346272	putative transcriptional regulator, LysR family
+sga:GALLO_1278	CDS	1346339..1347178	putative oxidoreductase, aldo/keto reductase family
+sga:GALLO_1279	CDS	complement(1347339..1348568)	putative two component system histidine kinase
+sga:GALLO_1280	CDS	complement(1348577..1349257)	putative two-component response regulator
+sga:GALLO_1281	CDS	complement(1349287..1349910)	RelA/SpoT domain protein
+sga:GALLO_1282	CDS	complement(1350046..1350672)	putative proline/glycine betaine ABC transporter, permease protein
+sga:GALLO_1283	CDS	complement(1350665..1351438)	putative proline/glycine betaine ABC transporter ATP-binding protein
+sga:GALLO_1284	CDS	complement(1351451..1352371)	Putative proline/glycine betaine ABC transporter substrate-binding protein
+sga:GALLO_1285	CDS	complement(1352361..1352996)	putative proline/glycine betaine ABC transporter, membrane protein
+sga:GALLO_1286	CDS	complement(1352986..1353438)	putative transcriptional regulator, MarR family
+sga:GALLO_1287	CDS	complement(1353428..1354405)	putative dehydrogenase
+sga:GALLO_1288	CDS	complement(1354671..1356443)	putative multidrug ABC exporter, ATP binding/membrane-spanning protein
+sga:GALLO_1289	CDS	complement(1356433..1358247)	putative multidrug ABC exporter, ATP binding/membrane-spanning protein
+sga:GALLO_1290	CDS	complement(1358251..1358691)	putative transcriptional regulator, MarR family
+sga:GALLO_1291	CDS	complement(1358866..1359276)	putative polypeptide deformylase
+sga:GALLO_1292	CDS	complement(1359273..1359782)	putative acetyltransferase, GNAT family
+sga:GALLO_1293	CDS	complement(1360049..1361398)	glutamate dehydrogenase
+sga:GALLO_1294	CDS	1361645..1362142	conserved hypothetical membrane protein
+sga:GALLO_1295	CDS	complement(1362199..1362690)	conserved hypothetical protein
+sga:GALLO_1296	CDS	complement(1362703..1363416)	putative radical SAM domain protein
+sga:GALLO_1297	CDS	complement(1363409..1363855)	putative 6-pyruvoyl tetrahydrobiopterin synthase
+sga:GALLO_1298	CDS	complement(1363855..1364508)	ExsB like protein
+sga:GALLO_1299	CDS	complement(1364749..1366518)	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_1300	CDS	complement(1366521..1368260)	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_1301	CDS	complement(1368338..1370209)	putative ABC transporter, ATP-binding/permease protein
+sga:GALLO_1302	CDS	complement(1370206..1371411)	cca; tRNA nucleotidyltransferase
+sga:GALLO_1303	CDS	complement(1371408..1372175)	dapB; dihydrodipicolinate reductase
+sga:GALLO_1304	CDS	complement(1372195..1373043)	conserved hypothetical protein, degV domain
+sga:GALLO_1305	CDS	complement(1373043..1373423)	conserved hypothetical protein
+sga:GALLO_1306	CDS	complement(1373552..1374325)	conserved hypothetical protein
+sga:GALLO_1307	CDS	complement(1374381..1375040)	putative peptidoglycan hydrolase
+sga:GALLO_1308	CDS	complement(1375455..1377224)	1-deoxy-D-xylulose-5-phosphate synthase
+sga:GALLO_1309	CDS	complement(1377404..1377874)	conserved hypothetical protein
+sga:GALLO_1310	CDS	complement(1377965..1378582)	putative oxidoreductase
+sga:GALLO_1311	CDS	complement(1378602..1379399)	putative oxidoreductase, aldo/keto reductase
+sga:GALLO_1312	CDS	complement(1379448..1380434)	putative oxidoreductase, aldo/keto reductase
+sga:GALLO_1313	gene	complement(1380569..1381429)	pseudogene
+sga:GALLO_1314	gene	complement(1381336..1381644)	pseudogene
+sga:GALLO_1315	CDS	complement(1381851..1383707)	putative bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase protein
+sga:GALLO_1316	CDS	complement(1383721..1385955)	metE; cobalamin-independent methionine synthase (5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase)
+sga:GALLO_1317	CDS	complement(1386173..1388143)	putative PTS system, fructose-specific IIABC component
+sga:GALLO_1318	CDS	complement(1388140..1389051)	fruK; fructose 1-phosphate kinase
+sga:GALLO_1319	CDS	complement(1389048..1389791)	putative transcriptional regulator, DeoR family
+sga:GALLO_1320	CDS	complement(1390052..1391062)	putative thioredoxin reductase
+sga:GALLO_1321	CDS	complement(1391063..1391575)	conserved hypothetical protein
+sga:GALLO_1322	CDS	complement(1391637..1392362)	trmD; tRNA (guanine-N(1)-)-methyltransferase
+sga:GALLO_1323	CDS	complement(1392352..1392870)	rimM; putative 16S rRNA-processing protein
+sga:GALLO_t0063	tRNA	complement(1392952..1393023)	tRNA-Glu
+sga:GALLO_t0064	tRNA	complement(1393054..1393125)	tRNA-Gln
+sga:GALLO_1324	CDS	complement(1393356..1393604)	putative RNA binding protein
+sga:GALLO_1325	CDS	complement(1393629..1393901)	rpsP; ribosomal protein S16
+sga:GALLO_1326	CDS	complement(1394055..1394438)	hypothetical secreted protein
+sga:GALLO_1327	CDS	complement(1394453..1394860)	hypothetical secreted protein
+sga:GALLO_1328	CDS	complement(1395039..1395800)	conserved hypothetical protein
+sga:GALLO_1329	CDS	complement(1395819..1396415)	conserved hypothetical protein
+sga:GALLO_1330	CDS	complement(1396488..1397720)	putative ABC transporter permease protein
+sga:GALLO_1331	CDS	complement(1397732..1398442)	putative ABC transporter, ATP-binding protein
+sga:GALLO_1332	CDS	complement(1398442..1399671)	putative ABC transporter, substrate-binding protein
+sga:GALLO_1333	CDS	complement(1399915..1403094)	pyrAB; carbamoyl-phosphate synthase, large subunit
+sga:GALLO_1334	CDS	complement(1403263..1404351)	pyrAA; carbamoyl-phosphate synthase, small subunit
+sga:GALLO_1335	CDS	complement(1404430..1405356)	pyrB; aspartate carbamoyltransferase
+sga:GALLO_1336	CDS	complement(1405361..1406623)	pyrP; uracil permease
+sga:GALLO_1337	CDS	complement(1406655..1407176)	pyrR; pyrimidine operon regulatory protein
+sga:GALLO_1338	CDS	complement(1407431..1408327)	rluD; putative ribosomal large subunit pseudouridine synthase
+sga:GALLO_1339	CDS	complement(1408311..1408784)	lipoprotein signal peptidase
+sga:GALLO_1340	CDS	complement(1408781..1409698)	putative transcriptional regulator, LysR family
+sga:GALLO_1341	CDS	complement(1409919..1410212)	rpmA; ribosomal protein L27
+sga:GALLO_1342	CDS	complement(1410234..1410569)	putative ribosome-associated protein
+sga:GALLO_1343	CDS	complement(1410582..1410896)	rplU; ribosomal protein L21
+sga:GALLO_1344	CDS	complement(1411092..1411637)	putative acetyltransferase (GNAT) family
+sga:GALLO_1345	CDS	complement(1411628..1412842)	conserved hypothetical secreted protein
+sga:GALLO_1346	CDS	complement(1412948..1414162)	thiI; Putative thiamine biosynthesis protein ThiI
+sga:GALLO_1347	CDS	complement(1414200..1415345)	Putative cysteine desulphurase/aminotransferase
+sga:GALLO_1348	CDS	1415543..1416001	Ser and Thr rich hypothetical protein
+sga:GALLO_1349	CDS	1416140..1417384	Putative folyl-polyglutamate synthetase
+sga:GALLO_1350	CDS	complement(1417421..1418338)	Putative Malate/lactate dehydrogenase
+sga:GALLO_1351	CDS	complement(1418436..1418774)	Hypothetical conserved protein
+sga:GALLO_1352	CDS	complement(1418786..1419892)	tyrA; Prephenate dehydrogenase
+sga:GALLO_1353	CDS	complement(1419973..1421139)	aroF; Chorismate synthase
+sga:GALLO_1354	CDS	complement(1421141..1422208)	aroB; 3-dehydroquinate synthase
+sga:GALLO_1355	CDS	complement(1422231..1423100)	aroD; shikimate/quinate 5-dehydrogenase
+sga:GALLO_1356	CDS	complement(1423090..1423767)	aroC; 3-dehydroquinate dehydratase, type I
+sga:GALLO_1357	CDS	complement(1423764..1424927)	conserved hypothetical protein
+sga:GALLO_1358	CDS	1425062..1427230	putative polyglycerol phosphate synthase
+sga:GALLO_1359	CDS	complement(1427619..1427978)	rplT; ribosomal protein L20
+sga:GALLO_1360	CDS	complement(1428030..1428230)	rpmI; ribosomal protein L35
+sga:GALLO_1361	CDS	complement(1428268..1428798)	infC; Translation initiation factor IF-3
+sga:GALLO_1362	CDS	complement(1428964..1429644)	cmk; Cytidylate kinase
+sga:GALLO_1363	CDS	complement(1429660..1430154)	Conserved hypothetical protein
+sga:GALLO_1364	CDS	1430199..1430396	Putative ferredoxin, 4Fe-4S-related protein
+sga:GALLO_1365	CDS	complement(1430383..1430874)	conserved hypothetical protein
+sga:GALLO_1366	CDS	complement(1430928..1432145)	Putative peptidase T
+sga:GALLO_1367	CDS	complement(1432258..1432839)	conserved hypothetical lipoprotein
+sga:GALLO_1368	CDS	complement(1432852..1435824)	Putative autolysin
+sga:GALLO_1369	gene	complement(1435946..1437043)	pseudogene
+sga:GALLO_1370	gene	complement(1437009..1437287)	pseudogene
+sga:GALLO_1371	CDS	complement(1437372..1438298)	Putative glycosyltransferase
+sga:GALLO_1372	CDS	complement(1438295..1439587)	conserved hypothetical protein
+sga:GALLO_1373	CDS	complement(1439571..1441040)	conserved hypothetical protein
+sga:GALLO_1374	CDS	complement(1441060..1443528)	Conserved hypothetical protein
+sga:GALLO_1375	CDS	complement(1443525..1445285)	Putative polysaccharide biosynthesis protein (RgpF)
+sga:GALLO_1376	CDS	complement(1445282..1446628)	Putative glycosyltransferase
+sga:GALLO_1377	CDS	complement(1446625..1447824)	Putative polysaccharide ABC exporter, ATP-binding protein
+sga:GALLO_1378	CDS	complement(1447824..1448630)	Putative polysaccharide ABC transporter, membrane-spanning (permease) protein
+sga:GALLO_1379	CDS	complement(1448627..1449562)	Putative rhamnosyltransferase
+sga:GALLO_1380	CDS	complement(1449552..1450706)	Putative glycosyl-(rhamnosyl) transferase
+sga:GALLO_1381	CDS	complement(1450918..1451772)	Putative dTDP-4-keto-L-rhamnose reductase
+sga:GALLO_1382	gene	complement(1451864..1452022)	pseudogene
+sga:GALLO_1383	CDS	complement(1452123..1452458)	conserved hypothetical protein
+sga:GALLO_1384	CDS	complement(1452482..1453591)	sigA; RNA polymerase major sigma factor
+sga:GALLO_1385	CDS	complement(1453600..1455408)	dnaG; DNA primase
+sga:GALLO_1386	CDS	1455729..1456106	Putative large conductance mechanosensitive channel protein
+sga:GALLO_1387	CDS	complement(1456168..1456344)	rpsU; ribosomal protein S21
+sga:GALLO_1388	CDS	complement(1456628..1457425)	putative alpha/beta hydrolase
+sga:GALLO_1389	CDS	complement(1457617..1457991)	FMN-binding protein
+sga:GALLO_1390	CDS	complement(1458234..1458611)	putative glyoxalase
+sga:GALLO_1391	CDS	1458842..1459669	putative esterase-hydrolase
+sga:GALLO_1392	CDS	complement(1460039..1460860)	putative amino acid transporter, amino acid-binding protein
+sga:GALLO_1393	CDS	complement(1460976..1462088)	putative aminotransferase
+sga:GALLO_1394	CDS	complement(1462174..1462989)	putative amino acid ABC transporter (binding protein)
+sga:GALLO_1395	CDS	complement(1463001..1463840)	putative amino acid transporter, amino acid-binding protein
+sga:GALLO_1396	CDS	complement(1464008..1466272)	putative maltodextrin phosphorylase
+sga:GALLO_1397	CDS	complement(1466262..1467803)	putative 4-alpha-glucanotransferase
+sga:GALLO_1398	CDS	complement(1467983..1469008)	putative maltose operon repressor MalR
+sga:GALLO_1399	CDS	1469327..1470583	putative maltose/maltodextrin ABC transporter, sugar-binding protein MalX
+sga:GALLO_1400	CDS	1470713..1472080	putative maltose/maltodextrin ABC transporter, permease protein MalF
+sga:GALLO_1401	CDS	1472080..1472916	putative maltose/maltodextrin ABC transporter, MalG permease
+sga:GALLO_1402	CDS	complement(1473026..1473490)	putative NTP pyrophosphohydrolases, MutT/nudix family protein
+sga:GALLO_1403	CDS	complement(1473509..1474057)	hypothetical protein
+sga:GALLO_1404	CDS	complement(1474065..1476056)	uvrB; excinuclease ABC (subunit B)
+sga:GALLO_1405	CDS	1476245..1478470	putative amino acid ABC transporter, amino acid-binding/permease protein
+sga:GALLO_1406	CDS	1478470..1479210	putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_1407	CDS	1479740..1481239	putative ABC transporter, ATP-binding protein
+sga:GALLO_1408	CDS	complement(1481369..1481551)	conserved hypothetical protein
+sga:GALLO_1409	CDS	complement(1481961..1483268)	putative GTP-binding protein, GTP1/Obg family
+sga:GALLO_1410	CDS	complement(1483360..1483488)	conserved hypothetical protein
+sga:GALLO_1411	CDS	complement(1483570..1484298)	rluB; ribosomal small subunit pseudouridine synthase
+sga:GALLO_1412	CDS	complement(1484423..1486069)	putative ABC transporter, substrate-binding protein
+sga:GALLO_1413	CDS	complement(1486456..1488105)	putative ABC transporter, substrate-binding protein
+sga:GALLO_1414	CDS	1488531..1488965	putative Transcriptional regulator, MarR/EmrR family
+sga:GALLO_1415	CDS	1488962..1489540	putative membrane protein
+sga:GALLO_1416	CDS	complement(1489671..1491326)	putative sulfate transporter family protein
+sga:GALLO_1417	CDS	complement(1491555..1491998)	putative transcriptional regulator
+sga:GALLO_1418	CDS	complement(1492141..1492605)	guaD; putative guanine deaminase
+sga:GALLO_1419	CDS	complement(1493328..1493615)	conserved hypothetical protein
+sga:GALLO_1420	CDS	complement(1493640..1495025)	putative MATE family multidrug efflux pumps
+sga:GALLO_1421	CDS	complement(1495039..1495458)	putative transcriptional regulator, MarR family
+sga:GALLO_1422	CDS	complement(1495841..1496308)	putative acetyltransferase (GNAT) family
+sga:GALLO_1423	CDS	complement(1496305..1496910)	conserved hypothetical protein
+sga:GALLO_1424	gene	complement(1497000..1497635)	pseudogene
+sga:GALLO_1425	gene	complement(1497578..1497964)	pseudogene
+sga:GALLO_1426	CDS	complement(1498012..1498899)	conserved hypothetical protein
+sga:GALLO_1427	CDS	complement(1498932..1499393)	putative acetyltransferase
+sga:GALLO_1428	CDS	complement(1499423..1499941)	unknown
+sga:GALLO_1429	CDS	complement(1500103..1501473)	putative RNA methyltransferase
+sga:GALLO_1430	CDS	complement(1501583..1503016)	putative cell envelope-related transcriptional regulator, LytR family
+sga:GALLO_1431	CDS	complement(1503103..1503927)	pheA; Putative prephenate dehydratase
+sga:GALLO_1432	CDS	complement(1503924..1504400)	aroK; Putative shikimate kinase
+sga:GALLO_1433	CDS	complement(1504393..1505676)	aroE; Putative 3-phosphoshikimate 1-carboxyvinyltransferase
+sga:GALLO_1434	CDS	complement(1505898..1507733)	lepA; Putative LepA GTP-binding protein
+sga:GALLO_1436	CDS	complement(1508978..1510027)	conserved hypothetical protein
+sga:GALLO_1437	CDS	complement(1510024..1510302)	cas2; CRISPR-associated protein Cas2
+sga:GALLO_1438	CDS	complement(1510349..1511260)	cas1; Crispr-associated protein Cas1
+sga:GALLO_1439	CDS	complement(1511433..1514825)	cas5; CRISPR-associated protein, Csn1 family
+sga:GALLO_1440	CDS	complement(1514931..1515347)	ndk; nucleoside-diphosphate kinase
+sga:GALLO_1441	CDS	complement(1516449..1516829)	conserved hypothetical protein
+sga:GALLO_1442	CDS	complement(1516841..1517029)	conserved hypothetical protein
+sga:GALLO_1443	CDS	complement(1517125..1517790)	CRISPR-associated protein
+sga:GALLO_1444	CDS	complement(1517777..1518121)	CRISPR-associated protein Cas2 like
+sga:GALLO_1445	CDS	complement(1518118..1518984)	CRISPR-associated protein Cas1-like
+sga:GALLO_1446	CDS	complement(1518984..1523099)	CRISPR-associated protein
+sga:GALLO_1447	CDS	complement(1523659..1523829)	hypothetical protein
+sga:GALLO_1448	CDS	complement(1523831..1524511)	conserved hypothetical protein
+sga:GALLO_1449	CDS	complement(1524501..1525274)	putative hydrolase
+sga:GALLO_1450	CDS	complement(1525334..1525957)	putative MutT/nudix family protein
+sga:GALLO_1451	CDS	complement(1525957..1526685)	putative acyl-acyl carrier protein thioesterase
+sga:GALLO_1452	CDS	complement(1526690..1527820)	hemN; putative coproporphyrinogen III oxidase
+sga:GALLO_1453	CDS	complement(1527926..1529278)	Putative phosphoglucomutase
+sga:GALLO_1454	CDS	complement(1529420..1530376)	conserved hypothetical protein
+sga:GALLO_1455	CDS	complement(1530373..1531221)	conserved hypothetical protein
+sga:GALLO_1456	CDS	1531327..1532670	conserved hypothetical protein
+sga:GALLO_1457	CDS	1532672..1533460	putative amidotransferase
+sga:GALLO_1458	CDS	complement(1533693..1534991)	eno; enolase
+sga:GALLO_1459	CDS	1535201..1535650	conserved hypothetical protein
+sga:GALLO_1460	CDS	complement(1535647..1536762)	glxK; putative glycerate kinase
+sga:GALLO_1461	CDS	1536836..1537330	putative MutT/nudix family hydrolase
+sga:GALLO_1462	CDS	complement(1537378..1544037)	peptidoglycan linked protein (LPXTG motif), putative pullulanase
+sga:GALLO_1463	CDS	complement(1544270..1544584)	hisI'; putative phosphoribosyl-ATP pyrophosphatase
+sga:GALLO_1464	CDS	complement(1544604..1544924)	'hisI; phosphoribosyl-AMP cyclohydrolase
+sga:GALLO_1465	CDS	complement(1544921..1545679)	hisF; putative imidazoleglycerol-phosphate synthase
+sga:GALLO_1466	CDS	complement(1545683..1546402)	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+sga:GALLO_1467	CDS	complement(1546454..1547062)	hisH; glutamine amidotransferase
+sga:GALLO_1468	CDS	complement(1547133..1547717)	hisB; imidazoleglycerol-phosphate dehydratase
+sga:GALLO_1469	CDS	complement(1547752..1548396)	serB; phosphoserine phosphatase
+sga:GALLO_1470	CDS	complement(1548389..1549666)	hisD; Histidinol dehydrogenase
+sga:GALLO_1471	CDS	complement(1549663..1550310)	hisG; ATP phosphoribosyltransferase
+sga:GALLO_1472	CDS	complement(1550310..1551278)	hisZ; Histidyl-tRNA synthetase
+sga:GALLO_1473	CDS	complement(1551305..1552363)	hisC; Histidinol-phosphate aminotransferase
+sga:GALLO_1474	CDS	complement(1552857..1553534)	putative 5'-Methylthioadenosine/S-adenosylhomocysteine nucleosidase
+sga:GALLO_1475	CDS	complement(1553614..1555338)	putative negative regulator of septation ring formation
+sga:GALLO_1476	CDS	complement(1555444..1557396)	gyrB; DNA gyrase subunit B
+sga:GALLO_1477	CDS	complement(1557397..1557957)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1478	CDS	complement(1558059..1559270)	putative cell division protein, FtsW/RodA/SpoVE family
+sga:GALLO_t0065	tRNA	complement(1559512..1559583)	tRNA-Arg
+sga:GALLO_1479	CDS	complement(1559641..1559988)	rplS; ribosomal protein L19
+sga:GALLO_1480	CDS	complement(1560199..1561419)	Putative (voltage-gated) chloride channel family protein
+sga:GALLO_1481	CDS	complement(1561433..1561711)	putative chorismate mutase
+sga:GALLO_1482	CDS	complement(1561752..1562444)	conserved hypothetical transmembrane protein
+sga:GALLO_1483	CDS	complement(1562542..1563927)	putative FeS cluster formation protein SufB, paralogous protein
+sga:GALLO_1484	CDS	complement(1564193..1564636)	putative flavodoxin
+sga:GALLO_1485	CDS	complement(1564678..1565697)	putative adenosine deaminase
+sga:GALLO_1486	CDS	complement(1565838..1566119)	hypothetical protein
+sga:GALLO_1487	CDS	complement(1566248..1567594)	asnS; asparaginyl-tRNA synthetase
+sga:GALLO_1488	CDS	complement(1567613..1568056)	hypothetical secreted protein
+sga:GALLO_1489	CDS	complement(1568060..1569241)	putative aspartate aminotransferase
+sga:GALLO_1490	CDS	complement(1569238..1569708)	Conserved secreted protein
+sga:GALLO_1491	CDS	complement(1569739..1572243)	DnaQ family exonuclease/DinG family helicase
+sga:GALLO_1492	CDS	1572345..1573175	putative esterase, hydrolase of the alpha/beta superfamily
+sga:GALLO_1493	CDS	complement(1573259..1574011)	conserved hypothetical protein
+sga:GALLO_1494	CDS	complement(1574077..1575255)	conserved hypothetical protein
+sga:GALLO_1495	CDS	1575474..1575677	hypothetical protein
+sga:GALLO_1496	CDS	1575674..1576309	putative hydrolase
+sga:GALLO_1497	CDS	1576312..1577028	conserved hypothetical protein
+sga:GALLO_1498	CDS	complement(1577068..1578027)	ftsX; Cell division protein FtsX
+sga:GALLO_1499	CDS	complement(1577990..1578682)	ftsE; cell-division ATP-binding protein FtsE
+sga:GALLO_1500	CDS	complement(1578730..1579740)	prfB; peptide chain release factor 2
+sga:GALLO_1501	CDS	complement(1580239..1580901)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1502	CDS	1580994..1581851	conserved hypothetical protein
+sga:GALLO_1503	CDS	complement(1581917..1584598)	putative cation transporter/ATPase
+sga:GALLO_1504	CDS	complement(1584954..1585340)	conserved hypothetical protein
+sga:GALLO_1505	CDS	complement(1585409..1586287)	conserved hypothetical protein
+sga:GALLO_1506	CDS	1586377..1587678	conserved hypothetical protein
+sga:GALLO_1507	CDS	1587814..1588623	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1508	CDS	1588623..1589837	putative peptidoglycan FemAB like branched peptide synthesis protein
+sga:GALLO_1509	CDS	1589837..1591075	putative peptidoglycan FemAB like branched peptide synthesis protein
+sga:GALLO_1510	CDS	complement(1591262..1592020)	tpi; triosephosphate isomerase
+sga:GALLO_1511	CDS	complement(1592207..1593403)	tufA; translation elongation factor Tu
+sga:GALLO_1512	CDS	complement(1593532..1594491)	conserved hypothetical protein
+sga:GALLO_1513	CDS	complement(1594475..1594975)	putative RNA polymerase ECF-type sigma factor
+sga:GALLO_1514	CDS	complement(1595055..1596335)	ftsW; cell-division protein FtsW
+sga:GALLO_1515	CDS	complement(1596447..1599272)	putative phosphoenolpyruvate carboxylase
+sga:GALLO_1516	CDS	1599610..1601409	putative oligoendopeptidase F
+sga:GALLO_1517	CDS	1601402..1601887	putative glutathione peroxidase
+sga:GALLO_1518	CDS	1602029..1602913	Glycosyl hydrolases family 25
+sga:GALLO_1519	CDS	1603059..1604045	putative autolysin; amidase
+sga:GALLO_1520	CDS	1604122..1604604	Conserved hypothetical protein
+sga:GALLO_1521	CDS	1604627..1605256	putative phosphoglycerate mutase-like protein
+sga:GALLO_1522	CDS	complement(1605300..1606208)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1523	CDS	1606538..1608028	lysyl-tRNA synthetase
+sga:GALLO_1524	CDS	1608516..1609097	putative transcriptional regulator, TetR family
+sga:GALLO_1525	CDS	complement(1609138..1609893)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1526	CDS	1610043..1610186	conserved hypothetical protein
+sga:GALLO_1527	CDS	1610293..1610832	conserved hypothetical protein (BioY)
+sga:GALLO_1528	CDS	complement(1611381..1611593)	conserved hypothetical protein
+sga:GALLO_1529	CDS	1611709..1612032	conserved hypothetical protein
+sga:GALLO_1530	CDS	complement(1612088..1613377)	Putative protease/peptidase (collagenase)
+sga:GALLO_1531	CDS	complement(1613509..1614435)	Putative protease/peptidase
+sga:GALLO_1532	CDS	1614707..1614991	conserved hypothetical protein
+sga:GALLO_1533	CDS	complement(1615161..1615634)	conserved hypothetical protein
+sga:GALLO_1534	CDS	complement(1615631..1616062)	conserved hypothetical protein
+sga:GALLO_1535	CDS	complement(1616074..1616856)	lgt; prolipoprotein diacylglyceryl transferase
+sga:GALLO_1536	CDS	complement(1616856..1617797)	hprK; HPr (Serine) kinase/phosphorylase
+sga:GALLO_1537	CDS	complement(1618132..1618410)	conserved hypothetical protein
+sga:GALLO_1538	CDS	complement(1618516..1618959)	conserved hypothetical protein
+sga:GALLO_1539	CDS	complement(1618946..1621078)	putative S1 RNA binding domain protein
+sga:GALLO_1540	CDS	1621295..1621429	conserved hypothetical protein
+sga:GALLO_1541	CDS	1621435..1622337	putative permease
+sga:GALLO_1542	CDS	1622337..1623149	conserved hypothetical protein
+sga:GALLO_1543	CDS	complement(1623216..1624208)	putative oxidoreductase
+sga:GALLO_1544	CDS	1624315..1624695	putative transcriptional regulator, MerR family
+sga:GALLO_1545	CDS	complement(1624733..1624903)	hypothetical protein
+sga:GALLO_1546	CDS	complement(1624910..1626340)	Putative signal recognition particle (SRP)-docking protein
+sga:GALLO_1547	CDS	complement(1626389..1627207)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1548	CDS	complement(1627207..1628004)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1549	CDS	1628172..1628984	conserved hypothetical secreted protein
+sga:GALLO_1550	CDS	complement(1629070..1632609)	smc; Chromosome segregation protein SMC
+sga:GALLO_1551	CDS	complement(1632740..1633426)	rncS; Ribonuclease III
+sga:GALLO_1552	CDS	complement(1633956..1634765)	conserved metallo-beta-lactamase superfamily protein
+sga:GALLO_1553	CDS	complement(1634766..1636118)	walK; conserved essential two-component sensor histidine kinase
+sga:GALLO_1554	CDS	complement(1636111..1636821)	walR; conserved essential two-component response regulator
+sga:GALLO_1555	CDS	1637126..1637890	Putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_1556	CDS	1637895..1638713	Putative ABC transporter, amino acid binding protein
+sga:GALLO_1557	CDS	1638730..1639434	Putative amino acid ABC transporter, permease protein
+sga:GALLO_1558	CDS	1639446..1640093	Putative amino acid ABC transporter, integral membrane protein
+sga:GALLO_1559	CDS	complement(1640185..1640793)	conserved hypothetical protein
+sga:GALLO_1560	CDS	complement(1641114..1641341)	hypothetical protein
+sga:GALLO_1561	CDS	complement(1641584..1643032)	Putative sensor histidine kinase (two component system)
+sga:GALLO_1562	CDS	complement(1643061..1643753)	Putative two-component response regulator
+sga:GALLO_1563	CDS	complement(1643859..1644737)	conserved hypothetical protein
+sga:GALLO_1564	CDS	complement(1644866..1645144)	Conserved hypothetical protein
+sga:GALLO_1565	CDS	complement(1645137..1645385)	conserved hypothetical protein
+sga:GALLO_1566	CDS	1645712..1646230	Putative transcriptional regulator, TetR family
+sga:GALLO_1567	CDS	1646344..1648113	Putative myosin-crossreactive streptococcal antigen
+sga:GALLO_1568	CDS	complement(1648246..1649073)	Putative sortase, C type
+sga:GALLO_1569	CDS	complement(1649202..1650719)	Putative peptidoglycan linked protein-fimbrial structural subunit-(LPXTG motif)
+sga:GALLO_1570	CDS	complement(1650804..1652729)	putative adhesin, Cna protein B-type domain, FPXTG motif protein
+sga:GALLO_1571	CDS	complement(1653265..1653897)	conserved hypothetical secreted protein
+sga:GALLO_1572	CDS	complement(1653882..1654523)	hypothetical protein
+sga:GALLO_1573	CDS	complement(1654508..1655125)	hypothetical secreted protein
+sga:GALLO_1574	CDS	complement(1655130..1656791)	conserved hypothetical protein
+sga:GALLO_1575	CDS	complement(1656809..1657150)	conserved hypothetical protein
+sga:GALLO_1576	CDS	complement(1657143..1657424)	conserved hypothetical protein
+sga:GALLO_1577	CDS	complement(1657689..1660058)	Putative pectate lyase related protein, polysaccharide lyase family
+sga:GALLO_1578	CDS	complement(1660274..1662094)	Putative pectate lyase related protein, polysaccharide lyase family
+sga:GALLO_1579	CDS	complement(1662493..1664439)	thrS; Threonyl-tRNA synthetase
+sga:GALLO_1580	CDS	complement(1664790..1666124)	Putative sugar/glucosyl transferase
+sga:GALLO_1581	CDS	complement(1666126..1667124)	Putative glycosyl transferase, group 1 family protein
+sga:GALLO_1582	CDS	complement(1667220..1668221)	ccpA; Catabolite control protein A (ccpA)
+sga:GALLO_1583	CDS	1668549..1669634	Putative Xaa-proline dipeptidase
+sga:GALLO_1584	CDS	complement(1669668..1669994)	putative small multidrug resistance protein
+sga:GALLO_1585	CDS	1670243..1670740	conserved hypothetical protein
+sga:GALLO_1586	CDS	complement(1670792..1672558)	hypothetical secreted protein
+sga:GALLO_1587	CDS	complement(1672587..1674371)	Putative peptidoglycan linked protein (LPXTG motif)
+sga:GALLO_1588	CDS	complement(1674428..1676338)	Putative PTS, beta-glucoside specific, EIIBCA component
+sga:GALLO_1589	CDS	complement(1676397..1677626)	conserved hypothetical protein
+sga:GALLO_1590	CDS	complement(1677631..1678800)	conserved hypothetical protein
+sga:GALLO_1591	CDS	complement(1678812..1679852)	putative metal-dependent hydrolase
+sga:GALLO_1592	CDS	1680223..1681107	putative transcriptional regulator, LysR family
+sga:GALLO_1593	CDS	complement(1681245..1682582)	putative MATE family multidrug efflux pumps
+sga:GALLO_1594	CDS	complement(1682685..1683311)	putative short chain dehydrogenase
+sga:GALLO_1595	CDS	complement(1683322..1683966)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1596	CDS	complement(1683976..1685616)	Putative beta-hexosamidase (glycosyl hydrolase, family 3)
+sga:GALLO_1597	CDS	complement(1685633..1687309)	Putative beta-hexosamidase (glycosyl hydrolase, family 3)
+sga:GALLO_1598	CDS	complement(1687374..1687721)	hypothetical protein
+sga:GALLO_1599	CDS	complement(1687804..1689543)	hypothetical protein
+sga:GALLO_1600	CDS	complement(1689709..1690662)	putative Aldo/keto oxidoreductase
+sga:GALLO_1601	CDS	complement(1690779..1692053)	hypothetical lipoprotein
+sga:GALLO_1602	CDS	complement(1692078..1693505)	Putative sodium/oside symporter
+sga:GALLO_1603	CDS	complement(1693773..1694807)	Putative hydrolase
+sga:GALLO_1604	CDS	complement(1695122..1695871)	conserved hypothetical protein
+sga:GALLO_1605	CDS	complement(1695880..1697283)	Putative PTS system, beta-glucoside specific, EIIBC component
+sga:GALLO_1606	CDS	complement(1697308..1698144)	putative transcriptional antiterminator (BglG family)
+sga:GALLO_1607	CDS	complement(1698323..1699210)	conserved hypothetical secreted protein
+sga:GALLO_1608	CDS	complement(1699301..1700746)	Putative PTS system, beta-glucoside specific, EIIBC component
+sga:GALLO_1609	CDS	complement(1700761..1702173)	putative tannase
+sga:GALLO_1610	CDS	1702525..1703265	putative transcriptional regulator, RpiR family
+sga:GALLO_1611	CDS	complement(1703377..1703784)	conserved hypothetical protein
+sga:GALLO_1612	CDS	complement(1703785..1704354)	putative flavoprotein
+sga:GALLO_1613	CDS	complement(1704912..1706387)	putative 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+sga:GALLO_1614	CDS	complement(1706470..1707360)	putative transcriptional regulator, LysR family
+sga:GALLO_1615	CDS	1707552..1708280	conserved hypothetical membrane protein
+sga:GALLO_1616	CDS	1708634..1709062	putative transcriptional regulator, MarR family
+sga:GALLO_1617	CDS	1709180..1709683	conserved hypothetical protein
+sga:GALLO_1618	CDS	1709732..1710409	putative nitroreductase
+sga:GALLO_1619	CDS	complement(1710609..1712081)	Putative glycosyl hydrolase, family 1
+sga:GALLO_1620	CDS	complement(1712081..1713952)	putative PTS system, beta-glucoside-specific IIABC component
+sga:GALLO_1621	CDS	1714120..1714869	transcriptional regulator, RpiR family
+sga:GALLO_1622	CDS	complement(1714944..1715411)	putative tmRNA-binding protein SmpB
+sga:GALLO_1623	CDS	complement(1715458..1717791)	putative exoribonuclease
+sga:GALLO_1624	CDS	complement(1718017..1718253)	secG; protein translocase subunit SecG
+sga:GALLO_1625	CDS	complement(1718381..1718527)	rpmG; Ribosomal protein L33
+sga:GALLO_1626	CDS	complement(1718524..1719717)	putative substrate transporter : Major facilitator superfamily (multi-drug resistance protein)
+sga:GALLO_1627	CDS	complement(1719851..1720456)	coaE; putative dephospho-CoA kinase
+sga:GALLO_1628	CDS	complement(1720441..1721262)	mutM; putative formamidopyrimidine-DNA glycosylase
+sga:GALLO_1629	CDS	complement(1721705..1722601)	era; GTP-binding protein era
+sga:GALLO_1630	CDS	complement(1722660..1723067)	dgk; diacylglycerol kinase
+sga:GALLO_1631	CDS	complement(1723048..1723545)	conserved hypothetical protein
+sga:GALLO_1632	CDS	complement(1723788..1726019)	amyE; alpha-amylase
+sga:GALLO_1633	CDS	complement(1726358..1726912)	putative acetyltransferase, GNAT family
+sga:GALLO_1634	CDS	complement(1726909..1727139)	hypothetical protein
+sga:GALLO_1635	CDS	complement(1727330..1728400)	conserved hypothetical protein, PhoH-like
+sga:GALLO_1636	CDS	complement(1728490..1729659)	putative permease, major facilitator superfamily
+sga:GALLO_1637	CDS	complement(1729979..1730194)	conserved hypothetical protein
+sga:GALLO_1638	CDS	complement(1730191..1730700)	msrA; peptidyl methionine sulfoxide reductase
+sga:GALLO_1639	CDS	complement(1730987..1731853)	conserved hypothetical protein
+sga:GALLO_1640	CDS	complement(1731910..1732467)	frr; ribosome recycling factor
+sga:GALLO_1641	CDS	complement(1732521..1733258)	pyrH; uridylate kinase
+sga:GALLO_1642	CDS	complement(1733466..1734155)	rplA; ribosomal protein L1
+sga:GALLO_1643	CDS	complement(1734310..1734735)	rplK; ribosomal protein L11
+sga:GALLO_1644	CDS	1735091..1735438	conserved hypothetical membrane protein
+sga:GALLO_1645	CDS	complement(1735471..1737882)	putative DNA translocase, DnaK family
+sga:GALLO_1646	CDS	complement(1738037..1739167)	putative integrase
+sga:GALLO_1647	CDS	complement(1739222..1739452)	putative excisionase
+sga:GALLO_1648	CDS	1739766..1740476	conserved hypothetical protein
+sga:GALLO_1649	CDS	complement(1740511..1741413)	Putative peptidoglycan linked serine rich protein (LPXTG motif)
+sga:GALLO_1650	CDS	complement(1741431..1741997)	conserved hypothetical secreted protein
+sga:GALLO_1651	CDS	complement(1742008..1742706)	putative sortase, A-type family
+sga:GALLO_1652	CDS	complement(1742722..1744116)	conserved hypothetical secreted protein
+sga:GALLO_1653	CDS	complement(1744118..1746262)	conserved hypothetical membrane protein
+sga:GALLO_1654	CDS	complement(1746272..1748773)	putative conjugative transposon protein
+sga:GALLO_1655	CDS	1748915..1749445	hypothetical protein
+sga:GALLO_1656	CDS	complement(1749431..1749697)	hypothetical protein
+sga:GALLO_1657	CDS	complement(1749757..1750167)	conserved hypothetical protein
+sga:GALLO_1658	CDS	complement(1750171..1750437)	conserved hypothetical protein
+sga:GALLO_1659	CDS	complement(1750473..1751447)	conserved hypothetical secreted protein
+sga:GALLO_1660	CDS	complement(1751466..1751900)	conserved hypothetical protein
+sga:GALLO_1661	CDS	complement(1751917..1752285)	hypothetical protein
+sga:GALLO_1662	CDS	complement(1752285..1752500)	hypothetical protein
+sga:GALLO_1663	CDS	complement(1752511..1752993)	conserved hypothetical protein
+sga:GALLO_1664	CDS	complement(1753012..1753512)	hypothetical protein
+sga:GALLO_1665	CDS	complement(1753563..1753835)	conserved hypothetical protein
+sga:GALLO_1666	CDS	complement(1754053..1754463)	putative transcriptional regulator
+sga:GALLO_1667	CDS	complement(1754526..1754720)	hypothetical protein
+sga:GALLO_1668	CDS	complement(1754804..1755202)	conserved hypothetical protein
+sga:GALLO_1669	CDS	complement(1755217..1755480)	hypothetical protein
+sga:GALLO_1670	CDS	complement(1755507..1756757)	putative transcriptional regulator, Cro/CI family
+sga:GALLO_1671	CDS	complement(1756783..1756992)	Hypothetical protein
+sga:GALLO_1672	CDS	complement(1757031..1758740)	putative DNA segregation ATPase, FtsK/SpoIIIE family
+sga:GALLO_1673	CDS	complement(1758751..1759218)	conserved hypothetical protein
+sga:GALLO_1674	CDS	complement(1759218..1759529)	conserved hypothetical protein
+sga:GALLO_1675	CDS	complement(1759598..1761877)	Putative peptidoglycan linked protein (LPXTG motif)
+sga:GALLO_1676	CDS	complement(1762086..1763303)	putative integrase
+sga:GALLO_1677	CDS	complement(1763385..1763588)	Tn916 conserved hypothetical protein, putative excisionase
+sga:GALLO_1678	CDS	1763572..1763823	Tn916 hypothetical protein
+sga:GALLO_1679	CDS	complement(1764049..1764279)	Tn916 conserved hypothetical protein
+sga:GALLO_1680	CDS	complement(1764276..1764698)	Tn916 conserved hypothetical protein
+sga:GALLO_1681	CDS	1765203..1765556	putative transcriptional regulator (Tn916)
+sga:GALLO_1682	CDS	complement(1765616..1765804)	Tn916 conserved hypothetical protein
+sga:GALLO_1683	CDS	1766216..1767466	Transposase
+sga:GALLO_1684	CDS	complement(1767699..1768682)	putative plasmid replication protein
+sga:GALLO_1685	CDS	complement(1768959..1770221)	putative plasmid recombination/mobilization protein
+sga:GALLO_1686	CDS	complement(1770785..1772161)	tetL; tetracycline resistance protein
+sga:GALLO_1687	CDS	complement(1772355..1774274)	tetM; tetracycline resistence protein TetM
+sga:GALLO_1688	CDS	complement(1774290..1774376)	TetM leader peptide
+sga:GALLO_1689	CDS	complement(1774651..1775583)	Tn916 conserved hypothetical protein
+sga:GALLO_1690	CDS	complement(1775580..1776581)	Tn916 conserved hypothetical protein
+sga:GALLO_1691	CDS	complement(1776578..1778755)	Tn916 conserved hypothetical protein
+sga:GALLO_1692	CDS	complement(1778758..1781205)	Tn916 conserved hypothetical protein
+sga:GALLO_1693	CDS	complement(1781189..1781581)	Tn916 conserved hypothetical protein
+sga:GALLO_1694	CDS	complement(1781670..1782167)	Tn916 conserved hypothetical protein
+sga:GALLO_1695	CDS	complement(1782284..1782505)	Tn916 conserved hypothetical protein
+sga:GALLO_1696	CDS	complement(1782548..1783753)	putative transcriptional regulator, Cro/CI family (Tn916)
+sga:GALLO_1697	CDS	complement(1783931..1785316)	Tn916 conserved hypothetical protein, putative translocase
+sga:GALLO_1698	CDS	complement(1785345..1785728)	Tn916 conserved hypothetical protein
+sga:GALLO_1699	CDS	complement(1785747..1786061)	Tn916 conserved hypothetical protein
+sga:GALLO_1700	CDS	complement(1786084..1786203)	Tn916 conserved hypothetical protein
+sga:GALLO_1701	CDS	complement(1786497..1786814)	conserved hypothetical protein
+sga:GALLO_1702	CDS	complement(1786831..1787268)	conserved hypothetical protein
+sga:GALLO_1703	CDS	complement(1787265..1787519)	conserved hypothetical protein
+sga:GALLO_1704	CDS	complement(1787572..1787832)	conserved hypothetical protein
+sga:GALLO_1705	CDS	complement(1788021..1788431)	conserved hypothetical protein
+sga:GALLO_1706	CDS	complement(1788367..1788717)	conserved hypothetical protein
+sga:GALLO_1707	CDS	complement(1789020..1789607)	conserved hypothetical protein
+sga:GALLO_1708	CDS	1790579..1790932	putative transcriptional regulator, Cro/CI family
+sga:GALLO_1709	CDS	1791013..1791819	conserved hypothetical protein
+sga:GALLO_1710	CDS	complement(1791911..1792294)	conserved hypothetical lipoprotein
+sga:GALLO_1711	CDS	complement(1792308..1792649)	conserved hypothetical protein
+sga:GALLO_1712	CDS	complement(1792642..1792941)	conserved hypothetical protein
+sga:GALLO_1713	CDS	complement(1793333..1794652)	putative oxidoreductase, pyridine nucleotide-disulfide, class I
+sga:GALLO_1714	CDS	complement(1794701..1794922)	conserved hypothetical protein
+sga:GALLO_1715	CDS	1795286..1796494	putative permeases of the major facilitator superfamily
+sga:GALLO_1716	CDS	complement(1797213..1797593)	Hypothetical protein
+sga:GALLO_1717	CDS	1798234..1799070	Peptidyl-prolyl cis-trans isomerase
+sga:GALLO_1718	CDS	1799223..1799873	putative iron-dependent transcriptional regulator
+sga:GALLO_1719	CDS	complement(1799918..1800610)	mtn; putative methylthioadenosine nucleosidase
+sga:GALLO_1720	CDS	complement(1800694..1801023)	conserved hypothetical protein
+sga:GALLO_1721	CDS	complement(1801029..1801577)	nudF; putative ADP-ribose pyrophosphatase
+sga:GALLO_1722	CDS	complement(1801783..1803165)	gcaD; UDP-N-acetylglucosamine pyrophosphorylase
+sga:GALLO_1723	CDS	complement(1803309..1804271)	putative NAD-dependent oxidoreductase
+sga:GALLO_1724	CDS	complement(1804294..1804737)	conserved hypothetical protein
+sga:GALLO_1725	CDS	complement(1804936..1805634)	putative dehydrogenease / oxidoreductase
+sga:GALLO_1726	CDS	complement(1805627..1805863)	conserved hypothetical protein
+sga:GALLO_1727	CDS	complement(1805936..1806760)	conserved hypothetical protein
+sga:GALLO_1728	CDS	complement(1806744..1807082)	putative transcriptional regulator, PadR family
+sga:GALLO_1729	CDS	complement(1807674..1808906)	putative peptidoglycan FemAB like branched peptide synthesis protein
+sga:GALLO_1730	CDS	complement(1809103..1811106)	metS; Methionyl-tRNA synthetase
+sga:GALLO_1731	CDS	complement(1811225..1812538)	putative MATE family multidrug efflux pumps
+sga:GALLO_1732	CDS	1812665..1813213	putative transcriptional regulator, TetR family
+sga:GALLO_1733	CDS	1813427..1814254	putative 3'-exo-deoxyribonuclease
+sga:GALLO_1734	CDS	complement(1814319..1815701)	Major Facilitator Superfamily protein
+sga:GALLO_1735	CDS	1815869..1816414	putative transcriptional regulator, TetR family
+sga:GALLO_1736	CDS	1816424..1817251	conserved hypothetical transmembrane protein
+sga:GALLO_1737	CDS	complement(1817289..1817636)	conserved hypothetical protein
+sga:GALLO_1738	CDS	complement(1817645..1818481)	putative oxidoreductase
+sga:GALLO_1739	CDS	complement(1818494..1819315)	putative oxidoreductase
+sga:GALLO_1740	CDS	1819420..1820292	putative transcriptional regulator, LysR family
+sga:GALLO_1741	CDS	complement(1820429..1820785)	putative transcriptional regulator, ArsC family
+sga:GALLO_1742	CDS	complement(1820798..1821283)	ogt; putative 6-O-methylguanine-DNA methyltransferase
+sga:GALLO_1743	CDS	complement(1821342..1821569)	conserved hypothetical protein
+sga:GALLO_1744	CDS	complement(1821670..1822848)	serA; putative phosphoglycerate dehydrogenase
+sga:GALLO_1745	CDS	complement(1822894..1823442)	putative acetyltransferase, GNAT family
+sga:GALLO_1746	CDS	complement(1823513..1824604)	serC; phosphoserine aminotransferase
+sga:GALLO_1747	CDS	1824740..1825378	putative copper homeostasis protein CutC
+sga:GALLO_1748	CDS	complement(1825510..1825851)	nrgB; nitrogen regulatory protein PII
+sga:GALLO_1749	CDS	complement(1825908..1827143)	nrgA; ammonium transporter
+sga:GALLO_1750	CDS	complement(1827543..1828409)	conserved hypothetical protein
+sga:GALLO_1751	CDS	complement(1828416..1828736)	conserved hypothetical protein
+sga:GALLO_1752	CDS	complement(1828729..1829529)	conserved hypothetical protein
+sga:GALLO_1753	CDS	complement(1829526..1830401)	holB; DNA polymerase III delta' subunit
+sga:GALLO_1754	CDS	complement(1830412..1831047)	tmk; thymidylate kinase
+sga:GALLO_1755	CDS	complement(1831234..1831893)	conserved hypothetical protein
+sga:GALLO_1756	CDS	complement(1832067..1832777)	putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_1757	CDS	complement(1832777..1833541)	putative amino acid ABC transporter, ATP-binding protein
+sga:GALLO_1758	CDS	complement(1833541..1834494)	putative amino acid ABC transporter permease protein
+sga:GALLO_1759	CDS	complement(1834498..1835382)	putative amino acid ABC transporter, membrane protein
+sga:GALLO_1760	CDS	complement(1835434..1836615)	putative amino acid ABC transporter, amino acid-binding protein
+sga:GALLO_1761	CDS	complement(1836728..1836979)	conserved hypothetical protein
+sga:GALLO_1762	CDS	complement(1836972..1837415)	conserved hypothetical protein
+sga:GALLO_1763	CDS	complement(1837512..1838102)	clpP; ATP-dependent Clp protease, proteolytic subunit
+sga:GALLO_1764	CDS	complement(1838234..1839127)	Membrane protein
+sga:GALLO_1765	CDS	1839240..1840109	putative transcriptional regulators, LysR family
+sga:GALLO_1766	CDS	complement(1840175..1840804)	upp; uracil phosphoribosyltransferase
+sga:GALLO_1767	CDS	complement(1840962..1842125)	putative L-cysteine desulfhydrase
+sga:GALLO_1768	CDS	complement(1842127..1843221)	metC; putative cystathionine gamma-synthase
+sga:GALLO_1769	CDS	complement(1843520..1845154)	putative polysaccharide transporter (biosynthesis)
+sga:GALLO_1770	CDS	1845251..1846702	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase
+sga:GALLO_1771	CDS	1846879..1847661	putative iron compound ABC transporter, ATP-binding protein
+sga:GALLO_1772	CDS	1847683..1848615	putative iron compound ABC transporter, substrate-binding protein
+sga:GALLO_1773	CDS	1848693..1849715	putative iron compound ABC transporter, permease protein
+sga:GALLO_1774	CDS	1849676..1850713	putative iron compound ABC transporter, permease protein
+sga:GALLO_1775	CDS	complement(1850833..1851489)	conserved hypothetical protein
+sga:GALLO_1776	CDS	complement(1851482..1851997)	conserved hypothetical protein
+sga:GALLO_1777	CDS	1852107..1852838	conserved hypothetical protein
+sga:GALLO_1778	CDS	complement(1852896..1853873)	conserved domain protein
+sga:GALLO_1779	CDS	complement(1854084..1855016)	putative manganese-dependent inorganic pyrophosphatase
+sga:GALLO_1780	CDS	complement(1855166..1855813)	conserved hypothetical protein
+sga:GALLO_1781	CDS	complement(1855868..1856656)	pyruvate formate-lyase activating enzyme
+sga:GALLO_1782	CDS	complement(1856730..1858061)	conserved hypothetical protein
+sga:GALLO_1783	gene	1858271..1858375	pseudogene
+sga:GALLO_1784	gene	1858351..1859058	pseudogene
+sga:GALLO_1785	CDS	complement(1859092..1861152)	hypothetical monovalent cation:proton antiporter-1
+sga:GALLO_1786	CDS	complement(1861166..1861420)	conserved hypothetical protein
+sga:GALLO_1787	CDS	complement(1861426..1861989)	Putative rRNA methylase
+sga:GALLO_1788	CDS	complement(1861986..1862927)	conserved hypothetical protein, radical SAM motif
+sga:GALLO_1789	CDS	complement(1863050..1863706)	putative membrane associated phosphatase
+sga:GALLO_1790	CDS	complement(1863828..1864241)	conserved hypothetical membrane protein
+sga:GALLO_1791	CDS	1864421..1866115	putative transposase
+sga:GALLO_1792	CDS	complement(1866101..1866670)	conserved hypothetical protein
+sga:GALLO_1793	CDS	complement(1867107..1867652)	putative RNA methyltransferase, TrmH family
+sga:GALLO_1794	CDS	complement(1868054..1868809)	putative short-chain dehydrogenase
+sga:GALLO_1795	CDS	1869011..1869373	transcriptional regulator, MerR family
+sga:GALLO_1796	CDS	complement(1869417..1871264)	putative transporter
+sga:GALLO_1797	CDS	1871522..1872871	putative potassium uptake system protein TrkA
+sga:GALLO_1798	CDS	1872875..1874314	putative potassium uptake protein TrkH
+sga:GALLO_1799	CDS	complement(1874335..1874595)	conserved hypothetical protein
+sga:GALLO_1800	CDS	complement(1874595..1875320)	rluB; ribosomal large subunit pseudouridine synthase
+sga:GALLO_1801	CDS	complement(1875402..1875968)	scpB; Putative segregation and condensation protein B
+sga:GALLO_1802	CDS	complement(1876024..1876728)	scpA; putative segregation and condensation protein A
+sga:GALLO_1803	CDS	complement(1876728..1877468)	conserved hypothetical protein
+sga:GALLO_1804	CDS	complement(1877461..1877928)	conserved hypothetical protein
+sga:GALLO_1805	CDS	complement(1877925..1878446)	conserved hypothetical protein
+sga:GALLO_1806	CDS	complement(1878431..1879444)	Putative xanthosine triphosphate pyrophosphatase
+sga:GALLO_1807	CDS	complement(1879462..1880271)	racE; glutamate racemase
+sga:GALLO_1808	CDS	complement(1880444..1880686)	conserved hypothetical protein (secreted)
+sga:GALLO_1809	CDS	complement(1880859..1882103)	lysA; diaminopimelate decarboxylase
+sga:GALLO_1810	CDS	complement(1882232..1882924)	putative conserved integral membrane protein
+sga:GALLO_1811	CDS	complement(1882973..1883476)	Hypothetical hydrolase, HAD superfamily
+sga:GALLO_1812	CDS	complement(1883564..1884304)	putative rRNA methylase
+sga:GALLO_1813	CDS	1884340..1884618	putative acylphosphatase
+sga:GALLO_1814	CDS	1884708..1885628	putative conserved membrane protein
+sga:GALLO_1815	CDS	complement(1885719..1886201)	greA; transcription elongation factor
+sga:GALLO_1816	CDS	complement(1886285..1888006)	putative aminodeoxychorismate lyase
+sga:GALLO_1817	CDS	complement(1888101..1888598)	putative acetyltransferase, GNAT family
+sga:GALLO_1818	CDS	complement(1888651..1889982)	murC; UDP-N-acetyl muramate-alanine ligase
+sga:GALLO_1819	CDS	complement(1890017..1890613)	conserved hypothetical protein
+sga:GALLO_1820	CDS	complement(1890883..1893972)	putative SWF/SNF family helicase
+sga:GALLO_1821	CDS	complement(1894116..1895426)	engA; putative GTP-binding protein
+sga:GALLO_1822	CDS	complement(1895578..1896480)	dnaI; primosome component (helicase loader)
+sga:GALLO_1823	CDS	complement(1896491..1897648)	dnaB; putative chromosome replication initiation protein/membrane attachment protein
+sga:GALLO_1824	CDS	complement(1897632..1898129)	conserved hypothetical protein
+sga:GALLO_1825	CDS	complement(1898318..1899802)	covS; putative two-component sensor histidine kinase, Cov S family
+sga:GALLO_1826	CDS	complement(1899802..1900494)	covR; putative two-component response regulator, CovR family
+sga:GALLO_1827	CDS	complement(1900732..1901268)	conserved hypothetical protein
+sga:GALLO_1828	CDS	complement(1901410..1902312)	conserved hypothetical protein
+sga:GALLO_1829	CDS	complement(1902439..1902990)	conserved hypothetical protein
+sga:GALLO_1830	CDS	1903321..1904034	gidB; Methyltransferase gidB (Glucose-inhibited division protein B)
+sga:GALLO_1831	CDS	1904104..1905477	putative cation (potassium) transport protein
+sga:GALLO_1832	CDS	1905489..1906160	putative cation (potassium) transport associated protein
+sga:GALLO_1833	CDS	complement(1906213..1907043)	putative cobalt ABC transporter, permease component
+sga:GALLO_1834	CDS	complement(1907036..1908712)	putative cobalt ABC transporter, ATP binding protein
+sga:GALLO_1835	CDS	complement(1908768..1909316)	conserved hypothetical protein
+sga:GALLO_1836	CDS	complement(1909313..1910167)	conserved hypothetical protein
+sga:GALLO_1837	CDS	complement(1910318..1911544)	putative sodium:dicarboxylate symporter family protein
+sga:GALLO_1838	CDS	1911879..1913252	putative branched-chain amino acid transporter
+sga:GALLO_1839	CDS	complement(1913314..1913943)	conserved hypothetical protein
+sga:GALLO_1840	CDS	1914126..1914566	conserved hypothetical protein
+sga:GALLO_1841	CDS	complement(1914597..1915289)	putative ABC transporter permease protein
+sga:GALLO_1842	CDS	complement(1915290..1916354)	putative ABC transporter, ATP-binding protein
+sga:GALLO_1843	CDS	complement(1916335..1917717)	putative desuccinylase, deacetylase or peptidase
+sga:GALLO_1844	CDS	complement(1917926..1918825)	putative ABC transporter substrate binding protein
+sga:GALLO_1845	CDS	complement(1918939..1919772)	putative amino acid ABC transporter, substrate-binding protein
+sga:GALLO_1846	CDS	complement(1919901..1921046)	putative aminoacylase/N-acyl-L-amino acid amidohydrolase/hippurate hydrolase
+sga:GALLO_1847	CDS	complement(1921043..1921840)	putative amino acid ABC transporter substrate binding protein
+sga:GALLO_1848	CDS	complement(1921901..1922587)	putative glutamine amidotransferase
+sga:GALLO_1849	CDS	complement(1922776..1923492)	conserved hypothetical protein
+sga:GALLO_1850	CDS	complement(1923727..1925103)	Putative PTS system, sucrose specific, IIABC components
+sga:GALLO_1851	CDS	complement(1925119..1926528)	Putative Glycoside hydrolase, family 1
+sga:GALLO_1852	CDS	complement(1926712..1927587)	Hypothetical transcription regulator, RpiR family
+sga:GALLO_1853	CDS	complement(1927660..1928490)	Hypothetical protein
+sga:GALLO_1854	CDS	complement(1928608..1929330)	putative transcriptional regulator, MerR family
+sga:GALLO_1855	CDS	complement(1929415..1930509)	conserved hypothetical protein
+sga:GALLO_1856	CDS	complement(1930536..1932821)	putative helicase
+sga:GALLO_1857	CDS	complement(1932848..1933537)	hypothetical protein
+sga:GALLO_1858	CDS	complement(1933783..1934520)	conserved hypothetical protein
+sga:GALLO_1859	CDS	complement(1934606..1934959)	conserved hypothetical protein
+sga:GALLO_1860	CDS	complement(1934960..1935472)	conserved hypothetical protein
+sga:GALLO_1861	CDS	complement(1935469..1936068)	conserved hypothetical protein
+sga:GALLO_1862	CDS	complement(1936058..1936696)	nadD; putative nicotinic acid mononucleotide adenylyltransferase
+sga:GALLO_1863	CDS	complement(1936773..1937087)	Conserved hypothetical protein
+sga:GALLO_1864	CDS	complement(1937228..1938346)	putative conserved GTP-binding protein
+sga:GALLO_1865	CDS	complement(1938346..1938906)	putative hydrolase, HAD subfamily
+sga:GALLO_1866	CDS	complement(1939019..1939858)	IS861, transposase OrfB
+sga:GALLO_1867	CDS	complement(1939834..1940370)	IS861, transposase OrfA
+sga:GALLO_1868	gene	complement(1940439..1940837)	pseudogene
+sga:GALLO_1869	gene	complement(1940816..1941826)	pseudogene
+sga:GALLO_1870	CDS	complement(1941835..1942251)	putative transcriptional regulator, MarR family
+sga:GALLO_1871	CDS	complement(1942397..1943305)	conserved integral membrane protein, putative permease
+sga:GALLO_1872	CDS	complement(1943466..1944908)	gatB; Putative aspartyl/glutamyl-tRNA amidotransferase subunit B
+sga:GALLO_1873	CDS	complement(1944908..1946374)	gatA; Putative aspartyl-/glutamyl-tRNA amidotransferase, subunit A
+sga:GALLO_1874	CDS	complement(1946374..1946676)	gatC; Putative aspartyl/glutamyl-tRNA(Gln) amidotransferase, subunit C
+sga:GALLO_1875	CDS	complement(1946800..1947348)	pncA; Putative pyrazinamidase/nicotinamidase (isochorismate synthase)
+sga:GALLO_1876	CDS	complement(1947348..1948133)	codY; Putative transcriptional regulator CodY
+sga:GALLO_1877	CDS	complement(1948346..1949560)	Putative aspartate(tyrosine/aromatic) aminotransferase
+sga:GALLO_1878	CDS	complement(1949597..1951363)	conserved hypothetical protein
+sga:GALLO_1879	CDS	1951687..1952139	conserved hypothetical protein
+sga:GALLO_1880	CDS	complement(1952216..1953619)	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_1881	CDS	1953690..1954652	Putative L-asparaginase
+sga:GALLO_1882	CDS	complement(1954717..1954920)	putative transcriptional regulator, Cro/CI family
+sga:GALLO_1883	CDS	complement(1954933..1955436)	conserved hypothetical protein
+sga:GALLO_1884	CDS	complement(1955467..1955934)	hypothetical protein
+sga:GALLO_1885	CDS	complement(1956433..1958448)	recG; ATP-dependent DNA helicase RecG
+sga:GALLO_1886	CDS	complement(1958534..1959640)	alr; Putative alanine racemase
+sga:GALLO_1887	CDS	complement(1959697..1960056)	Putative 4'-phosphopantetheinyl transferase, holo-acyl (protein-carrier) synthase
+sga:GALLO_1888	CDS	complement(1960177..1961232)	Putative 3-deoxy-7-phosphoheptulonate synthase
+sga:GALLO_1889	CDS	complement(1961236..1962267)	Putative 3-deoxy-7-phosphoheptulonate synthase (DAHP)
+sga:GALLO_1890	CDS	complement(1962364..1964892)	secA; Putative translocase binding subunit (secA)
+sga:GALLO_1891	CDS	complement(1965178..1966059)	putative fructokinase
+sga:GALLO_1892	CDS	complement(1966213..1968147)	putative PTS system, sucrose subfamily, IIABC component
+sga:GALLO_1893	CDS	1968346..1969785	putative sucrose-6-phosphate hydrolase
+sga:GALLO_1894	CDS	1969787..1970749	putative sucrose operon regulator
+sga:GALLO_1895	CDS	complement(1970855..1971283)	nusB; putative antitermination protein NusB
+sga:GALLO_1896	CDS	complement(1971276..1971665)	conserved hypothetical protein
+sga:GALLO_1897	CDS	complement(1971743..1972303)	efp; translation elongation factor P
+sga:GALLO_1898	CDS	1972471..1972785	conserved hypothetical protein
+sga:GALLO_1899	CDS	complement(1972836..1973660)	conserved hypothetical protein
+sga:GALLO_1900	CDS	complement(1973683..1974147)	putative competence protein ComEB required for DNA binding and uptake
+sga:GALLO_1901	CDS	complement(1974169..1975230)	putative aminopeptidase P
+sga:GALLO_1902	CDS	complement(1975421..1975765)	hypothetical protein
+sga:GALLO_1903	CDS	complement(1975908..1977134)	conserved hypothetical protein
+sga:GALLO_1904	CDS	complement(1977395..1980220)	uvrA; excinuclease ABC
+sga:GALLO_1905	CDS	1980540..1981484	putative cation (Mg++, Co++) transporter CorA family
+sga:GALLO_1906	CDS	1981995..1982651	conserved hypothetical membrane spanning protein
+sga:GALLO_1907	CDS	complement(1982697..1983146)	hypothetical protein
+sga:GALLO_1908	CDS	complement(1983148..1983357)	putative transcriptional regulator
+sga:GALLO_1909	CDS	complement(1983360..1983884)	conserved hypothetical protein
+sga:GALLO_1910	CDS	complement(1984019..1984258)	rpsR; ribosomal protein S18
+sga:GALLO_1911	CDS	complement(1984319..1984834)	ssbA; single-strand DNA-binding protein
+sga:GALLO_1912	CDS	complement(1984846..1985136)	rpsF; ribosomal protein S6
+sga:GALLO_1913	CDS	complement(1985362..1985526)	hypothetical protein
+sga:GALLO_1914	CDS	complement(1985752..1986300)	putative protein of BioY family
+sga:GALLO_1915	CDS	complement(1986300..1986968)	bioD; dethiobiotin synthetase
+sga:GALLO_1916	CDS	complement(1986961..1987896)	bioB; biotin synthetase
+sga:GALLO_1917	CDS	complement(1988173..1989711)	putative NADH oxidase/alkyl hydroperoxidase
+sga:GALLO_1918	CDS	complement(1989723..1990283)	putative alkyl hydroperoxide reductase
+sga:GALLO_1919	CDS	complement(1990497..1991216)	putative ABC transporter; ATP-binding protein
+sga:GALLO_1920	CDS	complement(1991226..1991999)	putative ABC transporter; permease protein
+sga:GALLO_1921	CDS	complement(1992019..1992999)	putative ABC transporter; substrate-binding protein
+sga:GALLO_1922	CDS	complement(1993001..1994518)	putative Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II
+sga:GALLO_1923	CDS	complement(1994515..1996038)	putative Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II
+sga:GALLO_1924	CDS	complement(1996046..1997206)	conserved hypothetical protein
+sga:GALLO_1925	CDS	1998396..1999550	putative A/G-specific adenine glycosylase
+sga:GALLO_1926	gene	1999731..2000021	pseudogene
+sga:GALLO_1927	CDS	complement(2000676..2001881)	major facilitator family transporter
+sga:GALLO_1928	CDS	2002118..2002717	putative oxidoreductase
+sga:GALLO_1929	CDS	2002731..2005145	putative flavin oxidoreductase
+sga:GALLO_1930	CDS	complement(2005414..2005842)	conserved hypothetical protein
+sga:GALLO_1931	CDS	complement(2005969..2006370)	hypothetical protein
+sga:GALLO_1932	CDS	complement(2006458..2007501)	putative alcohol dehydrogenase
+sga:GALLO_1933	CDS	complement(2007908..2008222)	putative thioredoxin
+sga:GALLO_1934	CDS	2008482..2008979	conserved hypothetical protein
+sga:GALLO_1935	CDS	complement(2009059..2009919)	nadC; nicotinate-nucleotide pyrophosphorylase
+sga:GALLO_1936	CDS	complement(2009947..2011251)	nadB; putative L-aspartate oxidase
+sga:GALLO_1937	CDS	2011487..2012407	nadA; Quinolinate synthetase A
+sga:GALLO_1938	gene	2012826..2013113	pseudogene
+sga:GALLO_1939	gene	2013058..2013819	pseudogene
+sga:GALLO_1940	CDS	2013812..2015362	putative ABC transporter, ATPase and permease protein
+sga:GALLO_1941	CDS	complement(2015410..2017746)	mutS2; Mismatch repair ATPase (MutS family)
+sga:GALLO_1942	CDS	complement(2017852..2018400)	conserved hypothetical protein
+sga:GALLO_1943	CDS	complement(2018403..2018711)	conserved hypothetical protein
+sga:GALLO_1944	CDS	complement(2018877..2019452)	conserved hypothetical protein
+sga:GALLO_1945	CDS	complement(2019485..2020129)	putative nitroreductase
+sga:GALLO_1946	CDS	complement(2020142..2021284)	putative NADH-dependent oxidoreductase
+sga:GALLO_1947	CDS	2021419..2021787	putative transcriptional regulator, MarR family
+sga:GALLO_1948	CDS	2021868..2022770	rnhC; ribonuclease HIII
+sga:GALLO_1949	CDS	2022787..2023380	signal peptidase I
+sga:GALLO_1950	CDS	2023498..2025978	putative exodeoxyribonuclease V alpha subunit
+sga:GALLO_1951	CDS	2026213..2026716	conserved hypothetical protein
+sga:GALLO_1952	CDS	complement(2026771..2027868)	putative DNA polymerase IV
+sga:GALLO_1953	CDS	2028095..2030419	pflA; pyruvate formate-lyase
+sga:GALLO_1954	CDS	2030479..2030916	putative acetyltransferase
+sga:GALLO_1955	CDS	complement(2031286..2031900)	conserved hypothetical protein
+sga:GALLO_1956	CDS	complement(2031999..2032919)	conserved hypothetical protein (beta-lactamase motif)
+sga:GALLO_1957	CDS	complement(2032916..2033662)	conserved hypothetical protein
+sga:GALLO_1958	CDS	complement(2034010..2034855)	putative glycerol uptake facilitator protein
+sga:GALLO_1959	CDS	2034977..2037256	X-prolyl-dipeptidyl aminopeptidase
+sga:GALLO_1960	CDS	complement(2037461..2039113)	phoR; phosphate regulon sensor protein phoR
+sga:GALLO_1961	CDS	complement(2039106..2039783)	phoB; phosphate regulon response regulator PhoB
+sga:GALLO_1962	CDS	complement(2039783..2040433)	phoU; putative phosphate transport system regulatory protein PhoU
+sga:GALLO_1963	CDS	complement(2040430..2041179)	putative phosphate ABC transporter, ATP-binding protein
+sga:GALLO_1964	CDS	complement(2041172..2042050)	Putative phosphate ABC transporter, permease protein
+sga:GALLO_1965	CDS	complement(2042056..2042901)	putative phosphate ABC transporter, permease protein
+sga:GALLO_1966	CDS	complement(2042911..2043780)	putative phosphate ABC transporter, phosphate-binding protein
+sga:GALLO_1967	CDS	2044024..2044320	conserved hypothetical protein
+sga:GALLO_1968	CDS	complement(2044364..2045098)	putative transcriptional regulator, MerR family
+sga:GALLO_1969	CDS	complement(2045202..2045789)	putative DNA polymerase III epsilon subunit
+sga:GALLO_1970	CDS	complement(2045862..2046395)	conserved hypothetical protein
+sga:GALLO_1971	CDS	2046618..2047790	putative NAD(FAD)-utilizing dehydrogenases
+sga:GALLO_1972	CDS	2047921..2048190	Paralogous protein of ribosomal protein S14
+sga:GALLO_1973	CDS	complement(2048255..2048734)	putative acetyltransferase (GNAT) family
+sga:GALLO_1974	CDS	complement(2048744..2049769)	conserved hypothetical protein
+sga:GALLO_1975	CDS	2049879..2050280	putative transcriptional regulator, MarR family
+sga:GALLO_1976	CDS	complement(2050269..2050595)	conserved hypothetical protein
+sga:GALLO_1977	CDS	complement(2050585..2051280)	putative amino acid permease
+sga:GALLO_1978	CDS	complement(2051418..2051957)	putative 6-phospho-3-hexuloisomerase
+sga:GALLO_1979	CDS	complement(2051975..2052427)	Putative PTS system, galactitol-specific, IIA component
+sga:GALLO_1980	CDS	complement(2052437..2052727)	Putative PTS system, galactitol-specific, IIB component
+sga:GALLO_1981	CDS	complement(2052752..2054107)	Putative PTS system, galactitol-specific, IIC component
+sga:GALLO_1982	CDS	complement(2054146..2054505)	putative ribose 5-phosphate isomerase
+sga:GALLO_1983	CDS	2054839..2055591	putative transcriptional regulator, DeoR family
+sga:GALLO_1984	CDS	complement(2056179..2057189)	gcp; putative O-sialoglycoprotein endopeptidase
+sga:GALLO_1985	CDS	complement(2057199..2057621)	putative protein acetyltransferase
+sga:GALLO_1986	CDS	complement(2057623..2058312)	putative glycoprotein endopeptidase
+sga:GALLO_1987	CDS	2058493..2058723	conserved hypothetical protein
+sga:GALLO_1988	CDS	2058725..2060407	putative metallo-beta-lactamase superfamily protein
+sga:GALLO_1989	CDS	complement(2060673..2061290)	conserved hypothetical protein
+sga:GALLO_1990	CDS	complement(2061484..2062923)	gltB; glutamate synthase (small subunit)
+sga:GALLO_1991	CDS	complement(2062925..2067442)	gltA; glutamate synthase (large subunit)
+sga:GALLO_1992	CDS	complement(2067620..2068966)	glnA; glutamine synthetase
+sga:GALLO_1993	CDS	complement(2069016..2069387)	glnR; transcriptional regulator; glutamine synthetase repressor
+sga:GALLO_1994	CDS	complement(2069476..2070012)	conserved hypothetical protein
+sga:GALLO_1995	CDS	complement(2070241..2071437)	pgk; phosphoglycerate kinase
+sga:GALLO_1996	CDS	complement(2071625..2072638)	gap; glyceraldehyde-3-phosphate dehydrogenase
+sga:GALLO_1997	CDS	complement(2072843..2074921)	fusA; translation elongation factor G
+sga:GALLO_1998	CDS	complement(2075122..2075592)	rpsG; ribosomal protein S7
+sga:GALLO_1999	CDS	complement(2075613..2076026)	rpsL; ribosomal protein S12
+sga:GALLO_2000	CDS	complement(2076318..2077130)	purR; transcriptional regulator PurR
+sga:GALLO_2001	CDS	complement(2077277..2078215)	putative CMP-binding factor
+sga:GALLO_2002	CDS	complement(2078205..2079479)	conserved hypothetical protein, RmuC homolog
+sga:GALLO_2003	CDS	complement(2079481..2080110)	thiN; putative thiamine pyrophosphokinase
+sga:GALLO_2004	CDS	complement(2080103..2080765)	rpe; ribulose-5-phosphate 3-epimerase
+sga:GALLO_2005	CDS	complement(2080772..2081644)	conserved ATP/GTP binding protein
+sga:GALLO_2006	CDS	complement(2082855..2083097)	Hypothetical protein
+sga:GALLO_t0066	tRNA	2082884..2082967	tRNA-Leu
+sga:GALLO_t0067	tRNA	2083024..2083112	tRNA-Ser
+sga:GALLO_2007	CDS	complement(2084171..2085535)	putative two-component sensor histidine kinase
+sga:GALLO_2008	CDS	complement(2085548..2086276)	putative two-component response regulator
+sga:GALLO_2009	CDS	complement(2086375..2086668)	putative bacteriocin immunity protein
+sga:GALLO_2010	CDS	complement(2086719..2086946)	hypothetical protein
+sga:GALLO_2011	CDS	complement(2087216..2087527)	conserved hypothetical protein
+sga:GALLO_2012	CDS	complement(2087698..2087997)	conserved hypothetical protein
+sga:GALLO_2013	CDS	2088300..2088434	hypothetical protein
+sga:GALLO_2014	CDS	complement(2088456..2089763)	putative two-component sensor histidine kinase
+sga:GALLO_2015	CDS	complement(2089771..2090502)	putative two-component response regulator
+sga:GALLO_2016	CDS	complement(2090519..2090845)	putative regulatory protein
+sga:GALLO_2017	CDS	complement(2091046..2091246)	hypothetical Immunity protein
+sga:GALLO_2018	CDS	complement(2091568..2092581)	cell wall associated protein (LPXTG motif) possibly involved in bacteriocin synthesis
+sga:GALLO_2019	CDS	complement(2093466..2093633)	conserved hypothetical protein
+sga:GALLO_2020	CDS	complement(2093639..2093836)	putative bacteriocin
+sga:GALLO_2021	CDS	complement(2093855..2094106)	putative bacteriocin
+sga:GALLO_2022	CDS	2094353..2094610	conserved hypothetical protein
+sga:GALLO_2023	CDS	2094717..2096864	putative bacteriocin ABC transporter ATP binding/permease protein
+sga:GALLO_2024	CDS	2096876..2098270	putative accessory factor for bacteriocin ABC-transporter
+sga:GALLO_2025	CDS	2098461..2099135	conserved hypothetical protein
+sga:GALLO_2026	CDS	2099153..2099323	hypothetical protein
+sga:GALLO_2027	CDS	2099341..2100012	conserved hypothetical protein
+sga:GALLO_2028	CDS	complement(2100046..2100918)	ksgA; dimethyladenosine transferase
+sga:GALLO_2029	CDS	complement(2100988..2101512)	conserved hypothetical protein
+sga:GALLO_2030	CDS	complement(2101509..2102099)	conserved hypothetical protein with a topoisomerase-primase domain
+sga:GALLO_2031	CDS	complement(2102071..2102850)	putative deoxyribonuclease
+sga:GALLO_2032	CDS	complement(2102987..2105314)	putative collagen Binding Protein, peptidoglycan linked protein (LPXTG motif)
+sga:GALLO_2033	CDS	complement(2105328..2107016)	transposase
+sga:GALLO_2034	CDS	2107563..2108531	ldhB; lactate dehydrogenase
+sga:GALLO_2035	CDS	2109032..2109898	hypothetical protease
+sga:GALLO_2036	CDS	complement(2110327..2112123)	putative cation transport ATPase
+sga:GALLO_2037	CDS	2112520..2112681	Hypothetical protein
+sga:GALLO_2038	CDS	complement(2112743..2113681)	Putative C-type sortase
+sga:GALLO_2039	CDS	complement(2113826..2115262)	cell wall anchored protein (LPXTG motif)
+sga:GALLO_2040	CDS	complement(2115353..2120347)	Putative peptidoglycan linked protein (LPXTG motif)
+sga:GALLO_2041	CDS	complement(2120388..2120981)	Putative signal peptidase
+sga:GALLO_2042	CDS	complement(2120968..2121225)	Hypothetical protein
+sga:GALLO_2043	CDS	complement(2121861..2122514)	Hypothetical protein
+sga:GALLO_2044	CDS	2122760..2124325	Putative ABC transporter, ATP binding and permease protein
+sga:GALLO_2045	CDS	complement(2124758..2125576)	Putaitve manganese ABC transporter (permease component)
+sga:GALLO_2046	CDS	complement(2125587..2126300)	Putative manganese ABC transporter (ATP-binding protein)
+sga:GALLO_2047	CDS	complement(2126343..2127269)	Putative manganese ABC transporter, substrate-binding liprotein and adhesin
+sga:GALLO_2048	CDS	complement(2127526..2128797)	mleP; Putative malate transporter
+sga:GALLO_2049	CDS	complement(2128819..2130441)	mleS; Putative malolactic enzyme
+sga:GALLO_2050	CDS	2130598..2131479	mleR; Putative malolactic fermentation system transcriptional regulator
+sga:GALLO_2051	CDS	complement(2131561..2132970)	Putative glucan-binding protein D, BglB-like protein
+sga:GALLO_2052	CDS	complement(2133464..2134738)	dltD; D-Alanine extramembranal transfer protein
+sga:GALLO_2053	CDS	complement(2134731..2134970)	dltC; D-alanyl carrier protein
+sga:GALLO_2054	CDS	complement(2135001..2136263)	dltB; integral membrane protein (involved in D-Ala transport)
+sga:GALLO_2055	CDS	complement(2136260..2137798)	dltA; D-alanine-activating enzyme
+sga:GALLO_2056	CDS	complement(2137813..2137935)	conserved hypothetical protein
+sga:GALLO_2057	CDS	complement(2138184..2138360)	hypothetical protein
+sga:GALLO_2058	CDS	complement(2138507..2138716)	conserved hypothetical protein
+sga:GALLO_2059	CDS	complement(2138833..2139456)	Putative v-type sodium ATP synthase, subunit D
+sga:GALLO_2060	CDS	complement(2139490..2140884)	Putative V-type sodium ATP synthase, subunit B
+sga:GALLO_2061	CDS	complement(2140886..2142661)	Putative V-type sodium ATP synthase subunit A
+sga:GALLO_2062	CDS	complement(2143467..2143787)	Putative v-type sodium ATP synthase, subunit G
+sga:GALLO_2063	CDS	complement(2143777..2144787)	Putative v-type sodium ATP synthase, subunit C
+sga:GALLO_2064	CDS	complement(2144802..2145386)	Putative v-type sodium ATP synthase, subunit E
+sga:GALLO_2065	CDS	complement(2145457..2145936)	Putative v-type sodium ATP synthase, subunit K
+sga:GALLO_2066	CDS	complement(2145938..2147932)	Putative v-type sodium ATP synthase, subunit I
+sga:GALLO_2067	CDS	complement(2147922..2148245)	conserved hypothetical protein
+sga:GALLO_2068	CDS	complement(2148707..2150470)	putative permease of the major facilitator superfamily
+sga:GALLO_2069	CDS	2150634..2151173	transcriptional regulator, TetR family
+sga:GALLO_2070	CDS	complement(2151252..2151386)	rpmH; ribosomal protein L34
+sga:GALLO_2071	CDS	complement(2151591..2151992)	hypothetical protein
+sga:GALLO_2072	CDS	complement(2152140..2152526)	conserved hypothetical protein
+sga:GALLO_2073	CDS	complement(2152537..2152992)	putative transcriptional regulator, LytR family
+sga:GALLO_2074	gene	complement(2153015..2153194)	pseudogene
+sga:GALLO_2075	gene	complement(2153076..2153855)	pseudogene
+sga:GALLO_2076	CDS	complement(2153856..2154707)	putative ABC transporter, ATP-binding protein
+sga:GALLO_2077	CDS	complement(2154830..2155828)	conserved hypothetical protein, Jag family
+sga:GALLO_2078	CDS	complement(2155841..2156656)	conserved hypothetical membrane protein
+sga:GALLO_2079	CDS	complement(2156640..2156999)	rnpA; ribonuclease P protein component
+sga:GALLO_2080	CDS	complement(2157128..2158522)	argH; argininosuccinate lyase
+sga:GALLO_2081	CDS	complement(2159093..2160283)	argG; argininosuccinate synthase
+sga:GALLO_2082	CDS	complement(2160518..2161699)	Major Facilitator Superfamily protein
+sga:GALLO_2083	CDS	complement(2162113..2163279)	putative major facilitator superfamily transport protein
+sga:GALLO_2084	CDS	complement(2163454..2164911)	gltX; glutamyl-tRNA synthetase
+sga:GALLO_2085	CDS	complement(2165096..2165590)	conserved hypothetical protein
+sga:GALLO_2086	CDS	complement(2165693..2166187)	carbonic anhydrase-related protein
+sga:GALLO_2087	CDS	complement(2166313..2167674)	radA; DNA repair protein RadA
+sga:GALLO_2088	CDS	complement(2167719..2168165)	dut; Deoxy UTP pyrophosphatase (dUTPase)
+sga:GALLO_2089	CDS	complement(2168288..2169487)	putative major facilitator family transporter
+sga:GALLO_2090	CDS	complement(2169503..2170705)	putative major facilitator family transporter
+sga:GALLO_2091	CDS	complement(2170870..2171637)	conserved hypothetical protein
+sga:GALLO_2092	CDS	2171833..2172849	gpdA; NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+sga:GALLO_2093	CDS	2172909..2173823	galU; putative UTP-glucose-1-phosphate uridylyltransferase
+sga:GALLO_2094	CDS	complement(2173870..2174541)	conserved hypothetical membrane protein
+sga:GALLO_2095	CDS	complement(2174538..2175065)	putative 5-formyltetrahydrofolate cyclo-ligase
+sga:GALLO_2096	CDS	complement(2175349..2176479)	putative hippurate hydrolase
+sga:GALLO_2097	CDS	complement(2176983..2177681)	dapD; putative 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+sga:GALLO_2098	CDS	complement(2177972..2179321)	pgi; glucose-6-phosphate isomerase
+sga:GALLO_2099	CDS	complement(2179760..2180266)	putative cytidine/deoxycytidylate deaminase family protein
+sga:GALLO_2100	CDS	complement(2180266..2181042)	putative metal-dependent hydrolase
+sga:GALLO_2101	CDS	complement(2181102..2181632)	conserved hypothetical protein (BioY family)
+sga:GALLO_2102	CDS	complement(2181636..2181944)	CHY zinc finger family protein
+sga:GALLO_2103	CDS	complement(2182069..2183211)	tgt; queuine tRNA-ribosyltransferase
+sga:GALLO_2104	CDS	2183481..2184239	conserved hypothetical membrane protein
+sga:GALLO_2105	CDS	complement(2184315..2184812)	fur; Ferric uptake regulation protein
+sga:GALLO_2106	CDS	2185082..2185618	padC; putative phenolic acid decarboxylase
+sga:GALLO_2107	CDS	2185683..2186237	padR; putative regulator of phenolic acid metabolism PadR
+sga:GALLO_2108	CDS	complement(2186274..2186696)	conserved hypothetical protein with CoA binding domain
+sga:GALLO_2109	CDS	complement(2186954..2189590)	polA; DNA polymerase I
+sga:GALLO_2110	CDS	complement(2189983..2190927)	putative permeases
+sga:GALLO_2111	CDS	complement(2191146..2193116)	tkt; transketolase
+sga:GALLO_2112	CDS	complement(2193157..2193804)	transaldolase
+sga:GALLO_2113	CDS	complement(2193867..2194958)	conserved hypothetical protein
+sga:GALLO_2114	CDS	complement(2195098..2197152)	putative transcriptional antiterminator, BglG family
+sga:GALLO_2115	CDS	complement(2197176..2197811)	putative keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+sga:GALLO_2116	CDS	complement(2197808..2198716)	dapA; putative dihydrodipicolinate synthase
+sga:GALLO_2117	CDS	complement(2198718..2199317)	putative carbohydrate isomerase, KpsF/GutQ family
+sga:GALLO_2118	CDS	complement(2199358..2200620)	putative PTS system, ascorbate family, IIC component
+sga:GALLO_2119	CDS	complement(2200647..2200922)	putative PTS system, ascorbate family, IIA component
+sga:GALLO_2120	CDS	complement(2200915..2201382)	putative PTS system enzyme IIA domain
+sga:GALLO_2121	CDS	complement(2201657..2203315)	putative transcription antiterminator, BglG
+sga:GALLO_2122	CDS	complement(2203591..2204301)	putative L-ribulose-5-phosphate 4-epimerase
+sga:GALLO_2123	CDS	complement(2204301..2205164)	putative hexulose-6-phosphate isomerase
+sga:GALLO_2124	CDS	complement(2205168..2205833)	putative 3-hexulose-6-phosphate synthase
+sga:GALLO_2125	CDS	complement(2205875..2206360)	Putative PTS system, ascorbate specific, IIA component
+sga:GALLO_2126	CDS	complement(2206592..2206873)	Putative PTS system, IIB component
+sga:GALLO_2127	CDS	complement(2206947..2208407)	Putative PTS system, ascorbate specific, IIC component
+sga:GALLO_2128	CDS	complement(2208633..2209190)	conserved hypothetical protein
+sga:GALLO_2129	CDS	complement(2209217..2210377)	putative Iron-containing alcohol dehydrogenase
+sga:GALLO_2130	CDS	complement(2210396..2211229)	putative ABC-type metal ion transport system, binding protein
+sga:GALLO_2131	CDS	complement(2211304..2211957)	putative ABC-type metal ion transport system, permease component
+sga:GALLO_2132	CDS	complement(2211954..2212961)	putative ABC-type metal ion transport system, ATP-binding component
+sga:GALLO_2133	CDS	2213744..2214145	putative transcriptional regulator
+sga:GALLO_2134	CDS	complement(2214322..2215614)	purA; adenylosuccinate synthase
+sga:GALLO_2135	CDS	2216110..2218362	putative glutamate-cysteine ligase
+sga:GALLO_2136	CDS	complement(2219012..2219434)	conserved hypothetical protein
+sga:GALLO_2137	CDS	complement(2220401..2221240)	conserved hypothetical protein
+sga:GALLO_2138	CDS	complement(2221513..2223141)	putative phage associated protein
+sga:GALLO_2139	CDS	complement(2223116..2223664)	putative phage protein
+sga:GALLO_2140	CDS	complement(2223799..2223963)	hypothetical protein
+sga:GALLO_2141	CDS	complement(2223960..2224232)	conserved hypothetical protein
+sga:GALLO_2142	CDS	complement(2224235..2224576)	conserved hypothetical phage protein
+sga:GALLO_2143	CDS	complement(2224588..2224782)	conserved hypothetical phage protein
+sga:GALLO_2144	CDS	complement(2224786..2225016)	hypothetical protein
+sga:GALLO_2145	CDS	complement(2225378..2225599)	putative phage transcriptional regulator, Cro/CI family
+sga:GALLO_2146	CDS	2225747..2226139	putative phage transcriptional regulator
+sga:GALLO_2147	CDS	2226140..2226508	conserved hypothetical phage protein
+sga:GALLO_2148	CDS	2226703..2226939	hypothetical protein
+sga:GALLO_2149	CDS	2227445..2228611	integrase/recombinase, phage associated
+sga:GALLO_2150	CDS	2228737..2229564	conserved hypothetical protein
+sga:GALLO_2151	CDS	2229594..2230871	conserved hypothetical protein
+sga:GALLO_2152	CDS	complement(2231207..2231605)	conserved hypothetical protein
+sga:GALLO_2153	CDS	complement(2231605..2232120)	conserved hypothetical protein
+sga:GALLO_2154	CDS	complement(2232133..2232876)	putative ABC transporter permease protein
+sga:GALLO_2155	CDS	complement(2232869..2233735)	putative ABC transporter, ATP-binding protein
+sga:GALLO_2156	CDS	complement(2233725..2234708)	hypothetical protein
+sga:GALLO_2157	CDS	complement(2234702..2235517)	conserved hypothetical protein, putative oxidoreductase
+sga:GALLO_2158	CDS	complement(2235526..2236740)	conserved hypothetical protein
+sga:GALLO_2159	CDS	complement(2236737..2237606)	hypothetical protein
+sga:GALLO_2160	CDS	complement(2237703..2237843)	hypothetical protein
+sga:GALLO_2161	CDS	2238130..2238996	putative heat shock protein, chaperonin, 33 kDa
+sga:GALLO_2162	CDS	2238989..2239966	putative tRNA-dihydrouridine synthase
+sga:GALLO_2163	CDS	complement(2240040..2242481)	clpC; ATP-dependent Clp protease, ATP-binding subunit
+sga:GALLO_2164	CDS	complement(2242478..2242939)	ctsR; transcriptional regulator CtsR
+sga:GALLO_2165	CDS	2243650..2244114	Putative small multi-drug export protein
+sga:GALLO_2166	CDS	complement(2244229..2245089)	putative transcriptional regulator PlcR family
+sga:GALLO_2167	CDS	complement(2245131..2246327)	Major facilitator superfamily MFS_1 protein
+sga:GALLO_2168	CDS	complement(2246544..2247581)	tsf; elongation factor Ts
+sga:GALLO_2169	CDS	complement(2247692..2248459)	rpsB; ribosomal protein S2
+sga:GALLO_t0068	tRNA	complement(2248775..2248845)	tRNA-Cys
+sga:GALLO_2170	CDS	2248984..2249937	hypothetical carboxypeptidase
+sga:GALLO_2171	CDS	complement(2250207..2251073)	conserved hypothetical protein
+sga:GALLO_2172	CDS	complement(2251421..2253316)	putative endopeptidase
+sga:GALLO_2173	CDS	2253452..2254432	putative oxidoreductase
+sga:GALLO_2174	CDS	complement(2254830..2256461)	putative Trehalose-6-phosphate hydrolase
+sga:GALLO_2175	CDS	complement(2256476..2258449)	Putative PTS system, trehalose-specific, EIIABC component
+sga:GALLO_2176	CDS	2258645..2259358	putative transcriptional regulator; repressor of the trehalose operon
+sga:GALLO_2177	CDS	complement(2259659..2260486)	putative C-type sortase
+sga:GALLO_2178	CDS	complement(2260674..2262116)	Putative peptidoglycan linked protein (fimbrial structural unit) (LPXTG motif)
+sga:GALLO_2179	CDS	complement(2262223..2264199)	putative collagen-binding protein Cne precursor ((FPXTG motif protein)
+sga:GALLO_2180	CDS	2264746..2265348	putative transcriptional regulator, TetR family
+sga:GALLO_2181	CDS	complement(2266318..2267316)	ruvB; Holliday junction DNA helicase RuvB
+sga:GALLO_2182	CDS	complement(2267814..2268428)	nrdG; putative anaerobic ribonucleoside-triphosphate reductase activating protein
+sga:GALLO_2183	CDS	complement(2268470..2268976)	putative acetyltransferase, GNAT family
+sga:GALLO_2184	CDS	complement(2268988..2269134)	conserved hypothetical protein
+sga:GALLO_2185	CDS	complement(2269374..2271590)	nrdD; putative anaerobic ribonucleoside-triphosphate reductase
+sga:GALLO_2186	CDS	complement(2271692..2273281)	conserved hypothetical membrane protein
+sga:GALLO_2187	CDS	complement(2273544..2273861)	conserved hypothetical protein
+sga:GALLO_2188	CDS	complement(2273894..2274313)	Conserved hypothetical protein
+sga:GALLO_2189	CDS	complement(2274310..2274579)	conserved hypothetical protein
+sga:GALLO_2190	CDS	complement(2274902..2275300)	putative transcriptional regulator, ArsC family
+sga:GALLO_2191	CDS	complement(2275570..2276724)	recA; recombination protein A
+sga:GALLO_2192	CDS	complement(2276774..2278033)	cinA; competence-damage inducible protein
+sga:GALLO_2193	CDS	complement(2278165..2279355)	Putative major facilitator superfamily protein (multidrug-efflux transporter)
+sga:GALLO_2194	CDS	complement(2279738..2280202)	hypothetical secreted protein
+sga:GALLO_2195	CDS	complement(2280272..2280679)	conserved hypothetical membrane protein
+sga:GALLO_2196	CDS	2280842..2281696	putative transcriptional regulator
+sga:GALLO_2197	CDS	complement(2281770..2282363)	ruvA; Holliday junction DNA helicase
+sga:GALLO_2198	CDS	complement(2282365..2284308)	mutL; DNA mismatch repair protein mutL
+sga:GALLO_2199	CDS	complement(2284425..2286995)	mutS; DNA Mismatch repair ATPase (MutS family)
+sga:GALLO_2200	CDS	complement(2286982..2287338)	Conserved hypothetical protein
+sga:GALLO_2201	CDS	complement(2287335..2287772)	argR; arginine repressor ArgR
+sga:GALLO_2202	CDS	2287963..2289654	argS; arginyl-tRNA synthetase
+sga:GALLO_2203	CDS	2289767..2290060	hypothetical bacteriocin
+sga:GALLO_2204	CDS	complement(2290101..2291606)	putative lipase
+sga:GALLO_2205	CDS	complement(2291946..2292818)	conserved hypothetical membrane protein
+sga:GALLO_2206	CDS	complement(2292902..2293840)	Conserved hypothetical protein
+sga:GALLO_2207	CDS	complement(2293833..2295581)	aspS; aspartyl-tRNA synthetase
+sga:GALLO_2208	CDS	complement(2295760..2296260)	putative transcriptional regulator
+sga:GALLO_2209	CDS	complement(2296432..2297709)	hisS; histidyl-tRNA synthetase
+sga:GALLO_2210	CDS	2298026..2298202	rpmF; Ribosomal protein L32
+sga:GALLO_2211	CDS	2298218..2298367	rpmG; Ribosomal protein L33
+sga:GALLO_2212	CDS	complement(2298626..2300329)	putative ATPase
+sga:GALLO_2213	CDS	complement(2300430..2300633)	putative transcription regulator
+sga:GALLO_2214	CDS	2300741..2301655	conserved hypothetical secreted protein
+sga:GALLO_2215	CDS	complement(2302061..2303398)	conserved hypothetical protein
+sga:GALLO_2216	CDS	2303652..2304179	hypothetical protein
+sga:GALLO_2217	CDS	2304277..2304591	conserved hypothetical protein
+sga:GALLO_2218	CDS	2304591..2305667	putative FtsK/SpoIIIE family protein
+sga:GALLO_2219	CDS	2305670..2306287	conserved hypothetical protein
+sga:GALLO_2220	CDS	2306481..2307071	putative plasmid replication protein
+sga:GALLO_2221	CDS	2307058..2307315	conserved hypothetical protein
+sga:GALLO_2222	CDS	2307403..2308668	integrase/recombinase, phage associated
+sga:GALLO_2223	CDS	2308947..2309258	conserved hypothetical protein
+sga:GALLO_2224	CDS	complement(2309441..2309899)	putative acetyltransferase (GNAT) family
+sga:GALLO_2225	CDS	complement(2309904..2310350)	putative transcriptional regulator, MarR family
+sga:GALLO_2226	CDS	2310584..2310910	putative transcriptional regulator, PadR family
+sga:GALLO_2227	CDS	2310897..2311481	conserved hypothetical membrane protein
+sga:GALLO_2228	CDS	2311478..2312383	conserved hypothetical protein
+sga:GALLO_2229	CDS	complement(2312423..2312776)	conserved hypothetical membrane protein
+sga:GALLO_2230	CDS	complement(2312996..2315323)	conserved hypothetical membrane protein
+sga:GALLO_2231	CDS	2315455..2315997	Putative transcriptional regulator, TetR family
+sga:GALLO_2232	CDS	complement(2316333..2316944)	rpsD; Ribosomal protein S4
+sga:GALLO_2233	CDS	complement(2317211..2317483)	Conserved protein of unknown function
+sga:GALLO_2234	CDS	complement(2317522..2318883)	dnaC; replicative DNA helicase DnaC
+sga:GALLO_2235	CDS	complement(2318920..2319372)	rplI; Ribosomal protein L9
+sga:GALLO_2236	CDS	complement(2319372..2321348)	Conserved hypothetical protein
+sga:GALLO_2237	CDS	complement(2321435..2323339)	trmF; tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+sga:GALLO_2238	CDS	complement(2323561..2324199)	conserved hypothetical protein
+sga:GALLO_2239	CDS	complement(2324263..2325384)	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+sga:GALLO_2240	CDS	2325623..2326294	sdaB; putative L-serine dehydratase, iron-sulfur-dependent, beta subunit
+sga:GALLO_2241	CDS	2326306..2327178	sdaA; putative L-serine dehydratase, iron-sulfur-dependent, alpha subunit
+sga:GALLO_2242	CDS	2327277..2327912	putative HAD-superfamily hydrolase / phosphatase
+sga:GALLO_2243	CDS	complement(2327942..2328595)	Transglycosylase-like domain protein
+sga:GALLO_2244	CDS	complement(2328802..2329392)	conserved hypothetical secreted protein
+sga:GALLO_2245	CDS	complement(2329525..2330322)	putative ABC transporter, permease protein
+sga:GALLO_2246	CDS	complement(2330315..2331157)	putative ABC transporter, ATP-binding protein
+sga:GALLO_2247	CDS	complement(2331133..2331975)	putative ABC transporter; ATP-binding protein
+sga:GALLO_2248	CDS	complement(2331972..2332526)	pgsA; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+sga:GALLO_2249	CDS	complement(2332536..2333480)	conserved membrane associated protein
+sga:GALLO_2250	CDS	complement(2333544..2334833)	putative Peptidase, M16 family
+sga:GALLO_2251	CDS	complement(2334834..2336078)	conserved hypothetical protein
+sga:GALLO_2252	CDS	2336167..2336544	Conserved hypothetical protein
+sga:GALLO_2253	CDS	2336547..2337641	recF; recombination protein RecF
+sga:GALLO_2254	CDS	complement(2337704..2338570)	putative sugar transport protein
+sga:GALLO_2255	CDS	complement(2338810..2340291)	guaB; inosine-monophosphate dehydrogenase
+sga:GALLO_2256	CDS	complement(2340552..2341574)	trpS; tryptophanyl-tRNA synthetase
+sga:GALLO_2257	CDS	2342055..2342927	conserved hypothetical protein
+sga:GALLO_2258	CDS	2343012..2344634	putative ABC transporter, ATP-binding protein
+sga:GALLO_2259	CDS	2344729..2347323	putative ABC transporter, permease protein
+sga:GALLO_t0069	tRNA	complement(2347389..2347462)	tRNA-Asn
+sga:GALLO_t0070	tRNA	complement(2347493..2347564)	tRNA-Glu
+sga:GALLO_t0071	tRNA	2347862..2347935	tRNA-Arg
+sga:GALLO_2260	CDS	complement(2348076..2348555)	conserved hypothetical protein
+sga:GALLO_2261	CDS	2348799..2350031	putative exported serine protease
+sga:GALLO_2262	CDS	2350101..2350877	parB; Chromosome partitioning protein, ParB family

@@ -1,0 +1,1991 @@
+sor:SOR_0001	CDS	1..1362	dnaA; chromosomal replication initiator protein
+sor:SOR_0002	CDS	1521..2657	dnaN; DNA polymerase III subunit beta
+sor:SOR_0003	CDS	2668..2916	conserved hypothetical protein
+sor:SOR_0004	CDS	3001..4116	putative GTP-binding protein
+sor:SOR_0005	CDS	4190..4759	peptidyl-tRNA hydrolase
+sor:SOR_0006	CDS	4760..8263	transcription-repair coupling factor
+sor:SOR_0007	CDS	8321..8587	conserved hypothetical protein
+sor:SOR_0008	CDS	8580..8948	conserved hypothetical protein
+sor:SOR_0009	CDS	8953..9075	conserved hypothetical protein
+sor:SOR_0010	CDS	9068..10336	conserved hypothetical protein
+sor:SOR_0011	CDS	10333..11610	putative MesJ/Ycf62 family protein
+sor:SOR_0012	CDS	11615..12157	hypoxanthine guanine phosphoribosyltransferase
+sor:SOR_0013	CDS	12173..14131	ftsH; cell-division protein
+sor:SOR_0014	CDS	14267..14422	putative RNA methyltransferase
+sor:SOR_0015	tRNA	14490..14561	tRNA-Glu
+sor:SOR_0016	rRNA	14803..16340	rRNA_16S-1; 16S ribosomal RNA
+sor:SOR_0017	tRNA	16390..16462	tRNA-Ala
+sor:SOR_0018	rRNA	16570..19487	rRNA_23S-1; 23S ribosomal RNA
+sor:SOR_0019	rRNA	19565..19679	rRNA_5S-1; rRNA_5S-1
+sor:SOR_0020	tRNA	19685..19758	tRNA-Asn
+sor:SOR_0021	CDS	20397..21731	adenylosuccinate synthetase
+sor:SOR_0022	misc_RNA	21777..21876	ccnC; csRNA3
+sor:SOR_0023	CDS	21932..22399	cytidine/deoxycytidylate deaminase family protein
+sor:SOR_0024	misc_RNA	22441..22624	ffs; scRNA, 4,5S RNA, signal recognition particle
+sor:SOR_0025	CDS	22585..23028	deoxyuridine 5'-triphosphate nucleotidohydrolase
+sor:SOR_0026	CDS	22988..23545	phosphoglycerate mutase family protein
+sor:SOR_0027	CDS	23697..24920	radA; DNA repair protein, predicted ATP-dependent serine protease
+sor:SOR_0028	CDS	24993..25487	conserved hypothetical protein, carbonic anhydrase, putative
+sor:SOR_0029	CDS	25700..26668	ribose-phosphate pyrophosphokinase
+sor:SOR_0030	CDS	26788..27225	conserved hypothetical protein, putative CoA binding protein
+sor:SOR_0031	CDS	complement(27254..28264)	conserved hypothetical protein
+sor:SOR_0032	CDS	28416..29585	aromatic amino acid aminotransferase
+sor:SOR_0033	CDS	29582..30352	recO; DNA repair protein RecO
+sor:SOR_0034	CDS	30349..31341	plsX; fatty acid/phospholipid synthesis protein
+sor:SOR_0035	CDS	31347..31583	acpP; acyl carrier protein
+sor:SOR_0036	CDS	31905..32081	putative excreted peptide, bacteriocin/pheromone-type, double glycine-cleavage motif
+sor:SOR_0037	CDS	32094..32285	hypothetical protein, putative bacteriocin immunity protein
+sor:SOR_0038	CDS	32314..32484	putative excreted peptide, bacteriocin/pheromone-type, double glycine-cleavage motif
+sor:SOR_0039	CDS	32801..34954	comA; peptide transport ATP-binding protein ComA
+sor:SOR_0040	CDS	34967..36316	comB; competence factor transport protein ComB
+sor:SOR_0041	CDS	36486..37193	purC; phosphoribosylaminoimidazole-succinocarboxamidesynthetase
+sor:SOR_0042	CDS	37395..41120	purL; phosphoribosylaminoimidazole-succinocarboxamide synthase
+sor:SOR_0043	CDS	41133..42575	purF; amidophosphoribosyltransferase
+sor:SOR_0044	CDS	42790..43812	purM; phosphoribosylaminoimidazole synthetase; phosphoribosylformylglycinamidine cyclo-ligase
+sor:SOR_0045	CDS	43809..44360	purN; phosphoribosylglycinamide formyltransferase
+sor:SOR_0046	CDS	44405..44869	putative acetyltransferase
+sor:SOR_0047	CDS	44871..46418	purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+sor:SOR_0048	CDS	46489..47244	hypothetical protein
+sor:SOR_0049	CDS	47376..48641	purD; phosphoribosylamine-glycine ligase
+sor:SOR_0050	CDS	48834..49322	purE; phosphoribosylaminoimidazole carboxylase,catalytic subunit
+sor:SOR_0051	CDS	49309..50400	purK; phosphoribosylaminoimidazole carboxylase
+sor:SOR_0052	CDS	50413..52668	hypothetical protein
+sor:SOR_0053	CDS	52959..54257	purB; adenylosuccinate lyase
+sor:SOR_0054	CDS	complement(54316..58347)	cell wall surface anchor family protein,beta-N-acetylhexosaminidase
+sor:SOR_0055	CDS	complement(58650..59366)	conserved hypothetical protein
+sor:SOR_0056	CDS	59688..61475	bgaC; beta-galactosidase 3
+sor:SOR_0057	CDS	61472..61948	PTS system, IIB component
+sor:SOR_0058	CDS	61975..62880	PTS-EIIC, PTS system, IIC component
+sor:SOR_0059	CDS	62867..63688	PTS system, IID component
+sor:SOR_0060	CDS	63692..64096	PTS system, IIA component
+sor:SOR_0061	CDS	64320..65486	agaS; putative tagatose-6-phosphate ketose/aldose isomerase
+sor:SOR_0062	CDS	65536..66492	lacD; Tagatose 1,6-diphosphate aldolase
+sor:SOR_0063	CDS	66639..67676	aldose 1-epimerase
+sor:SOR_0064	CDS	67787..68641	glyoxalase family protein
+sor:SOR_0065	CDS	68957..69529	hypothetical protein
+sor:SOR_0066	CDS	69531..70199	hypothetical protein
+sor:SOR_0067	CDS	70321..70992	hypothetical protein
+sor:SOR_0068	CDS	70995..71657	hypothetical protein
+sor:SOR_0069	CDS	71733..72290	hypothetical protein
+sor:SOR_0070	CDS	72490..72747	conserved hypothetical protein
+sor:SOR_0071	CDS	complement(72971..73582)	rhodanese-like domain protein, putative
+sor:SOR_0072	CDS	complement(73592..73900)	rhodanese family protein
+sor:SOR_0073	CDS	74076..74639	maltose O-acetyltransferase (Maltose transacetylase)
+sor:SOR_0074	CDS	complement(74679..75362)	conserved hypothetical protein
+sor:SOR_0075	CDS	complement(75355..76131)	conserved hypothetical protein, SPX domain-containing protein
+sor:SOR_0076	CDS	76333..77583	conserved hypothetical protein
+sor:SOR_0077	CDS	complement(77645..77731)	conserved hypothetical protein
+sor:SOR_0078	CDS	78008..78724	ABC transporter, ATP-binding protein, putative
+sor:SOR_0079	CDS	78726..79808	ABC transporter efflux protein, DrrB family,putative
+sor:SOR_0080	CDS	79848..80471	putative transcriptional regulator tetR family
+sor:SOR_0081	CDS	80505..80660	hypothetical protein
+sor:SOR_0082	CDS	80756..81520	phosphorylase, Pnp/Udp family protein, putative
+sor:SOR_0083	CDS	81554..82933	trk; potassium uptake protein
+sor:SOR_0084	CDS	82947..83612	potassium uptake protein, Trk family protein
+sor:SOR_0085	CDS	83770..85410	cell wall surface anchor family protein
+sor:SOR_0086	CDS	85491..86189	rr08; DNA-binding response regulator
+sor:SOR_0087	CDS	86186..87220	hk08; histidine protein kinase
+sor:SOR_0088	CDS	87423..88034	rpsD; 30S ribosomal protein S4
+sor:SOR_0089	gene	complement(88128..88667)	int_Sa05; pseudogene
+sor:SOR_0090	CDS	88849..90570	conserved hypothetical protein
+sor:SOR_0091	CDS	90760..91224	conserved hypothetical protein
+sor:SOR_0092	CDS	91225..92802	AAA family ATPase
+sor:SOR_0093	CDS	92950..93432	conserved hypothetical protein
+sor:SOR_0094	CDS	complement(93778..94296)	conserved hypothetical protein
+sor:SOR_0095	CDS	94796..94981	conserved hypothetical protein
+sor:SOR_0096	CDS	95259..95558	conserved hypothetical protein
+sor:SOR_0097	CDS	95607..95828	hypothetical protein
+sor:SOR_0098	CDS	96025..97365	FtsK/SpoIIIE family protein
+sor:SOR_0099	CDS	97352..97489	conserved hypothetical protein
+sor:SOR_0100	CDS	98062..98481	conserved hypothetical
+sor:SOR_0101	CDS	98486..99529	transcriptional regulator, Cro/CI family
+sor:SOR_0102	CDS	99563..99811	excisionase [Lactococcus phage bIL312]
+sor:SOR_0103	CDS	99827..101323	phage integrase family site specific recombinase
+sor:SOR_0104	CDS	complement(101411..102793)	hypothetical protein
+sor:SOR_0105	CDS	complement(102948..103097)	rpmGA; 50S ribosomal protein L33
+sor:SOR_0106	CDS	complement(103113..103295)	rpmF; 50S ribosomal protein L32
+sor:SOR_0107	CDS	103526..105229	ilvD; dihydroxy-acid dehydratase
+sor:SOR_0108	CDS	complement(105396..105737)	conserved hypothetical protein
+sor:SOR_0109	CDS	105752..105886	conserved hypothetical protein
+sor:SOR_0110	CDS	105861..106727	rgg; transcriptional activator, Rgg/GadR/MutR family protein
+sor:SOR_0111	CDS	106910..108157	major facilitator superfamily permease
+sor:SOR_0112	CDS	108234..109514	hisS; histidyl-tRNA synthetase
+sor:SOR_0113	CDS	109742..110383	CAAX amino terminal protease family protein
+sor:SOR_0114	CDS	110401..110619	conserved hypothetical protein
+sor:SOR_0115	CDS	110771..112534	aspartyl-tRNA synthetase
+sor:SOR_0116	CDS	112512..113453	conserved hypothetical protein
+sor:SOR_0117	CDS	complement(113487..114473)	malR; maltose operon transcriptional repressor
+sor:SOR_0118	CDS	complement(114483..115283)	malA; maltodextrose utilization protein
+sor:SOR_0119	CDS	complement(115464..116306)	malD; ABC transporter membrane-spanning permease-maltose/maltodextrin
+sor:SOR_0120	CDS	complement(116308..117600)	malC; ABC transporter membrane-spanning permease-maltose/maltodextrin
+sor:SOR_0121	CDS	complement(117727..118998)	malX; ABC transporter substrate-binding protein-maltose/maltodextrin
+sor:SOR_0122	CDS	119471..120988	malM; 4-alpha-glucanotransferase (amylomaltase)
+sor:SOR_0123	CDS	121013..123271	malP; maltodextrin phosphorylase
+sor:SOR_0124	CDS	complement(123325..124173)	rrmA; rRNA (guanine-N1-)-methyltransferase, 23S rRNA
+sor:SOR_0125	CDS	complement(124228..125484)	tyrosyl-tRNA synthetase
+sor:SOR_0126	CDS	125625..128132	pbp1b; penicillin-binding protein 1B
+sor:SOR_0127	CDS	128210..129121	conserved hypothetical protein
+sor:SOR_0128	CDS	129206..129904	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase oniae
+sor:SOR_0129	CDS	129974..131104	dapE; Peptidase family M20/M25/M40
+sor:SOR_0130	CDS	131116..131655	5-formyltetrahydrofolate cyclo-ligase family protein
+sor:SOR_0131	CDS	131639..132319	peptidase, S54 (rhomboid) family protein
+sor:SOR_0132	CDS	complement(132979..133878)	galU; UTP-glucose-1-phosphate uridylyltransferase
+sor:SOR_0133	CDS	complement(133900..134916)	gpdA; glycerol-3-phosphate dehydrogenase,NAD(P)H-dependent
+sor:SOR_0134	CDS	135123..136829	ABC transporter, ATP-binding/permease protein-unknown substrate
+sor:SOR_0135	CDS	136831..138597	ABC transporter, ATP-binding/permease protein-unknown substrate
+sor:SOR_0136	CDS	138736..139425	glutamine amidotransferase, putative
+sor:SOR_0137	CDS	139561..140943	gpi; glucose-6-phosphate isomerase
+sor:SOR_0138	CDS	141071..142531	gltX; Glutamyl-tRNA synthetase (glutamate-tRNA ligase)
+sor:SOR_0139	CDS	142544..142978	codA; cytidine/deoxycytidylate deaminase family protein
+sor:SOR_0140	tRNA	143095..143166	tRNA-Glu
+sor:SOR_0141	rRNA	143408..144945	rRNA_16S-2; 16S ribosomal RNA
+sor:SOR_0142	tRNA	144995..145067	tRNA-Ala
+sor:SOR_0143	rRNA	145175..148092	rRNA_23S-2; 23S ribosomal RNA
+sor:SOR_0144	rRNA	148170..148284	rRNA_5S-2; rRNA_5S-2
+sor:SOR_0145	tRNA	148289..148361	tRNA-Val
+sor:SOR_0146	tRNA	148367..148437	tRNA-Gly
+sor:SOR_0147	tRNA	148473..148546	tRNA-Ile
+sor:SOR_0148	tRNA	148558..148629	tRNA-Glu
+sor:SOR_0149	tRNA	148636..148725	tRNA-Ser
+sor:SOR_0150	tRNA	148737..148810	tRNA-Met
+sor:SOR_0151	tRNA	148814..148886	tRNA-Phe
+sor:SOR_0152	tRNA	148904..148984	tRNA-Tyr
+sor:SOR_0153	tRNA	148996..149066	tRNA-Trp
+sor:SOR_0154	tRNA	149081..149153	tRNA-His
+sor:SOR_0155	tRNA	149167..149238	tRNA-Gln
+sor:SOR_0156	tRNA	149248..149331	tRNA-Leu
+sor:SOR_0157	CDS	149517..150794	gamma-glutamylcysteine synthetase putative
+sor:SOR_0158	CDS	150870..152354	thrC; threonine synthase
+sor:SOR_0159	CDS	152415..153695	multi antimicrobial extrusion (MATE) family transporter
+sor:SOR_0160	CDS	153699..154319	HAD-superfamily hydrolase
+sor:SOR_0161	CDS	154485..155699	LysM domain protein
+sor:SOR_0162	CDS	155896..156321	transcriptional regulator, MarR family
+sor:SOR_0163	CDS	156332..156694	conserved hypothetical protein
+sor:SOR_0164	CDS	complement(156735..157592)	conserved hypothetical protein
+sor:SOR_0165	CDS	157709..158851	queuine tRNA-ribosyltransferase,7-cyano-7-deazaguanine tRNA-ribosyltransferase
+sor:SOR_0166	CDS	158985..160802	acyltransferase, putative
+sor:SOR_0167	CDS	160943..162094	nagA; N-acetylglucosamine-6-phosphate deacetylase
+sor:SOR_0168	CDS	162247..162612	conserved hypothetical protein
+sor:SOR_0169	CDS	162676..163617	cglA; competence protein
+sor:SOR_0170	CDS	163490..164581	cglB; competence protein
+sor:SOR_0171	CDS	164583..164906	cglC; competence protein
+sor:SOR_0172	CDS	164791..165303	cglD; competence protein
+sor:SOR_0173	CDS	165266..165568	conserved hypothetical protein
+sor:SOR_0174	CDS	165531..165992	comGF; competence protein
+sor:SOR_0175	CDS	165970..166383	conserved hypothetical protein
+sor:SOR_0176	CDS	166416..167006	methyltransferase small domain superfamily protein
+sor:SOR_0177	CDS	167065..168018	adenine-specific DNA methylase,putative
+sor:SOR_0178	CDS	168069..169259	ackA; acetate kinase
+sor:SOR_0179	CDS	169409..169780	ribonuclease P
+sor:SOR_0180	CDS	169749..170582	oxaA1; preprotein translocase subunit YidC1
+sor:SOR_0181	CDS	170597..171583	jag; predicted RNA-binding protein
+sor:SOR_0182	CDS	171639..172262	conserved hypothetical protein
+sor:SOR_0183	CDS	172380..174356	tktA; transketolase
+sor:SOR_0184	CDS	174477..174806	yajC; preprotein translocase subunit YajC
+sor:SOR_0185	CDS	174854..175297	phosphotyrosine protein phosphatase, putative
+sor:SOR_0186	CDS	175284..175697	conserved hypothetical protein
+sor:SOR_0187	CDS	175994..178645	adhE; bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+sor:SOR_0188	CDS	178967..179974	gapA; glyceraldehyde-3-phosphate dehydrogenase, type I
+sor:SOR_0189	CDS	complement(180041..180916)	rluA1; 23S rRNA pseudouridine synthase
+sor:SOR_0190	CDS	181003..183198	pbp2a; penicillin-binding protein 2A
+sor:SOR_0191	CDS	183251..183403	rpmGB; 50S ribosomal protein L33
+sor:SOR_0192	CDS	183413..183589	secE; preprotein translocase, SecE subunit
+sor:SOR_0193	CDS	183647..184183	nusG; transcription antitermination protein NusG
+sor:SOR_0194	CDS	184304..184777	comX2; transcriptional regulator ComX2
+sor:SOR_0195	tRNA	184842..184913	tRNA-Glu
+sor:SOR_0196	rRNA	185156..186693	rRNA_16S-3; 16S ribosomal RNA
+sor:SOR_0197	tRNA	186743..186815	tRNA-Ala
+sor:SOR_0198	rRNA	186923..189840	rRNA_23S-3; 23S ribosomal RNA
+sor:SOR_0199	rRNA	189918..190032	rRNA_5S-3; rRNA_5S-3
+sor:SOR_0200	tRNA	190037..190109	tRNA-Val
+sor:SOR_0201	tRNA	190112..190184	tRNA-Asp
+sor:SOR_0202	tRNA	190209..190281	tRNA-Lys
+sor:SOR_0203	tRNA	190287..190368	tRNA-Leu
+sor:SOR_0204	tRNA	190381..190453	tRNA-Thr
+sor:SOR_0205	tRNA	190481..190552	tRNA-Gly
+sor:SOR_0206	tRNA	190560..190645	tRNA-Leu
+sor:SOR_0207	tRNA	190657..190730	tRNA-Arg
+sor:SOR_0208	tRNA	190746..190819	tRNA-Pro
+sor:SOR_0209	CDS	190996..195387	polC; DNA polymerase III, alpha subunit
+sor:SOR_0210	CDS	195462..195965	chromosomal replication initiation protein
+sor:SOR_0211	CDS	195981..196931	conserved hypothetical protein
+sor:SOR_0212	CDS	196939..198249	conserved hypothetical protein
+sor:SOR_0213	CDS	198243..200093	conserved hypothetical protein
+sor:SOR_0214	CDS	200167..200319	conserved hypothetical protein
+sor:SOR_0215	CDS	200341..201582	pepS; aminopeptidase
+sor:SOR_0216	CDS	201592..201822	conserved hypothetical protein
+sor:SOR_0217	CDS	202000..202722	rsuA1; ribosomal small subunit pseudouridine synthase A
+sor:SOR_0218	CDS	202834..204168	pepC; aminopeptidase C
+sor:SOR_0219	CDS	204324..206552	cation-transporting ATPase, putative
+sor:SOR_0220	CDS	complement(206615..207526)	manN; mannose-specific phosphotransferase system component IID
+sor:SOR_0221	CDS	complement(207541..208341)	manM; phosphotransferase system enzyme II,mannose-specific IIC component
+sor:SOR_0222	CDS	complement(208386..209375)	manL; phosphotransferase system, mannose-specific EIIAB
+sor:SOR_0223	CDS	complement(209658..210470)	conserved hypothetical protein
+sor:SOR_0224	CDS	210659..212077	xanthine/uracil permease family protein
+sor:SOR_0225	CDS	212131..212838	CAAX amino terminal protease family protein
+sor:SOR_0226	CDS	212915..213901	folP; dihydropteroate synthase
+sor:SOR_0227	CDS	213903..215225	folC; folylpolyglutamate synthase
+sor:SOR_0228	CDS	215206..215760	sulC; GTP cyclohydrolase I
+sor:SOR_0229	CDS	215919..216740	sulD; bifunctional folate synthesis protein
+sor:SOR_0230	CDS	216733..218016	hypothetical protein
+sor:SOR_0231	CDS	complement(218068..218385)	conserved hypothetical protein
+sor:SOR_0232	CDS	218590..219600	ccpA; catabolite control protein A
+sor:SOR_0233	CDS	complement(219654..220616)	ansB; L-asparaginase (L-asparagine amidohydrolase)
+sor:SOR_0234	CDS	220682..222067	conserved hypothetical protein
+sor:SOR_0235	CDS	complement(222104..222556)	conserved hypothetical protein
+sor:SOR_0236	CDS	222723..223022	conserved hypothetical protein
+sor:SOR_0237	CDS	223167..224381	alaT; aminotransferase AlaT, aminotransferase, class I
+sor:SOR_0238	CDS	224526..224660	rpmH; 50S ribosomal protein L34
+sor:SOR_0239	CDS	complement(224842..226686)	amino acid permease
+sor:SOR_0240	CDS	226838..227623	hydrolase, TatD family deoxyribonuclease
+sor:SOR_0241	CDS	227628..228101	hypothetical protein
+sor:SOR_0242	CDS	228116..228700	ribonuclease M5
+sor:SOR_0243	CDS	228697..229551	dehydrogenase
+sor:SOR_0244	CDS	229782..231197	conserved hypothetical protein
+sor:SOR_0245	CDS	231238..231501	hypothetical protein
+sor:SOR_0246	CDS	231659..232471	hypothetical protein
+sor:SOR_0247	CDS	232484..233356	ksgA; dimethyladenosine transferase
+sor:SOR_0248	CDS	233358..234236	ribosome-associated GTPase
+sor:SOR_0249	CDS	234247..234903	rpe; pentose-5-phosphate-3-epimerase (ribulose-phosphate 3-epimerase)
+sor:SOR_0250	CDS	234866..235528	Thiamine pyrophosphokinase, putative
+sor:SOR_0251	CDS	235530..236786	Ccs50; DNA recombination protein
+sor:SOR_0252	CDS	236776..237717	cbf1; Cmp-binding-factor 1
+sor:SOR_0253	CDS	237846..238649	purR; purine operon repressor
+sor:SOR_0254	CDS	238716..239972	lysA; diaminopimelate decarboxylase
+sor:SOR_0255	CDS	240094..240888	pflC; pyruvate-formate lyase activating enzyme
+sor:SOR_0256	CDS	complement(240960..241889)	oxaA2; Preprotein translocase subunit YidC2
+sor:SOR_0257	CDS	complement(241967..242245)	acylphosphate phosphohydrolase
+sor:SOR_0258	CDS	242279..243019	rRNA/tRNA methylase, putative
+sor:SOR_0259	CDS	243074..243757	conserved hypothetical protein
+sor:SOR_0260	CDS	243867..244859	asnA; aspartate-ammonia ligase (asparagine synthetase A)
+sor:SOR_0261	CDS	244924..245463	methyltransferase, putative
+sor:SOR_0262	CDS	245453..245941	phosphopantetheine adenylyltransferase
+sor:SOR_0263	CDS	245925..246962	Lon-like protease containing a PDZ domain
+sor:SOR_0264	CDS	247018..247248	conserved hypothetical integral membrane protein
+sor:SOR_0265	CDS	247272..248555	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+sor:SOR_0266	CDS	248542..248736	conserved hypothetical protein
+sor:SOR_0267	CDS	248777..249601	endA; DNA-entry nuclease (competence-specific nuclease)
+sor:SOR_0268	CDS	249737..251068	tlyC; CBS domain membrane protein
+sor:SOR_0269	tRNA	complement(251202..251272)	tRNA-Cys
+sor:SOR_0270	CDS	251571..253550	amiA; ABC transporter substrate-binding protein-oligopeptide transport
+sor:SOR_0271	CDS	253617..255113	amiC; ABC transporter membrane-spanning permease-oligopeptide transport
+sor:SOR_0272	CDS	255113..256039	amiD; ABC transporter membrane-spanning permease-oligopeptide transport
+sor:SOR_0273	CDS	256048..257115	amiE; ABC transporter ATP-binding protein-oligopeptide transport
+sor:SOR_0274	CDS	257126..258055	amiF; ABC transporter ATP-binding protein-oligopeptide transport
+sor:SOR_0275	CDS	complement(258144..259583)	trkG; potassium uptake protein, Trk family
+sor:SOR_0276	CDS	complement(259587..260936)	trkA; potassium transporter peripheral membrane component, Trk family
+sor:SOR_0277	CDS	261337..261840	RNA methyltransferase, putative rRNA methylase
+sor:SOR_0278	CDS	261846..262130	hypothetical protein
+sor:SOR_0279	CDS	262252..262815	conserved hypothetical protein
+sor:SOR_0280	CDS	262829..263455	putative phosphatase
+sor:SOR_0281	CDS	263728..264774	pheS; phenylalanyl-tRNA synthetase subunit alpha
+sor:SOR_0282	CDS	264774..265283	acetyltransferase, GNAT family
+sor:SOR_0283	CDS	265360..267765	pheT; phenylalanyl-tRNA synthetase, beta chain
+sor:SOR_0284	CDS	268016..268909	natA; ABC transporter ATP-binding protein, Na+ transport system
+sor:SOR_0285	CDS	268906..270105	natB; ABC transporter permease, Na+ transport system
+sor:SOR_0286	CDS	complement(270277..271320)	conserved hypothetical protein
+sor:SOR_0287	CDS	complement(271313..271912)	conserved hypothetical protein
+sor:SOR_0288	CDS	complement(271899..272225)	PadR family transcriptional regulator putative
+sor:SOR_0289	CDS	272618..273064	rplM; 50S ribosomal protein L13
+sor:SOR_0290	CDS	273083..273475	rpsI; 30S ribosomal protein S9
+sor:SOR_0291	CDS	complement(273796..274266)	conserved hypothetical protein
+sor:SOR_0292	CDS	complement(274471..275091)	hypothetical protein
+sor:SOR_0293	CDS	complement(275137..275532)	conserved hypothetical protein
+sor:SOR_0294	CDS	275787..276410	hypothetical protein
+sor:SOR_0295	CDS	complement(276956..277834)	malolactic fermentation system transcriptional activator
+sor:SOR_0296	CDS	complement(277962..278243)	XRE family transcriptional regulator
+sor:SOR_0297	CDS	278672..280297	mleS; malate dehydrogenase, (malolactic enzyme, malate oxidoreductase)
+sor:SOR_0298	CDS	280378..281325	malate permease
+sor:SOR_0299	CDS	281879..282268	conserved hypothetical protein, lipoprotein
+sor:SOR_0300	CDS	282322..282732	conserved hypothetical protein, lipoprotein
+sor:SOR_0301	CDS	282869..283258	conserved hypothetical protein, lipoprotein
+sor:SOR_0302	CDS	283394..283816	conserved hypothetical protein, lipoprotein
+sor:SOR_0303	CDS	283957..284361	conserved hypothetical protein, lipoprotein
+sor:SOR_0304	CDS	284351..286072	conserved hypothetical protein
+sor:SOR_0305	CDS	286053..286367	conserved hypothetical protein
+sor:SOR_0306	CDS	286381..286689	conserved hypothetical protein
+sor:SOR_0307	CDS	286921..287205	esxA; ESAT-6 family virulence protein
+sor:SOR_0308	CDS	287277..290306	esaA; conserved hypothetical protein
+sor:SOR_0309	CDS	290318..290782	essA; conserved hypothetical protein
+sor:SOR_0310	CDS	290849..291088	esaB; conserved hypothetical protein
+sor:SOR_0311	CDS	291089..292360	essB; conserved hypothetical protein, essB family
+sor:SOR_0312	CDS	292382..296926	essC; ATPase FtsK/SpoIIIE family protein
+sor:SOR_0313	CDS	296928..297116	esaC; conserved hypothetical protein, esaC putative
+sor:SOR_0314	CDS	297144..297533	esxB; hypothetical protein
+sor:SOR_0315	CDS	297542..297763	hypothetical protein
+sor:SOR_0316	CDS	297839..298042	hypothetical protein
+sor:SOR_0317	CDS	298148..299470	hypothetical protein
+sor:SOR_0318	CDS	299484..300302	hypothetical protein
+sor:SOR_0319	CDS	300542..301507	hypothetical protein
+sor:SOR_0320	CDS	301643..302155	conserved hypothetical protein
+sor:SOR_0321	CDS	302838..304220	hypothetical protein
+sor:SOR_0322	CDS	304222..304917	hypothetical protein
+sor:SOR_0323	CDS	304914..307556	ATPase involved in DNA repair, putative
+sor:SOR_0324	CDS	307956..308642	transcriptional regulator, putative
+sor:SOR_0325	CDS	308646..310061	ImpB/MucB/SamB family protein
+sor:SOR_0326	CDS	310058..310420	conserved hypothetical protein
+sor:SOR_0327	CDS	310413..310706	conserved hypothetical protein
+sor:SOR_0328	CDS	complement(311065..317259)	cell wall surface anchor family protein
+sor:SOR_0329	CDS	complement(317593..318069)	glutathione peroxidase
+sor:SOR_0330	CDS	318546..318905	hypothetical protein
+sor:SOR_0331	CDS	318895..320550	hypothetical protein
+sor:SOR_0332	CDS	320630..321172	hypothetical protein
+sor:SOR_0333	CDS	321177..321482	hypothetical protein
+sor:SOR_0334	CDS	321623..321793	hypothetical protein
+sor:SOR_0335	CDS	complement(321907..322446)	conserved hypothetical protein
+sor:SOR_0336	CDS	complement(322459..322800)	conserved hypothetical protein
+sor:SOR_0337	CDS	complement(322811..323353)	conserved hypothetical protein
+sor:SOR_0338	CDS	complement(323369..323563)	putative transcriptional regulator
+sor:SOR_0339	CDS	323730..324680	mraW; S-adenosyl-methyltransferase
+sor:SOR_0340	CDS	324690..325007	ftsL; cell division protein FtsL
+sor:SOR_0341	CDS	325011..327266	pbp2x; penicillin-binding protein 2X
+sor:SOR_0342	CDS	327268..328248	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase,undecaprenyl-phosphate-UDP-MurNAc-pentapeptide phospho-MurNAc-pentapeptide transferase
+sor:SOR_0343	CDS	complement(328318..333441)	LPXTG cell surface protein, calx-beta domain protein
+sor:SOR_0344	CDS	333774..334022	conserved hypothetical protein
+sor:SOR_0345	CDS	334039..334116	hypothetical protein
+sor:SOR_0346	CDS	334228..335022	murI; glutamate racemase
+sor:SOR_0347	CDS	335019..335990	conserved hypothetical protein, HAM1 domain
+sor:SOR_0348	CDS	335966..336487	conserved hypothetical protein, PP2Ac superfamily
+sor:SOR_0349	CDS	336484..336945	conserved hypothetical protein, CBS domain family
+sor:SOR_0350	CDS	336936..337676	xerD; site specific recombinase
+sor:SOR_0351	CDS	337676..338404	scpA; segregation and condensation protein A
+sor:SOR_0352	CDS	338423..338992	scpB; segregation and condensation protein B
+sor:SOR_0353	CDS	338979..339701	rsuA2; ribosomal small subunit pseudouridine synthase A, 16S rRNA pseudouridylate synthase and related pseudouridylate synthases
+sor:SOR_0354	CDS	339701..339973	conserved hypothetical protein
+sor:SOR_0355	CDS	340056..341120	pepA; glutamyl aminopeptidase
+sor:SOR_0356	CDS	341141..341437	conserved hypothetical protein
+sor:SOR_0357	CDS	complement(341534..343165)	Na/Pi cotransporter II-related protein, putative
+sor:SOR_0358	CDS	343499..348190	endo-beta-N-acetylglucosaminidase
+sor:SOR_0359	CDS	complement(348310..348678)	conserved hypothetical protein
+sor:SOR_0360	CDS	complement(348763..349689)	comserved hypothetical protein
+sor:SOR_0361	CDS	350043..351242	pgk; phosphoglycerate kinase
+sor:SOR_0362	CDS	351412..355317	cell wall surface anchor family protein
+sor:SOR_0363	CDS	355451..355978	conserved hypothetical protein
+sor:SOR_0364	CDS	356055..356411	glnR; transcriptional repressor of the glutamine synthetase gene
+sor:SOR_0365	CDS	356448..357794	glnA; glutamine synthetase, type I
+sor:SOR_0366	CDS	358601..361783	cell wall surface anchor family protein
+sor:SOR_0367	CDS	362104..363138	hrcA; heat inducible transcription repressor
+sor:SOR_0368	CDS	363165..363680	grpE; heat-shock protein (activation of DnaK)
+sor:SOR_0369	CDS	363701..364243	hypothetical protein
+sor:SOR_0370	CDS	364496..366319	dnaK; class I heat-shock protein (molecular chaperone)
+sor:SOR_0371	CDS	366850..367986	dnaJ; DnaJ protein, Heat-shock protein (activation of DnaK)
+sor:SOR_0372	CDS	complement(368065..368718)	hypothetical protein
+sor:SOR_0373	CDS	complement(368788..369066)	conserved hypothetical protein
+sor:SOR_0374	CDS	complement(369076..369486)	conserved hypothetical protein, HIT family protein (histidine triad domain protein)
+sor:SOR_0375	CDS	369554..370285	ABC transporter, ATP-binding protein
+sor:SOR_0376	CDS	370282..371331	ABC transporter membrane-spanning permease
+sor:SOR_0377	CDS	371379..372173	conserved hypothetical protein
+sor:SOR_0378	CDS	372170..372805	tRNA (guanine-N(7)-)-methyltransferase, putative
+sor:SOR_0379	CDS	372884..373411	conserved hypothetical protein
+sor:SOR_0380	CDS	373466..374590	nusA; transcription termination-antitermination factor
+sor:SOR_0381	CDS	374612..374905	nucleic-acid-binding protein implicated in transcription termination, putative
+sor:SOR_0382	CDS	374898..375197	L7A family ribosomal protein
+sor:SOR_0383	CDS	375214..378003	IF-2; translation initiation factor IF-2
+sor:SOR_0384	CDS	378258..378608	rbfA; ribosome-binding factor A
+sor:SOR_0385	CDS	378866..379645	conserved hypothetical protein
+sor:SOR_0386	CDS	379647..379829	conserved hypothetical protein
+sor:SOR_0387	CDS	379938..380171	conserved hypothetical protein
+sor:SOR_0388	CDS	380171..381505	conserved hypothetical protein
+sor:SOR_0389	CDS	381515..381769	conserved hypothetical protein
+sor:SOR_0390	CDS	381867..382262	Helicase, putative
+sor:SOR_0391	CDS	382543..383103	acetyltransferase, GNAT family, putative
+sor:SOR_0392	CDS	383149..386166	superfamily I DNA and RNA helicases and helicase subunits
+sor:SOR_0393	CDS	386180..388831	valS; Valyl-tRNA synthetase
+sor:SOR_0394	CDS	388902..390677	hypothetical protein
+sor:SOR_0395	CDS	390758..391120	hypothetical protein
+sor:SOR_0396	CDS	391388..391978	rpoE; DNA-directed RNA polymerase subunit delta
+sor:SOR_0397	CDS	392310..393917	pyrG; CTP synthetase (UTP-ammonia ligase)
+sor:SOR_0398	CDS	393974..394393	conserved hypothetical protein
+sor:SOR_0399	CDS	394390..394707	thiol-disulfide isomerase and thioredoxins
+sor:SOR_0400	CDS	394723..395349	pheRS; phenylalanly tRNA synthetase
+sor:SOR_0401	CDS	395392..396153	oxidoreductase, short chain dehydrogenase/reductase family, NAD(P)-binding,3-oxoacyl-[acyl-carrier protein] reductase
+sor:SOR_0402	CDS	396231..396626	ssbB; single-strand DNA-binding protein B
+sor:SOR_0403	CDS	396937..397221	groES; 10 kDa chaperonin GroES
+sor:SOR_0404	CDS	397237..398859	groEL; 60 kDa chaperonin (Protein Cpn60), GroEL
+sor:SOR_0405	CDS	398996..399763	conserved hypothetical protein
+sor:SOR_0406	CDS	complement(399834..400367)	uncharacterized domain/protein associated with RNAses G and E
+sor:SOR_0407	CDS	complement(400456..401232)	recX; recA-regulatory protein RecX
+sor:SOR_0408	CDS	401270..402631	rumA; 23S rRNA (uracil-5-)-methyltransferase
+sor:SOR_0409	tRNA	402699..402770	tRNA-Glu
+sor:SOR_0410	rRNA	403013..404550	rRNA_16S-4; 16S ribosomal RNA
+sor:SOR_0411	tRNA	404600..404672	tRNA-Ala
+sor:SOR_0412	rRNA	404780..407697	rRNA_23S-4; 23S ribosomal RNA
+sor:SOR_0413	rRNA	407775..407889	rRNA_5S-4; rRNA_5S-4
+sor:SOR_0414	tRNA	407894..407966	tRNA-Val
+sor:SOR_0415	tRNA	407969..408041	tRNA-Asp
+sor:SOR_0416	tRNA	408066..408138	tRNA-Lys
+sor:SOR_0417	tRNA	408144..408225	tRNA-Leu
+sor:SOR_0418	tRNA	408238..408310	tRNA-Thr
+sor:SOR_0419	tRNA	408338..408409	tRNA-Gly
+sor:SOR_0420	tRNA	408417..408502	tRNA-Leu
+sor:SOR_0421	tRNA	408514..408587	tRNA-Arg
+sor:SOR_0422	tRNA	408603..408676	tRNA-Pro
+sor:SOR_0423	tRNA	408682..408755	tRNA-Met
+sor:SOR_0424	tRNA	408769..408842	tRNA-Met
+sor:SOR_0425	tRNA	408854..408943	tRNA-Ser
+sor:SOR_0426	tRNA	408955..409028	tRNA-Met
+sor:SOR_0427	tRNA	409032..409104	tRNA-Phe
+sor:SOR_0428	tRNA	409121..409191	tRNA-Gly
+sor:SOR_0429	tRNA	409225..409298	tRNA-Ile
+sor:SOR_0430	tRNA	409305..409392	tRNA-Ser
+sor:SOR_0431	CDS	complement(409468..410403)	birA; biotin-[acetyl-CoA-carboxylase] ligase
+sor:SOR_0432	CDS	complement(410400..411260)	AraC family regulatory protein
+sor:SOR_0433	CDS	411368..413530	agaN; alpha-galactosidase (melibiase)
+sor:SOR_0434	CDS	413565..414815	msmE; multiple sugar-binding ABC transporter,sugar-binding protein precursor MsmE
+sor:SOR_0435	CDS	414834..415706	msmF; multiple sugar-binding ABC transporter, permease protein MsmF
+sor:SOR_0436	CDS	415723..416556	msmG; multiple sugar-binding ABC transporter, permease protein MsmG
+sor:SOR_0437	CDS	416762..418204	sucrose phosphorylase (Sucrose glucosyltransferase)(Glucosyltransferase-A) (GTF-A)
+sor:SOR_0438	CDS	418271..419530	O-antigen polymerase family
+sor:SOR_0439	CDS	419675..420118	MarR family transcriptional regulator, putative
+sor:SOR_0440	CDS	420122..420886	conserved hypothetical protein
+sor:SOR_0441	CDS	420901..421629	ABC transporter, ATP-binding protein, glycine betaine/carnitine/choline transport, putative
+sor:SOR_0442	CDS	421622..423142	ABC transporter membrane-spanning permease (glycine betaine/carnitine/choline transport system permease, putative
+sor:SOR_0443	CDS	423480..424082	conserved hypothetical protein
+sor:SOR_0444	CDS	424079..424873	ABC transporter membrane-spanning permease
+sor:SOR_0445	CDS	424849..425685	ABC transporter ATP-binding protein (cobalt transport)
+sor:SOR_0446	CDS	425672..426472	ABC transporter ATP-binding protein (cobalt transport)
+sor:SOR_0447	CDS	complement(426554..426682)	conserved hypothetical protein
+sor:SOR_0448	CDS	complement(426787..426858)	conserved hypothetical
+sor:SOR_0449	CDS	complement(426864..427073)	conserved hypothetical protein
+sor:SOR_0450	CDS	complement(427086..427322)	conserved hypothetical protein
+sor:SOR_0451	CDS	complement(427315..427788)	putative DNA replicative RepB-like protein
+sor:SOR_0452	CDS	complement(427792..428010)	putative transposase
+sor:SOR_0453	CDS	428083..428556	pnuC; nicotinamide mononucleotide transporter,putative
+sor:SOR_0454	CDS	complement(428951..429616)	transcriptional regulator, TetR family
+sor:SOR_0455	CDS	429638..430525	cation diffusion facilitator transporter-heavy metal transport
+sor:SOR_0456	CDS	complement(430562..431566)	galR; GalR, member of GalR-LacI family of transcriptional regulators, regulator of gal operon,galactose operon repressor
+sor:SOR_0457	CDS	431731..432909	galK; galactokinase, (Galactose kinase)
+sor:SOR_0458	CDS	432928..434409	galT; galactose-1-phosphate uridylyltransferase
+sor:SOR_0459	CDS	434479..434883	thioesterase
+sor:SOR_0460	CDS	complement(434916..436178)	xanthine permease
+sor:SOR_0461	CDS	complement(436178..436759)	xpt; xanthine phosphoribosyltransferase
+sor:SOR_0462	CDS	complement(437110..437496)	conserved hypothetical protein
+sor:SOR_0463	CDS	complement(437508..438335)	exoA; exodeoxyribonuclease III
+sor:SOR_0464	CDS	438469..438924	conserved hypothetical protein
+sor:SOR_0465	CDS	438921..439556	conserved hypothetical protein
+sor:SOR_0466	CDS	439611..441356	ABC transporter, ATP-binding domain/permease protein, lipid/multidrug/protein-type ABC exporter
+sor:SOR_0467	CDS	441346..443088	ABC transporter, ATP-binding domain/permease protein, lipid/multidrug/protein-type ABC exporter
+sor:SOR_0468	CDS	443272..443964	glycosyl transferase
+sor:SOR_0469	CDS	444007..445236	Cps7G, capsular polysaccharide biosynthesis protein, putative
+sor:SOR_0470	CDS	445664..446080	trpEbx; tryptophan synthase subunit beta
+sor:SOR_0471	CDS	446052..446843	trpEby; tryptophan synthase subunit beta
+sor:SOR_0472	CDS	446847..447002	conserved hypothetical protein
+sor:SOR_0473	CDS	447137..448498	trpAa; anthranilate synthase component I
+sor:SOR_0474	CDS	448495..449061	trpAb; anthranilate synthase component II
+sor:SOR_0475	CDS	449072..450076	trpB; anthranilate phosphoribosyltransferase
+sor:SOR_0476	CDS	450073..450840	trpD; indole-3-glycerol phosphate synthase
+sor:SOR_0477	CDS	450827..451426	trpC; N-(5'-phosphoribosyl)anthranilate isomerase
+sor:SOR_0478	CDS	451404..452627	trpEb; tryptophan synthase, beta subunit
+sor:SOR_0479	CDS	452620..453396	trpEa; tryptophan synthase subunit alpha
+sor:SOR_0480	CDS	complement(453368..454027)	type IV prepilin peptidase, putative
+sor:SOR_0481	CDS	454097..454552	acetyltransferase, GNAT family
+sor:SOR_0482	CDS	454656..455180	hypothetical protein
+sor:SOR_0483	CDS	455250..455771	conserved hypothetical protein
+sor:SOR_0484	CDS	complement(455991..456194)	conserved hypothetical protein
+sor:SOR_0485	CDS	complement(456236..456820)	general stress protein 24, putative
+sor:SOR_0486	CDS	complement(456832..457002)	conserved hypothetical protein
+sor:SOR_0487	CDS	complement(457013..457576)	conserved hypothetical protein
+sor:SOR_0488	CDS	complement(457676..457912)	conserved hypothetical protein
+sor:SOR_0489	CDS	458209..459690	Mga-like regulatory protein
+sor:SOR_0490	CDS	complement(459916..460782)	short chain dehydrogenase/reductase family oxidoreductase
+sor:SOR_0491	CDS	complement(460784..461620)	alpha/beta superfamily hydrolase/acyltransferase, putative
+sor:SOR_0492	CDS	complement(461634..462638)	NADPH:quinone reductase and related Zn-dependent oxidoreductases
+sor:SOR_0493	CDS	complement(462729..463160)	transcriptional regulator, putative
+sor:SOR_0494	tRNA	complement(463379..463451)	tRNA-Lys
+sor:SOR_0495	misc_RNA	complement(463456..463658)	ssrS; 6s-RNA
+sor:SOR_0496	CDS	complement(463715..464986)	chromosome segregation helicase, ATPase, AAA family
+sor:SOR_0497	CDS	465102..465572	conserved hypothetical protein
+sor:SOR_0498	CDS	465591..466652	M50 family protein; peptidase, putative
+sor:SOR_0499	CDS	466654..467082	7,8-dihydro-8-oxoguanine-triphosphatase; MutT/nudix family protein
+sor:SOR_0500	CDS	467079..467447	hypothetical protein
+sor:SOR_0501	CDS	467506..467979	acetyltransferase
+sor:SOR_0502	CDS	468114..469067	ribosomal protein methyltransferase
+sor:SOR_0503	CDS	469069..469812	conserved hypothetical protein
+sor:SOR_0504	CDS	469823..471619	oligoendopeptidase F, putative
+sor:SOR_0505	CDS	complement(471711..472691)	hypothetical protein
+sor:SOR_0506	CDS	473064..473714	hypothetical protein, putative lipoprotein
+sor:SOR_0507	CDS	473769..474431	hypothetical protein, putative lipoprotein
+sor:SOR_0508	CDS	474443..474505	hypothetical protein
+sor:SOR_0509	CDS	474604..475320	hypothetical protein, putative lipoprotein
+sor:SOR_0510	CDS	475413..476153	hypothetical protein, putative lipoprotein
+sor:SOR_0511	CDS	476208..476933	hypothetical protein, putative lipoprotein
+sor:SOR_0512	CDS	477042..477593	hypothetical protein, putative lipoprotein
+sor:SOR_0513	CDS	477608..477712	hypothetical protein
+sor:SOR_0514	CDS	477702..478964	hypothetical protein, lipase
+sor:SOR_0515	CDS	478952..479368	hypothetical protein
+sor:SOR_0516	CDS	479362..479676	hypothetical protein
+sor:SOR_0517	CDS	479783..480574	conserved hypothetical protein
+sor:SOR_0518	CDS	480684..481352	aquaporin Z-water channel protein
+sor:SOR_0519	CDS	complement(481570..482061)	conserved hypothetical protein, enzyme related to GTP cyclohydrolase I, 7-cyano-7-deazaguanine reductase,putative
+sor:SOR_0520	CDS	complement(482079..482795)	conserved hypothetical protein
+sor:SOR_0521	CDS	complement(482788..483231)	6-pyruvoyl-tetrahydropterin synthase
+sor:SOR_0522	CDS	complement(483231..483884)	ExsB family protein; Adenosine nucleotide binding superfamily of proteins
+sor:SOR_0523	CDS	complement(484088..484402)	thioredoxin
+sor:SOR_0524	CDS	complement(484418..484639)	conserved hypothetical protein
+sor:SOR_0525	CDS	complement(484741..485121)	transcriptional regulator, putative
+sor:SOR_0526	CDS	485318..485692	lgrA; LrgA family, putative effector of murein hydrolase
+sor:SOR_0527	CDS	485689..486384	lgrB; LrgB family protein.
+sor:SOR_0528	CDS	complement(486416..487144)	hypothetical protein
+sor:SOR_0529	CDS	complement(487160..487855)	ABC transporter, ATP binding domain
+sor:SOR_0530	CDS	complement(487860..488225)	GntR-family transcriptional regulator
+sor:SOR_0531	CDS	488365..488838	conserved hypothetical protein
+sor:SOR_0532	CDS	488839..490002	chromosome replication initiation protein/membrane attachment protein
+sor:SOR_0533	CDS	490003..490899	dnaI; primosome component (helicase loader),primosomal protein DnaI
+sor:SOR_0534	CDS	490896..491609	NADPH-flavin oxidoreductase-like protein
+sor:SOR_0535	CDS	491623..492933	engA; phosphoglycerate dehydrogenase, GTP-binding protein
+sor:SOR_0536	CDS	493162..494013	hypothetical protein
+sor:SOR_0537	CDS	494174..494770	LemA family protein
+sor:SOR_0538	CDS	494903..495193	hypothetical protein
+sor:SOR_0539	CDS	495338..496108	conserved hypothetical protein
+sor:SOR_0540	CDS	496224..498737	secA; preprotein translocase, SecA subunit
+sor:SOR_0541	CDS	498817..499848	phospho-2-dehydro-3-deoxyheptonate aldolase,(DAHP synthetase isozyme)
+sor:SOR_0542	CDS	499850..500881	phospho-2-dehydro-3-deoxyheptonate aldolase (DAHP synthetase isozyme)
+sor:SOR_0543	CDS	500920..501288	phosphopantetheinyl transferase (holo-ACP synthase, holo-(acyl-carrier-protein) synthase
+sor:SOR_0544	CDS	501278..502381	alanine racemase
+sor:SOR_0545	CDS	502399..504414	recG; ATP-dependent DNA helicase RecG
+sor:SOR_0546	CDS	504496..504567	hypothetical protein
+sor:SOR_0547	CDS	504732..505712	acetyl xylan esterase, putative
+sor:SOR_0548	CDS	506049..509441	nanA; neuraminidase A
+sor:SOR_0549	CDS	509675..510373	nanE; N-acetylmannosamine-6-phosphate-2-epimerase (ManNAc-6-P epimerase)
+sor:SOR_0550	CDS	510487..511815	ABC transporter, sugar binding lipoprotein (N-acetylneuraminate-binding protein, putative)
+sor:SOR_0551	CDS	511914..511997	hypothetical protein
+sor:SOR_0552	CDS	512014..512901	ABC transporter, membrane-spanning permease-(N-acetylneuraminate transport, putative)
+sor:SOR_0553	CDS	512917..513756	ABC transporter, membrane-spanning permease-(N-acetylneuraminate transport, putative)
+sor:SOR_0554	CDS	513946..514008	hypothetical protein
+sor:SOR_0555	CDS	514246..514698	conserved hypothetical protein
+sor:SOR_0556	CDS	514719..515363	conserved hypothetical protein
+sor:SOR_0557	CDS	515534..516451	N-acetylneuraminate lyase, putative
+sor:SOR_0558	CDS	516469..517365	N-acetylmannosamine kinase
+sor:SOR_0559	CDS	517810..518574	conserved hypothetical protein
+sor:SOR_0560	CDS	complement(518710..519561)	phosphosugar-binding transcriptional regulator
+sor:SOR_0561	CDS	519817..521862	pbp2b; penicillin-binding protein 2B
+sor:SOR_0562	CDS	521873..522469	recR; recombination protein RecR
+sor:SOR_0563	CDS	522774..523049	conserved hypothetical protein
+sor:SOR_0564	CDS	523052..523408	hypothetical protein
+sor:SOR_0565	CDS	523399..525000	conserved hypothetical protein
+sor:SOR_0566	CDS	525010..525639	conserved hypothetical protein
+sor:SOR_0567	CDS	525636..526262	conserved hypothetical protein
+sor:SOR_0568	CDS	526259..526888	conserved hypothetical protein
+sor:SOR_0569	CDS	526929..527462	hypothetical protein
+sor:SOR_0570	CDS	527547..528071	hypothetical protein
+sor:SOR_0571	CDS	528251..528538	hypothetical protein
+sor:SOR_0572	CDS	529249..529881	conserved hypothetical protein
+sor:SOR_0573	CDS	529937..530074	conserved hypothetical protein
+sor:SOR_0574	CDS	530179..531222	ddL; D-ala,D-ala ligase
+sor:SOR_0575	CDS	531307..532680	murF; UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanyl-ligase
+sor:SOR_0576	CDS	532667..533278	MutT/nudix family protein
+sor:SOR_0577	CDS	533477..534181	conserved hypothetical protein
+sor:SOR_0578	CDS	534418..535788	ftsA; cell division protein FtsA
+sor:SOR_0579	CDS	535805..537061	ftsZ; cell division protein FtsZ
+sor:SOR_0580	CDS	537065..537736	conserved hypothetical protein
+sor:SOR_0581	CDS	537746..538276	conserved hypothetical protein
+sor:SOR_0582	CDS	538276..538536	conserved hypothetical protein
+sor:SOR_0583	CDS	538533..539324	conserved hypothetical protein
+sor:SOR_0584	CDS	539333..539587	divIVAx; cell division protein DivIVA
+sor:SOR_0585	CDS	539604..540398	divIVA; cell division protein DivIVA
+sor:SOR_0586	CDS	540651..543443	ileRS; isoleucyl-tRNA synthetase
+sor:SOR_0587	CDS	543725..550171	zinc metalloproteinase, putative
+sor:SOR_0588	CDS	550420..550800	conserved hypothetical protein
+sor:SOR_0589	CDS	551033..556486	IgA1 protease
+sor:SOR_0590	CDS	556680..557018	hypothetical protein
+sor:SOR_0591	CDS	557491..558183	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (Phosphoglyceromutase)
+sor:SOR_0592	CDS	complement(558307..558879)	TetR/AcrR family transcriptional regulator
+sor:SOR_0593	CDS	559021..559722	ABC transporter, ATP-binding protein
+sor:SOR_0594	CDS	559724..562423	ABC transporter membrane-spanning permease
+sor:SOR_0595	CDS	562568..562837	rpsO; 30S ribosomal protein S15
+sor:SOR_0596	CDS	563949..564575	Cad superfamily protein
+sor:SOR_0597	CDS	564859..565905	ABC-transporter membrane-spanning permease
+sor:SOR_0598	CDS	565907..566662	ABC-transporter membrane-spanning permease
+sor:SOR_0599	CDS	566682..567692	metal-binding lipoprotein, putative
+sor:SOR_0600	CDS	567673..568365	esterase of alpha/beta hydrolase superfamily,putative
+sor:SOR_0601	CDS	complement(568408..569157)	1-acylglycerol-3-phosphate O-acyltransferase
+sor:SOR_0602	CDS	569289..571625	P-type ATPase-metal cation transport
+sor:SOR_0603	CDS	571727..572404	conserved hypothetical protein
+sor:SOR_0604	CDS	572391..573188	conserved hypothetical protein
+sor:SOR_0605	CDS	573205..574308	oxidoreductase, DadA family protein
+sor:SOR_0606	CDS	574411..575430	UDP-glucose 4-epimerase
+sor:SOR_0607	CDS	575432..576397	Glycosyl transferase
+sor:SOR_0608	CDS	576722..577228	conserved hypothetical protein
+sor:SOR_0609	CDS	577238..577912	cytidylate kinase
+sor:SOR_0610	CDS	578031..578537	dihydrofolate reductase
+sor:SOR_0611	CDS	578537..578707	conserved hypothetical protein
+sor:SOR_0612	CDS	578739..579971	clpX; ATP-dependent Clp protease ATP-binding subunit clpX
+sor:SOR_0613	CDS	579980..580567	GTP-binding protein, putative
+sor:SOR_0614	CDS	580577..580957	conserved hypothetical protein
+sor:SOR_0615	CDS	581009..581899	predicted P-loop-containing kinase
+sor:SOR_0616	CDS	581896..582873	conserved hypothetical protein
+sor:SOR_0617	CDS	582870..583781	conserved hypothetical protein
+sor:SOR_0618	CDS	complement(583812..584780)	thioredoxin reductase
+sor:SOR_0619	CDS	584917..585774	conserved hypothetical protein
+sor:SOR_0620	CDS	585761..586558	conserved hypothetical protein
+sor:SOR_0621	CDS	586589..587941	phosphoglucomutase/phosphomannomutase family protein
+sor:SOR_0622	CDS	588015..588389	conserved hypothetical protein
+sor:SOR_0623	CDS	588392..589240	DegV family protein
+sor:SOR_0624	CDS	589505..590272	dihydrodipicolinate reductase
+sor:SOR_0625	CDS	590284..591468	pcnB; tRNA nucleotidyltransferase
+sor:SOR_0626	CDS	591465..593333	ATPase component of ABC transporter with duplicated ATPase domains
+sor:SOR_0627	CDS	593330..593941	hypothetical protein
+sor:SOR_0628	CDS	complement(594000..595193)	cation efflux family protein
+sor:SOR_0629	CDS	595464..596954	hypothetical protein
+sor:SOR_0630	CDS	596956..597987	hypothetical protein
+sor:SOR_0631	CDS	597980..598966	hypothetical protein
+sor:SOR_0632	CDS	599185..601881	cation-transporting ATPase, E1-E2 family
+sor:SOR_0633	CDS	601985..602395	polypeptide deformylase, putative
+sor:SOR_0634	CDS	602407..604002	conserved hypothetical protein
+sor:SOR_0635	CDS	604079..604807	conserved hypothetical protein
+sor:SOR_0636	CDS	complement(604839..605387)	conserved hypothetical protein, flavoprotein,putative
+sor:SOR_0637	CDS	complement(605479..605925)	MarR family transcriptional regulator
+sor:SOR_0638	CDS	606122..606520	conserved hypothetical protein
+sor:SOR_0639	CDS	606530..607708	aspartate/tyrosine/aromatic aminotransferase
+sor:SOR_0640	CDS	607861..609204	asnS; aspartyl/asparaginyl-tRNA synthetase
+sor:SOR_0641	CDS	609354..609644	rpsF; 30S ribosomal protein S6
+sor:SOR_0642	CDS	609656..610126	ssbA; single-strand DNA-binding protein
+sor:SOR_0643	CDS	610158..610397	rpsR; 30S ribosomal protein S18
+sor:SOR_0644	CDS	610805..611314	acetyltransferase, GNAT family
+sor:SOR_0645	CDS	611749..612903	UDP-N-acetylglucosamine 2-epimerase, putative
+sor:SOR_0646	CDS	612905..613684	hypothetical protein
+sor:SOR_0647	CDS	613694..613834	conserved hypothetical protein
+sor:SOR_0648	CDS	613827..615137	glycosyl transferase family protein
+sor:SOR_0649	CDS	615146..616249	endoglucanase, putative
+sor:SOR_0650	CDS	616371..617771	hydrolases of the HAD superfamily
+sor:SOR_0651	CDS	617773..618132	RNA binding protein, putative
+sor:SOR_0652	CDS	618186..618935	S-adenosylmethionine-dependent methyltransferase
+sor:SOR_0653	CDS	618925..619209	conserved hypothetical protein
+sor:SOR_0654	CDS	619295..620230	manganese-dependent inorganic pyrophosphatase,putative
+sor:SOR_0655	CDS	620287..620610	hypothetical protein
+sor:SOR_0656	CDS	620733..621245	conserved hypothetical protein
+sor:SOR_0657	CDS	621229..621879	conserved hypothetical protein
+sor:SOR_0658	CDS	621981..622181	conserved hypothetical protein
+sor:SOR_0659	CDS	complement(622213..623658)	murE; UDP-N-acetylmuramyl tripeptide synthase MurE
+sor:SOR_0660	CDS	623764..625386	putative membrane protein involved in production of polysaccharide
+sor:SOR_0661	CDS	625589..627547	aliB; ABC transporter, oligopeptide-binding lipoprotein AliB
+sor:SOR_0662	CDS	627693..628787	cystathionine gamma-synthase
+sor:SOR_0663	CDS	628795..629961	aspartate aminotransferase family, PLP-dependent enzyme
+sor:SOR_0664	CDS	630053..633148	Snf2 family protein, superfamily II DNA/RNA helicases
+sor:SOR_0665	CDS	633196..633807	conserved hypothetical protein
+sor:SOR_0666	CDS	633819..635153	murC; UDP-N-acetylmuramate-alanine ligase
+sor:SOR_0667	CDS	635163..635630	acetyltransferase, GNAT family protein
+sor:SOR_0668	CDS	635627..636124	putative acetyltransferase, RimI family
+sor:SOR_0669	CDS	636205..637956	conserved hypothetical protein
+sor:SOR_0670	CDS	638018..638500	greA; transcription elongation factor GreA
+sor:SOR_0671	CDS	638577..639941	amino acid permease, putative
+sor:SOR_0672	CDS	640041..640451	acetyltransferase GNAT family, putative
+sor:SOR_0673	CDS	640658..641929	modification methylase
+sor:SOR_0674	CDS	641930..642721	hypothetical protein
+sor:SOR_0675	CDS	642798..644264	hypothetical protein
+sor:SOR_0676	CDS	644585..644794	transcriptional repressor, putative
+sor:SOR_0677	CDS	644784..645272	conserved hypothetical protein
+sor:SOR_0678	CDS	645389..646849	nicotinate phosphoribosyltransferase
+sor:SOR_0679	CDS	646846..647670	NAD+ synthetase
+sor:SOR_0680	CDS	647972..648523	acetyltransferase
+sor:SOR_0681	CDS	648687..649397	ccdA2; cytochrome c biogenesis protein CcdA
+sor:SOR_0682	CDS	649411..649974	conserved hypothetical protein,thioredoxin-related protein
+sor:SOR_0683	CDS	649984..651096	peptide methionine sulfoxide reductase
+sor:SOR_0684	CDS	651167..651904	response regulator
+sor:SOR_0685	CDS	651901..653592	sensor histidine kinase
+sor:SOR_0686	CDS	653702..654265	conserved hypothetical protein
+sor:SOR_0687	CDS	654530..656245	chorismate binding enzyme, putative para-aminobenzoate synthetase
+sor:SOR_0688	CDS	656365..657951	cbp1; choline binding protein
+sor:SOR_0689	CDS	658056..659015	glk; glucose kinase
+sor:SOR_0690	CDS	659114..659953	thymidylate synthase
+sor:SOR_0691	CDS	complement(659950..660141)	conserved hypothetical protein
+sor:SOR_0692	CDS	complement(660195..660365)	conserved hypothetical protein
+sor:SOR_0693	CDS	660462..661370	tRNA delta(2)-isopentenylpyrophosphate transferase
+sor:SOR_0694	CDS	661363..662601	hflX; GTP-binding protein HflX
+sor:SOR_0695	CDS	662594..663217	conserved hypothetical protein
+sor:SOR_0696	CDS	663232..664161	hydrolase family protein
+sor:SOR_0697	CDS	664190..664681	hypothetical protein
+sor:SOR_0698	CDS	664709..665464	dehydrogenase, putative
+sor:SOR_0699	CDS	665714..672691	bgaA; beta-galactosidase
+sor:SOR_0700	CDS	673156..676581	cell wall surface anchor family protein
+sor:SOR_0701	CDS	677174..680539	cell wall surface anchor family protein
+sor:SOR_0702	CDS	680747..681487	S-adenosylmethionine-dependent methyltransferase family protein
+sor:SOR_0703	CDS	complement(681569..681928)	conserved hypothetical protein
+sor:SOR_0704	CDS	682020..682958	Radical SAM superfamily protein
+sor:SOR_0705	CDS	682961..683518	conserved hypothetical protein
+sor:SOR_0706	CDS	683511..683765	conserved hypothetical protein
+sor:SOR_0707	CDS	683777..685831	Na+/H+ antiporter
+sor:SOR_0708	CDS	685861..686721	ribonuclease BN, putative
+sor:SOR_0709	CDS	complement(686761..687801)	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+sor:SOR_0710	CDS	687940..688647	N-acetylglucosamine-6-phosphate isomerase
+sor:SOR_0711	CDS	688937..693307	cell wall surface anchor family protein
+sor:SOR_0712	CDS	693616..693786	hypothetical protein
+sor:SOR_0713	CDS	693819..694133	hypothetical protein
+sor:SOR_0714	CDS	694274..694450	rpsU; 30S ribosomal protein S21
+sor:SOR_0715	CDS	694515..695477	hypothetical protein
+sor:SOR_0716	CDS	695614..696549	HPr kinase/phosphorylase
+sor:SOR_0717	CDS	696542..697330	prolipoprotein diacylglyceryl transferase
+sor:SOR_0718	CDS	697331..697714	conserved hypothetical protein
+sor:SOR_0719	CDS	697730..698128	conserved hypothetical protein
+sor:SOR_0720	CDS	698201..699331	coproporphyrinogen III oxidase,oxygen-independent coproporphyrinogen III oxidase,putative
+sor:SOR_0721	CDS	699336..700073	Acyl-ACP thioesterase, putative
+sor:SOR_0722	CDS	700080..700853	putative sugar phosphatases of the HAD superfamily, N-acetyl-glucosamine catabolism protein,putative
+sor:SOR_0723	CDS	700843..701463	conserved hypothetical protein
+sor:SOR_0724	CDS	701680..702081	spx; regulatory protein Spx, ArsC_Spx, Arsenate Reductase (ArsC) family, Spx subfamily
+sor:SOR_0725	CDS	702082..702360	conserved hypothetical protein
+sor:SOR_0726	CDS	702350..703123	inositol monophosphatase family protein
+sor:SOR_0727	CDS	703124..704428	NOL1/NOP2/sun family protein
+sor:SOR_0728	CDS	704639..705517	pstS_1; ABC transporter, phosphate-binding protein PstS 1
+sor:SOR_0729	CDS	705517..706434	pstC; ABC transporter membrane-spanning permease,phosphate transport
+sor:SOR_0730	CDS	706424..707308	pstA; ABC transporter membrane-spanning permease,phosphate transport
+sor:SOR_0731	CDS	707319..708122	pstB2; ABC transporter, ATP-binding protein, phosphate transport
+sor:SOR_0732	CDS	708135..708893	pstB1; ABC transporter ATP-binding protein, phosphate transport
+sor:SOR_0733	CDS	708905..709558	phoU; phosphate transport system regulatory protein
+sor:SOR_0734	CDS	709716..710531	ABC transporter substrate-binding lipoprotein
+sor:SOR_0735	CDS	complement(710551..711822)	transcriptional regulator, GntR family
+sor:SOR_0736	CDS	711967..712698	alpha-acetolactate decarboxylase
+sor:SOR_0737	CDS	712708..713460	conserved hypothetical protein
+sor:SOR_0738	CDS	713572..714477	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+sor:SOR_0739	CDS	714617..715774	potA; ABC transporter, ATP-binding protein spermidine/putrescine transport
+sor:SOR_0740	CDS	715755..716561	potB; ABC-transporter, membrane-spanning permease,spermidine/putrescine transport
+sor:SOR_0741	CDS	716558..717331	potC; ABC-transporter, membrane-spanning permease,spermidine/putrescine transport
+sor:SOR_0742	CDS	717328..718398	potD; ABC transporter substrate-binding protein-spermidine/putrescine transport
+sor:SOR_0743	CDS	718603..719157	hypothetical protein
+sor:SOR_0744	CDS	719309..719509	hypothetical protein
+sor:SOR_0745	CDS	719521..720498	stkP1; serine/threonine protein kinase, COG2815
+sor:SOR_0746	CDS	720771..721256	conserved hypothetical protein
+sor:SOR_0747	CDS	721277..723895	alanyl-tRNA synthetase
+sor:SOR_0748	CDS	complement(723983..725431)	alpha-amylase
+sor:SOR_0749	CDS	725704..726867	conserved hypothetical protein, SAM-dependent methyltransferase family, putative
+sor:SOR_0750	CDS	726864..727541	aroD; 3-dehydroquinate dehydratase, (3-dehydroquinase) (Type I DHQase)
+sor:SOR_0751	CDS	727531..728385	aroE; shikimate 5-dehydrogenase
+sor:SOR_0752	CDS	728404..729471	aroB; 3-dehydroquinate synthase
+sor:SOR_0753	CDS	729481..730647	aroC; chorismate synthase
+sor:SOR_0754	CDS	730657..731760	prephenate dehydrogenase
+sor:SOR_0755	CDS	731771..732109	conserved hypothetical protein
+sor:SOR_0756	CDS	732200..733483	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+sor:SOR_0757	CDS	733476..733952	shikimate kinase
+sor:SOR_0758	CDS	733949..734797	pheA; prephenate dehydratase
+sor:SOR_0759	CDS	734794..736089	transcriptional regulator, putative
+sor:SOR_0760	CDS	736233..737069	licD3; putative phosphotransferase
+sor:SOR_0761	CDS	737066..738034	putative glycosyl transferase [Streptococcus pneumoniae]
+sor:SOR_0762	CDS	738043..740196	licD4; putative phosphotransferase LicD4
+sor:SOR_0763	CDS	740200..740910	hypothetical protein
+sor:SOR_0764	CDS	741121..741435	pce; putative teichoic acid phosphorylcholine esterase
+sor:SOR_0765	CDS	complement(741481..742959)	wzx; putative teichoic acid flippase
+sor:SOR_0766	CDS	743082..743822	mecA; adaptor protein
+sor:SOR_0767	CDS	743970..745256	thrA; homoserine dehydrogenase
+sor:SOR_0768	CDS	745258..746127	thrB; homoserine kinase
+sor:SOR_0769	CDS	746144..747166	msrA; bifunctional methionine sulfoxide reductase
+sor:SOR_0770	CDS	747226..748995	ABC transporter, ATP-binding/permease protein
+sor:SOR_0771	CDS	748952..750700	ABC transporter, ATP-binding/permease protein; Glucan export, putative
+sor:SOR_0772	CDS	750807..752066	metal dependent hydrolases
+sor:SOR_0773	CDS	752303..752803	rplJ; 50S ribosomal protein L10
+sor:SOR_0774	CDS	752878..753246	rplL; 50S ribosomal protein L7/L12
+sor:SOR_0775	CDS	753478..754380	conserved hypothetical protein
+sor:SOR_0776	CDS	754443..754811	conserved hypothetical protein
+sor:SOR_0777	CDS	complement(754972..755457)	acetyltransferase GNAT family
+sor:SOR_0778	CDS	complement(755489..756835)	gdhA; glutamate dehydrogenase, NAD(P) dependent
+sor:SOR_0779	CDS	757039..757974	pyrD; dihydroorotate dehydrogenase
+sor:SOR_0780	CDS	758008..759045	holA; DNA polymerase III subunit delta
+sor:SOR_0781	CDS	759115..759720	sodA; superoxide dismutase, manganese-dependent
+sor:SOR_0782	CDS	759874..760404	conserved hypothetical protein
+sor:SOR_0783	CDS	760425..761510	Radical SAM superfamily, predicted Fe-S-cluster redox enzyme
+sor:SOR_0784	CDS	761512..761991	VanZ superfamily protein
+sor:SOR_0785	CDS	761993..763534	ABC transporter, ATP-binding protein
+sor:SOR_0786	CDS	complement(763577..763816)	conserved hypothetical protein
+sor:SOR_0787	CDS	complement(763844..764650)	peptidyl-prolyl cis-trans isomerase
+sor:SOR_0788	CDS	764868..765140	rpsP; 30S ribosomal protein S16
+sor:SOR_0789	CDS	765160..765399	conserved hypothetical protein
+sor:SOR_0790	CDS	765443..765784	conserved hypothetical protein
+sor:SOR_0791	CDS	765845..765979	hypothetical protein
+sor:SOR_0792	CDS	766109..767011	hypothetical protein
+sor:SOR_0793	CDS	767161..768018	hypothetical protein
+sor:SOR_0794	CDS	768094..768612	rimM; 16S rRNA processing protein RimM
+sor:SOR_0795	CDS	768602..769321	trmD; tRNA (guanine-N(1)-)-methyltransferase
+sor:SOR_0796	CDS	769333..769671	conserved hypothetical protein,ribonucleotide-diphosphate reductase, ATP cone domain-containing protein, putative
+sor:SOR_0797	CDS	complement(769699..770019)	conserved hypothetical protein
+sor:SOR_0798	CDS	770123..770341	conserved hypothetical protein
+sor:SOR_0799	CDS	complement(770375..770932)	TetR superfamily transcriptional regulator,putative
+sor:SOR_0800	CDS	complement(771325..771861)	BioY family protein, putative
+sor:SOR_0801	CDS	complement(772005..773351)	glutathione-disulfide reductase
+sor:SOR_0802	CDS	773618..774805	conserved hypothetical protein, efflux transporter, putative
+sor:SOR_0803	CDS	774789..775487	ABC transporter, ATP-binding protein macrolide efflux, putative
+sor:SOR_0804	CDS	775489..776748	ABC transporter membrane-spanning permease macrolide efflux, putative
+sor:SOR_0805	CDS	776885..778882	metS; methionyl-tRNA synthetase
+sor:SOR_0806	CDS	complement(778899..779432)	flaR; DNA topology modulation protein
+sor:SOR_0807	CDS	complement(779485..779721)	rpsT; 30S ribosomal protein S20
+sor:SOR_0808	CDS	complement(779789..780709)	coaA; pantothenate kinase
+sor:SOR_0809	CDS	780911..781315	conserved hypothetical protein
+sor:SOR_0810	CDS	781518..782108	rsmC; 16S RNA G1207 methylase RsmC
+sor:SOR_0811	CDS	782105..783382	deoA; pyrimidine-nucleoside phosphorylase, thymidine phosphorylase
+sor:SOR_0812	CDS	783402..784064	deoC; deoxyribose-phosphate aldolase
+sor:SOR_0813	CDS	784051..784440	cdd; cytidine deaminase
+sor:SOR_0814	CDS	784531..785586	ABC-type transport system, extracellular substrate binding protein, signal peptide type I
+sor:SOR_0815	CDS	785723..787258	ABC transporter, ATP-binding protein, Carb_Monos family domain I and II
+sor:SOR_0816	CDS	787251..788309	ABC transporter membrane-spanning permease,sugar transport
+sor:SOR_0817	CDS	788312..789268	ABC transporter membrane-spanning permease,sugar transport
+sor:SOR_0818	CDS	complement(789302..789943)	conserved hypothetical protein
+sor:SOR_0819	CDS	790079..792022	parE; DNA topoisomerase IV subunit B
+sor:SOR_0820	CDS	792035..792511	hypothetical protein
+sor:SOR_0821	CDS	792548..793072	hypothetical protein
+sor:SOR_0822	CDS	793062..793145	hypothetical protein
+sor:SOR_0823	CDS	793318..793860	hypothetical protein
+sor:SOR_0824	CDS	793850..794698	aminoglycoside 6-adenylyltransferase
+sor:SOR_0825	CDS	794700..795191	hypothetical protein
+sor:SOR_0826	CDS	795419..797899	parC; topoisomerase IV subunit A, ParC
+sor:SOR_0827	CDS	798030..799052	ilvE; branched-chain amino acid aminotransferase
+sor:SOR_0828	CDS	799165..799395	conserved hypothetical protein
+sor:SOR_0829	tRNA	799445..799525	tRNA-Tyr
+sor:SOR_0830	tRNA	799534..799605	tRNA-Gln
+sor:SOR_0831	CDS	799768..800970	rpsA; 30S ribosomal protein S1
+sor:SOR_0832	CDS	801053..801550	conserved hypothetical protein
+sor:SOR_0833	CDS	801550..803208	dnaX; DNA polymerase III subunits gamma and tau
+sor:SOR_0834	CDS	803308..803430	conserved hypothetical protein
+sor:SOR_0835	CDS	803583..804353	sufC; ABC transporter ATP-binding protein
+sor:SOR_0836	CDS	804381..805643	sufD; FeS assembly protein SufD
+sor:SOR_0837	CDS	805654..806880	sufS; cysteine desulfurase, SufS subfamily
+sor:SOR_0838	CDS	806867..807307	SUF system FeS assembly protein, NifU family
+sor:SOR_0839	CDS	807365..808777	sufB; FeS assembly protein SufB
+sor:SOR_0840	CDS	808796..809365	hypothetical protein
+sor:SOR_0841	CDS	809579..810976	amino acid permease family protein
+sor:SOR_0842	CDS	complement(810999..811847)	conserved hypothetical protein
+sor:SOR_0843	CDS	811989..812825	conserved hypothetical protein, DegV family protein
+sor:SOR_0844	CDS	812933..813208	histone-like protein
+sor:SOR_0845	CDS	complement(813340..814326)	ldh; L-lactate dehydrogenase
+sor:SOR_0846	CDS	814523..816991	gyrA; DNA gyrase, subunit A
+sor:SOR_0847	CDS	816991..817746	srtA; Sortase A
+sor:SOR_0848	CDS	817948..818745	formate/nitrate transporter, putative
+sor:SOR_0849	CDS	818896..820176	O-acetylhomoserine sulfhydrylase
+sor:SOR_0850	CDS	820271..821545	conserved hypothetical protein
+sor:SOR_0851	CDS	821552..823225	hypothetical protein
+sor:SOR_0852	CDS	823235..823963	hypothetical protein
+sor:SOR_0853	CDS	823964..825052	AAA family ATPase, putative
+sor:SOR_0854	CDS	825072..825950	truB; tRNA pseudouridine synthase B
+sor:SOR_0855	CDS	826062..826700	udK; uridine kinase
+sor:SOR_0856	CDS	826829..828169	xseA; exodeoxyribonuclease VII, large subunit
+sor:SOR_0857	CDS	828147..828359	xseB; exodeoxyribonuclease VII, small subunit
+sor:SOR_0858	CDS	828356..829231	ispA; farnesyl diphosphate synthase
+sor:SOR_0859	CDS	829224..830039	conserved hypothetical protein, rRNA methylase,putative
+sor:SOR_0860	CDS	830032..830463	ArgR family transcriptional regulator
+sor:SOR_0861	CDS	830470..832137	recN; DNA repair protein RecN
+sor:SOR_0862	CDS	832138..832866	pphA; serine/threonine protein phosphatase
+sor:SOR_0863	CDS	832945..834768	lepA; GTP-binding protein LepA
+sor:SOR_0864	CDS	834913..835536	hypothetical protein
+sor:SOR_0865	CDS	835618..836466	dprA; DNA processing protein DprA
+sor:SOR_0866	CDS	836583..838712	topA; DNA topoisomerase I
+sor:SOR_0867	CDS	838776..839135	conserved hypothetical protein
+sor:SOR_0868	CDS	839229..839861	cutC; copper homeostasis protein CutC
+sor:SOR_0869	CDS	839905..840561	conserved hypothetical protein
+sor:SOR_0870	CDS	840876..842438	leuA; 2-isopropylmalate synthase
+sor:SOR_0871	CDS	842450..843487	leuB; 3-isopropylmalate dehydrogenase
+sor:SOR_0872	CDS	843484..843753	conserved hypothetical protein
+sor:SOR_0873	CDS	843757..845139	leuC; 3-isopropylmalate dehydratase large subunit
+sor:SOR_0874	CDS	845149..845742	leuD; 3-isopropylmalate dehydratase small subunit
+sor:SOR_0875	CDS	845775..846554	conserved hypothetical protein
+sor:SOR_0876	CDS	846725..848377	putative endonuclease, (GTPase subunit of a restriction endonuclease)
+sor:SOR_0877	CDS	848364..849677	putative 5-methylcytosine restriction system,catalytic subunit
+sor:SOR_0878	CDS	849851..850837	guaC; guanosine monophosphate reductase, GMP reductase
+sor:SOR_0879	tRNA	850905..850976	tRNA-Arg
+sor:SOR_0880	CDS	851159..851857	rnc; ribonuclease III
+sor:SOR_0881	CDS	851848..855387	smc; chromosome condensation and segregation SMC protein
+sor:SOR_0882	CDS	855531..856457	bifunctional riboflavin kinase/FMN adenylyltransferase
+sor:SOR_0883	CDS	856652..858100	type I restriction-modification system, M subunit, putative
+sor:SOR_0884	CDS	858113..858655	type I restriction-modification system, S subunit, putative
+sor:SOR_0885	CDS	858652..859728	type I restriction-modification system S subunit, putative
+sor:SOR_0886	CDS	859811..860047	toxin-antitoxin system, antitoxin component,AbrB family
+sor:SOR_0887	CDS	860044..860454	prophage maintenance system killer protein,putative
+sor:SOR_0888	CDS	860567..861532	integrase/recombinase, phage integrase family protein
+sor:SOR_0889	CDS	861498..862139	type I restriction-modification system, putative
+sor:SOR_0890	CDS	862168..865518	type I restriction modification system, R subunit
+sor:SOR_0891	CDS	865536..866309	conserved hypothetical protein
+sor:SOR_0892	CDS	866351..866797	hypothetical protein
+sor:SOR_0893	CDS	866791..867369	hypothetical protein
+sor:SOR_0894	CDS	867387..867998	conserved hypothetical protein with tetratricopeptide repeats
+sor:SOR_0895	CDS	complement(868019..868834)	conserved hypothetical protein
+sor:SOR_0896	CDS	complement(868831..869736)	conserved hypothetical protein
+sor:SOR_0897	CDS	complement(869737..869868)	conserved hypothetical protein
+sor:SOR_0898	CDS	870458..870601	hypothetical protein
+sor:SOR_0899	CDS	870905..872896	putative type III restriction/modification system modification methylase
+sor:SOR_0900	CDS	872900..875509	type III restriction-modification system
+sor:SOR_0901	CDS	875537..876253	conserved hypothetical protein, P-loop NTPase,putative
+sor:SOR_0902	CDS	876272..877018	conserved hypothetical protein, P-loop NTPase,putative
+sor:SOR_0903	CDS	877043..879241	S1 RNA binding domain protein
+sor:SOR_0904	CDS	879228..879671	conserved hypothetical protein
+sor:SOR_0905	CDS	879731..880003	conserved hypothetical protein
+sor:SOR_0906	CDS	880260..880370	conserved hypothetical protein
+sor:SOR_0907	CDS	880384..881142	ABC transporter, ATP-binding protein
+sor:SOR_0908	CDS	881144..883132	ABC transporter membrane-spanning permease
+sor:SOR_0909	CDS	complement(883171..883866)	conserved hypothetical protein,Nodulin-21_like_1
+sor:SOR_0910	CDS	884072..884863	Cof family protein
+sor:SOR_0911	CDS	884863..885681	Cof family protein
+sor:SOR_0912	CDS	885685..886986	ftsY; SRPR, signal recognition particle-docking protein
+sor:SOR_0913	CDS	complement(887031..888518)	glucose-6-phosphate dehydrogenase
+sor:SOR_0914	CDS	complement(888669..889409)	polar amino acid ABC uptake transporter ATP-binding protein
+sor:SOR_0915	CDS	complement(889409..891574)	polar amino acid ABC transporter, amino acid-binding protein/permease protein
+sor:SOR_0916	CDS	891755..893743	uvrB; excinuclease ABC subunit B
+sor:SOR_0917	CDS	893752..894315	acetyltransferase family protein, including N-acetylases of ribosomal proteins
+sor:SOR_0918	CDS	894302..894784	acetyltransferase, GNAT family protein
+sor:SOR_0919	CDS	894874..895377	hypothetical protein
+sor:SOR_0920	CDS	895358..895927	hypothetical protein
+sor:SOR_0921	CDS	895873..896430	hypothetical protein
+sor:SOR_0922	CDS	896408..896851	conseved hypothetical protein
+sor:SOR_0923	CDS	896875..897342	MutT/nudix family protein
+sor:SOR_0924	CDS	complement(897339..897854)	transcriptional regulator, metal regulated homodimeric repressor superfamily
+sor:SOR_0925	CDS	complement(897866..898393)	smi_1196, conserved hypothetical protein
+sor:SOR_0926	CDS	898529..898888	hypothetical protein
+sor:SOR_0927	CDS	complement(898930..899493)	conserved hypothetical protein
+sor:SOR_0928	CDS	complement(899477..900028)	phosphopantothenoylcysteine decarboxylase
+sor:SOR_0929	CDS	complement(900040..900729)	phosphopantothenate-cysteine ligase
+sor:SOR_0930	CDS	900856..902022	hypothetical protein
+sor:SOR_0931	CDS	902015..903490	hypothetical protein
+sor:SOR_0932	CDS	903664..905334	formate-tetrahydrofolate ligase
+sor:SOR_0933	CDS	905517..907808	pcrA; ATP-dependent DNA helicase PcrA
+sor:SOR_0934	CDS	907851..908531	radC; DNA repair protein RadC
+sor:SOR_0935	CDS	complement(908546..909034)	hypothetical protein
+sor:SOR_0936	CDS	complement(909059..909748)	glutamine amidotransferase class I, putative
+sor:SOR_0937	CDS	complement(909764..910405)	conserved hypothetical protein, putative DNA-binding protein
+sor:SOR_0938	CDS	complement(910488..910631)	conserved hypothetical protein
+sor:SOR_0939	CDS	complement(910710..911057)	conserved hypothetical protein
+sor:SOR_0940	CDS	complement(911062..912177)	cysteine desulfurase (SufS)-like superfamily
+sor:SOR_0941	CDS	complement(912187..913146)	prs; ribose-phosphate pyrophosphokinase
+sor:SOR_0942	CDS	complement(913258..913827)	conserved hypothetical protein, putative adenylate cyclase family
+sor:SOR_0943	CDS	913956..914627	conserved hypothetical protein, putative RelA and SpoT superfamily
+sor:SOR_0944	CDS	914611..915429	conserved hypothetical protein, putative inorganic polyphosphate/ATP-NAD kinase
+sor:SOR_0945	CDS	915426..916322	rluA3; 23S rRNA pseudouridine synthase
+sor:SOR_0946	CDS	916366..917340	pta; phosphotransacetylase
+sor:SOR_0947	CDS	917423..918601	A/G-specific adenine glycosylase, putative
+sor:SOR_0948	CDS	918658..919365	vicR; DNA-binding response regulator, OmpR family
+sor:SOR_0949	CDS	919358..920707	vicK; signal transduction histidine kinase
+sor:SOR_0950	CDS	920709..921518	vicX; metallo-beta-lactamase superfamily protein
+sor:SOR_0951	CDS	complement(921553..921900)	TRX family Group I family protein
+sor:SOR_0952	CDS	complement(922011..923729)	pgmA; phosphoglucomutase
+sor:SOR_0953	CDS	923831..923992	hypothetical protein
+sor:SOR_0954	CDS	924140..925252	hypothetical protein
+sor:SOR_0955	CDS	925372..927273	ABC transporter ATP-binding protein, ATPase components of ABC transporters with duplicated ATPase domains
+sor:SOR_0956	CDS	927277..928140	MutR family transcriptional regulator
+sor:SOR_0957	CDS	928221..929399	transporter, major facilitator family protein
+sor:SOR_0958	CDS	929489..931447	ligA; DNA ligase, NAD-dependent
+sor:SOR_0959	CDS	931597..933882	pulA; pullulanase
+sor:SOR_0960	CDS	934079..935503	aldehyde dehydrogenase family protein, putative NADP-dependent glyceraldehyde-3-phosphate dehydrogenase (non-phosphorylating glyceraldehyde 3-phosphate dehydrogenase
+sor:SOR_0961	CDS	935775..937670	glgB; 1,4-alpha-glucan branching enzyme
+sor:SOR_0962	CDS	937829..938971	glgC; glucose-1-phosphate adenylyltransferase,glycogen biosynthesis protein
+sor:SOR_0963	CDS	938961..940100	glgD; glycogen biosynthesis protein,glucose-1-phosphate adenylyltransferase
+sor:SOR_0964	CDS	940097..941530	glgA; glycogen synthase
+sor:SOR_0965	CDS	941589..942233	serB; phosphoserine phosphatase
+sor:SOR_0966	CDS	942243..943358	glxK; glycerate kinase
+sor:SOR_0967	CDS	complement(943355..943801)	conserved hypothetical protein
+sor:SOR_0968	CDS	943964..945268	enolase
+sor:SOR_0969	CDS	945395..945889	conserved hypothetical
+sor:SOR_0970	CDS	946089..946925	AraC family transcriptional regulator
+sor:SOR_0971	CDS	947117..948160	glycosyltransferase, putative
+sor:SOR_0972	CDS	948157..949068	conserved hypothetical protein
+sor:SOR_0973	CDS	949049..949453	conserved hypothetical protein
+sor:SOR_0974	CDS	949609..950523	conserved hypothetical protein
+sor:SOR_0975	CDS	950650..951192	conserved hypothetical protein
+sor:SOR_0976	CDS	951326..951661	conserved hypothetical protein
+sor:SOR_0977	CDS	951808..953976	site-specific DNA-methyltransferase (adenine-specific)
+sor:SOR_0978	CDS	953977..955959	AlwI restriction endonuclease family protein
+sor:SOR_0979	CDS	956273..956704	conserved hypothetical protein
+sor:SOR_0980	CDS	956736..957428	hydrolase, haloacid dehalogenase-like family protein
+sor:SOR_0981	CDS	957452..957745	hypothetical protein
+sor:SOR_0982	CDS	957868..958623	conserved hypothetical protein
+sor:SOR_0983	CDS	958635..959288	uracil-DNA glycosylase
+sor:SOR_0984	CDS	959298..959762	Nudix hydrolase superfamily protein
+sor:SOR_0985	CDS	959775..961043	pyrC; dihydroorotase
+sor:SOR_0986	CDS	961085..962425	putative Na+-driven multidrug efflux pump, MATE family
+sor:SOR_0987	CDS	962604..963572	acetoin dehydrogenase, E1 component, alpha subunit, TPP-dependent
+sor:SOR_0988	CDS	963588..964580	acetoin dehydrogenase, E1 component, beta subunit, putative
+sor:SOR_0989	CDS	964919..965962	2-oxoacid dehydrogenases acyltransferase superfamily protein; acetoin dehydrogenase complex, E2 component, dihydrolipoamide acetyltransferase, putative
+sor:SOR_0990	CDS	966007..967710	acetoin dehydrogenase complex, E3 component,dihydrolipoamide dehydrogenase, putative
+sor:SOR_0991	CDS	967906..968895	lipoate protein ligase A, putative
+sor:SOR_0992	CDS	968999..969640	hypothetical protein
+sor:SOR_0993	CDS	complement(969719..970789)	integrase/recombinase, phage integrase family protein
+sor:SOR_0994	CDS	complement(970929..971219)	hypothetical protein
+sor:SOR_0995	CDS	complement(971200..971592)	hypothetical protein
+sor:SOR_0996	CDS	complement(971574..972818)	hypothetical protein
+sor:SOR_0997	CDS	complement(972818..973165)	hypothetical protein
+sor:SOR_0998	CDS	complement(973250..973354)	hypothetical protein
+sor:SOR_0999	CDS	complement(973354..973779)	hypothetical protein
+sor:SOR_1000	CDS	complement(973884..974306)	conserved hypothetical protein
+sor:SOR_1001	CDS	complement(974456..976006)	eriC; putative chloride channel protein EriC
+sor:SOR_1002	CDS	complement(976019..976798)	rnhB; ribonuclease HII
+sor:SOR_1003	CDS	complement(976785..977636)	GTP-binding protein, ribosomal biogenesis GTPase
+sor:SOR_1004	CDS	977852..978067	transcriptional regulator, AbrB superfamily
+sor:SOR_1005	CDS	978051..978407	conserved hypothetical protein
+sor:SOR_1006	CDS	complement(978441..979619)	conserved hypothetical protein
+sor:SOR_1007	CDS	complement(979637..983290)	rexA; exonuclease RexA, RecB, ATP-dependent exoDNAse,beta subunit (contains helicase and exonuclease domains)
+sor:SOR_1008	CDS	complement(983287..986562)	rexB; exonuclease RexB, AddB, ATP-dependent nuclease
+sor:SOR_1009	CDS	complement(986669..987088)	conserved hypothetical protein
+sor:SOR_1010	CDS	complement(987081..987542)	transcriptional regulator, MarR family
+sor:SOR_1011	CDS	987689..988498	hydrolase, Cof superfamily protein
+sor:SOR_1012	CDS	complement(988544..989281)	conserved hypothetical protein
+sor:SOR_1013	CDS	complement(989426..990301)	carbon-nitrogen hydrolase family protein
+sor:SOR_1014	CDS	complement(990311..991396)	amino acid deiminase superfamily protein
+sor:SOR_1015	CDS	complement(991393..992520)	LysA-like decarboxylase, diaminopimelate decarboxylase putative
+sor:SOR_1016	CDS	complement(992520..993779)	dehydrogenase family protein, saccharopine dehydrogenase, putative
+sor:SOR_1017	CDS	complement(993776..994636)	spermidine synthase
+sor:SOR_1018	CDS	complement(994637..996115)	ornithine decarboxylase family
+sor:SOR_1019	CDS	complement(996719..997273)	conserved hypothetical protein
+sor:SOR_1020	CDS	complement(997452..997958)	conserved hypothetical protein
+sor:SOR_1021	CDS	complement(998050..998232)	conserved hypothetical protein
+sor:SOR_1022	CDS	complement(998254..999129)	conserved hypothetical protein
+sor:SOR_1023	CDS	complement(999285..1001024)	alpha-amylase-neopullulanase family glycoside hydrolase
+sor:SOR_1024	CDS	complement(1001203..1001709)	conserved hypothetical protein
+sor:SOR_1025	CDS	complement(1001758..1002639)	conserved hypothetical protein, diacylglycerol kinase catalytic domain
+sor:SOR_1026	CDS	complement(1002820..1003101)	hypothetical protein
+sor:SOR_1027	CDS	complement(1003234..1003983)	hypothetical protein
+sor:SOR_1028	CDS	complement(1003986..1004432)	conserved hypothetical protein
+sor:SOR_1029	CDS	complement(1004489..1004635)	hypothetical protein
+sor:SOR_1030	CDS	complement(1004625..1005137)	hypothetical protein
+sor:SOR_1031	CDS	complement(1005208..1005786)	conserved hypothetical protein
+sor:SOR_1032	CDS	complement(1005907..1006563)	hypothetical protein
+sor:SOR_1033	CDS	complement(1006606..1007262)	hypothetical protein
+sor:SOR_1034	CDS	complement(1007328..1007975)	hypothetical protein
+sor:SOR_1035	CDS	complement(1008048..1008125)	hypothetical protein
+sor:SOR_1036	CDS	complement(1008133..1008801)	conserved hypothetical protein
+sor:SOR_1037	CDS	complement(1009036..1009425)	hypothetical protein
+sor:SOR_1038	CDS	complement(1009455..1009559)	conserved hypothetical protein
+sor:SOR_1039	CDS	complement(1009600..1010217)	conserved hypothetical protein
+sor:SOR_1040	CDS	complement(1010346..1010438)	conserved hypothetical protein
+sor:SOR_1041	CDS	complement(1010551..1010961)	hypothetical protein
+sor:SOR_1042	CDS	complement(1011176..1011982)	conserved hypothetical protein, hydrolase or acyltransferase, putative
+sor:SOR_1043	CDS	complement(1012137..1012871)	conserved hypothetical protein, CAAX amino terminal protease family
+sor:SOR_1044	CDS	complement(1013060..1013668)	conserved hypothetical protein
+sor:SOR_1045	CDS	complement(1013932..1014516)	conserved hypothetical protein
+sor:SOR_1046	CDS	complement(1014650..1016008)	SAM-dependent methyltransferase related to tRNA (uracil-5-)-methyltransferase
+sor:SOR_1047	CDS	complement(1016082..1016876)	conserved hypothetical protein
+sor:SOR_1048	gene	complement(1016888..1017057)	pseudogene
+sor:SOR_1049	CDS	complement(1017144..1017746)	lytic murein transglycosylase, putative
+sor:SOR_1050	CDS	complement(1017746..1018720)	conserved hypothetical protein
+sor:SOR_1051	CDS	complement(1018728..1019984)	glyA; serine hydroxymethyltransferase
+sor:SOR_1052	CDS	complement(1020045..1020476)	acetyltransferase (GNAT) family protein
+sor:SOR_1053	CDS	complement(1020478..1021077)	translation factor (SUA5), putative
+sor:SOR_1054	CDS	complement(1021064..1021900)	hemK; protoporphyrinogen oxidase
+sor:SOR_1055	CDS	complement(1021900..1022979)	prfA; peptide chain release factor 1
+sor:SOR_1056	CDS	complement(1022976..1023566)	tdk; thymidine kinase
+sor:SOR_1057	CDS	1023689..1023871	xylH; 4-oxalocrotonate tautomerase
+sor:SOR_1058	CDS	1024006..1025379	trmE; tRNA modification GTPase TrmE
+sor:SOR_1059	CDS	complement(1025426..1026361)	dapA; dihydrodipicolinate synthase
+sor:SOR_1060	CDS	complement(1026418..1027494)	asd; aspartate-semialdehyde dehydrogenase
+sor:SOR_1061	tRNA	complement(1027852..1027924)	tRNA-Thr
+sor:SOR_1062	CDS	complement(1028030..1028542)	QueT transporter, putative
+sor:SOR_1063	CDS	1028665..1029102	GtrA family protein
+sor:SOR_1064	CDS	1029176..1029586	mscL; large conductance mechano-sensitive ion channel
+sor:SOR_1065	CDS	complement(1029605..1030699)	hemH; ferrochelatase
+sor:SOR_1066	CDS	complement(1030777..1031649)	srtG2; SrtG2, sortase_B family
+sor:SOR_1067	CDS	complement(1031725..1032726)	srtG1; SrtG1, sortase_B family
+sor:SOR_1068	CDS	complement(1032743..1034008)	conserved hypothetical protein
+sor:SOR_1069	CDS	complement(1034008..1034559)	sipA; SipA
+sor:SOR_1070	CDS	complement(1034559..1037150)	conserved hypothetical protein
+sor:SOR_1071	CDS	1037510..1038733	pepT; peptidase T
+sor:SOR_1072	CDS	complement(1038770..1041817)	conserved hypothetical protein
+sor:SOR_1073	CDS	complement(1041834..1041980)	adcAx; zinc-binding lipoprotein AdcA, putative
+sor:SOR_1074	CDS	complement(1042208..1044721)	conserved hypothetical protein
+sor:SOR_1075	CDS	complement(1044729..1045646)	adcA; zinc-binding lipoprotein AdcA
+sor:SOR_1076	CDS	complement(1045841..1048378)	pneumococcal histidine triad protein
+sor:SOR_1077	CDS	complement(1048623..1050347)	ptsI; phosphoenolpyruvate-protein phosphotransferase
+sor:SOR_1078	CDS	complement(1050362..1050625)	ptsH; phosphocarrier protein HPr
+sor:SOR_1079	CDS	1050988..1051206	nrdH; NrdH-redoxin, glutaredoxin-like protein involved in electron transport system for ribonucleotide reductase system NrdEF
+sor:SOR_1080	CDS	1051287..1053446	nrdE; ribonucleoside-diphosphate reductase, alpha subunit
+sor:SOR_1081	CDS	1053641..1054603	nrdF; ribonucleoside-diphosphate reductase 2, beta subunit
+sor:SOR_1082	CDS	1054731..1055498	lacR; lactose phosphotransferase system repressor
+sor:SOR_1083	CDS	complement(1055538..1056944)	lacG; 6-phospho-beta-galactosidase
+sor:SOR_1084	CDS	complement(1057029..1058723)	lacE; PTS system, lactose-specific IIBC
+sor:SOR_1085	CDS	complement(1058723..1059040)	lacF; PTS system, lactose-specific IIA component
+sor:SOR_1086	CDS	complement(1059076..1059912)	lacT; transcription antiterminator LacT
+sor:SOR_1087	CDS	complement(1060146..1061126)	lacD; tagatose 1,6-diphosphate aldolase
+sor:SOR_1088	CDS	complement(1061128..1062057)	lacC; tagatose-6-phosphate kinase
+sor:SOR_1089	CDS	complement(1062068..1062583)	lacB; galactose-6-phosphate isomerase, LacB subunit
+sor:SOR_1090	CDS	complement(1062614..1063039)	lacA; galactose-6-phosphate isomerase, LacA subunit
+sor:SOR_1091	CDS	complement(1063326..1064222)	lacX; LacX/GalM, Galactose mutarotase and related enzymes
+sor:SOR_1092	CDS	complement(1064330..1065805)	gatC; PTS system, IIC component, GatC,galactitol-specific IIC component
+sor:SOR_1093	CDS	complement(1065861..1066166)	sgaB; PTS system, IIB component, SgaB,galactitol-specific IIB
+sor:SOR_1094	CDS	complement(1066204..1066680)	PTS system, IIA component
+sor:SOR_1095	CDS	complement(1066879..1067568)	licC; CTP:phosphocholine cytidylyltransferase
+sor:SOR_1096	CDS	complement(1067580..1068458)	licB; choline transport protein
+sor:SOR_1097	CDS	complement(1068460..1069317)	licA; choline kinase
+sor:SOR_1098	CDS	complement(1069334..1070356)	tarJ; alcohol dehydrogenase
+sor:SOR_1099	CDS	complement(1070361..1071068)	tarI; cytidylyltransferase
+sor:SOR_1100	CDS	1071519..1071809	conserved hypothetical protein
+sor:SOR_1101	CDS	complement(1071848..1073611)	membrane-anchored glycerophosphoryl diester phosphodiesterase family protein
+sor:SOR_1102	CDS	complement(1073620..1074213)	dnaQ; DNA polymerase III, epsilon chain
+sor:SOR_1103	CDS	complement(1074295..1074789)	conserved hypothetical protein
+sor:SOR_1104	CDS	complement(1074866..1075558)	5-methylthioadenosine nucleosidase/S-adenosylhomocysteine nucleosidase
+sor:SOR_1105	CDS	complement(1075574..1075885)	conserved hypothetical protein
+sor:SOR_1106	CDS	complement(1075897..1076442)	MutT/NUDIX hydrolase family protein
+sor:SOR_1107	CDS	complement(1076452..1077831)	gcaD; UDP-N-acetylglucosamine pyrophosphorylase
+sor:SOR_1108	CDS	1077989..1078789	putative lysozyme, Lyzozyme M1 (1,4-beta-N-acetylmuramidase)
+sor:SOR_1109	CDS	1078896..1079738	conserved hypothetical protein
+sor:SOR_1110	CDS	1079738..1080220	regulatory protein, putative
+sor:SOR_1111	CDS	1080220..1080843	gpmA; phosphoglycerate mutase
+sor:SOR_1112	CDS	1080982..1082472	lysS; lysyl-tRNA synthetase
+sor:SOR_1113	CDS	complement(1082545..1083384)	ABC transporter substrate binding lipoprotein-amino acid transport
+sor:SOR_1114	CDS	complement(1083400..1084029)	ABC transporter ATP-binding protein-amino acid transport
+sor:SOR_1115	CDS	complement(1084040..1084681)	ABC transporter membrane-spanning permease-amino acid transport
+sor:SOR_1116	CDS	complement(1085070..1086869)	conserved hypothetical protein
+sor:SOR_1117	CDS	complement(1087158..1088387)	TPR domain-containing protein
+sor:SOR_1118	CDS	complement(1088377..1089543)	conserved hypothetical protein, permease,putative
+sor:SOR_1119	CDS	1089689..1090702	conserved hypothetical protein, putative 3-carboxymuconate cyclase
+sor:SOR_1120	CDS	complement(1090735..1091154)	atpC; proton-translocating ATPase, F1 sector,epsilon-subunit
+sor:SOR_1121	CDS	complement(1091165..1092571)	atpD; proton-translocating ATPase, F1 sector,beta-subunit
+sor:SOR_1122	CDS	complement(1092659..1093537)	atpG; proton-translocating ATPase, F1 sector,gamma-subunit
+sor:SOR_1123	CDS	complement(1093553..1095058)	atpA; proton-translocating ATPase, F1 sector,alpha-subunit
+sor:SOR_1124	CDS	complement(1095073..1095609)	atpH; proton-translocating ATPase, subunit delta
+sor:SOR_1125	CDS	complement(1095609..1096103)	atpF; proton-translocating ATPase, F0F1 ATP synthase subunit B
+sor:SOR_1126	CDS	complement(1096117..1096833)	atpB; proton-translocating ATPase, F0F1 ATP synthase,subunit A
+sor:SOR_1127	CDS	complement(1096868..1097068)	atpE; proton-translocating ATPase, F0F1 ATP synthase,subunit C
+sor:SOR_1128	CDS	complement(1097300..1097611)	conserved hypothetical protein
+sor:SOR_1129	CDS	complement(1097626..1098912)	putative peptidase, peptidase U32 family protein
+sor:SOR_1130	CDS	complement(1099049..1099747)	transcriptional regulator, putative, GntR family
+sor:SOR_1131	CDS	1099888..1101450	guaA; bifunctional GMP synthase/glutamine amidotransferase protein, GMP-synthase
+sor:SOR_1132	CDS	1101718..1102491	ABC transporter like protein, ATP binding cassette
+sor:SOR_1133	CDS	1102481..1104535	conserved hypothetical protein
+sor:SOR_1134	CDS	1104568..1105251	DNA-binding response regulator
+sor:SOR_1135	CDS	1105241..1106239	signal transduction histidine kinase
+sor:SOR_1136	CDS	1106267..1106347	hypothetical protein
+sor:SOR_1137	CDS	complement(1106328..1107899)	srp54; signal recognition particle protein
+sor:SOR_1138	CDS	complement(1107911..1108243)	conserved hypothetical protein
+sor:SOR_1139	CDS	complement(1108387..1109583)	tufA; translation elongation factor TU
+sor:SOR_1140	CDS	complement(1109819..1110928)	conserved hypothetical protein
+sor:SOR_1141	CDS	1111034..1112275	pbp3; D-alanyl-D-alanine carboxypeptidase,penicillin-binding protein 3
+sor:SOR_1142	CDS	complement(1112259..1112849)	thioredoxin family protein
+sor:SOR_1143	CDS	complement(1112862..1113569)	ccdA; cytochrome c-type biogenesis protein CcdA
+sor:SOR_1144	CDS	complement(1113695..1114555)	map; methionine aminopeptidase, type I
+sor:SOR_1145	CDS	complement(1114571..1115848)	conserved hypothetical protein
+sor:SOR_1146	CDS	complement(1115841..1116392)	acetyltransferase, GNAT family protein
+sor:SOR_1147	CDS	complement(1116408..1117667)	murZ; UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+sor:SOR_1148	CDS	complement(1117828..1119333)	pykF; pyruvate kinase I; fructose-stimulated
+sor:SOR_1149	CDS	complement(1119400..1120407)	pfkA; 6-phosphofructokinase I
+sor:SOR_1150	CDS	complement(1120489..1123590)	dnaE; DNA polymerase III subunit alpha
+sor:SOR_1151	CDS	1124028..1126310	pepX; Xaa-Pro dipeptidyl-peptidase
+sor:SOR_1152	CDS	1126835..1127305	argR; arginine repressor
+sor:SOR_1153	CDS	complement(1127340..1127504)	conserved hypothetical protein
+sor:SOR_1154	CDS	complement(1127514..1128824)	obgE; GTP1/Obg family GTP-binding protein
+sor:SOR_1155	CDS	complement(1128895..1129029)	conserved hypothetical protein
+sor:SOR_1156	CDS	complement(1129060..1129251)	conserved hypothetical
+sor:SOR_1157	CDS	complement(1129279..1130595)	glycosyltransferase, group 1 family protein
+sor:SOR_1158	CDS	complement(1130604..1131620)	cpoA; glycosyl transferase CpoA
+sor:SOR_1159	CDS	complement(1131761..1132090)	conserved hypothetical protein
+sor:SOR_1160	CDS	complement(1132105..1133214)	rpoD; RNA polymerase sigma factor RpoD (sigma-70 factor, Sigma-A)
+sor:SOR_1161	CDS	complement(1133217..1134977)	dnaG; DNA primase
+sor:SOR_1162	CDS	complement(1135173..1135931)	ABC transporter ATP-binding protein
+sor:SOR_1163	CDS	complement(1135928..1136794)	ABC transporter membrane-spanning permease
+sor:SOR_1164	CDS	complement(1136860..1137855)	ABC transporter, substrate-binding protein
+sor:SOR_1165	CDS	complement(1138287..1140983)	ppc; phosphoenolpyruvate carboxylase
+sor:SOR_1166	CDS	complement(1141007..1142230)	ftsW; cell division protein FtsW
+sor:SOR_1167	CDS	complement(1142417..1143358)	prsA; foldase protein PrsA
+sor:SOR_1168	CDS	complement(1143426..1144139)	O-methyltransferase, putative
+sor:SOR_1169	CDS	complement(1144141..1145943)	pepF; oligoendopeptidase F
+sor:SOR_1170	CDS	complement(1145962..1146918)	coiA; competence protein CoiA
+sor:SOR_1171	CDS	complement(1146996..1148144)	hypothetical protein
+sor:SOR_1172	CDS	complement(1148322..1149182)	tehB; tellurite resistance protein TehB
+sor:SOR_1173	CDS	complement(1149197..1149664)	SsrA-binding protein
+sor:SOR_1174	CDS	complement(1149627..1151981)	vacB; ribonuclease R
+sor:SOR_1175	CDS	complement(1152089..1152322)	secG; preprotein translocase subunit SecG
+sor:SOR_1176	CDS	complement(1152362..1152511)	rpmGC; 50S ribosomal protein L33
+sor:SOR_1177	CDS	complement(1152511..1153710)	multi-drug resistance efflux pump
+sor:SOR_1178	CDS	complement(1153697..1154302)	coaE; dephospho-CoA kinase
+sor:SOR_1179	CDS	complement(1154302..1155126)	formamidopyrimidine-DNA glycosylase
+sor:SOR_1180	CDS	complement(1155175..1156074)	era; GTPase/GTP-binding protein Era
+sor:SOR_1181	CDS	complement(1156091..1156486)	dgkA; diacylglycerol kinase
+sor:SOR_1182	CDS	complement(1156467..1156964)	putative metalloprotease
+sor:SOR_1183	CDS	1157069..1158724	pavA; adherence and virulence protein A
+sor:SOR_1184	CDS	complement(1158757..1159467)	deoD; purine-nucleoside phosphorylase DeoD
+sor:SOR_1185	CDS	complement(1159863..1161146)	voltage-gated chloride channel family protein,CIC family
+sor:SOR_1186	CDS	complement(1161149..1161958)	purine nucleoside phosphorylase
+sor:SOR_1187	CDS	complement(1161972..1162514)	conserved hypothetical protein
+sor:SOR_1188	CDS	complement(1162516..1163727)	deoB; phosphopentomutase DeoB
+sor:SOR_1189	CDS	complement(1163751..1164434)	rpiA; ribose-5-phosphate isomerase A
+sor:SOR_1190	CDS	complement(1164540..1165469)	putative protease, peptidase U32 family protein
+sor:SOR_1191	CDS	complement(1165595..1166275)	ABC transporter, ATP-binding protein
+sor:SOR_1192	CDS	complement(1166289..1167344)	permease domain protein, ABC transporter membrane-spanning permease
+sor:SOR_1193	CDS	1167729..1168013	conserved hypothetical protein
+sor:SOR_1194	CDS	complement(1168078..1169415)	ciaH; signal transduction histidine kinase CiaH
+sor:SOR_1195	CDS	complement(1169405..1170079)	ciaR; DNA-binding response regulator CiaR
+sor:SOR_1196	CDS	complement(1170189..1172735)	pepN; aminopeptidase N
+sor:SOR_1197	CDS	complement(1172856..1173296)	conserved hypothetical protein
+sor:SOR_1198	CDS	complement(1173238..1174140)	PEP-utilizing enzyme family protein, malate synthase superfamily
+sor:SOR_1199	CDS	complement(1174118..1174618)	MutT/NUDIX family protein
+sor:SOR_1200	CDS	complement(1174629..1175327)	oxidoreductase, short chain dehydrogenase/reductase family protein
+sor:SOR_1201	CDS	complement(1175320..1175556)	conserved hypothetical protein
+sor:SOR_1202	CDS	complement(1175656..1176582)	oxidoreductase, aldo/keto reductase family protein
+sor:SOR_1203	CDS	complement(1176677..1177711)	conserved hypothetical protein
+sor:SOR_1204	CDS	complement(1177880..1180132)	lytB; LytB endo-beta-N-acetylglucosaminidase
+sor:SOR_1205	CDS	complement(1180243..1181181)	pyrDI; dihydroorotate dehydrogenase
+sor:SOR_1206	CDS	complement(1181192..1181992)	pyrDII; dihydroorotate dehydrogenase electron transfer subunit
+sor:SOR_1207	CDS	complement(1182239..1182619)	lactoylglutathione lyase
+sor:SOR_1208	CDS	complement(1182717..1185488)	protein with N-terminal chaperone domain,C-terminal 9 TM helices predicted
+sor:SOR_1209	CDS	complement(1185502..1187166)	hscC; chaperone protein HscC
+sor:SOR_1210	CDS	complement(1187342..1187701)	rplT; 50S ribosomal protein L20
+sor:SOR_1211	CDS	complement(1187753..1187953)	rpmI; 50S ribosomal protein L35
+sor:SOR_1212	CDS	complement(1187986..1188543)	infC; translation initiation factor IF-3
+sor:SOR_1213	CDS	complement(1188736..1190976)	celB; competence protein CelB
+sor:SOR_1214	CDS	complement(1190960..1191610)	celA; competence protein CelA
+sor:SOR_1215	CDS	complement(1191677..1192246)	acetyltransferase, GNAT family protein
+sor:SOR_1216	CDS	1192423..1193541	L-alanine dehydrogenase, putative
+sor:SOR_1217	CDS	complement(1193586..1194572)	PhoH family protein
+sor:SOR_1218	CDS	complement(1194653..1194868)	conserved hypothetical protein
+sor:SOR_1219	CDS	complement(1194877..1195731)	S1 RNA-binding domain-containing protein
+sor:SOR_1220	CDS	complement(1195791..1196348)	ribosome recycling factor
+sor:SOR_1221	CDS	complement(1196356..1197093)	pyrH; uridylate kinase
+sor:SOR_1222	CDS	complement(1197177..1198511)	gid; tRNA (uracil-5-)-methyltransferase
+sor:SOR_1223	CDS	complement(1198645..1199523)	conserved hypothetical protein, tetrapyrrole methylase family protein
+sor:SOR_1224	CDS	complement(1199526..1199843)	conserved hypothetical protein
+sor:SOR_1225	CDS	complement(1199989..1200879)	holB; DNA polymerase III, delta prime subunit
+sor:SOR_1226	CDS	complement(1200876..1201514)	tmk; thymidylate kinase
+sor:SOR_1227	CDS	complement(1201543..1201626)	hypothetical protein
+sor:SOR_1228	CDS	complement(1201635..1202432)	proC; pyrroline-5-carboxylate reductase
+sor:SOR_1229	CDS	complement(1202436..1203698)	proA; gamma-glutamyl phosphate reductase
+sor:SOR_1230	CDS	complement(1203708..1204817)	proB; gamma-glutamyl kinase (glutamate 5-kinase)
+sor:SOR_1231	CDS	complement(1204918..1205817)	23S rluA family pseudouridine synthase
+sor:SOR_1232	CDS	complement(1205801..1206268)	lspA; signal peptidase II (lipoprotein signal peptidase)
+sor:SOR_1233	CDS	complement(1206265..1207173)	LysR family transcription regulator
+sor:SOR_1234	CDS	complement(1207407..1207700)	rpmA; 50S ribosomal protein L27
+sor:SOR_1235	CDS	complement(1207717..1208061)	conserved hypothetical protein
+sor:SOR_1236	CDS	complement(1208077..1208391)	rplU; 50S ribosomal protein L21
+sor:SOR_1237	CDS	complement(1208611..1209297)	conserved hypothetical protein
+sor:SOR_1238	CDS	1209454..1210431	oxidoreductase oxidoreductase, Gfo/Idh/MocA family
+sor:SOR_1239	CDS	1210428..1211510	ATP-dependent RNA helicase, superfamily II DNA and RNA helicases
+sor:SOR_1240	CDS	complement(1211535..1211912)	conserved hypothetical protein
+sor:SOR_1241	CDS	1211984..1213291	conserved hypothetical protein,phosphohydrolase, HD superfamily
+sor:SOR_1242	CDS	1213301..1214107	HAD hydrolase family protein
+sor:SOR_1243	CDS	complement(1214209..1214463)	conserved hypothetical protein
+sor:SOR_1244	CDS	complement(1214491..1214685)	conserved hypothetical protein
+sor:SOR_1245	CDS	complement(1214718..1215212)	hypothetical protein
+sor:SOR_1246	CDS	complement(1215268..1215594)	hypothetical protein
+sor:SOR_1247	CDS	complement(1215695..1216573)	hypothetical protein
+sor:SOR_1248	CDS	complement(1216782..1217657)	conserved hypothetical protein
+sor:SOR_1249	CDS	complement(1217654..1218121)	conserved hypothetical protein
+sor:SOR_1250	CDS	complement(1218182..1219807)	conserved hypothetical protein
+sor:SOR_1251	CDS	complement(1219856..1219936)	hypothetical protein
+sor:SOR_1252	CDS	complement(1220060..1220719)	conserved hypothetical protein
+sor:SOR_1253	CDS	complement(1220847..1221197)	hypothetical protein
+sor:SOR_1254	CDS	complement(1221217..1221567)	hypothetical protein
+sor:SOR_1255	CDS	complement(1221614..1222015)	conserved hypothetical protein
+sor:SOR_1256	CDS	complement(1222057..1222392)	hypothetical protein
+sor:SOR_1257	CDS	complement(1222482..1222955)	conserved hypothetical protein
+sor:SOR_1258	CDS	complement(1222965..1223408)	hypothetical protein
+sor:SOR_1259	CDS	complement(1223398..1223862)	hypothetical protein
+sor:SOR_1260	CDS	complement(1223949..1224335)	hypothetical protein
+sor:SOR_1261	CDS	complement(1224598..1225053)	conserved hypothetical protein
+sor:SOR_1262	CDS	complement(1225069..1225596)	hypothetical protein
+sor:SOR_1263	CDS	complement(1225629..1226108)	conserved hypothetical protein
+sor:SOR_1264	CDS	complement(1226136..1226591)	hypothetical protein
+sor:SOR_1265	CDS	complement(1226864..1227343)	hypothetical protein
+sor:SOR_1266	CDS	complement(1227367..1227867)	hypothetical protein
+sor:SOR_1267	CDS	complement(1227919..1228398)	hypothetical protein
+sor:SOR_1268	CDS	complement(1228492..1228875)	conserved hypothetical protein
+sor:SOR_1269	CDS	complement(1228888..1229310)	conserved hypothetical protein
+sor:SOR_1270	CDS	complement(1229323..1229745)	conserved hypothetical protein
+sor:SOR_1271	CDS	complement(1229742..1229831)	hypothetical protein
+sor:SOR_1272	CDS	complement(1229815..1230369)	hypothetical protein
+sor:SOR_1273	CDS	complement(1230390..1230623)	hypothetical protein
+sor:SOR_1274	tRNA	complement(1230835..1230906)	tRNA-Arg
+sor:SOR_1275	CDS	complement(1230949..1231296)	rplS; 50S ribosomal protein L19
+sor:SOR_1276	CDS	complement(1231415..1231744)	crcB1; CrcB family protein
+sor:SOR_1277	CDS	complement(1231738..1232112)	crcB2; CrcB family protein
+sor:SOR_1278	CDS	complement(1232109..1232375)	conserved hypothetical protein
+sor:SOR_1279	CDS	complement(1232493..1232936)	flavodoxin
+sor:SOR_1280	CDS	1233040..1233984	DHH subfamily 1 protein
+sor:SOR_1281	CDS	1234092..1234961	hypothetical protein
+sor:SOR_1282	CDS	1235125..1235367	rpmE; 50S ribosomal protein L31
+sor:SOR_1283	CDS	complement(1235410..1235490)	conserved hypothetical protein
+sor:SOR_1284	CDS	complement(1235521..1235730)	conserved hypothetical protein
+sor:SOR_1285	CDS	complement(1235855..1239031)	carB; carbamoyl-phosphate synthase, large subunit
+sor:SOR_1286	CDS	complement(1239480..1240559)	carA; carbamoyl-phosphate synthase, small subunit
+sor:SOR_1287	CDS	complement(1240609..1241532)	pyrB; aspartate carbamoyltransferase catalytic subunit
+sor:SOR_1288	CDS	complement(1241551..1242072)	pyrR; transcriptional regulator of the pyrimidine operon/uracil phosphoribosyltransferase (bifunctional protein)
+sor:SOR_1289	CDS	complement(1242286..1242915)	nth; endonuclease III (DNA repair), DNA-(apurinic or apyrimidinic site) lyase
+sor:SOR_1290	CDS	complement(1242916..1243458)	conserved hypothetical protein
+sor:SOR_1291	CDS	1243627..1243956	conserved hypothetical protein
+sor:SOR_1292	CDS	1244393..1245952	ABC transporter, ATP-binding protein-unknown substrate, ATPase components of ABC transporters with duplicated ATPase domains
+sor:SOR_1293	CDS	complement(1246132..1246728)	CAAX amino terminal protease family protein
+sor:SOR_1294	CDS	complement(1246839..1247738)	htpX; heat shock protein, protease HtpX
+sor:SOR_1295	CDS	complement(1247740..1248300)	LemA family protein
+sor:SOR_1296	CDS	1248394..1249107	gidB; glucose-inhibited division protein B (methyltransferase GidB)
+sor:SOR_1297	CDS	1249460..1250743	pyrP; uracil-xanthine permease
+sor:SOR_1298	CDS	complement(1250788..1251693)	conserved hypothetical protein, integral membrane protein
+sor:SOR_1299	CDS	complement(1251702..1252637)	beta-lactamase superfamily protein
+sor:SOR_1300	CDS	complement(1252634..1253359)	conserved hypothetical protein
+sor:SOR_1301	CDS	complement(1253470..1254339)	glycerol uptake facilitator protein, putative
+sor:SOR_1302	CDS	complement(1254497..1255663)	conserved hypothetical protein
+sor:SOR_1303	CDS	complement(1255676..1256416)	conserved hypothetical protein
+sor:SOR_1304	CDS	complement(1256437..1257261)	hydrolase, putative esterase superfamily protein
+sor:SOR_1305	CDS	complement(1257397..1258611)	thiI; thiamine biosynthesis/tRNA modification protein ThiI (Thiamine biosynthesis ATP pyrophosphatase)
+sor:SOR_1306	CDS	complement(1258620..1259762)	pyridoxal-phosphate dependent aminotransferase
+sor:SOR_1307	CDS	1259900..1260325	conserved hypothetical protein
+sor:SOR_1308	CDS	complement(1260369..1262675)	ftsK; FtsK/SpoIIIE family protein, DNA segregation ATPase
+sor:SOR_1309	CDS	complement(1262762..1264714)	fruA; PTS system, fructose specific IIBC component
+sor:SOR_1310	CDS	complement(1264711..1265622)	fruB; 1-phosphofructokinase, (fructose-1-phosphate kinase)
+sor:SOR_1311	CDS	complement(1265619..1266359)	fruR; transcriptional repressor of fructose operon
+sor:SOR_1312	tRNA	1266521..1266608	tRNA-Ser
+sor:SOR_1313	CDS	complement(1266778..1267737)	conserved hypothetical protein
+sor:SOR_1314	tRNA	complement(1267817..1267904)	tRNA-Ser
+sor:SOR_1315	misc_RNA	complement(1268003..1268347)	ssrA; tmRNA
+sor:SOR_1316	CDS	complement(1268406..1269041)	GDSL-like lipase/acylhydrolase family protein
+sor:SOR_1317	CDS	complement(1269043..1269870)	HAD hydrolase superfamily protein
+sor:SOR_1318	CDS	complement(1269894..1271213)	poly-gamma-glutamate biosynthesis enzyme,putative
+sor:SOR_1319	CDS	1271369..1271980	peptide deformylase
+sor:SOR_1320	CDS	1272025..1272807	TrmH family RNA methyltransferase group 3
+sor:SOR_1321	CDS	complement(1272791..1273702)	thioredoxin-disulfide reductase
+sor:SOR_1322	CDS	complement(1273768..1273992)	conserved hypothetical protein
+sor:SOR_1323	CDS	complement(1274070..1274813)	ABC transporter, ATP-binding protein-polar amino acid transport system (aspartate/glutamate transport, putative)
+sor:SOR_1324	CDS	complement(1274813..1275613)	ABC transporter membrane-spanning permease-amino acid transport system (aspartate/glutamate transport, putative)
+sor:SOR_1325	CDS	complement(1275769..1276125)	ArshC family protein
+sor:SOR_1326	CDS	complement(1276138..1276653)	methylated-DNA-[protein]-cysteineS-methyltransferase
+sor:SOR_1327	CDS	complement(1276650..1277144)	acetyltransferase, GNAT family protein
+sor:SOR_1328	CDS	1277279..1277725	conserved hypothetical protein
+sor:SOR_1329	CDS	1277722..1278369	hemolysin III superfamily protein
+sor:SOR_1330	CDS	complement(1278389..1278970)	glutamine amidotransferase
+sor:SOR_1331	CDS	complement(1278971..1279846)	pyridoxine biosynthesis protein
+sor:SOR_1332	CDS	complement(1279998..1281377)	nox; NADH oxidase
+sor:SOR_1333	CDS	1281684..1282613	apbE; thiamine biosynthesis protein
+sor:SOR_1334	CDS	1282632..1283237	NADPH-dependent FMN reductase
+sor:SOR_1335	CDS	1283255..1284499	flavodoxin domain protein; oxidoreductase,putative
+sor:SOR_1336	CDS	complement(1284584..1284841)	conserved hypothetical protein
+sor:SOR_1337	CDS	complement(1284883..1286919)	glyS; glycyl-tRNA synthetase beta subunit
+sor:SOR_1338	CDS	complement(1287179..1288096)	glyQ; glycyl-tRNA synthetase subunit alpha
+sor:SOR_1339	CDS	complement(1288305..1288676)	GFA superfamily protein (glutathione-dependent formaldehyde-activating enzyme, putative)
+sor:SOR_1340	CDS	complement(1288783..1288878)	conserved hypothetical protein
+sor:SOR_1341	CDS	complement(1288994..1293505)	serine protease, PA_C5a_like
+sor:SOR_1342	CDS	complement(1293795..1294637)	oxidoreductase, aldo/keto reductase family
+sor:SOR_1343	CDS	complement(1294719..1296110)	pgdA; peptidoglycan GlcNAc deacetylase
+sor:SOR_1344	CDS	complement(1296214..1297941)	ezrA; negative regulator of septation ring formation
+sor:SOR_1345	CDS	complement(1298022..1299968)	gyrB; DNA gyrase, B subunit
+sor:SOR_1346	CDS	complement(1299982..1300545)	HAD hydrolase superfamily protein
+sor:SOR_1347	CDS	complement(1301007..1305734)	glycosyltransferase
+sor:SOR_1348	CDS	complement(1305821..1306684)	rgg; transcriptional regulator
+sor:SOR_1349	CDS	complement(1307058..1307612)	type 1 glutamine amidotransferase
+sor:SOR_1350	CDS	complement(1307623..1308846)	rodA; rod shape-determining protein RodA
+sor:SOR_1351	CDS	complement(1308852..1311344)	dinG; ATP-dependent helicase DinG
+sor:SOR_1352	CDS	complement(1311541..1312392)	sugar kinase, putative
+sor:SOR_1353	CDS	complement(1312450..1313223)	HAD hydrolase superfamily protein
+sor:SOR_1354	CDS	complement(1313228..1314106)	folD; tetrahydrofolate dehydrogenase/cyclohydrolase,bifunctional protein FolD
+sor:SOR_1355	CDS	complement(1314234..1314554)	conserved hypothetical protein
+sor:SOR_1356	CDS	complement(1314588..1315322)	ABC transporter, ATP-binding protein, polar amino acid transport system; glutamine transport, putative
+sor:SOR_1357	CDS	complement(1315322..1316005)	ABC transporter membrane-spanning permease-polar amino acid transport system; glutamine transport,putative
+sor:SOR_1358	CDS	1316197..1316427	conserved hypothetical protein
+sor:SOR_1359	CDS	1316665..1318923	clpE; ATP-dependent Clp protease, ATP-binding subunit
+sor:SOR_1360	CDS	complement(1318966..1319580)	conserved hypothetical protein
+sor:SOR_1361	CDS	complement(1319635..1320537)	transcriptional regulator, DeoR family
+sor:SOR_1362	CDS	1320714..1321166	MutT/NUDIX family protein
+sor:SOR_1363	CDS	1321225..1321524	conserved hypothetical protein
+sor:SOR_1364	CDS	complement(1321595..1322785)	metK; S-adenosylmethionine synthetase
+sor:SOR_1365	CDS	complement(1323101..1324480)	putative peptidoglycan-binding domain-containing protein
+sor:SOR_1366	CDS	complement(1324723..1326066)	ATP-dependent RNA helicase, DEAD/DEAH box family protein
+sor:SOR_1367	CDS	complement(1326198..1327013)	metal-dependent hydrolase superfamily protein
+sor:SOR_1368	CDS	complement(1327065..1329251)	ptsG; PTS glucose-specific enzyme IIABC component
+sor:SOR_1369	CDS	complement(1329464..1330390)	ftsX; cell division ABC transporter, permease protein FtsX
+sor:SOR_1370	CDS	complement(1330383..1331075)	ftsE; cell division ABC transporter, ATP-binding protein FtsE
+sor:SOR_1371	CDS	complement(1331093..1332070)	prfB; peptide chain release factor 2
+sor:SOR_1372	CDS	complement(1332114..1332188)	pfrB; peptide chain release factor 2
+sor:SOR_1373	CDS	complement(1332299..1332955)	CBS domain containing protein; involved in acetoin metabolism, putative
+sor:SOR_1374	CDS	complement(1332934..1333062)	hypothetical protein
+sor:SOR_1375	CDS	complement(1333208..1334536)	hypothetical protein
+sor:SOR_1376	CDS	complement(1334538..1334723)	hypothetical protein
+sor:SOR_1377	CDS	complement(1334725..1336503)	licA; choline kinase
+sor:SOR_1378	CDS	complement(1337021..1337731)	livF; ABC transporter, ATP-binding protein-high-affinity branched-chain amino acid transport
+sor:SOR_1379	CDS	complement(1337731..1338495)	livG; ABC transporter, ATP-binding protein-high-affinity branched-chain amino acid transport
+sor:SOR_1380	CDS	complement(1338495..1339451)	livM; ABC transporter membrane-spanning permease-high-affinity branched-chain amino acid transport
+sor:SOR_1381	CDS	complement(1339455..1340324)	livH; ABC transporter membrane-spanning permease-high-affinity branched-chain amino acid transport
+sor:SOR_1382	CDS	complement(1340444..1341604)	livJ; ABC transporter substrate binding lipoprotein-high-affinity branched chain amino acid transport
+sor:SOR_1383	CDS	complement(1341710..1341961)	conserved hypothetical protein
+sor:SOR_1384	CDS	complement(1342040..1342630)	clpP; ATP-dependent Clp protease proteolytic subunit
+sor:SOR_1385	CDS	complement(1342804..1343454)	uracil phosphoribosyltransferase
+sor:SOR_1386	CDS	complement(1343522..1343989)	comEB; dCMP deaminase, competence protein
+sor:SOR_1387	CDS	complement(1344008..1344565)	transcriptional regulator, TetR family
+sor:SOR_1388	CDS	1344690..1345535	degV family protein
+sor:SOR_1389	CDS	1345593..1346768	conserved hypothetical protein
+sor:SOR_1390	CDS	1346788..1347243	MutT/NUDIX family protein
+sor:SOR_1391	CDS	complement(1347272..1348012)	transcriptional regulator, MerR family protein
+sor:SOR_1392	CDS	1348116..1348187	conserved hypothetical protein
+sor:SOR_1393	CDS	1348265..1349605	sodium-dependent transporter
+sor:SOR_1394	CDS	complement(1349598..1350590)	mannose-6-phosphate isomerase, class I
+sor:SOR_1395	CDS	complement(1350768..1351028)	conserved hypothetical protein
+sor:SOR_1396	CDS	complement(1351245..1351592)	glyoxalase family protein
+sor:SOR_1397	CDS	complement(1351680..1353455)	spxB; pyruvate oxidase
+sor:SOR_1398	CDS	complement(1353780..1356002)	copper-translocating P-type ATPase
+sor:SOR_1399	CDS	complement(1356012..1356383)	conserved hypothetical protein
+sor:SOR_1400	CDS	complement(1356394..1356789)	transcriptional repressor, putative
+sor:SOR_1401	CDS	1357153..1357944	phosphomethylpyrimidine kinase
+sor:SOR_1402	CDS	complement(1357992..1358624)	thiamine-phosphate pyrophosphorylase
+sor:SOR_1403	CDS	complement(1358617..1359420)	hydroxyethylthiazole kinase
+sor:SOR_1404	CDS	complement(1359420..1359944)	thiW; ThiW superfamily protein
+sor:SOR_1405	CDS	complement(1359948..1360640)	tenA; transcriptional activator TenA, TENA/THI-4 family protein
+sor:SOR_1406	CDS	complement(1360651..1361301)	conserved hypothetical protein; ABC transporter domain-cobalt transport, putative
+sor:SOR_1407	CDS	complement(1361303..1362688)	ABC transporter, ATP-binding protein-cobalt transport
+sor:SOR_1408	CDS	complement(1362689..1363249)	ABC transporter membrane-spanning permease-cobalt transport
+sor:SOR_1409	CDS	complement(1363620..1364288)	transcriptional regulator, TENA/THI-4 family protein
+sor:SOR_1410	CDS	complement(1364754..1365890)	lctO; lactate oxidase
+sor:SOR_1411	CDS	complement(1366134..1366766)	orotate phosphoribosyltransferase
+sor:SOR_1412	CDS	complement(1366800..1367501)	orotidine-5-phosphate decarboxylase
+sor:SOR_1413	CDS	complement(1367748..1368902)	ftsQ; ftsQ family protein
+sor:SOR_1414	CDS	complement(1368912..1369970)	murG; udp-N-acetylglucosamine-n-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol n-acetylglucosamine transferase (undecaprenyl-pp-murnac-pentapeptide-udpglcnac glcnactransferase), (N-acetylglucosaminyl transferase),MurG
+sor:SOR_1415	CDS	complement(1369972..1371324)	murD; UDP-N-acetylmuramoylalanine-D-glutamate ligase; D-glutamic acid adding enzyme, MurD
+sor:SOR_1416	CDS	complement(1371442..1371696)	conserved hypothetical protein
+sor:SOR_1417	CDS	complement(1371716..1373557)	GTP-binding protein TypA/BipA, putative (tyrosine phosphorylated protein A, membrane GTPase involved in stress response)
+sor:SOR_1418	CDS	1373716..1374441	rsuA3; ribosomal small subunit pseudouridine synthase A
+sor:SOR_1419	CDS	complement(1374485..1374724)	conserved hypothetical protein
+sor:SOR_1420	CDS	complement(1374811..1375191)	rhodanese-related sulfurtransferase
+sor:SOR_1421	CDS	complement(1375188..1375448)	conserved hypothetical protein
+sor:SOR_1422	CDS	1375524..1376432	transcriptional regulator, LysR family
+sor:SOR_1423	CDS	1376477..1378276	cell wall hydrolase/autolysin
+sor:SOR_1424	CDS	complement(1378307..1378624)	conserved hypothetical protein
+sor:SOR_1425	CDS	complement(1378850..1379749)	hypothetical protein
+sor:SOR_1426	tRNA	complement(1380044..1380116)	tRNA-Thr
+sor:SOR_1427	CDS	complement(1380216..1381001)	conserved hypothetical protein
+sor:SOR_1428	CDS	complement(1381003..1381821)	conserved hypothetical protein
+sor:SOR_1429	CDS	complement(1381823..1382815)	ABC transporter, ATP-binding protein
+sor:SOR_1430	CDS	complement(1383130..1383336)	hypothetical protein
+sor:SOR_1431	CDS	complement(1383351..1383701)	hypothetical protein
+sor:SOR_1432	CDS	complement(1383761..1383964)	conserved hypothetical protein
+sor:SOR_1433	CDS	1384227..1384688	hypothetical protein
+sor:SOR_1434	CDS	complement(1384823..1385704)	fba; fructose-1-6-bisphosphate aldolase
+sor:SOR_1435	CDS	complement(1385844..1387172)	vncS; signal transduction histidine kinase
+sor:SOR_1436	CDS	complement(1387169..1387825)	vncR; DNA-binding response regulator
+sor:SOR_1437	CDS	complement(1388072..1389451)	vexp3; ABC transporter membrane-spanning permease
+sor:SOR_1438	CDS	complement(1389502..1390149)	vexp2; ABC transporter, ATP-binding protein
+sor:SOR_1439	CDS	complement(1390162..1391439)	vexp1; ABC transporter, membrane-spanning permease
+sor:SOR_1440	CDS	complement(1391574..1392185)	CAAX amino terminal protease family
+sor:SOR_1441	tRNA	complement(1392467..1392552)	tRNA-Leu
+sor:SOR_1442	CDS	complement(1392633..1393208)	cysteine hydrolase family protein
+sor:SOR_1443	CDS	complement(1393208..1393996)	codY; transcriptional repressor CodY
+sor:SOR_1444	CDS	complement(1394260..1395837)	ATP-dependent RNA helicase
+sor:SOR_1445	CDS	complement(1395984..1397261)	major facilitator; oxalate:formate antiporter
+sor:SOR_1446	CDS	1397453..1398769	oxidoreductase, pyridine nucleotide-disulfide,class I
+sor:SOR_1447	CDS	1398975..1400318	UDP-N-acetylmuramyl tripeptide synthetase, Mur ligase family protein
+sor:SOR_1448	CDS	1400318..1401100	cobyric acid synthase
+sor:SOR_1449	CDS	1401228..1402310	pepQ; proline dipeptidase PepQ (X-Pro dipeptidase)
+sor:SOR_1450	CDS	1402323..1403054	hypothetical protein
+sor:SOR_1451	CDS	complement(1403277..1403738)	conserved hypothetical protein
+sor:SOR_1452	CDS	complement(1403716..1404489)	phosphomethylpyrimidine kinase
+sor:SOR_1453	CDS	complement(1404479..1405228)	truA; tRNA pseudouridine synthase A
+sor:SOR_1454	CDS	complement(1405328..1406479)	transporter, major facilitator family protein
+sor:SOR_1455	CDS	complement(1406592..1407215)	conserved hypothetical protein
+sor:SOR_1456	CDS	complement(1407218..1407556)	PhnA superfamily protein
+sor:SOR_1457	CDS	complement(1407766..1408284)	DNA protection during starvation protein
+sor:SOR_1458	CDS	complement(1408476..1409234)	triosephosphate isomerase
+sor:SOR_1459	CDS	complement(1409331..1410008)	DnaD superfamily protein
+sor:SOR_1460	CDS	complement(1410017..1410961)	homoserine O-succinyltransferase
+sor:SOR_1461	CDS	complement(1411147..1411659)	adenine phosphoribosyltransferase
+sor:SOR_1462	CDS	complement(1411746..1412504)	methyltransferase type 11 domain protein.
+sor:SOR_1463	CDS	complement(1412992..1413681)	rplA; 50S ribosomal protein L1
+sor:SOR_1464	CDS	complement(1413779..1414204)	rplK; 50S ribosomal protein L11
+sor:SOR_1465	CDS	complement(1414327..1415043)	vanY superfamily, D-alanyl-D-alanine carboxypeptidase
+sor:SOR_1466	CDS	complement(1415058..1415519)	HIT family protein
+sor:SOR_1467	CDS	complement(1415521..1416558)	peptidase superfamily protein
+sor:SOR_1468	CDS	1416698..1417249	hypothetical protein
+sor:SOR_1469	CDS	1417566..1418117	hypothetical protein
+sor:SOR_1470	CDS	complement(1418166..1419491)	branched-chain amino acid transport system II carrier protein
+sor:SOR_1471	CDS	complement(1419676..1419963)	rhodanese-related sulfurtransferase
+sor:SOR_1472	CDS	complement(1419960..1420550)	uracil DNA glycosylase family protein
+sor:SOR_1473	CDS	complement(1420604..1422004)	peptidase M20 superfamily
+sor:SOR_1474	CDS	complement(1422017..1422622)	nitroreductase family protein
+sor:SOR_1475	CDS	complement(1422797..1423651)	phosphoesterase superfamily protein
+sor:SOR_1476	CDS	complement(1423641..1425488)	uvrC; excinuclease, subunit C
+sor:SOR_1477	CDS	complement(1425590..1426291)	zinc-dependent metalloprotease
+sor:SOR_1478	CDS	complement(1426396..1427175)	estA; esterase
+sor:SOR_1479	CDS	complement(1427245..1428906)	metallo-beta-lactamase superfamily protein
+sor:SOR_1480	CDS	complement(1429416..1430063)	CHAP/LysM domain protein, cell wall degradation protein, putative
+sor:SOR_1481	CDS	complement(1430422..1431243)	hypothetical protein
+sor:SOR_1482	CDS	complement(1431249..1433522)	recJ; single-stranded DNA-specific exonuclease
+sor:SOR_1483	CDS	1433643..1434401	ABC transporter, ATP-binding protein, polar amino acid transport system; glutamine transport, putative
+sor:SOR_1484	CDS	1434412..1435206	ABC transporter, substrate-binding protein,polar amino acid transport system; glutamine transport,putative
+sor:SOR_1485	CDS	1435219..1435896	ABC transporter membrane-spanning permease,polar amino acid transport system; glutamine transport,putative
+sor:SOR_1486	CDS	1435906..1436565	ABC transporter membrane-spanning permease,polar amino acid transport system; glutamine transport,putative
+sor:SOR_1487	CDS	complement(1436733..1437170)	Rrf2 family protein; transcriptional regulator,putative
+sor:SOR_1488	CDS	complement(1437337..1438278)	hypothetical protein
+sor:SOR_1489	CDS	complement(1438439..1439290)	phosphoesterase family protein
+sor:SOR_1490	CDS	1439483..1439857	conserved hypothetical protein
+sor:SOR_1491	CDS	1440115..1440741	conserved hypothetical protein
+sor:SOR_1492	CDS	1440752..1442695	thrRS; threonyl-tRNA synthetase
+sor:SOR_1493	CDS	complement(1442908..1443957)	conserved hypothetical protein
+sor:SOR_1494	CDS	complement(1444411..1444536)	hypothetical protein
+sor:SOR_1495	CDS	complement(1444592..1444687)	hypothetical protein
+sor:SOR_1496	CDS	complement(1444697..1445671)	signal transduction histidine kinase
+sor:SOR_1497	CDS	complement(1445664..1446341)	DNA-binding response regulator
+sor:SOR_1498	CDS	1446667..1447230	TetR/AcrR family transcriptional regulator
+sor:SOR_1499	CDS	1447316..1448092	Ferredoxin reductase, putative
+sor:SOR_1500	CDS	1448204..1449280	conserved hypothetical protein; lipase superfamily, putative
+sor:SOR_1501	CDS	complement(1449362..1453537)	cell wall surface anchor family protein
+sor:SOR_1502	CDS	1454093..1455286	oxidoreductase, ferredoxin reductase-like proteins
+sor:SOR_1503	CDS	1455388..1456017	metallo-beta-lactamase superfamily protein
+sor:SOR_1504	CDS	complement(1456122..1456886)	hypothetical protein
+sor:SOR_1505	CDS	complement(1456975..1458867)	peptidase M13 superfamily protein
+sor:SOR_1506	CDS	1459044..1459769	psaB; ABC transporter, ATP-binding protein-manganese transport
+sor:SOR_1507	CDS	1459763..1460611	psaC; ABC transporter membrane-spanning permease-manganese transport
+sor:SOR_1508	CDS	1460637..1461566	psaA; ABC transporter substrate-binding protein; surface adhesin
+sor:SOR_1509	CDS	1461680..1462174	thiol peroxidase
+sor:SOR_1510	CDS	1462258..1462908	iron-dependent transcriptional regulator
+sor:SOR_1511	CDS	1463016..1463429	conserved hypothetical protein
+sor:SOR_1512	CDS	complement(1463461..1463904)	D-tyrosyl-tRNA(Tyr) deacylase
+sor:SOR_1513	CDS	complement(1463934..1466150)	relA; GTP pyrophosphokinase, putative stringent response protein
+sor:SOR_1514	CDS	complement(1466289..1467419)	ABC transporter, ATP-binding protein-multiple sugar transport, putative
+sor:SOR_1515	CDS	complement(1467533..1468402)	regulator of polyketide synthase expression
+sor:SOR_1516	CDS	complement(1468405..1468791)	RIBOc superfamily protein
+sor:SOR_1517	CDS	complement(1468784..1470127)	cysS; cysteinyl-tRNA synthetase
+sor:SOR_1518	CDS	complement(1470145..1470666)	dihydrofolate reductase family protein
+sor:SOR_1519	CDS	complement(1470675..1471439)	uridine (purine) phosphorylase, putative
+sor:SOR_1520	CDS	complement(1471453..1471653)	conserved hypothetical protein
+sor:SOR_1521	CDS	complement(1471703..1472320)	serine O-acetyltransferase
+sor:SOR_1522	CDS	complement(1472336..1474549)	polyribonucleotide nucleotidyltransferase
+sor:SOR_1523	CDS	complement(1475208..1476074)	metF; 5,10-methylenetetrahydrofolate reductase
+sor:SOR_1524	CDS	complement(1476145..1478394)	5-methyltetrahydropteroyltriglutamate-homocysteine methyltransferase
+sor:SOR_1525	CDS	complement(1478639..1479001)	conserved hypothetical protein
+sor:SOR_1526	CDS	complement(1478985..1479389)	conserved hypothetical protein
+sor:SOR_1527	CDS	complement(1479409..1479681)	helix-turn-helix domain-containing protein
+sor:SOR_1528	CDS	complement(1479684..1480301)	hypothetical protein
+sor:SOR_1529	CDS	complement(1480267..1480512)	hypothetical protein
+sor:SOR_1530	CDS	complement(1480643..1483276)	helicase superfamily protein
+sor:SOR_1531	CDS	1483409..1484026	conserved hypothetical protein
+sor:SOR_1532	CDS	complement(1484305..1485192)	sugar kinase
+sor:SOR_1533	CDS	complement(1485351..1487237)	PTS system, IIABC component
+sor:SOR_1534	CDS	1487618..1489072	sucrose-6-phosphate hydrolase, putative
+sor:SOR_1535	CDS	1489053..1490018	sucrose operon repressor
+sor:SOR_1536	CDS	complement(1490054..1491328)	3-hydroxy-3-methylglutaryl-CoA reductase,degradative
+sor:SOR_1537	CDS	complement(1491328..1492524)	3-hydroxy-3-methylglutaryl CoA synthase
+sor:SOR_1538	CDS	complement(1492619..1493074)	conserved hypothetical protein
+sor:SOR_1539	CDS	complement(1493076..1493834)	conserved hypothetical protein
+sor:SOR_1540	CDS	complement(1493922..1495823)	stkP; serine/threonine protein kinase
+sor:SOR_1541	CDS	complement(1495820..1496560)	phpP; serine/threonine phosphatase
+sor:SOR_1542	CDS	complement(1496576..1497889)	rRNA-specific 5-methylcytidine transferase
+sor:SOR_1543	CDS	complement(1497882..1498817)	methionyl-tRNA formyltransferase
+sor:SOR_1544	CDS	complement(1498830..1501226)	priA; primosomal protein N, (ATP-dependent helicase/Replication factor Y)
+sor:SOR_1545	CDS	complement(1501292..1501606)	rpoZ; DNA-dependent RNA Polymerase, omega subunit
+sor:SOR_1546	CDS	complement(1501631..1502257)	guanylate kinase
+sor:SOR_1547	CDS	complement(1502392..1503996)	conserved hypothetical protein
+sor:SOR_1548	CDS	complement(1504085..1505635)	KAP_NTPase, putative
+sor:SOR_1549	CDS	complement(1505838..1506092)	plasmid encoded toxin Txe superfamily
+sor:SOR_1550	CDS	complement(1506096..1506356)	antitoxin of toxin-antitoxin stability system
+sor:SOR_1551	CDS	complement(1506588..1507685)	conserved hypothetical protein
+sor:SOR_1552	CDS	complement(1507700..1508092)	hypothetical protein
+sor:SOR_1553	CDS	complement(1508102..1508953)	SAM-dependent methyltransferase
+sor:SOR_1554	CDS	complement(1509018..1509161)	hypothetical protein
+sor:SOR_1555	CDS	complement(1509165..1509518)	conserved hypothetical protein
+sor:SOR_1556	CDS	complement(1509519..1510112)	glycosyl hydrolase family protein
+sor:SOR_1557	CDS	complement(1510112..1510741)	nicotinate (nicotinamide) nucleotide adenylyltransferase
+sor:SOR_1558	CDS	complement(1510793..1511104)	predicted RNA-binding protein containing KH domain, possibly ribosomal protein
+sor:SOR_1559	CDS	complement(1511319..1512425)	GTP-binding protein
+sor:SOR_1560	CDS	complement(1512428..1512955)	HAD superfamily hydrolase
+sor:SOR_1561	CDS	complement(1512970..1513878)	magnesium and cobalt transporter, CorA family protein
+sor:SOR_1562	CDS	complement(1513936..1514496)	small conductance mechanosensitive ion channel protein
+sor:SOR_1563	CDS	1514646..1515857	Na(+)/serine-threonine symporter
+sor:SOR_1564	CDS	1515907..1516860	conserved hypothetical protein
+sor:SOR_1565	CDS	complement(1517057..1517527)	hypothetical protein
+sor:SOR_1566	CDS	complement(1517564..1518445)	hypothetical protein
+sor:SOR_1567	CDS	complement(1518599..1519270)	hypothetical protein
+sor:SOR_1568	CDS	complement(1519310..1520056)	hypothetical protein
+sor:SOR_1569	CDS	complement(1520241..1520726)	hypothetical protein
+sor:SOR_1570	CDS	complement(1520781..1521440)	conserved hypothetical protein
+sor:SOR_1571	CDS	complement(1521486..1521971)	hypothetical protein
+sor:SOR_1572	CDS	complement(1522039..1522260)	conserved hypothetical protein
+sor:SOR_1573	CDS	complement(1522266..1522445)	conserved hypothetical protein
+sor:SOR_1574	CDS	complement(1522438..1523784)	conserved hypothetical protein
+sor:SOR_1575	CDS	complement(1523768..1525288)	glycosyl transferase, group 1
+sor:SOR_1576	CDS	complement(1525301..1527673)	secA; preprotein translocase subunit SecA
+sor:SOR_1577	CDS	complement(1527666..1528106)	conserved hypothetical protein
+sor:SOR_1578	CDS	complement(1528103..1529632)	asp2; accessory secretory protein Asp2
+sor:SOR_1579	CDS	complement(1529616..1531196)	asp1; accessory secretory protein Asp1
+sor:SOR_1580	CDS	complement(1531206..1532423)	secY; preprotein translocase subunit SecY
+sor:SOR_1581	CDS	complement(1532509..1533738)	glycosyl transferase, family 8
+sor:SOR_1582	CDS	complement(1533754..1534980)	glycosyl transferase, family 8
+sor:SOR_1583	CDS	complement(1535200..1541088)	monX; cell wall surface anchor family protein, Ser rich
+sor:SOR_1584	CDS	complement(1541785..1543329)	peptide chain release factor 3
+sor:SOR_1585	CDS	complement(1543473..1544165)	conserved hypothetical protein
+sor:SOR_1586	CDS	1544331..1544633	aspartyl/glutamyl-tRNA amidotransferase subunit C
+sor:SOR_1587	CDS	1544633..1546099	aspartyl/glutamyl-tRNA amidotransferase subunit A
+sor:SOR_1588	CDS	1546099..1547544	aspartyl/glutamyl-tRNA amidotransferase subunit B
+sor:SOR_1589	CDS	1547607..1548551	Tim44 domain superfamily protein
+sor:SOR_1590	CDS	1548560..1549687	band 7 domain superfamily protein; membrane protease, putative
+sor:SOR_1591	CDS	1549769..1550329	translation elongation factor P
+sor:SOR_1592	CDS	1550351..1550740	conserved hypothetical protein
+sor:SOR_1593	CDS	1550733..1551155	transcription antitermination protein NusB
+sor:SOR_1594	CDS	complement(1551203..1551853)	CAAX amino terminal membrane protease family protein
+sor:SOR_1595	CDS	complement(1551954..1552136)	putative excreted peptide
+sor:SOR_1596	CDS	complement(1552363..1553064)	CAAX amino terminal membrane protease family protein
+sor:SOR_1597	CDS	complement(1553212..1553979)	acetyl-CoA carboxylase subunit alpha
+sor:SOR_1598	CDS	complement(1553976..1554842)	acetyl-CoA carboxylase subunit beta
+sor:SOR_1599	CDS	complement(1554878..1556245)	acetyl-CoA carboxylase biotin carboxylase subunit
+sor:SOR_1600	CDS	complement(1556257..1556679)	fabA; 3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratases, COG0764
+sor:SOR_1601	CDS	complement(1556676..1557164)	accB; AccB acetyl-CoA carboxylase, biotin carboxyl carrier protein, COG0511
+sor:SOR_1602	CDS	complement(1557167..1558402)	fabB; FabB 3-oxoacyl-(acyl-carrier-protein) synthase
+sor:SOR_1603	CDS	complement(1558431..1559162)	fabG; 3-ketoacyl-(acyl-carrier-protein) reductase
+sor:SOR_1604	CDS	complement(1559208..1560128)	fabD; (acyl-carrier-protein) S-malonyltransferase
+sor:SOR_1605	CDS	complement(1560121..1561095)	fabK; enoyl-(acyl-carrier-protein) reductase II,NAD(P)H-dependent flavin oxidoreductase
+sor:SOR_1606	CDS	complement(1561213..1561437)	acpP; acyl carrier protein
+sor:SOR_1607	CDS	complement(1561495..1562469)	fabH; 3-oxoacyl-(acyl-carrier-protein) synthase III
+sor:SOR_1608	CDS	complement(1562469..1562903)	transcription regulator, MarR family
+sor:SOR_1609	CDS	complement(1562993..1563778)	smi_1686, enoyl-CoA hydratase
+sor:SOR_1610	CDS	1564061..1565425	aspartate kinase
+sor:SOR_1611	CDS	1565428..1565799	conserved hypothetical protein
+sor:SOR_1612	CDS	1566013..1567287	serS; seryl-tRNA synthetase
+sor:SOR_1613	CDS	complement(1567311..1568210)	C4-dicarboxylate transporter/malic acid transport protein superfamily
+sor:SOR_1614	CDS	complement(1568321..1568869)	carboxymuconolactone decarboxylase family protein
+sor:SOR_1615	CDS	complement(1569000..1570322)	sodium:alanine symporter family protein
+sor:SOR_1616	CDS	complement(1570667..1573003)	putative DNA mismatch repair protein, MutS2 family protein
+sor:SOR_1617	CDS	complement(1573104..1573652)	Colicin V production protein superfamily
+sor:SOR_1618	CDS	complement(1573649..1573951)	conserved hypothetical protein
+sor:SOR_1619	CDS	1574038..1574919	ribonuclease HIII
+sor:SOR_1620	CDS	1574923..1575537	signal peptidase I
+sor:SOR_1621	CDS	1575557..1575655	hypothetical protein
+sor:SOR_1622	CDS	1575665..1578031	helicase, RecD/TraA family
+sor:SOR_1623	CDS	complement(1578079..1579362)	FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+sor:SOR_1624	CDS	complement(1579453..1580109)	DNA alkylation repair enzyme
+sor:SOR_1625	CDS	complement(1580110..1580742)	DNA-binding response regulator
+sor:SOR_1626	CDS	complement(1580753..1581751)	signal transduction histidine kinase
+sor:SOR_1627	CDS	complement(1581748..1582446)	conserved hypothetical protein
+sor:SOR_1628	CDS	complement(1582614..1583615)	Isopentenyl-diphosphate:dimethylallyl diphosphate isomerase type 2
+sor:SOR_1629	CDS	complement(1583599..1584606)	phosphomevalonate kinase
+sor:SOR_1630	CDS	complement(1584593..1585546)	diphosphomevalonate decarboxylase
+sor:SOR_1631	CDS	complement(1585528..1586406)	mevalonate kinase
+sor:SOR_1632	CDS	complement(1586528..1587547)	cbpF; CbpF
+sor:SOR_1633	CDS	complement(1587648..1588337)	ritR; orphan DNA-binding response regulator
+sor:SOR_1634	CDS	complement(1588349..1589773)	gnd; 6-phosphogluconate dehydrogenase,decarboxylating
+sor:SOR_1635	CDS	complement(1589849..1591294)	conserved hypothetical protein
+sor:SOR_1636	CDS	complement(1591299..1592465)	N6-adenine-specific DNA methylase, putative
+sor:SOR_1637	misc_RNA	complement(1592534..1592935)	rnpB; Ribonuclease P-RNA component
+sor:SOR_1638	CDS	complement(1592951..1593280)	conserved hypothetical protein
+sor:SOR_1639	CDS	complement(1593350..1593877)	conserved hypothetical protein
+sor:SOR_1640	CDS	1593944..1594540	recU; Holliday junction resolvase/recombination protein U
+sor:SOR_1641	CDS	1594537..1596711	pbp1a; penicillin-binding protein 1A
+sor:SOR_1642	CDS	complement(1596881..1605136)	cell wall surface anchor family protein,N-acetyl-beta-hexosaminidase
+sor:SOR_1643	CDS	complement(1605277..1611645)	cell wall surface anchor family protein
+sor:SOR_1644	CDS	1612124..1612768	dTDP-rhamnose synthase
+sor:SOR_1645	CDS	complement(1612911..1613117)	dTDP-glucose-4,6-dehydratase
+sor:SOR_1646	CDS	complement(1613254..1614306)	wefE; glycosyltransferase_GTB_type [Streptococcus oralis]
+sor:SOR_1647	CDS	complement(1614334..1615437)	glf; UDP-galactopyranose mutase
+sor:SOR_1648	CDS	complement(1615451..1616449)	wefK; repeating unit O-acetyltransferase WefK [Streptococcus oralis]
+sor:SOR_1649	CDS	complement(1616451..1617866)	wzx; repeating unit transportor; flippase Wzx
+sor:SOR_1650	CDS	complement(1617863..1617958)	hypothetical protein
+sor:SOR_1651	CDS	complement(1618021..1618974)	wefD; glycosyl transferase family 2 protein
+sor:SOR_1652	CDS	complement(1618976..1619206)	hypothetical protein
+sor:SOR_1653	CDS	complement(1619309..1620391)	wefM; glycosyl transferase
+sor:SOR_1654	CDS	complement(1620399..1621235)	wefL; LicD superfamily protein
+sor:SOR_1655	CDS	complement(1621344..1622537)	wzy; oligosaccharide repeat unit polymerase Wzy
+sor:SOR_1656	CDS	complement(1622557..1623351)	wciB; glycosyl transferase WciB [Streptococcus oralis]
+sor:SOR_1657	CDS	complement(1623528..1624163)	wcjG; putative initial sugar transferase WcjG
+sor:SOR_1658	CDS	complement(1624219..1624902)	wze; P-loop NTPase superfamily protein
+sor:SOR_1659	CDS	complement(1624912..1625604)	wzd; chain length regulator Wzd
+sor:SOR_1660	CDS	complement(1625613..1626344)	wzh; capsular polysaccharide biosynthesis protein Wzh; protein-tyrosine phosphatase
+sor:SOR_1661	CDS	complement(1626346..1627791)	wzg; integral membrane regulatory protein Wzg
+sor:SOR_1662	CDS	complement(1627983..1629947)	aliB2; AliB-like protein
+sor:SOR_1663	CDS	complement(1630092..1632059)	aliB1; ABC-type oligopeptide transport system; AliB-like protein
+sor:SOR_1664	CDS	complement(1632229..1633839)	glucan 1,6-alpha-glucosidase
+sor:SOR_1665	CDS	1633993..1635477	conserved hypothetical protein
+sor:SOR_1666	CDS	1635572..1636054	luxS; autoinducer-2 production protein LuxS
+sor:SOR_1667	CDS	complement(1636113..1638218)	clpL; ATP-dependent Clp protease ATP-binding subunit ClpL
+sor:SOR_1668	CDS	complement(1638671..1642129)	cell wall surface anchor family protein
+sor:SOR_1669	CDS	complement(1642448..1644763)	pyruvate formate-lyase
+sor:SOR_1670	CDS	1644996..1646057	dinP; DNA polymerase IV (Pol IV)
+sor:SOR_1671	CDS	complement(1646092..1646937)	uppP; undecaprenyl pyrophosphate phosphatase,bacitracin resistance protein
+sor:SOR_1672	CDS	complement(1646997..1648892)	conserved hypothetical protein
+sor:SOR_1673	CDS	1649023..1650591	ABC transporter-amino acid transport; amino acid-binding protein/permease protein
+sor:SOR_1674	CDS	1650588..1651328	ABC transporter-amino acid transport,ATP-binding protein
+sor:SOR_1675	CDS	complement(1651421..1651636)	conserved hypothetical protein
+sor:SOR_1676	CDS	complement(1651743..1652639)	SPFH domain-containing protein/band 7 family protein
+sor:SOR_1677	CDS	complement(1652722..1653972)	ilvA; threonine dehydratase
+sor:SOR_1678	CDS	complement(1654052..1655074)	ilvC; ketol-acid reductoisomerase
+sor:SOR_1679	CDS	complement(1655152..1655628)	ilvN; acetolactate synthase, small subunit
+sor:SOR_1680	CDS	complement(1655621..1657321)	ilvB; acetolactate synthase, large subunit
+sor:SOR_1681	CDS	complement(1657645..1659726)	fusA; translation elongation factor G
+sor:SOR_1682	CDS	complement(1660014..1660484)	rpsG; 30S ribosomal protein S7
+sor:SOR_1683	CDS	complement(1660504..1660917)	rpsL; 30S ribosomal protein S12
+sor:SOR_1684	CDS	complement(1660904..1660996)	conserved hypothetical protein
+sor:SOR_1685	CDS	complement(1661236..1661835)	DNA-binding response regulator
+sor:SOR_1686	CDS	complement(1661837..1662934)	signal transduction histidine kinase
+sor:SOR_1687	CDS	complement(1662939..1663673)	ABC transporter membrane-spanning permease-ABC-2 type transporter
+sor:SOR_1688	CDS	complement(1663686..1664561)	ABC transporter, ATP-binding protein
+sor:SOR_1689	CDS	complement(1664548..1664742)	conserved hypothetical protein
+sor:SOR_1690	CDS	complement(1664739..1664945)	conserved hypothetical protein
+sor:SOR_1691	CDS	complement(1665071..1666738)	DAK2 superfamily protein, predicted kinase related to dihydroxyacetone kinase
+sor:SOR_1692	CDS	complement(1666741..1667106)	asp; alkaline shock protein
+sor:SOR_1693	CDS	complement(1667259..1667447)	rpmB; 50S ribosomal protein L28
+sor:SOR_1694	CDS	complement(1667552..1668226)	conserved hypothetical protein
+sor:SOR_1695	CDS	complement(1668232..1668678)	LytTr DNA-binding domain-containing protein
+sor:SOR_1696	CDS	complement(1668792..1669295)	conserved hypothetical protein
+sor:SOR_1697	CDS	complement(1669392..1671152)	ABC transporter, ATP-binding/permease protein
+sor:SOR_1698	CDS	complement(1671142..1672911)	ABC transporter, ATP-binding/permease protein
+sor:SOR_1699	CDS	complement(1672895..1673356)	MarR family transcriptional regulator
+sor:SOR_1700	CDS	1673570..1674253	hypothetical protein
+sor:SOR_1701	CDS	complement(1674303..1675019)	conserved hypothetical protein
+sor:SOR_1702	CDS	complement(1675223..1676593)	dinF; MATE efflux family protein
+sor:SOR_1703	CDS	1676703..1677257	acetyltransferase, GNAT family
+sor:SOR_1704	CDS	complement(1677389..1677583)	pspC; phage shock protein C, putative stress-responsive transcriptional regulator
+sor:SOR_1705	CDS	complement(1677756..1678904)	recA; recombinase A
+sor:SOR_1706	CDS	complement(1678959..1680215)	cinA; competence/damage-inducible protein A
+sor:SOR_1707	CDS	complement(1680288..1681328)	LytR family transcriptional regulator
+sor:SOR_1708	CDS	complement(1681333..1681854)	acetyltransferase, GNAT family protein
+sor:SOR_1709	CDS	complement(1681844..1682287)	UPF superfamily protein
+sor:SOR_1710	CDS	complement(1682371..1682994)	comM; conserved hypothetical protein
+sor:SOR_1711	CDS	complement(1683129..1683548)	ndk; nucleoside diphosphate kinase
+sor:SOR_1712	CDS	complement(1683659..1687324)	rpoC; DNA-dependent RNA Polymerase, beta-prime subunit
+sor:SOR_1713	CDS	complement(1687357..1690968)	rpoB; DNA-dependent RNA Polymerase, beta subunit
+sor:SOR_1714	CDS	1691412..1695122	cell wall surface anchor family protein,pullulanase
+sor:SOR_1715	CDS	complement(1695206..1695970)	ABC transporter, ATP-binding protein-amino acid transport
+sor:SOR_1716	CDS	complement(1695980..1696702)	ABC transporter, membrane-spanning permease-amino acid transport
+sor:SOR_1717	CDS	complement(1696706..1697398)	ABC transporter, membrane-spanning permease-amino acid transport
+sor:SOR_1718	CDS	complement(1697431..1698309)	ABC transporter, periplasmic amino acid-binding protein
+sor:SOR_1719	CDS	complement(1698321..1699319)	uroporphyrinogen decarboxylase
+sor:SOR_1720	CDS	complement(1699322..1699525)	hypothetical protein
+sor:SOR_1721	CDS	complement(1699537..1700541)	uroporphyrinogen decarboxylase family protein
+sor:SOR_1722	CDS	1700909..1701766	predicted secreted acid phosphatase, signal peptide type I
+sor:SOR_1723	CDS	complement(1701996..1703048)	coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases
+sor:SOR_1724	CDS	complement(1703159..1703692)	hypothetical protein
+sor:SOR_1725	CDS	complement(1703793..1705601)	D-fructose-6-phosphate amidotransferase
+sor:SOR_1726	CDS	1705817..1706230	conserved hypothetical protein
+sor:SOR_1727	CDS	complement(1706269..1707648)	glycosyl hydrolase family 1.
+sor:SOR_1728	CDS	complement(1707755..1709608)	proS; prolyl-tRNA synthetase
+sor:SOR_1729	CDS	complement(1709625..1710881)	eep; zinc metalloprotease Eep
+sor:SOR_1730	CDS	complement(1710897..1711700)	phosphatidate cytidylyltransferase
+sor:SOR_1731	CDS	complement(1711709..1712467)	uppS; undecaprenyl diphosphate synthase
+sor:SOR_1732	misc_RNA	complement(1712561..1712653)	ccnD; csRNA4
+sor:SOR_1733	CDS	complement(1712677..1713261)	conserved hypothetical protein
+sor:SOR_1734	CDS	complement(1713242..1714240)	ruvB; holliday junction DNA helicase RuvB
+sor:SOR_1735	misc_RNA	complement(1714274..1714371)	ccnB; csRNA2
+sor:SOR_1736	misc_RNA	complement(1714474..1714673)	ccnF; csRNA6
+sor:SOR_1737	CDS	complement(1714727..1715143)	acetyltransferase, GNAT family protein
+sor:SOR_1738	CDS	complement(1715155..1715850)	acetyltransferase, GNAT family protein
+sor:SOR_1739	CDS	complement(1715945..1716364)	conserved hypothetical protein
+sor:SOR_1740	CDS	complement(1716374..1716829)	transcriptional regulator, LytTr DNA-binding domain
+sor:SOR_1741	CDS	complement(1716848..1717690)	ABC transporter membrane-spanning permease-multidrug transport system
+sor:SOR_1742	CDS	complement(1717690..1718556)	ABC tranporter, ATP-binding protein-multidrug transport system
+sor:SOR_1743	CDS	complement(1718984..1719166)	hypothetical protein
+sor:SOR_1744	CDS	complement(1719156..1719464)	hypothetical protein
+sor:SOR_1745	CDS	complement(1719832..1720887)	hypothetical protein
+sor:SOR_1746	CDS	complement(1721034..1723535)	leuS; leucyl-tRNA synthetase
+sor:SOR_1747	CDS	complement(1723695..1724387)	gpmB; fructose-2,6,bisphosphatase
+sor:SOR_1748	misc_RNA	complement(1724473..1724567)	ccnA; csRNA1
+sor:SOR_1749	CDS	complement(1724623..1725960)	conserved hypothetical protein
+sor:SOR_1750	CDS	complement(1725970..1726236)	conserved hypothetical protein
+sor:SOR_1751	CDS	complement(1726501..1726887)	rplQ; 50S ribosomal protein L17
+sor:SOR_1752	CDS	complement(1726899..1727834)	rpoA; DNA-dependent RNA polymerase, alpha subunit
+sor:SOR_1753	CDS	complement(1727877..1728260)	rpsK; 30S ribosomal protein S11
+sor:SOR_1754	CDS	complement(1728278..1728643)	rpsM; 30S ribosomal protein S13
+sor:SOR_1755	CDS	complement(1728661..1728777)	rpmJ; 50S ribosomal protein L36
+sor:SOR_1756	CDS	complement(1728802..1729020)	infA; translation initiation factor IF-1
+sor:SOR_1757	CDS	complement(1729137..1729775)	adenylate kinase
+sor:SOR_1758	CDS	complement(1729921..1731231)	secY; preprotein translocase, SecY subunit
+sor:SOR_1759	CDS	complement(1731244..1731684)	rplO; 50S ribosomal protein L15
+sor:SOR_1760	CDS	complement(1731829..1732011)	rpmD; 50S ribosomal protein L30
+sor:SOR_1761	CDS	complement(1732025..1732519)	rpsE; 30S ribosomal protein S5
+sor:SOR_1762	CDS	complement(1732537..1732893)	rplR; 50S ribosomal protein L18
+sor:SOR_1763	CDS	complement(1732977..1733513)	rplF; 50S ribosomal protein L6
+sor:SOR_1764	CDS	complement(1733740..1734138)	rpsH; 30S ribosomal protein S8
+sor:SOR_1765	CDS	complement(1734203..1734292)	hypothetical protein
+sor:SOR_1766	CDS	complement(1734352..1734537)	rpsN; 30S ribosomal protein S14
+sor:SOR_1767	CDS	complement(1734555..1735097)	rplE; 50S ribosomal protein L5
+sor:SOR_1768	CDS	complement(1735121..1735426)	rplX; 50S ribosomal protein L24
+sor:SOR_1769	CDS	complement(1735505..1735873)	rplN; 50S ribosomal protein L14
+sor:SOR_1770	CDS	complement(1735899..1736159)	rpsQ; 30S ribosomal protein S17
+sor:SOR_1771	CDS	complement(1736184..1736390)	rpmC; 50S ribosomal protein L29
+sor:SOR_1772	CDS	complement(1736400..1736813)	rplP; 50S ribosomal protein L16
+sor:SOR_1773	CDS	complement(1736817..1737470)	rpsC; 30S ribosomal protein S3
+sor:SOR_1774	CDS	complement(1737483..1737827)	rplV; 50S ribosomal protein L22
+sor:SOR_1775	CDS	complement(1737839..1738120)	rpsS; 30S ribosomal protein S19
+sor:SOR_1776	CDS	complement(1738223..1739056)	rplB; 50S ribosomal protein L2
+sor:SOR_1777	CDS	complement(1739074..1739370)	rplW; 50S ribosomal protein L23
+sor:SOR_1778	CDS	complement(1739370..1739993)	rplD; 50S ribosomal protein L4
+sor:SOR_1779	CDS	complement(1740018..1740644)	rplC; 50S ribosomal protein L3
+sor:SOR_1780	CDS	complement(1740726..1741034)	rpsJ; 30S ribosomal protein S10
+sor:SOR_1781	CDS	complement(1741301..1741927)	phosphoribulokinase / uridine kinase family protein
+sor:SOR_1782	CDS	complement(1741924..1742520)	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein
+sor:SOR_1783	CDS	complement(1742525..1743025)	acetyltransferase, GNAT family protein
+sor:SOR_1784	CDS	complement(1742994..1743209)	conserved hypothetical protein
+sor:SOR_1785	CDS	complement(1743221..1745428)	nrdD; anaerobic ribonucleotide reductase,oxygen-sensitive ribonucleoside-triphosphate reductase
+sor:SOR_1786	CDS	complement(1745556..1747070)	ccs4; competence-induced protein Ccs4
+sor:SOR_1787	CDS	complement(1747106..1747249)	orf47; conserved hypothetical protein
+sor:SOR_1788	CDS	complement(1747323..1748855)	phosphatidylserine/phosphatidylglycerophosphate/cardiolipinsynthase
+sor:SOR_1789	CDS	complement(1748991..1749935)	3-oxoacyl-[acyl-carrier-protein] synthase III
+sor:SOR_1790	CDS	complement(1749950..1751212)	coenzyme F390 synthetase, putative
+sor:SOR_1791	CDS	complement(1751190..1752005)	metal dependent hydrolase, putative
+sor:SOR_1792	CDS	complement(1751980..1752960)	3-beta hydroxysteroid dehydrogenase/isomerase family
+sor:SOR_1793	CDS	complement(1752964..1754232)	glycosyl transferase, GTF superfamily
+sor:SOR_1794	CDS	complement(1754337..1755488)	alcohol dehydrogenase, iron-containing
+sor:SOR_1795	CDS	complement(1755673..1756128)	conserved hypothetical protein
+sor:SOR_1796	CDS	complement(1756219..1757469)	dihydrofolate synthetase
+sor:SOR_1797	CDS	complement(1757826..1758131)	conserved hypothetical protein
+sor:SOR_1798	CDS	complement(1758147..1758557)	Holliday junction resolvase-like protein,putative ribonuclease
+sor:SOR_1799	CDS	complement(1758570..1758836)	conserved hypothetical protein
+sor:SOR_1800	CDS	complement(1758924..1759493)	conserved hypothetical protein
+sor:SOR_1801	CDS	complement(1759560..1759958)	spx; arsenate Reductase (ArsC) family, Spx subfamily protein
+sor:SOR_1802	CDS	complement(1760093..1762753)	mgtA; cation transporting ATPase
+sor:SOR_1803	CDS	complement(1763155..1764216)	pepP; aminopeptidase P
+sor:SOR_1804	CDS	complement(1764209..1767040)	uvrA; excinuclease ABC-subunit A, (ATPase subunit)
+sor:SOR_1805	CDS	1767177..1768121	corA; magnesium and cobalt transporter, Mg2+ and Co2+ transporters, CorA family
+sor:SOR_1806	CDS	1768133..1768810	conserved hypothetical protein
+sor:SOR_1807	CDS	1768826..1769173	conserved hypothetical protein
+sor:SOR_1808	CDS	1769486..1770520	LD-carboxypeptidase
+sor:SOR_1809	CDS	1770626..1770889	conserved hypothetical protein
+sor:SOR_1810	CDS	complement(1770970..1771536)	tag; DNA-3-methyladenine glycosylase I
+sor:SOR_1811	CDS	complement(1771546..1772139)	ruvA; Holiday junction DNA helicase RuvA
+sor:SOR_1812	CDS	complement(1772152..1773384)	major facilitator superfamily protein
+sor:SOR_1813	CDS	1773556..1774053	XRE family transcriptional regulator
+sor:SOR_1814	CDS	complement(1774194..1776143)	mutL; DNA mismatch repair protein MutL
+sor:SOR_1815	CDS	complement(1776164..1776235)	conserved hypothetical protein
+sor:SOR_1816	CDS	1776457..1776897	conserved hypothetical protein
+sor:SOR_1817	CDS	1776894..1777352	conserved hypothetical protein
+sor:SOR_1818	CDS	complement(1777394..1779928)	mutS; DNA mismatch repair protein MutS
+sor:SOR_1819	CDS	complement(1779979..1780425)	argR2; arginine repressor
+sor:SOR_1820	CDS	1780580..1782271	argS; arginyl-tRNA synthetase
+sor:SOR_1821	CDS	1782840..1783085	conserved hypothetical protein
+sor:SOR_1822	CDS	1783284..1784546	Mn2+ and Fe2+ transporter of the NRAMP family
+sor:SOR_1823	CDS	complement(1784627..1785097)	NrdI family protein
+sor:SOR_1824	CDS	complement(1785174..1785707)	conserved hypothetical protein
+sor:SOR_1825	CDS	complement(1785766..1787052)	DNA-binding response regulator
+sor:SOR_1826	CDS	complement(1787064..1788710)	signal transduction histidine kinase
+sor:SOR_1827	CDS	complement(1788712..1789326)	conserved hypothetical protein
+sor:SOR_1828	CDS	1789460..1789768	conserved hypothetical protein
+sor:SOR_1829	CDS	complement(1790062..1790754)	ABC transporter membrane-spanning permease
+sor:SOR_1830	CDS	complement(1790756..1791817)	ABC transporter, ATP-binding protein
+sor:SOR_1831	CDS	complement(1791810..1793183)	deacylase, putative
+sor:SOR_1832	CDS	complement(1793302..1794156)	ABC transporter substrate-binding lipoprotein
+sor:SOR_1833	CDS	complement(1794311..1795153)	ABC transporter substrate-binding lipoprotein
+sor:SOR_1834	CDS	complement(1795257..1795580)	branched-chain amino acid transport protein
+sor:SOR_1835	CDS	complement(1795570..1796265)	branched-chain amino acid permease
+sor:SOR_1836	CDS	complement(1796403..1797011)	hypothetical protein
+sor:SOR_1837	CDS	complement(1797216..1797884)	metal-dependent CAAX amino terminal membrane protease family protein
+sor:SOR_1838	CDS	complement(1797901..1798056)	transcriptional regulator
+sor:SOR_1839	CDS	complement(1798161..1799171)	glycoprotease family protein
+sor:SOR_1840	CDS	complement(1799161..1799613)	ribosomal-protein-alanine N-acetyltransferase
+sor:SOR_1841	CDS	complement(1799610..1800296)	glycoprotein endopeptidase
+sor:SOR_1842	CDS	complement(1800306..1800770)	MarR family transcriptional regulator
+sor:SOR_1843	CDS	1800903..1801952	nucleoside-diphosphate-sugar epimerase, putative
+sor:SOR_1844	CDS	1802185..1802418	conserved hypothetical protein
+sor:SOR_1845	CDS	1802420..1804099	metallo-beta-lactamase superfamily protein
+sor:SOR_1846	CDS	complement(1804289..1806202)	gidA; glucose-inhibited division protein A
+sor:SOR_1847	CDS	complement(1806211..1806666)	MutT/NUDIX family protein
+sor:SOR_1848	CDS	complement(1806808..1807929)	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+sor:SOR_1849	CDS	complement(1808300..1809691)	argH; argininosuccinate lyase
+sor:SOR_1850	CDS	complement(1809719..1810915)	argG; argininosuccinate synthase
+sor:SOR_1851	CDS	complement(1810931..1811737)	ABC transporter substrate-binding protein
+sor:SOR_1852	CDS	complement(1811966..1812595)	ABC transporter, ATP-binding protein-amino acid transport
+sor:SOR_1853	CDS	complement(1812592..1814700)	bacteriocin immunity protein, putative
+sor:SOR_1854	CDS	complement(1814755..1815039)	bacteriocin, putative
+sor:SOR_1855	CDS	1815418..1816284	transcriptional regulator
+sor:SOR_1856	CDS	complement(1816306..1816932)	LysM domain protein
+sor:SOR_1857	CDS	1817174..1817845	sdaB; L-serine dehydratase, iron-sulfur-dependent,beta subunit
+sor:SOR_1858	CDS	1817854..1818726	sdaA; L-serine dehydratase, alpha subunit
+sor:SOR_1859	CDS	1818754..1819383	phosphatase, putative
+sor:SOR_1860	CDS	complement(1819670..1820092)	hypothetical protein
+sor:SOR_1861	CDS	complement(1820340..1822190)	capD; putative nucleoside-diphosphate sugar isomerase
+sor:SOR_1862	CDS	complement(1822266..1823096)	glycosyl transferase family 2
+sor:SOR_1863	CDS	1823318..1824484	putative cyanate permease
+sor:SOR_1864	CDS	1824711..1824830	Tn916 hypothetical protein
+sor:SOR_1865	CDS	1824853..1825167	Tn916 conserved hypothetical protein
+sor:SOR_1866	CDS	1825183..1825569	Tn916 conserved hypothetical protein
+sor:SOR_1867	CDS	1825598..1825768	Tn916, FtsK/SpoIIIE family protein
+sor:SOR_1868	CDS	1825801..1826970	Tn916, FtsK/SpoIIIE family protein
+sor:SOR_1869	CDS	1827148..1828353	Tn916, transcriptional regulator, putative
+sor:SOR_1870	CDS	1828396..1828617	Tn916 conserved hypothetical protein
+sor:SOR_1871	CDS	1828734..1829231	Tn916 conserved hypothetical protein
+sor:SOR_1872	CDS	1829320..1829712	Tn916 conserved hypothetical protein
+sor:SOR_1873	CDS	1829696..1832143	Tn916 conserved hypothetical protein
+sor:SOR_1874	CDS	1832212..1834323	Tn916 conserved hypothetical protein
+sor:SOR_1875	CDS	1834320..1835321	Tn916 protein; NLP/P60 family protein
+sor:SOR_1876	CDS	1835336..1836253	Tn916 conserved hypothetical protein
+sor:SOR_1877	CDS	1836631..1838550	tetM; tetracycline resistance protein
+sor:SOR_1878	CDS	complement(1838896..1838979)	Tn916 conserved hypothetical protein; transcriptional regulator, putative
+sor:SOR_1879	CDS	1839449..1839532	23S rRNA methylase leader peptide
+sor:SOR_1880	CDS	1839657..1840394	ermB; erythromycin resistance protein; ribosomal RNA adenine N-6-methyltransferaseadenine dimethylase family protein
+sor:SOR_1881	CDS	1840749..1841303	resolvase
+sor:SOR_1882	CDS	1841307..1844225	transposase
+sor:SOR_1883	CDS	complement(1844281..1844520)	Tn916 conserved hypothetical protein; transcriptional regulator, putative
+sor:SOR_1884	CDS	1844724..1844795	Tn916 conserved hypothetical protein
+sor:SOR_1885	CDS	1845024..1845446	Tn916 conserved hypothetical protein
+sor:SOR_1886	CDS	1845443..1845673	Tn916 conserved hypothetical protein
+sor:SOR_1887	CDS	1846134..1846337	xis; Tn916, excisionase
+sor:SOR_1888	CDS	1846419..1847636	Tn916, transposase; site-specific recombinase,phage integrase family
+sor:SOR_1889	CDS	1847920..1848246	PadR-like family transcription regulatory protein
+sor:SOR_1890	CDS	1848233..1848826	conserved hypothetical protein
+sor:SOR_1891	CDS	1848819..1849748	conserved hypothetical protein
+sor:SOR_1892	CDS	1849811..1850773	hypothetical protein
+sor:SOR_1893	CDS	complement(1850836..1851696)	conserved hypothetical protein
+sor:SOR_1894	CDS	complement(1851817..1852803)	conserved hypothetical protein, rhodanese homology domain superfamily
+sor:SOR_1895	CDS	complement(1852935..1853237)	bacteriocin immunity protein, putative
+sor:SOR_1896	CDS	complement(1853300..1853989)	pncO; metal-dependent CAAX amino terminal membrane protease family protein
+sor:SOR_1897	CDS	complement(1854150..1855634)	ugpB; ABC transporter substrate-binding protein
+sor:SOR_1898	CDS	complement(1855743..1856666)	ugpE; ABC transporter membrane-spanning permease-sugar transport
+sor:SOR_1899	CDS	complement(1856680..1857609)	ugpA; ABC transporter membrane-spanning permease-sugar transport
+sor:SOR_1900	CDS	complement(1857810..1859690)	N-acetyl-beta-D-glucosaminidase
+sor:SOR_1901	CDS	complement(1859684..1860553)	N-acetyl-D-glucosamine kinase
+sor:SOR_1902	CDS	complement(1860653..1863298)	Glycosyl hydrolases family 38; alpha-mannosidase, putative
+sor:SOR_1903	CDS	complement(1863541..1864821)	conserved hypothetical protein
+sor:SOR_1904	CDS	1864992..1867079	Glycosyl hydrolase family 92; alpha-1,2-mannosidase, putative
+sor:SOR_1905	CDS	complement(1867116..1868855)	alpha-L-fucosidase, putative
+sor:SOR_1906	CDS	complement(1869329..1870834)	acdA; ABC transporter, substrate-binding protein-metal transport; zinc-binding lipoprotein
+sor:SOR_1907	CDS	complement(1870844..1871650)	adcB; ABC transporter membrane-spanning permease-Mn2+/Zn2+ transport
+sor:SOR_1908	CDS	complement(1871643..1872347)	adcC; ABC transporter, ATP-binding protein-zinc transport
+sor:SOR_1909	CDS	complement(1872347..1872787)	adcR; Zn(2+)-responsive AdcR transcriptional repressor, MarR family
+sor:SOR_1910	CDS	complement(1872937..1874973)	5-prime-nucleotidase family protein
+sor:SOR_1911	CDS	complement(1875115..1876383)	dltD; membrane-associated protein dltD, facilitates D-alanine ligation to DCP by binding Dcl and Dcp
+sor:SOR_1912	CDS	complement(1876376..1876615)	dltC; D-alanine-poly(phosphoribitol) ligase subunit 2 (D-alanyl carrier protein; DCP)
+sor:SOR_1913	CDS	complement(1876629..1877873)	dltB; transport protein DltB, involved in D-alanine export
+sor:SOR_1914	CDS	complement(1877870..1879420)	dltA; D-alanine:Dcp ligase; D-alanine-activating enzyme
+sor:SOR_1915	CDS	complement(1879806..1880510)	glpF; glycerol uptake facilitator protein
+sor:SOR_1916	CDS	complement(1880578..1882404)	glpD; glycerol-3-phosphate dehydrogenase
+sor:SOR_1917	CDS	complement(1882446..1883954)	glpK; glycerol kinase
+sor:SOR_1918	CDS	complement(1884111..1885538)	putative regulatory protein
+sor:SOR_1919	CDS	complement(1885677..1886654)	abortive infection phage resistance protein
+sor:SOR_1920	CDS	complement(1886773..1887222)	conserved hypothetical protein
+sor:SOR_1921	CDS	complement(1887212..1887553)	conserved hypothetical protein; transposase, putative
+sor:SOR_1922	CDS	complement(1887554..1888129)	conserved hypothetical protein; transposase, putative
+sor:SOR_1923	CDS	1888265..1888432	hypothetical protein
+sor:SOR_1924	CDS	1888432..1889415	type II restriction enzyme, modification methylase
+sor:SOR_1925	CDS	1889431..1890669	HNH endonuclease family
+sor:SOR_1926	CDS	1890856..1891728	heat shock protein, Hsp33 like protein
+sor:SOR_1927	CDS	1891715..1892695	tRNA-dihydrouridine synthase, putative
+sor:SOR_1928	CDS	complement(1892762..1893445)	conserved hypothetical protein
+sor:SOR_1929	CDS	complement(1893738..1894511)	conserved hypothetical protein
+sor:SOR_1930	CDS	complement(1894513..1895292)	pnuC; nicotinamide mononucleotide transporter
+sor:SOR_1931	CDS	complement(1895302..1896084)	bifunctional NadR superfamily protein, NadR,predicted ATPase/kinase involved in NAD metabolism
+sor:SOR_1932	CDS	complement(1896167..1896361)	bifunctional NadR superfamily protein, NadR,predicted ATPase/kinase involved in NAD metabolism
+sor:SOR_1933	CDS	complement(1896506..1898938)	clpC; ATP-dependent Clp protease, ATP-binding subunit
+sor:SOR_1934	CDS	complement(1898940..1899398)	ctsR; transcriptional regulator CtsR
+sor:SOR_1935	CDS	complement(1899570..1902710)	cell wall surface anchor family protein
+sor:SOR_1936	CDS	complement(1902911..1903639)	tauB; ABC transporter ATP-binding protein-nitrate/sulfonate/bicarbonate transport
+sor:SOR_1937	CDS	complement(1903639..1904646)	tauA; ABC transporter, substrate-binding protein-nitrate/sulfonate/bicarbonate transport
+sor:SOR_1938	CDS	complement(1904683..1905444)	tauC; ABC transporter membrane-spanning permease-nitrate/sulfonate/bicarbonate transport
+sor:SOR_1939	CDS	complement(1905404..1905694)	conserved hypothetical protein
+sor:SOR_1940	CDS	complement(1905972..1908605)	polI; DNA-directed DNA polymerase
+sor:SOR_1941	CDS	complement(1908735..1912022)	cell wall surface anchor family protein
+sor:SOR_1942	CDS	complement(1912141..1913262)	cbpD1; CbpD1, putative amidase
+sor:SOR_1943	CDS	complement(1913362..1913628)	conserved hypothetical protein
+sor:SOR_1944	CDS	complement(1913630..1914982)	dnaB; replicative DNA helicase
+sor:SOR_1945	CDS	complement(1915026..1915478)	rplI; 50S ribosomal protein L9
+sor:SOR_1946	CDS	complement(1915475..1917448)	DHH domain superfamily protein
+sor:SOR_1947	CDS	complement(1917594..1918772)	acetyl-CoA acetyltransferase
+sor:SOR_1948	CDS	complement(1918853..1919401)	raiA; ribosomal subunit interface protein
+sor:SOR_1949	CDS	complement(1919481..1920143)	comFC; predicted amidophosphoribosyltransferases, involved in transformation
+sor:SOR_1950	CDS	complement(1920140..1921438)	superfamily II ATP-dependent DNA/RNA helicase
+sor:SOR_1951	CDS	1921495..1922130	conserved hypothetical protein
+sor:SOR_1952	CDS	1922146..1922589	conserved hypothetical protein
+sor:SOR_1953	CDS	1922686..1923612	cysK; cysteine synthase
+sor:SOR_1954	CDS	complement(1923716..1924756)	tsf; elongation factor TS
+sor:SOR_1955	CDS	complement(1924835..1925614)	rpsB; 30S ribosomal protein S2
+sor:SOR_1956	CDS	1925823..1926143	transposase
+sor:SOR_1957	CDS	1926190..1926672	IS630-Spn1, transposase, degenerate
+sor:SOR_1958	CDS	1926856..1927539	degenerate transposase
+sor:SOR_1959	CDS	1927614..1927919	degenerate transposase
+sor:SOR_1960	CDS	1927895..1928362	degenerate transposase
+sor:SOR_1961	CDS	1928343..1928636	degenerate transposase
+sor:SOR_1962	CDS	complement(1928963..1930093)	cbpD2; CbpD2, putative amidase
+sor:SOR_1963	CDS	complement(1930476..1931690)	murM; peptidoglycan branched peptide synthesis protein, alanine adding enzyme
+sor:SOR_1964	CDS	complement(1931890..1933104)	sagA; CHAP domain protein, secreted antigen GbpB/SagA; peptidoglycan hydrolase
+sor:SOR_1965	CDS	complement(1933198..1933692)	mreD; cell shape determining protein MreD
+sor:SOR_1966	CDS	complement(1933695..1934510)	mreC; cell shape determining protein MreC
+sor:SOR_1967	CDS	complement(1934571..1935365)	cbiQ; ABC transporter membrane-spanning permease-cobalt transport
+sor:SOR_1968	CDS	complement(1935358..1936197)	cbiO1; ABC transporter ATP-binding protein-cobalt transport
+sor:SOR_1969	CDS	complement(1936182..1937009)	cbiO2; ABC transporter ATP-binding protein-cobalt transport
+sor:SOR_1970	CDS	complement(1937006..1937551)	pgsA; phosphatidylglycerophosphate synthase
+sor:SOR_1971	CDS	complement(1937562..1938383)	predicted transcriptional regulator, contains Xre-like HTH domain
+sor:SOR_1972	CDS	complement(1938419..1939702)	putative zinc-dependent protease; M16 family peptidase protein
+sor:SOR_1973	CDS	complement(1939699..1940949)	putative zinc-dependent protease; M16 family peptidase protein
+sor:SOR_1974	CDS	1941110..1941472	conserved hypothetical protein
+sor:SOR_1975	CDS	1941475..1942572	recF; recombination protein F
+sor:SOR_1976	CDS	complement(1942626..1944104)	guaB; inosine monophosphate dehydrogenase
+sor:SOR_1977	CDS	complement(1944265..1945290)	trpS; tryptophanyl-tRNA synthetase
+sor:SOR_1978	CDS	1945485..1947107	ABC transporter, ATP-binding protein
+sor:SOR_1979	CDS	1947169..1949721	ABC transporter membrane-spanning permease
+sor:SOR_1980	CDS	complement(1949743..1952397)	conserved hypothetical protein
+sor:SOR_1981	CDS	1952526..1953068	TetR family transcriptional regulator
+sor:SOR_1982	tRNA	complement(1953101..1953175)	tRNA-Asn
+sor:SOR_1983	tRNA	complement(1953181..1953252)	tRNA-Glu
+sor:SOR_1984	CDS	complement(1953311..1954057)	comE; DNA-binding response regulator
+sor:SOR_1985	CDS	complement(1954054..1955373)	comD; signal transduction histidine kinase
+sor:SOR_1986	CDS	complement(1955394..1955519)	comC; competence-stimulating peptide; CSP
+sor:SOR_1987	CDS	1955683..1955760	phage resolvase, putative
+sor:SOR_1988	tRNA	complement(1955684..1955757)	tRNA-Arg
+sor:SOR_1989	CDS	complement(1955801..1956280)	SPOUT methyltransferase superfamily protein
+sor:SOR_1990	CDS	1956466..1957662	htrA; serine protease
+sor:SOR_1991	CDS	1957720..1958478	parB; chromosome partitioning protein, parB family,similar to spoOJ
