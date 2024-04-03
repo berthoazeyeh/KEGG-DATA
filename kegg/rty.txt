@@ -1,0 +1,919 @@
+rty:RT0001	CDS	1..822	conserved hypothetical protein
+rty:RT0002	CDS	984..1301	trxA; thioredoxin
+rty:RT0003	CDS	1312..2070	wzt; O-antigen export system ATP-binding protein
+rty:RT0004	CDS	2067..2843	wzm; O-antigen export system permease protein
+rty:RT0005	CDS	2840..5896	conserved hypothetical protein
+rty:RT0006	CDS	complement(6007..6801)	lpxA; UDP-N-acetylglucosamine acyltransferase
+rty:RT0007	CDS	complement(6811..7248)	fabZ; (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+rty:RT0008	CDS	complement(7429..8469)	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+rty:RT0009	tRNA	complement(8851..8926)	tRNA-Phe; tRNA-Phe
+rty:RT0010	CDS	9295..10278	NifR3-like protein
+rty:RT0011	CDS	10275..11348	conserved hypothetical protein
+rty:RT0012	CDS	complement(11414..11848)	conserved hypothetical protein
+rty:RT0013	CDS	complement(11836..12741)	znuA; probable zinc/manganese ABC transporter substrate binding protein
+rty:RT0014	CDS	complement(12738..13901)	pcnB; NTP polymerase
+rty:RT0015	CDS	14663..18055	sca1; 190 kDa antigen precursor
+rty:RT0016	tRNA	18164..18238	tRNA-Glu; tRNA-Glu
+rty:RTPG01	gene	complement(19015..19631)	pseudogene
+rty:RT0017	CDS	complement(19633..20106)	ruvC; Holliday junction nuclease
+rty:RT0018	CDS	complement(20165..21052)	Era-like GTP-binding protein
+rty:RT0019	CDS	complement(21045..21728)	rnc; RNase D
+rty:RT0020	CDS	complement(21728..22522)	lepB; Bacterial leader peptidase I
+rty:RT0021	CDS	complement(22711..23976)	nuoF; NADH dehydrogenase (ubiquinone) subunit F
+rty:RT0022	CDS	complement(24146..25072)	secF; protein-export membrane protein secF
+rty:RT0023	CDS	25145..25381	conserved hypothetical protein
+rty:RT0024	CDS	complement(25526..25942)	rplS; 50S ribosomal protein L19
+rty:RT0025	CDS	complement(25959..26663)	trmD; tRNA (guanine-N(1)-)-methyltransferase
+rty:RT0026	CDS	complement(27080..28237)	ackA; Acetokinase
+rty:RT0027	CDS	complement(28239..29288)	pta; Phosphoacylase
+rty:RT0028	CDS	complement(29679..33143)	VirB6-like protein of the type IV secretion system
+rty:RT0029	CDS	complement(33268..35928)	VirB6-like protein of the type IV secretion system
+rty:RT0030	CDS	complement(36090..39005)	VirB6-like protein of the type IV secretion system
+rty:RT0031	CDS	complement(39009..41033)	VirB6-like protein of the type IV secretion system
+rty:RT0032	CDS	complement(41020..44427)	VirB6-like protein of the type IV secretion system
+rty:RT0033	CDS	complement(44546..46963)	virB4a; VirB4 protein precursor
+rty:RT0034	CDS	complement(47136..47423)	virB3; probable type IV secretory system protein VirB3
+rty:RTPG02	gene	complement(47435..48207)	pseudogene
+rty:RT0035	CDS	complement(48098..48742)	engB; probable GTP-binding protein EngB
+rty:RT0036	tRNA	complement(49021..49097)	tRNA-fMet; tRNA-Met
+rty:RT0037	CDS	complement(49208..49444)	rpmE; 50S ribosomal protein L31
+rty:RT0038	CDS	complement(49441..49734)	rpmB; 50S ribosomal protein L28
+rty:RT0039	CDS	complement(51017..51268)	rickettsial conserved hypothetical protein
+rty:RT0040	CDS	complement(51270..52028)	mkl; ribonucleotide ABC transporter ATP-binding protein
+rty:RT0041	CDS	complement(52034..52813)	ABC transporter permease protein
+rty:RT0042	CDS	complement(52970..54178)	alr; alanine racemase
+rty:RT0043	CDS	complement(54956..55555)	conserved hypothetical protein
+rty:RT0044	CDS	complement(55575..56330)	vacJ; lipoprotein precursor
+rty:RT0045	CDS	complement(56335..57345)	rickettsial conserved hypothetical protein
+rty:RT0046	CDS	57571..58770	aatA; Aspartate aminotransferase
+rty:RT0047	CDS	58889..59545	conserved hypothetical protein
+rty:RT0048	CDS	59542..60930	waaA; 3-deoxy-D-manno-octulosonic-acid transferase
+rty:RTPG03	gene	complement(61590..61776)	pseudogene
+rty:RT0049	CDS	complement(62040..62969)	tsf; elongation factor Ts
+rty:RT0050	CDS	complement(63126..64013)	rpsB; 30S ribosomal protein S2
+rty:RT0051	CDS	complement(64418..65791)	cysS; Cysteine translase
+rty:RT0052	CDS	68152..72603	sca2; 190 kDa antigen precursor
+rty:RT0053	CDS	complement(73210..73512)	secG; protein-export membrane protein SecG
+rty:RT0054	tRNA	complement(73530..73604)	tRNA-Thr; tRNA-Thr
+rty:RT0055	CDS	complement(73744..75000)	proP1; proline/betaine transporter ProP1
+rty:RT0056	CDS	complement(74987..75871)	conserved hypothetical protein
+rty:RT0057	CDS	76015..76737	OmpW-like outer membrane protein
+rty:RT0058	CDS	76866..78263	pntB; Nicotinamide nucleotide transhydrogenase
+rty:RT0059	CDS	78320..78880	conserved hypothetical protein
+rty:RT0060	CDS	complement(79064..79882)	conserved hypothetical protein
+rty:RT0061	CDS	complement(79886..80599)	czcR; transcriptional activator protein CzcR
+rty:RT0062	CDS	complement(80782..81240)	secB; protein-export protein SecB
+rty:RT0063	CDS	complement(81429..81995)	dcd; Deoxycytidine triphosphate deaminase
+rty:RT0064	CDS	82266..83588	rickettsial conserved hypothetical protein
+rty:RT0065	CDS	complement(84353..86566)	parC; DNA topoisomerase IV subunit A
+rty:RT0066	CDS	complement(86701..87348)	rickettsial conserved hypothetical protein
+rty:RT0067	CDS	complement(87419..89149)	argS; Arginine translase
+rty:RT0068	CDS	complement(89158..90312)	dgtP; Deoxy-GTPase
+rty:RT0069	CDS	90567..90899	iscA1; iron-binding protein IscA/HesB
+rty:RT0070	CDS	complement(92301..93125)	kdsA; 3-deoxy-8-phosphooctulonate synthase
+rty:RT0071	CDS	complement(93161..93472)	rickettsial conserved hypothetical protein
+rty:RT0072	CDS	complement(93475..95142)	ABC transporter ATP-binding protein
+rty:RT0073	CDS	complement(95319..96179)	parB; chromosome partitioning protein ParB (Spo0J protein)
+rty:RT0074	CDS	complement(96166..96933)	parA; chromosome partitioning protein ParA (Soj protein)
+rty:RT0075	CDS	complement(96930..97505)	gidB; glucose inhibited division protein B
+rty:RT0076	CDS	complement(97489..99354)	gidA; glucose inhibited division protein A
+rty:RT0077	CDS	complement(99358..99780)	ndk; NDK
+rty:RT0078	CDS	complement(99919..101208)	glpT; glycerol-3-phosphate transporter
+rty:RT0079	CDS	complement(101278..102774)	tlcA; ADP/ATP carrier protein 1
+rty:RTPG04	gene	103201..103580	pseudogene
+rty:RT0080	CDS	104846..105241	rickettsial conserved hypothetical protein
+rty:RTPG05	gene	complement(105249..105804)	pseudogene
+rty:RT0081	CDS	complement(105814..106350)	pgsA; 3-phosphatidyl-1prime-glycerol-3prime-phosphate synthase
+rty:RT0082	CDS	complement(106350..108026)	yidC; 60 kDa inner membrane protein
+rty:RT0083	CDS	complement(108196..109362)	conserved hypothetical protein
+rty:RT0084	CDS	109598..110377	lgt; prolipoprotein diacylglyceryl transferase
+rty:RT0085	CDS	110356..111432	conserved hypothetical protein
+rty:RT0086	CDS	complement(111886..112671)	sdhB; Fumarate dehydrogenase
+rty:RT0087	CDS	complement(112910..114823)	ftsH; cell division protein FtsH
+rty:RT0088	CDS	complement(114874..116166)	mesJ; probable cell cycle ATPase MesJ
+rty:RT0089	CDS	complement(116339..116854)	rplI; 50S ribosomal protein L9
+rty:RT0090	CDS	complement(116866..117153)	rpsR; 30S ribosomal protein S18
+rty:RT0091	CDS	complement(117178..117543)	rpsF; 30S ribosomal protein S6
+rty:RT0092	CDS	118420..119607	aco1; Acyl-CoA desaturase
+rty:RT0093	CDS	119725..120888	gcp; Glycoprotease
+rty:RT0094	CDS	complement(121536..124112)	clpB; ATP-binding ClpB chaperone
+rty:RT0095	CDS	125155..125880	phbB; acetoacetyl-CoA reductase
+rty:RTPG06	gene	126004..126468	pseudogene
+rty:RT0096	CDS	126476..127798	rickettsial conserved hypothetical protein
+rty:RT0097	CDS	complement(128082..128672)	conserved hypothetical protein
+rty:RT0098	CDS	128733..129302	conserved hypothetical protein
+rty:RTPG07	gene	complement(129317..129872)	pseudogene
+rty:RT0099	CDS	131548..132207	rickettsial conserved hypothetical protein
+rty:RTPG08	gene	134057..134355	pseudogene
+rty:RT0100	CDS	134379..135461	recF; DNA replication and repair protein RecF
+rty:RT0101	CDS	135704..137308	conserved hypothetical protein
+rty:RT0102	CDS	complement(137564..138097)	conserved hypothetical protein
+rty:RT0103	CDS	138255..139067	conserved hypothetical protein
+rty:RT0104	CDS	139126..139374	rickettsial conserved hypothetical protein
+rty:RT0105	CDS	139379..140107	atpB; ATP synthase
+rty:RT0106	CDS	140141..140365	atpE; ATP synthase
+rty:RT0107	CDS	140378..140848	atpX; ATP synthase
+rty:RT0108	CDS	140853..141356	atpF; ATP synthase
+rty:RT0109	CDS	complement(143215..144279)	conserved hypothetical protein
+rty:RT0110	CDS	complement(144279..145235)	mrp; ATP-binding protein Mrp
+rty:RT0111	CDS	145336..146370	hflK; protease activity modulator protein HflK
+rty:RT0112	CDS	146522..147382	hflC; protease activity modulator protein HflC
+rty:RT0113	CDS	147398..148954	serine protease, HtrA/DegQ/DegS family
+rty:RT0114	CDS	149053..149796	conserved hypothetical protein
+rty:RT0115	CDS	149938..150312	sdhC; succinate dehydrogenase cytochrome b-556 subunit
+rty:RT0116	CDS	150470..150847	sdhD; succinate dehydrogenase hydrophobic membrane anchor protein
+rty:RT0117	CDS	150987..152777	sdhA; Fumarate dehydrogenase
+rty:RT0118	CDS	152913..153569	glnP; glutamine transport system permease protein GlnP
+rty:RT0119	CDS	153730..154119	rpsL; 30S ribosomal protein S12
+rty:RT0120	CDS	154152..154634	rpsG; 30S ribosomal protein S7
+rty:RT0121	CDS	154647..156746	fusA; elongation factor G
+rty:RT0122	tRNA	156890..156965	tRNA-Trp; tRNA-Trp
+rty:RT0123	CDS	157133..157333	secE; preprotein translocase SecE subunit
+rty:RT0124	CDS	157349..157927	nusG; transcription antitermination protein NusG (N utilization substance protein G)
+rty:RT0125	CDS	158105..158542	rplK; 50S ribosomal protein L11
+rty:RT0126	CDS	158545..159258	rplA; 50S ribosomal protein L1
+rty:RT0127	CDS	159348..159857	rplJ; 50S ribosomal protein L10
+rty:RT0128	CDS	160038..160415	rplL; 50S ribosomal protein L7/L12
+rty:RT0129	CDS	161240..165364	rpoB; RNA nucleotidyltransferase (DNA-directed)
+rty:RT0130	CDS	165666..169784	rpoC; RNA nucleotidyltransferase (DNA-directed)
+rty:RT0131	CDS	170817..172319	pepA; Cytosol aminopeptidase
+rty:RT0132	CDS	172414..173208	conserved hypothetical protein
+rty:RT0133	CDS	173310..173744	rickettsial conserved hypothetical protein
+rty:RT0134	CDS	173816..175633	aspS; Aspartic acid translase
+rty:RT0135	CDS	complement(175887..178010)	rickettsial conserved hypothetical protein
+rty:RT0136	CDS	complement(178110..178820)	conserved hypothetical protein (integral membrane protein)
+rty:RT0137	CDS	complement(179021..179740)	dapB; dihydrodipicolinate reductase
+rty:RT0138	CDS	complement(180003..180488)	conserved hypothetical protein
+rty:RT0139	CDS	complement(180473..181198)	glnH; glutamine-binding periplasmic protein GlnH
+rty:RT0140	CDS	complement(181363..182814)	gatB; Glu-AdT
+rty:RT0141	CDS	complement(182969..184450)	gatA; Glu-AdT
+rty:RT0142	CDS	complement(184453..184755)	gatC; Glu-AdT
+rty:RT0143	CDS	complement(185259..185819)	frr; ribosome recycling factor
+rty:RT0144	CDS	complement(186006..186740)	pyrH; Uridine monophosphokinase
+rty:RT0145	CDS	complement(186744..187055)	conserved hypothetical protein
+rty:RT0146	CDS	complement(187039..188598)	emrB; multidrug resistance protein B
+rty:RT0147	CDS	188780..188983	rickettsial conserved hypothetical protein
+rty:RT0148	CDS	complement(189321..189461)	hypothetical protein
+rty:RT0149	tRNA	complement(189873..189948)	tRNA-Thr; tRNA-Thr
+rty:RT0150	CDS	complement(190091..192397)	omp1; outer membrane protein Omp1
+rty:RT0151	CDS	complement(192627..193700)	probable membrane associated zinc metalloprotease
+rty:RT0152	CDS	193868..194389	nusB; transcription termination protein NusB (N utilization substance protein B)
+rty:RT0153	CDS	194386..195069	ftsJ; rRNA (uridine-2'-O-)-methyltransferase (23S ribosomal RNA methyltransferase)
+rty:RT0154	CDS	195647..195811	hypothetical protein
+rty:RT0155	CDS	complement(196020..196154)	hypothetical protein
+rty:RT0156	CDS	complement(196185..196379)	rickettsial conserved hypothetical protein
+rty:RT0157	CDS	complement(196373..197479)	rickettsial conserved hypothetical protein
+rty:RT0158	CDS	complement(197581..198021)	conserved hypothetical protein
+rty:RTPG09	gene	complement(198021..198258)	pseudogene
+rty:RT0159	CDS	198319..199041	conserved hypothetical protein
+rty:RT0160	CDS	complement(199110..199382)	rickettsial conserved hypothetical protein
+rty:RT0161	CDS	complement(199425..202451)	acrD; acriflavin resistance protein D
+rty:RT0162	CDS	202937..203236	hupA; DNA-binding protein HU
+rty:RT0163	CDS	203347..204141	holB; DNA nucleotidyltransferase (DNA-directed)
+rty:RT0164	CDS	204694..206043	ffh; signal recognition particle protein
+rty:RT0165	CDS	complement(206220..208382)	ppcE; Post-proline cleaving enzyme
+rty:RT0166	CDS	208609..209784	hemN; Coprogen oxidase
+rty:RT0167	CDS	complement(210637..211836)	gltP; proton/sodium glutamate symporter
+rty:RT0168	CDS	complement(211874..212323)	cutA; probable periplasmic divalent cation tolerance protein CutA
+rty:RT0169	CDS	complement(212345..212761)	6-pyruvoyl tetrahydrobiopterin synthase
+rty:RT0170	CDS	complement(212929..214125)	sucB; dihydrolipoamide S-succinyltransferase
+rty:RT0171	CDS	complement(214165..216966)	sucA; Alpha-ketoglutaric dehydrogenase
+rty:RT0172	CDS	complement(217326..218498)	Carboxypeptidase Taq
+rty:RT0173	CDS	complement(218612..220276)	recN; DNA repair protein RecN
+rty:RT0174	CDS	complement(220284..221039)	probable lipoprotein
+rty:RT0175	CDS	complement(221478..222590)	dnaJ; chaperone protein DnaJ
+rty:RT0176	CDS	complement(222712..224595)	dnaK; chaperone protein DnaK
+rty:RT0177	CDS	224874..226367	serine protease, HtrA/DegQ/DegS family
+rty:RT0178	CDS	227318..227791	rickettsial conserved hypothetical protein
+rty:RT0179	CDS	227799..228764	conserved hypothetical protein
+rty:RT0180	CDS	228891..229427	coq7; ubiquinone biosynthesis protein CoQ7
+rty:RTPG10	gene	229960..230742	pseudogene
+rty:RT0181	CDS	230866..231252	rickettsial conserved hypothetical protein
+rty:RT0182	CDS	complement(231515..232138)	rickettsial conserved hypothetical protein
+rty:RT0183	CDS	232221..233045	dapD; Succinyl-CoA:tetrahydrodipicolinate N-succinyltransferase
+rty:RT0184	CDS	233126..233230	hypothetical protein
+rty:RT0185	CDS	complement(234789..237119)	pbpC; membrane carboxypeptidase/penicillin-binding protein PbpC
+rty:RT0186	CDS	complement(238564..239010)	conserved hypothetical protein
+rty:RT0187	CDS	complement(239015..239956)	conserved hypothetical protein
+rty:RT0188	CDS	complement(239961..241028)	rickettsial conserved hypothetical protein
+rty:RT0189	CDS	complement(241025..241378)	fdxB; ferredoxin, 2Fe-2S (andrenodoxin-like)
+rty:RT0190	CDS	complement(241443..243203)	hscA; DnaK-like chaperone protein HscA
+rty:RT0191	CDS	complement(243194..243694)	hscB; DnaJ-like chaperone protein HscB
+rty:RT0192	CDS	243899..244480	rnhB; Endoribonuclease H
+rty:RT0193	CDS	complement(244545..246533)	uvrB; excinuclease ABC subunit B
+rty:RT0194	CDS	246610..246924	grxC1; glutaredoxin 3
+rty:RT0195	CDS	247019..248797	probable ATP binding cassette transporter
+rty:RT0196	CDS	250064..252781	gyrA; DNA gyrase
+rty:RTPG11	gene	253368..253540	pseudogene
+rty:RT0197	CDS	254055..254582	def; PDF
+rty:RT0198	CDS	254594..255490	fmt; Formylmethionyl-transfer ribonucleic synthetase
+rty:RT0199	CDS	255711..255851	hypothetical protein
+rty:RT0200	rRNA	256226..258987	rrl; 23S ribosomal RNA
+rty:RT0201	CDS	complement(258437..258853)	conserved hypothetical protein
+rty:RTPG12	gene	258881..259212	pseudogene
+rty:RT0202	rRNA	259213..259313	rrf; 5S ribosomal RNA
+rty:RT0203	CDS	complement(259503..260576)	probable ATPase
+rty:RT0204	CDS	complement(261210..262337)	queA; S-adenosylmethionine tRNA ribosyltransferase-isomerase
+rty:RT0205	CDS	complement(262825..264594)	ABC transporter ATP-binding protein
+rty:RT0206	CDS	264771..265040	rickettsial conserved hypothetical protein
+rty:RT0207	CDS	265205..266548	cydA; cytochrome d ubiquinol oxidase subunit I
+rty:RT0208	CDS	266680..267699	cydB; cytochrome d ubiquinol oxidase subunit II
+rty:RT0209	CDS	267959..268837	glucosyltransferase
+rty:RT0210	CDS	268976..270214	mpp; probable mitochondrial protease
+rty:RT0211	CDS	270336..271046	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase
+rty:RTPG13	gene	271206..272364	pseudogene
+rty:RT0212	CDS	272365..274272	thrS; Threonine translase
+rty:RT0213	CDS	complement(275036..275173)	rickettsial conserved hypothetical protein
+rty:RT0214	CDS	complement(276535..276882)	rickettsial conserved hypothetical protein
+rty:RT0215	CDS	complement(276935..278131)	rickettsial conserved hypothetical protein
+rty:RT0216	CDS	278361..279725	tolC; outer membrane protein TolC precursor
+rty:RT0217	CDS	279727..280140	conserved hypothetical protein
+rty:RT0218	CDS	280273..282033	rickettsial conserved hypothetical protein
+rty:RT0219	CDS	282215..284206	parE; DNA topoisomerase IV subunit B
+rty:RT0220	CDS	284315..285643	ctp; tail specific periplasmic protease precursor
+rty:RT0221	CDS	285869..287365	histidine kinase sensor protein
+rty:RT0222	CDS	287565..288293	conserved hypothetical protein
+rty:RT0223	CDS	288306..288968	rickettsial conserved hypothetical protein
+rty:RT0224	CDS	288968..290254	conserved hypothetical protein
+rty:RT0225	CDS	290453..290920	rplM; 50S ribosomal protein L13
+rty:RT0226	CDS	290927..291412	rpsI; 30S ribosomal protein S9
+rty:RT0227	tRNA	291448..291524	tRNA-Met; tRNA-Met
+rty:RT0228	CDS	complement(292889..293374)	nudH; dinucleoside polyphosphate hydrolase, invasion protein A
+rty:RT0229	CDS	complement(293404..294756)	response regulator protein
+rty:RT0230	CDS	294831..295397	efp; elongation factor P
+rty:RT0231	CDS	295407..296144	suhB; extragenic suppressor protein
+rty:RT0232	CDS	296355..296678	rickettsial conserved hypothetical protein
+rty:RT0233	CDS	296712..297407	psd; PS decarboxylase
+rty:RT0234	CDS	297543..298307	pssA; CDP-diglycerine-serine O-phosphatidyltransferase
+rty:RT0235	CDS	298319..299371	emrA; multidrug resistance protein A
+rty:RT0236	CDS	complement(299989..300192)	rickettsial conserved hypothetical protein
+rty:RT0237	CDS	complement(300189..300431)	BolA-like protein
+rty:RT0238	CDS	300486..301709	conserved hypothetical protein
+rty:RT0239	CDS	301873..303369	murC; UDP-N-acetylmuramate--L-alanine ligase
+rty:RT0240	CDS	303380..304267	murB; UDP-GlcNAc-enoylpyruvate reductase
+rty:RT0241	CDS	304379..305344	ddlB; Alanine:alanine ligase (ADP-forming)
+rty:RT0242	CDS	305341..306141	ftsQ; cell division protein FtsQ
+rty:RT0243	CDS	306331..307566	ftsA; cell division protein FtsA
+rty:RT0244	CDS	complement(307688..308194)	rickettsial conserved hypothetical protein
+rty:RT0245	CDS	complement(308184..308711)	cycM; cytochrome c
+rty:RT0246	CDS	complement(309632..310501)	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+rty:RT0247	CDS	complement(310675..311820)	rickettsial conserved hypothetical protein
+rty:RT0248	CDS	312244..314295	rne; ribonuclease E
+rty:RTPG14	gene	314921..315914	pseudogene
+rty:RT0249	CDS	316021..316932	rluC; Pseudouridine synthase
+rty:RT0250	CDS	317009..318262	pbpE; penicillin binding protein 4*
+rty:RT0251	CDS	318271..319056	xthA1; E.coli exonuclease III
+rty:RT0252	CDS	319148..320128	pdhA; Pyruvate decarboxylase
+rty:RT0253	CDS	320299..321279	pdhB; Pyruvate decarboxylase
+rty:RT0254	CDS	complement(321762..323579)	typA; GTP-binding protein TypA (tyrosine phosphorylated protein A)
+rty:RT0255	CDS	324421..324927	conserved hypothetical protein
+rty:RT0256	CDS	325036..326487	icd; IDH
+rty:RT0257	CDS	326584..326904	rickettsial conserved hypothetical protein
+rty:RT0258	CDS	327004..328050	conserved hypothetical protein
+rty:RT0259	CDS	328031..328690	ccmB; heme exporter protein B
+rty:RT0260	CDS	328758..329216	rickettsial conserved hypothetical protein
+rty:RT0261	CDS	329233..329766	petA; Complex III (mitochondrial electron transport)
+rty:RT0262	CDS	329773..330969	petB; Complex III (mitochondrial electron transport)
+rty:RT0263	CDS	331424..332179	fbcH; cytochrome c1 heme protein precursor
+rty:RT0264	CDS	332686..333177	HSP22-like heat shock protein
+rty:RT0265	CDS	complement(333479..334501)	prfB; peptide chain release factor 2 (RF-2)
+rty:RT0266	CDS	334763..336565	lepA; GTP-binding protein LepA
+rty:RT0267	tRNA	336968..337042	tRNA-Asn; tRNA-Asn
+rty:RT0268	CDS	complement(337676..338362)	rickettsial conserved hypothetical protein
+rty:RT0269	CDS	complement(338385..339527)	rickettsial conserved hypothetical protein
+rty:RT0270	CDS	341040..341273	rickettsial conserved hypothetical protein
+rty:RT0271	CDS	complement(342450..343550)	rodA; rod shape determining protein
+rty:RT0272	CDS	complement(343648..345702)	ptrB; Protease II
+rty:RT0273	CDS	complement(345773..347314)	HyfB domain containing protein
+rty:RT0274	CDS	complement(347967..349424)	HyfB domain containing protein
+rty:RT0275	CDS	complement(349476..350768)	HyfB domain containing protein
+rty:RT0276	CDS	complement(351086..351421)	conserved hypothetical protein
+rty:RT0277	CDS	complement(351539..352291)	trbG; probable VirB9-like conjugal transfer protein precursor
+rty:RT0278	CDS	complement(352293..352991)	VirB8-like protein of type IV secretion system
+rty:RT0279	CDS	353439..353618	rickettsial conserved hypothetical protein
+rty:RT0280	CDS	353669..354400	VirB8-like protein of the Type IV secretion system
+rty:RT0281	CDS	354387..354863	virB9; VirB9 protein precursor of the type IV secretion system
+rty:RT0282	CDS	354946..356397	virB10; VirB10 protein of the type IV secretion system
+rty:RT0283	CDS	356394..357398	virB11; VirB11 protein of the type IV secretion system
+rty:RT0284	CDS	357721..359496	virD4; VirD4 protein of the type IV secretion system
+rty:RT0285	CDS	359505..360917	gppA; Guanosine pentaphosphate phosphohydrolase
+rty:RT0286	CDS	362555..363442	rickettsial conserved hypothetical protein
+rty:RT0287	CDS	363426..364250	rickettsial conserved hypothetical protein
+rty:RT0288	CDS	364253..365029	cysQ; 3prime(2prime),5prime-bisphosphonucleoside 3prime(2prime)-phosphohydrolase
+rty:RT0289	CDS	complement(365136..367811)	mutS; DNA mismatch repair protein MutS
+rty:RT0290	CDS	complement(368030..368464)	rpiB; 5-phosphoribose isomerase
+rty:RT0291	CDS	368701..369333	nlpD; outer membrane antigenic lipoprotein B precursor
+rty:RT0292	CDS	370026..370910	thyA; thymidylate synthase
+rty:RT0293	CDS	371082..372413	tolB; TolB protein precursor
+rty:RT0294	CDS	complement(372552..373433)	rpoH; RNA polymerase sigma 32 subunit (heat shock sigma factor)
+rty:RTPG15	gene	373523..374000	pseudogene
+rty:RT0295	CDS	complement(374074..375039)	conserved hypothetical protein
+rty:RT0296	CDS	375269..376345	trmU; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+rty:RT0297	CDS	376475..377881	AtrC1-like cationic amino acid transporter protein
+rty:RT0298	CDS	377945..379183	hisS; Histidine translase
+rty:RT0299	CDS	380949..381674	tolQ; TolQ protein
+rty:RT0300	CDS	381674..382105	tolR; TolR protein
+rty:RT0301	CDS	382095..383057	rickettsial conserved hypothetical protein
+rty:RTPG16	gene	complement(383166..383538)	pseudogene
+rty:RT0302	CDS	383652..384359	spoTa; guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase SpoTa
+rty:RT0303	CDS	complement(384310..385626)	proP2; proline/betaine transporter ProP2
+rty:RT0304	CDS	complement(385761..387296)	aprE; alkaline proteinase secretion protein
+rty:RT0305	CDS	complement(387489..389240)	aprD; alkaline proteinase secretion ATP-binding protein
+rty:RT0306	CDS	complement(389248..390264)	asd; ASA dehydrogenase
+rty:RT0307	CDS	complement(390257..390619)	pkcI; protein kinase C inhibitor 1
+rty:RT0308	CDS	complement(390727..391110)	conserved hypothetical protein
+rty:RT0309	CDS	391377..391925	hslV; heat shock protein ATP dependent protease HslV
+rty:RT0310	CDS	391922..393274	hslU; ATP-dependent protease ATP-binding subunit HslU
+rty:RT0311	CDS	393926..395068	lpxB; lipid-A-disaccharide synthase
+rty:RT0312	CDS	395599..396630	conserved hypothetical protein
+rty:RT0313	CDS	396596..396937	cyaY; CyaY protein
+rty:RT0314	CDS	397194..397355	rickettsial conserved hypothetical protein
+rty:RT0315	CDS	397709..398281	BioY family protein
+rty:RT0316	CDS	complement(399542..400888)	gltX1; Glutamic acid translase
+rty:RT0317	CDS	complement(400985..403324)	topA; DNA topoisomerase I
+rty:RT0318	CDS	complement(404448..405050)	tdpX1; thioredoxin peroxidase I
+rty:RT0319	CDS	complement(405132..406067)	conserved hypothetical protein
+rty:RT0320	CDS	complement(406502..408064)	conserved hypothetical protein
+rty:RT0321	CDS	408107..408577	possible Holliday junction resolvase
+rty:RTPG17	gene	408613..408790	pseudogene
+rty:RT0322	CDS	409600..410454	rmlD; dTDP-4-keto-L-rhamnose reductase
+rty:RT0323	CDS	410487..411512	sugar epimerase
+rty:RT0324	CDS	411505..412635	rffE; UDP-GlcNAc-2-epimerase
+rty:RT0325	CDS	412632..413753	rickettsial conserved hypothetical protein
+rty:RT0326	CDS	413782..415005	probable glycosyltransferase
+rty:RT0327	CDS	415002..416213	possible glycosyltransferase
+rty:RT0328	CDS	416200..417237	conserved hypothetical protein
+rty:RT0329	CDS	417234..418190	glycosyltransferase
+rty:RT0330	CDS	418166..419182	WaaG-like sugar transferase
+rty:RT0331	CDS	complement(419194..420192)	probable efflux transporter
+rty:RT0332	CDS	complement(420293..421069)	rickettsial conserved hypothetical protein
+rty:RT0333	CDS	complement(421079..421837)	possible hydrolase
+rty:RT0334	CDS	421870..423039	WaaG-like sugar transferase
+rty:RT0335	CDS	complement(424413..425030)	rpsD; 30S ribosomal protein S4
+rty:RTPG18	gene	425149..425995	pseudogene
+rty:RT0336	CDS	complement(426547..429042)	asmA; outer membrane assembly protein AsmA
+rty:RT0337	CDS	complement(429605..430102)	rimM; 16S rRNA processing protein RimM
+rty:RT0338	CDS	430167..432794	rickettsial conserved hypothetical protein
+rty:RT0339	CDS	432809..433051	xseB; E.coli exonuclease VII
+rty:RT0340	CDS	complement(434028..434699)	mpg; DNA glycosidase I
+rty:RT0341	CDS	complement(434960..435208)	conserved hypothetical protein
+rty:RT0342	CDS	complement(435223..435735)	nuoE; NADH dehydrogenase (ubiquinone) subunit E
+rty:RT0343	CDS	complement(435831..437045)	nuoD; NADH dehydrogenase (ubiquinone) subunit D
+rty:RT0344	CDS	complement(437219..437812)	nuoC; NADH dehydrogenase (ubiquinone) subunit C
+rty:RT0345	CDS	complement(437799..438314)	nuoB; NADH dehydrogenase (ubiquinone) subunit B
+rty:RT0346	CDS	complement(438319..438690)	nuoA; NADH dehydrogenase (ubiquinone) subunit A
+rty:RT0347	CDS	complement(438817..440034)	conserved hypothetical protein
+rty:RT0348	CDS	complement(440035..440502)	conserved hypothetical protein
+rty:RT0349	tRNA	440999..441073	tRNA-Cys; tRNA-Cys
+rty:RT0350	CDS	441132..442025	xerD; integrase/recombinase
+rty:RT0351	CDS	442106..443101	rickettsial conserved hypothetical protein
+rty:RT0352	CDS	443221..444384	rickettsial conserved hypothetical protein
+rty:RT0353	CDS	complement(444573..445358)	fabI; Enoyl-ACP reductase
+rty:RT0354	CDS	445435..446925	lnt; apolipoprotein N-acyltransferase
+rty:RT0355	CDS	448819..449742	conserved hypothetical protein
+rty:RT0356	CDS	449747..450589	ABC transporter permease protein
+rty:RT0357	CDS	450586..451326	ABC transporter ATP binding protein
+rty:RT0358	CDS	complement(452476..452991)	rickettsial conserved hypothetical protein
+rty:RT0359	CDS	453256..454836	lysS; Lysine translase
+rty:RT0360	CDS	454866..455837	conserved hypothetical protein
+rty:RT0361	CDS	455946..458249	tme; Malic enzyme
+rty:RT0362	CDS	458514..459878	Sec7-domain containing protein transport protein
+rty:RT0363	CDS	460352..461572	proP3; proline/betaine transporter ProP3
+rty:RT0364	CDS	complement(461966..462193)	hypothetical protein
+rty:RTPG19	gene	complement(462673..463315)	pseudogene
+rty:RT0365	CDS	complement(463313..464257)	mdh; Malic dehydrogenase
+rty:RT0366	CDS	complement(464933..466456)	tlcB; ADP/ATP carrier protein 2
+rty:RT0367	CDS	complement(466701..468452)	pyrG; CTP synthetase
+rty:RT0368	CDS	complement(468475..469200)	kdsB; CMP-2-keto-3-deoxyoctulosonic acid synthetase
+rty:RT0369	tRNA	469419..469494	tRNA-Lys; tRNA-Lys
+rty:RT0370	tRNA	469510..469586	tRNA-Ile; tRNA-Ile
+rty:RTPG20	gene	470138..471491	pseudogene
+rty:RT0371	CDS	471509..472081	folE; GTP cyclohydrolase I
+rty:RT0372	CDS	472226..473512	proS; Proline translase
+rty:RTPG21	gene	473514..474113	pseudogene
+rty:RT0373	CDS	474114..474401	rickettsial conserved hypothetical protein
+rty:RT0374	CDS	474407..475009	ruvA; Holliday junction DNA helicase RuvA
+rty:RT0375	CDS	475073..476101	ruvB; Holliday junction DNA helicase RuvB
+rty:RT0376	CDS	476094..477857	msbA1; lipid A export ATP-binding/permease protein MsbA
+rty:RT0377	CDS	479212..480132	dacF; D-alanyl-D-alanine carboxypeptidase
+rty:RT0378	CDS	complement(480248..481210)	rlpA; rare lipoprotein A precursor
+rty:RT0379	CDS	complement(481188..481805)	possible periplasmic protein
+rty:RT0380	CDS	complement(481999..482541)	ispA; intracellular septation protein A
+rty:RT0381	CDS	complement(482570..483418)	conserved hypothetical protein
+rty:RT0382	CDS	complement(483428..483808)	conserved hypothetical protein
+rty:RT0383	CDS	complement(484129..485130)	rickettsial conserved hypothetical protein
+rty:RT0384	CDS	485271..485897	pcaH; Protocatechuate oxygenase
+rty:RT0385	CDS	486082..486744	tlpA; thiol-disulfide interchange protein
+rty:RT0386	CDS	486737..487651	probable protease
+rty:RT0387	CDS	487653..488099	dut; Deoxyuridine-triphosphatase
+rty:RT0388	CDS	488245..490200	soluble lytic transglycosylase domain containing protein
+rty:RT0389	CDS	490264..491013	rickettsial conserved hypothetical protein
+rty:RT0390	CDS	491122..492075	ldcA; Carboxypeptidase IIW
+rty:RT0391	CDS	complement(492156..494750)	conserved hypothetical protein
+rty:RT0392	CDS	complement(495171..496010)	conserved hypothetical protein
+rty:RTPG22	gene	complement(496379..497698)	pseudogene
+rty:RTPG23	gene	complement(497853..498935)	pseudogene
+rty:RT0393	CDS	499359..500723	conserved hypothetical protein
+rty:RT0394	CDS	500855..501445	lspA; Bacterial leader peptidase I
+rty:RT0395	CDS	501466..501714	rickettsial conserved hypothetical protein
+rty:RT0396	CDS	501879..503252	murD; D-glutamate ligase
+rty:RT0397	CDS	503293..504426	ftsW; cell division protein FtsW
+rty:RT0398	CDS	504423..505580	murG; MurG transferase
+rty:RT0399	CDS	505835..506491	rickettsial conserved hypothetical protein
+rty:RT0400	CDS	complement(509116..510132)	glycosyltransferase
+rty:RT0401	CDS	510908..511720	dapF; diaminopimelate epimerase
+rty:RT0402	CDS	511695..512960	miaB1; tRNA-methylthiotransferase (MiaB protein)
+rty:RT0403	CDS	513084..514136	pheS; Phenylalanine translase
+rty:RT0404	CDS	514133..516580	pheT; Phenylalanine translase
+rty:RT0405	CDS	516585..517730	dnaN; DNA nucleotidyltransferase (DNA-directed)
+rty:RT0406	CDS	518076..518576	conserved hypothetical protein
+rty:RT0407	CDS	518641..521127	leuS; Leucine translase
+rty:RT0408	CDS	complement(521384..521995)	rnd1; ribonuclease D
+rty:RT0409	CDS	complement(522133..522456)	conserved hypothetical protein
+rty:RT0410	CDS	complement(522453..523139)	cdsA; CDP-diacylglycerol synthase
+rty:RT0411	CDS	complement(523099..523779)	uppS; Bactoprenyl-diphosphate synthase
+rty:RT0412	CDS	complement(523930..525240)	envZ; osmolarity sensor protein EnvZ
+rty:RT0413	CDS	complement(525218..525886)	ompR; response regulator protein OmpR
+rty:RT0414	CDS	526015..526881	ilvE; Branched-chain amino acid aminotransferase
+rty:RT0415	CDS	527113..527997	dapA; DHDPS
+rty:RT0416	CDS	527994..528452	smpB; tmRNA-binding protein SmpB
+rty:RT0417	CDS	528597..529397	conserved hypothetical protein
+rty:RT0418	CDS	complement(529419..529619)	hypothetical protein
+rty:RT0419	CDS	complement(529897..530775)	sucD; Succinate thiokinase
+rty:RT0420	CDS	complement(530913..532073)	sucC; Succinate thiokinase
+rty:RT0421	CDS	complement(532224..532862)	conserved hypothetical protein
+rty:RT0422	CDS	complement(533157..533540)	rbfA; ribosome-binding factor A
+rty:RT0423	CDS	complement(533544..533969)	rickettsial conserved hypothetical protein
+rty:RT0424	CDS	534138..534659	conserved hypothetical protein
+rty:RT0425	CDS	534807..535406	recR; recombination protein RecR
+rty:RT0426	CDS	535490..536665	rickettsial conserved hypothetical protein
+rty:RT0427	CDS	complement(538134..538901)	ppnK; DPN kinase
+rty:RT0428	CDS	538987..540669	conserved hypothetical protein
+rty:RT0429	CDS	540772..541734	gpsA; NAD(P)H-dependent dihydroxyacetone-phosphate reductase
+rty:RT0430	CDS	542365..543294	conserved hypothetical protein
+rty:RT0431	CDS	543352..544224	conserved hypothetical protein
+rty:RT0432	CDS	544357..545289	trxB1; NADP-thioredoxin reductase
+rty:RT0433	CDS	546736..547578	glycosyltransferase
+rty:RT0434	CDS	547599..549575	uvrD; DNA helicase II
+rty:RT0435	CDS	join(550679..551433,551435..552044)	rickettsial conserved hypothetical protein
+rty:RT0436	CDS	complement(552180..553181)	tdcB; L-serine dehydratase
+rty:RT0437	CDS	553281..555635	lon; ATP-dependent protease La
+rty:RT0438	CDS	556234..563229	sca3; cell surface antigen Sca3
+rty:RT0439	CDS	complement(563954..564982)	idi; IPP isomerase
+rty:RT0440	tRNA	complement(566513..566600)	tRNA-Ser; tRNA-Ser
+rty:RT0441	CDS	complement(566819..567565)	glmU; N-acetylglucosamine-1-phosphate uridyltransferase
+rty:RT0442	CDS	complement(567565..568323)	conserved hypothetical protein
+rty:RT0443	CDS	complement(568342..568467)	rpmJ; 50S ribosomal protein L36
+rty:RT0444	CDS	568744..569532	conserved hypothetical protein
+rty:RT0445	CDS	569537..570028	rickettsial conserved hypothetical protein
+rty:RT0446	CDS	571983..572663	conserved hypothetical protein
+rty:RT0447	CDS	572799..574178	pdhD1; Diaphorase
+rty:RT0448	CDS	574305..574826	5,10-methenyltetrahydrofolate synthetase
+rty:RT0449	CDS	complement(574970..575815)	rnd2; ribonuclease D
+rty:RT0450	CDS	complement(575827..576618)	conserved hypothetical protein
+rty:RT0451	CDS	576730..577590	conserved hypothetical protein
+rty:RT0452	CDS	578846..581596	two-component sensor histidine kinase
+rty:RT0453	CDS	582670..583569	hemC; Porphobilinogen deaminase
+rty:RT0454	tRNA	complement(584848..584938)	tRNA-Ser; tRNA-Ser
+rty:RT0455	CDS	complement(584997..585989)	trpS; L-tryptophan-tRNATrp ligase (AMP-forming)
+rty:RT0456	CDS	586060..586788	plsC; probable 1-acyl-sn-glycerol-3-phosphate O-acyltransferase
+rty:RT0457	CDS	586848..587288	rickettsial conserved hypothetical protein
+rty:RT0458	CDS	587681..588397	conserved hypothetical protein
+rty:RT0459	CDS	complement(588509..589513)	rickettsial conserved hypothetical protein
+rty:RT0460	CDS	complement(589506..590186)	rickettsial conserved hypothetical protein
+rty:RT0461	CDS	complement(590170..590985)	rickettsial conserved hypothetical protein
+rty:RT0462	CDS	complement(591272..592603)	ampG1; murein peptide permease protein AmpG
+rty:RT0463	CDS	593138..594691	possible lipopolysaccharide 1,2-glucosyltransferase WaaJ
+rty:RT0464	CDS	594760..596265	tlcC; ADP/ATP carrier protein 3
+rty:RT0465	CDS	596393..598063	rickettsial conserved hypothetical protein
+rty:RT0466	CDS	598143..599126	ispB; octaprenyl-diphosphate synthase
+rty:RT0467	tRNA	599153..599229	tRNA-Arg; tRNA-Arg
+rty:RT0468	tRNA	complement(599290..599364)	tRNA-Gln; tRNA-Gln
+rty:RT0469	CDS	complement(599427..601199)	probable aminopeptidase
+rty:RT0470	CDS	complement(601272..602561)	potE; putrescine-ornithine antiporter
+rty:RT0471	CDS	complement(602764..603096)	iscA2; iron-binding protein IscA/HesB
+rty:RT0472	CDS	complement(603100..603495)	iscU; iron-sulfur cofactor synthesis protein IscU/NifU
+rty:RT0473	CDS	complement(603542..604774)	iscS1; cysteine desulfurase protein IscS/NifS
+rty:RT0474	CDS	complement(604841..605977)	iscS2; cysteine desulfurase protein IscS/NifS
+rty:RTPG24	gene	complement(605974..606376)	pseudogene
+rty:RT0475	CDS	complement(606540..607406)	rickettsial conserved hypothetical protein
+rty:RT0476	CDS	complement(607961..608629)	Glutathione S-alkyltransferase
+rty:RT0477	misc_RNA	complement(608807..609191)	ssrA; tmRNA involved in trans translation (10SaRNA)
+rty:RT0478	CDS	609438..612080	ppdK; Pyruvate,orthophosphate dikinase
+rty:RT0479	CDS	613098..613790	addA; class II aldolase/adducin domain protein
+rty:RT0480	CDS	614027..614167	hypothetical protein
+rty:RT0481	CDS	complement(614683..615405)	conserved hypothetical protein
+rty:RT0482	CDS	615404..616234	conserved hypothetical protein
+rty:RT0483	CDS	complement(616338..617183)	conserved hypothetical protein
+rty:RTPG25	gene	617447..617602	pseudogene
+rty:RT0484	CDS	617672..618064	conserved hypothetical protein
+rty:RT0485	CDS	complement(618161..621220)	sca4; cell surface antigen
+rty:RT0486	CDS	complement(621462..623000)	tlcD; ADP/ATP carrier protein 4
+rty:RT0487	CDS	623210..624088	truB; Pseudouridine synthase
+rty:RT0488	CDS	624114..624389	rpsO; 30S ribosomal protein S15
+rty:RT0489	CDS	624535..626772	pnp; Polynucleotide phosphorylase
+rty:RT0490	CDS	626956..627915	sugar isomerase protein KpsF/GutQ family
+rty:RT0491	CDS	627922..628527	rickettsial conserved hypothetical protein
+rty:RT0492	CDS	628493..628924	rickettsial conserved hypothetical protein
+rty:RT0493	CDS	629037..629759	ABC transporter ATP-binding protein
+rty:RT0494	CDS	629876..631369	exoC; Phosphomannose mutase
+rty:RT0495	CDS	631818..632753	miaA; IPP transferase
+rty:RTPG26	gene	complement(632751..633562)	pseudogene
+rty:RT0496	CDS	complement(633560..636421)	rickettsial conserved hypothetical protein
+rty:RT0497	CDS	complement(636488..637462)	nrdB; Ribonucleotide reductase
+rty:RT0498	CDS	complement(637628..639451)	nrdA; Ribonucleotide reductase
+rty:RT0499	CDS	640260..640412	hypothetical protein
+rty:RT0500	CDS	640916..641920	trxB2; NADP-thioredoxin reductase
+rty:RT0501	CDS	642111..642968	folD; methylenetetrahydrofolate dehydrogenase (NADP+)
+rty:RT0502	CDS	complement(643047..643604)	conserved hypothetical protein
+rty:RT0503	CDS	complement(643815..644165)	probable sigma(54) modulation protein
+rty:RT0504	tRNA	644665..644741	tRNA-Asp; tRNA-Asp
+rty:RT0505	CDS	complement(645384..645518)	hypothetical protein
+rty:RT0506	tRNA	complement(645793..645868)	tRNA-Ala; tRNA-Ala
+rty:RT0507	CDS	complement(646091..646696)	clpP; Caseinolytic protease
+rty:RT0508	CDS	complement(646852..648558)	rpsA; 30S ribosomal protein S1
+rty:RT0509	CDS	complement(648809..649468)	cmk; CMP kinase
+rty:RT0510	tRNA	649921..649997	tRNA-Val; tRNA-Val
+rty:RTPG27	gene	complement(650083..650663)	pseudogene
+rty:RT0511	CDS	complement(651272..651514)	ihfB; integration host factor beta subunit
+rty:RT0512	CDS	complement(651514..652428)	probable protease IV
+rty:RT0513	CDS	complement(652567..653919)	rho; transcription termination factor Rho
+rty:RT0514	CDS	complement(654254..655576)	conserved hypothetical protein
+rty:RT0515	CDS	complement(655603..657363)	recJ; single-stranded-DNA-specific exonuclease RecJ
+rty:RT0516	CDS	complement(657468..658535)	prfA; peptide chain release factor 1 (RF-1)
+rty:RT0517	CDS	complement(658717..659931)	pdhC; Lipoate acetyltransferase
+rty:RT0518	CDS	complement(660053..660610)	infC; translation initiation factor IF-3
+rty:RT0519	CDS	complement(660661..660993)	rickettsial conserved hypothetical protein
+rty:RT0520	CDS	complement(660968..661153)	rickettsial conserved hypothetical protein
+rty:RT0521	CDS	complement(661620..662408)	birA; Acetyl-CoA carboxylase biotin holoenzyme synthetase
+rty:RT0522	CDS	complement(662594..664348)	conserved hypothetical protein
+rty:RT0523	CDS	complement(664397..665026)	sodB; superoxide dismutase
+rty:RT0524	CDS	complement(665120..666421)	folC; Folate polyglutamate synthetase
+rty:RT0525	CDS	complement(668721..668858)	hypothetical protein
+rty:RT0526	CDS	669638..671014	nuoN; NADH dehydrogenase (ubiquinone) subunit N
+rty:RT0527	CDS	complement(671001..672536)	rickettsial conserved hypothetical protein
+rty:RT0528	CDS	complement(672613..673605)	hemB; Aminolevulinate dehydratase
+rty:RT0529	CDS	complement(674309..676255)	priA; primosomal protein N prime
+rty:RT0530	CDS	676318..676890	ubiX; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+rty:RT0531	CDS	678118..679611	dnaB; replicative DNA helicase
+rty:RTPG28	gene	680777..680989	pseudogene
+rty:RT0532	CDS	680982..681710	rluB; Pseudouridine synthase
+rty:RT0533	CDS	682218..682928	probable methylase
+rty:RT0534	CDS	683023..684360	radA; DNA repair protein RadA
+rty:RT0535	CDS	684357..684692	rickettsial conserved hypothetical protein
+rty:RT0536	CDS	684741..685451	possible RecO-like recombinational DNA repair protein
+rty:RT0537	CDS	686003..686680	conserved hypothetical protein
+rty:RT0538	CDS	complement(686867..687124)	hypothetical protein
+rty:RTPG29	gene	complement(687125..688408)	pseudogene
+rty:RT0539	CDS	complement(688406..690901)	infB; translation initiation factor IF-2
+rty:RT0540	CDS	complement(691129..692640)	nusA; transcription elongation protein NusA (N utilization substance protein A)
+rty:RT0541	CDS	complement(692815..693300)	conserved hypothetical protein
+rty:RTPG30	gene	complement(693301..694041)	pseudogene
+rty:RT0542	CDS	complement(694039..694113)	hypothetical protein
+rty:RT0543	CDS	complement(694675..695430)	tlyA; hemolysin
+rty:RT0544	CDS	complement(695583..696818)	tyrS; L-tyrosine-tRNATyr ligase (AMP-forming)
+rty:RT0545	tRNA	698354..698430	tRNA-Arg; tRNA-Arg
+rty:RT0546	CDS	699459..705140	conserved hypothetical protein
+rty:RT0547	CDS	complement(705855..708017)	fadB; Beta-hydroxyacyl dehydrogenase
+rty:RT0548	CDS	complement(709503..710657)	monooxygenase
+rty:RT0549	CDS	complement(710632..710895)	possible Na+/H+ antiporter
+rty:RT0550	CDS	711324..712751	ntrX; nitrogen assimilation regulatory protein NtrX
+rty:RT0551	CDS	712732..714501	rickettsial conserved hypothetical protein
+rty:RT0552	CDS	complement(714652..715617)	rickettsial conserved hypothetical protein
+rty:RT0553	CDS	complement(715866..717650)	ftsI1; cell division protein FtsI/penicillin-binding protein
+rty:RT0554	CDS	complement(717640..718161)	rickettsial conserved hypothetical protein
+rty:RT0555	CDS	complement(718673..720358)	ftsI2; cell division protein FtsI/penicillin-binding protein
+rty:RT0556	CDS	complement(720483..720869)	rickettsial conserved hypothetical protein
+rty:RT0557	CDS	complement(721061..721981)	mraW; S-adenosyl-methyltransferase MraW
+rty:RT0558	CDS	complement(721981..722430)	mraZ; protein MraZ
+rty:RT0559	CDS	723366..724751	sodium coupled symporter
+rty:RT0560	CDS	complement(724994..726874)	uvrC; excinuclease ABC subunit C
+rty:RT0561	CDS	complement(726980..727507)	conserved hypothetical protein
+rty:RT0562	tRNA	complement(728672..728746)	tRNA-Ala; tRNA-Ala
+rty:RT0563	CDS	complement(728779..728994)	rickettsial conserved hypothetical protein
+rty:RT0564	CDS	complement(729876..732593)	secA; preprotein translocase SecA subunit
+rty:RT0565	CDS	732792..733652	prsA; protein export protein PrsA precursor
+rty:RT0566	CDS	complement(733806..734192)	acpS; Holo-ACP synthase
+rty:RT0567	CDS	complement(734193..734576)	rpoZ; RNA nucleotidyltransferase (DNA-directed)
+rty:RT0568	CDS	complement(734733..735992)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+rty:RT0569	CDS	complement(736101..738524)	gyrB; DNA gyrase
+rty:RT0570	CDS	738635..739495	conserved hypothetical protein
+rty:RT0571	tRNA	739677..739763	tRNA-Leu; tRNA-Leu
+rty:RT0572	CDS	740010..741380	mgtE; magnesium transporter
+rty:RT0573	tRNA	742580..742654	tRNA-Gly; tRNA-Gly
+rty:RT0574	CDS	743745..744173	conserved hypothetical protein
+rty:RT0575	CDS	744157..745713	secD; protein-export membrane protein SecD
+rty:RT0576	CDS	745873..746469	Sco2-like protein
+rty:RT0577	CDS	746571..746957	ccmE; cytochrome c-type biogenesis protein CcmE
+rty:RT0578	CDS	747085..747621	ppa; Diphosphate phosphohydrolase
+rty:RT0579	CDS	747676..749199	MviN-like protein
+rty:RT0580	CDS	749180..749926	rickettsial conserved hypothetical protein
+rty:RT0581	CDS	750001..750615	rickettsial conserved hypothetical protein
+rty:RT0582	CDS	complement(750897..753008)	recG; ATP-dependent DNA helicase RecG
+rty:RTPG31	gene	753627..754173	pseudogene
+rty:RT0583	CDS	complement(754171..755256)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase
+rty:RT0584	CDS	complement(755424..756770)	murF; synthetase
+rty:RT0585	CDS	complement(756841..758337)	murE; MurE synthetase [ambiguous]
+rty:RT0586	CDS	complement(758439..761801)	mfd; transcription-repair coupling factor (superfamily helicase II)
+rty:RT0587	CDS	complement(761803..762075)	conserved hypothetical protein
+rty:RT0588	CDS	762298..762567	rickettsial conserved hypothetical protein
+rty:RT0589	CDS	762664..764055	dnaA; chromosomal replication initiator protein DnaA
+rty:RT0590	CDS	766134..767630	patatin-like protein
+rty:RT0591	CDS	complement(767843..769072)	bcr1; bicyclomycin resistance protein
+rty:RT0592	CDS	complement(769896..770993)	probable GTP-binding protein
+rty:RT0593	CDS	complement(771512..772069)	pth; Peptidyl-tRNA hydrolase
+rty:RT0594	CDS	complement(772293..772904)	rplY; 50S ribosomal protein L25
+rty:RT0595	CDS	complement(773139..773834)	conserved hypothetical protein
+rty:RT0596	CDS	773991..774197	rpmI; 50S ribosomal protein L35
+rty:RT0597	CDS	774213..774566	rplT; 50S ribosomal protein L20
+rty:RT0598	CDS	774692..774826	rpmH; 50S ribosomal protein L34
+rty:RT0599	CDS	774846..775202	rnpA; ribonuclease P
+rty:RT0600	CDS	complement(775364..777202)	rickettsial conserved hypothetical protein
+rty:RTPG32	gene	complement(777824..778728)	pseudogene
+rty:RT0601	CDS	complement(778825..778974)	hypothetical protein
+rty:RT0602	rRNA	complement(779669..781167)	rrs; 16S ribosomal RNA
+rty:RT0603	CDS	complement(783022..784827)	ntrY; nitrogen regulation protein NtrY
+rty:RT0604	CDS	complement(785049..785249)	rpsU; 30S ribosomal protein S21
+rty:RT0605	CDS	785330..785941	conserved hypothetical protein
+rty:RT0606	CDS	786574..789834	ileS; Isoleucine translase
+rty:RT0607	CDS	790366..790560	hypothetical protein
+rty:RT0608	CDS	complement(790779..792776)	pccA; PCCase
+rty:RT0609	CDS	complement(792874..794418)	pccB; PCCase
+rty:RT0610	CDS	794494..794634	rickettsial conserved hypothetical protein
+rty:RT0611	CDS	795116..798574	aas; bifunctional protein Aas (2-acylglycerophosphoethanolamine acyltransferase and Acyl-acyl carrier protein synthetase)
+rty:RT0612	CDS	complement(798925..799686)	znuB; zinc/manganese ABC transporter permease protein
+rty:RT0613	CDS	799767..800507	ubiG; 3-demethylubiquinone-9 3-O-methyltransferase
+rty:RT0614	CDS	800628..802037	gltX2; Glutamic acid translase
+rty:RT0615	CDS	804351..805103	spoTb; guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase SpoTb
+rty:RT0616	CDS	complement(805109..805450)	spoTc; guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase SpoTc
+rty:RT0617	CDS	complement(806356..808008)	groEL; 60 kDa chaperonin
+rty:RT0618	CDS	complement(808029..808316)	groES; 10 kDa chaperonin
+rty:RT0619	CDS	complement(810065..810571)	rph; Phosphate-dependent exonuclease
+rty:RT0620	CDS	810786..811322	grpE; HSP-70 cofactor
+rty:RT0621	CDS	811469..812524	possible permease
+rty:RT0622	CDS	812539..813204	conserved hypothetical protein
+rty:RT0623	CDS	complement(813926..814159)	rickettsial conserved hypothetical protein
+rty:RT0624	tRNA	complement(814509..814584)	tRNA-Val; tRNA-Val
+rty:RT0625	CDS	complement(814653..814925)	rpsT; 30S ribosomal protein S20
+rty:RT0626	CDS	complement(814945..815358)	rplQ; 50S ribosomal protein L17
+rty:RT0627	CDS	complement(815371..816393)	rpoA; RNA nucleotidyltransferase (DNA-directed)
+rty:RT0628	CDS	complement(816412..816795)	rpsK; 30S ribosomal protein S11
+rty:RT0629	CDS	complement(816821..817198)	rpsM; 30S ribosomal protein S13
+rty:RT0630	CDS	complement(817256..817897)	adk; Adenylic kinase
+rty:RT0631	CDS	complement(817913..819214)	secY; preprotein translocase SecY subunit
+rty:RT0632	CDS	complement(819219..819671)	rplO; 50S ribosomal protein L15
+rty:RT0633	CDS	complement(819685..819876)	rpmD; 50S ribosomal protein L30
+rty:RT0634	CDS	complement(819914..820441)	rpsE; 30S ribosomal protein S5
+rty:RT0635	CDS	complement(820458..820814)	rplR; 50S ribosomal protein L18
+rty:RT0636	CDS	complement(820830..821363)	rplF; 50S ribosomal protein L6
+rty:RT0637	CDS	complement(821372..821770)	rpsH; 30S ribosomal protein S8
+rty:RT0638	CDS	complement(821789..822094)	rpsN; 30S ribosomal protein S14
+rty:RT0639	CDS	complement(822112..822651)	rplE; 50S ribosomal protein L5
+rty:RT0640	CDS	complement(822638..822979)	rplX; 50S ribosomal protein L24
+rty:RT0641	CDS	complement(822976..823344)	rplN; 50S ribosomal protein L14
+rty:RT0642	CDS	complement(823405..823653)	rpsQ; 30S ribosomal protein S17
+rty:RT0643	CDS	complement(823640..823855)	rpmC; 50S ribosomal protein L29
+rty:RT0644	CDS	complement(823848..824258)	rplP; 50S ribosomal protein L16
+rty:RT0645	CDS	complement(824273..824926)	rpsC; 30S ribosomal protein S3
+rty:RT0646	CDS	complement(824928..825287)	rplV; 50S ribosomal protein L22
+rty:RT0647	CDS	complement(825296..825574)	rpsS; 30S ribosomal protein S19
+rty:RT0648	CDS	complement(825599..826420)	rplB; 50S ribosomal protein L2
+rty:RT0649	CDS	complement(826421..826717)	rplW; 50S ribosomal protein L23
+rty:RT0650	CDS	complement(826714..827337)	rplD; 50S ribosomal protein L4
+rty:RT0651	CDS	complement(827577..828224)	rplC; 50S ribosomal protein L3
+rty:RT0652	CDS	complement(828225..828542)	rpsJ; 30S ribosomal protein S10
+rty:RT0653	CDS	complement(828636..829820)	tuf; elongation factor Tu
+rty:RT0654	tRNA	complement(829903..829976)	tRNA-Gly; tRNA-Gly
+rty:RT0655	tRNA	complement(830072..830157)	tRNA-Tyr; tRNA-Tyr
+rty:RT0656	CDS	830323..831069	tRNA/rRNA methyltransferase
+rty:RTPG33	gene	831141..831549	pseudogene
+rty:RT0657	CDS	831550..832935	fumC; Fumarase
+rty:RT0658	CDS	833288..834646	ftsZ; cell division protein FtsZ
+rty:RT0659	CDS	complement(835303..835875)	conserved hypothetical protein
+rty:RT0660	CDS	complement(835915..837141)	ampG2; murein peptide permease protein AmpG
+rty:RT0661	CDS	complement(837222..838445)	rhlE; probable ATP-dependent RNA helicase RhlE
+rty:RT0662	CDS	complement(838856..839068)	cspA; cold shock protein CspA
+rty:RT0663	tRNA	839451..839536	tRNA-Leu; tRNA-Leu
+rty:RT0664	CDS	841537..841782	hypothetical protein
+rty:RT0665	CDS	842115..842354	rickettsial conserved hypothetical protein
+rty:RT0666	CDS	complement(842516..843322)	ksgA; dimethyladenosine transferase
+rty:RT0667	CDS	complement(843432..844319)	rickettsial conserved hypothetical protein
+rty:RT0668	CDS	complement(844520..846655)	ostA; probable organic solvent tolerance protein OstA
+rty:RTPG34	gene	846656..846872	pseudogene
+rty:RT0669	CDS	846873..848234	xseA; E.coli exonuclease VII
+rty:RT0670	CDS	join(848273..848487,848490..848619)	rickettsial conserved hypothetical protein
+rty:RT0671	CDS	849816..850628	xthA2; E.coli exonuclease III
+rty:RT0672	CDS	850822..851025	rickettsial conserved hypothetical protein
+rty:RT0673	CDS	851028..852371	engA; probable GTP-binding protein EngA
+rty:RT0674	CDS	complement(853050..854501)	ubiquinone biosynthesis protein
+rty:RT0675	CDS	complement(854498..855244)	ubiE; ubiquinone/menaquinone biosynthesis methlytransferase
+rty:RT0676	CDS	complement(855586..856854)	conserved hypothetical protein
+rty:RT0677	CDS	complement(857371..858252)	conserved hypothetical protein
+rty:RT0678	CDS	complement(858375..859898)	metS; MetRS
+rty:RT0679	CDS	complement(859895..860506)	tmk; TMPK
+rty:RT0680	CDS	861069..862388	proP4; proline/betaine transporter ProP4
+rty:RT0681	CDS	complement(862441..863289)	ubiA; 4-hydroxybenzoate octaprenyltransferase
+rty:RT0682	CDS	864120..866564	valS; Valine translase
+rty:RT0683	CDS	866527..867456	conserved hypothetical protein
+rty:RT0684	CDS	867523..868794	rmuC; DNA recombination protein RmuC
+rty:RT0685	CDS	868875..868988	hypothetical protein
+rty:RT0686	CDS	complement(869848..871806)	rickettsial conserved hypothetical protein
+rty:RTPG35	gene	872509..872815	pseudogene
+rty:RT0687	CDS	complement(873522..874799)	clpX; ATP-dependent Clp protease ATP and substrate binding subunit ClpX
+rty:RT0688	CDS	complement(874913..875464)	rimJ; ribosomal-protein-alanine N-acetyltransferase
+rty:RT0689	CDS	complement(875461..876144)	exsB; trans-regulatory protein ExsB
+rty:RT0690	tRNA	876546..876622	tRNA-His; tRNA-His
+rty:RT0691	CDS	876768..878498	msbA2; lipid A export ATP-binding/permease protein MsbA
+rty:RT0692	CDS	878728..878976	rickettsial conserved hypothetical protein
+rty:RT0693	CDS	879507..880682	bcr2; bicyclomycin resistance protein
+rty:RT0694	CDS	880785..882032	conserved hypothetical protein
+rty:RT0695	CDS	882025..882690	ABC transporter ATP-binding protein
+rty:RT0696	CDS	882896..883846	rickettsial conserved hypothetical protein
+rty:RT0697	CDS	884838..886112	conserved hypothetical protein
+rty:RT0698	CDS	886105..888114	ccmF; cytochrome c-type biogenesis protein CcmF
+rty:RT0699	CDS	complement(888831..893768)	ompB; rickettsial outer membrane protein B
+rty:RT0700	CDS	complement(894348..894923)	spoTd; guanosine-3,5-bis(diphosphate) 3-pyrophosphohydrolase SpoTd
+rty:RT0701	CDS	complement(895274..896218)	possible beta-glucosidase
+rty:RT0702	CDS	complement(896263..896703)	rickettsial conserved hypothetical protein
+rty:RT0703	CDS	complement(896923..897210)	ihfA; integration host factor alpha subunit
+rty:RTPG36	gene	897902..898363	pseudogene
+rty:RT0704	CDS	complement(898361..899233)	lpxL; lipid A biosynthesis lauroyl acyltransferase
+rty:RT0705	CDS	complement(899208..900173)	lpxK; Lipid-A 4prime-kinase
+rty:RTPG37	gene	complement(900174..900814)	pseudogene
+rty:RTPG38	gene	complement(900807..901141)	pseudogene
+rty:RT0706	CDS	complement(901463..903544)	lig; DNA joinase
+rty:RT0707	CDS	complement(903688..904773)	tgt; Guanine insertion enzyme
+rty:RT0708	CDS	906635..906880	hypothetical protein
+rty:RT0709	CDS	complement(907272..907715)	rickettsial conserved hypothetical protein
+rty:RT0710	CDS	complement(907724..908002)	rickettsial conserved hypothetical protein
+rty:RT0711	CDS	complement(908404..908853)	conserved hypothetical protein / possible ABC transporter substrate binding protein
+rty:RT0712	CDS	complement(908875..909177)	conserved hypothetical protein
+rty:RT0713	CDS	complement(909165..909623)	rnhA; Endoribonuclease H
+rty:RT0714	CDS	complement(909634..910113)	rickettsial conserved hypothetical protein
+rty:RT0715	misc_RNA	complement(910292..910802)	rnpB; RNA component of RNAse P
+rty:RT0716	CDS	910917..911741	rickettsial conserved hypothetical protein
+rty:RT0717	CDS	911735..912310	coaE; Dephosphocoenzyme A kinase
+rty:RT0718	CDS	912298..912987	dnaQ; DNA nucleotidyltransferase (DNA-directed)
+rty:RTPG39	gene	913123..913788	pseudogene
+rty:RT0719	CDS	913839..916310	ATP-dependent helicase/nuclease
+rty:RT0720	CDS	917493..918437	fabD; [acyl-carrier protein] S-malonyltransferase
+rty:RT0721	tRNA	919389..919480	tRNA-Ser; tRNA-Ser
+rty:RTPG40	gene	complement(919481..921428)	pseudogene
+rty:RT0722	CDS	complement(921426..922604)	fadA; 3-ketoacyl-CoA thiolase
+rty:RT0723	CDS	complement(922601..923620)	PhbC domain containing protein
+rty:RT0724	CDS	923926..925428	tlcE; ADP/ATP carrier protein 5
+rty:RT0725	CDS	complement(926377..927294)	tlyC; hemolysin C
+rty:RT0726	CDS	complement(927311..927814)	conserved hypothetical protein
+rty:RT0727	CDS	complement(927915..928808)	lipA; lipoic acid synthetase
+rty:RT0728	CDS	complement(928801..930063)	glyA; Serine aldolase
+rty:RT0729	CDS	complement(930143..930790)	probable esterase
+rty:RT0730	CDS	complement(930926..931261)	grxC2; glutaredoxin 3
+rty:RT0731	CDS	931314..931952	nth; AP endonuclease class I
+rty:RTPG41	gene	complement(932587..932807)	pseudogene
+rty:RT0732	CDS	complement(932883..933725)	conserved hypothetical protein
+rty:RT0733	CDS	933749..934864	rickettsial conserved hypothetical protein
+rty:RT0734	CDS	complement(934953..935114)	tatA; TatA/E-like Sec-independent protein translocase protein
+rty:RT0735	CDS	935196..935810	pgpA; phosphatidylglycerophosphatase
+rty:RT0736	CDS	935977..936294	rplU; 50S ribosomal protein L21
+rty:RT0737	CDS	936319..936579	rpmA; 50S ribosomal protein L27
+rty:RT0738	CDS	936834..938180	lysC; Aspartokinase
+rty:RT0739	CDS	938581..939039	rickettsial conserved hypothetical protein
+rty:RT0740	CDS	complement(940044..941285)	proP5; proline/betaine transporter ProP5
+rty:RT0741	CDS	complement(941610..941927)	rickettsial conserved hypothetical protein
+rty:RT0742	CDS	complement(941930..942133)	rickettsial conserved hypothetical protein
+rty:RT0743	CDS	complement(942147..942509)	rickettsial conserved hypothetical protein
+rty:RT0744	CDS	complement(942513..947258)	conserved hypothetical protein
+rty:RT0745	CDS	947340..948677	thdF; thiophene and furan oxidation protein; tRNA modification GTPase
+rty:RT0746	CDS	948962..950224	rickettsial conserved hypothetical protein
+rty:RT0747	CDS	951749..952771	recA; recombinase A
+rty:RT0748	CDS	952773..953498	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+rty:RT0749	CDS	953660..953905	acpP; acyl carrier protein
+rty:RT0750	CDS	953939..955219	fabF; Beta-ketoacyl-ACP synthase
+rty:RT0751	CDS	955938..956084	hypothetical protein
+rty:RT0752	CDS	complement(956123..956716)	gmk; Deoxyguanylate kinase
+rty:RT0753	CDS	complement(956836..957072)	rickettsial conserved hypothetical protein
+rty:RT0754	CDS	complement(957744..958583)	mreC; rod shape-determining protein
+rty:RT0755	CDS	complement(958586..959626)	mreB; rod shape-determining protein
+rty:RT0756	CDS	complement(959765..960853)	conserved hypothetical protein
+rty:RT0757	tRNA	complement(960895..960971)	tRNA-Met; tRNA-Met
+rty:RT0758	CDS	complement(961362..961829)	pal; peptidoglycan-associated lipoprotein precursor
+rty:RT0759	CDS	complement(962153..963106)	fabH; Beta-ketoacyl-ACP synthase
+rty:RT0760	CDS	complement(963120..963317)	rpmF; 50S ribosomal protein L32
+rty:RT0761	CDS	963411..963887	conserved hypothetical protein
+rty:RT0762	CDS	964064..964975	ftsY; cell division protein FtsY
+rty:RT0763	CDS	965142..967760	polA; DNA nucleotidyltransferase (DNA-directed)
+rty:RT0764	CDS	968047..969195	metK; Adomet synthetase
+rty:RT0765	CDS	complement(970720..974262)	dnaE; DNA nucleotidyltransferase (DNA-directed)
+rty:RT0766	CDS	complement(974397..975701)	udg; UDP-glucose 6-dehydrogenase
+rty:RT0767	CDS	975946..978459	rickettsial conserved hypothetical protein
+rty:RT0768	CDS	978469..979731	ampG3; murein peptide permease protein AmpG
+rty:RT0769	CDS	979906..980661	tatC; Sec-independent protein translocase protein TatC
+rty:RT0770	CDS	980639..981916	serS; SerRS
+rty:RT0771	CDS	982177..984609	virB4b; VirB4 protein precursor
+rty:RT0772	CDS	complement(984575..984706)	hypothetical protein
+rty:RT0773	CDS	984721..988230	rickettsial conserved hypothetical protein
+rty:RT0774	CDS	988235..989143	terC; tellurium resistance protein
+rty:RT0775	CDS	989184..989897	rickettsial conserved hypothetical protein
+rty:RT0776	CDS	989995..991650	conserved hypothetical protein
+rty:RT0777	CDS	991716..992333	nuoJ; NADH dehydrogenase (ubiquinone) subunit J
+rty:RT0778	CDS	992308..992640	nuoK; NADH dehydrogenase (ubiquinone) subunit K
+rty:RT0779	CDS	992640..994601	nuoL; NADH dehydrogenase (ubiquinone) subunit L
+rty:RT0780	CDS	994753..996237	nuoM; NADH dehydrogenase (ubiquinone) subunit M
+rty:RT0781	CDS	996597..997190	ccmA; heme exporter protein A
+rty:RT0782	CDS	complement(998847..999326)	nuoI; NADH dehydrogenase (ubiquinone) subunit I
+rty:RT0783	CDS	complement(999333..1000352)	nuoH; NADH dehydrogenase (ubiquinone) subunit H
+rty:RT0784	CDS	complement(1000521..1002548)	nuoG; NADH dehydrogenase (ubiquinone) subunit G
+rty:RT0785	CDS	complement(1002551..1002907)	conserved hypothetical protein
+rty:RT0786	CDS	complement(1003080..1005716)	acnA; Aconitase
+rty:RT0787	CDS	complement(1005875..1006240)	atpC; ATP synthase
+rty:RT0788	CDS	complement(1006321..1007745)	atpD; ATP synthase
+rty:RT0789	CDS	complement(1007848..1008714)	atpG; ATP synthase
+rty:RT0790	CDS	complement(1008792..1010330)	atpA; ATP synthase
+rty:RT0791	CDS	complement(1010467..1011018)	atpH; ATP synthase
+rty:RT0792	CDS	complement(1011142..1012521)	pdhD2; Diaphorase
+rty:RT0793	CDS	complement(1012772..1013206)	conserved hypothetical protein
+rty:RT0794	CDS	complement(1014828..1017185)	mrcA; penicillin-binding protein 1A
+rty:RT0795	CDS	complement(1017189..1018526)	miaB2; tRNA-methylthiotransferase (MiaB protein)
+rty:RT0796	CDS	complement(1018722..1018862)	hypothetical protein
+rty:RT0797	CDS	complement(1019270..1019776)	conserved hypothetical protein
+rty:RT0798	CDS	complement(1019745..1021472)	kefB; glutathione-regulated potassium-efflux system
+rty:RT0799	CDS	complement(1021469..1021795)	conserved hypothetical protein
+rty:RT0800	CDS	1021931..1022182	conserved hypothetical protein
+rty:RT0801	tRNA	1023768..1023844	tRNA-Pro; tRNA-Pro
+rty:RT0802	CDS	1023862..1024077	infA; translation initiation factor IF-1
+rty:RT0803	CDS	1024089..1024772	Maf-like protein
+rty:RT0804	CDS	complement(1024813..1025244)	dksA; DnaK suppressor protein
+rty:RT0805	CDS	complement(1025338..1026255)	xerC; DNA integrase/recombinase XerC
+rty:RT0806	CDS	1026417..1026893	rickettsial conserved hypothetical protein
+rty:RT0807	CDS	complement(1026941..1027555)	rickettsial conserved hypothetical protein
+rty:RT0808	CDS	complement(1027687..1029441)	phbC; poly-beta-hydroxybutyrate polymerase
+rty:RT0809	CDS	complement(1029490..1030968)	ubiD; 3-polyprenyl-4-hydroxybenzoate decarboxylase
+rty:RT0810	CDS	complement(1031084..1032664)	rickettsial conserved hypothetical protein
+rty:RT0811	CDS	complement(1035730..1037952)	ftsK; DNA translocase cell division protein FtsK
+rty:RT0812	CDS	1038759..1039538	map; Methionine aminopeptidase
+rty:RT0813	CDS	1039989..1040969	undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase
+rty:RT0814	CDS	1040966..1041292	rickettsial conserved hypothetical protein
+rty:RT0815	CDS	complement(1041580..1042320)	possible outer surface protein
+rty:RT0816	CDS	complement(1042545..1043222)	possible outer surface protein
+rty:RT0817	CDS	complement(1043374..1043706)	fdxA; ferredoxin
+rty:RT0818	CDS	complement(1043711..1044403)	ccmC; heme exporter protein C
+rty:RT0819	CDS	complement(1044520..1044966)	Cytosine aminohydrolase
+rty:RT0820	CDS	complement(1044983..1045891)	p34 protein/probable cation transporter
+rty:RT0821	CDS	1046013..1046492	rickettsial 17 kDa surface antigen precursor
+rty:RT0822	CDS	1046578..1047279	metal transport ATP-binding protein
+rty:RT0823	CDS	complement(1048328..1051189)	uvrA; excinuclease ABC subunit A
+rty:RT0824	CDS	1051295..1051753	single-strand binding protein
+rty:RT0825	CDS	1051877..1052695	conserved hypothetical protein
+rty:RT0826	tRNA	complement(1054870..1054946)	tRNA-Arg; tRNA-Arg
+rty:RT0827	CDS	1055045..1055362	conserved hypothetical protein
+rty:RT0828	CDS	1055514..1057379	htpG; heat shock protein HtpG
+rty:RT0829	CDS	1057541..1058785	hemA; ALAS
+rty:RT0830	CDS	1059589..1060929	tig; FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor)
+rty:RT0831	CDS	complement(1061089..1062081)	GTP-binding protein
+rty:RT0832	CDS	complement(1062502..1063812)	gltA; (R)-citric synthase
+rty:RT0833	CDS	complement(1064453..1065229)	DNA polymerase, bacteriophage-type
+rty:RT0834	CDS	1065246..1066187	rluD; Pseudouridine synthase
+rty:RT0835	CDS	1066262..1066381	hypothetical protein
+rty:RT0836	CDS	1066692..1068248	hemK; bifunctional methyltransferase
+rty:RT0837	CDS	complement(1068214..1069155)	conserved hypothetical protein
+rty:RT0838	CDS	complement(1069304..1071298)	glyS; Glycyl translase
+rty:RT0839	CDS	complement(1071291..1072160)	glyQ; Glycyl translase
+rty:RT0840	CDS	complement(1072353..1072982)	conserved hypothetical protein
+rty:RT0841	CDS	complement(1072991..1074238)	proP6; proline/betaine transporter ProP6
+rty:RT0842	CDS	complement(1074435..1075400)	rickettsial conserved hypothetical protein
+rty:RT0843	CDS	complement(1075410..1076045)	rickettsial conserved hypothetical protein
+rty:RT0844	CDS	complement(1076211..1077773)	rickettsial conserved hypothetical protein
+rty:RT0845	CDS	1077967..1080600	alaS; Alanine translase
+rty:RT0846	CDS	complement(1081936..1082673)	truA; Pseudouridine synthase
+rty:RT0847	CDS	complement(1082771..1084678)	rpoD; RNA polymerase sigma factor RpoD
+rty:RT0848	CDS	complement(1084703..1086484)	dnaG; DNA primase
+rty:RT0849	CDS	complement(1086484..1087098)	conserved hypothetical protein
+rty:RT0850	CDS	1087371..1087859	greA; transcription elongation factor GreA
+rty:RT0851	CDS	complement(1087932..1088330)	pntAB; Pyridine nucleotide transhydrogenase
+rty:RT0852	CDS	complement(1088305..1089456)	pntA; Nicotinamide nucleotide transhydrogenase
+rty:RT0853	CDS	1089523..1090164	conserved hypothetical protein
+rty:RT0854	misc_RNA	1090183..1090265	srp; signal recognition particle RNA (4.5S RNA)
+rty:RT0856	CDS	join(1090425..1091614,1091617..1091950)	dnaX; DNA nucleotidyltransferase (DNA-directed)
+rty:RT0855	CDS	1090425..1091627	dnaX; DNA nucleotidyltransferase (DNA-directed)
+rty:RT0857	CDS	1091955..1092278	conserved hypothetical protein
+rty:RT0858	CDS	complement(1092388..1093083)	conserved hypothetical protein
+rty:RT0859	CDS	complement(1093990..1094712)	glnQ; glutamine transport ATP-binding protein GlnQ
+rty:RT0860	CDS	complement(1094716..1095465)	phnP; phosphonate metabolism protein PhnP
+rty:RT0861	CDS	1095477..1096139	conserved hypothetical protein
+rty:RT0862	CDS	1096227..1097309	conserved hypothetical protein (possible transmembrane protein)
+rty:RT0863	CDS	complement(1097315..1097779)	holC; probable DNA-directed DNA polymerase III chi subunit HolC
+rty:RT0864	tRNA	complement(1097820..1097904)	tRNA-Leu; tRNA-Leu
+rty:RT0865	CDS	complement(1098050..1099201)	dapE; succinyl-diaminopimelate desuccinylase
+rty:RT0866	CDS	complement(1100369..1100893)	conserved hypothetical protein
+rty:RT0867	CDS	complement(1100890..1101519)	lipB; lipoate-protein ligase B
+rty:RT0868	tRNA	complement(1101995..1102069)	tRNA-Thr; tRNA-Thr
+rty:RT0869	CDS	complement(1102200..1102535)	rpsP; 30S ribosomal protein S16
+rty:RT0870	CDS	complement(1102542..1102712)	rpmG; 50S ribosomal protein L33
+rty:RT0871	CDS	complement(1102840..1104642)	mutL; DNA mismatch repair protein MutL
+rty:RT0872	CDS	complement(1104639..1104791)	rickettsial conserved hypothetical protein
+rty:RTPG42	gene	1105415..1105657	pseudogene
+rty:RT0873	CDS	1105859..1107130	proP7; proline/betaine transporter ProP7
+rty:RT0874	CDS	1107114..1107953	hemF; Coprogen oxidase
+rty:RT0875	CDS	complement(1108630..1109067)	conserved hypothetical protein (predicted membrane protein)
+rty:RT0876	CDS	complement(1109079..1110119)	hemH; Heme synthase
+rty:RT0877	CDS	complement(1110076..1111113)	hemE; Uroporphyrinogen III decarboxylase
