@@ -1,0 +1,2159 @@
+snu:SPNA45_00001	CDS	249..1547	dnaA; chromosomal replication initiator protein
+snu:SPNA45_00002	CDS	1715..2851	dnaN; DNA polymerase III, beta chain
+snu:SPNA45_00003	CDS	2916..3110	conserved hypothetical protein
+snu:SPNA45_00004	CDS	3194..4309	putative putative GTP-binding protein
+snu:SPNA45_00005	CDS	4380..4949	pth; peptidyl-tRNA hydrolase
+snu:SPNA45_00006	CDS	4950..8465	trcF; putative putative transcription-repair coupling factor
+snu:SPNA45_00007	CDS	8533..8799	S4 domain containing protein
+snu:SPNA45_00008	CDS	8792..9160	putative septum formation initiator protein
+snu:SPNA45_00009	CDS	9165..9287	conserved hypothetical protein
+snu:SPNA45_00010	CDS	9280..10548	putative exported protein
+snu:SPNA45_00011	CDS	10545..11822	putative ATP-binding PP-loop family protein
+snu:SPNA45_00012	CDS	11826..12368	hpt; hypoxanthine-guanine phosphoribosyltransferase
+snu:SPNA45_00013	CDS	12384..14342	ftsH; putative putative cell division protease FtsH
+snu:tRNA-Glu-1	tRNA	15037..15108	tRNA-Glu
+snu:ssuRNA-1	rRNA	15352..16914	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+snu:tRNA-Ala-1	tRNA	16956..17028	tRNA-Ala
+snu:lsuRNA-1	rRNA	17153..20055	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+snu:5S_RNA-1	rRNA	20131..20246	5S RNA
+snu:tRNA-Asn-1	tRNA	20252..20325	tRNA-Asn
+snu:SPNA45_00014	gene	join(20415..20741,20743..20829,20833..21279)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00015	gene	complement(join(21280..21526,21568..21806,21806..22060))	tnp_(pseudogene); pseudogene
+snu:SPNA45_00016	CDS	22377..22613	conserved hypothetical protein
+snu:SPNA45_00017	CDS	22844..24130	purA; adenylosuccinate synthetase
+snu:SPNA45_00018	CDS	complement(24372..25520)	Phage integrase: site-specific recombinase
+snu:SPNA45_00019	CDS	complement(25715..25861)	hypothetical protein
+snu:SPNA45_00020	CDS	complement(26318..27412)	hypothetical protein
+snu:SPNA45_00021	CDS	complement(27414..27770)	Phage transcriptional regulator, Cro/CI family
+snu:SPNA45_00022	CDS	complement(28795..29034)	hypothetical protein
+snu:SPNA45_00023	CDS	29099..29290	hypothetical protein
+snu:SPNA45_00024	CDS	29839..29982	hypothetical protein
+snu:SPNA45_00025	CDS	30060..30770	Phage antirepressor protein
+snu:SPNA45_00026	CDS	30782..31039	hypothetical phage protein
+snu:SPNA45_00027	CDS	31125..31445	ORF17
+snu:SPNA45_00029	CDS	join(31461..31748,31752..32594)	Phage replication initiation protein
+snu:SPNA45_00028	CDS	31461..31751	hypothetical protein
+snu:SPNA45_00030	CDS	32582..32740	hypothetical protein
+snu:SPNA45_00031	CDS	32863..33504	dnaC; DNA replication protein DnaC
+snu:SPNA45_00032	CDS	33519..33713	hypothetical protein
+snu:SPNA45_00033	CDS	33713..33931	hypothetical phage protein
+snu:SPNA45_00034	CDS	34425..34550	hypothetical protein
+snu:SPNA45_00035	CDS	34760..35077	Phage protein
+snu:SPNA45_00036	CDS	35741..36283	prophage LambdaSa2, site-specific recombinase, phage integrase family
+snu:SPNA45_00037	CDS	36447..36638	hypothetical protein
+snu:SPNA45_00038	CDS	36758..37078	hypothetical protein
+snu:SPNA45_00039	CDS	37216..37608	Phage terminase, small subunit
+snu:SPNA45_00040	CDS	37601..39331	Phage terminase large subunit
+snu:SPNA45_00041	CDS	39339..39557	hypothetical protein
+snu:SPNA45_00042	CDS	39575..40777	Phage portal protein
+snu:SPNA45_00043	CDS	40761..41336	Membrane proteins related to metalloendopeptidases
+snu:SPNA45_00044	gene	join(41333..41779,41785..42498)	pseudogene
+snu:SPNA45_00045	CDS	42782..43063	Orf46
+snu:SPNA45_00046	CDS	43050..43349	hypothetical protein
+snu:SPNA45_00047	CDS	43346..43705	prophage pi2 protein 37
+snu:SPNA45_00048	CDS	43702..44040	hypothetical protein
+snu:SPNA45_00049	CDS	44037..44615	Phage major tail protein
+snu:SPNA45_00050	CDS	44627..45046	conserved hypothetical protein
+snu:SPNA45_00051	CDS	45324..48083	Phage tail length tape-measure protein
+snu:SPNA45_00052	CDS	48080..48802	hypothetical protein
+snu:SPNA45_00053	CDS	48803..56281	Phage hyaluronidase
+snu:SPNA45_00054	CDS	56278..56394	hypothetical protein
+snu:SPNA45_00055	CDS	56375..56578	conserved domain protein
+snu:SPNA45_00056	CDS	56581..56931	hypothetical protein
+snu:SPNA45_00057	CDS	56793..56858	hypothetical protein
+snu:SPNA45_00058	CDS	56940..57356	Phage endolysin
+snu:SPNA45_00059	CDS	57360..57692	Phage holin
+snu:SPNA45_00060	CDS	57696..58652	lytA; Cell wall-associated murein hydrolase LytA
+snu:SPNA45_00061	CDS	complement(58790..58978)	hypothetical protein
+snu:SPNA45_00062	gene	complement(join(59419..60123,60144..60353))	pseudogene
+snu:SPNA45_00063	CDS	61096..62775	putative fucosidase
+snu:SPNA45_00064	CDS	complement(62815..64899)	putative alpha-1,2-mannosidase
+snu:SPNA45_00065	CDS	65070..66350	conserved hypothetical protein
+snu:SPNA45_00066	CDS	66441..69086	putative glycosyl hydrolase
+snu:SPNA45_00067	CDS	69170..70039	ROK family protein
+snu:SPNA45_00068	CDS	70033..71913	gcnA; N-acetyl-beta-D-glucosaminidase
+snu:SPNA45_00069	CDS	72093..72224	hypothetical protein
+snu:SPNA45_00070	CDS	72290..72454	hypothetical protein
+snu:SPNA45_00071	gene	complement(join(72617..73006,73118..73555))	tnp_(pseudogene); pseudogene
+snu:SPNA45_00072	CDS	73887..75812	pcpA; Choline binding protein PcpA
+snu:SPNA45_00073	CDS	complement(76304..76453)	rpmG1; 50S ribosomal protein L33 1
+snu:SPNA45_00074	CDS	complement(76469..76651)	rpmF; 50S ribosomal protein L32
+snu:SPNA45_00075	CDS	complement(76803..77003)	putative uncharacterized protein
+snu:SPNA45_00076	CDS	complement(77006..78013)	putative membrane protein
+snu:SPNA45_00077	CDS	78204..80234	putative PTS multi-domain regulator
+snu:SPNA45_00078	CDS	80238..80522	sugar phosphotransferase system (PTS), lactose/cellobiose-specific family, IIB subunit protein
+snu:SPNA45_00079	CDS	80535..81881	putative sugar-specific permease, SgaT/UlaA family
+snu:SPNA45_00080	CDS	81885..82742	putative transketolase subunit
+snu:SPNA45_00081	CDS	82739..83671	putative transketolase subunit
+snu:SPNA45_00082	CDS	83904..85607	ilvD; dihydroxy-acid dehydratase
+snu:SPNA45_00083	CDS	complement(85633..85797)	hypothetical protein
+snu:SPNA45_00084	CDS	complement(85861..86202)	probably aromatic ring hydroxylating enzyme, evidenced by COGnitor; PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+snu:SPNA45_00085	CDS	86217..86351	hypothetical protein
+snu:SPNA45_00086	CDS	86326..87177	Positive transcriptional regulator, MutR family
+snu:SPNA45_00087	CDS	87367..88614	Macrolide-efflux protein
+snu:SPNA45_00088	CDS	88691..89980	Histidyl-tRNA synthetase (EC 6.1.1.21)
+snu:SPNA45_00089	CDS	89977..90168	hypothetical protein
+snu:SPNA45_00090	CDS	90321..90635	hypothetical protein
+snu:SPNA45_00091	CDS	90645..90851	Transcriptional regulator, Cro/CI family
+snu:SPNA45_00092	CDS	90851..91048	hypothetical protein
+snu:SPNA45_00093	CDS	join(91032..91064,91068..91784)	hypothetical protein
+snu:SPNA45_00094	CDS	91796..92437	Membrane-bound protease, CAAX family
+snu:SPNA45_00095	CDS	92455..92685	FIG01114689: hypothetical protein
+snu:SPNA45_00096	CDS	92992..94755	Aspartyl-tRNA synthetase (EC 6.1.1.12)
+snu:SPNA45_00097	CDS	94733..95674	Integral membrane protein
+snu:SPNA45_00098	CDS	complement(95678..95944)	N-ethylammeline chlorohydrolase
+snu:SPNA45_00099	CDS	complement(96011..96997)	malR; maltose operon transcriptional repressor
+snu:SPNA45_00100	CDS	complement(97007..97807)	malA; putative maltodextrose utilization protein MalA
+snu:SPNA45_00101	CDS	complement(98060..98902)	malD; putative maltose/maltodextrin ABC transport system permease protein
+snu:SPNA45_00102	CDS	complement(98904..100196)	malC; putative maltose/maltodextrin ABC transport system permease protein
+snu:SPNA45_00103	CDS	complement(100307..101566)	malX; putative maltose/maltodextrin-binding protein precursor
+snu:SPNA45_00104	CDS	102116..103633	malQ; putative 4-alpha-glucanotransferase
+snu:SPNA45_00105	CDS	103659..105917	glgP; putative glycogen phosphorylase
+snu:SPNA45_00106	CDS	complement(106961..107533)	putative membrane protein
+snu:SPNA45_00107	CDS	complement(108156..109004)	putative ribosomal RNA large subunit methyltransferase A
+snu:SPNA45_00108	CDS	109156..109434	putative exported protein
+snu:SPNA45_00109	CDS	109436..111499	putative cation transporting ATPase
+snu:SPNA45_00110	gene	complement(join(111572..112099,112096..112878))	tnp_(pseudogene); pseudogene
+snu:SPNA45_00111	CDS	complement(113049..114305)	tyrS; putative tyrosyl-tRNA synthetase
+snu:SPNA45_00112	CDS	114447..116912	pbp1B; penicillin-binding protein 1B
+snu:SPNA45_00113	CDS	116977..117888	putative membrane protein
+snu:SPNA45_00114	CDS	118118..118816	putative transferase
+snu:SPNA45_00116	CDS	join(118884..120011,120017..120565)	GlpG protein (membrane protein of glp regulon)
+snu:SPNA45_00115	CDS	118884..120014	putative peptidase
+snu:SPNA45_00117	CDS	120026..120565	5-formyltetrahydrofolate cyclo-ligase family protein
+snu:SPNA45_00118	CDS	complement(121293..122192)	hasC; UTP-glucose-1-phosphate uridylyltransferase
+snu:SPNA45_00119	CDS	complement(122214..123230)	gpsA; glycerol-3-phosphate dehydrogenase [NAD(P)+]
+snu:SPNA45_00120	gene	join(123364..123405,123409..123616,123616..123653,123657..123863)	pseudogene
+snu:SPNA45_00121	CDS	complement(123996..124295)	putative transposase fragment
+snu:SPNA45_00122	CDS	complement(124489..125139)	phosphate transport system protein
+snu:SPNA45_00123	CDS	complement(125154..125906)	pstB3; phosphate import ATP-binding protein 3
+snu:SPNA45_00124	CDS	complement(125908..126723)	ABC transporter permease protein
+snu:SPNA45_00125	CDS	complement(126716..127531)	ABC transporter permease protein
+snu:SPNA45_00126	CDS	complement(127697..128572)	putative lipoprotein
+snu:SPNA45_00127	CDS	complement(128739..130070)	phoR; putative alkaline phosphatase synthesis sensor protein
+snu:SPNA45_00128	CDS	complement(130071..130778)	phoP; alkaline phosphatase synthesis transcriptional regulatory protein
+snu:SPNA45_00129	CDS	complement(130862..131110)	conserved hypothetical protein
+snu:SPNA45_00130	gene	join(131427..131438,131442..131891)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00131	CDS	complement(132281..133972)	argS; arginyl-tRNA synthetase
+snu:SPNA45_00132	CDS	134108..134554	argR; putative arginine repressor
+snu:SPNA45_00133	CDS	134605..137139	mutS; DNA mismatch repair protein MutS
+snu:SPNA45_00134	CDS	137286..138980	ABC transporter ATP-binding membrane protein
+snu:SPNA45_00135	CDS	complement(139339..139605)	degenerate transposase
+snu:SPNA45_00136	CDS	139754..141520	ABC transporter ATP-binding membrane protein
+snu:SPNA45_00137	CDS	141659..142348	putative peptidase
+snu:SPNA45_00138	CDS	142518..143867	pgi; glucose-6-phosphate isomerase
+snu:SPNA45_00139	CDS	143991..145451	gltX; glutamyl-tRNA synthetase
+snu:SPNA45_00140	CDS	145465..145899	Cytidine/deoxycytidylate deaminase family protein
+snu:tRNA-Glu-2	tRNA	146021..146092	tRNA-Glu
+snu:ssuRNA-2	rRNA	146336..147898	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+snu:tRNA-Ala-2	tRNA	147940..148012	tRNA-Ala
+snu:lsuRNA-2	rRNA	148137..151039	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+snu:5S_RNA-2	rRNA	151115..151230	5S RNA
+snu:tRNA-Val-1	tRNA	151235..151307	tRNA-Val
+snu:tRNA-Gly-1	tRNA	151313..151383	tRNA-Gly
+snu:tRNA-Ile-1	tRNA	151418..151491	tRNA-Ile
+snu:tRNA-Pseudo-TGA	tRNA	151574..151663	tRNA-Pseudo-TGA
+snu:tRNA-Met-1	tRNA	151677..151750	tRNA-Met
+snu:tRNA-Phe-1	tRNA	151754..151826	tRNA-Phe
+snu:tRNA-Tyr-1	tRNA	151839..151919	tRNA-Tyr
+snu:tRNA-Trp	tRNA	151924..151994	tRNA-Trp
+snu:tRNA-His	tRNA	152009..152081	tRNA-His
+snu:tRNA-Gln-1	tRNA	152092..152163	tRNA-Gln
+snu:tRNA-Leu-1	tRNA	152173..152256	tRNA-Leu
+snu:SPNA45_00141	CDS	complement(152367..153098)	serine/threonine phosphatase, putative
+snu:SPNA45_00142	CDS	complement(153091..153327)	hypothetical protein
+snu:SPNA45_00143	CDS	complement(153543..153980)	Guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
+snu:SPNA45_00144	CDS	complement(154021..155154)	Integrase
+snu:SPNA45_00145	CDS	complement(155158..155361)	hypothetical protein
+snu:SPNA45_00146	CDS	complement(155375..156157)	Rep protein
+snu:SPNA45_00147	CDS	complement(156341..157114)	hypothetical protein
+snu:SPNA45_00148	CDS	complement(157281..157670)	hypothetical protein
+snu:SPNA45_00149	gene	complement(join(158108..158449,158461..159411))	pseudogene
+snu:SPNA45_00150	CDS	complement(159417..159635)	hypothetical protein
+snu:SPNA45_00151	CDS	complement(159665..160423)	hypothetical protein
+snu:SPNA45_00152	CDS	complement(160916..161029)	hypothetical protein
+snu:SPNA45_00153	CDS	161221..161682	hypothetical protein
+snu:tRNA-Gln-2	tRNA	161687..161758	tRNA-Gln
+snu:tRNA-Leu-2	tRNA	161768..161851	tRNA-Leu
+snu:SPNA45_00154	CDS	161958..163235	putative uncharacterized protein
+snu:SPNA45_00155	CDS	163311..164795	putative threonine synthase
+snu:SPNA45_00156	CDS	164901..166136	multi antimicrobial extrusion (MATE) family transporter
+snu:SPNA45_00157	gene	join(166140..166601,166606..166773)	pseudogene
+snu:SPNA45_00158	CDS	166939..168081	putative exported protein
+snu:SPNA45_00159	gene	join(168401..168482,168487..168533,168538..168825)	pseudogene
+snu:SPNA45_00160	CDS	168836..169195	putative membrane protein
+snu:SPNA45_00161	gene	join(169324..169608,169612..169920)	pseudogene
+snu:SPNA45_00162	CDS	complement(169948..170805)	putative membrane protein
+snu:SPNA45_00163	CDS	170935..172077	tgt; queuine tRNA-ribosyltransferase
+snu:SPNA45_00164	CDS	172175..173992	acyltransferase family protein
+snu:SPNA45_00165	CDS	174145..175296	putative N-acetylglucosamine-6-phosphate deacetylase
+snu:SPNA45_00166	CDS	175459..176517	putative zinc-binding alcohol dehydrogenase
+snu:SPNA45_00167	CDS	176668..177033	conserved hypothetical protein
+snu:SPNA45_00168	CDS	177109..178050	putative competence protein
+snu:SPNA45_00169	CDS	178166..179014	putative competence protein
+snu:SPNA45_00170	CDS	179016..179339	comYC; putative competence protein
+snu:SPNA45_00171	CDS	179257..179736	putative competence protein
+snu:SPNA45_00172	CDS	179699..180001	putative membrane protein
+snu:SPNA45_00173	CDS	179964..180425	putative membrane protein
+snu:SPNA45_00174	CDS	180403..180816	putative exported protein
+snu:SPNA45_00175	CDS	complement(181471..181947)	acetyltransferase (putative)
+snu:SPNA45_00176	gene	complement(join(182142..182567,182641..182820))	tnp_(pseudogene); pseudogene
+snu:SPNA45_00177	CDS	183177..184130	conserved hypothetical protein
+snu:SPNA45_00178	CDS	184181..185371	ackA; acetate kinase
+snu:SPNA45_00179	CDS	185520..185891	rnpA; ribonuclease P protein component
+snu:SPNA45_00180	CDS	185860..186690	membrane protein OxaA 1 precursor
+snu:SPNA45_00181	CDS	186709..187695	putative ssDNA-binding protein
+snu:SPNA45_00182	CDS	187746..188369	conserved hypothetical protein
+snu:SPNA45_00183	CDS	188500..189957	putative sugar-specific permease, SgaT/UlaA family
+snu:SPNA45_00184	CDS	189980..190261	sugar phosphotransferase system (PTS), lactose/cellobiose-specific family, IIB subunit protein
+snu:SPNA45_00185	CDS	190338..190823	sugar phosphotransferase system (PTS), IIA component
+snu:SPNA45_00186	CDS	190840..191505	putative hexulose-6-phosphate synthase
+snu:SPNA45_00187	CDS	191509..192372	putative hexulose-6-phosphate isomerase (pseudogene)
+snu:SPNA45_00188	CDS	192374..193078	L-ribulose 5-phosphate 4-epimerase
+snu:SPNA45_00189	CDS	193253..194926	putative transcriptional antiterminator
+snu:SPNA45_00190	CDS	195038..196129	conserved hypothetical protein
+snu:SPNA45_00191	CDS	196243..198219	tkt; putative transketolase
+snu:SPNA45_00192	CDS	198336..198635	putative exported protein
+snu:SPNA45_00193	CDS	198682..199110	putative phosphotyrosine protein phosphatase
+snu:SPNA45_00194	CDS	199301..199522	putative membrane protein
+snu:SPNA45_00195	CDS	199822..202473	adhE; aldehyde-alcohol dehydrogenase 2 [includes: alcohol dehydrogenase; acetaldehyde dehydrogenase]
+snu:SPNA45_00196	CDS	complement(203340..203648)	putative lactose-specific phosphotransferase system (PTS), IIA component 2
+snu:SPNA45_00197	CDS	complement(203645..203953)	putative exported PTS system protein
+snu:SPNA45_00198	CDS	complement(203958..205253)	licC; PTS system, lichenan-specific IIc component
+snu:SPNA45_00199	CDS	complement(205271..206680)	putative beta-glucosidase
+snu:SPNA45_00200	CDS	206838..207566	treR; GntR-family transcriptional regulator
+snu:SPNA45_00201	CDS	208089..208220	putative nucleotide-binding protein
+snu:SPNA45_00202	CDS	complement(208399..208446)	putative transposase (fragment)
+snu:SPNA45_00203	CDS	complement(208586..209896)	dicarboxylate carrier protein
+snu:SPNA45_00204	CDS	210132..211004	nadC; putative nicotinate-nucleotide pyrophosphorylase
+snu:SPNA45_00205	gene	join(211117..211464,211642..211980)	tnp; pseudogene
+snu:SPNA45_00206	CDS	212066..213016	puttaive FtsX-family transport protein
+snu:SPNA45_00207	CDS	213193..214200	plr; glyceraldehyde-3-phosphate dehydrogenase, plasmin receptor
+snu:SPNA45_00208	CDS	complement(214267..215103)	RNA pseudouridylate synthase
+snu:SPNA45_00209	CDS	215229..217424	pbp2A; penicillin-binding protein 2a
+snu:SPNA45_00210	CDS	217639..217815	putative preprotein translocase SecE subunit
+snu:SPNA45_00211	CDS	217870..218406	nusG; transcription antitermination factor
+snu:SPNA45_00212	CDS	218528..219007	comX; Competence-specific sigma factor ComX
+snu:tRNA-Glu-3	tRNA	219101..219172	tRNA-Glu
+snu:ssuRNA-3	rRNA	219416..220978	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+snu:tRNA-Ala-3	tRNA	221020..221092	tRNA-Ala
+snu:lsuRNA-3	rRNA	221217..224119	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+snu:5S_RNA-3	rRNA	224195..224310	5S RNA
+snu:tRNA-Val-2	tRNA	224315..224387	tRNA-Val
+snu:tRNA-Asp-1	tRNA	224390..224462	tRNA-Asp
+snu:tRNA-Lys-1	tRNA	224487..224559	tRNA-Lys
+snu:tRNA-Leu-3	tRNA	224565..224646	tRNA-Leu
+snu:tRNA-Thr-1	tRNA	224665..224737	tRNA-Thr
+snu:tRNA-Gly-2	tRNA	224760..224831	tRNA-Gly
+snu:tRNA-Leu-4	tRNA	224839..224924	tRNA-Leu
+snu:tRNA-Arg-1	tRNA	224934..225007	tRNA-Arg
+snu:tRNA-Pro-1	tRNA	225023..225096	tRNA-Pro
+snu:SPNA45_00213	gene	complement(join(225178..225705,225702..226484))	pseudogene
+snu:tRNA-Thr-2	tRNA	226209..226281	tRNA-Thr
+snu:tRNA-Gly-3	tRNA	226232..226303	tRNA-Gly
+snu:tRNA-Leu-5	tRNA	226311..226396	tRNA-Leu
+snu:tRNA-Arg-2	tRNA	226406..226479	tRNA-Arg
+snu:tRNA-Pro-2	tRNA	226495..226568	tRNA-Pro
+snu:SPNA45_00214	CDS	227157..227363	hypothetical protein
+snu:SPNA45_00215	CDS	227360..227554	hypothetical protein
+snu:SPNA45_00216	CDS	227541..228425	ABC transporter, ATP-binding protein
+snu:SPNA45_00217	CDS	228427..229164	ABC transporter permease protein
+snu:SPNA45_00218	CDS	229164..230261	sensor histidine kinase
+snu:SPNA45_00219	CDS	230263..230862	Two-component response regulator
+snu:SPNA45_00220	CDS	231287..232297	Catabolite control protein A
+snu:SPNA45_00221	CDS	232361..232552	N-ethylammeline chlorohydrolase
+snu:SPNA45_00222	CDS	complement(232549..233511)	asnB; putative L-asparaginase
+snu:SPNA45_00223	CDS	233577..234965	haloacid dehalogenase-like hydrolase
+snu:SPNA45_00224	CDS	complement(235000..235452)	putative universal stress protein
+snu:SPNA45_00225	CDS	235614..235907	putative membrane protein
+snu:SPNA45_00226	CDS	236063..237277	putative aminotransferase
+snu:SPNA45_00227	CDS	237840..238739	putative surface anchored protein (pseudogene)
+snu:SPNA45_00228	CDS	239044..239817	TatD related DNase
+snu:SPNA45_00229	CDS	239817..240377	conserved hypothetical protein
+snu:SPNA45_00230	CDS	join(240449..240703,240708..241340)	putative DNA-binding protein
+snu:SPNA45_00231	CDS	241609..243639	putative membrane protein
+snu:SPNA45_00232	CDS	243641..244282	ABC transporter ATP-binding protein
+snu:SPNA45_00233	CDS	244275..244583	hypothetical protein
+snu:SPNA45_00234	CDS	244714..245586	ksgA; dimethyladenosine transferase
+snu:SPNA45_00235	gene	join(245588..246466,246477..247133)	engC; pseudogene
+snu:SPNA45_00236	CDS	247096..247758	thiN; putative thiamin pyrophosphokinase
+snu:SPNA45_00237	CDS	247760..249016	RmuC family protein
+snu:SPNA45_00238	CDS	249006..249947	putative 3'-5' exoribonuclease
+snu:SPNA45_00239	CDS	250214..251041	purR; putative pur operon repressor
+snu:SPNA45_00240	CDS	251108..252358	pyridoxal-dependent decarboxylase
+snu:SPNA45_00241	CDS	252484..253278	pflC; pyruvate formate-lyase activating enzyme
+snu:SPNA45_00242	CDS	complement(253353..254246)	membrane protein OxaA 2 precursor
+snu:SPNA45_00243	CDS	complement(254357..254635)	putative acylphosphatase
+snu:SPNA45_00244	CDS	254669..255409	SpoU rRNA Methylase family protein
+snu:SPNA45_00245	CDS	255465..256148	putative membrane protein
+snu:SPNA45_00246	CDS	256259..257251	asnA; aspartate--ammonia ligase
+snu:SPNA45_00247	CDS	257316..257855	putative methylase
+snu:SPNA45_00248	CDS	257845..258333	coaD; phosphopantetheine adenylyltransferase
+snu:SPNA45_00249	CDS	258317..259354	putative exported protein
+snu:SPNA45_00250	CDS	259412..259642	putative membrane protein
+snu:SPNA45_00251	CDS	259666..260949	murA1; UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+snu:SPNA45_00252	CDS	260942..261130	epuA; putative competence associated protein
+snu:SPNA45_00253	CDS	261169..261993	endA; putative competence associated endonuclease
+snu:SPNA45_00254	CDS	262284..263615	putative transport protein
+snu:tRNA-Cys	tRNA	complement(263813..263883)	tRNA-Cys
+snu:SPNA45_00255	CDS	264482..267910	rpoB; DNA-directed RNA polymerase beta chain
+snu:SPNA45_00256	CDS	267970..271620	rpoC; DNA-directed RNA polymerase beta' chain
+snu:SPNA45_00257	CDS	271731..272144	ndk; nucleoside diphosphate kinase
+snu:SPNA45_00258	gene	complement(join(272770..273036,273040..273048))	pseudogene
+snu:SPNA45_00259	CDS	complement(273072..273515)	Methionine ABC transporter ATP-binding protein
+snu:SPNA45_00260	CDS	complement(273520..274725)	Mobile element protein
+snu:SPNA45_00261	CDS	complement(275038..275208)	putative secreted protein
+snu:SPNA45_00262	gene	join(275397..275624,275628..276260)	pseudogene
+snu:SPNA45_00263	CDS	276643..277263	putative membrane protein
+snu:SPNA45_00264	CDS	277350..277793	putative P-loop hydrolase
+snu:SPNA45_00265	CDS	277783..278301	acetyltransferase (GNAT) family protein
+snu:SPNA45_00266	CDS	278309..279325	LytR family regulatory protein
+snu:SPNA45_00267	CDS	279410..280666	cinA; CinA-like protein
+snu:SPNA45_00268	CDS	280721..281887	recA; RecA recombinase (recombinase A)
+snu:SPNA45_00269	CDS	282194..283564	putative drug/sodium antiporter
+snu:SPNA45_00270	CDS	284123..285502	Thiol-activated cytolysin
+snu:SPNA45_00271	gene	join(285495..285572,285576..287099)	ply; pseudogene
+snu:SPNA45_00272	CDS	286383..287099	conserved hypothetical protein
+snu:SPNA45_00273	gene	287223..287672	pseudogene
+snu:SPNA45_00274	CDS	287711..288532	putative ABC transporter, ATP-binding/permease protein
+snu:SPNA45_00275	CDS	288539..289570	putative ABC transporter, ATP-binding/permease protein (pseudogene)
+snu:SPNA45_00276	CDS	289636..289998	conserved hypothetical protein
+snu:SPNA45_00277	CDS	289995..290498	putative PAP2 superfamily membrane protein
+snu:SPNA45_00278	CDS	290612..291058	putative DNA-binding protein
+snu:SPNA45_00279	CDS	291064..291738	putative membrane protein
+snu:SPNA45_00280	CDS	291989..292090	putative cell wall-binding protein
+snu:SPNA45_00281	CDS	292384..292674	putative exported protein
+snu:SPNA45_00282	CDS	292671..292988	putative thioredoxin
+snu:SPNA45_00283	CDS	293004..293630	putative tRNA-binding protein
+snu:SPNA45_00284	CDS	293672..294433	putative NADP-dependent L-serine/L-allo-threonine dehydrogenase
+snu:SPNA45_00285	CDS	complement(294569..295942)	int; putative phage integrase
+snu:SPNA45_00286	CDS	complement(296368..297105)	phage transcriptional repressor
+snu:SPNA45_00287	CDS	297252..297395	hypothetical protein
+snu:SPNA45_00288	CDS	297566..297688	hypothetical protein
+snu:SPNA45_00289	CDS	complement(297795..298301)	phage protein
+snu:SPNA45_00290	CDS	298354..298524	hypothetical protein
+snu:SPNA45_00291	CDS	complement(298749..298955)	hypothetical protein
+snu:SPNA45_00292	CDS	299131..299265	hypothetical protein
+snu:SPNA45_00293	CDS	299432..299770	hypothetical protein
+snu:SPNA45_00294	CDS	299888..300070	hypothetical protein
+snu:SPNA45_00295	CDS	complement(300067..300291)	hypothetical protein
+snu:SPNA45_00296	CDS	300408..300551	hypothetical protein
+snu:SPNA45_00297	CDS	300618..301415	hypothetical protein
+snu:SPNA45_00298	CDS	301433..301570	hypothetical protein
+snu:SPNA45_00299	CDS	301570..301791	hypothetical protein
+snu:SPNA45_00300	CDS	301792..302046	hypothetical protein
+snu:SPNA45_00301	CDS	302059..302313	hypothetical protein
+snu:SPNA45_00302	CDS	302316..302465	hypothetical protein
+snu:SPNA45_00303	CDS	302588..303406	some similarities to phage related proteins
+snu:SPNA45_00304	CDS	303416..304480	hypothetical protein
+snu:SPNA45_00305	CDS	304483..304668	hypothetical protein
+snu:SPNA45_00306	CDS	304646..304942	hypothetical protein
+snu:SPNA45_00307	CDS	305279..305395	hypothetical protein
+snu:SPNA45_00308	CDS	305392..305808	Single-stranded DNA-binding protein
+snu:SPNA45_00309	CDS	306325..306642	Phage protein
+snu:SPNA45_00310	CDS	306644..307204	hypothetical phage protein
+snu:SPNA45_00311	CDS	complement(307225..307578)	mazF; Programmed cell death toxin MazF
+snu:SPNA45_00312	CDS	complement(307562..307777)	mazE; Programmed cell death antitoxin MazE
+snu:SPNA45_00313	CDS	307991..308353	hypothetical protein
+snu:SPNA45_00314	CDS	309669..310109	phage terminase small subunit
+snu:SPNA45_00315	CDS	310354..311385	Phage terminase, large subunit
+snu:SPNA45_00316	CDS	311565..312866	Phage portal
+snu:SPNA45_00317	CDS	312892..314412	Phage capsid and scaffold
+snu:SPNA45_00318	CDS	314414..314623	FIG01114105: hypothetical protein
+snu:SPNA45_00319	CDS	314620..315033	Guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2)
+snu:SPNA45_00320	CDS	315076..315339	Phage-associated protein
+snu:SPNA45_00321	CDS	315341..315592	hypothetical protein
+snu:SPNA45_00322	CDS	315819..316343	Phage capsid and scaffold
+snu:SPNA45_00323	CDS	316366..317391	ORF012
+snu:SPNA45_00324	CDS	317401..317589	hypothetical protein
+snu:SPNA45_00325	CDS	317884..318222	hypothetical protein
+snu:SPNA45_00326	CDS	318386..318712	Lj965 prophage protein
+snu:SPNA45_00327	CDS	318709..319077	hypothetical protein
+snu:SPNA45_00328	CDS	319080..319493	Lj965 prophage major tail protein
+snu:SPNA45_00329	CDS	319498..319878	Lj965 prophage protein
+snu:SPNA45_00330	CDS	319917..320267	hypothetical protein
+snu:SPNA45_00331	CDS	320254..323847	Phage tail length tape-measure protein
+snu:SPNA45_00332	CDS	323856..324206	Lj965 prophage protein
+snu:SPNA45_00333	CDS	324211..329772	Phage hyaluronidase
+snu:SPNA45_00334	CDS	329769..329885	hypothetical protein
+snu:SPNA45_00335	CDS	329866..330069	conserved domain protein
+snu:SPNA45_00336	CDS	330072..330422	hypothetical protein
+snu:SPNA45_00337	CDS	330431..330730	hypothetical protein
+snu:SPNA45_00338	CDS	330734..331066	Phage holin
+snu:SPNA45_00339	CDS	331070..332026	lytA; Cell wall-associated murein hydrolase LytA
+snu:SPNA45_00340	CDS	332256..332498	hypothetical protein
+snu:SPNA45_00341	gene	join(332525..332902,332820..333020,333024..333323)	pseudogene
+snu:SPNA45_00342	CDS	333172..333456	groES; 10 kDa chaperonin
+snu:SPNA45_00343	CDS	333472..335094	groEL; 60 kDa chaperonin
+snu:SPNA45_00344	gene	complement(join(335194..335778,335832..336500))	tnp; pseudogene
+snu:SPNA45_00345	CDS	336660..336866	hypothetical protein
+snu:SPNA45_00346	CDS	complement(337224..337757)	conserved hypothetical protein
+snu:SPNA45_00347	CDS	complement(337846..338622)	recX; Regulatory protein recX
+snu:SPNA45_00348	CDS	complement(338632..339495)	RecX family protein
+snu:SPNA45_00349	CDS	339465..340832	putative RNA methyltransferase
+snu:tRNA-Glu-4	tRNA	340882..340953	tRNA-Glu
+snu:ssuRNA-4	rRNA	341197..342759	Small Subunit Ribosomal RNA; ssuRNA; SSU ribosomal RNA
+snu:tRNA-Ala-4	tRNA	342801..342873	tRNA-Ala
+snu:lsuRNA-4	rRNA	342998..345900	Large Subunit Ribosomal RNA; lsuRNA; LSU ribosomal RNA
+snu:5S_RNA-4	rRNA	345976..346091	5S RNA
+snu:tRNA-Val-3	tRNA	346096..346168	tRNA-Val
+snu:tRNA-Asp-2	tRNA	346171..346243	tRNA-Asp
+snu:tRNA-Lys-2	tRNA	346268..346340	tRNA-Lys
+snu:tRNA-Leu-6	tRNA	346346..346427	tRNA-Leu
+snu:tRNA-Thr-3	tRNA	346446..346518	tRNA-Thr
+snu:tRNA-Gly-4	tRNA	346541..346612	tRNA-Gly
+snu:tRNA-Leu-7	tRNA	346620..346705	tRNA-Leu
+snu:tRNA-Arg-3	tRNA	346715..346788	tRNA-Arg
+snu:tRNA-Pro-3	tRNA	346804..346877	tRNA-Pro
+snu:tRNA-Met-2	tRNA	346883..346956	tRNA-Met
+snu:tRNA-Met-3	tRNA	346970..347043	tRNA-Met
+snu:tRNA-Ser-1	tRNA	347054..347145	tRNA-Ser
+snu:tRNA-Met-4	tRNA	347157..347230	tRNA-Met
+snu:tRNA-Phe-2	tRNA	347234..347306	tRNA-Phe
+snu:tRNA-Gly-5	tRNA	347326..347396	tRNA-Gly
+snu:SPNA45_00350	gene	complement(join(347640..348146,348143..348925))	pseudogene
+snu:tRNA-Ile-2	tRNA	348913..348986	tRNA-Ile
+snu:tRNA-Ser-2	tRNA	348920..349007	tRNA-Ser
+snu:SPNA45_00351	CDS	complement(349133..350068)	birA; BirA bifunctional protein [includes: biotin operon repressor; biotin--[acetyl-CoA-carboxylase] synthetase]
+snu:SPNA45_00352	CDS	complement(350065..350925)	msmR; AraC family regulatory protein
+snu:SPNA45_00353	CDS	351033..353195	aga; alpha-galactosidase
+snu:SPNA45_00354	CDS	353230..354489	msmE; multiple sugar-binding protein precursor
+snu:SPNA45_00355	CDS	join(354503..355057,355061..355369)	msmF; multiple sugar-binding transport system permease protein
+snu:SPNA45_00356	gene	join(355383..355573,355575..355629,355635..356216)	msmG; pseudogene
+snu:SPNA45_00357	CDS	356528..357970	sucrose phosphorylase
+snu:SPNA45_00358	CDS	358258..359301	putative polysaccharide repeat unit polymerase
+snu:SPNA45_00359	CDS	359766..361112	hypothetical protein
+snu:SPNA45_00360	CDS	361695..363674	putative extracellular oligopeptide-binding protein
+snu:SPNA45_00361	CDS	join(363741..364184,364188..365237)	putative oligopeptide transporter permease protein
+snu:SPNA45_00362	CDS	365237..366163	putative oligopeptide transporter permease protein
+snu:SPNA45_00363	CDS	366172..367239	putative oligopeptide transporter ATP-binding protein
+snu:SPNA45_00364	CDS	367250..368176	putative oligopeptide transporter ATP-binding protein
+snu:SPNA45_00365	CDS	join(368661..369179,369183..369605)	putative substrate-binding protein (pseudogene)
+snu:SPNA45_00366	gene	join(369617..370045,370048..370110,370115..370510)	pseudogene
+snu:SPNA45_00367	gene	join(370523..370639,370645..371325)	pseudogene
+snu:SPNA45_00368	CDS	complement(371358..372068)	GntR family regulatory protein
+snu:SPNA45_00369	CDS	372253..374220	sugar phosphotransferase system (PTS), IIABC component
+snu:SPNA45_00370	CDS	374398..376023	treA; putative trehalose-6-phosphate hydrolase
+snu:SPNA45_00371	CDS	376279..376527	putative exported protein
+snu:SPNA45_00372	CDS	376734..377528	glr; glutamate racemase
+snu:SPNA45_00373	CDS	377525..378496	HAM1 protein homolog
+snu:SPNA45_00374	CDS	378472..378993	putative phosphoesterase
+snu:SPNA45_00375	CDS	378990..379451	conserved hypothetical protein
+snu:SPNA45_00376	CDS	379448..380182	xerD; tyrosine recombinase XerD
+snu:SPNA45_00377	CDS	380182..380910	scpA; segregation and condensation protein A
+snu:SPNA45_00378	CDS	380929..381498	scpB; segregation and condensation protein B
+snu:SPNA45_00379	CDS	381485..382207	rluB; ribosomal large subunit pseudouridine synthase B
+snu:SPNA45_00380	CDS	382207..382449	conserved hypothetical protein
+snu:SPNA45_00381	CDS	complement(382674..383639)	siderophore uptake periplasmic binding protein
+snu:SPNA45_00382	CDS	complement(383735..384352)	siderophore uptake ATP-binding protein
+snu:SPNA45_00383	CDS	complement(384484..385440)	putative iron compound ABC transporter, permease protein
+snu:SPNA45_00384	CDS	complement(385430..386389)	putative iron compound ABC transporter, permease protein
+snu:SPNA45_00385	CDS	complement(386812..387513)	putative UDP-glucose 4-epimerase
+snu:SPNA45_00386	CDS	387914..388978	pepA; putative glutamyl-aminopeptidase
+snu:SPNA45_00387	CDS	389000..389296	conserved hypothetical protein
+snu:SPNA45_00388	CDS	389978..390421	putative MarR-family transcriptional regulator
+snu:SPNA45_00389	CDS	390425..391189	conserved hypothetical protein
+snu:SPNA45_00390	CDS	391204..391932	ABC-type glycine betaine transport system ATP-binding protein
+snu:SPNA45_00391	CDS	391925..393445	ABC-type glycine betaine transport system protein
+snu:SPNA45_00392	CDS	393787..394596	nicotinamide mononucleotide transporter
+snu:SPNA45_00393	CDS	complement(394763..395299)	TetR family regulatory protein
+snu:SPNA45_00394	CDS	395432..396322	cation efflux family protein
+snu:SPNA45_00395	CDS	396566..396919	MerR family regulatory protein
+snu:SPNA45_00396	gene	join(396920..397777,397783..397959)	pseudogene
+snu:SPNA45_00397	CDS	complement(398005..399012)	galR; galactose operon repressor
+snu:SPNA45_00398	CDS	399177..400355	galK; galactokinase
+snu:SPNA45_00399	CDS	400431..401855	galT; galactose-1-phosphate uridylyltransferase
+snu:SPNA45_00400	CDS	401925..402329	Phenylacetic acid degradation protein PaaD, thioesterase
+snu:SPNA45_00401	CDS	402510..403274	dpnC; Type II restriction enzyme DpnI (dpnC)
+snu:SPNA45_00402	CDS	403424..403732	dpnD; DpnD protein
+snu:SPNA45_00403	CDS	complement(403783..405045)	pbuX; putative xanthine permease
+snu:SPNA45_00404	CDS	complement(405045..405626)	xpt; putative xanthine phosphoribosyltransferase
+snu:SPNA45_00405	CDS	complement(406590..406694)	hypothetical protein
+snu:SPNA45_00406	CDS	complement(406849..407676)	exoA; exodeoxyribonuclease
+snu:SPNA45_00407	gene	join(407810..408034,408039..408266)	pseudogene
+snu:SPNA45_00408	gene	408470..408715	pseudogene
+snu:SPNA45_00409	CDS	408921..410666	ABC transporter, ATP-binding/permease protein
+snu:SPNA45_00410	CDS	410656..412407	ABC transporter, ATP-binding/permease protein
+snu:SPNA45_00411	CDS	412580..413272	probable sugar transferase
+snu:SPNA45_00412	CDS	413315..414541	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+snu:SPNA45_00413	gene	join(415705..416553,416559..417830)	pseudogene
+snu:SPNA45_00414	CDS	417814..418110	hypotheical protein
+snu:SPNA45_00415	CDS	418261..418665	hypotheical protein
+snu:SPNA45_00416	CDS	418723..419364	phoU; Phosphate transport system protein phoU
+snu:SPNA45_00417	CDS	419377..420852	Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+snu:SPNA45_00418	CDS	421021..421875	UDP-glucose 4-epimerase (EC 5.1.3.2)
+snu:SPNA45_00419	CDS	422054..422713	hypotheical protein
+snu:SPNA45_00420	CDS	422738..423805	putative iron ABC transporter, solute-binding protein
+snu:SPNA45_00421	CDS	423909..424919	putative iron ABC transporter, ATP-binding protein
+snu:SPNA45_00422	CDS	424931..426622	putative inner membrane component of ABC transporter
+snu:SPNA45_00423	CDS	426625..427335	putative cation transporter
+snu:SPNA45_00424	CDS	427431..427799	hypothetical protein
+snu:SPNA45_00425	CDS	427907..428908	putative LacI-family transcriptional regulator (catabolite control protein)
+snu:SPNA45_00426	CDS	429515..429721	N-ethylammeline chlorohydrolase
+snu:SPNA45_00427	CDS	430094..431455	trpE; anthranilate synthase component I
+snu:SPNA45_00428	CDS	431452..432018	trpG; anthranilate synthase component II
+snu:SPNA45_00429	CDS	432029..433033	trpD; anthranilate phosphoribosyltransferase
+snu:SPNA45_00430	CDS	433030..433797	trpC; indole-3-glycerol phosphate synthase
+snu:SPNA45_00431	CDS	433754..434383	trpF; N-(5'-phosphoribosyl)anthranilate isomerase
+snu:SPNA45_00432	CDS	434361..435584	trpB; tryptophan synthase beta chain
+snu:SPNA45_00433	CDS	435577..436353	trpA; tryptophan synthase alpha chain
+snu:SPNA45_00434	CDS	437006..437386	conserved hypothetical protein
+snu:SPNA45_00435	CDS	437401..438552	putative DNA-binding protein
+snu:SPNA45_00436	CDS	complement(438604..439263)	type IV prepilin peptidase family protein
+snu:SPNA45_00437	CDS	439333..439779	acetyltransferase, GNAT family
+snu:SPNA45_00438	CDS	complement(440007..441185)	putative ROK-family repressor protein
+snu:SPNA45_00439	gene	join(441465..442211,442215..442727)	pseudogene
+snu:SPNA45_00440	CDS	442730..443626	hypothetical protein
+snu:SPNA45_00441	CDS	445980..447455	Choline-sulfatase (EC 3.1.6.6)
+snu:SPNA45_00442	CDS	447452..448300	Sulfatase modifying factor 1 precursor (C-alpha-formyglycine-generating enzyme 1)
+snu:SPNA45_00443	CDS	join(448378..448824,448830..449084)	putative membrane protein
+snu:SPNA45_00444	CDS	449302..449421	hypothetical protein
+snu:SPNA45_00445	CDS	complement(449362..449607)	putative transposase (pseudogene)
+snu:SPNA45_00446	CDS	449885..450124	Mobile element protein
+snu:SPNA45_00447	CDS	complement(450234..450437)	CsbD-like protein
+snu:SPNA45_00448	CDS	complement(450468..451076)	conserved hypothetical protein
+snu:SPNA45_00449	CDS	complement(451115..451285)	putative membrane protein
+snu:SPNA45_00450	CDS	complement(451297..451863)	putative membrane protein
+snu:SPNA45_00451	CDS	complement(451947..452111)	putative transglysylase-associated membrane protein
+snu:SPNA45_00452	CDS	452554..454035	putative Mga-like regulatory protein
+snu:SPNA45_00453	CDS	454397..455398	M protein trans-acting positive regulator (Mga)
+snu:SPNA45_00454	CDS	455547..456464	ABC-type polysaccharide transport system, permease component
+snu:SPNA45_00455	CDS	456475..457365	ABC-type sugar transport system, permease component
+snu:SPNA45_00456	CDS	457394..459010	ABC transporter, substrate-binding protein
+snu:SPNA45_00457	CDS	459020..460339	Sucrose-6-phosphate hydrolase (EC 3.2.1.26)
+snu:SPNA45_00458	CDS	460701..461216	hypothetical protein
+snu:SPNA45_00459	CDS	complement(461353..462528)	Mobile element protein
+snu:SPNA45_00460	CDS	462704..462889	hypothetical protein
+snu:SPNA45_00461	CDS	462916..463167	hypothetical protein
+snu:SPNA45_00462	CDS	463622..463873	ftsK; FtsK protein
+snu:SPNA45_00463	CDS	463833..464633	DNA segregation ATPase FtsK/SpoIIIE or related protein
+snu:SPNA45_00464	CDS	465079..465246	hypothetical protein
+snu:SPNA45_00465	CDS	465371..466414	Replication initiation protein
+snu:SPNA45_00466	CDS	466430..466612	hypothetical protein
+snu:SPNA45_00467	CDS	467027..467740	int; Integrase
+snu:tRNA-Lys-3	tRNA	complement(467823..467895)	tRNA-Lys
+snu:SPNA45_00468	CDS	complement(468160..469431)	putative ATPase
+snu:SPNA45_00469	CDS	469714..469935	hypothetical protein
+snu:SPNA45_00470	CDS	469925..470173	hypothetical protein
+snu:SPNA45_00471	CDS	470310..470489	hypothetical protein
+snu:SPNA45_00472	CDS	470526..470978	phage-like protein
+snu:SPNA45_00473	CDS	471269..471739	conserved hypothetical protein
+snu:SPNA45_00474	CDS	471903..472337	hypothetical protein
+snu:SPNA45_00475	CDS	472387..472821	MutT/nudix family protein; 7,8-dihydro-8-oxoguanine-triphosphatase
+snu:SPNA45_00476	CDS	472818..473291	acetyltransferase, GNAT family
+snu:SPNA45_00477	CDS	473429..474379	ribosomal protein L11 methyltransferase
+snu:SPNA45_00478	CDS	474381..475124	conserved hypothetical protein
+snu:SPNA45_00479	CDS	475135..476931	putative oligopeptidase
+snu:SPNA45_00480	CDS	complement(476991..477668)	Transcriptional regulator, ArsR family
+snu:SPNA45_00481	CDS	477947..478951	UBA/THIF-type NAD/FAD binding fold
+snu:SPNA45_00482	CDS	479025..479795	ABC, transporter, ATP-binding protein
+snu:SPNA45_00483	CDS	479788..480552	ABC-type multidrug transport system, permease component
+snu:SPNA45_00484	CDS	480971..481768	aqpZ; aquaporin Z
+snu:SPNA45_00485	CDS	480977..481768	conserved hypothetical protein
+snu:SPNA45_00486	CDS	complement(482311..482658)	Chlorohydrolase/deaminase family protein
+snu:SPNA45_00487	CDS	complement(482720..483253)	conserved hypothetical protein
+snu:SPNA45_00488	CDS	complement(483557..483871)	putative thioredoxin
+snu:SPNA45_00489	CDS	complement(483887..484108)	conserved hypothetical protein
+snu:SPNA45_00490	CDS	complement(484207..484587)	putative MarR-family transcriptional regulator
+snu:SPNA45_00491	CDS	complement(484730..485683)	putative membrane protein
+snu:SPNA45_00492	CDS	complement(485751..486710)	putative sodium:dicarboxylate symporter family protein
+snu:SPNA45_00493	CDS	complement(486707..486877)	putative sodium:dicarboxylate symporter family protein
+snu:SPNA45_00494	CDS	487099..487659	putative mechanosensitive ion channel protein
+snu:SPNA45_00495	CDS	487716..488624	CorA-like Mg2+ transporter protein
+snu:SPNA45_00496	CDS	488639..489166	putative hydrolase
+snu:SPNA45_00497	CDS	489169..490275	GTP-binding protein
+snu:SPNA45_00498	CDS	490489..490800	conserved hypothetical protein
+snu:SPNA45_00499	CDS	490852..491481	putative nicotinate-nucleotide adenylyltransferase
+snu:SPNA45_00500	CDS	491481..492074	conserved hypothetical protein
+snu:SPNA45_00501	CDS	492075..492575	putative isochorismatase
+snu:SPNA45_00502	CDS	492588..492941	conserved hypothetical protein
+snu:SPNA45_00503	CDS	493050..493790	putative methyltransferase
+snu:SPNA45_00504	CDS	493800..494897	conserved hypothetical protein
+snu:SPNA45_00505	CDS	495634..497247	putative phosphohydrolase
+snu:SPNA45_00506	CDS	497377..498003	gmk; guanylate kinase
+snu:SPNA45_00507	CDS	498028..498342	rpoZ; DNA-directed RNA polymerase omega chain
+snu:SPNA45_00508	CDS	498408..500804	priA; putative primosomal protein N'
+snu:SPNA45_00509	CDS	500817..501752	fmt; methionyl-tRNA formyltransferase
+snu:SPNA45_00510	CDS	501994..503058	putative ribosomal RNA small subunit methyltransferase
+snu:SPNA45_00511	CDS	503073..503813	putative protein phosphatase
+snu:SPNA45_00512	CDS	503810..505789	stk1; serine/threonine-protein kinase
+snu:SPNA45_00513	CDS	505904..506662	putative membrane protein
+snu:SPNA45_00514	CDS	506778..507113	putative membrane protein
+snu:SPNA45_00515	CDS	507866..508114	putative uncharacterized protein
+snu:SPNA45_00516	CDS	508245..509417	mvaS; 3-hydroxy-3-methylglutaryl coenzyme A synthase
+snu:SPNA45_00517	CDS	509417..510691	mvaA; 3-hydroxy-3-methylglutaryl-coenzyme A reductase
+snu:SPNA45_00518	CDS	complement(510727..511692)	scrR; putative sucrose operon repressor
+snu:SPNA45_00519	CDS	complement(511673..513127)	scrB; putative sucrose-6-phosphate hydrolase
+snu:SPNA45_00520	CDS	513180..513377	hypothetical protein
+snu:SPNA45_00521	CDS	513503..515440	PTS system, sucrose-specific IIB component (EC 2.7.1.69) / PTS system, sucrose-specific IIC component (EC 2.7.1.69) / PTS system, sucrose-specific IIA component (EC 2.7.1.69)
+snu:SPNA45_00522	CDS	515589..516476	scrK; fructokinase
+snu:SPNA45_00523	CDS	complement(516519..517136)	putative membrane protein
+snu:SPNA45_00524	gene	complement(join(517849..518076,518081..518191))	pseudogene
+snu:SPNA45_00525	CDS	518314..519207	ABC transporter, ATP-binding protein
+snu:SPNA45_00526	CDS	519204..520403	putative membrane protein
+snu:SPNA45_00527	CDS	complement(520760..521527)	putative membrane protein
+snu:SPNA45_00528	CDS	complement(521544..522239)	ABC transporter ATP-binding protein
+snu:SPNA45_00529	CDS	complement(522244..522609)	GntR family regulatory protein
+snu:SPNA45_00530	CDS	522749..523222	ATP-binding protein
+snu:SPNA45_00531	CDS	523223..524392	dnaB; replication initiation and membrane attachment protein
+snu:SPNA45_00532	CDS	524393..525289	dnaI; putative primosomal protein
+snu:SPNA45_00533	CDS	525286..525849	nfsA; oxygen-insensitive NADPH nitroreductase
+snu:SPNA45_00534	CDS	525863..527173	engA; GTP-binding protein EngA
+snu:SPNA45_00535	CDS	527255..527599	putative membrane protein
+snu:SPNA45_00536	CDS	527739..528074	hypothetical protein
+snu:SPNA45_00537	CDS	528259..529050	putative membrane protein
+snu:SPNA45_00538	CDS	529043..529684	putative membrane protein
+snu:SPNA45_00539	CDS	529688..530338	ABC transporter, ATP-binding protein
+snu:SPNA45_00540	CDS	530349..530636	putative membrane protein
+snu:SPNA45_00541	CDS	530782..533295	secA; putative preprotein SecA subunit
+snu:SPNA45_00542	CDS	533376..534407	aroF1; putative phospho-2-dehydro-3-deoxyheptonate aldolase 1
+snu:SPNA45_00543	CDS	534409..535440	aroF; phospho-2-dehydro-3-deoxyheptonate aldolase, tyr-sensitive
+snu:SPNA45_00544	CDS	535485..535847	acpS; holo-[acyl-carrier protein] synthase
+snu:SPNA45_00545	CDS	535837..536940	alr; alanine racemase
+snu:SPNA45_00546	CDS	536959..538974	recG; ATP-dependent DNA helicase
+snu:SPNA45_00547	CDS	539488..540468	acetyl xylan esterase (AXE1) family protein
+snu:SPNA45_00548	CDS	541698..544640	nanA; sialidase A (neuraminidase A)
+snu:SPNA45_00549	CDS	545638..546090	conserved hypothetical protein
+snu:SPNA45_00550	CDS	546109..547446	putative ABC transport protein, solute-binding component
+snu:SPNA45_00551	CDS	547525..548409	putative permease component of ABC transporter
+snu:SPNA45_00552	CDS	548409..549242	putative permease component of ABC transporter
+snu:SPNA45_00553	CDS	549260..551353	nanB; sialidase B precursor (neuraminidase B)
+snu:SPNA45_00554	CDS	551365..552468	putative oxidoreductase
+snu:SPNA45_00555	CDS	552643..553341	putative N-acetylmannosamine-6-phosphate 2-epimerase
+snu:SPNA45_00556	CDS	553360..554877	sugar phosphotransferase system (PTS), IIBC component
+snu:SPNA45_00557	CDS	555002..556330	extracellular solute-binding lipoprotein
+snu:SPNA45_00558	CDS	556582..557448	putative transport system permease
+snu:SPNA45_00559	CDS	557464..558303	putative transport system permease
+snu:SPNA45_00560	CDS	558574..559026	conserved hypothetical protein
+snu:SPNA45_00561	gene	join(559123..559233,559239..559463)	pseudogene
+snu:SPNA45_00562	CDS	559750..560394	putative membrane protein
+snu:SPNA45_00565	CDS	560567..561484	nanH; putative N-acetylneuraminate lyase
+snu:SPNA45_00566	CDS	561502..562386	ROK family protein
+snu:SPNA45_00567	CDS	complement(562402..563253)	putative transcription regulator
+snu:SPNA45_00568	CDS	563468..565510	penA; penicillin-binding protein 2b
+snu:SPNA45_00569	CDS	565521..566117	recR; recombination protein RecR
+snu:SPNA45_00570	CDS	566293..567336	ddlA; D-alanine--D-alanine ligase
+snu:SPNA45_00571	CDS	567420..568793	murF; putative UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+snu:SPNA45_00572	CDS	568780..569391	MutT/NUDIX hydrolase family protein
+snu:SPNA45_00573	CDS	569482..570186	putative membrane protein
+snu:SPNA45_00574	CDS	570405..571778	ftsA; putative cell division protein
+snu:SPNA45_00575	CDS	571795..573054	ftsZ; cell division protein FtsZ
+snu:SPNA45_00576	CDS	573059..573730	conserved hypothetical protein
+snu:SPNA45_00577	CDS	573740..574279	conserved hypothetical protein
+snu:SPNA45_00578	CDS	574279..574542	putative membrane protein
+snu:SPNA45_00579	CDS	574539..575324	conserved hypothetical protein
+snu:SPNA45_00580	CDS	575333..576067	putative cell-division protein DivIVA
+snu:SPNA45_00581	CDS	576098..576214	Cell division initiation protein DivIVA
+snu:SPNA45_00582	CDS	576467..579259	ileS; isoleucyl-tRNA synthetase
+snu:SPNA45_00583	gene	join(579771..579816,579822..579841,579846..580106)	pseudogene
+snu:SPNA45_00584	CDS	580482..580670	putative uncharacterized protein
+snu:SPNA45_00585	CDS	580721..581413	gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+snu:SPNA45_00586	CDS	581466..583877	conserved hypothetical protein
+snu:SPNA45_00587	CDS	584127..584828	ABC transporter ATP-binding protein
+snu:SPNA45_00588	gene	584830..587538	pseudogene
+snu:SPNA45_00589	CDS	complement(587634..588125)	tpx; putative thiol peroxidase
+snu:SPNA45_00590	CDS	complement(588246..589175)	mtsA; metal ABC transporter substrate-binding lipoprotein precursor
+snu:SPNA45_00591	CDS	complement(589207..590055)	mtsC; metal cation ABC transporter membrane protein
+snu:SPNA45_00592	CDS	complement(590052..590774)	mtsB; metal cation ABC transporter ATP-binding protein
+snu:SPNA45_00593	CDS	591074..592966	pepO; putative endopeptidase O
+snu:SPNA45_00594	CDS	complement(593089..593718)	metallo-beta-lactamase superfamily protein
+snu:SPNA45_00595	CDS	594711..596933	relA; GTP pyrophosphokinase
+snu:SPNA45_00596	CDS	596963..597406	D-tyrosyl-tRNA(Tyr) deacylase
+snu:SPNA45_00597	gene	complement(join(597445..597750,597756..597860,597879..598292,598394..598945))	pseudogene
+snu:SPNA45_00598	CDS	complement(599097..599270)	hypothetical protein
+snu:SPNA45_00599	CDS	complement(599251..599901)	scaR; metal-dependent transcriptional regulator
+snu:SPNA45_00600	CDS	600013..600855	putative metallophosphoesterase protein
+snu:SPNA45_00601	CDS	600931..601368	putative transcriptional regulator protein
+snu:SPNA45_00602	CDS	complement(601830..602903)	conserved hypothetical protein
+snu:SPNA45_00603	CDS	603059..603736	response regulator protein
+snu:SPNA45_00604	CDS	603729..604703	sensor histidine kinase protein
+snu:SPNA45_00605	CDS	complement(604752..606695)	thrS; threonyl-tRNA synthetase
+snu:SPNA45_00606	gene	complement(606753..607076)	pseudogene
+snu:SPNA45_00607	CDS	complement(607507..607716)	putative membrane protein
+snu:SPNA45_00608	CDS	607944..608573	Rrf2-linked NADH-flavin reductase
+snu:SPNA45_00609	CDS	608714..608983	rpsO; 30S ribosomal protein S15
+snu:SPNA45_00610	CDS	609799..610413	cadD; cadmium resistance protein
+snu:SPNA45_00611	CDS	complement(610706..611455)	putative acyltransferase
+snu:SPNA45_00612	gene	join(611588..613921,613925..614080,614382..615833)	pseudogene
+snu:SPNA45_00613	CDS	615791..617281	Transketolase
+snu:SPNA45_00614	gene	join(617655..617867,618042..618926)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00615	gene	complement(join(619000..619743,619748..619990))	pseudogene
+snu:SPNA45_00616	CDS	620541..621218	conserved hypothetical protein
+snu:SPNA45_00617	CDS	621205..622002	NIF3 (NGG1p interacting factor 3) family protein
+snu:SPNA45_00618	CDS	622019..623122	FAD dependent oxidoreductase
+snu:SPNA45_00619	CDS	623129..623320	N-ethylammeline chlorohydrolase
+snu:SPNA45_00620	CDS	623423..624442	galE; UDP-glucose 4-epimerase
+snu:SPNA45_00621	CDS	624444..625397	membrane glycosyl transferase
+snu:SPNA45_00622	CDS	complement(625459..625671)	hypothetical protein
+snu:SPNA45_00623	CDS	625717..626193	putative membrane protein
+snu:SPNA45_00624	CDS	626202..626873	cmk; cytidylate kinase
+snu:SPNA45_00625	CDS	627002..627340	PhnA protein
+snu:SPNA45_00626	CDS	627343..627972	putative membrane protein
+snu:SPNA45_00627	CDS	628212..629363	Major Facilitator Superfamily protein
+snu:SPNA45_00628	CDS	629676..630425	truA; tRNA pseudouridine synthase A
+snu:SPNA45_00629	CDS	630415..631188	thiD; putative phosphomethylpyrimidine kinase
+snu:SPNA45_00630	CDS	631166..631627	putative membrane protein
+snu:SPNA45_00631	CDS	complement(631656..631775)	N-ethylammeline chlorohydrolase
+snu:SPNA45_00632	gene	join(631790..632056,632060..633118)	pseudogene
+snu:SPNA45_00633	CDS	complement(633243..633719)	putative acetyltransferase (GNAT) family protein
+snu:SPNA45_00634	CDS	complement(633439..634521)	pepQ; putative Xaa-Pro dipeptidase
+snu:SPNA45_00635	CDS	complement(634647..635429)	putative aminotransferase
+snu:SPNA45_00636	CDS	complement(635429..636772)	Mur ligase family protein
+snu:SPNA45_00637	CDS	complement(636871..638187)	pyridine nucleotide-disulphide oxidoreductase
+snu:SPNA45_00638	gene	638381..639607	pseudogene
+snu:SPNA45_00639	CDS	640268..641365	DEAD box helicase family protein
+snu:SPNA45_00640	CDS	641629..642417	codY; GTP-sensing transcriptional pleiotropic repressor
+snu:SPNA45_00641	gene	join(642417..642716,642717..642992)	pseudogene
+snu:tRNA-Leu-8	tRNA	643074..643159	tRNA-Leu
+snu:SPNA45_00642	CDS	643442..644572	msmK; multiple sugar-binding transport ATP-binding protein
+snu:SPNA45_00643	CDS	complement(644719..644865)	putative uncharacterized protein
+snu:SPNA45_00644	CDS	645073..645831	putative methyltransferase
+snu:SPNA45_00645	CDS	645918..646430	apt; adenine phosphoribosyltransferase
+snu:SPNA45_00646	CDS	646613..647557	metA; homoserine O-succinyltransferase
+snu:SPNA45_00647	CDS	647566..648243	putative DNA replication protein DnaD
+snu:SPNA45_00648	CDS	648341..649099	tpi; triosephosphate isomerase
+snu:SPNA45_00649	CDS	join(649137..649496,649502..650599)	putative exported choline-binding glycosyl hydrolase
+snu:SPNA45_00650	CDS	651136..651654	dpr; Dps-like peroxide resistance protein Dpr
+snu:SPNA45_00651	CDS	651784..652290	dyr; dihydrofolate reductase
+snu:SPNA45_00652	CDS	652290..652460	putative exported protein
+snu:SPNA45_00653	CDS	652492..653724	clpX; ATP-dependent Clp protease ATP-binding subunit ClpX
+snu:SPNA45_00654	CDS	653733..654320	engB; putative GTP-binding protein
+snu:SPNA45_00655	CDS	654331..654711	endoribonuclease L-PSP family protein
+snu:SPNA45_00656	CDS	654763..655653	P-loop ATPase protein family protein
+snu:SPNA45_00657	CDS	655650..656627	conserved hypothetical protein
+snu:SPNA45_00658	CDS	656624..657535	conserved hypothetical protein
+snu:SPNA45_00659	CDS	complement(657569..658534)	pyridine nucleotide-disulphide oxidoreductase family protein
+snu:SPNA45_00660	CDS	658670..659527	putative membrane protein
+snu:SPNA45_00661	CDS	659514..660293	putative exported protein
+snu:SPNA45_00662	CDS	660317..661669	putative phosphoglucosamine mutase
+snu:SPNA45_00663	gene	join(661743..662117,662119..662415,662366..662710)	pseudogene
+snu:SPNA45_00664	CDS	662987..663754	dapB; putative dihydrodipicolinate reductase
+snu:SPNA45_00665	CDS	663766..664950	cca; CCA-adding enzyme
+snu:SPNA45_00666	CDS	664947..666818	ABC transporter ATP-binding protein
+snu:SPNA45_00667	CDS	complement(666961..668145)	cation efflux family protein
+snu:SPNA45_00668	CDS	668449..671145	cation transporting ATPase
+snu:SPNA45_00669	CDS	671158..671949	putative glutathione S-transferase
+snu:SPNA45_00670	CDS	672206..672475	fms; peptide deformylase
+snu:SPNA45_00671	CDS	672487..674082	putative membrane protein
+snu:SPNA45_00672	CDS	674148..674312	hypothetical protein
+snu:SPNA45_00673	CDS	674391..675119	yaaA; UPF0246 protein YaaA
+snu:SPNA45_00674	CDS	complement(675396..675944)	putative NADPH-dependent FMN reductase
+snu:SPNA45_00675	CDS	676082..676198	hypothetical protein
+snu:SPNA45_00676	CDS	676322..676753	putative membrane protein
+snu:SPNA45_00677	CDS	676750..677937	aspC; aspartate aminotransferase
+snu:SPNA45_00678	CDS	677930..678295	conserved hypothetical protein
+snu:SPNA45_00679	CDS	678314..679657	asnS; asparaginyl-tRNA synthetase
+snu:SPNA45_00680	CDS	679810..680100	rpsF; 30S ribosomal protein S6
+snu:SPNA45_00681	CDS	680112..680582	ssb; single strand binding protein (SSB)
+snu:SPNA45_00682	CDS	680614..680853	rpsR; 30S ribosomal protein S18
+snu:SPNA45_00683	gene	join(681148..681972,681978..682547)	pseudogene
+snu:SPNA45_00684	CDS	682549..682908	putative S1 RNA binding domain protein
+snu:SPNA45_00685	CDS	682962..683711	conserved hypothetical protein
+snu:SPNA45_00686	CDS	683701..684000	conserved hypothetical protein
+snu:SPNA45_00687	CDS	684071..685006	ppaC; manganese-dependent inorganic pyrophosphatase
+snu:SPNA45_00688	CDS	685093..685605	putative uncharacterized protein
+snu:SPNA45_00689	CDS	685642..686238	conserved hypothetical protein (pseudogene)
+snu:SPNA45_00690	CDS	686339..686533	CsbD-like protein
+snu:SPNA45_00691	CDS	complement(686579..688024)	murE; UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-dia minopimelate ligase
+snu:SPNA45_00692	CDS	688130..689752	putative polysaccharide biosynthesis protein
+snu:SPNA45_00693	CDS	689956..691914	putative extracellular oligopeptide-binding protein
+snu:SPNA45_00694	gene	join(692086..693021,693046..693768)	pseudogene
+snu:SPNA45_00695	CDS	693926..695020	putative cystathionine beta-lyase
+snu:SPNA45_00696	CDS	695028..696194	putative aminotransferase
+snu:SPNA45_00697	CDS	696287..699385	putative SNF-family helicase
+snu:SPNA45_00698	CDS	699433..700050	putative ATP-binding protein
+snu:SPNA45_00699	CDS	700061..701395	murC; UDP-N-acetylmuramate--alanine ligase
+snu:SPNA45_00700	CDS	701405..701869	acetyltransferase, gnat family protein. acetyltransferase, gnat family protein
+snu:SPNA45_00701	CDS	701866..702360	acetyltransferase (GNAT) family protein
+snu:SPNA45_00702	CDS	702591..704096	putative aminodeoxychorismate lyase
+snu:SPNA45_00703	CDS	704167..704649	greA; transcription elongation factor
+snu:SPNA45_00704	gene	complement(join(704734..705261,705258..706040))	tnp_(pseudogene); pseudogene
+snu:SPNA45_00705	gene	join(706472..706528,706534..706893)	pseudogene
+snu:SPNA45_00706	gene	join(707314..707358,707363..708277)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00707	CDS	708352..708552	atpE; ATP synthase C chain
+snu:SPNA45_00708	CDS	708587..709303	atpB; ATP synthase A chain
+snu:SPNA45_00709	CDS	709317..709811	atpF; ATP synthase B chain
+snu:SPNA45_00710	CDS	709811..710347	atpH; putative ATP synthase delta chain
+snu:SPNA45_00711	CDS	710503..711867	atpA; ATP synthase alpha chain
+snu:SPNA45_00712	CDS	711883..712761	atpG; ATP synthase gamma chain
+snu:SPNA45_00713	CDS	712847..714253	atpD; ATP synthase beta chain
+snu:SPNA45_00714	CDS	714264..714683	atpC; ATP synthase epsilon chain
+snu:SPNA45_00715	CDS	complement(714728..715741)	conserved hypothetical protein
+snu:SPNA45_00716	CDS	715885..717051	putative membrane protein
+snu:SPNA45_00717	CDS	717059..718270	conserved hypothetical protein
+snu:SPNA45_00718	CDS	718416..719054	putative amino acid ABC transporter permease protein
+snu:SPNA45_00719	CDS	719068..719697	putative amino acid ABC transporter ATP-binding protein
+snu:SPNA45_00720	CDS	719710..720543	putative amino acid ABC transporter, extracellular amino acid-binding protein
+snu:SPNA45_00721	CDS	complement(720825..721172)	conserved hypothetical protein
+snu:SPNA45_00722	CDS	complement(721283..723001)	pgmA; putative phosphomannomutase
+snu:SPNA45_00723	gene	join(723235..723374,723378..723486,723546..724079)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00724	CDS	724443..724673	putative uncharacterized protein
+snu:SPNA45_00725	CDS	724839..725294	hypothetical protein
+snu:SPNA45_00726	CDS	725282..725434	hypothetical protein
+snu:SPNA45_00727	CDS	725849..726370	Cell wall surface anchored protein
+snu:SPNA45_00728	CDS	726594..727463	gla; glycerol facilitator-aquaporin
+snu:SPNA45_00729	CDS	728339..729535	tufA; elongation factor Tu (EF-Tu)
+snu:SPNA45_00731	CDS	complement(730366..731448)	ATP-dependent RNA helicase YfmL
+snu:SPNA45_00732	CDS	complement(731445..732422)	oxidoreductase, Gfo/Idh/MocA family
+snu:SPNA45_00733	CDS	732760..733140	hypothetical protein
+snu:SPNA45_00734	CDS	733375..734766	polysaccharide deacetylase family protein
+snu:SPNA45_00735	CDS	734880..735722	aldo/keto reductase family protein
+snu:SPNA45_00736	gene	complement(join(734976..735665,735669..735818))	pseudogene
+snu:SPNA45_00737	CDS	735995..736756	hypothetical protein
+snu:SPNA45_00738	CDS	736775..737692	glyQ; glycyl-tRNA synthetase alpha chain
+snu:SPNA45_00739	CDS	737952..739988	glyS; glycyl-tRNA synthetase beta chain
+snu:SPNA45_00740	CDS	740030..740287	conserved hypothetical protein
+snu:SPNA45_00741	CDS	complement(740404..741648)	putative NADPH-dependent FMN reductase
+snu:SPNA45_00742	CDS	complement(741667..742272)	putative NADPH-dependent FMN reductase
+snu:SPNA45_00743	CDS	complement(742332..743225)	ApbE family protein
+snu:SPNA45_00744	CDS	743550..744929	nox; NADH oxidase
+snu:SPNA45_00745	CDS	745081..745956	putative pyridoxine biosynthesis protein
+snu:SPNA45_00746	CDS	745957..746538	SNO glutamine amidotransferase family protein
+snu:SPNA45_00747	CDS	complement(746559..747206)	haemolysin-III related membrane protein
+snu:SPNA45_00748	gene	complement(join(747203..747430,747436..747654))	pseudogene
+snu:SPNA45_00749	gene	join(747783..748007,748012..748278)	pseudogene
+snu:SPNA45_00750	CDS	748278..748808	ogt; putative methylated-DNA--protein-cysteine methyltransferase
+snu:SPNA45_00751	CDS	748802..749158	ArsC family protein
+snu:SPNA45_00752	CDS	749316..750116	ABC transporter permease protein
+snu:SPNA45_00753	CDS	750116..750859	ABC transporter ATP-binding protein
+snu:SPNA45_00754	CDS	750937..751161	putative membrane protein
+snu:SPNA45_00755	CDS	751227..752138	putative thioredoxin reductase
+snu:SPNA45_00756	CDS	complement(752177..752905)	SpoU rRNA methylase family protein
+snu:SPNA45_00757	CDS	complement(752950..753561)	def; polypeptide deformylase
+snu:SPNA45_00758	CDS	join(754084..754797,754801..755010)	putative membrane protein (pseudogene)
+snu:SPNA45_00759	CDS	755158..755985	haloacid dehalogenase-like hydrolase
+snu:SPNA45_00760	CDS	755987..756622	GDSL-like Lipase/acylhydrolase family protein
+snu:SPNA45_00761	CDS	756706..757431	conserved hypothetical protein
+snu:SPNA45_00762	CDS	757428..758378	putative beta-lactamase
+snu:SPNA45_00763	CDS	758363..759259	putative membrane protein
+snu:SPNA45_00764	CDS	complement(759302..760000)	GntR family regulatory protein
+snu:SPNA45_00765	CDS	760142..761704	guaA; GMP synthase [glutamine-hydrolyzing]
+snu:SPNA45_00766	gene	join(761954..762193,762174..762200,762204..762461)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00767	CDS	762694..762888	FIG01114876: hypothetical protein
+snu:SPNA45_00768	gene	join(762875..763180,763232..763402,763475..763924)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00769	CDS	complement(764713..766077)	putative membrane protein
+snu:SPNA45_00772	CDS	complement(767163..768908)	putative membrane protein
+snu:SPNA45_00771	CDS	complement(767163..768884)	putative ABC transporter
+snu:SPNA45_00773	CDS	complement(768868..770622)	putative ABC transporter
+snu:SPNA45_00774	CDS	770782..771774	putative AraC-family transcriptional regulator
+snu:SPNA45_00775	CDS	complement(771896..772042)	FIG01115282: hypothetical protein
+snu:SPNA45_00776	CDS	complement(772289..773479)	putative DNA modification methylase
+snu:SPNA45_00777	CDS	complement(join(773476..773850,773854..774033))	putative restriction endonuclease (pseudogene)
+snu:SPNA45_00778	CDS	774657..775943	putative peptidase
+snu:SPNA45_00779	CDS	776518..777243	peptidase, U32 family small subunit [C1]
+snu:SPNA45_00780	CDS	777752..778471	putative ABC transporter ATP-binding protein (pseudogene)
+snu:SPNA45_00781	gene	778763..779215	pseudogene
+snu:SPNA45_00782	CDS	779571..779810	putative DNA-binding protein
+snu:SPNA45_00783	CDS	779800..780288	putative membrane protein
+snu:SPNA45_00784	CDS	780404..781864	nicotinate phosphoribosyltransferase (NAPRTase) family protein
+snu:SPNA45_00785	CDS	781861..782685	nadE; NH(3)-dependent NAD(+) synthetase
+snu:SPNA45_00786	CDS	782986..783537	acetyltransferase (GNAT) family protein
+snu:SPNA45_00787	CDS	join(784252..784893,784893..784916)	putative choline binding protein (pseudogene)
+snu:SPNA45_00788	CDS	784998..785387	Choline binding protein A
+snu:SPNA45_00789	CDS	complement(786048..787076)	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+snu:SPNA45_00790	CDS	787227..787934	nagB; glucosamine-6-phosphate isomerase
+snu:SPNA45_00791	CDS	788074..788250	rpsU; 30S ribosomal protein S21
+snu:SPNA45_00792	CDS	788380..789315	ptsK; HPr kinase/phosphorylase
+snu:SPNA45_00793	CDS	789308..790096	lgt; prolipoprotein diacylglyceryl transferase
+snu:SPNA45_00794	CDS	790097..790480	putative exported protein
+snu:SPNA45_00795	CDS	790496..790885	putative exported hydrophilic protein
+snu:SPNA45_00796	CDS	790969..792099	hemN; putative oxygen-independent coproporphyrinogen III oxidase
+snu:SPNA45_00797	CDS	792104..792841	putative acyl-ACP thioesterase
+snu:SPNA45_00798	CDS	792852..793625	haloacid dehalogenase-like hydrolase
+snu:SPNA45_00799	CDS	793615..794232	putative membrane protein
+snu:SPNA45_00800	CDS	794441..794842	spxA; regulatory protein Spx
+snu:SPNA45_00801	CDS	794842..795120	conserved hypothetical protein
+snu:SPNA45_00802	CDS	795176..795883	putative myo-inositol-1(or 4)-monophosphatase
+snu:SPNA45_00803	CDS	795884..797188	NOL1/NOP2/sun family protein
+snu:SPNA45_00804	CDS	797762..798640	pstS; putative phosphate ABC transporter, extracellular phosphate-binding lipoprotein
+snu:SPNA45_00805	CDS	798640..799557	putative phosphate ABC transporter permease protein
+snu:SPNA45_00806	CDS	799547..800431	putative phosphate ABC transporter permease protein
+snu:SPNA45_00807	CDS	800442..801245	pstB2; phosphate import ATP-binding protein 2
+snu:SPNA45_00808	CDS	801258..802016	pstB1; phosphate import ATP-binding protein 1
+snu:SPNA45_00809	CDS	802028..802681	phoU; putative phosphate transport system protein
+snu:SPNA45_00810	gene	join(802860..802892,802898..803653)	pseudogene
+snu:SPNA45_00811	CDS	complement(803673..804944)	GntR family regulatory protein
+snu:SPNA45_00812	CDS	805086..805817	aldB; alpha-acetolactate decarboxylase
+snu:SPNA45_00813	CDS	805827..806579	putative membrane protein
+snu:SPNA45_00814	CDS	806691..807596	murB; UDP-N-acetylenolpyruvoylglucosamine reductase
+snu:SPNA45_00815	CDS	807948..808913	potA; putative spermidine/putrescine ABC transporter ATP-binding protein
+snu:SPNA45_00816	CDS	808894..809700	potB; putative spermidine/putrescine ABC transporter permease protein
+snu:SPNA45_00817	CDS	809697..810470	potC; spermidine/putrescine ABC transporter permease protein
+snu:SPNA45_00818	CDS	810467..811537	potD; spermidine/putrescine extracellular binding protein
+snu:SPNA45_00819	CDS	812304..812789	conserved hypothetical protein
+snu:SPNA45_00820	CDS	812811..815429	alaS; alanyl-tRNA synthetase
+snu:SPNA45_00821	CDS	complement(815519..816973)	putative alpha-amylase
+snu:SPNA45_00822	CDS	817152..817901	ABC transporter ATP-binding protein
+snu:SPNA45_00823	gene	817882..819516	pseudogene
+snu:SPNA45_00824	CDS	820191..821363	conserved hypothetical protein
+snu:SPNA45_00825	CDS	821360..822037	aroD; 3-dehydroquinate dehydratase
+snu:SPNA45_00826	CDS	822027..822881	aroE; shikimate 5-dehydrogenase
+snu:SPNA45_00827	CDS	822900..823967	aroB; 3-dehydroquinate synthase
+snu:SPNA45_00828	CDS	823977..825143	aroF; chorismate synthase
+snu:SPNA45_00829	CDS	825153..826256	tyrA; prephenate dehydrogenase
+snu:SPNA45_00830	CDS	826267..826605	conserved hypothetical protein
+snu:SPNA45_00831	CDS	826697..827980	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+snu:SPNA45_00832	CDS	827973..828449	aroK; putative shikimate kinase
+snu:SPNA45_00833	CDS	828446..829294	pheA; prephenate dehydratase
+snu:SPNA45_00834	CDS	829291..830565	cell envelope-related transcriptional attenuator domain protein
+snu:SPNA45_00835	CDS	830844..831689	putative LicD-family phosphotransferase
+snu:SPNA45_00836	CDS	831625..832782	putative glycosyl transferase
+snu:SPNA45_00837	CDS	832784..833770	putative glycosyl transferase
+snu:SPNA45_00838	CDS	834086..835219	putative membrane protein
+snu:SPNA45_00839	CDS	835248..836282	putative membrane protein
+snu:SPNA45_00840	CDS	836482..837219	mecA; adapter protein MecA
+snu:SPNA45_00841	CDS	837370..838656	hom; homoserine dehydrogenase
+snu:SPNA45_00843	CDS	join(838658..839524,839528..839755)	N-ethylammeline chlorohydrolase
+snu:SPNA45_00842	CDS	838658..839527	thrB; homoserine kinase
+snu:SPNA45_00844	CDS	839822..840760	Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11) / Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)
+snu:SPNA45_00845	CDS	840818..842542	msbA; Lipid A export ATP-binding/permease protein MsbA
+snu:SPNA45_00846	CDS	842544..844292	ABC transporter, ATP-binding/permease protein
+snu:SPNA45_00847	CDS	844595..845854	S-adenosylhomocysteine deaminase (EC 3.5.4.28); Methylthioadenosine deaminase
+snu:SPNA45_00848	CDS	846104..846604	LSU ribosomal protein L10p (P0)
+snu:SPNA45_00849	CDS	846680..847048	LSU ribosomal protein L7/L12 (P1/P2)
+snu:SPNA45_00850	CDS	complement(847148..848299)	int; Phage integrase
+snu:SPNA45_00851	CDS	848421..848552	hypothetical protein
+snu:SPNA45_00852	CDS	complement(848583..849020)	hypothetical protein
+snu:SPNA45_00853	CDS	complement(849159..849935)	CI-like repressor, phage associated
+snu:SPNA45_00854	CDS	850103..850378	hypothetical protein
+snu:SPNA45_00855	CDS	850442..850654	gp6
+snu:SPNA45_00856	CDS	complement(850630..851088)	hypothetical protein
+snu:SPNA45_00857	CDS	851371..851532	hypothetical protein
+snu:SPNA45_00858	CDS	complement(851506..851829)	hypothetical protein
+snu:SPNA45_00859	CDS	851978..852163	phage protein
+snu:SPNA45_00860	CDS	852293..852475	hypothetical protein
+snu:SPNA45_00861	CDS	853056..853325	hypothetical protein
+snu:SPNA45_00862	CDS	853454..853636	hypothetical protein
+snu:SPNA45_00863	CDS	complement(853633..853857)	hypothetical protein
+snu:SPNA45_00864	CDS	854327..854638	excisionase
+snu:SPNA45_00865	CDS	854641..854862	hypothetical protein
+snu:SPNA45_00866	CDS	854920..855117	hypothetical protein
+snu:SPNA45_00867	CDS	855136..855285	hypothetical protein
+snu:SPNA45_00868	CDS	855342..855818	V-type ATP synthase subunit K (EC 3.6.3.14)
+snu:SPNA45_00869	CDS	855852..856433	V-type ATP synthase subunit E (EC 3.6.3.14)
+snu:SPNA45_00870	CDS	856498..857505	V-type ATP synthase subunit C (EC 3.6.3.14)
+snu:SPNA45_00871	CDS	857495..857815	V-type ATP synthase subunit F (EC 3.6.3.14)
+snu:SPNA45_00872	gene	join(857878..858726,858736..859227,859348..859653)	pseudogene
+snu:SPNA45_00873	gene	join(859654..859977,860071..861039)	pseudogene
+snu:SPNA45_00874	CDS	861062..861673	V-type ATP synthase subunit D (EC 3.6.3.14)
+snu:SPNA45_00875	CDS	861715..861864	Methionine ABC transporter ATP-binding protein
+snu:SPNA45_00876	CDS	861947..862132	hypothetical protein
+snu:SPNA45_00877	CDS	862113..862463	tnp_(pseudogene); Degenerate transposase
+snu:SPNA45_00878	gene	join(862913..863221,863225..863242,863246..863743,863754..863975)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00879	gene	join(864068..864457,864483..864872)	tnp_(pseudogene); pseudogene
+snu:SPNA45_00880	CDS	join(865119..865463,865467..865649)	putative ABC transporter ATP-binding protein
+snu:SPNA45_00881	CDS	complement(866145..867491)	gdh; NADP-specific glutamate dehydrogenase
+snu:SPNA45_00882	gene	join(868039..868095,868101..868442)	pseudogene
+snu:SPNA45_00883	gene	868494..869498	pseudogene
+snu:SPNA45_00884	CDS	869650..870051	putative uncharacterized protein (pseudogene)
+snu:SPNA45_00885	CDS	complement(870108..870350)	rpmE; 50S ribosomal protein L31
+snu:SPNA45_00886	CDS	complement(870446..871381)	conserved hypothetical protein
+snu:SPNA45_00887	CDS	871485..871928	putative flavodoxin
+snu:SPNA45_00888	CDS	872044..872310	chorismate mutase type II protein
+snu:SPNA45_00889	CDS	872307..872681	CrcB-like protein
+snu:SPNA45_00890	CDS	872675..873004	CrcB-like protein
+snu:SPNA45_00891	CDS	873123..873470	rplS; 50S ribosomal protein L19
+snu:tRNA-Arg-4	tRNA	873513..873584	tRNA-Arg
+snu:SPNA45_00892	CDS	complement(873751..874749)	SAP domain protein
+snu:SPNA45_00893	CDS	complement(874792..875598)	haloacid dehalogenase-like hydrolase
+snu:SPNA45_00894	CDS	complement(875611..876915)	putative phosphohydrolase
+snu:SPNA45_00895	CDS	876999..877364	conserved hypothetical protein
+snu:SPNA45_00896	CDS	877455..877787	putative DNA-binding protein
+snu:SPNA45_00897	CDS	877799..879370	ffh; signal recognition particle protein
+snu:SPNA45_00898	CDS	complement(879565..880848)	pyrP; uracil permease
+snu:SPNA45_00899	CDS	complement(881102..881815)	gidB; methyltransferase GidB
+snu:SPNA45_00900	CDS	881909..882469	LemA family protein
+snu:SPNA45_00901	CDS	882471..883370	htpX; putative protease HtpX homolog
+snu:SPNA45_00902	gene	complement(join(883414..884004,884009..884941))	pseudogene
+snu:SPNA45_00903	CDS	complement(join(885213..885386,885392..885577))	putative uncharacterized protein (pseudogene)
+snu:SPNA45_00904	CDS	885699..886241	conserved hypothetical protein
+snu:SPNA45_00905	CDS	886241..886870	nth; putative endonuclease III
+snu:SPNA45_00906	CDS	887081..887602	pyrR; PyrR bifunctional protein [includes: pyrimidine operon regulatory protein; uracil phosphoribosyltransferase]
+snu:SPNA45_00907	CDS	887621..888544	pyrB; aspartate carbamoyltransferase
+snu:SPNA45_00908	CDS	888594..889673	carA; carbamoyl-phosphate synthase small chain
+snu:SPNA45_00909	CDS	889986..893162	carB; carbamoyl-phosphate synthase large chain
+snu:SPNA45_00910	CDS	complement(893437..894246)	putative phosphotransferase LicD2
+snu:SPNA45_00911	CDS	complement(894248..895051)	putative phosphotransferase LicD1
+snu:SPNA45_00912	CDS	complement(895061..896548)	putative polysaccharide biosynthesis flippase
+snu:SPNA45_00913	CDS	896884..897591	conserved hypothetical protein
+snu:SPNA45_00914	CDS	897596..898618	putative zinc-binding dehydrogenase
+snu:SPNA45_00915	CDS	898716..899504	putative kinase
+snu:SPNA45_00916	CDS	899494..900372	putative LicB-family membrane protein
+snu:SPNA45_00917	CDS	900432..901073	licC; CTP:phosphocholine cytidylyltransferase
+snu:SPNA45_00918	CDS	901170..902018	SMF family protein
+snu:SPNA45_00919	CDS	903000..903944	putative membrane protein
+snu:SPNA45_00920	CDS	904267..906198	topA; DNA topoisomerase I
+snu:SPNA45_00921	CDS	906304..906663	putative membrane protein
+snu:SPNA45_00922	CDS	906756..907388	CutC family protein
+snu:SPNA45_00923	CDS	907432..908088	putative conserved hypothetical protein
+snu:SPNA45_00924	CDS	908107..909201	leuA; putative 2-isopropylmalate synthase (pseudogene)
+snu:SPNA45_00925	CDS	909213..910250	leuB; 3-isopropylmalate dehydrogenase
+snu:SPNA45_00926	CDS	910247..910516	putative membrane protein
+snu:SPNA45_00927	CDS	910520..910879	putative 3-isopropylmalate dehydratase small subunit
+snu:SPNA45_00928	CDS	join(911098..911238,911242..911454,911454..911663)	putative conserved hypothetical protein (pseudogene)
+snu:SPNA45_00929	CDS	join(911826..913046,913050..913757)	putative endonuclease
+snu:SPNA45_00930	CDS	913744..915060	putative uncharacterized protein
+snu:SPNA45_00931	CDS	915235..916221	GMP reductase
+snu:tRNA-Arg-5	tRNA	916285..916356	tRNA-Arg
+snu:SPNA45_00932	CDS	916539..917237	rnc; ribonuclease III
+snu:SPNA45_00933	CDS	917228..920767	smc; putative chromosome partition protein
+snu:SPNA45_00934	CDS	complement(920960..921811)	Positive transcriptional regulator, MutR family
+snu:SPNA45_00935	CDS	922454..923881	Pyridoxal-dependent decarboxylase
+snu:SPNA45_00936	CDS	923868..924752	hypothetical protein
+snu:SPNA45_00937	CDS	924788..927241	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+snu:SPNA45_00938	CDS	927234..928442	ABC transporter membrane-spanning permease-macrolide efflux
+snu:SPNA45_00939	gene	928652..928963	tnp_(pseudogene); pseudogene
+snu:SPNA45_00940	CDS	928897..929094	Site-specific recombinase
+snu:SPNA45_00941	CDS	929235..929717	hypothetical protein
+snu:SPNA45_00942	CDS	929851..930642	Hydrolase (HAD superfamily)
+snu:SPNA45_00943	CDS	930642..931460	haloacid dehalogenase-like hydrolase
+snu:SPNA45_00945	CDS	931464..932741	ftsY; putative signal recognition particle 54 FtsY
+snu:SPNA45_00946	CDS	complement(932785..934272)	zwf; glucose-6-phosphate 1-dehydrogenase
+snu:SPNA45_00947	CDS	complement(934421..935161)	glnQ1; putative glutamine ABC transporter, ATP-binding protein 1
+snu:SPNA45_00948	CDS	complement(935161..937326)	putative glutamine ABC transporter, glutamine-binding protein/permease protein
+snu:SPNA45_00949	CDS	937499..938452	CAAX amino terminal protease family protein
+snu:SPNA45_00950	CDS	938529..940517	uvrB; UvrABC system protein B (UvrB protein)
+snu:SPNA45_00951	CDS	940527..941090	conserved hypothetical protein
+snu:SPNA45_00952	CDS	941056..941565	acetyltransferase (GNAT) family protein
+snu:SPNA45_00953	gene	join(941618..941719,941723..942085)	pseudogene
+snu:SPNA45_00954	CDS	complement(942082..942597)	putative small-molecule-binding protein
+snu:SPNA45_00955	CDS	complement(942609..943109)	putative membrane protein
+snu:SPNA45_00956	CDS	complement(943418..943981)	putative membrane protein
+snu:SPNA45_00957	CDS	complement(943965..944516)	coaC; putative phosphopantothenoylcysteine decarboxylase
+snu:SPNA45_00958	CDS	complement(944528..945217)	dpfB; putative pantothenate metabolism flavoprotein
+snu:SPNA45_00959	CDS	945447..947117	fhs1; formate--tetrahydrofolate ligase 1
+snu:SPNA45_00960	CDS	947445..948620	mutY; putative A/G-specific adenine glycosylase
+snu:SPNA45_00961	CDS	948676..949380	vicR; response regulator protein
+snu:SPNA45_00962	CDS	949373..950722	vicK; sensor histidine kinase
+snu:SPNA45_00963	CDS	950724..951533	vicX; metallo-beta-lactamase superfamily protein
+snu:SPNA45_00964	CDS	951624..951866	conserved hypothetical protein
+snu:SPNA45_00965	CDS	951859..952122	putative plasmid addiction system, toxin protein
+snu:SPNA45_00966	CDS	952197..954068	type II restriction endonuclease, putative
+snu:SPNA45_00967	CDS	954233..957487	Type II restriction endonuclease
+snu:SPNA45_00968	CDS	complement(957873..958859)	ldh; L-lactate dehydrogenase
+snu:SPNA45_00969	CDS	959053..961521	gyrA; DNA gyrase subunit A
+snu:SPNA45_00970	CDS	961521..962264	srtA; sortase SrtA
+snu:SPNA45_00971	CDS	962508..963305	putative formate/nitrate transport protein
+snu:SPNA45_00972	CDS	join(963453..963572,963576..964712)	cysD; O-acetylhomoserine (thiol)-lyase (pseudogene)
+snu:SPNA45_00973	CDS	964808..966082	conserved hypothetical protein
+snu:SPNA45_00974	CDS	966092..966970	truB; tRNA pseudouridine synthase B
+snu:SPNA45_00975	CDS	967231..967533	putative bacteriocin immunity protein
+snu:SPNA45_00976	CDS	967641..968279	udk; uridine kinase
+snu:SPNA45_00977	CDS	968407..969747	xseA; putative exodeoxyribonuclease VII large subunit
+snu:SPNA45_00978	CDS	969725..969937	xseB; putative exodeoxyribonuclease VII small subunit
+snu:SPNA45_00979	CDS	969934..970809	fps; putative geranyltranstransferase
+snu:SPNA45_00980	CDS	970802..971617	hemolysin-like protein
+snu:SPNA45_00981	CDS	971610..972041	putative repressor protein
+snu:SPNA45_00982	CDS	972048..973715	recN; putative DNA repair protein
+snu:SPNA45_00983	CDS	973717..974445	Calcineurin-like phosphoesterase
+snu:SPNA45_00984	CDS	974524..976347	lepA; GTP-binding protein LepA
+snu:SPNA45_00985	CDS	complement(976428..976625)	N-ethylammeline chlorohydrolase
+snu:SPNA45_00986	CDS	976785..977282	putative sugar phosphotransferase system (PTS), IIA component
+snu:SPNA45_00987	CDS	977320..977625	sugar phosphotransferase system (PTS), IIB component
+snu:SPNA45_00988	CDS	977673..979148	sugar phosphotransferase system (PTS), galactitol-specific family, IIC component
+snu:SPNA45_00989	CDS	979174..979365	N-ethylammeline chlorohydrolase
+snu:SPNA45_00990	CDS	979453..986151	bgaA; putative surface anchored beta-galactosidase
+snu:SPNA45_00991	CDS	complement(986399..987022)	putative uncharacterized protein
+snu:SPNA45_00992	CDS	complement(987010..987255)	putative uncharacterized protein
+snu:SPNA45_00993	CDS	complement(987467..987826)	putative membrane protein
+snu:SPNA45_00994	CDS	join(987918..988424,988428..988874)	putative radical SAM superfamily protein (pseudogene)
+snu:SPNA45_00995	CDS	988858..989415	putative rRNA methylase
+snu:SPNA45_00996	CDS	989408..989662	putative uncharacterized protein
+snu:SPNA45_00997	CDS	990268..991728	putative sodium hydrogen exchange transporter
+snu:SPNA45_00998	CDS	991907..992767	ribonuclease BN-like family protein
+snu:SPNA45_00999	CDS	992978..993688	ccdA; cytochrome c-type biogenesis protein CcdA
+snu:SPNA45_01000	CDS	993708..994274	putative redoxin
+snu:SPNA45_01001	CDS	994285..995397	msrAB; peptide methionine sulfoxide reductase
+snu:SPNA45_01002	CDS	995620..996357	response regulator protein
+snu:SPNA45_01003	CDS	996354..998045	sensor histidine kinase
+snu:SPNA45_01004	CDS	998161..998724	conserved hypothetical protein
+snu:SPNA45_01005	gene	join(998821..1001310,1001315..1003780)	zmpB; pseudogene
+snu:SPNA45_01006	CDS	1003849..1005570	pabB; putative chorismate binding enzyme
+snu:SPNA45_01007	CDS	1005571..1006188	hypothetical protein
+snu:SPNA45_01008	gene	join(1006238..1006604,1006610..1006611,1006615..1007235)	pseudogene
+snu:SPNA45_01009	CDS	1007362..1008321	glkA; glucokinase
+snu:SPNA45_01010	CDS	1008418..1009257	thyA; thymidylate synthase
+snu:SPNA45_01011	CDS	complement(1009305..1009475)	putative exported protein
+snu:SPNA45_01012	CDS	1009596..1010480	miaA; tRNA delta(2)-isopentenylpyrophosphate transferase
+snu:SPNA45_01013	CDS	1010473..1011711	putative GTPase
+snu:SPNA45_01014	CDS	1011704..1012327	conserved hypothetical protein
+snu:SPNA45_01015	CDS	1012342..1013271	rnz; ribonuclease Z
+snu:SPNA45_01016	CDS	1013292..1014047	short chain dehydrogenase
+snu:SPNA45_01017	CDS	complement(1014101..1015069)	LysR family regulatory protein
+snu:SPNA45_01018	CDS	1015112..1015342	conserved hypothetical protein
+snu:SPNA45_01019	CDS	1015342..1015722	putative membrane protein
+snu:SPNA45_01020	CDS	complement(1016078..1016803)	putative ribosomal small subunit pseudouridine synthase A
+snu:SPNA45_01021	CDS	1016965..1018806	BipA family GTPase
+snu:SPNA45_01022	CDS	1018826..1019080	putative membrane protein
+snu:SPNA45_01023	gene	join(1019340..1019525,1019529..1019744)	pseudogene
+snu:SPNA45_01024	CDS	1019761..1021836	putative membrane protein
+snu:SPNA45_01025	CDS	1021838..1022479	ABC transporter ATP-binding protein
+snu:SPNA45_01026	CDS	1022583..1023935	murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase
+snu:SPNA45_01027	CDS	1023939..1024997	murG; putative UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyr ophosphoryl-undecaprenol N-acetylglucosamine transferase
+snu:SPNA45_01028	CDS	1025007..1026236	divIB; putative cell division protein DivIB/FtsQ
+snu:SPNA45_01029	CDS	1026367..1026483	hypothetical protein
+snu:SPNA45_01030	CDS	1026757..1027608	hypothetical protein
+snu:SPNA45_01031	CDS	1027748..1029094	hypothetical protein
+snu:SPNA45_01032	CDS	1029708..1030721	HesA/MoeB/ThiF family protein
+snu:SPNA45_01033	CDS	1031269..1031694	livG; Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+snu:SPNA45_01034	CDS	1031687..1032400	Putative membrane spanning protein
+snu:SPNA45_01035	gene	complement(1032674..1032817)	tnp_(pseudogene); pseudogene
+snu:SPNA45_01036	CDS	1033135..1033836	pyrF; orotidine 5'-phosphate decarboxylase
+snu:SPNA45_01037	CDS	1033870..1034502	pyrE; orotate phosphoribosyltransferase
+snu:SPNA45_01038	CDS	1034735..1035085	putative uncharacterized protein
+snu:SPNA45_01039	CDS	1035181..1035945	putative membrane protein
+snu:SPNA45_01040	gene	join(1035945..1036424,1036430..1036696,1036706..1037404)	pseudogene
+snu:SPNA45_01041	CDS	1037401..1038048	ccmA; heme exporter protein A (cytochrome C-type biogenesis protein)
+snu:SPNA45_01042	gene	complement(join(1038135..1039001,1039013..1039762,1039771..1040463))	pseudogene
+snu:SPNA45_01043	CDS	complement(1040408..1041088)	ABC transporter membrane-spanning permease-glutamine transport
+snu:SPNA45_01044	CDS	1041305..1041451	putative L-lactate oxidase-related protein
+snu:SPNA45_01045	CDS	1041579..1043069	lysS; lysyl-tRNA synthetase
+snu:SPNA45_01046	CDS	1043694..1044830	lctO; L-lactate oxidase
+snu:SPNA45_01047	CDS	1045387..1046055	putative coenzyme
+snu:SPNA45_01048	CDS	1046382..1047164	thiM; hydroxyethylthiazole kinase
+snu:SPNA45_01049	CDS	1047166..1047795	thiE; thiamine-phosphate pyrophosphorylase
+snu:SPNA45_01050	CDS	1048354..1048914	putative membrane protein
+snu:SPNA45_01051	gene	join(1048915..1049802,1049808..1050299)	pseudogene
+snu:SPNA45_01052	CDS	1050301..1050951	putative membrane protein
+snu:SPNA45_01053	CDS	1050962..1051654	putative coenzyme
+snu:SPNA45_01054	CDS	1051659..1052183	putative membrane protein
+snu:SPNA45_01055	CDS	1052183..1052986	putative hydroxyethylthiazole kinase
+snu:SPNA45_01056	CDS	1052979..1053611	thiE; thiamin-phosphate pyrophosphorylase
+snu:SPNA45_01057	CDS	complement(1053820..1054611)	thiD; phosphomethylpyrimidine kinase
+snu:SPNA45_01058	CDS	1054977..1055372	putative regulator
+snu:SPNA45_01059	CDS	1055383..1055754	putative exported protein
+snu:SPNA45_01060	CDS	1055764..1058007	putative metal transporting P-type ATPase
+snu:SPNA45_01061	CDS	1058214..1059989	spxB; pyruvate oxidase
+snu:SPNA45_01062	CDS	1060100..1060447	putative glyoxalase family protein
+snu:SPNA45_01063	gene	complement(join(1060564..1060725,1060808..1060936,1061095..1061565,1061569..1061706))	pseudogene
+snu:SPNA45_01064	CDS	1061771..1061953	putative glycosyl hydrolase
+snu:SPNA45_01065	CDS	1062175..1063119	pmi; mannose-6-phosphate isomerase
+snu:SPNA45_01066	gene	complement(join(1063145..1064380,1064385..1064474))	pseudogene
+snu:SPNA45_01067	gene	join(1064719..1065198,1065204..1065464)	pseudogene
+snu:SPNA45_01068	CDS	complement(1065489..1065905)	MutT/nudix family protein
+snu:SPNA45_01069	CDS	complement(1065964..1067139)	conserved hypothetical protein
+snu:SPNA45_01070	CDS	complement(1067198..1068043)	putative fatty-acid binding protein
+snu:SPNA45_01071	CDS	1068168..1068725	TetR family regulatory protein
+snu:SPNA45_01072	CDS	1068744..1069211	putative cytidine and deoxycytidylate deaminase
+snu:SPNA45_01073	CDS	1069300..1069929	upp; uracil phosphoribosyltransferase
+snu:SPNA45_01074	CDS	1070103..1070693	clpP; putative ATP-dependent Clp protease proteolytic subunit
+snu:SPNA45_01075	CDS	1070772..1071020	conserved hypothetical protein
+snu:SPNA45_01076	CDS	1071122..1072282	branched-chain amino acid ABC transporter, amino acid-binding protein
+snu:SPNA45_01077	CDS	1072550..1073419	branched-chain amino acid transport system permease protein
+snu:SPNA45_01078	CDS	1073423..1074379	branched-chain amino acid transport system permease protein
+snu:SPNA45_01079	CDS	1074379..1075143	branched-chain amino acid transport ATP-binding protein
+snu:SPNA45_01080	CDS	1075143..1075853	branched-chain amino acid transport ATP-binding protein
+snu:SPNA45_01081	CDS	1076267..1076923	conserved hypothetical protein
+snu:SPNA45_01082	CDS	1077149..1078126	prfB; peptide chain release factor 2
+snu:SPNA45_01083	CDS	1078144..1078836	ftsE; putative cell division ATP-binding protein
+snu:SPNA45_01084	CDS	1078829..1079755	ftsX; putative cell division protein
+snu:SPNA45_01085	gene	join(1080041..1082218,1082222..1082227,1082231..1083466)	pseudogene
+snu:SPNA45_01086	CDS	1083228..1084571	putative helicase
+snu:SPNA45_01087	CDS	1084948..1086138	metK; S-adenosylmethionine synthetase
+snu:SPNA45_01088	CDS	1086691..1087626	pyrD; putative dihydroorotate dehydrogenase
+snu:SPNA45_01089	CDS	1087660..1088697	putative DNA polymerase III delta subunit
+snu:SPNA45_01090	CDS	1088869..1089474	sodA; superoxide dismutase [Mn]
+snu:SPNA45_01091	CDS	1089631..1090161	Hypothetical DUF1027 domain protein
+snu:SPNA45_01092	CDS	1090182..1091267	Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)
+snu:SPNA45_01093	CDS	1091267..1091749	VanZ like family protein
+snu:SPNA45_01094	CDS	1091751..1093292	ABC transporter ATP-binding protein
+snu:SPNA45_01095	CDS	complement(1093349..1094152)	putative cyclophilin type peptidyl-prolyl cis-trans isomerase
+snu:SPNA45_01096	CDS	complement(1094235..1094456)	putative uncharacterized protein
+snu:SPNA45_01097	CDS	1095314..1095586	rpsP; 30S ribosomal protein S16
+snu:SPNA45_01098	CDS	1095606..1095845	conserved hypothetical protein
+snu:SPNA45_01099	CDS	join(1096422..1096841,1096845..1097210)	putative uncharacterized protein
+snu:SPNA45_01100	CDS	1097241..1097759	rimM; 16S rRNA processing protein
+snu:SPNA45_01101	CDS	1097749..1098468	trmD; tRNA (Guanine-N(1)-)-methyltransferase
+snu:SPNA45_01102	CDS	1098480..1098818	ATP-binding protein
+snu:SPNA45_01103	CDS	complement(1098849..1099169)	conserved hypothetical protein
+snu:SPNA45_01104	CDS	1099243..1099482	conserved hypothetical protein
+snu:SPNA45_01105	CDS	complement(1099479..1099625)	N-ethylammeline chlorohydrolase
+snu:SPNA45_01106	CDS	complement(1099687..1100223)	BioY family membrane protein
+snu:SPNA45_01107	gene	complement(join(1100420..1101247,1101253..1101765))	gor; pseudogene
+snu:SPNA45_01108	CDS	1102030..1103229	putative exported protein
+snu:SPNA45_01109	CDS	1103213..1103914	ABC transporter ATP-binding protein
+snu:SPNA45_01110	CDS	1103916..1105175	putative permease
+snu:SPNA45_01111	CDS	1105299..1107296	metG; methionyl-tRNA synthetase
+snu:SPNA45_01112	CDS	1107582..1107902	PadR-like family regulator protein
+snu:SPNA45_01113	CDS	1107906..1108721	putative membrane protein
+snu:SPNA45_01114	CDS	1108796..1109722	putative oxidoreductase
+snu:SPNA45_01115	CDS	1109821..1110057	conserved hypothetical protein
+snu:SPNA45_01116	CDS	1110050..1110748	putative short chain dehydrogenase
+snu:SPNA45_01117	CDS	1110759..1111259	putative NUDIX family protein
+snu:SPNA45_01118	CDS	1111237..1112106	putative PEP-utilizing enzyme
+snu:SPNA45_01119	CDS	1112081..1112521	conserved hypothetical protein
+snu:SPNA45_01120	CDS	1112644..1115190	pepN; putative lysyl-aminopeptidase
+snu:SPNA45_01121	CDS	1115298..1115972	ciaR; response regulator protein
+snu:SPNA45_01122	CDS	1115962..1117296	ciaH; sensor histidine kinase
+snu:SPNA45_01123	CDS	complement(1117330..1117617)	putative membrane protein
+snu:SPNA45_01124	CDS	1117757..1118686	putative peptidase
+snu:SPNA45_01125	CDS	1118886..1121336	putative exonuclease
+snu:SPNA45_01126	CDS	1121373..1122596	putative peptidoglycan biosynthesis membrane protein
+snu:SPNA45_01127	CDS	1122607..1123161	DJ-1/PfpI family protein
+snu:SPNA45_01128	CDS	1123246..1123809	putative haloacid dehalogenase-like hydrolase
+snu:SPNA45_01129	CDS	1123824..1125770	gyrB; DNA gyrase subunit B
+snu:SPNA45_01130	CDS	1125852..1127579	ezrA; septation ring formation regulator
+snu:SPNA45_01131	gene	join(1128110..1128616,1128648..1129067)	tnp_(pseudogene); pseudogene
+snu:SPNA45_01132	gene	complement(join(1129520..1130359,1130335..1130871))	tnp_(pseudogene); pseudogene
+snu:SPNA45_01133	CDS	complement(1131007..1131306)	conserved hypothetical protein
+snu:SPNA45_01134	CDS	complement(1131510..1131734)	mutT; Mutator mutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)
+snu:SPNA45_01135	gene	join(1131985..1132313,1132313..1132349,1132355..1132399,1132403..1132954)	pseudogene
+snu:SPNA45_01136	CDS	complement(1133166..1135424)	clpE; putative ATP-dependent Clp protease ATP-binding subunit
+snu:SPNA45_01137	CDS	complement(1135653..1135883)	conserved hypothetical protein
+snu:SPNA45_01138	CDS	1136073..1136756	putative amino acid ABC transporter permease protein
+snu:SPNA45_01139	CDS	1136756..1137490	glnQ3; putative glutamine transporter, ATP-binding protein 3
+snu:SPNA45_01140	CDS	1137644..1138501	folD; FolD bifunctional protein [includes: methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase]
+snu:SPNA45_01141	CDS	1138643..1139515	carbohydrate kinase
+snu:SPNA45_01142	CDS	1139815..1140480	rpiA; ribose 5-phosphate isomerase A
+snu:SPNA45_01143	CDS	1140494..1141705	deoB; phosphopentomutase
+snu:SPNA45_01144	CDS	1141707..1142249	conserved hypothetical protein
+snu:SPNA45_01145	CDS	1142265..1143074	punA; putative purine nucleoside phosphorylase
+snu:SPNA45_01146	gene	join(1143550..1143675,1143659..1144534)	pseudogene
+snu:SPNA45_01147	CDS	1144559..1145071	Thiol-activated cytolysin; Streptolysin O
+snu:SPNA45_01148	CDS	join(1145722..1145742,1145746..1146432)	deoD; putative purine nucleoside phosphorylase
+snu:SPNA45_01149	CDS	complement(1146455..1146979)	putative DNA topology modulation protein
+snu:SPNA45_01150	CDS	complement(1147032..1147283)	rpsT; 30S ribosomal protein S20
+snu:SPNA45_01151	CDS	complement(1147335..1148255)	coaA; pantothenate kinase
+snu:SPNA45_01152	CDS	join(1148445..1148678,1148684..1148848)	putative membrane protein (pseudogene)
+snu:SPNA45_01153	CDS	1149064..1149645	putative methyltransferase
+snu:SPNA45_01154	CDS	1149642..1150919	deoA; thymidine phosphorylase
+snu:SPNA45_01155	CDS	1150937..1151599	deoC; deoxyribose-phosphate aldolase
+snu:SPNA45_01156	CDS	1151586..1151975	cdd; cytidine deaminase
+snu:SPNA45_01157	CDS	1152065..1153117	putative lipoprotein
+snu:SPNA45_01158	CDS	1153261..1154796	ABC transporter ATP-binding protein
+snu:SPNA45_01159	CDS	1154789..1155847	ABC transporter permease protein
+snu:SPNA45_01160	CDS	1155850..1156806	ABC transporter permease protein
+snu:SPNA45_01161	gene	1156890..1157438	tnp_(pseudogene); pseudogene
+snu:SPNA45_01162	CDS	complement(1158264..1158905)	putative membrane protein
+snu:SPNA45_01163	CDS	1159131..1160984	parE; topoisomerase IV subunit B
+snu:SPNA45_01164	CDS	1161440..1163875	parC; topoisomerase IV subunit A
+snu:SPNA45_01165	CDS	1164007..1165029	putative branched-chain-amino-acid aminotransferase
+snu:SPNA45_01166	CDS	1165256..1165789	putative extracellular oligopeptide-binding protein
+snu:SPNA45_01167	CDS	1165854..1166543	putative membrane protein
+snu:SPNA45_01168	CDS	1166540..1167463	putative membrane protein
+snu:SPNA45_01169	CDS	1167478..1168122	pcp; pyrrolidone-carboxylate peptidase
+snu:SPNA45_01170	CDS	1168290..1168520	conserved hypothetical protein
+snu:tRNA-Tyr-2	tRNA	1168570..1168650	tRNA-Tyr
+snu:tRNA-Gln-3	tRNA	1168660..1168731	tRNA-Gln
+snu:SPNA45_01171	CDS	1168893..1170095	putative 30S ribosomal protein S1
+snu:SPNA45_01172	gene	complement(join(1170180..1170707,1170704..1170991,1170988..1171506))	tnp_(pseudogene); pseudogene
+snu:SPNA45_01173	CDS	join(1170186..1170338,1170342..1170521)	conserved hypothetical protein
+snu:SPNA45_01174	CDS	1171698..1172195	GAF domain-containing proteins
+snu:SPNA45_01175	CDS	1172195..1173850	dnaH; DNA polymerase III subunit gamma/tau
+snu:SPNA45_01176	CDS	1174222..1174992	sufC; putative FeS assembly ATPase SufC, ABC transporter, ATP-binding protein
+snu:SPNA45_01177	CDS	1175020..1176282	sufD; FeS assembly protein SufD
+snu:SPNA45_01178	CDS	1176293..1177519	csdB; putative cysteine desulfurase
+snu:SPNA45_01179	CDS	1177506..1177946	iscU; FeS assembly NifU-like protein
+snu:SPNA45_01180	CDS	1178000..1179412	sufB; FeS assembly protein SufB
+snu:SPNA45_01181	CDS	complement(1179643..1180884)	putative D-alanyl-D-alanine carboxypeptidase
+snu:SPNA45_01182	CDS	1181065..1182096	putative membrane protein
+snu:SPNA45_01183	CDS	1183508..1184248	DeoR family regulatory protein
+snu:SPNA45_01184	CDS	1184245..1185156	fruK; putative 1-phosphofructokinase
+snu:SPNA45_01185	CDS	1185153..1187105	fruA; putative fructose-specific phosphotransferase system (PTS), IIABC component
+snu:SPNA45_01186	CDS	1187269..1189494	DNA translocase FtsK
+snu:SPNA45_01187	gene	complement(join(1189626..1189967,1189971..1190072))	pseudogene
+snu:SPNA45_01188	CDS	1190210..1191352	putative cysteine desulfhydrase
+snu:SPNA45_01189	CDS	1191361..1192575	thiI; putative thiamine biosynthesis protein
+snu:SPNA45_01190	gene	join(1192678..1193535,1193536..1193892)	pseudogene
+snu:SPNA45_01191	CDS	1194309..1195475	conserved hypothetical protein
+snu:SPNA45_01192	gene	join(1195830..1196183,1197798..1199030)	pseudogene
+snu:SPNA45_01193	CDS	complement(1196248..1197594)	hypothetical protein
+snu:SPNA45_01194	gene	join(1199039..1199842,1199847..1200092)	pseudogene
+snu:SPNA45_01195	CDS	1200122..1203472	putative type I restriction modification system restriction protein
+snu:SPNA45_01196	CDS	complement(1204015..1204485)	argR; arginine repressor
+snu:SPNA45_01197	CDS	complement(1204502..1206775)	pepXP; Xaa-Pro dipeptidyl-peptidase
+snu:SPNA45_01198	CDS	1207161..1210223	dnaE; DNA polymerase III alpha subunit
+snu:SPNA45_01199	CDS	1210305..1211312	pfk; 6-phosphofructokinase
+snu:SPNA45_01200	CDS	1211371..1212876	pyk; putative pyruvate kinase
+snu:SPNA45_01201	gene	complement(join(1213562..1213654,1213656..1213874,1213945..1214091))	pseudogene
+snu:SPNA45_01202	CDS	1214640..1215512	putative lipoprotein
+snu:SPNA45_01203	CDS	complement(1215619..1216002)	putative IS1381 transposase (pseudogene)
+snu:SPNA45_01204	CDS	1216145..1216426	putative uncharacterized protein
+snu:SPNA45_01205	CDS	join(1216461..1216520,1216524..1217177)	putative uncharacterized protein
+snu:SPNA45_01206	CDS	complement(1217307..1218122)	putative membrane protein
+snu:SPNA45_01207	CDS	complement(1218119..1219024)	putative permease
+snu:SPNA45_01208	CDS	complement(1219270..1219428)	N-ethylammeline chlorohydrolase
+snu:SPNA45_01209	CDS	1219481..1221610	putative transcription accessory protein
+snu:SPNA45_01210	CDS	1221597..1222046	SprT-like protein
+snu:SPNA45_01211	CDS	1222105..1222377	putative membrane protein
+snu:SPNA45_01212	CDS	complement(1222425..1222589)	putative membrane protein
+snu:SPNA45_01213	CDS	complement(1222731..1222922)	putative membrane protein
+snu:SPNA45_01214	CDS	1223350..1224108	ABC transporter, ATP-binding protein
+snu:SPNA45_01215	CDS	1224110..1226098	ABC transporter, permease protein
+snu:SPNA45_01216	CDS	complement(1226140..1226643)	putative membrane protein (pseudogene)
+snu:SPNA45_01217	CDS	complement(join(1226810..1227406,1227410..1227805))	putative IS1239 transposase (pseudogene)
+snu:SPNA45_01218	CDS	1228677..1229987	speA; putative arginine decarboxylase
+snu:SPNA45_01219	gene	complement(1230289..1231239)	pseudogene
+snu:SPNA45_01220	CDS	1231495..1232355	speE; putative spermidine synthase
+snu:SPNA45_01221	CDS	1232352..1233611	saccharopine dehydrogenase family protein
+snu:SPNA45_01222	CDS	1233611..1234738	putative carboxynorspermidine decarboxylase
+snu:SPNA45_01223	CDS	1234735..1235820	Porphyromonas-type peptidyl-arginine deiminase
+snu:SPNA45_01224	CDS	1235830..1236705	carbon-nitrogen hydrolase family protein
+snu:SPNA45_01225	gene	complement(join(1236883..1237410,1237407..1238189))	pseudogene
+snu:SPNA45_01226	CDS	complement(1238360..1239169)	haloacid dehalogenase-like hydrolase
+snu:SPNA45_01227	CDS	1239717..1240388	putative membrane protein
+snu:SPNA45_01228	CDS	1240630..1241538	LysR-family regulatory protein
+snu:SPNA45_01229	CDS	1241535..1241996	lspA; lipoprotein signal peptidase
+snu:SPNA45_01230	CDS	1241986..1242873	putative RNA pseudouridylate synthase
+snu:SPNA45_01231	CDS	1242876..1244759	cbpE; choline binding protein E
+snu:SPNA45_01232	CDS	1244860..1245969	proB; putative glutamate 5-kinase
+snu:SPNA45_01233	CDS	1245979..1247241	proA; putative gamma-glutamyl phosphate reductase
+snu:SPNA45_01234	CDS	1247245..1248042	proC; putative pyrroline-5-carboxylate reductase
+snu:SPNA45_01235	CDS	1248262..1248900	tmk; thymidylate kinase
+snu:SPNA45_01236	CDS	1248897..1249787	holB; putative DNA polymerase III, delta' subunit
+snu:SPNA45_01237	CDS	1249827..1250144	initiation-control protein YabA
+snu:SPNA45_01238	CDS	1250147..1251016	tetrapyrrole (corrin/porphyrin) methylase family protein
+snu:SPNA45_01239	CDS	1251243..1251761	conserved hypothetical protein
+snu:SPNA45_01240	CDS	1251870..1252517	putative replication initiation protein (pseudogene)
+snu:SPNA45_01241	gene	complement(join(1252506..1252970,1252921..1253310))	pseudogene
+snu:SPNA45_01242	CDS	1253287..1253559	putative uncharacterized protein (pseudogene)
+snu:SPNA45_01243	CDS	1254002..1255237	protein Gid homolog
+snu:SPNA45_01244	CDS	1255321..1256058	pyrH; uridylate kinase
+snu:SPNA45_01245	CDS	1256067..1256624	rrf; ribosome recycling factor
+snu:SPNA45_01246	CDS	1256684..1257538	conserved hypothetical protein
+snu:SPNA45_01247	CDS	1257547..1257762	conserved hypothetical protein
+snu:SPNA45_01248	CDS	1257935..1258816	PhoH-like protein
+snu:SPNA45_01249	CDS	1259009..1259509	putative acetyltransferase (pseudogene)
+snu:SPNA45_01250	CDS	1259512..1259739	putative competence-related protein
+snu:SPNA45_01251	CDS	complement(join(1260139..1260465,1260465..1261250))	putative alanine dehydrogenase 1 (pseudogene)
+snu:SPNA45_01252	CDS	1261427..1261996	putative acetyltransferase (GNAT) family protein
+snu:SPNA45_01253	CDS	1262064..1262714	comEA; putative competence protein
+snu:SPNA45_01254	CDS	join(1262698..1264089,1264095..1264937)	comEC; putative competence protein
+snu:SPNA45_01255	CDS	1265337..1265924	ABC transporter ATP-binding protein
+snu:SPNA45_01256	CDS	1265928..1267112	putative membrane protein
+snu:SPNA45_01257	CDS	1267614..1267973	infC; translation initiation factor IF-3
+snu:SPNA45_01258	CDS	1267987..1268187	rpmI; 50S ribosomal protein L35
+snu:SPNA45_01259	CDS	1268239..1268598	rplT; 50S ribosomal protein L20
+snu:SPNA45_01260	CDS	1268656..1269036	gloA; putative lactoylglutathione lyase
+snu:SPNA45_01261	CDS	1269286..1270086	pyrK; dihydroorotate dehydrogenase electron transfer subunit
+snu:SPNA45_01262	CDS	1270097..1271035	pyrD; dihydroorotate dehydrogenase, catalytic subunit
+snu:SPNA45_01263	CDS	1271136..1273112	lytB; putative endo-beta-N-acetylglucosaminidase
+snu:SPNA45_01264	CDS	complement(1273173..1274828)	Fibronectin/fibrinogen-binding protein
+snu:SPNA45_01265	CDS	1274933..1275430	ybeY; Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly
+snu:SPNA45_01266	CDS	1275411..1275806	Diacylglycerol kinase (EC 2.7.1.107)
+snu:SPNA45_01267	CDS	1275823..1276722	era; GTP-binding protein Era
+snu:SPNA45_01268	CDS	1276771..1277595	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+snu:SPNA45_01269	CDS	1277595..1278200	Dephospho-CoA kinase (EC 2.7.1.24)
+snu:SPNA45_01270	CDS	1278187..1279386	pmrA; Multidrug resistance efflux pump PmrA
+snu:SPNA45_01271	CDS	1279386..1279535	LSU ribosomal protein L33p
+snu:SPNA45_01272	CDS	1279575..1279808	secG; Preprotein translocase subunit SecG
+snu:SPNA45_01273	CDS	1279910..1282264	3'-to-5' exoribonuclease RNase R
+snu:SPNA45_01274	CDS	1282227..1282694	smpB; tmRNA-binding protein SmpB
+snu:SPNA45_01275	CDS	1282710..1283570	tehB; Tellurite resistance protein TehB
+snu:SPNA45_01276	CDS	1283643..1284596	coiA; Competence protein CoiA
+snu:SPNA45_01277	CDS	1284615..1286417	Oligoendopeptidase F (EC 3.4.24.-)
+snu:SPNA45_01278	CDS	1286455..1287132	O-methyltransferase family protein
+snu:SPNA45_01279	CDS	1287211..1288152	Putative parvulin type peptidyl-prolyl isomerase, similarity with PrsA foldase
+snu:SPNA45_01280	gene	complement(join(1288269..1288610,1288610..1288744))	tnp_(pseudogene); pseudogene
+snu:SPNA45_01281	CDS	complement(1289373..1289993)	Phosphoglycerate mutase family 5
+snu:SPNA45_01282	CDS	complement(1289993..1290475)	Transcriptional regulator
+snu:SPNA45_01283	CDS	complement(1290475..1291317)	Integral membrane protein
+snu:SPNA45_01284	CDS	complement(1291412..1292200)	Phage lysin, glycosyl hydrolase, family 25
+snu:SPNA45_01285	CDS	1292344..1293723	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+snu:SPNA45_01286	CDS	1293733..1294278	ADP-ribose pyrophosphatase (EC 3.6.1.13)
+snu:SPNA45_01287	CDS	1294290..1294604	hypothetical protein
+snu:SPNA45_01288	CDS	1294621..1295313	5'-methylthioadenosine nucleosidase (EC 3.2.2.16) / S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+snu:SPNA45_01289	CDS	1295402..1295881	orfX; Transcriptional regulator OrfX
+snu:SPNA45_01290	CDS	1295979..1296569	DNA polymerase III alpha subunit (EC 2.7.7.7); DNA polymerase III epsilon chain (EC 2.7.7.7)
+snu:SPNA45_01291	CDS	1296578..1298341	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)
+snu:SPNA45_01292	CDS	complement(1298701..1300245)	Mobile element protein
+snu:SPNA45_01293	gene	join(1300263..1300592,1300771..1300911)	tnp_(pseudogene); pseudogene
+snu:SPNA45_01294	CDS	1301072..1301272	putative uncharacterized protein
+snu:SPNA45_01295	CDS	1301414..1301680	putative uncharacterized protein (pseudogene)
+snu:SPNA45_01296	CDS	1302187..1302618	putative cytochrome c-type biogenesis protein
+snu:SPNA45_01297	CDS	1302629..1303186	putative redoxin family protein
+snu:SPNA45_01298	CDS	1303561..1304952	putative amino acid permease
+snu:SPNA45_01299	CDS	1305095..1306012	lmb; laminin binding protein
+snu:SPNA45_01300	CDS	1306020..1308527	Pneumococcal histidine triad protein
+snu:SPNA45_01301	CDS	1308737..1311304	phtE; pneumococcal histidine triad protein E (Bvh-3)
+snu:SPNA45_01302	gene	join(1311530..1311616,1311620..1311700,1311704..1312093)	phtE; pseudogene
+snu:SPNA45_01303	CDS	1312511..1312702	Streptococcal histidine triad protein
+snu:SPNA45_01304	CDS	1312997..1313626	hypothetical protein
+snu:SPNA45_01305	CDS	complement(1313662..1314885)	pepT; peptidase T
+snu:SPNA45_01306	CDS	1315040..1316149	hemH; ferrochelatase
+snu:SPNA45_01307	CDS	complement(1316198..1316551)	mscL; large-conductance mechanosensitive channel
+snu:SPNA45_01308	CDS	complement(1316633..1317064)	GtrA-like protein
+snu:SPNA45_01309	CDS	1317187..1317696	putative membrane protein
+snu:tRNA-Thr-4	tRNA	1317796..1317868	tRNA-Thr
+snu:SPNA45_01310	CDS	1318210..1319286	asd; aspartate-semialdehyde dehydrogenase
+snu:SPNA45_01311	CDS	1319342..1320277	dapA; dihydrodipicolinate synthase
+snu:SPNA45_01312	CDS	complement(1320324..1321697)	trmE; tRNA modification GTPase TrmE
+snu:SPNA45_01313	CDS	complement(1321834..1322016)	putative 4-oxalocrotonate tautomerase
+snu:SPNA45_01314	CDS	join(1322139..1322498,1322502..1322729)	tdk; putative thymidine kinase
+snu:SPNA45_01315	CDS	1322726..1323805	prfA; peptide chain release factor 1
+snu:SPNA45_01316	CDS	1323805..1324644	putative methyltransferase
+snu:SPNA45_01317	CDS	1324628..1325230	conserved hypothetical protein
+snu:SPNA45_01318	CDS	1325232..1325663	acetyltransferase (GNAT) family protein
+snu:SPNA45_01319	CDS	1325725..1326981	glyA; serine hydroxymethyltransferase
+snu:SPNA45_01320	CDS	1326989..1327963	conserved hypothetical protein
+snu:SPNA45_01321	CDS	1327963..1328577	putative membrane protein
+snu:SPNA45_01322	CDS	1328651..1329625	putative exported protein
+snu:SPNA45_01323	CDS	1329699..1331330	putative RNA methyltransferase
+snu:SPNA45_01324	CDS	1331544..1331777	conserved hypothetical protein
+snu:SPNA45_01325	CDS	1332067..1332285	putative regulatory protein
+snu:SPNA45_01326	CDS	1332679..1333704	piaA; Iron compound ABC uptake transporter substrate-binding protein PiaA
+snu:SPNA45_01327	CDS	join(1333682..1334698,1334704..1335708)	putative iron-siderophore binding lipoprotein
+snu:SPNA45_01328	CDS	1334701..1335708	ferric siderophore ABC transporter, permease protein
+snu:SPNA45_01329	CDS	1335708..1336502	ferric siderophore ABC transporter, ATP-binding protein
+snu:SPNA45_01330	CDS	1336697..1336927	putative transposase (fragment)
+snu:SPNA45_01331	CDS	1337070..1337315	putative uncharacterized protein
+snu:SPNA45_01332	CDS	1337371..1337688	putative uncharacterized protein
+snu:SPNA45_01333	gene	1337696..1337800	pseudogene
+snu:SPNA45_01334	CDS	1337998..1338723	mobilization/transfer protein
+snu:SPNA45_01335	CDS	1339107..1339454	mobA; Probable mobilization protein MobA
+snu:SPNA45_01336	CDS	1340021..1340455	hypothetical protein
+snu:SPNA45_01337	CDS	1340582..1341328	hypothetical protein
+snu:SPNA45_01338	CDS	1342012..1342173	conserved hypothetical protein
+snu:SPNA45_01339	CDS	1342358..1343944	putative site-specific recombinase (pseudogene)
+snu:SPNA45_01340	CDS	1344212..1344778	putative uncharacterized protein
+snu:SPNA45_01341	CDS	1345100..1345288	putative uncharacterized protein
+snu:SPNA45_01342	CDS	1345350..1346108	putative uncharacterized protein
+snu:SPNA45_01343	CDS	1346166..1347020	putative hydrolase
+snu:SPNA45_01344	CDS	1347132..1348016	conserved hypothetical protein
+snu:SPNA45_01345	CDS	1348179..1349918	Neopullulanase (EC 3.2.1.135)
+snu:SPNA45_01346	CDS	1350193..1350648	hypothetical protein
+snu:SPNA45_01347	CDS	1350788..1350901	hypothetical protein
+snu:SPNA45_01348	CDS	1351093..1351569	transcription regulator, probable
+snu:SPNA45_01349	CDS	1351569..1352330	Zeta toxin
+snu:SPNA45_01350	gene	join(1352358..1352645,1352651..1353514)	pseudogene
+snu:SPNA45_01351	CDS	1354333..1354692	tnp; Tn5252
+snu:SPNA45_01352	CDS	1354840..1355055	hypothetical protein
+snu:SPNA45_01353	gene	join(1355042..1355584,1355588..1356004,1356012..1356908)	tnp_(pseudogene); pseudogene
+snu:SPNA45_01354	CDS	complement(1356953..1357807)	Positive transcriptional regulator, MutR family
+snu:SPNA45_01355	CDS	1358030..1358578	lanM; Lanthionine biosynthesis protein LanM
+snu:SPNA45_01356	CDS	1358571..1360694	toxin secretion ABC transporter, ATP-binding/permease protein
+snu:SPNA45_01357	CDS	1360707..1360877	hypothetical protein
+snu:SPNA45_01358	CDS	1360911..1361639	bcrA; Bacitracin transport ATP-binding protein bcrA
+snu:SPNA45_01359	CDS	1361632..1362315	hypothetical protein
+snu:SPNA45_01360	CDS	1362783..1363004	putative DNA_binding protein
+snu:SPNA45_01361	CDS	1363450..1363527	tnp_(pseudogene); putative transposase (pseudogene)
+snu:SPNA45_01362	CDS	1363902..1365131	ftsW; putative cell division protein
+snu:SPNA45_01363	CDS	1365151..1367847	ppc; putative phosphoenolpyruvate carboxylase
+snu:SPNA45_01364	CDS	1368260..1369264	putative ABC transporter substrate binding protein
+snu:SPNA45_01365	CDS	1369333..1370199	ABC transporter permease protein
+snu:SPNA45_01366	CDS	1370196..1370954	ABC transporter ATP-binding protein
+snu:SPNA45_01367	CDS	1371044..1372804	dnaG; DNA primase
+snu:SPNA45_01368	CDS	1372807..1373916	rpoD; RNA polymerase sigma factor RpoD
+snu:SPNA45_01369	CDS	1373930..1374259	conserved hypothetical protein
+snu:SPNA45_01370	CDS	1374374..1375417	putative glycosyltransferase
+snu:SPNA45_01371	CDS	1375433..1376758	putative glycosyltransferase
+snu:SPNA45_01372	CDS	1376789..1376965	putative phage shock protein
+snu:SPNA45_01373	CDS	1377024..1377158	putative membrane protein
+snu:SPNA45_01374	CDS	1377228..1378532	putative GTP-binding protein
+snu:SPNA45_01375	CDS	1378542..1378700	conserved hypothetical protein
+snu:SPNA45_01376	CDS	1379750..1381009	murZ; UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+snu:SPNA45_01377	CDS	1381025..1381576	acetyltransferase (GNAT) family protein
+snu:SPNA45_01378	CDS	1381569..1382846	putative DNA-binding protein
+snu:SPNA45_01379	CDS	1382862..1383722	putative metallopeptidase
+snu:SPNA45_01380	gene	join(1383945..1384490,1384441..1384590,1384607..1384906)	pseudogene
+snu:SPNA45_01381	CDS	1385098..1387389	pcrA; putative ATP-dependent DNA helicase
+snu:SPNA45_01382	CDS	1387432..1388112	radC; DNA repair protein RadC
+snu:SPNA45_01383	CDS	complement(1388109..1388798)	putative peptidase
+snu:SPNA45_01384	CDS	complement(1388816..1389241)	rex; putative redox-sensing transcriptional repressor
+snu:SPNA45_01385	CDS	complement(1389540..1389755)	conserved hypothetical protein
+snu:SPNA45_01386	CDS	complement(1389763..1390110)	conserved hypothetical protein
+snu:SPNA45_01387	CDS	complement(1390115..1391197)	putative cysteine desulfurase
+snu:SPNA45_01388	CDS	complement(1391240..1392199)	prsA2; putative ribose-phosphate pyrophosphokinase 2
+snu:SPNA45_01389	CDS	complement(1392312..1392881)	adenylate cyclase family protein
+snu:SPNA45_01390	CDS	1393010..1393681	conserved hypothetical protein
+snu:SPNA45_01391	CDS	1393665..1394483	ppnK; putative inorganic polyphosphate/ATP-NAD kinase
+snu:SPNA45_01392	CDS	1394480..1395376	putative RNA pseudouridylate synthase
+snu:SPNA45_01393	CDS	1395420..1396394	pta; putative phosphate acetyltransferase
+snu:SPNA45_01394	gene	complement(join(1396656..1397183,1397180..1397461,1397467..1397982))	tnp_(pseudogene); pseudogene
+snu:SPNA45_01395	CDS	complement(1398164..1398463)	conserved hypothetical protein
+snu:SPNA45_01396	gene	1398933..1399529	pseudogene
+snu:SPNA45_01397	CDS	1399750..1400064	LSU ribosomal protein L21p
+snu:SPNA45_01398	CDS	1400080..1400424	Potential ribosomal protein
+snu:SPNA45_01399	CDS	1400441..1400734	LSU ribosomal protein L27p
+snu:SPNA45_01400	gene	join(1401164..1401368,1401373..1401482)	pseudogene
+snu:SPNA45_01401	CDS	1401582..1402499	rpmA; 50S ribosomal protein L27
+snu:SPNA45_01402	CDS	complement(1402592..1403440)	putative membrane protein
+snu:SPNA45_01403	CDS	1402631..1402948	ribC; putative riboflavin biosynthesis protein
+snu:SPNA45_01404	CDS	1403582..1404421	conserved hypothetical protein
+snu:SPNA45_01405	CDS	1404527..1404802	hlpA; DNA-binding protein HU
+snu:SPNA45_01406	CDS	1405228..1407129	ABC transporter ATP-binding protein
+snu:SPNA45_01407	CDS	1407132..1407995	putative DNA-binding protein
+snu:SPNA45_01408	CDS	1408075..1409253	putative membrane transport protein
+snu:SPNA45_01409	CDS	1409346..1411304	lig; DNA ligase
+snu:SPNA45_01410	CDS	1411416..1413695	putative pullulanase
+snu:SPNA45_01411	CDS	1414345..1415664	gapN; putative NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+snu:SPNA45_01412	CDS	1416144..1418072	glgB; 1,4-alpha-glucan branching enzyme
+snu:SPNA45_01413	CDS	1418062..1419204	glgC; glucose-1-phosphate adenylyltransferase
+snu:SPNA45_01414	CDS	1419194..1420333	putative glycogen biosynthesis protein
+snu:SPNA45_01415	CDS	1420330..1421763	glgA; glycogen synthase
+snu:SPNA45_01416	CDS	join(1421822..1422190,1422195..1422467)	putative hydrolase (pseudogene)
+snu:SPNA45_01417	CDS	1422476..1423591	Glycerate kinase (EC 2.7.1.31)
+snu:SPNA45_01418	CDS	complement(1423588..1424034)	conserved hypothetical protein
+snu:SPNA45_01419	CDS	1424198..1425502	eno; enolase
+snu:SPNA45_01420	CDS	complement(1425640..1426146)	putative phage integrase (pseudogene)
+snu:SPNA45_01421	gene	complement(1426502..1426831)	pseudogene
+snu:SPNA45_01422	CDS	1427357..1430632	addB; putative ATP-dependent exonuclease subunit B
+snu:SPNA45_01423	CDS	1430629..1434279	addA; putative ATP-dependent exonuclease subunit A
+snu:SPNA45_01424	CDS	1434449..1435627	putative uncharacterized protein
+snu:SPNA45_01425	gene	join(1435929..1436765,1436771..1443367)	zmpA; pseudogene
+snu:SPNA45_01426	CDS	1440184..1441035	putative GTPase protein
+snu:SPNA45_01427	CDS	1441022..1441801	rnh; ribonuclease HII
+snu:SPNA45_01428	CDS	1441817..1443367	voltage gated chloride channel family protein
+snu:SPNA45_01429	CDS	1443927..1444997	tyrosine recombinase XerC
+snu:SPNA45_01430	CDS	complement(1445070..1446059)	putative lipoate-protein ligase A
+snu:SPNA45_01431	CDS	complement(1446123..1447808)	acoL; dihydrolipoamide dehydrogenase
+snu:SPNA45_01432	CDS	complement(1447872..1448915)	acoC; E2 component of acetoin dehydrogenase enzyme system (dihydrolipoamide acetyltransferase)
+snu:SPNA45_01433	CDS	complement(1449133..1450125)	pdhB; putative pyruvate dehydrogenase E1 component, beta subunit
+snu:SPNA45_01434	CDS	complement(1450141..1451109)	pdhA; putative pyruvate dehydrogenase E1 component, alpha subunit
+snu:SPNA45_01435	CDS	complement(1451263..1452624)	putative multidrug resistance protein
+snu:SPNA45_01436	CDS	complement(1452909..1454177)	pyrC; putative dihydroorotase
+snu:SPNA45_01437	CDS	complement(1454190..1454654)	mutX; mutator MutX protein (7,8-dihydro-8-oxoguanine-triphosphatase)
+snu:SPNA45_01438	CDS	complement(1454664..1455317)	ung; uracil-DNA glycosylase
+snu:SPNA45_01439	CDS	complement(1455453..1456055)	putative uncharacterized protein
+snu:SPNA45_01440	CDS	complement(1456114..1456635)	haloacid dehalogenase-like hydrolase
+snu:SPNA45_01441	CDS	complement(1456927..1457307)	sugar phosphotransferase system (PTS), fructose family, IIA component
+snu:SPNA45_01442	gene	complement(join(1457601..1458530,1458536..1460149))	phpA; pseudogene
+snu:SPNA45_01443	CDS	complement(1460403..1462136)	Phosphoenolpyruvate-protein phosphotransferase of PTS system (EC 2.7.3.9)
+snu:SPNA45_01444	CDS	complement(1462142..1462405)	Phosphotransferase system, phosphocarrier protein HPr
+snu:SPNA45_01445	CDS	1462756..1462974	Glutaredoxin-like protein NrdH, required for reduction of Ribonucleotide reductase class Ib
+snu:SPNA45_01446	gene	join(1463055..1465214,1465402..1466364)	pseudogene
+snu:SPNA45_01447	CDS	1466546..1467307	Lactose phosphotransferase system repressor
+snu:SPNA45_01448	CDS	complement(1467586..1467765)	hypothetical protein
+snu:SPNA45_01449	CDS	complement(1467888..1469294)	6-phospho-beta-galactosidase (EC 3.2.1.85)
+snu:SPNA45_01450	gene	complement(join(1469509..1471200,1471200..1471517))	pseudogene
+snu:SPNA45_01451	CDS	complement(1471553..1472389)	Beta-glucoside bgl operon antiterminator, BglG family
+snu:SPNA45_01452	CDS	complement(1472623..1473603)	Tagatose 1,6-diphosphate aldolase (EC 4.1.2.40)
+snu:SPNA45_01453	CDS	complement(1473605..1474534)	Tagatose-6-phosphate kinase (EC 2.7.1.144)
+snu:SPNA45_01454	CDS	complement(1474545..1475060)	Galactose-6-phosphate isomerase, LacB subunit (EC 5.3.1.26)
+snu:SPNA45_01455	CDS	complement(1475091..1475516)	Galactose-6-phosphate isomerase, LacA subunit (EC 5.3.1.26)
+snu:SPNA45_01456	CDS	complement(1475673..1476017)	lacX; LacX protein, plasmid
+snu:SPNA45_01457	gene	complement(join(1476329..1476451,1476456..1476671,1476652..1476993))	tnp_(pseudogene); pseudogene
+snu:SPNA45_01458	CDS	complement(1477001..1477189)	PTS system, galactose-specific IIB component (EC 2.7.1.69)
+snu:SPNA45_01459	CDS	complement(1477340..1477816)	PTS system, galactose-specific IIA component (EC 2.7.1.69)
+snu:SPNA45_01460	CDS	complement(1478171..1478329)	hypothetical protein
+snu:SPNA45_01461	gene	complement(join(1478400..1478849,1478922..1479635))	tnp_(pseudogene); pseudogene
+snu:SPNA45_01462	CDS	complement(1479622..1479816)	hypothetical protein
+snu:SPNA45_01463	gene	complement(join(1479881..1480174,1480212..1480397))	tnp_(pseudogene); pseudogene
+snu:SPNA45_01464	gene	complement(join(1480572..1482299,1482353..1485508,1485757..1487052))	pseudogene
+snu:SPNA45_01465	CDS	1487284..1487556	N-ethylammeline chlorohydrolase
+snu:SPNA45_01466	CDS	complement(1487910..1488071)	putative uncharacterized protein
+snu:SPNA45_01467	CDS	complement(1488056..1488337)	putative uncharacterized protein
+snu:SPNA45_01468	CDS	complement(1488373..1489158)	putative membrane protein
+snu:SPNA45_01469	CDS	complement(1489160..1489978)	putative membrane protein
+snu:SPNA45_01470	CDS	complement(1489980..1490972)	ABC transporter ATP-binding protein
+snu:SPNA45_01471	CDS	complement(1491373..1491618)	putative uncharacterized protein
+snu:SPNA45_01472	CDS	complement(1492017..1492235)	putative uncharacterized protein
+snu:SPNA45_01473	CDS	1492312..1492539	N-ethylammeline chlorohydrolase
+snu:SPNA45_01474	CDS	complement(1493185..1493874)	rplA; 50S ribosomal protein L1
+snu:SPNA45_01475	CDS	complement(1494082..1494507)	rplK; 50S ribosomal protein L11
+snu:SPNA45_01476	CDS	complement(1494781..1495497)	D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+snu:SPNA45_01477	gene	complement(join(1495578..1495967,1495984..1496382))	tnp_(pseudogene); pseudogene
+snu:SPNA45_01478	gene	complement(join(1496390..1496590,1496595..1496831))	pseudogene
+snu:SPNA45_01479	CDS	complement(1496833..1497870)	M42 glutamyl aminopeptidase
+snu:SPNA45_01480	CDS	complement(1497968..1499293)	brnQ; putative branched-chain amino acid transport system carrier protein
+snu:SPNA45_01481	CDS	complement(1499548..1499556)	putative uncharacterized protein
+snu:SPNA45_01482	CDS	complement(1499599..1499751)	putative uncharacterized protein
+snu:SPNA45_01483	CDS	complement(1499911..1500489)	uracil DNA glycosylase superfamily protein
+snu:SPNA45_01484	CDS	complement(1500543..1501943)	pepV; putative Xaa-His dipeptidase
+snu:SPNA45_01485	gene	complement(join(1501956..1502069,1502033..1502560))	pseudogene
+snu:SPNA45_01486	gene	join(1502731..1503018,1503024..1503530)	pseudogene
+snu:SPNA45_01487	CDS	complement(join(1503714..1504127,1504133..1504486))	putative uncharacterized protein
+snu:SPNA45_01488	CDS	complement(1504536..1506383)	uvrC; UvrABC DNA repair system protein C
+snu:SPNA45_01489	CDS	complement(1506423..1507124)	putative protease
+snu:SPNA45_01490	CDS	complement(1507193..1508425)	murN; putative peptidoglycan branched peptide synthesis protein
+snu:SPNA45_01491	CDS	complement(1508430..1509650)	murM; putative peptidoglycan pentaglycine interpeptide biosynthesis protein
+snu:SPNA45_01492	CDS	complement(1509762..1510541)	putative esterase
+snu:SPNA45_01493	CDS	complement(1510610..1512271)	metallo-beta-lactamase superfamily protein
+snu:SPNA45_01494	CDS	complement(1512445..1514469)	putative phosphoesterase
+snu:SPNA45_01495	gene	1514944..1515702	pseudogene
+snu:SPNA45_01496	CDS	join(1515611..1515742,1515748..1516506)	putative glutamine-binding protein precursor
+snu:SPNA45_01497	gene	join(1516519..1517196,1517206..1517865)	pseudogene
+snu:SPNA45_01498	CDS	1518114..1519259	putative flavocytochrome
+snu:SPNA45_01499	CDS	complement(1519584..1520465)	fba; fructose-bisphosphate aldolase
+snu:SPNA45_01500	CDS	complement(1520606..1521934)	two-component system, sensor histidine kinase
+snu:SPNA45_01501	CDS	complement(1521931..1522587)	two-component system, response regulator
+snu:SPNA45_01502	CDS	complement(1522899..1524278)	ABC transporter, permease protein
+snu:SPNA45_01503	CDS	complement(1524330..1524977)	ABC transporter, ATP-binding protein
+snu:SPNA45_01504	CDS	complement(1524990..1526267)	ABC transporter, permease protein
+snu:SPNA45_01505	CDS	complement(1526831..1527430)	hypothetical protein
+snu:SPNA45_01506	CDS	complement(1527567..1528451)	leucine-rich protein
+snu:SPNA45_01507	CDS	complement(1528455..1528778)	putative ribomuclease
+snu:SPNA45_01508	CDS	complement(1528834..1530177)	cysS; cysteinyl-tRNA synthetase
+snu:SPNA45_01509	CDS	complement(1530259..1531143)	putative acetyltransferase, GNAT family protein
+snu:SPNA45_01510	CDS	complement(1531155..1531772)	cysE; serine acetyltransferase
+snu:SPNA45_01511	CDS	complement(1531788..1534001)	pnpA; polyribonucleotide nucleotidyltransferase
+snu:SPNA45_01512	CDS	complement(1534561..1535427)	metF; 5,10-methylenetetrahydrofolate reductase
+snu:SPNA45_01513	CDS	complement(1535491..1537740)	metE; 5-methyltetrahydropteroyltriglutamate--homocyst eine methyltransferase
+snu:SPNA45_01514	CDS	complement(1538001..1538213)	putative uncharacterized protein
+snu:SPNA45_01515	gene	complement(join(1538390..1538569,1538575..1538796))	pseudogene
+snu:SPNA45_01516	CDS	complement(1539051..1539932)	hypothetical protein
+snu:SPNA45_01517	CDS	1540951..1541634	hypothetical protein
+snu:SPNA45_01518	CDS	1541655..1542659	putative integral membrane protein (possible nuclease activity)
+snu:SPNA45_01519	gene	complement(1542968..1544416)	pseudogene
+snu:SPNA45_01520	CDS	complement(1544539..1546944)	pheT; phenylalanyl-tRNA synthetase beta chain
+snu:SPNA45_01521	CDS	complement(1547021..1547530)	acetyltransferase (GNAT) family protein
+snu:SPNA45_01522	CDS	complement(1547530..1548657)	pheS; phenylalanyl-tRNA synthetase alpha chain
+snu:SPNA45_01523	CDS	complement(join(1549058..1550425,1550431..1550466))	6-phospho-beta-glucosidase
+snu:SPNA45_01524	CDS	complement(1550479..1552317)	beta-glucoside-specific phosphotransferase system (PTS), IIABC component
+snu:SPNA45_01525	CDS	complement(1552335..1553174)	transcription antiterminator
+snu:SPNA45_01526	gene	complement(join(1553475..1555392,1555399..1556153))	pseudogene
+snu:SPNA45_01527	CDS	complement(1556251..1556331)	putative type III restriction endonuclease
+snu:SPNA45_01528	gene	join(1556343..1556609,1556613..1557122,1557184..1557672)	pseudogene
+snu:SPNA45_01529	CDS	complement(1557789..1558592)	cell filamentation protein fic-related protein
+snu:SPNA45_01530	CDS	complement(1558877..1559632)	putative uncharacterized protein
+snu:SPNA45_01531	CDS	complement(1559702..1562353)	valS; valyl-tRNA synthetase
+snu:SPNA45_01532	CDS	complement(1562924..1563394)	putative acetyltransferase
+snu:SPNA45_01533	CDS	complement(1563381..1563743)	putative uncharacterized protein
+snu:SPNA45_01534	CDS	complement(1564242..1564637)	conserved hypothetical protein
+snu:SPNA45_01535	CDS	complement(1564733..1564987)	conserved hypothetical protein
+snu:SPNA45_01536	CDS	complement(1564997..1566331)	putative uncharacterized protein
+snu:SPNA45_01537	CDS	complement(1566331..1566564)	conserved hypothetical protein
+snu:SPNA45_01538	CDS	complement(1566969..1567151)	putative uncharacterized protein
+snu:SPNA45_01539	gene	complement(1567153..1567932)	pseudogene
+snu:SPNA45_01540	CDS	complement(1568225..1568575)	rbfA; ribosome-binding factor A
+snu:SPNA45_01541	CDS	complement(1568826..1570556)	infB; translation initiation factor IF-2
+snu:SPNA45_01542	CDS	complement(1571635..1571934)	ribosomal protein L7Ae/L30e/S12e/Gadd45 family protein
+snu:SPNA45_01543	CDS	complement(1571927..1572220)	conserved hypothetical protein
+snu:SPNA45_01544	CDS	complement(1572242..1573378)	nusA; putative putative N utilization substance protein A
+snu:SPNA45_01545	CDS	complement(1573422..1573793)	conserved hypothetical protein
+snu:SPNA45_01546	CDS	complement(1574027..1574662)	tRNA (guanine-N(7)-)-methyltransferase
+snu:SPNA45_01547	CDS	complement(1574659..1575453)	phosphotransferase enzyme family protein
+snu:SPNA45_01548	CDS	complement(1575615..1576226)	pncP; ABC transporter ATP binding domain PncP (CAAX protease)
+snu:SPNA45_01549	CDS	complement(1576263..1576325)	pncM; putative immunity protein PncM
+snu:SPNA45_01550	CDS	complement(1576377..1576610)	blpZ; BlpZ protein, fusion
+snu:SPNA45_01551	CDS	complement(1576654..1577343)	pncO; putative bacteeriocin ABC transporter transmembrane domain BlpY (CAAX protease)
+snu:SPNA45_01552	CDS	complement(1577395..1577778)	blpX; putative immunity protein BlpX
+snu:SPNA45_01553	CDS	complement(1578375..1578605)	blpN; Bacteriocin-like peptide N BlpN
+snu:SPNA45_01554	CDS	complement(join(1578739..1578801,1578805..1578816))	blpM; Bacteriocin-like peptide M BlpM
+snu:SPNA45_01555	CDS	1578885..1581038	blpA2; putative bacteriocin transporter C39 protease domain BlpA2
+snu:SPNA45_01556	CDS	1581049..1582410	blpB; ABC transporter BlpB
+snu:SPNA45_01557	CDS	1582467..1582622	blpC; peptide pheromone BlpC (bacteriocin-like peptide)
+snu:SPNA45_01558	CDS	complement(1582667..1584007)	blpH; sensor histidine kinase BlpH
+snu:SPNA45_01559	CDS	complement(1584021..1584758)	blpR; response regulator protein BlpR
+snu:SPNA45_01560	CDS	complement(1584763..1585101)	blpS; regulatory protein BlpS
+snu:SPNA45_01561	gene	join(1584964..1585125,1585129..1585236)	pseudogene
+snu:SPNA45_01562	CDS	1585378..1585707	blpT; BlpT protein, fusion
+snu:SPNA45_01563	CDS	complement(1585768..1586817)	ABC transporter protein EcsB
+snu:SPNA45_01564	CDS	complement(1586814..1587545)	ABC transporter ATP-binding protein
+snu:SPNA45_01565	CDS	1587613..1588023	putative HIT-family nucleotide-binding protein
+snu:SPNA45_01566	CDS	1588033..1588320	conserved hypothetical protein
+snu:SPNA45_01567	CDS	1588482..1588658	N-ethylammeline chlorohydrolase
+snu:SPNA45_01568	CDS	complement(1589043..1590179)	dnaJ; chaperone protein DnaJ
+snu:SPNA45_01569	CDS	complement(1590939..1592762)	dnaK; chaperone protein DnaK (heat shock protein 70)
+snu:SPNA45_01570	CDS	complement(1593242..1593766)	grpE; GrpE protein (HSP-70 cofactor)
+snu:SPNA45_01571	CDS	complement(1593793..1594827)	hrcA; heat-inducible transcription repressor HrcA
+snu:SPNA45_01572	CDS	complement(1594991..1595500)	putative membrane protein
+snu:SPNA45_01573	CDS	complement(1595535..1595735)	putative membrane protein
+snu:SPNA45_01574	CDS	complement(1596160..1596297)	FIG01114476: hypothetical protein
+snu:SPNA45_01575	CDS	1596555..1596674	hypothetical protein
+snu:SPNA45_01576	CDS	complement(1596770..1598116)	glnA; putative glutamine synthetase
+snu:SPNA45_01577	CDS	complement(1598153..1598509)	glnR; MerR family regulatory protein
+snu:SPNA45_01578	CDS	complement(1598586..1599113)	putative membrane protein
+snu:SPNA45_01579	CDS	complement(1599249..1600445)	pgk; phosphoglycerate kinase
+snu:SPNA45_01580	CDS	complement(1600535..1605514)	putative endo-beta-N-acetylglucosaminidase
+snu:SPNA45_01581	CDS	1605807..1607438	putative Na+/Pi-cotransporter protein
+snu:SPNA45_01582	CDS	complement(1607997..1609604)	pyrG; putative CTP synthase
+snu:SPNA45_01583	CDS	complement(1609994..1610593)	rpoE; putative DNA-directed RNA polymerase, delta subunit
+snu:SPNA45_01584	gene	complement(join(1610706..1611158,1611163..1611549))	pseudogene
+snu:SPNA45_01585	CDS	complement(1611577..1612227)	PAP2 superfamily protein
+snu:SPNA45_01586	CDS	complement(1612217..1612780)	putative membrane protein
+snu:SPNA45_01587	CDS	complement(1613217..1613720)	SpoU rRNA methylase family protein
+snu:SPNA45_01588	CDS	complement(1613913..1614743)	putative transport protein
+snu:SPNA45_01589	CDS	complement(1614728..1616410)	ABC transporter ATP-binding protein
+snu:SPNA45_01590	CDS	complement(1616512..1616769)	N-ethylammeline chlorohydrolase
+snu:SPNA45_01591	CDS	complement(1616776..1617324)	putative membrane protein
+snu:SPNA45_01592	CDS	complement(1617339..1618187)	conserved hypothetical protein
+snu:SPNA45_01593	CDS	1618375..1619724	putative cation transport protein
+snu:SPNA45_01594	CDS	1619740..1621167	putative cation transport protein
+snu:SPNA45_01595	CDS	complement(1621293..1621751)	PTS system, lactose-specific IIB component (EC 2.7.1.69) / PTS system, lactose-specific IIC component (EC 2.7.1.69)
+snu:SPNA45_01596	CDS	1623257..1623541	putative uncharacterized protein
+snu:SPNA45_01597	CDS	1623534..1623782	FIG01115688: hypothetical protein
+snu:SPNA45_01598	CDS	1623878..1624102	putative uncharacterized protein
+snu:SPNA45_01599	CDS	complement(1624450..1626774)	pfl; formate acetyltransferase
+snu:SPNA45_01600	CDS	1627167..1628228	dinB; DNA polymerase IV
+snu:SPNA45_01601	CDS	complement(1628254..1628382)	undecaprenyl pyrophosphate phosphatase
+snu:SPNA45_01602	CDS	complement(1628375..1629229)	bacA; undecaprenol kinase (bacitracin resistance protein)
+snu:SPNA45_01603	CDS	join(1629485..1629604,1629610..1630425)	putative transposase (pseudogene)
+snu:SPNA45_01604	CDS	complement(1630803..1632692)	putative membrane protein
+snu:SPNA45_01605	gene	join(1632830..1633595,1633601..1633641,1633646..1634395)	pseudogene
+snu:SPNA45_01606	CDS	1634395..1635135	glnQ2; putative putative glutamine ABC transporter, ATP-binding protein 2
+snu:SPNA45_01607	CDS	complement(1635244..1635459)	conserved hypothetical protein
+snu:SPNA45_01608	CDS	complement(1636331..1637581)	ilvA; threonine dehydratase biosynthetic
+snu:SPNA45_01609	CDS	complement(1637631..1637987)	hypothetical protein
+snu:SPNA45_01610	CDS	complement(join(1638001..1638222,1638228..1638233,1638233..1638364))	hypothetical protein (pseudogene)
+snu:SPNA45_01611	CDS	complement(1638567..1639589)	ilvC; ketol-acid reductoisomerase
+snu:SPNA45_01612	CDS	complement(1639655..1640131)	ilvH; acetolactate synthase small subunit
+snu:SPNA45_01613	CDS	complement(1640124..1641824)	alsS; acetolactate synthase large subunit
+snu:SPNA45_01614	CDS	complement(1642025..1643659)	putative phosphatase
+snu:SPNA45_01615	CDS	complement(1643695..1644060)	conserved hypothetical protein
+snu:SPNA45_01616	CDS	complement(1644217..1644405)	rpmB; 50S ribosomal protein L28
+snu:SPNA45_01617	gene	complement(join(1644521..1644805,1644811..1644957))	pseudogene
+snu:SPNA45_01618	CDS	complement(1645433..1646977)	Peptide chain release factor 3
+snu:SPNA45_01619	CDS	1647190..1647492	Aspartyl-tRNA(Asn) amidotransferase subunit C (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit C (EC 6.3.5.7)
+snu:SPNA45_01620	CDS	1647492..1648958	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
+snu:SPNA45_01621	CDS	1648958..1650400	Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
+snu:SPNA45_01622	CDS	1650529..1651089	efp; elongation factor P (EF-P)
+snu:SPNA45_01623	CDS	1651111..1651500	conserved hypothetical protein
+snu:SPNA45_01624	CDS	1651493..1651915	nusB; N utilization substance protein B homolog (NusB protein)
+snu:SPNA45_01625	CDS	complement(join(1651964..1652212,1652216..1652488,1652494..1652664))	hypothetical protein
+snu:SPNA45_01626	CDS	complement(1652682..1652867)	hypothetical protein
+snu:SPNA45_01627	CDS	complement(1653026..1653793)	accA; acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+snu:SPNA45_01628	CDS	complement(1653790..1654656)	accD; acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+snu:SPNA45_01629	CDS	complement(1654693..1656060)	accC; biotin carboxylase subunit of acetyl-CoA carboxylase
+snu:SPNA45_01630	CDS	complement(1656072..1656494)	fabZ; (3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+snu:SPNA45_01631	CDS	complement(1656491..1656976)	fabE; biotin carboxyl carrier protein of acetyl-CoA carboxylase
+snu:SPNA45_01632	CDS	complement(1656979..1658214)	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II
+snu:SPNA45_01633	CDS	complement(1658236..1658967)	fabG; 3-oxoacyl-[acyl-carrier protein] reductase
+snu:SPNA45_01634	CDS	complement(1659001..1659921)	fabD; putative putative malonyl CoA-acyl carrier protein transacylase
+snu:SPNA45_01635	CDS	complement(1659914..1660888)	fabK; enoyl-ACP reductase
+snu:SPNA45_01636	CDS	complement(1661007..1661231)	acpP; acyl carrier protein (ACP)
+snu:SPNA45_01637	CDS	complement(1661291..1662265)	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III
+snu:SPNA45_01638	CDS	complement(1662265..1662699)	MarR family regulatory protein
+snu:SPNA45_01639	CDS	complement(1662793..1663578)	enoyl-CoA hydratase/isomerase family protein
+snu:SPNA45_01640	CDS	1663903..1665267	putative aspartokinase
+snu:SPNA45_01641	CDS	1665270..1665641	conserved hypothetical protein
+snu:SPNA45_01642	CDS	1665855..1667129	serS; seryl-tRNA synthetase
+snu:SPNA45_01643	CDS	complement(1667154..1668053)	putative C4-dicarboxylate transporter
+snu:SPNA45_01644	CDS	complement(1668164..1668712)	putative decarboxylase
+snu:SPNA45_01645	CDS	complement(1668930..1670252)	sodium:alanine symporter family protein
+snu:SPNA45_01646	CDS	complement(1670595..1672931)	mutS2; putative DNA mismatch repair protein
+snu:SPNA45_01647	CDS	complement(1673035..1673583)	putative bacteriocin production protein
+snu:SPNA45_01648	CDS	complement(1673580..1673882)	conserved hypothetical protein
+snu:SPNA45_01649	CDS	1673969..1674850	ribonuclease HIII
+snu:SPNA45_01650	CDS	1674854..1675468	spi; putative signal peptidase I
+snu:SPNA45_01651	CDS	1675596..1677962	conserved hypothetical protein
+snu:SPNA45_01652	CDS	complement(1678010..1679293)	tig; trigger factor (prolyl isomerase)
+snu:SPNA45_01653	CDS	complement(1679597..1679710)	hypothetical protein
+snu:SPNA45_01654	CDS	complement(1680079..1681215)	Mannitol-1-phosphate 5-dehydrogenase (EC 1.1.1.17)
+snu:SPNA45_01655	CDS	complement(1681277..1681714)	PTS system, mannitol-specific IIA component (EC 2.7.1.69)
+snu:SPNA45_01656	CDS	complement(1681757..1683070)	Mannitol operon activator, BglG family
+snu:SPNA45_01657	CDS	complement(1683157..1684926)	PTS system, mannitol-specific IIB component / PTS system, mannitol-specific IIC component (EC 2.7.1.69)
+snu:SPNA45_01658	gene	join(1685135..1685347,1685483..1685650,1685650..1686132,1686142..1686483)	tnp_(pseudogene); pseudogene
+snu:SPNA45_01659	gene	complement(join(1686610..1687632,1687651..1688157))	pseudogene
+snu:SPNA45_01660	CDS	complement(1688205..1688471)	Choline binding protein G
+snu:SPNA45_01661	CDS	complement(1688552..1688791)	FIG01114269: hypothetical protein
+snu:SPNA45_01662	gene	complement(join(1688941..1689117,1689253..1689477,1689459..1689701))	pseudogene
+snu:SPNA45_01663	CDS	complement(1689702..1690334)	vraR; Two component transcriptional regulator VraR
+snu:SPNA45_01664	CDS	complement(1690348..1691343)	vraS; Sensor histidine kinase VraS
+snu:SPNA45_01665	CDS	complement(1691340..1691975)	Transporter associated with VraSR
+snu:SPNA45_01666	CDS	complement(1692116..1693126)	Isopentenyl-diphosphate delta-isomerase, FMN-dependent (EC 5.3.3.2)
+snu:SPNA45_01667	CDS	complement(1693110..1694117)	Phosphomevalonate kinase (EC 2.7.4.2)
+snu:SPNA45_01668	CDS	complement(1694104..1695057)	Diphosphomevalonate decarboxylase (EC 4.1.1.33)
+snu:SPNA45_01669	CDS	complement(1695039..1695917)	Mevalonate kinase (EC 2.7.1.36)
+snu:SPNA45_01670	gene	complement(join(1696039..1696161,1699248..1700243,1700261..1701163))	pseudogene
+snu:SPNA45_01671	CDS	1697031..1697855	hypothetical protein
+snu:SPNA45_01672	CDS	1697898..1699130	Macrolide-efflux protein
+snu:SPNA45_01674	CDS	complement(join(1701261..1701959,1701965..1703407))	cbpJ; choline binding protein J
+snu:SPNA45_01673	CDS	complement(1701261..1701950)	csrR; response regulator protein
+snu:SPNA45_01675	CDS	complement(1701962..1703386)	gnd; 6-phosphogluconate dehydrogenase, decarboxylating
+snu:SPNA45_01676	CDS	complement(1703462..1704832)	putative membrane protein
+snu:SPNA45_01677	CDS	complement(1704845..1706002)	putative RNA methylase family protein
+snu:SPNA45_01678	CDS	complement(1706488..1706817)	gpsB; Cell division protein GpsB
+snu:SPNA45_01679	CDS	complement(1706886..1707413)	conserved hypothetical protein
+snu:SPNA45_01680	CDS	1707479..1708075	recU; putative recombination protein U
+snu:SPNA45_01681	CDS	1708072..1710267	pbp1A; putative penicillin-binding protein 1A
+snu:SPNA45_01682	CDS	complement(1710434..1715737)	cell wall surface anchor family protein
+snu:SPNA45_01683	CDS	complement(1716037..1716957)	oppA; Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)
+snu:SPNA45_01684	CDS	complement(1717609..1718742)	Phosphoglucomutase (EC 5.4.2.2)
+snu:SPNA45_01685	CDS	complement(1718739..1719659)	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)
+snu:SPNA45_01686	CDS	complement(1719957..1721210)	Hyaluronan synthase (EC 2.4.1.212)
+snu:SPNA45_01687	CDS	complement(1721226..1722410)	UDP-glucose dehydrogenase (EC 1.1.1.22)
+snu:SPNA45_01688	CDS	complement(1723043..1723507)	epsD; Tyrosine-protein kinase EpsD
+snu:SPNA45_01689	CDS	complement(1723517..1724209)	wzd; capsular polysaccharide biosynthesis protein Wzd
+snu:SPNA45_01690	gene	complement(join(1723774..1724628,1724634..1724948))	wzg; pseudogene
+snu:SPNA45_01691	gene	complement(join(1724950..1725645,1725709..1725894))	pseudogene
+snu:SPNA45_01692	gene	join(1726362..1726691,1727008..1727208)	pseudogene
+snu:SPNA45_01693	CDS	complement(1727205..1727357)	aliB; putative oligopeptide-binding protein AliB (pseudogene)
+snu:SPNA45_01694	CDS	complement(1727516..1729123)	dexB; glucan 1,6-alpha-glucosidase
+snu:SPNA45_01695	CDS	1729276..1730760	conserved hypothetical protein
+snu:SPNA45_01696	CDS	1730855..1731337	luxS; S-ribosylhomocysteinase
+snu:SPNA45_01697	gene	complement(1731404..1732681)	pseudogene
+snu:SPNA45_01698	gene	complement(join(1733385..1733426,1733430..1733450))	pseudogene
+snu:SPNA45_01699	CDS	complement(join(1733472..1733483,1733488..1735590))	Group II intron maturase
+snu:SPNA45_01700	CDS	complement(1733485..1735590)	clpL; putative ATP-dependent protease ATP-binding subunit ClpL
+snu:SPNA45_01701	CDS	complement(1736199..1737179)	mraY; phospho-N-acetylmuramoyl-pentapeptide-transfera se
+snu:SPNA45_01702	CDS	complement(1737181..1739433)	pbp2x; Penicillin binding protein 2x
+snu:SPNA45_01703	CDS	complement(1739437..1739754)	ftsL; putative cell division protein
+snu:SPNA45_01704	CDS	complement(1739766..1740716)	mraW; S-adenosyl-methyltransferase MraW
+snu:SPNA45_01705	CDS	1740882..1741076	putative DNA-binding protein
+snu:SPNA45_01706	CDS	1741092..1741634	hypothetical protein
+snu:SPNA45_01707	CDS	1741645..1741887	putative membrane protein
+snu:SPNA45_01708	CDS	1741898..1742233	membrane protein
+snu:SPNA45_01709	CDS	complement(1742343..1743308)	LacI family regulatory protein
+snu:SPNA45_01710	CDS	complement(1743404..1745305)	heparinase II/III-like protein
+snu:SPNA45_01711	CDS	complement(1745327..1745620)	putative membrane protein
+snu:SPNA45_01712	CDS	complement(1745620..1746438)	agaD; putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IID component
+snu:SPNA45_01713	CDS	complement(1746425..1747204)	agaW; putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IIC component
+snu:SPNA45_01714	CDS	complement(1747219..1747710)	agaV; putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IIB component
+snu:SPNA45_01715	CDS	complement(1747721..1748911)	ugl; putative unsaturated glucuronyl hydrolase
+snu:SPNA45_01716	CDS	complement(1748923..1749357)	putative N-acetylgalactosamine-specific phosphotransferase system (PTS), IIA component
+snu:SPNA45_01717	CDS	1749627..1750442	idnO; putative gluconate 5-dehydrogenase
+snu:SPNA45_01718	CDS	1750461..1751102	putative sugar-phosphate isomerase
+snu:SPNA45_01719	CDS	1751133..1752134	PfkB family carbohydrate kinase
+snu:SPNA45_01720	CDS	1752144..1752773	kgdA; putative KHG/KDPG aldolase [includes: 4-hydroxy-2-oxoglutarate aldolase; 2-dehydro-3-deoxy-phosphogluconate aldolase]
+snu:SPNA45_01721	CDS	complement(1753134..1753487)	tnp_(pseudogene); putative transposase (pseudogene)
+snu:SPNA45_01722	CDS	complement(1753903..1757103)	putative hyaluronate lyase
+snu:SPNA45_01723	CDS	1757326..1757802	putative glutathione peroxidase
+snu:SPNA45_01724	CDS	complement(1758024..1760063)	putative glycosylhydrolase
+snu:SPNA45_01725	CDS	complement(1760638..1760814)	hypothetical protein
+snu:SPNA45_01726	gene	complement(join(1761194..1762552,1762620..1763138,1763157..1763480))	pseudogene
+snu:SPNA45_01727	CDS	complement(1763559..1765454)	Transcriptional antiterminator of lichenan operon, BglG family
+snu:SPNA45_01728	CDS	complement(1765578..1765892)	PTS system, cellobiose-specific IIB component (EC 2.7.1.69)
+snu:SPNA45_01729	CDS	complement(1766022..1766261)	hypothetical protein
+snu:SPNA45_01730	CDS	complement(1766313..1767749)	6-phospho-beta-glucosidase (EC 3.2.1.86)
+snu:SPNA45_01731	CDS	complement(1767939..1768211)	Conserved domain protein
+snu:SPNA45_01732	gene	complement(1768353..1768466)	pseudogene
+snu:SPNA45_01733	CDS	complement(1768863..1769486)	hypothetical protein
+snu:SPNA45_01734	CDS	1769575..1770090	hypothetical protein
+snu:SPNA45_01735	CDS	1770368..1771126	hypothetical protein
+snu:SPNA45_01736	CDS	1771401..1772465	FtsK/SpoIIIE family
+snu:SPNA45_01737	CDS	1772556..1772870	hypothetical protein
+snu:SPNA45_01738	CDS	1772915..1773304	unknown
+snu:SPNA45_01739	CDS	1773332..1774096	Serine/threonine protein phosphatase (EC 3.1.3.16)
+snu:SPNA45_01740	CDS	1774262..1775056	Rep protein
+snu:SPNA45_01741	CDS	1775063..1775332	conserved hypothetical protein
+snu:SPNA45_01742	gene	join(1775375..1775491,1775513..1776595)	int; pseudogene
+snu:SPNA45_01743	CDS	complement(1776703..1777095)	rpsI; 30S ribosomal protein S9
+snu:SPNA45_01744	CDS	complement(1777115..1777561)	rplM; 50S ribosomal protein L13
+snu:SPNA45_01745	CDS	1777918..1778235	conserved hypothetical protein
+snu:SPNA45_01746	CDS	complement(1778280..1779092)	putative 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+snu:SPNA45_01747	CDS	complement(1779135..1779689)	folE; GTP cyclohydrolase I
+snu:SPNA45_01748	CDS	complement(1779670..1780992)	folC; putative putative folylpolyglutamate synthase
+snu:SPNA45_01749	CDS	complement(1780994..1781968)	folP; dihydropteroate synthase
+snu:SPNA45_01750	CDS	complement(1782063..1782770)	putative CAAX amino terminal protease family membrane protein
+snu:SPNA45_01751	CDS	complement(1782823..1784241)	putative permease
+snu:SPNA45_01752	CDS	1784431..1785243	putative haloacid dehalogenase-like hydrolase
+snu:SPNA45_01753	CDS	1785582..1786601	adhP; alcohol dehydrogenase
+snu:SPNA45_01754	CDS	1786835..1787824	manL; putative mannose-specific phosphotransferase system (PTS), IIAB component
+snu:SPNA45_01755	CDS	1787852..1788655	manM; putative mannose-specific phosphotransferase system (PTS), IIC component
+snu:SPNA45_01756	CDS	1788679..1789590	manN; putative mannose-specific phosphotransferase system (PTS), IID component
+snu:SPNA45_01757	CDS	complement(1789646..1790980)	pepC; aminopeptidase C
+snu:SPNA45_01758	CDS	complement(1791198..1791920)	putative ribosomal small subunit pseudouridine synthase B
+snu:SPNA45_01759	CDS	complement(1792383..1793624)	pepS; aminopeptidase PepS
+snu:SPNA45_01760	CDS	complement(1793646..1793798)	putative membrane protein
+snu:SPNA45_01761	CDS	complement(1794090..1794353)	putative plasmid stabilization system antitoxin protein
+snu:SPNA45_01762	CDS	complement(1794455..1798846)	polC; DNA polymerase III PolC-type
+snu:SPNA45_01763	CDS	complement(1798950..1801031)	fus; elongation factor G (EF-G)
+snu:SPNA45_01764	CDS	complement(1801456..1801926)	rpsG; 30S ribosomal protein S7
+snu:SPNA45_01765	CDS	complement(1801946..1802359)	rpsL; 30S ribosomal protein S12
+snu:SPNA45_01766	CDS	1802770..1806633	putative surface-anchored pullulanase
+snu:SPNA45_01767	CDS	complement(1806733..1807782)	luciferase-like monooxygenase
+snu:SPNA45_01768	CDS	complement(1807901..1809709)	Glucosamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)
+snu:SPNA45_01769	CDS	1807920..1807976	N-ethylammeline chlorohydrolase
+snu:SPNA45_01770	CDS	complement(1809901..1811280)	Beta-glucosidase (EC 3.2.1.21)
+snu:SPNA45_01771	CDS	complement(1811379..1813232)	Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type
+snu:SPNA45_01772	CDS	complement(1813245..1814504)	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage
+snu:SPNA45_01773	CDS	complement(1814526..1815329)	Phosphatidate cytidylyltransferase (EC 2.7.7.41)
+snu:SPNA45_01774	CDS	complement(1815338..1816096)	Undecaprenyl pyrophosphate synthetase
+snu:SPNA45_01775	CDS	complement(1816327..1816899)	hypothetical protein
+snu:SPNA45_01776	CDS	complement(1816880..1817851)	ruvB; Holliday junction DNA helicase RuvB
+snu:SPNA45_01777	gene	complement(join(1818721..1819137,1819149..1819505,1819510..1819818))	pseudogene
+snu:SPNA45_01778	CDS	complement(1820142..1822643)	leuS; leucyl-tRNA synthetase
+snu:SPNA45_01779	CDS	complement(1823098..1824186)	gldA; glycerol dehydrogenase
+snu:SPNA45_01780	CDS	complement(1824204..1824872)	fsaA; putative fructose-6-phosphate aldolase 1
+snu:SPNA45_01781	CDS	complement(join(1824891..1825739,1825743..1827329))	pflD; putative formate acetyltransferase
+snu:SPNA45_01782	CDS	complement(1827486..1828778)	sugar phosphotransferase system (PTS), IIC component
+snu:SPNA45_01783	CDS	complement(1828795..1829103)	sugar phosphotransferase system (PTS), lactose/cellobiose-specific family, IIB component
+snu:SPNA45_01784	CDS	complement(1829149..1829469)	sugar phosphotransferase system (PTS), lactose/cellobiose-specific family, IIA component
+snu:SPNA45_01785	CDS	complement(1829664..1830644)	putative sugar-binding regulatory protein
+snu:SPNA45_01786	CDS	complement(1830657..1831403)	DeoR family regulatory protein
+snu:SPNA45_01787	CDS	1831525..1832301	putative pyruvate formate-lyase activating enzyme
+snu:SPNA45_01788	CDS	join(1832289..1832321,1832325..1832573)	putative AraC-family transcriptional regulator
+snu:SPNA45_01789	CDS	join(1832790..1832888,1832892..1833389,1833462..1833911)	putative extracellular solute-binding protein (pseudogene)
+snu:SPNA45_01790	CDS	1833924..1835015	probable ATP-binding component of ABC transporter
+snu:SPNA45_01791	gene	join(1835005..1835427,1835431..1835631)	pseudogene
+snu:SPNA45_01792	gene	join(1835658..1836227,1836233..1836640)	pseudogene
+snu:SPNA45_01793	CDS	complement(1836743..1837435)	phosphoglycerate mutase family protein
+snu:SPNA45_01794	CDS	complement(join(1837679..1838878,1838882..1839016))	conserved hypothetical protein
+snu:SPNA45_01795	CDS	complement(1839026..1839292)	putative regulator
+snu:SPNA45_01796	CDS	complement(1841264..1841650)	rplQ; 50S ribosomal protein L17
+snu:SPNA45_01797	CDS	complement(1841662..1842597)	rpoA; DNA-directed RNA polymerase alpha chain
+snu:SPNA45_01798	CDS	complement(1842640..1842933)	rpsK; 30S ribosomal protein S11
+snu:SPNA45_01799	CDS	complement(1843041..1843406)	rpsM; 30S ribosomal protein S13
+snu:SPNA45_01800	CDS	complement(1843565..1843735)	infA; translation initiation factor IF-1
+snu:SPNA45_01801	CDS	complement(1843900..1844538)	adk; adenylate kinase
+snu:SPNA45_01802	CDS	complement(1844689..1845999)	secY; preprotein translocase SecY subunit
+snu:SPNA45_01803	CDS	complement(1846012..1846452)	rplO; 50S ribosomal protein L15
+snu:SPNA45_01804	CDS	complement(1846597..1846779)	rpmD; 50S ribosomal protein L30
+snu:SPNA45_01805	CDS	complement(1846793..1847287)	rpsE; 30S ribosomal protein S5
+snu:SPNA45_01806	CDS	complement(1847305..1847661)	rplR; 50S ribosomal protein L18
+snu:SPNA45_01807	CDS	complement(1847745..1848281)	rplF; 50S ribosomal protein L6
+snu:SPNA45_01808	CDS	complement(1848473..1848871)	rpsH; 30S ribosomal protein S8
+snu:SPNA45_01809	CDS	complement(1849039..1849308)	30S ribosomal protein S14
+snu:SPNA45_01810	CDS	complement(1849326..1849868)	rplE; 50S ribosomal protein L5
+snu:SPNA45_01811	CDS	complement(1849892..1850197)	rplX; 50S ribosomal protein L24
+snu:SPNA45_01812	CDS	complement(1850275..1850643)	rplN; 50S ribosomal protein L14
+snu:SPNA45_01813	CDS	complement(1850669..1850929)	rpsQ; 30S ribosomal protein S17
+snu:SPNA45_01814	CDS	complement(1850954..1851160)	rpmC; 50S ribosomal protein L29
+snu:SPNA45_01815	CDS	complement(1851170..1851583)	rplP; 50S ribosomal protein L16
+snu:SPNA45_01816	CDS	complement(1851587..1852213)	rpsC; 30S ribosomal protein S3
+snu:SPNA45_01817	CDS	complement(1852253..1852597)	rplV; 50S ribosomal protein L22
+snu:SPNA45_01818	CDS	complement(1852609..1852890)	rpsS; 30S ribosomal protein S19
+snu:SPNA45_01819	CDS	complement(1852994..1853782)	rplB; 50S ribosomal protein L2
+snu:SPNA45_01820	CDS	complement(1853845..1854141)	rplW; 50S ribosomal protein L23
+snu:SPNA45_01821	CDS	complement(1854141..1854764)	rplD; 50S ribosomal protein L4
+snu:SPNA45_01822	CDS	complement(1854789..1855415)	rplC; 50S ribosomal protein L3
+snu:SPNA45_01823	CDS	complement(1855631..1855939)	rpsJ; 30S ribosomal protein S10
+snu:SPNA45_01824	CDS	complement(1856206..1856823)	putative phosphoribulokinase
+snu:SPNA45_01825	CDS	complement(1856820..1857410)	nrdG; putative anaerobic ribonucleoside-triphosphate reductase activating protein
+snu:SPNA45_01826	CDS	complement(1857403..1857909)	acetyltransferase (GNAT) family protein
+snu:SPNA45_01827	CDS	complement(1857953..1858093)	conserved hypothetical protein
+snu:SPNA45_01828	CDS	complement(1858105..1860312)	nrdD; anaerobic ribonucleoside-triphosphate reductase
+snu:SPNA45_01829	CDS	complement(1860432..1861970)	putative membrane protein
+snu:SPNA45_01830	CDS	complement(1862228..1863760)	putative cardiolipin synthetase
+snu:SPNA45_01831	CDS	complement(1863906..1864364)	putative lipoprotein
+snu:SPNA45_01832	CDS	complement(1864448..1865698)	putative folylpolyglutamate synthase
+snu:SPNA45_01833	CDS	complement(1865957..1866262)	conserved hypothetical protein
+snu:SPNA45_01835	CDS	complement(join(1866278..1866700,1866704..1866967))	regulatory protein Spx
+snu:SPNA45_01834	CDS	complement(1866278..1866688)	putative Holliday junction resolvase
+snu:SPNA45_01836	CDS	complement(1866701..1866967)	conserved hypothetical protein
+snu:SPNA45_01837	CDS	complement(1867054..1867623)	putative lipoprotein
+snu:SPNA45_01838	CDS	complement(1867689..1868087)	spxA2; Transcriptional regulator SpxA2
+snu:SPNA45_01839	CDS	complement(1868219..1869280)	putative metallopeptidase
+snu:SPNA45_01840	CDS	complement(1869273..1872104)	uvrA; UvrABC system protein A (UvrA protein)
+snu:SPNA45_01841	CDS	1872236..1873180	CorA-like Mg2+ transporter protein
+snu:SPNA45_01842	CDS	1873192..1873875	putative membrane protein
+snu:SPNA45_01843	CDS	1874130..1875161	putative carboxypeptidase, possible microcin immunity protein
+snu:SPNA45_01844	CDS	complement(1875316..1875993)	putative protease
+snu:SPNA45_01845	CDS	complement(1875990..1876553)	tag; DNA-3-methyladenine glycosylase I
+snu:SPNA45_01846	CDS	complement(1876563..1877156)	ruvA; Holliday junction DNA helicase RuvA
+snu:SPNA45_01847	CDS	join(1877560..1877880,1877885..1878358)	ribD; riboflavin biosynthesis protein [includes: diaminohydroxyphosphoribosylaminopyrimidine deaminase and 5-amino-6-(5-phosphoribosylamino)uracil reductase]
+snu:SPNA45_01848	CDS	1878343..1878978	ribE; riboflavin synthase alpha chain
+snu:SPNA45_01849	CDS	1878998..1880203	ribA; riboflavin biosynthesis protein
+snu:SPNA45_01850	CDS	1880204..1880671	ribH; riboflavin synthase beta chain (6,7-dimethyl-8-ribityllumazine synthase)
+snu:SPNA45_01851	CDS	complement(1880996..1882945)	mutL; DNA mismatch repair protein MutL
+snu:SPNA45_01852	CDS	1883301..1883741	putative DNA-binding protein
+snu:SPNA45_01853	CDS	1883738..1884196	putative membrane protein
+snu:SPNA45_01854	CDS	1884506..1885768	putative integral membrane protein
+snu:SPNA45_01855	CDS	complement(1886061..1886531)	putative NrdI-like protein
+snu:SPNA45_01856	CDS	complement(1886609..1887142)	putative membrane protein
+snu:SPNA45_01857	CDS	complement(1887286..1888452)	Phage integrase: site-specific recombinase
+snu:SPNA45_01858	CDS	complement(1888648..1889472)	DNA-damage-inducible protein D
+snu:SPNA45_01859	CDS	complement(1889626..1889763)	ORF2
+snu:SPNA45_01860	CDS	complement(1889857..1890129)	ORF2
+snu:SPNA45_01861	CDS	complement(1890705..1891373)	Pli0008 protein
+snu:SPNA45_01862	CDS	complement(1891913..1892581)	hypothetical protein
+snu:SPNA45_01863	CDS	complement(1892600..1893367)	Phage CI-like repressor
+snu:SPNA45_01864	CDS	1893825..1894427	prophage ps3 protein 13
+snu:SPNA45_01865	CDS	1894439..1894687	hypothetical protein
+snu:SPNA45_01866	CDS	1894925..1895098	Phage protein
+snu:SPNA45_01867	CDS	1895253..1895660	phage protein
+snu:SPNA45_01868	CDS	1895720..1896541	hypothetical protein
+snu:SPNA45_01869	CDS	1896758..1897042	hypothetical protein
+snu:SPNA45_01870	CDS	1897020..1897361	hypothetical protein
+snu:SPNA45_01871	CDS	1897755..1898138	Phage protein
+snu:SPNA45_01872	CDS	1898131..1899654	DNA primase, phage associated
+snu:SPNA45_01873	CDS	1900087..1900206	hypothetical protein
+snu:SPNA45_01874	CDS	1900235..1900663	hypothetical protein
+snu:SPNA45_01875	CDS	1900732..1901235	hypothetical protein
+snu:SPNA45_01876	CDS	1901698..1902108	phage protein
+snu:SPNA45_01877	CDS	complement(1903047..1904333)	response regulator protein
+snu:SPNA45_01878	CDS	complement(1904345..1905943)	putative histidine sensor kinase
+snu:SPNA45_01879	CDS	complement(1905993..1906607)	putative membrane protein
+snu:SPNA45_01880	CDS	1906742..1907311	putative membrane protein
+snu:SPNA45_01881	CDS	complement(1907341..1908033)	putative ABC transporter system permease protein
+snu:SPNA45_01882	CDS	complement(1908035..1909096)	putative ABC transporter ATP-binding protein
+snu:SPNA45_01883	CDS	complement(1909089..1910462)	putative peptidase
+snu:SPNA45_01884	gene	complement(join(1910562..1911428,1911432..1911443,1911449..1911634))	pseudogene
+snu:SPNA45_01885	CDS	complement(1911570..1912400)	Cysteine ABC transporter, substrate-binding protein
+snu:SPNA45_01886	gene	complement(join(1912817..1913200,1913205..1913474))	pseudogene
+snu:SPNA45_01887	CDS	complement(1913973..1915199)	putative transport protein
+snu:SPNA45_01888	gene	complement(join(1915271..1915681,1915687..1915941))	pseudogene
+snu:SPNA45_01889	CDS	complement(1916492..1917355)	hypothetical protein
+snu:SPNA45_01890	CDS	complement(1917750..1918922)	ugd; UDP-glucose 6-dehydrogenase
+snu:SPNA45_01892	CDS	complement(join(1918935..1919531,1919535..1919690))	hypothetical protein (fragment)
+snu:SPNA45_01891	CDS	complement(join(1918935..1919531,1919535..1919684))	putative acetyltransferase
+snu:SPNA45_01893	CDS	complement(1920384..1922000)	ABC transporter ATP-binding/membrane spanning protein-multidrug resistance
+snu:SPNA45_01894	CDS	complement(1922010..1922963)	Beta-1,3-glucosyltransferase
+snu:SPNA45_01896	gene	complement(join(1922956..1923604,1923610..1924160))	pseudogene
+snu:SPNA45_01897	gene	join(1924520..1924720,1924725..1924766,1924770..1925066)	tnp_(pseudogene); pseudogene
+snu:SPNA45_01898	gene	join(1925429..1925815,1925819..1926358)	tnp_(pseudogene); pseudogene
+snu:SPNA45_01899	CDS	1926349..1926735	tnp_(pseudogene); putative transposase (pseudogene)
+snu:SPNA45_01900	CDS	complement(1926775..1927785)	putative glycoprotease
+snu:SPNA45_01901	CDS	complement(1927775..1928212)	acetyltransferase (GNAT) family protein
+snu:SPNA45_01902	CDS	complement(1928209..1928892)	glycoprotease family protein
+snu:SPNA45_01903	CDS	1929070..1929255	putative membrane protein
+snu:SPNA45_01904	CDS	1929257..1929409	putative membrane protein
+snu:SPNA45_01905	CDS	1929656..1929805	ccs1; competence-induced protein ccs1 (pseudogene)
+snu:SPNA45_01906	CDS	1930215..1930448	conserved hypothetical protein
+snu:SPNA45_01907	CDS	1930450..1932129	metallo-beta-lactamase superfamily protein
+snu:SPNA45_01908	CDS	complement(1932643..1934556)	gidA; tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+snu:SPNA45_01909	CDS	complement(1934566..1935021)	MutT/nudix family protein
+snu:SPNA45_01910	CDS	complement(1935162..1936283)	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase (EC 2.1.1.61)
+snu:SPNA45_01911	CDS	complement(1936306..1936434)	hypothetical protein
+snu:SPNA45_01912	CDS	complement(1936684..1938705)	Choline binding protein A
+snu:SPNA45_01913	gene	complement(1939925..1940089)	pspA; pseudogene
+snu:SPNA45_01914	CDS	complement(1940627..1941355)	hypothetical protein
+snu:SPNA45_01915	CDS	complement(1941352..1941705)	hypothetical protein
+snu:SPNA45_01916	CDS	complement(1941761..1942663)	hypothetical protein
+snu:SPNA45_01918	CDS	complement(1942682..1942864)	hypothetical protein
+snu:SPNA45_01919	CDS	complement(1942871..1943245)	hypothetical protein
+snu:SPNA45_01920	CDS	complement(1943622..1944599)	Leader peptidase
+snu:SPNA45_01921	CDS	complement(1944892..1945971)	putative membrane protein
+snu:SPNA45_01922	CDS	complement(1946128..1946592)	hypothetical protein
+snu:SPNA45_01923	CDS	complement(1947374..1947817)	hypothetical protein
+snu:SPNA45_01924	CDS	complement(1947846..1948082)	Peptide ABC transporter ATP binding/permease protein
+snu:SPNA45_01925	CDS	1948881..1949096	hypothetical protein
+snu:SPNA45_01926	gene	complement(join(1949385..1950776,1950805..1952001))	pseudogene
+snu:SPNA45_01927	CDS	complement(join(1952018..1952554,1952559..1952825))	Amino acid ABC transporter, amino acid-binding/permease protein
+snu:SPNA45_01928	CDS	complement(1953033..1953686)	ABC transporter ATP-binding protein
+snu:SPNA45_01929	gene	complement(join(1953683..1955032,1955036..1955791))	pseudogene
+snu:SPNA45_01930	CDS	complement(1955846..1956094)	bacteriocin, putative
+snu:SPNA45_01931	CDS	1956651..1956866	hypothetical protein (pseudogene)
+snu:SPNA45_01932	CDS	complement(1956918..1957505)	LysM domain protein
+snu:SPNA45_01933	CDS	1957747..1958418	sdhB; putative L-serine dehydratase, beta chain
+snu:SPNA45_01934	CDS	1958427..1959299	sdhA; putative L-serine dehydratase, alpha chain
+snu:SPNA45_01935	CDS	1959321..1959899	putative 5'-nucleotidase
+snu:SPNA45_01936	CDS	1960003..1960215	N-ethylammeline chlorohydrolase
+snu:SPNA45_01937	CDS	complement(1960301..1962151)	polysaccharide biosynthesis protein
+snu:SPNA45_01938	CDS	complement(1962193..1963350)	putative glycosyl transferase
+snu:SPNA45_01939	CDS	1963408..1964574	putative Major Facilitator Superfamily protein (pseudogene)
+snu:SPNA45_01940	CDS	1964713..1965039	PadR-like family regulatory protein
+snu:SPNA45_01941	CDS	1965026..1965619	putative membrane protein
+snu:SPNA45_01942	CDS	1965612..1966523	putative exported protein
+snu:SPNA45_01943	CDS	1966585..1967649	putative membrane protein
+snu:SPNA45_01944	CDS	complement(1967860..1968846)	conserved hypothetical protein
+snu:SPNA45_01945	CDS	complement(1969118..1970758)	extracellular solute-binding protein
+snu:SPNA45_01946	CDS	complement(1970803..1971726)	binding-protein-dependent transport system membrane protein
+snu:SPNA45_01947	CDS	complement(1971740..1972669)	binding-protein-dependent transport system membrane protein
+snu:SPNA45_01948	gene	complement(1973656..1973814)	tnp_(pseudogene); pseudogene
+snu:SPNA45_01949	CDS	complement(1974000..1974611)	rpsD; 30S ribosomal protein S4
+snu:SPNA45_01950	CDS	complement(1974806..1975858)	histidine kinase protein
+snu:SPNA45_01951	CDS	complement(1975855..1976553)	response regulator protein
+snu:SPNA45_01952	CDS	complement(1976720..1979293)	cell wall surface anchor family protein (pseudogene)
+snu:SPNA45_01953	gene	complement(join(1979509..1979748,1979784..1980350))	pseudogene
+snu:SPNA45_01954	CDS	complement(1980412..1980570)	putative uncharacterized protein
+snu:SPNA45_01955	CDS	complement(1980705..1981370)	TrkA family cation transport protein
+snu:SPNA45_01956	CDS	complement(1981384..1982763)	TrkH-family cation transport protein
+snu:SPNA45_01957	CDS	complement(1983329..1984093)	phosphorylase family protein
+snu:SPNA45_01958	CDS	1984163..1984324	putative gene fragment
+snu:SPNA45_01959	CDS	1984314..1984610	conserved hypothetical protein
+snu:SPNA45_01960	CDS	1984664..1985026	N-ethylammeline chlorohydrolase
+snu:SPNA45_01961	CDS	complement(1985068..1985178)	conserved hypothetical protein
+snu:SPNA45_01962	CDS	complement(1985475..1986329)	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+snu:SPNA45_01963	CDS	complement(1986537..1987574)	putative aldose 1-epimerase
+snu:SPNA45_01964	CDS	complement(1987690..1988856)	agaS; putative tagatose-6-phosphate aldose/ketose isomerase
+snu:SPNA45_01965	CDS	complement(1989155..1989493)	sugar phosphotransferase system (PTS), fructose family, IIA component
+snu:SPNA45_01966	CDS	complement(1989566..1990381)	sugar phosphotransferase system (PTS), mannose/fructose/sorbose family, IID component
+snu:SPNA45_01967	CDS	complement(1990368..1991273)	sugar phosphotransferase system (PTS), sorbose-specific family, IIC component
+snu:SPNA45_01968	CDS	complement(1991301..1991777)	sugar phosphotransferase system (PTS), sorbose subfamily, IIB component
+snu:SPNA45_01969	CDS	complement(1991774..1993561)	putative beta-galactosidase
+snu:SPNA45_01970	CDS	1993882..1994625	GntR family regulatory protein
+snu:SPNA45_01971	CDS	1994854..1998861	strH; beta-N-acetylhexosaminidase precursor (ec 3.2.1.52) (sortase-sorted)
+snu:SPNA45_01972	CDS	complement(1998916..2000214)	purB; adenylosuccinate lyase
+snu:SPNA45_01973	CDS	complement(2000514..2001605)	purK; putative phosphoribosylaminoimidazole carboxylase ATPase subunit
+snu:SPNA45_01974	CDS	complement(2001592..2002080)	purE; putative phosphoribosylaminoimidazole carboxylase catalytic subunit
+snu:SPNA45_01975	CDS	complement(2002483..2003745)	purD; phosphoribosylamine-glycine ligase
+snu:SPNA45_01976	CDS	complement(2003867..2005414)	purH; bifunctional purine biosynthesis protein PurH [includes: phosphoribosylaminoimidazolecarboxamide formyltransferase; IMP cyclohydrolase]
+snu:SPNA45_01977	CDS	complement(join(2005439..2005897,2005903..2005950))	vanZ; putative VanZ-family resistance protein
+snu:SPNA45_01978	CDS	complement(2006034..2006579)	purN; phosphoribosylglycinamide formyltransferase
+snu:SPNA45_01979	CDS	complement(2006576..2007598)	purM; phosphoribosylformylglycinamidine cyclo-ligase
+snu:SPNA45_01980	CDS	complement(2007635..2009077)	purF; putative amidophosphoribosyltransferase precursor
+snu:SPNA45_01981	CDS	complement(2009170..2012895)	putative phosphoribosylformylglycinamidine synthase protein
+snu:SPNA45_01982	CDS	complement(2013097..2013804)	purC; phosphoribosylaminoimidazole-succinocarboxamide synthase
+snu:SPNA45_01983	CDS	complement(2013974..2015323)	bacteriocin transport accessory protein
+snu:SPNA45_01984	CDS	complement(2015336..2017489)	bacteriocin transport/processing ATP-binding protein
+snu:SPNA45_01985	CDS	complement(2017977..2018063)	blpO; bacteriocin BlpO
+snu:SPNA45_01986	CDS	complement(2018565..2018858)	putative IS1381 transposase (pseudogene)
+snu:SPNA45_01987	CDS	complement(2018901..2019134)	putative acyl carrier protein
+snu:SPNA45_01988	CDS	complement(2019140..2020132)	plsX; fatty acid/phospholipid synthesis protein
+snu:SPNA45_01989	CDS	complement(2020129..2020899)	recO; DNA repair protein RecO
+snu:SPNA45_01990	CDS	complement(2020896..2022065)	putative aminotransferase
+snu:SPNA45_01991	CDS	2022214..2023224	putative membrane protein
+snu:SPNA45_01992	CDS	complement(2023454..2023891)	putative CoA-binding protein
+snu:SPNA45_01993	CDS	complement(2023976..2026609)	polA; DNA polymerase I
+snu:SPNA45_01994	CDS	complement(2027374..2027961)	putative uncharacterized protein (pseudogene)
+snu:SPNA45_01995	CDS	complement(2028175..2029143)	prsA1; ribose-phosphate pyrophosphokinase 1
+snu:SPNA45_01996	CDS	complement(join(2029288..2029845,2029851..2029891,2029897..2030089))	putative membrane protein (pseudogene)
+snu:SPNA45_01997	CDS	complement(2030114..2030590)	putative carbonic anhydrase
+snu:SPNA45_01998	CDS	complement(2030684..2031877)	sms; putative DNA repair protein
+snu:SPNA45_01999	CDS	complement(2032059..2032574)	putative phosphoglycerate mutase family protein
+snu:SPNA45_02000	CDS	complement(2032576..2033019)	deoxyuridine 5'-triphosphate nucleotidohydrolase
+snu:SPNA45_02001	CDS	complement(2033206..2033673)	putative deaminase
+snu:SPNA45_02002	CDS	2033857..2034093	Arginine deiminase
+snu:SPNA45_02003	CDS	2034151..2035167	arcB; ornithine carbamoyltransferase
+snu:SPNA45_02004	CDS	2035332..2036279	arcC; carbamate kinase
+snu:SPNA45_02005	CDS	2036490..2038001	C4-dicarboxylate anaerobic carrier protein
+snu:SPNA45_02006	CDS	2038023..2039354	putative petidase
+snu:SPNA45_02007	CDS	complement(join(2039759..2040034,2040040..2040118,2040122..2040288))	putative surface protein (fragment)
+snu:SPNA45_02008	CDS	2040492..2040506	chlorohydrolase
+snu:SPNA45_02009	CDS	complement(2040690..2041589)	putative membrane protein
+snu:SPNA45_02010	CDS	complement(2041719..2042870)	probable alcohol dehydrogenase
+snu:SPNA45_02011	CDS	complement(2043016..2044782)	fucI; putative L-fucose isomerase
+snu:SPNA45_02012	CDS	complement(2044865..2047981)	putative exported glycosyl hydrolase
+snu:SPNA45_02013	CDS	complement(2047991..2050210)	conserved hypothetical protein
+snu:SPNA45_02014	CDS	complement(2050344..2051144)	PTS system, IId component
+snu:SPNA45_02015	CDS	complement(2051141..2051914)	PTS system, IIc component
+snu:SPNA45_02016	CDS	complement(2051939..2052409)	putative PTS system, mannose-specific IIAB component
+snu:SPNA45_02017	CDS	complement(2052400..2052831)	PTS system, IIa component
+snu:SPNA45_02018	CDS	complement(2052824..2053264)	fucU; fuscose operon fucU protein
+snu:SPNA45_02019	CDS	complement(2053276..2053914)	fucA; fuculose-1-phosphate aldolase
+snu:SPNA45_02020	CDS	complement(2054028..2055431)	fucK; putative fuculokinase
+snu:SPNA45_02021	CDS	2055607..2056380	putative fucose phosphotransferase system repressor
+snu:SPNA45_02022	CDS	complement(2058254..2059759)	zinT; Candidate zinc-binding lipoprotein ZinT
+snu:SPNA45_02023	CDS	complement(2059769..2060575)	znuB; Zinc ABC transporter, inner membrane permease protein ZnuB
+snu:SPNA45_02024	CDS	complement(2060568..2061272)	znuC; Zinc ABC transporter, ATP-binding protein ZnuC
+snu:SPNA45_02025	CDS	complement(2061272..2061712)	adcR; Transcriptional repressor AdcR for Zn(2+)-responsive expression
+snu:SPNA45_02026	CDS	complement(2061867..2063135)	dltD; Poly(glycerophosphate chain) D-alanine transfer protein DltD
+snu:SPNA45_02027	CDS	complement(2063128..2063367)	D-alanine--poly(phosphoribitol) ligase subunit 2 (EC 6.1.1.13)
+snu:SPNA45_02028	CDS	complement(2063381..2064772)	dltB; putative activated D-alanine transport protein
+snu:SPNA45_02029	CDS	complement(2064769..2066295)	dltA; D-alanine--poly(phosphoribitol) ligase subunit 1
+snu:SPNA45_02030	CDS	complement(2066340..2066471)	putative membrane protein
+snu:SPNA45_02031	CDS	complement(2066702..2067406)	glpF1; glycerol uptake facilitator protein 1
+snu:SPNA45_02032	CDS	complement(2067481..2069307)	glpO; alpha-glycerophosphate oxidase
+snu:SPNA45_02033	CDS	complement(2069349..2070857)	glpK; glycerol kinase
+snu:SPNA45_02034	CDS	complement(2071016..2072425)	putative DNA-binding protein
+snu:SPNA45_02035	CDS	2072608..2073480	33 kDa chaperonin (heat shock protein 33 homolog)
+snu:SPNA45_02036	CDS	2073440..2074447	putative tRNA-dihydrouridine synthase
+snu:SPNA45_02037	CDS	complement(2074547..2074663)	hypothetical protein
+snu:SPNA45_02038	CDS	complement(2074667..2075869)	Choline binding protein A
+snu:SPNA45_02039	gene	complement(join(2076169..2076405,2076428..2076784))	flikK_(pseudogene); pseudogene
+snu:SPNA45_02040	CDS	complement(2077081..2077719)	nrtR; Nudix-related transcriptional regulator NrtR
+snu:SPNA45_02041	gene	complement(join(2077733..2077858,2077839..2078453))	pnuC-like; pseudogene
+snu:SPNA45_02042	CDS	complement(2078463..2079320)	Nicotinamide-nucleotide adenylyltransferase, NadR family (EC 2.7.7.1) / Ribosylnicotinamide kinase (EC 2.7.1.22)
+snu:SPNA45_02043	CDS	2079401..2079919	Mobile element protein
+snu:SPNA45_02044	CDS	complement(2080098..2081489)	cbpA; choline-binding surface protein A
+snu:SPNA45_02045	CDS	complement(2081568..2082095)	isoprenylcysteine carboxyl methyltransferase (ICMT) family protein
+snu:SPNA45_02046	CDS	complement(2082178..2083509)	putative two-component system, sensor histidine kinase
+snu:SPNA45_02047	CDS	complement(2083506..2084159)	putative two-component system, response regulator
+snu:SPNA45_02048	CDS	complement(2084480..2086912)	clpC; putative stress response-related Clp ATPase
+snu:SPNA45_02049	CDS	complement(2086914..2087372)	ctsR; transcriptional regulator
+snu:SPNA45_02050	CDS	complement(2087491..2088219)	ABC transporter, ATP-binding protein
+snu:SPNA45_02051	CDS	complement(2088219..2089226)	ABC transporter, substrate-binding protein
+snu:SPNA45_02052	CDS	complement(2089264..2090022)	ABC transporter, permease protein
+snu:SPNA45_02053	CDS	complement(2089985..2090275)	conserved hypothetical protein
+snu:SPNA45_02054	CDS	complement(2090531..2091877)	cbpD; choline binding protein D
+snu:SPNA45_02055	CDS	complement(2091966..2092232)	veg; conserved hypothetical protein
+snu:SPNA45_02056	CDS	complement(2092234..2093586)	dnaC; replicative DNA helicase
+snu:SPNA45_02057	CDS	complement(2093629..2094081)	rplI; 50S ribosomal protein L9
+snu:SPNA45_02058	CDS	complement(2094078..2096051)	DHH family protein
+snu:SPNA45_02059	CDS	complement(2096188..2096736)	sigma 54 modulation protein / S30EA ribosomal protein
+snu:SPNA45_02060	CDS	complement(2096816..2097478)	comFC; putative late competence protein
+snu:SPNA45_02061	CDS	complement(2097475..2098773)	comFA; putative late competence protein
+snu:SPNA45_02062	CDS	2098829..2099464	conserved hypothetical protein
+snu:SPNA45_02063	CDS	2099749..2100669	cysM; putative cysteine synthase
+snu:SPNA45_02064	gene	complement(join(2100866..2101276,2101697..2102020,2102110..2102142))	tnp_(pseudogene); pseudogene
+snu:SPNA45_02065	CDS	complement(2102266..2103306)	tsf; elongation factor Ts
+snu:SPNA45_02066	CDS	complement(2103385..2104164)	rpsB; 30S ribosomal protein S2
+snu:SPNA45_02067	CDS	complement(2104388..2105566)	putative amidase
+snu:SPNA45_02068	CDS	complement(2105660..2106154)	putative membrane protein
+snu:SPNA45_02069	CDS	complement(2106154..2106972)	mreC; rod shape-determining protein MreC
+snu:SPNA45_02070	CDS	complement(2107031..2107825)	putative cobalt transport protein
+snu:SPNA45_02071	CDS	complement(2107818..2108657)	ABC transporter ATP-binding protein
+snu:SPNA45_02072	CDS	complement(2108642..2109469)	ABC transporter ATP-binding protein
+snu:SPNA45_02073	CDS	complement(2109466..2110011)	pgsA; putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+snu:SPNA45_02074	CDS	complement(2110022..2110843)	putative membrane protein
+snu:SPNA45_02075	CDS	complement(2110885..2112168)	putative protease
+snu:SPNA45_02076	CDS	complement(2112165..2113415)	putative protease
+snu:SPNA45_02077	CDS	2113574..2113942	conserved hypothetical protein
+snu:SPNA45_02078	CDS	2113945..2115042	recF; DNA replication and repair protein RecF
+snu:SPNA45_02079	CDS	complement(2115093..2116571)	guaB; inosine-5'-monophosphate dehydrogenase
+snu:SPNA45_02080	CDS	complement(2116723..2117748)	trsA; tryptophanyl-tRNA synthetase
+snu:SPNA45_02081	CDS	2118212..2119576	ABC transporter, ATP-binding protein
+snu:SPNA45_02082	CDS	2119638..2122190	putative membrane protein
+snu:SPNA45_02083	CDS	complement(2122291..2123727)	putative membrane protein
+snu:SPNA45_02084	CDS	2123961..2124503	TetR family regulatory protein
+snu:tRNA-Asn-2	tRNA	complement(2124544..2124617)	tRNA-Asn
+snu:tRNA-Glu-5	tRNA	complement(2124623..2124694)	tRNA-Glu
+snu:SPNA45_02085	CDS	complement(2124746..2125498)	putative response regulator protein
+snu:SPNA45_02086	gene	complement(2125495..2126820)	pseudogene
+snu:SPNA45_02087	CDS	complement(2126841..2126966)	comC2; competence-stimulating peptide type 2 precursor (csp-2)
+snu:tRNA-Arg-6	tRNA	complement(2127131..2127204)	tRNA-Arg
+snu:SPNA45_02088	CDS	complement(2127248..2127727)	conserved hypothetical protein
+snu:SPNA45_02089	CDS	2127910..2129091	htrA; serine protease
+snu:SPNA45_02090	CDS	2129149..2129907	parB; putative chromosome partitioning protein ParB
