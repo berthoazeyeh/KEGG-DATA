@@ -1,0 +1,679 @@
+wgl:WIGMOR_0001	CDS	180..2063	gidA; glucose-inhibited cell-division protein
+wgl:WIGMOR_0002	CDS	2271..3098	atpB; F0 sector of membrane-bound ATP synthase, subunit a
+wgl:WIGMOR_0003	CDS	3114..3353	atpE; F0 sector of membrane-bound ATP synthase, subunit c
+wgl:WIGMOR_0004	CDS	3376..3849	atpF; F0 sector of membrane-bound ATP synthase, subunit b
+wgl:WIGMOR_0005	CDS	3870..4397	atpH; ATP synthase delta chain
+wgl:WIGMOR_0006	CDS	4421..5953	atpA; F1 sector of membrane-bound ATP synthase, alpha subunit
+wgl:WIGMOR_0007	CDS	6014..6877	atpG; F1 sector of membrane-bound ATP synthase, gamma subunit
+wgl:WIGMOR_0008	CDS	6894..8282	atpD; F1 sector of membrane-bound ATP synthase, beta subunit
+wgl:WIGMOR_0009	CDS	8296..8712	atpC; F1 sector of membrane-bound ATP synthase, epsilon subunit
+wgl:WIGMOR_0010	CDS	8899..10275	glmU; N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase
+wgl:WIGMOR_0011	CDS	10440..12278	glmS; L-glutamine:D-fructose-6-phosphate aminotransferase
+wgl:WIGMOR_0012	CDS	complement(12289..13677)	mnmE; 5-methylaminomethyl-2-thiouridine-synthesizing GTPase
+wgl:WIGMOR_0013	CDS	complement(13679..15304)	yidC; membrane insertion protein
+wgl:WIGMOR_0014	CDS	complement(15326..15544)	yidD; uncharacterized DUF37 family protein
+wgl:WIGMOR_0015	CDS	complement(15520..15867)	rnpA; protein C5 component of RNase P
+wgl:WIGMOR_0016	CDS	complement(15880..16017)	rpmH; 50S ribosomal subunit protein L34
+wgl:WIGMOR_0017	CDS	16468..17577	dnaN; DNA polymerase III, beta subunit
+wgl:WIGMOR_0018	CDS	17782..20193	gyrB; DNA gyrase, subunit B
+wgl:WIGMOR_0019	CDS	20329..22545	organic solvent tolerance protein
+wgl:WIGMOR_0020	gene	22627..23822	surA; pseudogene
+wgl:WIGMOR_0021	CDS	23819..24805	pdxA; NAD-dependent 4-hydroxy-L-threonine phosphate dehydrogenase
+wgl:WIGMOR_0022	CDS	24836..25621	ksgA; S-adenosylmethionine-6-N',N'-adenosyl (rRNA) dimethyltransferase
+wgl:WIGMOR_0023	CDS	25714..26532	apaH; diadenosine tetraphosphatase
+wgl:WIGMOR_0024	CDS	complement(26568..27068)	folA; dihydrofolate reductase
+wgl:WIGMOR_0025	CDS	complement(27092..30340)	carB; carbamoyl-phosphate synthase large subunit
+wgl:WIGMOR_0026	CDS	complement(30342..31478)	carA; carbamoyl phosphate synthetase small subunit, glutamine amidotransferase
+wgl:WIGMOR_0027	CDS	complement(31526..32314)	dapB; dihydrodipicolinate reductase
+wgl:WIGMOR_0028	CDS	32681..33757	ydiK; putative inner membrane protein
+wgl:WIGMOR_0029	CDS	33818..34405	pabA; aminodeoxychorismate synthase, subunit II
+wgl:WIGMOR_0030	CDS	35246..35620	rpsL; 30S ribosomal subunit protein S12
+wgl:WIGMOR_0031	CDS	35692..36162	rpsG; 30S ribosomal subunit protein S7
+wgl:WIGMOR_0032	CDS	36204..38327	fusA; GTP-binding protein chain elongation factor EF-G
+wgl:WIGMOR_0033	CDS	39130..39474	flhD; FlhD family flagellar transcriptional activator
+wgl:WIGMOR_0034	CDS	39480..40034	flhC; FlhC family flagellar transcriptional activator
+wgl:WIGMOR_0035	CDS	40154..41053	motA; proton conductor component of flagella motor
+wgl:WIGMOR_0036	CDS	41050..42018	motB; MotB family proton-channel complex protein
+wgl:WIGMOR_0037	CDS	42090..43241	flhB; putative flagellar export pore protein
+wgl:WIGMOR_0038	CDS	43234..45339	flhA; putative flagellar export pore protein
+wgl:WIGMOR_0039	CDS	complement(45352..45822)	FlgN family flagellar biosynthesis protein
+wgl:WIGMOR_0040	CDS	complement(45952..46632)	FlgA family flagellar basal-body P-ring formation protein
+wgl:WIGMOR_0041	CDS	46788..47204	flgB; flagellar component of cell-proximal portion of basal-body rod
+wgl:WIGMOR_0042	CDS	47208..47606	flgC; flagellar component of cell-proximal portion of basal-body rod
+wgl:WIGMOR_0043	CDS	47639..48469	FlgD family flagellar basal-body rod modification protein
+wgl:WIGMOR_0044	CDS	48520..49746	flgE; flagellar hook protein
+wgl:WIGMOR_0045	CDS	49752..50498	flgF; flagellar component of cell-proximal portion of basal-body rod
+wgl:WIGMOR_0046	CDS	50508..51290	flgG; flagellar component of cell-distal portion of basal-body rod
+wgl:WIGMOR_0047	CDS	51354..52040	flgH; flagellar protein of basal-body outer-membrane L ring
+wgl:WIGMOR_0048	CDS	52050..53162	flgI; putative flagellar basal body protein
+wgl:WIGMOR_0049	CDS	53165..53461	FlgJ family peptidoglycan hydrolase
+wgl:WIGMOR_0050	CDS	53584..55233	FlgK family flagellar hook-associated protein
+wgl:WIGMOR_0051	CDS	55280..56221	FlgL family flagellar hook-associated protein
+wgl:WIGMOR_0052	CDS	complement(56239..57015)	fliR; flagellar export pore protein
+wgl:WIGMOR_0053	CDS	complement(57020..57289)	fliQ; flagellar biosynthesis protein
+wgl:WIGMOR_0054	CDS	complement(57300..58109)	fliP; flagellar biosynthesis protein
+wgl:WIGMOR_0055	CDS	complement(58093..58434)	FliO family protein
+wgl:WIGMOR_0056	CDS	complement(58431..58850)	fliN; flagellar motor switching and energizing component
+wgl:WIGMOR_0057	CDS	complement(58850..59815)	FliM family flagellar motor switch protein
+wgl:WIGMOR_0058	CDS	complement(59823..60314)	fliL; flagellar biosynthesis protein
+wgl:WIGMOR_0059	CDS	complement(60369..61631)	FliK family flagellar hook-length control protein
+wgl:WIGMOR_0060	gene	complement(61636..62078)	fliJ; pseudogene
+wgl:WIGMOR_0061	CDS	complement(62101..63462)	fliI; flagellum-specific ATP synthase
+wgl:WIGMOR_0062	CDS	complement(63459..64142)	FliH family flagellar assembly protein
+wgl:WIGMOR_0063	CDS	complement(64123..65109)	fliG; flagellar motor switching and energizing component
+wgl:WIGMOR_0064	CDS	complement(65096..66790)	fliF; flagellar basal-body MS-ring and collar protein
+wgl:WIGMOR_0065	CDS	67058..67378	fliE; flagellar basal-body component
+wgl:WIGMOR_0066	CDS	complement(67431..67823)	fliS; flagellin chaperone
+wgl:WIGMOR_0067	CDS	complement(67852..69357)	FliD family flagellar hook-associated protein
+wgl:WIGMOR_0068	CDS	69603..70868	FliC family flagellar biosynthesis protein
+wgl:WIGMOR_0069	CDS	complement(70933..71850)	yceA; rhodanese-related sulfurtransferase
+wgl:WIGMOR_0070	CDS	complement(71965..74469)	mdoH; glycosyl transferase
+wgl:WIGMOR_0071	CDS	complement(74955..75704)	gloB; putative hydroxyacylglutathione hydrolase
+wgl:WIGMOR_0072	CDS	complement(76024..76488)	rnhA; ribonuclease HI
+wgl:WIGMOR_0073	CDS	76533..77279	dnaQ; DNA polymerase III epsilon subunit
+wgl:WIGMOR_0074	CDS	complement(77317..77892)	yhhF; ribosomal RNA small subunit methyltransferase D
+wgl:WIGMOR_0075	CDS	78063..79031	ftsY; signal recognition particle (SRP) receptor
+wgl:WIGMOR_0076	CDS	79183..80028	rpoH; RNA polymerase, sigma 32 (sigma H) factor
+wgl:WIGMOR_0077	CDS	complement(80060..81361)	hemL; glutamate-1-semialdehyde aminotransferase (aminomutase)
+wgl:WIGMOR_0078	CDS	81507..81845	erpA; A-type Fe-S protein
+wgl:WIGMOR_0079	CDS	complement(81993..83054)	mltC; membrane-bound lytic murein transglycosylase C
+wgl:WIGMOR_0080	CDS	complement(83123..83365)	yggX; iron-sulfur cluster protector protein
+wgl:WIGMOR_0081	CDS	complement(83417..84463)	mutY; adenine DNA glycosylase
+wgl:WIGMOR_0082	CDS	complement(85242..85835)	yggV; dITP/XTP pyrophosphatase
+wgl:WIGMOR_0083	CDS	complement(85982..86800)	pyrroline-5-carboxylate reductase
+wgl:WIGMOR_0084	CDS	complement(86820..87518)	yggS; pyridoxal 5'-phosphate dependent enzyme
+wgl:WIGMOR_0085	CDS	87794..89707	thrS; threonyl-tRNA synthetase
+wgl:WIGMOR_0086	CDS	89709..90272	infC; protein chain initiation factor IF-3
+wgl:WIGMOR_0087	CDS	90328..90525	rpmI; 50S ribosomal subunit protein L35
+wgl:WIGMOR_0088	CDS	90570..90923	rplT; 50S ribosomal subunit protein L20
+wgl:WIGMOR_0089	CDS	91061..92062	pheS; phenylalanine tRNA synthetase, alpha subunit
+wgl:WIGMOR_0090	CDS	92071..94482	pheT; phenylalanine tRNA synthetase, beta subunit
+wgl:WIGMOR_0091	CDS	complement(94624..95673)	pyrC; dihydro-orotase
+wgl:WIGMOR_0092	CDS	complement(95896..98208)	ribonuclease E
+wgl:WIGMOR_0093	CDS	98527..99516	rluC; Ribosomal large subunit pseudouridine synthase C
+wgl:WIGMOR_0094	CDS	99728..99925	rpmF; 50S ribosomal subunit protein L32
+wgl:WIGMOR_0095	CDS	100196..101152	fabD; malonyl-CoA-[acyl-carrier-protein] transacylase
+wgl:WIGMOR_0096	CDS	101142..101876	fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+wgl:WIGMOR_0097	CDS	101980..102219	acpP; acyl carrier protein (ACP)
+wgl:WIGMOR_0098	CDS	102406..103209	pabC; 4-amino-4-deoxychorismate lyase component of para-aminobenzoate synthase multienzyme complex
+wgl:WIGMOR_0099	CDS	103396..104256	yceG; putative aminodeoxychorismate lyase
+wgl:WIGMOR_0100	CDS	104246..104947	tmk; thymidylate kinase
+wgl:WIGMOR_0101	CDS	104952..105929	DNA polymerase III delta prime subunit
+wgl:WIGMOR_0102	CDS	105930..106724	ycfH; putative metallodependent hydrolase
+wgl:WIGMOR_0103	CDS	106744..107088	hinT; purine nucleoside phosphoramidase
+wgl:WIGMOR_0104	CDS	107234..108532	ndh; respiratory NADH dehydrogenase 2/cupric reductase
+wgl:WIGMOR_0105	CDS	complement(108555..110615)	transcription-repair coupling factor
+wgl:WIGMOR_0106	CDS	110876..112078	lolC; membrane component of an ABC superfamily outer membrane-specific lipoprotein transporter
+wgl:WIGMOR_0107	CDS	112071..112751	lolD; ATP-binding component of an ABC superfamily outer membrane-specific lipoprotein transporter
+wgl:WIGMOR_0108	CDS	112723..114018	lolE; membrane component of an ABC superfamily outer membrane-specific lipoprotein transporter
+wgl:WIGMOR_0109	CDS	complement(114067..115449)	purB; adenylosuccinate lyase
+wgl:WIGMOR_0110	CDS	complement(115566..116684)	mnmA; tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+wgl:WIGMOR_0111	CDS	117101..117985	htpX; putative endopeptidase
+wgl:WIGMOR_0112	CDS	118386..119648	yoaE; putative membrane protein
+wgl:WIGMOR_0113	CDS	complement(119655..121034)	pabB; aminodeoxychorismate synthase, subunit I
+wgl:WIGMOR_0114	CDS	121337..123178	sppA; protease IV (signal peptide peptidase)
+wgl:WIGMOR_0115	CDS	123297..124289	gapA; glyceraldehyde-3-phosphate dehydrogenase A
+wgl:WIGMOR_0116	gene	complement(124434..125092)	grpE; pseudogene
+wgl:WIGMOR_0117	CDS	125202..126083	nadK; NAD kinase
+wgl:WIGMOR_0118	CDS	complement(126286..126723)	oligoketide cyclase
+wgl:WIGMOR_0119	CDS	126764..127246	smpB; trans-translation protein
+wgl:WIGMOR_0120	tmRNA	127255..127625	ssrA; 10Sa RNA
+wgl:WIGMOR_0121	CDS	127704..129392	aspS; aspartyl-tRNA synthetase
+wgl:WIGMOR_0122	CDS	129475..129942	ruvC; endonuclease component of RuvABC resolvasome
+wgl:WIGMOR_0123	CDS	complement(129994..130788)	znuB; membrane component of a high-affinity zinc uptake system
+wgl:WIGMOR_0124	CDS	complement(130808..131524)	znuC; ATP-binding component of a high-affinity zinc uptake system
+wgl:WIGMOR_0125	CDS	131599..132543	znuA; periplasmic component of a high-affinity zinc uptake system
+wgl:WIGMOR_0126	CDS	132540..133862	yebA; putative peptidase
+wgl:WIGMOR_0127	CDS	complement(133859..135214)	mntH; manganese transport protein
+wgl:WIGMOR_0128	tRNA	complement(135367..135439)	tRNA-Asn
+wgl:WIGMOR_0129	CDS	135845..136591	ubiE; 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase/S-adenosylmethionine:2-DMK methyltransferase
+wgl:WIGMOR_0130	CDS	136775..138403	ubiB; 2-octaprenylphenol hydroxylase of ubiquinone biosynthetic pathway
+wgl:WIGMOR_0131	CDS	138734..140203	ubiD; 3-octaprenyl-4-hydroxybenzoate decarboxylase
+wgl:WIGMOR_0132	CDS	140937..142388	trkH; potassium transporter
+wgl:WIGMOR_0133	CDS	142402..142923	hemG; protoporphyrin oxidase, flavoprotein
+wgl:WIGMOR_0134	rRNA	143181..144736	16S ribosomal RNA
+wgl:WIGMOR_0135	tRNA	144826..144901	tRNA-Glu
+wgl:WIGMOR_0136	rRNA	144983..147904	23S ribosomal RNA
+wgl:WIGMOR_0137	rRNA	147936..148055	5S ribosomal RNA
+wgl:WIGMOR_0138	CDS	complement(148084..149412)	accC; acetyl-CoA carboxylase, biotin carboxylase subunit
+wgl:WIGMOR_0139	CDS	complement(149419..149883)	accB; acetyl CoA carboxylase, BCCP subunit
+wgl:WIGMOR_0140	CDS	complement(149893..150339)	3-dehydroquinate dehydratase
+wgl:WIGMOR_0141	CDS	150688..151731	mreB; MreB family actin-like cell wall component
+wgl:WIGMOR_0142	CDS	151785..152693	mreC; MreC family transmembrane cell wall component
+wgl:WIGMOR_0143	CDS	152727..153224	mreD; MreD family transmembrane cell wall component
+wgl:WIGMOR_0144	CDS	complement(153238..154881)	pgi; glucosephosphate isomerase
+wgl:WIGMOR_0145	CDS	complement(155035..156714)	proS; prolyl-tRNA synthetase
+wgl:WIGMOR_0146	tRNA	157203..157276	tRNA-Ile
+wgl:WIGMOR_0147	tRNA	157280..157352	tRNA-Ala
+wgl:WIGMOR_0148	CDS	157628..159898	mrcB; penicillin-binding protein 1B (PBP1B)
+wgl:WIGMOR_0149	CDS	160037..160666	sodA; superoxide dismutase
+wgl:WIGMOR_0150	CDS	complement(160681..162753)	glyS; glycine tRNA synthetase, beta subunit
+wgl:WIGMOR_0151	CDS	complement(162766..163683)	glyQ; glycine tRNA synthetase, alpha subunit
+wgl:WIGMOR_0152	CDS	163829..164866	putative membrane protein
+wgl:WIGMOR_0153	CDS	complement(164892..167348)	thrA; bifunctional aspartokinase I/homoserine dehydrogenase I
+wgl:WIGMOR_0154	CDS	167624..168091	pyrI; aspartate carbamoyltransferase, regulatory subunit
+wgl:WIGMOR_0155	CDS	168271..169689	glnA; glutamine synthetase
+wgl:WIGMOR_0156	CDS	169735..170313	ydjM; putative inner membrane protein
+wgl:WIGMOR_0157	CDS	170558..172204	asnB; asparagine synthetase B
+wgl:WIGMOR_0158	tRNA	172313..172386	tRNA-Met
+wgl:WIGMOR_0159	tRNA	172392..172474	tRNA-Leu
+wgl:WIGMOR_0160	tRNA	172486..172556	tRNA-Gln
+wgl:WIGMOR_0161	CDS	complement(172572..172913)	emrE; multidrug resistance protein
+wgl:WIGMOR_0162	CDS	complement(173051..173830)	bioH; carboxylesterase
+wgl:WIGMOR_0163	CDS	174097..175011	hemF; coproporphyrinogen III oxidase
+wgl:WIGMOR_0164	CDS	175135..176085	talA; transaldolase A
+wgl:WIGMOR_0165	CDS	176094..178100	transketolase
+wgl:WIGMOR_0166	CDS	complement(178103..179149)	trpS; tryptophanyl-tRNA synthetase
+wgl:WIGMOR_0167	CDS	complement(179112..179828)	rpe; D-ribulose-5-phosphate 3-epimerase
+wgl:WIGMOR_0168	CDS	complement(179963..180808)	DamX family protein
+wgl:WIGMOR_0169	CDS	complement(180837..181934)	aroB; 3-dehydroquinate synthase
+wgl:WIGMOR_0170	CDS	complement(181951..182472)	aroK; shikimate kinase I
+wgl:WIGMOR_0171	CDS	182870..184486	pck; phosphoenolpyruvate carboxykinase
+wgl:WIGMOR_0172	gene	complement(184528..185900)	der; pseudogene
+wgl:WIGMOR_0173	CDS	complement(185936..187126)	putative lipoprotein precursor
+wgl:WIGMOR_0174	CDS	complement(187123..187620)	putative membrane protein
+wgl:WIGMOR_0175	CDS	complement(187633..188928)	hisS; histidyl tRNA synthetase
+wgl:WIGMOR_0176	CDS	complement(188962..190044)	ispG; 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+wgl:WIGMOR_0177	CDS	complement(190112..190609)	putative DNA-binding protein
+wgl:WIGMOR_0178	CDS	complement(190698..191789)	rlmN; 23S rRNA methyltransferase
+wgl:WIGMOR_0179	CDS	complement(191873..192301)	ndk; nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-phosphodiesterase
+wgl:WIGMOR_0180	CDS	complement(192458..192826)	rplQ; 50S ribosomal subunit protein L17
+wgl:WIGMOR_0181	CDS	complement(192855..193835)	rpoA; RNA polymerase, alpha subunit
+wgl:WIGMOR_0182	CDS	complement(193863..194483)	rpsD; 30S ribosomal subunit protein S4
+wgl:WIGMOR_0183	CDS	complement(194520..194915)	rpsK; 30S ribosomal subunit protein S11
+wgl:WIGMOR_0184	CDS	complement(194933..195289)	rpsM; 30S ribosomal subunit protein S13
+wgl:WIGMOR_0185	CDS	complement(195390..195506)	rpmJ; 50S ribosomal subunit protein L36
+wgl:WIGMOR_0186	CDS	complement(195519..196868)	secY; preprotein translocase membrane subunit
+wgl:WIGMOR_0187	CDS	complement(196861..197295)	rplO; 50S ribosomal subunit protein L15
+wgl:WIGMOR_0188	CDS	complement(197298..197477)	rpmD; 50S ribosomal subunit protein L30
+wgl:WIGMOR_0189	CDS	complement(197474..197986)	rpsE; 30S ribosomal subunit protein S5
+wgl:WIGMOR_0190	CDS	complement(198003..198356)	rplR; 50S ribosomal subunit protein L18
+wgl:WIGMOR_0191	CDS	complement(198358..198897)	rplF; 50S ribosomal subunit protein L6
+wgl:WIGMOR_0192	CDS	complement(198911..199303)	rpsH; 30S ribosomal subunit protein S8
+wgl:WIGMOR_0193	CDS	complement(199327..199632)	rpsN; 30S ribosomal subunit protein S14
+wgl:WIGMOR_0194	CDS	complement(199644..200180)	rplE; 50S ribosomal subunit protein L5
+wgl:WIGMOR_0195	CDS	complement(200195..200509)	rplX; 50S ribosomal subunit protein L24
+wgl:WIGMOR_0196	CDS	complement(200531..200902)	rplN; 50S ribosomal subunit protein L14
+wgl:WIGMOR_0197	CDS	complement(200975..201229)	rpsQ; 30S ribosomal subunit protein S17
+wgl:WIGMOR_0198	CDS	complement(201232..201426)	rpmC; 50S ribosomal subunit protein L29
+wgl:WIGMOR_0199	CDS	complement(201426..201836)	rplP; 50S ribosomal subunit protein L16
+wgl:WIGMOR_0200	CDS	complement(201850..202551)	rpsC; 30S ribosomal subunit protein S3
+wgl:WIGMOR_0201	CDS	complement(202564..202902)	rplV; 50S ribosomal subunit protein L22
+wgl:WIGMOR_0202	CDS	complement(202913..203191)	rpsS; 30S ribosomal subunit protein S19
+wgl:WIGMOR_0203	CDS	complement(203208..204038)	rplB; 50S ribosomal subunit protein L2
+wgl:WIGMOR_0204	CDS	complement(204054..204356)	rplW; 50S ribosomal subunit protein L23
+wgl:WIGMOR_0205	CDS	complement(204353..204958)	rplD; 50S ribosomal subunit protein L4
+wgl:WIGMOR_0206	CDS	complement(204976..205632)	rplC; 50S ribosomal subunit protein L3
+wgl:WIGMOR_0207	CDS	complement(205666..205977)	rpsJ; 30S ribosomal subunit protein S10
+wgl:WIGMOR_0208	CDS	206605..207036	rhodanese-like domain protein
+wgl:WIGMOR_0209	CDS	207062..207304	grxC; glutaredoxin 3
+wgl:WIGMOR_0210	CDS	207485..208486	gpsA; glycerol-3-phosphate dehydrogenase
+wgl:WIGMOR_0211	CDS	complement(208551..209525)	cpxA; two-component regulatory system sensory histidine kinase
+wgl:WIGMOR_0212	CDS	complement(209874..210569)	cpxR; two-component regulatory system DNA-binding response regulator
+wgl:WIGMOR_0213	CDS	complement(210814..211386)	dcd; 2'-deoxycytidine 5'-triphosphate deaminase
+wgl:WIGMOR_0214	CDS	211612..213270	metG; methionyl-tRNA synthetase
+wgl:WIGMOR_0215	CDS	complement(213958..214890)	rluD; 23S rRNA pseudouridine synthase
+wgl:WIGMOR_0216	CDS	214973..215644	putative lipoprotein precursor
+wgl:WIGMOR_0217	CDS	215722..216066	ftsB; cell division protein
+wgl:WIGMOR_0218	CDS	216075..216776	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+wgl:WIGMOR_0219	CDS	216779..217258	ispF; 2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+wgl:WIGMOR_0220	CDS	complement(217424..218077)	yccA; inner membrane protein
+wgl:WIGMOR_0221	tRNA	218234..218320	tRNA-Ser
+wgl:WIGMOR_0222	CDS	complement(218376..219341)	hemH; ferrochelatase
+wgl:WIGMOR_0223	CDS	complement(219366..220007)	adk; adenylate kinase
+wgl:WIGMOR_0224	CDS	complement(220051..221964)	htpG; molecular chaperone HSP90 family
+wgl:WIGMOR_0225	CDS	complement(222081..222407)	ybaB; DNA-binding protein
+wgl:WIGMOR_0226	CDS	complement(222716..223807)	DNA polymerase III gamma and tau subunits
+wgl:WIGMOR_0227	CDS	224256..224459	hha; hemolysin expression modulating protein
+wgl:WIGMOR_0679	ncRNA	complement(224500..224596)	ffs; 4.5S RNA
+wgl:WIGMOR_0228	CDS	complement(224616..228833)	rpoC; RNA polymerase, beta prime subunit
+wgl:WIGMOR_0229	CDS	complement(228876..232907)	rpoB; RNA polymerase, beta subunit
+wgl:WIGMOR_0230	CDS	complement(233139..233510)	rplL; 50S ribosomal subunit protein L7/L12
+wgl:WIGMOR_0231	CDS	complement(233549..234046)	rplJ; 50S ribosomal subunit protein L10
+wgl:WIGMOR_0232	CDS	complement(234238..234942)	rplA; 50S ribosomal subunit protein L1
+wgl:WIGMOR_0233	CDS	complement(234944..235372)	rplK; 50S ribosomal subunit protein L11
+wgl:WIGMOR_0234	CDS	complement(235416..235961)	nusG; transcription termination factor
+wgl:WIGMOR_0235	CDS	complement(235963..236346)	secE; preprotein translocase membrane subunit
+wgl:WIGMOR_0236	CDS	complement(236374..237558)	translation elongation factor Tu
+wgl:WIGMOR_0237	tRNA	complement(237720..237796)	tRNA-Thr
+wgl:WIGMOR_0238	tRNA	complement(237804..237874)	tRNA-Gly
+wgl:WIGMOR_0239	tRNA	complement(237961..238043)	tRNA-Tyr
+wgl:WIGMOR_0240	tRNA	complement(238055..238127)	tRNA-Thr
+wgl:WIGMOR_0241	CDS	238352..239170	coaA; pantothenate kinase
+wgl:WIGMOR_0242	CDS	complement(239280..240071)	birA; biotin-[acetylCoA carboxylase] holoenzyme synthetase/DNA-binding transcriptional repressor
+wgl:WIGMOR_0243	CDS	complement(240068..240970)	murB; FAD-binding UDP-N-acetylenolpyruvoylglucosamine reductase
+wgl:WIGMOR_0244	CDS	241429..243015	purH; phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+wgl:WIGMOR_0245	CDS	243031..244332	purD; phosphoribosylglycinamide synthetase phosphoribosylamine-glycine ligase
+wgl:WIGMOR_0246	CDS	complement(244410..244682)	hupA; HU, DNA-binding transcriptional regulator, alpha subunit
+wgl:WIGMOR_0247	CDS	complement(245052..246125)	hemE; uroporphyrinogen decarboxylase
+wgl:WIGMOR_0248	CDS	246427..248298	thiC; thiamin (pyrimidine moiety) biosynthesis protein
+wgl:WIGMOR_0249	CDS	248288..248926	thiE; thiamin phosphate synthase (thiamin phosphate pyrophosphorylase)
+wgl:WIGMOR_0250	gene	248964..249713	thiF; pseudogene
+wgl:WIGMOR_0251	CDS	249726..249926	thiS; sulfur carrier protein
+wgl:WIGMOR_0252	CDS	249927..250691	thiG; thiamin biosynthesis ThiGH complex subunit
+wgl:WIGMOR_0253	CDS	250700..251818	thiH; thiamin biosynthesis ThiGH complex subunit
+wgl:WIGMOR_0254	CDS	complement(252013..252330)	hspQ; hemimethylated DNA-binding protein
+wgl:WIGMOR_0255	CDS	252888..253544	rpiA; ribose 5-phosphate isomerase
+wgl:WIGMOR_0256	CDS	253694..254950	glyA; serine hydroxymethyltransferase
+wgl:WIGMOR_0257	CDS	complement(254998..255507)	ssb; ssDNA-binding protein
+wgl:WIGMOR_0258	CDS	complement(255572..256966)	dnaB; replicative DNA helicase
+wgl:WIGMOR_0259	CDS	complement(257084..257815)	plsC; 1-acyl-sn-glycerol-3-phosphate acyltransferase
+wgl:WIGMOR_0260	CDS	complement(257936..258796)	aroE; NAD(P)-binding dehydroshikimate reductase
+wgl:WIGMOR_0261	CDS	complement(258777..259337)	yrdC; putative ribosome maturation factor
+wgl:WIGMOR_0262	CDS	259703..260158	def; peptide deformylase
+wgl:WIGMOR_0263	CDS	260217..261176	fmt; 10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase
+wgl:WIGMOR_0264	CDS	261244..262623	trkA; NAD-binding component of TrK potassium transporter
+wgl:WIGMOR_0265	CDS	complement(262620..263936)	sdaC; putative serine transporter
+wgl:WIGMOR_0266	CDS	complement(264108..265067)	trxB; FAD/NAD(P)-binding thioredoxin reductase
+wgl:WIGMOR_0267	gene	265551..265948	ftsK; pseudogene
+wgl:WIGMOR_0268	CDS	266164..266796	lolA; periplasmic lipoprotein chaperone
+wgl:WIGMOR_0269	CDS	266862..268151	serS; seryl-tRNA synthetase
+wgl:WIGMOR_0270	CDS	complement(269123..269722)	ahpC; alkyl hydroperoxide reductase, C22 subunit
+wgl:WIGMOR_0271	CDS	269973..271061	serC; 3-phosphoserine/phosphohydroxythreonine aminotransferase
+wgl:WIGMOR_0272	CDS	271100..272383	aroA; 3-phosphoshikimate 1-carboxyvinyltransferase
+wgl:WIGMOR_0273	CDS	272431..273135	cmk; cytidylate kinase
+wgl:WIGMOR_0274	CDS	273200..274873	rpsA; 30S ribosomal subunit protein S1
+wgl:WIGMOR_0275	CDS	275003..276739	surface antigen
+wgl:WIGMOR_0276	CDS	276745..279978	putative exported protein
+wgl:WIGMOR_0277	CDS	complement(280036..280575)	ppa; inorganic pyrophosphatase
+wgl:WIGMOR_0278	CDS	complement(280656..281663)	fbp; fructose-1,6-bisphosphatase I
+wgl:WIGMOR_0279	CDS	complement(282147..283130)	ispB; octaprenyl diphosphate synthase
+wgl:WIGMOR_0280	CDS	283276..283587	rplU; 50S ribosomal subunit protein L21
+wgl:WIGMOR_0281	CDS	283599..283856	rpmA; 50S ribosomal subunit protein L27
+wgl:WIGMOR_0282	CDS	283957..284973	obgE; DNA repair and cell partioning GTPase
+wgl:WIGMOR_0283	CDS	285038..286216	ubiF; 2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase
+wgl:WIGMOR_0284	gene	complement(286221..287023)	bacA; pseudogene
+wgl:WIGMOR_0285	CDS	complement(287053..287415)	folB; dihydroneopterin aldolase/dihydroneopterin triphosphate 2'-epimerase
+wgl:WIGMOR_0286	CDS	complement(287439..288449)	ygjD; putative peptidase
+wgl:WIGMOR_0287	CDS	288643..288858	rpsU; 30S ribosomal subunit protein S21
+wgl:WIGMOR_0288	CDS	288909..290657	dnaG; DNA primase
+wgl:WIGMOR_0289	CDS	290757..292577	rpoD; RNA polymerase, sigma 70 (sigma D) factor
+wgl:WIGMOR_0290	tRNA	292649..292721	tRNA-Met
+wgl:WIGMOR_0291	CDS	complement(292784..293596)	hypothetical protein
+wgl:WIGMOR_0292	CDS	complement(294749..295222)	pgpA; phosphatidylglycerophosphatase A
+wgl:WIGMOR_0293	CDS	complement(295365..296231)	thiL; thiamin-monophosphate kinase
+wgl:WIGMOR_0294	CDS	complement(296238..296453)	transcription termination protein
+wgl:WIGMOR_0295	CDS	complement(296524..296655)	NusB family protein
+wgl:WIGMOR_0296	CDS	complement(296674..297138)	ribE; riboflavin synthase beta chain
+wgl:WIGMOR_0297	CDS	complement(297184..298326)	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino) uracil reductase
+wgl:WIGMOR_0298	CDS	complement(298688..299617)	pyrB; aspartate carbamoyltransferase, catalytic subunit
+wgl:WIGMOR_0299	CDS	complement(299681..302326)	valS; valyl-tRNA synthetase
+wgl:WIGMOR_0300	CDS	complement(302491..304014)	pepA; aminopeptidase A
+wgl:WIGMOR_0301	CDS	304193..305266	putative membrane protein
+wgl:WIGMOR_0302	CDS	305278..306348	yjgQ; conserved inner membrane protein
+wgl:WIGMOR_0303	CDS	complement(306354..307034)	bioD; dethiobiotin synthetase
+wgl:WIGMOR_0304	CDS	complement(307027..307815)	bioC; malonyl-CoA methyltransferase
+wgl:WIGMOR_0305	CDS	complement(307781..308995)	bioF; 8-amino-7-oxononanoate synthase
+wgl:WIGMOR_0306	CDS	complement(308946..309947)	bioB; biotin synthase
+wgl:WIGMOR_0307	CDS	310046..311344	bioA; adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+wgl:WIGMOR_0308	CDS	complement(311493..312068)	yraP; putative phospholipid-binding protein
+wgl:WIGMOR_0309	CDS	312267..313121	yraL; putative methyltransferase
+wgl:WIGMOR_0310	ncRNA	313158..313495	RNase P, RNA component
+wgl:WIGMOR_0311	CDS	313651..314445	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase
+wgl:WIGMOR_0312	CDS	314460..315332	panC; pantothenate synthetase
+wgl:WIGMOR_0313	CDS	315630..315965	ybeY; uncharacterized UPF0054 family protein
+wgl:WIGMOR_0314	CDS	316012..317532	lnt; apolipoprotein N-acyltransferase
+wgl:WIGMOR_0315	CDS	complement(317541..320102)	gyrA; DNA gyrase (type II topoisomerase), subunit A
+wgl:WIGMOR_0316	CDS	320261..320962	ubiG; bifunctional 3-demethylubiquinone-9 3-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase
+wgl:WIGMOR_0317	CDS	complement(320965..322062)	asd; NAD(P)-binding aspartate-semialdehyde dehydrogenase
+wgl:WIGMOR_0318	CDS	322150..322746	yhgN; putative antibiotic transporter
+wgl:WIGMOR_0319	CDS	complement(322761..324206)	lysS; lysine tRNA synthetase
+wgl:WIGMOR_0320	CDS	complement(324316..325167)	prfB; peptide chain release factor RF-2
+wgl:WIGMOR_0321	gene	complement(325436..327170)	recJ; pseudogene
+wgl:WIGMOR_0322	CDS	complement(327353..327628)	ygfY; uncharacterized DUF339 family protein
+wgl:WIGMOR_0323	CDS	327763..328707	putative aminomethyltransferase
+wgl:WIGMOR_0324	CDS	complement(328687..329430)	pfs; 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+wgl:WIGMOR_0325	tRNA	complement(329608..329695)	tRNA-Ser
+wgl:WIGMOR_0326	CDS	329934..331703	ligA; DNA ligase, NAD(+)-dependent
+wgl:WIGMOR_0327	CDS	331989..335933	putA; transcriptional repressor/proline dehydrogenase/delta-1-pyrroline-5-carboxylate dehydrogenase
+wgl:WIGMOR_0328	CDS	complement(336041..336370)	zapA; protein that localizes to the cytokinetic ring
+wgl:WIGMOR_0329	CDS	336535..337845	pepP; proline aminopeptidase P II
+wgl:WIGMOR_0330	CDS	337842..339029	ubiH; FAD/NAD(P)-binding 2-octaprenyl-6-methoxyphenol hydroxylase
+wgl:WIGMOR_0331	CDS	339557..340204	yqjA; conserved inner membrane protein
+wgl:WIGMOR_0332	CDS	complement(340223..340792)	orn; oligoribonuclease
+wgl:WIGMOR_0333	CDS	341113..341988	psd; phosphatidylserine decarboxylase
+wgl:WIGMOR_0334	CDS	341951..345268	yjeP; putative mechanosensitive channel
+wgl:WIGMOR_0335	CDS	complement(345297..346034)	poxA; putative lysyl-tRNA synthetase
+wgl:WIGMOR_0336	CDS	complement(346375..346896)	fldA; flavodoxin 1
+wgl:WIGMOR_0337	CDS	347123..348739	pgm; phosphoglucomutase
+wgl:WIGMOR_0338	CDS	348770..349528	ybgI; metal-binding predicted hydrolase-oxidase
+wgl:WIGMOR_0339	CDS	349980..350360	sdhC; cytochrome b556-binding succinate dehydrogenase membrane subunit
+wgl:WIGMOR_0340	CDS	350354..350695	sdhD; cytochrome b556-binding succinate dehydrogenase membrane subunit
+wgl:WIGMOR_0341	CDS	350706..352472	sdhA; succinate dehydrogenase flavoprotein subunit
+wgl:WIGMOR_0342	CDS	352474..353211	sdhB; succinate dehydrogenase FeS subunit
+wgl:WIGMOR_0343	CDS	353294..356068	sucA; thiamin-requiring 2-oxoglutarate decarboxylase
+wgl:WIGMOR_0344	CDS	356075..357310	sucB; dihydrolipoyltranssuccinase
+wgl:WIGMOR_0345	CDS	357374..358561	sucC; succinyl-CoA synthetase, beta subunit
+wgl:WIGMOR_0346	CDS	358542..359426	sucD; succinyl-CoA synthetase, NAD(P)-binding, alpha subunit
+wgl:WIGMOR_0347	CDS	359699..360376	tolQ; TolAQR complex membrane spanning protein
+wgl:WIGMOR_0348	CDS	360399..360821	tolR; TolAQR complex membrane spanning protein
+wgl:WIGMOR_0349	CDS	360872..361624	TolA family protein
+wgl:WIGMOR_0350	CDS	361734..363041	tolB; periplasmic protein
+wgl:WIGMOR_0351	CDS	363081..363596	pal; peptidoglycan-associated outer membrane lipoprotein
+wgl:WIGMOR_0352	CDS	363778..364377	ybgF; SecB-dependent secretory protein
+wgl:WIGMOR_0353	tRNA	364434..364506	tRNA-Lys
+wgl:WIGMOR_0354	CDS	364633..365547	prmB; ribosomal protein L3 N5-glutamine methyltransferase
+wgl:WIGMOR_0355	CDS	365588..366643	aroC; chorismate synthase
+wgl:WIGMOR_0356	CDS	366781..367995	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I
+wgl:WIGMOR_0357	CDS	368824..369249	MarR family transcriptional regulator
+wgl:WIGMOR_0358	CDS	369496..370131	gmk; guanylate kinase
+wgl:WIGMOR_0359	CDS	370180..370377	rpoZ; RNA polymerase, omega subunit
+wgl:WIGMOR_0360	CDS	complement(370432..370599)	rpmG; 50S ribosomal subunit protein L33
+wgl:WIGMOR_0361	CDS	complement(370575..370829)	rpmB; 50S ribosomal subunit protein L28
+wgl:WIGMOR_0362	CDS	371129..372352	dfp; FMN-binding 4'-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase
+wgl:WIGMOR_0363	CDS	372330..372791	dut; deoxyuridinetriphosphatase
+wgl:WIGMOR_0364	CDS	complement(372800..373447)	pyrE; orotate phosphoribosyltransferase
+wgl:WIGMOR_0365	tRNA	complement(373510..373583)	tRNA-Pro
+wgl:WIGMOR_0366	CDS	373682..375169	tilS; tRNA(Ile)-lysidine synthetase
+wgl:WIGMOR_0367	CDS	complement(375187..377235)	prlC; oligopeptidase A
+wgl:WIGMOR_0368	CDS	complement(377345..378013)	marC; putative transporter
+wgl:WIGMOR_0369	tRNA	complement(378795..378867)	tRNA-Phe
+wgl:WIGMOR_0370	CDS	complement(379000..379362)	cutA; copper binding protein
+wgl:WIGMOR_0371	CDS	complement(379430..380866)	aspA; aspartate ammonia-lyase
+wgl:WIGMOR_0372	CDS	complement(381607..382434)	dapD; 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+wgl:WIGMOR_0373	CDS	complement(382474..383250)	map; methionine aminopeptidase
+wgl:WIGMOR_0374	CDS	383504..384217	rpsB; 30S ribosomal subunit protein S2
+wgl:WIGMOR_0375	CDS	384266..385072	tsf; protein chain elongation factor EF-Ts
+wgl:WIGMOR_0376	CDS	385513..386073	frr; ribosome recycling factor
+wgl:WIGMOR_0377	CDS	386161..387390	dxr; 1-deoxy-D-xylulose 5-phosphate reductoisomerase
+wgl:WIGMOR_0378	CDS	387504..388241	ispU; undecaprenyl pyrophosphate synthetase (di-trans,poly-cis-decaprenylcistransferase)
+wgl:WIGMOR_0379	CDS	388458..389129	cdsA; CDP-diglyceride synthase
+wgl:WIGMOR_0380	CDS	389147..390490	rseP; inner membrane zinc RIP metalloprotease
+wgl:WIGMOR_0381	CDS	390521..392938	bamA; outer membrane beta-barrel protein assembly factor
+wgl:WIGMOR_0382	CDS	393009..393512	skp; periplasmic chaperone
+wgl:WIGMOR_0383	CDS	393512..394543	lpxD; UDP-3-O-(3-hydroxymyristoyl)-glucosamine N-acyltransferase
+wgl:WIGMOR_0384	CDS	394653..395120	fabZ; (3R)-hydroxymyristol acyl carrier protein dehydratase
+wgl:WIGMOR_0385	CDS	395113..395901	lpxA; UDP-N-acetylglucosamine acyltransferase
+wgl:WIGMOR_0386	CDS	395902..397056	lpxB; tetraacyldisaccharide-1-P synthase
+wgl:WIGMOR_0387	CDS	397095..400577	dnaE; DNA polymerase III alpha subunit
+wgl:WIGMOR_0388	CDS	400584..401543	accA; acetyl-CoA carboxylase, carboxytransferase, alpha subunit
+wgl:WIGMOR_0389	CDS	401758..403203	cvrA; putative cation/proton antiporter
+wgl:WIGMOR_0390	CDS	complement(403232..404311)	dadX; PLP-binding alanine racemase 2
+wgl:WIGMOR_0391	CDS	404663..405364	minC; cell division inhibitor
+wgl:WIGMOR_0392	CDS	405375..406208	minD; membrane ATPase
+wgl:WIGMOR_0393	CDS	406195..406476	minE; cell division topological specificity factor
+wgl:WIGMOR_0394	CDS	complement(406494..407162)	putative metal-dependent protease molecular chaperone
+wgl:WIGMOR_0395	CDS	complement(407176..407982)	xthA; exonuclease III
+wgl:WIGMOR_0396	CDS	complement(408074..408943)	purU; formyltetrahydrofolate hydrolase
+wgl:WIGMOR_0397	CDS	409317..410207	galU; glucose-1-phosphate uridylyltransferase
+wgl:WIGMOR_0398	CDS	410265..411614	UDP-glucose dehydrogenase
+wgl:WIGMOR_0399	CDS	complement(411890..412300)	hns; global DNA-binding transcriptional dual regulator H-NS
+wgl:WIGMOR_0400	CDS	complement(412792..414264)	cls; cardiolipin synthase 1
+wgl:WIGMOR_0401	CDS	complement(414600..415367)	yciC; putative inner membrane protein
+wgl:WIGMOR_0402	CDS	complement(415591..416370)	yciK; putative oxoacyl-[acyl carrier protein] reductase
+wgl:WIGMOR_0403	CDS	complement(416634..417233)	ribA; GTP cyclohydrolase II
+wgl:WIGMOR_0404	CDS	417746..418480	pyrF; orotidine-5'-phosphate decarboxylase
+wgl:WIGMOR_0405	CDS	complement(418602..419390)	fabI; NADH-dependent enoyl-[acyl-carrier-protein] reductase
+wgl:WIGMOR_0406	CDS	419767..420144	sufA; Fe-S cluster assembly protein
+wgl:WIGMOR_0407	CDS	420159..421634	sufB; component of SufBCD complex
+wgl:WIGMOR_0408	CDS	421684..422412	sufC; Fe-S cluster assembly transport protein
+wgl:WIGMOR_0409	CDS	422405..423688	sufD; component of SufBCD complex
+wgl:WIGMOR_0410	CDS	423685..424917	sufS; PLP-dependent selenocysteine lyase
+wgl:WIGMOR_0411	CDS	424936..425337	sufE; sulfur acceptor protein
+wgl:WIGMOR_0412	CDS	complement(425367..425603)	major outer membrane lipoprotein
+wgl:WIGMOR_0413	CDS	425922..427553	pyrG; CTP synthetase
+wgl:WIGMOR_0414	CDS	427621..428925	eno; enolase
+wgl:WIGMOR_0415	CDS	complement(428946..429896)	ybiS; L,D-transpeptidase
+wgl:WIGMOR_0416	CDS	complement(429945..431030)	ychF; putative GTP-binding protein
+wgl:WIGMOR_0417	CDS	complement(431073..431645)	pth; peptidyl-tRNA hydrolase
+wgl:WIGMOR_0418	CDS	complement(431664..432572)	prsA; phosphoribosylpyrophosphate synthase
+wgl:WIGMOR_0419	CDS	complement(432627..433520)	ispE; 4-diphosphocytidyl-2-C-methylerythritol kinase
+wgl:WIGMOR_0420	gene	complement(433508..434118)	lolB; pseudogene
+wgl:WIGMOR_0421	CDS	434276..435535	hemA; glutamyl tRNA reductase
+wgl:WIGMOR_0422	CDS	435576..436655	prfA; peptide chain release factor RF-1
+wgl:WIGMOR_0423	CDS	436621..437508	prmC; release factors RF-1 and RF-2 N5-glutamine methyltransferase
+wgl:WIGMOR_0424	CDS	437602..438450	kdsA; 3-deoxy-D-manno-octulosonate 8-phosphate synthase
+wgl:WIGMOR_0425	CDS	438497..439300	nadE; NAD synthetase, NH3/glutamine-dependent
+wgl:WIGMOR_0426	CDS	439372..440766	fumC; fumarate hydratase (fumarase C),aerobic Class II
+wgl:WIGMOR_0427	CDS	441006..441560	putative endonuclease
+wgl:WIGMOR_0428	CDS	441600..442235	nth; DNA glycosylase and apyrimidinic (AP) lyase (endonuclease III)
+wgl:WIGMOR_0429	CDS	complement(442232..443521)	tyrS; tyrosyl-tRNA synthetase
+wgl:WIGMOR_0430	CDS	complement(443559..444209)	pdxH; pyridoxine 5'-phosphate oxidase
+wgl:WIGMOR_0431	CDS	complement(444303..444737)	slyA; DNA-binding transcriptional activator
+wgl:WIGMOR_0432	CDS	445197..445853	rnt; ribonuclease T (RNase T)
+wgl:WIGMOR_0433	CDS	complement(445874..446209)	grxD; monothiol glutaredoxin
+wgl:WIGMOR_0434	CDS	complement(446269..446883)	ribC; riboflavin synthase, alpha subunit
+wgl:WIGMOR_0435	tRNA	complement(447015..447089)	tRNA-Val
+wgl:WIGMOR_0436	CDS	447267..448319	purM; phosphoribosylaminoimidazole synthetase
+wgl:WIGMOR_0437	CDS	448581..449480	dapA; dihydrodipicolinate synthase
+wgl:WIGMOR_0438	CDS	449528..450247	purC; phosphoribosylaminoimidazole-succinocarboxamide synthetase
+wgl:WIGMOR_0439	CDS	complement(450290..451546)	murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+wgl:WIGMOR_0440	CDS	complement(451587..451847)	yrbA; putative DNA-binding transcriptional regulator
+wgl:WIGMOR_0441	CDS	452398..453381	kdsD; D-arabinose 5-phosphate isomerase
+wgl:WIGMOR_0442	CDS	complement(453747..454247)	yhbG; putative ATP-binding component of an ABC superfamily transporter
+wgl:WIGMOR_0443	CDS	complement(454501..454977)	YhbN family protein
+wgl:WIGMOR_0444	CDS	complement(454967..455509)	lptC; lipopolysaccharide transport protein
+wgl:WIGMOR_0445	CDS	455733..456026	hypothetical protein
+wgl:WIGMOR_0446	CDS	complement(456100..456966)	nadC; quinolinate phosphoribosyltransferase
+wgl:WIGMOR_0447	CDS	457568..460228	aceE; thiamin-binding pyruvate dehydrogenase, decarboxylase component E1
+wgl:WIGMOR_0448	CDS	460242..461735	aceF; pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2
+wgl:WIGMOR_0449	CDS	461798..463228	lpd; lipoamide dehydrogenase
+wgl:WIGMOR_0450	CDS	complement(463267..464061)	thyA; thymidylate synthetase
+wgl:WIGMOR_0451	CDS	complement(464064..464927)	lgt; phosphatidylglycerol-prolipoprotein diacylglyceryl transferase
+wgl:WIGMOR_0452	CDS	465129..465935	thiD; bifunctional hydroxy-methylpyrimidine kinase/hydroxy-phosphomethylpyrimidine kinase
+wgl:WIGMOR_0453	CDS	complement(465961..466626)	folE; GTP cyclohydrolase I
+wgl:WIGMOR_0454	CDS	complement(466840..467982)	metK; methionine adenosyltransferase 1
+wgl:WIGMOR_0455	CDS	468607..469155	pgsA; phosphatidylglycerophosphate synthetase
+wgl:WIGMOR_0456	tRNA	469222..469293	tRNA-Gly
+wgl:WIGMOR_0457	tRNA	469316..469387	tRNA-Cys
+wgl:WIGMOR_0458	tRNA	469405..469489	tRNA-Leu
+wgl:WIGMOR_0459	CDS	complement(469561..470139)	ubiX; 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+wgl:WIGMOR_0460	CDS	complement(470207..471613)	purF; amidophosphoribosyltransferase
+wgl:WIGMOR_0461	CDS	complement(471646..472134)	cvpA; membrane protein required for colicin V production
+wgl:WIGMOR_0462	CDS	complement(472266..473522)	folC; bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+wgl:WIGMOR_0463	CDS	complement(473554..474417)	accD; acetyl-CoA carboxylase carboxyl transferase, beta subunit
+wgl:WIGMOR_0464	CDS	complement(474530..475342)	truA; tRNA pseudouridine synthase A
+wgl:WIGMOR_0465	CDS	complement(475444..476589)	pdxB; erythronate-4-phosphate dehydrogenase
+wgl:WIGMOR_0466	gene	complement(476775..477122)	nlpD; pseudogene
+wgl:WIGMOR_0467	CDS	complement(477647..478393)	surE; broad specificity 5'(3')-nucleotidase and polyphosphatase
+wgl:WIGMOR_0468	CDS	complement(478442..479512)	fbaA; fructose-bisphosphate aldolase, class II
+wgl:WIGMOR_0469	CDS	complement(479572..480738)	pgk; phosphoglycerate kinase
+wgl:WIGMOR_0470	CDS	481160..481501	trxA; thioredoxin 1
+wgl:WIGMOR_0471	CDS	481758..483017	rho; transcription termination factor
+wgl:WIGMOR_0472	CDS	483084..484235	rffA; dTDP-4-keto-6-deoxy-D-glucose aminotransferase
+wgl:WIGMOR_0473	tRNA	484446..484520	tRNA-Arg
+wgl:WIGMOR_0474	tRNA	484535..484609	tRNA-His
+wgl:WIGMOR_0475	tRNA	484657..484730	tRNA-Pro
+wgl:WIGMOR_0476	CDS	484864..485421	gntY; putative gluconate transport associated protein
+wgl:WIGMOR_0477	CDS	complement(486239..486772)	fabA; beta-hydroxydecanoyl thioester dehydrase
+wgl:WIGMOR_0478	CDS	488041..489966	dnaK; chaperone Hsp70, co-chaperone with DnaJ
+wgl:WIGMOR_0479	CDS	490029..491153	dnaJ; chaperone Hsp40, co-chaperone with DnaK
+wgl:WIGMOR_0480	CDS	491215..492411	nhaA; sodium-proton antiporter
+wgl:WIGMOR_0481	CDS	complement(492414..492686)	rpsT; 30S ribosomal subunit protein S20
+wgl:WIGMOR_0482	CDS	492905..493843	ribF; bifunctional riboflavin kinase/FAD synthetase
+wgl:WIGMOR_0483	CDS	493856..496666	ileS; isoleucyl-tRNA synthetase
+wgl:WIGMOR_0484	CDS	496679..497149	lspA; prolipoprotein signal peptidase (signal peptidase II)
+wgl:WIGMOR_0485	CDS	497218..498156	ispH; 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase, 4Fe-4S protein
+wgl:WIGMOR_0486	CDS	complement(498179..499357)	purT; phosphoribosylglycinamide formyltransferase 2
+wgl:WIGMOR_0487	CDS	499545..500822	waaA; 3-deoxy-D-manno-octulosonic-acid transferase (KDO transferase)
+wgl:WIGMOR_0488	CDS	500905..501390	coaD; phosphopantetheine adenylyltransferase
+wgl:WIGMOR_0489	CDS	complement(501402..503093)	glnS; glutamyl-tRNA synthetase
+wgl:WIGMOR_0490	CDS	complement(503204..503779)	efp; elongation factor EF-P
+wgl:WIGMOR_0491	CDS	503753..504832	yjeK; lysine 2,3-aminomutase
+wgl:WIGMOR_0492	CDS	complement(504829..505494)	putative membrane protein precursor
+wgl:WIGMOR_0493	CDS	complement(505687..506472)	suhB; inositol monophosphatase
+wgl:WIGMOR_0494	CDS	506786..507931	iscS; cysteine desulfurase (tRNA sulfurtransferase), PLP-dependent
+wgl:WIGMOR_0495	gene	508037..508725	ung; pseudogene
+wgl:WIGMOR_0496	CDS	complement(508722..509870)	dapE; N-succinyl-diaminopimelate deacylase
+wgl:WIGMOR_0497	CDS	complement(509921..510691)	yadH; membrane component of an ABC superfamily transporter
+wgl:WIGMOR_0498	CDS	complement(510709..511617)	yadG; putative ATP-binding component of an ABC superfamily transporter
+wgl:WIGMOR_0499	CDS	complement(511833..512048)	rpmE; 50S ribosomal subunit protein L31
+wgl:WIGMOR_0500	gene	512809..513078	ftsN; pseudogene
+wgl:WIGMOR_0501	CDS	513466..514005	hslV; peptidase component of the HslUV protease
+wgl:WIGMOR_0502	CDS	514008..515339	hslU; molecular chaperone and ATPase component of HslUV protease
+wgl:WIGMOR_0503	CDS	complement(515378..516541)	emrD; multidrug efflux system protein
+wgl:WIGMOR_0504	CDS	516762..517514	fpr; ferredoxin-NADP reductase
+wgl:WIGMOR_0505	CDS	517571..518338	tpiA; triosephosphate isomerase
+wgl:WIGMOR_0506	CDS	complement(518333..519280)	corA; magnesium/nickel/cobalt transporter
+wgl:WIGMOR_0507	CDS	complement(520638..521357)	yigB; FMN phosphatase
+wgl:WIGMOR_0508	CDS	complement(521456..522283)	dapF; diaminopimelate epimerase
+wgl:WIGMOR_0509	CDS	complement(522497..523597)	outer membrane protein C
+wgl:WIGMOR_0510	gene	complement(523709..524921)	amiC; pseudogene
+wgl:WIGMOR_0511	CDS	complement(524972..526807)	exodeoxyribonuclease V alpha chain
+wgl:WIGMOR_0512	CDS	complement(526841..530323)	recB; exonuclease V (RecBCD complex), beta subunit
+wgl:WIGMOR_0513	CDS	complement(530384..533683)	exodeoxyribonuclease V gamma chain
+wgl:WIGMOR_0514	CDS	complement(533764..534249)	folK; 2-amino-4-hydroxy-6-hydroxymethyldihyropteridine pyrophosphokinase
+wgl:WIGMOR_0515	CDS	complement(534896..536293)	asnS; asparaginyl tRNA synthetase
+wgl:WIGMOR_0516	CDS	536810..537157	rpsF; 30S ribosomal subunit protein S6
+wgl:WIGMOR_0517	CDS	537322..537552	rpsR; 30S ribosomal subunit protein S18
+wgl:WIGMOR_0518	CDS	537592..538044	rplI; 50S ribosomal subunit protein L9
+wgl:WIGMOR_0519	CDS	538349..538597	hypothetical protein
+wgl:WIGMOR_0520	CDS	539006..539299	groS; Cpn10 chaperonin GroES, small subunit of GroESL
+wgl:WIGMOR_0521	CDS	539345..540985	groL; Cpn60 chaperonin GroEL, large subunit of GroESL
+wgl:WIGMOR_0522	CDS	541168..541794	dsbA; periplasmic protein disulfide isomerase I
+wgl:WIGMOR_0523	CDS	541850..542671	DNA polymerase I
+wgl:WIGMOR_0524	CDS	complement(542797..543138)	yajC; SecYEG protein translocase auxillary subunit
+wgl:WIGMOR_0525	CDS	543537..545282	msbA; membrane component of an ABC superfamily lipid transporter
+wgl:WIGMOR_0526	gene	545248..546331	lpxK; pseudogene
+wgl:WIGMOR_0527	CDS	546362..546526	ycaR; Trm112p family protein
+wgl:WIGMOR_0528	CDS	546543..547277	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase
+wgl:WIGMOR_0529	CDS	complement(547301..547645)	rplS; 50S ribosomal subunit protein L19
+wgl:WIGMOR_0530	CDS	complement(547642..548400)	trmD; tRNA (guanine-1-)-methyltransferase
+wgl:WIGMOR_0531	CDS	complement(548405..548947)	rimM; 16S rRNA processing protein
+wgl:WIGMOR_0532	CDS	complement(548957..549199)	rpsP; 30S ribosomal subunit protein S16
+wgl:WIGMOR_0533	CDS	complement(549266..550630)	ffh; Signal Recognition Particle (SRP) component with 4.5S RNA (ffs)
+wgl:WIGMOR_0534	CDS	complement(550667..552187)	gshA; gamma-glutamate-cysteine ligase
+wgl:WIGMOR_0535	CDS	complement(552493..553581)	purK; N5-carboxyaminoimidazole ribonucleotide synthase
+wgl:WIGMOR_0536	CDS	complement(553578..554078)	purE; N5-carboxyaminoimidazole ribonucleotide mutase
+wgl:WIGMOR_0537	CDS	complement(554184..554933)	lpxH; UDP-2,3-diacylglucosamine pyrophosphatase
+wgl:WIGMOR_0538	CDS	555066..556469	cysS; cysteinyl-tRNA synthetase
+wgl:WIGMOR_0539	CDS	complement(556486..557352)	folD; bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase
+wgl:WIGMOR_0540	tRNA	557502..557575	tRNA-Arg
+wgl:WIGMOR_0541	CDS	complement(557737..558486)	hemD; uroporphyrinogen III synthase
+wgl:WIGMOR_0542	CDS	complement(558489..559412)	hemC; hydroxymethylbilane synthase
+wgl:WIGMOR_0543	CDS	complement(559658..559876)	infA; translation initiation factor IF-1
+wgl:WIGMOR_0544	CDS	complement(560036..561280)	cca; tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'-nucleotidase/phosphatase
+wgl:WIGMOR_0545	CDS	561860..562504	ribB; 3,4-dihydroxy-2-butanone-4-phosphate synthase
+wgl:WIGMOR_0546	CDS	complement(562605..563654)	aroF; 3-deoxy-D-arabino-heptulosonate-7-phosphate synthase
+wgl:WIGMOR_0547	CDS	563890..564891	recA; DNA strand exchange/recombination protease/nuclease
+wgl:WIGMOR_0548	CDS	564930..567545	alaS; alanyl-tRNA synthetase
+wgl:WIGMOR_0549	tRNA	567585..567672	tRNA-Ser
+wgl:WIGMOR_0550	tRNA	567680..567753	tRNA-Arg
+wgl:WIGMOR_0551	CDS	568045..568521	greA; transcription elongation factor
+wgl:WIGMOR_0552	CDS	568641..569252	rrmJ; 23 S rRNA methyltransferase
+wgl:WIGMOR_0553	CDS	569296..571215	ftsH; subunit of integral membrane ATP-dependent zinc metallopeptidase
+wgl:WIGMOR_0554	CDS	571236..572078	folP; 7,8-dihydropteroate synthase
+wgl:WIGMOR_0555	CDS	572065..573405	glmM; phosphoglucosamine mutase
+wgl:WIGMOR_0556	CDS	573455..573742	secG; preprotein translocase membrane subunit
+wgl:WIGMOR_0557	tRNA	573796..573877	tRNA-Leu
+wgl:WIGMOR_0558	tRNA	573933..574009	tRNA-Met
+wgl:WIGMOR_0559	CDS	574206..575690	nusA; transcription termination/antitermination L factor
+wgl:WIGMOR_0560	CDS	575715..578297	infB; translation initiation factor IF2
+wgl:WIGMOR_0561	CDS	578339..578692	rbfA; 30s ribosome binding factor
+wgl:WIGMOR_0562	CDS	578710..579636	truB; tRNA U55 pseudouridine synthase
+wgl:WIGMOR_0563	CDS	579738..580010	rpsO; 30S ribosomal subunit protein S15
+wgl:WIGMOR_0564	CDS	580114..582201	pnp; polynucleotide phosphorylase/polyadenylase
+wgl:WIGMOR_0565	CDS	582324..584069	deaD; ATP-dependent RNA helicase
+wgl:WIGMOR_0566	CDS	584303..586048	mdlA; putative ATP-binding component of multidrug ABC transporter
+wgl:WIGMOR_0567	CDS	586062..587816	mdlB; putative ATP-binding component of multidrug ABC transporter
+wgl:WIGMOR_0568	CDS	complement(587846..588544)	gpmA; phosphoglyceromutase 1
+wgl:WIGMOR_0569	CDS	588796..589893	ddlA; D-alanine-D-alanine ligase A
+wgl:WIGMOR_0570	CDS	complement(589904..590128)	holE; DNA polymerase III, theta subunit
+wgl:WIGMOR_0571	CDS	590196..590690	rsgA; ferritin iron storage protein
+wgl:WIGMOR_0572	CDS	590918..591841	mraW; S-adenosyl-dependent methyltransferase
+wgl:WIGMOR_0573	CDS	592184..593875	ftsI; septal peptidoglycan synthesis transpeptidase (penicillin-binding protein 3)
+wgl:WIGMOR_0574	CDS	593887..595383	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-diaminopimelate ligase
+wgl:WIGMOR_0575	CDS	595380..596765	murF; UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase
+wgl:WIGMOR_0576	CDS	596746..597828	mraY; phospho-N-acetylmuramoyl-pentapeptide transferase
+wgl:WIGMOR_0577	CDS	597836..599152	murD; UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase
+wgl:WIGMOR_0578	CDS	599168..600319	ftsW; cell division membrane protein
+wgl:WIGMOR_0579	CDS	600316..601392	murG; UDP-N-acetylglucosamine:N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+wgl:WIGMOR_0580	CDS	601418..602848	murC; UDP-N-acetylmuramate:L-alanine ligase
+wgl:WIGMOR_0581	CDS	602890..603627	ftsQ; divisome localization and recruitment protein
+wgl:WIGMOR_0582	CDS	603654..604910	ftsA; cell division protein
+wgl:WIGMOR_0583	CDS	604968..606131	ftsZ; GTP-binding tubulin-like cell division protein
+wgl:WIGMOR_0584	CDS	606199..607074	lpxC; UDP-3-O-acyl N-acetylglucosamine deacetylase
+wgl:WIGMOR_0585	CDS	607586..610099	secA; preprotein translocase subunit, ATPase
+wgl:WIGMOR_0586	CDS	complement(610107..610847)	fliA; RNA polymerase, sigma 28 (sigma F) factor
+wgl:WIGMOR_0587	CDS	complement(610983..611411)	acpS; holo-[acyl-carrier-protein] synthase 1
+wgl:WIGMOR_0588	CDS	complement(611408..612142)	pdxJ; pyridoxine 5'-phosphate synthase
+wgl:WIGMOR_0589	CDS	complement(612260..612940)	rnc; RNase III
+wgl:WIGMOR_0590	CDS	complement(613017..613982)	lepB; leader peptidase (signal peptidase I)
+wgl:WIGMOR_0591	CDS	complement(614016..615806)	lepA; GTP-binding membrane protein
+wgl:WIGMOR_0592	CDS	616334..616921	coaE; dephospho-CoA kinase
+wgl:WIGMOR_0593	CDS	617301..618095	cystine-binding protein
+wgl:WIGMOR_0594	CDS	618126..618905	GlnQ family glutamine transport ATP-binding protein
+wgl:WIGMOR_0595	CDS	618916..619644	GltJ family glutamate/aspartate transport system permease protein
+wgl:WIGMOR_0596	CDS	619665..620345	yhdY; membrane component of an ABC superfamily predicted amino-acid transporter
+wgl:WIGMOR_0597	CDS	complement(620355..621332)	hflC; modulator for HflB protease specific for phage lambda cII repressor
+wgl:WIGMOR_0598	CDS	complement(621354..622589)	hflK; modulator for HflB protease specific for phage lambda cII repressor
+wgl:WIGMOR_0599	CDS	complement(623013..623303)	hfq; RNA-binding protein
+wgl:WIGMOR_0600	CDS	complement(623388..624335)	miaA; delta(2)-isopentenylpyrophosphate tRNA-adenosine transferase
+wgl:WIGMOR_0601	CDS	624751..626184	phr; FAD-binding deoxyribodipyrimidine photolyase
+wgl:WIGMOR_0602	CDS	626326..627534	ackA; acetate kinase A and propionate kinase 2
+wgl:WIGMOR_0603	CDS	627570..629696	pta; phosphate acetyltransferase
+wgl:WIGMOR_0604	CDS	629997..631277	purA; adenylosuccinate synthetase
+wgl:WIGMOR_0605	CDS	631622..632374	rlmB; 23S rRNA (Gm2251)-methyltransferase
+wgl:WIGMOR_0606	CDS	632650..632859	cspE; DNA-binding transcriptional repressor
+wgl:WIGMOR_0607	CDS	complement(632963..633895)	lipA; lipoate synthase
+wgl:WIGMOR_0608	CDS	complement(633982..634632)	lipB; lipoyl-protein ligase
+wgl:WIGMOR_0609	CDS	complement(634720..635970)	dacA; D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5)
+wgl:WIGMOR_0610	CDS	complement(635995..637107)	mrdB; cell wall shape-determining protein
+wgl:WIGMOR_0611	CDS	complement(637134..638636)	mrdA; transpeptidase involved in peptidoglycan synthesis (penicillin-binding protein 2)
+wgl:WIGMOR_0612	CDS	complement(639167..639799)	nadD; NAD(P)-dependent nicotinic acid mononucleotide adenylyltransferase
+wgl:WIGMOR_0613	CDS	complement(639753..640838)	DNA polymerase III delta subunit
+wgl:WIGMOR_0614	CDS	complement(640842..641354)	RlpB family protein
+wgl:WIGMOR_0615	CDS	complement(641347..643932)	leuS; leucyl-tRNA synthetase
+wgl:WIGMOR_0616	CDS	644369..645097	rsmE; 16S rRNA methyltransferase
+wgl:WIGMOR_0617	CDS	645119..646069	gshB; glutathione synthetase
+wgl:WIGMOR_0618	CDS	646455..646679	putative Holliday junction resolvase
+wgl:WIGMOR_0619	gene	646755..647377	pseudogene
+wgl:WIGMOR_0620	CDS	complement(647407..649083)	arnT; 4-amino-4-deoxy-L-arabinose transferase
+wgl:WIGMOR_0621	CDS	complement(649076..649972)	pmrJ; putative polymyxin resistance deacetylase
+wgl:WIGMOR_0622	CDS	complement(649985..651943)	arnA; UDP-L-Ara4N formyltransferase/UDP-GlcA C-4'-decarboxylase
+wgl:WIGMOR_0623	CDS	complement(651940..652887)	arnC; undecaprenyl-phosphate 4-amino-4-deoxy-L-arabinose transferase
+wgl:WIGMOR_0624	CDS	653338..654372	nadA; quinolinate synthase, subunit A
+wgl:WIGMOR_0625	CDS	654581..655750	yajR; putative transporter
+wgl:WIGMOR_0626	CDS	655947..656249	bolA; BolA family morphoprotein
+wgl:WIGMOR_0627	CDS	656418..657731	cell division trigger factor
+wgl:WIGMOR_0628	CDS	657851..658435	clpP; ATP-dependent Clp protease proteolytic subunit
+wgl:WIGMOR_0629	CDS	658530..659801	clpX; ATPase and specificity subunit of ClpX-ClpP ATP-dependent serine protease
+wgl:WIGMOR_0630	CDS	659937..662270	lon; DNA-binding ATP-dependent protease La
+wgl:WIGMOR_0631	CDS	662377..664242	PpiD family peptidyl-prolyl cis-trans isomerase
+wgl:WIGMOR_0632	CDS	complement(664246..665121)	cyoE; protoheme IX farnesyltransferase
+wgl:WIGMOR_0633	CDS	complement(665149..665451)	cyoD; cytochrome o ubiquinol oxidase subunit IV
+wgl:WIGMOR_0634	CDS	complement(665448..666068)	cyoC; cytochrome o ubiquinol oxidase subunit III
+wgl:WIGMOR_0635	CDS	complement(666089..668053)	cyoB; cytochrome o ubiquinol oxidase subunit I
+wgl:WIGMOR_0636	CDS	complement(668096..668965)	cyoA; cytochrome o ubiquinol oxidase subunit II
+wgl:WIGMOR_0637	CDS	669301..670185	panE; NADPH-specific 2-dehydropantoate reductase
+wgl:WIGMOR_0638	gene	complement(670200..670466)	thiI; pseudogene
+wgl:WIGMOR_0639	CDS	670777..671679	ispA; geranyltranstransferase
+wgl:WIGMOR_0640	CDS	671698..673581	dxs; 1-deoxyxylulose-5-phosphate synthase
+wgl:WIGMOR_0641	CDS	complement(673603..674970)	degQ; serine endoprotease
+wgl:WIGMOR_0642	CDS	complement(675068..675460)	putative membrane protein
+wgl:WIGMOR_0643	CDS	675839..676699	yhcM; putative nucleoside triphosphate hydrolase
+wgl:WIGMOR_0644	CDS	676833..677258	rplM; 50S ribosomal subunit protein L13
+wgl:WIGMOR_0645	CDS	677276..677665	rpsI; 30S ribosomal subunit protein S9
+wgl:WIGMOR_0646	CDS	677975..678409	tadA; tRNA-specific adenosine deaminase
+wgl:WIGMOR_0647	CDS	678629..682516	purL; phosphoribosylformyl-glycineamide synthetase
+wgl:WIGMOR_0648	CDS	complement(682541..683980)	pykA; pyruvate kinase II
+wgl:WIGMOR_0649	CDS	684369..685925	pitA; phosphate transporter, low-affinity
+wgl:WIGMOR_0650	gene	686182..687548	pseudogene
+wgl:WIGMOR_0651	CDS	complement(687556..688389)	murI; glutamate racemase
+wgl:WIGMOR_0652	tRNA	688627..688709	tRNA-Leu
+wgl:WIGMOR_0653	CDS	complement(688736..689725)	hemB; porphobilinogen synthase
+wgl:WIGMOR_0654	CDS	689950..690960	pyrD; dihydro-orotate oxidase, FMN-linked
+wgl:WIGMOR_0655	CDS	691041..692588	yceN; putative inner membrane protein
+wgl:WIGMOR_0656	CDS	complement(692614..694341)	argS; arginyl-tRNA synthetase
+wgl:WIGMOR_0657	CDS	694587..696950	plsB; glycerol-3-phosphate O-acyltransferase
+wgl:WIGMOR_0658	CDS	complement(696967..697788)	ubiA; p-hydroxybenzoate octaprenyltransferase
+wgl:WIGMOR_0659	CDS	complement(697886..698176)	rplY; 50S ribosomal subunit protein L25
+wgl:WIGMOR_0660	tRNA	complement(698334..698406)	tRNA-Val
+wgl:WIGMOR_0661	CDS	698538..699941	gltX; glutamyl-tRNA synthetase
+wgl:WIGMOR_0662	tRNA	699979..700050	tRNA-Ala
+wgl:WIGMOR_0663	CDS	700075..700725	ycbL; putative metal-binding enzyme
+wgl:WIGMOR_0664	CDS	complement(700733..701923)	aspC; aspartate transaminase
+wgl:WIGMOR_0665	tRNA	complement(702005..702078)	tRNA-Trp
+wgl:WIGMOR_0666	tRNA	complement(702084..702157)	tRNA-Asp
+wgl:WIGMOR_0667	rRNA	complement(702193..702312)	5S ribosomal RNA
+wgl:WIGMOR_0668	rRNA	complement(702344..705265)	23S ribosomal RNA
+wgl:WIGMOR_0669	tRNA	complement(705347..705422)	tRNA-Glu
+wgl:WIGMOR_0670	rRNA	complement(705512..707067)	16S ribosomal RNA
+wgl:WIGMOR_0671	CDS	complement(707299..708861)	mqo; malate dehydrogenase
+wgl:WIGMOR_0672	CDS	709194..710657	guaB; IMP dehydrogenase
+wgl:WIGMOR_0673	CDS	710717..712291	guaA; GMP synthetase (glutamine aminotransferase)
+wgl:WIGMOR_0674	CDS	712378..713238	yicC; YicC family protein
+wgl:WIGMOR_0675	CDS	713450..715315	trkD; potassium transporter
+wgl:WIGMOR_0676	CDS	complement(715325..716302)	nrdF; ferritin-like ribonucleoside-diphosphate reductase 2, beta subunit
+wgl:WIGMOR_0677	CDS	complement(716331..718445)	nrdE; ribonucleoside-diphosphate reductase 2, alpha subunit
+wgl:WIGMOR_0678	CDS	complement(718438..718863)	nrdI; NrdI family ribonucleotide reduction protein
